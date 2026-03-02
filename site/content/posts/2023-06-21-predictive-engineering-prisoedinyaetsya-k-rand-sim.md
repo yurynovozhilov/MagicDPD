@@ -1,0 +1,17 @@
+---
+date: 2023-06-21 15:00:22+00:00
+link_previews:
+- description: Rand Simulation Expands Offering with Ansys LS-Dyna Expertise
+  image: https://content.cdntwrk.com/files/aHViPTEyNzc0NiZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82NDU5NTIxNzBkYmE0LmpwZyZ2ZXJzaW9uPTAwMDAmc2lnPWY3MGJhZTQxZGU4MGVkMTllMjQxNWE4ZjkwNmI2NmY2
+  title: Rand Simulation Expands Offering with Ansys LS-Dyna Expertise
+  url: https://resources.randsim.com/press-releases/rand-simulation-expands-offering-with-ansys-ls-dyna-expertise
+original_url: https://t.me/MagicDPD/2444
+source: tg
+title: Predictive Engineering присоединяется к Rand Simulation
+---
+
+Стало известно, что небольшая, но очень талантливая команда Predictive Engineering,  присоединиться к элитному партнёру Ansys, компании Rand Simulation (Rand SIM). Для тех кто не в теме, Rand SIM - слат в 2022 году партнером года Ansys в Северной Америке.  В пресс-релизе четко прописано, что все это для усиления позиций последнего в области явной динамики и LS-DYNA. 
+
+Очередной пример того, что на рынке все еще очень большой кадровый голод, и что иногда проще поглотить целую компанию ради ее инженерной команды - ведь мгновенно вырастить свой инженерный коллектив вы не сможете. Так делает и Ansys, и его партнеры. Быть квалифицированным инженером очень выгодно. 
+
+https://resources.randsim.com/press-releases/rand-simulation-expands-offering-with-ansys-ls-dyna-expertise

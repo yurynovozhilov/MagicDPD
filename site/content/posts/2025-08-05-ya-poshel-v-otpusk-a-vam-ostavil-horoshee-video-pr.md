@@ -1,0 +1,15 @@
+---
+date: 2025-08-05 15:13:13+00:00
+link_previews:
+- description: '❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papersGuide
+    for using DeepSeek on Lambda:https://docs.lambdalabs.com/education/la...'
+  image: https://i.ytimg.com/vi/4X5T2eeG7iw/maxresdefault.jpg
+  title: The Forgotten Research That Fixed The Worst Physics Bug!
+  url: https://www.youtube.com/watch?v=4X5T2eeG7iw
+original_url: https://t.me/MagicDPD/2999
+source: tg
+title: Я пошел в отпуск, а вам оставил хорошее видео про новый метод взаимодействия
+  час
+---
+
+https://www.youtube.com/watch?v=4X5T2eeG7iw

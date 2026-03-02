@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Posts · MagicDPD Archive</title>
+    <link rel="stylesheet" href="/assets/css/style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <h1 class="site-title"><a href="/">MagicDPD Archive</a></h1>
+        <nav>
+          <a href="/">Главная</a>
+          <a href="/archive/">Архив</a>
+          <a href="/about/">О проекте</a>
+        </nav>
+      </div>
+    </header>
+    <main class="container">
+      
+  
+    <h1>Posts</h1>
+  
+  
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2017-04-19-esche-nemnogo-pro-blochnye-setki/">Еще немного про блочные сетки</a></h2>
+      <p class="post-meta">
+        19.04.2017 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/333" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p><a href="http://www.lstc.com/lspp/content/pages/7/blockm/LS-PrePost_BlockM_User_Guide_090908.pdf">http://www.lstc.com/lspp/content/pages/7/blockm/LS-PrePost_BlockM_User_Guide_090908.pdf</a></p>
+<p>120 страниц комикса-учебного пособия оп работе с блочным сеткогенератором #BlockM в LS-PrePost - специально для #LSDYNA от #LSTC</p>
+<p>Из описания учебного курса #LSPP: &ldquo;Once a user mastered BlockM, there is virtually nothing that he cannot mesh.&rdquo;</p>
+<p>Ленции: <a href="http://www.lstc.com/lspp/content/pages/7/blockm/LS-PrePost_BlockM_User_Guide_090908.pdf">http://www.lstc.com/lspp/content/pages/7/blockm/LS-PrePost_BlockM_User_Guide_090908.pdf</a>
+Упражениня: <a href="http://www.lstc.com/lspp/content/pages/7/blockm/LS-PrePost_BlockM_Examples_090908.pdf">http://www.lstc.com/lspp/content/pages/7/blockm/LS-PrePost_BlockM_Examples_090908.pdf</a></p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2017-04-18-schitaem-armirovanie-pravilnee/">Считаем армирование правильнее</a></h2>
+      <p class="post-meta">
+        18.04.2017 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/332" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p><a href="http://www.feaiej.com/2017/feaiej_q1_2017.pdf">http://www.feaiej.com/2017/feaiej_q1_2017.pdf</a></p>
+<p>На страница 14-18 прилагаемого журнала рассказывается о новом и более правильном/точном способе учета армирования в железобетонных конструкциях при расчете в #LSDYNA. А все благодаря замене старой страшной карты *CONSTRAINED_LAGRANGE_IN_SOLID на новую *CONSTRAINED_BEAM_IN_SOLID.</p>
+<p>Дополнительный бонус - возможность учета скользящей арматуры. А так, изучаем теорию и применяем в деле.
+#concrete #reinforcement</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2017-04-17-gpu-dlya-sypuchih-sred/">GPU для сыпучих сред</a></h2>
+      <p class="post-meta">
+        17.04.2017 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/331" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p><a href="https://www.cadfem-cis.ru/list/article/rocky-nvidia-gpu/">https://www.cadfem-cis.ru/list/article/rocky-nvidia-gpu/</a></p>
+<p>Мы тут #Rocky #DEM тестировали на новых #GPGPU от #NVIDIA - получилось любопытно. Основных мысли три:</p>
+<ul>
+<li>DEM просто создан для #GPU, особенно Rocky</li>
+<li>Новые GPU на базе архитектуры #Pscal в разы уделывают #Kepler</li>
+<li>И да, у нас была внутренняя alpha версия Rocky, на которой удалось проверить работу с несколькими GPU - все работает и хорошо!</li>
+</ul>
+<p><a href="https://www.youtube.com/watch?v=93qJovCA6pI">https://www.youtube.com/watch?v=93qJovCA6pI</a></p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2017-04-16-uchimsya-stroit-blochnuyu-setku/">Учимся строить блочную сетку</a></h2>
+      <p class="post-meta">
+        16.04.2017 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/330" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p><a href="https://www.youtube.com/watch?v=joTej2spPVo">https://www.youtube.com/watch?v=joTej2spPVo</a></p>
+<p>Похоже я начинаю перерастать #ANSYS #Meshing - пора задуматься об великом и ужеасном #ICEM CFD. Его интрфейс сделан хищниками для чужих, но его возможности подкупают: больше всего сейчас мне нужна его блочно-структурированная сетка.</p>
+<p>Давайте вместе попробуем в нем разобраться. Для начала серия усебных видео. <a href="https://www.youtube.com/watch?v=joTej2spPVo">https://www.youtube.com/watch?v=joTej2spPVo</a></p>
+<p><a href="https://www.youtube.com/watch?v=egtU249oejM">https://www.youtube.com/watch?v=egtU249oejM</a>
+<a href="https://www.youtube.com/watch?v=RHqrCYhXPd4">https://www.youtube.com/watch?v=RHqrCYhXPd4</a>
+<a href="https://www.youtube.com/watch?v=m0AEh8yXgJ8">https://www.youtube.com/watch?v=m0AEh8yXgJ8</a></p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2017-04-15-raschet-drobleniya-dem/">Расчет дробления DEM</a></h2>
+      <p class="post-meta">
+        15.04.2017 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/329" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p><a href="http://umit.math.umu.se/project/granureg/">http://umit.math.umu.se/project/granureg/</a></p>
+<p>Пример тестового расчета дробления #NDEM  (nonsmooth discrete element method) выполненный в #AGX Dynamics и #Voro++ специалистами UMIT Research Lab. У них, между прочим, очень интересный сайт (<a href="http://umit.math.umu.se/project/granureg/">http://umit.math.umu.se/project/granureg/</a>) с еще одним #DEM кодом #GranuX.</p>
+<p><a href="https://www.youtube.com/watch?v=vAyMeuLii2g">https://www.youtube.com/watch?v=vAyMeuLii2g</a>
+<a href="https://www.youtube.com/watch?v=lSHx1UI_hnA">https://www.youtube.com/watch?v=lSHx1UI_hnA</a></p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2017-04-13-sohranyaysya-doi-posle/">Сохраняйся до/и после</a></h2>
+      <p class="post-meta">
+        13.04.2017 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/328" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Как много раз вы запускали расчет, а потом ловили себя на мысли, что как-то давно вы не сохранялись - и расчет остановить жалко, и не сохраниться опасно. Глубоко в настройках #</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2017-04-12-cfd-na-noutbuke/">CFD на ноутбуке</a></h2>
+      <p class="post-meta">
+        12.04.2017 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/327" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p><a href="http://www.hanleyinnovations.com/stallion3d.html">http://www.hanleyinnovations.com/stallion3d.html</a></p>
+<p>Компания #HANLEY INNOVATIONS основанная Патриком Хейли (Dr. Patrick E. Hanley) разарабатывает и продает #CFD код #Stallion 3D, основным посылом которого является возможность выполнить полноценный расчет пнямо на ноутбуке - никаких кластеров больше не надо :-). Stallion сам сгенерирует сетку не упрощая геометрию и быстро выдаст ответ. И даже есть несколько ферификационных тестов, показывающих, что программа считает правильно.</p>
+<p><a href="https://www.youtube.com/watch?v=sWJEh0dj0io">https://www.youtube.com/watch?v=sWJEh0dj0io</a></p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2017-04-11-boltovye-soedineniya-v-ls-dyna/">Болтовые соединения в LS-DYNA</a></h2>
+      <p class="post-meta">
+        11.04.2017 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/326" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p><a href="http://www.protection-consultants.com/tech-notes/bolted-connection-modeling-ls-dyna-large-vehicle-models/">http://www.protection-consultants.com/tech-notes/bolted-connection-modeling-ls-dyna-large-vehicle-models/</a></p>
+<p>Большая и хорошая методическая публикация на тему моделирования болтовых соединений в #LSDYNA от компании #Protection #Engineering</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2017-04-10-proektirovanie-iz-kompozitov/">Проектирование из композитов</a></h2>
+      <p class="post-meta">
+        10.04.2017 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/325" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p><a href="http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/14480/How-to-Design-the-Lightest-Possible-Bike-And-Still-Sleep-at-Night.aspx">http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/14480/How-to-Design-the-Lightest-Possible-Bike-And-Still-Sleep-at-Night.aspx</a></p>
+<p>Обзорная статья, как большие вендоры композитные велосипеды проектируют. Большие это:</p>
+<ul>
+<li>#Dassault Systèmes</li>
+<li>#ANSYS</li>
+<li>#Altair</li>
+<li>#Siemens</li>
+</ul>
+<p>Много ссылок на софт и на названия технологий. Лично мне больше всего нравятся два решения: #ACCS от #LMAT для #ANSYS и #XFEM для композитов от #Abaqus. Остальное все примерно одинаково.
+#Composites</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2017-04-07-strizhem-travu/">Стрижем траву</a></h2>
+      <p class="post-meta">
+        07.04.2017 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/324" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p><a href="https://t.co/2ixUZ7Rm93">https://t.co/2ixUZ7Rm93</a></p>
+<p>В рубрике #SimulationFriday расчет подстригаемого газона в #DEM постановке при помощи #ThreeParticle</p>
+<p><a href="https://twitter.com/BECKER_3D_GmbH/status/850310329909129216">https://twitter.com/BECKER_3D_GmbH/status/850310329909129216</a></p></p>
+    </article>
+  
+  <div class="pagination">
+    
+    <ul class="pagination pagination-default">
+      <li class="page-item">
+        <a href="/posts/" aria-label="First" class="page-link" role="button"><span aria-hidden="true">&laquo;&laquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/210/" aria-label="Previous" class="page-link" role="button"><span aria-hidden="true">&laquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/209/" aria-label="Page 209" class="page-link" role="button">209</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/210/" aria-label="Page 210" class="page-link" role="button">210</a>
+      </li>
+      <li class="page-item active">
+        <a aria-current="page" aria-label="Page 211" class="page-link" role="button">211</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/212/" aria-label="Page 212" class="page-link" role="button">212</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/213/" aria-label="Page 213" class="page-link" role="button">213</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/212/" aria-label="Next" class="page-link" role="button"><span aria-hidden="true">&raquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/242/" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
+      </li>
+    </ul>
+  </div>
+
+    </main>
+    <footer class="site-footer">
+      <div class="container">
+        <p>&copy; 2026 MagicDPD. Powered by Hugo.</p>
+      </div>
+    </footer>
+  </body>
+</html>

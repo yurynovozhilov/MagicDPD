@@ -1,0 +1,33 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install python-frontmatter requests)",
+      "Bash(/Users/GlukRazor/MagicDPD/venv/bin/pip install python-frontmatter requests)",
+      "Bash(/Users/GlukRazor/MagicDPD/venv/bin/pip install --no-user python-frontmatter requests)",
+      "Bash(hugo build)",
+      "Bash(python generate_site_from_unified.py)",
+      "Bash(npm run setup)",
+      "Bash(node run.js \":*)",
+      "Bash(node run.js /tmp/playwright-test-titles.js)",
+      "Bash(git add generate_site_from_unified.py site/content/posts/)",
+      "Bash(git push origin main)",
+      "Bash(hugo server --disableFastRender --bind 0.0.0.0 --port 1313 -b http://localhost:1313/)",
+      "Bash(node run.js /tmp/playwright-test-archive.js)",
+      "Bash(git add site/hugo.toml site/layouts/archive/archive.html site/public/archive/index.html site/public/index.html site/public/index.json site/public/index.xml)",
+      "Bash(git add site/public/page/ site/public/posts/ site/public/404.html site/public/about/)",
+      "Bash(git commit:*)",
+      "Bash(git add site/assets/css/search.css site/assets/js/search.js site/content/_index.md site/content/search/_index.md site/hugo.toml site/layouts/index.json site/layouts/partials/search-widget.html site/layouts/search/list.html)",
+      "Bash(bash /Users/GlukRazor/MagicDPD/stop.sh)",
+      "Bash(pgrep -a hugo)",
+      "Bash(gh run list --limit 10)",
+      "Bash(gh run view 22593507102 --log-failed)",
+      "Bash(gh api repos/GlukRazor/MagicDPD/pages)",
+      "Bash(gh api repos/GlukRazor/MagicDPD --jq '.html_url, .visibility, .has_pages')",
+      "Bash(gh repo view)"
+    ],
+    "additionalDirectories": [
+      "/tmp",
+      "/private/tmp"
+    ]
+  }
+}

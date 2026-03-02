@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Posts · MagicDPD Archive</title>
+    <link rel="stylesheet" href="/assets/css/style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <h1 class="site-title"><a href="/">MagicDPD Archive</a></h1>
+        <nav>
+          <a href="/">Главная</a>
+          <a href="/archive/">Архив</a>
+          <a href="/about/">О проекте</a>
+        </nav>
+      </div>
+    </header>
+    <main class="container">
+      
+  
+    <h1>Posts</h1>
+  
+  
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2019-06-10-raschety-v-ls-dyna-na-klasterah-windows-hpc-cluste/">Расчеты в LS-DYNA на кластерах Windows HPC Cluster</a></h2>
+      <p class="post-meta">
+        10.06.2019 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1502" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>DYNAmore выпустили инструкцию по настройке и работе распределённого решетеля LS-DYNA на кластерах под управлением MS Windows HPC Pack 2016. Инструкция полезная, но на самом деле вам достаточно знать следующий набор команд:</p>
+<p>SET LSTC_MEMORY=auto
+job submit /jobname: /numcores: /workdir:  mpiexec -np   i= jobid=</p>
+<p>Ну а если вы используете лицензии ANSYS LS-DYNA, то в начало надо добавить еще такое:</p>
+<p>set LSTC_LICENSE=ANSYS
+set ANSYSLMD_LICENSE_FILE=1055@
+set ANSYSLI_SERVERS=2325@</p>
+<p>Исходный документ тут: <a href="https://project.dynamore.se/public/windowscluster12">https://project.dynamore.se/public/windowscluster12</a></p>
+<p>#HPC #LS_DYNA #MPI #Windows</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2019-06-08-onshape-na-develop3d-live-2019/">Onshape на DEVELOP3D LIVE 2019</a></h2>
+      <p class="post-meta">
+        08.06.2019 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1501" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Jon Hirschtick из Onshape рассказывает о вещах, которым компания научилась за годы (точнее 7 миллионов часов использования) работы как облачная CAD платформа. На самом деле, Джон говорит очень правильные вещи: использование их облачной платформы действительно избавляет компании от огромного количества ограничений, связанных с хранением данных, синхронизацией версий и поддержкой аппаратного обеспечения. Жаль, что действительно сильных CAE систем, работающих так же как Onshape пока нет.</p>
+<p>А еще, надо отдавать себе отчет, что такая штука как Onshape (как и любой облачный сервис) является очень удобным местом для атаки: стоит облаку перестать работать для вас по техническим или политическим причинам — весь конструкторский отдел превращается в тыкву. К сожалению, что бы пользоваться подобным сервисом без опаски, надо жить с ним в одной геополитической юрисдикции.</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2019-06-07-verifikatsionnyy-otchet-po-abaqus-v-stroitelstve/">Верификационный отчет по Abaqus в строительстве</a></h2>
+      <p class="post-meta">
+        07.06.2019 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1500" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Подробный отчет по верификации Abaqus для решения задач строительной механики, подготовленный для Российской академии архитектуры и строительных наук (РААСН). Это, конечно, не верификация для атомки, но тоже неплохо. Отчет подготовлен в 2013 году под руководством профессора Александра Михайловича Белостоцкого (Генеральный директор НИЦ СтаДиО) и высокий класс работы виден сразу.</p>
+<p>В отчете вы найдете очень много собранной в одном месте и качественно переведенной теории по работе МКЭ и заложенных в Abaqus моделях материалов (и про бетон конечно есть рассказ). Есть как полезные для строителей верификационные задачи, так и задачи общего характера. Так что данный отчет вполне может стать настольной книгой для всех пользователей Abaqus, тем более, что в сумме 4 тома отчета занимают более 600 станиц A4.</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2019-06-06-izogeometricheskiy-analiz-ot-coreform/">Изогеометрический анализ от Coreform</a></h2>
+      <p class="post-meta">
+        06.06.2019 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1499" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Занимательное выступление Coreform на мероприятии DEVELOP3D Live 2019. Коллеги немного пафосно рассказывают про то, как изогеометрические решатели сейчас всех победят. Изогеометрические (IGA, Iso-Geometric Analisys) — это которые используют не классическую сетку, а сразу NURBS поверхности, взятые из CAD модели. Но не все так просто, как рассказывают коллеги. IGA — штука не новая, этому направлению моделирования уже второй десяток лет, есть оно напримр и в моей любимой LS-DYNA. Но пока ему далеко до традиционного FEM. Действительно, результаты при таком расчете оказываются очень гладкими и красивыми, но не обошлось без засад. И первая засада, это необходимость переписывать модели материалов под работу с новым способом дискретизации. Например в LS-DYNA за все это время переписали моделей 5 из почти 300. Далее, на самом деле IGA намного более ресурсоемкая штука. Даже на презентации это было косвенно отмечено: x500 ускорение при x50 меньшей модели — это x10 больше вычислений на один элемент. И если для «обычных задач» можно обойтись малым числом элементов, то для задач, связанных с пассивной безопастностью и разрушением, сетки FEM и IGA должны быть сопоставимы.</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2019-06-05-pashem-v-rocky-dem/">Пашем в Rocky DEM</a></h2>
+      <p class="post-meta">
+        05.06.2019 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1498" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Пока «обычные» DEM коды показывают пример с шариками, Rocky DEM играет по-серьезному. Тут у нас моделирование процесса возделывания почвы: частицы сложной формы (возможно и с учетом упругих свойств частиц), твердотельный решатель для моделирования обрабатывающего инструмента.</p>
+<p>#DEM #Rocky</p>
+<p><a href="https://wp.me/p9vWYY-2xC">https://wp.me/p9vWYY-2xC</a></p>
+<p>by Юрий Новожилов</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2019-06-04-obuchenie-modelirovaniyu-vzryvov-v-ls-dyna/">Обучение моделированию взрывов в LS-DYNA</a></h2>
+      <p class="post-meta">
+        04.06.2019 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1497" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>С 3 по 5 февраля следующего года группа специалистов по LS-DYNA из Cловении проведёт трехдневный курс по моделированию взрывов в LS-DYNA. Один из лекторов — Jovan Trajkovski, известный популяризатор LS-DYNA с канала «Trajkovski feasolution» (<a href="http://feasolution.blogspot.com">http://feasolution.blogspot.com</a>).</p>
+<p>В рамках курса вас научат моделировать взрывы эмпирически, через MM-ALE и SPH, расскажут теоретические основы. Стоимость курса €570 без НДС, но с питанием в ходе курсов. Регистрация на курс закрывается 31 октября 2019 года.</p>
+<p>#blast #LS_DYNA #Trajkovski</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2019-06-03-vystuplenie-ntopology-na-develop3d-live-2019/">Выступление nTopology на DEVELOP3D LIVE 2019</a></h2>
+      <p class="post-meta">
+        03.06.2019 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1496" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>nTopology рассказали, в чем основная фишка их системы проектирования. В отличие от традиционного для CAD представления через границы геометрии (B-rep), коллеги используют неявное представление объема через уравнения его формы.</p>
+<p>Даже не верится, что такую сложную геометрию можно представить в виде одного уравнения, описывающего его объем. В качестве бонуса коллеги получают модель, которая не может сломаться из-за одного неправильно заданного скругления.</p>
+<p>А еще «толщина» и количество материала может быть задано через описание некого потенциала влияния. Этот подход может, например, автоматически извлекать гладкую геометрию из результатов топологической оптимизации.</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2019-06-02-ansys-mechanical-2019-r2-chast-3/">ANSYS Mechanical 2019 R2: часть 3</a></h2>
+      <p class="post-meta">
+        02.06.2019 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1495" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Третья часть обзора ANSYS Mechanical 2019 R2. Сегодня у нас новые «граничные условия» и новые настройки контактов, улучшения в области постпроцессинга, импорт композитных моделей из Abaqus и тепла из NASTRAN.</p>
+<p><a href="https://wp.me/p9vWYY-2xO">https://wp.me/p9vWYY-2xO</a></p>
+<p>by Юрий Новожилов</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2019-06-01-ansys-mechanical-2019-r2-chast-2/">ANSYS Mechanical 2019 R2: часть 2</a></h2>
+      <p class="post-meta">
+        01.06.2019 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1494" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Вторая часть видео по обновлениям ANSYS Mechanical 2019 R2. Тут у нас улучшения в области аддитивного производства: развитие Additive Wizard, импорт геометрии поддержек нулевой толщины и, наконец, вышедшая из beta Level Set оптимизация топологии. А еще ANSYS продолжает наращивать свои возможности по NVH и акустике.</p>
+<p>#ANSYS #Mechanical</p>
+<p><a href="https://wp.me/p9vWYY-2xI">https://wp.me/p9vWYY-2xI</a></p>
+<p>by Юрий Новожилов</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2019-05-31-ansys-mechanical-2019-r2-chast-1/">ANSYS Mechanical 2019 R2: часть 1</a></h2>
+      <p class="post-meta">
+        31.05.2019 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1493" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Встречаем новый релиз ANSYS! Наконец-то ANSYS Mechanical получил новый ленточный GUI! А с ним и обновленный процесс присвоения свойств материалов. И, конечно, прямо там доступна вся база материалов от Granta. Подтянулась и кастомизация: появилось автодополнение APDL кода при работе с командными вставками и возможность быстрого создания своих кнопок в GUI.</p>
+<p>Если говорить за физику, то теперь можно задавать несколько SMART трещин (раньше была только одна). Кроме того, из Beta вышел SpaceClaim Meshing. А основной сеточный генератор научился на лету склеивать оболочечные и балочные тела прямо в процессе построения сетки (это когда модель собрана с зазорами).</p></p>
+    </article>
+  
+  <div class="pagination">
+    
+    <ul class="pagination pagination-default">
+      <li class="page-item">
+        <a href="/posts/" aria-label="First" class="page-link" role="button"><span aria-hidden="true">&laquo;&laquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/129/" aria-label="Previous" class="page-link" role="button"><span aria-hidden="true">&laquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/128/" aria-label="Page 128" class="page-link" role="button">128</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/129/" aria-label="Page 129" class="page-link" role="button">129</a>
+      </li>
+      <li class="page-item active">
+        <a aria-current="page" aria-label="Page 130" class="page-link" role="button">130</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/131/" aria-label="Page 131" class="page-link" role="button">131</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/132/" aria-label="Page 132" class="page-link" role="button">132</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/131/" aria-label="Next" class="page-link" role="button"><span aria-hidden="true">&raquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/242/" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
+      </li>
+    </ul>
+  </div>
+
+    </main>
+    <footer class="site-footer">
+      <div class="container">
+        <p>&copy; 2026 MagicDPD. Powered by Hugo.</p>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,29 @@
+---
+date: 2023-06-16 15:00:29+00:00
+link_previews:
+- description: Meet Hans - our new human model!Looking back on its many years of experience
+    in the field of human modeling, DYNAmore started to develop its own new human
+    mo...
+  image: https://i.ytimg.com/vi/nwvpIDgRbew/maxresdefault.jpg
+  title: 'This is Hans: Infoday Human Modeling'
+  url: https://www.youtube.com/watch?v=nwvpIDgRbew
+original_url: https://t.me/MagicDPD/2441
+source: tg
+title: 'This is Hans: Infoday Human Modeling'
+---
+
+Запись бесплатного информационного дня "Моделирование человека", проведенного 3 мая в Штутгарте компанией DYNAmore
+
+00:00:00 Трейлер
+00:00:47 Приветствие (М. Шенке, DYNAmore, Ansys Company)
+00:09:45 Краткая историческая справка и обзор современных моделей (Карин Бролин, Lightness by Design)
+00:32:38 Это HANS (А. Громер, DYNAmore an Ansys Company)
+01:23:39 Травмы шеи и эффективность защиты шейных позвонков при авариях с переворачиванием в картинге (В. Вэй, Университет Гюстава Эйфеля)
+01:51:46 Достижения и проблемы при внедрении расширенного материала типа Hill в конечно-элементные модели человеческого тела (П. Лерге, Университет Штутгарта)
+02:27:50 In Silico Orthopedics - биомеханическое проектирование изделий (О. Авчи, Fraunhofer IPA)
+03:01:34 Различные применения моделей человеческого тела и перспективы на будущее (Карин Бролин, Lightness by Design)
+03:46:30 Пролиферация и атрофия клеток метастатического рака легких в тканях мозга и дальнейшее биомеханическое применение (Вольфганг Элерс, Университет Штутгарта)
+04:18:20 HANS - перспективы и дальнейшие шаги (Д. Фрессманн, DYNAmore, Ansys Company)
+04:36:44 Обсуждение и прощание (М. Шенке, DYNAmore, Ansys Company)
+
+https://www.youtube.com/watch?v=nwvpIDgRbew

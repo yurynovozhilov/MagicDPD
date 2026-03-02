@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Куча лекций вокруг прикладной механики"
+date: 2024-07-02T12:02:28+00:00
+author: "Yury Novozhilov"
+source: vk
+original_url: https://vk.com/wall-97265142_2740
+images:
+  - url: "/assets/images/2740.jpg"
+---
+
+Clayton Pettit, младший преподаватель в University of Alberta, что в Канаде, выкладывает на свое канале лекции по темам, как например, Engineering Statics, Solid Mechanics, Finite Element Method. Просвещаемся и практикуем английский.
+
+https://youtube.com/@claytonpettit?si=ZGXrYj_A_l5IfR-P

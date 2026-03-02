@@ -1,0 +1,16 @@
+{{ with .preview }}
+<a class="link-preview__card" href="{{ .url }}" target="_blank" rel="noopener noreferrer">
+  {{ with .image }}
+  <span class="link-preview__thumb-wrap">
+    <img class="link-preview__thumb" src="{{ . }}" loading="lazy" alt="">
+  </span>
+  {{ end }}
+  <span class="link-preview__body">
+    <span class="link-preview__title">{{ .title }}</span>
+    {{ with .description }}
+    <span class="link-preview__description">{{ . }}</span>
+    {{ end }}
+    <span class="link-preview__host">{{ (urls.Parse .url).Host }}</span>
+  </span>
+</a>
+{{ end }}

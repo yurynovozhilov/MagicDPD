@@ -1,0 +1,31 @@
+---
+date: 2019-03-21 17:00:17+00:00
+images:
+- url: /assets/images/1408.jpg
+link_previews:
+- description: Is there a future for meshless methods in mainstream analysis?.
+  image: https://www.digitalengineering247.com/images/article/Figure_1_stress_check_max_prin_stress_600.jpg
+  title: Meshless FEA Opportunities - Digital Engineering 24/7
+  url: https://www.digitalengineering247.com/article/meshless-fea-opportunities
+original_url: https://t.me/MagicDPD/1408
+source: tg
+title: Неклассические CAE методы для задач прочности
+---
+
+Интересная обзорная статья, рассказывающая о том, что ждет FEA эксперта за пределами FEA мира и куда пытаются двигаться современные численные методы.
+
+
+
+Хотя изначально в статье хотят рассказать про бессеточные методы, ни одного по-настоящему полностью бессеточного метода в ней нет. Есть следующее:
+
+
+
+P-element Methods — когда элеметны меняют парадок функции формы для обеспечения сходимости (такое есть в  ESRD StressCheck)Element Free Galerkin Method — бессеточыне метод галеркина, используемый в LS-DYNA. НА самом сетка в методе есть, просто работает немного не так, как мы привыклиSIMSOLID и его собственный метод дискретизации, когда каждый геометрический примитив — это конечный элементVolumetric Meshing — что то похожее я видет в midas MeshFreeANSYS Discovery Live — вообще непонятно как сюда попал, ведь там сеточный алгоритм, но весь в GPU
+
+
+
+Исходная статья: https://www.digitalengineering247.com/article/meshless-fea-opportunities
+
+
+
+От себя замечу, что за

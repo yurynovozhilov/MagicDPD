@@ -1,0 +1,28 @@
+---
+date: 2021-03-19 13:01:41+00:00
+link_previews:
+- description: 'Speaker: Maik Schenke (DYNAmore GmbH)The analysis of large deformations
+    in solid structures often require special numerical techniques to overcome the
+    limita...'
+  image: https://i.ytimg.com/vi/pwdoZfi9OBA/maxresdefault.jpg
+  title: 'DYNAmore Express: Beyond FEA - Smoothed Particle Hydrodynamics (SPH)'
+  url: https://www.youtube.com/watch?v=pwdoZfi9OBA&t=1624s
+- description: ''
+  image: ''
+  title: URL Shortener, Branded Short Links & Analytics | TinyURL
+  url: https://tinyurl.com/yg2pg8ls
+original_url: https://t.me/MagicDPD/1927
+source: tg
+title: SPH в LS-DYNA - обзорный доклад DYNAmore
+---
+
+https://www.youtube.com/watch?v=pwdoZfi9OBA&t=1624s
+
+
+
+
+Обзорный интересный доклад о применении гидродинамики сглаженных частиц в LS-DYNA. Есть слайды про основные формулировки, реализованных в решателе: несколько вариантов эйлеровой формулировки, лагранжева постановка, SPH с адаптивным (деформируемым) ядром (ASPH, Adaptive SPH), SPH с неявной схемой интегрирования (ISPH) и устойчивый к растяжению SPH со сглаживанием методом наименьших квадратов в скользящем окне (MLS, Moving least-squares).
+
+#asph #dynamore #isph #ls-dyna #mls #sph
+https://tinyurl.com/yg2pg8ls
+by GlukRazor

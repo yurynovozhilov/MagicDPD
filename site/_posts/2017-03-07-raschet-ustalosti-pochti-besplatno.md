@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Расчет усталости (почти) бесплатно"
+date: 2017-03-07T17:03:19+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_291
+tags:
+  - Fatlab
+  - Matlab
+  - opensource
+  - ANSYS
+---
+
+http://fatiguetoolbox.org/
+
+#Fatlab -  бесплатный софт для расчета усталостной прочности и долговечности с открытым исходным кодом. Написан на основе #Matlab, а модели получает из #ANSYS.

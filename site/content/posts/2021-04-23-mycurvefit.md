@@ -1,0 +1,28 @@
+---
+date: 2021-04-23 13:02:46+00:00
+link_previews:
+- description: I want you to at least know about this free tool available on the internet
+    that lets you perform very fancy and advanced curve fitting without much to do.
+    Th...
+  image: https://i.ytimg.com/vi/xKkw1h6tkXI/maxresdefault.jpg
+  title: A New Great Tool for Curve Fitting
+  url: https://www.youtube.com/watch?v=xKkw1h6tkXI
+- description: ''
+  image: ''
+  title: URL Shortener, Branded Short Links & Analytics | TinyURL
+  url: https://tinyurl.com/yg64z45n
+original_url: https://t.me/MagicDPD/1948
+source: tg
+title: MyCurveFit
+---
+
+https://www.youtube.com/watch?v=xKkw1h6tkXI
+
+
+
+
+Совершенно случайно увидел в одном из видео такой замечательный инструмент, как mycurvefit.com - веб приложение, которое позволяет вам натянуть на ваши данные аппроксимационные аналитические функции по вашему выбору. Тут как бы дальше полезность уже сложно переоценить. 
+
+
+https://tinyurl.com/yg64z45n
+by GlukRazor

@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Posts · MagicDPD Archive</title>
+    <link rel="stylesheet" href="/assets/css/style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <h1 class="site-title"><a href="/">MagicDPD Archive</a></h1>
+        <nav>
+          <a href="/">Главная</a>
+          <a href="/archive/">Архив</a>
+          <a href="/about/">О проекте</a>
+        </nav>
+      </div>
+    </header>
+    <main class="container">
+      
+  
+    <h1>Posts</h1>
+  
+  
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-07-04-dorozhnaya-bezopasnost/">Дорожная безопасность</a></h2>
+      <p class="post-meta">
+        04.07.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/992" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Пример от LURI Engineering по моделированию удара тяжелого копотного тягача с полуприцепом в разделительный барьер</p>
+<p>Модель является доработкой стандартных моделей грузовиков от NCAC</p>
+<p>#Crash #LSDYNA #LURIEngineering #NCAC
+<a href="http://bit.ly/2NpLMGD">http://bit.ly/2NpLMGD</a></p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hodu/">Как корректно остановить решатель на ходу</a></h2>
+      <p class="post-meta">
+        03.07.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/990" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Есть очень часто встречающаяся задача - запуск решателя в консольном/пакетном режиме для выполнения расчета на рабочей станции или кластере. С этой задачей сталкиваются многие опытные инженеры. Как запускать консольные расчеты хорошо описано в документации, много рассказано на форумах.
+Однако мало кто знает, что практически любой решатель, работающий в фоне, можно корректно остановить с запуском точки рестарта/чекпоинта. Как правило, необходимо создать особый файл в особом месте. Когда решатель его обнаружит, он сам все поймет. Особый файл будет удалён сразу после его обработки. Давайте посмотрим, как это сделать для основных решателей ANSYS.
+Mechanical/APDL:
+В рабочей директории решателя надо создать файл с именем jobname.abt, где jobname - имя проекта. Файл должен содержать только одно слово: nonlinear
+Fluent:
+Для записи файла рестарта (а это просто обычный набор из cas и dat) необходимо создать файл check-fluent в директории /tmp для Linux или check-fluent.txt в директории C:\temp для Windows. Корректно завершить решатель можно, создав в этих директориях файл exit-fluent или exit-fluent.txt соответсвенно.
+CFX:
+C этим решателем все сильно проще. У него есть специальный исполняемый файл cfx5stop, предназначенный для корректной остановки расчета. Таким образом, для проекта mixer_001, достаточно выполнить команду cfx5stop -directory mixer_001.dir в его рабочей директории - там mixer_001.dir будет являться временной рабочей директорией.
+LS-DYNA:
+У этого решателя есть такая штука как SWITCH CONTROLS - в ходе расчета вы можете нажать комбинацию клавиш Control+C и ввести определнный код. Вот те ключевые коды, которые относятся к нашей теме:
+sw1 - записать файл рестарта
+sw2 - вывести оценку оставшегося времени расчета
+sw3 - записать файл рестарта
+Если консоль вам недоступна (расчет идет в фоне), то необходимо создать в рабочей директории решателя файл d3kil (или jobid.d3kil, если вы используете идентификаторы расчетного проекта), содержащий соответсвующий код.
+Autodyn
+Для этого решателя надо создать файл savenow.dat для записи файла рестарта в конце текущей итерации, а файл endbat.dat завершит расчет после окончания текущей итерации.
+Решатели семейства AEDT (ANSYS Electronics Desktop) - бывший Ansoft
+Знающие люди подсказали, что решатели можно спокойно убивать на лету - они сами смогут рестартовать остановленный таким образом расчет с последней записанной итерации.
+ANSYS Workbench
+Если вы пользуетесь ANSYS RSM, то там для всех поддерживаемых решателей уже есть стандартная кнопка Interrupt, которая делает всю вышеописанную магию за вас. Настраивайте RSM и наслаждайтесь :-)</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-07-02-surovaya-rabota-v-compose/">Суровая работа в Compose</a></h2>
+      <p class="post-meta">
+        02.07.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/988" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Серия видеоуроков от Altair по работе в их Integrated Development Environment (IDE) для инженеров - программном обеспечении solidThinking Compose. Это какая-то жесть на мой взгляд: собственное IDE и собственный язык для описания всего - так уже не носят.</p>
+<p>#Altair #Compose #IDE #SolidThinking
+<a href="http://bit.ly/2tVwTTz">http://bit.ly/2tVwTTz</a></p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-07-01-edem-act-dlya-ansys/">EDEM ACT для ANSYS</a></h2>
+      <p class="post-meta">
+        01.07.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/986" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>В магазине ACT расширений ANSYS наконец появилось расширение для интеграции с DEM кодом EDEM. Все бы хорошо, но $6000, Карл! И это только для механики на 1 год. И я не понял: это только за расширение, или EDEM в эту цену тоже входит?
+<a href="https://appstore.ansys.com/shop/ACTApps_act%20apps/EDEMforANSYS_apc-actapp-382">https://appstore.ansys.com/shop/ACTApps_act%20apps/EDEMforANSYS_apc-actapp-382</a></p>
+<p>#ACT #ANSYS #DEM #EDEM #Mechanical
+<a href="http://bit.ly/2MCI4YV">http://bit.ly/2MCI4YV</a></p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-06-30-modelirovanie-posloynogo-sinteza-v-simufact/">Моделирование послойного синтеза в Simufact</a></h2>
+      <p class="post-meta">
+        30.06.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/984" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>MSC всерьез взялись за маркетинг. В сети появляется большое количество видео с использованием Simufact Welding. Примечательно в работе моделирующего ПО два момента:</p>
+<p>Насколько можно видеть, алгоритм может работать на &ldquo;обычных&rdquo; hex-сетках, тогда как у коллег по отрасли обычно используется декартовы (cartesian) сетки. Хотя для расчета остаточных напряжений и деформаций это не сильно важно.
+Если верить визуализации, то слой материала напыляется не целиком за раз, а постепенно. Этот интересный подход, по-хорошему, должен требовать дополнительных данных от печатающей машины - нужен шаблон движения сканирующего луча. Ну и сетка нужна мелкая.</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-06-29-uchebnye-video-ot-algoryx/">Учебные видео от Algoryx</a></h2>
+      <p class="post-meta">
+        29.06.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/982" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Коллеги выложили на своем канале серию коротких видеоуроков по работе в их RBD системе Momentum. Рассмотрен широкий круг вопросов:</p>
+<p>Загрузка расширения  Momentum в SpaceClaim и экспорт моделей
+Визулизация результатов
+Настройка коэффициентов трения
+Определение шарниров
+Скрипты на Python (куда же сейчас без этого)
+Визуализация реакций в контактах
+Моделирование кабелей и гибких систем</p>
+<p>Всего должно быть 7 учебных видео. Если вы не видите их все, то надо перейти по ссылке в блог. И да, в коментариях на YouTubе есть ссылки на скачивание всех используемых моделей.</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-06-28-raschet-vozdeystviya-udarnoy-volny-po-conwep/">Расчет воздействия ударной волны по ConWep</a></h2>
+      <p class="post-meta">
+        28.06.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/980" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Пример расчета от компании Predictive Engineering. Как обычно качественное оформление и красивая задача.</p>
+<p>#Blast #ConWep #LSDYNA #PredictiveEngineering
+<a href="http://bit.ly/2MxFCmG">http://bit.ly/2MxFCmG</a></p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-06-27-civilfem-190-for-ansys-190/">CivilFEM 19.0 for ANSYS 19.0</a></h2>
+      <p class="post-meta">
+        27.06.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/978" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Видео по установке CivilFEM под ANSYS. И тут сразу два примечательных момента:</p>
+<p>CivilFEM вышел для версии 19.0 (опазадли всего на пол года, а не на год, как раньше)
+У CivilFEM теперь тоже есть студенческая бесплатная версия!</p>
+<p>#ANSYS #CivilFEM #Mechanical
+<a href="http://bit.ly/2tx4rb0">http://bit.ly/2tx4rb0</a></p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-06-26-materialy-15-oy-konferentsii-ls-dyna/">Материалы 15-ой конференции LS-DYNA</a></h2>
+      <p class="post-meta">
+        26.06.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/976" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Стали доступны материалы конференции, проведенной две недели назад  в Детройте, США. Это значит, что в свободный доступ попал большой массив (182 штуки) свежайших статей от ведущих разработчиков и пользователей LS-DYNA. Спасибо LSTC за такую щедрую политику распространения информации. Если надо объяснять, то не надо объяснять.
+Что я уже успел отметить для себя при беглом просмотре части материалов (все будет позднее подробно рассказано в паблике):</p>
+<p>S-ALE домен научился двигаться за центром тяжести себя самого
+Подробное описание MLS-SPH формулировки, стабильной на растяжение и кручение
+Вычислительно эффективные IGA-элементы
+Обзор работы основных моделей бетонов для SPH
+Аналог *CONSTRAINED_LAGRANGE_IN_SOLID для SPG
+Расчеты динамики парашютов с использованием как ALE-FSI, так и ICFD-FSI</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-06-26-dazhe-na-true-science-conference-nado-vse-horosho/">Даже на true science conference надо все хорошо объяснять! #MagicDPD</a></h2>
+      <p class="post-meta">
+        26.06.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/972" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>via Instagram <a href="https://ift.tt/2yKGqTc">https://ift.tt/2yKGqTc</a></p>
+<p><a href="https://is.gd/KQTZSJ">https://is.gd/KQTZSJ</a></p>
+<p>Даже на true science conference надо все хорошо объяснять! #MagicDPD</p>
+<p>via Instagram <a href="https://ift.tt/2yKGqTc">https://ift.tt/2yKGqTc</a></p>
+<p><a href="http://bit.ly/2MYG7qN">http://bit.ly/2MYG7qN</a></p></p>
+    </article>
+  
+  <div class="pagination">
+    
+    <ul class="pagination pagination-default">
+      <li class="page-item">
+        <a href="/posts/" aria-label="First" class="page-link" role="button"><span aria-hidden="true">&laquo;&laquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/162/" aria-label="Previous" class="page-link" role="button"><span aria-hidden="true">&laquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/161/" aria-label="Page 161" class="page-link" role="button">161</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/162/" aria-label="Page 162" class="page-link" role="button">162</a>
+      </li>
+      <li class="page-item active">
+        <a aria-current="page" aria-label="Page 163" class="page-link" role="button">163</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/164/" aria-label="Page 164" class="page-link" role="button">164</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/165/" aria-label="Page 165" class="page-link" role="button">165</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/164/" aria-label="Next" class="page-link" role="button"><span aria-hidden="true">&raquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/242/" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
+      </li>
+    </ul>
+  </div>
+
+    </main>
+    <footer class="site-footer">
+      <div class="container">
+        <p>&copy; 2026 MagicDPD. Powered by Hugo.</p>
+      </div>
+    </footer>
+  </body>
+</html>

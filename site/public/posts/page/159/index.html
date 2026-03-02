@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Posts · MagicDPD Archive</title>
+    <link rel="stylesheet" href="/assets/css/style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <h1 class="site-title"><a href="/">MagicDPD Archive</a></h1>
+        <nav>
+          <a href="/">Главная</a>
+          <a href="/archive/">Архив</a>
+          <a href="/about/">О проекте</a>
+        </nav>
+      </div>
+    </header>
+    <main class="container">
+      
+  
+    <h1>Posts</h1>
+  
+  
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-08-15-fortran-forever/">Fortran forever</a></h2>
+      <p class="post-meta">
+        15.08.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1070" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Сколько бы мы не говорили про современные языки программирования, но от Fortran отказаться суровым экспертам в CAE пока не получается. Если вы собираетесь писать расширения к таким заслуженным кодам, как ANSYS, LS-DYNA, code_aster, то придется научиться писать на Fortran. Ведь вы же не думаете, что кто-то отважется переписать ядро решателя с 50-летней историей на Python или Go?
+Таким образом, у нас сегодня первая половина курса из 11 видеоуроков по Fortran от основателя портала http://feaforall.com</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-08-14-vklyuchaem-implicit-reshatel-v-workbench-ls-dyna/">Включаем Implicit решатель в Workbench LS-DYNA</a></h2>
+      <p class="post-meta">
+        14.08.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1068" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Если очень надо, то можно и Workbench LS-DYNA  заставить работать в Implicit режиме. При этом выводятся очень симпатичные невязки. Хотя графики на первых порах были бы приятнее.
+Далее код командного объекта, что включает хороший нелинейный расчет. Будьте очень аккуратны при копировании: даже несмотря на freeformat стиль записи, есть вероятность, что web форматирование может повредить командный блок. Лучше сначала проверьте его в LS-PrePost. Командный объект подготвлен на основе материалов ARUP, найденных в сети в 2017 году.</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-08-11-modeliruem-sryv-plameni-v-turbine/">Моделируем срыв пламени в турбине</a></h2>
+      <p class="post-meta">
+        11.08.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1066" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Согласно Википедии, срыв пламени — затухание пламени в камере сгорания, как нарушение работы воздушно-реактивного двигателя; может быть вызвано такими причинами, как: нехватка топлива, нарушение работы компрессора, недостаток кислорода, повреждение инородными телами (например, попадание птиц, града или вулканического пепла), крайне неблагоприятные погодные условия (ветер, влажность, дождь, изморось), усталостные механические повреждения.
+ANSYS в своем блоге опубликовал очень занимательную статью на тему моделирования данного процесса. Тут и исследования работы фарсунок, и моделирование турбулентных течений в нестационарных постановках, и химия. Конечно,  не обошлось без доли магии под названием Flamelet Generated Manifold (FGM). Короче, я поплыл к середине поста. Но если вы в теме, то текст должен зайти на ура.
+Полезные ссылки по теме:
+How to Efficiently Simulate a Gas Turbine Flameout</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-08-10-cfd-toolbox-dlya-matlab/">CFD Toolbox для MATLAB</a></h2>
+      <p class="post-meta">
+        10.08.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1064" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>CFDTool - это специализированное расширение к MATLAB, позволяющее решать задачи вычислительной гидрогазодинамики. Разработано оно командой Precise Simulation, известной по другому похожему проекту - FEATool Multiphysics.
+У расширения есть свой графический интефейс, оно умеет читать CAD геометрию и строить сетки. Правда по расчетным возможностям это пока только стиционарные течения несжимаемых жидкостей и нестационарные задачи тепломассообмена.
+Учебное видео по теме присутствует</p>
+<p>Для работы системе нужен MATLAB R2011b
+Полезные ссылки по теме:
+<a href="https://www.cfdtool.com">https://www.cfdtool.com</a>
+<a href="https://www.mathworks.com/matlabcentral/fileexchange/68411-cfdtool-matlab-cfd-toolbox">https://www.mathworks.com/matlabcentral/fileexchange/68411-cfdtool-matlab-cfd-toolbox</a></p>
+<p>#CFD #CFDTool #FEATool #MATLAB #PreciseSimulation
+<a href="http://bit.ly/2KISLrF">http://bit.ly/2KISLrF</a></p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-08-09-cadfix-12/">CADfix 12</a></h2>
+      <p class="post-meta">
+        09.08.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1062" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>CADfix 12 - это такой геометрический процессор, предназначенный для починки и подготовки геометрии к расчетам. Я им никогда не пользовался, так что читал обзор и мысленно проводил сравнение с моим любимым SpaceClaim. Вот функции, которые мне бы пригодились:</p>
+<p>CAD to CAD differencing - визуализация отличий в геометрических моделях. Вот это иногда очень надо, а не хватает.</p>
+<p>Geometry Morphing - функция морфинга геометрии по данным о деформированной сетке. Может пригодиться, но в ANSYS хватает и обычного морфинга сетки.</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-08-08-chto-mozhet-cray-vmeste-s-lstc/">Что может CRAY вместе с LSTC</a></h2>
+      <p class="post-meta">
+        08.08.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1060" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Стали доступны материалы по результатам совместной работы компаний CRAY, LSTC, NCSA и Rolls-Royce в области высокопроизводительных расчетов применительно к задачам механики. Коллегам удалось посчитать большую и очень большую задачу - на 105M и на 200М степеней свободы. 
+По итогам расчета получилась статья: https://www.cray.com/sites/default/files/Increasing%20the%20Scale%20of%20LS-DYNA%20Implicit%20Analysis.pdf
+Казалось бы, Explicit коды всегда хорошо параллелились. Но инфоповод тут другой - на этот раз LSTC смогли распараллелить Implicit решатель LS-DYNA на тысячи ядер. Причем на глаз, эффективность сохраняется тысяч до 8-ми
+<a href="https://www.cray.com/blog/can-ls-dyna-scale-higher/">https://www.cray.com/blog/can-ls-dyna-scale-higher/</a></p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-08-07-ansys-ekm-novyy-etap-razvitiya/">ANSYS EKM - новый этап развития</a></h2>
+      <p class="post-meta">
+        07.08.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1058" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Коллеги из МСК подготовили шикарное видео, в котором показали очень много всего интересного касательно EKM.</p>
+<p>EKM (Engineering Knowledge Manager) - система класса SDM (Simulation Data Management) от ANSYS. При всех ее достоинствах, у нее до недавнего времени была одна особенность, существенно затруднявшая ее врендрение. А именно: EKM имел жесткую привязку к версии ANSYS, что заставляло обновлять все ПО организации разом. Сейчас, начиная в версии 19.1 (или как она теперь должна называться?), EKM может работать с любой версией решателей ANSYS - ему можно это объяснить.
+Уже предыдущий шаг был очень важен, но коллеги из МСК успели, кроме внедрения новой версии, подтянуть руссификацию интерфейса и подружить систему с неподдерживаемым планировщиком Slurm. Получилось очень достойно!</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-08-06-fotorealistichnyy-krashtest/">Фотореалистичный краштест</a></h2>
+      <p class="post-meta">
+        06.08.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1056" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Dassault Systems хвастаются тем, как затащили в свою платформу 3DEXPERIENCE программное обеспечение 3DXCITE - систему фотореалистичного рендеринга на основе данных CAE расчетов.</p>
+<p>#3DExperience #3DXCITE #DassaultSystemes
+<a href="http://bit.ly/2OKlHTc">http://bit.ly/2OKlHTc</a></p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-08-05-autodesk-netfabb-2019/">Autodesk Netfabb 2019</a></h2>
+      <p class="post-meta">
+        05.08.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1054" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Обновился главный продукт Autodesk в области аддитивных технологий. В Netfabb 2019 добавились продвинутые функции по работе в lattice structure. Это очень здорово выглядит, но пока все направление lattice structure как-то не особо находит себе применение.
+<a href="http://blogs.autodesk.com/netfabb/2018/07/19/whats-new-in-autodesk-netfabb-2019/">http://blogs.autodesk.com/netfabb/2018/07/19/whats-new-in-autodesk-netfabb-2019/</a></p>
+<p>#AdditiveManufacturing #Autodesk #LatticeStructure #Netfabb
+<a href="http://bit.ly/2OLh4Zd">http://bit.ly/2OLh4Zd</a></p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-08-04-elamx/">eLamX²</a></h2>
+      <p class="post-meta">
+        04.08.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1052" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Эта бесплатная кроссплатформенная разработка кафедры авиастроения Технического университета Дрездена позволит существенно упростить будни инженеров, занимающихся расчетами композиционных конструкций.</p>
+<p>При беглом осмотре ПО видно, что оно умеет конструировать мультиаксиальные ткани, рассчитывать эффективные свойства пакетов, проверять устойчивость укладок, считать НДС и даже отображает основные критерии-индикаторы начала разрушения (first ply failure criterion).
+eLamX² в виде препоста сопрягается с LS-DYNA, ANSYS Mechanical, Nastran и Abaqus. Получается что-то вроде ANSYS Composite PrepPost, времен, когда его еще не купил ANSYS, и он был в разработке швейцарской фирмы EVAN.</p></p>
+    </article>
+  
+  <div class="pagination">
+    
+    <ul class="pagination pagination-default">
+      <li class="page-item">
+        <a href="/posts/" aria-label="First" class="page-link" role="button"><span aria-hidden="true">&laquo;&laquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/158/" aria-label="Previous" class="page-link" role="button"><span aria-hidden="true">&laquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/157/" aria-label="Page 157" class="page-link" role="button">157</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/158/" aria-label="Page 158" class="page-link" role="button">158</a>
+      </li>
+      <li class="page-item active">
+        <a aria-current="page" aria-label="Page 159" class="page-link" role="button">159</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/160/" aria-label="Page 160" class="page-link" role="button">160</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/161/" aria-label="Page 161" class="page-link" role="button">161</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/160/" aria-label="Next" class="page-link" role="button"><span aria-hidden="true">&raquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/242/" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
+      </li>
+    </ul>
+  </div>
+
+    </main>
+    <footer class="site-footer">
+      <div class="container">
+        <p>&copy; 2026 MagicDPD. Powered by Hugo.</p>
+      </div>
+    </footer>
+  </body>
+</html>

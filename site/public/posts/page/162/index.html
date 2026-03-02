@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Posts · MagicDPD Archive</title>
+    <link rel="stylesheet" href="/assets/css/style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <h1 class="site-title"><a href="/">MagicDPD Archive</a></h1>
+        <nav>
+          <a href="/">Главная</a>
+          <a href="/archive/">Архив</a>
+          <a href="/about/">О проекте</a>
+        </nav>
+      </div>
+    </header>
+    <main class="container">
+      
+  
+    <h1>Posts</h1>
+  
+  
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-07-14-vebinar-po-signal-processing-ot-dynardo/">Вебинар по Signal Processing от Dynardo</a></h2>
+      <p class="post-meta">
+        14.07.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1012" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Очередной большой вебинар от Dynardo посвящён очень востребованной мной фишке, которую я никак не найду время внедрить. В их системе optiSLang есть такая штука, как Signal Processing. Он может цепляться к расчетным системам ANSYS Workbench, напрямую к LS-DYNA или вообще к любым текстовым файлам.
+Signal Processing позволяет извлекать из текстовых файлов результатов не просто единичные значения, а кривые зависимостей. После этого можно заставить систему провести настройку модели так, чтобы кривая, получаемая в расчете, совпала с заданной точностью с целевой кривой. В английском этот процесс обозначается термином curve fitting.</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-07-13-virtualnaya-aerodinamicheskaya-truba-airshaper/">Виртуальная аэродинамическая труба AirShaper</a></h2>
+      <p class="post-meta">
+        13.07.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1010" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Компания AirShaper предлагает всем желающим произвести испытания их моделей в виртуальной аэродинамической трубе. При этом стоимость расчета начинается всего от 200 евро. Интересно тут пара моментов.
+Для начала, AirShaper - это еще один игрок на рынке CFD в облаке. Однако это не полноценный CFD код как SimScale, а скорее узкозаточенное решение.
+Любопытно, но компанию основал бельгийский инженер-механик (Wouter Remmerie), который 6 лет мучался с всевозможными испытаниями на аэродинамических трубах.</p>
+<p>К сожалению, на сайте сервиса нет никако информации об используемых методиках расчета, зато сам сайт выглядит живым и современным. Еще на сайте есть очень красивые отчеты о выполненых исследованиях. Например вот этот документ: https://airshaper.com/reports/aquilo.pdf</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-07-12-lokalizatsiya-professionalnogo-softa/">Локализация профессионального софта</a></h2>
+      <p class="post-meta">
+        12.07.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1008" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Я очень часто слышу нарекания, почему ANSYS не переводят на русский язык. Это же так классно - всем инженерам сразу станет проще им пользоваться, жизнь обретет новые краски, расчеты начнут сходиться. Хотели - получите. ANSYS Discovery Live, предназначенный для констрУкторов и умеющий считать задачи механики, гидрогазодинамики и теплопроводности/теплообмена в реальном времени на GPU имеет локализованный интерфейс. Но вот только с чего вы взяли, что переводчики правильно переведут инженерные термины?</p>
+<p>Направо пойдешь - верным будешь, налево пойдешь - быстро будет :-)
+Коллеги, если ваша профессия и ваш инструмент требуют от вас знание иностранного языка, то не придумывайте себе отмазок, и начинайте уже его учить. Вам же потом пригодится.</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-07-11-nastroyka-ispolzovaniya-litsenziy-pri-rabote-rsm/">Настройка использования лицензий при работе RSM</a></h2>
+      <p class="post-meta">
+        11.07.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1006" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>ANSYS RSM (Remote Solve Manager) - отличное средство по выполнению расчетов как на кластерах, так и на соседних рабочих станциях коллег, которые ушли в отпуск. Однако его надо уметь готовить.
+Иногда при отсутствии тонкой настройки может сложиться впечатление, что система &ldquo;поджирает&rdquo; лицензии на Mechanical. На самом деле, при выполнении фонового расчета в Mechanical по умолчанию RSM берет сразу 2 лицензии:</p>
+<p>одна лицензия используется для проверки корректности постановки задачи в проекте (в логе сервера лицензий отображается как mech_struct)
+еще одна уходит непосредственно на расчет (в логе сервера лицензий отображается как  ans_solve)</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-07-10-ofitsialnyy-reliz-civilfem-for-ansys-190/">Официальный релиз CivilFEM for ANSYS 19.0</a></h2>
+      <p class="post-meta">
+        10.07.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1004" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Отчасти эта новость уже проскакивала пару недель назад. Однако тогда это была скорее догадка, а теперь - точное утверждение: &ldquo;CivilFEM for ANSYS 19.0 вышел и готов к использованию&rdquo;.
+Вообще CivilFEM - это международно признаваемый стандарт в области расчетов для гражданского строительства и атомной энергетики. Он выполняет расчеты по международным нормам, подбирает арматуру, имеет собственную библиотеку моделей материалов и формулировок конечных элементов. Подробности можно почитать тут. Единственная моя претензия к данному коду - он работает только в старом интерфейсе ANSYS APDL /Prep7 - они никак не соберутся сделать нормальное ACT.
+А вот и неполный список клиентов по всему миру.</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-07-09-custom-key-binding-dlya-ansys/">Custom key binding для ANSYS</a></h2>
+      <p class="post-meta">
+        09.07.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1002" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Горячие клавиши в софте - это хорошо. Это позволяет существенно повысить производительность вашей работы. Это позволяет меньше отвлекаться на мышку и быстрее делать рутинные операции.
+Горячие клавиши есть во многих программных продуктах ANSYS. Ну а если их вам мало, то вы можете бесплатно скачать ACT расширение Hot Keys Customizer, которое позволит вам назначить свои сочетания клавиш на требуемые операции в приложениях интерфейса ANSYS Mechanical.</p>
+<p>Мало того, что расширение распространяется бесплатно, так оно еще имеет в своём составе исходный код - при желании вы можете необратимо его улучшить и обогатить вашими наработками.
+<a href="https://appstore.ansys.com/download?prodid=APC-ACTAPP-362">https://appstore.ansys.com/download?prodid=APC-ACTAPP-362</a></p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-07-08-kak-naschet-prikupit-sebe-nemnogo-cae/">Как насчет прикупить себе немного CAE?</a></h2>
+      <p class="post-meta">
+        08.07.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1000" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Акции наших любимых вендоров CAE софта растут не хуже Apple или Google.</p>
+<p>#ANSYS #Autodesk
+<a href="http://bit.ly/2NzlHFb">http://bit.ly/2NzlHFb</a></p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-07-07-optimizatsiya-dlya-zadach-dinamiki-sypuchih-sred/">Оптимизация для задач динамики сыпучих сред</a></h2>
+      <p class="post-meta">
+        07.07.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/998" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Большой вебинар от Dynardo GmbH по работе Rocky DEM в связке с их знаменитым оптимизатором optiSLang. Коллеги разбирают основные возможности софта и показывают, как строить оптимизационные проекты.</p>
+<p>#DEM #Dynardo #Optimization #OptiSLang #Rocky
+<a href="http://bit.ly/2u1Y5AW">http://bit.ly/2u1Y5AW</a></p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-07-06-avariynaya-posadka-na-mars/">Аварийная посадка на Марс</a></h2>
+      <p class="post-meta">
+        06.07.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/996" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Вышла давно ожидаемая мной статья от Цифры по моделированию падения спускаемого аппарата «Марс-6» на красную планету. Данный проект стал результатом работы одного из выпускников первого набора &ldquo;Школы Дамблдора&rdquo; по направлению LS-DYNA.
+Работа сделана качественно, на КЭ сетках глаз отдыхает, постановки выверены - ничего лишнего. Обидно только, что в рамках возможностей сайта показано от силы 1/10 всех полученных результатов.
+Всем предлагаю пройти по ссылке в конце поста и почитать текст. Ну или хотя бы посмотреть визуализации результатов расчетов</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-07-05-hexalabnet-besplatnyy-servis-otsenki-kachestva-hex/">HexaLab.net - бесплатный сервис оценки качества hex сеток</a></h2>
+      <p class="post-meta">
+        05.07.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/994" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Коллеги из MeshLab представили сервис, позволяющий визуализировать и оценивать hex сетки в форматах .mesh и .vtk прямо в вашем браузере. Мне больше всего в этом сервисе понравилось то, что если у вас нет подходящей сетки, то вы можете выбрать готовые модели из встроенного списка литературы (!!!) - у вас сразу есть куча примеров хороших сеток.</p>
+<p>Сервис довольно приятен по интерфейсу и работает в любом современном браузеле с поддержкой WebGL.</p>
+<p><a href="http://meshlabstuff.blogspot.com/2018/06/hexalabnet-new-online-tool-for.html">http://meshlabstuff.blogspot.com/2018/06/hexalabnet-new-online-tool-for.html</a></p></p>
+    </article>
+  
+  <div class="pagination">
+    
+    <ul class="pagination pagination-default">
+      <li class="page-item">
+        <a href="/posts/" aria-label="First" class="page-link" role="button"><span aria-hidden="true">&laquo;&laquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/161/" aria-label="Previous" class="page-link" role="button"><span aria-hidden="true">&laquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/160/" aria-label="Page 160" class="page-link" role="button">160</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/161/" aria-label="Page 161" class="page-link" role="button">161</a>
+      </li>
+      <li class="page-item active">
+        <a aria-current="page" aria-label="Page 162" class="page-link" role="button">162</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/163/" aria-label="Page 163" class="page-link" role="button">163</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/164/" aria-label="Page 164" class="page-link" role="button">164</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/163/" aria-label="Next" class="page-link" role="button"><span aria-hidden="true">&raquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/242/" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
+      </li>
+    </ul>
+  </div>
+
+    </main>
+    <footer class="site-footer">
+      <div class="container">
+        <p>&copy; 2026 MagicDPD. Powered by Hugo.</p>
+      </div>
+    </footer>
+  </body>
+</html>

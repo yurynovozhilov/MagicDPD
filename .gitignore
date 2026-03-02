@@ -1,0 +1,36 @@
+# Environment variables (contains sensitive tokens)
+.env
+
+# Virtual environment
+venv/
+*.pyc
+__pycache__/
+
+# macOS system files
+.DS_Store
+
+# IDE configuration
+.zencoder/
+.zenflow/
+
+# Downloaded images (too large for git)
+/images/
+/images_wayback/
+*_media/
+
+# Telegram credentials (sessions)
+*.session
+*.session-journal
+
+# Large JSON dumps (optional - uncomment if you want to exclude them)
+# magicdpd_raw_dump.json
+# magicdpd_readable_dump.json
+# wayback_dump.json
+# wayback_cdx_cache.json
+
+# Generated files
+wayback_urls.txt
+wayback_image_urls.txt
+
+# Link preview local cache (данные хранятся в front matter постов, кэш — локально)
+link_previews_cache.json

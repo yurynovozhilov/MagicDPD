@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Мы это сделали!!!"
+date: 2019-04-10T14:13:14+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1440
+tags:
+  - CADFEM
+  - ANSYS
+---
+
+https://magicdpd.ru/wp-content/uploads/2019/04/1080p.mov
+Форум ANSYS 2019 R1 завершен с успехом!
+
+#ANSYS #CADFEM
+
+https://wp.me/p9vWYY-2tv

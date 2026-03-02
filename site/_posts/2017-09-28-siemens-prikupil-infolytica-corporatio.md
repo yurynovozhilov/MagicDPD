@@ -1,0 +1,12 @@
+---
+layout: post
+title: "#Siemens прикупил #Infolytica Corporation (http://ift.tt/2y7"
+date: 2017-09-28T17:04:05+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_522
+---
+
+P.S. Коллеги из Siemens, где можно читать нормальные новости про вас - новости для людей, а не сухие выжимки для инвесторов?!
+
+https://www.plm.automation.siemens.com/en/about_us/newsroom/press/press_release.cfm?Component=258740&ComponentTemplate=822%C2%A0 🔗 Siemens Acquires Infolytica Corporation to Extend Portfolio Into Low-Frequency Electromagnetics Sim…

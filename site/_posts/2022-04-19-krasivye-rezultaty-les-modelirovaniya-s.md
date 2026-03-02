@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Красивые результаты #LES моделирования спускаемого модуля на"
+date: 2022-04-19T17:00:03+00:00
+author: "MagicDPD"
+source: vk
+original_url: https://vk.com/wall-97265142_2222
+tags:
+  - CFD
+images:
+  - url: "/assets/images/2222.jpg"
+---
+
+Авторы: Лука Плакко (Luca Placco), Микеле Кого (Michele Cogo), Маттео Бернардини (Matteo Bernardini), Франческо Пикано (Francesco Picano)
+
+#CFD https://www.youtube.com/watch?v=hgaIILv9zUU

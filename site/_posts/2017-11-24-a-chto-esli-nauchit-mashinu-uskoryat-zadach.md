@@ -1,0 +1,26 @@
+---
+layout: post
+title: "А что если научить машину ускорять задачи топологической опт"
+date: 2017-11-24T17:14:52+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_626
+tags:
+  - optimization
+  - python
+  - GitHub
+  - topology
+  - ToPy
+  - opensourceMediaMedia
+  - machinelearning
+---
+
+Статья двух русских студентов (Иван Сосновик и Иван Оселедец) посвящена рассказывает про их проект, в котором нейронной сети показывали промежуточные результаты работы алгоритма топологической оптимизации и учили ее угадывать, какой будет итоговый результат. После обучения на 10 000 произвольно сгенерированных задачах для #ToPy нейрона смогла ускорить процесс оптимизации до 20 раз в рассматриваемых примерах!
+
+Выборка для тренировки нейроне доступна на #GitHub:
+http://ift.tt/2hRdoWE
+
+Исходная научная статья лежит тут:
+http://ift.tt/2A2KoWc
+
+#topology #optimization #python #machinelearning #opensourceMediaMedia🔗 [1709.09578] Neural networks for topology optimization

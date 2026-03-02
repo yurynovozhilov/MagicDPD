@@ -1,0 +1,132 @@
+:root {
+  --bg: #0d1117;
+  --text: #f2f2f2;
+  --accent: #f97316;
+  --card-bg: #161b22;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Inter', 'Segoe UI', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+}
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+.wrapper {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+.site-header {
+  background: #111623;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+.site-title {
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+.site-tagline {
+  color: rgba(255,255,255,0.7);
+  margin: 0.25rem 0 1rem;
+}
+.site-nav a {
+  margin-right: 1rem;
+  font-weight: 600;
+}
+.site-content {
+  padding-top: 1rem;
+  padding-bottom: 3rem;
+}
+.intro h1 {
+  margin-bottom: 0.25rem;
+}
+.post-card {
+  background: var(--card-bg);
+  padding: 1.5rem;
+  border-radius: 16px;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 25px 50px rgba(0,0,0,0.25);
+}
+.post-card h2 {
+  margin-top: 0;
+}
+.post-meta {
+  color: rgba(255,255,255,0.7);
+  font-size: 0.9rem;
+}
+.read-more {
+  font-weight: 600;
+}
+.post {
+  background: var(--card-bg);
+  padding: 2rem;
+  border-radius: 18px;
+  box-shadow: 0 25px 60px rgba(0,0,0,0.35);
+}
+.post-content {
+  line-height: 1.7;
+}
+.post-content p {
+  margin-bottom: 1rem;
+}
+.post-gallery {
+  margin-top: 2rem;
+}
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1rem;
+}
+.gallery-grid figure {
+  margin: 0;
+}
+.gallery-grid img {
+  width: 100%;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,0.1);
+}
+.site-footer {
+  background: #111623;
+  color: rgba(255,255,255,0.7);
+}
+.site-footer a {
+  color: rgba(255,255,255,0.9);
+}
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2rem;
+}
+.archive-list {
+  list-style: none;
+  padding-left: 0;
+}
+.archive-list li {
+  display: flex;
+  gap: 0.75rem;
+  padding: 0.35rem 0;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+.archive-date {
+  color: rgba(255,255,255,0.6);
+  min-width: 60px;
+}
+@media (max-width: 640px) {
+  .wrapper {
+    padding: 1rem;
+  }
+  .site-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+}

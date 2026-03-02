@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Posts · MagicDPD Archive</title>
+    <link rel="stylesheet" href="/assets/css/style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <h1 class="site-title"><a href="/">MagicDPD Archive</a></h1>
+        <nav>
+          <a href="/">Главная</a>
+          <a href="/archive/">Архив</a>
+          <a href="/about/">О проекте</a>
+        </nav>
+      </div>
+    </header>
+    <main class="container">
+      
+  
+    <h1>Posts</h1>
+  
+  
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2019-04-30-vzaimodestvie-s-sph-v-ls-dyna/">Взаимодествие с SPH в LS-DYNA</a></h2>
+      <p class="post-meta">
+        30.04.2019 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1461" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Гидродинамика сглаженных частиц, а именно так на русский переводится SPH — это один и первых «бессеточных» методов, на который соскакивают пользователи explicit кодов. У LS-DYNA тут все очень хорошо.</p>
+<p>1.Для начала, можно задать взаимодествие нескольких партов в SPH постановке, используя *SECTIONSPHINTERACTION или *DEFINE_SPH_TO_SPH_COUPLING.</p>
+<p>2.Далее, естественно есть взаимодействие с лагранжевой сеткой через контакты.</p>
+<p>3.Еще есть волшебная карта *DEFINEADAPTIVESOLIDTOSPH, основной целью которой является перевод удаленных лагранжевых элементов в SHP и связывание двух партов через гибридные элементы (элементы, в которых внутри вклеены SPH частицы).</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2019-04-29-how-did-you-solve-the-icing-problem/">How did you solve the icing problem?</a></h2>
+      <p class="post-meta">
+        29.04.2019 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1460" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Это одна из ключевых сцен первого Железного человека — обледенение при высотных полетах.</p>
+<p>К чему это я? У ANSYS есть очень cпецифический решатель, моделирующий обледенение — FENSAP-ICE. Помнится, я даже учил его работать с планировщиком LSF на большом кластере у хороших людей.</p>
+<p>Видео от ANSYS раз: <a href="https://embed.vidyard.com/share/mJG4gSaaVbxVU1T9VW3tVP">https://embed.vidyard.com/share/mJG4gSaaVbxVU1T9VW3tVP</a>?</p>
+<p>Видео от ANSYS два: <a href="https://embed.vidyard.com/share/vTQ7Xnqoc8WUKJYRSRaAie">https://embed.vidyard.com/share/vTQ7Xnqoc8WUKJYRSRaAie</a>?</p>
+<p>Исходник новости: <a href="https://www.ansys.com/blog/digitization-aircraft-icing-certification-simulation">https://www.ansys.com/blog/digitization-aircraft-icing-certification-simulation</a></p>
+<p>#ANSYS #CFD #FENSAP</p>
+<p><a href="https://wp.me/p9vWYY-2ux">https://wp.me/p9vWYY-2ux</a></p>
+<p>by GlukRazor</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2019-04-28-recurdyn-multiki/">RecurDyn — мультики</a></h2>
+      <p class="post-meta">
+        28.04.2019 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1459" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Коллеги, кто этим зверем пользуется — поделитесьт мнением. RecurDyn как-то прошел мимо меня.</p>
+<p>#RecurDyn</p>
+<p><a href="https://wp.me/s9vWYY-recurdyn">https://wp.me/s9vWYY-recurdyn</a></p>
+<p>by GlukRazor</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2019-04-26-civilfem-for-ansys-2019-r1/">CivilFEM for ANSYS 2019 R1</a></h2>
+      <p class="post-meta">
+        26.04.2019 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1458" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Вроде как он вышел. Обещали 8-ого апреля, но письмо с приглашение на пробную версию дошло ко мне только сегодня. Что нового:</p>
+<p>Обновление в СП 63.13330.2012 Бетонные и железобетонные конструкции. Исправление ошибок в ПО Улучшение расчета эффективного коэффицента армирования для Еврокод 2Возможность имопрт баз от старых версии CivilFEM (5.7.1 — 19.2)</p>
+<p>#ANSYS #CivilFEM #Ingeciber</p>
+<p><a href="https://wp.me/p9vWYY-2uq">https://wp.me/p9vWYY-2uq</a></p>
+<p>by GlukRazor</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2019-04-25-instruktsiya-k-salome-ot-ibm/">Инструкция к Salome от IBM</a></h2>
+      <p class="post-meta">
+        25.04.2019 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1457" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Старая русскоязычная документация к открытому препосту Salome Meca лежит в библиотеке IBM. Хозяину на заметку <a href="https://www.ibm.com/developerworks/ru/library/l-salome_01/index.html">https://www.ibm.com/developerworks/ru/library/l-salome_01/index.html</a></p>
+<p>#IBM #Open_Source #Salome</p>
+<p><a href="https://wp.me/p9vWYY-2un">https://wp.me/p9vWYY-2un</a></p>
+<p>by GlukRazor</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2019-04-24-webplotdigitizer/">WebPlotDigitizer</a></h2>
+      <p class="post-meta">
+        24.04.2019 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1456" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>WebPlotDigitizer — это одна из самых полезных утилит, которой я пользуюсь в своей работе. WebPlotDigitizer — это интерактивное web-приложение (есть еще в виде расширения для Chrome), позволяющее выполнять оцифровку графиков и гистограмм, а также доставать информацию с картинок. Крутизну этого бесплатного приложения сложно переоценить: тут вам и сглаживание, и фильтрация графиков по цветам, и автоматический поиск маркеров. А еще есть видеоурок.</p>
+<p>Сайт приложения тут: <a href="https://apps.automeris.io/wpd/">https://apps.automeris.io/wpd/</a></p>
+<p>#webplotdigitizer</p>
+<p><a href="https://wp.me/p9vWYY-2uh">https://wp.me/p9vWYY-2uh</a></p>
+<p>by GlukRazor</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2019-04-23-optimizatsiya-topologii-vysokogo-razresheniya/">Оптимизация топологии высокого разрешения</a></h2>
+      <p class="post-meta">
+        23.04.2019 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1455" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Коллеги разработали алгоритм, способный решать задачи топологической оптимизации на сетке, состоящий из миллиардов элементов (!!!). Правда ресурсов это кушает много. То, что коллеги называют «одной рабочей станцией»,  на самом деле представляет собой 4-х сокетную систему с 12-ти ядерными процессорами Intel E7-4830v4 и 512 Гб памяти. Но все равно, даже на такой машине решение задачи оптимизации топологии с 1E12 элементов за 2,5 часа выглядит очень круто!</p>
+<p>Текст статьи: <a href="https://doi.org/10.1145/3272127.3275012">https://doi.org/10.1145/3272127.3275012</a> — тут описана вся магия и оптимизации.</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2019-04-22-rocky-dem-dlya-gornyakov/">Rocky DEM для горняков</a></h2>
+      <p class="post-meta">
+        22.04.2019 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1454" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Запись вебинара «Практические аспекты применения Rocky DEM для моделирования оборудования горной промышленности» от 16.04.2019 (на русском языке)</p>
+<p>#CADFEM #DEM #Rocky</p>
+<p><a href="https://wp.me/p9vWYY-2ub">https://wp.me/p9vWYY-2ub</a></p>
+<p>by GlukRazor</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2019-04-21-dlubal-mke-soft-s-nemetskimi-kornyami/">Dlubal — МКЭ-софт с немецкими корнями</a></h2>
+      <p class="post-meta">
+        21.04.2019 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1453" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Dlubal имеет основных продукта — RFEM для 3D расчетов и RSTAB для расчетов балочных конструкций. Программы умеют считать статические и линейные динамические задачи,  определять устойчивость, находить собственные частоты и формы колебаний и работать с некоторыми типами нелинейностей.</p>
+<p>Dlubal имеет основных продукта — RFEM для 3D расчетов и RSTAB для расчетов балочных конструкций. Программы умеют считать статические и линейные динамические задачи,  определять устойчивость, находить собственные частоты и формы колебаний и работать с некоторыми типами нелинейностей.</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2019-04-20-viperblast-udarnye-volny-na-gpu/">Viper::Blast — ударные волны на GPU</a></h2>
+      <p class="post-meta">
+        20.04.2019 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1452" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Про проект Viper::Blast я уже когда-то писал — это код, моделирующий распространение ударных волн с применением вычислений на GPU. Судя по данному ролику, GPU позволяют ускорить расчет без малого в 38 раз для тестового примера. Очень неплохо, но как система поведёт себя с более сложной геометрией неизвестно.</p>
+<p>#blast #GPU #Viper_Blast</p>
+<p><a href="https://wp.me/p9vWYY-2u1">https://wp.me/p9vWYY-2u1</a></p>
+<p>by GlukRazor</p></p>
+    </article>
+  
+  <div class="pagination">
+    
+    <ul class="pagination pagination-default">
+      <li class="page-item">
+        <a href="/posts/" aria-label="First" class="page-link" role="button"><span aria-hidden="true">&laquo;&laquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/133/" aria-label="Previous" class="page-link" role="button"><span aria-hidden="true">&laquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/132/" aria-label="Page 132" class="page-link" role="button">132</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/133/" aria-label="Page 133" class="page-link" role="button">133</a>
+      </li>
+      <li class="page-item active">
+        <a aria-current="page" aria-label="Page 134" class="page-link" role="button">134</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/135/" aria-label="Page 135" class="page-link" role="button">135</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/136/" aria-label="Page 136" class="page-link" role="button">136</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/135/" aria-label="Next" class="page-link" role="button"><span aria-hidden="true">&raquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/242/" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
+      </li>
+    </ul>
+  </div>
+
+    </main>
+    <footer class="site-footer">
+      <div class="container">
+        <p>&copy; 2026 MagicDPD. Powered by Hugo.</p>
+      </div>
+    </footer>
+  </body>
+</html>

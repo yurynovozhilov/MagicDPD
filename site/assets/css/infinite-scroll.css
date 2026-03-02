@@ -1,0 +1,19 @@
+.infinite-scroll-enabled .articles.h-feed > .pagination {
+    display: none;
+}
+
+.infinite-scroll-status {
+    color: var(--post-info-color);
+    font-size: 0.8em;
+    margin: 1rem 0 0;
+    min-height: 1.2em;
+}
+
+.infinite-scroll-status--error {
+    color: #bf3a3a;
+}
+
+.infinite-scroll-sentinel {
+    height: 1px;
+    margin-top: 1px;
+}

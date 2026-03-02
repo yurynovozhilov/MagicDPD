@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Горячая прокатка рельсов"
+date: 2019-03-11T17:00:36+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1388
+tags:
+  - Qform
+  - forming
+  - rolling
+  - LS_DYNA
+---
+
+Очень интересный технологический процесс горячей прокатки рельсов, который осуществляется в 3 этапа по несколько проходов.
+
+Моделируют его во всяком разном софте: от специализированного Qform, до общего назначения: LS-DYNA.
+
+#forming #LS_DYNA #Qform #rolling
+
+https://wp.me/p9vWYY-2nW
+
+by Юрий Новожилов

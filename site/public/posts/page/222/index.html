@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Posts · MagicDPD Archive</title>
+    <link rel="stylesheet" href="/assets/css/style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <h1 class="site-title"><a href="/">MagicDPD Archive</a></h1>
+        <nav>
+          <a href="/">Главная</a>
+          <a href="/archive/">Архив</a>
+          <a href="/about/">О проекте</a>
+        </nav>
+      </div>
+    </header>
+    <main class="container">
+      
+  
+    <h1>Posts</h1>
+  
+  
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2016-12-19-optistruct-kak-zamena-nastran/">OptiStruct как замена NASTRAN</a></h2>
+      <p class="post-meta">
+        19.12.2016 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/222" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p><a href="http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13866/OptiStruct-for-Structural-Analysis-Not-Just-for-Optimizations-Anymore.aspx">http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13866/OptiStruct-for-Structural-Analysis-Not-Just-for-Optimizations-Anymore.aspx</a></p>
+<p>Забавный факт: начавшись около 20 лет назад #OptiStruct (ныне продута #Altair) как продута для оптимизации, так хотел быть совместим с #NASTRAN, что за годы своего становления научился читать и выполнять 90% его команд. Более того, он научился решать задачи не только оптимизации, но и практически все задачи линейной и нелинейной статики и динамики.</p>
+<p>О том, как это произошло, рассказывается по ссылке ниже.</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2016-12-18-materialy-vebinara-po-novym-vozmozhnostyam-ls-dyna/">Материалы вебинара по новым возможностям LS-DYNA R9</a></h2>
+      <p class="post-meta">
+        18.12.2016 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/221" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p><a href="https://www.dynamore.se/en/news/meet-dynamore/resources/papers/webinar-ls-dyna-r9-presentations">https://www.dynamore.se/en/news/meet-dynamore/resources/papers/webinar-ls-dyna-r9-presentations</a></p>
+<p>Шведское подразделение #DYNAmore любезно выложило слайды с прошедшего вебинара по новым возможностям #LSDYNA R9. Для меня это просто праздник какой-то, ибо внутри есть много очень крутых фишек.</p>
+<p>Вот что больше всего понравилось мне:</p>
+<ul>
+<li>Новые карты <em>MODULE_</em> для подключения самоличных (#UDF) расширений к вычислительному ядру решателя без его пересборки</li>
+<li>Роторная динамика (*CONTROL_IMPLICIT_ROTATIONAL_DYNAMICS) в #Implicit решателе</li>
+<li>Новая подключаемая модель повреждения (не путать с разрушением) материала *MAT_ADD_GENERALIZED_DAMAGE</li>
+<li>Новая модель материла для *MAT_GLASS стекал (в том числе и триплекса) специально сделанная для моделирования процесса трещенообразования в shell постановке</li>
+<li>Одно и двухсторонний #FSI для #DEM в #ICFD решателе благодаря *ICFD_CONTROL_DEM_COUPLING</li>
+<li>Расширенная работа не ньютоновскими жидкостями и жидкостями с температурнозависимой вязкостью благодаря *ICFD_MODEL_NONNEWT</li>
+<li>Граничные условия типа &ldquo;ударная волна от взрыва&rdquo; (через взаимодействие с *LOAD_BLAST_ENHANCED) для #CFD решателя сжимаемых течений #CESE</li>
+<li>Бессеточный (!!!) метод обогощенных конечных элементов (Meshfree Enriched FEM, #MEFEM) специально для моделирования резин (*SECTION_SOLID, ELFORM=43).</li>
+</ul>
+<p>P.S. Ну надо было только такое придумать - бессеточный метод конечных элементов :-)</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2016-12-18-vyshel-keyshot-63/">Вышел KeyShot 6.3</a></h2>
+      <p class="post-meta">
+        18.12.2016 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/220" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p><a href="https://www.keyshot.com/press/luxion-releases-keyshot-6-3/">https://www.keyshot.com/press/luxion-releases-keyshot-6-3/</a></p>
+<p>Компания #Luxion объявила о выходе #KeyShot 6.3 - системе фотореалистичного рендеринга для #CAD. Как говорят сами разработчики, KeyShot 6.3 - это первая система способная расчитывать трассировку лучей и глобальное освещение в реальном времени для 3D рендеринга и анимации.</p>
+<p>В новой версии появилась поддержка следующих систем:</p>
+<ul>
+<li>#Autodesk #Alias 2017, #Inventor 2017, #Maya 2017</li>
+<li>#Siemens #NX 11, #SolidEdge ST9</li>
+<li>#Dassault System #SoldWorks 2017</li>
+<li>#PTC #Creo 4 (через Creo Parametric’s Advanced Rendering Extension aka #ARX)</li>
+</ul>
+<p>А в составе #ANSYS вы можете встретить KeyShot с бесплатной базовой лицензией внутри #SpaceClaim.</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2016-12-17-generator-turbulentnosti/">Генератор турбулентности</a></h2>
+      <p class="post-meta">
+        17.12.2016 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/219" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p><a href="https://www.youtube.com/watch?v=fmUfyEhh7dQ">https://www.youtube.com/watch?v=fmUfyEhh7dQ</a></p>
+<p>#LSDYNA #ICFD (incompressible #CFD) в R9 обзавелась возможностью генерировать турбулентность, чем и хвастается #LSTC. Всем матерым и уважаемым CFD кодам молчать!</p>
+<p><a href="https://www.youtube.com/watch?v=fmUfyEhh7dQ">https://www.youtube.com/watch?v=fmUfyEhh7dQ</a></p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2016-12-17-sostoyalsya-vtoroy-reliz-shapr3d/">Состоялся второй релиз Shapr3D</a></h2>
+      <p class="post-meta">
+        17.12.2016 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/218" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p><a href="https://www.youtube.com/watch?v=RT3W25T_wGg">https://www.youtube.com/watch?v=RT3W25T_wGg</a></p>
+<p>#Shapr3D - в своем роде уникальный проект. Это #CAD работающий на #iPad Pro и только на нем, и только с волшебным стилусом. Но вы только посмотрите, как он работает. Это уже не классический CAD - это практически полноценная система прямого моделирования. Конечно не #SpaceClaim, но видно, на кого смотрели создатели, когда писали свой продукт.</p>
+<p>А теперь только задумайтесь: вы получаете почти SpaceClaim, который работает прямо на вашем планшете, а не на мощной рабочей станции, и стоит всего 99 баксов в год за профессиональную версию (есть и бесплатная). Разве не мечта для быстрого создания концептуальных моделей на коленке (в прямом смысле слова).</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2016-12-16-agx-dynamics-dlya-chastits/">AGX Dynamics для частиц</a></h2>
+      <p class="post-meta">
+        16.12.2016 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/217" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p><a href="https://www.youtube.com/watch?v=7OA-54FNYVQ">https://www.youtube.com/watch?v=7OA-54FNYVQ</a></p>
+<p>#Algoryx - разработчик Dynamics for #SpaceClaim выкатил новые фишки своего ПО</p>
+<p>Из решатель #AGX Dynamics, который является сердцем Dynamics for #SpaceClaim - системы для расчета твердотельной динамики (#RBD) - теперь умеет решать задачи в #DEM постановке. При этом, используется не сферические частицы (привет #LSDYNA) и их кластеры (привет #EDEM), а частицы произвольной формы (привет #Rocky). Такую постановку метода дискретных элементов разработчики окрестили #NDEM (non-smooth discrete element methods). И это все помимо возможности моделировать поведение кабелей и тросов.</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2016-12-15-ke-issledovaniya-pokryshek/">КЭ исследования покрышек</a></h2>
+      <p class="post-meta">
+        15.12.2016 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/215" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p><a href="https://www.youtube.com/watch?v=tIaBVlw5UU0">https://www.youtube.com/watch?v=tIaBVlw5UU0</a></p>
+<p>Представляю вашему вниманию отличное видео посвященное математическому моделированию резиновых автомобильных шин. Тут и поиск собственных частот и форм колебаний, и сложные контактные взаимодействия, и переход от явной к неявной схемам интегрирования - в общем все то, за что я люблю #LSDYNA</p>
+<p><a href="https://www.youtube.com/watch?v=tIaBVlw5UU0">https://www.youtube.com/watch?v=tIaBVlw5UU0</a></p>
+<p>Новая компания, моделирующая сварку
+<a href="http://www.dynamore.it/en/news/news-en/2016/company-dynaweld-founded">http://www.dynamore.it/en/news/news-en/2016/company-dynaweld-founded</a></p>
+<p>Неделя началась с создания новой компании #DynaWeld, отделившейся от #DYNAmore. DynaWeld GmbH &amp; Co. KG будет специализироваться на разработках и расчетах в области сварки и термической обработки металлов. А делать это они будут при помощи уже разработанного ими преппоста для #LSDYNA.</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2016-12-14-s-dnem-rozhdeniya-onshape/">С днем рождения, Onshape</a></h2>
+      <p class="post-meta">
+        14.12.2016 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/214" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p><a href="https://www.onshape.com/cad-blog/happy-first-birthday-onshape">https://www.onshape.com/cad-blog/happy-first-birthday-onshape</a></p>
+<p>Сегодня, ровно год назад, состоялся первый коммерческий релиз облачного #CAD #Onshape. Сейчас уже кажется, что он был с нами всегда, а ему всего-то годик. Отличный пост с вкусной статистикой по первому году прилагается.
+#cloud</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2016-12-13-raschet-vzryva-na-skoruyu-ruku/">Расчет взрыва на скорую руку</a></h2>
+      <p class="post-meta">
+        13.12.2016 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/213" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p><a href="http://www.ewp.rpi.edu/hartford/~cabelb/ENGINEERING_PROJECT/Other/Reference/Simulation%20of%20the%20Effects%20of%20an%20Air%20Blast%20Wave.pdf">http://www.ewp.rpi.edu/hartford/~cabelb/ENGINEERING_PROJECT/Other/Reference/Simulation%20of%20the%20Effects%20of%20an%20Air%20Blast%20Wave.pdf</a></p>
+<p>Если вам надо быстро посчитать давления, возникающие при взрыве, то вам пригодится методика #CONWEP, уравнения Фридлендера (#Friedlander) или Kingery-Bulmash. Поэтому перелагаю несколько ссылок на хорошие методички с примерами расчетов:
+<a href="http://www.ewp.rpi.edu/hartford/~cabelb/ENGINEERING_PROJECT/Other/Reference/Simulation%20of%20the%20Effects%20of%20an%20Air%20Blast%20Wave.pdf">http://www.ewp.rpi.edu/hartford/~cabelb/ENGINEERING_PROJECT/Other/Reference/Simulation%20of%20the%20Effects%20of%20an%20Air%20Blast%20Wave.pdf</a>
+<a href="http://ro.uow.edu.au/engpapers/357">http://ro.uow.edu.au/engpapers/357</a>
+<a href="http://publications.jrc.ec.europa.eu/repository/bitstream/JRC87200/lbna26456enn.pdf">http://publications.jrc.ec.europa.eu/repository/bitstream/JRC87200/lbna26456enn.pdf</a></p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2016-12-13-drobit-granit-nauki/">Дробить гранит науки</a></h2>
+      <p class="post-meta">
+        13.12.2016 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/212" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p><a href="http://www.cadfem-cis.ru/list/article/webinar-rocky-2016/">http://www.cadfem-cis.ru/list/article/webinar-rocky-2016/</a></p>
+<p>Коллеги организовывают бесплатный вербена по решению задач дробления в #Rocky #DEM 15 декабря - спешите зарегистрироваться. Вебинар бесплатный, но на английском!</p></p>
+    </article>
+  
+  <div class="pagination">
+    
+    <ul class="pagination pagination-default">
+      <li class="page-item">
+        <a href="/posts/" aria-label="First" class="page-link" role="button"><span aria-hidden="true">&laquo;&laquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/221/" aria-label="Previous" class="page-link" role="button"><span aria-hidden="true">&laquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/220/" aria-label="Page 220" class="page-link" role="button">220</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/221/" aria-label="Page 221" class="page-link" role="button">221</a>
+      </li>
+      <li class="page-item active">
+        <a aria-current="page" aria-label="Page 222" class="page-link" role="button">222</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/223/" aria-label="Page 223" class="page-link" role="button">223</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/224/" aria-label="Page 224" class="page-link" role="button">224</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/223/" aria-label="Next" class="page-link" role="button"><span aria-hidden="true">&raquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/242/" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
+      </li>
+    </ul>
+  </div>
+
+    </main>
+    <footer class="site-footer">
+      <div class="container">
+        <p>&copy; 2026 MagicDPD. Powered by Hugo.</p>
+      </div>
+    </footer>
+  </body>
+</html>

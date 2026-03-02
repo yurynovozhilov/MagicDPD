@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Ко Дню святого Валентина инженеры из Университета Райса и Ун"
+date: 2022-02-21T17:00:42+00:00
+author: "MagicDPD"
+source: vk
+original_url: https://vk.com/wall-97265142_2147
+tags:
+  - Implicit
+  - ICFD
+  - LSDYNA
+images:
+  - url: "/assets/images/2147.jpg"
+  - url: "/assets/images/2148.jpg"
+---
+
+Я пока не нашел, в чем был посчитана эта конкретная модель, но уж больно сильно она напоминает ранее публикованные "части" сердца, полностью считавшиеся в #LSDYNA (#Implicit + #ICFD) в статье DOI: 10.1007/s10237-017-0959-6 https://www.youtube.com/watch?v=l9NlTV72InQ

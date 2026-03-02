@@ -1,0 +1,24 @@
+---
+date: 2025-09-19 08:37:58+00:00
+link_previews:
+- description: ''
+  image: ''
+  title: OpenCalphad
+  url: https://www.opencalphad.com/
+- description: CALPHAD tools for designing thermodynamic models, calculating phase
+    diagrams and investigating phase equilibria. - pycalphad/pycalphad
+  image: https://opengraph.githubassets.com/37e3c585bf3191520132c419a16699eefdc70b5c263f446fb6e642681d97d614/pycalphad/pycalphad
+  title: 'GitHub - pycalphad/pycalphad: CALPHAD tools for designing thermodynamic
+    models, calculating phase diagrams and investigating phase equilibria.'
+  url: https://github.com/pycalphad/pycalphad
+original_url: https://t.me/MagicDPD/3019
+source: tg
+title: CALPHAD-подход для расчет фазовых диаграмм и термодинамических свойств через
+  параметризацию моделей Гиббса
+---
+
+Когда-то, когда я увлекался горячей обработкой металла давлением, я узнал об очень специфической и достаточно дорогой программе Thermo-Calc, которая позволяет получить диаграммы фазовых превращений металлов на основе рецептуры их сплавов. Ну так у данного подхода есть и бесплатные решения - надо просто хорошенько поискать по слову CALPHAD.
+
+OpenCalphad — это свободное программное обеспечение и набор баз данных, предназначенное для термодинамических расчетов на основе CALPHAD-методологии. Оно поддерживает расчет фазовых уравновесий, фазовых диаграмм, термохимических величин (потенциалы, энтропии, энтальпии) и может работать с многокомпонентными системами, используя стандартизированные модели хранения и обмена параметрами базы данных, совместимые с современными языками программирования. Код написан на Fortran и активно поддерживается международным сообществом. https://www.opencalphad.com/
+
+PyCalphad — это открытая библиотека на Python для разработки термодинамических моделей, расчета фазовых диаграмм и анализа равновесий фаз на основе CALPHAD-метода. PyCalphad поддерживает чтение TDB-файлов Thermo-Calc и решает задачу минимизации энергии Гиббса для многокомпонентных многосистемных задач. Проект ориентирован как на научное исследование, так и на инженерные приложения. https://github.com/pycalphad/pycalphad

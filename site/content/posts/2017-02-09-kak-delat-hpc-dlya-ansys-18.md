@@ -1,0 +1,27 @@
+---
+date: 2017-02-09 17:02:27+00:00
+link_previews:
+- description: Техническая документация 16 сентября, 2021 Ansys 2021 R2 Технические
+    требования к программно-аппаратным комплексам и лицензионная политика в области
+    HPC Скачать
+  image: https://www.cadfem-cis.ru/static/templates/cadfem/dist/images/OG-image.png
+  title: Техническая документация — МЦД
+  url: https://www.cadfem-cis.ru/products/ansys/ansys-update/
+original_url: https://t.me/MagicDPD/264
+source: tg
+title: Как делать HPC для ANSYS 18
+---
+
+https://www.cadfem-cis.ru/products/ansys/ansys-update/
+
+Коллеги, рад поделиться ссылкой на опубликованный недавно материал, по тематике #HPC для #ANSYS и построения правильно IT инфраструктуры для расчетов.
+
+Вот в этом документе вы найдете очень много интересного и нового, чего иногда даже нет и в официальной документации - https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/18/ANSYS18_tech.pdf
+
+Главные фишки релиза 18.0 с точки зрения HPC:
+- поддержка #CentOS 7
+- cобственный встроенный бесплатный кластерный планировщик (aka workload manager, aka scheduler) для Windows и Linux - ANSYS #RSM Cluster (aka #ARC)
+- ANSYS #CFD теперь считает на 4-х ядрах из коробки
+- ANSYS #Explicit STR теперь считает на 2-х ядрах из коробки
+- ANSYS #Maxwell теперь умеет использовать #GPGPU #NVIDIA
+- Первый ANSYS HPC Pack это 10, а не 8 ядре

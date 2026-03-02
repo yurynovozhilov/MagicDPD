@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Posts · MagicDPD Archive</title>
+    <link rel="stylesheet" href="/assets/css/style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <h1 class="site-title"><a href="/">MagicDPD Archive</a></h1>
+        <nav>
+          <a href="/">Главная</a>
+          <a href="/archive/">Архив</a>
+          <a href="/about/">О проекте</a>
+        </nav>
+      </div>
+    </header>
+    <main class="container">
+      
+  
+    <h1>Posts</h1>
+  
+  
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-10-15-netgenngsolve/">Netgen/NGSolve</a></h2>
+      <p class="post-meta">
+        15.10.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1148" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Netgen/NGSolve это высокопроизводительный КЭ решатель, который по обещаниям сообщества может решать механику, тепло-, гидродинамику и даже электромагнетизм. При этом он имеет Python API для расширения своих возможностей. Естественно все бесплатно, работает на любой операционной системе и обладает открытым исходным кодом.
+<a href="https://ngsolve.org">https://ngsolve.org</a>
+В целом, очень интересное решение для тех, кто хочет на Python попробовать порешать физические задачи. Тем более, что на сайте есть достаточное количество примеров с математическими выкладками и исходными кодами. Вот такой пример для FSI задачи: https://ngsolve.org/showcases/ngsolve/42-fluid-structure-interaction</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-10-14-ruchnoe-vydelenie-pamyati-v-ls-dyna/">Ручное выделение памяти в LS-DYNA</a></h2>
+      <p class="post-meta">
+        14.10.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1146" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>По умолчанию решатель LS-DYNA не утруждает себя таким &ldquo;низким&rdquo; и &ldquo;недостойным&rdquo; занятием, как автоматическое выделение памяти под расчет, и об это спотыкаются толпы желающих сразу посчитать что-нибудь большое и красивое. В explicit кодах почти всегда получается красиво, и все задачи сходятся. Правда, зачастую, не с физикой или теорией :-)</p>
+<p>При выделении памяти для LS-DYNA противно еще и то, что ее объем определяется не байтами, а словами. Статья по ссылке раскажет о том, сколько &ldquo;весит&rdquo; одно слово, как его вес меняется в зависимости от архитектуры работы с памятью, и почему для распределённых расчетов вас просят задать два разных объема памяти.</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-10-13-novye-vozmozhnosti-comsol/">Новые возможности COMSOL</a></h2>
+      <p class="post-meta">
+        13.10.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1144" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Давно я не писал про COMSOL, а между тем он не останавливается в развитии.
+В новой версии появилась возможность при помощи COMSOL Compiler собирать собственные миниприложения, заточенные под решение конкретной задачи. Причем, по заявлениям источника, эти приложения будут работать самостоятельно, без необходимости наличия лицензий на COMSOL. На мой взгляд, это чертовски прикольная штука.
+Получается так: COMSOL в свое время отделился от команды Matlab (если я ничего не путаю); Matlab продолжил свое развитие как средство решения математических задач/особый язык программирования; COMSOL, благодаря Compiler, теперь тоже пытыется стать средством такого визуального программирования для решения конкретных задач. Они откусывают у себя продажи, но рождают рынок разработчиков физических WYSIWYG приложений.
+На официальном сайте компании есть очень хорошее видео по теме COMSOL Compiler: https://www.comsol.com/release/5.4
+Материал на русском:
+<a href="http://isicad.ru/ru/news.php?news=20122">http://isicad.ru/ru/news.php?news=20122</a>
+Интересно, а кто-нибудь из больших игроков когда-нибудь сделает такое решение? И что бы все еще и без лицензий работало :-)</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-10-10-ls-dyna-r11/">LS-DYNA R11</a></h2>
+      <p class="post-meta">
+        10.10.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1142" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Вышла новая версия решателя! Полный текст релиза доступен по ссылке в конце поста. От меня, как обычно, обзор фишек, которые меня зацепили:</p>
+<p>Реализация S-ALE решателя для 2D случая
+Улучшенная связка CPM и SPH в рамках DEFINE_PARTICLE_BLAST
+Вдобавок к *CONSTRAINED_BEAM_IN_SOLID появились карты *CONSTRAINED_SHELL_IN_SOLID и *CONSTRAINED_SOLID_IN_SOLID - связка &ldquo;погруженных&rdquo; армирующих оболочек и твердотельных элементов с твердотельными элементами тела. Опция _PENALTY - улучшенный учет армирования для неявного решателя
+Появились упругие DES (раньше были только абсолютно твердые)
+Твердотельные элементы с кубической функцией формы (*SECTION_SOLID 27, 28, 29)
+*CONSTRAINED_IMMERSED_IN_SPG - внедрение лагранжевых армирующих балочных и оболочечных элементов в SPG
+*ELEMENT_SPH_VOLUME - задание SPH через их объем, а не массу</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-10-09-kto-takoy-logos/">Кто такой ЛОГОС?</a></h2>
+      <p class="post-meta">
+        09.10.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1140" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Коллеги, запрашиваю помощь зала. У меня есть предвзятое мнение о российской разработке ЛОГОС. Я не буду здесь его озвучивать, так как я хочу узнать ваше мнение. Расскажите, у кого был опыт работы с данной системой? Как она в сравнении с иностранными кодами по удобству, расчетным возможностям, качеству поддержки?
+Свежая презентация по данной системе доступна по ссылке:
+<a href="http://dubna-oez.ru/images/data/gallery/212_8163_-CFD.pdf">http://dubna-oez.ru/images/data/gallery/212_8163_-CFD.pdf</a></p>
+<p>#ЛОГОС
+<a href="http://bit.ly/2OSFyT4">http://bit.ly/2OSFyT4</a></p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-10-08-ischu-uchenika/">Ищу ученика</a></h2>
+      <p class="post-meta">
+        08.10.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1138" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Да, я снова его ищу, ибо хороших учеников много не бывает. Хотите побыть Тони Старком?</p>
+<p>Как вы знаете, я люблю все решать в LS-DYNA. Она очень хорошо может моделировать взрывы. Тут есть:</p>
+<p>Моделирование взрывов на основе стандартного и расширенного уравнения состояния JWL, JWLB, ST
+Химический решатель для расчета детонации или дефлаграции в газовой смеси (когда нет известного уравнения состояния)
+Широчайшие возможности для выбора методов дискретизации пространства: МКЭ в лагранжевой и эйлеровой постановках, SPH, метод взрыва частиц, моделирующий стохастическое движение молекул газа, эмпирические методики, сопрягающиеся с чем угодно, и, наконец, полноценный CFD решатель, учитывающий сжимаемость среды.
+Сопряжение нагрузок от взрыва с чем угодно, даже с балочными элементами и DEM.</p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-10-07-modelirovanie-fermennyh-konstruktsiy-v-ls-dyna/">Моделирование ферменных конструкций в LS-DYNA</a></h2>
+      <p class="post-meta">
+        07.10.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1136" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Видеоурок на 17 минут по моделированю конструкций из блочных элементов. Вся подготовка задачи в LS-PrePost.</p>
+<p>Да и вообще, это видео скорее рассказывает о работе в LS-PrePost, чем и надо пользоваться новичкам.</p>
+<p>#LSDYNA #LSPrePost #LSTC
+<a href="http://bit.ly/2ymqbIw">http://bit.ly/2ymqbIw</a></p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-10-05-konferentsiya-ot-nikiet/">Конференция от НИКИЭТ</a></h2>
+      <p class="post-meta">
+        05.10.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1134" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>В последнее врем не удалятся писать регулярно. Виной тому большое количество проектов, о которых я скоро смогу рассказать. В частности, первый доклад по моим научным наработка состоится уже в следующий вторник в Сочи, в рамках одного из главных мероприятий по ядерной энергетике.
+Ищите меня и коллег на конференции 10-ой российской конференции &ldquo;Методы и программное обеспечение для расчетов на прочность&rdquo; о НИКИЭТ.
+<a href="http://www.nikiet.ru/index.php/2018-05-15-08-21-14/konferentsii/19-joomla/127-x-rossijskaya-konferentsiya-metody-i-programmnoe-obespechenie-raschetov-na-prochnost">http://www.nikiet.ru/index.php/2018-05-15-08-21-14/konferentsii/19-joomla/127-x-rossijskaya-konferentsiya-metody-i-programmnoe-obespechenie-raschetov-na-prochnost</a></p>
+<p><a href="http://bit.ly/2CsD343">http://bit.ly/2CsD343</a></p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-10-03-nastroyka-2-way-fsi-v-ansys/">Настройка 2-way-FSI в ANSYS</a></h2>
+      <p class="post-meta">
+        03.10.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1132" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Серия из двух небольших видео, показывающих как настроить двусторонний FSI для нестационарной задачи.</p>
+<p>За механику отвечает ANSYS Mechanical, за гидродинамику - ANSYS Fluent.</p>
+<p>Все это смешиваем в среде Workbench и заставляем работать вместе через System Coupling. Технически выглядит несложно :-)</p>
+<p>#ANSYS #CFD #Fluent #FSI #Mechanical #SystemCoupling #Workbench
+<a href="http://bit.ly/2P9pU2S">http://bit.ly/2P9pU2S</a></p></p>
+    </article>
+  
+    <article class="post-excerpt">
+      <h2><a href="/posts/2018-10-02-dempfirovanie-v-ls-dyna/">Демпфирование в LS-DYNA</a></h2>
+      <p class="post-meta">
+        02.10.2018 · Автор: GlukRazor · Источник: TG
+         · <a href="https://t.me/MagicDPD/1130" target="_blank" rel="noopener">Оригинал</a>
+      </p>
+      <p><p>Правильный учет демпфирования - один из залогов успешного моделирования динамических процессов. В 2018 году LSTC выпустили краткую пояснительную записку о том, как сейчас обстоят дела с учетом демпфирования в LS-DYNA. Оказывается, в R10 кроме традиционного Релеевского демпфирования по массе и жесткости (alpha и beta), стало хорошо работать постоянное демпфирование для заданной полосы частот.</p>
+<p>А ведь еще в R9 им пользоваться не рекомендовалось из-за больших погрешностей (неравномерного демпфирования в полосе частот). Однако сейчас, похоже, это будет вполне себе рабочий метод.</p></p>
+    </article>
+  
+  <div class="pagination">
+    
+    <ul class="pagination pagination-default">
+      <li class="page-item">
+        <a href="/posts/" aria-label="First" class="page-link" role="button"><span aria-hidden="true">&laquo;&laquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/154/" aria-label="Previous" class="page-link" role="button"><span aria-hidden="true">&laquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/153/" aria-label="Page 153" class="page-link" role="button">153</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/154/" aria-label="Page 154" class="page-link" role="button">154</a>
+      </li>
+      <li class="page-item active">
+        <a aria-current="page" aria-label="Page 155" class="page-link" role="button">155</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/156/" aria-label="Page 156" class="page-link" role="button">156</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/157/" aria-label="Page 157" class="page-link" role="button">157</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/156/" aria-label="Next" class="page-link" role="button"><span aria-hidden="true">&raquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/242/" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
+      </li>
+    </ul>
+  </div>
+
+    </main>
+    <footer class="site-footer">
+      <div class="container">
+        <p>&copy; 2026 MagicDPD. Powered by Hugo.</p>
+      </div>
+    </footer>
+  </body>
+</html>

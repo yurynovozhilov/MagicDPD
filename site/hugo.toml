@@ -1,0 +1,64 @@
+baseURL = "https://yurynovozhilov.github.io/MagicDPD/"
+languageCode = "ru"
+defaultContentLanguage = "ru"
+title = "MagicDPD: Magic Driven Product Development!"
+theme = "anubis"
+paginate = 20
+# Keep relative URLs working both locally and on GitHub Pages
+canonifyURLs = false
+enableRobotsTXT = true
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[taxonomies]
+  tag = "tags"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Главная"
+    title = "Главная"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "archive"
+    name = "Архив"
+    title = "Архив постов"
+    url = "/archive/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "about"
+    name = "О проекте"
+    title = "О проекте"
+    url = "/about/"
+    weight = 3
+
+[params]
+  author = "GlukRazor"
+  description = "Архив постов MagicDPD"
+  dateFormat = "02.01.2006"
+  paginationSinglePost = true
+  style = "auto"
+  mainSections = ["posts"]
+  readMore = false
+  toc = true
+  tocWordCount = 300
+  rssAsSocialIcon = true
+  customCSS = ["css/link-previews.css", "css/infinite-scroll.css"]
+  customJS = ["js/link-previews.js", "js/infinite-scroll.js"]
+
+  [[params.social]]
+    id = "telegram"
+    url = "https://t.me/MagicDPD"
+
+  [params.linkPreviews]
+    enabled = false  # превью теперь статичны, генерируются fetch_link_previews.py
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

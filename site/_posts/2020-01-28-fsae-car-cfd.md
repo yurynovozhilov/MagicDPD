@@ -1,0 +1,17 @@
+---
+layout: post
+title: "FSAE Car CFD"
+date: 2020-01-28T13:01:04+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1684
+tags:
+  - Fluent
+  - CFD
+  - ANSYS
+  - Student
+images:
+  - url: "/assets/images/1684.jpg"
+---
+
+

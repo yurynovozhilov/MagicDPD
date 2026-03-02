@@ -1,0 +1,38 @@
+---
+date: 2024-06-07 10:01:04+00:00
+link_previews:
+- description: Computational models of the heart are increasingly being used in the
+    development of devices, patient diagnosis and therapy guidance. While software
+    techniques have been developed for simulating single hearts, there remain significant
+    challenges in simulating cohorts of virtual hearts from multiple patients. To
+    facilitate the development of new simulation and model analysis techniques by
+    groups without direct access to medical data, image analysis techniques and meshing
+    tools, we have created the
+  image: https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0235145.g008&size=inline
+  title: A publicly available virtual cohort of four-chamber heart meshes for cardiac
+    electro-mechanics simulations
+  url: https://doi.org/10.1371/journal.pone.0235145
+- description: 'Motivation:  Computational models of the heart are increasingly being
+    used in the development of devices, patient diagnosis and therapy guidance. While
+    software techniques have been developed for simulating single hearts, there remain
+    significant challenges in simulating cohorts of virtual hearts from multiple patients.
+    Dataset Description: We present the first database of four-chamber heart models
+    suitable for electro-mechanical simulations. Our database consists of twenty-four
+    four-chamber hea'
+  image: ''
+  title: A Publicly Available Virtual Cohort of Four-chamber Heart Meshes for Cardiac
+    Electro-mechanics Simulations
+  url: https://zenodo.org/records/3890034
+original_url: https://t.me/MagicDPD/2718
+source: tg
+title: Где спит твоё сердце
+---
+
+Создание вычислительной модели сердца являет настоящей проверкой прочности для самых суровых кодов. Как правило, в таких моделях задействуется несколько областей физики, решаемые совместно: механика, гидродинамика и электрофизиология. Но, что делать, если вы хотите начать работу в данном направлении?
+
+В 2020 году группа ученых из King’s College London  под руководством Марины Строкки (Marina Strocchi) создала и опубликовала в статью "A publicly available virtual cohort of four-chamber heart meshes for cardiac electro-mechanics simulations". Коллеги создали 24 модели 4-х камерного сердца на основе результатов компьютерной томографии и опубликовали их в открытом доступе. Модели пригодны для выполннения КЭ расчетов, так как представляют собой неплохие сетки из линейных TET элементов. Кроме того, в моделях есть информация об ориентации мышечных волокон. В архивах вы можете найти модели в форматах, читаемых Paraview.
+
+Кстати, Ansys при создании моделей сердца в LS-DYNA, использовал именно модели Марины Строкки, о чем есть правильные референсные ссылки. Я думаю, что у Abaqus модели из этой же статиь.
+
+https://doi.org/10.1371/journal.pone.0235145 - научная статья
+https://zenodo.org/records/3890034 - архив моделей

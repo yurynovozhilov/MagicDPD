@@ -1,0 +1,37 @@
+---
+date: 2021-02-20 13:01:36+00:00
+link_previews:
+- description: Interactive running style investigator
+  image: ''
+  title: AnyBodyRun
+  url: https://anybodyrun.com
+- description: Anybodyrun.com was recently released to the public. On this site, you
+    can create a biomechanical model that supposedly runs like you do, and you can
+    investig...
+  image: https://i.ytimg.com/vi/6zNbbP8XzUk/maxresdefault.jpg
+  title: '[Webcast] - AnyBodyRun: A web application for running biomechanics'
+  url: https://www.youtube.com/watch?v=6zNbbP8XzUk
+original_url: https://t.me/MagicDPD/1911
+source: tg
+title: Anybodyrun - цифровой двойник бегуна
+---
+
+Компания AnyBody Technology, занимающаяся созданием моделей опорно-двигательного аппарат человека показала свой новый мини проект. На основе своей математической модели и анализа большого числа бегунов она создала цифрового двойника бегуна, который позволяет определять как ваше состояние и ваша манера бега влияет на, скажем, количество сжигаемых вами калорий. 
+
+
+
+
+
+
+
+С цифровым двойником бегуна на сайте https://anybodyrun.com может поиграться каждый, однако это не игрушка - это результат серьезной научной работы. Более подробно об исследовании в соответствующем вебинаре.
+
+
+
+
+https://www.youtube.com/watch?v=6zNbbP8XzUk
+
+
+#anybody #biomed #digital_twin
+https://tinyurl.com/y8oqrtzg
+by GlukRazor

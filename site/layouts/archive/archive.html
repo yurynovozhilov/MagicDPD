@@ -1,0 +1,424 @@
+{{ define "main" }}
+
+{{/* Collect all posts as flat array */}}
+{{ $posts := slice }}
+{{ range where .Site.RegularPages "Section" "posts" }}
+    {{ if not .Params.hidden }}
+        {{ $post := dict "date" (.Date.Format "2006-01-02") "title" (trim .Title " ") "url" .RelPermalink }}
+        {{ $posts = $posts | append $post }}
+    {{ end }}
+{{ end }}
+
+<style>
+.archive-page {
+    padding: 1rem 0;
+}
+
+.archive-page h1 {
+    margin-bottom: 0.5rem;
+}
+
+.archive-description {
+    color: var(--post-info-color);
+    margin-bottom: 2rem;
+}
+
+/* Year navigation */
+.year-nav {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 1.5rem;
+    flex-wrap: wrap;
+}
+
+.year-nav-label {
+    font-size: 0.85rem;
+    color: var(--post-info-color);
+    margin-right: 0.25rem;
+}
+
+.year-btn {
+    background: none;
+    border: 1px solid var(--hr-color);
+    color: var(--font-color);
+    padding: 0.25rem 0.6rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: background 0.15s, color 0.15s;
+}
+
+.year-btn:hover {
+    background: var(--pre-bg-color);
+}
+
+.year-btn.active {
+    background: var(--link-color);
+    color: #fff;
+    border-color: var(--link-color);
+}
+
+/* Calendar grid */
+.calendar-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+/* Single month */
+.cal-month {
+    border: 1px solid var(--hr-color);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.cal-month-title {
+    background: var(--pre-bg-color);
+    padding: 0.4rem 0.75rem;
+    font-size: 0.95rem;
+    font-weight: 600;
+    text-align: center;
+    border-bottom: 1px solid var(--hr-color);
+}
+
+.cal-weekdays {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    background: var(--pre-bg-color);
+    border-bottom: 1px solid var(--hr-color);
+}
+
+.cal-weekday {
+    text-align: center;
+    font-size: 0.7rem;
+    color: var(--post-info-color);
+    padding: 0.2rem 0;
+    font-weight: 500;
+}
+
+.cal-weekday:nth-child(6),
+.cal-weekday:nth-child(7) {
+    color: var(--link-state-color);
+}
+
+.cal-days {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    padding: 0.35rem;
+    gap: 2px;
+}
+
+.cal-day {
+    aspect-ratio: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.8rem;
+    border-radius: 50%;
+    cursor: default;
+    transition: background 0.15s;
+    color: var(--font-color);
+}
+
+.cal-day.empty {
+    visibility: hidden;
+}
+
+.cal-day.has-posts {
+    cursor: pointer;
+    font-weight: 600;
+    color: var(--link-color);
+    border: 2px solid var(--link-color);
+}
+
+.cal-day.has-posts:hover {
+    background: var(--link-color);
+    color: #fff;
+}
+
+.cal-day.has-posts.selected {
+    background: var(--link-color);
+    color: #fff;
+}
+
+.cal-day.weekend:not(.has-posts) {
+    color: var(--link-state-color);
+}
+
+/* Posts panel */
+.posts-panel {
+    border: 1px solid var(--link-color);
+    border-radius: 8px;
+    padding: 1rem 1.25rem;
+    margin-bottom: 2rem;
+    display: none;
+}
+
+.posts-panel.visible {
+    display: block;
+}
+
+.posts-panel-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.75rem;
+}
+
+.posts-panel-title {
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 0;
+    color: var(--link-color);
+}
+
+.posts-panel-close {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: var(--post-info-color);
+    font-size: 1.2rem;
+    line-height: 1;
+    padding: 0;
+    transition: color 0.15s;
+}
+
+.posts-panel-close:hover {
+    color: var(--link-state-color);
+}
+
+.posts-panel ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.posts-panel ul li {
+    padding: 0.3rem 0;
+    border-bottom: 1px solid var(--hr-color);
+}
+
+.posts-panel ul li:last-child {
+    border-bottom: none;
+}
+
+.posts-panel ul li a {
+    color: var(--link-color);
+    border-bottom: none;
+    font-size: 0.95rem;
+}
+
+.posts-panel ul li a:hover {
+    color: var(--link-state-color);
+    border-bottom: 1px solid var(--link-state-border-color);
+}
+
+.archive-stats {
+    font-size: 0.85rem;
+    color: var(--post-info-color);
+    margin-bottom: 1.5rem;
+}
+</style>
+
+<div class="archive-page">
+    <h1>{{ .Title }}</h1>
+    <p class="archive-description">{{ .Content }}</p>
+
+    <div class="archive-stats" id="archive-stats"></div>
+
+    <div class="year-nav" id="year-nav">
+        <span class="year-nav-label">Год:</span>
+    </div>
+
+    <div class="posts-panel" id="posts-panel">
+        <div class="posts-panel-header">
+            <span class="posts-panel-title" id="posts-panel-title"></span>
+            <button class="posts-panel-close" id="posts-panel-close" title="Закрыть">✕</button>
+        </div>
+        <ul id="posts-list"></ul>
+    </div>
+
+    <div class="calendar-grid" id="calendar-grid"></div>
+</div>
+
+<script>
+(function() {
+    // Flat posts array from Hugo, grouped by date in JS
+    const allPosts = JSON.parse({{ $posts | jsonify }});
+
+    // Group by date
+    const postsByDate = {};
+    allPosts.forEach(function(p) {
+        if (!postsByDate[p.date]) postsByDate[p.date] = [];
+        postsByDate[p.date].push({ title: p.title, url: p.url });
+    });
+
+    const MONTHS_RU = [
+        'Январь','Февраль','Март','Апрель','Май','Июнь',
+        'Июль','Август','Сентябрь','Октябрь','Ноябрь','Декабрь'
+    ];
+    const DAYS_RU = ['Пн','Вт','Ср','Чт','Пт','Сб','Вс'];
+
+    // All years with posts, newest first
+    const years = [...new Set(
+        Object.keys(postsByDate).map(function(d) { return parseInt(d.slice(0, 4)); })
+    )].sort(function(a, b) { return b - a; });
+
+    let selectedYear = years[0];
+    let selectedDateKey = null;
+
+    // Stats
+    const totalPosts = allPosts.length;
+    const totalDays = Object.keys(postsByDate).length;
+    document.getElementById('archive-stats').textContent =
+        'Всего постов: ' + totalPosts + ' за ' + totalDays + ' дней';
+
+    // Year buttons
+    function renderYearNav() {
+        const nav = document.getElementById('year-nav');
+        nav.innerHTML = '<span class="year-nav-label">Год:</span>';
+        years.forEach(function(year) {
+            const btn = document.createElement('button');
+            btn.className = 'year-btn' + (year === selectedYear ? ' active' : '');
+            btn.textContent = year;
+            btn.addEventListener('click', function() {
+                selectedYear = year;
+                selectedDateKey = null;
+                hidePanel();
+                renderYearNav();
+                renderCalendar();
+            });
+            nav.appendChild(btn);
+        });
+    }
+
+    // Mon=0 ... Sun=6
+    function getDow(date) {
+        return (date.getDay() + 6) % 7;
+    }
+
+    function renderCalendar() {
+        const grid = document.getElementById('calendar-grid');
+        grid.innerHTML = '';
+
+        for (var month = 0; month < 12; month++) {
+            var daysInMonth = new Date(selectedYear, month + 1, 0).getDate();
+            var startDow = getDow(new Date(selectedYear, month, 1));
+
+            var monthEl = document.createElement('div');
+            monthEl.className = 'cal-month';
+
+            var titleEl = document.createElement('div');
+            titleEl.className = 'cal-month-title';
+            titleEl.textContent = MONTHS_RU[month];
+            monthEl.appendChild(titleEl);
+
+            var weekdaysEl = document.createElement('div');
+            weekdaysEl.className = 'cal-weekdays';
+            DAYS_RU.forEach(function(d) {
+                var wd = document.createElement('div');
+                wd.className = 'cal-weekday';
+                wd.textContent = d;
+                weekdaysEl.appendChild(wd);
+            });
+            monthEl.appendChild(weekdaysEl);
+
+            var daysEl = document.createElement('div');
+            daysEl.className = 'cal-days';
+
+            // Empty cells
+            for (var i = 0; i < startDow; i++) {
+                var empty = document.createElement('div');
+                empty.className = 'cal-day empty';
+                daysEl.appendChild(empty);
+            }
+
+            for (var day = 1; day <= daysInMonth; day++) {
+                (function(d, m, y) {
+                    var dateKey = y + '-' +
+                        String(m + 1).padStart(2, '0') + '-' +
+                        String(d).padStart(2, '0');
+                    var hasPosts = !!postsByDate[dateKey];
+                    var dow = getDow(new Date(y, m, d));
+                    var isWeekend = dow >= 5;
+
+                    var dayEl = document.createElement('div');
+                    var cls = 'cal-day';
+                    if (isWeekend) cls += ' weekend';
+                    if (hasPosts) cls += ' has-posts';
+                    if (dateKey === selectedDateKey) cls += ' selected';
+                    dayEl.className = cls;
+                    dayEl.textContent = d;
+
+                    if (hasPosts) {
+                        var count = postsByDate[dateKey].length;
+                        dayEl.title = count + ' ' + (count === 1 ? 'пост' : count < 5 ? 'поста' : 'постов');
+                        dayEl.addEventListener('click', function() { selectDate(dateKey); });
+                    }
+
+                    daysEl.appendChild(dayEl);
+                })(day, month, selectedYear);
+            }
+
+            monthEl.appendChild(daysEl);
+            grid.appendChild(monthEl);
+        }
+    }
+
+    function selectDate(dateKey) {
+        if (selectedDateKey === dateKey) {
+            selectedDateKey = null;
+            hidePanel();
+            renderCalendar();
+            return;
+        }
+        selectedDateKey = dateKey;
+        renderCalendar();
+        showPanel(dateKey);
+    }
+
+    function showPanel(dateKey) {
+        var posts = postsByDate[dateKey] || [];
+        var parts = dateKey.split('-');
+        var y = parseInt(parts[0]), m = parseInt(parts[1]), d = parseInt(parts[2]);
+        var count = posts.length;
+        var noun = count === 1 ? 'пост' : count < 5 ? 'поста' : 'постов';
+        var dateStr = d + ' ' + MONTHS_RU[m - 1] + ' ' + y;
+
+        document.getElementById('posts-panel-title').textContent =
+            dateStr + ' — ' + count + ' ' + noun;
+
+        var list = document.getElementById('posts-list');
+        list.innerHTML = '';
+        posts.forEach(function(post) {
+            var li = document.createElement('li');
+            var a = document.createElement('a');
+            a.href = post.url;
+            a.textContent = post.title || '(без названия)';
+            li.appendChild(a);
+            list.appendChild(li);
+        });
+
+        var panel = document.getElementById('posts-panel');
+        panel.classList.add('visible');
+        panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    }
+
+    function hidePanel() {
+        document.getElementById('posts-panel').classList.remove('visible');
+    }
+
+    document.getElementById('posts-panel-close').addEventListener('click', function() {
+        selectedDateKey = null;
+        hidePanel();
+        renderCalendar();
+    });
+
+    renderYearNav();
+    renderCalendar();
+})();
+</script>
+
+{{ end }}

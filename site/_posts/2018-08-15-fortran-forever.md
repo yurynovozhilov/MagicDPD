@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Fortran forever"
+date: 2018-08-15T18:00:54+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1071
+tags:
+  - Fortran
+  - UMAT
+  - UDF
+images:
+  - url: "/assets/images/1072.jpg"
+---
+
+Сколько бы мы не говорили про современные языки программирования, но от Fortran отказаться суровым экспертам в CAE пока не получается. Если вы собираетесь писать расширения к таким заслуженным кодам, как ANSYS, LS-DYNA, code_aster, то придется научиться писать на Fortran. Ведь вы же не думаете, что кто-то отважется переписать ядро решателя с 50-летней историей на Python или Go?
+Таким образом, у нас сегодня первая половина курса из 11 видеоуроков по Fortran от основателя портала http://feaforall.com
+
+
+
+
+
+
+
+#Fortran #UDF #UMAT
+http://bit.ly/2OBDYkQ

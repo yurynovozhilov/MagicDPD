@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Научная публикация о пузырьках Guinness"
+date: 2019-06-21T17:00:15+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1512
+tags:
+  - simulationfriday
+  - CFD
+images:
+  - url: "/assets/images/1512.jpg"
+---
+
+Отличная задача для гидродинамиков после посиделок в пабе.
+
+
+
+
+
+
+
+Суть в том, что коллеги решили измерить и изучить при помощи скоростной камеры и лазера поведение пузырьков пива Гинес — и это не шутка, это публикация в журнале Nature: https://www.nature.com/articles/s41598-019-42094-0 — осталось только натравить на это CFD.
+
+#CFD #simulationfriday
+
+https://wp.me/p9vWYY-2tD

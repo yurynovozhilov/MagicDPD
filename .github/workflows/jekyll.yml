@@ -1,0 +1,73 @@
+name: Deploy Hugo site to GitHub Pages
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cache link previews
+        uses: actions/cache@v4
+        with:
+          path: link_previews_cache.json
+          key: link-previews-${{ hashFiles('site/content/posts/**') }}
+          restore-keys: |
+            link-previews-
+
+      - name: Install Python deps
+        run: pip install python-frontmatter requests beautifulsoup4 lxml
+
+      - name: Fetch link previews
+        run: python fetch_link_previews.py
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.157.0"
+          extended: true
+
+      - name: Build with Hugo
+        run: hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+        working-directory: site
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/public
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

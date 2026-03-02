@@ -1,0 +1,27 @@
+{{- $isExternal := or (hasPrefix .Destination "http://") (hasPrefix .Destination "https://") -}}
+{{- $previewEnabled := true -}}
+{{- $apiEndpoint := "https://api.microlink.io/" -}}
+{{- with site.Params.linkPreviews -}}
+  {{- if isset . "enabled" -}}
+    {{- $previewEnabled = .enabled -}}
+  {{- end -}}
+  {{- with .apiEndpoint -}}
+    {{- $apiEndpoint = . -}}
+  {{- end -}}
+{{- end -}}
+
+<a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if $isExternal }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- if and $isExternal $previewEnabled -}}
+  {{- $previewLabel := .Text | plainify | strings.TrimSpace -}}
+  {{- if eq $previewLabel "" -}}
+    {{- $previewLabel = .Destination -}}
+  {{- end -}}
+  <span
+    class="link-preview js-link-preview"
+    data-url="{{ .Destination | htmlEscape }}"
+    data-text="{{ $previewLabel | htmlEscape }}"
+    data-api="{{ $apiEndpoint | htmlEscape }}"
+  >
+    <span class="link-preview__status" aria-hidden="true"></span>
+  </span>
+{{- end -}}
