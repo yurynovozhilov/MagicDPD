@@ -4,10 +4,9 @@ title: "Учет демпфирования в механике"
 date: 2019-04-02T12:00:16+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1423
 tags:
-  - Comsol
   - damping
+  - Comsol
 images:
   - url: "/assets/images/1423.jpg"
 ---
@@ -23,4 +22,7 @@ images:
 
 #Comsol #damping
 
+https://wp.me/p9vWYY-2s8
+
+https://www.comsol.com/blogs/damping-in-structural-dynamics-theory-and-sources/
 https://wp.me/p9vWYY-2s8

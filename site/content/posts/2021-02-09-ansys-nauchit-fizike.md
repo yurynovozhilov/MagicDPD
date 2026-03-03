@@ -4,7 +4,6 @@ title: "Ansys научит физике"
 date: 2021-02-09T13:01:17+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1901
 tags:
   - training
   - ansys
@@ -39,3 +38,7 @@ https://www.youtube.com/watch?v=3PoZZ7FsJrA
 #ansys #training
 https://tinyurl.com/y4llnjyb
 by Юрий Новожилов
+
+[What are Ansys Innovation Courses?](https://www.youtube.com/watch?v=3PoZZ7FsJrA)
+https://courses.ansys.com/
+https://tinyurl.com/y4llnjyb

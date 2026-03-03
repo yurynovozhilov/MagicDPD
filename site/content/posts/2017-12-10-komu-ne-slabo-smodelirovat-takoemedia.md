@@ -4,9 +4,12 @@ title: "Кому не слабо смоделировать такое?Media📼
 date: 2017-12-10T06:00:51+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_650
 ---
 
 Кому не слабо смоделировать такое?Media📼 Точение металла с наростом на резце в замедленной…
 
 http://ift.tt/2kOeFSQ
+
+http://ift.tt/2iLidkz
+http://ift.tt/2kOeFSQ
+ttp://ift.tt/2kOeFSQ

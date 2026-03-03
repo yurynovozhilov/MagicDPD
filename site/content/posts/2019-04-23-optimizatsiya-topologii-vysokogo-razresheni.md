@@ -4,10 +4,9 @@ title: "Оптимизация топологии высокого разреш�
 date: 2019-04-23T17:00:30+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1455
 tags:
-  - optimization
   - Topology
+  - optimization
 images:
   - url: "/assets/images/1455.jpg"
 ---
@@ -29,4 +28,7 @@ images:
 
 #optimization #Topology
 
+https://wp.me/p9vWYY-2ue
+
+https://doi.org/10.1145/3272127.3275012
 https://wp.me/p9vWYY-2ue

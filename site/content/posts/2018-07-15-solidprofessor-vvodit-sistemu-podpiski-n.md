@@ -4,15 +4,14 @@ title: "SolidProfessor вводит систему подписки на сво�
 date: 2018-07-15T18:02:34+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1015
 tags:
-  - Inventor
-  - Caita
-  - SolidProfessor
-  - SolidWorks
-  - Autodesk
   - ANSYS
+  - SolidWorks
+  - SolidProfessor
   - Onshape
+  - Caita
+  - Inventor
+  - Autodesk
 images:
   - url: "/assets/images/1016.jpg"
 ---
@@ -23,4 +22,8 @@ SolidProfessor вводит систему подписки на свою биб
 https://www.develop3d.com/blog/solidprofessor-announces-single-plan-pricing-solidworks-education
 
 #ANSYS #Autodesk #Caita #Inventor #Onshape #SolidProfessor #SolidWorks
+http://bit.ly/2uzy0c0
+
+https://www.solidprofessor.com/tutorials/
+https://www.develop3d.com/blog/solidprofessor-announces-single-plan-pricing-solidworks-education
 http://bit.ly/2uzy0c0

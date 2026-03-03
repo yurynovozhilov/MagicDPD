@@ -4,7 +4,6 @@ title: "Вебинар nTop + Intact.Simulation"
 date: 2025-03-21T12:04:33+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2910
 ---
 
 Вебинар nTop + Intact.Simulation
@@ -12,3 +11,5 @@ original_url: https://vk.com/wall-97265142_2910
 Посмотрим на связку кодов, конкурирующую с IGA методом? Напомню, что Intact.Simulation разрабатывают "свой" метод погруженный моментов (Immersed Method of Moments), не требующий создания конформной сетки для геометрии. Прикол в том, что в общепринятой терминологии есть метод моментов (привет электродинамика) и есть метод погруженной границы (привет гидродинамика). А у нас тут какая-то игра слов, причем применяемая к механике деформируемого твердого тела. Может кто прояснить? Я пока даже публикаций на эту тему найти не могу.
 
 https://www.ntop.com/resources/webinars/intact-webinar/
+
+[nTop + Intact.Simulation Webinar | nTop](https://www.ntop.com/resources/webinars/intact-webinar/)

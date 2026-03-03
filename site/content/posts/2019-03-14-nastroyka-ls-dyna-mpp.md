@@ -4,14 +4,13 @@ title: "Настройка LS-DYNA MPP"
 date: 2019-03-14T17:00:27+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1393
 tags:
-  - DMP
-  - LS_DYNA
-  - MPP
   - Oasys
-  - ARUP
+  - LS_DYNA
   - HPC
+  - DMP
+  - MPP
+  - ARUP
 images:
   - url: "/assets/images/1393.jpg"
 ---
@@ -49,3 +48,6 @@ https://www.youtube.com/watch?v=rxutBQXGWpQ
 https://wp.me/p9vWYY-2p8
 
 by
+
+https://www.youtube.com/watch?v=rxutBQXGWpQ
+https://wp.me/p9vWYY-2p8

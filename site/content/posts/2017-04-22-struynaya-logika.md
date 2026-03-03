@@ -4,11 +4,10 @@ title: "Струйная логика"
 date: 2017-04-22T17:01:26+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_337
 tags:
   - Symscape
-  - fuidics
   - CFD
+  - fuidics
 ---
 
 Струйная логика
@@ -18,4 +17,8 @@ http://www.symscape.com/blog/fluidic-logic
 
 #Symscape в своем блоке показывает как скресить струйную логику и #CFD расчеты.
 
+http://www.symscape.com/blog/fluidic-logic
+
+https://www.symscape.com/blog/fluidic-logic
+http://www.symscape.com/blog/fluidic-logic
 http://www.symscape.com/blog/fluidic-logic

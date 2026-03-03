@@ -4,12 +4,11 @@ title: "Новые возможности SpaceClaim 18.1"
 date: 2017-06-09T17:01:05+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_371
 tags:
   - SpaceClaim
+  - SCDM
   - ANSYS
   - STL
-  - SCDM
 ---
 
 Новые возможности SpaceClaim 18.1
@@ -20,3 +19,5 @@ https://www.youtube.com/watch?v=c8BXU7FPFN0
 P.S. Забавно, но похоже ANSYS сам начинает путаться в нумерации своих приложений: SCDM не 2017.1, а 18.1 (версии дам сохранились только для электромагнитного софта).
 
 https://www.youtube.com/watch?v=c8BXU7FPFN0
+
+[ANSYS SpaceClaim 2017.1 Enhancements](https://www.youtube.com/watch?v=c8BXU7FPFN0)

@@ -4,7 +4,6 @@ title: "На днях меня пригласили на конференцию 
 date: 2016-07-16T08:01:12+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_41
 tags:
   - opensource
 images:
@@ -25,3 +24,6 @@ images:
 Решение задач механики сплошных сред с использованием СПО: 09 Декабря.
 
 #opensource http://www.isprasopen.ru
+
+https://www.isprasopen.ru/
+http://www.isprasopen.ru

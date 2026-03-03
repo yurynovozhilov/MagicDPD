@@ -4,7 +4,6 @@ title: "openSPDM - почти бесплатная Minerva"
 date: 2024-02-08T17:18:17+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2641
 ---
 
 openSPDM - почти бесплатная Minerva
@@ -17,4 +16,7 @@ openSPDM - почти бесплатная Minerva
 Hyperworks, Abaqus CAE, Coreform Cubit и LS-DYNA. Но знающие люди говорят, что написать свои интеграции не сложно.
 
 https://vimeo.com/884908682
+https://openspdm.com/
+
+[Four connectors to openSPDM, Description AbaqusCAE, Coreform Cubit, Hyperworks, LS-DYNA](https://vimeo.com/884908682)
 https://openspdm.com/

@@ -4,11 +4,12 @@ title: "Мы проведем семинар по вопросам на засы
 date: 2016-02-15T18:00:28+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1256
 tags:
+  - Rocky
   - DEM
   - ANSYS
-  - Rocky
 ---
 
 Мы проведем семинар по вопросам на засыпку уже сорок!
+
+[26 февраля в Санкт-Петербурге пройдет семинар по ANSYS и ROCKY— CADFEM](http://www.cadfem-cis.ru/list/article/rocky-seminar/)

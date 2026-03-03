@@ -4,12 +4,11 @@ title: "ANSYS SPEOS — что ты такое"
 date: 2019-08-27T13:00:33+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1565
 tags:
+  - Optics
+  - SPEOS
   - SpaceClaim
   - ANSYS
-  - SPEOS
-  - Optics
 images:
   - url: "/assets/images/1565.jpg"
 ---
@@ -21,4 +20,8 @@ ANSYS SPEOS — что ты такое
 
 #ANSYS #Optics #SpaceClaim #SPEOS
 
+https://wp.me/p9vWYY-2EL
+
+https://www.cadfem-cis.ru/products/ansys/systems/speos/
+https://www.ansys.com/products/optical/ansys-speos
 https://wp.me/p9vWYY-2EL

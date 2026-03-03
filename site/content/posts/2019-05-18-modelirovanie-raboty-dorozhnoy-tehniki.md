@@ -4,10 +4,9 @@ title: "Моделирование работы дорожной техники"
 date: 2019-05-18T17:00:15+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1477
 tags:
-  - EDEM
   - DEM
+  - EDEM
 images:
   - url: "/assets/images/1477.jpg"
 ---
@@ -22,3 +21,5 @@ images:
 https://wp.me/p9vWYY-2wb
 
 by Юрий Новожилов
+
+https://wp.me/p9vWYY-2wb

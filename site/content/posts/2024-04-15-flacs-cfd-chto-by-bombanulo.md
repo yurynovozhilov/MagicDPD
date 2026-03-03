@@ -4,7 +4,6 @@ title: "FLACS-CFD - что бы бомбануло"
 date: 2024-04-15T14:56:32+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2684
 ---
 
 FLACS-CFD - что бы бомбануло
@@ -14,3 +13,5 @@ FLACS-CFD - что бы бомбануло
 Вопрос в студию: а видел кто успешные расчеты, что бы ударная волна от газовой детонации или дефлаграции взаимодействовала с деформируемой и разрушаемой FEM моделью?
 
 https://www.gexcon.com/software/flacs-cfd/solvers/
+
+[Solvers | FLACS-CFD | Gexcon AS - Fire & Explosion Consultants](https://www.gexcon.com/software/flacs-cfd/solvers/)

@@ -4,7 +4,6 @@ title: "Расширение для работы Adaptive ISPG в WB LSD"
 date: 2024-10-02T12:30:48+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2793
 images:
   - url: "/assets/images/2793.jpg"
 ---
@@ -16,5 +15,7 @@ images:
 Кстати, это уже третья версия метода в решателе. Первая была суровой бетой, и работала только с одним объемом жидкости. Вторая сейчас есть в WB LSD нативно, но реализация не идеальна. А вот это, третья, самая топовая. Тут и адаптивный размер частиц, и сложные модели жидкости с зависимостью от температуры. Короче, я пробовал еще в прошлом году, и мой вердикт - надо брать!
 
 Основные области применения: моделирование пайки микропроцессоров, моделирование нанесения паст, термоинтерфейсов и адгезовов.
+
+https://www.dynalook.com/conferences/14th-european-ls-dyna-conference-2023/manufacturing-process-simulation/kumar_ansys.pdf
 
 https://www.dynalook.com/conferences/14th-european-ls-dyna-conference-2023/manufacturing-process-simulation/kumar_ansys.pdf

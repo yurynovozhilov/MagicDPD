@@ -4,7 +4,6 @@ title: "Матфизика от Карла Бендер"
 date: 2021-10-29T13:01:27+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2024
 tags:
   - theory
 ---
@@ -24,4 +23,7 @@ https://www.youtube.com/playlist?list=PLOFVFbzrQ49TNlDOxxCAjC7kbnorAR1MU
 Лекции его просто восхитительны - начав смотреть очень трудно остановиться!
 
 #theory
+https://tinyurl.com/yf72j2r2
+
+[Prof. Carl Bender - Mathematical Physics](https://www.youtube.com/playlist?list=PLOFVFbzrQ49TNlDOxxCAjC7kbnorAR1MU)
 https://tinyurl.com/yf72j2r2

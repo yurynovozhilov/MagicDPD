@@ -4,15 +4,14 @@ title: "Все в учебном курсе от #edx по #ANSYS #Mechanical и
 date: 2016-07-13T16:10:51+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_31
 tags:
-  - edx
-  - Mechanical
-  - Cornell
-  - composites
-  - FSI
-  - Fleunt
   - ANSYS
+  - Cornell
+  - Mechanical
+  - FSI
+  - edx
+  - Fleunt
+  - composites
 ---
 
 Все в учебном курсе от #edx по #ANSYS #Mechanical и #Fleunt было хорошо, кроме одного "НО". Последнем факультативном задании с #FSI и не для средних умов они почему-то взяли и вывели в качестве результатов для композитной ортотропной оболочки лопасти ветряка... эквивалентные по Мизесу напряжения!
@@ -21,3 +20,5 @@ tags:
 
 Не надо так!
 #composites #Cornell https://www.youtube.com/watch?v=zkC7MoFTK9E
+
+[CORENGR22016-V024300](https://www.youtube.com/watch?v=zkC7MoFTK9E)

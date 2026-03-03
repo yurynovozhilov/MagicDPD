@@ -4,12 +4,11 @@ title: "ANSYS устраивает конкурс"
 date: 2018-01-10T08:43:54+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_710
 tags:
-  - NVIDIA
   - Discovery
-  - ANSYS
   - competition
+  - ANSYS
+  - NVIDIA
 ---
 
 ANSYS устраивает конкурс
@@ -38,4 +37,8 @@ Free Discovery Live subscription for 2018
 
 Конкурс продлится до 28 февряля 2018 года - подробности участия в конкурсе по ссылке: http://www.ansys.com/other/discovery-live-competition
 #ANSYS #competition #Discovery #NVIDIA
+https://magicdpd.ru/?p=5892
+
+[Discovery Live Engineering Design Competition | ANSYS](https://www.ansys.com/other/discovery-live-competition)
+http://www.ansys.com/other/discovery-live-competition
 https://magicdpd.ru/?p=5892

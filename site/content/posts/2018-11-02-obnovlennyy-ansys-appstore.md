@@ -4,10 +4,9 @@ title: "Обновлённый ANSYS AppStore"
 date: 2018-11-02T17:00:19+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1187
 tags:
-  - AppStore
   - ACT
+  - AppStore
   - ANSYS
 images:
   - url: "/assets/images/1188.jpg"
@@ -18,4 +17,7 @@ images:
 https://mobile.engineering.com/amp/17836.html
 
 #ACT #ANSYS #AppStore
+http://bit.ly/2PGRrfC
+
+[The ANSYS AppStore Is Now Live](https://mobile.engineering.com/amp/17836.html)
 http://bit.ly/2PGRrfC

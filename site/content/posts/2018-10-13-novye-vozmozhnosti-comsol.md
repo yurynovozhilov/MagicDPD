@@ -4,7 +4,6 @@ title: "Новые возможности COMSOL"
 date: 2018-10-13T17:00:21+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1145
 tags:
   - Comsol
   - COMSOLCompiler
@@ -22,4 +21,8 @@ http://isicad.ru/ru/news.php?news=20122
 Интересно, а кто-нибудь из больших игроков когда-нибудь сделает такое решение? И что бы все еще и без лицензий работало :-)
 
 #Comsol #COMSOLCompiler
+http://bit.ly/2CcRCYM
+
+[COMSOL® Software Version 5.4 Release Highlights](https://www.comsol.com/release/5.4)
+http://isicad.ru/ru/news.php?news=20122
 http://bit.ly/2CcRCYM

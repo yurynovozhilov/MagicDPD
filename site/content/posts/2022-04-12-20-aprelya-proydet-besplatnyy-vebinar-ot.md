@@ -4,15 +4,14 @@ title: "20 апреля пройдет бесплатный вебинар от 
 date: 2022-04-12T17:00:06+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2211
 tags:
   - CivilFEM
+  - LSDYNA
   - bridge
   - civil
+  - impact
   - Marc
   - concrete
-  - LSDYNA
-  - impact
 images:
   - url: "/assets/images/2211.jpg"
   - url: "/assets/images/2212.jpg"
@@ -27,3 +26,5 @@ images:
 Короче, все как я люблю: железобетон, большие конструкции, удары, но только не с  #LSDYNA, а с #CivilFEM powered by #Marc.
 
 #concrete #impact #bridge #civil https://www.civilfem.com/bridge-impact-webinar
+
+https://www.civilfem.com/bridge-impact-webinar

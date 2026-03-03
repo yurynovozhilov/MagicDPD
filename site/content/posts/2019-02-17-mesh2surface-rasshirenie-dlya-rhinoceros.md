@@ -4,11 +4,10 @@ title: "Mesh2Surface расширение для Rhinoceros"
 date: 2019-02-17T17:00:26+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1358
 tags:
-  - mesh2surface
-  - STL
   - Rhinoceros
+  - STL
+  - mesh2surface
 images:
   - url: "/assets/images/1358.jpg"
 ---
@@ -28,4 +27,7 @@ https://www.youtube.com/watch?v=yXxOv54Adk4
 
 #mesh2surface #Rhinoceros #STL
 
+https://wp.me/p9vWYY-2lr
+
+https://www.youtube.com/watch?v=yXxOv54Adk4
 https://wp.me/p9vWYY-2lr

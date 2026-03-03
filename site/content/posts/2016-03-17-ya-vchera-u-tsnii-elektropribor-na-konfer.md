@@ -4,11 +4,10 @@ title: "Я вчера у ЦНИИ \"Электроприбор\" на конфе
 date: 2016-03-17T07:01:26+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1433
 tags:
-  - lsdyna
   - FSI
   - slamming
+  - lsdyna
   - ALE
 ---
 
@@ -18,3 +17,5 @@ P.S. Хозяйке на заметку: SlideGo оказался единств
 
 P.P.S. Волшебная строчка для конвертации видео в формат, понятный HTML5 браузерам:
 ffmpeg -i file.avi -c:v libx264 -pix_fmt yuv420p -movflags faststart file.mp4
+
+[2016 Моделирование продольного спуска судна на воду.pptx](http://www.slidego.com/go/19337)

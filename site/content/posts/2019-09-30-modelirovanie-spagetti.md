@@ -4,10 +4,9 @@ title: "Моделирование спагетти"
 date: 2019-09-30T13:00:29+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1596
 tags:
-  - two_minute_papers
   - FSI
+  - two_minute_papers
 images:
   - url: "/assets/images/1596.jpg"
 ---

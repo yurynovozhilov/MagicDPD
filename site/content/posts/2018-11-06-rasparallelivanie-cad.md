@@ -4,11 +4,10 @@ title: "Распараллеливание CAD"
 date: 2018-11-06T17:01:33+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1195
 tags:
+  - Onshape
   - CAD
   - Cloud
-  - Onshape
 images:
   - url: "/assets/images/1196.jpg"
 ---
@@ -18,4 +17,7 @@ images:
 https://www.onshape.com/cad-blog/has-parallelization-finally-reached-cad
 
 #CAD #Cloud #Onshape
+http://bit.ly/2F4nz8J
+
+[Has Parallelization Finally Reached CAD?](https://www.onshape.com/cad-blog/has-parallelization-finally-reached-cad)
 http://bit.ly/2F4nz8J

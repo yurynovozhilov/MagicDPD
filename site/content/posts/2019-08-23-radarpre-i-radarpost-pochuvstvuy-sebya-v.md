@@ -4,7 +4,6 @@ title: "RadarPre и RadarPost — почувствуй себя в радиол�
 date: 2019-08-23T13:00:54+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1562
 images:
   - url: "/assets/images/1562.jpg"
 ---
@@ -44,4 +43,8 @@ RadarPre и RadarPost — почувствуй себя в радиолокац�
 
 
 
+https://appstorecdn.ansys.com/imgs/ANSYSACTAppRadarPre_2018.pdf
+
+https://catalog.ansys.com/product/5bdb18f0393ff664ec9cb3c4/radarpre
+https://catalog.ansys.com/product/5bdb1963393ff664ec9cb3c9/radarpost
 https://appstorecdn.ansys.com/imgs/ANSYSACTAppRadarPre_2018.pdf

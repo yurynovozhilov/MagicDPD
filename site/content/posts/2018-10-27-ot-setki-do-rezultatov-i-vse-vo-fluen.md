@@ -4,7 +4,6 @@ title: "От сетки до результатов - и все во Fluent"
 date: 2018-10-27T16:01:39+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1175
 tags:
   - CFD
   - Fluent
@@ -19,4 +18,6 @@ images:
 Неужели инженерное ПО становиться удобным? :-)
 
 #ANSYS #CFD #Fluent
+http://bit.ly/2D8iGKa
+
 http://bit.ly/2D8iGKa

@@ -4,7 +4,6 @@ title: "Проектирование шасси для Formula SAE с ANSYS Stud
 date: 2019-07-31T13:01:43+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1543
 images:
   - url: "/assets/images/1543.jpg"
 ---
@@ -57,3 +56,5 @@ images:
 
 
 Забавный факт: хотя цикл видео и содержит ANSYS Student в заголовке, и  его возможностей безусловно хватит для такого расчета, но видео сделано  на топовой лицензии Mechanical Enterprise, да и лицензий ANSYS Student  формально запрещает вам решать что-либо, кроме учебных
+
+https://ru.wikipedia.org/wiki/Formula_SAE

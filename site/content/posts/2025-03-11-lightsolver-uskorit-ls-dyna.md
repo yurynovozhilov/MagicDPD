@@ -4,7 +4,6 @@ title: "LightSolver ускорит LS-DYNA?"
 date: 2025-03-11T12:24:35+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2902
 ---
 
 LightSolver ускорит LS-DYNA?
@@ -16,3 +15,5 @@ LightSolver ускорит LS-DYNA?
 В первом комментарии я прикреплю пояснение от GPU 4o про работу, и почему это может быть полезно. Но легче вам от этого не станет. Ну а пока Ansys будет делать все, что угодно, но не портировать код на GPU.
 
 https://insidehpc.com/2025/02/laser-based-lightsolver-partners-with-ansys-on-cae/
+
+[Laser-Based LightSolver Partners With Ansys on CAE](https://insidehpc.com/2025/02/laser-based-lightsolver-partners-with-ansys-on-cae/)

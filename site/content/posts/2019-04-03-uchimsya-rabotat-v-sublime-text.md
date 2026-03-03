@@ -4,15 +4,14 @@ title: "Учимся работать в Sublime Text"
 date: 2019-04-03T12:51:24+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1429
 tags:
   - LS_DYNA
   - Abaqus
-  - SublimeText
-  - ABAQUS
+  - ANSYS
   - APDL
   - LSDYNA
-  - ANSYS
+  - ABAQUS
+  - SublimeText
 images:
   - url: "/assets/images/1429.jpg"
 ---
@@ -26,5 +25,7 @@ SublimeText — мой любимый текстовый редактор. Я у
 
 
 #ABAQUS #ANSYS #APDL #LS_DYNA #SublimeText
+
+https://wp.me/s9vWYY-4899
 
 https://wp.me/s9vWYY-4899

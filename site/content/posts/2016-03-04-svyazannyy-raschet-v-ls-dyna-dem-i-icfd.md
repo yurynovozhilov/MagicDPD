@@ -4,13 +4,12 @@ title: "Связанный расчет в LS-DYNA: #DEM и #ICFD. Дискре�
 date: 2016-03-04T11:27:39+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1334
 tags:
-  - ICFD
-  - DEM
-  - FSI
   - CFD
+  - DEM
   - LSDYNA
+  - FSI
+  - ICFD
 ---
 
 Связанный расчет в LS-DYNA: #DEM и #ICFD. Дискретные частицы захватываются потоком и взаимодействуют с объектом.

@@ -4,7 +4,6 @@ title: "Моделирование резки металла бессеточн�
 date: 2018-02-06T18:01:28+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_772
 tags:
   - cutting
   - LSTC
@@ -29,4 +28,9 @@ https://www.youtube.com/watch?v=BREDG6QHUKA
 
 А еще по этой теме есть готовый пример от LSTC: http://www.dynaexamples.com/efg/metal-cutting
 #cutting #EFG #LS-DYNA #LSTC
+https://wp.me/p9vWYY-1C4
+
+http://www.dynalook.com/european-conf-2009/I-I-01.pdf
+https://www.youtube.com/watch?v=BREDG6QHUKA
+http://www.dynaexamples.com/efg/metal-cutting
 https://wp.me/p9vWYY-1C4

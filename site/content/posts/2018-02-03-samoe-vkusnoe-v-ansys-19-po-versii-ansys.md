@@ -4,14 +4,13 @@ title: "Самое вкусное в ANSYS 19 по версии ANSYS"
 date: 2018-02-03T17:00:41+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_764
 tags:
-  - HFSS
-  - smart
-  - Fluent
-  - Mechanical
   - SBR
   - ANSYS
+  - smart
+  - Mechanical
+  - HFSS
+  - Fluent
 images:
   - url: "/assets/images/765.jpg"
 ---
@@ -47,4 +46,7 @@ images:
 
 https://www.ansys-blog.com/ansys-19-release/
 #ANSYS #Fluent #HFSS #Mechanical #SBR+ #smart
+https://magicdpd.ru/?p=6141
+
+https://www.ansys-blog.com/ansys-19-release/
 https://magicdpd.ru/?p=6141

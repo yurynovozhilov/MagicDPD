@@ -4,10 +4,11 @@ title: "Когда-то, в студенческие годы, я был яры�
 date: 2015-12-04T06:30:09+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_841
 tags:
-  - Maple
   - MapleSim
+  - Maple
 ---
 
 Когда-то, в студенческие годы, я был ярым фанатом математического пакета для символьных вычисления #Maple. Мне очень приятно узнать, что компания продолжает развитие своих технологий. Сейчас у них вышла очередная версия их нового продукта для моделирования систем #MapleSim. Один ил самых мощных на рынке (если не самый мощный) движок символьных вычислений нашел новое применение!
+
+[Featured Demonstration - Real-World Experiences with MapleSim - Maplesoft](http://www.maplesoft.com/products/maplesim/demo/RealWorldExperiencesMapleSim.aspx)

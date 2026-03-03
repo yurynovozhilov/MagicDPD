@@ -4,12 +4,11 @@ title: "Суровая работа в Compose"
 date: 2018-07-02T18:03:31+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_989
 tags:
-  - SolidThinking
-  - Compose
   - IDE
   - Altair
+  - Compose
+  - SolidThinking
 images:
   - url: "/assets/images/990.jpg"
 ---
@@ -21,4 +20,6 @@ images:
 
 
 #Altair #Compose #IDE #SolidThinking
+http://bit.ly/2tVwTTz
+
 http://bit.ly/2tVwTTz

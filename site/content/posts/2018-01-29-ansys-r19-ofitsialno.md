@@ -4,19 +4,18 @@ title: "ANSYS R19 официально"
 date: 2018-01-29T17:00:56+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_754
 tags:
-  - XFEM
-  - Meshing
-  - optimization
+  - Cartesian
+  - CFD
+  - Mechaincal
+  - WB
+  - ANSYS
   - HPC
   - Topology
-  - WB
-  - CFD
+  - XFEM
+  - optimization
   - SpaceClaim
-  - ANSYS
-  - Mechaincal
-  - Cartesian
+  - Meshing
 images:
   - url: "/assets/images/755.jpg"
 ---
@@ -74,4 +73,9 @@ WB LS-DYNA
 "ANSYS 19.0 — Технические требования к программно-аппаратным комплексам и лицензионная политика в области HPC" https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/19/ANSYS19.0_tech.pdf
 
 #ANSYS #Cartesian #CFD #HPC #Mechaincal #Meshing #optimization #SpaceClaim #Topology #WB LS-DYNA #XFEM
+https://magicdpd.ru/?p=6128
+
+https://www.cadfem-cis.ru/products/ansys/ansys-update/
+https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/19/ANSYS19.0_update.pdf
+https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/19/ANSYS19.0_tech.pdf
 https://magicdpd.ru/?p=6128

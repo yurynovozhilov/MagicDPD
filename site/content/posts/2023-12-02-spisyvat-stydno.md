@@ -4,7 +4,6 @@ title: "Списывать стыдно!"
 date: 2023-12-02T16:02:20+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2589
 images:
   - url: "/assets/images/2589.jpg"
   - url: "/assets/images/2590.jpg"

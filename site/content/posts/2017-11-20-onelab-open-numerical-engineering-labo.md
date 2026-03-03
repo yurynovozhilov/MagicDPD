@@ -4,15 +4,14 @@ title: "#ONELAB (Open Numerical Engineering LABoratory) - готовый бе"
 date: 2017-11-20T17:05:23+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_620
 tags:
+  - GetDP
   - Elmer
-  - OpenFOAM
   - Gmsh
   - КЭ
   - ONELAB
   - opensource
-  - GetDP
+  - OpenFOAM
 ---
 
 #ONELAB (Open Numerical Engineering LABoratory) - готовый бесплатный кросс платформенный набор инженерного софта с открытым исходным кодом для работы с #КЭ решателями и сеточным генератором #Gmsh. В комплекте есть собственный решатель #GetDP. Заявлена поддержка #OpenFOAM и #Elmer
@@ -23,3 +22,6 @@ tags:
 #opensource
 
 http://onelab.info/wiki/ONELAB 🔗 ONELAB - ONELAB
+
+http://ift.tt/2jHnEoG
+http://onelab.info/wiki/ONELAB

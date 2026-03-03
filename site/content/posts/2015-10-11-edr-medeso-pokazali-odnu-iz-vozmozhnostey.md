@@ -4,13 +4,12 @@ title: "EDR Medesо показали одну из возможностей св
 date: 2015-10-11T18:00:15+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_496
 tags:
   - bolts
-  - EDRMedesо
+  - ANSYS
   - Mechanical
   - Workbench
-  - ANSYS
+  - EDRMedesо
   - ACT
 ---
 

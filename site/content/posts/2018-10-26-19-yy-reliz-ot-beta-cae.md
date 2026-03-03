@@ -4,12 +4,11 @@ title: "19-ый релиз от BETA CAE"
 date: 2018-10-26T17:00:52+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1173
 tags:
-  - ANSA
   - BetaCAE
-  - Epilysis
   - Meta
+  - ANSA
+  - Epilysis
 images:
   - url: "/assets/images/1174.jpg"
 ---
@@ -21,4 +20,6 @@ images:
 
 
 #ANSA #BetaCAE #Epilysis #Meta
+http://bit.ly/2D7p1p6
+
 http://bit.ly/2D7p1p6

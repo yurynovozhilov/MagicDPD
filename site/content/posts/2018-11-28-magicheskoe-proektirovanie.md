@@ -4,10 +4,9 @@ title: "Магическое проектирование"
 date: 2018-11-28T17:01:46+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1239
 tags:
-  - Optimization
   - Topology
+  - Optimization
 ---
 
 Магическое проектирование
@@ -20,4 +19,7 @@ tags:
 http://isicad.ru/ru/articles.php?article_num=20198
 
 #Optimization #Topology
+http://bit.ly/2TWghXM
+
+[Порождающим проектированием (GD) в мире не случайно занимаются не менее дюжины серьёзных вендоров](http://isicad.ru/ru/articles.php?article_num=20198)
 http://bit.ly/2TWghXM

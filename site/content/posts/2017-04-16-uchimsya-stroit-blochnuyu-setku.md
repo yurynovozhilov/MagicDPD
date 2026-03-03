@@ -4,11 +4,10 @@ title: "Учимся строить блочную сетку"
 date: 2017-04-16T08:01:55+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_330
 tags:
   - ICEM
-  - ANSYS
   - Meshing
+  - ANSYS
 ---
 
 Учимся строить блочную сетку
@@ -18,6 +17,11 @@ https://www.youtube.com/watch?v=joTej2spPVo
 
 Давайте вместе попробуем в нем разобраться. Для начала серия усебных видео. https://www.youtube.com/watch?v=joTej2spPVo
 
+https://www.youtube.com/watch?v=egtU249oejM
+https://www.youtube.com/watch?v=RHqrCYhXPd4
+https://www.youtube.com/watch?v=m0AEh8yXgJ8
+
+[Icem CFD Mesh body 3d](https://www.youtube.com/watch?v=joTej2spPVo)
 https://www.youtube.com/watch?v=egtU249oejM
 https://www.youtube.com/watch?v=RHqrCYhXPd4
 https://www.youtube.com/watch?v=m0AEh8yXgJ8

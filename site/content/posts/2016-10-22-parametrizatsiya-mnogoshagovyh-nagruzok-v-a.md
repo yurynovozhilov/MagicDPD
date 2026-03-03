@@ -4,12 +4,11 @@ title: "Параметризация многошаговых нагрузок �
 date: 2016-10-22T12:00:18+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_154
 tags:
+  - ANSYS
   - enginsoft
   - Mechanical
   - Workbench
-  - ANSYS
   - ACT
 ---
 
@@ -21,5 +20,7 @@ https://appstore.ansys.com/download?prodid=APC-ACTAPP-153
 Компания Engin Soft исправила это досадное упущение при помощи своего бесплатного #ACT MultiStep Parametric Loads (https://appstore.ansys.com/download?prodid=APC-ACTAPP-153). Они реализовали возможность параметризовать значения граничных условий и условий нагружения на каждом шаге. Первая версия ACT работает с R17.0 и R17.1
 
 #enginsoft
+
+https://appstore.ansys.com/download?prodid=APC-ACTAPP-153
 
 https://appstore.ansys.com/download?prodid=APC-ACTAPP-153

@@ -4,13 +4,12 @@ title: "Очень большой VR"
 date: 2016-10-18T17:00:17+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_150
 tags:
-  - Bently
-  - Microstation
-  - BIM
-  - VR
   - Atari
+  - Bently
+  - BIM
+  - Microstation
+  - VR
 ---
 
 Очень большой VR
@@ -20,4 +19,7 @@ http://www.modalvr.com/
 
 Уже интересно походить внутри какого-нибудь здания, построенного в какой-нибудь #BIM системе, #Bently #Microstation например.
 
+https://www.youtube.com/watch?v=sXAGEEbJaEU
+
+http://www.modalvr.com/
 https://www.youtube.com/watch?v=sXAGEEbJaEU

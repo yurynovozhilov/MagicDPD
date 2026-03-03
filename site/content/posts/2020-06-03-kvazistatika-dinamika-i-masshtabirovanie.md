@@ -4,10 +4,9 @@ title: "Квазистатика, динамика и масштабирован
 date: 2020-06-03T15:02:03+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1767
 tags:
-  - mass_scaling
   - explicit
+  - mass_scaling
 images:
   - url: "/assets/images/1767.jpg"
 ---

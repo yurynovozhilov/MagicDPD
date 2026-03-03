@@ -4,13 +4,12 @@ title: "🌟 HY3D-Bench: 22 терабайта отборной 3D-геомет�
 date: 2026-02-11T09:54:10+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3105
 tags:
-  - ML
   - Dataset
-  - Tencent
-  - HY3DBench
   - AI
+  - ML
+  - HY3DBench
+  - Tencent
 images:
   - url: "/assets/images/3105.jpg"
   - url: "/assets/images/3106.jpg"
@@ -40,3 +39,8 @@ Tencent Hunyuan вывалили в опенсорс монструозный п
 
 
 @ai_machinelearning_big_data
+
+https://huggingface.co/datasets/tencent/HY3D-Bench
+https://arxiv.org/pdf/2602.03907
+https://huggingface.co/datasets/tencent/HY3D-Bench
+https://github.com/Tencent-Hunyuan/HY3D-Bench

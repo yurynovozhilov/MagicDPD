@@ -4,11 +4,10 @@ title: "Совершенствование конструкции защитны
 date: 2018-05-26T18:00:54+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_941
 tags:
-  - ANSYS
-  - SPH
   - Autodyn
+  - SPH
+  - ANSYS
 ---
 
 Совершенствование конструкции защитных экранов Уипла
@@ -17,4 +16,7 @@ tags:
 https://vk.com/wall13004811_950
 #ANSYS #Autodyn #SPH
 
+https://wp.me/p9vWYY-1RE
+
+https://vk.com/wall13004811_950
 https://wp.me/p9vWYY-1RE

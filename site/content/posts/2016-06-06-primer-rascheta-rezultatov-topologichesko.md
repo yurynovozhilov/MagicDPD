@@ -4,14 +4,15 @@ title: "Пример расчета результатов топологиче�
 date: 2016-06-06T13:34:58+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1735
 tags:
+  - Optimiztaion
   - FEA
   - Topology
-  - SimSolid
-  - Optimiztaion
   - nTopolody
+  - SimSolid
   - NoMesh
 ---
 
 Пример расчета результатов топологической оптимизации #nTopolody в #SimSolid
+
+[Simsolid Corporation on Twitter](https://twitter.com/simsolid/status/737387422783180800)

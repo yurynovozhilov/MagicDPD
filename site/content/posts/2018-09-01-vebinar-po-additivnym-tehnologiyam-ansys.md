@@ -4,12 +4,11 @@ title: "Вебинар по аддитивным технологиям ANSYS о
 date: 2018-09-01T18:00:25+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1099
 tags:
-  - Padtinc
   - AdditiveManufacturing
-  - ANSYS
+  - Padtinc
   - AdditivePrint
+  - ANSYS
 images:
   - url: "/assets/images/1100.jpg"
 ---
@@ -19,4 +18,7 @@ images:
 http://www.padtinc.com/blog/webinar/design-simulate-print-ansys-offerings-in-additive-manufacturing-webinar
 
 #AdditiveManufacturing #AdditivePrint #ANSYS #Padtinc
+http://bit.ly/2MIGyJd
+
+[Design, Simulate, Print: ANSYS Offerings in Additive Manufacturing - Webinar - PADT](http://www.padtinc.com/blog/webinar/design-simulate-print-ansys-offerings-in-additive-manufacturing-webinar)
 http://bit.ly/2MIGyJd

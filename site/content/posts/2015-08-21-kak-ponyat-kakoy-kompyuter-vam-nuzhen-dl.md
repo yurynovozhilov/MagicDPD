@@ -4,7 +4,8 @@ title: "Как понять, какой компьютер вам нужен д�
 date: 2015-08-21T07:00:00+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_251
 ---
 
 Как понять, какой компьютер вам нужен для работы? Большое интервью, читать CAD пользователям. Тем кто любит CAE таких машин будет сильно мало.
+
+[Answers to Your Workstation Questions](http://www.deskeng.com/de/answers-to-your-workstation-questions/)

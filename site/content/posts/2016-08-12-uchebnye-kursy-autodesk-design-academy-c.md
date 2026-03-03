@@ -4,11 +4,10 @@ title: "Учебные курсы Autodesk Design Academy: CFD"
 date: 2016-08-12T06:30:50+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_77
 tags:
-  - Autodesk
   - CFD
   - CFDesign
+  - Autodesk
 ---
 
 Учебные курсы Autodesk Design Academy: CFD
@@ -19,3 +18,5 @@ https://www.youtube.com/playlist?list=PLIv6vwn776aSdFAnDELJ0Y-1t-MUdLI7v
 Кроме видео лекций в комментариях к каждому ролику идут презентации, и все необходимы данные для повторения упражнений.
 
 https://www.youtube.com/playlist?list=PLIv6vwn776aSdFAnDELJ0Y-1t-MUdLI7v
+
+[Autodesk Design Academy: CFD - YouTube](https://www.youtube.com/playlist?list=PLIv6vwn776aSdFAnDELJ0Y-1t-MUdLI7v)

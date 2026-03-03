@@ -4,11 +4,10 @@ title: "MpCCI - связка любых расчетных кодов для м�
 date: 2018-11-07T17:01:29+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1197
 tags:
-  - Workbench
   - Fraunhofer
   - MpCCI
+  - Workbench
 images:
   - url: "/assets/images/1198.jpg"
 ---
@@ -20,4 +19,7 @@ MpCCI - связка любых расчетных кодов для межди�
 Сайт программного продукта: https://www.mpcci.de
 
 #Fraunhofer #MpCCI #Workbench
+http://bit.ly/2PHF2rG
+
+https://www.mpcci.de/
 http://bit.ly/2PHF2rG

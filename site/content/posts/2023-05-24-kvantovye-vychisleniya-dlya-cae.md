@@ -4,9 +4,10 @@ title: "Квантовые вычисления для CAE"
 date: 2023-05-24T17:30:29+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2420
 ---
 
 Квантовые вычисления для CAE
 Нашел сервис, который обещает решать любые CAE задачи практически мгновенно в своем облаке, ибо их облако одним концом присоединено к квантовому компьютеру. Кажется, что это какой-то развод.
 https://quanscient.com/
+
+[Multiphysics Simulation Software | Cloud & Quantum | Quanscient](https://quanscient.com/)

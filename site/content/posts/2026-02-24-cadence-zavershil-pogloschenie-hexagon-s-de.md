@@ -4,7 +4,6 @@ title: "Cadence завершил поглощение Hexagon’s Design and Eng
 date: 2026-02-24T12:04:10+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3116
 ---
 
 Cadence завершил поглощение Hexagon’s Design and Engineering Business
@@ -21,3 +20,5 @@ Cadence завершил поглощение Hexagon’s Design and Engineering
 - ODYSSEE: AI-платформа на базе машинного обучения для ускорения симуляций и оптимизации в реальном времени, ранее носила название CADLM и была первопроходцем в этой области.
 
 https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2026/cadence-completes-acquisition-of-hexagons-design-and-engineering.html
+
+[Cadence Completes Acquisition of Hexagon’s Design and Engineering Business, Advancing Leadership in Physical AI and Multiphysics](https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2026/cadence-completes-acquisition-of-hexagons-design-and-engineering.html)

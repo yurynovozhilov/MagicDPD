@@ -4,11 +4,10 @@ title: "Обор нового в Ansys CFD 2021 R2"
 date: 2021-08-30T13:01:16+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1988
 tags:
-  - leap
-  - ansys
   - cfd
+  - ansys
+  - leap
 ---
 
 Обор нового в Ansys CFD 2021 R2
@@ -36,3 +35,8 @@ https://www.youtube.com/watch?v=3dGge9-0CZE
 #ansys #cfd #leap
 https://tinyurl.com/ykxbnzxq
 by Юрий Новожилов
+
+[Ansys 2021 R2 Update - Part 1](https://www.youtube.com/watch?v=GxAbOjJOCbc)
+https://www.youtube.com/watch?v=-_LfavcmA44
+https://www.youtube.com/watch?v=3dGge9-0CZE
+https://tinyurl.com/ykxbnzxq

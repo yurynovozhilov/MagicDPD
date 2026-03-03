@@ -4,7 +4,6 @@ title: "Почему SPH и Peridynamics плохи для моделирова�
 date: 2024-12-13T11:59:20+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2856
 ---
 
 Почему SPH и Peridynamics плохи для моделирования разрушения
@@ -12,3 +11,5 @@ original_url: https://vk.com/wall-97265142_2856
 Статья от Майка Хиллмана из компании K&C. Майк занимает моделирование разрушения в их собственном коде FEMFREE, работающем на основе подхода RKPM (ближайший аналог SPG в LS-DYNA). Статья в основном хороша своей структурой и обилием ссылок на правильные и очень свежие публикации. Если вы хотите войти в разрушение, то стоит их все найти, прочитать и разобраться.
 
 https://www.linkedin.com/pulse/why-use-rkpm-sph-pd-mike-hillman-ln9ec
+
+[Why use RKPM? Why not SPH or PD?](https://www.linkedin.com/pulse/why-use-rkpm-sph-pd-mike-hillman-ln9ec)

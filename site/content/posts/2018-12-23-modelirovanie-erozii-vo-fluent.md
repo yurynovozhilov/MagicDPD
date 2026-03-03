@@ -4,13 +4,12 @@ title: "Моделирование эрозии во Fluent"
 date: 2018-12-23T17:01:52+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1282
 tags:
-  - Fluent
-  - CADFEM
   - CFD
   - ANSYS
+  - CADFEM
   - SpcaeClaim
+  - Fluent
 images:
   - url: "/assets/images/1283.jpg"
 ---
@@ -25,4 +24,7 @@ https://www.youtube.com/watch?v=0w4T7WS2NM0
 
 Причем для последнего даже показано, как достать новую "изношенную" геометрию из Fluent и передать ее через SpaceClaim в любой другой решатель (например, Mechanical).
 #ANSYS #CADFEM #CFD #Fluent #SpcaeClaim
+http://bit.ly/2V75JG4
+
+https://www.youtube.com/watch?v=0w4T7WS2NM0
 http://bit.ly/2V75JG4

@@ -4,12 +4,11 @@ title: "Интеграция Particleworks и SOLIDWORKS"
 date: 2018-03-14T18:01:19+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_849
 tags:
-  - SPH
   - FSI
-  - Particleworks
+  - SPH
   - SolidWorks
+  - Particleworks
 images:
   - url: "/assets/images/850.jpg"
 ---
@@ -22,4 +21,6 @@ images:
 &nbsp;
 
 #FSI #Particleworks #SolidWorks #SPH
+https://goo.gl/Ctdbek
+
 https://goo.gl/Ctdbek

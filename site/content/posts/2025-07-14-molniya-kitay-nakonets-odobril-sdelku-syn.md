@@ -4,7 +4,6 @@ title: "Молния: Китай наконец одобрил сделку Syno
 date: 2025-07-14T12:06:57+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2980
 ---
 
 Молния: Китай наконец одобрил сделку Synopsys+Ansys
@@ -21,3 +20,5 @@ SAMR заявила, что Synopsys и Ansys согласились с этим
 Все это кажется вполне разумным и либо уже находится в процессе реализации (как в случае с запланированной продажи Keysight), либо просто является хорошей деловой практикой для компаний, занимающихся разработкой программного обеспечения.
 
 https://schnitgercorp-com.cdn.ampproject.org/c/s/schnitgercorp.com/2025/07/14/china-finally-grants-approval-for-synopsysansys/amp/
+
+[China finally grants approval for Synopsys+Ansys](https://schnitgercorp-com.cdn.ampproject.org/c/s/schnitgercorp.com/2025/07/14/china-finally-grants-approval-for-synopsysansys/amp/)

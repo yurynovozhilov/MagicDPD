@@ -4,14 +4,13 @@ title: "ANSYS App Builder"
 date: 2017-02-03T17:03:01+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_259
 tags:
-  - GUI
+  - ANSYS
   - python
   - Workbench
   - AIM
-  - ANSYS
   - ACT
+  - GUI
 ---
 
 ANSYS App Builder
@@ -23,3 +22,5 @@ ANSYS App Builder позволяет создавать #ACT для #Workbench �
 
 Те из нас, кто пробовали писать свои ACT, поймут, какой пропыв в упращении нашего нелегкого ремесла нас ожидает!
 https://www.youtube.com/watch?v=xYJPgdOdD3k
+
+[Ansys in Action - Ansys App Builder](https://www.youtube.com/watch?v=xYJPgdOdD3k)

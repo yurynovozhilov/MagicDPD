@@ -4,14 +4,13 @@ title: "#science #solidworks #cae #ansys #airsoft #combat_union #air"
 date: 2017-11-19T08:30:14+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_617
 tags:
-  - science
-  - solidworks
-  - ansys
   - cae
   - combat_union
   - airsoft
+  - solidworks
+  - ansys
+  - science
   - airsoft_gear
 ---
 
@@ -35,4 +34,19 @@ tags:
 1. КПД AEG не превышет, в большинстве случаев, 40% (больше - лучше)
 2. Коэффициент однородности потока, составляет 0,147 (больше - лучше)MediaMediaMediaMediaMedia
 
+http://ift.tt/2hCxljR
+
+http://ift.tt/2zPXmX8
+http://ift.tt/2hCh0vu
+http://ift.tt/2zPXnua
+http://ift.tt/2hlBRTr
+http://ift.tt/2zRlqsK
+http://ift.tt/2hCsYoI
+http://ift.tt/2zPXoye
+http://ift.tt/2hCnVVm
+http://ift.tt/2zPXpCi
+http://ift.tt/2hDOgTf
+http://ift.tt/2zPXqGm
+http://ift.tt/2hCh1Q4
+http://ift.tt/2zRluJ0
 http://ift.tt/2hCxljR

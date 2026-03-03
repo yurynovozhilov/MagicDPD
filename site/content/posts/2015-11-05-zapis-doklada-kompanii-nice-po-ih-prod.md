@@ -4,15 +4,16 @@ title: "Запись доклада компании #NICE по их проду�
 date: 2015-11-05T06:30:41+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_638
 tags:
-  - NICE
   - DCV
-  - HPC
-  - visualisation
   - ANSYS
+  - HPC
+  - NICE
+  - visualisation
 ---
 
 Запись доклада компании #NICE по их продукту #DCV - лидеру рынка высокопроизводительной визуализации для научных и инженерных приложений. Особая фишка DCV - полностью аппаратное кодирование всех передаваемых данных на GPU. Этого больше немеет никто. Доклад с конференции NVIDIA этого года. Демонстрация работы на примере #ANSYS Mechanical.
 
 Знали бы вы, что NICE Software покажет в рамках проекта DCV в этом году на грядущем SC2015... Я вот уже знаю и пользуюсь в рамках партнерской программы тестирования, но рассказать не могу. Могу только намекнуть, что Citrix XenApp/XenDesktop и VMWare View будут плакать.
+
+[GPU Technology Conference 2015](http://on-demand.gputechconf.com/gtc/2015/video/S5415.html)

@@ -4,11 +4,10 @@ title: "Новые возможности ANSYS для топологическ�
 date: 2017-02-12T12:02:49+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_268
 tags:
-  - Topo
   - ACT
   - ANSYS
+  - Topo
 ---
 
 Новые возможности ANSYS для топологической оптимизации
@@ -18,3 +17,5 @@ https://www.youtube.com/watch?v=xHN810lJs4k
 #Topo
 
 https://www.youtube.com/watch?v=xHN810lJs4k
+
+[ANSYS in Action - Topology Optimization](https://www.youtube.com/watch?v=xHN810lJs4k)

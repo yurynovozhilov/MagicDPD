@@ -4,7 +4,6 @@ title: "Почему заглох канал?"
 date: 2025-01-15T16:28:02+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2869
 ---
 
 Почему заглох канал?

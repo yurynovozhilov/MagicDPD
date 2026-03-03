@@ -4,7 +4,6 @@ title: "Болгарская комптония Risk Engineering Ltd. на св�
 date: 2016-01-18T18:00:37+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1099
 tags:
   - LSDYNA
 images:
@@ -12,3 +11,5 @@ images:
 ---
 
 Болгарская комптония Risk Engineering Ltd. на своей станице в Linkedin хвастается наличием собственных КЭ моделей самолетов Airbus и Boeing. Модели эти они использую для расчетов типа "удар самолета в важный объект".
+
+[HOME - www.riskeng.bg](http://riskeng.bg/en/)

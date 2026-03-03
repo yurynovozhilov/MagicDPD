@@ -4,10 +4,9 @@ title: "Altair анонсировал покупку SIMSOLID"
 date: 2018-10-21T17:00:47+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1163
 tags:
-  - SIMSOLID
   - Altair
+  - SIMSOLID
 images:
   - url: "/assets/images/1164.jpg"
 ---
@@ -20,4 +19,7 @@ Altair анонсировал покупку SIMSOLID
 P.S. В видео есть рассказ об особенностяхи работы SIMCOLID от одного из его отцов основателей, Виктора Апановича из Белоруси (https://www.linkedin.com/in/victor-apanovitch-711444100/).
 
 #Altair #SIMSOLID
+http://bit.ly/2PTq4LO
+
+https://www.linkedin.com/in/victor-apanovitch-711444100/
 http://bit.ly/2PTq4LO

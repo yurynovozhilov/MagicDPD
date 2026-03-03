@@ -4,13 +4,12 @@ title: "Видео урок с пошаговым разбором работы 
 date: 2017-11-29T17:18:14+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_633
 tags:
-  - ConWep
   - Blast
-  - concrete
-  - LSDYNA
+  - ConWep
   - LSTC
+  - LSDYNA
+  - concrete
 ---
 
 Видео урок с пошаговым разбором работы карты *LOAD_BLAST_ENHANCED. Данная карта позволяет генерировать нагрузку от воздействия взрыва сферического заряда в воздухе. Карта работает по методике, схожей с #ConWep, но более совершенной - специально разработанной специалистами #LSTC. Как можно увидеть из урока, считать воздействия взрыва на подкрепленные бетонные конструкции не очень сложная задача, но это пока вам не досталась реальная задача.
@@ -20,3 +19,13 @@ tags:
 https://www.youtube.com/watch?v=dD1…Media📼 LS-DYNA Tutorial | Blast Loading Analysis on Shelt…
 
 http://ift.tt/2zNwmsr
+
+http://ift.tt/2i5tbAL
+http://ift.tt/2xRPO1U
+http://ift.tt/2vlBJYZ
+http://ift.tt/2zpLI1B
+http://ift.tt/2kBXMdY
+https://www.youtube.com/watch?v=dD1VSYpGqXA
+http://ift.tt/2AIa8In
+http://ift.tt/2zNwmsr
+ttp://ift.tt/2zNwmsr

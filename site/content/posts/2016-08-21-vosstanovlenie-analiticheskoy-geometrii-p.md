@@ -4,14 +4,13 @@ title: "Восстановление аналитической геометри
 date: 2016-08-21T12:01:26+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_89
 tags:
-  - STL
+  - ANSYS
   - SCDM
+  - SpaceClaim
   - NURBS
   - ReverseEngineering
-  - SpaceClaim
-  - ANSYS
+  - STL
 ---
 
 Восстановление аналитической геометрии по STL в SpaceClaim: часть 2
@@ -22,5 +21,9 @@ https://www.youtube.com/watch?v=VEUvYM2qFRc
 P.S. Вот, что бывает, когда нужно решить интересную и новую задачу - три поста про SCDM в ряд!
 #ReverseEngineering
 https://www.youtube.com/watch?v=VEUvYM2qFRc
+http://storage.ansys.com/video/release-highlights/spaceclaim-rev-eng.mp4
+https://www.youtube.com/watch?v=2j6N5A6T3Kw
+
+[ANSYS SpaceClaim 2016 Reverse Engineering](https://www.youtube.com/watch?v=VEUvYM2qFRc)
 http://storage.ansys.com/video/release-highlights/spaceclaim-rev-eng.mp4
 https://www.youtube.com/watch?v=2j6N5A6T3Kw

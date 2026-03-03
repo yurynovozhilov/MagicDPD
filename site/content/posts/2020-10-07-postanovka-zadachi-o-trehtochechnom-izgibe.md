@@ -4,13 +4,12 @@ title: "Постановка задачи о трехточечном изгиб
 date: 2020-10-07T17:24:01+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1837
 tags:
+  - ANSYS
+  - Mechanical
+  - ACP
   - LEAP
   - composite
-  - ACP
-  - Mechanical
-  - ANSYS
 images:
   - url: "/assets/images/1837.jpg"
 ---

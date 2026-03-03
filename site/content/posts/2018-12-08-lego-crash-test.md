@@ -4,7 +4,6 @@ title: "LEGO crash test"
 date: 2018-12-08T17:01:40+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1252
 tags:
   - Crush
   - LEGO
@@ -21,4 +20,6 @@ LEGO crash test
 Полученные результаты подтвержают впечетлающие достижения МКЭ в области задач пассивной белопастности пластиковых человечков LEGO!
 
 #Crush #LEGO #LSDYNA
+http://bit.ly/2PrhdAj
+
 http://bit.ly/2PrhdAj

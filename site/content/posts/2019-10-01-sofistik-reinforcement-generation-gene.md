@@ -4,14 +4,13 @@ title: "SOFiSTiK Reinforcement Generation — генерируем армату�
 date: 2019-10-01T13:00:54+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1597
 tags:
+  - BIM
+  - Autodesk
   - SOFiSTiK
   - IFC
   - Revit
   - reinforcement
-  - BIM
-  - Autodesk
 images:
   - url: "/assets/images/1597.jpg"
   - url: "/assets/images/1600.jpg"

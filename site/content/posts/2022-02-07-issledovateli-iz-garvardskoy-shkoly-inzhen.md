@@ -4,11 +4,10 @@ title: "Исследователи из Гарвардской школы инж
 date: 2022-02-07T17:00:09+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2122
 tags:
+  - CFD
   - SEAS
   - opensource
-  - CFD
   - Aphros
 images:
   - url: "/assets/images/2123.jpg"
@@ -30,3 +29,7 @@ images:
 Авторы предоставляют эталонную реализацию как часть программного обеспечения с открытым исходным кодом #Aphros (https://github.com/cselab/aphros). Научная статья тут: https://www.science.org/doi/10.1126/sciadv.abm0590
 
 #CFD #opensource https://www.youtube.com/watch?v=PPBw4e5JXUI
+
+[GitHub - cselab/aphros: Finite volume solver for incompressible multiphase flows with surface tension. Foaming flows in complex geometries.](https://github.com/cselab/aphros)
+https://www.science.org/doi/10.1126/sciadv.abm0590
+https://www.youtube.com/watch?v=PPBw4e5JXUI

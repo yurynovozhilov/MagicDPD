@@ -4,18 +4,17 @@ title: "Мои старые-добрые знакомые, Сигма Техно
 date: 2016-04-15T07:01:37+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1577
 tags:
-  - ISOS
-  - RSM
-  - NREC
-  - FLOW3D
-  - SolidWorks
-  - FlowVision
-  - Workbench
-  - Optimization
   - ANSYS
+  - Optimization
+  - Workbench
+  - SolidWorks
+  - RSM
+  - FLOW3D
+  - NREC
+  - ISOS
   - ACT
+  - FlowVision
 ---
 
 Мои старые-добрые знакомые, Сигма Технология, на днях объявил об очень важном релизе новой версии их замечательного оптимизатора IOSO NM.
@@ -23,3 +22,5 @@ tags:
 Кроме ANSYS Сигма технологии уважили и другие продукты - появилась интеграция с  Concepts NREC Turboopt II, FLOW-3D,  SolidWorks, FlowVision.
 
 Я с IOSO знаком уже лет 7, и могу сказать, что это очень серьезная штука, во многом уделывающая всех иностранных конкурентов.
+
+[Sigma Technology. Products.](http://www.iosotech.com/product.htm#Third-party)

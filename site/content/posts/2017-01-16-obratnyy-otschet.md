@@ -4,7 +4,6 @@ title: "Обратный отсчет"
 date: 2017-01-16T09:00:30+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_241
 tags:
   - ANSYS
 ---
@@ -15,3 +14,5 @@ http://www.ansys.com/products/release-highlights-coming-soon?utm_source=twitter&
 #ANSYS запустил обратный отсчет до всемирного мероприятия посвященного 18-ому релизу своего программного обеспечения, которое может посчитать все. Ждать осталось немного - всего-то до 31 января 2017, 11:00 времени восточного побережья Северной Америки (это девять вечера по Москве).
 
 Все идем, регистрируемся, и покупаем попкорн - прям как на очередной keynote от Apple.
+
+[ANSYS 18: Coming Soon](http://www.ansys.com/products/release-highlights-coming-soon?utm_source=twitter&utm_medium=social&utm_campaign=r18-launch)

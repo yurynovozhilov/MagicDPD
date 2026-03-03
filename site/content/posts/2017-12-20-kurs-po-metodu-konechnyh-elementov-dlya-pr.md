@@ -4,12 +4,11 @@ title: "Курс по методу конечных элементов для п
 date: 2017-12-20T17:15:30+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_666
 tags:
-  - CAE
   - FEA
-  - FEM
   - МКЭ
+  - FEM
+  - CAE
 ---
 
 Курс по методу конечных элементов для проблем физики от Мичиганского университета (University of Michigan).
@@ -20,3 +19,6 @@ tags:
 
 #CAE #FEM #FEA
 https://www.coursera.org/learn/finite-element-method 🔗 The Finite Element Method for Problems in Physics | Coursera
+
+http://ift.tt/2jTR3cd
+https://www.coursera.org/learn/finite-element-method

@@ -4,7 +4,6 @@ title: "Верификационный отчет по Abaqus в строите�
 date: 2019-06-07T17:01:11+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1500
 images:
   - url: "/assets/images/1500.jpg"
 ---

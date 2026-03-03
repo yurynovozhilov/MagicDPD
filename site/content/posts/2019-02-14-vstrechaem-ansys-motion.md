@@ -4,11 +4,10 @@ title: "Встречаем ANSYS Motion"
 date: 2019-02-14T17:01:38+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1355
 tags:
-  - ANSYS
   - RBD
   - Motion
+  - ANSYS
 images:
   - url: "/assets/images/1355.jpg"
 ---
@@ -37,5 +36,7 @@ images:
 Более подробной информации о продукте пока нет — будем вместе изучать его возможности.
 
 #ANSYS #Motion #RBD
+
+https://wp.me/p9vWYY-2jX
 
 https://wp.me/p9vWYY-2jX

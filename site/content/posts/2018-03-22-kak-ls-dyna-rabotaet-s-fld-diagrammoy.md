@@ -4,13 +4,12 @@ title: "Как LS-DYNA работает с FLD диаграммой"
 date: 2018-03-22T18:00:41+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_865
 tags:
-  - FLD
   - LSPrePost
-  - LSDYNA
   - LSTC
   - Forming
+  - LSDYNA
+  - FLD
 images:
   - url: "/assets/images/866.jpg"
 ---
@@ -23,4 +22,8 @@ images:
 http://www.lstc.com/sites/default/files/marketing/new_features/08_Conversion%20between%20FLD%20and%20Stress%20Triaxial%20Limit%20Curve.pdf
 
 #FLD #Forming #LSDYNA #LSPrePost #LSTC
+https://goo.gl/1yoywt
+
+http://www.lstc.com/lspp/content/pages/1/fld/fld.shtml
+http://www.lstc.com/sites/default/files/marketing/new_features/08_Conversion%20between%20FLD%20and%20Stress%20Triaxial%20Limit%20Curve.pdf
 https://goo.gl/1yoywt

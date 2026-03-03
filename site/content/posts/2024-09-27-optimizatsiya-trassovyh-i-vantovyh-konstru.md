@@ -4,9 +4,10 @@ title: "Оптимизация трассовых и вантовых конст
 date: 2024-09-27T12:53:39+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2789
 ---
 
 Оптимизация трассовых и вантовых конструкций
 
 https://www.youtube.com/live/HM4PftgSK7g?si=4Kxf4S-lnok0d4nU
+
+[TOP Webinar 32: Truss optimization](https://www.youtube.com/live/HM4PftgSK7g?si=4Kxf4S-lnok0d4nU)

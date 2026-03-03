@@ -4,20 +4,19 @@ title: "Скачиваем курсы с edX и Сoursera"
 date: 2017-07-10T17:01:02+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_402
 tags:
-  - pip
-  - Сoursera
-  - CornellX
-  - Cornell
-  - Fluent
-  - opensource
-  - edX
-  - Mechanical
-  - Stanford
-  - ENGR2000X
-  - Python
   - ANSYS
+  - Cornell
+  - pip
+  - Mechanical
+  - Сoursera
+  - Fluent
+  - Python
+  - ENGR2000X
+  - CornellX
+  - edX
+  - opensource
+  - Stanford
 ---
 
 Скачиваем курсы с edX и Сoursera
@@ -38,3 +37,6 @@ https://github.com/coursera-dl
 Видео инструкция по пользованию  edx-d прилагается https://www.youtube.com/watch?v=AvAS835JiTI
 P.S.
 Так как утилиты ставят с собой другую заниженную скачивалку youtube-dl - граббер YouTube, то можете быть уверены, что даже видеозаписи курсов вы не потеряете.
+
+[Coursera Downloader](https://github.com/coursera-dl)
+https://www.youtube.com/watch?v=AvAS835JiTI

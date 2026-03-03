@@ -4,10 +4,9 @@ title: "прочтение данной статьи позволит моим �
 date: 2017-09-06T17:04:02+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_476
 tags:
-  - mass_scaling
   - explicit
+  - mass_scaling
   - LSDYNA
 ---
 
@@ -18,3 +17,6 @@ tags:
 #mass_scaling
 
 http://www.dynasupport.com/howtos/general/mass-scaling 🔗 Mass scaling — LS-DYNA Support
+
+http://ift.tt/2vlBJYZ
+http://www.dynasupport.com/howtos/general/mass-scaling

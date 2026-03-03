@@ -4,11 +4,10 @@ title: "Расчет ветровой нагрузки на Burj Khalifa"
 date: 2019-01-27T19:20:28+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1324
 tags:
-  - LBM
-  - Simscale
   - CFD
+  - Simscale
+  - LBM
 images:
   - url: "/assets/images/1324.jpg"
 ---
@@ -24,4 +23,7 @@ https://youtu.be/6BTmFMNrHhM
 
 #CFD #LBM #Simscale
 
+https://wp.me/p9vWYY-2ih
+
+https://youtu.be/6BTmFMNrHhM
 https://wp.me/p9vWYY-2ih

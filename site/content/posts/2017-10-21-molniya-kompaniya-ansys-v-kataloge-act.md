@@ -4,22 +4,21 @@ title: "#молния! Компания #ANSYS в каталоге #ACT расш
 date: 2017-10-21T08:52:30+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_564
 tags:
-  - additivemanufacturing
   - topology
-  - TechnologyPreview
-  - Workbench
-  - optimization
+  - ANSYS
+  - Additive
+  - additivemanufacturing
+  - APDL
+  - Mechanical
   - MAPDL
   - Manufacturing
-  - 3dptinting
-  - APDL
-  - Additive
-  - Mechanical
+  - Workbench
+  - optimization
+  - TechnologyPreview
   - ACT
+  - 3dptinting
   - молния
-  - ANSYS
 ---
 
 #молния! Компания #ANSYS в каталоге #ACT расширения размесила модуль для моделироапни процессов 3D печати. Расширение пока что предназначено для демонстрации технологических возможностей кода #ANSYS #Mechanical (#MAPDL).
@@ -30,3 +29,6 @@ tags:
 
 Ссылка для бесплатного скачивания для всех пользователей с действующей технической поддержкой:
 https://appstore.ansys.com/download?prodid=APC-ACTAPP-318 🔗 ANSYS Estore
+
+http://ift.tt/2hV1ACe
+https://appstore.ansys.com/download?prodid=APC-ACTAPP-318

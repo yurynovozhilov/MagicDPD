@@ -4,7 +4,6 @@ title: "Wildkatze CFD solver"
 date: 2023-07-07T15:01:02+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2463
 images:
   - url: "/assets/images/2463.jpg"
   - url: "/assets/images/2464.jpg"
@@ -21,5 +20,7 @@ wildkatze берет свое начало из проетка FVUS (Finite Volu
 - Легко использоваться в исследованиях с помощью пользовательского программирования
 - Легкость разработки
 - Простота установки и использования
+
+https://fvus.github.io/wildkatze/
 
 https://fvus.github.io/wildkatze/

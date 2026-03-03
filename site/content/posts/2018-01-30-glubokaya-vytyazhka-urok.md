@@ -4,13 +4,12 @@ title: "Глубокая вытяжка - урок"
 date: 2018-01-30T17:00:33+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_756
 tags:
-  - forming
   - deepdrawing
-  - mesh_adaptation
-  - LS
   - springback
+  - LS
+  - mesh_adaptation
+  - forming
 images:
   - url: "/assets/images/757.jpg"
 ---
@@ -30,4 +29,7 @@ images:
 
 https://www.youtube.com/watch?v=OXc85azosr0
 #deepdrawing #forming #LS-DYNA #LS-PrePost #mesh_adaptation #springback
+https://magicdpd.ru/?p=6108
+
+https://www.youtube.com/watch?v=OXc85azosr0
 https://magicdpd.ru/?p=6108

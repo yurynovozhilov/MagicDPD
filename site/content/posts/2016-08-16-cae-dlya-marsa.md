@@ -4,13 +4,12 @@ title: "CAE для Марса"
 date: 2016-08-16T06:30:49+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_81
 tags:
-  - Siemens
-  - Curiosity
   - PLM
   - Femap
+  - Siemens
   - PDM
+  - Curiosity
 ---
 
 CAE для Марса
@@ -21,3 +20,5 @@ https://www.youtube.com/watch?v=zcdZ5_04gTA
 #PLM/#PDM системы в таких больших проектах - это ключевой компонент что бы ничего не забыть.
 
 https://www.youtube.com/watch?v=zcdZ5_04gTA
+
+[[Case Studies] Femap: Mars Rover](https://www.youtube.com/watch?v=zcdZ5_04gTA)

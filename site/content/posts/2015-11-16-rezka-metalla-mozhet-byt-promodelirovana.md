@@ -4,11 +4,10 @@ title: "Резка металла может быть промоделирова
 date: 2015-11-16T06:30:13+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_713
 tags:
+  - implicit
   - lsdyna
   - EFG
-  - implicit
 ---
 
 Резка металла может быть промоделирована неявным решателем LS-DYNA для адаптивной постановки бессеточного метода Галеркина (r-adaptive Element-Free Galerkin, EFG).

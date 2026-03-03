@@ -4,7 +4,6 @@ title: "Математика в механической прочности"
 date: 2019-08-09T13:00:39+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1553
 tags:
   - theory
 images:
@@ -30,4 +29,8 @@ images:
 
 #theory
 
+https://wp.me/p9vWYY-2Dk
+
+http://old.exponenta.ru/soft/mathemat/pinega/a12/a12.asp
+http://www.pinega3.narod.ru/
 https://wp.me/p9vWYY-2Dk

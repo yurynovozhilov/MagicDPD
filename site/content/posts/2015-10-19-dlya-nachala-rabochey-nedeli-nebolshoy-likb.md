@@ -4,9 +4,10 @@ title: "Для начала рабочей недели небольшой ли�
 date: 2015-10-19T07:30:39+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_535
 tags:
   - LBM
 ---
 
 Для начала рабочей недели небольшой ликбез по методу решёточных уравнений Больцмана (Lattice Boltzmann Method, LBM). Позднее пригодится.
+
+[Моделирование гидродинамики: Lattice Boltzmann Method](http://habrahabr.ru/post/190552/)

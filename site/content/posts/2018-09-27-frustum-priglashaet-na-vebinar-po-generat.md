@@ -4,14 +4,13 @@ title: "Frustum приглашает на вебинар по Generate"
 date: 2018-09-27T17:01:35+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1121
 tags:
-  - SolidEdge
   - NX
-  - Generate
-  - Topology
   - Optimization
+  - Topology
   - Frustum
+  - Generate
+  - SolidEdge
 images:
   - url: "/assets/images/1122.jpg"
 ---
@@ -22,4 +21,7 @@ Frustum приглашает на вебинар по Generate
 https://register.gotowebinar.com/register/4044537423651619074?_hsenc=p2ANqtz-9yOaAPDNn3-GgZ2oup6GK0QOnAyR7CEbcbgD96fGT8UBgBejnHQxZG4GQHnt9bacCtcG5mEOVHEW3F_7WuEM-X5IcizA&_hsmi=66162722&hsCtaTracking=a8bae8ab-3ee7-4657-8b27-e542a2110bc2%7Ce40dfb9c-9270-455a-b95e-ffef90c3984e
 
 #Frustum #Generate #NX #Optimization #SolidEdge #Topology
+http://bit.ly/2OUnEwd
+
+https://register.gotowebinar.com/register/4044537423651619074?_hsenc=p2ANqtz-9yOaAPDNn3-GgZ2oup6GK0QOnAyR7CEbcbgD96fGT8UBgBejnHQxZG4GQHnt9bacCtcG5mEOVHEW3F_7WuEM-X5IcizA&_hsmi=66162722&hsCtaTracking=a8bae8ab-3ee7-4657-8b27-e542a2110bc2%7Ce40dfb9c-9270-455a-b95e-ffef90c3984e
 http://bit.ly/2OUnEwd

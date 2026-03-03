@@ -4,7 +4,6 @@ title: "Столконовения с дронами - отчет под эги�
 date: 2024-10-18T12:01:06+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2807
 ---
 
 Столконовения с дронами - отчет под эгидой Министерства транспорта США
@@ -13,4 +12,7 @@ original_url: https://vk.com/wall-97265142_2807
 
 DOI: 10.13140/RG.2.2.11989.64486
 
+https://www.linkedin.com/posts/gerardo-olivares-3a495334_the-final-report-for-the-a67-faa-assure-research-ugcPost-7252422843546656768-8t47/
+
+[Gerardo Olivares on LinkedIn: The final report for the A67 FAA-ASSURE Research Project “Determine the…](https://www.linkedin.com/posts/gerardo-olivares-3a495334_the-final-report-for-the-a67-faa-assure-research-ugcPost-7252422843546656768-8t47?utm_source=share&utm_medium=member_ios)
 https://www.linkedin.com/posts/gerardo-olivares-3a495334_the-final-report-for-the-a67-faa-assure-research-ugcPost-7252422843546656768-8t47/

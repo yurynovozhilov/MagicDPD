@@ -4,11 +4,10 @@ title: "Internal Layer ACT"
 date: 2019-08-15T13:00:25+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1557
 tags:
   - ACT
-  - ANSYS
   - Mechanical
+  - ANSYS
 images:
   - url: "/assets/images/1557.jpg"
 ---
@@ -32,4 +31,7 @@ Internal Layer ACT
 
 #ACT #ANSYS #Mechanical
 
+https://wp.me/p9vWYY-2DB
+
+https://catalog.ansys.com/product/5cb60587393ff6686c09c303/internal-layer
 https://wp.me/p9vWYY-2DB

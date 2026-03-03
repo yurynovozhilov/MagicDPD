@@ -4,7 +4,6 @@ title: "COMSOL 6.4 - GPU для любой физики!"
 date: 2025-11-19T20:39:20+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3063
 ---
 
 COMSOL 6.4 - GPU для любой физики!
@@ -16,3 +15,5 @@ COMSOL 6.4 - GPU для любой физики!
 Ну и как-то почти теряется на этом фоне появление модуля Granular Flow Module для моделирования сыпучих сред в DEM постановке.
 
 https://www.comsol.com/release/6.4
+
+[COMSOL® Software Version 6.4 Release Highlights](https://www.comsol.com/release/6.4)

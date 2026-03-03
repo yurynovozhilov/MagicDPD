@@ -4,7 +4,6 @@ title: "MAT_GENERALIZED_PHASE_CHANGE"
 date: 2019-06-25T17:00:25+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1515
 images:
   - url: "/assets/images/1515.jpg"
 ---
@@ -48,4 +47,7 @@ https://www.dynalook.com/conferences/12th-european-ls-dyna-conference-2019/ls-dy
 
 
 
+https://www.dynalook.com/conferences/12th-european-ls-dyna-conference-2019/ls-dyna-on-demand/merten_dynamore.pdf/view
+
+https://www.dynalook.com/conferences/12th-european-ls-dyna-conference-2019/ls-dyna-on-demand/merten_dynamore.pdf/view
 https://www.dynalook.com/conferences/12th-european-ls-dyna-conference-2019/ls-dyna-on-demand/merten_dynamore.pdf/view

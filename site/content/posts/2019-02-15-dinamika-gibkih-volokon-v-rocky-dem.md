@@ -4,7 +4,6 @@ title: "Динамика гибких волокон в Rocky DEM"
 date: 2019-02-15T17:00:55+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1356
 tags:
   - Rocky
   - GPU
@@ -22,3 +21,5 @@ images:
 https://wp.me/p9vWYY-2jw
 
 by Юрий Новожилов
+
+https://wp.me/p9vWYY-2jw

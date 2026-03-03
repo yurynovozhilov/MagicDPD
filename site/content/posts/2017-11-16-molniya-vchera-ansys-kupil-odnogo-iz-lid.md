@@ -4,15 +4,14 @@ title: "Молния! Вчера #ANSYS купил одного из лидер�
 date: 2017-11-16T09:11:11+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_612
 tags:
-  - additivemanufacturing
-  - exaSIM
-  - GovCloud
-  - 3DSIM
-  - cloud
-  - AWS
   - ANSYS
+  - additivemanufacturing
+  - 3DSIM
+  - exaSIM
+  - AWS
+  - cloud
+  - GovCloud
 ---
 
 Молния! Вчера #ANSYS купил одного из лидеров рынка моделирования процессов аддитивного производства, компанию 3DSIM.
@@ -26,3 +25,7 @@ tags:
 https://www.youtube.com/watch?v=0q1…
 
 http://learn.3dsim.com/ansys-acquires-additive-manufacturing-simulation-leader-3dsim/ 🔗 Ansys Acquires Additive Manufacturing Simulation Leader 3DSIM - 3DSIM
+
+http://ift.tt/2j0eGPj
+https://www.youtube.com/watch?v=0q1ZPZNnqzs
+http://learn.3dsim.com/ansys-acquires-additive-manufacturing-simulation-leader-3dsim/

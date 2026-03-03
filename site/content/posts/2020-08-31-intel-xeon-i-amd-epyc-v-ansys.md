@@ -4,13 +4,12 @@ title: "Intel Xeon и AMD EPYC в ANSYS"
 date: 2020-08-31T15:56:54+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1815
 tags:
-  - AMD
+  - Intel
+  - eCADFEM
   - HPC
   - CADFEM
-  - eCADFEM
-  - Intel
+  - AMD
 images:
   - url: "/assets/images/1815.jpg"
 ---

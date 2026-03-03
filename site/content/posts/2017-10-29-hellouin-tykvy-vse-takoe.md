@@ -4,10 +4,9 @@ title: "Хэллоуин, тыквы, все такое."
 date: 2017-10-29T17:04:11+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_574
 tags:
-  - SolidWorks
   - CFD
+  - SolidWorks
 ---
 
 Хэллоуин, тыквы, все такое.
@@ -19,3 +18,10 @@ tags:
 https://youtu.be/AO3zQms-s04Media📼 Trailer: This is Punkin Chunkin!
 
 http://ift.tt/2lqCwrS
+
+http://ift.tt/2v2FNSC
+http://ift.tt/2lqAdVC
+https://youtu.be/AO3zQms-s04
+http://ift.tt/2iL4fSZ
+http://ift.tt/2lqCwrS
+ttp://ift.tt/2lqCwrS

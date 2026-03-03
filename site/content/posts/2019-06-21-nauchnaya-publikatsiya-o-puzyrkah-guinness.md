@@ -4,10 +4,9 @@ title: "Научная публикация о пузырьках Guinness"
 date: 2019-06-21T17:00:15+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1512
 tags:
-  - simulationfriday
   - CFD
+  - simulationfriday
 images:
   - url: "/assets/images/1512.jpg"
 ---
@@ -27,4 +26,7 @@ images:
 
 #CFD #simulationfriday
 
+https://wp.me/p9vWYY-2tD
+
+https://www.nature.com/articles/s41598-019-42094-0
 https://wp.me/p9vWYY-2tD

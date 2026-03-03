@@ -4,11 +4,10 @@ title: "Что хорошего в Marc 2016"
 date: 2016-08-28T06:30:28+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_96
 tags:
-  - FEM
   - Mark
   - MSC
+  - FEM
 ---
 
 Что хорошего в Marc 2016
@@ -24,3 +23,5 @@ https://www.youtube.com/watch?v=80SewUKhaQU
 
 #FEM
 https://www.youtube.com/watch?v=80SewUKhaQU
+
+[Introducing Marc 2016](https://www.youtube.com/watch?v=80SewUKhaQU)

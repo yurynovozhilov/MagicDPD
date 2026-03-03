@@ -4,16 +4,15 @@ title: "Тенденции мира математического модели�
 date: 2018-01-16T17:01:27+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_728
 tags:
-  - Hexagon
-  - Siemens
-  - Discovery
   - MSC
   - Digital
-  - Mentor
-  - Additive
   - ANSYS
+  - Additive
+  - Discovery
+  - Mentor
+  - Siemens
+  - Hexagon
 images:
   - url: "/assets/images/729.jpg"
 ---
@@ -43,4 +42,8 @@ Additive Manufacturing - вот сюда реально ломятся все, �
 
 https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16124/Engineering-Simulation-Software-in-2018-and-Beyond.aspx
 #Additive Manufacturing #ANSYS #Digital Twin #Discovery #Hexagon #Mentor #MSC #Siemens
+https://magicdpd.ru/?p=5960
+
+engineering.com
+https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16124/Engineering-Simulation-Software-in-2018-and-Beyond.aspx
 https://magicdpd.ru/?p=5960

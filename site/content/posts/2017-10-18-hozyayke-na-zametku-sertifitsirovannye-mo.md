@@ -4,7 +4,6 @@ title: "Хозяйке на заметку: сертифицированные �
 date: 2017-10-18T17:08:45+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_559
 tags:
   - LSDYNA
 ---
@@ -14,3 +13,6 @@ tags:
 #LSDYNA
 
 http://thyme.ornl.gov/fhwa/draft/ntrci/index.cgi?model=1&navv=0 🔗 Home
+
+http://ift.tt/2vlBJYZ
+http://thyme.ornl.gov/fhwa/draft/ntrci/index.cgi?model=1&navv=0

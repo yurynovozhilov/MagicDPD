@@ -4,11 +4,13 @@ title: "Аддитивное производство без лазеров?!"
 date: 2025-06-26T10:36:04+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2970
 ---
 
 Аддитивное производство без лазеров?!
 
 Тут пост сугубо технологический, но меня очень зацепил. Коллеги придумали технологию, у нас происходит прямое нанесение материала (как в DED) но вместо лазера или плазмы металл «намазывается» сваркой трением с перемешиванием. По всей видимости, получаемое изделия оказывается без проблем с пористостью, хотя есть существенные ограничения по сложности производимых форм.
 
+https://www.linkedin.com/posts/amir-sanatkar-32b8923a_manufacturing-technology-metal-ugcPost-7342889674337611778-cLki
+
+[AFSD technology: No melting, no compromise, no pores | Amir Sanatkar posted on the topic | LinkedIn](https://www.linkedin.com/posts/amir-sanatkar-32b8923a_manufacturing-technology-metal-ugcPost-7342889674337611778-cLki?utm_)
 https://www.linkedin.com/posts/amir-sanatkar-32b8923a_manufacturing-technology-metal-ugcPost-7342889674337611778-cLki

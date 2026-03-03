@@ -4,7 +4,6 @@ title: "Адаптивные сетки HEX и POLY сетки для OpenFOAM �
 date: 2023-11-06T16:01:31+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2572
 images:
   - url: "/assets/images/2572.jpg"
 ---

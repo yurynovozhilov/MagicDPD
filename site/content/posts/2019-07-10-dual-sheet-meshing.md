@@ -4,7 +4,6 @@ title: "Dual Sheet Meshing:"
 date: 2019-07-10T17:26:49+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1527
 images:
   - url: "/assets/images/1527.jpg"
 ---

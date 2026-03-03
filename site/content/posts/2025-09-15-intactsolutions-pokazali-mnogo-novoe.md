@@ -4,7 +4,6 @@ title: "Intact.Solutions показали много новое"
 date: 2025-09-15T14:46:21+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3017
 images:
   - url: "/assets/images/3017.jpg"
 ---
@@ -16,5 +15,7 @@ Intact.Solutions показали много новое
 
 PyIntact - ну, вы знаете, все становиться лучше с pythonic cli
 LevelOpt - а вот это уже очень интересно, это топологическая оптимизация работающая в связке с "бессеточным" методом. Пока я такое видео только в научных академических сттатьях, а тут это почти в продакшене. Сочетание топологической оптимизации и бессеточного IGA подобного метода обычно дает очень хорошие результаты и быстро.
+
+https://intact-solutions.com/intact-simulation-for-automation/
 
 https://intact-solutions.com/intact-simulation-for-automation/

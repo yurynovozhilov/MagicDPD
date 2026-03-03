@@ -4,13 +4,12 @@ title: "Очень горячая прокатка"
 date: 2021-03-25T13:02:28+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1931
 tags:
-  - cadfem
-  - efg
-  - ls
   - meshless
   - ansys
+  - ls
+  - cadfem
+  - efg
 ---
 
 Очень горячая прокатка
@@ -26,3 +25,6 @@ https://www.youtube.com/watch?v=plsZPkpHQxk
 #ansys #cadfem #efg #ls-dyna #meshless
 https://tinyurl.com/yfzmb774
 by Юрий Новожилов
+
+[Решение задач горячей прокатки в твердотельной постановке в LS-DYNA](https://www.youtube.com/watch?v=plsZPkpHQxk)
+https://tinyurl.com/yfzmb774

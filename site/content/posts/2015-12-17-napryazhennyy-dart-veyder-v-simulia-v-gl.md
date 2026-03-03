@@ -4,12 +4,11 @@ title: "Напряженный Дарт Вейдер в #SIMULIA. В главн�
 date: 2015-12-17T07:01:46+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_911
 tags:
+  - Abaqus
+  - TOSCA
   - SIMULIA
   - FEM
-  - TOSCA
-  - Abaqus
 ---
 
 Напряженный Дарт Вейдер в #SIMULIA. В главных ролях #TOSCA и #Abaqus.

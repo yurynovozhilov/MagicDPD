@@ -4,15 +4,14 @@ title: "Новые возможности ANSYS по работе с матер�
 date: 2018-11-05T17:01:32+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1193
 tags:
-  - LEAP
+  - ANSYS
   - MaterialDesigner
+  - Mechanical
   - Composite
   - ACP
-  - Mechanical
+  - LEAP
   - MaterialAssignmentTool
-  - ANSYS
 images:
   - url: "/assets/images/1194.jpg"
 ---
@@ -27,4 +26,6 @@ Material Assignment Tool - новый механизм присваивания 
 Еще покажут как влияет учет драпировки на свойства изделий из текстильных композитов, но это уже хорошо известная возможность ACP.
 
 #ACP #ANSYS #Composite #LEAP #MaterialAssignmentTool #MaterialDesigner #Mechanical
+http://bit.ly/2D4uPyD
+
 http://bit.ly/2D4uPyD

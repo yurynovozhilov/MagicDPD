@@ -4,17 +4,16 @@ title: "Портал #ENGINEERING.com на базе опроса 230 профе�
 date: 2017-10-16T17:08:20+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_555
 tags:
-  - SolidEdge
+  - САПР
   - NX
-  - AutoCAD
   - CATIA
+  - Creo
   - ENGINEERING
+  - AutoCAD
   - SOLIDWORKS
   - CAD
-  - САПР
-  - Creo
+  - SolidEdge
 ---
 
 Портал #ENGINEERING.com на базе опроса 230 профессиональных пользователей #CAD программного обеспечения собрали очень любопытную статистику на тему, какой из современных #САПР больше всего любит кушать мозг, и насколько большая у него для этого ложечка есть.
@@ -29,3 +28,7 @@ tags:
 Непонятно только, почему в опросе никто не вспомнил про #CATIA
 
 http://ENGINEERING.com 🔗 ENGINEERING.com | Information & Inspiration for Engineers
+
+http://ift.tt/2yppWMe
+http://engineering.com/
+http://ENGINEERING.com

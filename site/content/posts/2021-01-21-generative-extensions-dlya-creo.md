@@ -4,12 +4,11 @@ title: "Generative Extensions для Creo"
 date: 2021-01-21T13:01:21+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1888
 tags:
-  - topology
-  - cloud
-  - optimization
   - creo
+  - topology
+  - optimization
+  - cloud
   - hpc
 ---
 
@@ -38,3 +37,8 @@ https://www.youtube.com/watch?v=H2YgvcSEyxE
 #cloud #creo #hpc #optimization #topology
 https://tinyurl.com/y5ulpttp
 by Юрий Новожилов
+
+[Generative Design Extension is Introduced | Creo 7.0.2](https://www.youtube.com/watch?v=RReVZ37fs0w)
+https://www.youtube.com/watch?v=Zd9seD8AgHk
+https://www.youtube.com/watch?v=H2YgvcSEyxE
+https://tinyurl.com/y5ulpttp

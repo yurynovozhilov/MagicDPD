@@ -4,7 +4,6 @@ title: "Моделирование взрыва в SPH постановке"
 date: 2016-12-24T12:01:00+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_227
 tags:
   - blast
   - SPH
@@ -21,3 +20,5 @@ https://www.youtube.com/watch?v=0Q-5dAiPcwE
 #blast
 
 https://www.youtube.com/watch?v=0Q-5dAiPcwE
+
+[Blast response of centrally and eccentrically loaded flat-, U-, and V-shaped armored plates](https://www.youtube.com/watch?v=0Q-5dAiPcwE)

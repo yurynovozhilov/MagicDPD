@@ -4,7 +4,6 @@ title: "Журнал FEA Information"
 date: 2019-02-23T17:00:30+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1364
 tags:
   - LSCT
   - FEA_Information
@@ -40,3 +39,7 @@ images:
 https://wp.me/p9vWYY-2mp
 
 by Юрий Новожилов
+
+https://magicdpd.ru/lego-crash-test/
+http://www.feaiej.com
+https://wp.me/p9vWYY-2mp

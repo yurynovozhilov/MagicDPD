@@ -4,7 +4,6 @@ title: "Констатируем факты - 18.0 уже не не самый �
 date: 2017-05-18T17:01:05+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_355
 tags:
   - SpaceClaim
   - ANSYS
@@ -16,3 +15,5 @@ http://www.prnewswire.com/news-releases/ansys-181-expands-pervasive-engineering-
 В понедельник #ANSYS выкатил очередную большую версию своего ПО - R18.1. Нововведения есть и их много. Особенно порадовала топологическая оптимизация и #SpaceClaim.
 
 Однако для меня этот релиз сделала пожалуй одна мелкая и приятная новая возможность: F11 для полноэкранного режима в ANSYS Mechanical :-). Прямо как-то ностальгия по временам, когда экраны были маленькие и браузеры по этой клавише пытались спрятать весь свой интерфейс.
+
+[ANSYS 18.1 Expands Pervasive Engineering Simulation](http://www.prnewswire.com/news-releases/ansys-181-expands-pervasive-engineering-simulation-300457825.html)

@@ -4,7 +4,6 @@ title: "Ansys покупает Diakopto"
 date: 2023-05-18T13:01:00+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2414
 ---
 
 Ansys покупает Diakopto
@@ -20,3 +19,5 @@ Ansys покупает Diakopto
 Сделка зависит от соблюдения обычных условий закрытия и, как ожидается, будет закрыта во втором квартале 2023 года.
 
 https://www.ansys.com/news-center/press-releases/5-16-23-ansys-signs-definitive-agreement-to-acquire-diakopto
+
+[Ansys Signs Definitive Agreement to Acquire Diakopto](https://www.ansys.com/news-center/press-releases/5-16-23-ansys-signs-definitive-agreement-to-acquire-diakopto)

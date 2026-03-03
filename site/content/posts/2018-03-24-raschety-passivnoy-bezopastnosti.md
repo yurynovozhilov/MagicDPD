@@ -4,7 +4,6 @@ title: "Расчеты пассивной безопастности"
 date: 2018-03-24T18:01:10+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_867
 tags:
   - Crush
   - LSPrePost
@@ -18,4 +17,6 @@ images:
 
 
 #Crush #LSDYNA #LSPrePost
+https://goo.gl/yZ6oU8
+
 https://goo.gl/yZ6oU8

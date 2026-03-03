@@ -4,11 +4,10 @@ title: "Открыта регистрация на ACUM (CASCON) XVI"
 date: 2019-06-25T16:08:28+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1514
 tags:
+  - CADFEM
   - ACUM
   - ANSYS
-  - CADFEM
 images:
   - url: "/assets/images/1514.jpg"
 ---
@@ -23,3 +22,6 @@ images:
 https://wp.me/p9vWYY-2A9
 
 by Юрий Новожилов
+
+https://ansysconference.ru/
+https://wp.me/p9vWYY-2A9

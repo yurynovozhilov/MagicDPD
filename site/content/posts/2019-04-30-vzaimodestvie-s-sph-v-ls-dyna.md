@@ -4,7 +4,6 @@ title: "Взаимодествие с SPH в LS-DYNA"
 date: 2019-04-30T17:01:32+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1461
 images:
   - url: "/assets/images/1461.jpg"
 ---

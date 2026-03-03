@@ -4,13 +4,12 @@ title: "Война интерконнектов: продолжение"
 date: 2018-01-14T12:01:04+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_724
 tags:
-  - Fluent
+  - Infiniband
   - HPC
   - LS
   - OPA
-  - Infiniband
+  - Fluent
 images:
   - url: "/assets/images/725.jpg"
 ---
@@ -24,4 +23,8 @@ images:
 
 https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/amp/
 #Fluent #HPC #Infiniband #LS-DYNA #OPA
+https://magicdpd.ru/?p=5925
+
+https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/amp/
+https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/amp/
 https://magicdpd.ru/?p=5925

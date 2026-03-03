@@ -4,11 +4,10 @@ title: "Машинный интеллект проектирует стулья"
 date: 2018-01-04T18:11:04+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_692
 tags:
-  - optimization
-  - Topology
   - AI
+  - Topology
+  - optimization
   - Autodesk
   - Dreamcatcher
 images:
@@ -20,4 +19,7 @@ images:
 
 http://www.digitaleng.news/de/ai-wants-seat-design-table/
 #AI #Autodesk #Dreamcatcher #optimization #Topology
+https://magicdpd.ru/?p=5822
+
+[Artificial Intelligence Wants a Seat at the Design Table](http://www.digitaleng.news/de/ai-wants-seat-design-table/)
 https://magicdpd.ru/?p=5822

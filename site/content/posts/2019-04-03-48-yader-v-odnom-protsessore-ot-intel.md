@@ -4,7 +4,6 @@ title: "48 ядер в одном процессоре от Intel"
 date: 2019-04-03T12:00:28+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1425
 tags:
   - Intel
   - HPC
@@ -30,3 +29,5 @@ AVX 512 — еще больше математической производи�
 https://wp.me/p9vWYY-2st
 
 by Юрий Новожилов
+
+https://wp.me/p9vWYY-2st

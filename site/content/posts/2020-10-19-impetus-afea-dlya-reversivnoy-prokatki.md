@@ -4,13 +4,12 @@ title: "Impetus Afea для реверсивной прокатки?!"
 date: 2020-10-19T13:40:40+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1843
 tags:
   - IMPETUS
   - GPU
+  - Afea
   - rolling
   - explicit
-  - Afea
 images:
   - url: "/assets/images/1843.jpg"
 ---

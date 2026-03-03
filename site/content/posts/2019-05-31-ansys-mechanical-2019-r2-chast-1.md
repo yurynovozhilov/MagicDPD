@@ -4,13 +4,12 @@ title: "ANSYS Mechanical 2019 R2: часть 1"
 date: 2019-05-31T17:01:02+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1493
 tags:
+  - ANSYS
+  - Mechanical
+  - mesh
   - Granta_Design
   - SpaceClaim_Meshing
-  - mesh
-  - Mechanical
-  - ANSYS
 images:
   - url: "/assets/images/1493.jpg"
 ---
@@ -29,3 +28,5 @@ ANSYS Mechanical 2019 R2: часть 1
 https://wp.me/p9vWYY-2xF
 
 by Юрий Новожилов
+
+https://wp.me/p9vWYY-2xF

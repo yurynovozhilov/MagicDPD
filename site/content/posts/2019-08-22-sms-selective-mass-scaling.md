@@ -4,7 +4,6 @@ title: "SMS — Selective Mass Scaling"
 date: 2019-08-22T13:00:23+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1561
 images:
   - url: "/assets/images/1561.jpg"
 ---

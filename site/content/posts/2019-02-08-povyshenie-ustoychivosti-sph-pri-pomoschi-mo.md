@@ -4,13 +4,12 @@ title: "Повышение устойчивости SPH при помощи Movi
 date: 2019-02-08T06:52:01+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1342
 tags:
-  - EFG
-  - SPH
-  - LSDYNA
   - LSTC
+  - LSDYNA
   - MLS
+  - SPH
+  - EFG
 images:
   - url: "/assets/images/1342.jpg"
 ---

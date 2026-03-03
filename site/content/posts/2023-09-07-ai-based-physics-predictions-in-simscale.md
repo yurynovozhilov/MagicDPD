@@ -4,7 +4,6 @@ title: "AI-Based Physics Predictions in SimScale"
 date: 2023-09-07T15:01:30+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2514
 ---
 
 AI-Based Physics Predictions in SimScale
@@ -15,3 +14,5 @@ AI-Based Physics Predictions in SimScale
 
 Бесплатный вебинар требует регистрации
 https://www.simscale.com/webinars-workshops/ai-based-physics-predictions/
+
+[AI-based Physics Predictions in Your Web-browser | Webinar](https://www.simscale.com/webinars-workshops/ai-based-physics-predictions/)

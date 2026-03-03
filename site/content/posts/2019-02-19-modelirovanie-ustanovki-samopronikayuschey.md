@@ -4,7 +4,6 @@ title: "Моделирование установки самопроникающ
 date: 2019-02-19T17:01:09+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1360
 images:
   - url: "/assets/images/1360.jpg"
 ---
@@ -32,3 +31,7 @@ https://youtu.be/ZioZ63goNUo
 
 
 По рассматриваемому примеру расчета у меня есть ссылки не только на красивые картинки, но и на диссертацию (https://soar.wichita.edu/bitstream/handle/10057/3666/t10078_Bijju.pdf ), и на учебный пример от LSTC
+
+https://www.youtube.com/watch?v=ItpvqSv_hHw
+https://youtu.be/ZioZ63goNUo
+https://soar.wichita.edu/bitstream/handle/10057/3666/t10078_Bijju.pdf

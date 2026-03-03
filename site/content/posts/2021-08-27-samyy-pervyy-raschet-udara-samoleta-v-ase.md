@@ -4,10 +4,9 @@ title: "Самый первый расчет удара самолета в АС
 date: 2021-08-27T13:01:18+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1987
 tags:
-  - simulationfriday
   - true_science
+  - simulationfriday
 ---
 
 Самый первый расчет удара самолета в АСЭ
@@ -47,4 +46,7 @@ tags:
 Ссылка на статью тут: https://doi.org/10.1016/0029-5493(76)90021-2
 
 #simulationfriday #true_science
+https://tinyurl.com/yz46dum5
+
+https://doi.org/10.1016/0029-5493(76)90021-2
 https://tinyurl.com/yz46dum5

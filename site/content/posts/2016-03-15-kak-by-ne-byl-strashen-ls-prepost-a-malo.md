@@ -4,7 +4,6 @@ title: "Как бы не был страшен LS-PrePost, а мало кто м
 date: 2016-03-15T11:01:52+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1428
 tags:
   - lspp
   - NURBS

@@ -4,10 +4,9 @@ title: "Упрощенный запуск LS-DYNA"
 date: 2017-01-23T17:00:25+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_248
 tags:
-  - LSPP
   - LSTC
+  - LSPP
   - LSRUN
   - LSDYNA
 ---
@@ -27,3 +26,5 @@ https://www.youtube.com/watch?v=dVypwLW6gQw
 
 #LSPP #LSRUN
 https://www.youtube.com/watch?v=dVypwLW6gQw
+
+[How to LS-Run - Easily start LS-DYNA Simulations](https://www.youtube.com/watch?v=dVypwLW6gQw)

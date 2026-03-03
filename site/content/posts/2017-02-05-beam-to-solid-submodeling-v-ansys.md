@@ -4,14 +4,13 @@ title: "Beam-to-Solid submodeling в ANSYS"
 date: 2017-02-05T17:00:43+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_261
 tags:
-  - submodeling
-  - APDL
-  - ACP
-  - Mechanical
-  - SpaceClaim
   - ANSYS
+  - APDL
+  - Mechanical
+  - ACP
+  - submodeling
+  - SpaceClaim
 ---
 
 Beam-to-Solid submodeling в ANSYS
@@ -26,3 +25,5 @@ https://www.youtube.com/watch?v=jkj3owGBJ_c
 https://www.youtube.com/watch?v=jkj3owGBJ_c
 
 P.S. В видео есть отдельные плюшки по #SpaceClaim
+
+[Beam and Shell Submodeling with ANSYS Mechanical [Tutorial]](https://www.youtube.com/watch?v=jkj3owGBJ_c)

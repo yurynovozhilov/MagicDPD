@@ -4,7 +4,6 @@ title: "ANSYS для студентов"
 date: 2018-04-17T18:46:13+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_902
 images:
   - url: "/assets/images/903.jpg"
   - url: "/assets/images/904.jpg"
@@ -32,4 +31,8 @@ ANSYS AIM Student 19 - единая среда, позволяющая реша�
 
 ANSYS Discovery Live Student (!!!) - решатель так называемой "упрощенной быстрой физики", если переводить его описание машинным переводом. На самом деле, данный продукт позволит вам в реальном времени видеть как изменения, вносимые вами в конструкцию, влияют на ее работоспособность.
 
+https://magicdpd.ru/?p=6829
+
+[Ansys Student Versions | Free Student Software Downloads](https://www.ansys.com/student)
+ansys.com/student
 https://magicdpd.ru/?p=6829

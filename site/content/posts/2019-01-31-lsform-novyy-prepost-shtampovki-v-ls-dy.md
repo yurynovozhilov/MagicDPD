@@ -4,14 +4,13 @@ title: "LSFORM — новый ПреПост штамповки в LS-DYNA"
 date: 2019-01-31T17:00:24+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1328
 tags:
-  - LS_DYNA
-  - forming
   - deepdrawing
-  - FLD
-  - stamping
+  - LS_DYNA
   - LSTC
+  - stamping
+  - forming
+  - FLD
 images:
   - url: "/assets/images/1328.jpg"
 ---
@@ -39,4 +38,9 @@ https://www.youtube.com/watch?v=ZZcdfj8SezI
 
 #deepdrawing #FLD #forming #LS_DYNA #LSTC #stamping
 
+https://wp.me/s9vWYY-lsform
+
+https://www.youtube.com/watch?v=g6wZ0MMEmmA
+https://www.youtube.com/watch?v=C40qFGqPbyA
+https://www.youtube.com/watch?v=ZZcdfj8SezI
 https://wp.me/s9vWYY-lsform

@@ -4,7 +4,6 @@ title: "Работает благодаря MeshGems"
 date: 2019-02-03T17:00:13+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1331
 images:
   - url: "/assets/images/1331.jpg"
 ---

@@ -4,7 +4,6 @@ title: "LSTC Solution Explorer для подготовки нелинейног�
 date: 2019-07-01T17:01:21+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1519
 images:
   - url: "/assets/images/1519.jpg"
 ---

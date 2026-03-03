@@ -4,7 +4,6 @@ title: "Первые короткие публичные обзоры #SpaceClai
 date: 2015-12-03T06:30:33+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_830
 tags:
   - SpaceClaim
 ---

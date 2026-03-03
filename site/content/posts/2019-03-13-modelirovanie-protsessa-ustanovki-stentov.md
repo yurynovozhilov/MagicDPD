@@ -4,13 +4,12 @@ title: "Моделирование процесса установки стен�
 date: 2019-03-13T17:02:24+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1391
 tags:
   - LS_DYNA
-  - bio
-  - stent
-  - implicit
   - DYNAMore
+  - stent
+  - bio
+  - implicit
 images:
   - url: "/assets/images/1391.jpg"
 ---
@@ -33,4 +32,9 @@ https://www.dynamore.de/de/download/papers/2018-ls-dyna-forum/papers-2018/mittwo
 
 #bio #DYNAMore #implicit #LS_DYNA #stent
 
+https://wp.me/p9vWYY-2p2
+
+http://magicdpd.ru/моделирование-установки-стента-в-ls-dyna-implicit/
+https://youtu.be/ZbkySatvT-c
+https://www.dynamore.de/de/download/papers/2018-ls-dyna-forum/papers-2018/mittwoch-17.-oktober-2018/biomedical/numerical-analysis-of-stent-delivery-systems-during-pre-and-intraoperative-processes
 https://wp.me/p9vWYY-2p2

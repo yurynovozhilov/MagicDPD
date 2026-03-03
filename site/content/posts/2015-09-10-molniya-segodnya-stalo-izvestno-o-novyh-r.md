@@ -4,13 +4,14 @@ title: "Молния! Сегодня стало известно о новых �
 date: 2015-09-10T11:19:32+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_339
 tags:
-  - Fluent
-  - HPC
   - CFD
-  - Cray
   - ANSYS
+  - HPC
+  - Cray
+  - Fluent
 ---
 
 Молния! Сегодня стало известно о новых рекордах ANSYS в области HPC. Рекордсменом в очередной раз стал ANSYS Fluent - основной CFD код из набора решателей ANSYS. ANSYS в сотрудничестве с Cray удалось практически в 4 раза увеличить количество эффективно используемых ядре для расчета. Компании заявляют, что для решателя были достигнуты показатели эффективности в 90% при работе на 129 000 ядер. Для расчета использовалась система Cray XC3
+
+[ANSYS and Cray Smash Supercomputing Records](http://www.prnewswire.com/news-releases/ansys-and-cray-smash-supercomputing-records-300139525.html)

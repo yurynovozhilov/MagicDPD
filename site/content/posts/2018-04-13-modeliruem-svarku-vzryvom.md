@@ -4,10 +4,9 @@ title: "Моделируем сварку взрывом"
 date: 2018-04-13T18:00:18+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_898
 tags:
-  - LSTC
   - Welding
+  - LSTC
   - LSDYNA
 images:
   - url: "/assets/images/899.jpg"
@@ -25,4 +24,7 @@ images:
 https://www.dynamore.de/de/download/papers/2015-ls-dyna-europ/documents/sessions-f-5-8/numerical-simulation-of-impact-welding-processes-with-ls-dyna
 
 #LSDYNA #LSTC #Welding
+https://is.gd/0BChlC
+
+https://www.dynamore.de/de/download/papers/2015-ls-dyna-europ/documents/sessions-f-5-8/numerical-simulation-of-impact-welding-processes-with-ls-dyna
 https://is.gd/0BChlC

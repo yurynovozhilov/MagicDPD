@@ -4,11 +4,10 @@ title: "Про IGA по русски"
 date: 2021-03-17T13:02:33+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1925
 tags:
-  - coreform
-  - ls
   - iga
+  - ls
+  - coreform
 ---
 
 Про IGA по русски
@@ -28,4 +27,7 @@ tags:
 Ссылка на статью: https://unistroy.spbstu.ru/userfiles/files/2019/9(84)/84__1.pdf
 
 #coreform #iga #ls-dyna
+https://tinyurl.com/ydqqy5mn
+
+https://unistroy.spbstu.ru/userfiles/files/2019/9(84)/84__1.pdf
 https://tinyurl.com/ydqqy5mn

@@ -4,13 +4,12 @@ title: "SPHERIC Sloshing Wave Impact Test"
 date: 2021-01-26T13:31:20+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1891
 tags:
-  - lammps
+  - fsi
   - sph
   - spheric
   - sloshing
-  - fsi
+  - lammps
 ---
 
 SPHERIC Sloshing Wave Impact Test
@@ -26,3 +25,7 @@ https://www.youtube.com/watch?v=9Mcqo1S1M_E
 #fsi #lammps #sloshing #sph #spheric
 https://tinyurl.com/yyerdbzg
 by Юрий Новожилов
+
+[SPHERIC Sloshing Wave Impact Test 10 by LAMMPS USER-SMD](https://www.youtube.com/watch?v=9Mcqo1S1M_E)
+https://spheric-sph.org/tests/test-10
+https://tinyurl.com/yyerdbzg

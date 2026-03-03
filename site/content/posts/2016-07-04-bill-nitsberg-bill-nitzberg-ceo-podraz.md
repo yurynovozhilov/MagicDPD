@@ -4,18 +4,17 @@ title: "Билл Ницберг (Bill Nitzberg), CEO подразделения 
 date: 2016-07-04T12:02:21+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_15
 tags:
-  - Microsoft
   - Amazon
-  - AWS
-  - Altair
-  - Azure
-  - Cloud
-  - PBS
-  - Manager
-  - ISC
   - Simulator
+  - Altair
+  - Cloud
+  - Azure
+  - PBS
+  - ISC
+  - Microsoft
+  - AWS
+  - Manager
 ---
 
 Билл Ницберг (Bill Nitzberg), CEO подразделения #PBS Works компании #Altair, рассказывает про новости с #ISC 2016.
@@ -27,3 +26,5 @@ tags:
 PBS #Simulator позволяет на основе истории загрузки вашего кластера оптимизировать его архитектуру (например показывает какие типы узлов стоит закупить)
 
 PBS #Cloud #Manager - система позволяющая автоматически рааричивать вычислительные кластеры на базе публичных облаков #Amazon #AWS и #Microsoft #Azure. https://www.youtube.com/watch?v=nbrkpNsD4rk
+
+[PBS Pro from Altair Goes Open Source at ISC 2016](https://www.youtube.com/watch?v=nbrkpNsD4rk)

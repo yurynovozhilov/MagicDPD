@@ -4,7 +4,6 @@ title: "AlphaCell — ПО для моделирования акустики и
 date: 2020-06-19T13:10:17+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1785
 tags:
   - NVH
   - acoustic

@@ -4,7 +4,6 @@ title: "MeshGems стали частью Dassault"
 date: 2021-06-21T13:43:30+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1972
 tags:
   - dassault_systemes
   - mesh
@@ -24,4 +23,7 @@ MeshGems стали частью Dassault
 Короче говоря, компания MeshGems для рынка сеточных генераторов была как Parasolid - для CAD/CAE. Так вот, пару недель назад MeshGems стали частью Dassault, и теперь это "3D Precise Mesh" https://www.spatial.com/products/3d-precise-mesh
 
 #dassault_systemes #mesh #meshgems
+https://tinyurl.com/yz7slbw7
+
+[3D Precise Mesh | 3D Mesh Generation Software | Spatial](https://www.spatial.com/products/3d-precise-mesh)
 https://tinyurl.com/yz7slbw7

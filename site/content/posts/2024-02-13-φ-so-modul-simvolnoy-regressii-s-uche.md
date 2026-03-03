@@ -4,7 +4,6 @@ title: "Φ-SO - модуль символьной регрессии с учет
 date: 2024-02-13T15:01:20+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2643
 ---
 
 Φ-SO - модуль символьной регрессии с учетом ограничения единиц измерения физических величин
@@ -16,3 +15,5 @@ original_url: https://vk.com/wall-97265142_2643
 Алгоритм можно использовать для подгонки бесшумных данных, что может быть полезно, например, при попытке вывести аналитическое свойство физической модели, а также для получения аналитических приближений к зашумленным данным.
 
 https://github.com/WassimTenachi/PhySO
+
+[GitHub - WassimTenachi/PhySO: Physical Symbolic Optimization](https://github.com/WassimTenachi/PhySO)

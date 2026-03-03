@@ -4,11 +4,10 @@ title: "Резка твердой породы в DEM"
 date: 2019-04-18T17:01:00+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1450
 tags:
   - DEM
-  - PFC2D
   - Itasca
+  - PFC2D
 images:
   - url: "/assets/images/1450.jpg"
 ---
@@ -36,4 +35,7 @@ images:
 
 #DEM #Itasca #PFC2D
 
+https://wp.me/p9vWYY-2tU
+
+https://www.itascacg.com/software/pfc
 https://wp.me/p9vWYY-2tU

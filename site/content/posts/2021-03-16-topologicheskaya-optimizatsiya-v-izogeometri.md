@@ -4,13 +4,12 @@ title: "Топологическая оптимизация в изогеоме�
 date: 2021-03-16T13:21:10+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1924
 tags:
   - topology
-  - optimization
-  - level_set_method
   - iga
+  - level_set_method
   - simp
+  - optimization
   - ansys
 ---
 
@@ -43,4 +42,8 @@ tags:
 Ссылка на статью: https://dx.doi.org/10.13140/RG.2.2.32756.78729
 
 #ansys #iga #level_set_method #optimization #simp #topology
+https://tinyurl.com/yzfdkqxo
+
+[Structural Topology Optimization With Accurate Boundary Representation Using Un-Trimming Techniques and Isogeometric Analysis](https://slideslive.com/38944315/structural-topology-optimization-with-accurate-boundary-representation-using-untrimming-techniques-and-isogeometric-analysis)
+https://dx.doi.org/10.13140/RG.2.2.32756.78729
 https://tinyurl.com/yzfdkqxo

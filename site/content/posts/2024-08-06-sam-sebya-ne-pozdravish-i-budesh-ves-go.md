@@ -4,7 +4,6 @@ title: "Сам себя не поздравишь, и будешь весь го
 date: 2024-08-06T08:02:23+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2764
 images:
   - url: "/assets/images/2764.jpg"
 ---

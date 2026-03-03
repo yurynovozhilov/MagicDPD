@@ -4,14 +4,13 @@ title: "HPE прикупила себе SGI"
 date: 2016-08-13T06:30:40+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_78
 tags:
+  - OpenGL
+  - HPC
   - NUMAlink
   - SGI
-  - HPC
-  - XFS
-  - OpenGL
   - HPE
+  - XFS
 ---
 
 HPE прикупила себе SGI
@@ -22,3 +21,5 @@ https://www.hpcwire.com/2016/08/11/hpe-gobbles-sgi-larger-slice-11b-hpc-pie/
 Напомню, что SGI, несмотря на несколько кризисов за время своей жизни, сделала огромный вклад в 3D графику и стандарт #OpenGL. На счету компании также разработка собственного коннекта #NUMAlink, позволяющего сделать из кластера машину с общей памятью на аппаратном уровне и высокопроизводительная файловая система #XFS.
 
 Мы стали свидетелями конца еще одной легенды мира #HPC.
+
+[HPE Gobbles SGI for Larger Slice of $11B HPC Pie](https://www.hpcwire.com/2016/08/11/hpe-gobbles-sgi-larger-slice-11b-hpc-pie/)

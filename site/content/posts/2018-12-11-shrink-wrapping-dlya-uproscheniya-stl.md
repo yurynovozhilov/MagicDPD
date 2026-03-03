@@ -4,11 +4,10 @@ title: "Shrink-wrapping для упрощения STL"
 date: 2018-12-11T17:00:17+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1258
 tags:
   - SpaceClaim
-  - STL
   - Polygonica
+  - STL
 images:
   - url: "/assets/images/1259.jpg"
 ---
@@ -20,4 +19,6 @@ Shrink-wrapping для упрощения STL
 
 
 #Polygonica #SpaceClaim #STL
+http://bit.ly/2PxTD4E
+
 http://bit.ly/2PxTD4E

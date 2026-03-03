@@ -4,7 +4,6 @@ title: "⚡⚡⚡Ansys продается или покупается?!⚡⚡⚡
 date: 2023-12-23T09:18:33+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2602
 ---
 
 ⚡⚡⚡Ansys продается или покупается?!⚡⚡⚡
@@ -16,3 +15,5 @@ original_url: https://vk.com/wall-97265142_2602
 P.S. Ушел за акциями.
 
 https://www.reuters.com/markets/deals/ansys-explores-sale-amid-takeover-interest-sources-2023-12-22/
+
+[Exclusive: Synopsys seeks to acquire engineering software company Ansys-sources](https://www.reuters.com/markets/deals/ansys-explores-sale-amid-takeover-interest-sources-2023-12-22/)

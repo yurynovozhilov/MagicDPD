@@ -4,7 +4,6 @@ title: "LS-DYNA Aerospace Working Group"
 date: 2018-05-28T18:01:05+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_942
 tags:
   - AWG
   - LS
@@ -19,4 +18,7 @@ LS-DYNA Aerospace Working Group (AWG), это группа специалист
 https://awg.lstc.com/tiki/tiki-index.php?page=Test+Case+Suite
 #AWG #LS-DYNA
 
+https://wp.me/p9vWYY-1RU
+
+https://awg.lstc.com/tiki/tiki-index.php?page=Test+Case+Suite
 https://wp.me/p9vWYY-1RU

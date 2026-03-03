@@ -4,13 +4,12 @@ title: "Импорт данных изготовления композитов 
 date: 2020-04-16T14:50:48+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1740
 tags:
   - LS_DYNA
-  - Moldex3D
-  - composite
   - Moldflow
+  - Moldex3D
   - LS_PrePost
+  - composite
 images:
   - url: "/assets/images/1740.jpg"
 ---

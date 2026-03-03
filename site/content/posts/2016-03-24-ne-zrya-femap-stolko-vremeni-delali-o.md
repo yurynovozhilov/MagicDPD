@@ -4,7 +4,6 @@ title: "Не зря #Femap столько времени делали - он я�
 date: 2016-03-24T19:20:04+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1500
 tags:
   - Femap
 images:

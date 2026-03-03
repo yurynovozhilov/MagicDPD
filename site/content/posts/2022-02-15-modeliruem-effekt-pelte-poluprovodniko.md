@@ -4,13 +4,12 @@ title: "Моделируем эффект Пельте (полупроводни
 date: 2022-02-15T19:00:10+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2138
 tags:
-  - Ansys
   - APDL
-  - EM
   - Mechanical
   - SimuTech
+  - EM
+  - Ansys
 images:
   - url: "/assets/images/2138.jpg"
   - url: "/assets/images/2139.jpg"
@@ -21,3 +20,5 @@ images:
 Моделируем эффект Пельте (полупроводниковый холодильник) в #Ansys #Mechanical c #SimuTech
 
 #APDL #EM https://www.youtube.com/watch?v=Lnf4EGptub8
+
+https://www.youtube.com/watch?v=Lnf4EGptub8

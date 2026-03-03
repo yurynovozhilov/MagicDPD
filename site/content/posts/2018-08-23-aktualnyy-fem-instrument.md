@@ -4,11 +4,10 @@ title: "Актуальный FEM инструмент"
 date: 2018-08-23T18:00:43+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1086
 tags:
   - APDL
-  - ANSYS
   - Mechanical
+  - ANSYS
 ---
 
 Актуальный FEM инструмент
@@ -16,4 +15,7 @@ tags:
 
 
 #ANSYS #APDL #Mechanical
+http://bit.ly/2Lo35Wm
+
+https://www.linkedin.com/in/seanmharvey/
 http://bit.ly/2Lo35Wm

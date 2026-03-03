@@ -4,7 +4,6 @@ title: "#HPE объявил о запуске своей линейки высо
 date: 2017-11-15T07:41:44+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_609
 tags:
   - ARM
   - HPE
@@ -15,3 +14,9 @@ tags:
 HPE Launches ARM-based Apollo System for HPC, AIMedia🔗 HPE Launches ARM-based Apollo System for HPC, AI
 
 http://ift.tt/2zGz69M
+
+http://ift.tt/2AKNBHE
+http://ift.tt/2yEh3Oi
+http://ift.tt/2ALwPZe
+http://ift.tt/2zK7m27
+ttp://ift.tt/2zGz69M

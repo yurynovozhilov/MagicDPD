@@ -4,7 +4,6 @@ title: "Mathpix Snip"
 date: 2021-09-02T13:03:20+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1991
 tags:
   - latex
   - word
@@ -47,4 +46,10 @@ https://www.youtube.com/watch?v=pVOhGFBkXXI
 Сайт разработчика: https://mathpix.com/
 
 #chemdraw #latex #mathpix #word
+https://tinyurl.com/yfav3jtn
+
+[How to extract an equation from a PDF using Mathpix Snip](https://www.youtube.com/watch?v=j5iryTEJPsE)
+https://www.youtube.com/watch?v=l5tmUR_j7R8
+https://www.youtube.com/watch?v=pVOhGFBkXXI
+https://mathpix.com/
 https://tinyurl.com/yfav3jtn

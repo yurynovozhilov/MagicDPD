@@ -4,14 +4,13 @@ title: "Силикон ускоряет ANSYS"
 date: 2016-09-24T17:00:47+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_117
 tags:
-  - SGI
-  - Fluent
-  - HPC
-  - GPFS
   - ANSYS
+  - HPC
+  - SGI
   - HPE
+  - GPFS
+  - Fluent
 ---
 
 Силикон ускоряет ANSYS
@@ -20,3 +19,6 @@ http://www.ansys-blog.com/sgi-ansys-new-world-record-hpc
 Очередные заоблачные цифры ускорения расчета #ANSYS #Fluent: 145152 ядер на расчет, решение задачи на 830 миллионов ячеек (химические реакции, турбулентность) за 13 секунд. Да у меня такая задача ни на одном компьютере даже не откроется, да она на самом мощном из доступных мне кластеров минуты 3 будет только с #GPFS читаться!
 
 Причиной такого ускорения расчетов стала комбинация двух факторов: железо компании #SGI и самая новая версия решателя R17.2. Надеюсь, что SGI, вошедший в состав #HPE будте только больше наращивать темпы!
+
+[SGI and ANSYS Achieve New World Record in HPC](http://www.ansys-blog.com/sgi-ansys-new-world-record-hpc/)
+http://www.ansys-blog.com/sgi-ansys-new-world-record-hpc

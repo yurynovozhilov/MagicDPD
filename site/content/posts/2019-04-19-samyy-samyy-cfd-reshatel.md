@@ -4,12 +4,11 @@ title: "Самый-самый CFD решатель"
 date: 2019-04-19T17:00:33+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1451
 tags:
-  - OpenFOAM
+  - CFD
   - Fluent
   - StarCCM
-  - CFD
+  - OpenFOAM
 images:
   - url: "/assets/images/1451.jpg"
 ---
@@ -29,4 +28,7 @@ images:
 
 #CFD #Fluent #OpenFOAM #StarCCM
 
+https://wp.me/p9vWYY-2tX
+
+https://www.resolvedanalytics.com/theflux/comparing-cfd-software
 https://wp.me/p9vWYY-2tX

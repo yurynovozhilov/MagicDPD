@@ -4,7 +4,6 @@ title: "Первая работающая реализация Quantum Lattice B
 date: 2025-06-13T11:02:28+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2963
 ---
 
 Первая работающая реализация Quantum Lattice Boltzmann Method от Ansys
@@ -16,5 +15,9 @@ original_url: https://vk.com/wall-97265142_2963
 Пока что реализовано решение лишь линейного уравнения адвекции-диффузии, но в перспективе разработчики планируют расширить алгоритмы для моделирования более сложных нелинейных систем, таких как полноценные уравнения Навье–Стокса. Архитектура и алгоритмы специально оптимизированы под современные NISQ-устройства с ограниченным числом кубитов и уровнем шумов.
 
 https://quantumzeitgeist.com/quantum-lattice-boltzmann-method-first-hardware-implementation-of-2d-3d-fluid-simulations/
+https://arxiv.org/pdf/2504.10870
+https://www.ansys.com/blog/scaling-quantum-computing-research
+
+[Quantum Lattice Boltzmann Method: First Hardware Implementation Of 2D/3D Fluid Simulations](https://quantumzeitgeist.com/quantum-lattice-boltzmann-method-first-hardware-implementation-of-2d-3d-fluid-simulations/)
 https://arxiv.org/pdf/2504.10870
 https://www.ansys.com/blog/scaling-quantum-computing-research

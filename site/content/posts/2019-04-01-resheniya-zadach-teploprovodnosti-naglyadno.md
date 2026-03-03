@@ -4,11 +4,10 @@ title: "Решения задач теплопроводности нагляд�
 date: 2019-04-01T10:39:53+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1420
 tags:
-  - thermal
-  - LS_DYNA
   - LSTC
+  - LS_DYNA
+  - thermal
 images:
   - url: "/assets/images/1420.jpg"
 ---
@@ -39,3 +38,5 @@ images:
 https://wp.me/p9vWYY-2rS
 
 by Юрий Новожилов
+
+https://wp.me/p9vWYY-2rS

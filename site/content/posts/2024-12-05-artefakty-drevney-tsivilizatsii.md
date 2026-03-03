@@ -4,7 +4,6 @@ title: "Артефакты древней цивилизации"
 date: 2024-12-05T09:00:19+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2851
 images:
   - url: "/assets/images/2851.jpg"
 ---
@@ -13,4 +12,7 @@ images:
 
 Копаясь в архивах dynalook.com я нашел артефакт, от которого у меня аж олдскулы свело. В то время, когда я был где-то между первым и вторым курсом, отцы основатели Физмех МПУ и будущей лаборатории CompMechLab уже толкали доклады на конференциях LSTC. И да, мне подластилось учиться у/работать с каждым из авторов данной стати. Как говориться, постоял на плечах гигантов.
 
+https://www.dynalook.com/conferences/international-conf-2004/11-6.pdf
+
+dynalook.com
 https://www.dynalook.com/conferences/international-conf-2004/11-6.pdf

@@ -4,7 +4,6 @@ title: "Есть ли ConWep в LS-DYNA?"
 date: 2025-06-04T11:04:18+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2957
 images:
   - url: "/assets/images/2957.jpg"
 ---
@@ -17,3 +16,6 @@ images:
 2.ConWep — это вычислительный код, разработанный Инженерным корпусом армии США, который использует кривую Фридлендера для аппроксимации внутренней экспериментальной базы данных (https://apps.dtic.mil/sti/citations/ADA195867).
 
 Вот и получается, что  ConWep методика фактически есть в LS-DYNA, но это не  ConWep код от  US Army Corps of Engineer.
+
+https://apps.dtic.mil/sti/citations/ADA322344
+https://apps.dtic.mil/sti/citations/ADA195867

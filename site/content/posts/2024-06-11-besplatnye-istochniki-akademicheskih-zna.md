@@ -4,7 +4,6 @@ title: "\"бесплатные\" источники академических �
 date: 2024-06-11T13:00:46+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2720
 ---
 
 "бесплатные" источники академических знаний
@@ -51,3 +50,19 @@ ResearchGate - это социальная сеть для ученых и ис�
 Google Scholar предлагает простой способ широкого поиска научной литературы. Он индексирует статьи из различных онлайновых научных журналов, обеспечивая легальный доступ к исследованиям. Хотя Google Scholar не такой всеобъемлющий, как Sci-Hub, он является мощным инструментом для исследователей.
 
 Оригинальный пост https://www.linkedin.com/posts/engrdrvicky_sci-activity-7198341936720605184-OkzU/
+
+[LinkedIn](https://lnkd.in/ex2kAJ7v)
+https://unpaywall.org/
+https://paperpanda.app/
+https://doaj.org/
+https://oa.mg/
+https://core.ac.uk/
+https://arxiv.org/
+http://www.tandfonline.com
+https://www.jstor.org/
+https://zenodo.org/
+Wosonhj.com
+Wosonhj.com
+https://lnkd.in/eKm-D6Jm
+https://lnkd.in/gJgcCm34
+https://www.linkedin.com/posts/engrdrvicky_sci-activity-7198341936720605184-OkzU/

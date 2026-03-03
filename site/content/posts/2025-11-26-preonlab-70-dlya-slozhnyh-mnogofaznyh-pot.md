@@ -4,7 +4,6 @@ title: "PreonLab 7.0 для сложных многофазных потоков
 date: 2025-11-26T15:15:26+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3066
 ---
 
 PreonLab 7.0 для сложных многофазных потоков
@@ -15,3 +14,5 @@ PreonLab 7.0 для сложных многофазных потоков
 
 
 https://www.linkedin.com/posts/fifty2-technology-gmbh_bubble-coalescence-simulation-in-preonlab-activity-7396902843976421376-p4-4
+
+[Bubble Coalescence Simulation in PreonLab 7.0 | FIFTY2 Technology GmbH](https://www.linkedin.com/posts/fifty2-technology-gmbh_bubble-coalescence-simulation-in-preonlab-activity-7396902843976421376-p4-4)

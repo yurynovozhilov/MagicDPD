@@ -4,13 +4,12 @@ title: "Расчет «тераформирования» в реальном в
 date: 2020-11-02T12:59:36+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1849
 tags:
-  - AGX_Dynamics
+  - ANSYS
   - DEM
   - Algoryx
   - SpaceClaim
-  - ANSYS
+  - AGX_Dynamics
 images:
   - url: "/assets/images/1849.jpg"
 ---

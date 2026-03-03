@@ -4,7 +4,6 @@ title: "Новый глава LSTC"
 date: 2019-03-08T12:00:15+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1382
 tags:
   - LSTC
 images:
@@ -30,3 +29,7 @@ https://www.dynamore.it/en/news/press-releases/2019/nathan-hallquist-executive-v
 https://wp.me/p9vWYY-2oM
 
 by Юрий Новожилов
+
+https://www.youtube.com/watch?v=KLfQzcX2uoc
+https://www.dynamore.it/en/news/press-releases/2019/nathan-hallquist-executive-vice-president-of-lstc/03042019_LSTC_Announcement.pdf
+https://wp.me/p9vWYY-2oM

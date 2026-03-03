@@ -4,12 +4,11 @@ title: "Семина посвященный работе SimSolid (решате�
 date: 2015-09-21T17:00:23+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_391
 tags:
-  - CAE
-  - CAD
   - Onshape
+  - CAD
   - SimSolid
+  - CAE
 ---
 
 Семина посвященный работе SimSolid (решателя отрицающего сетки) совместно с Onshape.

@@ -4,7 +4,6 @@ title: "Расчеты композитов в облаке"
 date: 2016-08-14T12:02:55+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_79
 tags:
   - cloud
   - CompoSIDE
@@ -19,3 +18,5 @@ http://www.deskeng.com/de/design-composites-in-the-cloud/
 #composite #cloud
 
 http://www.deskeng.com/de/design-composites-in-the-cloud/
+
+[Design Composites in the Cloud](http://www.deskeng.com/de/design-composites-in-the-cloud/)

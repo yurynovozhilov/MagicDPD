@@ -4,13 +4,12 @@ title: "Продолжая тему моделирования поврежде�
 date: 2015-11-22T07:00:18+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_769
 tags:
   - nonlocal
-  - fracture
   - lsdyna
-  - concrete
+  - fracture
   - damage
+  - concrete
 images:
   - url: "/assets/images/769.jpg"
 ---

@@ -4,7 +4,6 @@ title: "VS Code LS-DYNA extension"
 date: 2024-11-29T07:54:48+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2847
 ---
 
 VS Code LS-DYNA extension
@@ -16,3 +15,5 @@ VS Code LS-DYNA extension
 А вы это уже пробовали? Или чем вы редактируете инпутники для ваших любимых CAE кодов?
 
 https://github.com/osullivryan/vscode-lsdyna
+
+[GitHub - osullivryan/vscode-lsdyna: Syntax Highlighting and Snippets for LS-Dyna Deck Generation in VS Code](https://github.com/osullivryan/vscode-lsdyna)

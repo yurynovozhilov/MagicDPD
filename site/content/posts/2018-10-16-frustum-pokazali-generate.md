@@ -4,12 +4,11 @@ title: "Frustum показали Generate"
 date: 2018-10-16T17:01:16+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1155
 tags:
-  - Generate
-  - Optimization
   - Topology
   - Frustum
+  - Optimization
+  - Generate
 images:
   - url: "/assets/images/1156.jpg"
 ---
@@ -27,4 +26,8 @@ https://www.frustum.com/frustum-resources/frustum-announces-generate-for-windows
 Кстати, система в облаке стоит всего $100 в месяц.
 
 #Frustum #Generate #Optimization #Topology
+http://bit.ly/2Adfwlw
+
+[Frustum Releases Windows-based Version of GENERATE](https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/17750/Frustum-Releases-Windows-based-Version-of-GENERATE.aspx)
+https://www.frustum.com/frustum-resources/frustum-announces-generate-for-windows-os-the-industrys-first-interactive-generative-design-software
 http://bit.ly/2Adfwlw

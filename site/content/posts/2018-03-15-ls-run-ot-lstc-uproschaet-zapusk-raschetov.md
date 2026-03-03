@@ -4,12 +4,11 @@ title: "LS-Run от LSTC упрощает запуск расчетов LS-DYNA"
 date: 2018-03-15T18:01:12+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_851
 tags:
-  - LSTC
-  - HPC
-  - LSRun
   - LSDYNA
+  - LSTC
+  - LSRun
+  - HPC
 images:
   - url: "/assets/images/852.jpg"
 ---
@@ -29,4 +28,7 @@ LS-Run от LSTC упрощает запуск расчетов LS-DYNA
 
 
 #HPC #LSDYNA #LSRun #LSTC
+https://goo.gl/XeUstw
+
+ftp.lstc.com
 https://goo.gl/XeUstw

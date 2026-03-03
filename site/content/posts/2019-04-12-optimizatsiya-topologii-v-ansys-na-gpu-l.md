@@ -4,15 +4,14 @@ title: "Оптимизация топологии в ANSYS на GPU — легк
 date: 2019-04-12T17:00:26+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1445
 tags:
-  - optimization
-  - Discovery
-  - level_set_method
-  - Topology
   - GPU
   - ANSYS
+  - level_set_method
+  - Topology
+  - optimization
   - Live
+  - Discovery
 images:
   - url: "/assets/images/1445.jpg"
 ---
@@ -37,5 +36,7 @@ images:
 Итак, мы получаем оптимизацию топологии в Discovery Live, которая считает быстрее, чем у других строится анимация по готовым результатам. При этом мы еще получаем сразу гладкий STL файл, благодаря использованию самого передового Level-Set метода. Ну и для проверочного расчета тоже никуда идти не надо: Live c радостью сделает его для вас на основе STL всего за пару секунд.
 
 #ANSYS #Discovery #GPU #level_set_method #Live #optimization #Topology
+
+https://wp.me/p9vWYY-2tz
 
 https://wp.me/p9vWYY-2tz

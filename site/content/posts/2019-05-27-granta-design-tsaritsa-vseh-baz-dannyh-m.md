@@ -4,7 +4,6 @@ title: "Granta Design — царица всех баз данных матери
 date: 2019-05-27T17:00:19+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1489
 images:
   - url: "/assets/images/1489.jpg"
 ---

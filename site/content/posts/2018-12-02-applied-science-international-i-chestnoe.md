@@ -4,12 +4,11 @@ title: "Applied Science International и честное моделировани
 date: 2018-12-02T17:00:32+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1242
 tags:
   - ELS
-  - AppliedScienceInternational
   - Concrete
   - BlindBlastTest
+  - AppliedScienceInternational
   - AEM
 images:
   - url: "/assets/images/1243.jpg"
@@ -23,4 +22,6 @@ Applied Science International и честное моделирование по�
 &nbsp;
 
 #AEM #AppliedScienceInternational #BlindBlastTest #Concrete #ELS
+http://bit.ly/2PfzLmX
+
 http://bit.ly/2PfzLmX

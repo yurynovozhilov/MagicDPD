@@ -4,14 +4,13 @@ title: "Подборка видео выходного дня, которая л
 date: 2015-10-10T09:05:08+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_489
 tags:
-  - Explicit
-  - SPH
-  - lsdyna
-  - ALE
   - Autodyn
+  - lsdyna
   - Dytran
+  - ALE
+  - SPH
+  - Explicit
 ---
 
 Подборка видео выходного дня, которая лучше котиков. Ну ведь правда кумулятивный эффект лучше котиков?

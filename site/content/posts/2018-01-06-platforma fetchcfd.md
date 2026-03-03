@@ -4,12 +4,11 @@ title: "Платформа FetchCFD"
 date: 2018-01-06T17:02:17+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_698
 tags:
   - CAD
-  - FEM
-  - FetchCFD
   - CFD
+  - FetchCFD
+  - FEM
 images:
   - url: "/assets/images/699.jpg"
 ---
@@ -21,4 +20,8 @@ images:
 
 https://fetchcfd.com/
 #CAD #CFD #FEM #FetchCFD
+https://magicdpd.ru/?p=5829
+
+https://www.youtube.com/channel/UCLoKxLVcIAVsyKIqSkePhNQ/videos
+https://fetchcfd.com/
 https://magicdpd.ru/?p=5829

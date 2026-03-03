@@ -4,7 +4,6 @@ title: "Представьте волшебный мир, к котором Powe
 date: 2016-05-30T07:01:16+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1706
 tags:
   - SimSolid
 ---
@@ -16,3 +15,5 @@ tags:
 - сетку строить не надо
 - по верификационным материалам он не врет
 - теперь еще и сам презентации для демонстрации результатов заказчикам делает!
+
+[Easy way to create a SIMSOLID PowerPoint presentation](https://www.simsolid.com/2016/05/easy-way-to-create-a-simsolid-powerpoint-presentation/)

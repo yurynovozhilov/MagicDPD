@@ -4,11 +4,10 @@ title: "Национальная лаборатория Лоуренса Лив�
 date: 2021-11-24T16:34:59+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2040
 tags:
   - sph
-  - dart
   - open_source
+  - dart
   - spheral
   - llnl
 ---
@@ -44,4 +43,9 @@ https://www.youtube.com/watch?v=UbrxGnkIoXE
 Репозиторий кода Spheral: https://github.com/LLNL/spheral
 
 #dart #llnl #open_source #sph #spheral
+https://tinyurl.com/yeh78hvs
+
+[Lawrence Livermore Lab takes part in NASA’s first planetary defense test](https://www.youtube.com/watch?v=UbrxGnkIoXE)
+https://www.llnl.gov/news/lawrence-livermore-takes-part-nasas-first-planetary-defense-test
+https://github.com/LLNL/spheral
 https://tinyurl.com/yeh78hvs

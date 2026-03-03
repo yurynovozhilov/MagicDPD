@@ -4,13 +4,12 @@ title: "Знакомимся с Inspire Motion"
 date: 2017-07-09T17:00:31+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_401
 tags:
   - RBD
   - Altair
   - solidThinking
-  - Inspire
   - Motion
+  - Inspire
 ---
 
 Знакомимся с Inspire Motion
@@ -20,3 +19,5 @@ https://www.youtube.com/watch?v=yYpWsDAAmAY
 
 #RBD
 https://www.youtube.com/watch?v=yYpWsDAAmAY
+
+[Introduction to Inspire Motion](https://www.youtube.com/watch?v=yYpWsDAAmAY)

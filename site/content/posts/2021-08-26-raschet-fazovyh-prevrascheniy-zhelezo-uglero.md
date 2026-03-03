@@ -4,13 +4,12 @@ title: "Расчет фазовых превращений железо-угле
 date: 2021-08-26T14:01:31+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1986
 tags:
   - mat_generalized_phase_change
   - lsdyna
-  - mat_uhs_steel
   - ansys
   - dynamore
+  - mat_uhs_steel
 ---
 
 Расчет фазовых превращений железо-углеродистых сплавов в LS-DYNA
@@ -24,4 +23,7 @@ https://www.youtube.com/watch?v=YTSaESOYR9g
 DYNAmore рассказывает как работать моделями материалов *MAT_UHS_STEEL/*MAT_244 и *MAT_GENERALIZED_PHASE_CHANGE/*MAT_254 в LS-DYNA. Эти модели специально созданы для моделирования обработки материалов давлением и температурой (!!!), так что в качестве результатов расчетов вы не только получаете НДС конструкции, но и ее прочностные свойства: например распределение предела текучести и твердости по объему. Такие данные вы сможете получить при расчетах ковки, прокатки, сварки и даже аддитивного производства. Естественно, модели материалов требуют намного больше знаний о металле, чем просто упругие константы и переделы текучести, но без этого никуда.
 
 #ansys #dynamore #lsdyna #mat_generalized_phase_change #mat_uhs_steel
+https://tinyurl.com/yhnb6rjr
+
+[DYNAmore Express: Transferring phase transformation data from MAT 244 to MAT 254](https://www.youtube.com/watch?v=YTSaESOYR9g)
 https://tinyurl.com/yhnb6rjr

@@ -4,18 +4,17 @@ title: "Среди большого набора #ACT расширений дл�
 date: 2017-11-14T17:11:05+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_608
 tags:
-  - optiSLang
-  - композиты
-  - Сybernet
-  - composite
-  - DX
   - musthave
-  - Homogenization
-  - Workbench
+  - композиты
   - ANSYS
+  - optiSLang
+  - DX
+  - Workbench
+  - Сybernet
   - ACT
+  - Homogenization
+  - composite
 ---
 
 Среди большого набора #ACT расширений для #ANSYS сегодня я нашел кое-что очень полезное для людей занимающихся композитами. Расширение "Multiscale Analysis System" от #Сybernet Systems умеет:
@@ -33,3 +32,6 @@ P.S. В дистрибутиве с дополнением есть 3 видео
 
 #composite #Homogenization #композиты
 https://appstore.ansys.com/download?prodid=APC-ACTAPP-302 🔗 ANSYS Estore
+
+http://ift.tt/2vlt08X
+https://appstore.ansys.com/download?prodid=APC-ACTAPP-302

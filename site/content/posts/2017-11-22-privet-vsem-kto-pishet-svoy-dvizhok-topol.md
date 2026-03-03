@@ -4,14 +4,13 @@ title: "Привет всем, кто пишет свой движок топо�
 date: 2017-11-22T17:10:26+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_624
 tags:
-  - optimization
-  - ToPy
-  - opensource
   - toplology
+  - ToPy
   - python
   - GitHub
+  - optimization
+  - opensource
 ---
 
 Привет всем, кто пишет свой движок топологической оптимизации от #opensource проекта #ToPy.
@@ -22,3 +21,6 @@ tags:
 
 #python #toplology #optimization
 https://github.com/williamhunter/topy 🔗 williamhunter/topy
+
+http://ift.tt/2mSwa57
+https://github.com/williamhunter/topy

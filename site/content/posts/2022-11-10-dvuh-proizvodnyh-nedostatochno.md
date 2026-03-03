@@ -4,7 +4,6 @@ title: "Двух производных недостаточно"
 date: 2022-11-10T19:00:01+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2363
 images:
   - url: "/assets/images/2363.jpg"
 ---

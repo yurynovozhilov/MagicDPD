@@ -4,14 +4,13 @@ title: "Большой доклад по системам визуализаци
 date: 2016-06-01T07:01:18+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1718
 tags:
-  - Citrix
+  - Thinware
   - Synergy
-  - vGPU
   - remoteviz
   - framehawk
-  - Thinware
+  - Citrix
+  - vGPU
 ---
 
 Большой доклад по системам визуализации от специалистов #Citrix с прошедшей конференции #Synergy 2016. Очень интересно послушать историю развития. Полезно узнать про их новый видео кодек.

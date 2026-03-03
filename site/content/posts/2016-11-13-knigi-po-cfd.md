@@ -4,7 +4,6 @@ title: "Книги по CFD"
 date: 2016-11-13T17:02:03+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_186
 tags:
   - SimScale
   - CFD
@@ -21,3 +20,5 @@ https://www.simscale.com/blog/2016/11/best-fluid-mechanics-books/
 - Acoustics, Aerodynamics and Rotating Flows
 - Turbulence
 - Thermodynamics and Data Tables
+
+[Looking for a Fluid Mechanics Book? Here's a List! I SimScale](https://www.simscale.com/blog/2016/11/best-fluid-mechanics-books/)

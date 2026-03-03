@@ -4,11 +4,12 @@ title: "Мне одному кажется, что методы компании
 date: 2016-05-28T07:01:04+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1700
 tags:
-  - nTopology
   - topology
   - optimization
+  - nTopology
 ---
 
 Мне одному кажется, что методы компании #nTopology - это новое слово в оптимизации конструкции под аддитивные технологии?
+
+[About](http://www.ntopology.com)

@@ -4,7 +4,6 @@ title: "Новости MateriaMap"
 date: 2025-09-17T15:19:19+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3018
 ---
 
 Новости MateriaMap
@@ -26,5 +25,7 @@ original_url: https://vk.com/wall-97265142_3018
 - Цветные металлы - 52 материала (медь, латунь, бронза, драгоценные металлы)
 - Редкие материалы - 20 материалов (огнеупорные, бериллиевые, радиоактивные)
 - Полимеры и прочее - 11 материалов (пластмассы, железо, свинец)
+
+https://materialmap.github.io/piecewise_linear_plasticity_calculator.html
 
 https://materialmap.github.io/piecewise_linear_plasticity_calculator.html

@@ -4,7 +4,6 @@ title: "Вебинар про моделирование погруженног�
 date: 2022-03-11T17:00:21+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2177
 tags:
   - ATENA
 images:
@@ -13,3 +12,5 @@ images:
 ---
 
 Вебинар про моделирование погруженного в бетона балочно-стержневого армирования программе #ATENA. В целом никакой особой магии, но для общего понимания того, как с армированием работают FEM коды пригодиться. https://youtu.be/WLGU0PfJC1o
+
+[ATENA Webinar 2/2022: Modelling of bond in reinforced concrete structures in ATENA software](https://youtu.be/WLGU0PfJC1o)

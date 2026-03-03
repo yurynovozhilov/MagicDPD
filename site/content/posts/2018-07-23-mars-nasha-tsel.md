@@ -4,11 +4,10 @@ title: "Марс - наша цель!"
 date: 2018-07-23T18:00:17+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1030
 tags:
-  - ALE
-  - SALE
   - FSI
+  - SALE
+  - ALE
   - LSDYNA
 images:
   - url: "/assets/images/1031.jpg"
@@ -20,4 +19,9 @@ images:
 А сейчас итоги нашей работы начинают мелькать на очень интересных сайтах. Например, они отметились на сайте N+1, в статье Марсианская археология и даже в заметке Энтузиасты нашли возможное место гибели советской станции "Марс-6" от РИА Новости.
 
 #ALE #FSI #LSDYNA #SALE
+http://bit.ly/2uXjj2A
+
+[Моделирование падения спускаемого аппарата «Марс-6» | Инженерные расчеты](https://multiphysics.ru/stati/proekty/modelirovanie-padeniia-spuskaemogo-apparata-mars-6.htm)
+https://nplus1.ru/blog/2018/07/21/mars-6-was-founded-or-no
+https://ria.ru/space/20180720/1524981234.html
 http://bit.ly/2uXjj2A

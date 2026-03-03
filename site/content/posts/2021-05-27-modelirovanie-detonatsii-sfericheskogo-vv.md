@@ -4,11 +4,10 @@ title: "Моделирование детонации сферического �
 date: 2021-05-27T17:33:15+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1959
 tags:
-  - blast
   - blastfoam
   - open_source
+  - blast
   - he
 ---
 
@@ -29,4 +28,8 @@ https://www.youtube.com/watch?v=vh5Cyg43Rpo
 
 
 #blast #blastfoam #he #open_source
+https://tinyurl.com/yeyf6v2n
+
+[Explosive Modeling: Airblast Anatomy | Pete and RePete](https://www.youtube.com/watch?v=uOm6a70tKgA)
+https://www.youtube.com/watch?v=vh5Cyg43Rpo
 https://tinyurl.com/yeyf6v2n

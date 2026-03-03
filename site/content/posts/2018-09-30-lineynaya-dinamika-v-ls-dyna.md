@@ -4,7 +4,6 @@ title: "Линейная динамика в LS-DYNA"
 date: 2018-09-30T17:01:04+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1127
 tags:
   - PredictiveEngineering
   - LSDYNA
@@ -18,4 +17,6 @@ Predictive Engineering славятся своей экспертизой в о�
 В данном видео они показывают портфолио своих проектов, связанных с решением задач линейной динамики: поиск собственных частот и форм, гармонический анализ, отклик на случайные воздействия, сейсмика - все то, чего никак не ждешь от изначально explicit кода. А оказывается, так тоже можно, и очень даже эффективно.
 
 #LSDYNA #PredictiveEngineering
+http://bit.ly/2IqdbWK
+
 http://bit.ly/2IqdbWK

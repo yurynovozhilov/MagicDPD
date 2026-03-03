@@ -4,7 +4,6 @@ title: "#Zebulon - это решатель конечных элементов �
 date: 2022-06-27T18:03:09+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2309
 tags:
   - Zebulon
   - Zset
@@ -15,3 +14,5 @@ images:
 ---
 
 #Zebulon - это решатель конечных элементов из пакета #Zset, заточенный на решение задач нелинейного роста трещин и усталостного повержения. Все это идет в связке с тепловыми расчетами. Не знаю, как оно на самом деле работает, но картинки очень эффектные. https://youtu.be/XyrbWEzAzqE
+
+[Nonlinear Structure Analysis and Lifetime Estimation with Z-set](https://youtu.be/XyrbWEzAzqE)

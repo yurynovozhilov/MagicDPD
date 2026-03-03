@@ -4,7 +4,6 @@ title: "Магазин аксессуаров ANSYS https://ift.tt/eA8V8J"
 date: 2018-04-21T18:06:29+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_915
 ---
 
 Магазин аксессуаров ANSYS https://ift.tt/eA8V8J
@@ -12,3 +11,7 @@ original_url: https://vk.com/wall-97265142_915
 Я бы даже прикупил футболку с таким принтом :-)
 https://ansysacademic.ccbrands.com/
 Лента, ANSYS https://ift.tt/2Hh1g04
+
+https://ift.tt/eA8V8J
+https://ansysacademic.ccbrands.com/
+https://magicdpd.ru/?p=6836

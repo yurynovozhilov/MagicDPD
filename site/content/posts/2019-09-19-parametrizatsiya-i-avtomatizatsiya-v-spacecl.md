@@ -4,13 +4,12 @@ title: "Параметризация и автоматизация в SpaceClaim
 date: 2019-09-19T13:00:28+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1588
 tags:
-  - Mallett_Technology
-  - Python
   - Parametrisation
-  - SpaceClaim
+  - Mallett_Technology
   - ANSYS
+  - Python
+  - SpaceClaim
 images:
   - url: "/assets/images/1588.jpg"
 ---

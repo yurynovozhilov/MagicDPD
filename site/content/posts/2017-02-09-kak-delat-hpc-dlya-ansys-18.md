@@ -4,18 +4,17 @@ title: "Как делать HPC для ANSYS 18"
 date: 2017-02-09T17:02:27+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_264
 tags:
-  - NVIDIA
-  - Explicit
-  - RSM
-  - HPC
-  - CentOS
-  - Maxwell
   - CFD
-  - ARC
   - ANSYS
+  - HPC
+  - Maxwell
+  - CentOS
+  - RSM
+  - ARC
+  - NVIDIA
   - GPGPU
+  - Explicit
 ---
 
 Как делать HPC для ANSYS 18
@@ -32,3 +31,6 @@ https://www.cadfem-cis.ru/products/ansys/ansys-update/
 - ANSYS #Explicit STR теперь считает на 2-х ядрах из коробки
 - ANSYS #Maxwell теперь умеет использовать #GPGPU #NVIDIA
 - Первый ANSYS HPC Pack это 10, а не 8 ядре
+
+[Обновления ANSYS 19 – CADFEM](https://www.cadfem-cis.ru/products/ansys/ansys-update/)
+https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/18/ANSYS18_tech.pdf

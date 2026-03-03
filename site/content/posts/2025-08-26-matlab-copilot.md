@@ -4,7 +4,6 @@ title: "MATLAB Copilot"
 date: 2025-08-26T08:20:34+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3010
 ---
 
 MATLAB Copilot
@@ -17,3 +16,6 @@ MATLAB Copilot
 - Zencoder.ai для каждодневной разработки. Это рабочая лошадка. Без него я теперь свой код вообще не трогаю. Тут тебе и тесты, и код ревью и поговорит по душам можно. Ну и конечно, огромная обвязка из MCP.
 
 https://www.mathworks.com/company/events/webinars/upcoming/introducing-matlab-copilot-4905250.html
+
+[Introducing MATLAB Copilot](https://www.mathworks.com/company/events/webinars/upcoming/introducing-matlab-copilot-4905250.html)
+Zencoder.ai

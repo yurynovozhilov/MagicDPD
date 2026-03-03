@@ -4,12 +4,11 @@ title: "Extreme Loading for Structures Software или просто ELS"
 date: 2018-11-12T17:00:37+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1207
 tags:
   - ELS
+  - Concrete
   - AppliedScienceInternational
   - ExtremeLoadingForStructures
-  - Concrete
   - AEM
 images:
   - url: "/assets/images/1208.jpg"
@@ -27,4 +26,7 @@ ELS Home
 
 
 #AEM #AppliedScienceInternational #Concrete #ELS #ExtremeLoadingForStructures
+http://bit.ly/2POWiLJ
+
+[Structural Engineering Software Program & Nonlinear Structural Analysis](https://www.extremeloading.com/)
 http://bit.ly/2POWiLJ

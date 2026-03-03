@@ -4,11 +4,10 @@ title: "А вот это уже полезно: генерация волн че
 date: 2016-06-11T07:01:36+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1769
 tags:
   - FSI
-  - ICFD
   - CFD
+  - ICFD
   - LSDYNA
 ---
 

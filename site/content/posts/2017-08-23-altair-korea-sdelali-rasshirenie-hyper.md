@@ -4,16 +4,18 @@ title: "#Altair #Korea сделали расширение #HyperBlocks  для
 date: 2017-08-23T17:11:11+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_458
 tags:
-  - HyperBlocks
-  - HyperMesh
-  - tetrisMediaMedia
-  - тетрис
   - Korea
+  - tetrisMediaMedia
   - Altair
+  - HyperMesh
+  - HyperBlocks
+  - тетрис
 ---
 
 #Altair #Korea сделали расширение #HyperBlocks  для #HyperMesh, которое позволяет вам поиграть в #тетрис!!!
 
 #tetrisMediaMedia🔗 한국알테어 온라인 스토어
+
+http://ift.tt/2voTLJC
+http://store.altair.co.kr/app/app.html?id=10081

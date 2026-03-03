@@ -4,7 +4,6 @@ title: "Моделирование композитных баллонов вы�
 date: 2024-04-19T14:01:12+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2688
 ---
 
 Моделирование композитных баллонов высокого давления в Ansys
@@ -12,3 +11,5 @@ original_url: https://vk.com/wall-97265142_2688
 Вебинар показывает, как работает новая функция ACP, позволяющая упрощенно учесть структуру намотки композитных баллонов без применения специализированного стороннего софта, непосредственно моделирующего процесс намотки.
 
 https://www.youtube.com/watch?app=desktop&v=SYytrCX8SJc
+
+[Hydrogen Storage design: Simulating Composite Tanks](https://www.youtube.com/watch?app=desktop&v=SYytrCX8SJc)

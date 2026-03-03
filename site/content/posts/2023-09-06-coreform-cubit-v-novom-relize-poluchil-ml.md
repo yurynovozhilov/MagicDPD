@@ -4,7 +4,6 @@ title: "Coreform Cubit в новом релизе получил ML!"
 date: 2023-09-06T15:01:03+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2512
 ---
 
 Coreform Cubit в новом релизе получил ML!
@@ -14,3 +13,5 @@ Coreform Cubit в новом релизе получил ML!
 Отдельный респект создателям за использование правильного термина ML вместо надоедливого AI, звучащего из каждого утюга.
 
 https://www.youtube.com/watch?v=UJZ9nxc26Mk
+
+[Machine Learning-enabled Defeaturing in Coreform Cubit 2023.8](https://www.youtube.com/watch?v=UJZ9nxc26Mk)

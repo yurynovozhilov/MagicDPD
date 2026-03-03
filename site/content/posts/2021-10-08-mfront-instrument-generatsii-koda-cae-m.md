@@ -4,7 +4,6 @@ title: "MFront - инструмент генерации кода CAE модел
 date: 2021-10-08T13:02:21+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2013
 ---
 
 MFront - инструмент генерации кода CAE моделей материала
@@ -32,4 +31,7 @@ MFront очень любопытный открытый продукт, кото
 Сайт проекта: http://tfel.sourceforge.net/index.html
 
 
+https://tinyurl.com/ygex86w6
+
+[TFEL/MFront](http://tfel.sourceforge.net/index.html)
 https://tinyurl.com/ygex86w6

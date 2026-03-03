@@ -4,10 +4,9 @@ title: "LS-DYNA DES"
 date: 2018-09-21T17:01:08+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1109
 tags:
-  - DEM
   - LSTC
+  - DEM
   - DES
   - LSDYNA
 images:
@@ -20,4 +19,6 @@ LS-DYNA DES
 Данный материал не только знакомит с основами метода, но и даёт подробные инструкции о том, какие карты и как надо настраивать, чтобы провести расчет.
 
 #DEM #DES #LSDYNA #LSTC
+http://bit.ly/2xpua7t
+
 http://bit.ly/2xpua7t

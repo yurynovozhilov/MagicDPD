@@ -4,7 +4,6 @@ title: "Манекен птицы!"
 date: 2023-09-08T15:02:09+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2515
 ---
 
 Манекен птицы!
@@ -14,3 +13,6 @@ original_url: https://vk.com/wall-97265142_2515
 По ссылке есть видео сравнительных испытаний манекена и птицы при попадании в двигатель самолета.
 
 https://www1.wdr.de/nachrichten/westfalen-lippe/muenster-flugzeuge-voegel-vogelschlag-dummy-102.html
+
+[Vogeldummy für die Luftfahrt: Dafür müssen keine Hühner mehr sterben](https://www1.wdr.de/nachrichten/westfalen-lippe/muenster-flugzeuge-voegel-vogelschlag-dummy-102.html)
+crashtest-service.com

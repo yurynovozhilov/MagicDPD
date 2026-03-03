@@ -4,7 +4,6 @@ title: "Прохождение SPH брода"
 date: 2024-04-09T14:01:18+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2681
 ---
 
 Прохождение SPH брода
@@ -13,3 +12,6 @@ original_url: https://vk.com/wall-97265142_2681
 
 Регистрация тут: https://www.avl.com/en/webinars/sph-based-virtual-testing-streamlined-vehicle-water
 Красивые мультики тут: https://www.linkedin.com/feed/update/urn:li:activity:7182965404263137280/
+
+[SPH-Based Virtual Testing for Streamlined Vehicle Water Management | AVL](https://www.avl.com/en/webinars/sph-based-virtual-testing-streamlined-vehicle-water)
+https://www.linkedin.com/feed/update/urn:li:activity:7182965404263137280/

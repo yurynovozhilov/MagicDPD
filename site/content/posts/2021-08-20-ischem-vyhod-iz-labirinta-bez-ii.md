@@ -4,10 +4,9 @@ title: "Ищем выход из лабиринта без ИИ"
 date: 2021-08-20T13:03:20+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1983
 tags:
-  - simulationfriday
   - onscale
+  - simulationfriday
 ---
 
 Ищем выход из лабиринта без ИИ
@@ -21,3 +20,7 @@ tags:
 #onscale #simulationfriday
 https://tinyurl.com/yfdayzho
 by Юрий Новожилов
+
+[Jeremy Theler on LinkedIn: How to solve a maze without AI? Use Laplace's equation:
+1. Mesh the | 317 comments](https://www.linkedin.com/feed/update/urn:li:activity:6831291311832760320/)
+https://tinyurl.com/yfdayzho

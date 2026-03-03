@@ -4,7 +4,6 @@ title: "ANSYS Discovery Live при производстве спортивны�
 date: 2019-01-09T17:01:05+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1299
 tags:
   - Discovery
   - ANSYS
@@ -24,3 +23,5 @@ ANSYS Discovery Live при производстве спортивных вел
 
 #ANSYS #Discovery
 http://bit.ly/2QCIwIx
+
+[ANSYS Discovery Live при производстве спортивных велосипедов - MagicDPD](http://bit.ly/2QCIwIx)

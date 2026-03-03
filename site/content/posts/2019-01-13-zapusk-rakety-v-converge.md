@@ -4,10 +4,9 @@ title: "Запуск ракеты в CONVERGE"
 date: 2019-01-13T17:01:30+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1309
 tags:
-  - CONVERGE
   - CFD
+  - CONVERGE
 ---
 
 Запуск ракеты в CONVERGE
@@ -20,3 +19,5 @@ tags:
 
 #CFD #CONVERGE
 http://bit.ly/2VQafJp
+
+[Запуск ракеты в CONVERGE](http://bit.ly/2VQafJp)

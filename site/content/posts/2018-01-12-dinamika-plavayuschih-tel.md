@@ -4,16 +4,15 @@ title: "Динамика плавающих тел"
 date: 2018-01-12T17:01:44+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_720
 tags:
-  - NVIDIA
-  - DualSPHysics
-  - SPH
-  - FSI
   - MoorDyn
   - GPU
-  - Open
+  - DualSPHysics
+  - FSI
   - offshore
+  - NVIDIA
+  - Open
+  - SPH
 images:
   - url: "/assets/images/721.jpg"
 ---
@@ -29,4 +28,8 @@ https://www.youtube.com/watch?v=YUSxGXPkYvE
 
 https://youtu.be/ToEsV0FDs0I
 #DualSPHysics #FSI #GPU #MoorDyn #NVIDIA #offshore #Open Source #SPH
+https://magicdpd.ru/?p=5914
+
+https://www.youtube.com/watch?v=YUSxGXPkYvE
+https://youtu.be/ToEsV0FDs0I
 https://magicdpd.ru/?p=5914

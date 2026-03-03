@@ -4,7 +4,6 @@ title: "Квантовые компьютеры ускоряют LS-DYNA: пер
 date: 2025-03-24T10:00:33+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2911
 ---
 
 Квантовые компьютеры ускоряют LS-DYNA: первые квантовые вычисления, полезные для прикланого CAE
@@ -46,3 +45,5 @@ VarQITE был протестирован на реальных квантовы
 VarQITE, интегрированный в промышленные продукты, такие как LS-DYNA, способен уже в ближайшем будущем предоставить вычислительные преимущества.
 
 Препринт: https://arxiv.org/abs/2503.13128
+
+[Accelerating large-scale linear algebra using variational quantum...](https://arxiv.org/abs/2503.13128)

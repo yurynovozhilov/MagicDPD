@@ -4,16 +4,15 @@ title: "ANSYS подружится с Prometech Software, Inc."
 date: 2018-12-21T17:01:50+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1278
 tags:
-  - Prometech
-  - Particleworks
-  - FSI
   - CFD
   - GPU
-  - Meshless
-  - MPS
   - ANSYS
+  - Particleworks
+  - MPS
+  - Meshless
+  - FSI
+  - Prometech
 images:
   - url: "/assets/images/1279.jpg"
 ---
@@ -45,4 +44,8 @@ https://www.prometech.co.jp/newsroom_ja/prometech-and-ansys-announce-a-collabora
 
 
 #ANSYS #CFD #FSI #GPU #Meshless #MPS #Particleworks #Prometech
+http://bit.ly/2V1xxeO
+
+[Particleworks Introduction 2018.09](https://youtu.be/WDFSzgjWR_4)
+https://www.prometech.co.jp/newsroom_ja/prometech-and-ansys-announce-a-collaboration-to-provide-broader-multiphysics-solution.html?lang=ja
 http://bit.ly/2V1xxeO

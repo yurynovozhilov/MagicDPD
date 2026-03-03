@@ -4,7 +4,6 @@ title: "Какой подарок к концу выходных - сегодн�
 date: 2016-03-20T17:51:17+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1457
 tags:
   - MDPD
 images:

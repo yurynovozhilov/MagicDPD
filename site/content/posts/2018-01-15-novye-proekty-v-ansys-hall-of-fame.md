@@ -4,11 +4,10 @@ title: "Новые проекты в ANSYS Hall of Fame"
 date: 2018-01-15T17:00:55+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_726
 tags:
+  - competition
   - Hall
   - ANSYS
-  - competition
 images:
   - url: "/assets/images/727.jpg"
 ---
@@ -26,4 +25,8 @@ images:
 
 Остальные проекты можно увидеть на странице ANSYS Hall of Fame:  http://www.ansys.com/Other/Hall-of-Fame
 #ANSYS #competition #Hall of Fame
+https://magicdpd.ru/?p=5952
+
+https://magicdpd.ru/wp-content/uploads/2018/01/2018-uuvm-video.mp4
+http://www.ansys.com/Other/Hall-of-Fame
 https://magicdpd.ru/?p=5952

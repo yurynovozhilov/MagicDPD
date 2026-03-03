@@ -4,7 +4,6 @@ title: "The Wheatley aortic valve: FEM/FSI numerical model (verified"
 date: 2023-11-03T16:02:05+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2569
 ---
 
 The Wheatley aortic valve: FEM/FSI numerical model (verified experimentally)
@@ -16,3 +15,5 @@ The Wheatley aortic valve: FEM/FSI numerical model (verified experimentally)
 Результаты приняты к публикации в Международном журнале численных методов в биомедицинской инженерии (International Journal for Numerical Methods in Biomedical Engineering).
 
 https://www.youtube.com/watch?v=wRyg_NoIu4E
+
+[The Wheatley aortic valve: FEM/FSI numerical model (verified experimentally).](https://www.youtube.com/watch?v=wRyg_NoIu4E)

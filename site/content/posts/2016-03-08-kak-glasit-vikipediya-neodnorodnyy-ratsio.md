@@ -4,7 +4,6 @@ title: "Как гласит Википедия, неоднородный рац�
 date: 2016-03-08T07:00:46+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1364
 tags:
   - NURBS
   - LSDYNA

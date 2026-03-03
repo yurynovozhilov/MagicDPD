@@ -4,7 +4,6 @@ title: "Akselos и его Reduced-Basis Finite Element Analysis"
 date: 2019-09-20T13:01:07+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1589
 tags:
   - superelement
   - Akselos

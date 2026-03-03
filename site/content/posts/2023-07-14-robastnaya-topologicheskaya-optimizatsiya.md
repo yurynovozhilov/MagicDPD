@@ -4,7 +4,6 @@ title: "Робастная топологическая оптимизация"
 date: 2023-07-14T15:02:00+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2471
 ---
 
 Робастная топологическая оптимизация
@@ -12,3 +11,5 @@ original_url: https://vk.com/wall-97265142_2471
 На мой взгляд, у коллеги очень здоровое видение того, как можно улучшить робастность топологической оптимизации просто добавив некоторый стахастический разброс условий нагружения. Ведь вы никогда не сможете строго учесть все реальные условия эксплуатации.
 
 https://www.youtube.com/watch?v=oKAhwlSAklE
+
+[Generate-to-Validate: Optimal Designs and the Need to Deliver Under Uncertainty – Rafinex - CDFAM](https://www.youtube.com/watch?v=oKAhwlSAklE)

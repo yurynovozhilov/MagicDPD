@@ -4,11 +4,12 @@ title: "Я тут заметил, что на сайте с примерами �
 date: 2015-10-09T18:00:04+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_483
 tags:
-  - example
-  - DEM
   - lsdyna
+  - DEM
+  - example
 ---
 
 Я тут заметил, что на сайте с примерами задач для дайны добавлена задача с примером работы с DEM постановке. Хотя пример 2013 года выпуска. Надо бы в этом примере по разбираться на досуге.
+
+[Injection Analysis — LS-DYNA Examples](http://www.dynaexamples.com/dem/injection-analysis)

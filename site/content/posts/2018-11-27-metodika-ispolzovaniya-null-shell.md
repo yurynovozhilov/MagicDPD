@@ -4,7 +4,6 @@ title: "Методика использования NULL SHELL"
 date: 2018-11-27T17:00:17+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1237
 tags:
   - MATNULL
   - LSDYNA
@@ -17,4 +16,7 @@ images:
 А за подробностями по ссылке: http://oss.jishulink.com/caenet/forums/upload/2012/11/19/113/62324500005739.pdf
 
 #LSDYNA #MATNULL
+http://bit.ly/2P57pLP
+
+http://oss.jishulink.com/caenet/forums/upload/2012/11/19/113/62324500005739.pdf
 http://bit.ly/2P57pLP

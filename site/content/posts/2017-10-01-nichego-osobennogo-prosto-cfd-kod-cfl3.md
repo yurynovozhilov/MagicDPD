@@ -4,12 +4,11 @@ title: "Ничего особенного, просто #CFD код #CFL3D от 
 date: 2017-10-01T12:04:22+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_530
 tags:
-  - NASA
-  - GitHub
-  - CFL3D
   - CFD
+  - GitHub
+  - NASA
+  - CFL3D
 ---
 
 Ничего особенного, просто #CFD код #CFL3D от #NASA, разрабатываемый более 35 лет доступен жалеющим на #GitHub.
@@ -18,3 +17,6 @@ tags:
 
 http://ift.tt/2yddlyL
 https://cfl3d.larc.nasa.gov 🔗 CFL3D Version 6 Home Page
+
+http://ift.tt/2v2FNSC
+https://cfl3d.larc.nasa.gov

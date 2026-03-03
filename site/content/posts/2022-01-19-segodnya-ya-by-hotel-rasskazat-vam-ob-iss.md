@@ -4,13 +4,12 @@ title: "Сегодня я бы хотел рассказать вам об ис�
 date: 2022-01-19T17:00:09+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2086
 tags:
-  - fragmentation
-  - meshless
-  - FSI
   - ice
   - MPM
+  - meshless
+  - fragmentation
+  - FSI
 images:
   - url: "/assets/images/2087.jpg"
   - url: "/assets/images/2088.jpg"
@@ -24,3 +23,6 @@ images:
 Короче говоря, сплошное наслаждение для ума.
 #meshless #ice #fragmentation #FSI
 https://youtu.be/7IC_ehdH7ZM https://joshuahwolper.com/glacier
+
+[A Glacier-Ocean Interaction Model for Tsunami Genesis Due to Iceberg Calving [Nature Comms. E & E]](https://youtu.be/7IC_ehdH7ZM)
+https://joshuahwolper.com/glacier

@@ -4,10 +4,9 @@ title: "Давненько я ничего не писал про #Onshape. А �
 date: 2016-01-29T17:01:23+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1186
 tags:
-  - CAD
   - Onshape
+  - CAD
 ---
 
 Давненько я ничего не писал про #Onshape. А между тем, у них появился свой AppSore, где можно добавить расширений к облачной #CAD системе. Вот список доступных уже сейчас расширений:
@@ -56,3 +55,5 @@ IMPORT/EXPORT
 -3D PDF Exporter by ProtoTech Solutions and Services Pvt. Ltd.
 -InStep by Solveering LLC
 -Pinshape 3D Printing Marketplace by Pinshape
+
+[Introducing The Onshape App Store](https://www.onshape.com/cad-blog/introducing-the-onshape-app-store)

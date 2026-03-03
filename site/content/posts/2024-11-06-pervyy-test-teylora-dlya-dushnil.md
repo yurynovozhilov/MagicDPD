@@ -4,7 +4,6 @@ title: "Первый Тест Тейлора - для душнил"
 date: 2024-11-06T13:01:20+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2829
 ---
 
 Первый Тест Тейлора - для душнил

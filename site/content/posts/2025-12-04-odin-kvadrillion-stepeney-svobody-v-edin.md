@@ -4,7 +4,6 @@ title: "Один квадриллион степеней свободы в ед�
 date: 2025-12-04T09:03:46+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3069
 ---
 
 Один квадриллион степеней свободы в единой задаче CFD
@@ -22,4 +21,8 @@ https://www.llnl.gov/article/53626/gordon-bell-finalist-team-pushes-scale-rocket
 https://arxiv.org/abs/2505.07392
 
 Репозиторий использованного решателя на GitHub:
+https://github.com/MFlowCode/MFC
+
+[Gordon Bell finalist team pushes scale of rocket simulation on El Capitan](https://www.llnl.gov/article/53626/gordon-bell-finalist-team-pushes-scale-rocket-simulation-el-capitan)
+https://arxiv.org/abs/2505.07392
 https://github.com/MFlowCode/MFC

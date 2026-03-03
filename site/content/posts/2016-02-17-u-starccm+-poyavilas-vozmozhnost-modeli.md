@@ -4,11 +4,12 @@ title: "У #StarCCM+ появилась возможность моделиро�
 date: 2016-02-17T07:00:00+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1259
 tags:
+  - CDadapco
   - DEM
   - StarCCM
-  - CDadapco
 ---
 
 У #StarCCM+ появилась возможность моделировать #DEM цилиндрической формы. Это очень здорово, однако надо помнить, что такой подход существенно медленнее чем сферические #DEM.
+
+[STAR-CCM+ v11.02 Preview: On a Roll with DEM Cylindrical Particles | CD-adapco](http://www.cd-adapco.com/blog/david-mann/star-ccm-v1102-preview-roll-dem-cylindrical-particles)

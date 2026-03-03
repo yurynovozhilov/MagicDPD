@@ -4,7 +4,6 @@ title: "The PERMAS Finite Element Software"
 date: 2023-04-28T15:00:55+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2398
 ---
 
 The PERMAS Finite Element Software
@@ -12,3 +11,5 @@ The PERMAS Finite Element Software
 Этот код берет свое начало с 60-х годова, когда разработка его пропродителя началась в Институте статики и динамики Штутгартского университета. Короче говоря, еще один неявный решатель МКЭ с прицелом на моделирование геометрической и физической нелинейности. Интересно посмотреть, что по внутренним тестам он уделывает Marc.
 
 https://www.youtube.com/watch?v=GjUjZvVxLbo
+
+[PERMAS Computes Highly Nonlinear Structures](https://www.youtube.com/watch?v=GjUjZvVxLbo)

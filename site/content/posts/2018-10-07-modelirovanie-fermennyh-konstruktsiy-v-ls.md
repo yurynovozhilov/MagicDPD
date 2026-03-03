@@ -4,10 +4,9 @@ title: "Моделирование ферменных конструкций в 
 date: 2018-10-07T17:00:33+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1137
 tags:
-  - LSPrePost
   - LSTC
+  - LSPrePost
   - LSDYNA
 images:
   - url: "/assets/images/1138.jpg"
@@ -19,4 +18,6 @@ images:
 Да и вообще, это видео скорее рассказывает о работе в LS-PrePost, чем и надо пользоваться новичкам.
 
 #LSDYNA #LSPrePost #LSTC
+http://bit.ly/2ymqbIw
+
 http://bit.ly/2ymqbIw

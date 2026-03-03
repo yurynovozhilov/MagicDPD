@@ -4,10 +4,9 @@ title: "Mathcha - Online Math Editor"
 date: 2021-12-16T13:02:15+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2052
 tags:
-  - latex
   - mathcha
+  - latex
 ---
 
 Mathcha - Online Math Editor
@@ -21,4 +20,9 @@ Mathcha - это онлайн WYSIWYG редактор нацеленный на
 Сайт проекта:www.mathcha.io/
 Обзор работы редактора по-русски: https://habr.com/ru/company/macloud/blog/560324/
 #latex #mathcha
+https://tinyurl.com/yxuxuuvy
+
+[Mathcha.io - Math Editor - Overview](https://www.youtube.com/watch?v=ff0H6w561z8)
+https://www.mathcha.io/
+https://habr.com/ru/company/macloud/blog/560324/
 https://tinyurl.com/yxuxuuvy

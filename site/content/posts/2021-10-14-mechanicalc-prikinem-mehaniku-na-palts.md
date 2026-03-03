@@ -4,7 +4,6 @@ title: "MechaniCalc - прикинем механику на пальцах"
 date: 2021-10-14T17:01:19+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2017
 ---
 
 MechaniCalc - прикинем механику на пальцах
@@ -20,4 +19,7 @@ MechaniCalc, разработанный компанией MechaniCalc, Inc., п
 Сайт сервиса: https://mechanicalc.com/
 
 
+https://tinyurl.com/ygdqxd3b
+
+[MechaniCalc: Quick & Intuitive Calculations for Mechanical Engineers](https://mechanicalc.com/)
 https://tinyurl.com/ygdqxd3b

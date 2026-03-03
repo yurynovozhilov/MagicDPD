@@ -4,11 +4,10 @@ title: "Один из самых зубастых планировщиков (ak
 date: 2015-11-28T07:00:51+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_805
 tags:
-  - PBS
   - HPC
   - Altair
+  - PBS
 ---
 
 Один из самых зубастых планировщиков (aka Workload Manager) - #Altair #PBS Pro открывает свой код! Вот это #HPC бомба. Ждем бесплатных сборок 😊

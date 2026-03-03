@@ -4,7 +4,6 @@ title: "Газовая детонация в ALE постановке"
 date: 2025-12-11T15:16:45+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3073
 ---
 
 Газовая детонация в ALE постановке
@@ -15,4 +14,7 @@ original_url: https://vk.com/wall-97265142_3073
 
 Все оттестировано на LS-DYNA, но так как это  EOS JWL, который есть вообще в любом аналогичном коде, то кажется рождество началось немного раньше.
 
+https://www.sciencedirect.com/science/article/pii/S0959652624022893
+
+https://doi.org/10.1016/j.jclepro.2024.142840
 https://www.sciencedirect.com/science/article/pii/S0959652624022893

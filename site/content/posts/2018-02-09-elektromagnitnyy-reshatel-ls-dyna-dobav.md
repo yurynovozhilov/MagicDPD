@@ -4,12 +4,11 @@ title: "Электромагнитный решатель LS-DYNA: добави�
 date: 2018-02-09T18:01:28+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_776
 tags:
-  - FEMSTER
   - LSTC
-  - LS
   - EM
+  - LS
+  - FEMSTER
 ---
 
 Электромагнитный решатель LS-DYNA: добавим больше физики
@@ -27,4 +26,8 @@ tags:
 
 https://www.youtube.com/watch?v=LYhXfSLwz0c
 #EM #FEMSTER #LS-DYNA #LSTC
+https://wp.me/p9vWYY-1BP
+
+https://ru.wikipedia.org/wiki/Скин-эффект
+https://www.youtube.com/watch?v=LYhXfSLwz0c
 https://wp.me/p9vWYY-1BP

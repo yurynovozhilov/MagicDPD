@@ -4,12 +4,11 @@ title: "Скрипты в Ansys Mechanical на Python"
 date: 2021-08-24T13:02:11+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1985
 tags:
-  - python
-  - leap
-  - ansys
   - mechanical
+  - leap
+  - python
+  - ansys
 ---
 
 Скрипты в Ansys Mechanical на Python
@@ -35,3 +34,7 @@ https://youtu.be/Q0MpwVSiFGs
 #ansys #leap #mechanical #python
 https://tinyurl.com/yfn2j3v5
 by Юрий Новожилов
+
+[Ansys Mechanical Scripting Training  - Python Basics (Day 1)](https://youtu.be/S0Z8mOEQbEo)
+https://youtu.be/Q0MpwVSiFGs
+https://tinyurl.com/yfn2j3v5

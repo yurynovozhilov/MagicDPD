@@ -4,15 +4,14 @@ title: "ANSYS 19 - Mechanical Product Update"
 date: 2018-01-13T12:01:08+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_722
 tags:
   - webinar
-  - Icepak
-  - САВ
   - Maxwell
+  - ANSYS
   - Mechanical
   - HFSS
-  - ANSYS
+  - САВ
+  - Icepak
 images:
   - url: "/assets/images/723.jpg"
 ---
@@ -28,4 +27,11 @@ ANSYS 19 - Icepak Product Update
 Fluid Dynamics Innovations in ANSYS 19.0
 
 #ANSYS #HFSS #Icepak #Maxwell #Mechanical #webinar #САВ
+https://magicdpd.ru/?p=5921
+
+http://www.ansys.com/about-ansys/events/18-02-07-hfss-webinar
+http://www.ansys.com/about-ansys/events/18-02-08-mechanical-webinar
+http://www.ansys.com/about-ansys/events/18-03-07-maxwell-webinar
+http://www.ansys.com/about-ansys/events/18-03-01-icepak-webinar
+http://www.ansys.com/about-ansys/events/18-03-13-cfd-webinar
 https://magicdpd.ru/?p=5921

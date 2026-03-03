@@ -4,7 +4,6 @@ title: "Цепочный фонтан"
 date: 2021-09-08T13:01:32+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1994
 tags:
   - open_source
   - simulationfriday
@@ -46,4 +45,13 @@ https://www.youtube.com/watch?v=_cFXwAgUVuY
 
 
 #extremephysics #open_source #simulationfriday
+https://tinyurl.com/yfcq58hv
+
+https://en.wikipedia.org/wiki/Chain_fountain
+https://doi.org/10.1098/rspa.2013.0689
+https://www.youtube.com/watch?v=Q571Qr8l4uk
+https://www.maartenbaert.be/extremephysics/
+https://www.youtube.com/watch?v=UpRS8RCcpUo
+https://github.com/RichtersFinger/ChainSimulation
+https://www.youtube.com/watch?v=_cFXwAgUVuY
 https://tinyurl.com/yfcq58hv

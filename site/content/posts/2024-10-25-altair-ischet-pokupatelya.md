@@ -4,7 +4,6 @@ title: "Altair ищет покупателя"
 date: 2024-10-25T09:01:16+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2815
 ---
 
 Altair ищет покупателя
@@ -14,3 +13,5 @@ Cadence ненавидит Ansys, и еще недавно поглотило Be
 HyperMesh. Короче, я буду болеть за PTC. Ну или вдруг у Synopsis есть сдача на покупку еще и Altair?
 
 https://www.reuters.com/technology/engineering-software-firm-altair-explores-sale-sources-say-2024-10-22/
+
+[Exclusive: Engineering software firm Altair explores sale, sources say](https://www.reuters.com/technology/engineering-software-firm-altair-explores-sale-sources-say-2024-10-22/)

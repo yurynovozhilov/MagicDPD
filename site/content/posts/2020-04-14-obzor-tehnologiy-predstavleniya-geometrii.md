@@ -4,7 +4,6 @@ title: "Обзор технологий представления геомет�
 date: 2020-04-14T16:01:11+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1738
 tags:
   - B_rep
   - CAD

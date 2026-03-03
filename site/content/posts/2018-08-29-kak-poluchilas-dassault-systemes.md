@@ -4,10 +4,9 @@ title: "Как получилась DASSAULT SYSTEMES"
 date: 2018-08-29T18:02:24+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1093
 tags:
-  - DassaultSystemes
   - Longread
+  - DassaultSystemes
 images:
   - url: "/assets/images/1094.jpg"
 ---
@@ -17,4 +16,8 @@ images:
 http://isicad.ru/ru/articles.php?article_num=14122
 
 #DassaultSystemes #Longread
+http://bit.ly/2BTVUpr
+
+[DASSAULT SYSTEMES: история успеха](https://isicad.ru/ru/articles.php?article_num=14122)
+http://isicad.ru/ru/articles.php?article_num=14122
 http://bit.ly/2BTVUpr

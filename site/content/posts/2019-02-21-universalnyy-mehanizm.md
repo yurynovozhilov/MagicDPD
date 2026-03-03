@@ -4,12 +4,11 @@ title: "Универсальный механизм"
 date: 2019-02-21T17:01:11+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1362
 tags:
-  - CAE
+  - RBD
   - импортозамещение
   - Fatigue
-  - RBD
+  - CAE
 images:
   - url: "/assets/images/1362.jpg"
 ---
@@ -28,3 +27,6 @@ http://www.umlab.ru/
 https://wp.me/p9vWYY-2m0
 
 by Ян Поженько
+
+http://www.umlab.ru/
+https://wp.me/p9vWYY-2m0

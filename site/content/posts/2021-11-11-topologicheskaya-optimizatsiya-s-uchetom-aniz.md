@@ -4,11 +4,10 @@ title: "Топологическая оптимизация с учетом ан
 date: 2021-11-11T14:01:16+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2031
 tags:
   - optimization
-  - topology
   - additive_manufacturing
+  - topology
 ---
 
 Топологическая оптимизация с учетом анизотропии при печати пластиком
@@ -24,4 +23,7 @@ Anisoprint, люксембургский стартап в области ком
 Спасибо за новость моему подписчику, Станиславу Щебетову. Ссылка на новостной источник: https://anisoprint.com/blog/anisoprint-additiveflow-launch/
 
 #additive_manufacturing #optimization #topology
+https://tinyurl.com/yhdekurh
+
+[The XYZ-files: Anisoprint and Additive Flow launch topology optimization software for composite materials design | Anisoprint](https://anisoprint.com/blog/anisoprint-additiveflow-launch/)
 https://tinyurl.com/yhdekurh

@@ -4,7 +4,6 @@ title: "Проектирование колеса"
 date: 2023-06-08T15:02:13+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2432
 ---
 
 Проектирование колеса
@@ -12,3 +11,5 @@ original_url: https://vk.com/wall-97265142_2432
 Забавный расчет в самописном коде выполняющем прочностные расчеты методом граничных изогеометрических элементов (что это вообще такое?). В качестве расчетной сетки напрямую используются NURBS поверхности, составляющие геометрическую модель
 
 https://youtu.be/2iYOamWPAYU
+
+[Fast Reanalysis with IGABEM](https://youtu.be/2iYOamWPAYU)

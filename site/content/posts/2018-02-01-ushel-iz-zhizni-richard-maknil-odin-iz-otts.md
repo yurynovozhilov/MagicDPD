@@ -4,13 +4,12 @@ title: "Ушел из жизни Ричард МакНил, один из отц
 date: 2018-02-01T17:01:21+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_760
 tags:
+  - MSC
+  - legendpeople
+  - NASTRAN
   - NASA
   - CAE
-  - MSC
-  - NASTRAN
-  - legendpeople
 images:
   - url: "/assets/images/761.jpg"
 ---
@@ -30,4 +29,7 @@ images:
 
 http://www.mscsoftware.com/news/remembering-dr-richard-macneal-co-founder-msc-software-and-msc-nastran
 #CAE #legendpeople #MSC #NASA #NASTRAN
+https://magicdpd.ru/?p=6160
+
+http://www.mscsoftware.com/news/remembering-dr-richard-macneal-co-founder-msc-software-and-msc-nastran
 https://magicdpd.ru/?p=6160

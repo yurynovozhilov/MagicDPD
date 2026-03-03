@@ -4,12 +4,11 @@ title: "EUROPLEXUS"
 date: 2018-11-16T17:01:02+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1215
 tags:
   - FSI
   - CodeAster
-  - Explicit
   - EUROPLEXUS
+  - Explicit
 images:
   - url: "/assets/images/1216.jpg"
 ---
@@ -23,4 +22,8 @@ EUROPLEXUS
 http://europlexus.jrc.ec.europa.eu
 
 #CodeAster #EUROPLEXUS #Explicit #FSI
+http://bit.ly/2PZOHKo
+
+https://europlexus.jrc.ec.europa.eu/
+http://europlexus.jrc.ec.europa.eu/
 http://bit.ly/2PZOHKo

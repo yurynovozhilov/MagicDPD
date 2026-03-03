@@ -4,7 +4,6 @@ title: "Чего я жду от LS-DYNA R17"
 date: 2026-01-14T08:59:01+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3083
 ---
 
 Чего я жду от LS-DYNA R17
@@ -21,4 +20,6 @@ original_url: https://vk.com/wall-97265142_3083
 И, наконец, знаменитое ONE MORE THING: сферические и цилиндрические системы координат в решателе :)
 
 Презентация с конференции с пруфами:
+https://www.ansys.com/content/dam/events/2025/transportation-summit/presentations/day-1/track-5-crash/10-crash-madhukeshavamurthy-ls-dyna-recent-innovations-r17.pdf
+
 https://www.ansys.com/content/dam/events/2025/transportation-summit/presentations/day-1/track-5-crash/10-crash-madhukeshavamurthy-ls-dyna-recent-innovations-r17.pdf

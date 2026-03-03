@@ -4,15 +4,14 @@ title: "FEATool Multiphysics 1.8 теперь дружит с OpenFOAM"
 date: 2018-05-25T18:00:56+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_940
 tags:
-  - OpenFOAM
-  - STL
-  - FEATool
-  - Octave
-  - FEniCS
-  - Open
   - MATLAB
+  - OpenFOAM
+  - FEniCS
+  - FEATool
+  - Open
+  - STL
+  - Octave
 ---
 
 FEATool Multiphysics 1.8 теперь дружит с OpenFOAM
@@ -24,4 +23,7 @@ FEATool Multiphysics 1.8 теперь дружит с OpenFOAM
 https://www.featool.com/news/2018/05/17/FEATool-v1p8-with-OpenFOAM-Matlab-CFD-Solver-Interface.html
 #FEATool #FEniCS #MATLAB #Octave #Open Source #OpenFOAM #STL
 
+https://wp.me/p9vWYY-1Ry
+
+[FEATool 1.8 - OpenFOAM MATLAB CFD Solver and GUI Interface](https://www.featool.com/news/2018/05/17/FEATool-v1p8-with-OpenFOAM-Matlab-CFD-Solver-Interface.html)
 https://wp.me/p9vWYY-1Ry

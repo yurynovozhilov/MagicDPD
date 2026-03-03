@@ -4,12 +4,11 @@ title: "LS-DYNA Implicit Webinar"
 date: 2019-03-10T17:00:24+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1387
 tags:
-  - LS_DYNA
-  - ARUP
-  - Oasys
   - implicit
+  - LS_DYNA
+  - Oasys
+  - ARUP
 images:
   - url: "/assets/images/1387.jpg"
 ---
@@ -27,3 +26,5 @@ Implicit analysis using LS-DYNA
 https://wp.me/p9vWYY-2nS
 
 by Юрий Новожилов
+
+https://wp.me/p9vWYY-2nS

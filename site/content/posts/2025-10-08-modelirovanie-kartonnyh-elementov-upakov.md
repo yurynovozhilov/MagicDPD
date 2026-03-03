@@ -4,7 +4,6 @@ title: "Моделирование картонных элементов упа�
 date: 2025-10-08T09:26:59+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3032
 images:
   - url: "/assets/images/3032.jpg"
 ---
@@ -18,5 +17,7 @@ images:
 И тут я нашел очень интересную кандидатскую диссертацию на тему "An Investigation into the Dynamic Response of Cardboard Honeycombs" от Jonathan J. Reay. Автор моделирует поведение сотовых энергопоглащающих вставок из картона. Как не странно, свойства материалов получаются очень простыми: оказывается достаточно упруго-пластического материала картора. Но зато автор учитывает и разрушение клеевых слоев, и наличие воздуха в сотах.
 
 Буду читать и использовать!
+
+https://etheses.whiterose.ac.uk/id/eprint/6977/1/J%20Reay%20-%20PhD%20Thesis.pdf
 
 https://etheses.whiterose.ac.uk/id/eprint/6977/1/J%20Reay%20-%20PhD%20Thesis.pdf

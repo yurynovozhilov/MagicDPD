@@ -4,12 +4,11 @@ title: "Аддитивка с адаптивной сеткой в APDL!"
 date: 2020-03-12T07:00:18+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1716
 tags:
-  - Python
   - APDL
-  - Additive_Manufacturing
   - ANSYS
+  - Additive_Manufacturing
+  - Python
 images:
   - url: "/assets/images/1716.jpg"
 ---

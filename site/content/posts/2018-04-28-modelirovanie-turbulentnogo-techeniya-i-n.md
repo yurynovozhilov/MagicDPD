@@ -4,12 +4,11 @@ title: "Моделирование турбулентного течения (и
 date: 2018-04-28T18:01:17+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_922
 tags:
-  - SPlisHSPlasH
   - CFD
-  - Open
+  - SPlisHSPlasH
   - SPH
+  - Open
 ---
 
 Моделирование турбулентного течения (и не только) в SHP постановке
@@ -33,4 +32,9 @@ https://www.youtube.com/watch?v=elZieJNBYqk&feature=share
 Ссылка на репозиторий проекта: https://github.com/InteractiveComputerGraphics/SPlisHSPlasH — есть сборки под Windows 10 и Ubuntu
 #CFD #Open Source #SPH #SPlisHSPlasH
 
+https://wp.me/p9vWYY-1NN
+
+http://www.interactive-graphics.de/SPlisHSPlasH/doc/html/
+https://www.youtube.com/watch?v=elZieJNBYqk&feature=share
+https://github.com/InteractiveComputerGraphics/SPlisHSPlasH
 https://wp.me/p9vWYY-1NN

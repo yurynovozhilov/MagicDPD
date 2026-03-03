@@ -4,7 +4,6 @@ title: "A GPU-Accelerated Three-Dimensional Crack Element Method for"
 date: 2025-09-25T09:00:28+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3023
 ---
 
 A GPU-Accelerated Three-Dimensional Crack Element Method for Transient Dynamic Fracture Simulation
@@ -21,3 +20,5 @@ A GPU-Accelerated Three-Dimensional Crack Element Method for Transient Dynamic F
 Итак, LSD + GPU + NL Craks with nodes splitting. Ждем!
 
 https://arxiv.org/abs/2508.04076
+
+[A GPU-Accelerated Three-Dimensional Crack Element Method for...](https://arxiv.org/abs/2508.04076)

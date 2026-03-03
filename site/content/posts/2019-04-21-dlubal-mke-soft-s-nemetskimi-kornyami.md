@@ -4,7 +4,6 @@ title: "Dlubal — МКЭ-софт с немецкими корнями"
 date: 2019-04-21T17:01:36+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1453
 tags:
   - dlubal
   - FEA
@@ -34,3 +33,6 @@ https://www.dlubal.com/ru
 https://wp.me/p9vWYY-2sY
 
 by Ян Поженько
+
+https://www.dlubal.com/ru
+https://wp.me/p9vWYY-2sY

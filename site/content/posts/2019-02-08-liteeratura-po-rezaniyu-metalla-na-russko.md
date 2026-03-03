@@ -4,12 +4,11 @@ title: "Литеература по резанию металла на русс�
 date: 2019-02-08T06:49:21+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1341
 tags:
   - LS_DYNA
+  - SPH
   - EFG
   - cut
-  - SPH
 images:
   - url: "/assets/images/1341.jpg"
 ---
@@ -25,5 +24,7 @@ images:
 
 
 #cut #EFG #LS_DYNA #SPH
+
+https://wp.me/s9vWYY-4381
 
 https://wp.me/s9vWYY-4381

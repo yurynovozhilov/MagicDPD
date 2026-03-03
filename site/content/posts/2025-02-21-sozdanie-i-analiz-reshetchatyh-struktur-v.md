@@ -4,7 +4,6 @@ title: "Создание и анализ решетчатых структур �
 date: 2025-02-21T13:37:50+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2887
 images:
   - url: "/assets/images/2887.jpg"
 ---
@@ -24,3 +23,5 @@ LatticeWorks — это MATLAB-инструмент для создания и �
 LatticeWorks распространяется по лицензии MIT.
 
 https://github.com/mahtab-vafaee/LatticeWorks
+
+s://github.com/mahtab-vafaee/LatticeWorks

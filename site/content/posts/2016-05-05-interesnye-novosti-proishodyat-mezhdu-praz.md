@@ -4,13 +4,14 @@ title: "Интересные новости происходят между пр
 date: 2016-05-05T11:08:16+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1633
 tags:
-  - OpenHPC
   - HPC
-  - opensourse
-  - PBS
   - Altair
+  - PBS
+  - OpenHPC
+  - opensourse
 ---
 
 Интересные новости происходят между праздниками. Команда #Altair #PBS Pro открывает исходные коды своего планировщика в рамках инициативы #OpenHPC. Итак, один из самых зубастых менеджеров очереди задач кластера разработанных когда-то в NASA c 14-ой версии станет open sourse!
+
+[An Open Letter to the HPC Community](http://insidehpc.com/2016/05/an-open-letter-to-the-hpc-community/)

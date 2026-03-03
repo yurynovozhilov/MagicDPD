@@ -4,17 +4,16 @@ title: "Для меня стало большой новостью, что то�
 date: 2022-04-21T17:00:05+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2224
 tags:
-  - Siemens
-  - NVIDIA
-  - Fluent
-  - STARCCM
-  - HPC
-  - Ansys
   - CFD
   - GPU
+  - HPC
+  - STARCCM
   - Simcenter
+  - NVIDIA
+  - Siemens
+  - Ansys
+  - Fluent
 images:
   - url: "/assets/images/2224.jpg"
   - url: "/assets/images/2225.jpg"
@@ -25,3 +24,5 @@ images:
 
 Для меня стало большой новостью, что только в этом году компания #Siemens таки смогла завести поддержку #GPU от #NVIDIA в свой флагманский #CFD решатель #Simcenter #STARCCM+ 2022.1. Стоит отметить, что у основного конкурента - #Ansys #Fluent поддержка GPU появилась чуть ли не 5 лет назад. Так что я как-то в замешательстве, как так получилось?
 #HPC https://www.plm.automation.siemens.com/global/ru/our-story/newsroom/simcenter-star-ccm-cfd-gpu-nvidia/105875
+
+https://www.plm.automation.siemens.com/global/ru/our-story/newsroom/simcenter-star-ccm-cfd-gpu-nvidia/105875

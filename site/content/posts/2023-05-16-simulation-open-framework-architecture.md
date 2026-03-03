@@ -4,7 +4,6 @@ title: "Simulation Open Framework Architecture - SOFA"
 date: 2023-05-16T15:00:54+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2412
 ---
 
 Simulation Open Framework Architecture - SOFA
@@ -23,4 +22,7 @@ Simulation Open Framework Architecture - SOFA
 Я ппедлагаю вам посмотреть запиьси SOFA Week 2022 - Symposium и насладиться уровнем решаемых задач!
 
 https://youtu.be/TfbK6TOBiHE
+https://youtu.be/bypxA9HaZvM
+
+[SOFA Week 2022 - Symposium (part 1/2)](https://youtu.be/TfbK6TOBiHE)
 https://youtu.be/bypxA9HaZvM

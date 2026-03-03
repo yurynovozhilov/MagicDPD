@@ -4,13 +4,12 @@ title: "2D FSI в LS-DYNA"
 date: 2017-02-12T17:00:46+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_269
 tags:
-  - ICFD
-  - FSI
   - CFD
-  - LSDYNA
   - LSTC
+  - LSDYNA
+  - FSI
+  - ICFD
 ---
 
 2D FSI в LS-DYNA
@@ -20,3 +19,5 @@ https://www.youtube.com/watch?v=jB36LWzJW7I
 
 #CFD
 https://www.youtube.com/watch?v=jB36LWzJW7I
+
+[ICFD how to set up a 2D FSI case](https://www.youtube.com/watch?v=jB36LWzJW7I)

@@ -4,7 +4,6 @@ title: "Готовимся встречать новый SolidWorks 2016"
 date: 2015-09-18T17:00:14+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_384
 tags:
   - CAD
   - SolidWorks

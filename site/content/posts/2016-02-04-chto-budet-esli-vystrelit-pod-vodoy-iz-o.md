@@ -4,11 +4,10 @@ title: "Что будет если выстрелить под водой из �
 date: 2016-02-04T18:01:00+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1217
 tags:
-  - ALE
-  - Explicit
   - FSI
+  - Explicit
+  - ALE
   - LSDYNA
 ---
 

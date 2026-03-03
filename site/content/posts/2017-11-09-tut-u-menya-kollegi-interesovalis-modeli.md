@@ -4,15 +4,14 @@ title: "Тут у меня коллеги интересовались моде�
 date: 2017-11-09T17:09:22+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_597
 tags:
-  - EFG
-  - AdaptiveEFG
-  - meshless
-  - peridynamics
-  - LSDYNA
   - LSTC
+  - meshless
+  - LSDYNA
+  - AdaptiveEFG
+  - peridynamics
   - SPG
+  - EFG
 ---
 
 Тут у меня коллеги интересовались моделированием хрупкого разрушения материалов в #LSDYNA. Самым передовым и многообещающим методом расчета такого разрушения и трещенообразования является перидинамика (http://ift.tt/2zu9ye7
@@ -26,3 +25,6 @@ tags:
 P.S. Насколько я понял, ключевые карты SECTION_SOLID_PERI и MAT_ELASTIC_PERI пока реализованы только в beta версиях решателя поколения R10.
 
 http://ftp.lstc.com/anonymous/outgoing/whu/Class/ 🔗 Index of /anonymous/outgoing/whu/Class
+
+http://ift.tt/2vlBJYZ
+http://ftp.lstc.com/anonymous/outgoing/whu/Class/

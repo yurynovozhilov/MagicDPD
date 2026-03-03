@@ -4,11 +4,10 @@ title: "Lay-up Mapping в ANSYS ACP"
 date: 2018-09-03T18:01:20+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1103
 tags:
+  - ANSYS
   - Composite
   - ACP
-  - ANSYS
 images:
   - url: "/assets/images/1104.jpg"
 ---
@@ -19,4 +18,6 @@ Lay-up Mapping в ANSYS ACP
 Таким образом, мы получаем еще больше гибкости при построении КЭ модели композитной конструкции в solid постановке. И да, я эту фишку уже пробовал - все работает как заявлено. Но не стоит забывать, что время интерполяции свойств всегда будет зависеть о количества обрабатываемых элементов.
 
 #ACP #ANSYS #Composite
+http://bit.ly/2MIczRG
+
 http://bit.ly/2MIczRG

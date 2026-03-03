@@ -4,13 +4,12 @@ title: "На своем канале #LSTC показали несколько �
 date: 2017-10-09T17:07:15+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_544
 tags:
-  - EFG
-  - SPH
-  - LSDYNA
   - LSTC
+  - LSDYNA
   - MLS
+  - SPH
+  - EFG
 ---
 
 На своем канале #LSTC показали несколько тестовых задач, демонстрирующих работу их новой формулировки для #SPH. Напомню, что SPH обладает врожденной болезнью: нестабильностью при работе на растяжение. Материал, моделируемый в SPH постановке показывает разрушение при растяжении намного раньше, чем того требуют его механическое состояние - получается так из-за численных проблем.
@@ -20,3 +19,11 @@ tags:
 Важно другое: когда MLS-based SPH войдет в очередной релиз - это будет большой шаг в области применения бессрочных методов для решения задач механики.Media📼 LS-DYNA SPH: Performance of different SPH formulat…
 
 http://ift.tt/2ySNCYE
+
+http://ift.tt/2xRPO1U
+http://ift.tt/2wQeysc
+http://ift.tt/2vlBJYZ
+http://ift.tt/2yTQIeX
+http://ift.tt/2y6dhO7
+http://ift.tt/2ySNCYE
+ttp://ift.tt/2ySNCYE

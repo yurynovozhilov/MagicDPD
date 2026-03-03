@@ -4,16 +4,15 @@ title: "Продолжая тему #nTopology и #Autodesk #Within вспомн
 date: 2016-06-03T07:00:29+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1727
 tags:
   - topology
+  - Altair
   - optimization
-  - lattice
   - nTopology
   - Within
-  - OptiStruct
   - Autodesk
-  - Altair
+  - OptiStruct
+  - lattice
 images:
   - url: "/assets/images/1727.jpg"
   - url: "/assets/images/1727.jpg"
@@ -24,3 +23,5 @@ images:
 Система работает так: проводится топологическая оптимизация и из ее результатов извлекается геометрия по изоповерхности псевдоплотности, скажем, 0.5. Далее все элементы с псевдоплотностью, скажем, от 0.5 до 0.8 заменяются пространственной сеткой из балочных элементов, толщины которых подбираются отдельно или на основе данных распределения псевдоплотности.
 
 #Altair говорит, что пока этот подход имеет сильную сеточную зависимость. Надеюсь они ее скоро победят.
+
+[OptiStruct Analysis and Optimization](http://www.altairhyperworks.com/product/OptiStruct/New-Features)

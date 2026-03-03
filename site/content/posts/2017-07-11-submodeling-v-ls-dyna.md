@@ -4,11 +4,10 @@ title: "Submodeling в LS-DYNA"
 date: 2017-07-11T17:00:59+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_403
 tags:
+  - Ozen
   - submodeling
   - Engineering
-  - Ozen
   - LSDYNA
 ---
 
@@ -22,3 +21,5 @@ https://support.ansys.com/staticassets/ANSYS/Conference/Santa Clara/downloads/Ex
 Во вложении есть презентация Криса Соуэна (Chris Cowan) из #Ozen #Engineering об использовании данной техники на практике.
 
 Всем заинтересованным надо почитать описание карт *INTERFACE_COMPONENT_SEGMENT и *INTERFACE_LINKING_SEGMENT
+
+https://support.ansys.com/staticassets/ANSYS/Conference/Santa

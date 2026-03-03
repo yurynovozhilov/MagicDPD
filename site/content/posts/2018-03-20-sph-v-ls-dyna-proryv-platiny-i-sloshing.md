@@ -4,7 +4,6 @@ title: "SPH в LS-DYNA: прорыв платины и слошинг"
 date: 2018-03-20T18:01:08+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_861
 tags:
   - FSI
   - Sloshing
@@ -21,4 +20,7 @@ SPH в LS-DYNA: прорыв платины и слошинг
 
 
 #FSI #LSDYNA #Sloshing #SPH
+https://goo.gl/vWgkvE
+
+http://www.tensor.ro
 https://goo.gl/vWgkvE

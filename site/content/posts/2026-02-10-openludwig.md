@@ -4,7 +4,6 @@ title: "OpenLUDWIG"
 date: 2026-02-10T14:58:41+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3103
 ---
 
 OpenLUDWIG
@@ -42,3 +41,5 @@ WALE подходит для LES, автоматически подстраив�
 
 https://www.linkedin.com/posts/raul-llamas-405a5014a_julialang-lbm-cfd-ugcPost-7426739092937154561-Hkp6
 OpenLUDWIG
+
+[#julialang #lbm #cfd | Raul Llamas](https://www.linkedin.com/posts/raul-llamas-405a5014a_julialang-lbm-cfd-ugcPost-7426739092937154561-Hkp6)

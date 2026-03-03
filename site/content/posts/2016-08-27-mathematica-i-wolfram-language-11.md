@@ -4,14 +4,13 @@ title: "Mathematica и Wolfram Language 11"
 date: 2016-08-27T06:30:11+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_94
 tags:
-  - Mathematica
-  - MachineLearning
-  - 3DPrinting
-  - Visualization
-  - Wolfram
   - NeuralNetworks
+  - 3DPrinting
+  - MachineLearning
+  - Wolfram
+  - Mathematica
+  - Visualization
 ---
 
 Mathematica и Wolfram Language 11
@@ -27,3 +26,6 @@ http://blog.wolfram.com/2016/08/08/today-we-launch-version-11/
 - Учебные примеры
 - Визуализация данных
 - Работа с облачными ресурсами
+
+[Today We Launch Version 11!—Wolfram Blog](http://blog.wolfram.com/2016/08/08/today-we-launch-version-11/)
+http://reference.wolfram.com/language/guide/SummaryOfNewFeaturesIn11.html

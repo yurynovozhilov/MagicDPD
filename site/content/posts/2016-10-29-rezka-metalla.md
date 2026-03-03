@@ -4,7 +4,6 @@ title: "Резка металла"
 date: 2016-10-29T12:01:21+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_164
 tags:
   - cutting
   - SPH
@@ -18,3 +17,5 @@ https://www.youtube.com/watch?v=yD5E1UK5Cps
 
 #cutting
 https://www.youtube.com/watch?v=yD5E1UK5Cps
+
+[Simulation of cutting by the SPH method in LS-DYNA. Video tutorial](https://www.youtube.com/watch?v=yD5E1UK5Cps)

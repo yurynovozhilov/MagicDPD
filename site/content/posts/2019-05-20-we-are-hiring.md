@@ -4,7 +4,6 @@ title: "We are hiring!"
 date: 2019-05-20T11:01:04+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1478
 images:
   - url: "/assets/images/1478.jpg"
 ---

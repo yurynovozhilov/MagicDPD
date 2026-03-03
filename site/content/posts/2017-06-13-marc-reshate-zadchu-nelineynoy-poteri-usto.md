@@ -4,10 +4,9 @@ title: "Marc решате задчу нелинейной потери усто�
 date: 2017-06-13T17:01:49+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_375
 tags:
-  - Marc
   - MSC
+  - Marc
 ---
 
 Marc решате задчу нелинейной потери устойчивости
@@ -18,3 +17,5 @@ https://youtu.be/iTFXs6eG_MQ
 #MSC #Marc
 
 https://youtu.be/iTFXs6eG_MQ
+
+[Buckling, Plasticity and Post-Buckling with MSC Marc](https://youtu.be/iTFXs6eG_MQ)

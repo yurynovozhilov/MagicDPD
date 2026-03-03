@@ -4,10 +4,9 @@ title: "Насколько хороша должна быть ваша CFD се�
 date: 2019-05-06T17:00:24+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1467
 tags:
-  - mesh
   - CFD
+  - mesh
 images:
   - url: "/assets/images/1467.jpg"
 ---
@@ -18,5 +17,7 @@ images:
 Чтобы ваш y+ всегда был хорош!
 
 #CFD #mesh
+
+https://wp.me/p9vWYY-2v8
 
 https://wp.me/p9vWYY-2v8

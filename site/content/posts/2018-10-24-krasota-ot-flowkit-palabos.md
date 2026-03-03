@@ -4,7 +4,6 @@ title: "Красота от FlowKit & Palabos"
 date: 2018-10-24T17:01:50+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1169
 tags:
   - Palabos
   - CFD
@@ -19,4 +18,6 @@ images:
 
 
 #Boltzmann #CFD #FlowKit #Palabos
+http://bit.ly/2EFvetK
+
 http://bit.ly/2EFvetK

@@ -4,7 +4,6 @@ title: "Моделирование процесса плавления в 3D п�
 date: 2018-03-07T18:01:10+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_836
 tags:
   - Fraunhofer
   - Additive_Manufacturing

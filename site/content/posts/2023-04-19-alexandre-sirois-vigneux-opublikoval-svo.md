@@ -4,7 +4,6 @@ title: "Alexandre Sirois-Vigneux опубликовал свое видое с �
 date: 2023-04-19T09:19:22+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2384
 images:
   - url: "/assets/images/2384.jpg"
   - url: "/assets/images/2386.jpg"
@@ -15,3 +14,6 @@ Alexandre Sirois-Vigneux опубликовал свое видое с тест�
 Очень советую посмотреть оригинальное видео тут: https://www.linkedin.com/feed/update/urn:li:activity:7053925560472752128/
 
 Об авторе модели: http://alexandresiroisvigneux.com/about.html
+
+https://www.linkedin.com/feed/update/urn:li:activity:7053925560472752128/
+http://alexandresiroisvigneux.com/about.html

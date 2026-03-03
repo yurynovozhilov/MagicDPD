@@ -4,7 +4,6 @@ title: "Обзор ATENA"
 date: 2021-02-16T14:12:26+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1907
 tags:
   - atena
   - concrete
@@ -23,3 +22,6 @@ https://www.youtube.com/watch?v=eeMNiY_kSLw
 #atena #concrete
 https://tinyurl.com/y489r2u4
 by Юрий Новожилов
+
+[ATENA Complete Overview](https://www.youtube.com/watch?v=eeMNiY_kSLw)
+https://tinyurl.com/y489r2u4

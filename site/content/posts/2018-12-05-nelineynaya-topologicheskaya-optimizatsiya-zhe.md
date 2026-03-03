@@ -4,11 +4,10 @@ title: "Нелинейная топологическая оптимизация
 date: 2018-12-05T17:01:39+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1246
 tags:
-  - Optimization
-  - Topology
   - Concrete
+  - Topology
+  - Optimization
 images:
   - url: "/assets/images/1247.jpg"
 ---
@@ -21,4 +20,7 @@ images:
 https://www.researchgate.net/publication/257526321_Conceptual_design_of_reinforced_concrete_structures_using_topology_optimization_with_elastoplastic_material_modeling
 
 #Concrete #Optimization #Topology
+http://bit.ly/2PjCoUF
+
+[Conceptual design of reinforced concrete structures using topology optimization with elastoplastic material modeling | Request PDF](https://www.researchgate.net/publication/257526321_Conceptual_design_of_reinforced_concrete_structures_using_topology_optimization_with_elastoplastic_material_modeling)
 http://bit.ly/2PjCoUF

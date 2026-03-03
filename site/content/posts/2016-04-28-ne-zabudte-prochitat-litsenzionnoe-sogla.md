@@ -4,7 +4,6 @@ title: "Не забудьте прочитать лицензионное сог
 date: 2016-04-28T13:06:41+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1614
 tags:
   - ANSYS
 images:

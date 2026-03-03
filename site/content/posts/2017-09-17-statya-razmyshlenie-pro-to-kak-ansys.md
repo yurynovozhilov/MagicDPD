@@ -4,27 +4,26 @@ title: "Статья - размышление про то, как #ANSYS #Discov
 date: 2017-09-17T17:04:13+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_499
 tags:
   - Discovery
-  - APDL
-  - Fusion
-  - Mechanical
-  - ANSYS
-  - Fluent
   - FEM
-  - CUDA
-  - GPGPU
-  - PTC
-  - GPU
+  - Fluent
   - Workbench
-  - SpaceClaim
+  - Fusion
   - Autodesk
+  - GPU
+  - APDL
   - Creo
+  - SpaceClaim
+  - PTC
+  - GPGPU
+  - CFD
+  - ANSYS
+  - Mechanical
+  - AIM
+  - CUDA
   - NVIDIA
   - Siemens
-  - CFD
-  - AIM
 ---
 
 Статья - размышление про то, как #ANSYS #Discovery Live помогает ANSYS реализовать свободомыслий давнюю задумку: сделать всех инженеров и проектировщиков своими пользователями.
@@ -37,3 +36,6 @@ tags:
 
 #GPGPU #CUDA
 http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html 🔗 ANSYS Discovery Live Changes Everything
+
+http://ift.tt/2vk2wVv
+http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html

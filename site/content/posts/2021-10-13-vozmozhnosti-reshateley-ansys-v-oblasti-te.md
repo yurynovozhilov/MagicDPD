@@ -4,19 +4,18 @@ title: "Возможности решателей Ansys в области тео
 date: 2021-10-13T13:02:22+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2016
 tags:
-  - apdl
-  - cadfem
-  - smart_fracture
   - vcct
-  - fracture
+  - smart_fracture
+  - apdl
+  - xfem
   - czm
   - lsdyna
-  - spg
-  - peridynamics
   - ansys
-  - xfem
+  - spg
+  - fracture
+  - cadfem
+  - peridynamics
 ---
 
 Возможности решателей Ansys в области теории разрушения
@@ -40,4 +39,8 @@ tags:
 Ссылка не регистрацию (надо учесть, что за пару часов до мероприятия регистрация на него закроется): https://cadfem-cis.ru/event/vozmozhnosti-reshatelej-ansys-pri-reshenii-zadach-teorii-razrushenija/
 
 #ansys #apdl #cadfem #czm #fracture #lsdyna #peridynamics #smart_fracture #spg #vcct #xfem
+https://tinyurl.com/yjh5v85t
+
+[Возможности решателей Ansys при решении задач теории разрушения](https://www.cadfem-cis.ru/event/vozmozhnosti-reshatelej-ansys-pri-reshenii-zadach-teorii-razrushenija/?utm_source=sg&utm_medium=email&utm_campaign=web-15-10-21)
+https://cadfem-cis.ru/event/vozmozhnosti-reshatelej-ansys-pri-reshenii-zadach-teorii-razrushenija/
 https://tinyurl.com/yjh5v85t

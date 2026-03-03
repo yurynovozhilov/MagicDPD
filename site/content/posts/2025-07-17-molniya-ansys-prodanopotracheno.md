@@ -4,7 +4,6 @@ title: "Молния! Ansys - продано/потрачено!"
 date: 2025-07-17T13:43:29+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2982
 ---
 
 Молния! Ansys - продано/потрачено!
@@ -15,3 +14,5 @@ original_url: https://vk.com/wall-97265142_2982
 Объединенная компания теперь готова конкурировать на расширенном рынке общей стоимостью 31 миллиард долларов!
 
 https://www.synopsys.com/synopsys-ansys-united.html
+
+[Synopsys and Ansys are Now United | Synopsys](https://www.synopsys.com/synopsys-ansys-united.html)

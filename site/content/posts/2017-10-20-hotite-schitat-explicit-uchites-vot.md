@@ -4,19 +4,18 @@ title: "Хотите считать #explicit - учитесь! Вот стан�
 date: 2017-10-20T17:07:33+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_563
 tags:
-  - LSPP
+  - Blast
+  - RADIOSSMedia
   - SHPB
-  - ALE3D
+  - LSDYNA
   - ABAQUS
   - ALEGRA
-  - Blast
-  - Taylor
-  - RADIOSSMedia
-  - CTH
-  - LSDYNA
+  - ALE3D
   - explicit
+  - CTH
+  - LSPP
+  - Taylor
 ---
 
 Хотите считать #explicit - учитесь! Вот стандартные тестовые задачи для настоящих #explicit кодов:
@@ -30,3 +29,19 @@ tags:
 #LSDYNA #ABAQUS #CTH #ALEGRA #ALE3D #RADIOSSMedia📼 Taylor bar test💾 A method for selecting software for dynamic event…💾 A method for selecting software for dynamic event…
 
 http://ift.tt/2zDmjm1
+
+http://ift.tt/2vBgpQ1
+http://ift.tt/2zpLI1B
+http://ift.tt/2zEmYDK
+http://ift.tt/2i0hIGl
+http://ift.tt/2vlBJYZ
+http://ift.tt/2xBL1l5
+http://ift.tt/2zqlNHf
+http://ift.tt/2zDlzgJ
+http://ift.tt/2zqlPyR
+http://ift.tt/2zDmihX
+http://ift.tt/2zqhDiu
+http://ift.tt/2zDmjm1
+http://ift.tt/2zpFsHw
+http://ift.tt/2zDyUG1
+p://ift.tt/2zDmjm1

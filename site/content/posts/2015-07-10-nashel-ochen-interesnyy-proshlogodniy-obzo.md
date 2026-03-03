@@ -4,7 +4,8 @@ title: "Нашел очень интересный прошлогодний об
 date: 2015-07-10T07:00:15+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_22
 ---
 
 Нашел очень интересный прошлогодний обзор расчетных возможностей LS-DYNA от гуру своего дела - американской компании Predictive Engineering. Прям очень вкусно написано!
+
+[FEA, CFD, and LS-DYNA consulting services | Predictive Engineering](http://www.predictiveengineering.com/)

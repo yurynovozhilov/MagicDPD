@@ -4,13 +4,12 @@ title: "MS RDP и OpenGL"
 date: 2016-09-16T17:00:11+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_110
 tags:
-  - NVIDIA
-  - RDP
-  - Windows
   - OpenGL
   - ANSYS
+  - RDP
+  - NVIDIA
+  - Windows
 ---
 
 MS RDP и OpenGL
@@ -23,3 +22,5 @@ http://www.nvidia.com/download/driverResults.aspx/79105/en-us
 Так что всем бегом за профессиональными видеокартами.
 
 http://www.nvidia.com/download/driverResults.aspx/79105/en-us
+
+[NVIDIA DRIVERS Quadro Desktop/Quadro Notebook Driver Release 340 WHQL](http://www.nvidia.com/download/driverResults.aspx/79105/en-us)

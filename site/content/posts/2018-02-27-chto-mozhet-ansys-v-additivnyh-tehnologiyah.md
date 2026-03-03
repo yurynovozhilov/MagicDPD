@@ -4,17 +4,16 @@ title: "Что может ANSYS в аддитивных технологиях"
 date: 2018-02-27T18:00:23+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_820
 tags:
-  - Thermal
-  - Topology
-  - Optimization
   - Transient
-  - Mechanical
-  - ACT
-  - 3D_Printing
   - ANSYS
+  - 3D_Printing
+  - Optimization
+  - Thermal
+  - Mechanical
+  - Topology
   - Additive_Manufacturing
+  - ACT
 images:
   - url: "/assets/images/821.jpg"
 ---
@@ -29,3 +28,6 @@ images:
 Вторая часть урока — анализ полученных результатов:
 
 P.S. Ссылка от автора на свойства материалов, использованных в видео: http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=mq316a
+
+https://appstore.ansys.com/download?prodid=APC-ACTAPP-318
+http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=mq316a

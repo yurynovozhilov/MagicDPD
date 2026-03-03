@@ -4,11 +4,10 @@ title: "FEconv - открытый конвертор сеточных форма
 date: 2019-01-12T17:01:21+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1305
 tags:
-  - OpenSource
-  - Mesh
   - FEconv
+  - Mesh
+  - OpenSource
 images:
   - url: "/assets/images/1306.jpg"
 ---
@@ -53,4 +52,8 @@ Gmsh MSH ASCII (.msh)
 
 
 #FEconv #Mesh #OpenSource
+http://bit.ly/2VNGqZV
+
+http://victorsndvg.github.io/FEconv/
+https://github.com/victorsndvg/FEconv
 http://bit.ly/2VNGqZV

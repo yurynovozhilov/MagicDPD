@@ -4,7 +4,6 @@ title: "Ай-Ай пытается помочь"
 date: 2024-10-29T13:02:04+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2818
 images:
   - url: "/assets/images/2818.jpg"
   - url: "/assets/images/2819.jpg"

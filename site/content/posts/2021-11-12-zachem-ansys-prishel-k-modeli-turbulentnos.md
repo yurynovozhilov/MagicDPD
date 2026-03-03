@@ -4,7 +4,6 @@ title: "Зачем Ansys пришел к модели турбулентност
 date: 2021-11-12T14:15:58+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2032
 ---
 
 Зачем Ansys пришел к модели турбулентности GEKO
@@ -22,4 +21,8 @@ https://youtu.be/c8zKWaxohng
 
 
 
+https://tinyurl.com/ydq39w2l
+
+[DNS of the turbulent flow around a square cylinder at Re=22000](https://youtu.be/c8zKWaxohng)
+https://cfdisraelblog.wpcomstaging.com/2021/05/25/understanding-the-k-ω-sst-model/
 https://tinyurl.com/ydq39w2l

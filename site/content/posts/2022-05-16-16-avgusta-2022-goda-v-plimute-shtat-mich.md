@@ -4,7 +4,6 @@ title: "16 августа 2022 года в плимуте, штат Мичига
 date: 2022-05-16T17:00:13+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2262
 ---
 
 16 августа 2022 года в плимуте, штат Мичиган свой семина проведет международный консорциум Global Human Body Models Consortium (GHBMC).
@@ -17,3 +16,9 @@ https://vimeo.com/551935343
 https://vimeo.com/553388591
 https://vimeo.com/554740393
 https://vimeo.com/554786789 https://www.elemance.com/resources/
+
+[2021 GHBMC Users' Workshop Session I](https://vimeo.com/551935343)
+https://vimeo.com/553388591
+https://vimeo.com/554740393
+https://vimeo.com/554786789
+https://www.elemance.com/resources/

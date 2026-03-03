@@ -4,10 +4,9 @@ title: "Объяснение закона Гука с помощью кота"
 date: 2018-05-18T18:01:01+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_933
 tags:
-  - simulationfriday
   - Enterfea
+  - simulationfriday
 ---
 
 Объяснение закона Гука с помощью кота
@@ -17,4 +16,7 @@ tags:
 Fun story of the Hooke’s law
 #Enterfea #simulationfriday
 
+https://wp.me/p9vWYY-1QP
+
+[Fun story of the Hooke's law](https://enterfea.com/fun-story-of-hookes-law/)
 https://wp.me/p9vWYY-1QP

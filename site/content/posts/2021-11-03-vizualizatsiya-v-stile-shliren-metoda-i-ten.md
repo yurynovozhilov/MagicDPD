@@ -4,11 +4,10 @@ title: "Визуализация в стиле шлирен-метода и те
 date: 2021-11-03T13:07:15+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2027
 tags:
-  - paraview
-  - blast
   - explicit
+  - blast
+  - paraview
 ---
 
 Визуализация в стиле шлирен-метода и теневого фонового метода в Paraview
@@ -34,4 +33,7 @@ tags:
 
 Ссылка на инструкию по визуализации: curiosityfluids.com/2019/04/28/creating-synthetic-schlieren-and-shadowgraph-images-in-paraview/amp/
 #blast #explicit #paraview
+https://tinyurl.com/yze2ssgw
+
+[Creating synthetic Schlieren and Shadowgraph images in Paraview](https://curiosityfluids.com/2019/04/28/creating-synthetic-schlieren-and-shadowgraph-images-in-paraview/amp/)
 https://tinyurl.com/yze2ssgw

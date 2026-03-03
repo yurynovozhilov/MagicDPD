@@ -4,7 +4,6 @@ title: "Altair купил S-FRAME"
 date: 2021-08-19T13:01:20+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1982
 tags:
   - altair
   - s
@@ -21,4 +20,7 @@ Altair решил видимо зайти в область проектиров
 
 
 #altair #s-frame
+https://tinyurl.com/yg4cft4z
+
+[Altair Acquires S-FRAME Software, Powerful Structural Analysis and Design Software, to Strengthen and Accelerate Global Footprint in Architecture, Engineering, and Construction (AEC) - Altair Newsroom](https://www.altair.com/newsroom/news-releases/altair-acquires-s-frame-software-powerful-structural-analysis-and-design-software-to-strengthen-and-accelerate-global-footprint-in-architecture-engineering-and-construction-aec/)
 https://tinyurl.com/yg4cft4z

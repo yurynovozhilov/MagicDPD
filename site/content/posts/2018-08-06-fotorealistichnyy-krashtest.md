@@ -4,11 +4,10 @@ title: "Фотореалистичный краштест"
 date: 2018-08-06T18:00:22+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1057
 tags:
-  - 3DExperience
   - DassaultSystemes
   - 3DXCITE
+  - 3DExperience
 images:
   - url: "/assets/images/1058.jpg"
 ---
@@ -18,4 +17,6 @@ Dassault Systems хвастаются тем, как затащили в сво�
 
 
 #3DExperience #3DXCITE #DassaultSystemes
+http://bit.ly/2OKlHTc
+
 http://bit.ly/2OKlHTc

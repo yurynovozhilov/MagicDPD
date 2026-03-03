@@ -4,7 +4,6 @@ title: "Учет сопротивления воздуха при работе �
 date: 2018-08-31T18:00:26+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1097
 tags:
   - SPH
 images:
@@ -18,4 +17,7 @@ images:
 https://www.semanticscholar.org/paper/Approximate-Air-Fluid-Interactions-for-SPH-Gissler-Band/ae64cece01e28303e2ab087d2a2818feffc3fd82
 
 #SPH
+http://bit.ly/2C1aOKu
+
+[[PDF] Approximate Air-Fluid Interactions for SPH | Semantic Scholar](https://www.semanticscholar.org/paper/Approximate-Air-Fluid-Interactions-for-SPH-Gissler-Band/ae64cece01e28303e2ab087d2a2818feffc3fd82)
 http://bit.ly/2C1aOKu

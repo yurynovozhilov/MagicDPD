@@ -4,14 +4,13 @@ title: "Моделирование сердца"
 date: 2019-02-18T17:00:41+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1359
 tags:
-  - Hall_of_Fame
-  - CFX
-  - Ensight
   - CFD
   - ANSYS
+  - Hall_of_Fame
+  - CFX
   - ICEM_CFD
+  - Ensight
 images:
   - url: "/assets/images/1359.jpg"
 ---
@@ -44,4 +43,7 @@ images:
 
 #ANSYS #CFD #CFX #Ensight #Hall_of_Fame #ICEM_CFD
 
+https://wp.me/p9vWYY-2lu
+
+https://www.ansys.com/other/hall-of-fame/archive/2019/linkoping
 https://wp.me/p9vWYY-2lu

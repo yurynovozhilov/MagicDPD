@@ -4,13 +4,12 @@ title: "Аддитивные технологии ParaMatters"
 date: 2018-10-22T17:01:24+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1165
 tags:
+  - Optimization
   - ParaMatters
   - Topology
   - SIMP
   - CogniCAD
-  - Optimization
 images:
   - url: "/assets/images/1166.jpg"
 ---
@@ -25,4 +24,7 @@ Home
 
 
 #CogniCAD #Optimization #ParaMatters #SIMP #Topology
+http://bit.ly/2PMMiPN
+
+https://paramatters.com/
 http://bit.ly/2PMMiPN

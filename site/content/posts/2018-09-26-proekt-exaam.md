@@ -4,23 +4,22 @@ title: "Проект ExaAM"
 date: 2018-09-26T17:00:39+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1119
 tags:
-  - Diablo
   - ExaCA
-  - ExaMPM
-  - Exascale
-  - ALE3D
-  - OpenFOAM
+  - Diablo
   - HPC
-  - TruchasPBF
   - AdditiveManufacturing
-  - ExaAM
-  - LIGGHTS
   - LiDO
-  - ExaPF
+  - Exascale
+  - ExaMPM
+  - TruchasPBF
   - Plato
+  - ExaAM
+  - ALE3D
   - ExaConstit
+  - ExaPF
+  - LIGGHTS
+  - OpenFOAM
 images:
   - url: "/assets/images/1120.jpg"
 ---
@@ -32,4 +31,8 @@ images:
 https://www.additivemanufacturing.media/blog/post/how-exascale-computing-will-enable-born-qualified-am-parts
 
 #AdditiveManufacturing #ALE3D #Diablo #ExaAM #ExaCA #ExaConstit #ExaMPM #ExaPF #Exascale #HPC #LiDO #LIGGHTS #OpenFOAM #Plato #TruchasPBF
+http://bit.ly/2OZbW3a
+
+https://www.ornl.gov/staff-profile/john-turner
+https://www.additivemanufacturing.media/blog/post/how-exascale-computing-will-enable-born-qualified-am-parts
 http://bit.ly/2OZbW3a

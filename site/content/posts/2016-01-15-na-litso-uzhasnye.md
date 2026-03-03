@@ -4,14 +4,13 @@ title: "На лицо ужасные,"
 date: 2016-01-15T17:01:12+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1087
 tags:
-  - lsdyna
-  - EKM
-  - betacae
-  - SDPD
   - ANSYS
+  - EKM
+  - SDPD
+  - lsdyna
   - SPDRM
+  - betacae
 ---
 
 На лицо ужасные,
@@ -20,3 +19,5 @@ tags:
 BETA CAE Systems выложила ряд обзорных видео по их системе управления инженерными знаниями SPDRM. Для работы с LS-DYNA это еще не самый страшный интерфейс. Пользователи #ANSYS #EKM могут испытать шок и кровотечение из глаз.
 
 Интересно, в уважаемой греческой компании кто-нибудь задумывался об ущемлении чувства прекрасного конечных пользователей?
+
+[BETA CAE Systems S.A. - SPDRM ](http://www.beta-cae.com/spdrm.htm)

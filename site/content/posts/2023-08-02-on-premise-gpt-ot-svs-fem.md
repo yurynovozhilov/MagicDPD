@@ -4,7 +4,6 @@ title: "On-premise GPT от SVS FEM"
 date: 2023-08-02T15:00:55+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2486
 ---
 
 On-premise GPT от SVS FEM
@@ -24,3 +23,5 @@ On-premise GPT от SVS FEM
 Перефразирую Леонадра Xофстедтера, все становиться лучше с GPT.
 
 https://www.linkedin.com/feed/update/urn:li:activity:7090682368633524224/
+
+[Petr Konas on LinkedIn: #ansys #autodesk #ptc #ansysgpt #svsfemgpt #gpt #ai #cae #llm #onpremise…](https://www.linkedin.com/feed/update/urn:li:activity:7090682368633524224/)

@@ -4,16 +4,15 @@ title: "Вебинар по Signal Processing от Dynardo"
 date: 2018-07-14T18:00:35+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1013
 tags:
-  - Dynardo
-  - SignalProcessing
-  - OptiSLang
-  - CurveFitting
-  - LSDYNA
-  - Workbench
   - Optimization
   - ANSYS
+  - Workbench
+  - LSDYNA
+  - SignalProcessing
+  - CurveFitting
+  - Dynardo
+  - OptiSLang
 images:
   - url: "/assets/images/1014.jpg"
 ---
@@ -25,4 +24,6 @@ Signal Processing позволяет извлекать из текстовых 
 Таким образом Signal Processing становится если не незаменимой, то очень востребованной функцией в задачах калибровки моделей материалов или решении нестационарных задач.
 
 #ANSYS #CurveFitting #Dynardo #LSDYNA #Optimization #OptiSLang #SignalProcessing #Workbench
+http://bit.ly/2NaSjUw
+
 http://bit.ly/2NaSjUw

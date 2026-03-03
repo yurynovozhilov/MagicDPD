@@ -4,12 +4,11 @@ title: "Интеренсые совпадения: сначала на Youtube �
 date: 2017-09-18T17:09:59+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_501
 tags:
-  - Siemens
-  - TASS
   - MSC
   - ADASMediaMedia
+  - TASS
+  - Siemens
   - PreScan
 ---
 
@@ -23,3 +22,15 @@ http://ift.tt/2yjV3IN
 А пока запоминаем новый тэг/базворд Advanced Driver Assistance Systems = #ADASMediaMedia📼 The Soul of MSC Software: Company Overview
 
 http://ift.tt/2yk2L5A
+
+http://ift.tt/2xKRcav
+https://youtu.be/OvYlblL6_AY
+http://ift.tt/2xnumov
+http://ift.tt/2xLAV5m
+http://ift.tt/2ylz5Fk
+http://ift.tt/2x9DInf
+http://ift.tt/2xLNRIv
+http://ift.tt/2ykWbfi
+http://ift.tt/2xMAlEc
+http://ift.tt/2yk2L5A
+ttp://ift.tt/2yk2L5A

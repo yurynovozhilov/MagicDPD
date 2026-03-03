@@ -4,7 +4,6 @@ title: "WebPlotDigitizer"
 date: 2019-04-24T17:00:27+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1456
 tags:
   - webplotdigitizer
 ---
@@ -26,4 +25,7 @@ WebPlotDigitizer — это одна из самых полезных утили
 
 #webplotdigitizer
 
+https://wp.me/p9vWYY-2uh
+
+https://apps.automeris.io/wpd/
 https://wp.me/p9vWYY-2uh

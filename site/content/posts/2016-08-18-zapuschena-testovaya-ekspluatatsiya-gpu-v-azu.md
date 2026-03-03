@@ -4,22 +4,21 @@ title: "Запущена тестовая эксплуатация GPU в Azure"
 date: 2016-08-18T06:30:46+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_84
 tags:
-  - NVIDIA
-  - hyperv
-  - Channel9
-  - m60
-  - DDA
+  - GPU
   - cloud
   - HPC
-  - tesla
-  - k80
-  - Server
   - teradici
-  - GPU
-  - Windows
+  - m60
+  - Server
   - Azure
+  - k80
+  - hyperv
+  - Channel9
+  - tesla
+  - NVIDIA
+  - DDA
+  - Windows
 ---
 
 Запущена тестовая эксплуатация GPU в Azure
@@ -33,3 +32,5 @@ https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure
 
 Небольшое интевью по поводу события от #Channel9
 https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure
+
+[Leveraging NVIDIA GPUs in Azure (Channel 9)](https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure)

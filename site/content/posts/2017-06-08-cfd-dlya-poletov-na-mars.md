@@ -4,14 +4,13 @@ title: "CFD для полетов на Марс"
 date: 2017-06-08T17:00:43+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_369
 tags:
-  - NVIDIA
-  - SpacaX
+  - CFD
   - HPC
   - GTC
-  - CFD
   - Sandia
+  - SpacaX
+  - NVIDIA
 ---
 
 CFD для полетов на Марс
@@ -24,4 +23,8 @@ https://www.nextplatform.com/2015/03/27/rockets-shake-and-rattle-so-spacex-rolls
 Маленькое:
 https://www.youtube.com/watch?v=ozrvfRHvYHA
 Большое:
+https://www.youtube.com/watch?v=txk-VO1hzBY
+
+[Rockets Shake And Rattle, So SpaceX Rolls Homegrown CFD](https://www.nextplatform.com/2015/03/27/rockets-shake-and-rattle-so-spacex-rolls-homegrown-cfd/)
+https://www.youtube.com/watch?v=ozrvfRHvYHA
 https://www.youtube.com/watch?v=txk-VO1hzBY

@@ -4,7 +4,6 @@ title: "История вычислительной оптимизации от 
 date: 2019-04-03T17:00:18+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1431
 tags:
   - vrand
 images:
@@ -21,5 +20,7 @@ images:
 Кстати, Vanderplaats Research & Development Inc. одни из немногих, кто худо-бедно но умеют решать нелизнейные задаи оптимизации топологии!
 
 #vrand
+
+https://wp.me/p9vWYY-2sb
 
 https://wp.me/p9vWYY-2sb

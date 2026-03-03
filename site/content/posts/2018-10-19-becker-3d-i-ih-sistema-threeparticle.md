@@ -4,12 +4,11 @@ title: "BECKER 3D и их система ThreeParticle"
 date: 2018-10-19T17:02:00+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1159
 tags:
-  - DEM
-  - ThreeParticle
   - Rocky
+  - DEM
   - BECKER3D
+  - ThreeParticle
 images:
   - url: "/assets/images/1160.jpg"
 ---
@@ -22,4 +21,7 @@ BECKER 3D и их система ThreeParticle
 Коллеги также постоянно приговаривают, что для получения максимальной производительности используется машинное обучение, и тут не очень понятно, где оно нам может пригодится.
 
 #BECKER3D #DEM #Rocky #ThreeParticle
+http://bit.ly/2q2m6Fm
+
+[Discrete Element Method (DEM) Simulation Software with MBD, FEM and SPH](https://www.becker3d.com/)
 http://bit.ly/2q2m6Fm

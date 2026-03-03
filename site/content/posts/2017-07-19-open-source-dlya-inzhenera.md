@@ -4,14 +4,13 @@ title: "Open Source для инженера"
 date: 2017-07-19T17:01:09+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_413
 tags:
+  - Impact
+  - FiPy
   - Elmer
+  - OpenSource
   - Code_Aster
   - OpenFOAM
-  - Impact
-  - OpenSource
-  - FiPy
 ---
 
 Open Source для инженера
@@ -25,3 +24,5 @@ http://s.arboreus.com/2008/03/free-software-for-solving-pdes.html?m=1
 #FiPy
 #OpenFOAM
 и многие другие!
+
+[Обзор свободных программ для численных расчётов](http://s.arboreus.com/2008/03/free-software-for-solving-pdes.html?m=1)

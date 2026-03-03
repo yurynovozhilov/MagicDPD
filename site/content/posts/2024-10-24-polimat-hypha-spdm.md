@@ -4,7 +4,6 @@ title: "ПОЛИМАТ HYPHA SPDM"
 date: 2024-10-24T10:07:40+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2814
 ---
 
 ПОЛИМАТ HYPHA SPDM
@@ -26,3 +25,6 @@ hypha@mycesys.com
 polimat@crplab.ru
 
 Как вы считаете, есть ли потребность у небольших команд в SPDM системах?
+
+[GitHub - mycesys/hypha-installation](https://github.com/mycesys/hypha-installation)
+https://www.mycesys.com/

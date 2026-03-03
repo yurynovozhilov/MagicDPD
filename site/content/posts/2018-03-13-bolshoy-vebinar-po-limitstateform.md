@@ -4,19 +4,18 @@ title: "Большой вебинар по LimitState:FORM"
 date: 2018-03-13T18:01:20+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_847
 tags:
-  - LimitState
-  - LimitStateFORM
-  - Topology
   - TrussBased
-  - Optimization
-  - DLO
-  - Mechanical
-  - Lattice
-  - Discontinuity_Layout_Optimization
-  - Additive_Manufacturing
+  - LimitState
   - ANSYS
+  - Optimization
+  - Topology
+  - Lattice
+  - Mechanical
+  - Additive_Manufacturing
+  - Discontinuity_Layout_Optimization
+  - DLO
+  - LimitStateFORM
 images:
   - url: "/assets/images/848.jpg"
 ---
@@ -34,4 +33,9 @@ LimitState:FORM особое ПО, предназначенное для ген
 &nbsp;
 
 #Additive_Manufacturing #ANSYS #Discontinuity_Layout_Optimization #DLO #Lattice #LimitState #LimitStateFORM #Mechanical #Optimization #Topology #TrussBased
+https://goo.gl/HFvcJQ
+
+http://limitstate3d.com/
+https://en.wikipedia.org/wiki/Discontinuity_layout_optimization
+https://appstore.ansys.com/download?prodid=APC-ACTAPP-285
 https://goo.gl/HFvcJQ

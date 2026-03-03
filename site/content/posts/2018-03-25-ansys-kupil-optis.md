@@ -4,11 +4,10 @@ title: "ANSYS купил OPTIS"
 date: 2018-03-25T18:01:19+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_869
 tags:
   - SPEOS
-  - ANSYS
   - OPTIS
+  - ANSYS
 images:
   - url: "/assets/images/870.jpg"
 ---
@@ -25,4 +24,11 @@ ANSYS купил OPTIS
 Ссылка на официальное заявление для прессы: https://www.ansys.com/about-ansys/news-center/03-22-18-ansys
 
 #ANSYS #OPTIS #SPEOS
+https://goo.gl/EsV5Bz
+
+https://www.optis-world.com/OPTIS-revealed/Development-partners/PLM-Software/Dassault-Syst%C3%A8mes
+https://www.optis-world.com/OPTIS-revealed/Development-partners/PLM-Software/Siemens
+https://www.optis-world.com/OPTIS-revealed/Development-partners/PLM-Software/Parametric-Technology-Corporation
+https://www.optis-world.com/OPTIS-revealed/Development-partners/PLM-Software/Dassault-Syst%C3%A8mes
+https://www.ansys.com/about-ansys/news-center/03-22-18-ansys
 https://goo.gl/EsV5Bz

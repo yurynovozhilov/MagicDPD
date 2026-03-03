@@ -4,7 +4,6 @@ title: "Оффтопик: кто-нибудь знает способ, как с
 date: 2016-06-28T17:55:14+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1855
 tags:
   - FB
   - VK

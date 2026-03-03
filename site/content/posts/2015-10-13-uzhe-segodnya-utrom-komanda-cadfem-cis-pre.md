@@ -4,12 +4,11 @@ title: "Уже сегодня утром команда CADFEM CIS престу�
 date: 2015-10-13T02:48:33+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_503
 tags:
-  - CAE
+  - CADFEM
   - ACUM
   - ANSYS
-  - CADFEM
+  - CAE
 ---
 
 Уже сегодня утром команда CADFEM CIS преступит к финальной стадии подготовки нашей главное конференции ANSYS Community User Meeting 2015. Всех, кто окажется вместе с нами будет ждать незабываемые дни.

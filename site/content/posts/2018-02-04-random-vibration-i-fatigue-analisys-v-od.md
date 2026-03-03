@@ -1,17 +1,16 @@
 ---
 layout: post
 title: "Random vibration и Fatigue analisys в одном расчете"
-date: 2018-02-04T17:10:11+00:00
+date: 2018-02-04T17:00:36+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_768
 tags:
+  - tutorial
+  - LS
   - Fatigue
   - random_vibration
-  - LS
-  - tutorial
 images:
-  - url: "/assets/images/769.jpg"
+  - url: "/assets/images/767.jpg"
 ---
 
 Random vibration и Fatigue analisys в одном расчете
@@ -19,4 +18,7 @@ Random vibration и Fatigue analisys в одном расчете
 
 https://www.youtube.com/watch?v=dkZpV3NJCss
 #Fatigue #LS-DYNA #LS-PrePost #random_vibration #tutorial
+https://wp.me/p9vWYY-1AA
+
+https://www.youtube.com/watch?v=dkZpV3NJCss
 https://wp.me/p9vWYY-1AA

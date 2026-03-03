@@ -4,13 +4,12 @@ title: "Сравнение CFD решателей супертяжелой ве�
 date: 2019-08-21T13:00:40+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1560
 tags:
-  - Siemens
-  - Fluent
   - CFD
   - ANSYS
   - STAR_CCM
+  - Siemens
+  - Fluent
 images:
   - url: "/assets/images/1560.jpg"
 ---
@@ -30,4 +29,7 @@ https://www.resolvedanalytics.com/theflux/comparing-cfd-software-part-4-comprehe
 
 #ANSYS #CFD #Fluent #Siemens #STAR_CCM
 
+https://wp.me/p9vWYY-2DZ
+
+https://www.resolvedanalytics.com/theflux/comparing-cfd-software-part-4-comprehensive-cfd-software-packages
 https://wp.me/p9vWYY-2DZ

@@ -4,13 +4,12 @@ title: "2-way-FSI в ANSYS"
 date: 2019-03-08T17:01:02+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1383
 tags:
-  - Fluent
-  - System_Coupling
-  - FSI
-  - Mechanical
   - ANSYS
+  - Mechanical
+  - FSI
+  - System_Coupling
+  - Fluent
 images:
   - url: "/assets/images/1383.jpg"
 ---
@@ -28,3 +27,5 @@ images:
 https://wp.me/p9vWYY-2nE
 
 by Юрий Новожилов
+
+https://wp.me/p9vWYY-2nE

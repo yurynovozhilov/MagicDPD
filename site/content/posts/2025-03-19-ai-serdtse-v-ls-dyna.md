@@ -4,7 +4,6 @@ title: "AI сердце в LS-DYNA"
 date: 2025-03-19T10:30:00+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2908
 ---
 
 AI сердце в LS-DYNA
@@ -18,3 +17,6 @@ AI сердце в LS-DYNA
 https://www.linkedin.com/posts/ansys-inc_revolutionizing-cardiovascular-research-activity-7307857784732078082-HCd1
 
 Официальный пресс релиз: https://www.ansys.com/news-center/press-releases/3-18-25-ansys-introduces-pyansys-heart-at-nvidia-gtc
+
+[Sign Up | LinkedIn](https://www.linkedin.com/posts/ansys-inc_revolutionizing-cardiovascular-research-activity-7307857784732078082-HCd1)
+https://www.ansys.com/news-center/press-releases/3-18-25-ansys-introduces-pyansys-heart-at-nvidia-gtc

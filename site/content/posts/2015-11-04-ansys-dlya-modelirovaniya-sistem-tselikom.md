@@ -4,12 +4,11 @@ title: "#ANSYS для моделирования систем целиком. Н
 date: 2015-11-04T18:00:44+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_636
 tags:
-  - CFD
-  - FEM
-  - ANSYS
   - EM
+  - CFD
+  - ANSYS
+  - FEM
 ---
 
 #ANSYS для моделирования систем целиком. Начинаем с механики и гидродинмики и заканчиваем ПО для урпавления. Выглядит красиво.

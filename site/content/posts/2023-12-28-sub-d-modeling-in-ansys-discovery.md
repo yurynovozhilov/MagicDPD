@@ -4,7 +4,6 @@ title: "Sub-D Modeling in Ansys Discovery"
 date: 2023-12-28T15:01:24+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2610
 ---
 
 Sub-D Modeling in Ansys Discovery
@@ -13,3 +12,5 @@ Sub-D Modeling in Ansys Discovery
 
 
 https://www.youtube.com/watch?v=DudZad_wSFM
+
+[Introduction to Sub D Modeling — Lesson 1](https://www.youtube.com/watch?v=DudZad_wSFM)

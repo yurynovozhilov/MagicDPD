@@ -4,13 +4,12 @@ title: "Удары и дроптесты: генерация спектра от
 date: 2018-06-25T18:01:48+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_971
 tags:
-  - APDL
-  - Shock
-  - Mechanical
   - ANSYS
+  - APDL
   - DropTest
+  - Mechanical
+  - Shock
 images:
   - url: "/assets/images/972.jpg"
 ---
@@ -20,4 +19,6 @@ images:
 
 
 #ANSYS #APDL #DropTest #Mechanical #Shock
+https://is.gd/kIIdgG
+
 https://is.gd/kIIdgG

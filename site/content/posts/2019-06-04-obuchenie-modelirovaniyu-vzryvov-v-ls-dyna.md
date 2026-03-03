@@ -4,10 +4,9 @@ title: "Обучение моделированию взрывов в LS-DYNA"
 date: 2019-06-04T17:00:52+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1497
 tags:
-  - blast
   - LS_DYNA
+  - blast
   - Trajkovski
 images:
   - url: "/assets/images/1497.jpg"
@@ -33,3 +32,6 @@ images:
 https://wp.me/p9vWYY-2y7
 
 by Юрий Новожилов
+
+http://feasolution.blogspot.com
+https://wp.me/p9vWYY-2y7

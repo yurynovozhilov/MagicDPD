@@ -4,11 +4,10 @@ title: "Существуют в современном мире такие кл�
 date: 2017-09-04T17:03:49+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_474
 tags:
+  - подкаст
   - CADFEMMedia
   - ANSYS
-  - подкаст
   - LSDYNA
 ---
 
@@ -25,3 +24,11 @@ http://podsync.net/WZXO - ANSYS TechTips
 http://podsync.net/amgD - LS-DYNA Corporate Tutorial & Content
 
 #подкаст #ANSYS #LSDYNA #CADFEMMedia🔗 Podsync - turn YouTube channels into podcast feeds
+
+http://podsync.net/,
+http://podsync.net/2xNG
+http://podsync.net/myBK
+http://podsync.net/OxJn
+http://podsync.net/WZXO
+http://podsync.net/amgD
+http://podsync.net/#

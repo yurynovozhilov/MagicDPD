@@ -4,13 +4,12 @@ title: "Как писать пользовательские модели мат
 date: 2021-10-27T13:02:16+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2023
 tags:
+  - umat
+  - fortran
   - lsdyna
   - github
-  - umat
   - ansys
-  - fortran
 ---
 
 Как писать пользовательские модели материалов под LS-DYNA
@@ -30,4 +29,7 @@ tags:
 Крутость данного репозитория трудно переоценить. При этом, проект вполне себе живой - последние изменения в него вносились на этой неделе! Ссылка на репозиторий: github.com/jfriedlein/usrmat_LS-Dyna_Fortran
 
 #ansys #fortran #github #lsdyna #umat
+https://tinyurl.com/yz63vjfe
+
+[GitHub - jfriedlein/usrmat_LS-Dyna_Fortran: Basics to implement user-defined materials (usrmat, umat) in LS-Dyna with Fortran](https://github.com/jfriedlein/usrmat_LS-Dyna_Fortran)
 https://tinyurl.com/yz63vjfe

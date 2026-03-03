@@ -4,7 +4,6 @@ title: "Практическая сеточная сходимость"
 date: 2020-07-30T15:30:29+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1807
 tags:
   - mesh
 images:

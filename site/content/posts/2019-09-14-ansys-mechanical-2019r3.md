@@ -4,10 +4,9 @@ title: "ANSYS Mechanical 2019R3"
 date: 2019-09-14T13:00:20+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1583
 tags:
-  - ANSYS
   - Mechanical
+  - ANSYS
 images:
   - url: "/assets/images/1583.jpg"
 ---

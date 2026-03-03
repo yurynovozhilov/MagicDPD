@@ -4,10 +4,9 @@ title: "Вязкость жидкости"
 date: 2021-04-14T13:01:16+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1944
 tags:
-  - theory
   - cfd
+  - theory
 ---
 
 Вязкость жидкости
@@ -23,3 +22,6 @@ https://www.youtube.com/watch?v=VvDJyhYSJv8
 #cfd #theory
 https://tinyurl.com/yj3jsuct
 by Юрий Новожилов
+
+[Understanding Viscosity](https://www.youtube.com/watch?v=VvDJyhYSJv8)
+https://tinyurl.com/yj3jsuct

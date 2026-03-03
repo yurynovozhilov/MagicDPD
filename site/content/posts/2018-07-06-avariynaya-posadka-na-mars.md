@@ -4,15 +4,14 @@ title: "Аварийная посадка на Марс"
 date: 2018-07-06T18:01:49+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_997
 tags:
   - Crash
-  - SALE
-  - Мырешаем
-  - ALE
   - ЦИФРА
-  - FSI
+  - SALE
   - LSDYNA
+  - FSI
+  - ALE
+  - Мырешаем
 images:
   - url: "/assets/images/998.jpg"
 ---
@@ -26,4 +25,7 @@ images:
 https://multiphysics.ru/stati/proekty/modelirovanie-padeniia-spuskaemogo-apparata-mars-6.htm
 
 #ALE #Crash #FSI #LSDYNA #SALE #Мырешаем #ЦИФРА
+http://bit.ly/2u5eaF8
+
+[Моделирование падения спускаемого аппарата «Марс-6» | Инженерные расчеты](https://multiphysics.ru/stati/proekty/modelirovanie-padeniia-spuskaemogo-apparata-mars-6.htm)
 http://bit.ly/2u5eaF8

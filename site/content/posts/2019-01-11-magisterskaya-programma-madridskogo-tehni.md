@@ -4,7 +4,6 @@ title: "Магистерская программа Мадридского те�
 date: 2019-01-11T17:09:40+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1303
 tags:
   - ANSYS
 images:
@@ -25,4 +24,9 @@ https://www.youtube.com/watch?v=oVE1ujqSyEI
 Больше информации о программе вы сможете найти на официальной странице:&nbsp;http://www.ansys.com/mastersdegree
 Презентация к вебинару:&nbsp;https://www.ansys.com/-/media/ansys/corporate/files/pdf/product/academic/masters-degree-course-catalogue.pdf?la=en
 #ANSYS
+http://bit.ly/2QHimUS
+
+[Master's Degree in Numerical Simulation in Engineering with ANSYS Now Available](https://www.youtube.com/watch?v=oVE1ujqSyEI)
+http://www.ansys.com/mastersdegree
+https://www.ansys.com/-/media/ansys/corporate/files/pdf/product/academic/masters-degree-course-catalogue.pdf?la=en
 http://bit.ly/2QHimUS

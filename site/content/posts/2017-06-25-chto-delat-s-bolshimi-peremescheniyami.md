@@ -4,7 +4,6 @@ title: "Что делать с большими перемещениями?"
 date: 2017-06-25T17:00:43+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_384
 tags:
   - FEM
 ---
@@ -17,3 +16,5 @@ https://enterfea.com/ignore-geometric-nonlinearity/
 Даже для линейных моделей материалов, даже без контактов, ваша модель может оказаться нелинейной, так как она корректно работает только с учетом больших перемещений. Как же понять, в какой постановке решать задачу? Как правильно определить правомерность допущение о малости перемещений? Об этом целая статься по ссылке ниже.
 
 Я же просто посоветую вам всегда себя проверять. #FEM
+
+[Linear FEA - when it is safe to ignore geometrical nonlinearity?](https://enterfea.com/ignore-geometric-nonlinearity/)

@@ -4,11 +4,10 @@ title: "LS-DYNA для как генератор обоев рабочего с�
 date: 2016-11-07T10:02:13+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_178
 tags:
+  - ACT
   - Workbench
   - ANSYS
-  - ACT
   - LSDYNA
 images:
   - url: "/assets/images/178.jpg"

@@ -4,10 +4,9 @@ title: "Верификация #Ansys #LSDYNA для моделирования 
 date: 2022-01-28T17:30:04+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2103
 tags:
-  - JWL
   - Ansys
+  - JWL
   - LSDYNA
 images:
   - url: "/assets/images/2103.jpg"
@@ -16,3 +15,5 @@ images:
 ---
 
 Верификация #Ansys #LSDYNA для моделирования взрывов в ближнем поле проведена в Университет Шеффилда. Наслаждаемся задачей и постановкой в статье. Все, кто начинают моделировать детонацию и работать с #JWL - пробуем повторить. https://www.researchgate.net/publication/327136945_Validation_of_near-field_blast_loading_in_LS-DYNA
+
+https://www.researchgate.net/publication/327136945_Validation_of_near-field_blast_loading_in_LS-DYNA

@@ -4,17 +4,16 @@ title: "Гибрид ужа и ежа: PTC встраивает технолог
 date: 2018-06-24T18:01:33+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_969
 tags:
-  - NVIDIA
-  - Simplorer
-  - Discovery
   - TwinBuilder
-  - PTC
+  - Simplorer
   - ThingWorx
-  - CAD
-  - Creo
   - Live
+  - Creo
+  - Discovery
+  - NVIDIA
+  - CAD
+  - PTC
 images:
   - url: "/assets/images/970.jpg"
 ---
@@ -32,4 +31,9 @@ https://www.cadfem-cis.ru/list/article/ansys-ptc2018/
 https://www.ptc.com/en/cad-software-blog/ceo-speak-real-time-simulation
 
 #CAD #Creo #Discovery #Live #NVIDIA #PTC #Simplorer #ThingWorx #TwinBuilder
+https://is.gd/BMwHCi
+
+[Стратегическое партнерство ANSYS Inc. и PTC, Inc: новый класс продуктов Creo](https://www.cadfem-cis.ru/list/article/ansys-ptc2018/)
+https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/17153/ANSYS-Discovery-Live-comes-to-PTC-Creo.aspx
+https://www.ptc.com/en/cad-software-blog/ceo-speak-real-time-simulation
 https://is.gd/BMwHCi

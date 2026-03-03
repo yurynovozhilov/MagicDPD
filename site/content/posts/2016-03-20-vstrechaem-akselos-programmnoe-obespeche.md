@@ -4,17 +4,16 @@ title: "Встречаем Akselos - программное обеспечени
 date: 2016-03-20T07:00:54+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1453
 tags:
-  - GCE
-  - PETSc
-  - RBFEM
-  - HPC
-  - FEM
-  - Cloud
-  - Akselos
   - libMesh
+  - GCE
+  - HPC
+  - RBFEM
+  - Cloud
   - MIT
+  - Akselos
+  - FEM
+  - PETSc
 ---
 
 Встречаем Akselos - программное обеспечения для решения задач механики деформируемого твердого тела при помощи метода конечных элементов с приведенным базисом (Reduced Basis Finite Element Method, RB-FEM). RB-FEM - это основная фишка решателя, эксклюзивно разработанная в #MIT. Она позволяет, по заявлениям разработчиков, сократить время расчета в тысячи раз по сравнению с классическими методом конечных элементов. Кроме того, становится возможным без проблем решать задачи с размерностью более 100 MDOF.
@@ -27,3 +26,5 @@ tags:
 - и т.д.
 
 Некоторые брошюры по RB-FEM во вложении.
+
+[Akselos - Simulation Technology](http://www.akselos.com)

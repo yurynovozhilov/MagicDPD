@@ -4,12 +4,11 @@ title: "HVAC расчеты в SimScale"
 date: 2018-06-21T18:00:31+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_964
 tags:
-  - HVAC
   - BIM
   - CFD
   - Rhino
+  - HVAC
   - Simscale
 images:
   - url: "/assets/images/965.jpg"
@@ -24,4 +23,7 @@ CFD Simulation for HVAC and AEC Applications
 
 
 #BIM #CFD #HVAC #Rhino #Simscale
+https://is.gd/84NlIx
+
+https://www.simscale.com/webinars-workshops/cfd-aec-hvac-applications/
 https://is.gd/84NlIx

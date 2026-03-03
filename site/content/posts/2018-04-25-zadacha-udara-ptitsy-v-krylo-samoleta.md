@@ -4,7 +4,6 @@ title: "Задача удара птицы в крыло самолета"
 date: 2018-04-25T18:00:39+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_919
 tags:
   - bird
   - LS
@@ -17,5 +16,7 @@ tags:
 
 Изучаем отличное полное видео, по работе с LS-PrePost
 #bird strike #LS-DYNA #LS-PrePost #SPH
+
+https://wp.me/p9vWYY-1Nu
 
 https://wp.me/p9vWYY-1Nu

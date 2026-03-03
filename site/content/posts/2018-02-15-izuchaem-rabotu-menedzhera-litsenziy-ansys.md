@@ -4,11 +4,10 @@ title: "Изучаем работу менеджера лицензий ANSYS"
 date: 2018-02-15T18:01:11+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_798
 tags:
   - License
-  - ANSYS
   - FlexLM
+  - ANSYS
 images:
   - url: "/assets/images/799.jpg"
 ---

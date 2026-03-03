@@ -4,12 +4,11 @@ title: "Вышла 16 версия #OpticStudio от компании #Zemax. Д
 date: 2016-05-26T07:00:46+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1694
 tags:
-  - OpticStudio
   - Zemax
-  - ANSYS
   - Mechanical
+  - OpticStudio
+  - ANSYS
 images:
   - url: "/assets/images/1694.jpg"
 ---

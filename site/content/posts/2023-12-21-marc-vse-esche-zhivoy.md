@@ -4,7 +4,6 @@ title: "Marc все еще живой"
 date: 2023-12-21T15:01:37+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2600
 ---
 
 Marc все еще живой
@@ -12,3 +11,5 @@ Marc все еще живой
 Был такой широко известный в узких кругах неявный решатель Marc. И был он известен своими действительно выдающимися нелинейными возможностями. Лет 20 назад, когда я учился им пользоваться, он действительно вызывал восхищение. Однако, время шло, и то, чем он был знаменит, теперь почти что стандартные возможности для его конкурентов. Я уже думал, что его закопали. Но нет, кажется, что Hexagon начинает оживлять Marc. Вот учебные курсы выкатывают. Пока просты, но лучше, чем ничего.
 
 https://www.youtube.com/watch?v=xc9EKaWhCF8
+
+[Static Analysis using Marc/Mentat for beginners | 3D stress analysis | Marc Mentat tutorial Part 1](https://www.youtube.com/watch?v=xc9EKaWhCF8)

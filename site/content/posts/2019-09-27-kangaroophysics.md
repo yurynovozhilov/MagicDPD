@@ -4,7 +4,6 @@ title: "KangarooPhysics"
 date: 2019-09-27T13:00:22+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1595
 tags:
   - Open_Source
   - game
@@ -19,3 +18,7 @@ Kangaroo — это свободный интерактивный движок �
 
 
 pic.twitter.com/swhLmWX72m— Daniel Piker (@KangarooPhysics) September 17, 2019
+
+https://twitter.com/KangarooPhysics
+https://t.co/swhLmWX72m
+https://twitter.com/KangarooPhysics/status/1173944569219751938?ref_src=twsrc%5Etfw

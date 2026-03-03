@@ -4,7 +4,6 @@ title: "Как превратить неформатированный текс�
 date: 2018-08-27T18:02:27+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1091
 tags:
   - Word
 images:
@@ -16,4 +15,7 @@ images:
 Так вот, подробнейший свод правил форматирования формул приводится в документе "Unicode Nearly Plain-Text Encoding of Mathematics", доступном по этой ссылке: http://www.unicode.org/notes/tn28/UTN28-PlainTextMath-v2.pdf
 
 #Word
+http://bit.ly/2PEOpp0
+
+http://www.unicode.org/notes/tn28/UTN28-PlainTextMath-v2.pdf
 http://bit.ly/2PEOpp0

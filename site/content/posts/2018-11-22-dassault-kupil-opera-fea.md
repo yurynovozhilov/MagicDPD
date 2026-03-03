@@ -4,13 +4,12 @@ title: "Dassault купил Opera FEA"
 date: 2018-11-22T17:00:48+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1227
 tags:
-  - OperaFEA
-  - Dassault
   - CST
   - Maxwell
+  - Dassault
   - JMAG
+  - OperaFEA
   - EM
 images:
   - url: "/assets/images/1228.jpg"
@@ -23,4 +22,7 @@ Dassault купил Opera FEA
 https://blogs.3ds.com/simulia/dassault-systemes-acquires-opera-simulation-software/
 
 #CST #Dassault #EM #JMAG #Maxwell #OperaFEA
+http://bit.ly/2TBOZ8Z
+
+[Dassault Systemes Acquires Opera Simulation Software](https://blogs.3ds.com/simulia/dassault-systemes-acquires-opera-simulation-software/)
 http://bit.ly/2TBOZ8Z

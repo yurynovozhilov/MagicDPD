@@ -4,12 +4,11 @@ title: "Фотореалистичные результаты расчетов"
 date: 2019-03-03T10:55:19+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1372
 tags:
-  - SpaceClaim
+  - Algoryx
   - KeyShot
   - Momentum
-  - Algoryx
+  - SpaceClaim
 images:
   - url: "/assets/images/1372.jpg"
 ---
@@ -28,3 +27,6 @@ https://www.youtube.com/watch?v=scigk4vVbF4
 https://wp.me/p9vWYY-2n6
 
 by Юрий Новожилов
+
+https://www.youtube.com/watch?v=scigk4vVbF4
+https://wp.me/p9vWYY-2n6

@@ -4,7 +4,6 @@ title: "Разрушение хрупких материалов — закон 
 date: 2019-01-29T17:00:25+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1326
 images:
   - url: "/assets/images/1326.jpg"
 ---
@@ -29,3 +28,6 @@ images:
 
 Первый пост: http://feaforall.com/weibull-rupture-criterion/
 Второй пост: http://feaforall.com/determine-weibull-law-parameters-python/
+
+http://feaforall.com/weibull-rupture-criterion/
+http://feaforall.com/determine-weibull-law-parameters-python/

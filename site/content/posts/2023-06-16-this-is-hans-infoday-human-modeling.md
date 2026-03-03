@@ -4,7 +4,6 @@ title: "This is Hans: Infoday Human Modeling"
 date: 2023-06-16T15:00:29+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2441
 ---
 
 This is Hans: Infoday Human Modeling
@@ -24,3 +23,5 @@ This is Hans: Infoday Human Modeling
 04:36:44 Обсуждение и прощание (М. Шенке, DYNAmore, Ansys Company)
 
 https://www.youtube.com/watch?v=nwvpIDgRbew
+
+[This is Hans: Infoday Human Modeling](https://www.youtube.com/watch?v=nwvpIDgRbew)

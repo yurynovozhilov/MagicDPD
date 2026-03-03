@@ -4,7 +4,6 @@ title: "Серия видео по ANSYS Discovery Live"
 date: 2018-11-01T17:00:32+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1185
 tags:
   - Discovery
   - LEAP
@@ -25,4 +24,6 @@ LEAP Australia на своем канале выложили серию из 8 �
 
 
 #ANSYS #Discovery #LEAP #Live
+http://bit.ly/2F4XwOS
+
 http://bit.ly/2F4XwOS

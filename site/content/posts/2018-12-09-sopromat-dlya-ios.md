@@ -4,10 +4,9 @@ title: "Сопромат для iOS"
 date: 2018-12-09T17:01:18+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1254
 tags:
-  - Simulationfriday
   - Sketchalyze
+  - Simulationfriday
   - Paraview
   - IOS
 images:
@@ -27,4 +26,9 @@ https://blog.kitware.com/sketchalyze-structural-analysis-goes-mobile/
 https://www.researchgate.net/publication/261215025_Visualization_Analysis_and_Workflows_over_the_Web_for_Geosciences_Using_UVCDAT_VTK_and_VisTrails
 
 #IOS #Paraview #Simulationfriday #Sketchalyze
+http://bit.ly/2PsBl4I
+
+[‎Sketchalyze](https://itunes.apple.com/ru/app/sketchalyze/id704472004)
+https://blog.kitware.com/sketchalyze-structural-analysis-goes-mobile/
+https://www.researchgate.net/publication/261215025_Visualization_Analysis_and_Workflows_over_the_Web_for_Geosciences_Using_UVCDAT_VTK_and_VisTrails
 http://bit.ly/2PsBl4I

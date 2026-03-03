@@ -4,7 +4,6 @@ title: "Неклассические CAE методы для задач проч
 date: 2019-03-21T17:00:17+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1408
 images:
   - url: "/assets/images/1408.jpg"
 ---
@@ -29,3 +28,5 @@ P-element Methods — когда элеметны меняют парадок ф
 
 
 От себя замечу, что за
+
+https://www.digitalengineering247.com/article/meshless-fea-opportunities

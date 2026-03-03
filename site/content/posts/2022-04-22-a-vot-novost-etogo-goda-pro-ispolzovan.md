@@ -4,18 +4,17 @@ title: "А вот новость этого года про использова
 date: 2022-04-22T17:00:10+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2229
 tags:
+  - CFD
+  - Intel
+  - GPU
+  - HPC
+  - Xeon
   - NVIDIA
+  - Ansys
+  - Fluent
   - Gold
   - A100
-  - Fluent
-  - Xeon
-  - HPC
-  - Ansys
-  - CFD
-  - GPU
-  - Intel
 images:
   - url: "/assets/images/2230.jpg"
   - url: "/assets/images/2231.jpg"
@@ -30,3 +29,5 @@ images:
 - снизить потребление электроэнергии вычислительной системой до 4 раза
 
 А если учесть, что решатели Ansys традиционно лицензируется так, что стоимость задействования 1 процессорного ядра эквивалентна стоимости задействования 1 карты NVIDIA A100, то цена требуемых для #HPC расчетов лицензий с новым "Ansys Multi-GPU Solver" оказывается если не в сотни, то в десятки раз ниже! https://www.ansys.com/blog/unleashing-the-power-of-multiple-gpus-for-cfd-simulations
+
+[Unleashing the Power of Multiple GPUs for CFD Simulations](https://www.ansys.com/blog/unleashing-the-power-of-multiple-gpus-for-cfd-simulations)

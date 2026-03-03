@@ -4,16 +4,15 @@ title: "Infoday Welding and Heat Treatment"
 date: 2019-10-08T13:00:25+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1608
 tags:
-  - LS_DYNA
   - thermal
-  - DYNAMore
-  - welding
+  - LS_DYNA
   - MAT_CWM
-  - LSTC
-  - Additive_Manufacturing
   - DynaWeld
+  - LSTC
+  - welding
+  - Additive_Manufacturing
+  - DYNAMore
 images:
   - url: "/assets/images/1608.jpg"
 ---

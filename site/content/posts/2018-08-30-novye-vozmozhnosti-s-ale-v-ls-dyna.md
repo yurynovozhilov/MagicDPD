@@ -4,11 +4,10 @@ title: "Новые возможности S-ALE в LS-DYNA"
 date: 2018-08-30T18:00:31+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1095
 tags:
-  - ALE
-  - SALE
   - Tutorial
+  - SALE
+  - ALE
   - LSDYNA
 images:
   - url: "/assets/images/1096.jpg"
@@ -36,4 +35,8 @@ http://ftp.lstc.com/anonymous/outgoing/hao/sale/tutorials/2018conf.pptx
 P.S. Презентация весит около 50 Мб, грузится небыстро, открывается не торопясь - внутри много тяжёлых GIF.
 
 #ALE #LSDYNA #SALE #Tutorial
+http://bit.ly/2CdQZQv
+
+https://ftp.lstc.com/anonymous/outgoing/hao/sale/tutorials/2018conf.pptx
+http://ftp.lstc.com/anonymous/outgoing/hao/sale/tutorials/2018conf.pptx
 http://bit.ly/2CdQZQv

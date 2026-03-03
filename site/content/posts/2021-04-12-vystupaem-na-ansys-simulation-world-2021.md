@@ -4,7 +4,6 @@ title: "Выступаем на ANSYS Simulation World 2021"
 date: 2021-04-12T13:01:44+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1942
 tags:
   - cadfem
   - ansys
@@ -17,3 +16,8 @@ tags:
 #ansys #cadfem
 https://tinyurl.com/yztm2hso
 by Юрий Новожилов
+
+https://www.cadfem-cis.ru/simulation-world
+https://www.simulationworld.com/
+https://cadfem-cis.ru/list/article/tsifrovye-dvojniki-chislennoe-modelirovanie-dlja-zaschity-aes-ot-aviaudara-i-bespilotniki-v-meditsine-na-ansys-simulation-world-2021/
+https://tinyurl.com/yztm2hso

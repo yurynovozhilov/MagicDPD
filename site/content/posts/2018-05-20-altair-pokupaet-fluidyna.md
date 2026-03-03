@@ -4,19 +4,18 @@ title: "Altair покупает FluiDyna"
 date: 2018-05-20T18:01:05+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_935
 tags:
+  - CFD
+  - ultraFluidX
+  - GPU
+  - nanoFluidX
+  - Altair
+  - FluiDyna
+  - FSI
+  - Boltzmann
+  - LBM
   - NVIDIA
   - SPH
-  - ultraFluidX
-  - Altair
-  - FSI
-  - CFD
-  - Boltzmann
-  - GPU
-  - LBM
-  - nanoFluidX
-  - FluiDyna
 ---
 
 Altair покупает FluiDyna
@@ -26,4 +25,7 @@ CFD решатели примечательны тем, что являются 
 https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16931/Altair-Acquires-GPU-Accelerated-CFD-Company.aspx
 #Altair #Boltzmann #CFD #FluiDyna #FSI #GPU #LBM #nanoFluidX #NVIDIA #SPH #ultraFluidX
 
+https://wp.me/p9vWYY-1QY
+
+[Altair Acquires GPU-Accelerated CFD Company](https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16931/Altair-Acquires-GPU-Accelerated-CFD-Company.aspx)
 https://wp.me/p9vWYY-1QY

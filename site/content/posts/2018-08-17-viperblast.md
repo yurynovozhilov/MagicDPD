@@ -4,12 +4,11 @@ title: "VIPER::BLAST"
 date: 2018-08-17T18:00:23+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1075
 tags:
-  - VIPERBLAST
+  - Blast
   - CFD
   - GPU
-  - Blast
+  - VIPERBLAST
 images:
   - url: "/assets/images/1076.jpg"
 ---
@@ -23,4 +22,7 @@ VIPER::BLAST
 Сайт проекта есть, но пока он пуст: https://www.viper-blast.com
 
 #Blast #CFD #GPU #VIPERBLAST
+http://bit.ly/2PkpaIK
+
+[Home | Viper::Blast](https://www.viper-blast.com/)
 http://bit.ly/2PkpaIK

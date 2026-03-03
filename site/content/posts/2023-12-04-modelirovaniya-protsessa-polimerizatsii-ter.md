@@ -4,7 +4,6 @@ title: "Моделирования процесса полимеризации �
 date: 2023-12-04T14:01:52+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2592
 ---
 
 Моделирования процесса полимеризации термореактивных композитов
@@ -14,3 +13,5 @@ LMAT совместно с Ansys записали более чем часову
 LMAT - это разработчики того самого Ansys Composite Cure Simulation.
 
 https://youtu.be/toUX-eBP6VU
+
+[Composites processing induced distortion and thermosets curing presented by LMAT for Ansys](https://youtu.be/toUX-eBP6VU)

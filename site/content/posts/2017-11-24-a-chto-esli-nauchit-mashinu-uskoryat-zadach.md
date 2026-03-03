@@ -4,15 +4,14 @@ title: "А что если научить машину ускорять зада
 date: 2017-11-24T17:14:52+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_626
 tags:
   - topology
-  - optimization
   - ToPy
+  - python
+  - optimization
+  - GitHub
   - machinelearning
   - opensourceMediaMedia
-  - python
-  - GitHub
 ---
 
 А что если научить машину ускорять задачи топологической оптимизации? И получить при этом многократное сокращение времени решения задачи?
@@ -26,3 +25,6 @@ http://ift.tt/2hRdoWE
 http://ift.tt/2A2KoWc
 
 #topology #optimization #python #machinelearning #opensourceMediaMedia🔗 [1709.09578] Neural networks for topology optimization
+
+http://ift.tt/2x6LCL4
+https://arxiv.org/abs/1709.09578

@@ -4,11 +4,10 @@ title: "Ansys приобретает Zemax"
 date: 2021-09-09T13:01:28+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1995
 tags:
+  - zemax
   - optics
   - ansys
-  - zemax
 ---
 
 Ansys приобретает Zemax
@@ -30,4 +29,8 @@ https://www.youtube.com/watch?v=2W5yvsi9f7Q
 Основной задачей OpticsBuilder являете преобразование созданных в OpticStudio проектов, включающих данные о положении и геометрии линз и источников света, параметры материалов и источников излучения, в CAD формат. Ну а OpticsViewer позволяет просматривать получаемые проекты на производстве. Источник: https://cadfem-cis.ru/list/article/ansys-priobretaet-razrabotchika-po-dlja-opticheskogo-modelirovanija-zemax/
 
 #ansys #optics #zemax
+https://tinyurl.com/yz8hb5nw
+
+[Zemax OpticStudio - Everything you need to design optical systems!](https://www.youtube.com/watch?v=2W5yvsi9f7Q)
+https://cadfem-cis.ru/list/article/ansys-priobretaet-razrabotchika-po-dlja-opticheskogo-modelirovanija-zemax/
 https://tinyurl.com/yz8hb5nw

@@ -4,13 +4,12 @@ title: "Электромагнитный решатель LS-DYNA: модели�
 date: 2018-05-01T18:01:14+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_923
 tags:
-  - railgun
+  - LSTC
   - LS
   - EM
-  - LSTC
   - BEM
+  - railgun
 ---
 
 Электромагнитный решатель LS-DYNA: моделируем рельсотрон
@@ -21,4 +20,7 @@ tags:
 Как всегда в подобных учебных видео, LSTC публикует расчетную модель для самостоятельного изучения: https://www.dynaexamples.com/em/em_railgun
 #BEM #EM #LS-DYNA #LSTC #railgun
 
+https://wp.me/p9vWYY-1NS
+
+[Railgun](https://www.dynaexamples.com/em/em_railgun)
 https://wp.me/p9vWYY-1NS

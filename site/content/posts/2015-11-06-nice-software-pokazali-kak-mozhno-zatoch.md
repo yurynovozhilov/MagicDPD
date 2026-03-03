@@ -4,12 +4,11 @@ title: "#NICE Software показали, как можно заточить их
 date: 2015-11-06T18:00:43+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_647
 tags:
   - Amazon
-  - NICE
-  - DCV
   - EnginFrame
+  - DCV
+  - NICE
   - AWS
 ---
 

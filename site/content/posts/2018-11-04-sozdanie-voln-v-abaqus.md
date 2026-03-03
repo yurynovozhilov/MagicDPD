@@ -4,10 +4,9 @@ title: "Создание волн в Abaqus"
 date: 2018-11-04T17:00:15+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1191
 tags:
-  - ALE
   - ABAQUS
+  - ALE
 images:
   - url: "/assets/images/1192.jpg"
 ---
@@ -17,4 +16,6 @@ images:
 
 
 #ABAQUS #ALE
+http://bit.ly/2PBJ056
+
 http://bit.ly/2PBJ056

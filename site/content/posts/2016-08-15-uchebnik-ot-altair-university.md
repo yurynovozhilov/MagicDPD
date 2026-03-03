@@ -4,15 +4,14 @@ title: "Учебник от Altair University"
 date: 2016-08-15T06:30:10+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_80
 tags:
   - FEA
-  - HyperWorks
-  - HyperMesh
-  - RADIOSS
-  - FEM
-  - OptiStruct
   - Altair
+  - RADIOSS
+  - HyperMesh
+  - FEM
+  - HyperWorks
+  - OptiStruct
 ---
 
 Учебник от Altair University
@@ -43,3 +42,6 @@ http://www.altairuniversity.com/free-ebooks-2/free-ebook-practical-aspects-of-fi
 20. Post-Processing
 21. Getting Started With HyperWorks
 22. Preparing For An Interview
+
+[Free eBook: Practical Aspects of Finite Element Simulation (a Study Guide) - Altair University](https://altairuniversity.com/free-ebooks-2/free-ebook-practical-aspects-of-finite-element-simulation-a-study-guide/)
+http://www.altairuniversity.com/free-ebooks-2/free-ebook-practical-aspects-of-finite-element-simulation-a-study-guide/

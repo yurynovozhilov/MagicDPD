@@ -4,12 +4,11 @@ title: "#Shapr3D - полноценный #CAD для #iPad Pro получил �
 date: 2017-12-28T17:14:31+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_682
 tags:
   - CAD
-  - Parasolid
-  - iPad
   - Shapr3D
+  - iPad
+  - Parasolid
 ---
 
 #Shapr3D - полноценный #CAD для #iPad Pro получил новую мажерную версию. Самои важно в этой версии, это реализована поддержка работы с форматом #Parasolid.
@@ -17,3 +16,6 @@ tags:
 Приложение стоит денег, но для студентов и преподавателей оно бесплатно!
 
 https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16166/Pro-CAD-on-an-iPad-Pro.aspx 🔗 Pro CAD on an iPad Pro? ? ENGINEERING.com
+
+http://ift.tt/2C3LDXj
+https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16166/Pro-CAD-on-an-iPad-Pro.aspx

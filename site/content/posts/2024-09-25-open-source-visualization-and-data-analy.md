@@ -4,7 +4,6 @@ title: "Open Source Visualization and Data Analysis in the Browser"
 date: 2024-09-25T10:48:35+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2787
 ---
 
 Open Source Visualization and Data Analysis in the Browser
@@ -18,3 +17,5 @@ Open Source Visualization and Data Analysis in the Browser
 - Продемонстрируйте возможности vtk.js и то, как его можно настроить в соответствии с требованиями вашего проекта и стратегическими целями.
 
 https://www.youtube.com/watch?v=Wght4lIv5BE
+
+[Open Source Visualization and Data Analysis in the Browser](https://www.youtube.com/watch?v=Wght4lIv5BE)

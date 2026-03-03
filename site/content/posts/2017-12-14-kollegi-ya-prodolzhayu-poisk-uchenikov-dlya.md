@@ -4,14 +4,13 @@ title: "Коллеги, я продолжаю поиск учеников для
 date: 2017-12-14T10:02:34+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_656
 tags:
-  - LSPP
-  - Meshing
+  - ANSYS
   - МКЭ
   - LSDYNA
   - SpaceClaim
-  - ANSYS
+  - LSPP
+  - Meshing
 ---
 
 Коллеги, я продолжаю поиск учеников для того, чтобы делиться своими знаниями и решать интересные и сложные задачи.
@@ -34,3 +33,16 @@ tags:
 И да, я редко прошу, но для этого поста просто необходим максимальный репост.MediaMediaMediaMedia
 
 http://ift.tt/2j2Iv1R
+
+http://ift.tt/2jTR3cd
+http://ift.tt/2vlBJYZ
+http://ift.tt/2vk2wVv
+http://ift.tt/2vVLrF3
+http://ift.tt/2fWmbWF
+http://ift.tt/2i0hIGl
+https://t.me/GlukRazor
+http://ift.tt/2j3tKfr
+http://ift.tt/2jTj6c2
+http://ift.tt/2j0K7Jz
+http://ift.tt/2jTR6EV
+ttp://ift.tt/2j2Iv1R

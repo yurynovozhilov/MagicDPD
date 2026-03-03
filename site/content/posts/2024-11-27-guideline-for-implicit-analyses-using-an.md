@@ -4,7 +4,6 @@ title: "Guideline for Implicit Analyses Using Ansys LS-DYNA Software"
 date: 2024-11-27T11:02:04+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2844
 images:
   - url: "/assets/images/2844.jpg"
 ---
@@ -16,3 +15,6 @@ Guideline for Implicit Analyses Using Ansys LS-DYNA Software
 Теория: https://lsdyna.ansys.com/wp-content/uploads/2024/09/Ansys_LS-DYNA_implicit_guideline_2024R2.pdf
 
 Практика: https://lsdyna.ansys.com/wp-content/uploads/2024/09/Package_2024R2.zip
+
+https://lsdyna.ansys.com/wp-content/uploads/2024/09/Ansys_LS-DYNA_implicit_guideline_2024R2.pdf
+https://lsdyna.ansys.com/wp-content/uploads/2024/09/Package_2024R2.zip

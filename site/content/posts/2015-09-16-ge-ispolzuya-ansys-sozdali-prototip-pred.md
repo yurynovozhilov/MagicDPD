@@ -4,7 +4,6 @@ title: "GE используя ANSYS создали прототип предох
 date: 2015-09-16T17:00:40+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_369
 tags:
   - MAXWELL
   - ANSYS
@@ -15,3 +14,5 @@ GE используя ANSYS создали прототип предохрани
 #ANSYS #MAXWELL
 
 http://www.gereports.com/post/128854239195/breaking-new-ground-digital-twin-helps
+
+[Breaking New Ground: Digital Twin Helps Engineers Design Megawatt-Sized Circuit Breakers](http://www.gereports.com/post/128854239195/breaking-new-ground-digital-twin-helps)

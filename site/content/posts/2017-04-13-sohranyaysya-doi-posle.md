@@ -4,7 +4,6 @@ title: "Сохраняйся до/и после"
 date: 2017-04-13T17:04:07+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_328
 images:
   - url: "/assets/images/328.jpg"
 ---

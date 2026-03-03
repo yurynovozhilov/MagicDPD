@@ -4,10 +4,9 @@ title: "Вот такие ноутбуки можно получить в #CADFE
 date: 2016-03-18T17:03:15+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1443
 tags:
-  - HPC
   - CADFEM
+  - HPC
 images:
   - url: "/assets/images/1443.jpg"
 ---

@@ -4,11 +4,10 @@ title: "Семинар: SPH для задач FSI"
 date: 2021-01-15T13:24:37+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1884
 tags:
-  - spheric
   - fsi
   - sph
+  - spheric
 ---
 
 Семинар: SPH для задач FSI
@@ -22,4 +21,9 @@ tags:
 #fsi #sph #spheric
 https://tinyurl.com/y4g3zbyf
 by Юрий Новожилов
+https://tinyurl.com/y4g3zbyf
+
+[Global Seminars | Spheric](https://www.spheric-sph.org/global-seminars)
+https://spheric-sph.org/global-seminars
+https://tinyurl.com/y4g3zbyf
 https://tinyurl.com/y4g3zbyf

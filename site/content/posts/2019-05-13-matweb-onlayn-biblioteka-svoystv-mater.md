@@ -4,10 +4,9 @@ title: "MatWeb — онлайн библиотека свойств матери
 date: 2019-05-13T17:00:28+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1469
 tags:
-  - material
   - properties
+  - material
 images:
   - url: "/assets/images/1469.jpg"
 ---
@@ -29,3 +28,6 @@ http://www.matweb.com/index.aspx
 https://wp.me/p9vWYY-2vy
 
 by Ян Поженько
+
+http://www.matweb.com/index.aspx
+https://wp.me/p9vWYY-2vy

@@ -4,11 +4,12 @@ title: "У #SimScale и #Onshape теперь есть специальное о
 date: 2015-12-15T18:00:56+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_898
 tags:
+  - Onshape
   - SimScale
   - Cloud
-  - Onshape
 ---
 
 У #SimScale и #Onshape теперь есть специальное объединяющее приложение! #Cloud - объединяйся!
+
+[Introducing SimScale Connector App for Onshape - SimScale Blog](https://blog.simscale.com/blog/2015/12/introducing-simscale-connector-app-for-onshape/)

@@ -4,11 +4,10 @@ title: "Визуализация свободной поверхности SPH �
 date: 2021-04-29T15:00:00+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1951
 tags:
-  - lsdyna
   - ls
   - sph
+  - lsdyna
   - ansys
 ---
 
@@ -23,4 +22,7 @@ https://www.youtube.com/watch?v=4sQET0y_gUI&feature=share
 
 
 #ansys #ls-prepost #lsdyna #sph
+https://tinyurl.com/yhlgwks6
+
+[Smoothed-particle hydrodynamics (SPH) Mesh Generation in LSPP](https://www.youtube.com/watch?v=4sQET0y_gUI&feature=share)
 https://tinyurl.com/yhlgwks6

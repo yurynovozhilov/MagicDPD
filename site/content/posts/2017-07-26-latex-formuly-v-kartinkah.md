@@ -4,14 +4,13 @@ title: "LaTeX формулы в картинках"
 date: 2017-07-26T17:00:09+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_420
 tags:
-  - macOS
-  - LaTeX
   - opensource
   - KLatexFormula
-  - Windows
   - Linux
+  - Windows
+  - LaTeX
+  - macOS
 ---
 
 LaTeX формулы в картинках
@@ -20,3 +19,5 @@ https://klatexformula.sourceforge.io/
 KLatexFormula - маленьках, бесплатная, кроссплатформенная (#Windows и #macOS бинарники, а для #Linux - сборка из исходных текстов) программа с окрытыи исходным кодом, которая подойдет тем, кто пишет научные статьи в журналы или для интернета. #KLatexFormula занимается экспортом математических выражений #LaTeX в изображения. Изображение с формулой можно скопировать, сохранить или перетянуть в нудное вам приложение.
 
 Я конечно понимаю, что в современном Word есть пристойный редактор формул, но, по моему опыту, сложные выражения в нем красиво не запишешь - например беда с выравниванием формул по знаку равенства.
+
+[KLatexFormula — KLatexFormula](https://klatexformula.sourceforge.io/)

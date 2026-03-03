@@ -4,7 +4,6 @@ title: "Наука должна быть крутой! Очень эпичное
 date: 2017-11-19T17:15:05+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_619
 tags:
   - blast
   - Sandia
@@ -16,3 +15,10 @@ tags:
 https://www.youtube.com/watch?v=Ckh…Media📼 Sandia Blast Tube - Engineered Explosive Shockwave…
 
 http://ift.tt/2zTUXbW
+
+http://ift.tt/2j8n5zZ
+http://ift.tt/2i5tcEP
+https://www.youtube.com/watch?v=CkhCiSneJJg
+http://ift.tt/2j8n6E3
+http://ift.tt/2zTUXbW
+ttp://ift.tt/2zTUXbW

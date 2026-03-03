@@ -4,14 +4,13 @@ title: "Выбор оптимального материала на ранних
 date: 2020-06-10T12:58:22+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1772
 tags:
-  - Granta_Design
-  - properties
-  - CAE
-  - material
   - GRANTA_Selector
   - ANSYS
+  - properties
+  - Granta_Design
+  - CAE
+  - material
 images:
   - url: "/assets/images/1772.jpg"
 ---

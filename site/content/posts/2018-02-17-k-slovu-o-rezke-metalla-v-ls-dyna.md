@@ -4,16 +4,15 @@ title: "К слову о резке металла в LS-DYNA"
 date: 2018-02-17T17:00:23+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_802
 tags:
-  - Tutorial
-  - EFG
-  - Cutting
-  - AdaptiveEFG
-  - Meshless
-  - LSDYNA
   - Implicit
   - LSTC
+  - Cutting
+  - LSDYNA
+  - Meshless
+  - AdaptiveEFG
+  - Tutorial
+  - EFG
 images:
   - url: "/assets/images/803.jpg"
 ---
@@ -24,3 +23,5 @@ images:
 
 Готовая модель для самостоятельного изучения лежит в открытом доступе: http://www.dynaexamples.com/efg/metal-cutting
 Кстати, очень интересно отдельно посмотреть на работу контактного алгоритма семейства  MORTAR — специальная разработка LSTC для implicit расчетов (*CONTACT_FORMING_SURFACE_TO_SURFACE_MORTAR).
+
+http://www.dynaexamples.com/efg/metal-cutting

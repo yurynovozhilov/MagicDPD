@@ -4,7 +4,6 @@ title: "Художница Katy Ann Gilmore превращает построе�
 date: 2016-07-21T06:30:09+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_49
 tags:
   - mesh
 images:
@@ -14,4 +13,6 @@ images:
 Художница Katy Ann Gilmore превращает построение сетки в искусство или искусство в построение сетки?
 
 #mesh
+http://lnk.al/1NGG
+
 http://lnk.al/1NGG

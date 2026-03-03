@@ -4,15 +4,14 @@ title: "Lat-Net: Compressing Lattice Boltzmann Flow Simulations usin"
 date: 2017-11-21T17:10:14+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_622
 tags:
-  - opensource
   - CFD
-  - Boltzmann
-  - machinelearning
-  - LBM
   - Lattice
+  - machinelearning
   - Python
+  - Boltzmann
+  - LBM
+  - opensource
 ---
 
 Lat-Net: Compressing Lattice Boltzmann Flow Simulations using Deep Neural Networks - такое интересное название носит #opensource проект, про который я пишу сегодня.
@@ -24,3 +23,6 @@ Lat-Net: Compressing Lattice Boltzmann Flow Simulations using Deep Neural Networ
 #Python #machinelearning #LBM
 
 https://github.com/loliverhennigh/Phy-Net 🔗 loliverhennigh/Phy-Net
+
+http://ift.tt/2wPpoid
+https://github.com/loliverhennigh/Phy-Net

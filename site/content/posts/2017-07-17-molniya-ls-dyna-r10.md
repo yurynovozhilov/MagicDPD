@@ -4,24 +4,23 @@ title: "Молния: LS-DYNA R10"
 date: 2017-07-17T15:43:58+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_410
 tags:
-  - DMP
-  - Intel
-  - MPP
-  - Microsoft
-  - macOS
   - Apple
-  - SGI
-  - Itanium
-  - SMP
-  - Power
-  - IBM
-  - LSDYNA
+  - Intel
   - Cray
   - LSTC
-  - Windows
+  - DMP
+  - macOS
+  - SGI
+  - MPP
+  - LSDYNA
   - Linux
+  - Microsoft
+  - IBM
+  - Windows
+  - Power
+  - SMP
+  - Itanium
 ---
 
 Молния: LS-DYNA R10
@@ -41,3 +40,6 @@ http://ftp.lstc.com/user/ls-dyna/R10.0.0/
 http://ftp.lstc.com/user/mpp-dyna/R10.0/
 
 P.S. Ждем релизнотов и документацию!
+
+http://ftp.lstc.com/user/ls-dyna/R10.0.0/
+http://ftp.lstc.com/user/mpp-dyna/R10.0/

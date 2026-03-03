@@ -4,7 +4,6 @@ title: "Siemens купил Dotmatics"
 date: 2025-04-03T11:05:37+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2918
 ---
 
 Siemens купил Dotmatics
@@ -24,3 +23,5 @@ Dotmatics - мировой лидер в области научного про�
 CAE гиганты начинают битву за медицинские расчеты?
 
 https://www.linkedin.com/posts/siemens_ai-siemensxcelerator-lifesciences-activity-7313273454068142081-IevI
+
+[🚀 We are expanding our AI-powered software capabilities in the Life Sciences sector with the acquisition of Dotmatics a leading provider of Life Sciences R&D software based in Boston. | Siemens](https://www.linkedin.com/posts/siemens_ai-siemensxcelerator-lifesciences-activity-7313273454068142081-IevI)

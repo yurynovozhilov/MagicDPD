@@ -4,11 +4,10 @@ title: "Моделирование 3D печати зданий"
 date: 2019-03-03T17:00:44+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1373
 tags:
-  - Cervenka_Consulting
-  - digiCON²
   - ATENA
+  - digiCON²
+  - Cervenka_Consulting
 images:
   - url: "/assets/images/1373.jpg"
 ---
@@ -34,3 +33,7 @@ https://www.cervenka.cz/projects/rd-projects/digicon2
 https://wp.me/p9vWYY-2n9
 
 by Юрий Новожилов
+
+https://www.youtube.com/watch?v=OJevH4o_GhE
+https://www.cervenka.cz/projects/rd-projects/digicon2
+https://wp.me/p9vWYY-2n9

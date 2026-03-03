@@ -4,7 +4,6 @@ title: "FVmat и мета материалы с ИИ в Ansys"
 date: 2024-06-19T11:00:51+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2727
 ---
 
 FVmat и мета материалы с ИИ в Ansys
@@ -14,3 +13,5 @@ FVmat и мета материалы с ИИ в Ansys
 А есть что с "ИИ" моделями материалов у других CAE вендоров?
 
 https://fvmat.com/heatbeta/
+
+[Heat Transfer Meta-Material Design - FVMat plugin for Ansys](https://fvmat.com/heatbeta/)

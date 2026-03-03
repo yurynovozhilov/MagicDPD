@@ -4,18 +4,17 @@ title: "Bolt 2.0 для создания сетки"
 date: 2017-08-06T17:00:56+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_429
 tags:
-  - Nastran
-  - explicit
-  - Abaqus
-  - OpenFOAM
   - PolyCube
-  - Bolt
+  - ANSYS
+  - Abaqus
   - Patran
   - LSDYNA
+  - Bolt
+  - explicit
   - csimsoft
-  - ANSYS
+  - Nastran
+  - OpenFOAM
 ---
 
 Bolt 2.0 для создания сетки
@@ -37,3 +36,5 @@ https://youtu.be/Dqt0rtjffIc
 Пожалуй надо брать триал на 15 дней и пробовать.
 
 https://youtu.be/Dqt0rtjffIc
+
+[Introduction to Meshing with Bolt](https://youtu.be/Dqt0rtjffIc)

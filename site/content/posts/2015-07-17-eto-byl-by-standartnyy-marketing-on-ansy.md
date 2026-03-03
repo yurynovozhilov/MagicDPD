@@ -4,7 +4,6 @@ title: "Это был бы стандартный маркетинг on ANSYS н
 date: 2015-07-17T07:00:47+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_74
 ---
 
 Это был бы стандартный маркетинг on ANSYS на тему междисциплинарности, но есть один забавный момент в ролике.
@@ -13,3 +12,5 @@ original_url: https://vk.com/wall-97265142_74
 
 Во-первых, для селфи надо было стать спиной к виду.
 Во-вторых, как они тольк умудрились снять ролик в Питере?!
+
+[Designing a Robust Electronics Product: The Smartphone](http://www.ansys-blog.com/designing-a-robust-electronics-product-the-smartphone/?utm_source=linkedin&utm_medium=social&utm_campaign=hightech)

@@ -4,11 +4,10 @@ title: "У #Altair вышел новый препост #SimLabs 14.0. Утве�
 date: 2015-12-01T06:01:39+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_820
 tags:
+  - Altair
   - Meshing
   - ANSYS
-  - Altair
   - SimLabs
 ---
 
@@ -17,3 +16,5 @@ tags:
 Если же посмотреть демонстрационное видео, то можно увидеть, что пользователю надо размечать мелкие детали геометрии  в сеткопостроителе вручную.
 
 На мой взгляд, пользователи #ANSYS #Meshing не удивились.
+
+[ Altair Shows Off SimLab 14.0’s New Meshing Tools and GUI > ENGINEERING.com ](http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/10930/Altair-Shows-Off-SimLab-140s-New-Meshing-tools-and-GUI.aspx)

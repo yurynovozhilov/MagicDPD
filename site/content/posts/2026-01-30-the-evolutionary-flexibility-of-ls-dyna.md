@@ -4,7 +4,6 @@ title: "The evolutionary flexibility of LS-DYNA"
 date: 2026-01-30T15:38:06+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3096
 ---
 
 The evolutionary flexibility of LS-DYNA
@@ -18,4 +17,7 @@ The evolutionary flexibility of LS-DYNA
 - Др Лукас получил степени бакалавра, магистра и доктора наук в области электротехники в Стэнфордском университете в 1980, 1983 и 1988 годах соответственно.
 
 Таким крутым мужика мне надо делать свой профайл в LinkedIn красивым: https://www.linkedin.com/in/robert-lucas-6225771/
+https://www.youtube.com/watch?v=dZS9MB8W8AM
+
+https://www.linkedin.com/in/robert-lucas-6225771/
 https://www.youtube.com/watch?v=dZS9MB8W8AM

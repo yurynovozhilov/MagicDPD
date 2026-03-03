@@ -4,10 +4,9 @@ title: "Видео инструкции по установке ANSYS 19"
 date: 2018-01-26T17:01:45+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_748
 tags:
-  - ANSYS
   - tutorial
+  - ANSYS
 images:
   - url: "/assets/images/749.jpg"
 ---
@@ -39,4 +38,13 @@ https://www.youtube.com/watch?v=G_McghjR7m8
 
 https://www.youtube.com/watch?v=lSf6FEqZsws
 #ANSYS #tutorial
+https://magicdpd.ru/?p=6000
+
+https://www.youtube.com/watch?v=9INjrDTL3cw
+https://www.youtube.com/watch?v=ixTE6fT4sn4
+https://www.youtube.com/watch?v=x75wR-9aBTo
+https://www.youtube.com/watch?v=9YcOzOWm03c
+https://www.youtube.com/watch?v=1hSDpxfENhU
+https://www.youtube.com/watch?v=G_McghjR7m8
+https://www.youtube.com/watch?v=lSf6FEqZsws
 https://magicdpd.ru/?p=6000

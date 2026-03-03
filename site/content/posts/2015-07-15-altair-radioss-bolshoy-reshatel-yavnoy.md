@@ -4,7 +4,6 @@ title: "Altair RADIOSS - большой решатель явной динами
 date: 2015-07-15T15:00:34+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_63
 ---
 
 Altair RADIOSS - большой решатель явной динамики. Перечисляя таких монстров как LS-DYNA, AUTODYN, Abaqus про него часто забывают, а между тем, у него есть одна забавная особенность.

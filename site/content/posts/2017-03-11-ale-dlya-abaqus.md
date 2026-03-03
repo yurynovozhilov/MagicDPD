@@ -4,15 +4,14 @@ title: "ALE для Abaqus"
 date: 2017-03-11T12:03:56+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_296
 tags:
-  - LSPP
   - Abaqus
-  - ALE
+  - ANSYS
   - Sloshing
   - FSI
   - CEL
-  - ANSYS
+  - ALE
+  - LSPP
 ---
 
 ALE для Abaqus
@@ -23,3 +22,5 @@ https://www.youtube.com/watch?v=J9f_fmgMHfY
 P.S. #ALE (Arbitrary Lagrange Euler) для Abaqus называется #CEL (Coupled Eulerian Lagrangian) (CEL)
 #Sloshing
 https://www.youtube.com/watch?v=J9f_fmgMHfY
+
+[Abaqus Coupled Eulerian Lagrangian (CEL) Modelling Tutorial: Example- Water Sloshing in Tank](https://www.youtube.com/watch?v=J9f_fmgMHfY)

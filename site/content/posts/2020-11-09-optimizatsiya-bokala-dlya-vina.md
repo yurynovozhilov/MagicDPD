@@ -4,12 +4,11 @@ title: "Оптимизация бокала для вина"
 date: 2020-11-09T16:14:59+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1854
 tags:
+  - Prometech
   - MPM
   - CFD
   - Particleworks
-  - Prometech
 images:
   - url: "/assets/images/1854.jpg"
 ---

@@ -4,7 +4,6 @@ title: "Что нового в ABAQUS 2019"
 date: 2019-02-09T17:00:29+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1348
 images:
   - url: "/assets/images/1348.jpg"
 ---
@@ -24,4 +23,7 @@ https://youtu.be/AAl9Q6p2QXw
 
 
 
+https://wp.me/p9vWYY-2jJ
+
+https://youtu.be/AAl9Q6p2QXw
 https://wp.me/p9vWYY-2jJ

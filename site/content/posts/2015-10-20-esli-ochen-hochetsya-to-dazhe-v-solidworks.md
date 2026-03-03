@@ -4,10 +4,11 @@ title: "Если очень хочется, то даже в SolidWorks можн
 date: 2015-10-20T06:00:52+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_540
 tags:
-  - SolidWorks
   - EM
+  - SolidWorks
 ---
 
 Если очень хочется, то даже в SolidWorks можно EM расчеты делать.
+
+[isicad: Моделирование электромагнитных явлений в среде SolidWorks](http://isicad.ru/ru/articles.php?article_num=18103)

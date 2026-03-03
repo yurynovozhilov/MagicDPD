@@ -4,14 +4,13 @@ title: "LayOpt - это вам не bridge builder"
 date: 2021-02-11T13:01:21+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1903
 tags:
   - topology
-  - limitstateform
   - optimization
+  - limitstateform
   - limitstate
-  - layopt
   - simulationfriday
+  - layopt
 ---
 
 LayOpt - это вам не bridge builder
@@ -37,4 +36,8 @@ LayOpt является интерактивным веб-приложением
 Сайт интерактивного приложения: https://www.layopt.com/truss/
 
 #layopt #limitstate #limitstateform #optimization #simulationfriday #topology
+https://tinyurl.com/y2j4j2mx
+
+[LayOpt - Interactive Truss Optimization App](https://www.youtube.com/watch?v=8OuU5K4iwSM)
+https://www.layopt.com/truss/
 https://tinyurl.com/y2j4j2mx

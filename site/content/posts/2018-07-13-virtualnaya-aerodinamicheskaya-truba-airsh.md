@@ -4,11 +4,10 @@ title: "Виртуальная аэродинамическая труба AirSh
 date: 2018-07-13T18:00:22+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1011
 tags:
   - AirShaper
-  - Cloud
   - CFD
+  - Cloud
 images:
   - url: "/assets/images/1012.jpg"
 ---
@@ -24,4 +23,8 @@ images:
 https://www.develop3d.com/blog/2018/06/airshaper-launches-pay-per-simulation-virtual-wind-tunnel-cfd
 
 #AirShaper #CFD #Cloud
+http://bit.ly/2Ndn4Z1
+
+https://airshaper.com/reports/aquilo.pdf
+https://www.develop3d.com/blog/2018/06/airshaper-launches-pay-per-simulation-virtual-wind-tunnel-cfd
 http://bit.ly/2Ndn4Z1

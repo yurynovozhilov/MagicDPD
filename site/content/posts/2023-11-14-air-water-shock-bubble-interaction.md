@@ -4,7 +4,6 @@ title: "Air-water shock bubble interaction"
 date: 2023-11-14T16:00:40+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2578
 ---
 
 Air-water shock bubble interaction
@@ -23,3 +22,8 @@ blastFoam показали решение классической задачи 
 [2] Shyue, K.-M., 1999. A Fluid-Mixture Type Algorithm for Compressible Multicomponent Flow with van der Waals Equation of State. Journal of Computational Physics 156, 43–88. https://doi.org/10.1006/jcph.1999.6349
 
 https://www.youtube.com/watch?v=aZOAHYUs2HM
+
+[blastFoam | Air-water shock bubble interaction](https://www.youtube.com/watch?v=aZOAHYUs2HM)
+https://github.com/synthetik-technologies/blastfoam/tree/master/validation/blastFoam/airWaterShockBubble
+https://doi.org/10.1016/j.jcp.2008.03
+https://doi.org/10.1006/jcph.1999.6349

@@ -4,7 +4,6 @@ title: "Вышла лопасть погулять"
 date: 2019-05-22T10:32:21+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1482
 tags:
   - LS_DYNA
 images:
@@ -21,3 +20,6 @@ images:
 https://wp.me/p9vWYY-2w8
 
 by Юрий Новожилов
+
+https://awg.lstc.com/tiki-index.php?page=QA+Test+Example+2.1
+https://wp.me/p9vWYY-2w8

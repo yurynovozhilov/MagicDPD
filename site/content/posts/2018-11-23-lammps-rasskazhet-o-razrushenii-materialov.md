@@ -4,14 +4,13 @@ title: "LAMMPS расскажет о разрушении материалов"
 date: 2018-11-23T17:01:00+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1229
 tags:
-  - Livermor
   - MDS
   - HPC
-  - Open
-  - LAMMPS
+  - Livermor
   - Sandia
+  - LAMMPS
+  - Open
 images:
   - url: "/assets/images/1230.jpg"
 ---
@@ -25,4 +24,6 @@ LAMMPS расскажет о разрушении материалов
 
 
 #HPC #LAMMPS #Livermor #MDS #Open #Sandia
+http://bit.ly/2TEbMBl
+
 http://bit.ly/2TEbMBl

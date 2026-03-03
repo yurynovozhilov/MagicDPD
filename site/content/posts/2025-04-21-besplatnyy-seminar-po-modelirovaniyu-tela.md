@@ -4,7 +4,6 @@ title: "Бесплатный семинар по моделированию те
 date: 2025-04-21T11:04:57+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2932
 images:
   - url: "/assets/images/2932.jpg"
 ---
@@ -20,3 +19,5 @@ images:
 📌 Академический вклад в разработку моделей GHBMC
 
 https://www.elemance.com/resources/workshop-registration/
+
+s://www.elemance.com/resources/workshop-registration/

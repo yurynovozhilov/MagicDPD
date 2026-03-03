@@ -4,12 +4,11 @@ title: "Что бы вы сказали, если бы я предложил в�
 date: 2015-12-11T14:56:22+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_880
 tags:
-  - HPC
-  - FEM
   - CFD
+  - HPC
   - Cloud
+  - FEM
   - Simscale
 images:
   - url: "/assets/images/880.jpg"
@@ -18,3 +17,5 @@ images:
 Что бы вы сказали, если бы я предложил вам хороший #FEM или #CFD софт бесплатно? А если бы я дал вам к нему в придачу наглядные учебные примеры? И большой-при-большой правильно настроенный и удобный #HPC кластер с системой удаленной визуализации? Наверно, вы бы не отказались.
 Компания #Simscale сделал очень сильный ход. Теперь вы можете бесплатно воспользоваться их сервисом инженерных расчетов в облаке. Вам становится доступно 500 Гб дискового пространства и квота на 3000 процессорных часов в год. Вы имеет право на техническую поддержку (даже по телефону!). Единственное ограничение - все ваши проекты должны быть опубликованы на портале компании.
 А вот за приватный репозиторий для проектов придется заплатить.
+
+[ SimScale Brings the Price of Computer-Aided Engineering Down to Zero > ENGINEERING.com ](http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/11121/SimScale-Brings-the-Price-of-Computer-Aided-Engineering-Down-to-Zero.aspx)

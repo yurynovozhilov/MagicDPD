@@ -4,10 +4,11 @@ title: "Ребята из команды CFD Engine, которая специа
 date: 2015-10-31T18:00:54+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_611
 tags:
-  - CFD
   - cloud
+  - CFD
 ---
 
 Ребята из команды CFD Engine, которая специализируется на расчетах в соответствующей области, рассуждают на тему создания Uber-подобных сервисов для выполнения расчетов. Скажем так - я уже слышал такую идею. Есть много очень интересных проблем на пути ее реализации.
+
+[Uber for CFD? | CFD Engine](https://www.cfdengine.com/blog/uber-for-cfd/)

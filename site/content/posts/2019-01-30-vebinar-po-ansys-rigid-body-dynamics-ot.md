@@ -4,7 +4,6 @@ title: "Вебинар по ANSYS Rigid Body Dynamics от Mallett Technology"
 date: 2019-01-30T17:00:30+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1327
 tags:
   - Mallett_Technology
   - Rigid_Body_Dynamics
@@ -24,4 +23,7 @@ https://www.youtube.com/watch?v=cGv8m60zN4c
 
 #ANSYS #Mallett_Technology #Rigid_Body_Dynamics
 
+https://wp.me/p9vWYY-2iC
+
+https://www.youtube.com/watch?v=cGv8m60zN4c
 https://wp.me/p9vWYY-2iC

@@ -4,7 +4,6 @@ title: "Real-Time Ray Tracing в новых видеокартах NVIDIA"
 date: 2019-02-24T17:00:19+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1365
 images:
   - url: "/assets/images/1365.jpg"
 ---
@@ -29,3 +28,6 @@ https://youtu.be/nshbUzdBlq8
 
 
 А если хочется попробовать GeForce для ускорения расчетов, то можно провести эксперимент с установкой переменной окружения ANSGPU_OVERRIDE=1 — и тут опять круче 1080 вам ничего не нужно. Это решение официально не поддерживается, но на
+
+https://youtu.be/Ms7d-3Dprio
+https://youtu.be/nshbUzdBlq8

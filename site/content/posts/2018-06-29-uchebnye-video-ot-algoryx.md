@@ -4,13 +4,12 @@ title: "Учебные видео от Algoryx"
 date: 2018-06-29T18:01:08+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_983
 tags:
-  - Python
   - RBD
+  - Python
   - Algoryx
-  - SpaceClaim
   - Momentum
+  - SpaceClaim
 images:
   - url: "/assets/images/984.jpg"
 ---
@@ -35,4 +34,6 @@ images:
 Всего должно быть 7 учебных видео. Если вы не видите их все, то надо перейти по ссылке в блог. И да, в коментариях на YouTubе есть ссылки на скачивание всех используемых моделей.
 
 #Algoryx #Momentum #Python #RBD #SpaceClaim
+http://bit.ly/2tRnSdY
+
 http://bit.ly/2tRnSdY

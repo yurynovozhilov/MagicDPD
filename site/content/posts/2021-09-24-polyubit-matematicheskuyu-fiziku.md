@@ -4,11 +4,10 @@ title: "Полюбить математическую физику"
 date: 2021-09-24T13:01:35+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2006
 tags:
-  - mit
-  - true_science
   - matlab
+  - true_science
+  - mit
 ---
 
 Полюбить математическую физику
@@ -46,4 +45,10 @@ https://youtu.be/ghjOS7Q82s0?list=PLMsYJgjgZE8iBpOBZEsS8PuwNBkwMcjix
 Для выполнения упражнений вам может потребоваться MatLab или его открытые клоны.
 
 #matlab #mit #true_science
+https://tinyurl.com/yh7wzmoq
+
+[Overview of Differential Equations](https://youtu.be/ghjOS7Q82s0?list=PLMsYJgjgZE8iBpOBZEsS8PuwNBkwMcjix)
+https://en.wikipedia.org/wiki/Gilbert_Strang
+https://www.youtube.com/watch?v=ghjOS7Q82s0&list=PLMsYJgjgZE8iBpOBZEsS8PuwNBkwMcjix
+https://ocw.mit.edu/resources/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/index.htm
 https://tinyurl.com/yh7wzmoq

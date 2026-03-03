@@ -4,13 +4,12 @@ title: "Лекция по IGA от Томаса Хьюза"
 date: 2021-09-22T13:01:58+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2004
 tags:
-  - coreform
-  - true_science
-  - ls
   - iga
   - legendpeople
+  - true_science
+  - coreform
+  - ls
   - ansys
 ---
 
@@ -39,4 +38,8 @@ https://youtu.be/vbKWBsX34hw
 P.S. В LS-DYNA уже есть IGA лет 5 как, для явного и неявного решателя - можно пробовать.
 
 #ansys #coreform #iga #legendpeople #ls-dyna #true_science
+https://tinyurl.com/ygy7m98j
+
+[Thomas J.R. Hughes, ASME Medal, 2018](https://www.youtube.com/watch?v=kG_hfu-AXXA)
+https://youtu.be/vbKWBsX34hw
 https://tinyurl.com/ygy7m98j

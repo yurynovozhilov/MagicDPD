@@ -4,22 +4,21 @@ title: "Сегодня в Питере провели небольшой сем�
 date: 2016-06-02T13:58:36+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1725
 tags:
-  - Explicit
   - RBD
-  - AIM
-  - Fluent
-  - DesignXplorer
-  - HPC
-  - CADFEM
-  - CFX
-  - ACP
-  - Haze
-  - Mechanical
-  - SpaceClaim
   - ANSYS
+  - HPC
+  - Haze
   - ACCS
+  - Mechanical
+  - CADFEM
+  - AIM
+  - ACP
+  - DesignXplorer
+  - CFX
+  - SpaceClaim
+  - Fluent
+  - Explicit
 images:
   - url: "/assets/images/1725.jpg"
   - url: "/assets/images/1725.jpg"

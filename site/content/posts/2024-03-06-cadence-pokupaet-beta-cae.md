@@ -4,7 +4,6 @@ title: "Cadence покупает BETA CAE"
 date: 2024-03-06T08:20:59+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2662
 ---
 
 Cadence покупает BETA CAE
@@ -22,3 +21,5 @@ BETA CAE разрабатывает много разного ПО, но без�
 Есть ли в читателях живые люди, трогавшие EPILYSIS? Есть ли на нем жизнь?
 
 https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2024/cadence-to-acquire-beta-cae-expanding-into-structural-analysis.html
+
+[Cadence to Acquire BETA CAE, Expanding into Structural Analysis](https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2024/cadence-to-acquire-beta-cae-expanding-into-structural-analysis.html)

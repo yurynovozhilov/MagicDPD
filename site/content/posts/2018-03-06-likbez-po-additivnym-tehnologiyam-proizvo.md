@@ -4,7 +4,6 @@ title: "ЛикБез по аддитивным технологиям произ
 date: 2018-03-06T18:01:09+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_834
 tags:
   - Additive_Manufacturing
 images:
@@ -25,4 +24,6 @@ images:
 
 Материал очень полезна хотя бы тем, что на его страницах подробно описано большинсвто современных технологий печати из металла и приведены примерные переводы терминов на русский язык. Текст читается очень легко, так как написан очень приятным языком, принятым у популяризаторов науки.
 Наслаждаемся 57 страницами зананий.
+http://nami.ru/uploads/docs/centr_technology_docs/55a62fc89524bAT_metall.pdf
+
 http://nami.ru/uploads/docs/centr_technology_docs/55a62fc89524bAT_metall.pdf

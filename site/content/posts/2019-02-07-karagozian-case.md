@@ -4,7 +4,6 @@ title: "Karagozian & Case"
 date: 2019-02-07T17:01:48+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1336
 tags:
   - KCC
 images:
@@ -22,4 +21,7 @@ https://www.youtube.com/watch?v=5m9DLrpzlLk&feature=youtu.be
 
 #KCC
 
+https://wp.me/p9vWYY-2jG
+
+https://www.youtube.com/watch?v=5m9DLrpzlLk&feature=youtu.be
 https://wp.me/p9vWYY-2jG

@@ -4,17 +4,16 @@ title: "Материалы 15-ой конференции LS-DYNA"
 date: 2018-06-26T18:02:23+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_977
 tags:
-  - ICFD
-  - SPH
-  - SALE
-  - MLS
-  - FSI
-  - Concrete
-  - LSDYNA
-  - LSTC
   - IGA
+  - Concrete
+  - LSTC
+  - SALE
+  - LSDYNA
+  - ICFD
+  - FSI
+  - MLS
+  - SPH
   - SPG
 images:
   - url: "/assets/images/978.jpg"
@@ -36,4 +35,9 @@ S-ALE домен научился двигаться за центром тяж�
 P.S. URL для материалов какой-то очень кривой на вид, но он рабочий. На крайний случай, всегда можно увидеть все матералы на сайте dynalook.com
 
 #Concrete #FSI #ICFD #IGA #LSDYNA #LSTC #MLS #SALE #SPG #SPH
+http://bit.ly/2MkPZtG
+
+https://www.dynamore.de/en/downloads/flyer/2018/int.-ls-dyna-conference-2018-agenda
+https://www.dynalook.com/copy_of_11th-european-ls-dyna-conference
+dynalook.com
 http://bit.ly/2MkPZtG

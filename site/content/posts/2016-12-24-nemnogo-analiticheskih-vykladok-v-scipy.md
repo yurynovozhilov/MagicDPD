@@ -4,19 +4,18 @@ title: "Немного аналитических выкладок в SciPy"
 date: 2016-12-24T17:01:27+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_228
 tags:
-  - Matlab
-  - GitHub
-  - SciPy
-  - SymPy
-  - Maple
   - NumPy
-  - CPython
-  - Mayavi
+  - SciPy
+  - GitHub
   - Python
-  - Matplotlib
+  - Mayavi
   - Mathematica
+  - Matlab
+  - CPython
+  - Matplotlib
+  - Maple
+  - SymPy
 ---
 
 Немного аналитических выкладок в SciPy
@@ -35,3 +34,7 @@ http://www.scipy-lectures.org/
 - и многое другое.
 
 P.S. Весь сайт можно скачать в виде PDF, есть учебные пример, есть репозиторий на #GitHub
+
+https://scipy-lectures.org/
+http://www.scipy-lectures.org/
+http://www.scipy-lectures.org

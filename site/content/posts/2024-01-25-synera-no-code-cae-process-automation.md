@@ -4,7 +4,6 @@ title: "Synera - no code CAE process automation"
 date: 2024-01-25T16:00:36+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2632
 ---
 
 Synera - no code CAE process automation
@@ -20,3 +19,5 @@ Synera - no code CAE process automation
 А что вы скажете?
 
 https://youtu.be/hs-DbRjVBXs?si=3cC-X8dV44JXM6AS
+
+[Synera Deep Dive: #FEM Workflows in Minutes! ⚙️](https://youtu.be/hs-DbRjVBXs?si=3cC-X8dV44JXM6AS)

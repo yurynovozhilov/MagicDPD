@@ -4,7 +4,6 @@ title: "Моделирование резки металла — стажиро�
 date: 2019-02-08T15:00:59+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1347
 images:
   - url: "/assets/images/1347.jpg"
 ---
@@ -32,3 +31,7 @@ https://youtu.be/AGYxE3FfRAE
 
 
 А вот это уже видеопример от LSTC. Рассматривается работа адаптивного алгоритма Element-Free Galerkin (EFG): несмотря на то, что метод
+
+https://magicdpd.ru/tag/spg/
+https://youtu.be/13lmxtjfD3A
+https://youtu.be/AGYxE3FfRAE

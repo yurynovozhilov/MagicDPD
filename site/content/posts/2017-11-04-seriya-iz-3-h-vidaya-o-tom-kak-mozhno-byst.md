@@ -4,10 +4,9 @@ title: "Серия из 3-х видая о том, как можно быстр�
 date: 2017-11-04T17:01:37+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_586
 tags:
-  - ANSYS
   - Meshing
+  - ANSYS
 ---
 
 Серия из 3-х видая о том, как можно быстро и экономно построить большую сетку для повторяющейся геометрии в #ANSYS #Meshing. Используются сеточные сборки, и механизм склейки узлов.
@@ -17,3 +16,12 @@ https://www.youtube.com/watch?v=sbW…
 https://www.youtube.com/watch?v=vNv…Media📼 ANSYS Meshing: Meshing Repetitive Geometries - Par…
 
 http://ift.tt/2A7YaUl
+
+http://ift.tt/2vk2wVv
+http://ift.tt/2fWmbWF
+https://www.youtube.com/watch?v=itbYd0LLDyk
+https://www.youtube.com/watch?v=sbWDgbHjrxs
+https://www.youtube.com/watch?v=vNvECGS38kg
+http://ift.tt/2hDSUkq
+http://ift.tt/2A7YaUl
+ttp://ift.tt/2A7YaUl

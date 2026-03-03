@@ -4,7 +4,6 @@ title: "Когда уже наконец Синопсис скушает Анс�
 date: 2025-06-05T12:33:12+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2958
 ---
 
 Когда уже наконец Синопсис скушает Ансис?
@@ -25,3 +24,5 @@ Synopsys приостановила все продажи продуктов и 
 А для нас тут важно знать то, что для завершения сделки между Ансис и Синопсис нужно одобрение китайской антимонопольной комиссии. И вы наверно уже догадываетесь, насколько сейчас эта комиссия не будет бить пальцем о палец.
 
 https://www.linkedin.com/posts/robertquinn2020_semiconductors-eda-synopsys-activity-7334584190811688961-ogPX
+
+[#semiconductors #eda #synopsys #exportcontrols #china #uschinatech #chipdesign #geopolitics #cadence #siemenseda | Robert Quinn | 18 comments](https://www.linkedin.com/posts/robertquinn2020_semiconductors-eda-synopsys-activity-7334584190811688961-ogPX)

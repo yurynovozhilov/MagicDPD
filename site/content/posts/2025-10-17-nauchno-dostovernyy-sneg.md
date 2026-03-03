@@ -4,7 +4,6 @@ title: "Научно-достоверный снег"
 date: 2025-10-17T11:04:03+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3040
 ---
 
 Научно-достоверный снег
@@ -26,3 +25,6 @@ original_url: https://vk.com/wall-97265142_3040
 Ключевые публикации:
 - Stomakhin, A., Schroeder, C., Chai, L., Teran, J., & Selle, A. (2013) "A Material Point Method for Snow Simulation" ACM SIGGRAPH 2013 https://dl.acm.org/doi/10.1145/2461912.2461948
 - Gissler, C., Henne, A., Band, S., Peer, A., & Teschner, M. (2020) "An Implicit Compressible SPH Solver for Snow Simulation" ACM SIGGRAPH 2020 https://dl.acm.org/doi/abs/10.1145/3386569.3392431
+
+[A material point method for snow simulation | ACM Transactions on Graphics](https://dl.acm.org/doi/10.1145/2461912.2461948)
+https://dl.acm.org/doi/abs/10.1145/3386569.3392431

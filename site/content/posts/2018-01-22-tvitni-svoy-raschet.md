@@ -4,7 +4,6 @@ title: "Твитни свой расчет"
 date: 2018-01-22T17:00:39+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_741
 tags:
   - FEATool
 images:
@@ -20,4 +19,7 @@ images:
 
 Все, кто сейчас задумались о коммерческой или государственной тайне их проектов, прошу расслабиться: FEATool позиционирует себя как инструмент для учащихся и аспирантов, а не как расчетный комплекс для суровых инженеров на закрытых КБ.
 #FEATool
+https://magicdpd.ru/?p=5987
+
+https://www.featool.com/featool-usersguide.pdf
 https://magicdpd.ru/?p=5987

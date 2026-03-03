@@ -4,13 +4,12 @@ title: "Тренды поисковых запросов по FEM"
 date: 2019-02-10T16:17:43+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1349
 tags:
   - LS_DYNA
-  - ABAQUS
-  - NASTRAN
   - ANSYS
   - SAMCEF
+  - NASTRAN
+  - ABAQUS
 ---
 
 Тренды поисковых запросов по FEM
@@ -21,4 +20,8 @@ twitter.com/gdtech_be/status/1029620024124862464
 
 #ABAQUS #ANSYS #LS_DYNA #NASTRAN #SAMCEF
 
+https://wp.me/p9vWYY-2kQ
+
+[GDTech Belgium](https://twitter.com/gdtech_be/status/1029620024124862464)
+twitter.com/gdtech_be/status/1029620024124862464
 https://wp.me/p9vWYY-2kQ

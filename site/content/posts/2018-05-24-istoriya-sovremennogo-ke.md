@@ -4,19 +4,18 @@ title: "История современного КЭ"
 date: 2018-05-24T18:00:48+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_939
 tags:
-  - AutoCAD
   - NEI
-  - Marc
-  - DYNA3D
   - MSC
-  - NASTRAN
+  - ANSYS
   - Altair
   - LS
-  - MultiMechanics
-  - ANSYS
   - HyperMesh
+  - DYNA3D
+  - MultiMechanics
+  - NASTRAN
+  - AutoCAD
+  - Marc
 ---
 
 История современного КЭ
@@ -34,4 +33,8 @@ http://blog.multimechanics.com/a-brief-history-of-finite-element-analysis-part-i
 http://blog.multimechanics.com/a-brief-history-of-finite-element-analysis-part-ii
 #Altair #ANSYS #AutoCAD #DYNA3D #HyperMesh #LS-DYNA #Marc #MSC #MultiMechanics #NASTRAN #NEI
 
+https://wp.me/p9vWYY-1Ru
+
+[A Brief History of Finite Element Analysis - Part I](http://blog.multimechanics.com/a-brief-history-of-finite-element-analysis-part-i)
+http://blog.multimechanics.com/a-brief-history-of-finite-element-analysis-part-ii
 https://wp.me/p9vWYY-1Ru

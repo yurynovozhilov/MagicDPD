@@ -4,16 +4,15 @@ title: "Ускорение #ANSYS #Fluent при помощи #GPGU #NVIDIA во
 date: 2017-11-27T17:08:07+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_629
 tags:
-  - NVIDIA
-  - Tesla
-  - Fluent
-  - HPC
   - GPGU
   - CFD
   - Infiniband
   - ANSYS
+  - HPC
+  - Tesla
+  - NVIDIA
+  - Fluent
 ---
 
 Ускорение #ANSYS #Fluent при помощи #GPGU #NVIDIA возможно, и даже очень полезно!
@@ -25,3 +24,6 @@ tags:
 http://ift.tt/2ACZNhd
 
 Хотите собрать сбалансированный вычислительный сервер под расчеты в ANSYS - читайте документацию 😊MediaMedia💾 ANSYS18.2_tech.pdf🔗 Ansys Fluent GPU Acceleration | NVIDIA
+
+http://ift.tt/2vk2wVv
+https://www.nvidia.com/en-us/data-center/gpu-accelerated-applications/ansys-fluent/

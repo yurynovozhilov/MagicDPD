@@ -4,13 +4,12 @@ title: "Топологической оптимизации методом BESO"
 date: 2021-06-01T13:02:10+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1961
 tags:
-  - apdl
   - topology
-  - beso
   - optimization
+  - apdl
   - ansys
+  - beso
   - ameba
 ---
 
@@ -41,3 +40,8 @@ https://www.youtube.com/watch?v=0_VBPhoLRwI
 #ameba #ansys #apdl #beso #optimization #topology
 https://tinyurl.com/y489ufus
 by Юрий Новожилов
+
+['Spatial Structures; Movers and Shakers' - with Yi Min “Mike” Xie](https://www.youtube.com/watch?v=RKTQRV6tF2s)
+https://www.youtube.com/watch?v=0_VBPhoLRwI
+https://cyberleninka.ru/article/n/realizatsiya-topologicheskoy-optimizatsii-metodom-beso-v-srede-ansys-apdl-i-ee-primenenie-dlya-optimizatsii-formy-shatuna-teplovoznogo
+https://tinyurl.com/y489ufus

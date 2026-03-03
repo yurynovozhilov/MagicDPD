@@ -4,11 +4,10 @@ title: "SSD как RAM"
 date: 2019-03-25T08:35:00+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1412
 tags:
-  - Western_Digital
   - ScaleMP
   - NVMe
+  - Western_Digital
   - SSD
 images:
   - url: "/assets/images/1412.jpg"
@@ -33,4 +32,8 @@ WD клянется, что их решение тормозит всего на
 
 #NVMe #ScaleMP #SSD #Western_Digital
 
+https://wp.me/p9vWYY-2r9
+
+https://www.servethehome.com/western-digital-ultrastar-dc-me200-scalemp/
+https://overclockers.ru/hardnews/show/94416/western-digital-anonsirovala-seriju-ssd-dlya-rasshireniya-operativnoj-pamyati
 https://wp.me/p9vWYY-2r9

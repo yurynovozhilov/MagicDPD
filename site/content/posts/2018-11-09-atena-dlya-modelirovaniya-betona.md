@@ -4,11 +4,10 @@ title: "ATENA для моделирования бетона"
 date: 2018-11-09T17:01:45+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1201
 tags:
-  - CervenkaConsulting
-  - Concrete
   - ATENA
+  - Concrete
+  - CervenkaConsulting
 images:
   - url: "/assets/images/1202.jpg"
 ---
@@ -22,4 +21,6 @@ ATENA для моделирования бетона
 
 
 #ATENA #CervenkaConsulting #Concrete
+http://bit.ly/2PJi7ML
+
 http://bit.ly/2PJi7ML

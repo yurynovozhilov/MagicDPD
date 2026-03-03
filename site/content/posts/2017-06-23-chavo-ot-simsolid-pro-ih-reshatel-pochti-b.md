@@ -4,7 +4,6 @@ title: "ЧАВО от SIMSOLID про их решатель почти без с
 date: 2017-06-23T17:01:02+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_382
 tags:
   - SIMSOLID
   - FAQ

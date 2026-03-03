@@ -4,14 +4,13 @@ title: "Моделирование текстильных композитов �
 date: 2021-12-21T20:29:34+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2053
 tags:
-  - wb_ls
-  - composite
-  - lsdyna
   - acp
   - oasys
+  - wb_ls
+  - lsdyna
   - ansys
+  - composite
 ---
 
 Моделирование текстильных композитов в LS-DYNA
@@ -34,4 +33,7 @@ https://www.youtube.com/watch?v=8xxefifDzY0
 
 
 #acp #ansys #composite #lsdyna #oasys #wb_ls-dyna
+https://tinyurl.com/yxwzywmh
+
+[Modelling FRP composites in LS-DYNA: Part 1 – Intralaminar behaviour](https://www.youtube.com/watch?v=8xxefifDzY0)
 https://tinyurl.com/yxwzywmh

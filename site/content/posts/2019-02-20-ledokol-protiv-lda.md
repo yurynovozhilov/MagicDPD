@@ -4,7 +4,6 @@ title: "Ледокол против льда"
 date: 2019-02-20T17:00:40+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1361
 images:
   - url: "/assets/images/1361.jpg"
 ---
@@ -33,3 +32,7 @@ https://www.youtube.com/watch?v=VdZupL4bIU4
 
 
 Конечно, математика разрушения связей в DEM сильно проще, чем прямое моделирование разрушения когезивных контактов, зато количество учитываемых DEM частиц в задаче легко может исчисляться миллионами. Тем более, что большинство DEM кодов (как, например, наш любимый Rocky
+
+https://www.youtube.com/watch?v=hzYz4mtF7tI
+https://www.youtube.com/watch?v=p_OM0lg1MtQ
+https://www.youtube.com/watch?v=VdZupL4bIU4

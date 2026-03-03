@@ -4,10 +4,9 @@ title: "DEM для газонокосилок"
 date: 2021-01-20T13:01:56+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1887
 tags:
-  - rocky
   - fsi
+  - rocky
   - dem
 ---
 
@@ -24,3 +23,6 @@ https://www.youtube.com/watch?v=YTLOXbANQ48
 #dem #fsi #rocky
 https://tinyurl.com/yyj3zpjf
 by Юрий Новожилов
+
+[Riding lawnmower simulation with CFD-DEM coupling](https://www.youtube.com/watch?v=YTLOXbANQ48)
+https://tinyurl.com/yyj3zpjf

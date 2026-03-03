@@ -4,16 +4,15 @@ title: "SpaceClaim Meshing — уже пора изучать!"
 date: 2019-07-11T17:00:38+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1528
 tags:
+  - ANSYS
+  - mesh
+  - all_hex
+  - SpaceClaim
+  - SpaceClaim_Meshing
+  - ICEM_CFD
   - LEAP
   - MESco
-  - SpaceClaim_Meshing
-  - mesh
-  - SpaceClaim
-  - ANSYS
-  - ICEM_CFD
-  - all_hex
 images:
   - url: "/assets/images/1528.jpg"
 ---
@@ -44,5 +43,7 @@ MESco Sp. z o.o.Ну а если вы сомневаетесь и не знае�
 Второе видео очень быстрое. Я пересматривал несколько раз, останавливал на интересных моментах, включал по кадровую перемотку. Но даже в нем показаны далеко не все фишки. Так например,  SpaceClaim Meshing может делать вытяжку сетки, также, как это делать классическая команда Pull или Blend в  SpaceClaim. Или еще он умеет делать сеточные hex переходы 2 к 1, если вы понимаете, о чем я.
 
 #all_hex #ANSYS #ICEM_CFD #LEAP #MESco #mesh #SpaceClaim #SpaceClaim_Meshing
+
+https://wp.me/p9vWYY-2Bk
 
 https://wp.me/p9vWYY-2Bk

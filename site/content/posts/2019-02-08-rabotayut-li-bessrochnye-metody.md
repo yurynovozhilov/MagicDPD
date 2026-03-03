@@ -4,16 +4,15 @@ title: "Работают ли бессрочные методы?"
 date: 2019-02-08T04:36:58+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1338
 tags:
   - LS_DYNA
-  - EFG
-  - SPH
+  - Lagrangian
+  - LSDYNA
   - ALE
   - FEM
-  - LSDYNA
+  - SPH
   - SPG
-  - Lagrangian
+  - EFG
 images:
   - url: "/assets/images/1338.jpg"
 ---
@@ -37,4 +36,7 @@ http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeli
 
 #ALE #EFG #FEM #Lagrangian #LS_DYNA #SPG #SPH
 
+https://wp.me/s9vWYY-4867
+
+http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r
 https://wp.me/s9vWYY-4867

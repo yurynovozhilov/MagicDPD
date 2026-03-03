@@ -4,7 +4,6 @@ title: "Отличная реклама ANSYS Discovery Live"
 date: 2020-02-03T13:00:30+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1689
 tags:
   - Discovery
   - ANSYS

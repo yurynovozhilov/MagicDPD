@@ -4,7 +4,8 @@ title: "В выходной можно позволить себе неболь�
 date: 2015-08-01T11:00:05+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_154
 ---
 
 В выходной можно позволить себе небольшой off-топик. Взглянем на компанию Random42 и ее работы в области визуализации научных данных. Никакого CAE/CAD - только чистая наука!
+
+[Medical Animations by Random42 – The Art of Science](http://random42.com)

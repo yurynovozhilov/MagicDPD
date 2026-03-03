@@ -4,7 +4,6 @@ title: "Если вам нужна #CAD геометрия вашего горо
 date: 2016-03-14T07:00:54+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1415
 tags:
   - CAD
 images:
@@ -16,3 +15,5 @@ images:
 Несмотря на открытость проекта, лицензия, под которой распространяются модели, позволяет использовать их в коммерческих проектах.
 
 Угадаете чертеж какого города я первым делом пошел смотреть 😊
+
+[CAD Mapper - CAD files of any area in the world](https://cadmapper.com)

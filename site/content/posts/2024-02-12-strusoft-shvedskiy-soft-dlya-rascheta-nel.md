@@ -4,7 +4,6 @@ title: "StruSoft - шведский софт для расчета нелине�
 date: 2024-02-12T15:02:01+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2642
 ---
 
 StruSoft - шведский софт для расчета нелинейно прочности бетона
@@ -12,3 +11,5 @@ StruSoft - шведский софт для расчета нелинейно п
 Да-да, в Швеции оказывается есть компания, которая уже 40 лет пилит софт для строителей. Тут и BIM, и FEM, и расчет арматуры, и даже нелинейная работа бетона!
 
 https://www.youtube.com/watch?v=t5fOiWr_vD0
+
+[Betonin halkeillut epälineaarinen laskenta  - Tulevaisuuden Betonimitoitus](https://www.youtube.com/watch?v=t5fOiWr_vD0)

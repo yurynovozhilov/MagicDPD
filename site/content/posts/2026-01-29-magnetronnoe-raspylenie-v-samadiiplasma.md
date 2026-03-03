@@ -4,7 +4,6 @@ title: "Магнетронное распыление в samadii/plasma"
 date: 2026-01-29T08:26:01+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3095
 ---
 
 Магнетронное распыление в samadii/plasma
@@ -18,3 +17,5 @@ original_url: https://vk.com/wall-97265142_3095
 
 
 https://www.youtube.com/watch?v=cfgCxYa19YM
+
+[Magnetron Sputtering Deposition](https://www.youtube.com/watch?v=cfgCxYa19YM)

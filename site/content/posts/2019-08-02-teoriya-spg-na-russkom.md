@@ -4,7 +4,6 @@ title: "Теория SPG на русском"
 date: 2019-08-02T13:00:33+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1546
 images:
   - url: "/assets/images/1546.jpg"
 ---
@@ -29,3 +28,5 @@ images:
 
 
 Метод сглаженных частиц Галеркина с согласованным по моменту алгоритмом сглаживания в рамках связанного механического и теплового анализа:
+
+http://lsdyna.ru/wp-content/uploads/2019/06/25-B_SPG_122_ru_ed-1.pdf

@@ -4,10 +4,9 @@ title: "#SimScale смог набрать уже 50 000 пользователе
 date: 2015-11-05T18:00:22+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_641
 tags:
-  - cfd
   - SimScale
+  - cfd
   - fem
   - cloud
 images:
@@ -15,3 +14,5 @@ images:
 ---
 
 #SimScale смог набрать уже 50 000 пользователей с даты своего основания в 2012 году. Причем крайние 10 000 были набраны за последние 9 месяцев! А ведь в команде разработчиков всего 35 человек!
+
+[SimScale Reaches 50000 Users and Growing](https://blog.simscale.com/blog/2015/10/simscale-reaches-50000-users/)

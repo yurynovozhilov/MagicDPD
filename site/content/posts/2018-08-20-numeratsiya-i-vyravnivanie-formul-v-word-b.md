@@ -4,11 +4,10 @@ title: "Нумерация и выравнивание формул в Word бе
 date: 2018-08-20T18:01:14+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1080
 tags:
-  - Microsoft
-  - Word
   - ГОСТ
+  - Word
+  - Microsoft
 images:
   - url: "/assets/images/1081.jpg"
 ---
@@ -42,4 +41,6 @@ images:
 
 
 #Microsoft #Word #ГОСТ
+http://bit.ly/2ON3Udk
+
 http://bit.ly/2ON3Udk

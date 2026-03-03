@@ -4,15 +4,14 @@ title: "Хрупкое разрушение"
 date: 2019-02-08T04:38:07+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1339
 tags:
-  - EFG
-  - AdaptiveEFG
-  - meshless
-  - peridynamics
-  - LSDYNA
   - LSTC
+  - meshless
+  - LSDYNA
+  - AdaptiveEFG
+  - peridynamics
   - SPG
+  - EFG
 images:
   - url: "/assets/images/1339.jpg"
 ---
@@ -29,3 +28,6 @@ http://ftp.lstc.com/anonymous/outgoing/whu/Class/
 
 
 Index of /anonymous/outgoing/whu/Class
+
+https://ru.wikipedia.org/wiki/Перидинамика
+http://ftp.lstc.com/anonymous/outgoing/whu/Class/

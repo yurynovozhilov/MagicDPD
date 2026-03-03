@@ -4,7 +4,6 @@ title: "КЭ моделирование птичьего гнезда"
 date: 2019-06-26T17:00:20+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1516
 tags:
   - Simpleware
 images:
@@ -26,4 +25,7 @@ images:
 
 #Simpleware
 
+https://wp.me/p9vWYY-2zN
+
+https://blogs.3ds.com/simulia/simulation-understand-avian-nest-design-strategies/
 https://wp.me/p9vWYY-2zN

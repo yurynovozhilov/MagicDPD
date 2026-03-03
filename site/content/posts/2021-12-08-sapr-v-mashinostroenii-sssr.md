@@ -4,7 +4,6 @@ title: "САПР в машиностроении СССР"
 date: 2021-12-08T13:03:42+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2048
 tags:
   - cad
 ---
@@ -21,3 +20,5 @@ https://youtu.be/7Td559kHnA0
 
 #cad
 Something went wrong
+
+[САПР в машиностроении. Фильм 1, 1986](https://youtu.be/7Td559kHnA0)

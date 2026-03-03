@@ -4,16 +4,15 @@ title: "Полноценное #HPC в облаке"
 date: 2016-08-01T07:03:57+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_64
 tags:
-  - HPC
-  - RDMA
-  - AWS
   - CFD
-  - Cloud
   - Infiniband
+  - RDMA
   - ANSYS
+  - HPC
   - Azure
+  - Cloud
+  - AWS
 ---
 
 Полноценное #HPC в облаке
@@ -26,3 +25,6 @@ http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12777
 Вторая мораль: если дать CFD коду нормальный интерконнект, то он полетит даже в облаке. Как я уже много раз говорил, у Microsoft в Azure есть полноценный #Infiniband с поддержкой #RDMA. Infiniband = HPC, а значит можно очень хорошо посчитать.
 
 А еще я очень жду, когда же у AWS тоже будет интреконнект.
+
+[ANSYS CFD Sees Scalability to 1024 Cores on Microsoft Azure](https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12777/ANSYS-CFD-Sees-Scalability-to-1024-Cores-on-Microsoft-Azure.aspx)
+http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12777/ANSYS-CFD-Sees-Scalability-to-1024-Cores-on-Microsoft-Azure.aspx

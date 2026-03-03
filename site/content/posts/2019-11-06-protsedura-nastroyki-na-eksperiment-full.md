@@ -4,13 +4,12 @@ title: "Процедура настройки на эксперимент «Full
 date: 2019-11-06T13:00:38+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1627
 tags:
   - LS_DYNA
-  - calibration
-  - FFC
-  - LS_OPT
   - DIC
+  - FFC
+  - calibration
+  - LS_OPT
 images:
   - url: "/assets/images/1627.jpg"
 ---

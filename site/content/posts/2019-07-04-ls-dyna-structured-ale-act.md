@@ -4,14 +4,13 @@ title: "LS-DYNA Structured-ALE ACT"
 date: 2019-07-04T17:00:43+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1522
 tags:
   - LS_DYNA
+  - ANSYS
   - Workbench
   - ALE
   - S_ALE
   - ACT
-  - ANSYS
 images:
   - url: "/assets/images/1522.jpg"
 ---
@@ -39,4 +38,7 @@ LS-DYNA Structured-ALE ACT
 
 #ACT #ALE #ANSYS #LS_DYNA #S_ALE #Workbench
 
+https://wp.me/p9vWYY-2qv
+
+https://catalog.ansys.com/product/5c769050393ff6be9837bb9f/ls-dyna-structured
 https://wp.me/p9vWYY-2qv

@@ -4,7 +4,6 @@ title: "We are know something about hiring"
 date: 2019-04-01T20:00:46+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1422
 images:
   - url: "/assets/images/1422.jpg"
 ---

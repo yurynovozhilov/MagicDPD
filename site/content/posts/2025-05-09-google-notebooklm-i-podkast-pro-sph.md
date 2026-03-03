@@ -4,7 +4,6 @@ title: "Google NotebookLM и подкаст про SPH"
 date: 2025-05-09T12:08:16+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2940
 ---
 
 Google NotebookLM и подкаст про SPH
@@ -12,3 +11,5 @@ Google NotebookLM и подкаст про SPH
 Есть у Гугла такая штука как Google NotebookLM — это инструмент на базе искусственного интеллекта, предназначенный для эффективной работы с информацией. Он помогает быстро обобщать и делать заметки, выступая в качестве виртуального помощника в исследованиях, основанного на достоверной информации. NotebookLM позволяет загружать документы и мгновенно разбираться в их содержании. А еще он позволят генерировать подкаст на два голоса. Так вот, тут Paulo REFACHINHO  из лагеря Abaqus, показал, как такая штука может эффективно сделать для вас подкаст про SPH!!! Очень хорошо для тех, кто хочет быстро вкатиться в какую-то новую тему.
 
 https://www.youtube.com/watch?v=Jj_fcbAlG9Y
+
+[Smoothed Particle Hydrodynamics (SPH) | Google NotebookLM Audio Overview](https://www.youtube.com/watch?v=Jj_fcbAlG9Y)

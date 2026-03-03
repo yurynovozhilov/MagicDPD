@@ -4,12 +4,11 @@ title: "#OnShape выкатили инструмент для параметри
 date: 2016-06-02T07:00:39+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1722
 tags:
-  - CAD
-  - Python
   - OnShape
+  - CAD
   - FeatureScript
+  - Python
 images:
   - url: "/assets/images/1722.jpg"
 ---
@@ -17,3 +16,5 @@ images:
 #OnShape выкатили инструмент для параметризации и кастомизации своего облачного #CAD. Инструмент носит название #FeatureScript и представляет собой еще один язык программирования. При этом выглядит он примерно как всеми любимый #Python, только с точкой с запятой в конце каждого выражения...
 
 Зачем они испортили Python, или я вообще ничего не понимаю?
+
+[FeatureScript | Onshape](https://www.onshape.com/featurescript)

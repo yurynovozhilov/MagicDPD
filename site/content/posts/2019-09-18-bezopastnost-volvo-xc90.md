@@ -4,7 +4,6 @@ title: "Безопастность Volvo XC90"
 date: 2019-09-18T11:47:44+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1587
 ---
 
 Безопастность Volvo XC90
@@ -14,3 +13,5 @@ original_url: https://vk.com/wall-97265142_1587
 
 
 Файл Crash CAE in the all New Volvo XC90 and SPA Platform.pdf
+
+https://vk.com/doc11568_412237802?hash=afa7b3b18bb0622116&dl=GEYTKNRY:1514765084:63c2e097612332b221&api=1&no_preview=1

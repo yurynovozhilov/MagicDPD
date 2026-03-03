@@ -4,7 +4,6 @@ title: "Автоматическая блочная декомпозиция в 
 date: 2018-07-21T18:00:30+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1026
 tags:
   - CADfix
   - Allhex
@@ -20,4 +19,9 @@ CADfix на прошедшей конференции  NAFEMS UK Conference 2
 https://info.iti-global.com/blog/automatic-hex-skin-meshing-nafems-uk-2018
 
 #Allhex #CADfix #Mesh
+http://bit.ly/2NyTUnl
+
+[CADfix](https://www.iti-global.com/cadfix)
+https://www.nafems.org/2018/uk/
+https://info.iti-global.com/blog/automatic-hex-skin-meshing-nafems-uk-2018
 http://bit.ly/2NyTUnl

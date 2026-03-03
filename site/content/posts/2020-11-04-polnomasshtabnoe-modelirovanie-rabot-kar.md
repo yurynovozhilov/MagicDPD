@@ -4,10 +4,9 @@ title: "Полномасштабное моделирование работ к�
 date: 2020-11-04T13:00:33+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1851
 tags:
-  - DEM
   - LS_DYNA
+  - DEM
   - LS_PrePost
 images:
   - url: "/assets/images/1851.jpg"

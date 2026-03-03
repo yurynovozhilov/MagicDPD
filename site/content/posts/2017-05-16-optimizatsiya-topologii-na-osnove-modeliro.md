@@ -4,18 +4,17 @@ title: "Оптимизация топологии на основе модели
 date: 2017-05-16T17:01:47+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_353
 tags:
-  - LSTASC
-  - topology
-  - Genesis
-  - optimization
-  - HCA
   - ESL
-  - DYNAmore
-  - LSDYNA
-  - LSTC
+  - Genesis
+  - topology
   - ANSYS
+  - HCA
+  - LSTC
+  - optimization
+  - LSDYNA
+  - DYNAmore
+  - LSTASC
 ---
 
 Оптимизация топологии на основе моделирования краштетса
@@ -30,3 +29,5 @@ https://www.dynamore.de/de/download/papers/ls-dyna-forum-2012/documents/optimiza
 #topology #optimization
 
 P.S. LS-TaSC бесплатный софт для тех, у кого есть #LSDYNA :-)
+
+https://www.dynamore.de/de/download/papers/ls-dyna-forum-2012/documents/optimization-3-2

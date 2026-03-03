@@ -4,7 +4,6 @@ title: "Мой доклад на LSTC2020: https://onlinexperiences.com/Launch/"
 date: 2020-06-11T13:04:33+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1775
 tags:
   - WinMachine
 images:
@@ -20,3 +19,5 @@ LSTC 2020
 Российские CAE-системы на службе промышленности
 #WinMachine
 by Юрий Новожилов
+
+https://onlinexperiences.com/Launch/Event.htm?ShowKey=93235&DisplayItem=E400489

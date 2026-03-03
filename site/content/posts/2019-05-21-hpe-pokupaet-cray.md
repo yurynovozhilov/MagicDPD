@@ -4,11 +4,10 @@ title: "HPE покупает Cray"
 date: 2019-05-21T12:01:11+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1480
 tags:
   - CRAY
-  - HPC
   - HPE
+  - HPC
 images:
   - url: "/assets/images/1480.jpg"
 ---
@@ -32,4 +31,7 @@ HPE покупает Cray
 
 #CRAY #HPC #HPE
 
+https://wp.me/p9vWYY-2wp
+
+https://www.hpcwire.com/2019/05/17/hpe-to-acquire-cray-for-1-3b/
 https://wp.me/p9vWYY-2wp

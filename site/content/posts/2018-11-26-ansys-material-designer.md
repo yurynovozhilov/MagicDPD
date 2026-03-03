@@ -4,16 +4,15 @@ title: "ANSYS Material Designer"
 date: 2018-11-26T17:00:31+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1235
 tags:
-  - Topology
-  - AdditiveManufacturing
-  - Composite
+  - ANSYS
   - MaterialDesigner
+  - Optimization
+  - AdditiveManufacturing
+  - Topology
+  - Composite
   - Homogenization
   - LatticeStructure
-  - Optimization
-  - ANSYS
 images:
   - url: "/assets/images/1236.jpg"
 ---
@@ -24,4 +23,6 @@ ANSYS Material Designer
 Что особенно приятно, так это то, что ANSYS одними только композитами не ограничился. Система умеет выдавать эффективные свойства и для ячеистых/сетчатых конструкций (lattice structure), а уже спроектировать конструкцию с lattice structure позволит система оптимизации топологии, идущая в любой механической лицензии на ПО.
 
 #AdditiveManufacturing #ANSYS #Composite #Homogenization #LatticeStructure #MaterialDesigner #Optimization #Topology
+http://bit.ly/2TLXlLx
+
 http://bit.ly/2TLXlLx

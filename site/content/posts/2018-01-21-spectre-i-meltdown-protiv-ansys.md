@@ -4,14 +4,13 @@ title: "Spectre и Meltdown против ANSYS"
 date: 2018-01-21T17:01:07+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_739
 tags:
+  - ANSYS
   - HPC
+  - Mechanical
   - Meltdown
   - Spectre
-  - Mechanical
   - padtinc
-  - ANSYS
 images:
   - url: "/assets/images/740.jpg"
 ---
@@ -41,4 +40,9 @@ HDD: Toshiba 2TB 7200 RPM SATA 3 Drive
 
 http://www.padtinc.com/blog/the-focus/spectre-side-channel-and-meltdown-how-will-living-in-this-new-reality-affect-the-world-of-numerical-simulation
 #ANSYS #HPC #Mechanical #Meltdown #padtinc #Spectre
+https://magicdpd.ru/?p=6002
+
+https://spectreattack.com
+5.0.1.3
+http://www.padtinc.com/blog/the-focus/spectre-side-channel-and-meltdown-how-will-living-in-this-new-reality-affect-the-world-of-numerical-simulation
 https://magicdpd.ru/?p=6002

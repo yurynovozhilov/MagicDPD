@@ -4,11 +4,10 @@ title: "Задачи механики на полиэдральных сетка
 date: 2018-02-28T18:00:44+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_822
 tags:
+  - Cutting
   - Polyhedra
   - Eplicit
-  - Cutting
   - Taylor
 images:
   - url: "/assets/images/823.jpg"

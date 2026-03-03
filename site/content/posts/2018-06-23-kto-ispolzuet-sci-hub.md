@@ -4,7 +4,6 @@ title: "Кто использует sci-hub"
 date: 2018-06-23T18:05:36+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_967
 tags:
   - SciHub
 images:
@@ -17,4 +16,7 @@ images:
 https://habr.com/post/359342/
 
 #SciHub
+https://is.gd/jsDSDR
+
+[Понедельник начинается в субботу, или что можно узнать о жизни в другой стране из логов sci-hub](https://habr.com/post/359342/)
 https://is.gd/jsDSDR

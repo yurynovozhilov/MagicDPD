@@ -4,12 +4,11 @@ title: "Моделирование трещин в ANSYS: кины и энерг
 date: 2018-04-09T18:01:14+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_892
 tags:
   - Fracture
+  - Mechanical
   - Crack
   - ANSYS
-  - Mechanical
 ---
 
 Моделирование трещин в ANSYS: кины и энергия
@@ -17,4 +16,6 @@ tags:
 
 
 #ANSYS #Crack #Fracture #Mechanical
+https://is.gd/kdwjsx
+
 https://is.gd/kdwjsx

@@ -4,12 +4,11 @@ title: "Измеряем тормозной путь танка"
 date: 2017-06-28T17:00:35+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_389
 tags:
-  - танки
-  - DEM
   - ascience
   - DIS
+  - DEM
+  - танки
 ---
 
 Измеряем тормозной путь танка
@@ -20,4 +19,7 @@ https://www.youtube.com/watch?v=GCAvPFp9P20
 #ascience
 
 https://www.youtube.com/watch?v=GCAvPFp9P20
+https://www.youtube.com/watch?v=WRa1xY6OAJE
+
+[SoftSoilBrake Slope0](https://www.youtube.com/watch?v=GCAvPFp9P20)
 https://www.youtube.com/watch?v=WRa1xY6OAJE

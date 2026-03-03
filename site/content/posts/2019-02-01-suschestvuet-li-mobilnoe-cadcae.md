@@ -4,13 +4,12 @@ title: "Существует ли мобильное CAD/CAE?"
 date: 2019-02-01T17:00:17+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1329
 tags:
-  - Shapr3D
-  - cloud
-  - mobile
   - ANSYS
+  - mobile
   - Onshape
+  - cloud
+  - Shapr3D
 ---
 
 Существует ли мобильное CAD/CAE?
@@ -46,3 +45,8 @@ https://www.youtube.com/watch?v=kMi_0HXXaTE
 https://wp.me/p9vWYY-2iR
 
 by Юрий Новожилов
+
+[ANSYS Cloud: A Quick Demonstration](https://www.youtube.com/watch?v=36BdYzx2QNU)
+https://www.youtube.com/watch?v=kRGjcsnjtgA
+https://www.youtube.com/watch?v=kMi_0HXXaTE
+https://wp.me/p9vWYY-2iR

@@ -4,10 +4,9 @@ title: "Моделирование ковки"
 date: 2017-05-03T17:01:04+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_346
 tags:
-  - EFG
   - LSDYNA
+  - EFG
 ---
 
 Моделирование ковки
@@ -18,3 +17,5 @@ https://www.youtube.com/watch?v=C9VwjR9f-X0
 #LSDYNA
 
 https://www.youtube.com/watch?v=C9VwjR9f-X0
+
+[Cylinder forging with LS-DYNA](https://www.youtube.com/watch?v=C9VwjR9f-X0)

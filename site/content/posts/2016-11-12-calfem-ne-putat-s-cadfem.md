@@ -4,14 +4,13 @@ title: "CALFEM - не путать с CADFEM"
 date: 2016-11-12T12:03:35+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_184
 tags:
-  - Python
-  - Matlab
   - МКЭ
-  - CALFEM
-  - opensource
   - GitHub
+  - Python
+  - CALFEM
+  - Matlab
+  - opensource
 ---
 
 CALFEM - не путать с CADFEM
@@ -21,3 +20,5 @@ https://github.com/CALFEM
 
 #opensource
 https://github.com/CALFEM
+
+[CALFEM](https://github.com/CALFEM)

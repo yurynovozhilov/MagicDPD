@@ -4,7 +4,8 @@ title: "Кому посчитать запорную арматуру в бра�
 date: 2015-08-06T11:00:28+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_183
 ---
 
 Кому посчитать запорную арматуру в браузере - тому в SimScale.
+
+[10 valve simulation projects in SimScale's library](https://blog.simscale.com/blog/2015/08/10-valve-simulation-projects-in-simscales-library/)

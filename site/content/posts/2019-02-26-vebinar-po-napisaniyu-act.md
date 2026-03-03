@@ -4,17 +4,16 @@ title: "Вебинар по написанию ACT"
 date: 2019-02-26T17:01:56+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1368
 tags:
-  - Mechanical
+  - ANSYS
   - AppStore
-  - API
+  - Mechanical
   - App_Builder
-  - ACT_Console
-  - ACT
   - Python
   - SimuTech
-  - ANSYS
+  - ACT_Console
+  - ACT
+  - API
 images:
   - url: "/assets/images/1368.jpg"
 ---
@@ -45,4 +44,8 @@ https://vimeo.com/231774159
 
 #ACT #ACT_Console #ANSYS #API #App_Builder #AppStore #Mechanical #Python #SimuTech
 
+https://wp.me/p9vWYY-2mz
+
+https://vimeo.com/231774159
+https://vimeo.com/231774159
 https://wp.me/p9vWYY-2mz

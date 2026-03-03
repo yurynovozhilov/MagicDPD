@@ -4,12 +4,13 @@ title: "У #Comsol появился #LiveLink к #Solidworks. Наконец-т�
 date: 2016-02-28T07:00:53+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1310
 tags:
   - CAD
-  - Comsol
   - Solidworks
+  - Comsol
   - LiveLink
 ---
 
 У #Comsol появился #LiveLink к #Solidworks. Наконец-то у Comsol появляется поддержка нормального #CAD.
+
+[ COMSOL Brings LiveLink for SOLIDWORKS Integration into Simulation Apps > ENGINEERING.com ](http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/11525/COMSOL-Brings-LiveLink-for-SOLIDWORKS-Integration-into-Simulation-Apps.aspx)

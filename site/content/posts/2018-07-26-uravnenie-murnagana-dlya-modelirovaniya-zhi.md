@@ -4,14 +4,13 @@ title: "Уравнение Мурнагана для моделирования 
 date: 2018-07-26T18:00:32+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1038
 tags:
-  - ICFD
-  - SPH
-  - FSI
   - CFD
   - LSDYNA
+  - FSI
+  - ICFD
   - MURNAGHAN
+  - SPH
 images:
   - url: "/assets/images/1039.jpg"
 ---
@@ -25,4 +24,8 @@ images:
 Тестовый пример: https://www.dynaexamples.com/sph/intermediate-examples/wavestructure
 
 #CFD #FSI #ICFD #LSDYNA #MURNAGHAN #SPH
+http://bit.ly/2K2RMSG
+
+https://www.dynalook.com/15th-international-ls-dyna-conference/sph/fluid-flow-modeling-with-sph-in-ls-dyna-r
+https://www.dynaexamples.com/sph/intermediate-examples/wavestructure
 http://bit.ly/2K2RMSG

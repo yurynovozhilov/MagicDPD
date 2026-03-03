@@ -4,7 +4,6 @@ title: "Моделирование многофазного течения в LS
 date: 2023-06-27T15:00:33+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2452
 ---
 
 Моделирование многофазного течения в LS-DYNA ICFD
@@ -14,3 +13,5 @@ ICFD - это неявный CFD решатель в LS-DYNA, способный
 И вот, сегодня на официальном канале LSTC появилось видео примера моделирования многофазного течения. Будем надеяться, что в R15 нам завезут данный функционал.
 
 https://www.youtube.com/watch?v=rXJrJbE9ml0
+
+[ICFD LS-DYNA: multi-species transport solver.](https://www.youtube.com/watch?v=rXJrJbE9ml0)

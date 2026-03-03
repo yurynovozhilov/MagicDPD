@@ -4,11 +4,10 @@ title: "FORTRAN II на компьютере IBM 1401"
 date: 2019-04-13T17:01:08+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1446
 tags:
   - IBM
-  - HPC
   - fortran
+  - HPC
 images:
   - url: "/assets/images/1446.jpg"
 ---
@@ -23,3 +22,6 @@ FORTRAN II на компьютере IBM 1401
 https://wp.me/p9vWYY-2tl
 
 by Юрий Новожилов
+
+https://en.wikipedia.org/wiki/IBM_1401
+https://wp.me/p9vWYY-2tl

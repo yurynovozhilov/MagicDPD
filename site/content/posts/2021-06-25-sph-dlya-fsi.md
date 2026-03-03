@@ -4,11 +4,10 @@ title: "SPH для FSI"
 date: 2021-06-25T13:01:30+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1973
 tags:
   - fsi
-  - shape_charge
   - sph
+  - shape_charge
 ---
 
 SPH для FSI
@@ -24,3 +23,6 @@ https://www.youtube.com/watch?v=XoGW5yutskY
 #fsi #shape_charge #sph
 https://tinyurl.com/yj7gkl54
 by Юрий Новожилов
+
+[2021 SPHERIC Global Seminars Prof. Moubin Liu "SPH for modeling fluid-structure interactions""](https://www.youtube.com/watch?v=XoGW5yutskY)
+https://tinyurl.com/yj7gkl54

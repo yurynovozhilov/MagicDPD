@@ -4,7 +4,6 @@ title: "В CFD для чайников — часть 2: уравнение На
 date: 2020-12-14T13:00:46+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1869
 tags:
   - CFD
 images:

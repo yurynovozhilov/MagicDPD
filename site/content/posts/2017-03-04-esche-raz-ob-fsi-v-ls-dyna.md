@@ -4,13 +4,12 @@ title: "Еще раз об FSI в LS-DYNA"
 date: 2017-03-04T17:00:25+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_287
 tags:
+  - Implicit
+  - CFD
   - ICFD
   - FSI
-  - CFD
   - LSDYNA
-  - Implicit
 ---
 
 Еще раз об FSI в LS-DYNA
@@ -20,3 +19,5 @@ https://www.youtube.com/watch?v=IClEUvlftcE
 #CFD
 
 https://www.youtube.com/watch?v=IClEUvlftcE
+
+[FSI Simulation in LS DYNA](https://www.youtube.com/watch?v=IClEUvlftcE)

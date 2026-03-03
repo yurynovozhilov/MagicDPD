@@ -4,17 +4,16 @@ title: "Великий и ужастный #CalculiX #GraphiX - открытый
 date: 2016-03-31T07:00:29+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1515
 tags:
-  - GraphiX
-  - CalculiX
-  - apple
-  - ccx
-  - opensource
-  - Homebrew
   - fem
-  - Mac
   - fea
+  - apple
+  - Homebrew
+  - ccx
+  - CalculiX
+  - Mac
+  - opensource
+  - GraphiX
 images:
   - url: "/assets/images/1515.jpg"
 ---

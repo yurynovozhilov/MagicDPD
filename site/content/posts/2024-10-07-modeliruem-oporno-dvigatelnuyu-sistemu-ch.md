@@ -4,7 +4,6 @@ title: "Моделируем опорно-двигательную систем�
 date: 2024-10-07T12:01:17+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2799
 ---
 
 Моделируем опорно-двигательную систему человека при помощи Hyfydy
@@ -14,3 +13,5 @@ Hyfydy - это программное обеспечение для точно�
 Hyfydy доступен для Windows, Linux и macOS, как плагин для SCONE и через Python API для приложений машинного обучения. Не стесняйтесь связаться с нами, посмотреть нас на YouTube или запросить бесплатную пробную версию.
 
 https://www.youtube.com/watch?v=JZxbqQwyqdY
+
+[Hyfydy vs MuJoCo](https://www.youtube.com/watch?v=JZxbqQwyqdY)

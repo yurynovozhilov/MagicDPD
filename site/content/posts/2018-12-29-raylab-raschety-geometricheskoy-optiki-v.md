@@ -4,11 +4,10 @@ title: "RayLab - расчеты геометрической оптики в iOS
 date: 2018-12-29T17:00:29+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1294
 tags:
+  - Optics
   - RayLab
   - Zemax
-  - Optics
   - IOS
 images:
   - url: "/assets/images/1295.jpg"
@@ -39,4 +38,7 @@ RayLab - расчеты геометрической оптики в iOS
 Ссылка на само приложение: https://itunes.apple.com/ru/app/raylab/id710190065?mt=8
 
 #IOS #Optics #RayLab #Zemax
+http://bit.ly/2QexhG0
+
+[‎RayLab](https://itunes.apple.com/ru/app/raylab/id710190065?mt=8)
 http://bit.ly/2QexhG0

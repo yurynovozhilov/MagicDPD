@@ -4,18 +4,20 @@ title: "Оказывается #atom умеет работать не тольк
 date: 2017-11-18T17:15:25+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_615
 tags:
-  - Abaqus
-  - CAE
-  - NASTRAN
-  - APDL
-  - LSDYNA
   - atom
+  - Abaqus
   - ANSYS
+  - APDL
+  - NASTRAN
+  - LSDYNA
+  - CAE
 ---
 
 Оказывается #atom умеет работать не только с синтаксисом #LSDYNA, а тут есть все столпы #CAE:
 - #ANSYS #APDL http://ift.tt/2AaBre6
 - #NASTRAN http://ift.tt/2zLVvDc
 - #Abaqus https://atom.io/packages/language-ansys 🔗 language-ansys
+
+http://ift.tt/2Ablt3I
+https://atom.io/packages/language-ansys

@@ -4,10 +4,9 @@ title: "MOOSE - непростой лось"
 date: 2021-03-04T13:01:45+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1917
 tags:
-  - open_source
   - moose
+  - open_source
 ---
 
 MOOSE - непростой лось
@@ -39,4 +38,10 @@ https://www.youtube.com/watch?v=2tJwBsYaLaI
 А вот по этой ссылке вы найдете запись учебного курса по данному MOOSE, который был прочитан в Университете штата Северная Каролина в 2018 году: https://www.youtube.com/playlist?list=PLN13vTvNU59uNSw-RmcRbSW37zKcOK1yR
 
 #moose #open_source
+https://tinyurl.com/ydapy34s
+
+[MOOSE: Multiphysics Object-Oriented Simulation Environment](https://www.youtube.com/watch?v=6shfkm3fnLY)
+https://mooseframework.inl.gov/
+https://www.youtube.com/watch?v=2tJwBsYaLaI
+https://www.youtube.com/playlist?list=PLN13vTvNU59uNSw-RmcRbSW37zKcOK1yR
 https://tinyurl.com/ydapy34s

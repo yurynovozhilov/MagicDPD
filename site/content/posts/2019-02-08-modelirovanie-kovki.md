@@ -4,12 +4,11 @@ title: "Моделирование ковки"
 date: 2019-02-08T06:54:33+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1344
 tags:
-  - LS_DYNA
-  - forming
-  - EFG
   - LSDYNA
+  - forming
+  - LS_DYNA
+  - EFG
 images:
   - url: "/assets/images/1344.jpg"
 ---
@@ -23,5 +22,7 @@ Cравнение различных подходов моделирования
 Cylinder forging with LS-DYNA
 
 #EFG #forming #LS_DYNA
+
+https://wp.me/s9vWYY-4616
 
 https://wp.me/s9vWYY-4616

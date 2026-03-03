@@ -4,10 +4,9 @@ title: "Виртуальная гонка автономных автомоби�
 date: 2021-01-27T15:02:23+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1892
 tags:
-  - indy_autonomous_challenge
   - ansys
+  - indy_autonomous_challenge
 ---
 
 Виртуальная гонка автономных автомобилей
@@ -23,3 +22,6 @@ https://www.youtube.com/watch?v=SEI5V-WRMdw
 #ansys #indy_autonomous_challenge
 https://tinyurl.com/yxebl3h2
 by Юрий Новожилов
+
+[Indy Autonomous Challenge - Hackathon #3](https://www.youtube.com/watch?v=SEI5V-WRMdw)
+https://tinyurl.com/yxebl3h2

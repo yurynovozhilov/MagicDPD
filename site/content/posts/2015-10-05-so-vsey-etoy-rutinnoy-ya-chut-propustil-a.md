@@ -4,13 +4,12 @@ title: "Со всей этой рутинной я чуть пропустил �
 date: 2015-10-05T06:30:16+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_456
 tags:
-  - NVIDIA
   - HPC
-  - AWS
-  - Cloud
   - Azure
+  - Cloud
+  - AWS
+  - NVIDIA
 ---
 
 Со всей этой рутинной я чуть пропустил абсолютно сногсшибательную новость! NVIDIA анонсировала планы по использованию ее графических процессоров и процессоров общего назначения в облаке Microsoft Azure. То, что раз или поздно это произойдет стало понятно в тот момент, когда MS реализовали нормальную поддержку vGPU в Hyper-V для Server 2016.
@@ -20,3 +19,5 @@ tags:
 #Azure #AWS #Cloud #HPC #NVIDIA
 http://nvidianews.nvidia.com/news/nvidia-gpus-to-accelerate-microsoft-azure
 http://www.nvidia.ru/object/nvidia-grid-microsoft-azure-29-sep-2015-ru.html
+
+[NVIDIA GPUs to Accelerate Microsoft Azure ](http://nvidianews.nvidia.com/news/nvidia-gpus-to-accelerate-microsoft-azure)

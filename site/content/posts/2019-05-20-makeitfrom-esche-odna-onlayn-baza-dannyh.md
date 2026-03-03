@@ -4,11 +4,10 @@ title: "MakeItFrom — еще одна онлайн база данных сво
 date: 2019-05-20T17:01:45+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1479
 tags:
   - MakeItFrom
-  - material
   - properties
+  - material
 images:
   - url: "/assets/images/1479.jpg"
 ---
@@ -35,3 +34,6 @@ https://www.makeitfrom.com/
 https://wp.me/p9vWYY-2vU
 
 by Ян Поженько
+
+https://www.makeitfrom.com/
+https://wp.me/p9vWYY-2vU

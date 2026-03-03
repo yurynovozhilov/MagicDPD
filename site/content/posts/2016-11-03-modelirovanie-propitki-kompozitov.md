@@ -4,14 +4,13 @@ title: "Моделирование пропитки композитов"
 date: 2016-11-03T17:00:45+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_171
 tags:
-  - RTM
-  - ICFD
-  - composite
   - CFD
-  - LSDYNA
   - LSTC
+  - ICFD
+  - LSDYNA
+  - RTM
+  - composite
 ---
 
 Моделирование пропитки композитов
@@ -21,3 +20,5 @@ https://www.youtube.com/watch?v=SpIXOfVEBvE
 
 #ICFD #composite
 https://www.youtube.com/watch?v=SpIXOfVEBvE
+
+[LS-DYNA CFD : Resin Transfer Molding Application (RTM)](https://www.youtube.com/watch?v=SpIXOfVEBvE)

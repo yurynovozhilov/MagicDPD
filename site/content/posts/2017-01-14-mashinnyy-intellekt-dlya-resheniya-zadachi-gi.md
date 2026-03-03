@@ -4,12 +4,11 @@ title: "Машинный интеллект для решения задачи �
 date: 2017-01-14T17:01:00+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_239
 tags:
-  - CFD
-  - AI
   - Brain
+  - CFD
   - Google
+  - AI
 ---
 
 Машинный интеллект для решения задачи гидродинамики
@@ -22,3 +21,5 @@ https://www.youtube.com/watch?v=iOWamCtnwTc
 P.S. Комментатор почему-то считает, что мы уже умеем решать задачи CFD - наивный, он не знает, что это не ремесло, а искусство.
 
 https://www.youtube.com/watch?v=iOWamCtnwTc
+
+[Neural Network Learns The Physics of Fluids and Smoke | Two Minute Papers #118](https://www.youtube.com/watch?v=iOWamCtnwTc)

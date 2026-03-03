@@ -4,7 +4,6 @@ title: "Моделирование смазки зубчатой передач�
 date: 2020-06-16T13:00:15+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1782
 tags:
   - LS_DYNA
   - SPH

@@ -4,15 +4,14 @@ title: "Удобный блокнот"
 date: 2016-09-30T17:00:21+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_125
 tags:
   - Abaqus
-  - SublimeText
-  - NASTRAN
-  - APDL
-  - LSDYNA
-  - GitHub
   - ANSYS
+  - APDL
+  - NASTRAN
+  - GitHub
+  - LSDYNA
+  - SublimeText
 ---
 
 Удобный блокнот
@@ -23,3 +22,7 @@ https://vk.com/wall-97265142_215
 Таким образом SublimeText умеет посвечивать синтаксис всех 4-х самых больших система для КЭ расчетов.
 
 P.S. Учебные видео по работе с SublimeText доступны по ссылке: https://www.youtube.com/playlist?list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK
+
+[MagicDPD - про ANSYS, LS-DYNA и другое CAE](https://vk.com/wall-97265142_215)
+https://github.com/bguest/NASTRAN-Textmate-Bundle
+https://www.youtube.com/playlist?list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK

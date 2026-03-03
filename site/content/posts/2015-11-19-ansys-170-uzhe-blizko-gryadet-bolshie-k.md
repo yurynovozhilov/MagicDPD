@@ -4,11 +4,12 @@ title: "#ANSYS 17.0 уже близко! Грядет большие колич�
 date: 2015-11-19T18:00:44+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_733
 tags:
-  - Explicit
-  - ANSYS
   - Mechanical
+  - ANSYS
+  - Explicit
 ---
 
 #ANSYS 17.0 уже близко! Грядет большие количество изменений и нововведений, как в работе решателей, так и в лицензионной политике. О последнем уже можно почитать.
+
+[Политика лицензирования ANSYS Mechanical 17.0 :: Новости :: www.cadfem-cis.ru](http://www.cadfem-cis.ru/about/news/single/ansys17/)

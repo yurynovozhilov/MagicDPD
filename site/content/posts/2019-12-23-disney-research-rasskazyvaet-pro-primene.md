@@ -4,12 +4,11 @@ title: "Disney Research рассказывает про применение XFE
 date: 2019-12-23T14:01:51+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1664
 tags:
+  - simulationfriday
   - mesh
   - Disney
   - XFEM
-  - simulationfriday
 images:
   - url: "/assets/images/1664.jpg"
 ---

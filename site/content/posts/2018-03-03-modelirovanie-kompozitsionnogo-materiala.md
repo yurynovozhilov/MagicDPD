@@ -4,10 +4,9 @@ title: "Моделирование композиционного материа
 date: 2018-03-03T18:01:23+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_827
 tags:
-  - Perforation
   - Composites
+  - Perforation
   - LSDYNA
 images:
   - url: "/assets/images/828.jpg"
@@ -29,3 +28,7 @@ images:
 https://magicdpd.ru/wp-content/uploads/2018/03/03-Perforation-8L-200mps-50cal.mp4
 https://magicdpd.ru/wp-content/uploads/2018/03/02-Pen-Perf-22L-500mps-50cal.mp4
 MAT162 Software
+
+https://magicdpd.ru/wp-content/uploads/2018/03/03-Perforation-8L-200mps-50cal.mp4
+https://magicdpd.ru/wp-content/uploads/2018/03/02-Pen-Perf-22L-500mps-50cal.mp4
+http://www.ccm.udel.edu/software/mat162/

@@ -4,11 +4,10 @@ title: "DualSPHysics - для тех кому надо красиво"
 date: 2018-01-11T12:40:27+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_716
 tags:
   - GPU
-  - DualSPHysics
   - SPH
+  - DualSPHysics
 images:
   - url: "/assets/images/717.jpg"
 ---
@@ -30,4 +29,11 @@ More than 1000 Million particles simulated with DualSPHysics (SPH on Multi-GPU)
 
 
 #DualSPHysics #GPU #SPH
+https://magicdpd.ru/?p=4938
+
+https://www.youtube.com/watch?v=B8mP9E75D08
+http://www.dual.sphysics.org
+http://www.dual.sphysics.org/
+http://www.dual.sphysics.org/
+https://www.youtube.com/embed/B8mP9E75D08?__ref=vk.api
 https://magicdpd.ru/?p=4938

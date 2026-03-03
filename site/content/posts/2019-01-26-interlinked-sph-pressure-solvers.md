@@ -4,7 +4,6 @@ title: "Interlinked SPH Pressure Solvers"
 date: 2019-01-26T17:00:33+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1323
 tags:
   - FSI
   - SPH
@@ -24,4 +23,8 @@ https://www.youtube.com/watch?v=tCsuEDkxU30
 
 #FSI #SPH
 
+https://wp.me/p9vWYY-2i5
+
+https://www.youtube.com/watch?v=tCsuEDkxU30
+http://www.animation.rwth-aachen.de/publication/0563/
 https://wp.me/p9vWYY-2i5

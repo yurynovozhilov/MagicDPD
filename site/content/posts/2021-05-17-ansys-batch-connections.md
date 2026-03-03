@@ -4,11 +4,10 @@ title: "Ansys Batch Connections"
 date: 2021-05-17T13:01:38+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1953
 tags:
   - batch_connections
-  - ansys
   - meshing
+  - ansys
 ---
 
 Ansys Batch Connections
@@ -62,4 +61,13 @@ https://www.youtube.com/watch?v=QoDdM0Z5_Cg
 
 
 #ansys #batch_connections #meshing
+https://tinyurl.com/ygzw3232
+
+[Ansys Batch Connections: Introduction to Batch Connections (1 of 6)](https://www.youtube.com/watch?v=tWgSf6TUdfc)
+https://www.youtube.com/watch?v=zxytjWbYEho
+https://www.youtube.com/watch?v=1lJJo19fvug
+https://www.youtube.com/watch?v=etEBANwvRxY
+https://www.youtube.com/watch?v=etEBANwvRxY
+https://www.youtube.com/watch?v=duYS7jTslhI
+https://www.youtube.com/watch?v=QoDdM0Z5_Cg
 https://tinyurl.com/ygzw3232

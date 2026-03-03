@@ -4,7 +4,6 @@ title: "Ansys SimAI"
 date: 2024-01-09T16:02:16+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2617
 ---
 
 Ansys SimAI
@@ -16,3 +15,6 @@ SimAI является доработанной версией системы, �
 Хотите подробностей - смотрите запись подкаста от 25 октября 2022 года с  Иэном  Кэмпбеллом, создателем OnScale. Там можно увидеть, как это все начиналось: https://www.youtube.com/watch?v=u2VEHLBzfxs
 
 https://www.ansys.com/news-center/press-releases/1-9-24-ansys-launches-simai
+
+[Ansys Launches Ansys SimAI™](https://www.ansys.com/news-center/press-releases/1-9-24-ansys-launches-simai)
+https://www.youtube.com/watch?v=u2VEHLBzfxs

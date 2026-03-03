@@ -4,15 +4,14 @@ title: "Еще одни выходные - еще один этап самооб
 date: 2016-04-26T08:00:41+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1606
 tags:
-  - mdpd
-  - ICFD
-  - freesurface
-  - FSI
-  - CFD
   - Implicit
+  - CFD
+  - ICFD
+  - FSI
   - LSD
+  - mdpd
+  - freesurface
 ---
 
 Еще одни выходные - еще один этап самообучения по теме #CFD в LS-DYNA. На этот раз я решали простейшую задачу #FSI моделирующую работы некого волнопродуктора.

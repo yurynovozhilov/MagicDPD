@@ -4,7 +4,6 @@ title: "Утром хорошо просыпается не только сах�
 date: 2015-10-23T06:30:31+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_556
 tags:
   - Rocky
   - DEM

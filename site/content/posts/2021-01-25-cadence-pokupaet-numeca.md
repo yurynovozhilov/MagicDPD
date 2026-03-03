@@ -4,10 +4,9 @@ title: "Cadence покупает NUMECA"
 date: 2021-01-25T13:31:18+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1890
 tags:
-  - numeca
   - cadence
+  - numeca
   - cfd
 ---
 
@@ -18,4 +17,7 @@ Cadence покупает NUMECA
 
 
 #cadence #cfd #numeca
+https://tinyurl.com/yyo9ysqb
+
+[Cadence to Acquire NUMECA to Expand System Analysis Capabilities With Computational Fluid Dynamics](https://www.marketwatch.com/press-release/cadence-to-acquire-numeca-to-expand-system-analysis-capabilities-with-computational-fluid-dynamics-2021-01-20?tesla=y)
 https://tinyurl.com/yyo9ysqb

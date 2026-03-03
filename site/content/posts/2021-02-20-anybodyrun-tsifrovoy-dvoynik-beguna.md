@@ -4,11 +4,10 @@ title: "Anybodyrun - цифровой двойник бегуна"
 date: 2021-02-20T13:01:36+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1911
 tags:
+  - anybody
   - digital_twin
   - biomed
-  - anybody
 ---
 
 Anybodyrun - цифровой двойник бегуна
@@ -30,4 +29,8 @@ https://www.youtube.com/watch?v=6zNbbP8XzUk
 
 
 #anybody #biomed #digital_twin
+https://tinyurl.com/y8oqrtzg
+
+https://anybodyrun.com/
+https://www.youtube.com/watch?v=6zNbbP8XzUk
 https://tinyurl.com/y8oqrtzg

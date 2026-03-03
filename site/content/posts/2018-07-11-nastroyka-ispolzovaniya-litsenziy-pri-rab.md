@@ -4,12 +4,11 @@ title: "Настройка использования лицензий при р
 date: 2018-07-11T18:00:57+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1007
 tags:
   - Longread
-  - HPC
   - Mechancial
   - RSM
+  - HPC
 images:
   - url: "/assets/images/1008.jpg"
 ---
@@ -31,4 +30,6 @@ Design Point Run Only - аналогично предыдущему, но тол
 Таким образом, переключив настройки системы на Always или Design Point Run Only, мы немного усмиряем аппетит Mechanical за счет небольшого падения производительности.
 
 #HPC #Longread #Mechancial #RSM
+http://bit.ly/2NJa1j3
+
 http://bit.ly/2NJa1j3

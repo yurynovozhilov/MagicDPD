@@ -4,12 +4,11 @@ title: "Состоялся второй релиз Shapr3D"
 date: 2016-12-17T12:03:42+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_218
 tags:
   - CAD
-  - SpaceClaim
-  - iPad
   - Shapr3D
+  - iPad
+  - SpaceClaim
 ---
 
 Состоялся второй релиз Shapr3D
@@ -20,4 +19,7 @@ https://www.youtube.com/watch?v=RT3W25T_wGg
 А теперь только задумайтесь: вы получаете почти SpaceClaim, который работает прямо на вашем планшете, а не на мощной рабочей станции, и стоит всего 99 баксов в год за профессиональную версию (есть и бесплатная). Разве не мечта для быстрого создания концептуальных моделей на коленке (в прямом смысле слова).
 
 https://www.youtube.com/watch?v=RT3W25T_wGg
+https://www.youtube.com/watch?v=OFsbZikomSA
+
+[Shapr3D 2.0 is here](https://www.youtube.com/watch?v=RT3W25T_wGg)
 https://www.youtube.com/watch?v=OFsbZikomSA

@@ -4,13 +4,12 @@ title: "Вернемся к перидинамике. Уже сейчас заи
 date: 2019-02-08T04:35:29+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1337
 tags:
   - LS_DYNA
+  - SPG
+  - LSTC
   - lsdyna
   - peridynamics
-  - LSTC
-  - SPG
 images:
   - url: "/assets/images/1337.jpg"
 ---
@@ -26,5 +25,7 @@ images:
 Файл Implementation of Peridynamic Theory to LS-DYNA for Prediction of Crack Propagation in a Composite Lamina.pdf
 
 #LS_DYNA #LSTC #peridynamics #SPG
+
+https://wp.me/s9vWYY-5356
 
 https://wp.me/s9vWYY-5356

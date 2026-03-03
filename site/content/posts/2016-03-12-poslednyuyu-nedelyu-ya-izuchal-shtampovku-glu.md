@@ -4,15 +4,14 @@ title: "Последнюю неделю я изучал штамповку, гл
 date: 2016-03-12T09:05:57+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1388
 tags:
-  - forming
   - deepdrawing
+  - springback
+  - LSTC
+  - forming
   - lsdyna
   - Workbech
-  - springback
   - ACT
-  - LSTC
   - implicit
 images:
   - url: "https://sun9-57.userapi.com/s/v1/ig1/vinh_4SnX7rZVIYTnHmZuq_S536y7pCaC0bWQ2z-7Zg4IQdQ24ZU-y-LxJHV3b0P1-i_tS_A.jpg?quality=96&as=32x19,48x29,72x43,108x65,160x96,240x144,360x216,480x289,540x325,640x385,720x433,1080x649,1280x770,1440x866,1680x1010&from=bu&u=Pas50837IYxDot7aw5cMMEpUD8LZWhv1gbAlrNygdP8&cs=1680x0"

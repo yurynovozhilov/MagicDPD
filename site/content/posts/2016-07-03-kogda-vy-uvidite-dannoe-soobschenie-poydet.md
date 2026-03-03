@@ -4,7 +4,6 @@ title: "Когда вы увидите данное сообщение пойд�
 date: 2016-07-03T11:55:08+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_9
 tags:
   - CAD
   - HPC

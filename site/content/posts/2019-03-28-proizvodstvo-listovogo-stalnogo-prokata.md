@@ -4,7 +4,6 @@ title: "Производство листового стального прок�
 date: 2019-03-28T10:31:20+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1416
 images:
   - url: "/assets/images/1416.jpg"
 ---
@@ -19,3 +18,5 @@ images:
 https://wp.me/p9vWYY-2rO
 
 by Юрий Новожилов
+
+https://wp.me/p9vWYY-2rO

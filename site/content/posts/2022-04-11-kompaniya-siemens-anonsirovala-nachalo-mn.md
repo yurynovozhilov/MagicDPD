@@ -4,13 +4,12 @@ title: "Компания #Siemens анонсировала начало мног
 date: 2022-04-11T17:00:08+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2210
 tags:
-  - Siemens
-  - CAE
   - HPC
-  - quantumcomputing
   - Pasqal
+  - quantumcomputing
+  - CAE
+  - Siemens
 images:
   - url: "/assets/images/2210.jpg"
 ---
@@ -22,3 +21,5 @@ images:
 Ну что ж, надеюсь  Siemens сможет разобраться, есть ли в этом будущее для #CAE. Насколько я помню своем общение с создателями первых квантовых компьютеров лет 7 назад - это все было скорее для комбинаторных задач, чем для дифференциальных уравнений.
 
 #quantumcomputing #HPC https://www.scientific-computing.com/news/siemens-collaborates-pasqal-research-quantum-applications
+
+https://www.scientific-computing.com/news/siemens-collaborates-pasqal-research-quantum-applications

@@ -4,7 +4,6 @@ title: "Моделирование послойного синтеза в Simufa
 date: 2018-06-30T18:01:36+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_985
 tags:
   - AdditiveManufacturing
   - MSC
@@ -23,4 +22,6 @@ MSC всерьез взялись за маркетинг. В сети появ�
 
 
 #AdditiveManufacturing #MSC #Simufact
+http://bit.ly/2tTlfsn
+
 http://bit.ly/2tTlfsn

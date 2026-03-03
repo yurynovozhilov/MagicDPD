@@ -4,12 +4,11 @@ title: "Еще немного про блочные сетки"
 date: 2017-04-19T08:01:14+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_333
 tags:
-  - LSPP
   - LSTC
-  - LSDYNA
+  - LSPP
   - BlockM
+  - LSDYNA
 ---
 
 Еще немного про блочные сетки
@@ -21,3 +20,6 @@ http://www.lstc.com/lspp/content/pages/7/blockm/LS-PrePost_BlockM_User_Guide_090
 
 Ленции: http://www.lstc.com/lspp/content/pages/7/blockm/LS-PrePost_BlockM_User_Guide_090908.pdf
 Упражениня: http://www.lstc.com/lspp/content/pages/7/blockm/LS-PrePost_BlockM_Examples_090908.pdf
+
+http://www.lstc.com/lspp/content/pages/7/blockm/LS-PrePost_BlockM_User_Guide_090908.pdf
+http://www.lstc.com/lspp/content/pages/7/blockm/LS-PrePost_BlockM_Examples_090908.pdf

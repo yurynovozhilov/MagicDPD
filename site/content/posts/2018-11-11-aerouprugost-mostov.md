@@ -4,12 +4,11 @@ title: "Аэроупругость мостов"
 date: 2018-11-11T17:00:14+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1205
 tags:
-  - Fluent
   - FSI
-  - ANSYS
   - LEAP
+  - Fluent
+  - ANSYS
 images:
   - url: "/assets/images/1206.jpg"
 ---
@@ -20,4 +19,8 @@ images:
 
 
 #ANSYS #Fluent #FSI #LEAP
+http://bit.ly/2PVA4Yg
+
+https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82
+https://ru.wikipedia.org/wiki/Такомский_мост
 http://bit.ly/2PVA4Yg

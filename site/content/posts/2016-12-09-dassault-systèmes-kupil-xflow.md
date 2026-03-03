@@ -4,16 +4,15 @@ title: "Dassault Systèmes купил XFlow"
 date: 2016-12-09T17:00:30+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_208
 tags:
+  - CFD
   - Abaqus
-  - XFlow
   - Dassault
   - CATIA
   - SolidWorks
-  - CFD
   - Boltzmann
   - LBM
+  - XFlow
   - CAD
 ---
 
@@ -26,4 +25,8 @@ Next Limit Dynamics, в свою очередь, знаменита благод
 
 P.S. А еще у XFlow ну очень красивый и эффектный постпроцессор.
 
+https://www.youtube.com/watch?v=wtGa0EDLLW0
+
+[DEVELOP3D blog - Dassault Systèmes acquires Next Limit Dynamics for further CFD simulation expertise](http://www.develop3d.com/blog/dassault-systemes-acquires-next-limit-dynamics-for-further-cfd-simulation-e)
+https://habrahabr.ru/post/190552/
 https://www.youtube.com/watch?v=wtGa0EDLLW0

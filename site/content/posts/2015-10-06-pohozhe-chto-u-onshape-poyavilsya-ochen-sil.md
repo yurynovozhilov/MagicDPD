@@ -4,12 +4,11 @@ title: "Похоже, что у Onshape появился очень сильны
 date: 2015-10-06T06:30:06+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_461
 tags:
-  - CAD
-  - SolidWorks
-  - Cloud
   - Onshape
+  - CAD
+  - Cloud
+  - SolidWorks
 ---
 
 Похоже, что у Onshape появился очень сильный конкурент. Буквально несколько дней назад показали Dassault Systèmes показали SolidWorks Online Edition. SolidWorks будет доставлять к вам в любой современный браузер как HTML5 приложение благодаря технологиям Frame Platform.
@@ -17,3 +16,5 @@ tags:
 И вот тут начинается самое интересное. С одной стороны мы имеем Onshape, который изначально проектировался как CAD для работы в браузере. Он не умеет это делать хорошо, но вот функционал CAD в нем еще слабоват. С другой стороны у нас SolidWorks, который еще не CATIA, но уже пакет из высшей лиги. Но он не очень то заточен для работы в браузере.
 
 Кто победит: удобство интереса или мощность и обилие возможностей?
+
+[Powering SOLIDWORKS from the cloud](http://blog.fra.me/post/129643213426/powering-solidworks-from-the-cloud)

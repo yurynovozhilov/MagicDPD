@@ -4,7 +4,6 @@ title: "Volcano Platforms, Inc"
 date: 2024-02-14T15:02:21+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2644
 ---
 
 Volcano Platforms, Inc
@@ -16,3 +15,5 @@ Volcano Platforms, Inc
 Тот момент, когда стартапер - настоящий star.
 
 https://www.youtube.com/watch?v=Un1HNVRR4rA
+
+[Predicting Landing Gear Noise with Volcano ScaLES](https://www.youtube.com/watch?v=Un1HNVRR4rA)

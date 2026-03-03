@@ -4,15 +4,14 @@ title: "Что может CRAY вместе с LSTC"
 date: 2018-08-08T18:00:19+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1061
 tags:
-  - CRAY
-  - HPC
-  - RollsRoyce
-  - LSDYNA
   - Implicit
+  - HPC
+  - CRAY
   - LSTC
   - NCSA
+  - LSDYNA
+  - RollsRoyce
 images:
   - url: "/assets/images/1062.jpg"
 ---
@@ -24,4 +23,8 @@ images:
 https://www.cray.com/blog/can-ls-dyna-scale-higher/
 
 #CRAY #HPC #Implicit #LSDYNA #LSTC #NCSA #RollsRoyce
+http://bit.ly/2OUycvB
+
+https://www.cray.com/sites/default/files/Increasing%20the%20Scale%20of%20LS-DYNA%20Implicit%20Analysis.pdf
+https://www.cray.com/blog/can-ls-dyna-scale-higher/
 http://bit.ly/2OUycvB

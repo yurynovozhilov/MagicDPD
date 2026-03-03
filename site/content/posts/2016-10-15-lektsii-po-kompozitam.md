@@ -4,7 +4,6 @@ title: "Лекции по композитам"
 date: 2016-10-15T17:01:53+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_146
 tags:
   - composite
 ---
@@ -22,3 +21,9 @@ https://www.youtube.com/watch?v=eJESAmLOgpg
 Часть 3. https://www.youtube.com/watch?v=NXf-HF8M3gA
 Часть 4. https://www.youtube.com/watch?v=_AWpU1aEAXc
 Часть 5. https://www.youtube.com/watch?v=GOCNkmddEsE
+
+[ИППТ СПбПУ. Лекции C. Ломова по моделированию волокнистых композитов. Часть 1](https://www.youtube.com/watch?v=eJESAmLOgpg)
+https://www.youtube.com/watch?v=ff_UbKhdhm8
+https://www.youtube.com/watch?v=NXf-HF8M3gA
+https://www.youtube.com/watch?v=_AWpU1aEAXc
+https://www.youtube.com/watch?v=GOCNkmddEsE

@@ -4,7 +4,6 @@ title: "Моделирование родов в LS-DYNA"
 date: 2024-04-17T14:05:41+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2687
 ---
 
 Моделирование родов в LS-DYNA
@@ -13,4 +12,7 @@ original_url: https://vk.com/wall-97265142_2687
 
 Tao, R., and Grimm, M. J. (March 25, 2024). "Simulation of the Childbirth Process in LS-DYNA." ASME. J Biomech Eng. June 2024; 146(6): 061002. https://doi.org/10.1115/1.4064594
 
+https://asmedigitalcollection.asme.org/biomechanical/article/146/6/061002/1195183/Simulation-of-the-Childbirth-Process-in-LS-DYNA
+
+[Simulation of the Childbirth Process in ls-dyna](https://doi.org/10.1115/1.4064594)
 https://asmedigitalcollection.asme.org/biomechanical/article/146/6/061002/1195183/Simulation-of-the-Childbirth-Process-in-LS-DYNA

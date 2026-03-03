@@ -4,12 +4,11 @@ title: "Project Chrono"
 date: 2021-03-12T13:01:28+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1922
 tags:
-  - gpu
+  - pychrono
   - open_source
   - projectchrono
-  - pychrono
+  - gpu
 ---
 
 Project Chrono
@@ -59,4 +58,12 @@ https://www.youtube.com/watch?v=ogia_qyFufI
 
 
 #gpu #open_source #projectchrono #pychrono
+https://tinyurl.com/ydqtbqdu
+
+[Chrono::Vehicle HMMWV with nonlinear FEA tires negotiating an obstacle on deformable, granular terrain](https://vimeo.com/185824185)
+https://youtu.be/FzF_W1-R5Eg
+https://youtu.be/pd_vmqW67lA
+https://projectchrono.org/
+https://www.youtube.com/watch?v=-ENZxnEj-io
+https://www.youtube.com/watch?v=ogia_qyFufI
 https://tinyurl.com/ydqtbqdu

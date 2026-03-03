@@ -4,14 +4,13 @@ title: "Коллеги из Tor-Egineering написали статью по м
 date: 2017-11-25T17:09:51+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_627
 tags:
   - Excel
-  - padtinc
+  - ANSYS
   - Workbench
   - Python
-  - ANSYS
   - TorEgineering
+  - padtinc
 ---
 
 Коллеги из Tor-Egineering написали статью по мотивам очень старой публикации #padtinc про то, как управляться #ANSYS #Workbench через #Excel при помощи #Python.
@@ -21,3 +20,6 @@ tags:
 #TorEgineering
 
 http://tor-eng.com/2017/04/ansys-workbench-excel-python/ 🔗 ANSYS Workbench with Excel and Python | Tor Engineering
+
+http://ift.tt/2vVUTKe
+http://tor-eng.com/2017/04/ansys-workbench-excel-python/

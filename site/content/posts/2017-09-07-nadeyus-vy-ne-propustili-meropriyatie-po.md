@@ -4,16 +4,15 @@ title: "Надеюсь вы не пропустили мероприятие п�
 date: 2017-09-07T14:31:20+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_479
 tags:
-  - NVIDIA
-  - Discovery
-  - Fluent
+  - ANSYS
   - Maxwell
   - Mechanical
   - AIM
-  - ANSYS
+  - Discovery
+  - NVIDIA
   - GPGPU
+  - Fluent
 ---
 
 Надеюсь вы не пропустили мероприятие по поводу #ANSYS #Discovery - это было очень круто. Математическое моделирование в реальном времени!
@@ -25,3 +24,6 @@ tags:
 А еще, на сайте продукта уже можно скачать техническое превью бесплатно.
 
 http://ansys.com/discovery 🔗 ANSYS Discovery Live: Instant Simulation Results
+
+http://ift.tt/2vk2wVv
+http://ansys.com/discovery

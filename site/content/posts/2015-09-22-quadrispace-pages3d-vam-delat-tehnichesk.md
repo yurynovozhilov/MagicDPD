@@ -4,10 +4,9 @@ title: "QuadriSpace Pages3D вам делать техническую доку�
 date: 2015-09-22T06:30:06+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_392
 tags:
-  - CAD
   - VCollab
+  - CAD
   - Pages3D
 ---
 

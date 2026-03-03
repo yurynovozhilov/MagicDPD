@@ -4,16 +4,15 @@ title: "Volvo говорит про LS-DYNA"
 date: 2019-09-18T11:47:06+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1586
 tags:
   - LS_DYNA
+  - HPC
+  - LSDYNA
+  - ANSA
+  - CAE
+  - Volvo
   - Meta
   - BETA
-  - CAE
-  - HPC
-  - ANSA
-  - LSDYNA
-  - Volvo
 ---
 
 Volvo говорит про LS-DYNA
@@ -27,3 +26,5 @@ Volvo говорит про LS-DYNA
 
 
 Comprehensive Safety CAE for the all-new Volvo S90/V90/V90CC
+
+[Comprehensive Safety CAE for the all-new Volvo S90/V90/V90CC](https://www.youtube.com/embed/kfYjxiZaESI?__ref=vk.api)

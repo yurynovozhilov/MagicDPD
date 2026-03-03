@@ -4,12 +4,11 @@ title: "Об использовании продуктов #Bentley компан
 date: 2015-11-19T08:35:08+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_731
 tags:
+  - BIM
   - MicroStation
   - Bentley
   - CAE
-  - BIM
 images:
   - url: "/assets/images/731.jpg"
 ---

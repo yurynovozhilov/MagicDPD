@@ -4,7 +4,6 @@ title: "Parasolid Version 31.1"
 date: 2019-05-01T17:01:31+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1462
 tags:
   - Siemens
   - Parasolid
@@ -27,4 +26,7 @@ Siemens выкатил новую версию Parasolid — пожалуй, г�
 
 #Parasolid #Siemens
 
+https://wp.me/p9vWYY-2uJ
+
+https://community.plm.automation.siemens.com/t5/Knowledge-Base/Parasolid-Version-31-1-Release-Highlights/ta-p/576985
 https://wp.me/p9vWYY-2uJ

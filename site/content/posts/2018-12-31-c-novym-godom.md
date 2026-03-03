@@ -4,7 +4,6 @@ title: "C новым годом!"
 date: 2018-12-31T17:00:24+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1297
 images:
   - url: "/assets/images/1298.jpg"
 ---
@@ -21,4 +20,7 @@ https://twitter.com/BECKER_3D_GmbH/status/1076043412326019072
 Описанные изменения не будут последними. Проект растет и развивается. По традиции в новогодние коникулы намечено внедрение очередного набора функций&nbsp;для нашего сообщества, о которых&nbsp;скоро расскажу.
 &nbsp;
 
+http://bit.ly/2QcKLSA
+
+[BECKER 3D GmbH](https://twitter.com/BECKER_3D_GmbH/status/1076043412326019072)
 http://bit.ly/2QcKLSA

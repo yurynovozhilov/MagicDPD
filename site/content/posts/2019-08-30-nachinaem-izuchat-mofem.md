@@ -4,14 +4,13 @@ title: "Начинаем изучать MoFEM"
 date: 2019-08-30T13:00:14+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1568
 tags:
+  - CUBIT
+  - crack
+  - Paraview
+  - Open_Source
   - fracture
   - MoFEM
-  - crack
-  - CUBIT
-  - Open_Source
-  - Paraview
 ---
 
 Начинаем изучать MoFEM
@@ -36,3 +35,8 @@ Accuracy is a necessity, but for industrial applications, robustness is essentia
 #crack #CUBIT #fracture #MoFEM #Open_Source #Paraview
 
 https://wp.me/p9vWYY-2EZ
+
+[MoFEM / @mofem@fosstodon.org (@mofemjoseph) on X](https://twitter.com/mofemjoseph)
+ic.twitter.com/SolWDVu8Lv— 
+ttps://wp.me/p9vWYY-2EZ
+

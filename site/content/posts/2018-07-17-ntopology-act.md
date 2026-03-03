@@ -4,15 +4,14 @@ title: "nTopology ACT"
 date: 2018-07-17T18:01:36+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1018
 tags:
-  - STL
+  - ANSYS
+  - Mechanical
   - Workbench
   - NTopology
-  - LatticeStructure
-  - Mechanical
   - ACT
-  - ANSYS
+  - LatticeStructure
+  - STL
 images:
   - url: "/assets/images/1019.jpg"
 ---
@@ -22,4 +21,7 @@ nTopology ACT
 https://appstore.ansys.com/shop/ACTApps_act%20apps/nTopologyLatticeCustomWorkflow_apc-actapp-403
 
 #ACT #ANSYS #LatticeStructure #Mechanical #NTopology #STL #Workbench
+http://bit.ly/2NWdFGw
+
+https://appstore.ansys.com/shop/ACTApps_act%20apps/nTopologyLatticeCustomWorkflow_apc-actapp-403
 http://bit.ly/2NWdFGw

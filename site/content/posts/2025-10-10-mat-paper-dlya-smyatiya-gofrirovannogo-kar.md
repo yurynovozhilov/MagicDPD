@@ -4,7 +4,6 @@ title: "*MAT_PAPER для смятия гофрированного картон
 date: 2025-10-10T15:05:19+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3033
 images:
   - url: "/assets/images/3033.jpg"
   - url: "/assets/images/3034.jpg"
@@ -18,5 +17,7 @@ images:
 Но тут добрые люди из TU Berlin и BAM Federal Institute for Materials Research and Testing смогли таки настроить данную модель для воспроизведения свойств многослойного гофрированного картона, который используется в упаковке, и который уже скорее сотовый заполнитель, чем бумага.
 
 Короче, все свойства в уже в статье, и скоро я закину их и в MaterialMap
+
+https://www.sciencedirect.com/science/article/pii/S2214785323026135?via%3Dihub
 
 https://www.sciencedirect.com/science/article/pii/S2214785323026135?via%3Dihub

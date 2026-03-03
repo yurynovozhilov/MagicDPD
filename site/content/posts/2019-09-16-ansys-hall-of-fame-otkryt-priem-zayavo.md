@@ -4,10 +4,9 @@ title: "ANSYS Hall of Fame — открыть прием заявок"
 date: 2019-09-16T13:00:19+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1585
 tags:
-  - ANSYS
   - Hall_of_Fame
+  - ANSYS
 images:
   - url: "/assets/images/1585.jpg"
 ---
@@ -22,3 +21,6 @@ ANSYS объявил о приеме работ на свой ежегодный
 
 
 Архив конкурсов прошлых лет: https://www.ansys.com/other/hall-of-fame/archive
+
+https://www.ansys.com/other/hall-of-fame
+https://www.ansys.com/other/hall-of-fame/archive

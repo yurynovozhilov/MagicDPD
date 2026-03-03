@@ -4,11 +4,10 @@ title: "Оптимизация HEX сетки"
 date: 2019-05-30T17:00:38+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1492
 tags:
+  - all_hex
   - mesh
   - PolyCut
-  - all_hex
 images:
   - url: "/assets/images/1492.jpg"
 ---
@@ -35,3 +34,6 @@ images:
 https://wp.me/p9vWYY-2wR
 
 by Юрий Новожилов
+
+https://www.researchgate.net/publication/283721976_Practical_Hex-Mesh_Optimization_via_Edge-Cone_Rectification
+https://wp.me/p9vWYY-2wR

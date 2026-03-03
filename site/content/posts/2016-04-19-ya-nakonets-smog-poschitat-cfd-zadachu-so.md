@@ -4,13 +4,12 @@ title: "Я наконец смог посчитать #CFD задачу со с�
 date: 2016-04-19T07:02:16+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1586
 tags:
+  - CFD
   - MPP
   - ICFD
-  - freesurface
-  - CFD
   - LSDYNA
+  - freesurface
 ---
 
 Я наконец смог посчитать #CFD задачу со свободной поверхностью в #LSDYNA #ICFD. Использовал слегка модифицированную постановку Sunao Tokura из стати "Validation of Fluid Analysis Capabilities in LS-DYNA Based on Experimental Result". Получилось неплохо. Есть несколько тонкостей:

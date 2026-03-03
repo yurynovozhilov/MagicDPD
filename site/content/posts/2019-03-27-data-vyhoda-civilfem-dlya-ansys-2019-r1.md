@@ -4,11 +4,10 @@ title: "Дата выхода CivilFEM для ANSYS 2019 R1"
 date: 2019-03-27T17:00:37+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1415
 tags:
   - CivilFEM
-  - ANSYS
   - Ingeciber
+  - ANSYS
 images:
   - url: "/assets/images/1415.jpg"
 ---
@@ -31,3 +30,6 @@ Ingesiber анонсировали, что 8 апреля 2019 года они �
 https://wp.me/p9vWYY-2rK
 
 by Юрий Новожилов
+
+https://www.civilfem.com/new-version-of-civilfem-for-ansys-19-1-2-3/
+https://wp.me/p9vWYY-2rK

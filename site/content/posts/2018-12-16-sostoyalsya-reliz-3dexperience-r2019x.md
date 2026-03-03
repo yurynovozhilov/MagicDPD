@@ -4,13 +4,12 @@ title: "Состоялся релиз 3DEXPERIENCE R2019x"
 date: 2018-12-16T17:00:22+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1268
 tags:
-  - TOSCA
-  - XFlow
   - CST
-  - ABAQUS
   - FeSafe
+  - TOSCA
+  - ABAQUS
+  - XFlow
 images:
   - url: "/assets/images/1269.jpg"
 ---
@@ -21,4 +20,7 @@ images:
 https://blogs.3ds.com/simulia/r2019x-release-established-products/
 
 #ABAQUS #CST #FeSafe #TOSCA #XFlow
+http://bit.ly/2UL0knU
+
+[R2019x Release: Established Products | The SIMULIA Blog](https://blogs.3ds.com/simulia/r2019x-release-established-products/)
 http://bit.ly/2UL0knU

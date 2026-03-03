@@ -4,14 +4,13 @@ title: "LimitState для проектирования топологии"
 date: 2017-05-29T17:00:28+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_360
 tags:
-  - topology
   - LimitState
-  - optimization
-  - Mechanical
-  - SpaceClaim
+  - topology
   - ANSYS
+  - Mechanical
+  - optimization
+  - SpaceClaim
 ---
 
 LimitState для проектирования топологии
@@ -26,3 +25,5 @@ https://youtu.be/yQI6e2iGlzE
 #topology #optimization
 
 https://youtu.be/yQI6e2iGlzE
+
+[LimitState:FORM | Design Optimization Software](https://youtu.be/yQI6e2iGlzE)

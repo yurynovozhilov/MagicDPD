@@ -4,14 +4,13 @@ title: "Моделирование роста трещин"
 date: 2016-10-08T17:00:13+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_137
 tags:
-  - XFEM
   - Abaqus
-  - Mechanical
-  - FEM
-  - LSDYNA
   - ANSYS
+  - XFEM
+  - Mechanical
+  - LSDYNA
+  - FEM
 ---
 
 Моделирование роста трещин
@@ -21,3 +20,5 @@ https://www.youtube.com/watch?v=FaS-VvNLM3c
 
 Специально по теме небольшой учебный пример:
 https://www.youtube.com/watch?v=FaS-VvNLM3c
+
+[XFEM 3D](https://www.youtube.com/watch?v=FaS-VvNLM3c)

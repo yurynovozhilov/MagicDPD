@@ -4,7 +4,6 @@ title: "Прием докладов – Human Modeling & Simulation 2025"
 date: 2025-05-20T14:25:06+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2948
 images:
   - url: "/assets/images/2948.jpg"
 ---

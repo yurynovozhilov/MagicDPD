@@ -4,7 +4,6 @@ title: "pymoo: Multi-objective Optimization in Python"
 date: 2024-06-12T13:02:16+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2721
 ---
 
 pymoo: Multi-objective Optimization in Python
@@ -37,4 +36,7 @@ pymoo: Multi-objective Optimization in Python
 
 https://github.com/anyoptimization/pymoo-data/raw/main/animation.gif
 
+https://www.pymoo.org/
+
+https://github.com/anyoptimization/pymoo-data/raw/main/animation.gif
 https://www.pymoo.org/

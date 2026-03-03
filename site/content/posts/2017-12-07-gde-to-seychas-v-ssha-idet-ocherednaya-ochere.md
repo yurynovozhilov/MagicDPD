@@ -4,11 +4,10 @@ title: "Где-то сейчас в США идет очередная очер�
 date: 2017-12-07T17:03:18+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_643
 tags:
   - Supermicro
-  - HPC
   - SC17
+  - HPC
 ---
 
 Где-то сейчас в США идет очередная очередная главная #HPC выставка-конференция #SC17. И на ней уважаемые #Supermicro показывают кучу всего очень нового и очень интересного.
@@ -18,3 +17,11 @@ tags:
 https://www.youtube.com/watch?v=tlL…Media📼 Supermicro Booth Tour at SC17
 
 http://ift.tt/2nDNiMy
+
+http://ift.tt/2emhAvW
+http://ift.tt/2zX5PoD
+http://ift.tt/2nEppo4
+https://www.youtube.com/watch?v=tlL68-PBt6E&feature=share
+http://ift.tt/2zX5Rgf
+http://ift.tt/2nDNiMy
+ttp://ift.tt/2nDNiMy

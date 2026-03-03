@@ -4,13 +4,12 @@ title: "vSMP для AMD EPYC"
 date: 2019-03-22T12:00:19+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1409
 tags:
+  - EPIС
+  - HPC
+  - vSMP
   - AMD
   - ScaleMP
-  - HPC
-  - EPIС
-  - vSMP
 images:
   - url: "/assets/images/1409.jpg"
 ---
@@ -29,5 +28,7 @@ vSMP для AMD EPYC
 В итоге получим одну виртаульную машину на 256 физических ядер и общей памятью.
 
 #AMD #EPIС #HPC #ScaleMP #vSMP
+
+https://wp.me/p9vWYY-2r5
 
 https://wp.me/p9vWYY-2r5

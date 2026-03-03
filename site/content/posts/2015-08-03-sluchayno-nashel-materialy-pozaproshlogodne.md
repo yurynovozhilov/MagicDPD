@@ -4,7 +4,8 @@ title: "Случайно нашел материалы позапрошлого�
 date: 2015-08-03T07:00:25+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_156
 ---
 
 Случайно нашел материалы позапрошлогоднего семинара DYNAmore по биомеханике. Завораживающие материалы. Особенно понравилось, что в LS-DYNA есть специальные материалы для человеческих тканей.
+
+[2013 Biomechanics with LS-DYNA —  ](http://www.dynamore.de/de/download/presentation/dokumente/2013-Bio-ppt)

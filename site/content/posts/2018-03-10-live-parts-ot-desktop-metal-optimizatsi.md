@@ -4,13 +4,12 @@ title: "Live Parts от Desktop Metal - оптимизация топологи�
 date: 2018-03-10T18:02:17+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_841
 tags:
+  - GPU
+  - Optimization
   - Topology
   - SolidWorks
   - Desktop_Metal
-  - GPU
-  - Optimization
 images:
   - url: "/assets/images/842.jpg"
 ---
@@ -34,4 +33,9 @@ http://www.develop3d.com/blog/2018/02/desktop-metal-launch-live-parts
 P.S. Получилась система, как если бы ANSYS научил свой Discovery Live делать топологическую оптимизаию.
 
 #Desktop_Metal #GPU #Optimization #SolidWorks #Topology
+https://goo.gl/Bfi1Ua
+
+https://labs.desktopmetal.com/liveparts/
+https://magicdpd.ru/wp-content/uploads/2018/03/source.mp4
+http://www.develop3d.com/blog/2018/02/desktop-metal-launch-live-parts
 https://goo.gl/Bfi1Ua

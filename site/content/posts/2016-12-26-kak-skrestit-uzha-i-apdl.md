@@ -4,16 +4,15 @@ title: "Как скрестить ужа и APDL"
 date: 2016-12-26T09:10:13+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_231
 tags:
-  - IPython
-  - Ozen
+  - ANSYS
   - APDL
   - Mechanical
-  - ACT
   - Python
+  - Ozen
   - Jupiter
-  - ANSYS
+  - ACT
+  - IPython
 ---
 
 Как скрестить ужа и APDL
@@ -26,3 +25,7 @@ https://appstore.ansys.com/shop/ACTApps_act apps/SimulationNotebook_apc-actapp-7
 Видео смотреть всем: https://support.ansys.com/cpstaticassets/ANSYS%20Customer%20Portal/Training%20Materials/thumbs/SimulationNotebook%20demo.mp4
 
 P.S. ACT платное, что не удивительно для такой сложности продукта.
+
+https://appstore.ansys.com/shop/ACTApps_act
+http://jupyter.org
+https://support.ansys.com/cpstaticassets/ANSYS%20Customer%20Portal/Training%20Materials/thumbs/SimulationNotebook%20demo.mp4

@@ -4,14 +4,13 @@ title: "Никуда без аддитивных технологий"
 date: 2016-10-14T17:01:02+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_144
 tags:
-  - SIMULIA
   - topology
-  - AM
-  - optimization
-  - APDL
   - ANSYS
+  - APDL
+  - optimization
+  - SIMULIA
+  - AM
 ---
 
 Никуда без аддитивных технологий
@@ -21,3 +20,5 @@ https://www.youtube.com/watch?v=L_gr3Fn289I
 
 #topology #optimization
 https://www.youtube.com/watch?v=L_gr3Fn289I
+
+[Additive Manufacturing Excerpt from Technology For Science SIMULIA](https://www.youtube.com/watch?v=L_gr3Fn289I)

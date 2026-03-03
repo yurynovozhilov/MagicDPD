@@ -4,13 +4,12 @@ title: "Let's simulate badminton"
 date: 2018-02-10T18:01:40+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_781
 tags:
-  - RADIOSS
-  - Evolve
-  - solidThinking
-  - explicit
   - Altair
+  - RADIOSS
+  - solidThinking
+  - Evolve
+  - explicit
 images:
   - url: "/assets/images/782.jpg"
 ---
@@ -28,4 +27,9 @@ You could find original post here: http://innovationintelligence.com/simulation-
 
 I provide link to solidThinking Evolve page also: https://solidthinking.com/ProductOverview.aspx?item=Evolve%20Overview&amp;category=Products
 #Altair #Evolve #explicit #RADIOSS #solidThinking
+https://wp.me/p9vWYY-1Di
+
+https://magicdpd.ru/wp-content/uploads/2018/02/badminton-300x240.gif
+http://innovationintelligence.com/simulation-badminton-racquet/
+https://solidthinking.com/ProductOverview.aspx?item=Evolve%20Overview&amp;category=Products
 https://wp.me/p9vWYY-1Di

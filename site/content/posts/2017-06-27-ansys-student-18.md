@@ -4,14 +4,13 @@ title: "ANSYS Student 18"
 date: 2017-06-27T17:00:45+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_387
 tags:
+  - ANSYS
   - Cornell
-  - Student
   - EdX
   - Workbench
   - AIM
-  - ANSYS
+  - Student
 ---
 
 ANSYS Student 18
@@ -26,3 +25,7 @@ http://www.ansys-blog.com/free-download-ansys-student-product/
 - ANSYS Academic Support: http://www.ansys.com/products/academic/support-resources
 
 Вы можете, можете, можете... надо только поставить цель!
+
+[Free Download – New ANSYS Student Product Downloads Released](http://www.ansys-blog.com/free-download-ansys-student-product/)
+https://www.edx.org/course/hands-introduction-engineering-cornellx-engr2000x-0
+http://www.ansys.com/products/academic/support-resources

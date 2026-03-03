@@ -250,14 +250,24 @@ def build_post(
     # Remove trailing hashtag blocks if they were appended at the end of a post.
     body = remove_trailing_tag_lines(body)
 
-    # Calculate original post URL on the source platform
-    original_url = None
-    post_id = post.get("id") or post.get("grouped_id")
-    if post_id:
-        if source == "vk":
-            original_url = f"https://vk.com/wall{VK_OWNER_ID}_{post_id}"
-        elif source == "tg":
-            original_url = f"https://t.me/{TG_CHANNEL}/{post_id}"
+    # Append links from webpage attachments to the body
+    webpage_links = []
+    for item in post.get("media", []):
+        if item.get("type") == "webpage" and item.get("url"):
+            title_wp = item.get("title") or ""
+            url_wp = item["url"]
+            if title_wp and title_wp != "(no title)":
+                webpage_links.append(f"[{title_wp}]({url_wp})")
+            else:
+                webpage_links.append(url_wp)
+    # Add any links not already covered by webpage items
+    webpage_urls = {item["url"] for item in post.get("media", []) if item.get("type") == "webpage" and item.get("url")}
+    for url in post.get("links", []):
+        if url not in webpage_urls:
+            webpage_links.append(url)
+
+    if webpage_links:
+        body = body.rstrip("\n") + "\n\n" + "\n".join(webpage_links)
 
     return {
         "title": title,
@@ -268,7 +278,6 @@ def build_post(
         "tags": tags,
         "source": source,
         "images": extract_images(post, media_index, images_index),
-        "original_url": original_url,
     }
 
 def write_post_file(post: dict):
@@ -288,9 +297,6 @@ def write_post_file(post: dict):
         f"source: {post['source']}",
     ]
 
-    if post.get("original_url"):
-        front_matter.append(f"original_url: {post['original_url']}")
-    
     if post.get("tags"):
         front_matter.append("tags:")
         for tag in post["tags"]:

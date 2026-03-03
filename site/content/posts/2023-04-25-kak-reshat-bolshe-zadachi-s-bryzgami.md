@@ -4,7 +4,6 @@ title: "Как решать больше задачи с брызгами?"
 date: 2023-04-25T16:35:55+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2395
 images:
   - url: "/assets/images/2395.jpg"
 ---
@@ -17,5 +16,7 @@ images:
 Как показывает обзор современных публикаций, все предпочитают использовать для этого SPH и его вариации.
 
 Примером сравнения реализаций работы данного метода является отчет Чалмерского технологического университета (Chalmers). Свое исследованием она выполнили по заказу Volvo Trucks. В данном отчете проведено подробное сравненеие работы Ansys LS-DYNA (IISPH), Preonlab (IISPH) и Siemens Simcenter SPH Flow (Riemann-SPH). Кроме SPH коллеги затронули и VOF с MPS.
+
+https://hdl.handle.net/20.500.12380/305367
 
 https://hdl.handle.net/20.500.12380/305367

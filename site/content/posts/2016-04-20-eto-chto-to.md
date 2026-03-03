@@ -4,7 +4,6 @@ title: "Это что-то!"
 date: 2016-04-20T09:29:22+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1593
 ---
 
 Это что-то!

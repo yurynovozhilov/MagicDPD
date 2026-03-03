@@ -4,13 +4,12 @@ title: "Реализация RAID алгоритмов на GPU"
 date: 2018-04-06T18:01:07+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_885
 tags:
+  - GPU
+  - HPC
+  - RAID
   - NVIDIA
   - Nyriad
-  - RAID
-  - HPC
-  - GPU
 images:
   - url: "/assets/images/886.jpg"
 ---
@@ -20,4 +19,6 @@ images:
 
 
 #GPU #HPC #NVIDIA #Nyriad #RAID
+https://goo.gl/DxwUSU
+
 https://goo.gl/DxwUSU

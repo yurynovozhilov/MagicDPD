@@ -4,7 +4,6 @@ title: "Моделирование смазки автоматической к�
 date: 2018-01-28T17:01:32+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_752
 images:
   - url: "/assets/images/753.jpg"
 ---
@@ -14,4 +13,7 @@ images:
 
 https://www.youtube.com/watch?v=GIy-wYwbqEA
 
+https://magicdpd.ru/?p=6097
+
+https://www.youtube.com/watch?v=GIy-wYwbqEA
 https://magicdpd.ru/?p=6097

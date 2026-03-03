@@ -4,12 +4,11 @@ title: "Решатели, которые могут Powder bed melting"
 date: 2019-09-13T13:00:55+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1582
 tags:
-  - Fluent
-  - Additive_Manufacturing
   - CFD
+  - Fluent
   - FLOW_3D
+  - Additive_Manufacturing
 images:
   - url: "/assets/images/1582.jpg"
 ---
@@ -36,5 +35,7 @@ images:
 Сначала при помощи DEM решателя мы формируем «геометрию» расположения порошка, а потом передаем это в CFD код, где уже работаем с VOF моделью.
 
 #Additive_Manufacturing #CFD #FLOW_3D #Fluent
+
+https://wp.me/p9vWYY-2FD
 
 https://wp.me/p9vWYY-2FD

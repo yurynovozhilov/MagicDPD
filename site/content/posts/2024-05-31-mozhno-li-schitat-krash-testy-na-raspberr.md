@@ -4,7 +4,6 @@ title: "Можно ли считать краш тесты на  Raspberry Pi?"
 date: 2024-05-31T13:01:56+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2713
 tags:
   - simulationfriday
 ---
@@ -15,3 +14,5 @@ tags:
 OpenRadioss на GPU...
 
 https://youtu.be/fN7Enn9siyU
+
+[OpenRadioss on a Raspberry Pi](https://youtu.be/fN7Enn9siyU)

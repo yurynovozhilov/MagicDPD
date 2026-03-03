@@ -4,15 +4,14 @@ title: "AniForm - штамповка композитов"
 date: 2021-12-27T13:01:30+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2054
 tags:
-  - forming
-  - digimat
-  - abaqus
-  - composite
-  - lsdyna
   - acp
+  - abaqus
+  - forming
+  - lsdyna
   - ansys
+  - digimat
+  - composite
 ---
 
 AniForm - штамповка композитов
@@ -30,4 +29,8 @@ https://youtu.be/-_nbLgicSe8?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq
 
 
 #abaqus #acp #ansys #composite #digimat #forming #lsdyna
+https://tinyurl.com/y6s22ms2
+
+[AniForm General: First-time-right process implementation](https://youtu.be/07GAWmAvDKE?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq)
+https://youtu.be/-_nbLgicSe8?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq
 https://tinyurl.com/y6s22ms2

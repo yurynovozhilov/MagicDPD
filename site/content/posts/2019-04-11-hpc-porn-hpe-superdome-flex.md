@@ -4,10 +4,9 @@ title: "HPC porn: HPE Superdome Flex"
 date: 2019-04-11T12:01:15+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1443
 tags:
-  - HPC
   - HPE
+  - HPC
 images:
   - url: "/assets/images/1443.jpg"
 ---
@@ -32,3 +31,5 @@ HPC porn: HPE Superdome Flex
 https://wp.me/p9vWYY-2tb
 
 by Юрий Новожилов
+
+https://wp.me/p9vWYY-2tb

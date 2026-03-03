@@ -4,14 +4,13 @@ title: "ANSYS AM - доклад"
 date: 2018-08-16T18:01:12+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1073
 tags:
+  - ANSYS
+  - AdditiveManufacturing
+  - Mechanical
   - 3DSIM
   - AM
-  - AdditiveManufacturing
   - AdditivePrint
-  - Mechanical
-  - ANSYS
 images:
   - url: "/assets/images/1074.jpg"
 ---
@@ -22,4 +21,7 @@ ANSYS AM - доклад
 &nbsp;
 
 #3DSIM #AdditiveManufacturing #AdditivePrint #AM #ANSYS #Mechanical
+http://bit.ly/2OGXLzf
+
+[Brent Stucker](https://www.researchgate.net/profile/Brent_Stucker)
 http://bit.ly/2OGXLzf

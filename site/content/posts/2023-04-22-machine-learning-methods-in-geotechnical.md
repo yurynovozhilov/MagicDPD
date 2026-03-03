@@ -4,7 +4,6 @@ title: "Machine Learning Methods in Geotechnical Engineering"
 date: 2023-04-22T08:46:23+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2390
 ---
 
 Machine Learning Methods in Geotechnical Engineering
@@ -16,3 +15,5 @@ Machine Learning Methods in Geotechnical Engineering
 Докладчик вебинара, ведущий - профессор Маджид Назем из Университета RMIT, Мельбурн, Австралия.
 
 https://youtu.be/iTSYLdGrJJI
+
+[Machine Learning Methods in Geotechnical Engineering](https://youtu.be/iTSYLdGrJJI)

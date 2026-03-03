@@ -4,13 +4,12 @@ title: "Bullet Constraints Builder"
 date: 2022-02-08T17:00:04+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2125
 tags:
   - Kostack
-  - DEM
-  - FEM
   - Bullet
   - Blender
+  - DEM
+  - FEM
   - AEM
 ---
 
@@ -22,3 +21,5 @@ Bullet Constraints Builder
 В рамках проекта разрабатывается движок - дополнение #Bullet в #Blender.  Дополнение позволит приписывать реалистичные прочностные свойства моделям.
 
 #Kostack Studio https://www.youtube.com/watch?v=eh3qUmNxC6E
+
+[Blender Demolition - Case Study: World Trade Center (slowed down)](https://www.youtube.com/watch?v=eh3qUmNxC6E)

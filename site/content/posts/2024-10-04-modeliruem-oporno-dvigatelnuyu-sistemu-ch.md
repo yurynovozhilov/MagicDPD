@@ -4,7 +4,6 @@ title: "Моделируем опорно-двигательную систем�
 date: 2024-10-04T12:01:30+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2795
 images:
   - url: "/assets/images/2795.jpg"
 ---
@@ -20,5 +19,7 @@ SCONE поддерживает модели из OpenSim 3, OpenSim 4 и Hyfydy,
 SCONE включает в себя API на языке Python, разработанный и оптимизированный для приложений машинного обучения.
 
 SCONE доступен для Windows, Linux и macOS.
+
+https://scone.software/
 
 https://scone.software/

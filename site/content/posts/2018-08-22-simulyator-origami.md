@@ -4,12 +4,11 @@ title: "Симулятор оригами"
 date: 2018-08-22T18:00:55+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1084
 tags:
-  - Game
-  - OpenSource
-  - GitHub
   - Origami
+  - GitHub
+  - OpenSource
+  - Game
 images:
   - url: "/assets/images/1085.jpg"
 ---
@@ -31,4 +30,8 @@ images:
 http://www.amandaghassaei.com/projects/origami_simulator/
 
 #Game #GitHub #OpenSource #Origami
+http://bit.ly/2nZtAbl
+
+https://amandaghassaei.com/projects/origami_simulator/
+http://www.amandaghassaei.com/projects/origami_simulator/
 http://bit.ly/2nZtAbl

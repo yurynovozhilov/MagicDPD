@@ -4,16 +4,15 @@ title: "Возможно вы слышали, что Ansys недавно вып
 date: 2022-04-04T17:00:29+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2199
 tags:
-  - PyAEDT
-  - pyAnsys
   - Granta
-  - PyMAPDL
-  - Ansys
   - legendpeople
-  - opensource
   - Python
+  - pyAnsys
+  - PyMAPDL
+  - PyAEDT
+  - Ansys
+  - opensource
 ---
 
 Возможно вы слышали, что Ansys недавно выпустил #opensource библиотеку #pyAnsys, которая позволят использовать продукты и решетили #Ansys прямо из среды #Python. Прямо сейчас доступны седеющие пакеты #PyMAPDL, #PyAEDT, PyDPF-Core, PyDPF-Post, Legacy PyMAPDL Reader и #Granta MI BoM Analytics: Pythonic.
@@ -23,3 +22,5 @@ tags:
 Короче, Pierre Thieffry - один из моих кумиров от мира прикладного МКЭ, так что не пропустите начало его серии вебинаров 27 апреля!
 
 #legendpeople https://www.ansys.com/events/scripting-hacks-automating-repetitive-tasks-in-ansys-mechanical
+
+[Scripting Hacks: Automating Repetitive Tasks in Ansys Mechanical  | Ansys](https://www.ansys.com/events/scripting-hacks-automating-repetitive-tasks-in-ansys-mechanical)

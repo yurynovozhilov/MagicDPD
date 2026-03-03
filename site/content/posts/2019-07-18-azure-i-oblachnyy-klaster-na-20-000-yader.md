@@ -4,11 +4,10 @@ title: "Azure и облачный кластер на 20 000 ядер"
 date: 2019-07-18T13:00:18+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1532
 tags:
-  - HPC
-  - Azure
   - cloud
+  - Azure
+  - HPC
 images:
   - url: "/assets/images/1532.jpg"
 ---
@@ -36,4 +35,7 @@ https://azure.microsoft.com/en-us/blog/azure-hc-series-virtual-machines-crosses-
 
 #Azure #cloud #HPC
 
+https://wp.me/p9vWYY-2BH
+
+https://azure.microsoft.com/en-us/blog/azure-hc-series-virtual-machines-crosses-20000-cores-for-hpc-workloads/
 https://wp.me/p9vWYY-2BH

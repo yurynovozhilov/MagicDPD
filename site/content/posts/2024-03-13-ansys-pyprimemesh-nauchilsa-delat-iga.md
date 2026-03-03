@@ -4,7 +4,6 @@ title: "Ansys pyPrimeMesh научилса делать IGA"
 date: 2024-03-13T14:01:35+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2667
 images:
   - url: "/assets/images/2667.jpg"
 ---
@@ -15,4 +14,7 @@ Ansys pyPrimeMesh научилса делать IGA
 
 https://developer.ansys.com/docs/prime-mesh-python-client-library-2024-r1-sp1/user_guide/iga.md
 
+https://lsdyna.ansys.com/wp-content/uploads/2023/12/Creation-of-Unstructured-Splines-for-IGA-based-solutions-in-LS-DYNA-Mukul-Kanitkar-Ansys-1.pdf
+
+https://developer.ansys.com/docs/prime-mesh-python-client-library-2024-r1-sp1/user_guide/iga.md
 https://lsdyna.ansys.com/wp-content/uploads/2023/12/Creation-of-Unstructured-Splines-for-IGA-based-solutions-in-LS-DYNA-Mukul-Kanitkar-Ansys-1.pdf

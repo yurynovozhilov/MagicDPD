@@ -4,12 +4,11 @@ title: "Лекции по SPH от создателя метода"
 date: 2021-04-13T13:01:27+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1943
 tags:
   - legendpeople
-  - theory
-  - shp
   - meshless
+  - shp
+  - theory
 ---
 
 Лекции по SPH от создателя метода
@@ -31,3 +30,7 @@ https://www.youtube.com/watch?v=OTlygbegQT4
 #legendpeople #meshless #shp #theory
 https://tinyurl.com/yg22z5p8
 by Юрий Новожилов
+
+[Joe Monaghan: Introduction to SPH Part I](https://www.youtube.com/watch?v=tAXHCAEgSuE)
+https://www.youtube.com/watch?v=OTlygbegQT4
+https://tinyurl.com/yg22z5p8

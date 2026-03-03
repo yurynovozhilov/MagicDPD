@@ -4,17 +4,16 @@ title: "#MPS (Moving Particle Simulation) - бессеточный метод д
 date: 2016-04-11T07:01:00+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1566
 tags:
-  - NVIDIA
-  - Prometech
-  - SPH
-  - DEM
-  - Particleworks
   - GPU
+  - Particleworks
   - XFlowCFD
+  - DEM
   - MPS
+  - Prometech
+  - NVIDIA
   - LES
+  - SPH
 ---
 
 #MPS (Moving Particle Simulation) - бессеточный метод для решения задач взаимодействия жидкости и твердого тела похоже учел все недостатки своих конкурентов и исправил их разом.
@@ -25,3 +24,5 @@ tags:
 На мой взгляд, это может быть по круче чем #XFlowCFD с их решеточным методом Больцмана.
 
 Базовая теория по работе метода прилагается.
+
+[particleworks highlights](http://www.prometechsoftware.com/particleworks.html)

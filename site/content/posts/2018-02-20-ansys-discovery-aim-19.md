@@ -4,7 +4,6 @@ title: "ANSYS Discovery AIM 19"
 date: 2018-02-20T18:01:11+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_808
 tags:
   - Discovery
   - AIM
@@ -25,3 +24,5 @@ https://www.youtube.com/watch?v=ThW58RG1Kjw
 Пористые изотропные или ортотропные среды для CFD расчетов
 Связка тепла и электромагнитной составляющей решателя
 Поддержка секущих плоскостей и эпюр (наконец-то)
+
+https://www.youtube.com/watch?v=ThW58RG1Kjw

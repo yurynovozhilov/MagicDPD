@@ -4,13 +4,12 @@ title: "Проектирование углепластикового спорт
 date: 2018-04-26T18:01:14+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_920
 tags:
-  - composite
-  - ACP
-  - Mechanical
   - ANSYS
   - ACCS
+  - Mechanical
+  - ACP
+  - composite
 ---
 
 Проектирование углепластикового спортивного диска
@@ -19,5 +18,7 @@ tags:
 
 Кроме того, не забываем о возможностях посчитать ударные нагрузки в Explicit STR или LS-DYNA или учесть возможное коробление при спекании в ANSYS Composite Cure Simulation (ASSC).
 #ACCS #ACP #ANSYS #composite #Mechanical
+
+https://wp.me/p9vWYY-1Nz
 
 https://wp.me/p9vWYY-1Nz

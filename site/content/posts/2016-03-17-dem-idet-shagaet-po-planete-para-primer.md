@@ -4,10 +4,9 @@ title: "#DEM идет-шагает по планете. Пара примеро�
 date: 2016-03-17T12:02:14+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1438
 tags:
-  - DEM
   - Rocky
+  - DEM
   - LSDYNA
 ---
 

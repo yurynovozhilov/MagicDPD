@@ -4,13 +4,12 @@ title: "Старая, но очень полезная методичка от #
 date: 2017-10-25T17:10:17+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_569
 tags:
   - ConWep
   - LSDYNA
+  - LSTС
   - blast
   - ALEMedia
-  - LSTС
 ---
 
 Старая, но очень полезная методичка от #LSTС о том, как правильно прикладывать давление ударной волны при помощи эмпирической модели LOAD_BLAST(_ENHANCED). Это очень полезное граничное условие работает сильно лучше, чем традиционный #ConWep и имеет кучу дополнительных опций и возможностей:
@@ -27,3 +26,12 @@ P.S. На последнем слайде есть живая ссылка на 
 #LSDYNA #blast #ALEMedia💾 ucsd.pdf
 
 http://ift.tt/2izEeGr
+
+http://ift.tt/2gEkv3T
+http://ift.tt/2i5tbAL
+http://ift.tt/2vlBJYZ
+http://ift.tt/2i5tcEP
+http://ift.tt/2gD26os
+http://ift.tt/2i4DPYu
+http://ift.tt/2gBA8JF
+ttp://ift.tt/2izEeGr

@@ -4,7 +4,6 @@ title: "Друзья, открыта вакансия на PhD студента 
 date: 2023-12-25T15:01:06+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2605
 images:
   - url: "/assets/images/2606.jpg"
 ---
@@ -33,3 +32,7 @@ images:
 Потенциально это хороший путь для иммиграции.
 
 По всем вопросам пишите Яну (https://t.me/pozhanka) до 15 января.
+
+[Andrei Zagrai](https://www.researchgate.net/profile/Andrei-Zagrai)
+https://www.nmt.edu/gradstudies/EnglishReqs.php
+https://t.me/pozhanka

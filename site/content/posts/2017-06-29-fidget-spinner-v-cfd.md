@@ -4,12 +4,11 @@ title: "Fidget Spinner в CFD"
 date: 2017-06-29T17:01:39+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_390
 tags:
-  - FidgetSpinner
-  - CFD
   - AcuSolve
+  - CFD
   - Altair
+  - FidgetSpinner
 ---
 
 Fidget Spinner в CFD

@@ -4,10 +4,9 @@ title: "FLACS-CFD для задач промешенной безопаснос�
 date: 2021-12-02T13:56:05+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2044
 tags:
-  - blast
   - flacs
+  - blast
 ---
 
 FLACS-CFD для задач промешенной безопасности
@@ -29,4 +28,9 @@ https://youtu.be/ob4rLIDQ_ss
 
 Официальный сайт кода: www.gexcon.com/products-services/flacs-software/
 #blast #flacs-cfd
+https://tinyurl.com/yyn7oz89
+
+[Dust Explosion Modelling (FLACS-DustEx)](https://www.youtube.com/watch?v=THAiVZSDJDI)
+https://youtu.be/ob4rLIDQ_ss
+https://www.gexcon.com/products-services/flacs-software/
 https://tinyurl.com/yyn7oz89

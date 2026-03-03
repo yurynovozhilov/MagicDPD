@@ -4,7 +4,6 @@ title: "Неправильный ГИВ"
 date: 2023-08-21T18:01:25+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2507
 ---
 
 Неправильный ГИВ

@@ -4,13 +4,12 @@ title: "Конференция WOST 2020"
 date: 2020-06-22T13:00:22+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1786
 tags:
-  - WOST
-  - Dynardo
-  - optiSLang
-  - optimization
   - ANSYS
+  - optiSLang
+  - WOST
+  - optimization
+  - Dynardo
 images:
   - url: "/assets/images/1786.jpg"
 ---

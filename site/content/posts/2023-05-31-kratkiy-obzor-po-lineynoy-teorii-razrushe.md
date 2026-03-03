@@ -4,7 +4,6 @@ title: "Краткий обзор по линейной теории разру�
 date: 2023-05-31T11:21:43+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2425
 ---
 
 Краткий обзор по линейной теории разрушения  (Linear Elastic Fracture Mechanics, LEFM)
@@ -14,3 +13,5 @@ original_url: https://vk.com/wall-97265142_2425
 - 3 формы разрушения, коэффициенты интенсивности напряжений и их экспериментальные измерения
 
 https://www.youtube.com/watch?v=vu0d25_K41Q
+
+[A Quick Review of Linear Elastic Fracture Mechanics (LEFM)](https://www.youtube.com/watch?v=vu0d25_K41Q)

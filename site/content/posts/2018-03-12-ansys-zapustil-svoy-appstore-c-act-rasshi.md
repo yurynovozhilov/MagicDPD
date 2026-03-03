@@ -4,7 +4,6 @@ title: "ANSYS запустил свой AppStore c ACT расширениями 
 date: 2018-03-12T18:01:03+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_845
 tags:
   - ACT
   - ANSYS
@@ -18,4 +17,7 @@ ACT — Application Customisation Toolkit — всевозможные расш
 &nbsp;
 
 #ACT #ANSYS
+https://goo.gl/827Zvi
+
+https://appstore.ansys.com/
 https://goo.gl/827Zvi

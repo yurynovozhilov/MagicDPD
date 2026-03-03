@@ -4,13 +4,12 @@ title: "Моделирование установки стента в LS-DYNA Im
 date: 2018-10-23T17:02:06+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1167
 tags:
-  - Coronary
-  - Stent
-  - LSDYNA
   - Implicit
+  - Stent
   - LSTC
+  - Coronary
+  - LSDYNA
 images:
   - url: "/assets/images/1168.jpg"
 ---
@@ -27,4 +26,8 @@ Finite element methods to analyze helical stent expansion
 https://doi.org/10.1002/cnm.2605
 
 #Coronary #Implicit #LSDYNA #LSTC #Stent
+http://bit.ly/2PL9VIh
+
+[Numerical analysis of crimping and inflation process of balloon‐expandable coronary stent using implicit solution](https://doi.org/10.1002/cnm.2890)
+https://doi.org/10.1002/cnm.2605
 http://bit.ly/2PL9VIh

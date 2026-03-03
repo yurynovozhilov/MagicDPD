@@ -4,10 +4,9 @@ title: "Drop tests with ANSYS/LS-DYNA"
 date: 2018-02-13T07:01:19+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_789
 tags:
-  - drop
   - explicit
+  - drop
   - LS
   - ANSYS
 images:
@@ -34,4 +33,7 @@ So that, ANSYS Explicit STR will be enough in case of simple drop test cases.
 
 You could find original slides here: http://www.cadfemukandireland.com/wp-content/uploads/2017/10/0930-Ian-turner-Drop-Test.pdf
 #ANSYS #ANSYS Explicit STR #drop test #explicit #LS-DYNA
+https://wp.me/p9vWYY-1DA
+
+http://www.cadfemukandireland.com/wp-content/uploads/2017/10/0930-Ian-turner-Drop-Test.pdf
 https://wp.me/p9vWYY-1DA

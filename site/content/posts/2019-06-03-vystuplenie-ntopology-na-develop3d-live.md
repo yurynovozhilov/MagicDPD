@@ -4,11 +4,10 @@ title: "Выступление nTopology на DEVELOP3D LIVE 2019"
 date: 2019-06-03T17:00:45+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1496
 tags:
+  - DEVELOP3D
   - nTopology
   - Additive_Manufacturing
-  - DEVELOP3D
 images:
   - url: "/assets/images/1496.jpg"
 ---

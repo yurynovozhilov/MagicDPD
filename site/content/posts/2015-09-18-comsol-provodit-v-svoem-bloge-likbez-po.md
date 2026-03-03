@@ -4,7 +4,6 @@ title: "COMSOL проводит в своем блоге ликбез по те�
 date: 2015-09-18T07:00:06+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_380
 tags:
   - COMSOL
   - FEA
@@ -17,3 +16,5 @@ COMSOL проводит в своем блоге ликбез по теме ге
 #COMSOL #FEA
 
 http://www.comsol.com/blogs/what-is-geometric-nonlinearity/
+
+[What Is Geometric Nonlinearity?](http://www.comsol.com/blogs/what-is-geometric-nonlinearity/)

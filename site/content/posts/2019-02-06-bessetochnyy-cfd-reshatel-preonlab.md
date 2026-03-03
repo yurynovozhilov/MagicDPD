@@ -4,7 +4,6 @@ title: "Бессеточный CFD решатель PreonLab"
 date: 2019-02-06T17:00:48+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1334
 tags:
   - preonlab
   - CFD
@@ -55,3 +54,10 @@ https://www.youtube.com/watch?v=osFWUdn0TmQ
 https://wp.me/p9vWYY-2jc
 
 by Юрий Новожилов
+
+https://youtu.be/3WjJYI8vkK4
+https://youtu.be/CEerYI-BAgE
+https://www.youtube.com/watch?v=VCswHNhWTmE
+https://www.youtube.com/watch?v=osFWUdn0TmQ
+https://www.fifty2.eu/preonlab/
+https://wp.me/p9vWYY-2jc

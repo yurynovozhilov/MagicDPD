@@ -4,20 +4,19 @@ title: "#zCFD - #CFD код от #Zenotech для расчета сжимаем�
 date: 2017-12-29T17:14:11+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_683
 tags:
-  - NVIDIA
-  - DES
-  - Galerkin
-  - Zenotech
-  - SAS
-  - Discontinuous
+  - LES
   - CFD
   - GPU
+  - Discontinuous
+  - DES
+  - SAS
   - LSDYNA
-  - HFSS
-  - LES
+  - Galerkin
   - zCFD
+  - HFSS
+  - Zenotech
+  - NVIDIA
   - RANS
 ---
 
@@ -34,3 +33,6 @@ tags:
 Верификационные примеры для кода прилагаются: http://ift.tt/2CmJ6GY
 
 https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/ 🔗 New zCFD release for affordable CFD at scale | Zenotech Ltd
+
+http://ift.tt/2ClqhnK
+https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/

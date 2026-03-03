@@ -4,12 +4,11 @@ title: "Электромагнитный решатель LS-DYNA: исполь�
 date: 2018-04-08T18:00:51+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_890
 tags:
   - LSTC
-  - LSDYNA
   - EM
   - Forming
+  - LSDYNA
 images:
   - url: "/assets/images/891.jpg"
 ---
@@ -23,4 +22,7 @@ images:
 Как обычно это бывает у LSTC, вы можете скачать модель для самостоятельного изучения тут: http://www.dynaexamples.com/em/em_axi
 
 #EM #Forming #LSDYNA #LSTC
+https://is.gd/QmTqht
+
+http://www.dynaexamples.com/em/em_axi
 https://is.gd/QmTqht

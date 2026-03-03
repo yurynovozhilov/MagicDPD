@@ -4,7 +4,6 @@ title: "Где спит твоё сердце"
 date: 2024-06-07T10:01:04+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2718
 ---
 
 Где спит твоё сердце
@@ -17,3 +16,6 @@ original_url: https://vk.com/wall-97265142_2718
 
 https://doi.org/10.1371/journal.pone.0235145 - научная статья
 https://zenodo.org/records/3890034 - архив моделей
+
+[A publicly available virtual cohort of four-chamber heart meshes for cardiac electro-mechanics simulations](https://doi.org/10.1371/journal.pone.0235145)
+https://zenodo.org/records/3890034

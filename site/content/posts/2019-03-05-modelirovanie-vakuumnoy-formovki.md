@@ -4,14 +4,13 @@ title: "Моделирование вакуумной формовки"
 date: 2019-03-05T17:01:05+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1375
 tags:
   - LS_DYNA
-  - forming
-  - Ployflow
-  - WildeAnalysis
-  - AIM
   - ANSYS
+  - Ployflow
+  - AIM
+  - forming
+  - WildeAnalysis
 images:
   - url: "/assets/images/1375.jpg"
 ---
@@ -53,3 +52,9 @@ https://www.youtube.com/watch?v=LQp4HyAVpMY
 https://wp.me/p9vWYY-2ng
 
 by Юрий Новожилов
+
+https://player.vimeo.com/video/296632632
+https://www.youtube.com/watch?v=zrlK6sHGoQs
+https://www.youtube.com/watch?v=LQp4HyAVpMY
+https://pdfs.semanticscholar.org/b893/97cb9904b3c94e3f701af0e4a4f640a5306a.pdf
+https://wp.me/p9vWYY-2ng

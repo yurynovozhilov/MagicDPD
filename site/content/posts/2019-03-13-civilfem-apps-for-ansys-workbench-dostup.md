@@ -4,12 +4,11 @@ title: "CivilFEM APPs for ANSYS Workbench доступен в каталоге A
 date: 2019-03-13T12:00:42+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1390
 tags:
-  - ACT
   - CivilFEM
-  - ANSYS
+  - ACT
   - Ingeciber
+  - ANSYS
 images:
   - url: "/assets/images/1390.jpg"
 ---
@@ -30,4 +29,8 @@ AISC/ACI Check & Design: https://catalog.ansys.com/product/5c80073a393ff66ca0d50
 
 #ACT #ANSYS #CivilFEM #Ingeciber
 
+https://wp.me/p9vWYY-2pj
+
+https://catalog.ansys.com/product/5c800590393ff66ca0d507aa/eurocode-check-des
+https://catalog.ansys.com/product/5c80073a393ff66ca0d507b2/aisc-aci-check-des
 https://wp.me/p9vWYY-2pj

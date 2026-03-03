@@ -4,10 +4,9 @@ title: "Делаем 27-ми узловые элементы в LS-PrePost"
 date: 2018-01-31T17:01:06+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_758
 tags:
-  - H8TOH27
   - LS
+  - H8TOH27
 images:
   - url: "/assets/images/759.jpg"
 ---
@@ -33,4 +32,8 @@ https://www.youtube.com/watch?v=0U1rkt8MX6M
 
 Подробности работы элементов и их тестирования можно найти в статье Recent Advances on Higher Order 27-node Hexahedral Element in LS-DYNA
 #H8TOH27 #LS-DYNA #LS-PrePost
+https://magicdpd.ru/?p=6087
+
+https://www.youtube.com/watch?v=0U1rkt8MX6M
+http://www.dynalook.com/14th-international-ls-dyna-conference/simulation/recent-advances-on-higher-order-27-node-hexahedral-element-in-ls-dyna-r
 https://magicdpd.ru/?p=6087

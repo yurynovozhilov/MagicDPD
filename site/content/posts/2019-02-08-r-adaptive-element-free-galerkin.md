@@ -4,12 +4,11 @@ title: "r-adaptive Element-Free Galerkin"
 date: 2019-02-08T06:56:21+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1345
 tags:
-  - lsdyna
-  - EFG
   - LS_DYNA
   - implicit
+  - lsdyna
+  - EFG
 images:
   - url: "/assets/images/1345.jpg"
 ---
@@ -25,5 +24,7 @@ LS-DYNA: Implicit element-Free Galerkin (EFG) — Cutting Simulation
 Файл Element-Free Galerkin Method.pdf
 
 #EFG #implicit #LS_DYNA
+
+https://wp.me/s9vWYY-5426
 
 https://wp.me/s9vWYY-5426

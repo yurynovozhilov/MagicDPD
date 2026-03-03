@@ -4,7 +4,6 @@ title: "Материалы Nordic LS-DYNA User's Conference 2018"
 date: 2018-12-12T17:00:17+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1260
 tags:
   - LSDYNA
   - DYNAMore
@@ -17,4 +16,7 @@ images:
 https://www.dynamore.se/en/training/conferences/past/nordic-ls-dyna-conference-2018
 
 #DYNAMore #LSDYNA
+http://bit.ly/2Puelm9
+
+[Nordic LS-DYNA User's Conference 2018 — DYNAmore Nordic](https://www.dynamore.se/en/training/conferences/past/nordic-ls-dyna-conference-2018)
 http://bit.ly/2Puelm9

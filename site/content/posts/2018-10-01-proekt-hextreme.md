@@ -4,12 +4,11 @@ title: "Проект HEXTREME"
 date: 2018-10-01T17:00:48+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1129
 tags:
   - Gmsh
   - Allhex
-  - Mesh
   - HEXTREME
+  - Mesh
 images:
   - url: "/assets/images/1130.jpg"
 ---
@@ -21,4 +20,7 @@ images:
 https://www.hextreme.eu
 
 #Allhex #Gmsh #HEXTREME #Mesh
+http://bit.ly/2It3bvU
+
+https://www.hextreme.eu/
 http://bit.ly/2It3bvU

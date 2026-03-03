@@ -4,10 +4,9 @@ title: "SimScale в очередной раз показывает, что OpenF
 date: 2015-09-26T06:30:05+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_418
 tags:
-  - OpenFOAM
   - SImScale
+  - OpenFOAM
 ---
 
 SimScale в очередной раз показывает, что OpenFOAM внутри не врет при моделировании запорной арматуры.
@@ -16,3 +15,5 @@ SimScale в очередной раз показывает, что OpenFOAM вн
 
 https://blog.simscale.com/blog/2015/09/3-valve-simulations-that-you-
 should-not-miss/
+
+[3 Valve Simulations that You Should Not Miss](https://blog.simscale.com/blog/2015/09/3-valve-simulations-that-you-should-not-miss/)

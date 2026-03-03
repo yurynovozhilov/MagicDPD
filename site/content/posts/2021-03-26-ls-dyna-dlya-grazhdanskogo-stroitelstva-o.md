@@ -4,13 +4,12 @@ title: "LS-DYNA для гражданского строительства от 
 date: 2021-03-26T13:03:38+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1932
 tags:
+  - oasys
+  - arup
   - civil
   - ls
   - concrete
-  - oasys
-  - arup
 ---
 
 LS-DYNA для гражданского строительства от Arup
@@ -32,4 +31,7 @@ https://www.youtube.com/watch?v=PhLq9N85Oe8
 
 
 #arup #civil #concrete #ls-dyna #oasys
+https://tinyurl.com/yffwyjjf
+
+[LS-DYNA – Civil/Structural applications](https://www.youtube.com/watch?v=PhLq9N85Oe8)
 https://tinyurl.com/yffwyjjf

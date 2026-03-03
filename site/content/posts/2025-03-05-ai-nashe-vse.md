@@ -4,7 +4,6 @@ title: "AI наше ВСЁ?"
 date: 2025-03-05T13:04:49+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2896
 ---
 
 AI наше ВСЁ?
@@ -16,3 +15,5 @@ AI наше ВСЁ?
 Я считаю, для создания полноценных AI-CAE систем нам, скорее всего, придется «кормить» ИИ не CAD моделями, а чем-то более «питательным», например, обогащать его данными CAE.
 
 https://youtu.be/BRkxH-JOc08?t=1936
+
+[AWS re:Invent 2024 - Large Geometry Models: Transforming advanced engineering with AI  (STP101)](https://youtu.be/BRkxH-JOc08?t=1936)

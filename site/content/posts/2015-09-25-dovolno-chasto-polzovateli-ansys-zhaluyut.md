@@ -4,7 +4,6 @@ title: "Довольно часто пользователи ANSYS жалуют�
 date: 2015-09-25T06:30:10+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_413
 tags:
   - CFD
   - XDBs

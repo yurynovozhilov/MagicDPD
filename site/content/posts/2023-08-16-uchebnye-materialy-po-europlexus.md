@@ -4,7 +4,6 @@ title: "Учебные материалы по Europlexus"
 date: 2023-08-16T15:00:39+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2502
 ---
 
 Учебные материалы по Europlexus
@@ -12,3 +11,5 @@ original_url: https://vk.com/wall-97265142_2502
 Есть такой явный решатель, разрабатываемый под эгидой европейской энергетической комиссии и основном во Франции. Зовут его Europlexus или просто EPX. Он все еще живой, раз в год выходят релизы (релизноты на французском :-( ) и у него даже обновился сайт. Туда добавили видео инструкции для начинающих. Так, в качестве сеточно генератора предполагается использовать LS-PrePost (OMG!!!).
 
 https://counterterrorism.ec.europa.eu/epx_tutorials/index.php
+
+[EUROPLEXUS: Tutorials for beginner](https://counterterrorism.ec.europa.eu/epx_tutorials/index.php)

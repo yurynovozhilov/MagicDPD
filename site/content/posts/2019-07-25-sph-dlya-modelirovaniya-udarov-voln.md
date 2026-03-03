@@ -4,7 +4,6 @@ title: "SPH для моделирования ударов волн"
 date: 2019-07-25T13:00:59+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1538
 images:
   - url: "/assets/images/1538.jpg"
 ---
@@ -30,4 +29,8 @@ SPH для моделирования ударов волн
 
 
 
+https://wp.me/p9vWYY-2Ca
+
+https://lib.ugent.be/fulltxt/RUG01/001/805/222/RUG01-001805222_2012_0001_AC.pdf
+https://www.dynaexamples.com/sph/intermediate-examples/wavestructure
 https://wp.me/p9vWYY-2Ca

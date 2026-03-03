@@ -4,11 +4,12 @@ title: "Похоже #optiSLang и #ANSYS уже совсем готовы сл�
 date: 2016-05-16T07:10:49+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1655
 tags:
   - optiSLang
-  - ANSYS
   - optimization
+  - ANSYS
 ---
 
 Похоже #optiSLang и #ANSYS уже совсем готовы слиться в экстазе!
+
+[Dynardo optiSLang включен в линейку программных решений ANSYS](http://www.cadfem-cis.ru/list/article/ansys-optislang/)

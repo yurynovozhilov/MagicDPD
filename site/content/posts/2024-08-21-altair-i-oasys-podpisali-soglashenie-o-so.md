@@ -4,7 +4,6 @@ title: "Altair и Oasys подписали соглашение о совмес�
 date: 2024-08-21T12:42:33+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2773
 ---
 
 Altair и Oasys подписали соглашение о совместной разрабоке ПО
@@ -17,3 +16,5 @@ HypeMesh и ANSA на двоих держать большую часть рын
 
 
 https://www.oasys-software.com/dyna/news/altair-and-oasys-establish-joint-development-agreement-to-redefine-pre-processing-for-crash-and-safety-simulation/
+
+[Altair and Oasys Establish Joint Development Agreement to Redefine Pre-Processing for Crash and Safety Simulation - LS-DYNA](https://www.oasys-software.com/dyna/news/altair-and-oasys-establish-joint-development-agreement-to-redefine-pre-processing-for-crash-and-safety-simulation/)

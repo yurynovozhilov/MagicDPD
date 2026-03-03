@@ -4,11 +4,10 @@ title: "Молния: NVIDIA купила Mellanox"
 date: 2019-03-15T13:42:02+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1396
 tags:
   - NVIDIA
-  - HPC
   - Mellanox
+  - HPC
 images:
   - url: "/assets/images/1396.jpg"
 ---
@@ -24,4 +23,8 @@ https://www.scientific-computing.com/news/nvidia-acquire-mellanox-69-billion htt
 
 #HPC #Mellanox #NVIDIA
 
+https://wp.me/p9vWYY-2qA
+
+https://www.scientific-computing.com/news/nvidia-acquire-mellanox-69-billion
+https://nvidianews.nvidia.com/news/nvidia-to-acquire-mellanox-for-6-9-billion
 https://wp.me/p9vWYY-2qA

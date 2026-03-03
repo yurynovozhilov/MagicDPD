@@ -4,10 +4,9 @@ title: "Новость специально для пользователей Wi
 date: 2022-06-24T19:06:41+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2306
 tags:
-  - opensource
   - Code_Aster
+  - opensource
   - FEM
 images:
   - url: "/assets/images/2306.jpg"
@@ -17,3 +16,5 @@ images:
 
 Новость специально для пользователей Windows. Теперь у знаменитого открытого прочностного кода #Code_Aster появился выделенный сайт для пользователей этой замечательной ОС.
 #opensource #FEM https://code-aster-windows.com
+
+https://code-aster-windows.com

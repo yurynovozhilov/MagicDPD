@@ -4,12 +4,11 @@ title: "\"Сдуваем\" пламя в Autodyn"
 date: 2018-08-26T18:01:55+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1089
 tags:
-  - Explicit
-  - ANSYS
-  - Autodyn
   - Blast
+  - Autodyn
+  - ANSYS
+  - Explicit
 images:
   - url: "/assets/images/1090.jpg"
 ---
@@ -22,4 +21,7 @@ Simulation Proves Fighting Fire with Fiery Explosions Is Possible
 
 
 #ANSYS #Autodyn #Blast #Explicit
+http://bit.ly/2BPUYSQ
+
+[Ansys | Engineering Simulation Software](https://www.ansys-blog.com/simulation-proves-fighting-fire-fiery-explosions-possible/)
 http://bit.ly/2BPUYSQ

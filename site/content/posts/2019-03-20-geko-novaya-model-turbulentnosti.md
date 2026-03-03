@@ -4,13 +4,12 @@ title: "GEKO — новая модель турбулентности"
 date: 2019-03-20T17:00:40+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1406
 tags:
-  - turbulence
-  - Fluent
-  - GEKO
   - CFD
   - ANSYS
+  - GEKO
+  - turbulence
+  - Fluent
 images:
   - url: "/assets/images/1406.jpg"
 ---
@@ -34,4 +33,8 @@ https://www.youtube.com/watch?v=zG8Y83fJeiQ
 
 #ANSYS #CFD #Fluent #GEKO #turbulence
 
+https://wp.me/p9vWYY-2qi
+
+https://www.youtube.com/watch?v=ryLwclQHprc
+https://www.youtube.com/watch?v=zG8Y83fJeiQ
 https://wp.me/p9vWYY-2qi

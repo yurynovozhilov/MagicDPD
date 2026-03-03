@@ -4,7 +4,6 @@ title: "Конференция пользователей Ansys"
 date: 2023-06-19T15:01:29+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2442
 ---
 
 Конференция пользователей Ansys
@@ -15,3 +14,6 @@ original_url: https://vk.com/wall-97265142_2442
 
 Секретная ссылка на группу: https://t.me/+yyzPUoOciQkwMmIy
 Более подробная информаци о конференции: instagram.com/alex_trueknow
+
+https://t.me/+yyzPUoOciQkwMmIy
+instagram.com/alex_trueknow

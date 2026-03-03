@@ -4,10 +4,9 @@ title: "Прямая КЭ гомогенизация средствами ANSYS 
 date: 2020-01-21T13:00:19+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1678
 tags:
-  - padtinc
   - Material_Designer
+  - padtinc
   - ANSYS
   - composite
 images:

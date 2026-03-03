@@ -4,7 +4,6 @@ title: "Потеря устойчивости: линейная и не очен
 date: 2020-06-26T13:00:30+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1790
 tags:
   - buckling
 images:

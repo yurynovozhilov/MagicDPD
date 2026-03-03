@@ -4,14 +4,13 @@ title: "История успеха с кубка Америки по яхтен
 date: 2017-07-17T17:00:46+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_411
 tags:
-  - LEAP
-  - Fluent
-  - DesignXplorer
-  - Composite
-  - Mechancial
   - ANSYS
+  - LEAP
+  - Composite
+  - DesignXplorer
+  - Mechancial
+  - Fluent
 ---
 
 История успеха с кубка Америки по яхтенному спорту 2017
@@ -25,4 +24,7 @@ http://www.ansys-blog.com/emirates-team-new-zealand-wins-2017-americas-cup/
 - ANSYS #Fluent - аэро и гидродинамика
 - ANSYS #DesignXplorer - оптимизация и робастрое проектирование
 
+https://youtu.be/xXWGSvJRACE
+
+[Emirates Team New Zealand Wins the 2017 America’s Cup](http://www.ansys-blog.com/emirates-team-new-zealand-wins-2017-americas-cup/)
 https://youtu.be/xXWGSvJRACE

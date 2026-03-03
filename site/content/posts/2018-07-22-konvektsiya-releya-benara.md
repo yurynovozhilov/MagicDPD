@@ -4,7 +4,6 @@ title: "Конвекция Рэлея-Бенара"
 date: 2018-07-22T18:01:21+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1028
 tags:
   - CFD
 images:
@@ -18,4 +17,6 @@ images:
 Я же просто предлагаю включить видео на полный экран и немного позалипать.
 
 #CFD
+http://bit.ly/2uHbBdr
+
 http://bit.ly/2uHbBdr

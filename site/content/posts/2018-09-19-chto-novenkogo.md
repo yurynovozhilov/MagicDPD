@@ -4,16 +4,15 @@ title: "Что новенького"
 date: 2018-09-19T17:02:09+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1105
 tags:
-  - LSOPT
-  - SPH
-  - ARUP
-  - Peridynamics
   - LSPrePost
+  - LSTC
+  - LSOPT
   - Composite
   - LSDYNA
-  - LSTC
+  - ARUP
+  - SPH
+  - Peridynamics
 images:
   - url: "/assets/images/1106.jpg"
 ---
@@ -39,4 +38,7 @@ SPH сварка трением с перемешиванием
 http://ftp.lstc.com/anonymous/outgoing/jason/Slides/2018_LSTC_Keynote_20.pptx
 
 #ARUP #Composite #LSDYNA #LSOPT #LSPrePost #LSTC #Peridynamics #SPH
+http://bit.ly/2NmqMnQ
+
+http://ftp.lstc.com/anonymous/outgoing/jason/Slides/2018_LSTC_Keynote_20.pptx
 http://bit.ly/2NmqMnQ

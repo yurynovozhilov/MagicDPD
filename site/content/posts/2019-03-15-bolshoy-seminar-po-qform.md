@@ -4,7 +4,6 @@ title: "Большой семинар по QForm"
 date: 2019-03-15T17:00:27+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1397
 tags:
   - Qform
 images:
@@ -22,4 +21,7 @@ https://www.youtube.com/watch?v=XIbrCZipsJs&t=1256s
 
 #Qform
 
+https://wp.me/p9vWYY-2px
+
+https://www.youtube.com/watch?v=XIbrCZipsJs&t=1256s
 https://wp.me/p9vWYY-2px

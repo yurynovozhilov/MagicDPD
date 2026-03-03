@@ -4,7 +4,6 @@ title: "Pacefish CFD"
 date: 2024-03-22T14:02:08+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2674
 ---
 
 Pacefish CFD
@@ -12,3 +11,5 @@ Pacefish CFD
 Очередная любопытная находка. Компания Numeric Systems GmbH пилит свой LBM решатель. Естественно, он GPU-native. Но это еще не все. Говорят, что у этого кода есть уникальная для LBM подхода фишка: он умеет как-то хитро использовать смесь из RANS и LES подходов к моделированию турбулентносит. Так, в основном объеме код считате согласно k-omega-SST модели, а у стенок применяется модель отсоединенных вихрей.  Короче, прошу помощи из зала, что бы оценить величие или ничтожность данного подхода.
 
 https://www.youtube.com/watch?v=grKwuQMo4V0
+
+[Pacefish CFD runs AutoCFD4 setup at ~670 million cells for 4.7 real-time seconds.](https://www.youtube.com/watch?v=grKwuQMo4V0)

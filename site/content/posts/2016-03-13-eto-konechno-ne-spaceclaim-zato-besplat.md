@@ -4,12 +4,13 @@ title: "Это конечно не #SpaceClaim, зато бесплатно: и�
 date: 2016-03-13T07:37:53+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1410
 tags:
   - CAD
+  - FreeCAD
   - SpaceClaim
   - STL
-  - FreeCAD
 ---
 
 Это конечно не #SpaceClaim, зато бесплатно: инструкция как при при помощи бесплатного с свободного #FreeCAD конвертировать #STL сетку в STEP геометрию.
+
+[Convert STL to STEP](http://blog.othermachine.co/convert-stl-to-step)

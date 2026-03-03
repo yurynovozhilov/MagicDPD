@@ -4,7 +4,6 @@ title: "Плоды школы Дамблдора"
 date: 2024-10-09T08:53:57+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2801
 ---
 
 Плоды школы Дамблдора
@@ -21,4 +20,7 @@ original_url: https://vk.com/wall-97265142_2801
 
 Что скажете, вы хотели бы попасть в Школу Дамблдора или отдать туда ваших детей?
 
+https://www.linkedin.com/posts/volotskiyarseniy_i-am-happy-to-share-with-you-that-i-will-activity-7249344435275071489-S0cO
+
+[Arseniy Volotskiy on LinkedIn: I am happy to share with you that I will start working as an intern at…](https://www.linkedin.com/posts/volotskiyarseniy_i-am-happy-to-share-with-you-that-i-will-activity-7249344435275071489-S0cO?utm_source=share&utm_medium=member_desktop)
 https://www.linkedin.com/posts/volotskiyarseniy_i-am-happy-to-share-with-you-that-i-will-activity-7249344435275071489-S0cO

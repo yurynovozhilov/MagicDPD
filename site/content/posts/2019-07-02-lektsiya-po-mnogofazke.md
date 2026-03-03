@@ -4,7 +4,6 @@ title: "Лекция по многофазке"
 date: 2019-07-02T17:01:21+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1520
 tags:
   - CFD
   - Aidan_Wimshurts
@@ -22,3 +21,5 @@ images:
 https://wp.me/p9vWYY-2Av
 
 by Юрий Новожилов
+
+https://wp.me/p9vWYY-2Av

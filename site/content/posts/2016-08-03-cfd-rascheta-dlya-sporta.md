@@ -4,16 +4,15 @@ title: "#CFD расчета для спорта"
 date: 2016-08-03T06:30:19+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_66
 tags:
-  - StarCCM
+  - CFD
+  - DCV
+  - HPC
   - NICE
   - TurboVNC
-  - CAE
-  - HPC
-  - DCV
-  - CFD
+  - StarCCM
   - VirtualGL
+  - CAE
 ---
 
 #CFD расчета для спорта

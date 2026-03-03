@@ -4,10 +4,9 @@ title: "Компания FunctionBay, Inc. создатель #RecurDyn (реш�
 date: 2016-04-14T07:00:59+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1575
 tags:
-  - RecurDyn
   - FSI
+  - RecurDyn
   - MBFD
   - Particleworks
 ---

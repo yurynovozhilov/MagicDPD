@@ -4,10 +4,9 @@ title: "Вчера состоялся новый релиз LS-DYNA под ве�
 date: 2015-10-01T06:30:24+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_443
 tags:
-  - lsdyna
   - fem
+  - lsdyna
   - dem
 ---
 
@@ -27,3 +26,5 @@ tags:
 - несколько новых моделей материалов для EM и CFD.
 
 Ребята из LSTC даром время не теряли 😊
+
+[LS-DYNA R8.0.0 (R8.95309) released — LS-DYNA Support](http://www.dynasupport.com/news/ls-dyna-r8.0.0-r8.95309-released)

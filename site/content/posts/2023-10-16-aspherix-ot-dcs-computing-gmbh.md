@@ -4,7 +4,6 @@ title: "Aspherix от DCS Computing GmbH"
 date: 2023-10-16T15:01:08+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2553
 ---
 
 Aspherix от DCS Computing GmbH
@@ -14,3 +13,6 @@ Aspherix от DCS Computing GmbH
 https://www.youtube.com/watch?v=ah3iQbEffxs
 
 Исходники качать туть: https://www.cfdem.com/liggghtsr-open-source-discrete-element-method-particle-simulation-code
+
+[Rubber ducks floating over a weir](https://www.youtube.com/watch?v=ah3iQbEffxs)
+https://www.cfdem.com/liggghtsr-open-source-discrete-element-method-particle-simulation-code

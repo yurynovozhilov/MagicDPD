@@ -4,7 +4,6 @@ title: "ANSYS 18.0 готов, можно регистрироваться на 
 date: 2017-01-26T17:01:45+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_251
 tags:
   - ANSYS
 ---
@@ -26,4 +25,14 @@ http://www.ansys.com/other/aim-18-webinar
 - Systems and Simplorer
 http://www.ansys.com/other/simplorer-18-webinar
 - SpaceClaim
+http://www.ansys.com/other/spaceclaim-18-webinar
+
+[Platform Support | ANSYS](https://www.ansys.com/Solutions/Solutions-by-Role/IT-Professionals/Platform-Support)
+http://www.ansys.com/Solutions/Solutions-by-Role/IT-Professionals/Platform-Support
+http://www.ansys.com/other/fluids-18-webinar
+http://www.ansys.com/other/mechanical-18-webinar
+http://www.ansys.com/About-ANSYS/events/17-02-21-high-frequency-webinar
+http://www.ansys.com/About-ANSYS/events/17-03-14-low-frequency-webinar
+http://www.ansys.com/other/aim-18-webinar
+http://www.ansys.com/other/simplorer-18-webinar
 http://www.ansys.com/other/spaceclaim-18-webinar

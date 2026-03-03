@@ -4,11 +4,10 @@ title: "Topo Challenge"
 date: 2019-07-05T17:00:52+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1523
 tags:
+  - Topology
   - optimization
   - Additive_Manufacturing
-  - Topology
 images:
   - url: "/assets/images/1523.jpg"
 ---
@@ -39,3 +38,6 @@ Topo Challenge
 https://wp.me/p9vWYY-2B1
 
 by Юрий Новожилов
+
+http://paulino.ce.gatech.edu/TopOpt%20Workshop%20Website/challenge.php
+https://wp.me/p9vWYY-2B1

@@ -4,12 +4,11 @@ title: "На прошедшей неделе продукты ANSYS RedHawk и T
 date: 2015-09-23T18:00:25+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_407
 tags:
-  - EM
   - Totem
-  - ANSYS
   - RedHawk
+  - EM
+  - ANSYS
 ---
 
 На прошедшей неделе продукты ANSYS RedHawk и Totem были сертифицированы компанией TSMC (Taiwan Semiconductor Manufacturing Company) для применения в разработке чипов по 10 нм техпроцессу.
@@ -21,3 +20,5 @@ tags:
 #ANSYS #RedHawk #Totem #EM
 
 http://investors.ansys.com/press-releases/2015/17-Sep-15-120547571.aspx
+
+[ANSYS Certified For The Latest Generation Chip Technology](http://investors.ansys.com/press-releases/2015/17-Sep-15-120547571.aspx)

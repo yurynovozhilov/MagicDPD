@@ -4,7 +4,6 @@ title: "25 лет технологии MPI"
 date: 2017-06-02T17:00:34+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_363
 tags:
   - MPI
   - HPC

@@ -4,10 +4,9 @@ title: "CADLM — расчеты сложных процессов за секу
 date: 2019-02-13T17:01:05+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1354
 tags:
-  - CADLM
   - machinelearning
+  - CADLM
 images:
   - url: "/assets/images/1354.jpg"
 ---
@@ -27,4 +26,7 @@ https://youtu.be/Vvm3iUnPOTA
 
 #CADLM #machinelearning
 
+https://wp.me/p9vWYY-2lc
+
+https://youtu.be/Vvm3iUnPOTA
 https://wp.me/p9vWYY-2lc

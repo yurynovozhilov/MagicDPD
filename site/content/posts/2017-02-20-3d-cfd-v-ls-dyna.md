@@ -4,12 +4,11 @@ title: "3D CFD в LS-DYNA"
 date: 2017-02-20T17:03:17+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_277
 tags:
   - LSTC
-  - ICFD
   - CFD
   - LSDYNA
+  - ICFD
 ---
 
 3D CFD в LS-DYNA
@@ -19,3 +18,5 @@ https://www.youtube.com/watch?v=egJ2dsekUHQ
 #CFD
 
 https://www.youtube.com/watch?v=egJ2dsekUHQ
+
+[How to set up a 3D CFD case in LS-DYNA](https://www.youtube.com/watch?v=egJ2dsekUHQ)

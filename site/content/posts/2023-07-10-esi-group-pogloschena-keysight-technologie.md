@@ -4,7 +4,6 @@ title: "ESI Group поглощена Keysight Technologies"
 date: 2023-07-10T15:00:35+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2466
 ---
 
 ESI Group поглощена Keysight Technologies
@@ -16,3 +15,5 @@ ESI довольно известная компания. Она знамени�
 Основной вопрос. Зачем Keysight, основной бизнес которой заключается в создание измерительной аппаратуры и приборостроении, покупает себе разработчика софта для краштестов, штамповки, литья и сварки?!
 
 https://www.esi-group.com/news/entry-into-exclusive-negotiations-between-keysight-and-esi-groups-main-shareholders-to-acquire-a-controlling-block-followed-by-the-launching-of-a-mandatory-cash-tender-offer
+
+[Entry into exclusive negotiations between Keysight and ESI Group’s main shareholders to acquire a controlling block followed by the launching of a mandatory cash tender offer](https://www.esi-group.com/news/entry-into-exclusive-negotiations-between-keysight-and-esi-groups-main-shareholders-to-acquire-a-controlling-block-followed-by-the-launching-of-a-mandatory-cash-tender-offer)

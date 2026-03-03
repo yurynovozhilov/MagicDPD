@@ -4,7 +4,6 @@ title: "ANSYS дразнит"
 date: 2017-01-21T12:06:15+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_245
 tags:
   - ANSYS
 ---
@@ -36,4 +35,13 @@ Installing ANSYS 18 License Manager on Windows
 https://www.youtube.com/watch?v=9TdqVwWKCFs
 
 Installing ANSYS 18 License Manager on Linux
+https://www.youtube.com/watch?v=VKyzCeiiM3U
+
+[Installing ANSYS 18 on Windows](https://www.youtube.com/watch?v=Lnx0f6RlmsI)
+https://www.youtube.com/watch?v=nDYclZgt-Ts
+https://www.youtube.com/watch?v=r7mu3kztuVA
+https://www.youtube.com/watch?v=h_hUWEvNUbA
+https://www.youtube.com/watch?v=OqOJ3W91sSU
+https://www.youtube.com/watch?v=DPRA57rY6-4
+https://www.youtube.com/watch?v=9TdqVwWKCFs
 https://www.youtube.com/watch?v=VKyzCeiiM3U

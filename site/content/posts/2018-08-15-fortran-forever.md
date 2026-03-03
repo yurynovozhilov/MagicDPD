@@ -4,10 +4,9 @@ title: "Fortran forever"
 date: 2018-08-15T18:00:54+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1071
 tags:
-  - UDF
   - Fortran
+  - UDF
   - UMAT
 images:
   - url: "/assets/images/1072.jpg"
@@ -24,4 +23,8 @@ Fortran forever
 
 
 #Fortran #UDF #UMAT
+http://bit.ly/2OBDYkQ
+
+[FEA for All |and all about FEA](https://feaforall.com/)
+http://feaforall.com/
 http://bit.ly/2OBDYkQ

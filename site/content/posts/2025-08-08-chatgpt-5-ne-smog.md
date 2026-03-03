@@ -4,7 +4,6 @@ title: "ChatGPT 5 не смог"
 date: 2025-08-08T07:31:40+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3002
 images:
   - url: "/assets/images/3002.jpg"
 ---

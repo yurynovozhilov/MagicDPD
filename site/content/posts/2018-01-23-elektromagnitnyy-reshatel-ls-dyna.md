@@ -4,12 +4,11 @@ title: "Электромагнитный решатель LS-DYNA"
 date: 2018-01-23T17:01:19+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_743
 tags:
-  - tutorial
   - LSTC
-  - LS
   - EM
+  - LS
+  - tutorial
 images:
   - url: "/assets/images/744.jpg"
 ---
@@ -25,4 +24,8 @@ https://www.youtube.com/watch?v=W4OBO6hZQak
 
 
 #EM #LS-DYNA #LSTC #tutorial
+https://magicdpd.ru/?p=5901
+
+http://www.dynaexamples.com/em/basicem
+https://www.youtube.com/watch?v=W4OBO6hZQak
 https://magicdpd.ru/?p=5901

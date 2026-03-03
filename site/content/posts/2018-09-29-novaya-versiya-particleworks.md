@@ -4,10 +4,9 @@ title: "Новая версия Particleworks"
 date: 2018-09-29T17:02:01+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1125
 tags:
-  - Particleworks
   - SPH
+  - Particleworks
 images:
   - url: "/assets/images/1126.jpg"
 ---
@@ -18,4 +17,6 @@ images:
 Данный японский код не только корректно считает поверхностное натяжение и свободную поверхность, но и работает на GPU для пущей быстроты.
 
 #Particleworks #SPH
+http://bit.ly/2NMN7uS
+
 http://bit.ly/2NMN7uS

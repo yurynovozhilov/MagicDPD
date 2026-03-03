@@ -4,12 +4,11 @@ title: "Metal 3D Printing by PADT Inc"
 date: 2019-05-25T17:00:18+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1487
 tags:
-  - optimization
-  - Additive_Manufacturing
   - Topology
+  - optimization
   - padtinc
+  - Additive_Manufacturing
 images:
   - url: "/assets/images/1487.jpg"
 ---
@@ -25,4 +24,7 @@ Metal 3D Printing by PADT Inc
 
 #Additive_Manufacturing #optimization #padtinc #Topology
 
+https://wp.me/p9vWYY-2wH
+
+https://www.brighttalk.com/webcast/15747/359359
 https://wp.me/p9vWYY-2wH

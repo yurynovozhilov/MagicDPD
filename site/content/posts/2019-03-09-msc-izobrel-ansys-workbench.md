@@ -4,12 +4,11 @@ title: "MSC изобрел ANSYS Workbench"
 date: 2019-03-09T17:01:43+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1385
 tags:
+  - MSC
   - Workbench
   - ANSYS
   - CoSim
-  - MSC
 images:
   - url: "/assets/images/1385.jpg"
 ---
@@ -25,4 +24,7 @@ MSC изобрел ANSYS Workbench
 
 #ANSYS #CoSim #MSC #Workbench
 
+https://wp.me/p9vWYY-2nJ
+
+https://www.mscsoftware.com/product/co-simulation
 https://wp.me/p9vWYY-2nJ

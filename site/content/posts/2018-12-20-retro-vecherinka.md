@@ -4,7 +4,6 @@ title: "Ретро вечеринка"
 date: 2018-12-20T17:00:57+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1276
 tags:
   - ANSYS
 images:
@@ -38,4 +37,6 @@ images:
 
 А какие раритетные дистрибутивы лицензионного CAE софта есть у вас? Присылайте фотки!
 #ANSYS
+http://bit.ly/2PRl7Th
+
 http://bit.ly/2PRl7Th

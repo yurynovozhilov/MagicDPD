@@ -4,7 +4,6 @@ title: "3D Liquid Printer"
 date: 2018-09-23T17:02:13+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1113
 tags:
   - Simulationfriday
 images:
@@ -18,4 +17,7 @@ images:
 https://www.develop3d.com/profiles/drop-shot-Machine-Shop-gatorade-advert-commercial-solidworks-prop-design
 
 #Simulationfriday
+http://bit.ly/2zp9i1p
+
+[Machine Shop - Drop shot](https://www.develop3d.com/profiles/drop-shot-Machine-Shop-gatorade-advert-commercial-solidworks-prop-design)
 http://bit.ly/2zp9i1p

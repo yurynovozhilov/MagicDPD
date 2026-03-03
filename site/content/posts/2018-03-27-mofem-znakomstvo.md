@@ -4,7 +4,6 @@ title: "MoFEM - знакомство"
 date: 2018-03-27T18:00:44+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_873
 tags:
   - Open_Source
   - SimulationFriday
@@ -41,4 +40,13 @@ Here is shown the evolution of crack surface. pic.twitter.com/iLICZfW2AZ
 
 
 #MoFEM #Open_Source
+https://goo.gl/H1DwPM
+
+http://mofem.eng.gla.ac.uk/mofem/html/namespace_mo_f_e_m.html
+https://twitter.com/mofemjoseph?ref_src=twsrc%5Etfw
+https://twitter.com/hashtag/SimulationFriday?src=hash&ref_src=twsrc%5Etfw
+https://t.co/5zobmsE2dy
+https://twitter.com/LukaszKaczmarcz/status/974787490082185217?ref_src=twsrc%5Etfw
+https://t.co/iLICZfW2AZ
+https://twitter.com/LukaszKaczmarcz/status/974787493651509248?ref_src=twsrc%5Etfw
 https://goo.gl/H1DwPM

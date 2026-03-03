@@ -4,7 +4,6 @@ title: "7 сентября #ANSYS обещает показать нам что-
 date: 2017-08-12T17:01:29+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_435
 tags:
   - SpaceClaim
   - ANSYS
@@ -18,3 +17,5 @@ tags:
 Ссылка на регистрацию на мероприятие присутствует.
 
 Какие есть еще теории? http://www.ansys.com/products/3d-design/discovery-live-registration
+
+[Discovery Live: Registration](http://www.ansys.com/products/3d-design/discovery-live-registration)

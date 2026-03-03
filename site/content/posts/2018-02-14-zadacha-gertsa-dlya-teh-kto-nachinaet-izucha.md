@@ -4,11 +4,10 @@ title: "Задача Герца для тех, кто начинает изуч�
 date: 2018-02-14T18:00:37+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_796
 tags:
-  - Tutorial
-  - Contact
   - Задача_Герца
+  - Contact
+  - Tutorial
 images:
   - url: "/assets/images/797.jpg"
 ---
@@ -20,3 +19,6 @@ images:
 Мы же познакомимся со статьей с подробным разбором решения данной задачи в МКЭ. Там тоже есть сравнение с аналитикой и даже ускоренное видео с построением расчетной модели: https://feaforall.com/hertz-contact/
 
 #Contact, #Tutorial, #Задача_Герца
+
+https://ru.wikipedia.org/wiki/Механикаконтактноговзаимодействия
+https://feaforall.com/hertz-contact/

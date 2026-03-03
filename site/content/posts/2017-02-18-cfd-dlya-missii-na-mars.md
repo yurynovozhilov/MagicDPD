@@ -4,12 +4,11 @@ title: "CFD для миссии на Марс"
 date: 2017-02-18T12:00:12+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_275
 tags:
-  - SpaceX
-  - HPC
   - CFD
+  - SpaceX
   - GPU
+  - HPC
 ---
 
 CFD для миссии на Марс
@@ -18,3 +17,5 @@ https://www.youtube.com/watch?v=vYA0f6R5KAI
 Компания #SpaceX имеет в своих планах полет на Марс в обозримом будущем. Будучи крайне прогрессивной организацией, они, естественно, придают огромное значение математическому моделированию физических процессов. В предлагаемом вебинаре они рассказывают о проблемах #CFD расчетом двигателей для космических кораблей, о том как важно учитывать химические реакции, какие подходы использовать при создании сетки... и конечно про свой код, который считает все это на #GPU для пущего #HPC.
 
 https://www.youtube.com/watch?v=vYA0f6R5KAI
+
+[GPUs to Mars: Full-Scale Simulation of SpaceX's Mars Rocket Engine](https://www.youtube.com/watch?v=vYA0f6R5KAI)

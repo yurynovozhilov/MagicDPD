@@ -4,7 +4,6 @@ title: "Pressure-Based и Density-Based Solvers в CFD"
 date: 2023-05-30T15:00:48+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2424
 ---
 
 Pressure-Based и Density-Based Solvers в CFD
@@ -18,3 +17,5 @@ Pressure-Based и Density-Based Solvers в CFD
 Я нашел неплохой ликбез по данной теме.
 
 https://www.youtube.com/watch?v=bN-t-fMe0dI
+
+[Pressure-Based and Density-Based Solvers in CFD](https://www.youtube.com/watch?v=bN-t-fMe0dI)

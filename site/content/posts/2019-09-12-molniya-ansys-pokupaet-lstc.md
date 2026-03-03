@@ -4,7 +4,6 @@ title: "Молния: ANSYS покупает LSTC"
 date: 2019-09-12T07:24:55+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1581
 images:
   - url: "/assets/images/1581.jpg"
 ---
@@ -25,3 +24,5 @@ images:
 
 
 P.S.
+
+https://www.ansys.com/about-ansys/news-center/09-11-19-ansys-and-ls-dyna-sign-definitive-acquisition-agreement

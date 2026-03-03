@@ -4,7 +4,6 @@ title: "Explicit Mechanics на базе OpenFOAM"
 date: 2019-06-13T17:00:26+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1505
 images:
   - url: "/assets/images/1505.jpg"
 ---
@@ -61,3 +60,6 @@ Explicit Mechanics на базе OpenFOAM
 
 
 На мой взгляд, это очень крутой проект, так как открытых explicit кодов практически не существует. Но до коммерческого применения пилить и пилить. Например, если вы
+
+https://github.com/jibranhaider/explicitSolidDynamics
+https://www.esi-group.com/sites/default/files/resource/other/7496/abstract_jibran_haider_explicit-solid-dynamics-in-openfoam.pdf

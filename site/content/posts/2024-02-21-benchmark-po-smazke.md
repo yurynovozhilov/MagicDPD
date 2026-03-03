@@ -4,7 +4,6 @@ title: "Бенчмарк по смазке"
 date: 2024-02-21T20:58:58+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2651
 ---
 
 Бенчмарк по смазке

@@ -4,14 +4,13 @@ title: "Про MpCCI подробнее"
 date: 2018-11-21T17:01:36+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1225
 tags:
-  - OpenFOAM
-  - Fluent
-  - STARCCM
-  - ABAQUS
   - MpCCI
+  - STARCCM
   - FSI
+  - ABAQUS
+  - Fluent
+  - OpenFOAM
 images:
   - url: "/assets/images/1226.jpg"
 ---
@@ -22,4 +21,6 @@ MpCCI - система, позволяющая связывать работы �
 В новом вебинаре коллеги не только рассказывают об архитектуре ПО, но показывают примеры работы: связка Abaqus и различных CFD кодов (Fluent, OpenFOAM, STAR-CCM+).
 
 #ABAQUS #Fluent #FSI #MpCCI #OpenFOAM #STARCCM
+http://bit.ly/2Qa5A52
+
 http://bit.ly/2Qa5A52

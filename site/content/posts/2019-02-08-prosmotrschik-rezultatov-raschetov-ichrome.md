@@ -4,13 +4,12 @@ title: "Просмотрщик результатов расчетов iChrome C
 date: 2019-02-08T12:01:14+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1346
 tags:
-  - CAE
-  - FEM
-  - result
-  - CFD
   - viewer
+  - CFD
+  - CAE
+  - result
+  - FEM
 images:
   - url: "/assets/images/1346.jpg"
 ---
@@ -29,3 +28,5 @@ CAE Viewer
 https://wp.me/p9vWYY-2fN
 
 by Ян Поженько
+
+https://wp.me/p9vWYY-2fN

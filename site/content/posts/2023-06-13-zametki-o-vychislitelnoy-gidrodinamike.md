@@ -4,7 +4,6 @@ title: "Заметки о вычислительной гидродинамик�
 date: 2023-06-13T15:00:59+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2436
 images:
   - url: "/assets/images/2436.jpg"
 ---
@@ -19,5 +18,7 @@ images:
 (Chris Greenshields), с 2008 года занимается созданием учебных примеров и тренингов по OpenFOAM и уже успел начитать 650 дней курсов для более чем 3000 человек.
 
 Итак, два автора собрались, написали и выложили в открытый доступ свою книгу по тому, как надо решать CFD задачи. Такое не может быть бесполезным!
+
+https://doc.cfd.direct/notes/cfd-general-principles/
 
 https://doc.cfd.direct/notes/cfd-general-principles/

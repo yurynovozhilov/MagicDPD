@@ -4,14 +4,13 @@ title: "#ANSYS #Autodyn позполяет изучить процессы, пр
 date: 2017-08-29T17:11:17+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_467
 tags:
+  - ANSYS
   - Autodyn
   - FSI
-  - Ensight
   - explicit
-  - ANSYS
   - CEI
+  - Ensight
 ---
 
 #ANSYS #Autodyn позполяет изучить процессы, протекающие внутри патрона .416 Barrett в момент удара по капсулю, а потом еще и посмотреть на динамику пули в нарезном стволе. И все это моделируется в одном расчете - вот такой вот #explicit #FSI.
@@ -21,3 +20,14 @@ tags:
 https://www.youtube.com/watch?v=n0n…Media📼 416 Barrett with ANSYS Autodyn
 
 http://ift.tt/2x1uFoY
+
+http://ift.tt/2vk2wVv
+http://ift.tt/2x194wK
+http://ift.tt/2vBgpQ1
+http://ift.tt/2wHTKG5
+http://ift.tt/2vBQEPw
+http://ift.tt/2x18xem
+https://www.youtube.com/watch?v=n0npDzBetMI
+http://ift.tt/2vBL3sw
+http://ift.tt/2x1uFoY
+ttp://ift.tt/2x1uFoY

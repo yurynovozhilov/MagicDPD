@@ -4,7 +4,6 @@ title: "Очень много вебинаров по расчету устал�
 date: 2017-10-11T18:33:12+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_550
 tags:
   - Matlab
   - FatigueMedia
@@ -15,3 +14,9 @@ tags:
 #FatigueMedia🔗 Fatigue Analysis Webinars
 
 http://ift.tt/2i5bPYk
+
+http://ift.tt/2i5c3Pa
+http://ift.tt/2gwaq9N
+http://ift.tt/2i5bPri
+http://ift.tt/2gvKz1B
+ttp://ift.tt/2i5bPYk

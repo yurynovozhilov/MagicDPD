@@ -4,7 +4,6 @@ title: "#SimScale умеет считать даже гибку! Это же з�
 date: 2016-04-09T07:00:44+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1561
 tags:
   - SimScale
 ---

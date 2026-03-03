@@ -4,7 +4,6 @@ title: "Onshape на DEVELOP3D LIVE 2019"
 date: 2019-06-08T17:00:34+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1501
 tags:
   - Onshape
   - cloud
@@ -32,3 +31,5 @@ Jon Hirschtick из Onshape рассказывает о вещах, которы
 https://wp.me/p9vWYY-2yc
 
 by Юрий Новожилов
+
+https://wp.me/p9vWYY-2yc

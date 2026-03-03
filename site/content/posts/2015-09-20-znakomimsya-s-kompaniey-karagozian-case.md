@@ -4,7 +4,6 @@ title: "Знакомимся с компанией Karagozian & Case, разра
 date: 2015-09-20T07:00:25+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_388
 tags:
   - concrete
   - ls
@@ -15,3 +14,5 @@ tags:
 #ls-dyna #concrete
 
 http://www.kcse.com
+
+[Blast, Shock, Impact Design/Analysis » Karagozian & Case](http://www.kcse.com)

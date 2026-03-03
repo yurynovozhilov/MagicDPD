@@ -4,11 +4,10 @@ title: "Резервное копирование геометрии в SCDM"
 date: 2019-01-20T17:01:12+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1317
 tags:
+  - SSD
   - SpaceClaim
   - ANSYS
-  - SSD
 images:
   - url: "/assets/images/1317.jpg"
 ---
@@ -26,5 +25,7 @@ images:
 Ну а кто не пользуется резервными копиями — сам себе злой Буратино.
 
 #ANSYS #SpaceClaim #SSD
+
+https://wp.me/p9vWYY-2hf
 
 https://wp.me/p9vWYY-2hf

@@ -4,12 +4,11 @@ title: "CivilFEM для Workbech"
 date: 2018-10-30T17:01:47+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1181
 tags:
   - CivilFEM
-  - Ingeciber
   - Mechanical
   - Workbench
+  - Ingeciber
   - ACT
 images:
   - url: "/assets/images/1182.jpg"
@@ -22,4 +21,8 @@ http://www.civilfem.com/civilfem-apps-for-ansys-workbench-1/
 http://www.civilfem.com/civilfem-apps-for-ansys-workbench-2/
 
 #ACT #CivilFEM #Ingeciber #Mechanical #Workbench
+http://bit.ly/2PxYlng
+
+http://www.civilfem.com/civilfem-apps-for-ansys-workbench-1/
+http://www.civilfem.com/civilfem-apps-for-ansys-workbench-2/
 http://bit.ly/2PxYlng

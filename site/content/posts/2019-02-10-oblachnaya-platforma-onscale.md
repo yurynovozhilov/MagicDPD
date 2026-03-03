@@ -4,11 +4,10 @@ title: "Облачная платформа OnScale"
 date: 2019-02-10T17:01:42+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1350
 tags:
+  - cloud
   - HPC
   - FEM
-  - cloud
 images:
   - url: "/assets/images/1350.jpg"
 ---
@@ -35,4 +34,8 @@ https://onscale.com/pricing/
 
 #cloud #FEM #HPC
 
+https://wp.me/s9vWYY-onscale
+
+https://www.youtube.com/watch?v=MgS0ae0129I
+https://onscale.com/pricing/
 https://wp.me/s9vWYY-onscale

@@ -4,7 +4,6 @@ title: "Иногда надо просто выспаться"
 date: 2025-06-17T14:55:20+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2967
 images:
   - url: "/assets/images/2967.jpg"
 ---
@@ -13,5 +12,7 @@ images:
 
 
 Вы же помните, что IKEA использует LS-DYNA в качестве основного кода для всех своих CAE расчетов? Ну так они и модели тела человека используют тоже не для краш тестов, а что бы делать удобные матрасы для сна! А вы вот попробуйте как-то по другому получить граничные условия? Да и повсеместное использование хитрых пен с памятью формы сделает вашему решателю больно.
+
+https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9015683&fileOId=9015699
 
 https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9015683&fileOId=9015699

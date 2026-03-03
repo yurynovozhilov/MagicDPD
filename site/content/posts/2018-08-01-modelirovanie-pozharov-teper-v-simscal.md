@@ -4,12 +4,11 @@ title: "Моделирование пожаров - теперь в SimScale"
 date: 2018-08-01T18:00:26+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1048
 tags:
+  - OpenSource
+  - Cloud
   - FDS
   - NIST
-  - Cloud
-  - OpenSource
   - Simscale
 images:
   - url: "/assets/images/1049.jpg"
@@ -23,4 +22,10 @@ FDS позволяет выполнять расчеты динамики пож
 Ссылка на заказ тестирования работы FDS в SimScale: https://www.simscale.com/contact-form/?title=Fire%20and%20Smoke%20Simulation%20in%20a%20Browser%0D%0A
 
 #Cloud #FDS #NIST #OpenSource #Simscale
+http://bit.ly/2KjnEm6
+
+https://magicdpd.ru/4524/
+http://magicdpd.ru/4524/
+https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/17171/Browser-Based-Fire-and-Smoke-Simulation.aspx
+https://www.simscale.com/contact-form/?title=Fire%20and%20Smoke%20Simulation%20in%20a%20Browser%0D%0A
 http://bit.ly/2KjnEm6

@@ -4,7 +4,6 @@ title: "Беркли - родина метода конечных элемент
 date: 2023-09-11T15:01:14+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2516
 images:
   - url: "/assets/images/2516.jpg"
 ---
@@ -12,5 +11,7 @@ images:
 Беркли - родина метода конечных элементов. Истоки метода конечных элементов.
 
 Безусловно, МКЭ является краеугольным камнем современного CAE. И за историей развития и становления данного метода интересно наблюдать не только сейчас, но и изучать его историю. CADFEM опубликовал статью о том, как эти процессы выглядели со стороны университета Беркли. Если у вас есть подобные разборы с других точек зрения - не стесняйтесь делиться ими в комментариях.
+
+https://www.cadfem.net/en/cadfem-informs/media-center/cadfem-journal/fem-history.html
 
 https://www.cadfem.net/en/cadfem-informs/media-center/cadfem-journal/fem-history.html

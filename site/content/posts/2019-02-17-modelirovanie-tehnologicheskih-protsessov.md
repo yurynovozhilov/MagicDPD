@@ -4,10 +4,9 @@ title: "Моделирование технологических процесс
 date: 2019-02-17T11:19:15+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1357
 tags:
-  - Marc
   - MSC
+  - Marc
   - Simufact
 images:
   - url: "/assets/images/1357.jpg"
@@ -28,4 +27,7 @@ https://youtu.be/DI3oxvVwKZw
 
 #Marc #MSC #Simufact
 
+https://wp.me/p9vWYY-2lo
+
+https://youtu.be/DI3oxvVwKZw
 https://wp.me/p9vWYY-2lo

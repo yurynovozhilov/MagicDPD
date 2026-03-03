@@ -4,7 +4,6 @@ title: "Если вы еще удивляетесь, как работает т�
 date: 2015-10-02T06:30:23+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_448
 tags:
   - COMSOL
   - TOPO
@@ -12,3 +11,5 @@ tags:
 ---
 
 Если вы еще удивляетесь, как работает топологическая оптимизация, то вот хороший ликбез по данной тематике.
+
+[Finding a Structure's Best Design with Topology Optimization](http://www.comsol.com/blogs/finding-a-structures-best-design-with-topology-optimization/)

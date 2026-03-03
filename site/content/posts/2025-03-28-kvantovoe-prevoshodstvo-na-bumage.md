@@ -4,7 +4,6 @@ title: "Квантовое превосходство «на бумаге»"
 date: 2025-03-28T12:02:39+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2916
 ---
 
 Квантовое превосходство «на бумаге»
@@ -18,3 +17,5 @@ original_url: https://vk.com/wall-97265142_2916
 Как видите, до решения СЛАУ пока далеко.
 
 https://insidehpc.com/2025/03/quantum-advantage-on-paper-oak-ridge-tests-a-quantum-computing-approach-for-fluid-dynamics/
+
+[Quantum Advantage ‘On Paper’: Oak Ridge Tests a Quantum Computing Approach for Fluid Dynamics](https://insidehpc.com/2025/03/quantum-advantage-on-paper-oak-ridge-tests-a-quantum-computing-approach-for-fluid-dynamics/)

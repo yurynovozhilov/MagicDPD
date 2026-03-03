@@ -4,15 +4,14 @@ title: "Вебинар «Методики моделирования взрыв�
 date: 2020-04-24T15:27:20+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1745
 tags:
+  - ParticleBlast
   - LS_DYNA
-  - SPH
   - ConWep
+  - SPH
+  - FSI
   - ALE
   - S_ALE
-  - FSI
-  - ParticleBlast
   - blast
   - CESE
 images:

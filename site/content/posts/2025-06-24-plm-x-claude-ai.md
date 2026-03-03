@@ -4,7 +4,6 @@ title: "PLM x Claude AI"
 date: 2025-06-24T11:03:56+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2968
 ---
 
 PLM x Claude AI
@@ -29,3 +28,5 @@ PLM x Claude AI
 - Использование нескольких серверов MCP (ERP, CRM, Cloud)
 
 https://www.linkedin.com/posts/daantheoden_plm-arasinnovator-mcp-activity-7337137605119000577-TbHV
+
+[#plm #arasinnovator #mcp #claude #agent #digitalthread | Daan Theoden | 13 comments](https://www.linkedin.com/posts/daantheoden_plm-arasinnovator-mcp-activity-7337137605119000577-TbHV)

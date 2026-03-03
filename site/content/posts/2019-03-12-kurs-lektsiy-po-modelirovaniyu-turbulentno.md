@@ -4,7 +4,6 @@ title: "Курс лекций по моделированию турбулент
 date: 2019-03-12T17:00:36+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1389
 tags:
   - CFD
 images:
@@ -19,4 +18,7 @@ https://cfd.spbstu.ru/agarbaruk/lecture/turb_models/﻿
 
 #CFD
 
+https://wp.me/p9vWYY-2ok
+
+https://cfd.spbstu.ru/agarbaruk/lecture/turb_models/﻿
 https://wp.me/p9vWYY-2ok

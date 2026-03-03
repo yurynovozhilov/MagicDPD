@@ -4,7 +4,6 @@ title: "У этой версии Ansys и у меня совпадают год�
 date: 2024-06-04T13:01:23+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2715
 images:
   - url: "/assets/images/2715.jpg"
 ---

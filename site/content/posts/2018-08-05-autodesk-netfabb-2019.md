@@ -4,11 +4,10 @@ title: "Autodesk Netfabb 2019"
 date: 2018-08-05T18:01:29+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1055
 tags:
   - AdditiveManufacturing
-  - Autodesk
   - Netfabb
+  - Autodesk
   - LatticeStructure
 images:
   - url: "/assets/images/1056.jpg"
@@ -19,4 +18,7 @@ Autodesk Netfabb 2019
 http://blogs.autodesk.com/netfabb/2018/07/19/whats-new-in-autodesk-netfabb-2019/
 
 #AdditiveManufacturing #Autodesk #LatticeStructure #Netfabb
+http://bit.ly/2OLh4Zd
+
+http://blogs.autodesk.com/netfabb/2018/07/19/whats-new-in-autodesk-netfabb-2019/
 http://bit.ly/2OLh4Zd

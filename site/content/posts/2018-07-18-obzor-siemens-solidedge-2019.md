@@ -4,12 +4,11 @@ title: "Обзор Siemens SolidEdge 2019"
 date: 2018-07-18T18:01:09+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1020
 tags:
   - Siemens
-  - SolidEdge
-  - ANSYS
   - Workbench
+  - ANSYS
+  - SolidEdge
 images:
   - url: "/assets/images/1021.jpg"
 ---
@@ -22,4 +21,7 @@ images:
 https://www.develop3d.com/reviews/review-siemens-solid-edge-2019-engineering-design-simulation
 
 #ANSYS #Siemens #SolidEdge #Workbench
+http://bit.ly/2uwGzoJ
+
+[DEVELOP3D - Review: Siemens Solid Edge 2019](https://www.develop3d.com/reviews/review-siemens-solid-edge-2019-engineering-design-simulation)
 http://bit.ly/2uwGzoJ

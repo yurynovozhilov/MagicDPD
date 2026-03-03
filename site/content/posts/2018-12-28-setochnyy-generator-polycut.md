@@ -4,12 +4,11 @@ title: "Сеточный генератор PolyCut"
 date: 2018-12-28T17:01:35+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1292
 tags:
-  - PolyCut
-  - PolyCube
-  - Mesh
   - AllHex
+  - Mesh
+  - PolyCube
+  - PolyCut
 images:
   - url: "/assets/images/1293.jpg"
 ---
@@ -48,4 +47,10 @@ https://youtu.be/Ju0C70-EkE4
 P.S. Дедушка Мороз, пусть одна большая CAE компания на букву "A" купит команду данного кода, и в грядущем году мы увидим PolyCut где-то рядом с MultiZone и Cartesian в меню выбора метода генерации сетки.
 
 #AllHex #Mesh #PolyCube #PolyCut
+http://bit.ly/2Q8Aw1k
+
+https://www.hexalab.net/
+http://hexalab.net/
+https://youtu.be/Ju0C70-EkE4
+http://www.cs.ubc.ca/labs/imager/tr/2013/polycut/
 http://bit.ly/2Q8Aw1k

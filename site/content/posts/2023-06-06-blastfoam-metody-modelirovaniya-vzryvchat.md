@@ -4,7 +4,6 @@ title: "BlastFoam: Методы моделирования взрывчатых 
 date: 2023-06-06T15:01:01+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2430
 ---
 
 BlastFoam: Методы моделирования взрывчатых веществ
@@ -12,3 +11,5 @@ BlastFoam: Методы моделирования взрывчатых веще
 Разработчики BlastFoam из компании Synthetik Applied Technologies записали очень подробный и не очень сложный для понимания вебинар по основным техникам моделирования детонации и динамики распространения ударных волн. Всем, кто хочет понимать, как это моделировать, на какие результаты смотреть и о каких особенностях модели задумываться - настоятельно рекомендую к просмотру.
 
 https://www.youtube.com/watch?v=IkaivF_NJg8
+
+[BlastFoam: Simulation Methods for High Explosives](https://www.youtube.com/watch?v=IkaivF_NJg8)

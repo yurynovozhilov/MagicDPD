@@ -4,10 +4,9 @@ title: "Более полное понимание работы Dynamics for Spa
 date: 2015-09-02T17:00:18+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_297
 tags:
-  - SpaceClaim
   - DfCS
+  - SpaceClaim
 ---
 
 Более полное понимание работы Dynamics for SpaceClaim от Algoryx Simulation AB дает хороший пример решения задачи роторной динамики для электродвигателя.

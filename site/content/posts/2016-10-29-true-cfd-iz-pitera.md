@@ -4,16 +4,15 @@ title: "True CFD из Питера!"
 date: 2016-10-29T17:00:34+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_165
 tags:
-  - StarCCM
-  - NTS
-  - Fluent
+  - DNS
   - HPC
   - legendpeople
-  - СПбГПУ
-  - DNS
+  - NTS
   - cfd
+  - СПбГПУ
+  - StarCCM
+  - Fluent
 ---
 
 True CFD из Питера!
@@ -25,3 +24,6 @@ http://www.spbstu.ru/media/news/nauka_i_innovatsii/andrey-garbaruk-about-trends-
 #cfd #legendpeople #HPC
 
 Для заинтересованных - тезисы к докладу: http://russianscdays.org/files/pdf16/357.pdf
+
+[Андрей Гарбарук – о трендах развития суперкомпьютерной отрасли](http://www.spbstu.ru/media/news/nauka_i_innovatsii/andrey-garbaruk-about-trends-supercomputer-development/)
+http://russianscdays.org/files/pdf16/357.pdf

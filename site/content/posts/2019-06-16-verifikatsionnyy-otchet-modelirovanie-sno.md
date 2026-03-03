@@ -4,12 +4,11 @@ title: "Верификационный отчет: моделирование с
 date: 2019-06-16T17:00:54+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1508
 tags:
-  - ASI
   - Civil
-  - AEM
   - ELS
+  - ASI
+  - AEM
 images:
   - url: "/assets/images/1508.jpg"
 ---
@@ -41,4 +40,7 @@ images:
 
 #AEM #ASI #Civil #ELS
 
+https://wp.me/p9vWYY-2zl
+
+https://www.extremeloading.com/wp-content/uploads/2015/05/ELS-DTRA-Report-Phase-I-General-Release_sm.pdf
 https://wp.me/p9vWYY-2zl

@@ -4,15 +4,14 @@ title: "Представляю вам #Theorem Solutions - разработчи�
 date: 2017-08-22T19:48:58+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_454
 tags:
-  - Theorem
   - magicdpd
-  - 3DPDF
   - Publish3D
-  - SpaceClaim
-  - ANSYS
   - Adobe
+  - ANSYS
+  - Theorem
+  - 3DPDF
+  - SpaceClaim
 ---
 
 Представляю вам #Theorem Solutions - разработчика Publish 3D. Данное программное обеспечение позволяет встраивать CAD модели прямо в PDF файлы, создавая так навиваемый 3D PDF.
@@ -25,3 +24,6 @@ tags:
 
 #3DPDF #Publish3D
 #magicdpd 🔗 vk.com/wall-97265142_3073
+
+https://youtu.be/50b4IMzbWE0
+.com/wall-97265142_3073

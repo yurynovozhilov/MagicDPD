@@ -4,12 +4,11 @@ title: "KC-FEMFRE - бессеточный код решения задач ра
 date: 2021-03-10T13:01:32+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1920
 tags:
-  - concrete
   - explicit
   - kcc
   - meshless
+  - concrete
 ---
 
 KC-FEMFRE - бессеточный код решения задач разрушения
@@ -33,4 +32,9 @@ KC-FEMFRE - бессеточный код решения задач разруш
 Но когда разрушения уже не могут быть описаны традиционными сеточными методами система переключаться на бессеточный метод на основе RKPM (Reprodusing Kernel Particel Meshod), являющийся аналогом бессеточных методов Гелеркина, применяемых в LS-DYNA (https://ftp.lstc.com/anonymous/outgoing/support/FAQ_kw/concrete/kccm_paper.pdf).  Сайт продукта: www.kcse.com/home/software/kcfemfre/ Одна из ранних публикаций по теме: https://doi.org/10.1061/(ASCE)EM.1943-7889.0000497
 
 #concrete #explicit #kcc #meshless
+https://tinyurl.com/y86ydvts
+
+https://ftp.lstc.com/anonymous/outgoing/support/FAQ_kw/concrete/kccm_paper.pdf
+http://www.kcse.com/home/software/kcfemfre/
+https://doi.org/10.1061/(ASCE)EM.1943-7889.0000497
 https://tinyurl.com/y86ydvts

@@ -4,11 +4,10 @@ title: "Огромный вебинар по midas MeshFree"
 date: 2019-01-21T17:00:16+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1318
 tags:
   - MIDAS
-  - MESHFREE
   - meshless
+  - MESHFREE
 images:
   - url: "/assets/images/1318.jpg"
 ---
@@ -28,4 +27,7 @@ https://www.youtube.com/watch?v=-KT0VbQH6q8
 
 #MESHFREE #meshless #MIDAS
 
+https://wp.me/p9vWYY-2hp
+
+https://www.youtube.com/watch?v=-KT0VbQH6q8
 https://wp.me/p9vWYY-2hp

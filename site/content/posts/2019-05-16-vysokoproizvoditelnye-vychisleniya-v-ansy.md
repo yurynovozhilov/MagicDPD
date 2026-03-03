@@ -4,14 +4,13 @@ title: "Высокопроизводительные вычисления в ANS
 date: 2019-05-16T11:01:12+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1473
 tags:
   - webinar
-  - cloud
-  - HPC
-  - CADFEM
   - eCADFEM
   - ANSYS
+  - HPC
+  - CADFEM
+  - cloud
 images:
   - url: "/assets/images/1473.jpg"
 ---
@@ -26,3 +25,7 @@ images:
 https://wp.me/p9vWYY-2vY
 
 by Юрий Новожилов
+
+https://webinars.cadfem-cis.ru/event/hpc/registration/
+https://webinars.cadfem-cis.ru
+https://wp.me/p9vWYY-2vY

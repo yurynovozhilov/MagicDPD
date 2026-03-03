@@ -4,7 +4,6 @@ title: "Оффтопик про трансмиссии и вариаторы"
 date: 2024-12-19T11:31:02+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2860
 ---
 
 Оффтопик про трансмиссии и вариаторы
@@ -14,3 +13,5 @@ original_url: https://vk.com/wall-97265142_2860
 Вы что-то такое где-то еще видел? Как вам тема для бакалаврской: посчитать такую систему в Motion/Adams или еще какой системе твердотельной кинематики?
 
 https://newatlas.com/automotive/geared-cvt-ratiozero/
+
+[World's first geared CVT: A 'holy grail' transmission in prototype form](https://newatlas.com/automotive/geared-cvt-ratiozero/)

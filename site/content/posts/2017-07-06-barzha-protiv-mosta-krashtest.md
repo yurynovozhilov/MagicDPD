@@ -4,7 +4,6 @@ title: "Баржа против моста - краштест"
 date: 2017-07-06T17:00:25+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_397
 tags:
   - PEC
   - LSDYNA
@@ -15,5 +14,9 @@ http://www.protection-consultants.com/case-studies/protection-bridges-subject-ac
 
 #PEC (Protection Engineering Consultants) выполнили работу по проверки опор моста на удар судна согласно нормам AASHTO Bridge Specifications. Считали в #LSDYNA, получилось красиво.
 
+https://youtu.be/KKrmGMcQL9w
+https://youtu.be/_MYLccKdg4g
+
+[Protection of Bridges Subject to Accidental and Intentional Vessel Impact | PEC](http://www.protection-consultants.com/case-studies/protection-bridges-subject-accidental-intentional-vessel-impact/)
 https://youtu.be/KKrmGMcQL9w
 https://youtu.be/_MYLccKdg4g

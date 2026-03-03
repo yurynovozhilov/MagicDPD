@@ -4,10 +4,9 @@ title: "OpenSim - моделирование опорно-двигательно
 date: 2021-02-12T14:57:13+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1904
 tags:
-  - open_source
   - opensim
+  - open_source
   - biomed
 ---
 
@@ -46,3 +45,10 @@ https://youtu.be/ME0VHfCtIM0
 #biomed #open_source #opensim
 https://tinyurl.com/yx9hkymv
 by Юрий Новожилов
+
+[Webinar: Interfacing Musculoskeletal & Finite Element Models to Study Bone Structure & Adaptation](https://www.youtube.com/watch?v=0e6vQV_ioCI)
+https://www.youtube.com/watch?v=WSsVlwDS-vY
+https://www.youtube.com/watch?v=CPx0JzxIBKc
+http://opensim.stanford.edu/
+https://youtu.be/ME0VHfCtIM0
+https://tinyurl.com/yx9hkymv

@@ -4,12 +4,17 @@ title: "#HPC в мирe #CAEMedia📼 Применение суперкомпь�
 date: 2017-11-13T11:41:22+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_604
 tags:
-  - HPC
   - CAEMedia
+  - HPC
 ---
 
 #HPC в мирe #CAEMedia📼 Применение суперкомпьютеров в современном мире - В…
 
 http://ift.tt/2hwIBC3
+
+http://ift.tt/2emhAvW
+http://ift.tt/2vdfLMH
+http://ift.tt/2jlIEB8
+http://ift.tt/2hwIBC3
+ttp://ift.tt/2hwIBC3

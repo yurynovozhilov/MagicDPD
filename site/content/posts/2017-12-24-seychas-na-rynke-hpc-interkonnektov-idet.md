@@ -4,15 +4,14 @@ title: "Сейчас на рынке #HPC интерконнектов идет 
 date: 2017-12-24T17:11:49+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_674
 tags:
-  - Fluent
-  - HPC
-  - CFX
-  - OPA
-  - Mellanox
   - Intel
   - ANSYS
+  - Mellanox
+  - HPC
+  - OPA
+  - CFX
+  - Fluent
 ---
 
 Сейчас на рынке #HPC интерконнектов идет тихая война между #Mellanox и #Intel.
@@ -21,4 +20,19 @@ tags:
 
 http://ift.tt/2l7xnl8MediaMediaMedia
 
+http://ift.tt/2kQNVyg
+
+http://ift.tt/2emhAvW
+http://ift.tt/2zoZXZe
+http://ift.tt/2embhsb
+http://ift.tt/2vk2wVv
+http://ift.tt/2l7xltw
+http://ift.tt/2vk2wVv
+http://ift.tt/2wmHv13
+http://ift.tt/2vk2wVv
+http://ift.tt/2j6d2vn
+http://ift.tt/2DITPts
+http://ift.tt/2DKZ3Vy
+http://ift.tt/2pp9x9Y
+http://ift.tt/2l7xqNQ
 http://ift.tt/2kQNVyg

@@ -4,7 +4,6 @@ title: "На прошедшей неделе компании SimScale и Onshap
 date: 2015-07-08T07:00:36+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_8
 ---
 
 На прошедшей неделе компании SimScale и Onshape объявили о своем партнерстве. Обе эти небольшие компании - около 50 человек каждая - разрабатывают решения для работы прямо в браузере. SimScale делает свой FEM и CFD решатель, а Onshape пишет свой CAD. В общем получился хороший набор из двух сервисов, которые позволят, в теории, построит и просчитать модель прямо в браузере.
@@ -14,3 +13,5 @@ original_url: https://vk.com/wall-97265142_8
 
 - если у этих компаний будет сбой, то сбой будет и у вас
 - совсем непонятно насколько хорош и эффективен их код
+
+[CAD and CAE via the web - Onshape and SimScale partner up - SimScale Blog](https://blog.simscale.com/blog/2015/06/cad-and-cae-simply-via-web-onshape-and-simscale/)

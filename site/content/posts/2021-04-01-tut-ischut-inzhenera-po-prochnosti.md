@@ -4,7 +4,6 @@ title: "Тут ищут инженера по прочности"
 date: 2021-04-01T13:01:37+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1936
 ---
 
 Тут ищут инженера по прочности
@@ -18,3 +17,6 @@ original_url: https://vk.com/wall-97265142_1936
 
 https://tinyurl.com/yeupdujh
 by Юрий Новожилов
+
+[Вакансия Инженер-прочнист (Ansys Mechanical) в Санкт-Петербурге, работа в компании КАДФЕМ Си-Ай-Эс](https://spb.hh.ru/vacancy/43522144)
+https://tinyurl.com/yeupdujh

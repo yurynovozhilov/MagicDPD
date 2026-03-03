@@ -4,7 +4,6 @@ title: "COREFORM FLEX"
 date: 2024-07-17T12:01:37+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2752
 ---
 
 COREFORM FLEX
@@ -17,3 +16,6 @@ COREFORM FLEX
 https://us02web.zoom.us/webinar/register/WN_KaWeUxLTSoyLTQ0VBlheWQ#/registration
 
 Кстати, COREFORM также может готовить модели для LS-DYNA с помощью *IGA_3D_BEZIER_XYZ или *IGA_3D_BASIS_TRANSFORM_XYZ
+
+https://us02web.zoom.us/webinar/register/WN_KaWeUxLTSoyLTQ0VBlheWQ
+https://us02web.zoom.us/webinar/register/WN_KaWeUxLTSoyLTQ0VBlheWQ#/registration

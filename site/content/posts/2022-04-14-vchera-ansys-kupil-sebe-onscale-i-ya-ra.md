@@ -4,19 +4,18 @@ title: "Вчера #Ansys купил себе #OnScale, и я расскажу �
 date: 2022-04-14T17:00:07+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2217
 tags:
-  - cloud
-  - Fluent
   - HPC
-  - WebUI
-  - AWS
-  - Ansys
-  - OnScale
-  - opensource
   - Mechanical
-  - HFSS
   - Azure
+  - Fluent
+  - OnScale
+  - HFSS
+  - AWS
+  - cloud
+  - Ansys
+  - WebUI
+  - opensource
 images:
   - url: "/assets/images/2218.jpg"
   - url: "/assets/images/2219.jpg"
@@ -31,3 +30,5 @@ images:
 Я думаю, что в ближайшие 5 лет мы сможем увидеть новые Web версии #Fluent, #Mechanical #HFSS, которые больше не будут требовать установки дистрибутива с 5 DVD дисков, а полноценно будет работать в глобальном или корпоративном облаке.
 
 #cloud #opensource #HPC https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale
+
+[Ansys to Expand Cloud Portfolio with Technology from Acquisition of OnScale](https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale)

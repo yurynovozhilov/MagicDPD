@@ -4,7 +4,6 @@ title: "Небольшая шпаргалка по прикладным вычи
 date: 2022-03-01T17:00:19+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2159
 tags:
   - Python
 images:

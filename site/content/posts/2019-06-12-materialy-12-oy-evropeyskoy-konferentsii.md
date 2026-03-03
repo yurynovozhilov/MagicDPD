@@ -4,7 +4,6 @@ title: "Материалы 12-ой европейской конференции
 date: 2019-06-12T17:01:27+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1504
 images:
   - url: "/assets/images/1504.jpg"
 ---
@@ -49,3 +48,5 @@ Solution Explorer in LS-PrePost — a GUI for Nonlinear Implicit FE, Thomas Borr
 
 
 Numerical Methods for the Analysis of Behind Armor Ballistic Trauma,
+
+https://www.dynalook.com/conferences/12th-european-ls-dyna-conference-2019

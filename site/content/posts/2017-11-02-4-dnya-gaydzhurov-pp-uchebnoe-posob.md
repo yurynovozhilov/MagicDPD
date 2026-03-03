@@ -4,9 +4,14 @@ title: "⏳: 4 дня / Гайджуров П.П. [учебное пособие
 date: 2017-11-02T18:27:34+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_580
 ---
 
 ⏳: 4 дня / Гайджуров П.П. [учебное пособие, Ростов-на-Дону, 2017, 90 с.] Применение комплекса ANSYS для анализа напряженно-деформированного состояния строительной системы «основание – фундамент – многоэтажное здание»MediaMediaMedia🔗 +
 
 http://ift.tt/2z7zX0X
+
+http://ift.tt/2z8KvwY
+http://ift.tt/2iVIEHG
+http://ift.tt/2z88YCs
+http://ift.tt/2iVIFeI
+ttp://ift.tt/2z7zX0X

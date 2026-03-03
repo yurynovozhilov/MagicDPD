@@ -4,15 +4,14 @@ title: "На днях мы с коллегой попробовали много
 date: 2017-09-29T12:22:58+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_524
 tags:
-  - Meshing
+  - Cartesian
   - bolt
-  - libHexEx
+  - ANSYS
   - HexEx
   - csimsoft
-  - ANSYS
-  - Cartesian
+  - Meshing
+  - libHexEx
 ---
 
 На днях мы с коллегой попробовали многообещающий сеточный генератор #csimsoft #bolt 2 и разочаровались. Оказалось, что он практически не отличается от декартова(#Cartesian) сеточного генератора в составе #ANSYS #Meshing. Так что я продолжаю поиски решения для быстрой генерации All-Hex сетки на геометрии.
@@ -21,3 +20,6 @@ tags:
 
 http://ift.tt/2fWiZKR
 https://graphics.rwth-aachen.de:900…MediaMedia🔗 Computer Graphics and Multimedia
+
+http://ift.tt/2fWmaSB
+https://www.graphics.rwth-aachen.de/publication/03260/

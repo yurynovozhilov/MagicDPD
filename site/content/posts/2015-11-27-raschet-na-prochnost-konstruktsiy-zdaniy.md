@@ -4,7 +4,8 @@ title: "Расчет на прочность конструкций, здани�
 date: 2015-11-27T21:07:23+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_804
 ---
 
 Расчет на прочность конструкций, зданий и сооружений. Кресло пилота
+
+[Расчет на прочность конструкций, зданий и сооружений. Кресло пилота](http://cae.apm.ru/galereya_vipolnennih_proektov/mashinostroenie/drugie_proekti/kresla_kabini_pilotov_br_samoletov_transportnoy_kategorii_br_i_aviatsii_obshchego_naznacheniya/kreslo_pilota_k_/)

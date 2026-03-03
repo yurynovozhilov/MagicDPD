@@ -4,7 +4,6 @@ title: "Что такое сетка"
 date: 2017-06-03T17:00:59+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_364
 tags:
   - SimScale
 ---

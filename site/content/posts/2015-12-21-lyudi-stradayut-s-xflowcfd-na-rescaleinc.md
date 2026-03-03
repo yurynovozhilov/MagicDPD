@@ -4,7 +4,6 @@ title: "Люди страдают с #XFlowCFD на #Rescaleinc"
 date: 2015-12-21T14:57:05+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_938
 tags:
   - Rescaleinc
   - XFlowCFD
@@ -13,3 +12,5 @@ images:
 ---
 
 Люди страдают с #XFlowCFD на #Rescaleinc
+
+[Twitter](https://mobile.twitter.com/TENTECHLLC/status/677934212347879424)

@@ -4,14 +4,13 @@ title: "Облачные лицензии ANSYS’ Pay-Per-Use для Rescale"
 date: 2018-01-25T17:01:29+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_747
 tags:
   - AEUs
-  - cloud
-  - HPC
-  - Rescale
-  - ScaleX
   - ANSYS
+  - HPC
+  - ScaleX
+  - Rescale
+  - cloud
 ---
 
 Облачные лицензии ANSYS’ Pay-Per-Use для Rescale
@@ -23,4 +22,7 @@ tags:
 
 https://blog.rescale.com/ansys-rescale-offer-on-demand-ansys-software-on-scalex/
 #AEUs #ANSYS #cloud #HPC #Rescale #ScaleX
+https://magicdpd.ru/?p=6080
+
+https://blog.rescale.com/ansys-rescale-offer-on-demand-ansys-software-on-scalex/
 https://magicdpd.ru/?p=6080

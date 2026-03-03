@@ -4,7 +4,6 @@ title: "Altair поглащает OmniQuest. Давайте разбиратьс
 date: 2023-10-02T15:01:37+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2545
 ---
 
 Altair поглащает OmniQuest. Давайте разбираться, почему это важно.
@@ -13,3 +12,5 @@ Altair поглащает OmniQuest. Давайте разбираться, по
 Я в свое время трогал их ACT для Mechaincal, и мне даже понравилось.
 
 https://altair.com/newsroom/news-releases/altair-acquires-omniquest
+
+[Altair Enhances Leadership in Optimization Technology by Acquiring OmniQuest](https://altair.com/newsroom/news-releases/altair-acquires-omniquest)

@@ -4,13 +4,12 @@ title: "Дроп-тесты с ANSYS/LS-DYNA"
 date: 2018-02-12T18:00:49+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_787
 tags:
+  - ANSYS
+  - DropTest
   - CADFEM
   - LS
   - explicit
-  - ANSYS
-  - DropTest
 images:
   - url: "/assets/images/788.jpg"
 ---
@@ -31,4 +30,7 @@ images:
 
 Презентация доступна по ссылке: http://www.cadfemukandireland.com/wp-content/uploads/2017/10/0930-Ian-turner-Drop-Test.pdf
 #ANSYS #ANSYS Explicit STR #CADFEM #DropTest #explicit #LS-DYNA
+https://wp.me/p9vWYY-1Cn
+
+http://www.cadfemukandireland.com/wp-content/uploads/2017/10/0930-Ian-turner-Drop-Test.pdf
 https://wp.me/p9vWYY-1Cn

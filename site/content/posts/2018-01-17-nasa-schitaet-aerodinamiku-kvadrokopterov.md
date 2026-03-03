@@ -4,13 +4,12 @@ title: "NASA считает аэродинамику квадрокоптеро�
 date: 2018-01-17T17:01:30+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_732
 tags:
-  - NASA
+  - CFD
   - OversetMesh
   - Chimera
+  - NASA
   - OVERFLOW
-  - CFD
 images:
   - url: "/assets/images/733.jpg"
 ---
@@ -26,4 +25,8 @@ NASA считает аэродинамику квадрокоптеров
 
 По ссылке на статью есть очень красивая визуализация расчетов: https://www.nas.nasa.gov/publications/articles/feature_hybrid_UAVs_VenturaDiaz.html
 #CFD #Chimera Grid Tool #NASA #OVERFLOW CFD #OversetMesh
+https://magicdpd.ru/?p=5970
+
+https://overflow.larc.nasa.gov
+https://www.nas.nasa.gov/publications/articles/feature_hybrid_UAVs_VenturaDiaz.html
 https://magicdpd.ru/?p=5970

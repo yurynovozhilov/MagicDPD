@@ -4,7 +4,6 @@ title: "Бессеточные методы и ALE в LS-DYNA, когда FEM н
 date: 2025-11-13T13:52:07+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3053
 images:
   - url: "/assets/images/3053.jpg"
   - url: "/assets/images/3054.jpg"
@@ -21,5 +20,7 @@ images:
 25-26 ноября будет премьера моего нового учебного курса на 2 дня. ALE, SPH,SPH, ОМГ и много других странных  сокращений на 3 буквы должны стать вам ближе и перестать пугать.
 
 Регистрируемся, если регион проживания позволяет.
+
+https://www.cadfem.net/en/training/material-flow-simulation-with-ale-and-particles-in-ls-dyna-21879.html
 
 https://www.cadfem.net/en/training/material-flow-simulation-with-ale-and-particles-in-ls-dyna-21879.html

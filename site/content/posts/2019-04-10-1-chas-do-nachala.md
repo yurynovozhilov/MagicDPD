@@ -4,7 +4,6 @@ title: "1 час до начала"
 date: 2019-04-10T05:44:05+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1438
 ---
 
 1 час до начала
@@ -15,3 +14,5 @@ original_url: https://vk.com/wall-97265142_1438
 
 
 https://wp.me/p9vWYY-2tr
+
+[1 час до начала - MagicDPD](https://wp.me/p9vWYY-2tr)

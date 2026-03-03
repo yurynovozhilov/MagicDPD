@@ -4,7 +4,6 @@ title: "Third Medium Contact (TMC)"
 date: 2024-09-24T12:02:00+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2786
 ---
 
 Third Medium Contact (TMC)
@@ -17,4 +16,7 @@ Third Medium Contact (TMC)
 
 Выглядит все достаточно сложно, особенно конда визуализируют деформацию третьей среды. А что ты думаете?
 https://www.wikiwand.com/en/articles/Third_medium_contact_method
+https://www.linkedin.com/posts/andreas-henrik-frederiksen_topologyoptimization-ugcPost-7237259131554811905-bkC5/
+
+[Third medium contact method - Wikiwand](https://www.wikiwand.com/en/articles/Third_medium_contact_method)
 https://www.linkedin.com/posts/andreas-henrik-frederiksen_topologyoptimization-ugcPost-7237259131554811905-bkC5/

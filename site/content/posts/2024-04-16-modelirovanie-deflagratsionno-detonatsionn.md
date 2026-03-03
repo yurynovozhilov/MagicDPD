@@ -4,7 +4,6 @@ title: "Моделирование дефлаграционно-детонаци
 date: 2024-04-16T13:01:01+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2685
 ---
 
 Моделирование дефлаграционно-детонационного переход для газовой смеси
@@ -13,4 +12,7 @@ original_url: https://vk.com/wall-97265142_2685
 
 https://www.youtube.com/watch?v=Vw_JeQUatAo
 
+https://github.com/synthetik-technologies/blastfoam/tree/4e6ee07a0c1fc4629ee7206804f4f1fe802ec64c/tutorials/blastXiFoam/deflagrationToDetonationTransition
+
+[blastXiFoam | Deflagration to Detonation (DDT) Simulation](https://www.youtube.com/watch?v=Vw_JeQUatAo)
 https://github.com/synthetik-technologies/blastfoam/tree/4e6ee07a0c1fc4629ee7206804f4f1fe802ec64c/tutorials/blastXiFoam/deflagrationToDetonationTransition

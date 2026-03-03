@@ -4,12 +4,11 @@ title: "Нелинейные контакты в SIMSOLID"
 date: 2017-08-03T17:01:35+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_426
 tags:
   - NASTRAN
-  - FEM
-  - ANSYS
   - SIMSOLID
+  - ANSYS
+  - FEM
 ---
 
 Нелинейные контакты в SIMSOLID
@@ -19,4 +18,7 @@ https://www.simsolid.com/2017/07/new-simsolid-separating-contact-with-friction/
 
 P.S. На демонстрационном видео показано, как работает нагрузка типа Bolt Pretention, и вот тут у меня появляется зависть. Ведь преднатяг болтов можно задать не только через осевое усилие, но и через момент затяжки, что особенно часто просят клиенты.
 
+https://youtu.be/Mq4aAEPsJ3A
+
+[New SIMSOLID separating contact with friction](https://www.simsolid.com/2017/07/new-simsolid-separating-contact-with-friction/)
 https://youtu.be/Mq4aAEPsJ3A

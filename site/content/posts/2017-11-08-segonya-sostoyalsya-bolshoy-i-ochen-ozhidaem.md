@@ -4,11 +4,10 @@ title: "Сегоня состоялся большой и очень ожида�
 date: 2017-11-08T09:10:09+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_595
 tags:
-  - NICE
   - DCV
   - HPC
+  - NICE
   - HPCMediaMedia
   - AWS
 ---
@@ -33,3 +32,6 @@ tags:
 http://ift.tt/2m7A75V
 
 #HPCMediaMedia🔗 Download DCV 2017 - NICE
+
+http://ift.tt/2yFdOtX
+https://www.nice-software.com/download/nice-dcv-2017

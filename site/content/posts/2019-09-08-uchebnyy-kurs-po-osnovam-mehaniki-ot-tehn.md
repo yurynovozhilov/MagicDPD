@@ -4,7 +4,6 @@ title: "Учебный курс по основам механики от Тех
 date: 2019-09-08T13:00:28+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1577
 images:
   - url: "/assets/images/1577.jpg"
 ---

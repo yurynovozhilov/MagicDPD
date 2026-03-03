@@ -4,7 +4,6 @@ title: "Новый сайт"
 date: 2018-01-09T12:00:25+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_705
 tags:
   - CAE
 images:
@@ -20,4 +19,12 @@ images:
 
 Если среди вас есть желающие помочь с поддержкой сайта, посоветовать как оптимизировать его код, улучшить удобство пользования - моя личка всегда открыта для вас.
 #CAE
+https://magicdpd.ru/?p=5883
+
+https://magicdpd.ru
+MagicDPD.ru
+http://vk.com/magicdpd
+http://facebook.com/magicdpd
+http://twitter.com/magicdpd
+http://t.me/magicdpd
 https://magicdpd.ru/?p=5883

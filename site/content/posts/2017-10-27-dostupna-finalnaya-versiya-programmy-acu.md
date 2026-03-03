@@ -4,10 +4,9 @@ title: "Доступна финальная версия программы #ACU
 date: 2017-10-27T07:25:21+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_571
 tags:
-  - ACUM
   - cadfem
+  - ACUM
 ---
 
 Доступна финальная версия программы #ACUM 2017
@@ -17,3 +16,6 @@ P.S. Второй день - 5 (пять, Карл!!!) отраслевых се
 #cadfem
 
 http://www.ansysconference.ru/program/ 🔗 Программа | Конференция CADFEM/ANSYS 31.10 - 02.11.2017 г
+
+http://ift.tt/2i9AuaT
+http://www.ansysconference.ru/program/

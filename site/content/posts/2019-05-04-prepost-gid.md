@@ -4,7 +4,6 @@ title: "Пре/пост GiD"
 date: 2019-05-04T17:00:21+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1465
 tags:
   - IGA
   - GiD
@@ -30,5 +29,7 @@ images:
 Есть кто живой, кто про GiD слышал?
 
 #GiD #IGA
+
+https://wp.me/s9vWYY-gid
 
 https://wp.me/s9vWYY-gid

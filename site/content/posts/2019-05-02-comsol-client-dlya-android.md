@@ -4,10 +4,9 @@ title: "COMSOL Client для Android"
 date: 2019-05-02T17:00:24+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1463
 tags:
-  - Comsol
   - Android
+  - Comsol
 images:
   - url: "/assets/images/1463.jpg"
 ---
@@ -39,4 +38,8 @@ COMSOL Client для Android
 
 #Android #Comsol
 
+https://wp.me/p9vWYY-2uM
+
+https://www.comsol.com/blogs/comsol-client-for-android-available-on-the-google-play-store/
+https://play.google.com/store/apps/details?id=com.comsol.androidclient
 https://wp.me/p9vWYY-2uM

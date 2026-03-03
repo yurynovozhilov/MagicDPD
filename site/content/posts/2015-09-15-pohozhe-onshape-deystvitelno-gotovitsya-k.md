@@ -4,10 +4,9 @@ title: "Похоже Onshape действительно готовится к в
 date: 2015-09-15T17:00:36+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_364
 tags:
-  - CAD
   - Onshape
+  - CAD
   - cloud
 ---
 

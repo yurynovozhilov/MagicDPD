@@ -4,7 +4,6 @@ title: "Где взять машину для краштеста"
 date: 2024-06-14T11:01:22+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2723
 images:
   - url: "/assets/images/2723.jpg"
   - url: "/assets/images/2724.jpg"
@@ -24,3 +23,7 @@ https://thyme.ornl.gov/FHWA/TractorTrailer/select/select.cgi
 https://www.nhtsa.gov/crash-simulation-vehicle-models
 
 Если у кого  еще ссылки на подобные открытые коллекции - прошу делиться в коментариях
+
+https://www.ccsa.gmu.edu/models/
+https://thyme.ornl.gov/FHWA/TractorTrailer/select/select.cgi
+https://www.nhtsa.gov/crash-simulation-vehicle-models

@@ -4,12 +4,11 @@ title: "Приятная и простая в использовании #Python
 date: 2022-09-29T18:00:09+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2355
 tags:
   - opensource
-  - Python
-  - LaTeX
   - Google
+  - LaTeX
+  - Python
 images:
   - url: "/assets/images/2355.jpg"
 ---
@@ -17,3 +16,5 @@ images:
 Приятная и простая в использовании #Python библиотека от #Google, которая украсит ваши научные разработки #LaTeX формулами.
 
 #opensource https://github.com/google/latexify_py
+
+https://github.com/google/latexify_py

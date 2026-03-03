@@ -4,11 +4,10 @@ title: "ANSYS Additive Suite"
 date: 2018-04-04T18:01:27+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_881
 tags:
-  - Additive_Manufacturing
   - ANSYS
   - Mechanical
+  - Additive_Manufacturing
 images:
   - url: "/assets/images/882.jpg"
 ---
@@ -18,4 +17,6 @@ ANSYS Additive Suite
 
 
 #Additive_Manufacturing #ANSYS #Mechanical
+https://goo.gl/TxJ9Gv
+
 https://goo.gl/TxJ9Gv

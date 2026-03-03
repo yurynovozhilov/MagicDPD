@@ -4,7 +4,6 @@ title: "MSC.Marc в облаке SimScale"
 date: 2024-12-03T13:00:45+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2849
 ---
 
 MSC.Marc в облаке SimScale
@@ -13,3 +12,5 @@ MSC.Marc в облаке SimScale
 
 
 https://www.businesswire.com/news/home/20241202212598/en/SimScale-and-Hexagon-Partner-to-Offer-Cloud-Native-Access-to-Advanced-Nonlinear-Structural-Analysis
+
+[SimScale and Hexagon Partner to Offer Cloud-Native Access to Advanced Nonlinear Structural Analysis](https://www.businesswire.com/news/home/20241202212598/en/SimScale-and-Hexagon-Partner-to-Offer-Cloud-Native-Access-to-Advanced-Nonlinear-Structural-Analysis)

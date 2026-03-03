@@ -4,10 +4,9 @@ title: "Шикарный документ-методичка, для тех, к�
 date: 2015-10-09T08:42:37+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_482
 tags:
-  - lsdyna
   - ale
+  - lsdyna
   - lib
 ---
 

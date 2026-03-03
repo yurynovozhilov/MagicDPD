@@ -4,11 +4,10 @@ title: "Основы SPH"
 date: 2018-03-19T18:01:12+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_859
 tags:
   - CFD
-  - SPH
   - Altair
+  - SPH
 images:
   - url: "/assets/images/860.jpg"
 ---
@@ -20,4 +19,7 @@ Altair в своем блоге подготовил первую часть р�
 https://innovationintelligence.com/basics-of-the-smoothed-particle-hydrodynamics-method/
 
 #Altair #CFD #SPH
+https://goo.gl/TZTLmg
+
+https://innovationintelligence.com/basics-of-the-smoothed-particle-hydrodynamics-method/
 https://goo.gl/TZTLmg

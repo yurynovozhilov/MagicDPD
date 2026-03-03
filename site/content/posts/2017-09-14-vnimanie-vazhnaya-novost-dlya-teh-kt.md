@@ -4,7 +4,6 @@ title: "📢 ВНИМАНИЕ!!! Важная новость для тех, кт
 date: 2017-09-14T14:28:14+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_491
 ---
 
 📢 ВНИМАНИЕ!!! Важная новость для тех, кто в поиске! 🔥🔥🔥
@@ -16,3 +15,8 @@ original_url: https://vk.com/wall-97265142_491
 http://ift.tt/2fkNXvz<…Media🔗 Вакансия Менеджер по продажам и работе с клиентами в Санкт-Петербурге, работа в Центр инженерно-физ…
 
 http://ift.tt/2eXhVp5
+
+http://ift.tt/2fkNXvz%3C/p%3E
+http://ift.tt/2xn30Po
+http://ift.tt/2fkNXvz
+ft.tt/2eXhVp5

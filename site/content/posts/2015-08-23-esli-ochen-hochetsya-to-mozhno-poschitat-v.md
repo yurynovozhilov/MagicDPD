@@ -4,7 +4,6 @@ title: "Если очень хочется, то можно посчитать �
 date: 2015-08-23T17:00:04+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_261
 tags:
   - freeCAD
   - ParaView

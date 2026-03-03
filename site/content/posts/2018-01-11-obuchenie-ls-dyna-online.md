@@ -4,12 +4,11 @@ title: "Обучение LS-DYNA online"
 date: 2018-01-11T17:01:06+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_718
 tags:
   - training
   - LS
-  - SIMCenter
   - OSU
+  - SIMCenter
 images:
   - url: "/assets/images/719.jpg"
 ---
@@ -35,4 +34,8 @@ images:
 
 https://professionals.engineering.osu.edu/introduction-ls-dyna
 #LS-DYNA #OSU #SIMCenter #training
+https://magicdpd.ru/?p=5909
+
+https://professionals.engineering.osu.edu/introduction-ls-dyna
+https://simcenter.osu.edu/
 https://magicdpd.ru/?p=5909

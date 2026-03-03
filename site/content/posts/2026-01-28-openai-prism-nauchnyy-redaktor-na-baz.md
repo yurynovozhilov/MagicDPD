@@ -4,11 +4,10 @@ title: "⚡️ OpenAI Prism: научный редактор на базе GPT-5
 date: 2026-01-28T13:51:45+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3094
 tags:
-  - ai
-  - news
   - ml
+  - news
+  - ai
 ---
 
 ⚡️ OpenAI Prism: научный редактор на базе GPT-5.2 с поддержкой LaTeX.
@@ -35,3 +34,6 @@ OpenAI наконец-то пустила в дело наработки куп�
 
 
 @ai_machinelearning_big_data
+
+https://openai.com/index/introducing-prism/
+https://prism.openai.com/

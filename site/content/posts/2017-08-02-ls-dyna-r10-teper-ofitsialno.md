@@ -4,14 +4,13 @@ title: "LS-DYNA R10 - теперь официально"
 date: 2017-08-02T09:00:11+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_424
 tags:
-  - ICFD
-  - SALE
-  - ALE
   - DEM
-  - FSI
+  - SALE
+  - ICFD
   - LSDYNA
+  - FSI
+  - ALE
 ---
 
 LS-DYNA R10 - теперь официально
@@ -38,3 +37,8 @@ http://ftp.lstc.com/user/ls-dyna/R10.0.0/
 http://ftp.lstc.com/user/mpp-dyna/R10.0/
 
 Лицензии ANSYS LS-DYNA для 18.1 вполне хватает для запуска решателя.
+
+[LS-DYNA R10.0.0 (R10.118302) released](https://www.dynasupport.com/news/ls-dyna-r10.0.0-r10.118302-released)
+http://www.dynasupport.com/news/ls-dyna-r10.0.0-r10.118302-released
+http://ftp.lstc.com/user/ls-dyna/R10.0.0/
+http://ftp.lstc.com/user/mpp-dyna/R10.0/

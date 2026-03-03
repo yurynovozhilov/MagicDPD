@@ -4,14 +4,13 @@ title: "Explicit FEM для проектирования турбин"
 date: 2016-08-06T06:30:23+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_70
 tags:
-  - Explicit
-  - AUTODYN
   - ANSYS
-  - FEM
   - Cummins
   - Turbo
+  - FEM
+  - AUTODYN
+  - Explicit
 ---
 
 Explicit FEM для проектирования турбин
@@ -25,4 +24,8 @@ http://www.enginelabs.com/news/cummins-models-turbine-wheel-explosions-to-test-h
 
 https://youtu.be/7Y01Ed4Sg3U
 http://www.enginelabs.com/news/cummins-models-turbine-wheel-explosions-to-test-housing-containment/
+https://cumminsturbotechnologies.com/sites/default/files/UpFiles/Explicit%20Dynamic%20Finite%20Element%20Simulation%20of%20Turbocharger%20Containment%20and%20Wheel%20Burst.pdf
+
+[Cummins Models Turbine Wheel Explosions](http://www.enginelabs.com/news/cummins-models-turbine-wheel-explosions-to-test-housing-containment/)
+https://youtu.be/7Y01Ed4Sg3U
 https://cumminsturbotechnologies.com/sites/default/files/UpFiles/Explicit%20Dynamic%20Finite%20Element%20Simulation%20of%20Turbocharger%20Containment%20and%20Wheel%20Burst.pdf

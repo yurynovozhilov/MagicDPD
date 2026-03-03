@@ -4,13 +4,12 @@ title: "Коллеги, вы все наслышаны про аддитивно
 date: 2017-10-10T09:08:27+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_546
 tags:
   - topology
-  - LSPP
   - optimization
-  - LSTaSC
   - LSDYNA
+  - LSTaSC
+  - LSPP
 ---
 
 Коллеги, вы все наслышаны про аддитивное технологии - о ни сейчас на коне. А значит надо уметь проектировать конструкции, отвечающие этим технологиям производства. И тут у нас главную роль играет топологическая оптимизация и умение ее проводить.
@@ -28,3 +27,14 @@ tags:
 https://youtu.be/fW_XmemcfYIMediaMedia📼 LS-TaSC optimized bottle opener
 
 http://ift.tt/2i2qHHf
+
+http://ift.tt/2y2nMnk
+http://ift.tt/2geunSe
+http://ift.tt/2i0hIGl
+http://ift.tt/2grPu3y
+http://ift.tt/2vlBJYZ
+https://youtu.be/fW_XmemcfYI
+http://ift.tt/2i0hKhr
+http://ift.tt/2gpq3zB
+http://ift.tt/2i2qHHf
+ttp://ift.tt/2i2qHHf

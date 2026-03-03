@@ -4,13 +4,12 @@ title: "#Intel в ближайшее время начнет поставки н
 date: 2017-08-18T17:02:15+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_443
 tags:
-  - more
-  - AVX2
-  - HPC
   - Intel
   - ANSYS
+  - HPC
+  - AVX2
+  - more
 images:
   - url: "/assets/images/444.jpg"
 ---
@@ -22,3 +21,8 @@ images:
 И да, если вы собираетесь подбирать новое железо, то моя инструкция (ее пункт 11) все еще актуальна: https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/18/ANSYS18.1_tech.pdf
 
 #HPC http://www.ansys-blog.com/boost-ansys-performance-intel-technologies/#more-18699
+
+[Intel® Xeon® Scalable Processors Product Specifications](https://ark.intel.com/products/series/125191/Intel-Xeon-Scalable-Processors)
+http://ark.intel.com/products/series/125191/Intel-Xeon-Scalable-Processors
+https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/18/ANSYS18.1_tech.pdf
+http://www.ansys-blog.com/boost-ansys-performance-intel-technologies/#more-18699

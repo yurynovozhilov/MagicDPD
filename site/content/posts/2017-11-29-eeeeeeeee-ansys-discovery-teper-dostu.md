@@ -4,7 +4,6 @@ title: "EEEEEEEEE! #ANSYS Discovery теперь доступен для рас�
 date: 2017-11-29T08:23:15+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_632
 tags:
   - ANSYS
 ---
@@ -13,4 +12,10 @@ EEEEEEEEE! #ANSYS Discovery теперь доступен для расчета 
 
 Р.S. Уверен что сейчас, где-то, после прочтения этой новости улыбается один Юра!MediaMedia
 
+http://ift.tt/2Aikm1S
+
+http://ift.tt/2AiASyx
+http://ift.tt/2vk2wVv
+http://ift.tt/2AikgY4
+http://ift.tt/2j03OSe
 http://ift.tt/2Aikm1S

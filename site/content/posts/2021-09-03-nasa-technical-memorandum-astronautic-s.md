@@ -4,10 +4,9 @@ title: "NASA TECHNICAL MEMORANDUM: ASTRONAUTIC STRUCTURES MANUAL"
 date: 2021-09-03T13:01:24+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1992
 tags:
-  - simulationfriday
   - true_science
+  - simulationfriday
   - nasa
 ---
 
@@ -92,3 +91,8 @@ NASA/TM-X-73307 (VOLUME III) http://everyspec.com/NASA/NASA-General/NASA_TM-X-73
 #nasa #simulationfriday #true_science
 https://tinyurl.com/yejoucgv
 by Юрий Новожилов
+
+[NASA TM-X-73305 VOL-I NASA/TM-X-73305 NASA TECHNICAL](http://everyspec.com/NASA/NASA-General/NASA_TM-X-73305_VOL-I_46177/)
+http://everyspec.com/NASA/NASA-General/NASA_TM-X-73306_VOL-II_13279/
+http://everyspec.com/NASA/NASA-General/NASA_TM-X-73307_VOL-III_13278/
+https://tinyurl.com/yejoucgv

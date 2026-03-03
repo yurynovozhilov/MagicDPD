@@ -4,16 +4,15 @@ title: "NVIDIA DOCKER"
 date: 2018-01-09T17:00:47+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_707
 tags:
-  - NVIDIA
-  - GLX
-  - cloud
-  - remoteviz
-  - HPC
-  - Praview
-  - Docker
   - EGL
+  - HPC
+  - remoteviz
+  - Praview
+  - NVIDIA
+  - cloud
+  - GLX
+  - Docker
 images:
   - url: "/assets/images/709.jpg"
 ---
@@ -25,4 +24,9 @@ NVIDIA на конференции SC17 рассказала про свое н�
 
 https://www.youtube.com/watch?v=z7nNmyKvMu4
 #cloud #Docker #EGL #GLX #HPC #NVIDIA #Praview #remoteviz
+https://magicdpd.ru/?p=5861
+
+https://en.wikipedia.org/wiki/EGL_(API)
+https://en.wikipedia.org/wiki/GLX
+https://www.youtube.com/watch?v=z7nNmyKvMu4
 https://magicdpd.ru/?p=5861

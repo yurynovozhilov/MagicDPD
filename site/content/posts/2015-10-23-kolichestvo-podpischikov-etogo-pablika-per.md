@@ -4,7 +4,6 @@ title: "Количество подписчиков этого паблика п
 date: 2015-10-23T17:36:17+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_561
 images:
   - url: "https://sun9-83.userapi.com/s/v1/ig1/7FX19utxxB2jUcy73xsIoefdMzGXMj67bZB0kJHNfwHEeL74rFNXL_ZtHSXIqM_OO1cC3CXq.jpg?quality=96&as=32x12,48x18,72x27,108x41,160x61,240x91,360x137,480x182,540x205,640x243,720x274,750x285&from=bu&u=BjISkbw0ON1G5bgRZeYgN1zK5BFxmndkUH4KY_Q5LoQ&cs=750x0"
 ---

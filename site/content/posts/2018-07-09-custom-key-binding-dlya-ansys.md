@@ -4,11 +4,10 @@ title: "Custom key binding для ANSYS"
 date: 2018-07-09T18:00:45+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1003
 tags:
   - ACT
-  - ANSYS
   - Mechanical
+  - ANSYS
 images:
   - url: "/assets/images/1004.jpg"
 ---
@@ -21,4 +20,7 @@ Custom key binding для ANSYS
 https://appstore.ansys.com/download?prodid=APC-ACTAPP-362
 
 #ACT #ANSYS #Mechanical
+http://bit.ly/2u8dYFZ
+
+https://appstore.ansys.com/download?prodid=APC-ACTAPP-362
 http://bit.ly/2u8dYFZ

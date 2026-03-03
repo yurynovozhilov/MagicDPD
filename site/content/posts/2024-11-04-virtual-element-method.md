@@ -4,7 +4,6 @@ title: "Virtual Element Method"
 date: 2024-11-04T14:51:59+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2826
 ---
 
 Virtual Element Method
@@ -31,3 +30,5 @@ VEM используется для задач механики сплошных
 VEM продолжает активно развиваться, повышая эффективность численных методов в прикладных задачах.
 
 https://www.vemhub.com
+
+://www.vemhub.com

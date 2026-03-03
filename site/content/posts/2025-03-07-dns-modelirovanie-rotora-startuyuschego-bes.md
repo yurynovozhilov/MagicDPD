@@ -4,7 +4,6 @@ title: "DNS моделирование ротора стартующего бе�
 date: 2025-03-07T13:06:23+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2899
 ---
 
 DNS моделирование ротора стартующего беспилотника
@@ -16,3 +15,5 @@ Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
 King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia
 
 https://www.youtube.com/watch?v=Ix7-pr6dezo
+
+[Direct numerical simulation (DNS) of a starting rotor (2025)](https://www.youtube.com/watch?v=Ix7-pr6dezo)

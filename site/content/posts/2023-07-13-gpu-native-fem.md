@@ -4,7 +4,6 @@ title: "GPU native FEM"
 date: 2023-07-13T15:01:32+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2470
 ---
 
 GPU native FEM
@@ -20,3 +19,5 @@ GPU native FEM
 Какие есть у вас идеи?
 
 https://www.nvidia.com/en-us/gpu-accelerated-applications/?filter=eyJJbmR1c3RyeVNlZ21lbnQiOlsiSFBDIC8gU3VwZXJjb21wdXRpbmciXSwid29ya2xvYWRzIjpbIlNpbXVsYXRpb24gLyBNb2RlbGluZyAvIERlc2lnbiJdfQ==
+
+[Accelerate your Applications with the Power of NVIDIA GPUs](https://www.nvidia.com/en-us/gpu-accelerated-applications/?filter=eyJJbmR1c3RyeVNlZ21lbnQiOlsiSFBDIC8gU3VwZXJjb21wdXRpbmciXSwid29ya2xvYWRzIjpbIlNpbXVsYXRpb24gLyBNb2RlbGluZyAvIERlc2lnbiJdfQ==)

@@ -4,7 +4,6 @@ title: "Пробивание бетона на скорости 770"
 date: 2025-11-07T13:44:44+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3049
 ---
 
 Пробивание бетона на скорости 770
@@ -12,3 +11,5 @@ original_url: https://vk.com/wall-97265142_3049
 Коллеги из Франции показали как они могут пробивать бетона на высоких скоростях не только в лаборатории, но и при помощи моделирования. Вижу что там что-то бессеточное (еще бы, на скорости 770 м/с), возможно просто SPH. Но вот кож по визуализации опознать не могу.
 
 https://www.thiot-ingenierie.com/en/2025/11/07/focus-on-our-h3g-launcher-hot-green-gas-gun/
+
+[Focus on our H3G® launcher (Hot Green Gas Gun) - Thiot Ingenierie](https://www.thiot-ingenierie.com/en/2025/11/07/focus-on-our-h3g-launcher-hot-green-gas-gun/)

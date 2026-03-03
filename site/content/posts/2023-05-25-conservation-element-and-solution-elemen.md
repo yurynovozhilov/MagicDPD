@@ -4,7 +4,6 @@ title: "Conservation Element and Solution Element (CESE)"
 date: 2023-05-25T15:01:56+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2421
 ---
 
 Conservation Element and Solution Element (CESE)
@@ -21,3 +20,6 @@ Conservation Element and Solution Element (CESE)
 
 CESE есть в ANSYS LS-DYNA https://www.dynaexamples.com/cese
 Все, кто заинтерсовались, могут почитать одну из основопологающих научных статей, раскрывающих работу метода более подробно: https://arc.aiaa.org/doi/10.2514/1.J058928
+
+[CESE/DUAL-CESE](https://www.dynaexamples.com/cese)
+https://arc.aiaa.org/doi/10.2514/1.J058928

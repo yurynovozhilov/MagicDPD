@@ -4,13 +4,12 @@ title: "EDRMedeso Weld Strength App"
 date: 2019-02-12T12:03:25+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1353
 tags:
+  - ANSYS
+  - Mechanical
   - welding
   - EDRMedesо
-  - Mechanical
   - ACT
-  - ANSYS
 images:
   - url: "/assets/images/1353.jpg"
 ---
@@ -35,4 +34,7 @@ https://www.youtube.com/watch?v=Q7Wk1nRKWGM
 
 #ACT #ANSYS #EDRMedesо #Mechanical #welding
 
+https://wp.me/p9vWYY-2k1
+
+https://www.youtube.com/watch?v=Q7Wk1nRKWGM
 https://wp.me/p9vWYY-2k1

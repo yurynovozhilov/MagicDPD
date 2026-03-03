@@ -4,13 +4,12 @@ title: "Моделируем сердечный клапан"
 date: 2022-01-26T17:00:13+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2101
 tags:
-  - ALE
-  - FSI
-  - LSDYNA
   - ANSYS
+  - LSDYNA
+  - FSI
   - biomed
+  - ALE
 ---
 
 Моделируем сердечный клапан
@@ -19,3 +18,6 @@ tags:
 #FSI #biomed #ANSYS
 
 Вообще, всем заинтересованным данной темой, можно пройти по следующей поисковой ссылке: https://www.dynalook.com/search?SearchableText=heart+valve https://www.dynalook.com/conferences/12th-european-ls-dyna-conference-2019/human-models-and-mathematical-models/luraghi_politecnico_di_milano.pdf/view
+
+https://www.dynalook.com/search?SearchableText=heart+valve
+https://www.dynalook.com/conferences/12th-european-ls-dyna-conference-2019/human-models-and-mathematical-models/luraghi_politecnico_di_milano.pdf/view

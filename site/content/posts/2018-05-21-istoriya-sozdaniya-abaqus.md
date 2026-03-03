@@ -4,10 +4,9 @@ title: "История создания ABAQUS"
 date: 2018-05-21T18:01:06+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_936
 tags:
-  - SIMULIA
   - ABAQUS
+  - SIMULIA
 ---
 
 История создания ABAQUS
@@ -18,4 +17,7 @@ ABAQUS — один из лиги «больших» — код, в точнос
 https://www.nafems.org/blog/posts/analysis-origins-abaqus/
 #ABAQUS #SIMULIA
 
+https://wp.me/p9vWYY-1R8
+
+[NAFEMS Analysis Origins - ABAQUS](https://www.nafems.org/blog/posts/analysis-origins-abaqus/)
 https://wp.me/p9vWYY-1R8

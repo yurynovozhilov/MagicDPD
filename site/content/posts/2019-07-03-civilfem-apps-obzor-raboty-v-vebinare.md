@@ -4,14 +4,13 @@ title: "CivilFEM APPs — обзор работы в вебинаре"
 date: 2019-07-03T19:18:41+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1521
 tags:
   - CivilFEM
-  - Workbench
-  - Mechanical
-  - ACT
   - ANSYS
+  - Mechanical
+  - Workbench
   - Ingeciber
+  - ACT
 images:
   - url: "/assets/images/1521.jpg"
 ---
@@ -26,3 +25,5 @@ CivilFEM APPs — обзор работы в вебинаре
 https://wp.me/p9vWYY-2Ay
 
 by Юрий Новожилов
+
+https://wp.me/p9vWYY-2Ay

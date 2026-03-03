@@ -4,11 +4,10 @@ title: "Фотореалистичный рендеринг результато
 date: 2020-02-17T13:00:13+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1702
 tags:
   - Blender
-  - Paraview
   - LS_PrePost
+  - Paraview
 images:
   - url: "/assets/images/1702.jpg"
 ---

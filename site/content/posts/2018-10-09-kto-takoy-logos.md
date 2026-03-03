@@ -4,7 +4,6 @@ title: "Кто такой ЛОГОС?"
 date: 2018-10-09T17:00:22+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1141
 tags:
   - ЛОГОС
 images:
@@ -17,4 +16,7 @@ images:
 http://dubna-oez.ru/images/data/gallery/212_8163_-CFD.pdf
 
 #ЛОГОС
+http://bit.ly/2OSFyT4
+
+http://dubna-oez.ru/images/data/gallery/212_8163_-CFD.pdf
 http://bit.ly/2OSFyT4

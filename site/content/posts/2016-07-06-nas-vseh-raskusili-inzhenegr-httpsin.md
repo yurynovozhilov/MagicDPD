@@ -4,9 +4,11 @@ title: "Нас всех раскусили! #инженегр https://instagram.
 date: 2016-07-06T14:01:56+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_18
 tags:
   - инженегр
 ---
 
 Нас всех раскусили! #инженегр https://instagram.com/p/BHeC-lNjVCw/
+
+https://www.instagram.com/p/BHeC-lNjVCw/
+https://instagram.com/p/BHeC-lNjVCw/

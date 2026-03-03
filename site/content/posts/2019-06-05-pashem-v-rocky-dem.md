@@ -4,10 +4,9 @@ title: "Пашем в Rocky DEM"
 date: 2019-06-05T17:00:28+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1498
 tags:
-  - DEM
   - Rocky
+  - DEM
 images:
   - url: "/assets/images/1498.jpg"
 ---
@@ -22,3 +21,5 @@ images:
 https://wp.me/p9vWYY-2xC
 
 by Юрий Новожилов
+
+https://wp.me/p9vWYY-2xC

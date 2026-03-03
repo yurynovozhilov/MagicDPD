@@ -4,12 +4,11 @@ title: "Насчет недавней новости про #OpenHPC - а вы �
 date: 2015-11-20T18:00:05+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_753
 tags:
-  - OpenHPC
   - HPC
-  - ANSYS
   - MSC
+  - ANSYS
+  - OpenHPC
 images:
   - url: "/assets/images/753.jpg"
 ---

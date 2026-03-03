@@ -4,11 +4,10 @@ title: "Моделирование процесса возведения кон�
 date: 2018-12-19T17:00:58+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1274
 tags:
-  - ARUP
-  - LSTC
   - LSDYNA
+  - LSTC
+  - ARUP
 images:
   - url: "/assets/images/1275.jpg"
 ---
@@ -24,4 +23,8 @@ images:
 http://ftp.lstc.com/anonymous/outgoing/support/PRESENTATIONS/Staged_construction_notes_03apr2018.pdf
 
 #ARUP #LSDYNA #LSTC
+http://bit.ly/2PRanEi
+
+https://ftp.lstc.com/anonymous/outgoing/support/PRESENTATIONS/Staged_construction_notes_03apr2018.pdf
+http://ftp.lstc.com/anonymous/outgoing/support/PRESENTATIONS/Staged_construction_notes_03apr2018.pdf
 http://bit.ly/2PRanEi

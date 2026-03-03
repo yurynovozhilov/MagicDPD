@@ -4,12 +4,11 @@ title: "Немного истории Parasolid и D-Cubed"
 date: 2018-07-24T18:00:30+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1034
 tags:
   - CAD
+  - Siemens
   - Parasolid
   - UGS
-  - Siemens
 images:
   - url: "/assets/images/1035.jpg"
 ---
@@ -43,4 +42,8 @@ https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/1730
 https://en.wikipedia.org/wiki/Parasolid
 
 #CAD #Parasolid #Siemens #UGS
+http://bit.ly/2JQFHQt
+
+[Parasolid, D-Cubed and Siemens: The Heart of Your CAD Software Belongs to Another](https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/17309/Parasolid-D-Cubed-and-Siemens-The-Heart-of-Your-CAD-Software-Belongs-to-Another.aspx)
+https://en.wikipedia.org/wiki/Parasolid
 http://bit.ly/2JQFHQt

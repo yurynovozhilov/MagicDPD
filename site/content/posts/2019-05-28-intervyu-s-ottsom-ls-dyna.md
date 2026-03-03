@@ -4,7 +4,6 @@ title: "Интервью с отцом LS-DYNA"
 date: 2019-05-28T17:01:18+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1490
 tags:
   - legendpeople
   - LSTC
@@ -22,3 +21,5 @@ images:
 https://wp.me/p9vWYY-2xn
 
 by Юрий Новожилов
+
+https://wp.me/p9vWYY-2xn

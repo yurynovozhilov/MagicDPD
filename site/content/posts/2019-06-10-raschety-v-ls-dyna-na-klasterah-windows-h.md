@@ -4,12 +4,11 @@ title: "Расчеты в LS-DYNA на кластерах Windows HPC Cluster"
 date: 2019-06-10T17:00:30+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1502
 tags:
+  - Windows
   - LS_DYNA
   - MPI
   - HPC
-  - Windows
 images:
   - url: "/assets/images/1502.jpg"
 ---
@@ -43,3 +42,6 @@ set ANSYSLI_SERVERS=2325@
 https://wp.me/p9vWYY-2yI
 
 by Юрий Новожилов
+
+https://project.dynamore.se/public/windowscluster12
+https://wp.me/p9vWYY-2yI

@@ -4,7 +4,6 @@ title: "Ply-based composite modeling with the new *ELEMENT_SHELL_COM"
 date: 2017-12-09T07:16:05+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_648
 ---
 
 Ply-based composite modeling with the new *ELEMENT_SHELL_COMPOSITE keyword.
@@ -19,4 +18,10 @@ http://ift.tt/2AFXG9h
 
 3. Используя нынешний релиз ANSYS Composite PrepPost, в него напрямую (т.е. в standalone режиме) можно закидывать дайновские k-файлы, заранее созданные в LSPP, Hypermesh или Notepad ;). Для этого нужно перейти в Composite PrepPost в Tools —> Preferences —> ACP —> Add-Ons и подключить LS-DYNA Interface (там это идет как Beta-Feature). После создания укладок в Composite PrepPost, это все можно СРАЗУ сохранить в k-файл, щелкнув правой кнопкой мыши в дереве Composite PrepPost на названии модели и выбрав "Save Analysis Model...".Media
 
+http://ift.tt/2A91Wxf
+
+http://ift.tt/2A6294d
+http://ift.tt/2A614cm
+http://ift.tt/2A614cm
+http://ift.tt/2AGNeOM
 http://ift.tt/2A91Wxf

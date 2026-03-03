@@ -4,11 +4,10 @@ title: "SPH моделирование спинномозговой жидкос
 date: 2021-03-05T13:01:57+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1918
 tags:
-  - ls
   - sph
   - biomed
+  - ls
 ---
 
 SPH моделирование спинномозговой жидкости в LS-DYNA
@@ -28,4 +27,8 @@ SPH моделирование спинномозговой жидкости в 
 Исходный пост с анимацией результатов: https://www.linkedin.com/posts/activity-6772564841979797504-jHS_/
 
 #biomed #ls-dyna #sph
+https://tinyurl.com/ydgrrc9c
+
+[Smoothed particle hydrodynamic modelling of the cerebrospinal fluid for brain biomechanics: Accuracy and stability](https://doi.org/10.1002/cnm.3440)
+https://www.linkedin.com/posts/activity-6772564841979797504-jHS_/
 https://tinyurl.com/ydgrrc9c

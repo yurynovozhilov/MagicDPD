@@ -4,7 +4,6 @@ title: "Гибридный DEM для ускорения расчета сыпу
 date: 2019-05-16T17:01:24+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1474
 images:
   - url: "/assets/images/1474.jpg"
 ---
@@ -19,3 +18,5 @@ images:
 https://wp.me/p9vWYY-2w5
 
 by Юрий Новожилов
+
+https://wp.me/p9vWYY-2w5

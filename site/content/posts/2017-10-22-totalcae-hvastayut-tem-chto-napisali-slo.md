@@ -4,17 +4,16 @@ title: "#TotalCAE хвастают тем, что написали слой ин
 date: 2017-10-22T17:14:25+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_565
 tags:
-  - TotalCAE
-  - Torque
-  - RSM
-  - HPC
-  - GridEngine
-  - LSF
   - MOAB
-  - PBS
+  - TotalCAE
+  - GridEngine
   - ANSYS
+  - HPC
+  - LSF
+  - PBS
+  - RSM
+  - Torque
 ---
 
 #TotalCAE хвастают тем, что написали слой интеграции между SLURM и #ANSYS #RSM. Напомню, ANSYS RSM позволяет без проблем ставить задачи ANSYS на таких высокопроизводительных системах, как #PBS, #LSF, #GridEngine, #Torque, #MOAB и даже Windows HPC Cluster, но не SLURM.
@@ -24,3 +23,6 @@ TotalCAE взяли и написали свой собственный слой
 #HPC
 
 https://www.totalcae.com/learn/slurm-ansys-remote-solver-manager-rsm/ 🔗 SLURM with ANSYS Remote Solver Manager (RSM) - TotalCAE Blog
+
+http://ift.tt/2zt3EbO
+https://www.totalcae.com/learn/slurm-ansys-remote-solver-manager-rsm/

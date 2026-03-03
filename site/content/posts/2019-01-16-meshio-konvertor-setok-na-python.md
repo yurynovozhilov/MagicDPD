@@ -4,11 +4,10 @@ title: "meshio — конвертор сеток на Python"
 date: 2019-01-16T17:01:29+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1314
 tags:
-  - Python
-  - mesh
   - Open_Source
+  - mesh
+  - Python
   - meshio
 images:
   - url: "/assets/images/1314.jpg"
@@ -38,5 +37,7 @@ VTU
 XDMF
 
 #mesh #meshio #Open_Source #Python
+
+https://wp.me/p9vWYY-2eQ
 
 https://wp.me/p9vWYY-2eQ

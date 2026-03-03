@@ -4,15 +4,14 @@ title: "HexGen и Hex2Spline: ALLHEX и IGA сетки для LS-DYNA"
 date: 2021-09-17T13:01:45+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2001
 tags:
-  - polycube
-  - all
-  - ls
+  - bext
   - iga
   - open_source
+  - polycube
+  - ls
   - ansys
-  - bext
+  - all
 ---
 
 HexGen и Hex2Spline: ALLHEX и IGA сетки для LS-DYNA
@@ -48,4 +47,9 @@ HexGen и Hex2Spline: ALLHEX и IGA сетки для LS-DYNA
 Страничка группы профессора Джессики Чжан в Университете Карнеги-Меллон:  https://www.meche.engineering.cmu.edu/directory/bios/zhang-yongjie.html
 
 #all-hex #ansys #bext #iga #ls-dyna #ls-prepost #open_source #polycube
+https://tinyurl.com/ydnqewkz
+
+[HexGen and Hex2Spline: Polycube-based Hexahedral Mesh Generation...](https://arxiv.org/abs/2011.14213)
+https://github.com/yu-yuxuan/HexGen_Hex2Spline
+https://www.meche.engineering.cmu.edu/directory/bios/zhang-yongjie.html
 https://tinyurl.com/ydnqewkz

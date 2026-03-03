@@ -4,7 +4,6 @@ title: "Ansys Discovery GUI"
 date: 2021-01-19T13:02:37+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1886
 tags:
   - ozen
   - ansys
@@ -40,3 +39,8 @@ https://www.youtube.com/watch?v=I9RQAFRNEvA
 #ansys #discovery #ozen
 https://tinyurl.com/yyvc698y
 by Юрий Новожилов
+
+[Quick Introduction to Ansys Discovery GUI](https://www.youtube.com/watch?v=Aio3uJ91AV0)
+https://www.youtube.com/watch?v=3RrFR0YuNYU
+https://www.youtube.com/watch?v=I9RQAFRNEvA
+https://tinyurl.com/yyvc698y

@@ -4,14 +4,13 @@ title: "GPU для сыпучих сред"
 date: 2017-04-17T08:01:49+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_331
 tags:
-  - NVIDIA
-  - Kepler
-  - DEM
-  - Pscal
-  - Rocky
   - GPU
+  - Kepler
+  - Pscal
+  - DEM
+  - Rocky
+  - NVIDIA
   - GPGPU
 ---
 
@@ -23,4 +22,7 @@ https://www.cadfem-cis.ru/list/article/rocky-nvidia-gpu/
 - Новые GPU на базе архитектуры #Pscal в разы уделывают #Kepler
 - И да, у нас была внутренняя alpha версия Rocky, на которой удалось проверить работу с несколькими GPU - все работает и хорошо!
 
+https://www.youtube.com/watch?v=93qJovCA6pI
+
+[Численные расчеты сыпучих сред на GPU](https://www.cadfem-cis.ru/list/article/rocky-nvidia-gpu/)
 https://www.youtube.com/watch?v=93qJovCA6pI

@@ -4,11 +4,10 @@ title: "На #SC17 #VMware рассказали, про их новые прод
 date: 2017-12-08T10:08:09+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_644
 tags:
-  - HPC
-  - VMware
   - SC17
+  - VMware
+  - HPC
 ---
 
 На #SC17 #VMware рассказали, про их новые продукты для виртуализации в #HPC. Вообще, виртуализация и HPC - это две стирающиеся не пересекаться прямые, но если очень хочется, то единственной точкой пересечения можно считать VMware.
@@ -18,3 +17,12 @@ tags:
 https://www.youtube.com/watch?v=BNg…Media📼 VMware moves Virtualized HPC Forward at SC17
 
 http://ift.tt/2nJ9BAo
+
+http://ift.tt/2zX5PoD
+http://ift.tt/2nIGNYT
+http://ift.tt/2emhAvW
+http://ift.tt/2iCjdu5)
+https://www.youtube.com/watch?v=BNgvnP-Pgjs
+http://ift.tt/2Ao46Ny
+http://ift.tt/2nJ9BAo
+ttp://ift.tt/2nJ9BAo

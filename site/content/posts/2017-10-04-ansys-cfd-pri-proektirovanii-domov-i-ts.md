@@ -4,7 +4,6 @@ title: "#ANSYS #CFD при проектировании домов и целых
 date: 2017-10-04T11:12:34+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_537
 tags:
   - CFD
   - ANSYS
@@ -14,3 +13,10 @@ tags:
 https://www.youtube.com/watch?v=d5q…Media📼 Цифровые технологии моделирования в инжиниринге /…
 
 http://ift.tt/2xTcyQm
+
+http://ift.tt/2vk2wVv
+http://ift.tt/2v2FNSC
+https://www.youtube.com/watch?v=d5qvEWE7clQ
+http://ift.tt/2y0WzSk
+http://ift.tt/2xTcyQm
+ttp://ift.tt/2xTcyQm

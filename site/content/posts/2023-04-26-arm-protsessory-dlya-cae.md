@@ -4,7 +4,6 @@ title: "ARM процессоры для CAE"
 date: 2023-04-26T15:02:03+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2396
 images:
   - url: "/assets/images/2396.jpg"
 ---
@@ -16,4 +15,7 @@ ARM процессоры для CAE
 
 https://www.extremetech.com/extreme/334856-the-apple-m1-ultra-crushes-intel-in-computational-fluid-dynamics-performance
 
+https://software.nasa.gov/software/LAR-16670-GS
+
+https://www.extremetech.com/extreme/334856-the-apple-m1-ultra-crushes-intel-in-computational-fluid-dynamics-performance
 https://software.nasa.gov/software/LAR-16670-GS

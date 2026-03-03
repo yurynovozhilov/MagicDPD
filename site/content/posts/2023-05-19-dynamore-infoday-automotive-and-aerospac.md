@@ -4,7 +4,6 @@ title: "DYNAmore Infoday Automotive and Aerospace Applications"
 date: 2023-05-19T15:00:06+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2416
 ---
 
 DYNAmore Infoday Automotive and Aerospace Applications
@@ -19,3 +18,5 @@ DYNAmore Infoday Automotive and Aerospace Applications
 01:58:50 Новая модель материала для пластмасс, армированных непрерывным волокном, при анализе устойчивости при столкновениях (д-р Клёппель, DYNAmore)
 
 https://www.youtube.com/watch?app=desktop&v=Nt3Q7Ct1ZBU
+
+[Infoday: Automotive and Aerospace Applications](https://www.youtube.com/watch?app=desktop&v=Nt3Q7Ct1ZBU)

@@ -4,13 +4,15 @@ title: "Использование граничных условий асимм�
 date: 2017-04-27T17:00:37+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_342
 tags:
-  - ANSYS
   - caeai
+  - ANSYS
 ---
 
 Использование граничных условий асимметрии
 https://caeai.com/blog/lost-art-anti-symmetry
 
 #caeai в своем блоге рассказывают о почти забытом искусстве использования не только граничных условий симметрии, но и граничных условий асимметрии. Когда вам надо построить максимально изящную модель для расчета в #ANSYS такое знание будет не лишним.
+
+[The Lost Art of Anti-Symmetry | CAE Associates](https://www.caeai.com/blog/lost-art-anti-symmetry)
+https://caeai.com/blog/lost-art-anti-symmetry

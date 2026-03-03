@@ -4,11 +4,10 @@ title: "История успеха небольшой компании Hackrod 
 date: 2017-08-21T23:28:33+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_450
 tags:
-  - Fusion
   - magicdpd
   - Autodesk
+  - Fusion
   - Dreamcatcher
 ---
 
@@ -18,3 +17,8 @@ tags:
 
 P.S. У компании Hackrod  очень красивый сайт: http://hackrod.com
 #magicdpd 🔗 vk.com/wall-97265142_3067
+
+http://hackrod.com
+https://autodeskresearch.com/projects/dreamcatcher
+http://hackrod.com
+k.com/wall-97265142_3067

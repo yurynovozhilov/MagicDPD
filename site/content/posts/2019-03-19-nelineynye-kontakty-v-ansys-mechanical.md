@@ -4,12 +4,11 @@ title: "Нелинейные контакты в ANSYS Mechanical"
 date: 2019-03-19T17:01:20+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1405
 tags:
-  - Mallett_Technology
   - contact
-  - ANSYS
   - Mechanical
+  - Mallett_Technology
+  - ANSYS
 images:
   - url: "/assets/images/1405.jpg"
 ---
@@ -25,4 +24,7 @@ https://www.youtube.com/watch?v=O-qTAiE8Kdo
 
 #ANSYS #contact #Mallett_Technology #Mechanical
 
+https://wp.me/p9vWYY-2q3
+
+https://www.youtube.com/watch?v=O-qTAiE8Kdo
 https://wp.me/p9vWYY-2q3

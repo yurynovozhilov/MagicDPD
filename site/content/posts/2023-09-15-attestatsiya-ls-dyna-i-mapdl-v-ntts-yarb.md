@@ -4,7 +4,6 @@ title: "Аттестация LS-DYNA и MAPDL в НТЦ ЯРБ"
 date: 2023-09-15T15:01:34+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2520
 images:
   - url: "/assets/images/2520.jpg"
 ---
@@ -17,3 +16,6 @@ images:
 
 @GlukRazor  https://orcid.org/0000-0001-9584-6997
 @Andrey_Dmitriev https://orcid.org/0000-0003-3166-1576
+
+https://orcid.org/0000-0001-9584-6997
+https://orcid.org/0000-0003-3166-1576

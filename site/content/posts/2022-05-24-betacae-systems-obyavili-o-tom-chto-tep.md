@@ -4,13 +4,14 @@ title: "#BetaCAE Systems объявили о том, что теперь в #ANS
 date: 2022-05-24T18:00:04+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2278
 tags:
+  - GPU
+  - FSI
+  - ANSA
   - BetaCAE
   - SPH
-  - ANSA
-  - FSI
-  - GPU
 ---
 
 #BetaCAE Systems объявили о том, что теперь в #ANSA добавлен (естественно за отдельную платную лицензию) #SPH решатель их собственно разработки. Решатель предназначен для моделирования #FSI процессов. Основные примеры применения от разработчика: наполнение топливного бака, слошинг и аквапланирование. Заявлено, что SPH код работает на #GPU, что позволяет получать результаты "почтив реальном времени." https://youtu.be/0W6tv3gLuYw
+
+[Smoothed Particle Hydrodynamics (SPH) in ANSA](https://youtu.be/0W6tv3gLuYw)

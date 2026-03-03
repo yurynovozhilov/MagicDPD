@@ -4,7 +4,6 @@ title: "Баллистическая теплопроводность"
 date: 2018-07-29T18:01:17+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1044
 tags:
   - Thermal
   - TrueScience
@@ -19,4 +18,7 @@ images:
 https://vk.com/@rnfpage-kristall
 
 #Thermal #TrueScience
+http://bit.ly/2OrOQmg
+
+[Ученые исследовали аномальные свойства сверхчистых кристаллов](https://vk.com/@rnfpage-kristall)
 http://bit.ly/2OrOQmg

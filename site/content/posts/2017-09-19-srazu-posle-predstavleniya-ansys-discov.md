@@ -4,7 +4,6 @@ title: "Сразу после представления #ANSYS #Discovery Live 
 date: 2017-09-19T17:06:03+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_503
 tags:
   - Discovery
   - ANSYS
@@ -19,3 +18,6 @@ tags:
 Таким образом, пока официально никто не знает, как именно #ANSYS #Discovery Live умудряется решать задачи механики, гидродинамики и теплопроводности в реальном времени.
 
 http://www.worldcadaccess.com/blog/2017/09/we-ask-ansys-about-their-new-gpu-based-fea-software.html 🔗 We ask ANSYS about their new GPU-based FEA software
+
+http://ift.tt/2wLNQRy
+http://www.worldcadaccess.com/blog/2017/09/we-ask-ansys-about-their-new-gpu-based-fea-software.html

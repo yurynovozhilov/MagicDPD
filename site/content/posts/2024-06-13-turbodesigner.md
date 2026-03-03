@@ -4,7 +4,6 @@ title: "Turbodesigner"
 date: 2024-06-13T13:02:12+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2722
 images:
   - url: "/assets/images/2722.jpg"
 ---
@@ -16,4 +15,7 @@ Turbodesigner - это инструмент, который, задавая та
 
 Переведено с помощью www.DeepL.com/Translator (бесплатная версия)
 
+https://github.com/OpenOrion/turbodesigner
+
+www.DeepL.com/Translator
 https://github.com/OpenOrion/turbodesigner

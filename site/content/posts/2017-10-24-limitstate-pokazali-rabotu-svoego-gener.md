@@ -4,14 +4,13 @@ title: "#LimitState показали работу своего генерато�
 date: 2017-10-24T17:04:24+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_568
 tags:
-  - additivemanufacturing
-  - FORM
   - LimitState
-  - LimitStateFORM
-  - Discovery
   - ANSYS
+  - additivemanufacturing
+  - Discovery
+  - FORM
+  - LimitStateFORM
 ---
 
 #LimitState показали работу своего генератора облегченных конструкций #FORM, встроив его в #ANSYS #Discovery Live. Таким образом коллеги получают проверку предлагаемой их программным обеспечением топологии в реальном времени. Это прям супер!
@@ -21,3 +20,14 @@ tags:
 https://www.youtube.com/watch?v=eiw…Media📼 LimitState:FORM and ANSYS Discovery Live
 
 http://ift.tt/2y41IW8
+
+http://ift.tt/2hx9YLJ
+http://ift.tt/2y3ACyu
+http://ift.tt/2vk2wVv
+http://ift.tt/2wLNQRy
+http://ift.tt/2hTeWPB
+http://ift.tt/2y3PJYN
+https://www.youtube.com/watch?v=eiwvN0ckarc
+http://ift.tt/2iwDvFG
+http://ift.tt/2y41IW8
+ttp://ift.tt/2y41IW8

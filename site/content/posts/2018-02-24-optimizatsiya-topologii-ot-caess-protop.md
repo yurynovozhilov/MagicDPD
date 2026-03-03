@@ -4,13 +4,12 @@ title: "Оптимизация топологии от CAESS ProTOp"
 date: 2018-02-24T18:01:43+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_816
 tags:
-  - Lattices
-  - Topology
   - ProTOp
   - Optimization
   - CAESS
+  - Topology
+  - Lattices
 images:
   - url: "/assets/images/817.jpg"
 ---

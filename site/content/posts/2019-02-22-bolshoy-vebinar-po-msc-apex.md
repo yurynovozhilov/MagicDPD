@@ -4,7 +4,6 @@ title: "Большой вебинар по MSC Apex"
 date: 2019-02-22T17:00:21+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1363
 images:
   - url: "/assets/images/1363.jpg"
 ---
@@ -27,3 +26,5 @@ https://www.youtube.com/watch?v=lXh6IzMqn0E
 
 
 Следующий, весьма спорный момент: мы сделали такой классный интерфейс, что у нас нет по нему учебных курсов — вы сами разберетесь. Во-первых, документация
+
+https://www.youtube.com/watch?v=lXh6IzMqn0E

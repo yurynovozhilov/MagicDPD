@@ -4,13 +4,12 @@ title: "Тот самый вебинар по GENERATE"
 date: 2018-10-25T17:01:02+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1171
 tags:
-  - Generate
-  - Topology
-  - TrueSOLID
   - Optimization
+  - Topology
   - Frustum
+  - Generate
+  - TrueSOLID
 images:
   - url: "/assets/images/1172.jpg"
 ---
@@ -21,4 +20,6 @@ images:
 Наслаждаемся 30-ю минутами инженерного порно
 
 #Frustum #Generate #Optimization #Topology #TrueSOLID
+http://bit.ly/2D4LWRO
+
 http://bit.ly/2D4LWRO

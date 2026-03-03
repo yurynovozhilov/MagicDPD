@@ -4,13 +4,12 @@ title: "Submodeling на усилиях"
 date: 2019-06-14T17:00:53+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1506
 tags:
-  - Ozen
-  - submodeling
+  - ANSYS
   - APDL
   - Mechanical
-  - ANSYS
+  - Ozen
+  - submodeling
 images:
   - url: "/assets/images/1506.jpg"
 ---
@@ -42,4 +41,7 @@ Submodeling на усилиях
 
 #ANSYS #APDL #Mechanical #Ozen #submodeling
 
+https://wp.me/p9vWYY-2za
+
+https://www.ozeninc.com/force-based-submodeling/
 https://wp.me/p9vWYY-2za

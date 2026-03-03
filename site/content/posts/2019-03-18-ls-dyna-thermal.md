@@ -4,7 +4,6 @@ title: "LS-DYNA Thermal"
 date: 2019-03-18T17:00:32+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1403
 images:
   - url: "/assets/images/1403.jpg"
 ---
@@ -41,3 +40,8 @@ LS-DYNA Thermal
 
 
 Ну а чтобы подстегнуть интерес к задачам, связанным с теплом, вот ссылка на
+
+https://www.dynaexamples.com/thermal
+https://www.dynaexamples.com/thermal/thermal.pdf
+http://ftp.lstc.com/anonymous/outgoing/support/FAQ_docs/heat_transfer_class.pdf
+http://ftp.lstc.com/anonymous/outgoing/support/FAQ_docs/heat_transfer_class.zip

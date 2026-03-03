@@ -4,13 +4,12 @@ title: "CFD Toolbox для MATLAB"
 date: 2018-08-10T18:01:40+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1065
 tags:
-  - FEATool
-  - PreciseSimulation
-  - CFDTool
   - CFD
   - MATLAB
+  - CFDTool
+  - FEATool
+  - PreciseSimulation
 images:
   - url: "/assets/images/1066.jpg"
 ---
@@ -26,4 +25,8 @@ https://www.cfdtool.com
 https://www.mathworks.com/matlabcentral/fileexchange/68411-cfdtool-matlab-cfd-toolbox
 
 #CFD #CFDTool #FEATool #MATLAB #PreciseSimulation
+http://bit.ly/2KISLrF
+
+[CFDTool - CFD Simulation Made Easy](https://www.cfdtool.com/)
+https://www.mathworks.com/matlabcentral/fileexchange/68411-cfdtool-matlab-cfd-toolbox
 http://bit.ly/2KISLrF

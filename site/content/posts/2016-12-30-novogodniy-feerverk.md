@@ -4,13 +4,12 @@ title: "Новогодний феерверк"
 date: 2016-12-30T10:01:26+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_235
 tags:
-  - CPM
-  - PBM
-  - ALE
   - ConWep
+  - PBM
   - LSDYNA
+  - ALE
+  - CPM
 ---
 
 Новогодний феерверк
@@ -24,4 +23,8 @@ https://vk.com/doc11568_440462041
 
 P.S. Ссылка на подарок прилагается. Даешь максимальный репост!
 
+https://youtu.be/qOUo3JLNUao
+
+https://vk.com/doc11568_440462041
+http://www.dynalook.com/13th-international-ls-dyna-conference/blast/particle-blast-method-pbm-for-the-simulation-of-blast-loading
 https://youtu.be/qOUo3JLNUao

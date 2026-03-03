@@ -4,12 +4,11 @@ title: "Блочно-структурированные сетки в LSPP"
 date: 2021-01-29T13:01:36+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1894
 tags:
-  - block_mesher
   - mesh
-  - ls
   - blockm
+  - ls
+  - block_mesher
 ---
 
 Блочно-структурированные сетки в LSPP
@@ -35,4 +34,9 @@ https://www.youtube.com/watch?v=5nXh_4sOgY4
 
 
 #block_mesher #blockm #ls-prepost #mesh
+https://tinyurl.com/yxf69hg5
+
+[LS-PrePost BlockM Example: Cylinder with a hole on side surface](https://www.youtube.com/watch?v=3_uS5h0qOPs)
+https://www.youtube.com/watch?v=kbEH8ixsFAw
+https://www.youtube.com/watch?v=5nXh_4sOgY4
 https://tinyurl.com/yxf69hg5

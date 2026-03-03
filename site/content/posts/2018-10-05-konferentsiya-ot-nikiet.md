@@ -4,7 +4,6 @@ title: "Конференция от НИКИЭТ"
 date: 2018-10-05T16:22:52+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1134
 images:
   - url: "/assets/images/1135.jpg"
   - url: "/assets/images/1136.jpg"
@@ -16,4 +15,7 @@ images:
 http://www.nikiet.ru/index.php/2018-05-15-08-21-14/konferentsii/19-joomla/127-x-rossijskaya-konferentsiya-metody-i-programmnoe-obespechenie-raschetov-na-prochnost
 
 
+http://bit.ly/2CsD343
+
+[X РОССИЙСКАЯ КОНФЕРЕНЦИЯ](http://www.nikiet.ru/index.php/2018-05-15-08-21-14/konferentsii/19-joomla/127-x-rossijskaya-konferentsiya-metody-i-programmnoe-obespechenie-raschetov-na-prochnost)
 http://bit.ly/2CsD343

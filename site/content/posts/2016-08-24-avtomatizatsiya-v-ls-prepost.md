@@ -4,14 +4,13 @@ title: "Автоматизация в LS-PrePost"
 date: 2016-08-24T06:30:29+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_92
 tags:
-  - LSPP
   - CLI
-  - GUI
+  - LSTC
   - LSPREPOST
   - LSDYNA
-  - LSTC
+  - LSPP
+  - GUI
 ---
 
 Автоматизация в LS-PrePost
@@ -23,3 +22,6 @@ http://www.lstc.com/lspp/content/other/command/command.shtml
 
 Кроме того, ссылка на старое учебное пособие (LS-PrePost 3.2), где в 9-ом примере были разобраны тонкости работы CLI:
 https://vk.com/doc11568_437790483 (см. стр. 220-228)
+
+http://www.lstc.com/lspp/content/other/command/command.shtml
+https://vk.com/doc11568_437790483

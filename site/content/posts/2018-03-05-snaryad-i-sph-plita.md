@@ -4,7 +4,6 @@ title: "Снаряд и SPH плита"
 date: 2018-03-05T18:01:17+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_832
 tags:
   - Impact
   - SPH

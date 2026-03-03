@@ -4,13 +4,12 @@ title: "SoS от Dynardo"
 date: 2016-10-20T17:00:32+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_152
 tags:
-  - Dynardo
   - deepdrawing
-  - SoS
   - optimization
   - LSDYNA
+  - SoS
+  - Dynardo
 ---
 
 SoS от Dynardo
@@ -23,3 +22,5 @@ https://www.youtube.com/watch?v=rOLvRjeZOTc
 P.S. Тема актуальная, но звук у вебинара подкачал.
 
 https://www.youtube.com/watch?v=rOLvRjeZOTc
+
+[Webinar Introduction to SoS 2016 09 28](https://www.youtube.com/watch?v=rOLvRjeZOTc)

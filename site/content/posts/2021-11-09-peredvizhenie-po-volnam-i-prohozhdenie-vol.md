@@ -4,7 +4,6 @@ title: "Передвижение по волнам и прохождение в�
 date: 2021-11-09T14:01:21+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2029
 tags:
   - simulationfriday
 ---
@@ -22,4 +21,7 @@ tags:
 Наслаждаемся работой Кэмбриджа: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/waveriding-and-wavepassing-by-ducklings-in-formation-swimming/94759A0FF7070D9D7CAC5907594B1781
 
 #simulationfriday
+https://tinyurl.com/yfxpujd4
+
+[Wave-riding and wave-passing by ducklings in formation swimming | Journal of Fluid Mechanics | Cambridge Core](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/waveriding-and-wavepassing-by-ducklings-in-formation-swimming/94759A0FF7070D9D7CAC5907594B1781)
 https://tinyurl.com/yfxpujd4

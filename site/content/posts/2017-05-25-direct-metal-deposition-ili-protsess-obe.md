@@ -4,17 +4,16 @@ title: "Direct Metal Deposition или процесс объемной лазе�
 date: 2017-05-25T17:01:14+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_359
 tags:
-  - Mechanical
-  - FEM
-  - MSC
-  - FLOW3D
   - Pancomputing
   - CFD
-  - Simufact
+  - MSC
   - ANSYS
+  - Mechanical
+  - Simufact
+  - FLOW3D
   - additive_manufacturing
+  - FEM
 ---
 
 Direct Metal Deposition или процесс объемной лазерной наплавки
@@ -28,3 +27,10 @@ FEM by #MSC #Simufact Additive: https://www.youtube.com/watch?v=l9n6AheyI2E
 FEM by #ANSYS #Mechanical: https://www.youtube.com/watch?v=H0Uara7B5to
 FEM by #ANSYS #Mechanical: https://www.youtube.com/watch?v=74TOhQwEj80
 FEM by #Pancomputing https://www.youtube.com/watch?v=LWk43HjKjcM
+
+[Direct Metal Deposition | FLOW-3D AM](https://www.youtube.com/watch?v=esBC0WwAX8g)
+https://www.youtube.com/watch?v=oWfoAzQlLVo
+https://www.youtube.com/watch?v=l9n6AheyI2E
+https://www.youtube.com/watch?v=H0Uara7B5to
+https://www.youtube.com/watch?v=74TOhQwEj80
+https://www.youtube.com/watch?v=LWk43HjKjcM

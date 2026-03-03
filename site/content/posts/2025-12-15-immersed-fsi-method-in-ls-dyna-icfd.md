@@ -4,7 +4,6 @@ title: "Immersed FSI method in LS-DYNA ICFD"
 date: 2025-12-15T15:51:17+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3075
 ---
 
 Immersed FSI method in LS-DYNA ICFD
@@ -14,3 +13,5 @@ Immersed FSI method in LS-DYNA ICFD
 Вот, например, демка с последней конференции: взяли произвольную модель с GrabCAD, построили на ней какую-то сетку, и просто засунули все это в виртуальную аэродинамическую трубу. Единственно ограничение сейчас заключается в том, что работает такой FSI только с оболочками.
 
 https://youtu.be/kiHG2coygo0?si=6Nn6ha1rteMSXYZ5
+
+[CFD of a 2026 Formula 1 (F1) car using ICFD LS-DYNA Solver.](https://youtu.be/kiHG2coygo0?si=6Nn6ha1rteMSXYZ5)

@@ -4,7 +4,6 @@ title: "Материалы 15-ой конференции LS-DYNA"
 date: 2019-02-08T04:38:27+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1340
 images:
   - url: "/assets/images/1340.jpg"
 ---
@@ -24,3 +23,5 @@ S-ALE домен научился двигаться за центром тяж�
 
 Программа конференции: https://www.dynamore.de/en/downloads/flyer/2018/int.-ls-dyna-conference-2018-agenda
 Материалы для изучения:
+
+https://www.dynamore.de/en/downloads/flyer/2018/int.-ls-dyna-conference-2018-agenda

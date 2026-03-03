@@ -4,12 +4,11 @@ title: "По заявлениям разработчиков, #Endurica явля
 date: 2022-05-05T17:00:11+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2243
 tags:
-  - Endurica
   - fatigue
-  - Ansys
   - Mechanical
+  - Ansys
+  - Endurica
 images:
   - url: "/assets/images/2244.jpg"
   - url: "/assets/images/2245.jpg"
@@ -22,3 +21,7 @@ images:
 
 https://youtu.be/K2MS1P1eEZI
 https://www.youtube.com/watch?v=4xymu-1_RvE https://www.ansys.com/events/get-rubber-durability-right-with-endurica
+
+[Endurica | Get Durability Right Before You Build And Break](https://youtu.be/K2MS1P1eEZI)
+https://www.youtube.com/watch?v=4xymu-1_RvE
+https://www.ansys.com/events/get-rubber-durability-right-with-endurica

@@ -4,16 +4,15 @@ title: "Creo Simulation Live - free beta/trial"
 date: 2018-12-25T17:01:21+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1286
 tags:
-  - NVIDIA
-  - Discovery
-  - PTC
   - GPU
-  - CAD
   - ANSYS
-  - Creo
   - Live
+  - Creo
+  - Discovery
+  - NVIDIA
+  - CAD
+  - PTC
 images:
   - url: "/assets/images/1287.jpg"
 ---
@@ -41,4 +40,6 @@ Creo Simulation Live - free beta/trial
 
 
 #ANSYS #CAD #Creo #Discovery #GPU #Live #NVIDIA #PTC
+http://bit.ly/2V9EPgE
+
 http://bit.ly/2V9EPgE

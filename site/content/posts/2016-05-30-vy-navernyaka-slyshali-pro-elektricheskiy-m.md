@@ -4,15 +4,14 @@ title: "Вы наверняка слышали про электрический
 date: 2016-05-30T08:02:48+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1714
 tags:
-  - topology
-  - Airbus
-  - optimization
-  - APWorks
-  - nTopology
-  - Within
   - Autodesk
+  - topology
+  - optimization
+  - Within
+  - Airbus
+  - nTopology
+  - APWorks
 images:
   - url: "/assets/images/1714.jpg"
 ---
@@ -25,3 +24,5 @@ images:
 
 #optimization #topology
 Мартиалы по теме https://geektimes.ru/post/276160/
+
+[Generative Design Software | Within | Autodesk](http://www.autodesk.com/products/within/overview)

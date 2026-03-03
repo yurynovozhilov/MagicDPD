@@ -4,12 +4,11 @@ title: "Электромагнитный решатель LS-DYNA: оптими�
 date: 2018-03-09T18:00:56+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_839
 tags:
-  - LSTC
-  - LSDYNA
   - EM
   - BEM
+  - LSTC
+  - LSDYNA
 images:
   - url: "/assets/images/840.jpg"
 ---
@@ -25,4 +24,6 @@ images:
 
 
 #BEM #EM #LSDYNA #LSTC
+https://goo.gl/JxUG1y
+
 https://goo.gl/JxUG1y

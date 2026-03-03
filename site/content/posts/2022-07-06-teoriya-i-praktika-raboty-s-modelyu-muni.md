@@ -4,9 +4,10 @@ title: "Теория и практика работы с моделью Муни
 date: 2022-07-06T20:50:55+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2319
 images:
   - url: "/assets/images/2319.jpg"
 ---
 
 Теория и практика работы с моделью Муни-Ривлина для гиперупругих материалов. https://youtu.be/Pi8qRehqcvM
+
+https://youtu.be/Pi8qRehqcvM

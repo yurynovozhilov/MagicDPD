@@ -4,14 +4,13 @@ title: "FastEngineeringAnalysis"
 date: 2017-08-04T17:00:38+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_427
 tags:
-  - Microsoft
-  - cloud
-  - FEM
   - Azure
   - FastEngineeringAnalysis
   - Onshape
+  - Microsoft
+  - FEM
+  - cloud
 ---
 
 FastEngineeringAnalysis
@@ -24,3 +23,6 @@ FastEngineeringAnalysis работает на мощностях #Microsoft #Azu
 #cloud
 
 P.S. Судя по демонстрационным видео на канале (https://www.youtube.com/channel/UCgCxkb0Jmnt-PUdDRFZbOYA) это далеко не production ready платформа.
+
+https://www.fastengineeringanalysis.com/
+https://www.youtube.com/channel/UCgCxkb0Jmnt-PUdDRFZbOYA

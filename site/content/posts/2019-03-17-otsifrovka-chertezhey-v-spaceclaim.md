@@ -4,10 +4,9 @@ title: "Оцифровка чертежей в SpaceClaim"
 date: 2019-03-17T17:00:57+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1401
 tags:
-  - SpaceClaim
   - Reverse_Engineering
+  - SpaceClaim
 images:
   - url: "/assets/images/1401.jpg"
 ---
@@ -27,4 +26,7 @@ https://www.youtube.com/watch?v=00UogXp3W9g
 
 #Reverse_Engineering #SpaceClaim
 
+https://wp.me/p9vWYY-2pJ
+
+https://www.youtube.com/watch?v=00UogXp3W9g
 https://wp.me/p9vWYY-2pJ

@@ -4,10 +4,9 @@ title: "Учим новые слова:#HPI"
 date: 2016-08-02T06:30:49+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_65
 tags:
-  - HPC
   - HPI
+  - HPC
 ---
 
 Учим новые слова:#HPI
@@ -19,5 +18,7 @@ http://www.nextplatform.com/2016/07/14/ranking-high-performance-interconnects/am
 - Cray “Aries” XC
 - SGI’s NUMALink.
 - Ethernet (ну это уже совсем не HPI)
+
+http://www.nextplatform.com/2016/07/14/ranking-high-performance-interconnects/amp/
 
 http://www.nextplatform.com/2016/07/14/ranking-high-performance-interconnects/amp/

@@ -4,11 +4,10 @@ title: "КЭ моделирование SARS-CoV-2 в ANSYS Mechanical"
 date: 2021-07-05T13:01:16+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1976
 tags:
-  - covid
-  - ansys
   - mechanical
+  - ansys
+  - covid
 ---
 
 КЭ моделирование SARS-CoV-2 в ANSYS Mechanical
@@ -28,4 +27,7 @@ tags:
 Научная статья: https://www.researchgate.net/publication/348909778_Probing_the_Stochastic_Dynamics_of_Coronaviruses_Machine_Learning_Assisted_Deep_Computational_Insights_with_Exploitable_Dimensions
 
 #ansys #covid #mechanical
+https://tinyurl.com/ydv2urnu
+
+https://www.researchgate.net/publication/348909778_Probing_the_Stochastic_Dynamics_of_Coronaviruses_Machine_Learning_Assisted_Deep_Computational_Insights_with_Exploitable_Dimensions
 https://tinyurl.com/ydv2urnu

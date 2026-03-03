@@ -4,13 +4,12 @@ title: "Новые возможности решателя LS-DYNA R13: част
 date: 2021-11-22T14:02:34+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2038
 tags:
-  - cadfem
-  - ale
-  - sael
-  - bem
   - icfd
+  - ale
+  - cadfem
+  - bem
+  - sael
 ---
 
 Новые возможности решателя LS-DYNA R13: часть II
@@ -30,4 +29,8 @@ tags:
 Если вы хотите попасть на вебинар, то вам обязательно (!!!) надо пройти бесплатную регистрацию и не в последний момент: https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13-chast-ii/
 
 #ale #bem #cadfem #icfd #sael
+https://tinyurl.com/yfxn6xfv
+
+[Новые возможности решателя LS-DYNA R13: часть II](https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13-chast-ii/?utm_source=sg&utm_medium=email&utm_campaign=web-24-11-21)
+https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13-chast-ii/
 https://tinyurl.com/yfxn6xfv

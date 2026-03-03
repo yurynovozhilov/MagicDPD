@@ -4,7 +4,6 @@ title: "Сколько библиотек материалов для LS-DYNA е
 date: 2024-12-11T08:57:40+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2854
 ---
 
 Сколько библиотек материалов для LS-DYNA есть в Workbench?
@@ -16,3 +15,5 @@ original_url: https://vk.com/wall-97265142_2854
 В запущенном в этом году блоге CADFEM я исследую базы свойств материалов, доступные пользователям Ansys LS-DYNA. Это будет интересное путешествие - присоединяйтесь!
 
 https://blog.cadfem.net/en/how-many-material-libraries-for-ls-dyna-does-workbench-have
+
+[How many material libraries for LS-DYNA does Workbench have?](https://blog.cadfem.net/en/how-many-material-libraries-for-ls-dyna-does-workbench-have)

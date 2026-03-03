@@ -4,7 +4,6 @@ title: "Жидкость в терминале!"
 date: 2025-11-24T15:00:04+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3065
 ---
 
 Жидкость в терминале!
@@ -13,4 +12,7 @@ original_url: https://vk.com/wall-97265142_3065
 
 https://youtu.be/eaHcGegRT9U?si=EpcYOvKgVEdi4wOH
 
+https://github.com/null-enjoyer/terminal-fluid-simulation?tab=readme-ov-file
+
+[showcase](https://youtu.be/eaHcGegRT9U?si=EpcYOvKgVEdi4wOH)
 https://github.com/null-enjoyer/terminal-fluid-simulation?tab=readme-ov-file

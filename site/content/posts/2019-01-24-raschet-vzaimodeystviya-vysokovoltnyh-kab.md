@@ -4,13 +4,12 @@ title: "Расчет взаимодействия высоковольтных �
 date: 2019-01-24T17:00:16+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1321
 tags:
   - LS_DYNA
+  - ANSYS
   - Hall_of_Fame
   - EM
   - simulationfriday
-  - ANSYS
 images:
   - url: "/assets/images/1321.jpg"
 ---
@@ -37,3 +36,6 @@ images:
 https://wp.me/p9vWYY-2hI
 
 by Юрий Новожилов
+
+https://www.ansys.com/other/hall-of-fame/archive/2019/panduit
+https://wp.me/p9vWYY-2hI

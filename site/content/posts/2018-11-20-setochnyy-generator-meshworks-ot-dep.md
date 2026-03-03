@@ -4,11 +4,10 @@ title: "Сеточный генератор MeshWorks от DEP"
 date: 2018-11-20T17:01:10+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1223
 tags:
-  - MeshWorks
   - Mesh
   - DEP
+  - MeshWorks
 images:
   - url: "/assets/images/1224.jpg"
 ---
@@ -21,4 +20,6 @@ images:
 P.S. Мне одному кажется, что логотип компании очень здорово перекликается со стилем первого фильма Robocop?
 
 #DEP #Mesh #MeshWorks
+http://bit.ly/2S1e8IP
+
 http://bit.ly/2S1e8IP

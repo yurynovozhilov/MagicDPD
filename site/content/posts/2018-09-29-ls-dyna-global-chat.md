@@ -4,10 +4,9 @@ title: "LS-DYNA Global Chat"
 date: 2018-09-29T15:17:28+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1123
 tags:
-  - KAIZENAT
   - LSTC
+  - KAIZENAT
   - LSDYNA
 images:
   - url: "/assets/images/1124.jpg"
@@ -18,4 +17,7 @@ LS-DYNA Global Chat
 Ссылка-приглашение на чат: https://t.me/joinchat/JN3HNg9bzWLuAx5gu6qGRA
 
 #KAIZENAT #LSDYNA #LSTC
+http://bit.ly/2QifvBR
+
+https://t.me/joinchat/JN3HNg9bzWLuAx5gu6qGRA
 http://bit.ly/2QifvBR

@@ -4,12 +4,11 @@ title: "True-Load - настояще нагрузки для вашей КЭ м�
 date: 2018-07-27T18:00:36+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1040
 tags:
-  - Fatigue
-  - WolfStarTechnologies
-  - TrueLoad
   - DigitalTwin
+  - Fatigue
+  - TrueLoad
+  - WolfStarTechnologies
 images:
   - url: "/assets/images/1041.jpg"
 ---
@@ -36,4 +35,8 @@ True-Load - настояще нагрузки для вашей КЭ модел�
 P.S. Пост по теме в блока ANSYS: http://www.ansys-blog.com/true-load-software/
 
 #DigitalTwin #Fatigue #TrueLoad #WolfStarTechnologies
+http://bit.ly/2K0ZAEx
+
+[True-Load | Load Reconstruction Software | Wolf Star Technologies, LLC](https://www.wolfstartech.com/true-load)
+http://www.ansys-blog.com/true-load-software/
 http://bit.ly/2K0ZAEx

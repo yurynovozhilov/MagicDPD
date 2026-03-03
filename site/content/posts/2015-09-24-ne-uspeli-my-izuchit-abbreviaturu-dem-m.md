@@ -4,15 +4,14 @@ title: "Не успели мы изучить аббревиатуру DEM (ме
 date: 2015-09-24T18:00:00+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_411
 tags:
-  - OpenFOAM
-  - DEM
-  - Engys
-  - Rocky
-  - CFD
-  - HELYX
   - PEM
+  - CFD
+  - DEM
+  - Rocky
+  - HELYX
+  - Engys
+  - OpenFOAM
 ---
 
 Не успели мы изучить аббревиатуру DEM (метод дискретного элемента,Discrete Element Method), и даже восхвалили Rocky за работу с DEM имеющими форму, как я нашел на просторах сети достойный метод - конкурент.

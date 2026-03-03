@@ -4,15 +4,14 @@ title: "PTC купил Frustum"
 date: 2018-11-24T17:01:32+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1231
 tags:
-  - SolidEdge
-  - NX
-  - Generate
-  - Topology
-  - PTC
-  - Frustum
   - Optomization
+  - NX
+  - Topology
+  - Frustum
+  - Generate
+  - PTC
+  - SolidEdge
 images:
   - url: "/assets/images/1232.jpg"
 ---
@@ -26,4 +25,7 @@ https://www.develop3d.com/blog/2018/11/ptc-creo-given-a-boost-with-frustum-acqui
 &nbsp;
 
 #Frustum #Generate #NX #Optomization #PTC #SolidEdge #Topology
+http://bit.ly/2P0nP8d
+
+[DEVELOP3D blog - PTC Creo given a boost with Frustum acquisition](https://www.develop3d.com/blog/2018/11/ptc-creo-given-a-boost-with-frustum-acquisition)
 http://bit.ly/2P0nP8d

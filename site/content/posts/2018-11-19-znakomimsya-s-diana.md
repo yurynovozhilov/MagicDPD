@@ -4,13 +4,12 @@ title: "Знакомимся с DIANA"
 date: 2018-11-19T07:00:56+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1221
 tags:
-  - IFC
-  - Revit
   - DIANA
   - Autodesk
   - Civil
+  - IFC
+  - Revit
 images:
   - url: "/assets/images/1222.jpg"
 ---
@@ -24,4 +23,8 @@ images:
 Ну и, конечно, всегда очень приятно иметь автоматическую верстку отчетов в HTML, rtf, OpenOffice, markdown (!!!) и LaTex (!!! !!! !!!).
 
 #Autodesk #Civil #DIANA #IFC #Revit
+http://bit.ly/2RZezTS
+
+[Home - DIANA](https://dianafea.com/)
+https://www.tno.nl/en/
 http://bit.ly/2RZezTS

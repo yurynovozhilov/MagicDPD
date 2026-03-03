@@ -4,10 +4,9 @@ title: "German LS-DYNA Forum 2018"
 date: 2019-03-16T17:00:22+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1399
 tags:
-  - LS_DYNA
   - LSTC
+  - LS_DYNA
   - DYNAMore
 ---
 
@@ -36,4 +35,7 @@ LS-TaSC 4: Designing for the combination of impact, static and NVH — обзо�
 
 #DYNAMore #LS_DYNA #LSTC
 
+https://wp.me/p9vWYY-2po
+
+https://www.dynamore.de/de/download/papers/2018-ls-dyna-forum/papers-2018
 https://wp.me/p9vWYY-2po

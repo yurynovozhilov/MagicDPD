@@ -4,13 +4,12 @@ title: "Делаем UDF без ошибок для Fluent"
 date: 2017-07-21T17:00:58+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_415
 tags:
-  - Fluent
-  - CFD
   - nmake
-  - UDF
+  - CFD
   - ANSYS
+  - Fluent
+  - UDF
 ---
 
 Делаем UDF без ошибок для Fluent
@@ -20,3 +19,5 @@ https://www.youtube.com/watch?v=xt2hnE9_LdM
 
 #CFD
 https://www.youtube.com/watch?v=xt2hnE9_LdM
+
+[✅ ANSYS FLUENT - Compilate UDF - Solution to "nmake" Error](https://www.youtube.com/watch?v=xt2hnE9_LdM)

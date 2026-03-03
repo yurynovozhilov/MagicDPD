@@ -4,19 +4,18 @@ title: "Расчет подрыва ЖБ плиты с учетом фрагме
 date: 2018-02-07T18:00:53+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_774
 tags:
-  - fragmentation
-  - DEFINE_ADAPTIVE_SOLID_TO_SPH
-  - SPH
-  - fracture
-  - reinforcement
-  - concrete
-  - LS
   - ParticleBlast
-  - blast
+  - DEFINE_ADAPTIVE_SOLID_TO_SPH
   - LSTC
+  - LS
+  - SPH
+  - fragmentation
   - CONSTRAINED_BEAM_IN_SOLID
+  - fracture
+  - blast
+  - concrete
+  - reinforcement
 images:
   - url: "/assets/images/775.jpg"
 ---
@@ -34,4 +33,7 @@ images:
 
 https://www.youtube.com/watch?v=QHbO6tRPI3c
 #blast #concrete #CONSTRAINED_BEAM_IN_SOLID #DEFINE_ADAPTIVE_SOLID_TO_SPH #fracture #fragmentation #LS-DYNA #LSTC #ParticleBlast #reinforcement #SPH
+https://wp.me/p9vWYY-1BK
+
+https://www.youtube.com/watch?v=QHbO6tRPI3c
 https://wp.me/p9vWYY-1BK

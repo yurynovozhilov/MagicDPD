@@ -4,7 +4,6 @@ title: "Использование твёрдость по Шору для ид�
 date: 2024-02-02T11:01:28+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2637
 ---
 
 Использование твёрдость по Шору для идентификации параметров гиперупргих материалов
@@ -18,3 +17,5 @@ original_url: https://vk.com/wall-97265142_2637
 Ну а все таблицы и формулы вы найдете в публикации Altidis, P. A.; Warner, B. V., 2005. “Analyzing hyperelastic materials w/some practical considerations”. Midwest ANSYS Users Group.
 
 https://docplayer.net/38659581-Analyzing-hyperelastic-materials-w-some-practical-considerations.html
+
+[🥇 ProtectedPool ➤ Most Powerful and Safest Web3 Smart DeFi Wallet 🔐](https://docplayer.net/38659581-Analyzing-hyperelastic-materials-w-some-practical-considerations.html)

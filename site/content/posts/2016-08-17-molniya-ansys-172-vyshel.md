@@ -4,11 +4,10 @@ title: "#Молния: ANSYS 17.2 вышел!"
 date: 2016-08-17T14:40:34+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_83
 tags:
-  - CAE
-  - ANSYS
   - Молния
+  - ANSYS
+  - CAE
 ---
 
 #Молния: ANSYS 17.2 вышел!
@@ -29,3 +28,6 @@ http://www.ansys.com/Solutions/Solutions-by-Role/IT-Professionals/Platform-Suppo
 - ANSYS 17.2 - Job Schedulers & Queuing Systems Support
 - ANSYS 17.2 - Platform Support by Application
 - ANSYS 17.2 - Remote Display Support
+
+[Platform Support | ANSYS](https://www.ansys.com/Solutions/Solutions-by-Role/IT-Professionals/Platform-Support)
+http://www.ansys.com/Solutions/Solutions-by-Role/IT-Professionals/Platform-Support

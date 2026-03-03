@@ -4,7 +4,6 @@ title: "Расчет коэффициента теплоотдачи радиа�
 date: 2019-03-17T12:00:45+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1400
 tags:
   - CFD
   - AIM
@@ -28,4 +27,7 @@ https://www.youtube.com/watch?v=X8gDQltR5UY
 
 #AIM #ANSYS #CFD
 
+https://wp.me/p9vWYY-2qd
+
+https://www.youtube.com/watch?v=X8gDQltR5UY
 https://wp.me/p9vWYY-2qd

@@ -4,13 +4,12 @@ title: "#Python #opensource фреймворк #automan Этот позволя�
 date: 2022-06-21T18:00:02+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2301
 tags:
   - ML
+  - Python
+  - automan
   - CAE
   - opensource
-  - automan
-  - Python
 images:
   - url: "/assets/images/2301.jpg"
 ---
@@ -21,3 +20,5 @@ images:
 - помогает организовать запуск расчетов и последующую постобработку их результатов
 - помогает повторно использовать код для постобработки данных моделирования
 - помогает выполнять все моделирование и постобработку одной командой https://github.com/pypr/automan
+
+https://github.com/pypr/automan

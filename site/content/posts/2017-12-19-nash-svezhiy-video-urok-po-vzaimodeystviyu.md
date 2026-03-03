@@ -4,14 +4,13 @@ title: "Наш свежий видео урок по взаимодействи�
 date: 2017-12-19T17:00:53+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_665
 tags:
-  - SDM
-  - RSM
+  - ANSYS
   - HPC
+  - SDM
   - EKM
   - Workbench
-  - ANSYS
+  - RSM
 ---
 
 Наш свежий видео урок по взаимодействию #ANSYS #Workbench и #ANSYS #EKM от коллег из МСК.
@@ -23,3 +22,14 @@ tags:
 https://www.youtube.com/watch?v=jIw…Media📼 VL1726 — Взаимодействие среды ANSYS Workbench с се…
 
 http://ift.tt/2D1QZ25
+
+http://ift.tt/2vk2wVv
+http://ift.tt/2v28PC1
+http://ift.tt/2AZYOUu
+http://ift.tt/2D7KOtF
+http://ift.tt/2emhAvW
+http://ift.tt/2zugYgi
+https://www.youtube.com/watch?v=jIw3tE8FkMw
+http://ift.tt/2AZYSUe
+http://ift.tt/2D1QZ25
+ttp://ift.tt/2D1QZ25

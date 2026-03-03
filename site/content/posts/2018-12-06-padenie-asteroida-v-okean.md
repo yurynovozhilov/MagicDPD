@@ -4,14 +4,13 @@ title: "Падение астероида в океан"
 date: 2018-12-06T17:01:39+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1248
 tags:
-  - САВ
   - HPC
-  - RAGE
   - Blender
-  - XRage
+  - RAGE
   - Paraview
+  - XRage
+  - САВ
 images:
   - url: "/assets/images/1249.jpg"
 ---
@@ -26,4 +25,8 @@ images:
 
 
 #Blender #HPC #Paraview #RAGE #XRage #САВ
+http://bit.ly/2UlsUvX
+
+https://sciviscontest2018.org/wp-content/uploads/sites/19/2017/09/DeepWaterImpactEnsembleDataSet_Revision1.pdf
+https://arxiv.org/abs/0804.1394
 http://bit.ly/2UlsUvX

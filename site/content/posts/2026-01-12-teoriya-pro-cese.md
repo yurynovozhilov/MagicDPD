@@ -4,7 +4,6 @@ title: "Теория про CESE"
 date: 2026-01-12T10:06:09+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3081
 ---
 
 Теория про CESE
@@ -14,3 +13,5 @@ original_url: https://vk.com/wall-97265142_3081
 Сегодня в свободном доступе я нашел для вас сравнительно свежую книгу Chih-Yung Wen,  Yazhong Jiang, Lisong Shi, Space–Time Conservation Element and Solution Element Method: Advances and Applications in Engineering Sciences, в которая посвещена работе CESE.
 
 https://link.springer.com/book/10.1007/978-981-99-0876-9
+
+[Space–Time Conservation Element and Solution Element Method](https://link.springer.com/book/10.1007/978-981-99-0876-9)

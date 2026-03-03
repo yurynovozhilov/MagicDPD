@@ -4,13 +4,12 @@ title: "Вышла вторая версия Algoryx Momentum"
 date: 2018-05-22T18:00:35+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_937
 tags:
-  - Python
   - RBD
+  - Python
   - Algoryx
-  - SpaceClaim
   - Momentum
+  - SpaceClaim
 ---
 
 Вышла вторая версия Algoryx Momentum
@@ -22,4 +21,7 @@ tags:
 https://www.algoryx.se/newsmedia/algoryx-momentum-announcing-version-2-0/
 #Algoryx #Momentum #Python #RBD #SpaceClaim
 
+https://wp.me/p9vWYY-1Re
+
+https://www.algoryx.se/newsmedia/algoryx-momentum-announcing-version-2-0/
 https://wp.me/p9vWYY-1Re

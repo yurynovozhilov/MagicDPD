@@ -4,7 +4,6 @@ title: "Вебинар по ANSYS SpaceClaim от Mallett Technology"
 date: 2019-01-23T18:34:14+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1320
 tags:
   - Mallett_Technology
   - SpaceClaim
@@ -28,4 +27,7 @@ https://www.youtube.com/watch?v=qvJbgEO41Ek
 
 #ANSYS #Mallett_Technology #SpaceClaim
 
+https://wp.me/p9vWYY-2hC
+
+https://www.youtube.com/watch?v=qvJbgEO41Ek
 https://wp.me/p9vWYY-2hC

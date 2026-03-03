@@ -4,7 +4,6 @@ title: "Diabatix объявляет о технологическом партн
 date: 2023-05-17T15:00:49+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2413
 ---
 
 Diabatix объявляет о технологическом партнерстве с Ansys для революции в области терморегулирования в электронной промышленности
@@ -14,3 +13,5 @@ Diabatix объявляет о технологическом партнерст
 Для меня в этой новости есть один интересный нюанс, который для многих остается за кадром.  В совет директоров компании Diabatix в начале этого года вошел Роже Асакер (Roger Assaker). Он знаменит тем, что был со основателем компании e-Xstream engineering, разработчика системы моделирования микроструктуры композитов Digimat. Он не только смог успешно продать данную компанию в MSC/Hexagon, но и дойти до CEO всего подразделения MSC! Так что человек не только с деловой хваткой, но и с хорошим знанием CAE. Если он и в этот раз сможет продать компанию (только теперь Ansys), то это будет успех в квадрате!
 
 https://www.diabatix.com/blog/diabatix-technology-partnership-ansys
+
+[Diabatix Announces Technology Partnership with Ansys | Diabatix](https://www.diabatix.com/blog/diabatix-technology-partnership-ansys)

@@ -4,10 +4,9 @@ title: "Мы это сделали!!!"
 date: 2019-04-10T14:13:14+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1440
 tags:
-  - ANSYS
   - CADFEM
+  - ANSYS
 ---
 
 Мы это сделали!!!
@@ -19,3 +18,6 @@ https://magicdpd.ru/wp-content/uploads/2019/04/1080p.mov
 #ANSYS #CADFEM
 
 https://wp.me/p9vWYY-2tv
+
+[Мы это сделали!!! - MagicDPD](https://wp.me/p9vWYY-2tv)
+https://magicdpd.ru/wp-content/uploads/2019/04/1080p.mov

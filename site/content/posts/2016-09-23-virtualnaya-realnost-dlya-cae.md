@@ -4,14 +4,13 @@ title: "Виртуальная реальность для CAE"
 date: 2016-09-23T17:00:31+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_115
 tags:
+  - HTC
   - TechViz
   - CAE
-  - HTC
-  - VR
-  - Vive
   - CAD
+  - Vive
+  - VR
 ---
 
 Виртуальная реальность для CAE
@@ -20,3 +19,7 @@ http://www.techviz.net/
 Французская компания #TechViz выпускает уникальный одноименный #VR продукт. Он предназначен для переноса в вириальную реальность любых #CAD или #CAE моделей практически из любого инженерного ПО. Мне с друзьями уже удалось протестировать работу данного ПО на базе #HTC #Vive для ANSYS Mechanical, ANSYS CFD-Viewer и LS-PrePost. Это очень трудно описать словами - это надо один раз попробовать! Особенно интересно походить между линиями тока, или заглянуть под пресс во время анализа результатов расчета глубокой вытяжки.
 
 Кто хочет попробовать, приходите на конференцию "Суперкомпьютерные дни в России" (http://www.russianscdays.org) - там будет демостенд :-)
+
+[TechViz - AR-VR collaboration solutions in real-time](https://www.techviz.net/)
+http://www.techviz.net/
+http://www.russianscdays.org

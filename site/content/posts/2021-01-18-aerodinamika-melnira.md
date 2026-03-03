@@ -4,11 +4,10 @@ title: "Аэродинамика мьёльнира"
 date: 2021-01-18T14:28:40+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1885
 tags:
   - simula
-  - floefd
   - cfd
+  - floefd
 ---
 
 Аэродинамика мьёльнира
@@ -22,3 +21,7 @@ tags:
 #cfd #floefd #simula
 https://tinyurl.com/y35aqr5o
 by Юрий Новожилов
+
+[Thor’s Hammer with a little HEEDS-Ooomph! - Simcenter](https://blogs.sw.siemens.com/simcenter/thors-hammer-with-a-little-heeds-ooomph/)
+https://blogs.sw.siemens.com/simcenter/thors-hammer-with-a-little-heeds-ooomph
+https://tinyurl.com/y35aqr5o

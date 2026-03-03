@@ -4,11 +4,10 @@ title: "Как выбрать оптимальный материал на ра�
 date: 2020-06-17T13:01:29+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1783
 tags:
-  - CAE
-  - material
   - properties
+  - material
+  - CAE
 images:
   - url: "/assets/images/1783.jpg"
 ---

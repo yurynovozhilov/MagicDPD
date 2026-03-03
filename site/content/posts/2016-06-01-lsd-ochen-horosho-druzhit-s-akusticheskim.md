@@ -4,7 +4,6 @@ title: "#LSD очень хорошо дружить с акустическим�
 date: 2016-06-01T19:04:04+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1721
 tags:
   - LSD
 images:

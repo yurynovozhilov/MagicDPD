@@ -4,10 +4,9 @@ title: "LayTracks3D — новый алгоритм генерации ALL-HEX �
 date: 2018-05-29T18:00:58+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_943
 tags:
-  - allhex
   - LayTracks3D
+  - allhex
   - mesh
   - Sandia
 ---
@@ -22,4 +21,9 @@ LayTracks3D — новый алгоритм генерации ALL-HEX сетк�
 Статья два: https://www.sciencedirect.com/science/article/pii/S1877705814016531
 #allhex #LayTracks3D #mesh #Sandia
 
+https://wp.me/p9vWYY-1S2
+
+http://cdn2.hubspot.net/hub/35600/file-2445444788-pdf/Quadros.pdf
+https://pdfs.semanticscholar.org/0735/122cb43872b02a4b19aea68fcc22bd0fb934.pdf
+https://www.sciencedirect.com/science/article/pii/S1877705814016531
 https://wp.me/p9vWYY-1S2

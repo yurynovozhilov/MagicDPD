@@ -4,20 +4,19 @@ title: "Как корректно остановить решатель на х�
 date: 2018-07-03T18:02:50+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_991
 tags:
-  - Longread
-  - Restart
-  - RSM
-  - Fluent
+  - Checkpont
+  - ANSYS
   - HPC
   - Autodyn
-  - CFX
-  - AEDT
-  - Checkpont
-  - LSDYNA
   - Workbench
-  - ANSYS
+  - LSDYNA
+  - RSM
+  - CFX
+  - Longread
+  - Restart
+  - AEDT
+  - Fluent
 images:
   - url: "/assets/images/992.jpg"
 ---
@@ -45,4 +44,6 @@ ANSYS Workbench
 Если вы пользуетесь ANSYS RSM, то там для всех поддерживаемых решателей уже есть стандартная кнопка Interrupt, которая делает всю вышеописанную магию за вас. Настраивайте RSM и наслаждайтесь :-)
 
 #AEDT #ANSYS #Autodyn #CFX #Checkpont #Fluent #HPC #Longread #LSDYNA #Restart #RSM #Workbench
+http://bit.ly/2u3rrhp
+
 http://bit.ly/2u3rrhp

@@ -4,7 +4,6 @@ title: "CASCON XVI"
 date: 2019-09-24T13:08:35+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1592
 tags:
   - CADFEM
   - CASCON
@@ -26,3 +25,6 @@ CASCON XVI
 
 
 Ну а для тех, кто почему-то еще сомневается, есть фотографии с прошлогоднего мероприятия: https://ansysconference.ru/gallery/
+
+https://ansysconference.ru/
+https://ansysconference.ru/gallery/

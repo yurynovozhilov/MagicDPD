@@ -4,13 +4,12 @@ title: "AIM для студентов"
 date: 2016-09-24T12:01:39+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_116
 tags:
-  - FEA
-  - Student
   - CFD
-  - AIM
   - ANSYS
+  - FEA
+  - AIM
+  - Student
 ---
 
 AIM для студентов
@@ -21,3 +20,5 @@ ANSYS AIM, который умеет в одном интерфейсе посч
 #CFD: 1m ячеек у AIM Student против 512k у ANSYS Student
 
 Где взять и как установить бесплатный ANSYS AIM Student описано в видео по ссылке: https://www.youtube.com/watch?v=OTkEdYZjKwU
+
+[Installing ANSYS AIM Student Product 17.1 on Windows](https://www.youtube.com/watch?v=OTkEdYZjKwU)

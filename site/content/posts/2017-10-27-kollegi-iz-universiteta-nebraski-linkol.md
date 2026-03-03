@@ -4,7 +4,6 @@ title: "Коллеги из университета Небраски-Линко
 date: 2017-10-27T17:10:30+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_572
 tags:
   - MAT_MOMENT_CURVATURE_BEAMMedia
   - LSDYNA
@@ -15,3 +14,9 @@ tags:
 #LSDYNA #MAT_MOMENT_CURVATURE_BEAMMedia💾 Reid_DevelopmentofAdvancedFiniteElementMaterialMod…
 
 http://ift.tt/2yRwJ3S
+
+http://ift.tt/2vlBJYZ
+http://ift.tt/2gStQZL
+http://ift.tt/2yRwHZO
+http://ift.tt/2gQonCX
+ttp://ift.tt/2yRwJ3S

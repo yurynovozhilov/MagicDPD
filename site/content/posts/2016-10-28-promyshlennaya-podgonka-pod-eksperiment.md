@@ -4,12 +4,11 @@ title: "Промышленная подгонка под эксперимент"
 date: 2016-10-28T17:01:39+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_163
 tags:
+  - optiSlang
+  - ANSYS
   - optimization
   - Dynardo
-  - ANSYS
-  - optiSlang
 ---
 
 Промышленная подгонка под эксперимент
@@ -20,3 +19,5 @@ https://www.youtube.com/watch?v=5dB88MCv6TI
 #optimization
 
 https://www.youtube.com/watch?v=5dB88MCv6TI
+
+[Webinar Parameter Identification 2016 09 22](https://www.youtube.com/watch?v=5dB88MCv6TI)

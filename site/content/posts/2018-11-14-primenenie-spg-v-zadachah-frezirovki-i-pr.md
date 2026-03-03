@@ -4,15 +4,14 @@ title: "Применение SPG в задачах фрезировки и пр�
 date: 2018-11-14T17:00:23+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1211
 tags:
-  - Perforation
-  - KCC
-  - Machining
-  - Meshless
   - Concrete
-  - LSDYNA
   - LSTC
+  - Perforation
+  - Machining
+  - LSDYNA
+  - Meshless
+  - KCC
   - SPG
 images:
   - url: "/assets/images/1212.jpg"
@@ -26,4 +25,7 @@ SPG (не путать с SPH или EFG)- это вообще некий еди
 https://www.dynalook.com/15th-international-ls-dyna-conference/spg/parametric-and-convergence-studies-of-the-smoothed-particle-galerkin-spg-method-in-semi-brittle-and-ductile-material-failure-analyses
 
 #Concrete #KCC #LSDYNA #LSTC #Machining #Meshless #Perforation #SPG
+http://bit.ly/2RZwFW3
+
+https://www.dynalook.com/15th-international-ls-dyna-conference/spg/parametric-and-convergence-studies-of-the-smoothed-particle-galerkin-spg-method-in-semi-brittle-and-ductile-material-failure-analyses
 http://bit.ly/2RZwFW3

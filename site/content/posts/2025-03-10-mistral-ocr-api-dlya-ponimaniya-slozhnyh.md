@@ -4,7 +4,6 @@ title: "Mistral OCR - API для понимания сложных докуме�
 date: 2025-03-10T13:03:47+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2901
 ---
 
 Mistral OCR - API для понимания сложных документов
@@ -17,4 +16,7 @@ Mistral OCR - API для понимания сложных документов
 
 https://youtu.be/6lRBm0KnzBI
 
+https://mistral.ai/news/mistral-ocr
+
+[Mistral OCR on Alphafold paper](https://youtu.be/6lRBm0KnzBI)
 https://mistral.ai/news/mistral-ocr

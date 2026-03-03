@@ -4,11 +4,10 @@ title: "THUMS стали бесплатными"
 date: 2021-02-10T14:35:57+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1902
 tags:
-  - thums
   - ls
   - ansys
+  - thums
 ---
 
 THUMS стали бесплатными
@@ -30,3 +29,8 @@ https://www.youtube.com/watch?v=WYznYxFYQX8
 #ansys #ls-dyna #thums
 https://tinyurl.com/y65mnafj
 by Юрий Новожилов
+
+[Better Designed For You | THUMS](https://www.youtube.com/watch?v=OanQCc_Obj4)
+https://www.cadfem-cis.ru/list/article/virtualnye-modeli-tela-cheloveka-thums-dlja-ansys-ls-dyna-stali-besplatnymi/
+https://www.youtube.com/watch?v=WYznYxFYQX8
+https://tinyurl.com/y65mnafj

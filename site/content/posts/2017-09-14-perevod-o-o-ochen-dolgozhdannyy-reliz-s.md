@@ -4,7 +4,6 @@ title: "[Перевод] О-о-очень долгожданный релиз Su
 date: 2017-09-14T08:03:33+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_490
 ---
 
 [Перевод] О-о-очень долгожданный релиз Sublime Text 3.0
@@ -13,3 +12,8 @@ original_url: https://vk.com/wall-97265142_490
 Читать дальше &rarr; https://goo.gl/YUg1ToMedia🔗 О-о-очень долгожданный релиз Sublime Text 3.0
 
 http://ift.tt/2f7wD0g
+
+https://goo.gl/YUg1To%3C/p%3E
+http://ift.tt/2jpnTE2
+https://goo.gl/YUg1To
+ttp://ift.tt/2f7wD0g

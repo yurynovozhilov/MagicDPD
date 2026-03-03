@@ -4,7 +4,6 @@ title: "DirectFEM"
 date: 2021-09-30T13:02:44+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2009
 tags:
   - directfem
 ---
@@ -34,4 +33,7 @@ DirectFEM - это новый продукт для решения задач м
 Страница компании: directfem.de/
 
 #directfem
+https://tinyurl.com/yzlcg5wa
+
+[DirectFEM - Embedded Innovations - DirectFEM | Embedded Innovations](https://directfem.de/)
 https://tinyurl.com/yzlcg5wa

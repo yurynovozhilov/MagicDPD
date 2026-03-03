@@ -4,14 +4,13 @@ title: "Вебинар по ACCS от CADFEM UK"
 date: 2018-07-24T11:00:26+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1032
 tags:
-  - Cure
-  - ACP
-  - Composite
-  - ACT
   - ANSYS
   - ACCS
+  - Composite
+  - ACP
+  - Cure
+  - ACT
 images:
   - url: "/assets/images/1033.jpg"
 ---
@@ -22,4 +21,8 @@ https://www.cadfemukandireland.com/event_date/simulation-of-composite-structure-
 http://www.lmat-uk.com/software/ansys-composite-cure-simulation/
 
 #ACCS #ACP #ACT #ANSYS #Composite #Cure
+http://bit.ly/2Ocutcz
+
+[Simulation of Composite Structure Design and Curing with ANSYS - FEA, CFD and Explicit Dynamics](https://www.cadfemukandireland.com/event_date/simulation-of-composite-structure-design-and-curing-with-ansys/)
+http://www.lmat-uk.com/software/ansys-composite-cure-simulation/
 http://bit.ly/2Ocutcz

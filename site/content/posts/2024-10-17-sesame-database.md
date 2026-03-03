@@ -4,7 +4,6 @@ title: "SESAME Database"
 date: 2024-10-17T09:01:33+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2806
 ---
 
 SESAME Database
@@ -12,5 +11,7 @@ SESAME Database
 Открыл для себя любопытный факт. Есть такая интересная библиотека, как SESAME, которую делает Los Alamos National Laboratory. Содержит данная библиотека уравнения состояния материалов при экстремальных давлениях. Короче, серьезная библиотека для серьезных людей, занимающихся ВВ и ударными волнами. Так вот, кажется, что старый-недобрый код Autodyn - это единственный на рынке код, имеющий интерфейс к данной библиотеке и не требующий , при этом у вас американского гражданства на право использования. Ни модный Impetus и Viper Blast, и моя любимая LS-DYNA, ни открытый blastFoam вроде как не имеют подобных интерфейсов.
 
 Вопрос к знатокам: так ли крут SESAME, есть ли ему альтернативы, и кто еще умеет работать с подобными библиотеками?
+
+https://www.lanl.gov/org/ddste/aldsc/theoretical/physics-chemistry-materials/sesame-database.php
 
 https://www.lanl.gov/org/ddste/aldsc/theoretical/physics-chemistry-materials/sesame-database.php

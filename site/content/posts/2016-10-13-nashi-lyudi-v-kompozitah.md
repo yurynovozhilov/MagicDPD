@@ -4,7 +4,6 @@ title: "Наши люди в композитах"
 date: 2016-10-13T09:01:12+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_142
 tags:
   - ACP
   - AUTODYN
@@ -19,3 +18,5 @@ http://coen.boisestate.edu/mbe/resources/inspire-me/101716-dr-aleksandr-cherniae
 Регистрация тут: http://coen.boisestate.edu/mbe/resources/inspire-me/101716-dr-aleksandr-cherniaev/
 
 Спойлер: Александр любит #ANSYS #AUTODYN и #ACP
+
+http://coen.boisestate.edu/mbe/resources/inspire-me/101716-dr-aleksandr-cherniaev/

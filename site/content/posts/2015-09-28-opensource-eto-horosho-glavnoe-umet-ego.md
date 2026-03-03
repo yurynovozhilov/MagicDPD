@@ -4,11 +4,12 @@ title: "OpenSource это хорошо! Главное уметь его гот�
 date: 2015-09-28T06:30:14+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_423
 tags:
+  - SimScale
   - OpenSource
   - OpenFOAM
-  - SimScale
 ---
 
 OpenSource это хорошо! Главное уметь его готовить. Мне очень нравится подходи SimScale. Они не занимаются конструированием велосипедов - они развивают известные проекты с открытым кодом.
+
+[Open Source: A Philosophy behind SimScale](https://blog.simscale.com/blog/2015/09/open-source-a-philosophy-behind-simscale/)

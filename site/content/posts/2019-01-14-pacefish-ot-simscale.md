@@ -4,13 +4,12 @@ title: "Pacefish от SimScale"
 date: 2019-01-14T17:00:25+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1312
 tags:
-  - cloud
   - CFD
-  - GPU
   - LBM
+  - GPU
   - Simscale
+  - cloud
 images:
   - url: "/assets/images/1312.jpg"
 ---
@@ -28,4 +27,7 @@ Pacefish от SimScale
 Ссылка для доступа к запись первого вебинара по теме: https://www.simscale.com/webinars-workshops/lbm-flow-solver/
 #CFD #cloud #GPU #LBM #Simscale
 
+https://wp.me/p9vWYY-2fn
+
+https://www.simscale.com/webinars-workshops/lbm-flow-solver/
 https://wp.me/p9vWYY-2fn

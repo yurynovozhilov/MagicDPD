@@ -4,7 +4,6 @@ title: "Лекция по бессеточному методу Галеркин
 date: 2019-07-10T17:00:16+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1526
 tags:
   - LS_DYNA
   - EFG
@@ -29,4 +28,7 @@ images:
 
 #EFG #LS_DYNA
 
+https://wp.me/p9vWYY-2B7
+
+https://blume.stanford.edu/event/seminar/recent-advances-accelerated-and-stabilized-meshfree-method-modeling-manmade-and
 https://wp.me/p9vWYY-2B7

@@ -4,10 +4,9 @@ title: "Новые DEM подходы к моделированю хрупког
 date: 2021-09-06T13:04:28+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1993
 tags:
-  - concrete
   - fracture
+  - concrete
   - dem
 ---
 
@@ -44,4 +43,7 @@ tags:
 Оригинальная статья: https://link.springer.com/article/10.1007/s40571-021-00434-w
 
 #concrete #dem #fracture
+https://tinyurl.com/yzl6s3v7
+
+[A statistical DEM approach for modelling heterogeneous brittle materials](https://link.springer.com/article/10.1007/s40571-021-00434-w)
 https://tinyurl.com/yzl6s3v7

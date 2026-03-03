@@ -4,11 +4,10 @@ title: "Обновленный учебный курс по ANSYS от edX"
 date: 2018-01-18T17:01:15+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_734
 tags:
   - training
-  - ANSYS
   - edX
+  - ANSYS
   - Cornell
 images:
   - url: "/assets/images/735.jpg"
@@ -23,4 +22,8 @@ https://youtu.be/B8BBP8UhSnc
 
 
 #ANSYS #Cornell #edX #training
+https://magicdpd.ru/?p=5974
+
+https://youtu.be/B8BBP8UhSnc
+https://www.edx.org/course/a-hands-on-introduction-to-engineering-simulations
 https://magicdpd.ru/?p=5974

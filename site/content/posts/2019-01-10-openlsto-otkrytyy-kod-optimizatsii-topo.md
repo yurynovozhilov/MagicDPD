@@ -4,14 +4,13 @@ title: "OpenLSTO - открытый код оптимизации тополог
 date: 2019-01-10T17:01:23+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1301
 tags:
-  - M2DO
-  - Topology
   - OpenLSTO
-  - OpenSource
-  - LevelSetMethod
   - Optimization
+  - OpenSource
+  - Topology
+  - M2DO
+  - LevelSetMethod
 images:
   - url: "/assets/images/1302.jpg"
 ---
@@ -53,4 +52,10 @@ OpenLSTO - открытый код оптимизации топологии
 
 
 #LevelSetMethod #M2DO #OpenSource #OpenLSTO #Optimization #Topology
+http://bit.ly/2VLn1bU
+
+[Бинарная сегментация изображений методом фиксации уровня (Level set method)](https://habr.com/post/332692/)
+http://m2do.ucsd.edu/software/
+https://github.com/M2DOLab/OpenLSTO
+http://m2do.ucsd.edu/static/pdf/OpenLSTO-Tutorial-v1.0.pdf
 http://bit.ly/2VLn1bU

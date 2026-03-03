@@ -4,14 +4,13 @@ title: "Работа с композитами в HyperMesh"
 date: 2018-03-04T18:01:52+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_829
 tags:
-  - Tutorial
+  - Altair_University
+  - Altair
   - HyperMesh
   - ACP
-  - Altair_University
+  - Tutorial
   - Composites
-  - Altair
 ---
 
 Работа с композитами в HyperMesh

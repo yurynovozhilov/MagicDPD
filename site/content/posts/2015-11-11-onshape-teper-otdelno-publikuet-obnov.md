@@ -4,12 +4,13 @@ title: "#OnShape теперь отдельно публикует обновле
 date: 2015-11-11T18:01:20+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_672
 tags:
+  - OnShape
   - CAD
   - iPad
-  - OnShape
   - cloud
 ---
 
 #OnShape теперь отдельно публикует обновления своего мобильного приложения. Дожили: #CAD на #iPad
+
+[What’s New In Onshape Mobile (11/9/2015)](https://www.onshape.com/cad-blog/whats-new-mobile-11-9-2015)

@@ -4,10 +4,9 @@ title: "Просто удраная волна в LS-DYNA вышла погул�
 date: 2015-11-08T07:00:06+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_650
 tags:
-  - blast
   - lsdyna
+  - blast
 ---
 
 Просто удраная волна в LS-DYNA вышла погулять

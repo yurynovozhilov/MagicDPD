@@ -4,7 +4,6 @@ title: "Учим Теормех"
 date: 2021-04-16T13:01:28+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1946
 tags:
   - theory
 ---
@@ -22,4 +21,8 @@ tags:
 Первый семестр: https://openedu.ru/course/spbstu/TMECH/, второй семестр: https://openedu.ru/course/spbstu/TMECH2/
 
 #theory
+https://tinyurl.com/ydvvdnn6
+
+https://openedu.ru/course/spbstu/TMECH2/
+https://openedu.ru/course/spbstu/TMECH/
 https://tinyurl.com/ydvvdnn6

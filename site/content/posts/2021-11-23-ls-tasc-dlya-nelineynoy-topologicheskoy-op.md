@@ -4,14 +4,13 @@ title: "LS-TaSC для нелинейной топологической опт�
 date: 2021-11-23T15:42:22+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2039
 tags:
-  - topology
-  - optimization
-  - lstc
   - ansys_lst
-  - ls
+  - topology
+  - lstc
+  - optimization
   - lsdyna
+  - ls
   - ansys
 ---
 
@@ -30,4 +29,7 @@ https://www.youtube.com/watch?v=nVJ_7kpAp_A
 А вот у Ansys LST есть отдельный бесплатны (для обладателей лицензий на LS-DYNA) топологический оптимизатор LS-TaSC, который изначально создавался для оптимизации моделей под задачи пассивной безопасности автомобилей. А это значит, что он автоматически работает с большими перемещениями, динамическими контактными задачами и нелинейными материалами. Смотрим вебинар про него и наслаждаемся.
 
 #ansys #ansys_lst #ls-tasc #lsdyna #lstc #optimization #topology
+https://tinyurl.com/yjzdx4v5
+
+https://www.youtube.com/watch?v=nVJ_7kpAp_A
 https://tinyurl.com/yjzdx4v5

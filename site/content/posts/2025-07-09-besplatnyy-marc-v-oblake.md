@@ -4,7 +4,6 @@ title: "Бесплатный Marc в облаке"
 date: 2025-07-09T13:57:26+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2976
 ---
 
 Бесплатный Marc в облаке
@@ -14,3 +13,5 @@ original_url: https://vk.com/wall-97265142_2976
 (*) Для ограниченного некоммерческого тестирования :-)
 
 https://www.simscale.com/press/simscale-and-hexagon-announce-marc-solver/
+
+[SimScale and Hexagon Announce Cloud Availability of Marc Solver](https://www.simscale.com/press/simscale-and-hexagon-announce-marc-solver/)

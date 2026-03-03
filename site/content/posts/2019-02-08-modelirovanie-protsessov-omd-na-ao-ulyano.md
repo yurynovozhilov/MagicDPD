@@ -4,10 +4,9 @@ title: "Моделирование процессов ОМД на АО Улья�
 date: 2019-02-08T06:52:52+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1343
 tags:
-  - LS_DYNA
   - forming
+  - LS_DYNA
   - EFG
   - LSDYNA
 images:
@@ -27,4 +26,8 @@ http://tzshp.ru/o-nas/stati/59-modelirovanie-protsessov-omd-na-ao-ulyanovskij-ni
 
 #EFG #forming #LS_DYNA
 
+https://wp.me/s9vWYY-4396
+
+http://tzshp.ru/o-nas/stati/59-modelirovanie-protsessov-omd-na-ao-ulyanovskij-niat
+http://tzshp.ru/o-nas/stati/59-modelirovanie-protsessov-omd-na-ao-ulyanovskij-niat
 https://wp.me/s9vWYY-4396

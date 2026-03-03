@@ -4,13 +4,12 @@ title: "Краштесты аккумуляторов в LS-DYNA"
 date: 2020-01-15T13:01:00+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1674
 tags:
-  - ICFD
   - thermal
   - LSDYNA
-  - battery
+  - ICFD
   - LSDYNA_EM
+  - battery
 images:
   - url: "/assets/images/1674.jpg"
 ---

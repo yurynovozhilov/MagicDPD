@@ -4,13 +4,14 @@ title: "Новость по железу: #NVIDIA начинает массов�
 date: 2016-05-19T07:00:53+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1663
 tags:
+  - Maxwell
+  - HPC
+  - Tesla
   - NVIDIA
   - vGPU
-  - Tesla
-  - HPC
-  - Maxwell
 ---
 
 Новость по железу: #NVIDIA начинает массово выкатывать на рынок новые профессиональные решения на базе #Maxwell. Теперь у них есть #Tesla M60/M6 которая может быть как визуализатором, так и числодробилкой - это хорошо. Однако, теперь для использования #vGPU требуется приобретать лицензии от NVIDIA - это не хорошо. Подробно о новой технологии хорошо написано в блоке Poppelgaard. Вчера мои друзья уже получили первый экземпляр Tesla M60. Скоро можно будет узнать подробности.
+
+[Poppelgaard – blog about Remote Graphics (Citrix, VMware, Microsoft)  » NVIDIA GRID 2.0](http://www.poppelgaard.com/nvidia-grid-2-0)

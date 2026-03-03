@@ -4,7 +4,6 @@ title: "RRR - это не только индийское кино"
 date: 2025-09-22T14:20:15+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3020
 images:
   - url: "/assets/images/3020.jpg"
 ---
@@ -19,5 +18,7 @@ RRR - это не только индийское кино
 - Возможность предсказания нефизичного поведения при определенных условиях нагружения
 
 Короче, если у вас есть своя лаба для экспериментов, то дерзайте. А если нет - то лучше не надо.
+
+https://lsdyna.ansys.com/wp-content/uploads/2023/12/A-pragmatic-approach-to-modeling-of-nonlinear-rheological-networks-for-polymers-Thomas-Borrvall-Ansys.pdf
 
 https://lsdyna.ansys.com/wp-content/uploads/2023/12/A-pragmatic-approach-to-modeling-of-nonlinear-rheological-networks-for-polymers-Thomas-Borrvall-Ansys.pdf

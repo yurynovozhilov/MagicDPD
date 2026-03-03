@@ -4,18 +4,17 @@ title: "Сравнение работы кодов моделирования д
 date: 2021-09-23T15:01:35+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2005
 tags:
-  - europlexus
+  - blastfoam
+  - blast
+  - open_source
   - openfoam
   - autodyn
-  - blastfoam
-  - ls
-  - sandia
-  - open_source
-  - cht
+  - europlexus
   - ansys
-  - blast
+  - ls
+  - cht
+  - sandia
 ---
 
 Сравнение работы кодов моделирования детонации ВВ
@@ -51,4 +50,7 @@ Ansys Autodyn - код, разработанный когда-то, поглощ
 Ссылка на оригинальный пост: www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/
 
 #ansys #autodyn #blast #blastfoam #cht #europlexus #ls-dyna #open_source #openfoam #sandia
+https://tinyurl.com/yzxkzr4r
+
+[blastFoam | Comparison of explosive airblast calculators](https://www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/?trackingId=Uq%2B3MZmoMgkb3xIYeAHk9A%3D%3D)
 https://tinyurl.com/yzxkzr4r

@@ -4,12 +4,11 @@ title: "Рассказ о ANSYS Motion на DEVELOP3D LIVE 2019"
 date: 2019-06-11T17:01:53+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1503
 tags:
   - Multibody_Dynamics
-  - ANSYS
-  - Motion
   - DEVELOP3D
+  - Motion
+  - ANSYS
 images:
   - url: "/assets/images/1503.jpg"
 ---
@@ -24,3 +23,5 @@ images:
 https://wp.me/p9vWYY-2xX
 
 by Юрий Новожилов
+
+https://wp.me/p9vWYY-2xX

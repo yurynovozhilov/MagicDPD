@@ -4,13 +4,12 @@ title: "XFlow - Nastran FSI"
 date: 2017-02-14T17:02:55+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_271
 tags:
-  - Nastran
-  - XFlow
   - MSC
-  - FSI
   - CFD
+  - FSI
+  - XFlow
+  - Nastran
 ---
 
 XFlow - Nastran FSI
@@ -21,3 +20,5 @@ https://www.youtube.com/watch?v=Qretsy5KuNE
 А еще в конце полностью разобрали постановку простейшего учебного примера для начинающих и заинтересованных.
 
 https://www.youtube.com/watch?v=Qretsy5KuNE
+
+[XFlow/MSC Nastran Advanced FSI Co-Simulations Webinar](https://www.youtube.com/watch?v=Qretsy5KuNE)

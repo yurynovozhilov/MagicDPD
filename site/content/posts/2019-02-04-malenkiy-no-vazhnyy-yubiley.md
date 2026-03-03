@@ -4,7 +4,6 @@ title: "Маленький, но важный юбилей"
 date: 2019-02-04T17:01:11+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1332
 images:
   - url: "/assets/images/1332.jpg"
 ---
@@ -21,3 +20,6 @@ images:
 
 
 В этом году я обещал ряд изменений в работе MagicDPD. Первым из них стала трансляция материала в Instagram! Да-да, теперь и там тоже можно посмотреть новости CAE: https://www.instagram.com/magicdpd/. Далее, уже сейчас мы с моими единомышленниками оттачиваем настройки MagicDPD так, чтобы любой желающий мог опубликовать тут свой материал. Я думаю, что мы еще вернемся
+
+magicdpd.ru
+https://www.instagram.com/magicdpd/

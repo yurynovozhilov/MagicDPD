@@ -4,7 +4,6 @@ title: "LS-PrePost для качественных иллюстраций и в�
 date: 2019-10-16T13:00:34+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1616
 tags:
   - LSTC
   - LS_PrePost

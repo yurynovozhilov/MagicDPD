@@ -4,13 +4,12 @@ title: "Artificial Intelligence for Material Models"
 date: 2021-03-24T12:27:29+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1930
 tags:
   - lstc
-  - material
   - ls
   - machine_learning
   - ansys
+  - material
   - dynamore
 ---
 
@@ -27,4 +26,8 @@ Artificial Intelligence for Material Models
 Вообще, тема DYNAmore очень здорово пересекается с уже имеющимися у ANSYS LST наработками по использованию нейронных сетей для моделирования микроструктуры материалов (https://www.lstc-cmmg.org/deep-material-network).
 
 #ansys #dynamore #ls-dyna #lstc #machine_learning #material
+https://tinyurl.com/yf6xk86t
+
+https://ru.wikipedia.org/wiki/TÜV_Rheinland_Group)
+https://www.lstc-cmmg.org/deep-material-network
 https://tinyurl.com/yf6xk86t

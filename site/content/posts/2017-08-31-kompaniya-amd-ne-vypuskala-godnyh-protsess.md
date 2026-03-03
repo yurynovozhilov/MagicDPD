@@ -4,21 +4,20 @@ title: "Компания AMD не выпускала годных процесс
 date: 2017-08-31T18:42:15+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_470
 tags:
-  - AMD
-  - CalculiX
-  - CAE
-  - HPC
-  - i9
-  - Core
-  - Ryzen
-  - FEM
-  - tomshardware
-  - CFD
-  - Threadripper
   - Intel
+  - CFD
+  - CAE
+  - Threadripper
+  - HPC
+  - Ryzen
+  - tomshardware
+  - AMD
+  - i9
+  - FEM
   - Rodinia
+  - CalculiX
+  - Core
 ---
 
 Компания AMD не выпускала годных процессоров лет 6, но в этом году она заявила о себе с новой архитектурой, которая должна составить конкуренцию Intel. Сам я пока бенчмарков сделать не успел, но провел небольшой обзор #HPC литературы.
@@ -29,3 +28,6 @@ tags:
 
 #tomshardware
 http://www.tomshardware.com/reviews/amd-ryzen-threadripper-1950x-cpu,5167-12.html 🔗 Ryzen Threadripper: Scientific & Engineering Computations, & HPC Performance
+
+http://ift.tt/2emhAvW
+http://www.tomshardware.com/reviews/amd-ryzen-threadripper-1950x-cpu,5167-12.html

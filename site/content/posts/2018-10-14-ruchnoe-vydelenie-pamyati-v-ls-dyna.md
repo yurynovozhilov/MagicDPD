@@ -4,11 +4,10 @@ title: "Ручное выделение памяти в LS-DYNA"
 date: 2018-10-14T17:00:40+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1147
 tags:
-  - HPC
-  - Memory
   - LSDYNA
+  - Memory
+  - HPC
 images:
   - url: "/assets/images/1148.jpg"
 ---
@@ -22,4 +21,7 @@ images:
 https://www.d3view.com/2006/10/a-few-words-on-memory-settings-in-ls-dyna/
 
 #HPC #LSDYNA #Memory
+http://bit.ly/2CfEzWv
+
+[A Few "Words" on Memory Settings in LS-DYNA](https://www.d3view.com/2006/10/a-few-words-on-memory-settings-in-ls-dyna/)
 http://bit.ly/2CfEzWv

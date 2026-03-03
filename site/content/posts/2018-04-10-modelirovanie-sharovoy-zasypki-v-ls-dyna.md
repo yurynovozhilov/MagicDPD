@@ -4,7 +4,6 @@ title: "Моделирование шаровой засыпки в LS-DYNA"
 date: 2018-04-10T18:01:07+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_893
 tags:
   - DEM
   - LSDYNA
@@ -18,4 +17,6 @@ images:
 
 
 #DEM #LSDYNA
+https://is.gd/WfIZN2
+
 https://is.gd/WfIZN2

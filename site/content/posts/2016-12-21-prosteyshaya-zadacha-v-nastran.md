@@ -4,12 +4,11 @@ title: "Простейшая задача в NASTRAN"
 date: 2016-12-21T17:03:04+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_224
 tags:
+  - MSC
   - NASTRAN
   - PATRAN
   - ANSYS
-  - MSC
 ---
 
 Простейшая задача в NASTRAN
@@ -19,3 +18,5 @@ https://youtu.be/ENavI3KGCao
 
 P.S. А я еще думал, что у #ANSYS интересом устаревший и не современный, а тут прям что-то уровня LS-PrePost появилось.
 https://youtu.be/ENavI3KGCao
+
+[MSC Nastran, Patran Tutorial - Bending Stresses of a Loaded Beam](https://youtu.be/ENavI3KGCao)

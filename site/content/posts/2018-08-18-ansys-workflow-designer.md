@@ -4,10 +4,9 @@ title: "ANSYS Workflow Designer"
 date: 2018-08-18T18:00:22+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1077
 tags:
-  - Workbench
   - ACT
+  - Workbench
   - WorkflowDesigner
   - ANSYS
 images:
@@ -21,4 +20,7 @@ ANSYS Workflow Designer
 https://www.ansys-blog.com/integrate-third-party-apps-ansys-workbench-without-creating-frankensteins-monster/
 
 #ACT #ANSYS #Workbench #WorkflowDesigner
+http://bit.ly/2L6Il5d
+
+[Integrate Third Party Apps into ANSYS Workbench without Creating Frankenstein’s Monster](https://www.ansys-blog.com/integrate-third-party-apps-ansys-workbench-without-creating-frankensteins-monster/)
 http://bit.ly/2L6Il5d

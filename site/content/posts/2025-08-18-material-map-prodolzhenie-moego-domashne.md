@@ -4,7 +4,6 @@ title: "Material MAP - продолжение моего домашнего пр
 date: 2025-08-18T07:20:02+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3005
 images:
   - url: "/assets/images/3005.jpg"
 ---
@@ -18,3 +17,6 @@ Material MAP - продолжение моего домашнего проект
 Ну а если вы знаете, где еще взять открытые материалы для LS-DYNA, то пиши мне или создавайте GitHub Issue.
 
 Сайт переехал в отдельный репозиторий и теперь у него новый URL: http://materialmap.github.io
+
+Zencoder.ai
+http://materialmap.github.io

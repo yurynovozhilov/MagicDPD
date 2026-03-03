@@ -4,7 +4,6 @@ title: "Первые шаги к адаптивному SPH в DualSPHysics"
 date: 2023-10-12T15:01:29+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2552
 images:
   - url: "/assets/images/2552.jpg"
 ---
@@ -12,5 +11,7 @@ images:
 Первые шаги к адаптивному SPH в DualSPHysics
 
 Свежая публикация алгоритма, позволяющего выполнять SPH расчеты гидродинамики слабо сжимаемых течений используя области с частицами разного размера. Пока показано, как можно статически определять зоны перехода от мелких частиц к крупным, но авторы уже работают над динамическими переходами.  Таким образом, главный открытый SPH код скоро может получить возможность "сеточной адаптации".
+
+https://www.sciencedirect.com/science/article/pii/S0045782523006242?via%3Dihub
 
 https://www.sciencedirect.com/science/article/pii/S0045782523006242?via%3Dihub

@@ -4,7 +4,6 @@ title: "Как работает бессеточный решатель Intact S
 date: 2024-11-14T13:01:53+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2836
 ---
 
 Как работает бессеточный решатель Intact Solutions, Inc.
@@ -15,4 +14,7 @@ original_url: https://vk.com/wall-97265142_2836
 
 Короче, интесно видеть на рынке очередной способ уйти от надоевшей всем сетки конечных элементов.
 
+https://www.linkedin.com/posts/jousefmurad_meshless-fea-intact-ugcPost-7254129225975087106-8A5B
+
+[Meshless FEA Intact | Jousef Murad | 10 comments](https://www.linkedin.com/posts/jousefmurad_meshless-fea-intact-ugcPost-7254129225975087106-8A5B?utm_source=share&utm_medium=member_desktop)
 https://www.linkedin.com/posts/jousefmurad_meshless-fea-intact-ugcPost-7254129225975087106-8A5B

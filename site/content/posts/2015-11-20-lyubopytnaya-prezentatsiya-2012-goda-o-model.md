@@ -4,7 +4,6 @@ title: "Любопытная презентация 2012 года о модел�
 date: 2015-11-20T06:30:12+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_736
 tags:
   - lsdyna
 images:

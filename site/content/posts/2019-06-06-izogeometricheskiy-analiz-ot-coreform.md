@@ -4,11 +4,10 @@ title: "Изогеометрический анализ от Coreform"
 date: 2019-06-06T17:00:16+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1499
 tags:
-  - coreform
-  - IGA
   - DEVELOP3D
+  - IGA
+  - coreform
 ---
 
 Изогеометрический анализ от Coreform
@@ -19,3 +18,5 @@ tags:
 #coreform #DEVELOP3D #IGA
 
 https://wp.me/p9vWYY-2y3
+
+[Изогеометрический анализ от Coreform - MagicDPD](https://wp.me/p9vWYY-2y3)

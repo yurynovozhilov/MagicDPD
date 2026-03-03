@@ -4,7 +4,6 @@ title: "PFEM моделирование обработки металла с и�
 date: 2023-06-26T15:02:19+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2450
 ---
 
 PFEM моделирование обработки металла с использованием ультразвуковых колебаний
@@ -16,3 +15,7 @@ https://www.linkedin.com/posts/hadi-bakhshan-aab4aa90_machining-chip-ultrasonic-
 Коллеги выполнили расчет при помощи метода конечных элементов с частицами (PFEM) для моделирования, как обычной обработки, так и обработки с использованием ультразвуковых колебаний (UVAM). Считали в академическом коде Kratos PFEM https://gitlab.com/pfem-research/kratos
 
 Хотя меня больше интересует математика их модели материала, которая учитывает подобное ультразвуковое воздействие.
+
+[Hadi Bakhshan on LinkedIn: #machining #chip #ultrasonic #fem | 34 comments](https://www.linkedin.com/posts/hadi-bakhshan-aab4aa90_machining-chip-ultrasonic-activity-7077640666654076930-xBaY)
+https://www.linkedin.com/posts/hadi-bakhshan-aab4aa90_machining-chip-ultrasonic-activity-7077640666654076930-xBaY/
+https://gitlab.com/pfem-research/kratos

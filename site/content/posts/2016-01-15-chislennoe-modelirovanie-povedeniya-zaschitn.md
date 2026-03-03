@@ -4,7 +4,6 @@ title: "Численное моделирование поведения защ�
 date: 2016-01-15T06:30:07+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1082
 tags:
   - hourglass
   - FEMAP

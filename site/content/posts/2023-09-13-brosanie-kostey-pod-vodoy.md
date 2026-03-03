@@ -4,7 +4,6 @@ title: "Бросание костей под водой"
 date: 2023-09-13T15:01:57+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2518
 ---
 
 Бросание костей под водой
@@ -12,3 +11,5 @@ original_url: https://vk.com/wall-97265142_2518
 Этот видеоролик демонстрирует "бросание игральных костей под водой". В нем показаны два жестких кубических  объекта внутри области, окруженной со всех сторон жесткими стенками. При моделировании используется метод гомогенизированной решетки Больцмана (HLBM), реализованный в OpenLB (free, open source, gpu-native) для взаимодействия частиц с жидкостью, и новая дискретная модель контакта  для взаимодействия частиц с частицами и частиц со стенками.
 
 https://www.youtube.com/watch?v=JM8bQxf1p7o
+
+[Rolling dices under water, four-way coupled LBM simulation using OpenLB](https://www.youtube.com/watch?v=JM8bQxf1p7o)

@@ -4,13 +4,12 @@ title: "manim - как сделать вашу научную презентац
 date: 2021-02-26T13:01:23+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1913
 tags:
-  - ffmpeg
-  - open_source
-  - 3blue1brown
   - latex
   - python
+  - open_source
+  - 3blue1brown
+  - ffmpeg
 ---
 
 manim - как сделать вашу научную презентацию захватывающей
@@ -28,4 +27,9 @@ https://www.youtube.com/watch?v=r6sGWTCMz2k
 Хотите делать такие же классные видео по результатам ваших исследований? Нет проблем: у коллег из 3Blue1Brown есть репозиторий на GitHub, где выложены исходные коды их движка создания анимированной научной инфографики manim. Все, что вам нужно, этот Python, FFmpeg и LaTeX. Ну а далее - читайте инструкции по ссылке на репозиторий github.com/3b1b/manim
 
 #3blue1brown #ffmpeg #latex #open_source #python
+https://tinyurl.com/ybn92n6a
+
+[But what is a Fourier series?  From heat flow to drawing with circles | DE4](https://www.youtube.com/watch?v=r6sGWTCMz2k)
+http://3blue1brown.com/
+https://github.com/3b1b/manim
 https://tinyurl.com/ybn92n6a

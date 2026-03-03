@@ -4,14 +4,13 @@ title: "Большой и очень подробный видео урок пр
 date: 2017-12-15T17:13:39+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_659
 tags:
-  - ICFD
+  - LSTC
   - LSOPT
-  - ANSA
+  - ICFD
   - LSDYNA
   - SpaceClaim
-  - LSTC
+  - ANSA
 ---
 
 Большой и очень подробный видео урок про то как можно оптимизировать аэродинамику задней части автомобиля в #LSDYNA используя решатель #ICFD.
@@ -25,3 +24,18 @@ tags:
 https://www.youtube.com/watch?v=5h0…MediaMediaMedia📼 Shape optimization for CFD analysis using LS-Opt +…
 
 http://ift.tt/2ABXw28
+
+http://ift.tt/2vlBJYZ
+http://ift.tt/2zoi3XR
+http://ift.tt/2yfJ8Lg
+http://ift.tt/2yfJ8Lg
+http://ift.tt/2vVLrF3
+http://ift.tt/2xRPO1U
+http://ift.tt/2ycnLef
+http://ift.tt/2BrWdGu
+https://www.youtube.com/watch?v=5h0fU_ee2jI
+http://ift.tt/2BrWeKy
+http://ift.tt/2Azpjjy
+http://ift.tt/2BrWgSG
+http://ift.tt/2ABXw28
+tp://ift.tt/2ABXw28

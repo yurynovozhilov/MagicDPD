@@ -4,7 +4,6 @@ title: "Потенциальный косяк в ANSYS"
 date: 2017-07-23T17:00:31+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_417
 tags:
   - ASME
   - ANSYS
@@ -17,3 +16,6 @@ https://getpocket.com/a/read/1803437075
 Непонятно правда, в какой версии ANSYS этот баг, и баг ли это или фича
 
 Исходная статья: https://www.linkedin.com/pulse/ansys-potential-issue-thermal-expansion-calculations-angus-ramsay
+
+[Pocket: Log In](https://getpocket.com/a/read/1803437075)
+https://www.linkedin.com/pulse/ansys-potential-issue-thermal-expansion-calculations-angus-ramsay

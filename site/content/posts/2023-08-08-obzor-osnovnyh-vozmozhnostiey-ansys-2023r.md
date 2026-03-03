@@ -4,7 +4,6 @@ title: "Обзор основных возможностией Ansys 2023R2 на
 date: 2023-08-08T15:00:29+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2493
 ---
 
 Обзор основных возможностией Ansys 2023R2 на русском
@@ -12,3 +11,5 @@ original_url: https://vk.com/wall-97265142_2493
 Мой коллега, Юрий Кабанов продолжает выпускать вебинары про Ansys на русском. Кажется, сейчас это единственный офицальный голас тяжелого CAE в СНГ. Скажем спасибо восстновленному CADFEM UA и поставем Юре много лайков под видео.
 
 https://www.youtube.com/watch?v=oxc6gif0y54
+
+[Вебинар VB 2318. ANSYS 2023 R2. Обзор новых возможностей релиза](https://www.youtube.com/watch?v=oxc6gif0y54)

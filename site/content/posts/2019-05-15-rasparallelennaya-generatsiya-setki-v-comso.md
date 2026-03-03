@@ -4,10 +4,9 @@ title: "Распараллеленная генерация сетки в COMSOL
 date: 2019-05-15T17:00:59+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1472
 tags:
-  - Comsol
   - mesh
+  - Comsol
 images:
   - url: "/assets/images/1472.jpg"
 ---
@@ -23,4 +22,7 @@ images:
 
 #Comsol #mesh
 
+https://wp.me/p9vWYY-2vf
+
+https://www.comsol.com/blogs/is-meshing-run-in-parallel-in-comsol-multiphysics
 https://wp.me/p9vWYY-2vf

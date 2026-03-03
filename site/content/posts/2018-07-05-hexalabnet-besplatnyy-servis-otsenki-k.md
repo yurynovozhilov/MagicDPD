@@ -4,12 +4,11 @@ title: "HexaLab.net - бесплатный сервис оценки качес�
 date: 2018-07-05T18:00:29+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_995
 tags:
-  - OpenSource
-  - MeshLab
   - HexaLab
+  - OpenSource
   - Mesh
+  - MeshLab
 images:
   - url: "/assets/images/996.jpg"
 ---
@@ -22,4 +21,8 @@ HexaLab.net - бесплатный сервис оценки качества he
 http://meshlabstuff.blogspot.com/2018/06/hexalabnet-new-online-tool-for.html
 
 #HexaLab #Mesh #MeshLab #OpenSource
+http://bit.ly/2NqO4oW
+
+[HexaLab.net: a new online tool for visualization and evaluation of hexahedral mesh](http://meshlabstuff.blogspot.com/2018/06/hexalabnet-new-online-tool-for.html)
+HexaLab.net
 http://bit.ly/2NqO4oW

@@ -4,14 +4,13 @@ title: "ANSYS CAD interface"
 date: 2018-04-05T18:01:09+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_883
 tags:
-  - DesignXplorer
-  - PTC
-  - Mechanical
-  - CAD
   - ANSYS
+  - Mechanical
+  - DesignXplorer
   - Creo
+  - CAD
+  - PTC
 images:
   - url: "/assets/images/884.jpg"
 ---
@@ -21,4 +20,6 @@ ANSYS CAD interface
 
 
 #ANSYS #CAD #Creo #DesignXplorer #Mechanical #PTC
+https://goo.gl/Rqjhi4
+
 https://goo.gl/Rqjhi4

@@ -4,11 +4,10 @@ title: "Два урока по работе с LS-DYNA Keyword в Python биб�
 date: 2018-03-11T18:01:21+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_843
 tags:
+  - Open_Source
   - Qd
   - Python
-  - Open_Source
   - LSDYNA
 images:
   - url: "/assets/images/844.jpg"
@@ -21,4 +20,7 @@ images:
 Репозиторий библиотеки на GitHub: https://github.com/qd-cae/qd-cae-python
 
 #LSDYNA #Open_Source #Python #Qd
+https://goo.gl/64RTLQ
+
+https://github.com/qd-cae/qd-cae-python
 https://goo.gl/64RTLQ

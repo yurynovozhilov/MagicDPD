@@ -4,11 +4,10 @@ title: "Еще немного про Parasolid"
 date: 2018-07-28T18:00:15+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1042
 tags:
-  - Parasolid
   - Isicad
   - SolidWorks
+  - Parasolid
 images:
   - url: "/assets/images/1043.jpg"
 ---
@@ -21,4 +20,8 @@ images:
 http://isicad.ru/ru/articles.php?article_num=16395
 
 #Isicad #Parasolid #SolidWorks
+http://bit.ly/2K0Ci1v
+
+[Почему создатель SolidWorks для своего загадочного нового САПР выбрал геометрическое ядро Parasolid](https://isicad.ru/ru/articles.php?article_num=16395)
+http://isicad.ru/ru/articles.php?article_num=16395
 http://bit.ly/2K0Ci1v

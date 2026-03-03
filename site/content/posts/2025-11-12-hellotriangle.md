@@ -4,7 +4,6 @@ title: "HelloTriangle"
 date: 2025-11-12T14:29:54+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3052
 ---
 
 HelloTriangle
@@ -15,3 +14,5 @@ HelloTriangle - новый браузерный инструмент для со
 
 
 https://www.hellotriangle.io/
+
+[HelloTriangle | online Python 3D modeling](https://www.hellotriangle.io/)

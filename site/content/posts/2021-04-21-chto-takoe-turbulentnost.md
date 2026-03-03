@@ -4,7 +4,6 @@ title: "Что такое турбулентность"
 date: 2021-04-21T18:01:30+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1947
 tags:
   - cfd
 ---
@@ -22,3 +21,6 @@ https://www.youtube.com/watch?v=v5IoP9Pc-Y0
 #cfd
 https://tinyurl.com/yg5mp9zd
 by Юрий Новожилов
+
+[What Is Turbulence?  Turbulent Fluid Dynamics are Everywhere](https://www.youtube.com/watch?v=v5IoP9Pc-Y0)
+https://tinyurl.com/yg5mp9zd

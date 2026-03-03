@@ -4,12 +4,11 @@ title: "Немного про баги"
 date: 2017-04-23T17:55:00+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_338
 tags:
-  - ICEM
-  - ANSYS
   - PuntoSwitcher
+  - ICEM
   - Windows
+  - ANSYS
 images:
   - url: "/assets/images/338.jpg"
 ---

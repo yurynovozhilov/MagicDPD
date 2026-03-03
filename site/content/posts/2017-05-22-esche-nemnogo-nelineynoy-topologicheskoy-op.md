@@ -4,12 +4,11 @@ title: "Еще немного нелинейной топологической 
 date: 2017-05-22T17:01:22+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_356
 tags:
-  - optmization
+  - fedesign
   - topology
   - TOSCA
-  - fedesign
+  - optmization
 ---
 
 Еще немного нелинейной топологической оптимизации
@@ -20,4 +19,7 @@ https://www.youtube.com/watch?v=ua76xTK9Wws
 #topology #optmization
 
 https://www.youtube.com/watch?v=ua76xTK9Wws
+https://link.springer.com/article/10.1007%2Fs001580050089
+
+[Non-linear topology optimization including large displacements using TOSCA](https://www.youtube.com/watch?v=ua76xTK9Wws)
 https://link.springer.com/article/10.1007%2Fs001580050089

@@ -4,7 +4,6 @@ title: "Ansys - продано!"
 date: 2024-01-16T14:16:53+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2622
 ---
 
 Ansys - продано!
@@ -14,4 +13,7 @@ Synopsys таки договорился с Ansys о поглащении. Ст�
 Вы же уже купили акции?
 
 https://www.reuters.com/markets/deals/synopsys-finalizes-35-bln-deal-buy-engineering-software-vendor-ansys-source-2024-01-16/
+https://investors.ansys.com/news-releases/news-release-details/synopsys-acquire-ansys-creating-leader-silicon-systems-design
+
+[Synopsys to buy engineering software firm Ansys in $35 billion deal](https://www.reuters.com/markets/deals/synopsys-finalizes-35-bln-deal-buy-engineering-software-vendor-ansys-source-2024-01-16/)
 https://investors.ansys.com/news-releases/news-release-details/synopsys-acquire-ansys-creating-leader-silicon-systems-design

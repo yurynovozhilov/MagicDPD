@@ -4,11 +4,10 @@ title: "midas MeshFree - как это работает"
 date: 2018-10-17T17:02:10+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1157
 tags:
-  - MESHFREE
   - Samsung
   - MIDAS
+  - MESHFREE
 images:
   - url: "/assets/images/1158.jpg"
 ---
@@ -22,4 +21,6 @@ midas MeshFree - как это работает
 P.S. На одном слайде пнули настоящие бессеточные методы. Говорят, что они, мол, очень тяжелые. Это так - любой бессеточный метод сейчас в разы более ресурсоемкий чем сеточный. Но зато и нелиенйные задачи такие методы позволяют решать существенно точнее. Универсального инструмента как всегда нет, и инжерена пока не заменить.
 
 #MESHFREE #MIDAS #Samsung
+http://bit.ly/2CnqE0w
+
 http://bit.ly/2CnqE0w

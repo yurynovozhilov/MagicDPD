@@ -4,15 +4,14 @@ title: "Семинар проРоки!"
 date: 2017-01-28T17:00:17+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_254
 tags:
-  - NVIDIA
-  - DEM
-  - Rocky
   - CFD
+  - Chemkin
   - GPU
   - ANSYS
-  - Chemkin
+  - DEM
+  - Rocky
+  - NVIDIA
 ---
 
 Семинар проРоки!
@@ -23,3 +22,5 @@ https://www.cadfem-cis.ru/list/article/rocky-seminar-2017/
 Основные топики: #DEM, #Rocky, #Chemkin, #ANSYS, #CFD, #GPU, #NVIDIA
 
 P.S. А какие есть интригующие названия докладов: "Численное моделирование и экспериментальное исследование работы щековой дробилки со сложным качанием щек 2ЩДС100X200"
+
+https://www.cadfem-cis.ru/list/article/rocky-seminar-2017/

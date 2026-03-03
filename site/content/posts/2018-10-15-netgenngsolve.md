@@ -4,11 +4,10 @@ title: "Netgen/NGSolve"
 date: 2018-10-15T17:00:21+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1149
 tags:
+  - NGSolve
   - Netgen
   - Python
-  - NGSolve
 images:
   - url: "/assets/images/1150.jpg"
 ---
@@ -19,4 +18,8 @@ https://ngsolve.org
 В целом, очень интересное решение для тех, кто хочет на Python попробовать порешать физические задачи. Тем более, что на сайте есть достаточное количество примеров с математическими выкладками и исходными кодами. Вот такой пример для FSI задачи: https://ngsolve.org/showcases/ngsolve/42-fluid-structure-interaction
 
 #Netgen #NGSolve #Python
+http://bit.ly/2AbRTtn
+
+https://ngsolve.org/
+https://ngsolve.org/showcases/ngsolve/42-fluid-structure-interaction
 http://bit.ly/2AbRTtn

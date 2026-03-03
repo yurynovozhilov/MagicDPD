@@ -4,12 +4,11 @@ title: "ANSYS WeldingDistortion ACT"
 date: 2019-08-13T13:00:18+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1556
 tags:
-  - welding
   - ACT
-  - ANSYS
   - Mechanical
+  - welding
+  - ANSYS
 ---
 
 ANSYS WeldingDistortion ACT
@@ -35,4 +34,7 @@ ANSYS WeldingDistortion ACT
 
 #ACT #ANSYS #Mechanical #welding
 
+https://wp.me/p9vWYY-2Dp
+
+[WeldingDistortion](https://catalog.ansys.com/product/5cc0777d393ff648c8045853/weldingdistortion)
 https://wp.me/p9vWYY-2Dp

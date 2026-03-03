@@ -4,7 +4,6 @@ title: "Cadence покупает Pointwise"
 date: 2021-04-27T13:21:02+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1949
 tags:
   - pointwise
   - cadence
@@ -25,4 +24,9 @@ https://youtu.be/Sgh0rG9OtcA
 Надеюсь, что эта новость никак не отразится на очень популярном и интересном блоге Another Fine Mesh https://blog.pointwise.com
 
 #cadence #pointwise
+https://tinyurl.com/yevafray
+
+[Cadence Acquires Pointwise to Expand System Analysis Offerings Addressing CFD Meshing for Aerospace Applications](https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2021/cadence-acquires-pointwise-to-expand-system-analysis-offerings-a.html)
+https://youtu.be/Sgh0rG9OtcA
+https://blog.pointwise.com/
 https://tinyurl.com/yevafray

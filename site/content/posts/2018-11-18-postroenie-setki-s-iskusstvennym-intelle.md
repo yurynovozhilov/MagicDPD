@@ -4,14 +4,13 @@ title: "Построение сетки с искусственным интел
 date: 2018-11-18T17:00:42+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1219
 tags:
-  - Mesh
   - AlgoLib
-  - Zenotech
-  - ZCFD
   - HPC
+  - ZCFD
   - Cloud
+  - Zenotech
+  - Mesh
 images:
   - url: "/assets/images/1220.jpg"
 ---
@@ -21,4 +20,7 @@ images:
 https://zenotech.com/zenotech-and-algolib-collaborate-on-an-industry-first-ai-mesh/
 
 #AlgoLib #Cloud #HPC #Mesh #ZCFD #Zenotech
+http://bit.ly/2RYTOI0
+
+https://zenotech.com/zenotech-and-algolib-collaborate-on-an-industry-first-ai-mesh/
 http://bit.ly/2RYTOI0

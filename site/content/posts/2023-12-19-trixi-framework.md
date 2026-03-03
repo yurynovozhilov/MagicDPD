@@ -4,7 +4,6 @@ title: "Trixi Framework"
 date: 2023-12-19T15:01:49+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2598
 ---
 
 Trixi Framework
@@ -23,3 +22,5 @@ Trixi Framework
 Несколько скалярных законов сохранения (например, линейная адвекция, уравнение Бюргерса)
 
 https://www.youtube.com/watch?v=Q3Pi41gbOkI
+
+[Wavy wall channel Mach 2 compressible flow over a cylinder](https://www.youtube.com/watch?v=Q3Pi41gbOkI)

@@ -4,11 +4,10 @@ title: "Доклад nTopology на DEVELOP3D LIVE USA 2018"
 date: 2019-01-13T17:01:07+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1307
 tags:
-  - CAD
-  - AdditiveManufacturing
   - NTopology
+  - AdditiveManufacturing
+  - CAD
 images:
   - url: "/assets/images/1308.jpg"
 ---
@@ -32,4 +31,7 @@ https://www.youtube.com/watch?v=lKP3Nv1FEsI
 
 
 #AdditiveManufacturing #CAD #NTopology
+http://bit.ly/2VOthjc
+
+[DEVELOP3D LIVE USA 2018: Blake Courter, nTopology](https://www.youtube.com/watch?v=lKP3Nv1FEsI)
 http://bit.ly/2VOthjc

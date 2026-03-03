@@ -4,16 +4,15 @@ title: "ANSYS EKM - новый этап развития"
 date: 2018-08-07T18:01:18+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1059
 tags:
   - SLURM
-  - SDM
-  - Fluent
-  - HPC
-  - CFX
-  - EKM
-  - Mechanical
   - ANSYS
+  - HPC
+  - Mechanical
+  - EKM
+  - SDM
+  - CFX
+  - Fluent
 images:
   - url: "/assets/images/1060.jpg"
 ---
@@ -25,4 +24,6 @@ EKM (Engineering Knowledge Manager) - система класса SDM (Simulatio
 Уже предыдущий шаг был очень важен, но коллеги из МСК успели, кроме внедрения новой версии, подтянуть руссификацию интерфейса и подружить систему с неподдерживаемым планировщиком Slurm. Получилось очень достойно!
 
 #ANSYS #CFX #EKM #Fluent #HPC #Mechanical #SDM #SLURM
+http://bit.ly/2KvT60N
+
 http://bit.ly/2KvT60N

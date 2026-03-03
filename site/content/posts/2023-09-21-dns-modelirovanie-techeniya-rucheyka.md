@@ -4,7 +4,6 @@ title: "DNS моделирование течения ручейка"
 date: 2023-09-21T15:00:00+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2536
 ---
 
 DNS моделирование течения ручейка
@@ -13,4 +12,7 @@ DNS моделирование течения ручейка
 
 https://www.youtube.com/watch?v=CLOrFZnsBTU
 
+https://www.softxjournal.com/article/S2352-7110(18)30169-9/fulltext
+
+[Simulation of rivulet flow](https://www.youtube.com/watch?v=CLOrFZnsBTU)
 https://www.softxjournal.com/article/S2352-7110(18)30169-9/fulltext

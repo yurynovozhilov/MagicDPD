@@ -4,10 +4,9 @@ title: "Моделирование затопления местности по�
 date: 2016-05-20T07:00:46+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1670
 tags:
-  - CFD
   - Tougeron
+  - CFD
 ---
 
 Моделирование затопления местности после разрушения плотины от компании одного человека, #Tougeron #CFD

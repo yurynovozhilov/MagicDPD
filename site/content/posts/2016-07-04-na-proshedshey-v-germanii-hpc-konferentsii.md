@@ -4,16 +4,15 @@ title: "На прошедшей в Германии #HPC конференции 
 date: 2016-07-04T06:30:56+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_12
 tags:
+  - K80
+  - Maxwell
+  - HPC
+  - VDI
+  - Tesla
+  - CAE
   - NVIDIA
   - P100
-  - Tesla
-  - VDI
-  - CAE
-  - HPC
-  - Maxwell
-  - K80
 images:
   - url: "/assets/images/13.jpg"
 ---
@@ -26,3 +25,5 @@ M60: 16Gb RAM,   302 GFLOPS (двойная точность)
 P100: 16Gb RAM, 4700 GFLOPS (двойная точность)
 
 Как можно видеть, новинка получилась на 60% мощнее в теории, но вот памяти для расчетов пожалели. А мы ждем первые тестовые экземпляра для проверки быстродействия в наших #CAE задачах. http://www.nvidia.ru/object/tesla-p100-pcie-20160620-ru.html
+
+[NVIDIA Tesla P100 ускоряет HPC приложения более чем в 30 раз |NVIDIA](http://www.nvidia.ru/object/tesla-p100-pcie-20160620-ru.html)

@@ -4,7 +4,6 @@ title: "Моделирование кирпичной кладки"
 date: 2019-09-02T13:00:16+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1571
 images:
   - url: "/assets/images/1571.jpg"
 ---

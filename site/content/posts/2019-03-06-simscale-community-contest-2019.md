@@ -4,7 +4,6 @@ title: "SimScale Community Contest 2019"
 date: 2019-03-06T17:00:17+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1376
 tags:
   - Simscale
 images:
@@ -42,3 +41,6 @@ Valves & Pumps
 https://wp.me/p9vWYY-2nu
 
 by Юрий Новожилов
+
+https://www.simscale.com/blog/2019/02/simscale-community-contest-2019/
+https://wp.me/p9vWYY-2nu

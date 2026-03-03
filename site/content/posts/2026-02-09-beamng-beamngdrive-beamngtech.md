@@ -4,7 +4,6 @@ title: "BeamNG (BeamNG.drive / BeamNG.tech)"
 date: 2026-02-09T15:34:16+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3102
 ---
 
 BeamNG (BeamNG.drive / BeamNG.tech)
@@ -26,3 +25,11 @@ BeamNG (BeamNG.drive / BeamNG.tech)
 - MdynamiX — сотрудничество в области HiL-тестирования (Hardware-in-the-Loop) динамики автомобилей, интеграция с системами тестирования рулевого управления и тормозов.
 
 А по ссылке первое публичное технологическое демо BeamNG https://www.youtube.com/watch?v=KppTmsNFneg
+
+[Revolutionary soft-body physics in CryEngine3](https://www.youtube.com/watch?v=KppTmsNFneg)
+BeamNG.drive
+BeamNG.tech
+BeamNG.drive
+BeamNG.drive
+BeamNG.tech
+BeamNG.tech

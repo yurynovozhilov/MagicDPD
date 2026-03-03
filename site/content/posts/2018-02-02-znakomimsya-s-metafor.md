@@ -4,11 +4,10 @@ title: "Знакомимся с METAFOR"
 date: 2018-02-02T17:01:17+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_762
 tags:
-  - ALE
-  - SPH
   - Open
+  - SPH
+  - ALE
   - Metafor
 images:
   - url: "/assets/images/763.jpg"
@@ -58,4 +57,13 @@ https://www.youtube.com/watch?v=1rEJP7A6J6k
 
 Вот сайт рашателя: http://metafor.ltas.ulg.ac.be/, а те, кто хотят попробовать проходят по этой ссылке: http://metafor.ltas.ulg.ac.be/dokuwiki/doc/user/start - документация и инструкции по установке, настройке и решению простейших задач.
 #ALE #Metafor #Open Source #SPH
+https://magicdpd.ru/?p=6152
+
+http://www.ulg.ac.be/
+https://www.youtube.com/watch?v=ifBsRh_j6AI
+https://www.youtube.com/watch?v=nqxrvpCB6uU
+https://www.youtube.com/watch?v=FU1FXO4C-1w
+https://www.youtube.com/watch?v=1rEJP7A6J6k
+http://metafor.ltas.ulg.ac.be/
+http://metafor.ltas.ulg.ac.be/dokuwiki/doc/user/start
 https://magicdpd.ru/?p=6152

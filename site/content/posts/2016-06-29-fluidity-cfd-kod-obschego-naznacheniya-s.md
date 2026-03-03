@@ -4,11 +4,12 @@ title: "Fluidity - #CFD код общего назначения с открыт
 date: 2016-06-29T07:01:00+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1857
 tags:
-  - opensource
-  - CFD
   - Fluidity
+  - CFD
+  - opensource
 ---
 
 Fluidity - #CFD код общего назначения с открытым исходным кодом. Основной акцент при разработке кода создатели делали на многофазных течениях. А в качесвте главной фишки кода реализована работа на неструктурированных динамически адаптирующихся сетках - выглядит просто супер!
+
+[Home - Fluidity](http://fluidityproject.github.io)

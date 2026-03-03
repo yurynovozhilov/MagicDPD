@@ -4,7 +4,6 @@ title: "КЭ расследование крушения поезда"
 date: 2024-05-29T13:01:18+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2711
 ---
 
 КЭ расследование крушения поезда
@@ -13,5 +12,7 @@ original_url: https://vk.com/wall-97265142_2711
 
 Расследование должно было почти полностью полагаться на технический анализ, чтобы обеспечить фактическую основу для выводов о том, что произошло.
 В своем блоге Leading Engineering Application Providers рассказывает как благодаря заказу от Департамента транспорта NSW они проводили моделирование данной аварии в LS-DYNA.
+
+https://www.finiteelementanalysis.com.au/fea/crash-simulation-waterfall-train-disaster/
 
 https://www.finiteelementanalysis.com.au/fea/crash-simulation-waterfall-train-disaster/

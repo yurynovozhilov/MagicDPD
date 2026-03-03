@@ -4,10 +4,9 @@ title: "tet сетка для explicit"
 date: 2019-01-22T17:00:17+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1319
 tags:
-  - mesh
   - explicit
+  - mesh
 images:
   - url: "/assets/images/1319.jpg"
 ---
@@ -25,4 +24,7 @@ https://caeai.com/blog/should-tetrahedral-elements-be-avoided-explicit-dynamics-
 
 #explicit #mesh
 
+https://wp.me/p9vWYY-2hv
+
+https://caeai.com/blog/should-tetrahedral-elements-be-avoided-explicit-dynamics-analysis
 https://wp.me/p9vWYY-2hv

@@ -4,13 +4,12 @@ title: "Моделирование железобетона в оболочеч�
 date: 2018-07-16T18:00:22+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1017
 tags:
+  - Concrete
+  - LSTC
+  - LSDYNA
   - MATCONCRETEEC2
   - ARUP
-  - Concrete
-  - LSDYNA
-  - LSTC
 ---
 
 Моделирование железобетона в оболочечной постановке
@@ -37,4 +36,11 @@ https://www.dynalook.com/13th-international-ls-dyna-conference/blast/response-of
 http://ftp.lstc.com/anonymous/outgoing/support/FAQ_kw/concrete/MAT_172_notes_03apr2018.pdf
 
 #ARUP #Concrete #LSDYNA #LSTC #MATCONCRETEEC2
+http://bit.ly/2uEXrIV
+
+http://www.byggmek.lth.se/fileadmin/byggnadsmekanik/publications/tvsm5000/web5193.pdf
+https://paginas.fe.up.pt/~eurodyn2014/CD/papers/492_MS24_ABS_1957.pdf
+https://hal.archives-ouvertes.fr/hal-01183176/document
+https://www.dynalook.com/13th-international-ls-dyna-conference/blast/response-of-a-large-span-stay-cable-bridge-to-blast-loading
+http://ftp.lstc.com/anonymous/outgoing/support/FAQ_kw/concrete/MAT_172_notes_03apr2018.pdf
 http://bit.ly/2uEXrIV

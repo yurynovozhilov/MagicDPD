@@ -4,11 +4,10 @@ title: "Моделирование трещин в ANSYS: основы"
 date: 2018-03-21T18:01:03+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_863
 tags:
   - Fracture
-  - ANSYS
   - Mechanical
+  - ANSYS
 images:
   - url: "/assets/images/864.jpg"
 ---
@@ -18,4 +17,6 @@ images:
 
 
 #ANSYS #Fracture #Mechanical
+https://goo.gl/GfjesB
+
 https://goo.gl/GfjesB

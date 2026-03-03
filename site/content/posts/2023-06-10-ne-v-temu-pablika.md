@@ -4,7 +4,6 @@ title: "Не в тему паблика"
 date: 2023-06-10T11:14:32+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2434
 ---
 
 Не в тему паблика
@@ -16,5 +15,7 @@ original_url: https://vk.com/wall-97265142_2434
 Всем, кто сейчас готовиться к собеседованиям я могу порекомендовать канал, советами с которого пользовался я сам, и, как потом выяснилось, многие мои знакомые технари.
 
 Канал дает предельно сжатую и сухую информацию без излишней инфоццыганщины.
+
+https://youtube.com/@TheCompaniesExpert
 
 https://youtube.com/@TheCompaniesExpert

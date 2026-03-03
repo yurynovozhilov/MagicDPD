@@ -4,16 +4,15 @@ title: "Моделировать метод послойного наплавл�
 date: 2017-08-11T17:01:44+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_433
 tags:
-  - STL
-  - SDCM
-  - FDM
+  - ANSYS
   - APDL
   - Mechanical
-  - ACT
+  - SDCM
+  - FDM
   - Python
-  - ANSYS
+  - ACT
+  - STL
 images:
   - url: "/assets/images/434.jpg"
 ---
@@ -23,3 +22,5 @@ images:
 Самое прикольное в работе ACT - это возможность визуализировать именно плотность (читай распределение) материала. Она получается гладкая, и ее можно экспортировать в виде #STL в #SDCM для дальнейшей работы.
 
 https://www.youtube.com/watch?v=qai6CIpjOHM
+
+[Structural-Thermal Simulation of FDM 3D Printing Process | ANSYS Mechanical | SVS FEM](https://www.youtube.com/watch?v=qai6CIpjOHM)

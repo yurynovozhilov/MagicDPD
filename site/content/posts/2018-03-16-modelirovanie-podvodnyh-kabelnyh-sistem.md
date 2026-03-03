@@ -4,12 +4,11 @@ title: "Моделирование подводных кабельных сис�
 date: 2018-03-16T18:00:58+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_853
 tags:
   - OrcaFlex
-  - CDynamics
-  - Helica
   - ABAQUS
+  - Helica
+  - CDynamics
 images:
   - url: "/assets/images/854.jpg"
 ---
@@ -20,4 +19,8 @@ images:
 &nbsp;
 
 #ABAQUS #CDynamics #Helica #OrcaFlex
+https://goo.gl/jBwC8u
+
+https://www.orcina.com/SoftwareProducts/OrcaFlex/
+https://www.dnvgl.com/services/umbilical-analysis-and-flexible-pipe-analysis-helica-69553
 https://goo.gl/jBwC8u

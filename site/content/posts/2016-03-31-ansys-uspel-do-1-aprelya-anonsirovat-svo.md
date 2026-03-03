@@ -4,7 +4,6 @@ title: "ANSYS успел до 1 апреля анонсировать свой �
 date: 2016-03-31T18:01:46+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1519
 tags:
   - Elastic
   - HPC
@@ -17,3 +16,5 @@ ANSYS успел до 1 апреля анонсировать свой прин�
 Сегодня такой тип лицензирования стал доступен для для основных облачных партнеров ANSYS:Bull Atos Technologies, CPU 24/7, Gompute, Nimbix и Penguin Computing. Есть шанс, что в версии 17.1 такой тип лицензирования станет доступен всем.
 
 За подробностями регестрируйтесь на бесплатные вебинары 14 апреля (по ссылке в конце поста блога).
+
+[Pay-Per-Use Licensing for Cloud Computing](http://www.ansys-blog.com/pay-per-use-licensing-cloud-computing-2/)

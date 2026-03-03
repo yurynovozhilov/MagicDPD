@@ -4,7 +4,6 @@ title: "Измеряем производительность WB"
 date: 2017-03-26T12:00:10+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_311
 tags:
   - Workbench
   - ANSYS

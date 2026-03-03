@@ -4,12 +4,11 @@ title: "Компания #Frustum реализовала топологичес�
 date: 2017-10-28T17:08:16+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_573
 tags:
-  - Siemens
-  - topology
   - optimization
+  - Siemens
   - Frustum
+  - topology
 ---
 
 Компания #Frustum реализовала топологическую оптимизацию в облаке - так получился продукт под названием Frustum Generate. И тут примечательно два момента :
@@ -23,3 +22,6 @@ tags:
 #topology #optimization
 
 http://www.develop3d.com/reviews/review-frustum-generate-1.4-design-tech-topology-optimisation-cloud 🔗 DEVELOP3D - Review: Frustum Generate 1.4
+
+http://ift.tt/2hjXlAE
+http://www.develop3d.com/reviews/review-frustum-generate-1.4-design-tech-topology-optimisation-cloud

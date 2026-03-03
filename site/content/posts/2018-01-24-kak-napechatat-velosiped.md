@@ -4,10 +4,9 @@ title: "Как напечатать велосипед"
 date: 2018-01-24T17:01:30+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_745
 tags:
-  - Additive
   - GE
+  - Additive
 images:
   - url: "/assets/images/746.jpg"
 ---
@@ -21,4 +20,8 @@ https://www.youtube.com/watch?v=tf1eucohA88
 
 Детали велосипеда печатаются на самом большом из доступных сейчас 3D принтеров по металлу -  Concept Laser X Line 2000R 3D производства GE.
 #Additive Manufacturing #GE
+https://magicdpd.ru/?p=6007
+
+http://www.kinazo.com/
+https://www.youtube.com/watch?v=tf1eucohA88
 https://magicdpd.ru/?p=6007

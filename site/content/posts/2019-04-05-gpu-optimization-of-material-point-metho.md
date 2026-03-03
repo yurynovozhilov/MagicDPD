@@ -4,7 +4,6 @@ title: "GPU Optimization of Material Point Methods"
 date: 2019-04-05T12:00:28+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1434
 tags:
   - FLIP
 images:
@@ -25,3 +24,6 @@ GPU Optimization of Material Point Methods
 https://wp.me/p9vWYY-2sy
 
 by Юрий Новожилов
+
+https://en.wikipedia.org/wiki/Material_point_method
+https://wp.me/p9vWYY-2sy

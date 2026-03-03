@@ -4,11 +4,12 @@ title: "Встречаем победителя в конкурсе иллюст
 date: 2015-11-22T18:00:25+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_770
 tags:
-  - StarCCM
   - CFD
   - CDadapco
+  - StarCCM
 ---
 
 Встречаем победителя в конкурсе иллюстраций для календаря компании CD-adapco. Господин van der Merwe расчитал и красиво представил велосипедный шлем при помощи STAR-CCM+
+
+[CD-adapco Announces Winner of 2016 Calendar Competition | CD-adapco](http://www.cd-adapco.com/node/8434)

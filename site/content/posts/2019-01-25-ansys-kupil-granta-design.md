@@ -4,12 +4,11 @@ title: "ANSYS купил Granta Design"
 date: 2019-01-25T18:30:23+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1322
 tags:
   - CES_Selector
   - Granta_Design
-  - Material_Designer
   - ANSYS
+  - Material_Designer
 images:
   - url: "/assets/images/1322.jpg"
 ---
@@ -33,4 +32,8 @@ ANSYS купил Granta Design
 
 #ANSYS #CES_Selector #Granta_Design #Material_Designer
 
+https://wp.me/p9vWYY-2i0
+
+https://www.develop3d.com/blog/2019/01/ansys-to-acquire-material-selection-wizards-granta-design
+https://www.develop3d.com/reviews/review-granta-design-ces-selector-2017-engineering-design-CAD
 https://wp.me/p9vWYY-2i0

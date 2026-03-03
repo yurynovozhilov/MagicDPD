@@ -4,10 +4,9 @@ title: "Демпфирование в LS-DYNA"
 date: 2018-10-02T17:00:17+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1131
 tags:
-  - LSTC
   - Damping
+  - LSTC
   - LSDYNA
 images:
   - url: "/assets/images/1132.jpg"
@@ -23,4 +22,7 @@ images:
 http://ftp.lstc.com/anonymous/outgoing/support/PAPERS/DAMPING_FREQUENCY_RANGE_support_note_Feb2018.pdf
 
 #Damping #LSDYNA #LSTC
+http://bit.ly/2QpEG5M
+
+http://ftp.lstc.com/anonymous/outgoing/support/PAPERS/DAMPING_FREQUENCY_RANGE_support_note_Feb2018.pdf
 http://bit.ly/2QpEG5M

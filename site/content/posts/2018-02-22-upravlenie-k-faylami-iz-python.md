@@ -4,7 +4,6 @@ title: "Управление .k файлами из Python"
 date: 2018-02-22T18:01:02+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_812
 tags:
   - Qd
   - Python
@@ -25,3 +24,5 @@ images:
 Запись .k файлов
 
 Подробное описание новых функций библиотеки можно найти тут: http://www.qd-eng.de/index.php/2018/02/19/manipulating-ls-dyna-keyfiles-in-python/
+
+http://www.qd-eng.de/index.php/2018/02/19/manipulating-ls-dyna-keyfiles-in-python/

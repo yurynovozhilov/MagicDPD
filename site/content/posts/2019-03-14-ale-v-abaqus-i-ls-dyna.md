@@ -4,11 +4,10 @@ title: "ALE в Abaqus и LS-DYNA"
 date: 2019-03-14T12:55:48+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1392
 tags:
-  - ALE
-  - LS_DYNA
   - ABAQUS
+  - LS_DYNA
+  - ALE
 images:
   - url: "/assets/images/1392.jpg"
 ---
@@ -24,4 +23,7 @@ https://www.youtube.com/watch?v=cfXKbvoQmrg
 
 #ABAQUS #ALE #LS_DYNA
 
+https://wp.me/p9vWYY-2pN
+
+https://www.youtube.com/watch?v=cfXKbvoQmrg
 https://wp.me/p9vWYY-2pN

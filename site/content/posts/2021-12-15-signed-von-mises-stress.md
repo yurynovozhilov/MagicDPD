@@ -4,10 +4,9 @@ title: "Signed Von Mises stress"
 date: 2021-12-15T14:01:40+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2051
 tags:
-  - lsdyna
   - ls
+  - lsdyna
   - ansys
 ---
 
@@ -24,4 +23,6 @@ Signed Von Mises stress
 Однако напряжений в механике можно вывести много (главные, нормальные, касательные и т.п.), и хочется иногда облегчить себе жизнь. И для ленивых я нашел в LS-PrePost результат "Signed Von Mises stress" - поле, которое берет  классические напряжения по Мизесу м добавляет к ним знак от давления. А нужно такое, на самом деле, не для ленивых, а для расчета циклической прочности.
 
 #ansys #ls-prepost #lsdyna
+https://tinyurl.com/yybthdtm
+
 https://tinyurl.com/yybthdtm

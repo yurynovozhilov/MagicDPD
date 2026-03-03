@@ -4,13 +4,12 @@ title: "Моделирование горения газовых смесей в
 date: 2019-06-27T17:01:18+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1517
 tags:
   - LS_DYNA
-  - Chemistry
-  - FSI
-  - CESE
   - LSTC
+  - FSI
+  - Chemistry
+  - CESE
 images:
   - url: "/assets/images/1517.jpg"
 ---
@@ -38,4 +37,8 @@ ftp://ftp.lstc.com/outgoing/ksim/examples/LNG_fire/Lng_combustion_KOGAS_2018.pdf
 
 #CESE #Chemistry #FSI #LS_DYNA #LSTC
 
+https://wp.me/p9vWYY-2A1
+
+ftp://ftp.lstc.com/outgoing/ksim/examples/LNG_fire/Lng_combustion_KOGAS_2018.pdf
+ftp://ftp.lstc.com/outgoing/ksim/examples/LNG_fire/Lng_combustion_KOGAS_2018.ppsm
 https://wp.me/p9vWYY-2A1

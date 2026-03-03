@@ -4,7 +4,6 @@ title: "Приходил ко мне Антошка - поиграли мы не
 date: 2017-05-17T17:00:44+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_354
 tags:
   - ANSYS
 images:

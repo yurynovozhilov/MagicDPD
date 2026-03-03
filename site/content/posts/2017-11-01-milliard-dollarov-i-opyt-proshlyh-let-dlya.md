@@ -4,7 +4,6 @@ title: "Миллиард долларов и опыт прошлых лет дл
 date: 2017-11-01T05:17:19+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_578
 ---
 
 Миллиард долларов и опыт прошлых лет для революции в проектировании и численном моделировании.
@@ -12,3 +11,8 @@ ANSYS Discovery Live позволяет каждому конструктору 
 http://ift.tt/2z3t9S8Media🔗 ANSYS Discovery Live: Instant Simulation Results
 
 http://ift.tt/2z4TCPm
+
+http://ift.tt/2eOxqTH%3C/p%3E
+http://ift.tt/2iP7ngV
+http://ift.tt/2eOxqTH
+ttp://ift.tt/2z4TCPm

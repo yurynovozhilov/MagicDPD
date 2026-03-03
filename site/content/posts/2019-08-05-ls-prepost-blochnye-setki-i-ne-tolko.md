@@ -4,11 +4,10 @@ title: "LS-PrePost: блочные сетки и не только"
 date: 2019-08-05T13:00:37+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1548
 tags:
-  - mesh
   - LSTC
   - LS_PrePost
+  - mesh
   - BlockM
 images:
   - url: "/assets/images/1548.jpg"
@@ -43,4 +42,7 @@ LS-PrePost: блочные сетки и не только
 
 #BlockM #LS_PrePost #LSTC #mesh
 
+https://wp.me/p9vWYY-2CK
+
+ftp://ftp.lstc.com/outgoing/lsprepost/examples/
 https://wp.me/p9vWYY-2CK

@@ -4,15 +4,14 @@ title: "Свежая презентация по развитию LS-PrePost 4.3
 date: 2016-07-15T13:00:53+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_40
 tags:
-  - LSPP
-  - ICFD
   - CFD
-  - LSDYNA
   - LSTC
-  - CASE
+  - ICFD
+  - LSDYNA
   - BEM
+  - CASE
+  - LSPP
 ---
 
 Свежая презентация по развитию LS-PrePost 4.3 от #LSTC - наверно лучшего (а еще и совершенно бесплатного) перпоста для LS-DYNA. Мне больше всего понравились 3 фишки:
@@ -21,4 +20,6 @@ tags:
 - Сборка нерегулятной простаноственной КЭ сетки из облака точек
 
 #LSDYNA #LSPP
+http://lnk.al/1Gyt
+
 http://lnk.al/1Gyt

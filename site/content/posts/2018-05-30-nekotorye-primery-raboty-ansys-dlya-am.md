@@ -4,10 +4,9 @@ title: "Некоторые примеры работы ANSYS для AM"
 date: 2018-05-30T18:00:45+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_944
 tags:
-  - Simpleware
   - ANSYS
+  - Simpleware
   - Additive
   - lattice
 images:
@@ -18,5 +17,7 @@ images:
 
 
 #Additive Manufacturing #ANSYS #lattice structure #Simpleware
+
+https://wp.me/p9vWYY-1Se
 
 https://wp.me/p9vWYY-1Se

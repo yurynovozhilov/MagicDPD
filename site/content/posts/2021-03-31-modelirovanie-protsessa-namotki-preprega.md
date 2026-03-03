@@ -4,13 +4,12 @@ title: "Моделирование процесса намотки препре�
 date: 2021-03-31T14:48:38+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1935
 tags:
-  - composite
   - acp
   - cadwind
   - ansys
   - hdf5
+  - composite
 ---
 
 Моделирование процесса намотки препрега
@@ -36,3 +35,8 @@ https://www.youtube.com/watch?v=57utRRS0M_k
 #acp #ansys #cadwind #composite #hdf5
 https://tinyurl.com/yjp2ftfb
 by Юрий Новожилов
+
+[CADWIND Filament Winding Software: how CADWIND works with your machine controller](https://www.youtube.com/watch?v=9SqoHrxn3Qw)
+https://www.youtube.com/watch?v=57utRRS0M_k
+https://www.ansys.com/blog/solving-composite-design-challenges
+https://tinyurl.com/yjp2ftfb

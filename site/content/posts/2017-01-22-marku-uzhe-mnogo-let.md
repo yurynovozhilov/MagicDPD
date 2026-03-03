@@ -4,11 +4,10 @@ title: "Марку уже много лет"
 date: 2017-01-22T12:02:31+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_247
 tags:
+  - MSC
   - Marc
   - ANSYS
-  - MSC
 ---
 
 Марку уже много лет
@@ -18,3 +17,5 @@ https://www.youtube.com/watch?v=1nUR0pLQ3w8
 
 Предлагаю вашему вниманию рассказ президента компании Axel Physical Testing Services, Курта Миллера (Kurt Miller). Курт более 20-ти лет исследует механику гиперупругих материалов в экспериментах и расчетах.
 https://www.youtube.com/watch?v=1nUR0pLQ3w8
+
+[MSC Customer Testimonial - Axel Products, Marc for Non-Linear Applications](https://www.youtube.com/watch?v=1nUR0pLQ3w8)

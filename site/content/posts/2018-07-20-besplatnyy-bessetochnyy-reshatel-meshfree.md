@@ -4,13 +4,12 @@ title: "Бесплатный бессеточный решатель MESHFREE о
 date: 2018-07-20T18:00:44+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1024
 tags:
-  - NFX
-  - NAFEMS
-  - MESHFREE
-  - MidasNFX
   - MIDAS
+  - NAFEMS
+  - MidasNFX
+  - NFX
+  - MESHFREE
 images:
   - url: "/assets/images/1025.jpg"
 ---
@@ -26,4 +25,9 @@ images:
 http://www.midasmeshfree.com
 
 #MESHFREE #MIDAS #MidasNFX #NAFEMS #NFX
+http://bit.ly/2uCfS21
+
+http://ru.midasuser.com/
+http://www.midasmeshfree.com/inc/pdf/MESHFREE_EN_Catalogue.pdf
+http://www.midasmeshfree.com/
 http://bit.ly/2uCfS21

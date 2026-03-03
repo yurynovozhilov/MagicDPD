@@ -4,12 +4,11 @@ title: "Отсканируй и распечатай президента"
 date: 2016-08-22T06:30:31+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_90
 tags:
-  - ReverseEngineering
   - artec3d
-  - STL
+  - ReverseEngineering
   - GEOMAGIC
+  - STL
 ---
 
 Отсканируй и распечатай президента
@@ -19,3 +18,5 @@ https://www.youtube.com/watch?v=gpMOe7O88cY
 
 #artec3d #GEOMAGIC #ReverseEngineering
 https://www.youtube.com/watch?v=gpMOe7O88cY
+
+[A Presidential 3D Portrait - 3D Scanning Barack Obama](https://www.youtube.com/watch?v=gpMOe7O88cY)

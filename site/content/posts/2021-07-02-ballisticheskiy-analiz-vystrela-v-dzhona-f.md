@@ -4,7 +4,6 @@ title: "Баллистический анализ выстрела в Джона
 date: 2021-07-02T13:02:24+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1975
 tags:
   - lsdyna
 ---
@@ -34,4 +33,7 @@ tags:
 
 
 #lsdyna
+https://tinyurl.com/yzfzep8q
+
+https://engrxiv.org/tncy5/
 https://tinyurl.com/yzfzep8q

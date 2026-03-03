@@ -4,13 +4,12 @@ title: "Набор на курсы optiSLang E-learning"
 date: 2019-01-18T17:00:42+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1316
 tags:
+  - ANSYS
   - optiSLang
-  - Dynardo
   - optimization
   - Workbench
-  - ANSYS
+  - Dynardo
 images:
   - url: "/assets/images/1316.jpg"
 ---
@@ -38,4 +37,7 @@ optiSLang не только тесно интегрируется в среду 
 
 #ANSYS #Dynardo #optimization #optiSLang #Workbench
 
+https://wp.me/p9vWYY-2fZ
+
+https://www.dynardo.de/en/getting-started/e-learning/optislang-e-learning.html
 https://wp.me/p9vWYY-2fZ

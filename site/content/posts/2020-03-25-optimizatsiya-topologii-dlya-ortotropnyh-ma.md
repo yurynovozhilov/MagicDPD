@@ -4,13 +4,12 @@ title: "Оптимизация топологии для ортотропных 
 date: 2020-03-25T13:50:13+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1725
 tags:
+  - Epilysis
+  - Topology
+  - optimization
   - BetaCAE
   - composite
-  - optimization
-  - Topology
-  - Epilysis
 images:
   - url: "/assets/images/1725.jpg"
 ---

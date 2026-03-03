@@ -4,25 +4,24 @@ title: "Молния: открыта очередь на тестировани�
 date: 2016-08-05T12:30:08+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_69
 tags:
-  - NVIDIA
-  - Microsoft
+  - VMWare
   - OpenGL
-  - DDS
-  - Tesla
+  - K80
+  - GPU
   - VDI
   - HPC
-  - PCoIP
-  - Server
-  - Cloud
-  - GPU
   - RemoteFX
-  - Teradici
-  - VMWare
-  - K80
-  - Windows
+  - Server
   - Azure
+  - Cloud
+  - DDS
+  - Tesla
+  - Microsoft
+  - NVIDIA
+  - Windows
+  - Teradici
+  - PCoIP
 ---
 
 Молния: открыта очередь на тестирование GPU NVIDIA в облаке AZURE
@@ -33,4 +32,8 @@ http://gpu.azure.com/
 Еще Microsoft говори о партнерстве с компанией #Teradici для использования технологии #PCoIP доставляющей удаленные рабочие столы со сложной графикой. Это немного странно для меня. Во-первых Teradici - это решение заклятого конкурента #VMWare. Во-вторых, где обещанный ранее #DDS и новый #RemoteFX с поддержкой #OpenGL 4+ (заявлено для #Windows #Server 2016)? Неужели MS отказывает использовать свои серверные операционные систем и технологии в своем же облаке?
 
 #VDI #Cloud #HPC
+https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/
+
+[Virtual machine sizes overview - Azure Virtual Machines](https://gpu.azure.com/)
+http://gpu.azure.com/
 https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/

@@ -4,12 +4,11 @@ title: "Подбор констант для нелинейных моделей
 date: 2019-06-28T17:00:52+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1518
 tags:
-  - material
-  - non_linear
   - properties
+  - material
   - MCalibration
+  - non_linear
 images:
   - url: "/assets/images/1518.jpg"
 ---
@@ -40,3 +39,6 @@ https://www.veryst.com/what-we-offer/polymer-modeling
 https://wp.me/p9vWYY-2Ae
 
 by Ян Поженько
+
+https://www.veryst.com/what-we-offer/polymer-modeling
+https://wp.me/p9vWYY-2Ae

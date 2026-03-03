@@ -4,10 +4,9 @@ title: "Это видео иллюстрирует крупномасштабн�
 date: 2022-01-07T21:15:03+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2061
 tags:
-  - ONERA
   - Zset
+  - ONERA
   - fracture
 images:
   - url: "/assets/images/2061.jpg"
@@ -19,5 +18,7 @@ images:
 Такое моделирование занимает 19ч 14м на 12-ти ядерной рабочей станции, с 291 шагами сеточной адаптации, что приводить к постепенному увеличению размерности задачи с 190к до 1М степеней свободы.
 
 #fracture
+
+https://youtu.be/Mk-6525VfDE
 
 https://youtu.be/Mk-6525VfDE

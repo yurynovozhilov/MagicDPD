@@ -4,7 +4,6 @@ title: "Встретимся в Мюнхене?"
 date: 2025-10-01T12:55:14+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3027
 ---
 
 Встретимся в Мюнхене?
@@ -18,3 +17,6 @@ original_url: https://vk.com/wall-97265142_3027
 https://www.ansys.com/events/emea-transportation-summit
 
 P.S. Презентация уже загружена, статья уже написана, так что все готово!
+
+[Ansys EMEA Transportation Summit and LS-DYNA User Conference 2025](https://www.ansys.com/events/emea-transportation-summit)
+https://www.linkedin.com/in/lukas-leidinger-1233a088

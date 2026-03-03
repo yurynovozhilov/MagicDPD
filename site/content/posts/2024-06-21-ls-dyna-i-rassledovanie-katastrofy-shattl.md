@@ -4,7 +4,6 @@ title: "LS-DYNA и расследование катастрофы шаттла 
 date: 2024-06-21T12:01:12+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2730
 ---
 
 LS-DYNA и расследование катастрофы шаттла  «Колумбия»

@@ -4,14 +4,13 @@ title: "Тонкости FSI для LS-DYNA"
 date: 2017-04-01T12:02:20+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_317
 tags:
+  - Implicit
+  - CFD
+  - LSTC
   - ICFD
   - FSI
-  - CFD
   - LSDYNA
-  - Implicit
-  - LSTC
 ---
 
 Тонкости FSI для LS-DYNA
@@ -21,3 +20,5 @@ https://www.youtube.com/watch?v=CckL8tG2BkI
 
 #CFD
 https://www.youtube.com/watch?v=CckL8tG2BkI
+
+[Difference between weak and strong coupling in FSI simulations in LS-DYNA](https://www.youtube.com/watch?v=CckL8tG2BkI)

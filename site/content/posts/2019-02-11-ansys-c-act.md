@@ -4,10 +4,9 @@ title: "ANSYS C# ACT"
 date: 2019-02-11T18:49:38+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1352
 tags:
-  - ACT
   - C
+  - ACT
   - ANSYS
 images:
   - url: "/assets/images/1352.jpg"
@@ -34,4 +33,8 @@ https://youtu.be/mD7Mjf2OFNw
 
 #ACT #ANSYS #C
 
+https://wp.me/p9vWYY-2l7
+
+https://youtu.be/mD7Mjf2OFNw
+https://www.ansys.com/products/structures/ansys-act
 https://wp.me/p9vWYY-2l7

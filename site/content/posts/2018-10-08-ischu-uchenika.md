@@ -4,10 +4,9 @@ title: "Ищу ученика"
 date: 2018-10-08T17:00:24+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1139
 tags:
-  - LSDYNA
   - Blast
+  - LSDYNA
 images:
   - url: "/assets/images/1140.jpg"
 ---
@@ -32,4 +31,8 @@ images:
 Всем заинтересовавшимся писать сюда: https://t.me/GlukRazor
 
 #Blast #LSDYNA
+http://bit.ly/2pKRBDL
+
+[Методики моделирования взрывов в ANSYS LS-DYNA](https://www.slideshare.net/YuryNovozhilov/ansys-lsdyna-85968234)
+https://t.me/GlukRazor
 http://bit.ly/2pKRBDL

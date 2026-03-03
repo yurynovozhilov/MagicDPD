@@ -4,7 +4,6 @@ title: "Немного SpaceClaim'a и фермMedia📼 Truss Bridge SpaceClaim
 date: 2017-12-30T08:24:15+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_684
 tags:
   - 1
 ---
@@ -12,3 +11,7 @@ tags:
 Немного SpaceClaim'a и фермMedia📼 Truss Bridge SpaceClaim #1
 
 http://ift.tt/2lnGYFe
+
+http://ift.tt/2lsfXzI
+http://ift.tt/2lnGYFe
+ttp://ift.tt/2lnGYFe

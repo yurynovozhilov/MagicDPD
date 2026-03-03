@@ -4,13 +4,12 @@ title: "EDEM ACT для ANSYS"
 date: 2018-07-01T18:01:38+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_987
 tags:
-  - DEM
+  - ANSYS
   - Mechanical
+  - DEM
   - EDEM
   - ACT
-  - ANSYS
 images:
   - url: "/assets/images/988.jpg"
 ---
@@ -20,4 +19,7 @@ EDEM ACT для ANSYS
 https://appstore.ansys.com/shop/ACTApps_act%20apps/EDEMforANSYS_apc-actapp-382
 
 #ACT #ANSYS #DEM #EDEM #Mechanical
+http://bit.ly/2MCI4YV
+
+https://appstore.ansys.com/shop/ACTApps_act%20apps/EDEMforANSYS_apc-actapp-382
 http://bit.ly/2MCI4YV

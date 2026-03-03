@@ -4,7 +4,6 @@ title: "#ANSYS #Workbench намекает мне, что схема проек�
 date: 2016-03-24T10:36:45+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1497
 tags:
   - Workbench
   - ANSYS

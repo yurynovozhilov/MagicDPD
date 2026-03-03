@@ -4,25 +4,24 @@ title: "Вышел KeyShot 6.3"
 date: 2016-12-18T12:02:29+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_220
 tags:
-  - Siemens
-  - SolidEdge
-  - Alias
-  - KeyShot
-  - Inventor
+  - Luxion
   - NX
-  - ARX
+  - Alias
   - ANSYS
   - Dassault
-  - SpaceClaim
-  - PTC
-  - Luxion
-  - CAD
-  - Maya
-  - Autodesk
+  - ARX
   - SoldWorks
   - Creo
+  - KeyShot
+  - SpaceClaim
+  - Maya
+  - Inventor
+  - CAD
+  - Siemens
+  - PTC
+  - Autodesk
+  - SolidEdge
 ---
 
 Вышел KeyShot 6.3
@@ -37,3 +36,5 @@ https://www.keyshot.com/press/luxion-releases-keyshot-6-3/
 - #PTC #Creo 4 (через Creo Parametric’s Advanced Rendering Extension aka #ARX)
 
 А в составе #ANSYS вы можете встретить KeyShot с бесплатной базовой лицензией внутри #SpaceClaim.
+
+https://www.keyshot.com/press/luxion-releases-keyshot-6-3/

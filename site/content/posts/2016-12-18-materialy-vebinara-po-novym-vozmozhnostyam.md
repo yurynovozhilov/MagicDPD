@@ -4,18 +4,17 @@ title: "Материалы вебинара по новым возможност
 date: 2016-12-18T17:00:20+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_221
 tags:
-  - ICFD
-  - DEM
-  - MEFEM
-  - FSI
-  - CFD
-  - DYNAmore
-  - LSDYNA
   - Implicit
-  - CESE
+  - CFD
+  - DEM
+  - LSDYNA
+  - FSI
+  - ICFD
+  - DYNAmore
+  - MEFEM
   - UDF
+  - CESE
 ---
 
 Материалы вебинара по новым возможностям LS-DYNA R9
@@ -34,3 +33,5 @@ https://www.dynamore.se/en/news/meet-dynamore/resources/papers/webinar-ls-dyna-r
 - Бессеточный (!!!) метод обогощенных конечных элементов (Meshfree Enriched FEM, #MEFEM) специально для моделирования резин (*SECTION_SOLID, ELFORM=43).
 
 P.S. Ну надо было только такое придумать - бессеточный метод конечных элементов :-)
+
+[WEBinar: LS-DYNA R9 - Presentations —](https://www.dynamore.se/en/news/meet-dynamore/resources/papers/webinar-ls-dyna-r9-presentations)

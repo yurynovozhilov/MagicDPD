@@ -4,18 +4,17 @@ title: "AGX Dynamics для частиц"
 date: 2016-12-16T17:00:18+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_217
 tags:
   - RBD
+  - GPU
   - DEM
+  - EDEM
+  - LSDYNA
+  - Algoryx
   - Rocky
   - NDEM
-  - GPU
-  - Algoryx
-  - LSDYNA
-  - EDEM
-  - SpaceClaim
   - AGX
+  - SpaceClaim
 ---
 
 AGX Dynamics для частиц
@@ -28,3 +27,5 @@ https://www.youtube.com/watch?v=7OA-54FNYVQ
 #AGX Dynamics уже сейчас умеет моделировать конвейерные системы, взаимодействие с твердыми телами, слипание частиц. Разрушения частиц нет, использования #GPU тоже пока нет. Но я думаю, что все это скоро будет.
 
 https://www.youtube.com/watch?v=7OA-54FNYVQ
+
+[Granular simulation in AGX Dynamics - Overview](https://www.youtube.com/watch?v=7OA-54FNYVQ)

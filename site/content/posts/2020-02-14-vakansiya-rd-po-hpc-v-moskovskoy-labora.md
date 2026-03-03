@@ -4,7 +4,6 @@ title: "Вакансия: R&D по HPC в московской лаборато�
 date: 2020-02-14T13:00:27+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1699
 tags:
   - huawei
   - HPC

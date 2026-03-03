@@ -4,11 +4,10 @@ title: "Верификационный отчет по ANSYS Mechanical в ст�
 date: 2019-08-25T13:00:24+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1563
 tags:
-  - ANSYS
   - Civil
   - Mechanical
+  - ANSYS
 images:
   - url: "/assets/images/1563.jpg"
 ---
@@ -33,3 +32,5 @@ images:
 
 
 Бонусом идет достойный перевод теоретических основ ANSYS и МКЭ. Ссылка на материалы: http://www.raasn.ru/structure.php?st_id=materials&st_p=research_boards/rb_software/rb_sw_materials/verification/ANSYS/ansys
+
+http://www.raasn.ru/structure.php?st_id=materials&st_p=research_boards/rb_software/rb_sw_materials/verification/ANSYS/ansys

@@ -4,7 +4,6 @@ title: "Две минуты про рост растений"
 date: 2017-04-21T08:00:40+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_336
 ---
 
 Две минуты про рост растений
@@ -15,3 +14,5 @@ https://www.youtube.com/watch?v=aAsejHZC5EE
 Двухминутный рассказ о разработанном коде, позволяющем моделировать рост растений. Работа эта практически полностью для визуализационных целей, но и тут не обошлось без физики. Растения можно рвать, резать и даже задавать порывы ветра, обдувающие объекты. Все очень красиво и наглядно.
 
 https://www.youtube.com/watch?v=aAsejHZC5EE
+
+[Real-Time Modeling and Animation of Climbing Plants | Two Minute Papers #146](https://www.youtube.com/watch?v=aAsejHZC5EE)

@@ -4,7 +4,6 @@ title: "CE-PolyCube: Cut-enhanced PolyCube-Maps for Feature-aware Al"
 date: 2022-01-20T17:00:12+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2091
 tags:
   - opensource
   - mesh
@@ -22,3 +21,5 @@ CE-PolyCube: Cut-enhanced PolyCube-Maps for Feature-aware All-Hex Meshing
 Что мне больше всего нравится в данном проекте, так это опубликованные исходники кода, рассчитанные на работу в 64-х битных версиях Windows
 
 #PolyCube #mesh #opensource https://github.com/msraig/CE-PolyCube
+
+[GitHub - msraig/CE-PolyCube: Source code of SIGGRAPH 2020 paper: Cut-enhanced PolyCube-Maps for Feature-aware All-Hex Meshing](https://github.com/msraig/CE-PolyCube)

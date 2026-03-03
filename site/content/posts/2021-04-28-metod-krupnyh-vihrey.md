@@ -4,11 +4,10 @@ title: "Метод крупных вихрей"
 date: 2021-04-28T13:02:07+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1950
 tags:
   - les
-  - turbulence
   - cfd
+  - turbulence
 ---
 
 Метод крупных вихрей
@@ -28,4 +27,8 @@ https://www.youtube.com/watch?v=GdXLyfRK188
 
 
 #cfd #les #turbulence
+https://tinyurl.com/yebwbz4z
+
+[[CFD] The Smagorinsky Turbulence Model (Part 1)](https://www.youtube.com/watch?v=V8ydRrdCzl0)
+https://www.youtube.com/watch?v=GdXLyfRK188
 https://tinyurl.com/yebwbz4z

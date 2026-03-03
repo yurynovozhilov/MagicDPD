@@ -4,16 +4,15 @@ title: "Включаем Implicit решатель в Workbench LS-DYNA"
 date: 2018-08-14T18:01:23+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1069
 tags:
-  - Longread
+  - Implicit
+  - ANSYS
+  - SommandSnipet
   - Workbench
   - ARUP
   - LSDYNA
-  - Implicit
+  - Longread
   - ACT
-  - ANSYS
-  - SommandSnipet
 images:
   - url: "/assets/images/1070.jpg"
 ---
@@ -93,4 +92,6 @@ $
 ,1
 
 #ACT #ANSYS #ARUP #Implicit #Longread #LSDYNA #SommandSnipet #Workbench
+http://bit.ly/2OwQJgD
+
 http://bit.ly/2OwQJgD

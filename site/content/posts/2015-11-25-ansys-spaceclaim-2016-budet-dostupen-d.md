@@ -4,7 +4,6 @@ title: "#ANSYS #SpaceClaim 2016 будет доступен для скачив�
 date: 2015-11-25T06:00:22+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_789
 tags:
   - CAD
   - SpaceClaim
@@ -14,3 +13,5 @@ images:
 ---
 
 #ANSYS #SpaceClaim 2016 будет доступен для скачивания уже 1 декабря (вторник). Так что поспешите записать на онлайн семинар с обзором новых возможностей этого чудесного геометрического процессора.
+
+[Registration](https://attendee.gotowebinar.com/rt/6253495843332645634)

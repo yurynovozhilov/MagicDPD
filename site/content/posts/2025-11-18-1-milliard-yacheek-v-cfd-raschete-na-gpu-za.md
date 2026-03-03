@@ -4,7 +4,6 @@ title: "1 миллиард ячеек в CFD расчете на GPU за сут
 date: 2025-11-18T11:53:07+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_3062
 images:
   - url: "/assets/images/3062.jpg"
 ---
@@ -18,3 +17,6 @@ Cadence, NVIDIA, и Solar Turbines (часть Caterpillar) отчитались
 Пресс релиз: https://community.cadence.com/cadence_blogs_8/b/corporate-news/posts/cadence-nvidia-and-solar-turbines-collaborate-on-ai-physics
 
 Научная статья: https://doi.org/10.1115/GT2025-151173
+
+https://community.cadence.com/cadence_blogs_8/b/corporate-news/posts/cadence-nvidia-and-solar-turbines-collaborate-on-ai-physics
+https://doi.org/10.1115/GT2025-151173

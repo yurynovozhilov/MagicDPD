@@ -4,13 +4,12 @@ title: "Моделирование детонации ВВ"
 date: 2021-09-21T13:01:58+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2003
 tags:
   - autodyn
-  - ansys
-  - blast
-  - explicit
   - explicit_str
+  - ansys
+  - explicit
+  - blast
 ---
 
 Моделирование детонации ВВ
@@ -34,4 +33,8 @@ https://www.youtube.com/watch?v=n0bQh17NAO4
 
 
 #ansys #autodyn #blast #explicit #explicit_str
+https://tinyurl.com/yhmfnser
+
+[Autodyn 3d explosion simulations in Traditional GUI](https://www.youtube.com/watch?v=UngmYKKDWuU)
+https://www.youtube.com/watch?v=n0bQh17NAO4
 https://tinyurl.com/yhmfnser

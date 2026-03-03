@@ -4,10 +4,9 @@ title: "Вебинар по APM WinMachine 16"
 date: 2019-03-23T17:00:26+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1411
 tags:
-  - APM
   - WinMachine
+  - APM
 images:
   - url: "/assets/images/1411.jpg"
 ---
@@ -32,5 +31,7 @@ APM WinMachine — это CAE система российской разрабо
 Основные возможности — 30 минШарниры и соединения — 20 минРасчеты прочности — 45 минИнтеграция с Компас — 15 минПримеры выполненых проектов — 10 мин (а что так мало?!)Ценообразование — 10 минОтветы на вопросы — 20 мин
 
 #APM #WinMachine
+
+https://wp.me/p9vWYY-2r0
 
 https://wp.me/p9vWYY-2r0

@@ -4,7 +4,6 @@ title: "Тусовка партнеров компании #АСКОН. Я бы 
 date: 2016-04-27T06:02:04+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1607
 tags:
   - АСКОН
 images:

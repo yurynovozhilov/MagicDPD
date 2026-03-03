@@ -4,16 +4,15 @@ title: "Моделирование пены низкой плотности в �
 date: 2021-02-03T13:01:13+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1897
 tags:
-  - abaqus
-  - mechanical
-  - polymerfem
-  - foam
-  - ls
-  - mcalibration
-  - ansys
   - comsol
+  - foam
+  - polymerfem
+  - abaqus
+  - ansys
+  - ls
+  - mechanical
+  - mcalibration
 ---
 
 Моделирование пены низкой плотности в МКЭ
@@ -41,4 +40,8 @@ https://www.youtube.com/watch?v=W9e-GJHJk00
 Во второй части видео показывается, как проводить настройку модели материалов с применением пакета PolymerFEM MCalibration.
 
 #abaqus #ansys #comsol #foam #ls-dyna #mcalibration #mechanical #polymerfem
+https://tinyurl.com/y2gu28ph
+
+[Material Models for Soft Foams - Part 1 - Theory](https://www.youtube.com/watch?v=g8YSmFk5KSc)
+https://www.youtube.com/watch?v=W9e-GJHJk00
 https://tinyurl.com/y2gu28ph

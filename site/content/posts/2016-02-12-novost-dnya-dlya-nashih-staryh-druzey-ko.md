@@ -4,16 +4,17 @@ title: "Новость дня: для наших старых друзей, ко
 date: 2016-02-12T17:36:00+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1242
 tags:
   - Amazon
-  - NICE
   - HPC
-  - AWS
+  - NICE
   - Cloud
   - Software
+  - AWS
 ---
 
 Новость дня: для наших старых друзей, компании #NICE #Software начинается новая эпоха. Сегодня их компания была куплена, и не кем-то, а самими #Amazon Web Services (#AWS).
 
 Это очень хорошая поддержка для небольшой итальянской компании менее чем из 100 человек.
+
+[NICE to join forces with Amazon Web Services - News & Events - NICE](http://www.nice-software.com/news/-/blogs/nice-to-join-forces-with-amazon-web-services)

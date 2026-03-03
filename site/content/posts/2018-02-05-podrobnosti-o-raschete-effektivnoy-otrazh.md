@@ -4,15 +4,14 @@ title: "Подробности о расчете  эффективной отр�
 date: 2018-02-05T18:00:26+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_770
 tags:
-  - RCS
-  - Delcross
+  - SBR
+  - ANSYS
   - cite_note
   - Savant
-  - SBR
   - HFSS
-  - ANSYS
+  - RCS
+  - Delcross
 images:
   - url: "/assets/images/771.jpg"
 ---
@@ -24,4 +23,14 @@ images:
 
 https://www.youtube.com/watch?v=KtEdoEOay8U
 #ANSYS #Delcross #HFSS #RCS #Savant #SBR+
+https://wp.me/p9vWYY-1BE
+
+https://ru.wikipedia.org/wiki/90BDB3BBB8B981BAB8B9_8FB78BBA
+https://ru.wikipedia.org/wiki/A0B0B4B8BEBBBEBAB086B88F
+https://ru.wikipedia.org/wiki/9FBBBE81BAB08F_B2BEBBBDB0
+https://ru.wikipedia.org/wiki/90BD82B5BDBDB0
+https://ru.wikipedia.org/wiki/A0B0B4B8BEBBBEBAB086B8BEBDBDB08F_8182B0BD86B88F
+https://ru.wikipedia.org/wiki/92B5BA82BE80_9FBEB9BD82B8BDB3B0
+https://ru.wikipedia.org/wiki/AD8484B5BA82B8B2BDB08F_BFBBBE89B0B48C_80B08181B58FBDB88F#cite_note-1
+https://www.youtube.com/watch?v=KtEdoEOay8U
 https://wp.me/p9vWYY-1BE

@@ -4,14 +4,13 @@ title: "Определение усталостной долговечности
 date: 2019-02-11T12:00:44+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1351
 tags:
-  - Fatigue
-  - CAE
   - thermal
-  - download
-  - ACT
+  - Fatigue
   - ANSYS
+  - download
+  - CAE
+  - ACT
 images:
   - url: "/assets/images/1351.jpg"
 ---
@@ -35,3 +34,6 @@ https://catalog.ansys.com/product/5bd702e5393ff657fc70de9e/thermo-mechanical#dow
 https://wp.me/p9vWYY-2hW
 
 by Ян Поженько
+
+https://catalog.ansys.com/product/5bd702e5393ff657fc70de9e/thermo-mechanical#download
+https://wp.me/p9vWYY-2hW

@@ -4,13 +4,12 @@ title: "Продолжаем тему #OpenRadioss: видео инструкц�
 date: 2022-09-15T18:00:04+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2342
 tags:
-  - Radioss
   - OpenRadioss
+  - Altair
+  - Radioss
   - opensource
   - Ubuntu
-  - Altair
 images:
   - url: "/assets/images/2342.jpg"
 ---
@@ -18,3 +17,5 @@ images:
 Продолжаем тему #OpenRadioss: видео инструкция по сборке и запуску #opensource кода под #Ubuntu
 
 #Altair #Radioss https://www.youtube.com/watch?v=He2CsOxNpfQ
+
+https://www.youtube.com/watch?v=He2CsOxNpfQ

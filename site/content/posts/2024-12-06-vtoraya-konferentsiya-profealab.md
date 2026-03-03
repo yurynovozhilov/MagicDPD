@@ -4,7 +4,6 @@ title: "Вторая конференция ProFEALab"
 date: 2024-12-06T13:26:17+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2852
 ---
 
 Вторая конференция ProFEALab
@@ -13,4 +12,7 @@ original_url: https://vk.com/wall-97265142_2852
 
 https://youtu.be/lFIMGDL2z3w?si=Kr2DEvO-ACl16apr
 
+https://youtu.be/oPlDMD1GSoc?si=l9rpYtG0KJxsUWY_
+
+[Вторая конференция ProFEALabConf по Ansys. День 1](https://youtu.be/lFIMGDL2z3w?si=Kr2DEvO-ACl16apr)
 https://youtu.be/oPlDMD1GSoc?si=l9rpYtG0KJxsUWY_

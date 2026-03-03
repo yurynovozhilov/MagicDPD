@@ -4,7 +4,6 @@ title: "HexIGA от VTrails Toolkit"
 date: 2024-04-11T13:41:52+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2682
 ---
 
 HexIGA от VTrails Toolkit
@@ -14,3 +13,5 @@ HexIGA от VTrails Toolkit
 Ссылка на статью в описании к видео ролику.
 
 https://www.youtube.com/watch?v=a_YRhu8yNG4
+
+[VTrails - HexIGA [Tutorial] DemoSynthCAD - Preview](https://www.youtube.com/watch?v=a_YRhu8yNG4)

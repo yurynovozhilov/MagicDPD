@@ -4,7 +4,6 @@ title: "ANSYS ROM Builder/Viewer"
 date: 2019-08-20T13:00:21+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1559
 images:
   - url: "/assets/images/1559.jpg"
 ---

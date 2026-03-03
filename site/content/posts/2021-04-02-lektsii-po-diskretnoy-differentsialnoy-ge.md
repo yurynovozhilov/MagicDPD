@@ -4,12 +4,11 @@ title: "Лекции по дискретной дифференциальной 
 date: 2021-04-02T13:02:37+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_1937
 tags:
+  - training
   - mesh
   - topology
   - cad
-  - training
 ---
 
 Лекции по дискретной дифференциальной геометрии
@@ -55,3 +54,10 @@ https://youtu.be/8JCR6z3GLVI
 #cad #mesh #topology #training
 https://tinyurl.com/ygjbzpz9
 by Юрий Новожилов
+
+[Discrete Differential Geometry - Welcome Video](https://youtu.be/mas-PUA3OvA?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)
+https://youtu.be/8JCR6z3GLVI
+http://www.cs.cmu.edu/~kmcrane/
+https://brickisland.net/DDGSpring2021/
+https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS
+https://tinyurl.com/ygjbzpz9

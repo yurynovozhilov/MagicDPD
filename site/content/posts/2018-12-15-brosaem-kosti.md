@@ -4,11 +4,10 @@ title: "Бросаем кости"
 date: 2018-12-15T17:00:21+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1266
 tags:
-  - CONVERGE
   - FSI
   - CFD
+  - CONVERGE
 images:
   - url: "/assets/images/1267.jpg"
 ---
@@ -18,4 +17,6 @@ images:
 
 
 #CFD #CONVERGE #FSI
+http://bit.ly/2UQfkke
+
 http://bit.ly/2UQfkke

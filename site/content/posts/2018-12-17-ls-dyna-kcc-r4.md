@@ -4,14 +4,13 @@ title: "LS-DYNA KCC R4"
 date: 2018-12-17T17:00:17+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1270
 tags:
-  - SPH
-  - KCC
-  - Concrete
   - RHT
+  - Concrete
+  - SPH
   - CSCM
   - DEFINEADAPTIVESOLIDTOSPH
+  - KCC
 images:
   - url: "/assets/images/1271.jpg"
 ---
@@ -64,4 +63,8 @@ https://ndiastorage.blob.core.usgovcloudapi.net/ndia/2018/intexpsafety/Durant.pd
 Сопутствующая статья:
 https://ndiastorage.blob.core.usgovcloudapi.net/ndia/2018/intexpsafety/DurantPaper.pdf
 #Concrete #CSCM #DEFINEADAPTIVESOLIDTOSPH #KCC #RHT #SPH
+http://bit.ly/2UOZ82Q
+
+https://ndiastorage.blob.core.usgovcloudapi.net/ndia/2018/intexpsafety/Durant.pdf
+https://ndiastorage.blob.core.usgovcloudapi.net/ndia/2018/intexpsafety/DurantPaper.pdf
 http://bit.ly/2UOZ82Q

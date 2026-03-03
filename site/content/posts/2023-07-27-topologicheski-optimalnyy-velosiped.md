@@ -4,7 +4,6 @@ title: "Топологически оптимальный велосипед"
 date: 2023-07-27T15:01:17+00:00
 author: "Yury Novozhilov"
 source: vk
-original_url: https://vk.com/wall-97265142_2482
 ---
 
 Топологически оптимальный велосипед
@@ -14,3 +13,5 @@ original_url: https://vk.com/wall-97265142_2482
 Materialise Magics 3D Print Suite. Данное ПО позволяет смоделировать процесс печати. Остается вопрос, какой CAE решатель они использовали для создания и оптимизации топологии рамы.
 
 https://www.materialise.com/en/inspiration/articles/canyon-sustainable-concept-bike
+
+[Canyon’s 3D-Printed Concept Bike Pushes Sustainability](https://www.materialise.com/en/inspiration/articles/canyon-sustainable-concept-bike)

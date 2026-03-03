@@ -4,7 +4,6 @@ title: "Перерыв на отпуск."
 date: 2016-09-01T09:01:52+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_101
 ---
 
 Перерыв на отпуск.

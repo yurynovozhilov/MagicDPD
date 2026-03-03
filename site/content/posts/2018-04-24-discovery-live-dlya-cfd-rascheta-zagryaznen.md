@@ -4,12 +4,11 @@ title: "Discovery Live для CFD расчета загрязнения окру
 date: 2018-04-24T18:02:42+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_918
 tags:
-  - CFD
   - Discovery
-  - ANSYS
   - CADFEM
+  - ANSYS
+  - CFD
 ---
 
 Discovery Live для CFD расчета загрязнения окружающей среды
@@ -18,5 +17,7 @@ Discovery Live для CFD расчета загрязнения окружающ
 
 Прошу заметить, что благодаря возможностям Discovery Live и GPU NVIDIA, весь расчет выполняется в реальном времени.
 #ANSYS #CADFEM #CFD #Discovery
+
+https://wp.me/p9vWYY-1Ns
 
 https://wp.me/p9vWYY-1Ns

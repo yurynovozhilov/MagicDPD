@@ -4,12 +4,11 @@ title: "Сопряженный теплообмен для CFD"
 date: 2017-05-12T17:01:04+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_349
 tags:
   - LSTC
-  - ICFD
   - CFD
   - LSDYNA
+  - ICFD
 ---
 
 Сопряженный теплообмен для CFD
@@ -20,3 +19,5 @@ https://www.youtube.com/watch?v=YEaJXa-lkSk
 #ICFD #LSDYNA
 
 https://www.youtube.com/watch?v=YEaJXa-lkSk
+
+[ICFD conjugate heat transfer](https://www.youtube.com/watch?v=YEaJXa-lkSk)

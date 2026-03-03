@@ -4,12 +4,11 @@ title: "В современном мире открытых свободных �
 date: 2022-03-17T17:00:12+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2183
 tags:
-  - opensource
-  - mesh
-  - salome
   - HEXABLOCK
+  - salome
+  - mesh
+  - opensource
 images:
   - url: "/assets/images/2183.jpg"
 ---
@@ -17,3 +16,5 @@ images:
 В современном мире открытых свободных КЭ кодов для решения прочностных задач вы можете найти очень много интересных продуктов. Однако большинство из них будет опираться на платформу Salome для пер/постпроцессинга. Ну а самое сложное в любой CAE - это создание хорошего сеточного генератора, которого я пока не находил среди открытых кодов. Однако оказалось, что в Salome есть не только TET сетки - Salome может еще и HEX благодаря системе HEXABLOCK генерации блочной структурированной топологии. Судя по видео, что нашлось в сети после недолгих поисков, удобство работы находится где-то между LS-PrePost BlockM и Ansys ICEM CFD.
 
 #opensource #mesh #salome #HEXABLOCK https://www.youtube.com/watch?v=aFwOo37VGag
+
+https://www.youtube.com/watch?v=aFwOo37VGag

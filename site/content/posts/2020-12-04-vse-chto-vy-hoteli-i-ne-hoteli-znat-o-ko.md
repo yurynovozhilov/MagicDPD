@@ -4,7 +4,6 @@ title: "Все что вы хотели и не хотели знать о ко�
 date: 2020-12-04T13:48:02+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1863
 tags:
   - LS_DYNA
   - ARUP

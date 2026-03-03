@@ -4,14 +4,13 @@ title: "GENESIS - CFD код от GE"
 date: 2019-10-02T13:00:16+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1601
 tags:
-  - NVIDIA
+  - CFD
   - HpMusic
+  - GPU
   - GE
   - HPC
-  - CFD
-  - GPU
+  - NVIDIA
   - GENESIS
 images:
   - url: "/assets/images/1602.jpg"
@@ -34,4 +33,7 @@ GENESIS - CFD код от GE
 
 
 #CFD #GE #GENESIS #GPU #HPC #HpMusic #NVIDIA
+https://bit.ly/2mYKCcQ
+
+[GPUs Power GE Code at OLCF Hackathons](https://www.olcf.ornl.gov/2019/09/12/gpus-power-ge-code-at-olcf-hackathons/)
 https://bit.ly/2mYKCcQ

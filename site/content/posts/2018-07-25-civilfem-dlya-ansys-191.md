@@ -4,11 +4,10 @@ title: "CivilFEM для ANSYS 19.1"
 date: 2018-07-25T18:00:45+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1036
 tags:
   - CivilFEM
-  - ANSYS
   - Ingeciber
+  - ANSYS
 images:
   - url: "/assets/images/1037.jpg"
 ---
@@ -22,4 +21,8 @@ http://www.civilfem.com/civilfem-for-ansys-191-software-overview-2/
 
 
 #ANSYS #CivilFEM #Ingeciber
+http://bit.ly/2Ojb9dB
+
+http://www.civilfem.com/civilfem-for-ansys-191-software-overview/
+http://www.civilfem.com/civilfem-for-ansys-191-software-overview-2/
 http://bit.ly/2Ojb9dB

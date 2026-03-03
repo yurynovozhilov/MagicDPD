@@ -4,16 +4,15 @@ title: "Вебинар по LS-TaSC"
 date: 2019-04-04T18:54:28+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1433
 tags:
   - Oasys
   - LS_TaSC
-  - optimization
-  - ARUP
-  - Free_shape
-  - Topology
-  - Topometry
   - LSTC
+  - Topology
+  - optimization
+  - Free_shape
+  - ARUP
+  - Topometry
 images:
   - url: "/assets/images/1433.jpg"
 ---
@@ -36,3 +35,5 @@ images:
 https://wp.me/p9vWYY-2sB
 
 by Юрий Новожилов
+
+https://wp.me/p9vWYY-2sB

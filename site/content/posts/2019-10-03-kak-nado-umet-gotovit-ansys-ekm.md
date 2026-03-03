@@ -4,16 +4,15 @@ title: "Как надо уметь готовить ANSYS EKM"
 date: 2019-10-03T13:00:22+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1603
 tags:
-  - Fluent
-  - CADFEM
-  - HPC
-  - CFX
-  - EKM
-  - APDL
-  - PBS
   - ANSYS
+  - HPC
+  - APDL
+  - CADFEM
+  - EKM
+  - PBS
+  - CFX
+  - Fluent
 ---
 
 Как надо уметь готовить ANSYS EKM
@@ -28,3 +27,5 @@ tags:
 
 #ANSYS #APDL #CADFEM #CFX #EKM #Fluent #HPC #PBS
 https://bit.ly/2o8Xei5
+
+[Как надо уметь готовить ANSYS EKM - MagicDPD](https://bit.ly/2o8Xei5)

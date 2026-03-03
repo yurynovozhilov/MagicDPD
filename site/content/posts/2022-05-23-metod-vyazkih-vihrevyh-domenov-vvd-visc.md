@@ -4,14 +4,13 @@ title: "Метод вязких вихревых доменов (ВВД, viscous
 date: 2022-05-23T17:00:20+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2275
 tags:
-  - meshless
-  - opensource
   - CFD
-  - VVD
-  - Vvflow
+  - meshless
   - GitHub
+  - Vvflow
+  - VVD
+  - opensource
 images:
   - url: "/assets/images/2276.jpg"
   - url: "/assets/images/2277.jpg"
@@ -25,3 +24,10 @@ https://youtu.be/3mULL6O6f38
 https://youtu.be/kHJ4occRZ4M
 https://youtu.be/9fr2C5RC-6Y
 https://youtu.be/7xr_giqSfRc https://github.com/vvflow/vvflow
+
+[NACA-0012 airfoil with deploying spoiler](https://youtu.be/H-snLmMQK0Y)
+https://youtu.be/3mULL6O6f38
+https://youtu.be/kHJ4occRZ4M
+https://youtu.be/9fr2C5RC-6Y
+https://youtu.be/7xr_giqSfRc
+https://github.com/vvflow/vvflow

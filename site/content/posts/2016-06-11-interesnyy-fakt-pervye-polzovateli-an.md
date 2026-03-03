@@ -4,11 +4,10 @@ title: "Интересный факт: первые пользователи #AN
 date: 2016-06-11T11:18:54+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_1771
 tags:
   - legendpeople
-  - ANSYS
   - edX
+  - ANSYS
   - Cornell
 ---
 

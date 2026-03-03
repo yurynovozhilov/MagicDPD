@@ -4,10 +4,9 @@ title: "Продолжу тему #Endurica. Я немного прошелся 
 date: 2022-05-06T17:00:02+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2246
 tags:
-  - Endurica
   - fatigue
+  - Endurica
 images:
   - url: "/assets/images/2247.jpg"
   - url: "/assets/images/2248.jpg"
@@ -20,3 +19,5 @@ images:
 А вот сейчас мне попалась такая штука, как Endurica DT, и ее инкрементальный подход к разупрочнению материала под действием циклической нагрузки мог бы решить задачу с вертолетом. Короче, смотрите видео сами и добро пожаловать в обсуждение.
 
 #fatigue https://www.youtube.com/watch?v=CHOeAtkF77Y
+
+[Endurica DT Stiffness Loss Cosimulation Demo for a rubber tension fatigue test](https://www.youtube.com/watch?v=CHOeAtkF77Y)

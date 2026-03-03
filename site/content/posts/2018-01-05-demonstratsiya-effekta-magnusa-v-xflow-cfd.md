@@ -4,11 +4,10 @@ title: "Демонстрация Эффекта Магнуса в XFlow CFD"
 date: 2018-01-05T17:01:11+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_696
 tags:
-  - simulion
   - XFlow
   - CFD
+  - simulion
   - Эффект
 images:
   - url: "/assets/images/697.jpg"
@@ -23,4 +22,8 @@ https://youtu.be/SZLzSR3vFG0
 
 https://info.simuleon.com/blog/xflow-cfd-demonstrating-the-magnus-effect
 #CFD #simulion #XFlow #Эффект Магнуса
+https://magicdpd.ru/?p=5825
+
+[SIMULIA Xflow CFD - Demonstrating the Magnus Effect](https://youtu.be/SZLzSR3vFG0)
+https://info.simuleon.com/blog/xflow-cfd-demonstrating-the-magnus-effect
 https://magicdpd.ru/?p=5825

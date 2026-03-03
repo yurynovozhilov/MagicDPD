@@ -4,11 +4,10 @@ title: "#BetaCAE показала BETA Web - возможность удален
 date: 2017-11-03T17:16:53+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_583
 tags:
-  - SpaceClaim
-  - BetaCAE
   - betaweb
+  - BetaCAE
+  - SpaceClaim
   - ANSYS
 ---
 
@@ -20,3 +19,12 @@ tags:
 https://www.youtube.com/watch?v=dRX…Media📼 Connect with your partners through the BETA Web in…
 
 http://ift.tt/2hDa1D7
+
+http://ift.tt/2xkOUMw
+http://ift.tt/2vk2wVv
+http://ift.tt/2vVLrF3
+http://ift.tt/2hCFe9n
+https://www.youtube.com/watch?v=dRXzQCKruJk
+http://ift.tt/2A3iI04
+http://ift.tt/2hDa1D7
+ttp://ift.tt/2hDa1D7

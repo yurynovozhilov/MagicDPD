@@ -4,12 +4,11 @@ title: "Теплый ламповый интрфейс"
 date: 2016-11-11T17:01:16+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_183
 tags:
-  - MAPDL
-  - Mechanical
-  - Workbench
   - ANSYS
+  - Mechanical
+  - MAPDL
+  - Workbench
   - ACT
 ---
 
@@ -21,3 +20,6 @@ https://appstore.ansys.com/download?prodid=APC-ACTAPP-107
 Самое интересное в ACT "Pan/Zoom/Rotate" не возможности - тут ничего сложного нет. Самое интересное - это тот самый интерфейс управления видом, который коллеги бережно взяли из классического #MAPDL и заботливо перенесли в #Workbench. Любители классики оценят этот реверанс в сторону теплого, лампового интерфейса в стиле  OpenMotif.
 
 P.S. Расширение доступно бесплатно для всех пользователей с действительной технической поддержкой.
+
+https://appstore.ansys.com/download?prodid=APC-ACTAPP-107
+http://www.cybernet.co.jp/english/

@@ -4,20 +4,19 @@ title: "Скоро расскажу про LS-DYNA R13"
 date: 2021-09-20T13:01:36+00:00
 author: "MagicDPD"
 source: vk
-original_url: https://vk.com/wall-97265142_2002
 tags:
-  - cadfem
-  - r13
   - sph
   - ansys_lst
-  - efg
-  - ls
-  - cpm
-  - iga
-  - xfem
-  - ansys
   - des
+  - iga
+  - r13
   - airbag
+  - xfem
+  - cpm
+  - ansys
+  - ls
+  - cadfem
+  - efg
 ---
 
 Скоро расскажу про LS-DYNA R13
@@ -37,4 +36,7 @@ tags:
 Бесправная регистрация для участия в "живом" вебинаре доступна по ссылке: https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13/ - приходите и приносите свои вопросы, задавайте их в чате или организуйте научную дискуссию.
 
 #airbag #ansys #ansys_lst #cadfem #cpm #des #efg #iga #ls-dyna #r13 #sph #xfem
+https://tinyurl.com/yg8kvhou
+
+[Новые возможности решателя LS-DYNA R13](https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13/)
 https://tinyurl.com/yg8kvhou
