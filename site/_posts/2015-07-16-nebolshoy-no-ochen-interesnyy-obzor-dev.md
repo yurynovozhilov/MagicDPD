@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Небольшой, но очень интересный обзор Дэвида Бенсона (David J"
+date: 2015-07-16T11:00:31+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_68
+---
+
+

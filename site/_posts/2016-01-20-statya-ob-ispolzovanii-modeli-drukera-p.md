@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Статья об использовании модели Друкера-Прагера вместо модели"
+date: 2016-01-20T18:01:04+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1133
+tags:
+  - ANSYS
+  - Mechanical
+---
+
+

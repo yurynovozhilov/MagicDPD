@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Не в тему - наглядная модель устройства автоматической шести"
+date: 2016-01-10T06:57:43+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1017
+---
+
+

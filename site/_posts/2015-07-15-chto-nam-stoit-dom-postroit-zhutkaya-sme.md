@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Что нам стоит дом построить?! Жуткая смесь ГОСТ, СНИП и МКЭ "
+date: 2015-07-15T11:00:11+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_61
+---
+
+

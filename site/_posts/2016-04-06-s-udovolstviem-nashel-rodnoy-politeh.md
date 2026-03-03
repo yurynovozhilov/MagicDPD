@@ -1,0 +1,13 @@
+---
+layout: post
+title: "С удовольствием нашел родной #Политех (#СПбГПУ) на третьей с"
+date: 2016-04-06T07:00:51+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1537
+tags:
+  - HPC
+  - RSC
+---
+
+
