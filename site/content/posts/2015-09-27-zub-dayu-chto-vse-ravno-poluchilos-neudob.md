@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Зуб даю, что все равно получилось неудобно. Ну вот зачем они"
+date: 2015-09-27T07:00:38+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_421
+tags:
+  - CAD
+  - NX
+  - Siemens
+---
+
+

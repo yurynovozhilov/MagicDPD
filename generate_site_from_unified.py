@@ -12,7 +12,7 @@ from urllib.parse import unquote
 
 ROOT = Path(__file__).resolve().parent
 DATA_PATH = ROOT / "unified_posts.json"
-SITE_POSTS = ROOT / "site" / "_posts"
+SITE_POSTS = ROOT / "site" / "content" / "posts"
 
 # Known source identifiers for building canonical URLs
 VK_OWNER_ID = -97265142  # magicdpd public page

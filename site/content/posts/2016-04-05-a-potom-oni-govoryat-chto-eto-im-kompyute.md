@@ -1,0 +1,12 @@
+---
+layout: post
+title: "А потом они говорят, что это им компьютер посчитал"
+date: 2016-04-05T06:02:56+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1532
+images:
+  - url: "/assets/images/1532.jpg"
+---
+
+

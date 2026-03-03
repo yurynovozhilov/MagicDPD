@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Сегодня я не нашел интересных новостей, поэтому можно залипн"
+date: 2015-07-28T13:19:24+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_124
+---
+
+

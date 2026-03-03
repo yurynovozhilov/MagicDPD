@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Высокопроизводительные вычисления в ANSYS 2019 R1"
+date: 2019-05-16T11:01:12+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1473
+tags:
+  - webinar
+  - HPC
+  - CADFEM
+  - eCADFEM
+  - cloud
+  - ANSYS
+images:
+  - url: "/assets/images/1473.jpg"
+---
+
+Ровно через неделю (23 мая в 14:00) приходите на мой вебинар про HPC и Cloud для ANSYS. Каверзные вопросы приветствуются. Необходима бесплатная регистрация: https://webinars.cadfem-cis.ru/event/hpc/registration/. Ну и вообще, у нас новая прикольная платформа для Web семинаров: https://webinars.cadfem-cis.ru
+
+#ANSYS #CADFEM #cloud #eCADFEM #HPC #webinar
+
+https://wp.me/p9vWYY-2vY
+
+by Юрий Новожилов

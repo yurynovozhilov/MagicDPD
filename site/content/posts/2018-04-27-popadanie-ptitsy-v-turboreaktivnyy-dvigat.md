@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Попадание птицы в турбореактивный двигатель"
+date: 2018-04-27T18:01:08+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_921
+tags:
+  - LS
+  - bird
+  - SPH
+---
+
+Перед нами подборка как учебных, так и демонстрационных видео на тему моделирования попадания SPH птицы-жидкости (*MATNULL и \*EOS\GRUNEISEN) в двигатель коммерческого лайнера.
+#bird strike #LS-DYNA #SPH
+
+https://wp.me/p9vWYY-1NF

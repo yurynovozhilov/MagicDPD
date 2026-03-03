@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Так выглядят люди, которые не хотят пользоваться численным м"
+date: 2015-12-27T13:16:55+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_976
+images:
+  - url: "/assets/images/976.jpg"
+---
+
+

@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Робастное проектирование в COMSOL? Можно, но сложно. По край"
+date: 2015-08-08T13:00:26+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_188
+---
+
+

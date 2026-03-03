@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Все, что вы хотели сделать с электрондвигателем, но боялись "
+date: 2015-07-18T11:00:22+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_80
+---
+
+

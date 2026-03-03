@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Расчет на прочность конструкций, зданий и сооружений. Кресло"
+date: 2015-11-27T21:07:23+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_804
+---
+
+

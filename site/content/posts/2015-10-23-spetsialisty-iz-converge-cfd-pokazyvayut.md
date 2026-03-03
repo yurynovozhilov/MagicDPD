@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Специалисты из #CONVERGE #CFD показывают если не чудеса, то,"
+date: 2015-10-23T18:01:42+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_563
+---
+
+

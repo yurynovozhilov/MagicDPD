@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Очень интересный зверь попался мне на глаза - X2 FIREBIRD от"
+date: 2017-10-30T17:08:42+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_575
+tags:
+  - XplicitComputing
+  - CAD
+  - CFD
+  - FEM
+  - X2FIREBIRD
+---
+
+Насколько мне удалось понять из описания на сайте компании, X2 FIREBIRD это платформа для совместной работы команды CAE инженеров + решатели #FEM и #CFD + инструменты для полготовки #CAD + инструменты для визуализации результатов. В общем - стандартный набор с упором на эффектный интерфейс и совместную работу нескольких человек.
+
+Напрягает правда то, что пока непонятно, насколько хороши решатели в сравнении с классическими мастодонтами рынка CAE. И да, пока у коллеги есть только очень эффектный сайт и только beta версия кода.
+
+#X2FIREBIRD #XplicitComputing
+
+https://www.youtube.com/watch?v=IpB…
+
+https://www.xplicitcomputing.com/ 🔗 Xplicit Computing | Team-Based Computer Aided Engineering Made Easy

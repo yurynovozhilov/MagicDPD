@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Доступна финальная версия программы #ACUM 2017"
+date: 2017-10-27T07:25:21+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_571
+tags:
+  - cadfem
+---
+
+P.S. Второй день - 5 (пять, Карл!!!) отраслевых секций.
+
+#cadfem
+
+http://www.ansysconference.ru/program/ 🔗 Программа | Конференция CADFEM/ANSYS 31.10 - 02.11.2017 г

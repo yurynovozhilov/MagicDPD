@@ -1,0 +1,13 @@
+---
+layout: post
+title: "А как насчет бессеточных методов? Вот например бессеточный м"
+date: 2015-10-10T06:30:09+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_485
+tags:
+  - lsdyna
+  - EFG
+---
+
+

@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Я вчера у ЦНИИ \"Электроприбор\" на конференции рассказывал пр"
+date: 2016-03-17T07:01:26+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1433
+tags:
+  - slamming
+  - ALE
+  - lsdyna
+---
+
+P.S. Хозяйке на заметку: SlideGo оказался единственным средством опубликовать презентацию с интегрированным видео в режиме только для чтения. Знает кто альтернативы?
+
+P.P.S. Волшебная строчка для конвертации видео в формат, понятный HTML5 браузерам:
+ffmpeg -i file.avi -c:v libx264 -pix_fmt yuv420p -movflags faststart file.mp4

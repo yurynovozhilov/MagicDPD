@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Add VK posts from unified_posts.json that are missing from site/_posts/.
+"""Add VK posts from unified_posts.json that are missing from site/content/posts/.
 Only creates new files — never overwrites existing ones.
 """
 import json
@@ -10,7 +10,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 DATA_PATH = ROOT / "unified_posts.json"
-SITE_POSTS = ROOT / "site" / "_posts"
+SITE_POSTS = ROOT / "site" / "content" / "posts"
 
 from generate_site_from_unified import (
     build_post,
@@ -22,7 +22,7 @@ from generate_site_from_unified import (
 
 
 def existing_dates() -> set[str]:
-    """Return set of YYYY-MM-DD prefixes already present in site/_posts/."""
+    """Return set of YYYY-MM-DD prefixes already present in site/content/posts/."""
     return {p.name[:10] for p in SITE_POSTS.glob("*.md")}
 
 
@@ -51,7 +51,7 @@ def main():
     images_index = _build_images_index()
 
     existing = existing_dates()
-    print(f"Existing posts in site/_posts/: {len(existing)} dates")
+    print(f"Existing posts in site/content/posts/: {len(existing)} dates")
 
     added = 0
     skipped_exists = 0

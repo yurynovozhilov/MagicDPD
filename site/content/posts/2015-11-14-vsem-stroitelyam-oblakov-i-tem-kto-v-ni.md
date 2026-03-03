@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Всем строителям облаков, и тем, кто в них хочет переехать чи"
+date: 2015-11-14T18:00:21+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_707
+tags:
+  - Cloud
+  - HPC
+---
+
+
