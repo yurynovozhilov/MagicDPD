@@ -6,12 +6,12 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1680
 tags:
-  - vSMP
   - SMP
   - ScaleMP
   - HPC
+  - vSMP
 images:
   - url: "/assets/images/1680.jpg"
 ---
 
-
+ScaleMP поставил очередной рекорд для систем с общей памятью

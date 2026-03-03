@@ -6,12 +6,15 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1320
 tags:
+  - Mallett_Technology
   - SpaceClaim
   - ANSYS
-  - Mallett_Technology
 images:
   - url: "/assets/images/1320.jpg"
 ---
+
+Вебинар по ANSYS SpaceClaim от Mallett Technology
+
 
 Mallett Technology продолжают серию больших и информативных вебинаров по ключевым модулям ANSYS. В данном видео они расскажут про основное геометрическое ядро платформы — ANSYS SpaceClaim
 

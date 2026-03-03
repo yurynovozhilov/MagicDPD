@@ -1,11 +1,16 @@
 ---
+layout: post
 title: "Что такое перидинамика"
 date: 2020-08-07T13:00:32+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1812"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1812
+tags:
+  - LS_DYNA
+  - peridynamics
+  - peridigm
 images:
   - url: "/assets/images/1812.jpg"
 ---
 
-#LS_DYNA #peridigm #peridynamics
-by GlukRazor
+Что такое перидинамика

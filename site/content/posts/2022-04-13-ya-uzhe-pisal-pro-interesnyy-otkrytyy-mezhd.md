@@ -6,13 +6,16 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_2215
 tags:
+  - MOOSE
+  - Coreform
+  - opensource
   - IGA
   - Cubit
-  - opensource
-  - Coreform
 images:
   - url: "/assets/images/2216.jpg"
 ---
+
+Я уже писал про интересный открытый междисциплинарный решатель "Лось" (#MOOSE или Multiphysics Object-Oriented Simulation Environment).
 
 Так вот, в нем теперь есть поддержка #IGA, и это все стало возможным благодаря совместному проекту с командой  #Coreform #Cubit.
 

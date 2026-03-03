@@ -7,10 +7,11 @@ source: vk
 original_url: https://vk.com/wall-97265142_77
 tags:
   - Autodesk
-  - CFDesign
   - CFD
+  - CFDesign
 ---
 
+Учебные курсы Autodesk Design Academy: CFD
 https://www.youtube.com/playlist?list=PLIv6vwn776aSdFAnDELJ0Y-1t-MUdLI7v
 
 Компания #Autodesk рабом выложила в свободный доступ цикл из 9 лекций посвященных #CFD, составленных совместно с Виргинским университетом (University of Virginia). Естественно, в качестве основного вычислительного инструмента выступает Autodesk Simulation CFD (ранее извечного как #CFDesign).

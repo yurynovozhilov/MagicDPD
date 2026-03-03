@@ -6,7 +6,8 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1504
 tags:
+  - DEM
   - LSDYNA
 ---
 
-
+Space Shuttle и сухой #DEM бассейн. Как же я ему завидую!

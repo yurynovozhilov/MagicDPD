@@ -1,17 +1,19 @@
 ---
-date: 2021-01-18 14:28:40+00:00
-link_previews:
-- description: What would Thor's hammer look like if it would be designed by an engineer.
-    Using CFD simulation and HEEDS to optimize the design of Mjeolnir.
-  image: https://blogs.sw.siemens.com/wp-content/uploads/sites/6/2020/12/Thor_Hammer.jpg
-  title: Thor’s Hammer with a little Simcenter HEEDS-Ooomph! - Simcenter
-  url: https://blogs.sw.siemens.com/simcenter/thors-hammer-with-a-little-heeds-ooomph
-original_url: https://t.me/MagicDPD/1885
-source: tg
-title: Аэродинамика мьёльнира
+layout: post
+title: "Аэродинамика мьёльнира"
+date: 2021-01-18T14:28:40+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1885
+tags:
+  - simula
+  - floefd
+  - cfd
 ---
 
-Я вот вчера последних Мстителей пересматривал. А сегодня увидел, как коллеги при помощи FloEFD исследуют и оптимизируют форму молота Тора для полетов на его "крейсерской" скорости 1239 км/ч. Инженеры развлекаются. 
+Аэродинамика мьёльнира
+
+Я вот вчера последних Мстителей пересматривал. А сегодня увидел, как коллеги при помощи FloEFD исследуют и оптимизируют форму молота Тора для полетов на его "крейсерской" скорости 1239 км/ч. Инженеры развлекаются.
 
 
 

@@ -7,4 +7,4 @@ source: vk
 original_url: https://vk.com/wall-97265142_193
 ---
 
-
+Dassault Systèmes показывают взаимодействие Abaqus и SolidWorks для расчета пластиковой защелки. Может кто знает, "STRESS ENGINEER" - это у них лицензия такая?

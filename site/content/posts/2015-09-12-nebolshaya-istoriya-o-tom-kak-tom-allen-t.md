@@ -7,7 +7,11 @@ source: vk
 original_url: https://vk.com/wall-97265142_347
 tags:
   - lsdyna
+  - ANSYS
+  - Workbech
 ---
+
+Небольшая история о том, как Tom Allen теннисную ракетку в #ANSYS #Workbech LS-DYNA считал.
 
 #lsdyna
 

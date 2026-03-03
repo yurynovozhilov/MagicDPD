@@ -1,18 +1,19 @@
 ---
-date: 2019-09-24 13:08:35+00:00
+layout: post
+title: "CASCON XVI"
+date: 2019-09-24T13:08:35+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1592
+tags:
+  - CADFEM
+  - CASCON
 images:
-- url: /assets/images/1592.jpg
-link_previews:
-- description: Главная
-  image: http://ansysconference.ru/static/templates/cascon2019/dist/images/OG-image.png
-  title: Главная — Конференция CADFEM\ANSYS
-  url: https://ansysconference.ru/
-original_url: https://t.me/MagicDPD/1592
-source: tg
-title: CASCON XVI
+  - url: "/assets/images/1592.jpg"
 ---
 
-Коллеги, я тут закрутился, а до нашей главной конференции уже меньше месяца! Согласно добрым традициям, за 3 дня вы сможете послушать пленарные и технические доклады, а также посетить мастер-классы и демозону. 
+CASCON XVI
+Коллеги, я тут закрутился, а до нашей главной конференции уже меньше месяца! Согласно добрым традициям, за 3 дня вы сможете послушать пленарные и технические доклады, а также посетить мастер-классы и демозону.
 
 
 
@@ -25,5 +26,3 @@ title: CASCON XVI
 
 
 Ну а для тех, кто почему-то еще сомневается, есть фотографии с прошлогоднего мероприятия: https://ansysconference.ru/gallery/
-#CADFEM #CASCON
-by GlukRazor

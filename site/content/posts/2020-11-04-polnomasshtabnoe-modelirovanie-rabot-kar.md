@@ -6,12 +6,13 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1851
 tags:
-  - LS_PrePost
   - DEM
   - LS_DYNA
+  - LS_PrePost
 images:
   - url: "/assets/images/1851.jpg"
 ---
 
+Полномасштабное моделирование работ карьерного экскаватора в комбинированной FE-DEM постановке
 #DEM #LS_DYNA #LS_PrePost
 by Юрий Новожилов

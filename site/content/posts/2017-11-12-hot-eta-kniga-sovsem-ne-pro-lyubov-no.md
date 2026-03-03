@@ -7,4 +7,6 @@ source: vk
 original_url: https://vk.com/wall-97265142_601
 ---
 
+Хоть эта книга совсем не про любовь, но заставила плакать не одну девочку.Media
+
 http://ift.tt/2zEoQNa

@@ -1,18 +1,16 @@
 ---
-date: 2025-08-25 07:51:39+00:00
+layout: post
+title: "Бойтесь, кожаные! ИИ идет за вами!"
+date: 2025-08-25T07:51:39+00:00
+author: "Yury Novozhilov"
+source: vk
+original_url: https://vk.com/wall-97265142_3008
 images:
-- url: /assets/images/3008.jpg
-- url: /assets/images/3009.jpg
-link_previews:
-- description: Today&rsquo;s top 7 Ldv Inc. jobs in United States. Leverage your professional
-    network, and get hired. New Ldv Inc. jobs added daily.
-  image: ''
-  title: 7 Ldv Inc. jobs in United States
-  url: https://www.linkedin.com/jobs/view/4286310712/?refId=TALFZ2X5O769yLNmSqZYiA%3D%3D&trackingId=TALFZ2X5O769yLNmSqZYiA%3D%3D
-original_url: https://t.me/MagicDPD/3008
-source: tg
-title: Бойтесь, кожаные! ИИ идет за вами!
+  - url: "/assets/images/3008.jpg"
+  - url: "/assets/images/3009.jpg"
 ---
+
+Бойтесь, кожаные! ИИ идет за вами!
 
 Должностные обязанности:
 - Создавать и запускать модели для оценки производительности в различных областях.

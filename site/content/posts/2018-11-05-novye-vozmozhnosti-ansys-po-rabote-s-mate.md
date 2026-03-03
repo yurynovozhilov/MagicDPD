@@ -7,16 +7,17 @@ source: vk
 original_url: https://vk.com/wall-97265142_1193
 tags:
   - LEAP
-  - Mechanical
-  - ACP
-  - MaterialAssignmentTool
-  - Composite
   - MaterialDesigner
+  - Composite
+  - ACP
+  - Mechanical
+  - MaterialAssignmentTool
   - ANSYS
 images:
   - url: "/assets/images/1194.jpg"
 ---
 
+Новые возможности ANSYS по работе с материалами
 Еще одно полезное видео от LEAP: на этот раз оно посвящено новым возможностям ANSYS в области работы с материалами. Коллеги расскажут про две новых фишки ANSYS:
 
 Material Designer - модуль расчета прямой гомогенизации (получения эффективных свойств композита на основе испытания представительного элемента объема)

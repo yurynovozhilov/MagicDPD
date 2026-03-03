@@ -1,16 +1,13 @@
 ---
-date: 2023-06-16 15:00:29+00:00
-link_previews:
-- description: Meet Hans - our new human model!Looking back on its many years of experience
-    in the field of human modeling, DYNAmore started to develop its own new human
-    mo...
-  image: https://i.ytimg.com/vi/nwvpIDgRbew/maxresdefault.jpg
-  title: 'This is Hans: Infoday Human Modeling'
-  url: https://www.youtube.com/watch?v=nwvpIDgRbew
-original_url: https://t.me/MagicDPD/2441
-source: tg
-title: 'This is Hans: Infoday Human Modeling'
+layout: post
+title: "This is Hans: Infoday Human Modeling"
+date: 2023-06-16T15:00:29+00:00
+author: "Yury Novozhilov"
+source: vk
+original_url: https://vk.com/wall-97265142_2441
 ---
+
+This is Hans: Infoday Human Modeling
 
 Запись бесплатного информационного дня "Моделирование человека", проведенного 3 мая в Штутгарте компанией DYNAmore
 

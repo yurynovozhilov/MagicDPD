@@ -1,16 +1,18 @@
 ---
-date: 2017-06-10 17:00:10+00:00
-link_previews:
-- description: The Altair Blog is the best way to stay up to date on Altair’s most
-    noteworthy articles, including those from Altair executives and partner organizations.
-  image: https://altair.com/images/default-source/content-images/altair_blog_social.jpg?sfvrsn=a66ac2fa_1
-  title: Altair Blog
-  url: http://innovationintelligence.com/increasing-computational-efficiency-with-the-efea-method/
-original_url: https://t.me/MagicDPD/372
-source: tg
-title: EFEA для решения задач аккустики
+layout: post
+title: "EFEA для решения задач аккустики"
+date: 2017-06-10T17:00:10+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_372
+tags:
+  - FEM
+  - MES
+  - Altair
+  - EFEA
 ---
 
+EFEA для решения задач аккустики
 http://innovationintelligence.com/increasing-computational-efficiency-with-the-efea-method/
 
 Итак, сегодня у нас новая аббривеатура #EFEA - Energy Finite Element Analysis. Это новый подход, разработанный #MES (Michigan Engineering Services, LLC) специально для решения задач акустики для средне и высокочастотных диапазонов. Говорят, что эффективность у них по лучше, чем у обычного #FEM.

@@ -1,16 +1,13 @@
 ---
-date: 2023-08-19 12:22:40+00:00
+layout: post
+title: "Погнали, чё"
+date: 2023-08-19T12:22:40+00:00
+author: "Yury Novozhilov"
+source: vk
+original_url: https://vk.com/wall-97265142_2506
 images:
-- url: /assets/images/2506.jpg
-link_previews:
-- description: 'подкаст Алексея Трухнова "pobalaCAEm с CAE-инженерами". Гость: Юрий
-    НовожиловТелеграмм канал MagicDPD:https://t.me/MagicDPDhttps://instagram.com/alex_truekno...'
-  image: https://i.ytimg.com/vi/fDYhXO5J1qA/maxresdefault.jpg
-  title: 'подкаст "pobalaCAEm с CAE-инженерами". Выпуск 3. Гость: Юрий Новожилов'
-  url: https://youtu.be/fDYhXO5J1qA
-original_url: https://t.me/MagicDPD/2506
-source: tg
-title: Погнали, чё
+  - url: "/assets/images/2506.jpg"
 ---
 
+Погнали, чё
 https://youtu.be/fDYhXO5J1qA

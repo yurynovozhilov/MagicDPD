@@ -6,13 +6,14 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1814
 tags:
-  - LINPACK
-  - RISC
-  - HPC
-  - TOP500
   - HPL
+  - RISC
+  - TOP500
+  - HPC
+  - LINPACK
 ---
 
+"А неведома зверушка"
 Китайцы опять возглавили #TOP500 суперкомпьютеров по версии #HPL (High Perfomance #LINPACK). На этот раз это своя ОС и свои 260 ядерные #RISC процессоры. Вот как надо делать #HPC.
 
 P.S. Интересно, смогу ли специалистов смогут перебрать свой код под такую экзотическую архитектуру?!

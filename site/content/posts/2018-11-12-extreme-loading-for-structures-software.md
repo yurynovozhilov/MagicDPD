@@ -6,15 +6,16 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1207
 tags:
-  - ExtremeLoadingForStructures
-  - AppliedScienceInternational
-  - Concrete
   - ELS
+  - AppliedScienceInternational
+  - ExtremeLoadingForStructures
+  - Concrete
   - AEM
 images:
   - url: "/assets/images/1208.jpg"
 ---
 
+Extreme Loading for Structures Software или просто ELS
 Недавно я искал что-нибудь "интересное" в области расчетов бетона под действием экстремальных нагрузок. И мой любимый поисковик вывел меня на компанию Applied Science International, LLC и их код "Extreme Loading for Structures Software", который для краткости они называют ELS.
 
 Предлагаемое программное обеспечение выполняет расчеты "методом прикладных элементов" (Applied Element Method, AEM), являющимся, по заверениям разработчиков, неким гибридом методов конечных и дискретных элементов.

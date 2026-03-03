@@ -1,12 +1,21 @@
 ---
+layout: post
 title: "Настройка 2-way-FSI в ANSYS"
-date: 2018-10-03T17:00:23+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1132"
-images:
-  - url: "/assets/images/1132.jpg"
+date: 2018-10-03T17:00:24+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1133
+tags:
+  - Fluent
+  - SystemCoupling
+  - FSI
+  - CFD
+  - Mechanical
+  - Workbench
+  - ANSYS
 ---
 
+Настройка 2-way-FSI в ANSYS
 Серия из двух небольших видео, показывающих как настроить двусторонний FSI для нестационарной задачи.
 
 За механику отвечает ANSYS Mechanical, за гидродинамику - ANSYS Fluent.

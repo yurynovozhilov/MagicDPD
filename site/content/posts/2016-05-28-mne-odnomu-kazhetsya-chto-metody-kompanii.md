@@ -6,8 +6,9 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1700
 tags:
-  - optimization
+  - nTopology
   - topology
+  - optimization
 ---
 
-
+Мне одному кажется, что методы компании #nTopology - это новое слово в оптимизации конструкции под аддитивные технологии?

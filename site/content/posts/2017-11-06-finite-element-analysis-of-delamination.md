@@ -7,6 +7,8 @@ source: vk
 original_url: https://vk.com/wall-97265142_591
 ---
 
+Finite Element Analysis of Delamination Growth in Composite Materials using LS-DYNA: Formulation and Implementation of New Cohesive Elements.
+
 Читать можно тут:
 
 http://ift.tt/2lXMIbrMedia

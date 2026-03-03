@@ -6,9 +6,13 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1836
 tags:
+  - ParticleBlst
+  - DEM
+  - DYNAmore
   - LSDYNA
+  - Implicit
 images:
   - url: "/assets/images/1836.jpg"
 ---
 
-
+#DYNAmore подготовил отличную презентацию, описывающую новые возможности LS-DYNA R8.1. Много интересного по #ParticleBlst, #DEM и #Implicit.

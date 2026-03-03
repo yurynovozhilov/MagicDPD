@@ -6,16 +6,17 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1749
 tags:
-  - FSI
+  - LS_DYNA
   - ICFD
+  - FSI
   - CFD
   - FlowVision
-  - LS_DYNA
 images:
   - url: "/assets/images/1749.jpg"
   - url: "/assets/images/1750.jpg"
 ---
 
+Моделирование приводнения возвращаемого аппарата в FlowVision
 #CFD #FlowVision
 by Ян Поженько
 

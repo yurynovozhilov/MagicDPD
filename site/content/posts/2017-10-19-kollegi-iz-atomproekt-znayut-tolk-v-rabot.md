@@ -7,4 +7,6 @@ source: vk
 original_url: https://vk.com/wall-97265142_560
 ---
 
+Коллеги из Атомпроект знают толк в работе😊Media
+
 http://ift.tt/2zyWP9D

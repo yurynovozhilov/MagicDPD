@@ -6,8 +6,8 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_373
 tags:
-  - ANSYS
   - AIM
+  - ANSYS
 ---
 
-
+О том как в ANSYS AIM мост трактора считали, или привыкаем к новому интерфейсу. У меня уже перестал глаз дергаться.

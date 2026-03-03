@@ -6,10 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_386
 tags:
-  - ANSYS
-  - FEA
   - APDL
+  - FEA
+  - ANSYS
 ---
 
+Peter Barrett из CAE Associates рассуждает на тему применения балочных элементов в современных расчетах. И действительно, мы часто забываем, как здорово можно экономить ресурсы применяя правильные инструменты.
 #FEA #ANSYS #APDL
 https://caeai.com/blog/value-beam-elements-structural-analysis

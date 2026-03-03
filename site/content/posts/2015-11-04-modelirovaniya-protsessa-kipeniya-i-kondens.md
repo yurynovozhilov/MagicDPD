@@ -9,4 +9,4 @@ tags:
   - CFD
 ---
 
-
+Моделирования процесса кипения и конденсации в 3D  by Ju Liu из ICES при поддержке Texas Advanced Computing Center (TACC).

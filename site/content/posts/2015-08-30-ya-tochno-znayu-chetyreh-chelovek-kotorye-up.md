@@ -6,8 +6,8 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_292
 tags:
-  - lsprepost
   - lsdyna
+  - lsprepost
 ---
 
-
+Я точно знаю четырех человек, которые упирались в это досадное ограничение формата базы данных LS-DYNA. Как быть, если у вас больше (1E+09)-1 тел? Есть решение!

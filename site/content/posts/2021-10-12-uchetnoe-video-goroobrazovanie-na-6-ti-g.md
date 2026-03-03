@@ -10,6 +10,9 @@ tags:
   - ansys
 ---
 
+Учетное видео: горообразование на 6-ти гранной трубе
+
+
 https://www.youtube.com/watch?v=8ATwsbyY1c4
 
 

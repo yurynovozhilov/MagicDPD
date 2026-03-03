@@ -1,17 +1,16 @@
 ---
-date: 2019-06-13 17:00:26+00:00
+layout: post
+title: "Explicit Mechanics на базе OpenFOAM"
+date: 2019-06-13T17:00:26+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1505
 images:
-- url: /assets/images/1505.jpg
-link_previews:
-- description: Cell centred code for explicit solid dynamics in OpenFOAM - jibranhaider/explicitSolidDynamics
-  image: https://opengraph.githubassets.com/ffa2c52f1c4f9d8c685684f6baf162c1cbe8ba98769209f9f2490464f95bc712/jibranhaider/explicitSolidDynamics
-  title: 'GitHub - jibranhaider/explicitSolidDynamics: Cell centred code for explicit
-    solid dynamics in OpenFOAM'
-  url: https://github.com/jibranhaider/explicitSolidDynamics
-original_url: https://t.me/MagicDPD/1505
-source: tg
-title: Explicit Mechanics на базе OpenFOAM
+  - url: "/assets/images/1505.jpg"
 ---
+
+Explicit Mechanics на базе OpenFOAM
+
 
 Очень любопытная работа, о которой я уже несколько раз упоминал в рамках паблика. Но как оказалось, идея намного глубже: коллеги не учат OpenFOAM считать классическую Explcit схему — коллеги разрабатывают свой собственный подход, который должен быть лишен таких неприятных «фишек» традиционных explicit кодов, как паразитная жесткость при объемных и сдвиговых деформациях, а так же эффект песочных часов.
 
@@ -37,7 +36,7 @@ title: Explicit Mechanics на базе OpenFOAM
 
 
 
-Проект сейчас поддерживает упругие, гиперупргие и упруго-пластические материалы. Расширение совместимо в OpenFOAM 4-6. 
+Проект сейчас поддерживает упругие, гиперупргие и упруго-пластические материалы. Расширение совместимо в OpenFOAM 4-6.
 
 
 

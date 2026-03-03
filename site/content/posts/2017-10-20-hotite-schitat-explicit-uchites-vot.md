@@ -6,18 +6,20 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_563
 tags:
-  - ABAQUS
-  - SHPB
-  - CTH
-  - ALEGRA
-  - LSDYNA
   - LSPP
+  - SHPB
   - ALE3D
-  - RADIOSSMedia
+  - ABAQUS
+  - ALEGRA
   - Blast
   - Taylor
+  - RADIOSSMedia
+  - CTH
+  - LSDYNA
+  - explicit
 ---
 
+Хотите считать #explicit - учитесь! Вот стандартные тестовые задачи для настоящих #explicit кодов:
 - Тест Тейлора (#Taylor Anvil Test)
 - Распространение ударной воны в воздухе (Free Air #Blast)
 - Разрезной стержень Гопкинсона - Кольского (Split Hopkinson Pressure Bar, #SHPB)

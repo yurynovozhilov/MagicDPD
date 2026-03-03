@@ -6,8 +6,15 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_17
 tags:
+  - NVIDIA
+  - DEM
+  - Forsite
+  - Rocky
   - Maxwell
+  - GPU
 ---
+
+Мы немного изучили работу #DEM кода #Rocky на #GPU #NVIDIA и подготовили материал. Получились интересные данные. Спасибо нашим друзьям из компании #Forsite за тестовый стенды.
 
 Так как Rocky использует вычисления на GPU с одинарной точностью, то вот тут-то архитектура NVIDIA #Maxwell показала себя настоящим лидером.
 

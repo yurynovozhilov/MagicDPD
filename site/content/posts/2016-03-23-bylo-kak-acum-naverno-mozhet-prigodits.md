@@ -5,6 +5,10 @@ date: 2016-03-23T15:58:41+00:00
 author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1492
+tags:
+  - ACUM
+  - Concrete
+  - LSDYNA
 ---
 
-
+Было как #ACUM - наверно может пригодится. #Concrete in #LSDYNA

@@ -1,10 +1,19 @@
 ---
+layout: post
 title: "Сверхзвук!"
 date: 2016-08-07T12:00:26+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/73"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_73
+tags:
+  - Sukhoi
+  - Supersonic
+  - CFX
+  - CFD
+  - ANSYS
 ---
 
-Сухой на сверхзвуке в #ANSYS #CFX
+Сверхзвук!
 
-#CFD #Sukhoi #Supersonic
+
+Сухой на сверхзвуке в #ANSYS #CFX

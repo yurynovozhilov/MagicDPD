@@ -7,10 +7,13 @@ source: vk
 original_url: https://vk.com/wall-97265142_2034
 tags:
   - lstc
-  - ansys
   - cadfem
+  - ansys
   - lsdyna
 ---
+
+Новые возможности среды Workbench LS-DYNA 2021 R2
+
 
 https://www.youtube.com/watch?v=KzmY3U428mo
 

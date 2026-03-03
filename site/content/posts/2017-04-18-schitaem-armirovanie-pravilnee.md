@@ -1,13 +1,19 @@
 ---
+layout: post
 title: "Считаем армирование правильнее"
 date: 2017-04-18T08:01:41+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/332"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_332
+tags:
+  - concrete
+  - reinforcement
+  - LSDYNA
 ---
 
+Считаем армирование правильнее
 http://www.feaiej.com/2017/feaiej_q1_2017.pdf
 
-На страница 14-18 прилагаемого журнала рассказывается о новом и более правильном/точном способе учета армирования в железобетонных конструкциях при расчете в #LSDYNA. А все благодаря замене старой страшной карты *CONSTRAINED_LAGRANGE_IN_SOLID на новую *CONSTRAINED_BEAM_IN_SOLID. 
+На страница 14-18 прилагаемого журнала рассказывается о новом и более правильном/точном способе учета армирования в железобетонных конструкциях при расчете в #LSDYNA. А все благодаря замене старой страшной карты *CONSTRAINED_LAGRANGE_IN_SOLID на новую *CONSTRAINED_BEAM_IN_SOLID.
 
 Дополнительный бонус - возможность учета скользящей арматуры. А так, изучаем теорию и применяем в деле.
-#concrete #reinforcement

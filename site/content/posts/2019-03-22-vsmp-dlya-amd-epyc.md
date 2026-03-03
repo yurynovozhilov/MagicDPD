@@ -1,19 +1,24 @@
 ---
-date: 2019-03-22 12:00:19+00:00
+layout: post
+title: "vSMP для AMD EPYC"
+date: 2019-03-22T12:00:19+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1409
+tags:
+  - AMD
+  - ScaleMP
+  - HPC
+  - EPIС
+  - vSMP
 images:
-- url: /assets/images/1409.jpg
-link_previews:
-- description: ''
-  image: http://yourmine.ru/i/parking/glob_parking.png
-  title: "Ð¡Ñ\x80Ð¾Ðº Ñ\x80ÐµÐ³Ð¸Ñ\x81Ñ\x82Ñ\x80Ð°Ñ\x86Ð¸Ð¸ Ð´Ð¾Ð¼ÐµÐ½Ð° magicdpd.ru
-    Ð¸Ñ\x81Ñ\x82Ñ\x91Ðº"
-  url: https://wp.me/p9vWYY-2r5
-original_url: https://t.me/MagicDPD/1409
-source: tg
-title: vSMP для AMD EPYC
+  - url: "/assets/images/1409.jpg"
 ---
 
-Рецепт HPC портно, или как сделать большой сервер за недорого: 
+vSMP для AMD EPYC
+
+
+Рецепт HPC портно, или как сделать большой сервер за недорого:
 
 
 
@@ -26,5 +31,3 @@ title: vSMP для AMD EPYC
 #AMD #EPIС #HPC #ScaleMP #vSMP
 
 https://wp.me/p9vWYY-2r5
-
-by GlukRazor

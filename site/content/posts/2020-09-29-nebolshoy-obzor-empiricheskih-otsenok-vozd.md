@@ -6,10 +6,10 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1834
 tags:
-  - blast
   - ConWep
+  - blast
 images:
   - url: "/assets/images/1834.jpg"
 ---
 
-
+Небольшой обзор эмпирических оценок воздействия взрывов

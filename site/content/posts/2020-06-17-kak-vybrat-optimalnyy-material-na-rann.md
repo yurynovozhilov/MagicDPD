@@ -7,11 +7,12 @@ source: vk
 original_url: https://vk.com/wall-97265142_1783
 tags:
   - CAE
-  - properties
   - material
+  - properties
 images:
   - url: "/assets/images/1783.jpg"
 ---
 
+Как выбрать оптимальный материал на ранних этапах проектирования?
 #CAE #material #properties
 by Ян Поженько

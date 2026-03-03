@@ -6,7 +6,8 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_795
 tags:
+  - DEM
   - lsdyna
 ---
 
-
+Учебный пример на тему #DEM в LS-DYNA. Учимся перемешивать твердые частицы в стакане.

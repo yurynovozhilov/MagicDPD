@@ -6,10 +6,13 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_2056
 tags:
+  - lsdyna
   - hpc
   - ansys
-  - lsdyna
 ---
+
+Суперкомпьютерное моделирование геомеханического состояния массива горных пород
+
 
 https://www.youtube.com/watch?v=HwAURzWXxYE
 

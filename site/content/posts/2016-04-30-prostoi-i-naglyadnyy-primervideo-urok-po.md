@@ -6,8 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1622
 tags:
-  - optimization
   - fluent
+  - optimization
+  - CFD
+  - Adjoint
+  - ANSYS
 ---
 
-
+Простои и наглядный пример/видео урок по работе #ANSYS #Adjoint Solver для оптимизации в #CFD.

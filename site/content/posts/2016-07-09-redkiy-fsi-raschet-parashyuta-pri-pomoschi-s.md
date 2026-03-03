@@ -6,11 +6,17 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_22
 tags:
-  - OpenFSI
+  - Nastran
+  - XFlow
   - FEM
+  - MSC
   - opensource
+  - FSI
   - CFD
+  - OpenFSI
 ---
+
+Редкий #FSI расчет парашюта при помощи связки #XFlow и #Nastran от #MSC - говорят все хорошо сошлось с экспериментами NASA :-)
 
 Двусторонний FSI осуществляется по средствам открытого кода #OpenFSI (http://openfsi.org/)
 

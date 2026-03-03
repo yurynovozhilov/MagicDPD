@@ -6,10 +6,13 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_1956
 tags:
-  - turbulence
   - ai
   - ml
+  - turbulence
 ---
+
+Модели турбулентности на основе машинного обучения
+
 
 https://youtu.be/AgvjPPzy64I
 

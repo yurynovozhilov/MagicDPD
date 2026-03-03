@@ -5,7 +5,17 @@ date: 2017-11-19T08:30:14+00:00
 author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_617
+tags:
+  - science
+  - solidworks
+  - ansys
+  - cae
+  - combat_union
+  - airsoft
+  - airsoft_gear
 ---
+
+#science #solidworks #cae #ansys #airsoft #combat_union #airsoft_gear
 
 Газодинамический расчет работы ЦПГ. Часть I
 

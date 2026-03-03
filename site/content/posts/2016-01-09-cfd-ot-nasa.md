@@ -7,6 +7,7 @@ source: vk
 original_url: https://vk.com/wall-97265142_1012
 tags:
   - HPC
+  - CFD
 ---
 
-
+#CFD от NASA

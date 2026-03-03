@@ -6,11 +6,14 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_1937
 tags:
-  - training
   - mesh
   - topology
   - cad
+  - training
 ---
+
+Лекции по дискретной дифференциальной геометрии
+
 
 https://youtu.be/mas-PUA3OvA?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS
 

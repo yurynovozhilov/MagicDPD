@@ -6,7 +6,8 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1599
 tags:
+  - EDEM
   - DEM
 ---
 
-
+А вы знали, что у #EDEM есть специальный API для реализации собственных контактны алгоритмов?

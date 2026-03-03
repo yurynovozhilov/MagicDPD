@@ -6,9 +6,13 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_646
 tags:
+  - FEATool
   - mesh
+  - Gmsh
   - opensource
 ---
+
+Продолжаем тему #FEATool и #Gmsh - теперь более подробно про создание сеток.
 
 #opensource #mesh
 

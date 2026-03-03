@@ -11,4 +11,4 @@ images:
   - url: "/assets/images/1374.jpg"
 ---
 
-
+Нашел в презентации 2007 года и улыбнулся... more user-friendly - это они про LS-DYNA 😊

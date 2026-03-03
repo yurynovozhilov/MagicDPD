@@ -6,9 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1733
 tags:
-  - mesh
   - OversetMesh
+  - Fluent
+  - mesh
   - CFD
+  - ANSYS
 ---
 
-
+Перекрывающиеся сетки (Overset Mesh) - пожалуй тот функционал, которого давно не хватало #Fluent на фоне конкурентов. И вот, в 17-ой версии #ANSYS он появился. 5-ти минутная демонстрация работы метода прилагается.

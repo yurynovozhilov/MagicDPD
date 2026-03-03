@@ -6,12 +6,13 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_278
 tags:
-  - LSDYNA
-  - ANSYS
   - RSM
   - HPC
+  - ANSYS
+  - LSDYNA
 ---
 
+Еще один способ упростить расчеты LS-DYNA
 http://www.lsdyna-tutorials.com/k-runner
 
 На сайте http://www.lsdyna-tutorials.com/ появился еще один интересный ланчер для расчетов в #LSDYNA. Он позволяет построить настоящую расчетную сеть с клиентами и серверами приложений - прямо как #ANSYS #RSM. Я бы такой развернул на работе, правда, боюсь, что эта штука окажется платной.

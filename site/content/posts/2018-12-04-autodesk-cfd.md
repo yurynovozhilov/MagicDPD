@@ -1,12 +1,18 @@
 ---
+layout: post
 title: "Autodesk CFD"
-date: 2018-12-04T17:00:22+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1243"
+date: 2018-12-04T17:00:23+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1244
+tags:
+  - Autodesk
+  - CFD
 images:
-  - url: "/assets/images/1243.jpg"
+  - url: "/assets/images/1245.jpg"
 ---
 
+Autodesk CFD
 Небольшой ликбез по CFD решениям начального уровня от Autodesk
 
 Разработчики сами позиционируют себя вне весовой категории больших решателей. И тут есть одна беда: если вы пишете код, заточенный в основном на начинающих, не ждите, что им будет пользоваться кто-то другой.

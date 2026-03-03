@@ -1,24 +1,17 @@
 ---
-date: 2021-04-16 13:01:28+00:00
-link_previews:
-- description: Free online courses from leading Russian universities
-  image: ''
-  title: Open Education - Теоретическая механика 1 семестр
-  url: https://openedu.ru/course/spbstu/TMECH/
-- description: Free online courses from leading Russian universities
-  image: ''
-  title: Open Education - Теоретическая механика 2 семестр
-  url: https://openedu.ru/course/spbstu/TMECH2/
-- description: ''
-  image: ''
-  title: URL Shortener, Branded Short Links & Analytics | TinyURL
-  url: https://tinyurl.com/ydvvdnn6
-original_url: https://t.me/MagicDPD/1946
-source: tg
-title: Учим Теормех
+layout: post
+title: "Учим Теормех"
+date: 2021-04-16T13:01:28+00:00
+author: "MagicDPD"
+source: vk
+original_url: https://vk.com/wall-97265142_1946
+tags:
+  - theory
 ---
 
-Коллеги, давайте добавим еще фундаментального образования! Сегодня я предлагаю вам приглядеться к учебным курсам по теоретической механике, которые подготовили в Высшей школе теоретической механике Политеха. К курсу стоит присмотреться хотя бы по тому, что его рекомендует мой одногруппник и настоящий доктор физ-мат. наук Виталий Андреевич Кузькин. 
+Учим Теормех
+
+Коллеги, давайте добавим еще фундаментального образования! Сегодня я предлагаю вам приглядеться к учебным курсам по теоретической механике, которые подготовили в Высшей школе теоретической механике Политеха. К курсу стоит присмотреться хотя бы по тому, что его рекомендует мой одногруппник и настоящий доктор физ-мат. наук Виталий Андреевич Кузькин.
 
 
 
@@ -30,4 +23,3 @@ title: Учим Теормех
 
 #theory
 https://tinyurl.com/ydvvdnn6
-by GlukRazor

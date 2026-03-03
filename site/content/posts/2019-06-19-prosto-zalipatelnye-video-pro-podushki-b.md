@@ -6,13 +6,16 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1510
 tags:
-  - ABAQUS
   - FSI
-  - PFEM
   - Airbag
+  - ABAQUS
+  - PFEM
 images:
   - url: "/assets/images/1510.jpg"
 ---
+
+Просто залипательные видео про подушки безопастности
+
 
 Серия видео с результатом расчета раскрытия подушки безопасности. Поведение газа внутри объема подушки моделируется при помощи  Particle Finite Element Method (PFEM), относящийся к бессточным методам Галеркина.
 

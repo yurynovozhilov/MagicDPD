@@ -5,6 +5,11 @@ date: 2015-12-21T18:00:26+00:00
 author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_939
+tags:
+  - Nastran
+  - Maxflex
+  - Adams
+  - MSC
 ---
 
-
+#MSC добавили в #Adams решатель #Nastran и получили Adams #Maxflex. Примерно таким же путем пойдет ANSYS в 17 версии Mechanical.

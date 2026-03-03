@@ -8,6 +8,9 @@ original_url: https://vk.com/wall-97265142_1828
 tags:
   - DesignX
   - 3DSystems
+  - CAD
+  - SpaceClaim
+  - Geomagic
 ---
 
-
+#Geomagic Design X - специализированное программное обеспечение компании 3D Systems предназначенное для восстановления полноценной #CAD геометрии по данным 3D сканирования. В чем-то оно может дать фору даже #SpaceClaim.

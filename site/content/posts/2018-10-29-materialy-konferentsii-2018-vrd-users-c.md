@@ -6,15 +6,16 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1179
 tags:
+  - Topology
+  - Vrand
+  - GTAM
   - Optimization
   - GENESIS
-  - GTAM
-  - Vrand
-  - Topology
 images:
   - url: "/assets/images/1180.jpg"
 ---
 
+Материалы конференции "2018 VR&D Users Conference"
 Компания VR&D (Vanderplaats R&D) выложила в открытый доступ материалы своей главной годовой конференции.
 
 Если кто не в курсе, то VR&D - это один из лидеров, если вообще не самый крутой игрок на рынке оптимизации топологии, топографии, формы и все подобного.

@@ -7,6 +7,7 @@ source: vk
 original_url: https://vk.com/wall-97265142_927
 tags:
   - CFD
+  - OpenFoam
 ---
 
-
+#OpenFoam водопад для медитации

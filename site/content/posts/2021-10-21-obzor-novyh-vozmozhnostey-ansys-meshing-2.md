@@ -6,11 +6,14 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_2019
 tags:
+  - mes
   - leap
   - ansys
   - meshing
-  - mes
 ---
+
+Обзор новых возможностей Ansys Meshing 2021R2
+
 
 https://www.youtube.com/watch?v=z-wi_Fn_2sY&t=16s
 

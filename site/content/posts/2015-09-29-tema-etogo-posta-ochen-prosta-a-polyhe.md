@@ -6,9 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_428
 tags:
-  - FEM
   - Fracture
+  - FEM
 ---
+
+Тема этого поста очень проста: "A Polyhedral Finite-Element Formulation using Harmonic Shape Functions with Applications to the Modeling of Multi-Physics Fracture Processes". Докладывает некто Joe Bishop из Сандийских национальных лабораторий (Sandia National Laboratories, SNL).
 
 #FEM #Fracture
 

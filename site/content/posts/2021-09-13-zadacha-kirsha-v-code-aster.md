@@ -1,21 +1,18 @@
 ---
-date: 2021-09-13 13:01:29+00:00
-link_previews:
-- description: Gmsh is an open source 3D finite element mesh generator with a built-in
-    CAD engine and post-processor. Its design goal is to provide a fast, light and
-    user-f...
-  image: https://i.ytimg.com/vi/sxah02VvWkY/maxresdefault.jpg
-  title: '[GMSH Aster Tutorial] Solving a Gmsh Model with Code_Aster (Groups, Mesh
-    Format, Solver)'
-  url: https://www.youtube.com/watch?v=sxah02VvWkY
-- description: ''
-  image: ''
-  title: URL Shortener, Branded Short Links & Analytics | TinyURL
-  url: https://tinyurl.com/yj6bzpu5
-original_url: https://t.me/MagicDPD/1997
-source: tg
-title: Задача Кирша в Code_Aster
+layout: post
+title: "Задача Кирша в Code_Aster"
+date: 2021-09-13T13:01:29+00:00
+author: "MagicDPD"
+source: vk
+original_url: https://vk.com/wall-97265142_1997
+tags:
+  - open_source
+  - code_aster
+  - gmesh
 ---
+
+Задача Кирша в Code_Aster
+
 
 https://www.youtube.com/watch?v=sxah02VvWkY
 
@@ -26,4 +23,3 @@ Code_Aster проверенный годам и уважаемый код для
 
 #code_aster #gmesh #open_source
 https://tinyurl.com/yj6bzpu5
-by GlukRazor

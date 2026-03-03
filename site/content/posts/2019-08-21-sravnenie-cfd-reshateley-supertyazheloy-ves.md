@@ -7,13 +7,16 @@ source: vk
 original_url: https://vk.com/wall-97265142_1560
 tags:
   - Siemens
-  - CFD
-  - STAR_CCM
   - Fluent
+  - CFD
   - ANSYS
+  - STAR_CCM
 images:
   - url: "/assets/images/1560.jpg"
 ---
+
+Сравнение CFD решателей супертяжелой весовой категории
+
 
 Большой обзор-сравнение двух главных решателей гидродинамики современности: ANSYS Fluent и Siemens Simcenter STAR-CCM+. И тут у нас идет очень большое перечисление всех фишек всех решателей.
 

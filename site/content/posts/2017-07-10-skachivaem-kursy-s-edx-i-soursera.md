@@ -1,25 +1,29 @@
 ---
-date: 2017-07-10 17:01:02+00:00
-link_previews:
-- description: Coursera Downloader has 2 repositories available. Follow their code
-    on GitHub.
-  image: https://avatars.githubusercontent.com/u/5588942?s=280&v=4
-  title: Coursera Downloader
-  url: https://github.com/coursera-dl
-- description: Tutorial on how to download full courses and videos from edx.org. These
-    are really helpful to skim through a course or do a quick revision before an exam.
-    St...
-  image: https://i.ytimg.com/vi/AvAS835JiTI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG-B4AC0AWKAgwIABABGH8gMCgeMA8=&rs=AOn4CLC-q1KY2rKNmxBgTbLFObPS_AE6ZA
-  title: Download edx courses  to your computer
-  url: https://www.youtube.com/watch?v=AvAS835JiTI
-original_url: https://t.me/MagicDPD/402
-source: tg
-title: Скачиваем курсы с edX и Сoursera
+layout: post
+title: "Скачиваем курсы с edX и Сoursera"
+date: 2017-07-10T17:01:02+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_402
+tags:
+  - pip
+  - Сoursera
+  - CornellX
+  - Cornell
+  - Fluent
+  - opensource
+  - edX
+  - Mechanical
+  - Stanford
+  - ENGR2000X
+  - Python
+  - ANSYS
 ---
 
+Скачиваем курсы с edX и Сoursera
 https://github.com/coursera-dl
 
-Учиться это хорошо! Платформ для обучениях в интернете много. Например #edX и #Cornell проводят отличные курсы #ANSYS #Mechanical и #Fluent (курс #CornellX  #ENGR2000X например). Но иногда хочется скачать себе весь учебный курс на компьютер, что бы иметь возможность пользоваться его материалами offline. 
+Учиться это хорошо! Платформ для обучениях в интернете много. Например #edX и #Cornell проводят отличные курсы #ANSYS #Mechanical и #Fluent (курс #CornellX  #ENGR2000X например). Но иногда хочется скачать себе весь учебный курс на компьютер, что бы иметь возможность пользоваться его материалами offline.
 
 Эта задача уже решена в рамках проекта #opensource проекта Coursera Downloader. Проект состоит из двух очень простых утилит командной строки, написанных на #Python и ставящихся через #pip на любую операционную систему. Утилиты эти носят названия coursera-dl и edx-dl. В сумме они позволяют скачать курсы со следующих порталов:
 - #edX

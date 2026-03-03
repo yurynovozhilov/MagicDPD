@@ -6,7 +6,10 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1757
 tags:
+  - Cloud
+  - Enterprise
+  - ANSYS
   - HPC
 ---
 
-
+Это не хентай - это презентация #ANSYS #Enterprise #Cloud на японском!

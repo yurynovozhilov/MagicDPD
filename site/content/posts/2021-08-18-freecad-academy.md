@@ -1,39 +1,19 @@
 ---
-date: 2021-08-18 13:02:10+00:00
-link_previews:
-- description: All new for 2021 - Flowwie's multi-part FreeCAD 0.19 Basic Course for
-    your perfect start into the world of Open Source CAD with FreeCAD.Learning computer-aid...
-  image: https://i.ytimg.com/vi/u8otDF_C_fw/maxresdefault.jpg
-  title: FreeCAD 0.19 - Basic Course - Part 1 - Your start with FreeCAD (EN)
-  url: https://www.youtube.com/watch?v=u8otDF_C_fw
-- description: I teamed up with the developer of the FreeCAD's Path Workbench (sliptonic)
-    and created a very simple part with FreeCAD part design, which I use as a protecti...
-  image: https://i.ytimg.com/vi/zVl9B3rtZtc/maxresdefault.jpg
-  title: How to model an easy part for CNC machining in FreeCAD - Product Design -
-    Flowwie & sliptonic
-  url: https://www.youtube.com/watch?v=zVl9B3rtZtc
-- description: Introduction to the FreeCAD 0.19 Sketcher Workbench for the brand new
-    Basic Course. Here you will learn the basics about parametric sketching, sketch
-    element...
-  image: https://i.ytimg.com/vi/-9KATZg1PqM/maxresdefault.jpg
-  title: FreeCAD 0.19 - Basic Course - Part 2 - Sketcher Introduction (EN)
-  url: https://www.youtube.com/watch?v=-9KATZg1PqM
-- description: In this episode we have a look at one of the fundamental tutorials
-    from the official FreeCAD documentation. We complete the so called 'Simple Part
-    with Part ...
-  image: https://i.ytimg.com/vi/FVKhejma69U/maxresdefault.jpg
-  title: FreeCAD 0.19 - Tutorial - Simple Part with Part Design (EN)
-  url: https://www.youtube.com/watch?v=FVKhejma69U
-- description: ''
-  image: ''
-  title: URL Shortener, Branded Short Links & Analytics | TinyURL
-  url: https://tinyurl.com/yeyrhsud
-original_url: https://t.me/MagicDPD/1981
-source: tg
-title: FreeCAD Academy
+layout: post
+title: "FreeCAD Academy"
+date: 2021-08-18T13:02:10+00:00
+author: "MagicDPD"
+source: vk
+original_url: https://vk.com/wall-97265142_1981
+tags:
+  - freecad
+  - open_source
+  - cad
 ---
 
-На YouTube канале FreeCAD начали выкладывать свежий учебный курс по данной свободной CAD системе. 
+FreeCAD Academy
+
+На YouTube канале FreeCAD начали выкладывать свежий учебный курс по данной свободной CAD системе.
 
 
 
@@ -65,4 +45,3 @@ https://www.youtube.com/watch?v=FVKhejma69U
 
 #cad #freecad #open_source
 https://tinyurl.com/yeyrhsud
-by GlukRazor

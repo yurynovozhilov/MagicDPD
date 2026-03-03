@@ -1,12 +1,21 @@
 ---
+layout: post
 title: "Учебные видео от Algoryx"
-date: 2018-06-29T18:01:05+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/982"
+date: 2018-06-29T18:01:08+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_983
+tags:
+  - Python
+  - RBD
+  - Algoryx
+  - SpaceClaim
+  - Momentum
 images:
-  - url: "/assets/images/982.jpg"
+  - url: "/assets/images/984.jpg"
 ---
 
+Учебные видео от Algoryx
 Коллеги выложили на своем канале серию коротких видеоуроков по работе в их RBD системе Momentum. Рассмотрен широкий круг вопросов:
 
 Загрузка расширения  Momentum в SpaceClaim и экспорт моделей

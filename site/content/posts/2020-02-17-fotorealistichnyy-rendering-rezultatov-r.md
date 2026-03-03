@@ -6,11 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1702
 tags:
-  - LS_PrePost
   - Blender
   - Paraview
+  - LS_PrePost
 images:
   - url: "/assets/images/1702.jpg"
 ---
 
-
+Фотореалистичный рендеринг результатов расчетов в Blender

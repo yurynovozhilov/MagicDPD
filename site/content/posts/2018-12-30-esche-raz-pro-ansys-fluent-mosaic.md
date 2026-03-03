@@ -1,11 +1,18 @@
 ---
+layout: post
 title: "Еще раз про ANSYS Fluent Mosaic"
-date: 2018-12-30T17:01:07+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1295"
-images:
-  - url: "/assets/images/1295.jpg"
+date: 2018-12-30T17:01:08+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1296
+tags:
+  - Fluent
+  - ANSYS
+  - Mesh
+  - Mosaic
 ---
+
+Еще раз про ANSYS Fluent Mosaic
 
 Сетки потрясающей красоты и сложности во Fluent делаются сравнительно просто.
 
@@ -17,7 +24,7 @@ images:
 
 
 
-Вот интересно, что проще: заставить APDL работать на таких сетках или научить Fluent считать механику? 
+Вот интересно, что проще: заставить APDL работать на таких сетках или научить Fluent считать механику?
 
 #ANSYS #Fluent #Mesh #Mosaic
 http://bit.ly/2Q9xREJ

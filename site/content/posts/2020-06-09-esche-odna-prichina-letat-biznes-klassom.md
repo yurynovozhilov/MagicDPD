@@ -1,9 +1,14 @@
 ---
+layout: post
 title: "Еще одна причина летать бизнес-классом"
 date: 2020-06-09T13:00:38+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1771"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1771
+tags:
+  - CFD
 ---
 
+Еще одна причина летать бизнес-классом
 #CFD
 by Ян Поженько

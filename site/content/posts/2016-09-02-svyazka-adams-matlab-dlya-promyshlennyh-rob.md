@@ -6,11 +6,12 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_102
 tags:
-  - Adams
   - Matlab
+  - Adams
   - MSC
 ---
 
+Связка Adams-Matlab для промышленных роботов
 https://www.youtube.com/watch?v=ztnliqfcvgo
 
 Получасовой вебинар от #MSC, посвященный взаимодействию #Adams и #Matlab, если вам не хватает Easy5

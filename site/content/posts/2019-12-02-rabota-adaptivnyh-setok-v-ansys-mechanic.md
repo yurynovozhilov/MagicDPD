@@ -7,12 +7,13 @@ source: vk
 original_url: https://vk.com/wall-97265142_1648
 tags:
   - mesh
-  - Mechanical
-  - ANSYS
   - NLAD
+  - ANSYS
+  - Mechanical
 images:
   - url: "/assets/images/1648.jpg"
 ---
 
+Работа адаптивных сеток в ANSYS Mechanical
 #ANSYS #Mechanical #mesh #NLAD
 by Юрий Новожилов

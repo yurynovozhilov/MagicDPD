@@ -1,17 +1,19 @@
 ---
-date: 2019-05-04 17:00:21+00:00
+layout: post
+title: "Пре/пост GiD"
+date: 2019-05-04T17:00:21+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1465
+tags:
+  - IGA
+  - GiD
 images:
-- url: /assets/images/1465.jpg
-link_previews:
-- description: ''
-  image: http://yourmine.ru/i/parking/glob_parking.png
-  title: "Ð¡Ñ\x80Ð¾Ðº Ñ\x80ÐµÐ³Ð¸Ñ\x81Ñ\x82Ñ\x80Ð°Ñ\x86Ð¸Ð¸ Ð´Ð¾Ð¼ÐµÐ½Ð° magicdpd.ru
-    Ð¸Ñ\x81Ñ\x82Ñ\x91Ðº"
-  url: https://wp.me/s9vWYY-gid
-original_url: https://t.me/MagicDPD/1465
-source: tg
-title: Пре/пост GiD
+  - url: "/assets/images/1465.jpg"
 ---
+
+Пре/пост GiD
+
 
 В своих поисках наткнулся на сайт неизвестного до сего момента препорста GiD. Разработчики заявляют, что он универсальный, гибкий и дружественный к пользователю. Умеет готовить геометрию, строить сетки и обрабатывать результаты расчетов. ПО разрабатывается с  1987 года в Испании.
 
@@ -30,5 +32,3 @@ title: Пре/пост GiD
 #GiD #IGA
 
 https://wp.me/s9vWYY-gid
-
-by GlukRazor

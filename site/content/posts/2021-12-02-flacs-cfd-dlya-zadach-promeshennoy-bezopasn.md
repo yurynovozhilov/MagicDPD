@@ -6,9 +6,12 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_2044
 tags:
-  - flacs
   - blast
+  - flacs
 ---
+
+FLACS-CFD для задач промешенной безопасности
+
 
 https://www.youtube.com/watch?v=THAiVZSDJDI
 

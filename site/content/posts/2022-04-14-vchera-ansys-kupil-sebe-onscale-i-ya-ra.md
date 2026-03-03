@@ -6,19 +6,23 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_2217
 tags:
-  - Azure
-  - HFSS
-  - Mechanical
-  - HPC
-  - Fluent
   - cloud
-  - AWS
+  - Fluent
+  - HPC
   - WebUI
+  - AWS
+  - Ansys
+  - OnScale
   - opensource
+  - Mechanical
+  - HFSS
+  - Azure
 images:
   - url: "/assets/images/2218.jpg"
   - url: "/assets/images/2219.jpg"
 ---
+
+Вчера #Ansys купил себе #OnScale, и я расскажу почему это важно.
 
 Итак, компания OnScale делала одноименную независимую платформу для  КЭ расчетов в облаке. Идея у них была очень похоже на успешный проект SimScale. Однако, SimScale использовал внутри себя #opensource коды для расчетов, а OnScale решили писать все свое. Кажется, что они просто не оценили трудоемкости написания хороших решателей, вот WebUI вышел вполне себе нормальный.
 

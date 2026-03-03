@@ -6,13 +6,16 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_454
 tags:
-  - Publish3D
+  - Theorem
   - magicdpd
   - 3DPDF
-  - Adobe
-  - ANSYS
+  - Publish3D
   - SpaceClaim
+  - ANSYS
+  - Adobe
 ---
+
+Представляю вам #Theorem Solutions - разработчика Publish 3D. Данное программное обеспечение позволяет встраивать CAD модели прямо в PDF файлы, создавая так навиваемый 3D PDF.
 
 При этом, насколько я понимаю, так как такой формат сертифицирован #Adobe, то для просмотра 3D PDF вам не нужно устанавливать никаких дополнительных плагинов!
 

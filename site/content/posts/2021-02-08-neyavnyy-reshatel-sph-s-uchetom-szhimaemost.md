@@ -7,11 +7,14 @@ source: vk
 original_url: https://vk.com/wall-97265142_1900
 tags:
   - sph
-  - siggraph
-  - snow
   - preonlab
   - fifty2
+  - snow
+  - siggraph
 ---
+
+Неявный решатель SPH с учетом сжимаемости для моделирования снега
+
 
 https://www.youtube.com/watch?v=JSNE_PIG1UQ&feature=share
 

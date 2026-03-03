@@ -6,10 +6,10 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_391
 tags:
-  - Onshape
   - CAE
-  - SimSolid
   - CAD
+  - Onshape
+  - SimSolid
 ---
 
-
+Семина посвященный работе SimSolid (решателя отрицающего сетки) совместно с Onshape.

@@ -6,13 +6,13 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1789
 tags:
-  - FLD
   - LS_DYNA
   - forming
-  - fortran
+  - FLD
   - UMAT
+  - fortran
 images:
   - url: "/assets/images/1789.jpg"
 ---
 
-
+Методичка по штамповке, FLD и UMAT в LS-DYNA

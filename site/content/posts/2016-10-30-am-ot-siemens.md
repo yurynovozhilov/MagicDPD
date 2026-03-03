@@ -1,17 +1,18 @@
 ---
-date: 2016-10-30 17:01:22+00:00
-link_previews:
-- description: New to Additive Manufacturing? Learn more https://www.plm.automation.siemens.com/global/en/our-story/glossary/additive-manufacturing/18749
-  image: https://i.ytimg.com/vi/IDtmy6YorG4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgVyh_MA8=&rs=AOn4CLDXonxXAe7JeP2dT0Gq7clVcXea-A
-  title: Additive Manufacturing Reshapes Everything
-  url: https://www.youtube.com/watch?v=IDtmy6YorG4
-original_url: https://t.me/MagicDPD/167
-source: tg
-title: AM от Siemens
+layout: post
+title: "AM от Siemens"
+date: 2016-10-30T17:01:22+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_167
+tags:
+  - Siemens
+  - AM
 ---
 
+AM от Siemens
 https://www.youtube.com/watch?v=IDtmy6YorG4
 
-Наконец-то у #Siemens  есть хороший маркетинговый материал, и посвящен он #AM (Additive Manufacturing). Выглядит красиво на уровне с рынком. 
+Наконец-то у #Siemens  есть хороший маркетинговый материал, и посвящен он #AM (Additive Manufacturing). Выглядит красиво на уровне с рынком.
 
 https://www.youtube.com/watch?v=IDtmy6YorG4

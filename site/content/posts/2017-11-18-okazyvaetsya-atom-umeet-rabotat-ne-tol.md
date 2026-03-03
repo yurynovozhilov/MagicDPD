@@ -6,12 +6,16 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_615
 tags:
-  - NASTRAN
-  - ANSYS
   - Abaqus
+  - CAE
+  - NASTRAN
   - APDL
+  - LSDYNA
+  - atom
+  - ANSYS
 ---
 
+Оказывается #atom умеет работать не только с синтаксисом #LSDYNA, а тут есть все столпы #CAE:
 - #ANSYS #APDL http://ift.tt/2AaBre6
 - #NASTRAN http://ift.tt/2zLVvDc
 - #Abaqus https://atom.io/packages/language-ansys 🔗 language-ansys

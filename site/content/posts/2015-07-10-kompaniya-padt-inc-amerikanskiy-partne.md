@@ -7,6 +7,8 @@ source: vk
 original_url: https://vk.com/wall-97265142_26
 ---
 
+Компания PADT, Inc., американский партнер ANSYS, Inc., сегодня выкатил набор материалов в помощь специалистам по электромагнетизму - "The Electromechanical Simulation Productivity Kit".
+
 Краткое содержание:
 - ANSYS Maxwell Automation and Customization Application Brief
 - ANSYS Maxwell Magnetic Field Formulation Application Brief

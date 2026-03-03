@@ -1,16 +1,14 @@
 ---
-date: 2025-10-13 14:28:07+00:00
-link_previews:
-- description: Explore the 2026 World University Rankings by Times Higher Education.
-    Compare over 2,000 top universities and discover this year’s leading institutions.
-  image: ''
-  title: World University Rankings 2026 | Times Higher Education (THE)
-  url: https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking
-original_url: https://t.me/MagicDPD/3036
-source: tg
-title: Подоспел новый рейтинг университетов
+layout: post
+title: "Подоспел новый рейтинг университетов"
+date: 2025-10-13T14:28:07+00:00
+author: "Yury Novozhilov"
+source: vk
+original_url: https://vk.com/wall-97265142_3036
 ---
 
-Я понимаю, что это тема для набросов и манипуляций, но очень жалко видеть Питерский Политех где-то в восьмой - девятой сотне. А ведь без хорошего базового образования в нашем деле никуда. 
+Подоспел новый рейтинг университетов
+
+Я понимаю, что это тема для набросов и манипуляций, но очень жалко видеть Питерский Политех где-то в восьмой - девятой сотне. А ведь без хорошего базового образования в нашем деле никуда.
 
 https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking

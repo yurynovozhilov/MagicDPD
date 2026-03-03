@@ -6,17 +6,21 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_438
 tags:
-  - Structural
-  - PrepPost
   - Thermal
-  - Transient
-  - ACCS
+  - Simulation
+  - Cure
+  - PrepPost
+  - Static
+  - Structural
   - Composite
   - ACP
+  - Transient
+  - LMAT
   - ANSYS
-  - Static
+  - ACCS
 ---
 
+Учебное видео на тему работы с #ANSYS #Composite #Cure #Simulation (#ACCS) - программного обеспечения математического моделирования процессов термической полимеризации композиционных материалов на основе технологий компании #LMAT (Lean Manufacturing & Assembly Technologies http://www.lmat-uk.com/).
 Типичный цикл моделирования выглядит примерно следующим образом:
 - Выбор математических моделей материлов из базы #ACCS
 - Задание структуры композитной детали в #ACP (#ANSYS #Composite #PrepPost)

@@ -1,17 +1,17 @@
 ---
-date: 2016-12-23 17:01:35+00:00
-link_previews:
-- description: ''
-  image: https://cdn.comsol.com/wordpress/2016/12/Working-with-COMSOL-Multiphysics-a-good-career-move-featured.jpeg
-  title: How to Run Simulations in Batch Mode from the Command Line
-  url: https://www.comsol.com/blogs/how-to-run-simulations-in-batch-mode-from-the-command-line/
-original_url: https://t.me/MagicDPD/226
-source: tg
-title: Пакетный запуск COMSOL
+layout: post
+title: "Пакетный запуск COMSOL"
+date: 2016-12-23T17:01:35+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_226
+tags:
+  - COMSOL
 ---
 
+Пакетный запуск COMSOL
 https://www.comsol.com/blogs/how-to-run-simulations-in-batch-mode-from-the-command-line/
 
-Очень часто нужно выполнить расчет в пакетно режиме (т.е. вообще без GUI) - тогда надо знать синтаксис командной строки вашего решателя, ибо любой уважающий себя решатель должен уметь работать с командной строкой. 
+Очень часто нужно выполнить расчет в пакетно режиме (т.е. вообще без GUI) - тогда надо знать синтаксис командной строки вашего решателя, ибо любой уважающий себя решатель должен уметь работать с командной строкой.
 
 #COMSOL себя уважает, может, рассказывает как в своем блоге.

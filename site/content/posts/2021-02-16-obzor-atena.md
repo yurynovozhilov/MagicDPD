@@ -1,16 +1,17 @@
 ---
-date: 2021-02-16 14:12:26+00:00
-link_previews:
-- description: Complete overview of capabilities of ATENA simulation system for advanced
-    nonlinear finite element analysis of reinforced concrete structures. After short
-    in...
-  image: https://i.ytimg.com/vi/eeMNiY_kSLw/maxresdefault.jpg
-  title: ATENA Complete Overview
-  url: https://www.youtube.com/watch?v=eeMNiY_kSLw
-original_url: https://t.me/MagicDPD/1907
-source: tg
-title: Обзор ATENA
+layout: post
+title: "Обзор ATENA"
+date: 2021-02-16T14:12:26+00:00
+author: "MagicDPD"
+source: vk
+original_url: https://vk.com/wall-97265142_1907
+tags:
+  - atena
+  - concrete
 ---
+
+Обзор ATENA
+
 
 https://www.youtube.com/watch?v=eeMNiY_kSLw
 

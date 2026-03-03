@@ -6,8 +6,9 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_622
 tags:
-  - STARCCM
   - CDAdapco
+  - FSI
+  - STARCCM
 ---
 
-
+Расчет связанной реологии (что-бы это не значило :-)) и расширенные возможности #FSI в новом релизе STAR-CCM+

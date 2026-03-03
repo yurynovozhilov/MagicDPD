@@ -6,12 +6,13 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1665
 tags:
-  - blastFOAM
   - blast
+  - blastFOAM
   - CFD
 images:
   - url: "/assets/images/1666.jpg"
 ---
 
+Synthetik Applied Technologies и ее blastFoam
 #blast #blastFOAM #CFD
 by Юрий Новожилов

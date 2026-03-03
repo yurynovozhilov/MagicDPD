@@ -1,15 +1,21 @@
 ---
-date: 2016-08-19 06:30:58+00:00
-link_previews:
-- description: ''
-  image: ''
-  title: Before you continue to YouTube
-  url: https://www.youtube.com/playlist?list=PLI39KM_btemwhrhyEBRh8BZ-bGJ3kdWh3
-original_url: https://t.me/MagicDPD/85
-source: tg
-title: Демонстрационные примеры MSC.Dytran
+layout: post
+title: "Демонстрационные примеры MSC.Dytran"
+date: 2016-08-19T06:30:58+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_85
+tags:
+  - Explicit
+  - AUTODYN
+  - MSC
+  - Dytran
+  - LSDYNA
+  - LSTC
+  - ANSYS
 ---
 
+Демонстрационные примеры MSC.Dytran
 https://www.youtube.com/playlist?list=PLI39KM_btemwhrhyEBRh8BZ-bGJ3kdWh3
 
 #MSC (MacNeal-Schwendler Corporation) обновила свой канал на YouTube плейлистом посвященным возможностям решателя #Dytran.

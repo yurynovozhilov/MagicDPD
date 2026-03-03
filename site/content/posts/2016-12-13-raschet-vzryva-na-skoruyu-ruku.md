@@ -1,15 +1,16 @@
 ---
-date: 2016-12-13 17:01:41+00:00
-link_previews:
-- description: ''
-  image: ''
-  title: ''
-  url: http://ro.uow.edu.au/engpapers/357
-original_url: https://t.me/MagicDPD/213
-source: tg
-title: Расчет взрыва на скорую руку
+layout: post
+title: "Расчет взрыва на скорую руку"
+date: 2016-12-13T17:01:41+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_213
+tags:
+  - Friedlander
+  - CONWEP
 ---
 
+Расчет взрыва на скорую руку
 http://www.ewp.rpi.edu/hartford/~cabelb/ENGINEERING_PROJECT/Other/Reference/Simulation%20of%20the%20Effects%20of%20an%20Air%20Blast%20Wave.pdf
 
 Если вам надо быстро посчитать давления, возникающие при взрыве, то вам пригодится методика #CONWEP, уравнения Фридлендера (#Friedlander) или Kingery-Bulmash. Поэтому перелагаю несколько ссылок на хорошие методички с примерами расчетов:

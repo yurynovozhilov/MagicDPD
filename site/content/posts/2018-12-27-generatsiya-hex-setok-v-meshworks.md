@@ -1,23 +1,26 @@
 ---
-date: 2018-12-27 17:00:42+00:00
+layout: post
+title: "Генерация HEX сеток в MeshWorks"
+date: 2018-12-27T17:00:43+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1290
+tags:
+  - MeshWorks
+  - ACP
+  - Mesh
+  - DEP
 images:
-- url: /assets/images/1289.jpg
-link_previews:
-- description: Conventional method of doing Hexa Meshing of a Mid Surface model of
-    bumper sliced from Foam Model
-  image: https://i.ytimg.com/vi/2HXT-G4yAiU/maxresdefault.jpg
-  title: Hexa Meshing using MeshWorks
-  url: https://www.youtube.com/watch?v=2HXT-G4yAiU
-original_url: https://t.me/MagicDPD/1289
-source: tg
-title: Генерация HEX сеток в MeshWorks
+  - url: "/assets/images/1291.jpg"
 ---
+
+Генерация HEX сеток в MeshWorks
 
 Небольшая выдержка из вебинара DEP (Detroit Engineered Products) по генерации hex сеток в их препроцессоре MeshWorks.
 
 
 
-  https://www.youtube.com/watch?v=2HXT-G4yAiU
+https://www.youtube.com/watch?v=2HXT-G4yAiU
 
 
 

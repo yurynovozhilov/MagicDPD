@@ -1,17 +1,19 @@
 ---
-date: 2019-06-08 17:00:34+00:00
+layout: post
+title: "Onshape на DEVELOP3D LIVE 2019"
+date: 2019-06-08T17:00:34+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1501
+tags:
+  - Onshape
+  - cloud
 images:
-- url: /assets/images/1501.jpg
-link_previews:
-- description: ''
-  image: http://yourmine.ru/i/parking/glob_parking.png
-  title: "Ð¡Ñ\x80Ð¾Ðº Ñ\x80ÐµÐ³Ð¸Ñ\x81Ñ\x82Ñ\x80Ð°Ñ\x86Ð¸Ð¸ Ð´Ð¾Ð¼ÐµÐ½Ð° magicdpd.ru
-    Ð¸Ñ\x81Ñ\x82Ñ\x91Ðº"
-  url: https://wp.me/p9vWYY-2yc
-original_url: https://t.me/MagicDPD/1501
-source: tg
-title: Onshape на DEVELOP3D LIVE 2019
+  - url: "/assets/images/1501.jpg"
 ---
+
+Onshape на DEVELOP3D LIVE 2019
+
 
 Jon Hirschtick из Onshape рассказывает о вещах, которым компания научилась за годы (точнее 7 миллионов часов использования) работы как облачная CAD платформа. На самом деле, Джон говорит очень правильные вещи: использование их облачной платформы действительно избавляет компании от огромного количества ограничений, связанных с хранением данных, синхронизацией версий и поддержкой аппаратного обеспечения. Жаль, что действительно сильных CAE систем, работающих так же как Onshape пока нет.
 

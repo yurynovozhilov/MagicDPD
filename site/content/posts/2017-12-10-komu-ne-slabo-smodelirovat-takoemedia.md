@@ -7,4 +7,6 @@ source: vk
 original_url: https://vk.com/wall-97265142_650
 ---
 
+Кому не слабо смоделировать такое?Media📼 Точение металла с наростом на резце в замедленной…
+
 http://ift.tt/2kOeFSQ

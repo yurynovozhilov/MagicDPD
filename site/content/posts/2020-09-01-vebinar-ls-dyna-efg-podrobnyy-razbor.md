@@ -6,11 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1816
 tags:
+  - LS_DYNA
   - CADFEM
   - EFG
-  - LS_DYNA
 images:
   - url: "/assets/images/1816.jpg"
 ---
 
-
+Вебинар «LS-DYNA EFG – подробный разбор с учётом возможностей сеточной адаптации»

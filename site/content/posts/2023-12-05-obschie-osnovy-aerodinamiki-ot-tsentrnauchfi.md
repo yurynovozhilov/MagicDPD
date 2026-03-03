@@ -7,6 +7,8 @@ source: vk
 original_url: https://vk.com/wall-97265142_2593
 ---
 
+Общие основы аэродинамики от ЦЕНТРНАУЧФИЛЬМ
+
 ЦЕНТРНАУЧФИЛЬМ фигни не делает!
 
 https://www.youtube.com/watch?v=cUaUpUp-qVk

@@ -7,4 +7,6 @@ source: vk
 original_url: https://vk.com/wall-97265142_660
 ---
 
+Media📼 Самообучающаяся ходьбе компьютерная модель. (xkcdo…
+
 http://ift.tt/2ClporJ

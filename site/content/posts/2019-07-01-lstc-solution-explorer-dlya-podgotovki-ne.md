@@ -9,6 +9,9 @@ images:
   - url: "/assets/images/1519.jpg"
 ---
 
+LSTC Solution Explorer для подготовки нелинейного расчета LS-DYNA Implicit
+
+
 Публикация с последней конференции LSTC в Германии, про которую я сегодня говорю, это не просто обзор возможностей. Эта публикация (Thomas Borrvall, Wenhui Yu, Chengju Zhang, Zhanqun Zhang, Anders Jernberg, Anders Jonsson, Satish Pathy, «Solution Explorer in LS-PrePost — a GUI for Nonlinear Implicit FE») по сути является подробным учебным примером, показывающим новое виденье LSTC по подготовке к решению и обработке расчетов в LS-DYNA.
 
 

@@ -6,11 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1713
 tags:
+  - Lumerical
   - photonic
   - ANSYS
-  - Lumerical
 images:
   - url: "/assets/images/1713.jpg"
 ---
 
-
+Ansys покупает Lumerical — привет вычистильеная фотоника

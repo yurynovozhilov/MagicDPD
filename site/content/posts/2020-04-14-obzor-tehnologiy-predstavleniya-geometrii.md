@@ -1,11 +1,16 @@
 ---
+layout: post
 title: "Обзор технологий представления геометрии"
 date: 2020-04-14T16:01:11+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1738"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1738
+tags:
+  - B_rep
+  - CAD
+  - STL
 images:
   - url: "/assets/images/1738.jpg"
 ---
 
-#B_rep #CAD #STL
-by GlukRazor
+Обзор технологий представления геометрии

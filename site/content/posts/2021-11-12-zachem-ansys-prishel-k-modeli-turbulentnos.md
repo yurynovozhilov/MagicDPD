@@ -7,6 +7,9 @@ source: vk
 original_url: https://vk.com/wall-97265142_2032
 ---
 
+Зачем Ansys пришел к модели турбулентности GEKO
+
+
 https://youtu.be/c8zKWaxohng
 
 

@@ -6,18 +6,21 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_2341
 tags:
-  - python
-  - pyMAPDL
-  - docker
-  - Workbench
-  - API
-  - FEM
-  - pyDPF
-  - Python
-  - Gmsh
-  - Ansys
   - pyAnsys
+  - pyDPF
+  - pyMAPDL
+  - Workbench
+  - Gmsh
+  - FEM
+  - API
+  - Ansys
+  - opensource
+  - python
+  - Python
+  - docker
 ---
+
+Сегодня я бы хотел высказать пару мыслей про #opensource проект #pyAnsys. Многие мои друзья, с которыми мы обсуждали данный проект, изначально неправильно поняли, что это, и не придали ему должного значения.
 
 Итак, #Python внутри экосистемы #Ansys есть очень давно, так почему все вдруг начала говорить про #pyAnsys? Дело в том, что раньше python выступал только в роли некого внутреннего инструмента помощи в постановки задачи. Вы запускали продукты Ansys, и в них уже могли что-то автоматизировать на python.
 

@@ -6,12 +6,18 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_628
 tags:
-  - Lattice
+  - NVIDIA
+  - CAE
   - DEM
   - HPC
-  - LBM
   - CFD
+  - LBM
+  - Lattice
+  - samadii
+  - CUDA
 ---
+
+Компания Metariver Technology co., ltd (http://www.metariver.kr) специлизируется на создани #CAE софта #samadii максмально использующего возможности библиотеки #CUDA и графический чипов #NVIDIA.
 
 Сейчас у них есть:
 - samadii/sciv (Statistical Contact in Vacuum) - моделирование процессов в вакуумных приборах методом Monte Carlo

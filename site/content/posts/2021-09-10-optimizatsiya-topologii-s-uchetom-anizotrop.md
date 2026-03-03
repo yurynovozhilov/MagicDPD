@@ -6,13 +6,16 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_1996
 tags:
-  - additive_manufacturing
-  - covestro
-  - paramatters
-  - gcode
   - topology
   - optimization
+  - gcode
+  - paramatters
+  - covestro
+  - additive_manufacturing
 ---
+
+Оптимизация топологии с учетом анизотропии при аддитивном производстве
+
 
 https://www.youtube.com/watch?v=EvSfOMYO_mc
 

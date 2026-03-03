@@ -6,17 +6,18 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_359
 tags:
-  - Pancomputing
-  - Simufact
-  - additive_manufacturing
   - Mechanical
+  - FEM
   - MSC
   - FLOW3D
-  - FEM
+  - Pancomputing
   - CFD
+  - Simufact
   - ANSYS
+  - additive_manufacturing
 ---
 
+Direct Metal Deposition или процесс объемной лазерной наплавки
 https://www.youtube.com/watch?v=esBC0WwAX8g
 
 Интересный и очень сложный физический процесс, встречающийся в 3D принтерах, печатающих металлом. Как бы вы стали его моделировать: в #CFD постановке или при помощи #FEM?

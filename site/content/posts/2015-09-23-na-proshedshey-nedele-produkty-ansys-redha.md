@@ -6,11 +6,13 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_407
 tags:
-  - RedHawk
+  - EM
   - Totem
   - ANSYS
-  - EM
+  - RedHawk
 ---
+
+На прошедшей неделе продукты ANSYS RedHawk и Totem были сертифицированы компанией TSMC (Taiwan Semiconductor Manufacturing Company) для применения в разработке чипов по 10 нм техпроцессу.
 
 Для тех кто не в курсе, TSMC является крупнейшим контрактным производителем полупроводниковых микросхем. Его заказчиками являются такие компании как Qualcomm, NVIDIA, AMD, MediaTek, Marvell, Broadcom, Apple и другие.
 

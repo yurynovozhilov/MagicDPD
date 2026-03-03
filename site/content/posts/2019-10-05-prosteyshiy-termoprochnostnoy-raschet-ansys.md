@@ -6,10 +6,10 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1606
 tags:
-  - Mechanical
   - ANSYS
+  - Mechanical
 images:
   - url: "/assets/images/1606.jpg"
 ---
 
-
+Простейший термопрочностной расчет ANSYS Mechanical

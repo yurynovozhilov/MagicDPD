@@ -6,15 +6,16 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_781
 tags:
+  - RADIOSS
+  - Evolve
+  - solidThinking
   - explicit
   - Altair
-  - RADIOSS
-  - solidThinking
-  - Evolve
 images:
   - url: "/assets/images/782.jpg"
 ---
 
+Let's simulate badminton
 Altair team tresents nice technical demo on badminton racquet dinamics.
 
 

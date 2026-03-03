@@ -1,21 +1,23 @@
 ---
-date: 2017-07-28 17:00:18+00:00
-link_previews:
-- description: CalculiX — довольно известный в узких кругах пре/постпроцессор и решатель
-    для задач механики деформируемого твёрдого тела и задач механики жидкости и газа.
-    Основной код полностью написан коллективом...
-  image: https://habr.com/share/publication/370677/024ce9d182999e345c11da3880eb57f7/
-  title: Компиляция CalculiX Extras с поддержкой NVIDIA CUDA и методом Холецкого
-  url: https://geektimes.ru/post/291475/
-original_url: https://t.me/MagicDPD/422
-source: tg
-title: Собираем CalculiX с поддержкой CUDA
+layout: post
+title: "Собираем CalculiX с поддержкой CUDA"
+date: 2017-07-28T17:00:18+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_422
+tags:
+  - NVIDIA
+  - Abaqus
+  - CalculiX
+  - opensource
+  - CUDA
+  - Linux
+  - GPGPU
 ---
 
+Собираем CalculiX с поддержкой CUDA
 https://geektimes.ru/post/291475/
 
 Статья будет полезна инженерам, которые не бояться зайти в командную строку #Linux и понимают, как собирать программы из исходных текстов. Для таких есть отличный бесплатный софт и предложения по его улучшению.
 
 Вам предлагается пошаговая инструкция по компиляции #CalculiX - младшего, бесплатного открытого брата #Abaqus. И это не простая сборка ПО, а компиляция для включения поддержки ускорения решения задач на #GPGPU с поддержкой #CUDA от #NVIDIA
-
-#opensource

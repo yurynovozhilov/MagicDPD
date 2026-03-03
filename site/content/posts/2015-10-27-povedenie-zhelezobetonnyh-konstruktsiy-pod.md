@@ -6,11 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_586
 tags:
-  - concrete
   - lsdyna
-  - reinforcement
   - FEM
+  - reinforcement
+  - concrete
   - damage
 ---
 
-
+Поведение железобетонных конструкций под действием циклического нагруженная. Даже с экспериментом совпали!

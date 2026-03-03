@@ -1,25 +1,24 @@
 ---
-date: 2018-01-12 17:01:44+00:00
+layout: post
+title: "Динамика плавающих тел"
+date: 2018-01-12T17:01:44+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_720
+tags:
+  - NVIDIA
+  - DualSPHysics
+  - SPH
+  - FSI
+  - MoorDyn
+  - GPU
+  - Open
+  - offshore
 images:
-- url: /assets/images/719.jpg
-link_previews:
-- description: The coupling between DualSPHysics and MoorDyn has been validated with
-    experimental data.MoorDyn (www.matt-hall.ca/software/moordyn) has been developed
-    by Mat...
-  image: https://i.ytimg.com/vi/YUSxGXPkYvE/maxresdefault.jpg
-  title: Floating solid box with four mooring lines using DualSPHysics+MoorDyn
-  url: https://www.youtube.com/watch?v=YUSxGXPkYvE
-- description: DualSPHysics has been coupled with the MoorDyn library.MoorDyn is a
-    lumped-mass mooring line model designed for easy coupling with other software
-    (i.e. float...
-  image: https://i.ytimg.com/vi/ToEsV0FDs0I/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAClAWKAgwIABABGC8gZShyMA8=&rs=AOn4CLC1222ki78vBdgH3oqHTSlTb7m9FA
-  title: Numerical simulation of complex mooring lines with DualSPHysics (SPH on GPU)
-  url: https://youtu.be/ToEsV0FDs0I
-original_url: https://t.me/MagicDPD/719
-source: tg
-title: Динамика плавающих тел
+  - url: "/assets/images/721.jpg"
 ---
 
+Динамика плавающих тел
 Вашему вниманию предлагается примеры расчета движения тела на поверхности жидкости. Тело прикреплено швартовыми ко дну и в таком состоянии на него действует волнение.
 
 
@@ -29,5 +28,5 @@ title: Динамика плавающих тел
 https://www.youtube.com/watch?v=YUSxGXPkYvE
 
 https://youtu.be/ToEsV0FDs0I
- #DualSPHysics #FSI #GPU #MoorDyn #NVIDIA #offshore #Open Source #SPH
+#DualSPHysics #FSI #GPU #MoorDyn #NVIDIA #offshore #Open Source #SPH
 https://magicdpd.ru/?p=5914

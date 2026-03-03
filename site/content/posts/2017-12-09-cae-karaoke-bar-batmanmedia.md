@@ -7,4 +7,6 @@ source: vk
 original_url: https://vk.com/wall-97265142_649
 ---
 
+CAE Karaoke bar BatmanMedia
+
 http://ift.tt/2A8XwGx

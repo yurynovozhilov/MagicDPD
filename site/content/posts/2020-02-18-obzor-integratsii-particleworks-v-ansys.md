@@ -1,11 +1,18 @@
 ---
+layout: post
 title: "Обзор интеграции Particleworks в ANSYS"
 date: 2020-02-18T13:00:16+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1703"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1703
+tags:
+  - Prometech
+  - ANSYS
+  - Particleworks
 images:
   - url: "/assets/images/1703.jpg"
 ---
 
+Обзор интеграции Particleworks в ANSYS
 #ANSYS #Particleworks #Prometech
 by Юрий Новожилов

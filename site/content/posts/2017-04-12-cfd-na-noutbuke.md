@@ -1,22 +1,17 @@
 ---
-date: 2017-04-12 17:02:51+00:00
-link_previews:
-- description: Stallion 3D CFD software makes aerodynamics design fast and accurate.
-    Analyze complete aircraft, UAVs, rockets, and wings without complex meshing.
-  image: ''
-  title: Stallion 3D | Aerodynamics & CFD Software for Aircraft, UAVs & Rockets
-  url: http://www.hanleyinnovations.com/stallion3d.html
-- description: The CAD file for the F4U Corsair was obtained from GrabCAD. More information
-    about Stallion 3D can be found at http://www.hanleyinnovations.comThe analysis
-    w...
-  image: https://i.ytimg.com/vi/sWJEh0dj0io/maxresdefault.jpg
-  title: CFD Analysis of a F4U Corsair Airplane using Stallion 3D v 4.0
-  url: https://www.youtube.com/watch?v=sWJEh0dj0io
-original_url: https://t.me/MagicDPD/327
-source: tg
-title: CFD на ноутбуке
+layout: post
+title: "CFD на ноутбуке"
+date: 2017-04-12T17:02:51+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_327
+tags:
+  - HANLEY
+  - Stallion
+  - CFD
 ---
 
+CFD на ноутбуке
 http://www.hanleyinnovations.com/stallion3d.html
 
 Компания #HANLEY INNOVATIONS основанная Патриком Хейли (Dr. Patrick E. Hanley) разарабатывает и продает #CFD код #Stallion 3D, основным посылом которого является возможность выполнить полноценный расчет пнямо на ноутбуке - никаких кластеров больше не надо :-). Stallion сам сгенерирует сетку не упрощая геометрию и быстро выдаст ответ. И даже есть несколько ферификационных тестов, показывающих, что программа считает правильно.

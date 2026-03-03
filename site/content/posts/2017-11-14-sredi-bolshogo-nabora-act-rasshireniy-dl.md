@@ -6,16 +6,19 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_608
 tags:
-  - Workbench
-  - композиты
-  - Homogenization
   - optiSLang
-  - composite
+  - композиты
   - Сybernet
+  - composite
   - DX
   - musthave
+  - Homogenization
+  - Workbench
+  - ANSYS
+  - ACT
 ---
 
+Среди большого набора #ACT расширений для #ANSYS сегодня я нашел кое-что очень полезное для людей занимающихся композитами. Расширение "Multiscale Analysis System" от #Сybernet Systems умеет:
 - генерировать геометрию представительных элемент объема композита или ячеек периодичности
 - выполнять прямую КЭ гомогенизации для представительного элемента
 - записывать полученные таким образом эффективные свойства композита прямо в библиотеку материалов проекта #Workbench

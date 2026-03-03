@@ -7,6 +7,8 @@ source: vk
 original_url: https://vk.com/wall-97265142_2790
 ---
 
+Свежий алгоритм сеточной адаптации в Mechanical
+
 выгляди очень хорошо. А вы как считаете?
 
 https://www.youtube.com/watch?v=EnwlRcFkaJY

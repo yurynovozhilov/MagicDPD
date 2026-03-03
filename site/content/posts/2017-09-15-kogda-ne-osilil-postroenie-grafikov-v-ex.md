@@ -7,4 +7,6 @@ source: vk
 original_url: https://vk.com/wall-97265142_494
 ---
 
+Когда не осилил построение графиков в Excel
+
 https://youtu.be/QR8uHND_69EMedia🔗 pantograph Mechanism Simulation

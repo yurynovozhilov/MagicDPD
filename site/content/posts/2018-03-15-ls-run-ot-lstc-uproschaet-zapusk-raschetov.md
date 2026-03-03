@@ -6,14 +6,15 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_851
 tags:
-  - LSDYNA
   - LSTC
   - HPC
   - LSRun
+  - LSDYNA
 images:
   - url: "/assets/images/852.jpg"
 ---
 
+LS-Run от LSTC упрощает запуск расчетов LS-DYNA
 Одна маленькая бесплатная утилита от LSTC, идущая в составе с LS-PrePost, начиная с версии 4.5 или скачиваемая отдельно с ftp.lstc.com, решает сразу кучу задач:
 
 Взаимодействие с сервером лицензий

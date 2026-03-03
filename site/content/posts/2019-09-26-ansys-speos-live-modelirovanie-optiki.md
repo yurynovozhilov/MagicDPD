@@ -6,13 +6,14 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1594
 tags:
+  - NVIDIA
   - SPEOS
+  - ANSYS
   - Optics
   - Live
-  - NVIDIA
-  - ANSYS
 images:
   - url: "/assets/images/1594.jpg"
 ---
 
+ANSYS SPEOS Live — моделирование оптики в реальном времени
 ANSYS SPEOS — это у нас софт для расчета оптики. Про него есть несколько видеоуроков — смотрите хештеги в данном паблике. А у SPEOS есть еще такая фишка, как ANSYS SPEOS Live. Это уже система, позволяющая делать рендеринг в реальном времени на видеокартах NVIDIA и на основе точных математических и физических законов. И про нее есть отличное техническое демо от ARRK в блоге ANSYS: https://www.ansys.com/blog/optimize-optical-designs-using-real-time-simulation — там еще и видеодемонстрация есть.

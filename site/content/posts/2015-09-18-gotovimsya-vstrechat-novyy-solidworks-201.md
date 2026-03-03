@@ -7,9 +7,11 @@ source: vk
 original_url: https://vk.com/wall-97265142_384
 tags:
   - CAD
-  - FEA
   - SolidWorks
+  - FEA
 ---
+
+Готовимся встречать новый SolidWorks 2016
 
 #CAD #SolidWorks #FEA
 

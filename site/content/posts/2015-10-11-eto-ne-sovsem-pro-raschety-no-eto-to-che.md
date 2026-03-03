@@ -6,15 +6,17 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_494
 tags:
-  - Azure
-  - HyperV
-  - Nvidia
-  - HPC
   - Microsoft
-  - Tesla
   - DDA
+  - Tesla
+  - HPC
   - GRID
+  - Nvidia
   - Cloud
+  - HyperV
+  - Azure
 ---
+
+Это не совсем про расчеты, но это то, чем мы все скоро будем пользоваться. Спецы рассказывают, о работе NVIDIA Tesla K80 и Quadro M60 в облако Azure. Более того, у Microsoft наконец-то появилась технология проброски физического железа в виртуальную среду под названием DDA (Discrete Devices Assignment). А если учесть, что в основе Azure находятся технологии Hyper-V, то скоро нас ждет еще и очень сильная конкурентная борьба с VMware.
 
 Лично я не могу дождаться, когда инстансы N-типа будут доступны нам - очень хочется проверить задержки при удаленной визуализации через DCV.

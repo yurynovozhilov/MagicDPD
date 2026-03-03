@@ -11,6 +11,9 @@ tags:
   - dynamore
 ---
 
+Последние достижения в области моделирования материалов в LS-DYNA
+
+
 https://www.youtube.com/watch?v=6ae7j2Hk07k
 
 

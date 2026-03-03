@@ -6,9 +6,9 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_423
 tags:
-  - OpenFOAM
   - OpenSource
+  - OpenFOAM
   - SimScale
 ---
 
-
+OpenSource это хорошо! Главное уметь его готовить. Мне очень нравится подходи SimScale. Они не занимаются конструированием велосипедов - они развивают известные проекты с открытым кодом.

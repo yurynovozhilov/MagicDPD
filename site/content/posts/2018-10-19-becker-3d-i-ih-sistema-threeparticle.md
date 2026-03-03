@@ -1,18 +1,20 @@
 ---
-date: 2018-10-19 17:01:59+00:00
+layout: post
+title: "BECKER 3D и их система ThreeParticle"
+date: 2018-10-19T17:02:00+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1159
+tags:
+  - DEM
+  - ThreeParticle
+  - Rocky
+  - BECKER3D
 images:
-- url: /assets/images/1158.jpg
-link_previews:
-- description: ThreeParticle/CAE the All-in-one multiphysics simulation software as
-    a combined solution of DEM, MBD, FEM, SPH and many more.
-  image: ''
-  title: Discrete Element Method (DEM) Simulation Software with MBD, FEM & SPH
-  url: https://www.becker3d.com/
-original_url: https://t.me/MagicDPD/1158
-source: tg
-title: BECKER 3D и их система ThreeParticle
+  - url: "/assets/images/1160.jpg"
 ---
 
+BECKER 3D и их система ThreeParticle
 Компания BECKER 3D GmbH (https://www.becker3d.com/) - еще один разработчик систем для расчетов сыпучих сред в DEM постановке.
 
 Разрабатываемая ими система, носящая название ThreeParticle, может работать с частицами любой формы и даже учитывать их деформации. Однако, разрушения как Rocky DEM я в описании не увидел. Есть модели износа и даже есть возможность учета теплопроводности.

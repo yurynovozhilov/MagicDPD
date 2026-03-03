@@ -1,19 +1,18 @@
 ---
-date: 2019-07-08 17:00:35+00:00
+layout: post
+title: "Учебные материалы по LS-PrePost"
+date: 2019-07-08T17:00:35+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1524
 images:
-- url: /assets/images/1524.jpg
-link_previews:
-- description: ''
-  image: http://yourmine.ru/i/parking/glob_parking.png
-  title: "Ð¡Ñ\x80Ð¾Ðº Ñ\x80ÐµÐ³Ð¸Ñ\x81Ñ\x82Ñ\x80Ð°Ñ\x86Ð¸Ð¸ Ð´Ð¾Ð¼ÐµÐ½Ð° magicdpd.ru
-    Ð¸Ñ\x81Ñ\x82Ñ\x91Ðº"
-  url: https://wp.me/p9vWYY-2AV
-original_url: https://t.me/MagicDPD/1524
-source: tg
-title: Учебные материалы по LS-PrePost
+  - url: "/assets/images/1524.jpg"
 ---
 
-Компания Simware — тайваньский партнер LSTC — подготовили целый интерактивный сайт с учебными примерами по LS-PrePost. На сайте есть удобная навигация, инструкции, исходные модели и ссылки на видео с пошаговым разбором заданий. Все это на английском и почти без иероглифов. 
+Учебные материалы по LS-PrePost
+
+
+Компания Simware — тайваньский партнер LSTC — подготовили целый интерактивный сайт с учебными примерами по LS-PrePost. На сайте есть удобная навигация, инструкции, исходные модели и ссылки на видео с пошаговым разбором заданий. Все это на английском и почти без иероглифов.
 
 
 

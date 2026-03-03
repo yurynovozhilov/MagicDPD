@@ -9,4 +9,4 @@ images:
   - url: "/assets/images/1612.jpg"
 ---
 
-
+И я там был, мед-пиво...

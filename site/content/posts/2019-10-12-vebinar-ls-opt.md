@@ -1,11 +1,18 @@
 ---
+layout: post
 title: "Вебинар LS-OPT"
 date: 2019-10-12T13:00:45+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1612"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1612
+tags:
+  - Oasys
+  - optimization
+  - ARUP
+  - LS_OPT
+  - LSTC
 images:
   - url: "/assets/images/1612.jpg"
 ---
 
-#ARUP #LS_OPT #LSTC #Oasys #optimization
-by GlukRazor
+Вебинар LS-OPT

@@ -6,17 +6,18 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_366
 tags:
-  - concrete
+  - Explicit
   - AUTODYN
+  - RTH
   - ANYS
+  - GRS
+  - concrete
+  - LSDYNA
   - RHT
   - LSTC
-  - LSDYNA
-  - GRS
-  - Explicit
-  - RTH
 ---
 
+Реализации модели RHT (RTH) в LS-DYNA и AUTODYN
 http://www.dynalook.com/11th-european-ls-dyna-conference/concrete-penetration/comparison-of-the-rht-concrete-material-model-in-ls-dyna-and-ansys-autodyn/view
 
 Модель материала для предсказания поведения высокопрочного и сверх высокопрочного бетона #RHT или #RTH является пожалуй одной из самых известных моделей в своей области. Она названа по инициалам ученых, разработавших ее: Riedel, Hiermaier и Thoma.

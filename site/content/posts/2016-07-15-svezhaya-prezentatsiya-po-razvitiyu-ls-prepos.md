@@ -1,24 +1,24 @@
 ---
 layout: post
 title: "Свежая презентация по развитию LS-PrePost 4.3 от #LSTC - нав"
-date: 2016-07-15T13:00:48+00:00
+date: 2016-07-15T13:00:53+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_36
+original_url: https://vk.com/wall-97265142_40
 tags:
-  - CASE
-  - BEM
+  - LSPP
   - ICFD
   - CFD
   - LSDYNA
-  - LSPP
-images:
-  - url: "/assets/images/37.jpg"
+  - LSTC
+  - CASE
+  - BEM
 ---
 
+Свежая презентация по развитию LS-PrePost 4.3 от #LSTC - наверно лучшего (а еще и совершенно бесплатного) перпоста для LS-DYNA. Мне больше всего понравились 3 фишки:
 - Специальный модуль для настроки задач акустики решаемых методом граничных элементов ( #BEM )
 - Разработка нового интерфейса для работы с #CFD решателм ( #ICFD и #CASE )
 - Сборка нерегулятной простаноственной КЭ сетки из облака точек
 
 #LSDYNA #LSPP
-https://vk.com/doc11568_437666321
+http://lnk.al/1Gyt

@@ -6,8 +6,9 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_343
 tags:
-  - Caedium
   - Symscape
+  - Caedium
+  - CFD
 ---
 
-
+Symscape "продули" лист бумаги в Caedium Professional для того, что визуализировать силы действующие на бумажные самолетики. Вот и еще один #CFD код, вот и еще один домашний эксперимент.

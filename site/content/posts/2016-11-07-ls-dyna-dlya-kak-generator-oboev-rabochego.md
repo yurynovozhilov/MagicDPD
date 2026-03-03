@@ -8,10 +8,13 @@ original_url: https://vk.com/wall-97265142_178
 tags:
   - Workbench
   - ANSYS
-  - LSDYNA
   - ACT
+  - LSDYNA
 images:
   - url: "/assets/images/178.jpg"
 ---
+
+LS-DYNA для как генератор обоев рабочего стола
+
 
 Это не баг при визуализации результатов расчетов #ANSYS #Workbench #LSDYNA #ACT - это фича по созданию психоделических обоев для рабочего стола 😄

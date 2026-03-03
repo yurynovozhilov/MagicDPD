@@ -1,23 +1,16 @@
 ---
-date: 2019-02-08 15:00:59+00:00
+layout: post
+title: "Моделирование резки металла — стажировка"
+date: 2019-02-08T15:00:59+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1347
 images:
-- url: /assets/images/1347.jpg
-link_previews:
-- description: Main setup:*SECTION_SOLID_SPG_TITLE$#,secid, elform,aet,1,47,0$#,dx,
-    dy, dz, ispline, kernel, lscale, smstep, swtime1.5,1.5,1.5,0,1,0.0,10,0.0$#, idam,
-    fs,st...
-  image: https://i.ytimg.com/vi/13lmxtjfD3A/maxresdefault.jpg
-  title: 'Metal cutting in LS-DYNA with SPG: Effective plastiс strain'
-  url: https://youtu.be/13lmxtjfD3A
-- description: Effective plastiс strainMain setup:*SECTION_SOLID_SPG_TITLE$#,secid,
-    elform,aet,1,47,0$#,dx, dy, dz, ispline, kernel, lscale, smstep, swtime1.5,1.5,1.5,0,1,0...
-  image: https://i.ytimg.com/vi/AGYxE3FfRAE/maxresdefault.jpg
-  title: 'Metal cutting in LS-DYNA with SPG: Deformation'
-  url: https://youtu.be/AGYxE3FfRAE
-original_url: https://t.me/MagicDPD/1347
-source: tg
-title: Моделирование резки металла — стажировка
+  - url: "/assets/images/1347.jpg"
 ---
+
+Моделирование резки металла — стажировка
+
 
 Я опять ищу учеников! На этот раз это не бетоны — это резка, вырубка, фрезеровка и сверление металла. Все это обычно называют distructive manufacturing. Мы будем учиться моделировать эти технологические процессы самыми передовыми бессеточными методами, заложенными в LS-DYNA.
 
@@ -26,7 +19,7 @@ title: Моделирование резки металла — стажиров
 
 
 
-  https://youtu.be/13lmxtjfD3A
+https://youtu.be/13lmxtjfD3A
 
 
 
@@ -34,7 +27,7 @@ title: Моделирование резки металла — стажиров
 
 
 
-  https://youtu.be/AGYxE3FfRAE
+https://youtu.be/AGYxE3FfRAE
 
 
 

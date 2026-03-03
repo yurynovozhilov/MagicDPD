@@ -6,11 +6,14 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_1905
 tags:
-  - airbag
-  - ls
-  - cpm
   - ale
+  - ls
+  - airbag
+  - cpm
 ---
+
+Подходы к моделированию подушек безопастности
+
 
 https://www.youtube.com/watch?v=MI_u7HEnbyQ
 

@@ -1,12 +1,22 @@
 ---
+layout: post
 title: "HVAC расчеты в SimScale"
-date: 2018-06-21T18:00:30+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/963"
+date: 2018-06-21T18:00:31+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_964
+tags:
+  - HVAC
+  - BIM
+  - CFD
+  - Rhino
+  - Simscale
 images:
-  - url: "/assets/images/963.jpg"
+  - url: "/assets/images/965.jpg"
+  - url: "/assets/images/966.jpg"
 ---
 
+HVAC расчеты в SimScale
 Коллеги из SimScale совместно со специалистами Rhino записали вебинар по CFD расчетам для определения HVAC. HVAC - Heating, Ventilation, and Air Conditioning - вроде как по-русски означает расчет комфортности.
 Запись вебинара доступна по ссылке или на YouTube.
 

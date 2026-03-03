@@ -1,12 +1,19 @@
 ---
+layout: post
 title: "Новые проекты в ANSYS Hall of Fame"
 date: 2018-01-15T17:00:55+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/725"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_726
+tags:
+  - Hall
+  - ANSYS
+  - competition
 images:
-  - url: "/assets/images/725.jpg"
+  - url: "/assets/images/727.jpg"
 ---
 
+Новые проекты в ANSYS Hall of Fame
 На сайте ANSYS опубликованы победители конкурса ANSYS Hall of Fame за 2018 год. Большинство работ связано с  CFD расчетами, однако я смог найти и то, что интересно мне.
 
 
@@ -18,5 +25,5 @@ images:
 А еще очень интересным показался проект "Uppsala University and Vasa Museum" - исследование процесса деформации знаменитого шведского парусника Васа, который был поднят со дна и превращён в знаменитый музей в Стокгольме.
 
 Остальные проекты можно увидеть на странице ANSYS Hall of Fame:  http://www.ansys.com/Other/Hall-of-Fame
- #ANSYS #competition #Hall of Fame
+#ANSYS #competition #Hall of Fame
 https://magicdpd.ru/?p=5952

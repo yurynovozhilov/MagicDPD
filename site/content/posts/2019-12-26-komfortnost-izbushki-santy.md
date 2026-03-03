@@ -1,11 +1,18 @@
 ---
+layout: post
 title: "Комфортность избушки Санты"
 date: 2019-12-26T13:01:01+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1668"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1668
+tags:
+  - simulationfriday
+  - Simscale
+  - CFD
 images:
   - url: "/assets/images/1668.jpg"
 ---
 
+Комфортность избушки Санты
 #CFD #Simscale #simulationfriday
 by Юрий Новожилов

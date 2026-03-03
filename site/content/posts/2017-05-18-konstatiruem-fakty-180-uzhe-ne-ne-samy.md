@@ -6,10 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_355
 tags:
-  - ANSYS
   - SpaceClaim
+  - ANSYS
 ---
 
+Констатируем факты - 18.0 уже не не самый свежий релиз ANSYS
 http://www.prnewswire.com/news-releases/ansys-181-expands-pervasive-engineering-simulation-300457825.html
 
 В понедельник #ANSYS выкатил очередную большую версию своего ПО - R18.1. Нововведения есть и их много. Особенно порадовала топологическая оптимизация и #SpaceClaim.

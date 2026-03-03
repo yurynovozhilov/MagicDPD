@@ -5,6 +5,10 @@ date: 2016-05-12T11:03:01+00:00
 author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1648
+tags:
+  - CFD
+  - Cloud
+  - CONSELF
 ---
 
-
+Сегодня, в 16:00 пройдет вебинар #CONSELF #Cloud Simulation посвященный применению #CFD расчетов к городской застройке.

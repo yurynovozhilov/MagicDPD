@@ -6,10 +6,10 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1792
 tags:
-  - CADFEM
   - HPC
+  - CADFEM
 images:
   - url: "/assets/images/1792.jpg"
 ---
 
-
+Как построить суперкомпьютер из старого учебного класса. Дёшево :-)

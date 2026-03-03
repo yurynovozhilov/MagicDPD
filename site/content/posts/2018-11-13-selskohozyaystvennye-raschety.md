@@ -1,12 +1,18 @@
 ---
+layout: post
 title: "Сельскохозяйственные расчеты"
-date: 2018-11-13T17:00:21+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1208"
+date: 2018-11-13T17:00:22+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1209
+tags:
+  - DEM
+  - Rocky
 images:
-  - url: "/assets/images/1208.jpg"
+  - url: "/assets/images/1210.jpg"
 ---
 
+Сельскохозяйственные расчеты
 На раз вскапываем поле
 
 На два - уже сортируем урожай картошки

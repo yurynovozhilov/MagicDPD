@@ -1,11 +1,19 @@
 ---
+layout: post
 title: "Большой вебинар по ANSYS Meshing"
 date: 2018-12-26T17:01:05+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1287"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1288
+tags:
+  - ANSYS
+  - MallettTechnology
+  - Meshing
 images:
-  - url: "/assets/images/1287.jpg"
+  - url: "/assets/images/1289.jpg"
 ---
+
+Большой вебинар по ANSYS Meshing
 
 Mallett Technology записали часовое видео по работе с ANSYS Meshing. Пожалуй это самый подробный разбор всех его воможностей - материалы собраны на сонове снатдарных учебных курсов и не только.
 

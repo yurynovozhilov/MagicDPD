@@ -6,14 +6,15 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1040
 tags:
-  - DigitalTwin
   - Fatigue
-  - TrueLoad
   - WolfStarTechnologies
+  - TrueLoad
+  - DigitalTwin
 images:
   - url: "/assets/images/1041.jpg"
 ---
 
+True-Load - настояще нагрузки для вашей КЭ модели
 Как-то раз у меня уже проскакивала новость про True-Load, и их дружбу с ANSYS Workbench. Помнится тогда, мы так и не нашли правды: чем эта дружба так полезна для инженеров. Теперь настало время разобраться в True-Load, тем более, что мне на глаза попалась запись часового вебинара от создателя технологии.
 
 Итак, True-Load (https://www.wolfstartech.com/true-load), разработка Wolf Star Technologies LLC, позволяет вам сформировать условия и историю нагружения конструкции, которые будут использоваться при расчете долговечности. Алгоритм работы True-Load таков:

@@ -1,18 +1,33 @@
 ---
+layout: post
 title: "Немного аналитических выкладок в SciPy"
 date: 2016-12-24T17:01:27+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/228"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_228
+tags:
+  - Matlab
+  - GitHub
+  - SciPy
+  - SymPy
+  - Maple
+  - NumPy
+  - CPython
+  - Mayavi
+  - Python
+  - Matplotlib
+  - Mathematica
 ---
 
+Немного аналитических выкладок в SciPy
 http://www.scipy-lectures.org/
 
-У могучего и популярного языка программирования #Python уже давно существует фреймворк #SciPy позволяющий бесплатно делать очень многое для научных расчетов, для чего раньше использовали дорогие и громоздкие #Matlab, #Mathematica или #Maple. 
+У могучего и популярного языка программирования #Python уже давно существует фреймворк #SciPy позволяющий бесплатно делать очень многое для научных расчетов, для чего раньше использовали дорогие и громоздкие #Matlab, #Mathematica или #Maple.
 
 Но как любой продукт того класса, SciPy надо изучать, а для этого нужно хорошее учебное пособие. Для изучения SciPy мне приглянулся сайт-учебныик http://www.scipy-lectures.org
 
 На сайте расскажут про такие модули/библиотека, как:
-- #NumPy 
+- #NumPy
 - #Matplotlib
 - #CPython
 - #SymPy

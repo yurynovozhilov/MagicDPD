@@ -6,9 +6,12 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_607
 tags:
-  - fea
+  - ANSYS
   - tutorial
+  - fea
 ---
+
+📽 Видео-уроки по задачам явной динамики в #ANSYS 18 на примере моделирования гранаты 💿.
 
 #fea@multiphysics #tutorial@multiphysicsMedia📼 Tutorial Explicit Dynamics in Ansys 18 - Explosion…
 

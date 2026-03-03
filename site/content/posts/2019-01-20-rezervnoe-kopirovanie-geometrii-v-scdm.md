@@ -1,19 +1,22 @@
 ---
-date: 2019-01-20 17:01:12+00:00
+layout: post
+title: "Резервное копирование геометрии в SCDM"
+date: 2019-01-20T17:01:12+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1317
+tags:
+  - SpaceClaim
+  - ANSYS
+  - SSD
 images:
-- url: /assets/images/1317.jpg
-link_previews:
-- description: ''
-  image: http://yourmine.ru/i/parking/glob_parking.png
-  title: "Ð¡Ñ\x80Ð¾Ðº Ñ\x80ÐµÐ³Ð¸Ñ\x81Ñ\x82Ñ\x80Ð°Ñ\x86Ð¸Ð¸ Ð´Ð¾Ð¼ÐµÐ½Ð° magicdpd.ru
-    Ð¸Ñ\x81Ñ\x82Ñ\x91Ðº"
-  url: https://wp.me/p9vWYY-2hf
-original_url: https://t.me/MagicDPD/1317
-source: tg
-title: Резервное копирование геометрии в SCDM
+  - url: "/assets/images/1317.jpg"
 ---
 
-Наверно каждый из вас сталкивался с мучительной болью от того, что труды вашего дня пропадают потому что программное обеспечение вдруг зависло, произошел скачок напряжения или еще что-то. А вы просто забыли сохраниться. Может такое произойти и при работе с геометрией в ANSYS SpaceClaim. 
+Резервное копирование геометрии в SCDM
+
+
+Наверно каждый из вас сталкивался с мучительной болью от того, что труды вашего дня пропадают потому что программное обеспечение вдруг зависло, произошел скачок напряжения или еще что-то. А вы просто забыли сохраниться. Может такое произойти и при работе с геометрией в ANSYS SpaceClaim.
 
 
 
@@ -25,5 +28,3 @@ title: Резервное копирование геометрии в SCDM
 #ANSYS #SpaceClaim #SSD
 
 https://wp.me/p9vWYY-2hf
-
-by GlukRazor

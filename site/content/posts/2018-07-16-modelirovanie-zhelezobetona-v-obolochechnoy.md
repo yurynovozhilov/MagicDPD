@@ -6,13 +6,14 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1017
 tags:
+  - MATCONCRETEEC2
   - ARUP
+  - Concrete
   - LSDYNA
   - LSTC
-  - Concrete
-  - MATCONCRETEEC2
 ---
 
+Моделирование железобетона в оболочечной постановке
 В сеть попала презентация от LSTC и ARUP по использованию такой замечательной модели железобетона, как *MAT_CONCRETE_EC2, где EC2 - это от Eurocode. Чувствуете чем пахнет?
 
 Модель *MAT_CONCRETE_EC2 позволяет такое, что любая модель бетона для твердотельной постановки позавидует:

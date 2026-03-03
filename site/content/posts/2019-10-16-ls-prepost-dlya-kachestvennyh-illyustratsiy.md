@@ -6,11 +6,12 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1616
 tags:
-  - LS_PrePost
   - LSTC
+  - LS_PrePost
 images:
   - url: "/assets/images/1616.jpg"
 ---
 
+LS-PrePost для качественных иллюстраций и видео
 #LS_PrePost #LSTC
 by Юрий Новожилов

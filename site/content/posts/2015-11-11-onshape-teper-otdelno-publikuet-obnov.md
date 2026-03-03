@@ -6,7 +6,10 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_672
 tags:
+  - CAD
+  - iPad
+  - OnShape
   - cloud
 ---
 
-
+#OnShape теперь отдельно публикует обновления своего мобильного приложения. Дожили: #CAD на #iPad

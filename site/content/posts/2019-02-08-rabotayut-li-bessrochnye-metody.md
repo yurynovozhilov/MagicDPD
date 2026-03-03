@@ -6,17 +6,20 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1338
 tags:
-  - ALE
+  - LS_DYNA
+  - EFG
   - SPH
-  - Lagrangian
+  - ALE
   - FEM
   - LSDYNA
   - SPG
-  - EFG
-  - LS_DYNA
+  - Lagrangian
 images:
   - url: "/assets/images/1338.jpg"
 ---
+
+Работают ли бессрочные методы?
+
 
 Работают ли бессрочные методы?
 Небольшая статья с очередной конференции по #LSDYNA. В статье рассказывается о сравнении расчета с применением сеточных и бессрочных методов с экспериментом — разрывом металлического образца.

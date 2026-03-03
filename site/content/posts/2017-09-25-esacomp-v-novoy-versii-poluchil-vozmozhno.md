@@ -6,10 +6,14 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_513
 tags:
-  - composite
   - delamination
+  - composite
+  - ESAComp
+  - SERR
   - debonding
 ---
+
+#ESAComp в новой версии получил возможность считать расслоение композитов на основе Strain Energy Release Rate (#SERR). А еще они внесли данные по для расчета данного типа разрушения в свою базу материалов.
 
 #composite #debonding #delamination
 

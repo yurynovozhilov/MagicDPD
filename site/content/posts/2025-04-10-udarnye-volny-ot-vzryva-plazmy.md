@@ -1,8 +1,10 @@
 ---
+layout: post
 title: "Ударные волны от \"взрыва\" плазмы"
 date: 2025-04-10T12:04:29+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/2923"
+author: "Yury Novozhilov"
+source: vk
+original_url: https://vk.com/wall-97265142_2923
 images:
   - url: "/assets/images/2923.jpg"
 ---

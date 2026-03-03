@@ -1,18 +1,16 @@
 ---
-date: 2021-10-29 13:01:27+00:00
-link_previews:
-- description: ''
-  image: ''
-  title: Before you continue to YouTube
-  url: https://www.youtube.com/playlist?list=PLOFVFbzrQ49TNlDOxxCAjC7kbnorAR1MU
-- description: ''
-  image: ''
-  title: URL Shortener, Branded Short Links & Analytics | TinyURL
-  url: https://tinyurl.com/yf72j2r2
-original_url: https://t.me/MagicDPD/2024
-source: tg
-title: Матфизика от Карла Бендер
+layout: post
+title: "Матфизика от Карла Бендер"
+date: 2021-10-29T13:01:27+00:00
+author: "MagicDPD"
+source: vk
+original_url: https://vk.com/wall-97265142_2024
+tags:
+  - theory
 ---
+
+Матфизика от Карла Бендер
+
 
 https://www.youtube.com/playlist?list=PLOFVFbzrQ49TNlDOxxCAjC7kbnorAR1MU
 
@@ -27,4 +25,3 @@ https://www.youtube.com/playlist?list=PLOFVFbzrQ49TNlDOxxCAjC7kbnorAR1MU
 
 #theory
 https://tinyurl.com/yf72j2r2
-by GlukRazor

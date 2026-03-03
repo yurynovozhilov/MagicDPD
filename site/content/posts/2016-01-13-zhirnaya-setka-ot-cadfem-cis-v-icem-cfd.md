@@ -6,10 +6,12 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1068
 tags:
-  - Mesh
   - CFD
+  - ICEM
+  - CADFEM
+  - Mesh
 images:
   - url: "/assets/images/1068.jpg"
 ---
 
-
+Жирная сетка от #CADFEM CIS в #ICEM CFD

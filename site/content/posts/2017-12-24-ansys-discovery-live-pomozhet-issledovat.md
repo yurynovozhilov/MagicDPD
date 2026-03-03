@@ -7,4 +7,6 @@ source: vk
 original_url: https://vk.com/wall-97265142_673
 ---
 
+ANSYS Discovery Live поможет исследовать аэродинамику Санты.Media📼 ANSYS Discovery Live поможет исследовать аэродинам…
+
 http://ift.tt/2D5WPib

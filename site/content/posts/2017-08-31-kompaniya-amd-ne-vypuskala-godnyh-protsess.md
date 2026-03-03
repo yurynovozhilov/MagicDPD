@@ -7,18 +7,21 @@ source: vk
 original_url: https://vk.com/wall-97265142_470
 tags:
   - AMD
-  - Threadripper
-  - i9
-  - Rodinia
-  - CAE
-  - tomshardware
-  - CFD
-  - FEM
-  - Intel
   - CalculiX
+  - CAE
+  - HPC
+  - i9
   - Core
   - Ryzen
+  - FEM
+  - tomshardware
+  - CFD
+  - Threadripper
+  - Intel
+  - Rodinia
 ---
+
+Компания AMD не выпускала годных процессоров лет 6, но в этом году она заявила о себе с новой архитектурой, которая должна составить конкуренцию Intel. Сам я пока бенчмарков сделать не успел, но провел небольшой обзор #HPC литературы.
 
 Самые вменяемые данные для 16-ти ядерных процессоров #AMD #Ryzen #Threadripper 1950X есть у Toms's Hardware. Сравнение AMD идет с 10 ядерным флагманом #Intel #Core #i9-7900X. Из их тестов нас интересуют #Rodinia - #CFD и #CalculiX - #FEM
 

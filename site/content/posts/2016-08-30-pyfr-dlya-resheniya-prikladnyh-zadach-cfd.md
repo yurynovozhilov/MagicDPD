@@ -1,18 +1,19 @@
 ---
-date: 2016-08-30 06:30:30+00:00
-link_previews:
-- description: Scientists and engineers striving to create the next machine-age marvel—whether
-    it be a more aerodynamic rocket, a faster race car, or a higher-efficiency jet
-    engine—depend on reliable analysis and feedback to improve their designs.
-  image: https://scx2.b-cdn.net/gfx/news/hires/2016/flowoverfive.jpg
-  title: Streamlining accelerated computing for industry
-  url: http://phys.org/news/2016-08-industry.html
-original_url: https://t.me/MagicDPD/98
-source: tg
-title: PyFR для решения прикладных задач CFD
+layout: post
+title: "PyFR для решения прикладных задач CFD"
+date: 2016-08-30T06:30:30+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_98
+tags:
+  - HPC
+  - CFD
+  - Cloud
+  - Python
+  - PyFR
 ---
 
+PyFR для решения прикладных задач CFD
 http://phys.org/news/2016-08-industry.html
 
 Я уже как-то писал про #PyFR: #Python-фреймворк с открытым исходным кодом, предназначенный для решения #CFD задачи. Так мне на глаза попался один из недавних примеров его использования, причем сразу на суперкомпьютерах.
-#HPC #Cloud

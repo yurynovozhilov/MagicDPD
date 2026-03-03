@@ -7,6 +7,9 @@ source: vk
 original_url: https://vk.com/wall-97265142_1410
 tags:
   - CAD
+  - SpaceClaim
+  - STL
+  - FreeCAD
 ---
 
-
+Это конечно не #SpaceClaim, зато бесплатно: инструкция как при при помощи бесплатного с свободного #FreeCAD конвертировать #STL сетку в STEP геометрию.

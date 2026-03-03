@@ -6,10 +6,10 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_506
 tags:
-  - FEM
   - Mechanical
-  - ANSYS
   - APDL
+  - ANSYS
+  - FEM
 ---
 
-
+Красивая презентация - хороший академический подход.

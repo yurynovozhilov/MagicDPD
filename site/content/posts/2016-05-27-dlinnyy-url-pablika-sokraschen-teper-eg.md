@@ -7,5 +7,7 @@ source: vk
 original_url: https://vk.com/wall-97265142_1699
 ---
 
+Длинный URL паблика сокращен - теперь его еще проще запомнить!
+
 Читайте во Вконтакте: https://vk.com/MagicDPD
 Читайте в Twitter: https://twitter.com/MagicDPD

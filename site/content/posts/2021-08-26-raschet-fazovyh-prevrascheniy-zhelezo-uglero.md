@@ -6,12 +6,15 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_1986
 tags:
-  - mat_uhs_steel
-  - lsdyna
   - mat_generalized_phase_change
+  - lsdyna
+  - mat_uhs_steel
   - ansys
   - dynamore
 ---
+
+Расчет фазовых превращений железо-углеродистых сплавов в LS-DYNA
+
 
 https://www.youtube.com/watch?v=YTSaESOYR9g
 

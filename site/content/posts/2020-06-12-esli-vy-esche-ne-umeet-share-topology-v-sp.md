@@ -6,11 +6,12 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1776
 tags:
-  - ANSYS
   - SpaceClaim
+  - ANSYS
 images:
   - url: "/assets/images/1776.jpg"
 ---
 
+Если вы еще не умеет Share Topology в SpaceClaim
 #ANSYS #SpaceClaim
 by Юрий Новожилов

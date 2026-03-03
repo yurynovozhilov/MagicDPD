@@ -1,19 +1,21 @@
 ---
-date: 2019-08-30 13:00:14+00:00
-link_previews:
-- description: Open and Free Finite Element Code (License MiT)
-  image: https://pbs.twimg.com/profile_images/736482736974757888/w7w7PN9U_200x200.jpg
-  title: MoFEM / @mofem@fosstodon.org (@mofemjoseph) on X
-  url: https://twitter.com/mofemjoseph
-- description: ''
-  image: http://yourmine.ru/i/parking/glob_parking.png
-  title: "Ð¡Ñ\x80Ð¾Ðº Ñ\x80ÐµÐ³Ð¸Ñ\x81Ñ\x82Ñ\x80Ð°Ñ\x86Ð¸Ð¸ Ð´Ð¾Ð¼ÐµÐ½Ð° magicdpd.ru
-    Ð¸Ñ\x81Ñ\x82Ñ\x91Ðº"
-  url: https://wp.me/p9vWYY-2EZ
-original_url: https://t.me/MagicDPD/1568
-source: tg
-title: Начинаем изучать MoFEM
+layout: post
+title: "Начинаем изучать MoFEM"
+date: 2019-08-30T13:00:14+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1568
+tags:
+  - fracture
+  - MoFEM
+  - crack
+  - CUBIT
+  - Open_Source
+  - Paraview
 ---
+
+Начинаем изучать MoFEM
+
 
 Давайте попробуем посмотреть, что нам предлагает открытый FEM код от Университета Глазго под названием MoFEM. Судя по твиттеру (https://twitter.com/mofemjoseph), они занимаются чем-то очень перспективным — например, отлично моделируют динамику роста трещин.
 
@@ -34,5 +36,3 @@ Accuracy is a necessity, but for industrial applications, robustness is essentia
 #crack #CUBIT #fracture #MoFEM #Open_Source #Paraview
 
 https://wp.me/p9vWYY-2EZ
-
-by GlukRazor

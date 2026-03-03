@@ -6,12 +6,15 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_1932
 tags:
+  - civil
+  - ls
   - concrete
   - oasys
-  - ls
-  - civil
   - arup
 ---
+
+LS-DYNA для гражданского строительства от Arup
+
 
 https://www.youtube.com/watch?v=PhLq9N85Oe8
 

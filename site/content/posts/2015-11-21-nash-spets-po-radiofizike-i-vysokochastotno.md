@@ -6,10 +6,12 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_762
 tags:
+  - Delcross
   - EM
-  - EMIT
   - Savant
+  - EMIT
   - HFSS
+  - ANSYS
 ---
 
-
+Наш спец по радиофизике и высокочастотному электромагнетизму рассказывает, что же именно получил #ANSYS приобретя #Delcross

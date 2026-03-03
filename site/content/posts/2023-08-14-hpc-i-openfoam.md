@@ -1,11 +1,15 @@
 ---
+layout: post
 title: "HPC и OpenFOAM"
 date: 2023-08-14T14:03:25+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/2498"
+author: "Yury Novozhilov"
+source: vk
+original_url: https://vk.com/wall-97265142_2498
 images:
   - url: "/assets/images/2498.jpg"
 ---
+
+HPC и OpenFOAM
 
 Проект exaFOAM смог запустить расчет OpenFOAM на 262 144 ядрах суперкомпьютера  Hawk принадлежащего HLRS.
 

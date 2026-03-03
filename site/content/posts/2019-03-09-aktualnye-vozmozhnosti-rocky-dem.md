@@ -1,17 +1,19 @@
 ---
-date: 2019-03-09 12:00:42+00:00
+layout: post
+title: "Актуальные возможности Rocky DEM"
+date: 2019-03-09T12:00:42+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1384
+tags:
+  - DEM
+  - Rocky
 images:
-- url: /assets/images/1384.jpg
-link_previews:
-- description: ''
-  image: http://yourmine.ru/i/parking/glob_parking.png
-  title: "Ð¡Ñ\x80Ð¾Ðº Ñ\x80ÐµÐ³Ð¸Ñ\x81Ñ\x82Ñ\x80Ð°Ñ\x86Ð¸Ð¸ Ð´Ð¾Ð¼ÐµÐ½Ð° magicdpd.ru
-    Ð¸Ñ\x81Ñ\x82Ñ\x91Ðº"
-  url: https://wp.me/p9vWYY-2oS
-original_url: https://t.me/MagicDPD/1384
-source: tg
-title: Актуальные возможности Rocky DEM
+  - url: "/assets/images/1384.jpg"
 ---
+
+Актуальные возможности Rocky DEM
+
 
 Если изучать считать в Rocky, то весь мир вопкруг превшащается в набор DEM. Судите сами:
 
@@ -72,5 +74,3 @@ title: Актуальные возможности Rocky DEM
 #DEM #Rocky
 
 https://wp.me/p9vWYY-2oS
-
-by GlukRazor

@@ -7,4 +7,6 @@ source: vk
 original_url: https://vk.com/wall-97265142_657
 ---
 
+Знаю что баян, но все равно явная динамика пожалуй самое впечатляющее в численном моделировании.Media📼 Aeronautical Engineering - Finite Element Analysis…
+
 http://ift.tt/2AGadgg

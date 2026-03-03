@@ -10,6 +10,9 @@ tags:
   - iga
 ---
 
+Coreform IGA: оценка прочности с Solid IGA
+
+
 https://www.youtube.com/watch?v=y8SS50utWlQ
 
 

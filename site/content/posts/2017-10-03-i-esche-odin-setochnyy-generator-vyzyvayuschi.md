@@ -6,9 +6,12 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_536
 tags:
-  - allhex
+  - MeshGems
   - mesh
+  - allhex
 ---
+
+И еще один сеточный генератор, вызывающий мой интерес - MeshGems-Hexa от #MeshGems. Еще одна заявка на автоматизированное создание All-Hex сетки для твердых тел. Доступен триал на 1 месяц - его я и закажу, когда подойдет время.
 
 #mesh #allhex
 http://www.meshgems.com/volume-meshing-meshgems-hexa.html 🔗 MeshGems-Hexa - Volume Hexahedral Mesh Generation | MeshGems suite

@@ -7,14 +7,17 @@ source: vk
 original_url: https://vk.com/wall-97265142_1473
 tags:
   - webinar
+  - cloud
   - HPC
   - CADFEM
   - eCADFEM
-  - cloud
   - ANSYS
 images:
   - url: "/assets/images/1473.jpg"
 ---
+
+Высокопроизводительные вычисления в ANSYS 2019 R1
+
 
 Ровно через неделю (23 мая в 14:00) приходите на мой вебинар про HPC и Cloud для ANSYS. Каверзные вопросы приветствуются. Необходима бесплатная регистрация: https://webinars.cadfem-cis.ru/event/hpc/registration/. Ну и вообще, у нас новая прикольная платформа для Web семинаров: https://webinars.cadfem-cis.ru
 

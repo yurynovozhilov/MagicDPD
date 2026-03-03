@@ -6,10 +6,13 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_2057
 tags:
-  - ESPResSo
   - LBM
+  - ESPResSo
   - CFD
 ---
+
+Введение в метод решёточных уравнений Больцмана
+
 
 https://youtu.be/jfk4feD7rFQ
 

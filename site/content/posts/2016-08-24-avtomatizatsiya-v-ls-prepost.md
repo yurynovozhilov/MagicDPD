@@ -1,15 +1,20 @@
 ---
-date: 2016-08-24 06:30:29+00:00
-link_previews:
-- description: ''
-  image: ''
-  title: Error | VK
-  url: https://vk.com/doc11568_437790483
-original_url: https://t.me/MagicDPD/92
-source: tg
-title: Автоматизация в LS-PrePost
+layout: post
+title: "Автоматизация в LS-PrePost"
+date: 2016-08-24T06:30:29+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_92
+tags:
+  - LSPP
+  - CLI
+  - GUI
+  - LSPREPOST
+  - LSDYNA
+  - LSTC
 ---
 
+Автоматизация в LS-PrePost
 http://www.lstc.com/lspp/content/other/command/command.shtml
 
 Полное отсутствие #GUI у чудовищно мощного решателя LS-DYNA может быть здорово компенсировано возможностями бесплатного пер/пост процессора LS-PrePost от #LSTC. Данный инструмент конечно немного устарел по интерфейсу, зато только он может справиться с сотнями гигабайт данных результатов практически на лету. Кроме того, у него есть возможность создания скриптов автоматизации на основе своего собственного #CLI. Документацию по CLI найти сложно, так что я сейчас сложу все ссылки на нее в данном посте. Кроме того, не забывайте смотреть на интерактивную запись сессии.
@@ -18,5 +23,3 @@ http://www.lstc.com/lspp/content/other/command/command.shtml
 
 Кроме того, ссылка на старое учебное пособие (LS-PrePost 3.2), где в 9-ом примере были разобраны тонкости работы CLI:
 https://vk.com/doc11568_437790483 (см. стр. 220-228)
-
-#LSPP #LSPREPOST #LSDYNA

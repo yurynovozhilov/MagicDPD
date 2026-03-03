@@ -1,21 +1,18 @@
 ---
-date: 2016-12-17 12:03:42+00:00
-link_previews:
-- description: Shapr3D 2.0 is here and it got better. We added contraints, a new onboarding
-    flow, an educational license and much-much more.Sign up to our educational licen...
-  image: https://i.ytimg.com/vi/RT3W25T_wGg/maxresdefault.jpg
-  title: Shapr3D 2.0 is here
-  url: https://www.youtube.com/watch?v=RT3W25T_wGg
-- description: Enjoy the videos and music you love, upload original content, and share
-    it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
-  url: https://www.youtube.com/watch?v=OFsbZikomSA
-original_url: https://t.me/MagicDPD/218
-source: tg
-title: Состоялся второй релиз Shapr3D
+layout: post
+title: "Состоялся второй релиз Shapr3D"
+date: 2016-12-17T12:03:42+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_218
+tags:
+  - CAD
+  - SpaceClaim
+  - iPad
+  - Shapr3D
 ---
 
+Состоялся второй релиз Shapr3D
 https://www.youtube.com/watch?v=RT3W25T_wGg
 
 #Shapr3D - в своем роде уникальный проект. Это #CAD работающий на #iPad Pro и только на нем, и только с волшебным стилусом. Но вы только посмотрите, как он работает. Это уже не классический CAD - это практически полноценная система прямого моделирования. Конечно не #SpaceClaim, но видно, на кого смотрели создатели, когда писали свой продукт.

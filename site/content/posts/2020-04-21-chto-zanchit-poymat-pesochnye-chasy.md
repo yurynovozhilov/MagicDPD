@@ -1,11 +1,15 @@
 ---
+layout: post
 title: "Что занчит «поймать песочные часы»"
 date: 2020-04-21T13:00:38+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1743"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1743
+tags:
+  - hourglass
+  - ABAQUS
 images:
   - url: "/assets/images/1743.jpg"
 ---
 
-#ABAQUS #hourglass
-by GlukRazor
+Что занчит «поймать песочные часы»

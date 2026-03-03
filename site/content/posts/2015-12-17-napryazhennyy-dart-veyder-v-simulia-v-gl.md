@@ -6,7 +6,10 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_911
 tags:
+  - SIMULIA
   - FEM
+  - TOSCA
+  - Abaqus
 ---
 
-
+Напряженный Дарт Вейдер в #SIMULIA. В главных ролях #TOSCA и #Abaqus.

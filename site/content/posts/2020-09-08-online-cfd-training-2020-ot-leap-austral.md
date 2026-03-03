@@ -6,11 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1820
 tags:
+  - CFD
   - LEAP
   - ANSYS
-  - CFD
 images:
   - url: "/assets/images/1820.jpg"
 ---
 
-
+Online CFD Training 2020 от LEAP Australia

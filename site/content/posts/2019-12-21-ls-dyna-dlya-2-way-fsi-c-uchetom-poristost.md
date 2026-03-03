@@ -6,14 +6,15 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1663
 tags:
-  - FSI
-  - ICFD
   - Parachute
-  - simulationfriday
   - LS_DYNA
+  - ICFD
+  - FSI
+  - simulationfriday
 images:
   - url: "/assets/images/1663.jpg"
 ---
 
+LS-DYNA для 2-way-FSI c учетом пористости ткани
 #FSI #ICFD #LS_DYNA #Parachute #simulationfriday
 by Юрий Новожилов

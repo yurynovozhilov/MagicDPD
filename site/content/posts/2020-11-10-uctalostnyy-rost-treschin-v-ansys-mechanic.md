@@ -7,12 +7,13 @@ source: vk
 original_url: https://vk.com/wall-97265142_1855
 tags:
   - Fatigue
-  - Mechanical
-  - ANSYS
   - crack
+  - ANSYS
+  - Mechanical
 images:
   - url: "/assets/images/1855.jpg"
 ---
 
+Уcталостный рост трещин в Ansys Mechanical
 #ANSYS #crack #Fatigue #Mechanical
 by Юрий Новожилов

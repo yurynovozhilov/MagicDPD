@@ -6,12 +6,13 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1628
 tags:
-  - implicit
   - Enterfea
   - explicit
+  - implicit
 images:
   - url: "/assets/images/1628.jpg"
 ---
 
+Explicit vs. Implicit для самых маленьких
 #Enterfea #explicit #implicit
 by Юрий Новожилов

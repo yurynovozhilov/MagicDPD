@@ -1,12 +1,23 @@
 ---
+layout: post
 title: "Запись вебинара CiviFEM для ANSYS 19.1"
-date: 2018-08-02T18:00:25+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1049"
+date: 2018-08-02T18:00:26+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1050
+tags:
+  - CivilFEM
+  - Workbench
+  - Concrete
+  - ACT
+  - ANSYS
+  - Ingeciber
 images:
-  - url: "/assets/images/1049.jpg"
+  - url: "/assets/images/1051.jpg"
+  - url: "/assets/images/1052.jpg"
 ---
 
+Запись вебинара CiviFEM для ANSYS 19.1
 Коллеги из Ingeciber взяли и выложили в публичный доступ запись своего часового доклада - все бы так.
 
 Я просмотрел его кусочками и могу отметить 2 момента.

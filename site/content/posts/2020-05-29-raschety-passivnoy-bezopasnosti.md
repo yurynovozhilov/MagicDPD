@@ -1,11 +1,15 @@
 ---
+layout: post
 title: "Расчеты пассивной безопасности"
 date: 2020-05-29T13:00:12+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1764"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1764
+tags:
+  - Crush
+  - LS_DYNA
 images:
   - url: "/assets/images/1764.jpg"
 ---
 
-#Crush #LS_DYNA
-by GlukRazor
+Расчеты пассивной безопасности

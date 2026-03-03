@@ -7,4 +7,4 @@ source: vk
 original_url: https://vk.com/wall-97265142_2782
 ---
 
-
+https://www.linkedin.com/posts/fidelis-engineering-associates_engineering-simulation-abaqus-activity-7241811350098755585-l-Xd?utm_source=share&utm_medium=member_ios

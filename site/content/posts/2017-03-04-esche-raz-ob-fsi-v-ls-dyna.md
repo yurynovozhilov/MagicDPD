@@ -1,15 +1,19 @@
 ---
-date: 2017-03-04 17:00:25+00:00
-link_previews:
-- description: How to set-up a FSI Simulation using LS-DYNA
-  image: https://i.ytimg.com/vi/IClEUvlftcE/maxresdefault.jpg
-  title: FSI Simulation in LS DYNA
-  url: https://www.youtube.com/watch?v=IClEUvlftcE
-original_url: https://t.me/MagicDPD/287
-source: tg
-title: Еще раз об FSI в LS-DYNA
+layout: post
+title: "Еще раз об FSI в LS-DYNA"
+date: 2017-03-04T17:00:25+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_287
+tags:
+  - ICFD
+  - FSI
+  - CFD
+  - LSDYNA
+  - Implicit
 ---
 
+Еще раз об FSI в LS-DYNA
 https://www.youtube.com/watch?v=IClEUvlftcE
 
 Еще одно 10 минутное обучающее видео, рассказывающее о том, как поставить #FSI задачу в #LSDYNA #ICFD + #LSDYNA #Implicit - UI не очень, зато робастность работы решателей на высоте!

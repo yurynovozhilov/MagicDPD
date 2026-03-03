@@ -6,10 +6,10 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1660
 tags:
-  - Simscale
   - Enterfea
+  - Simscale
 images:
   - url: "/assets/images/1660.jpg"
 ---
 
-
+Лекция по нелинейным материалам от SimScale и Enterfea

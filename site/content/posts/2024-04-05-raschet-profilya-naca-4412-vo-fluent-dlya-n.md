@@ -7,4 +7,6 @@ source: vk
 original_url: https://vk.com/wall-97265142_2679
 ---
 
+Расчет профиля NACA 4412 во Fluent для начинающих
+
 https://www.youtube.com/watch?v=nzvEvLCxOss

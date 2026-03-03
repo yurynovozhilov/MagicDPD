@@ -6,15 +6,17 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_1897
 tags:
-  - polymerfem
-  - comsol
-  - ls
   - abaqus
-  - foam
-  - ansys
-  - mcalibration
   - mechanical
+  - polymerfem
+  - foam
+  - ls
+  - mcalibration
+  - ansys
+  - comsol
 ---
+
+Моделирование пены низкой плотности в МКЭ
 
 На сегодня я нашел два интересных видео, посвященных моделированию полимерной пены низкой плотности.
 

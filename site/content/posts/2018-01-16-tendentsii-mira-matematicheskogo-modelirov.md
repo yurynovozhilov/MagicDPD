@@ -6,18 +6,19 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_728
 tags:
-  - Mentor
-  - Discovery
-  - Siemens
-  - Digital
-  - MSC
   - Hexagon
-  - ANSYS
+  - Siemens
+  - Discovery
+  - MSC
+  - Digital
+  - Mentor
   - Additive
+  - ANSYS
 images:
   - url: "/assets/images/729.jpg"
 ---
 
+Тенденции мира математического моделирования
 Портал engineering.com подвел итоги ушедшего года и постарался определить основные тенденции на год текущий.
 
 Так, основными событиями 2017 года названы:

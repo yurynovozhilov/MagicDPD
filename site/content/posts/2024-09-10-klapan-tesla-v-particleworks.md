@@ -1,14 +1,11 @@
 ---
-date: 2024-09-10 13:45:31+00:00
-link_previews:
-- description: Flow simulation inside Tesla valve, using MPS-FVM coupling simulation.
-    テスラバルブ内の液体流動を、MPS-FVM連成解析によりシミュレーションしています。
-  image: https://i.ytimg.com/vi/B3JPa3SUalI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDEg8ZcYM_gF9EU0d5P66STgobBHw
-  title: Particleworks | Tesla Valve | Prometech Software
-  url: https://www.youtube.com/watch?v=B3JPa3SUalI
-original_url: https://t.me/MagicDPD/2775
-source: tg
-title: Клапан Тесла в Particleworks
+layout: post
+title: "Клапан Тесла в Particleworks"
+date: 2024-09-10T13:45:31+00:00
+author: "Yury Novozhilov"
+source: vk
+original_url: https://vk.com/wall-97265142_2775
 ---
 
+Клапан Тесла в Particleworks
 https://www.youtube.com/watch?v=B3JPa3SUalI

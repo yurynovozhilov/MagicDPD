@@ -7,6 +7,8 @@ source: vk
 original_url: https://vk.com/wall-97265142_2721
 ---
 
+pymoo: Multi-objective Optimization in Python
+
 Фреймворк предлагает современные алгоритмы одно- и многоцелевой оптимизации, а также множество других функций, связанных с многоцелевой оптимизацией, таких как визуализация и принятие решений. pymoo доступен на PyPi. Список алгоритмов:
 - GA: Genetic Algorithm
 - BRKGA: Biased Random Key Genetic Algorithm

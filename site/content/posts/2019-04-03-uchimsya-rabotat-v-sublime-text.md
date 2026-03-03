@@ -6,16 +6,19 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1429
 tags:
-  - ABAQUS
-  - APDL
-  - SublimeText
-  - LSDYNA
-  - ANSYS
   - LS_DYNA
   - Abaqus
+  - SublimeText
+  - ABAQUS
+  - APDL
+  - LSDYNA
+  - ANSYS
 images:
   - url: "/assets/images/1429.jpg"
 ---
+
+Учимся работать в Sublime Text
+
 
 SublimeText — мой любимый текстовый редактор. Я уже писал, что он очень быстр, работает на любой операционной системе и умеет подсвечивать синтаксис #ANSYS #APDL, #LSDYNA и #Abaqus. Этот текстовый редактор совсем не боится файлов по несколько Гб.
 Но что бы получить полную отдачу от Sublime Tesxt стоит посмотреть этот небольшой цикл из 12 обучающих видео:

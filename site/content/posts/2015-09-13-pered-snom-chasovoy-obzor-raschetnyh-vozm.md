@@ -7,10 +7,10 @@ source: vk
 original_url: https://vk.com/wall-97265142_349
 tags:
   - Delcross
-  - EMIT
   - Sina
-  - ANSYS
   - Savant
+  - EMIT
+  - ANSYS
 ---
 
-
+Перед сном: часовой обзор расчетных возможностей новых приобретений ANSYS - продуктов EMIT, Savant и Sina от компнаии Delcross Technologies

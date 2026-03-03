@@ -1,27 +1,15 @@
 ---
-date: 2021-03-23 13:01:17+00:00
-link_previews:
-- description: Enjoy the videos and music you love, upload original content, and share
-    it all with friends, family, and the world on YouTube.
-  image: https://i.ytimg.com/vi/DXb8zJuINTA/maxresdefault.jpg
-  title: Теория упругости
-  url: https://www.youtube.com/watch?v=DXb8zJuINTA
-- description: Free online courses from leading Russian universities
-  image: ''
-  title: Open Education - Теория упругости
-  url: https://openedu.ru/course/spbstu/TELAST/
-- description: ''
-  image: ''
-  title: ЭБ СПбПУ - Введение в механику деформиру
-  url: https://elib.spbstu.ru/dl/2/i20-276.pdf/info
-- description: ''
-  image: ''
-  title: URL Shortener, Branded Short Links & Analytics | TinyURL
-  url: https://tinyurl.com/ydvhx37d
-original_url: https://t.me/MagicDPD/1929
-source: tg
-title: Теория упругости - секции от Политеха
+layout: post
+title: "Теория упругости - секции от Политеха"
+date: 2021-03-23T13:01:17+00:00
+author: "MagicDPD"
+source: vk
+original_url: https://vk.com/wall-97265142_1929
+tags:
+  - theory
 ---
+
+Теория упругости - секции от Политеха
 
 Сегодняшний материал может легко положить на лопатки все учебные курсы, когда-либо публиковавшиеся мной. Сегодня я хочу рассказать о TRUE учебном курсе по теории упругости, который разработан в Политехе. Курс основывается на научной школе Анатолия Исааковича Лурье и Владимира Александровича Пальмова. Мне посчастливилось прослушать теорию упругости и механику деформируемого твёрдого тела очно именно у Пальмова, и это было очень круто! Вообще говоря, если вы занимаетесь расчетами прочности, то послушать такой курс для вас дело чести.
 
@@ -33,7 +21,7 @@ https://www.youtube.com/watch?v=DXb8zJuINTA
 
 
 
-Ну а сейчас курс для вас прочитают кандидаты технических и физико-математических наук Высшей школы теоретической механики, Высшей школы механики и процессов управления и мои бывшие коллеги из золотого состава CompMechLab. Ссылка на учебный курс: https://openedu.ru/course/spbstu/TELAST/ - к сожалению, сейчас запись на него закрыта, но можно подписаться на уведомления о появлении свободных мест. 
+Ну а сейчас курс для вас прочитают кандидаты технических и физико-математических наук Высшей школы теоретической механики, Высшей школы механики и процессов управления и мои бывшие коллеги из золотого состава CompMechLab. Ссылка на учебный курс: https://openedu.ru/course/spbstu/TELAST/ - к сожалению, сейчас запись на него закрыта, но можно подписаться на уведомления о появлении свободных мест.
 
 
 
@@ -45,4 +33,3 @@ https://www.youtube.com/watch?v=DXb8zJuINTA
 
 #theory
 https://tinyurl.com/ydvhx37d
-by GlukRazor

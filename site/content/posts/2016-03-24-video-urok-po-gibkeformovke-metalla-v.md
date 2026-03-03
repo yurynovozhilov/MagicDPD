@@ -6,9 +6,10 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1499
 tags:
+  - explicit
   - springback
   - forming
-  - explicit
+  - ABAQUS
 ---
 
-
+Видео урок по гибке/формовке металла в #ABAQUS с учетом пружинения.

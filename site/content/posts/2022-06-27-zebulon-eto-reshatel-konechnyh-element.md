@@ -5,10 +5,13 @@ date: 2022-06-27T18:03:09+00:00
 author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_2309
+tags:
+  - Zebulon
+  - Zset
 images:
   - url: "/assets/images/2310.jpg"
   - url: "/assets/images/2311.jpg"
   - url: "/assets/images/2312.jpg"
 ---
 
-
+#Zebulon - это решатель конечных элементов из пакета #Zset, заточенный на решение задач нелинейного роста трещин и усталостного повержения. Все это идет в связке с тепловыми расчетами. Не знаю, как оно на самом деле работает, но картинки очень эффектные. https://youtu.be/XyrbWEzAzqE

@@ -1,17 +1,19 @@
 ---
-date: 2019-03-23 17:00:26+00:00
+layout: post
+title: "Вебинар по APM WinMachine 16"
+date: 2019-03-23T17:00:26+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1411
+tags:
+  - APM
+  - WinMachine
 images:
-- url: /assets/images/1411.jpg
-link_previews:
-- description: ''
-  image: http://yourmine.ru/i/parking/glob_parking.png
-  title: "Ð¡Ñ\x80Ð¾Ðº Ñ\x80ÐµÐ³Ð¸Ñ\x81Ñ\x82Ñ\x80Ð°Ñ\x86Ð¸Ð¸ Ð´Ð¾Ð¼ÐµÐ½Ð° magicdpd.ru
-    Ð¸Ñ\x81Ñ\x82Ñ\x91Ðº"
-  url: https://wp.me/p9vWYY-2r0
-original_url: https://t.me/MagicDPD/1411
-source: tg
-title: Вебинар по APM WinMachine 16
+  - url: "/assets/images/1411.jpg"
 ---
+
+Вебинар по APM WinMachine 16
+
 
 APM WinMachine — это CAE система российской разработки от Научно-технического центра «АПМ», которая заслуживает внимания. Куча модулей, куча сертификатов, много интересных современных возможностей.
 
@@ -32,5 +34,3 @@ APM WinMachine — это CAE система российской разрабо
 #APM #WinMachine
 
 https://wp.me/p9vWYY-2r0
-
-by GlukRazor

@@ -6,12 +6,14 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_389
 tags:
-  - CAD
-  - CAE
-  - Onshape
-  - SimSolid
   - FEA
+  - CAE
+  - SimSolid
+  - CAD
+  - Onshape
 ---
+
+На днях анонсирована вторая бета CAE решателя SimSolid, основной фишкой второго является отрицание КЭ сеток. Коллеги утверждают, что работают напрямую с геометрией. Если верить рекламным проспектам компании, то вы можете загнать в нее сборки от Onshape с точностью до резьбы на болтах, а решение все равно будет получено за адекватное время.
 
 #Onshape #SimSolid #CAE #CAD #FEA
 http://eepurl.com/by5Zmr

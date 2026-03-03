@@ -1,15 +1,12 @@
 ---
-date: 2026-01-27 07:34:00+00:00
-link_previews:
-- description: Emerging threats like drones and drone swarms are transforming today’s
-    battlefield. Traditional development cycles for weapons and armored vehicles—which
-    oft...
-  image: https://i.ytimg.com/vi/Ypm6GcVSF-g/maxresdefault.jpg
-  title: 'Impetus Webinar: Overview on GPU-Accelerated Armour and Weapons Development'
-  url: https://www.youtube.com/watch?v=Ypm6GcVSF-g
-original_url: https://t.me/MagicDPD/3092
-source: tg
-title: Немного свежего про Impetus AFEA
+layout: post
+title: "Немного свежего про Impetus AFEA"
+date: 2026-01-27T07:34:00+00:00
+author: "Yury Novozhilov"
+source: vk
+original_url: https://vk.com/wall-97265142_3092
 ---
+
+Немного свежего про Impetus AFEA
 
 https://www.youtube.com/watch?v=Ypm6GcVSF-g

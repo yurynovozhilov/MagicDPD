@@ -6,12 +6,15 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_1968
 tags:
-  - gissmo
-  - ls
-  - ewi
   - forming
+  - ls
+  - gissmo
   - ansys
+  - ewi
 ---
+
+Использование модели накопления повреждений GISSMO при расчетах штамповки
+
 
 https://www.youtube.com/watch?v=2DmR-H0L2Eg
 

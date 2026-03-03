@@ -7,6 +7,8 @@ source: vk
 original_url: https://vk.com/wall-97265142_490
 ---
 
+[Перевод] О-о-очень долгожданный релиз Sublime Text 3.0
+
 Спустя долгие годы ожидания в beta и alpha релизах (а это около 3.5 лет) наконец-то вышел Sublime Text 3.0!
 Читать дальше &rarr; https://goo.gl/YUg1ToMedia🔗 О-о-очень долгожданный релиз Sublime Text 3.0
 

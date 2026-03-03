@@ -6,10 +6,12 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_1992
 tags:
+  - simulationfriday
   - true_science
   - nasa
-  - simulationfriday
 ---
+
+NASA TECHNICAL MEMORANDUM: ASTRONAUTIC STRUCTURES MANUAL
 
 Представьте, что вы в космосе, под рукой нет компьютера с вашей любимой системой решения прочностных задач, а не дворе 1975 год.
 

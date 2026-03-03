@@ -1,22 +1,25 @@
 ---
-date: 2019-10-02 13:00:15+00:00
+layout: post
+title: "GENESIS - CFD код от GE"
+date: 2019-10-02T13:00:16+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1601
+tags:
+  - NVIDIA
+  - HpMusic
+  - GE
+  - HPC
+  - CFD
+  - GPU
+  - GENESIS
 images:
-- url: /assets/images/1600.jpg
-link_previews:
-- description: The ability to simulate turbulent phenomena using high-performance
-    computing (HPC) can provide industry with important insights for efficient engine
-    design. Second only to the ability to perform these critical simulations is the
-    speed at which they run. If a company can run a model more quickly, the number
-    of possible...
-  image: ''
-  title: GPUs Power GE Code at OLCF Hackathons
-  url: https://www.olcf.ornl.gov/2019/09/12/gpus-power-ge-code-at-olcf-hackathons/
-original_url: https://t.me/MagicDPD/1600
-source: tg
-title: GENESIS - CFD код от GE
+  - url: "/assets/images/1602.jpg"
 ---
 
-Вычислительный код GENESIS разрабатывается GE на базе существующей научной разработки hp-adaptive Multi-physics Simulation Code (hpMusic), так что правильнее его называть hpMusic/GENESIS. 
+GENESIS - CFD код от GE
+
+Вычислительный код GENESIS разрабатывается GE на базе существующей научной разработки hp-adaptive Multi-physics Simulation Code (hpMusic), так что правильнее его называть hpMusic/GENESIS.
 
 
 

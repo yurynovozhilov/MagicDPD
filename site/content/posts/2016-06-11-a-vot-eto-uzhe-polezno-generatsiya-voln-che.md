@@ -7,7 +7,9 @@ source: vk
 original_url: https://vk.com/wall-97265142_1769
 tags:
   - FSI
+  - ICFD
   - CFD
+  - LSDYNA
 ---
 
-
+А вот это уже полезно: генерация волн через граничные условия для зада со свободной поверхностью в #LSDYNA #ICFD

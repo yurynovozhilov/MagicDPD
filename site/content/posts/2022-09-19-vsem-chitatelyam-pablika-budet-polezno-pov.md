@@ -9,4 +9,4 @@ images:
   - url: "/assets/images/2343.jpg"
 ---
 
-
+Всем читателям паблика будет полезно повторить, как работают функции форму в FEM моделировании. Что бы от зубов отскакивало :) https://www.fidelisfea.com/post/what-are-shape-functions-in-fea-and-how-are-they-derived

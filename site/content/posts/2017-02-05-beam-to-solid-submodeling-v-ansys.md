@@ -1,23 +1,26 @@
 ---
-date: 2017-02-05 17:00:43+00:00
-link_previews:
-- description: Starting from a global beam and shell model, this tutorial video shows
-    how to easily and quickly take results into a detailed solid model to evaluate
-    details...
-  image: https://i.ytimg.com/vi/jkj3owGBJ_c/maxresdefault.jpg
-  title: Beam and Shell Submodeling with ANSYS Mechanical [Tutorial]
-  url: https://www.youtube.com/watch?v=jkj3owGBJ_c
-original_url: https://t.me/MagicDPD/261
-source: tg
-title: Beam-to-Solid submodeling в ANSYS
+layout: post
+title: "Beam-to-Solid submodeling в ANSYS"
+date: 2017-02-05T17:00:43+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_261
+tags:
+  - submodeling
+  - APDL
+  - ACP
+  - Mechanical
+  - SpaceClaim
+  - ANSYS
 ---
 
+Beam-to-Solid submodeling в ANSYS
 https://www.youtube.com/watch?v=jkj3owGBJ_c
 
-Техника работы с подмоделями или сабмоделинг в #ANSYS #APDL была наверно всегда, а вот в ANSYS #Mechanical - только версии с 14-ой наверно. Сейчас же мы можем использовать подмотали вообще в при любом раскладе: 
+Техника работы с подмоделями или сабмоделинг в #ANSYS #APDL была наверно всегда, а вот в ANSYS #Mechanical - только версии с 14-ой наверно. Сейчас же мы можем использовать подмотали вообще в при любом раскладе:
 - solid-to-solid
-- shell-to-solid (даже для компостов благодаря #ACP) 
-- beam-to-solid (даже так!!!). 
+- shell-to-solid (даже для компостов благодаря #ACP)
+- beam-to-solid (даже так!!!).
 
 О том, как работать с  beam-to-solid #submodeling небольшое небное видео:
 https://www.youtube.com/watch?v=jkj3owGBJ_c

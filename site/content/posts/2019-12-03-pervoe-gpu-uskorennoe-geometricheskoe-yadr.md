@@ -6,15 +6,15 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1650
 tags:
-  - Additive_Manufacturing
-  - CAD
-  - Dyndrite
-  - ACE
-  - B_rep
-  - Google
   - nTopology
+  - ACE
+  - Dyndrite
+  - CAD
+  - Google
+  - B_rep
+  - Additive_Manufacturing
 images:
   - url: "/assets/images/1650.jpg"
 ---
 
-
+Первое GPU-ускоренное геометрическое ядро

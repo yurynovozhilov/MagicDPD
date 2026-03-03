@@ -6,15 +6,17 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1301
 tags:
+  - M2DO
+  - Topology
   - OpenLSTO
+  - OpenSource
   - LevelSetMethod
   - Optimization
-  - OpenSource
-  - Topology
-  - M2DO
 images:
   - url: "/assets/images/1302.jpg"
 ---
+
+OpenLSTO - открытый код оптимизации топологии
 
 Летом 2018 года команда&nbsp;M2DO (Multiscale Multiphysics Design Optimization Laboratory)&nbsp;Калифорнийского университета Сан-Диего представила новый код для решения задач топологической оптимизации&nbsp;OpenLSTO.&nbsp;
 

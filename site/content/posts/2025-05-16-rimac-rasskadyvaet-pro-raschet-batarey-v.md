@@ -7,4 +7,6 @@ source: vk
 original_url: https://vk.com/wall-97265142_2946
 ---
 
+Rimac расскадывает про расчет батарей в софте Siemens
+
 https://youtu.be/T9FlQydXkCQ

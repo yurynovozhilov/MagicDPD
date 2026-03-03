@@ -6,14 +6,18 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_2236
 tags:
-  - openaccess
   - simulationfriday
+  - oreology
+  - Oreo
+  - openaccess
 images:
   - url: "/assets/images/2236.jpg"
   - url: "/assets/images/2237.jpg"
   - url: "/assets/images/2238.jpg"
   - url: "/assets/images/2239.jpg"
 ---
+
+В 34-ом выпуске научного журнала Physics of Fluids (Q1, H-INDEX 180) была опубликована забавная статья по теме "ореология" (#oreology), от нубисковского "#Oreo" - "печенье" и греческого "rheo logia" - "изучение течения". Ореология изучает как происходит разрушение многослойного печения в следствии течения его крема!
 
 Если вы любите побаловать себя печеньками, то это отличное чтиво для пятницы в рамках #simulationfriday. Статья находится в #openaccess.
 

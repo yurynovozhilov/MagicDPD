@@ -7,4 +7,5 @@ source: vk
 original_url: https://vk.com/wall-97265142_2546
 ---
 
+Моделирование эскалатора с использованием RecurDyn
 https://www.youtube.com/watch?v=KugHmF-sVuA

@@ -7,4 +7,4 @@ source: vk
 original_url: https://vk.com/wall-97265142_2964
 ---
 
-
+https://www.linkedin.com/posts/senecal_at-least-the-divergence-is-extra-crunchy-activity-7339684687386169345-3jIz?utm_medium=ios_app&rcm=ACoAAAIB-1wBSy2qdKlEdvn4uXa5JRLKv3rDaxk&utm_source=social_share_video_v2&utm_campaign=share_via

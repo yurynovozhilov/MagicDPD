@@ -173,6 +173,8 @@ def extract_images(
 
             if found_path:
                 images.append({"url": found_path, "alt": ""})
+            elif item.get("url"):
+                images.append({"url": item["url"], "alt": ""})
 
     return images
 
@@ -212,12 +214,9 @@ def build_post(
     title = post.get("title")
     if not title and lines:
         title = lines[0][:60]
-        # If we took the title from the first line, we must remove it from the body
-        lines.pop(0)
     elif title and lines:
         first_line_lower = lines[0].lower().strip()
         title_lower = title.strip().lower()
-        # Remove first line if it is the title or starts with the title text
         if first_line_lower == title_lower or first_line_lower.startswith(title_lower):
             lines.pop(0)
 

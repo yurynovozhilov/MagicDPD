@@ -6,8 +6,10 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1657
 tags:
+  - xfem
   - fracture
+  - ABAQUS
   - crack
 ---
 
-
+Вот это действительно интересно: рост трещин в #xfem постановке. Учебное видео для #ABAQUS

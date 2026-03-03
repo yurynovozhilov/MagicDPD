@@ -1,18 +1,14 @@
 ---
-date: 2025-12-02 08:42:03+00:00
-link_previews:
-- description: Key Highlights Multi-year collaboration spans NVIDIA CUDA accelerated
-    computing, agentic and physical AI, and Omniverse digital twins to achieve simulation
-    speed and scale previously unattainable...
-  image: https://mma.prnewswire.com/media/2834881/NVIDIA_and_Synopsys_Strategic_Partnership.jpg?p=facebook
-  title: NVIDIA and Synopsys Announce Strategic Partnership to Revolutionize Engineering
-    and Design
-  url: https://news.synopsys.com/2025-12-01-NVIDIA-and-Synopsys-Announce-Strategic-Partnership-to-Revolutionize-Engineering-and-Design
-original_url: https://t.me/MagicDPD/3067
-source: tg
-title: NVIDIA вложилась в SYNOPSYS
+layout: post
+title: "NVIDIA вложилась в SYNOPSYS"
+date: 2025-12-02T08:42:03+00:00
+author: "Yury Novozhilov"
+source: vk
+original_url: https://vk.com/wall-97265142_3067
 ---
 
-Вчера вышел официальный пресс релиз о дружбе между двумя компаниями. Дружба подкрепляется тем, что NVIDIA купила акций SYNOPSYS на два миллиарда долларов (несколько процентов всех акций). Обещают усилено внедрять GPU в математическое моделирование. И не мудрено - NVIDIA ведь крупнейший заказчик SYNOPSYS на CAE.    
+NVIDIA вложилась в SYNOPSYS
+
+Вчера вышел официальный пресс релиз о дружбе между двумя компаниями. Дружба подкрепляется тем, что NVIDIA купила акций SYNOPSYS на два миллиарда долларов (несколько процентов всех акций). Обещают усилено внедрять GPU в математическое моделирование. И не мудрено - NVIDIA ведь крупнейший заказчик SYNOPSYS на CAE.
 
 https://news.synopsys.com/2025-12-01-NVIDIA-and-Synopsys-Announce-Strategic-Partnership-to-Revolutionize-Engineering-and-Design

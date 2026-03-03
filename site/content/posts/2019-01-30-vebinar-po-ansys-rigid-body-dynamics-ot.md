@@ -6,12 +6,15 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1327
 tags:
+  - Mallett_Technology
   - Rigid_Body_Dynamics
   - ANSYS
-  - Mallett_Technology
 images:
   - url: "/assets/images/1327.jpg"
 ---
+
+Вебинар по ANSYS Rigid Body Dynamics от Mallett Technology
+
 
 https://www.youtube.com/watch?v=cGv8m60zN4c
 

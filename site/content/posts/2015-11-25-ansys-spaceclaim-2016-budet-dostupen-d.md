@@ -7,6 +7,10 @@ source: vk
 original_url: https://vk.com/wall-97265142_789
 tags:
   - CAD
+  - SpaceClaim
+  - ANSYS
+images:
+  - url: "https://sun9-50.userapi.com/s/v1/ig1/pDppZlKWK-Rl_mQYKs6V1HyD1DK0OxrTD-ddNHSDKVn7bavMIKVuLMN41dYvWSH8h5t5-w.jpg?quality=96&as=32x8,48x12,72x17,108x26,160x39,240x58,360x87,480x117,540x131,640x155,720x175,1080x262,1280x311,1440x350,1800x437&from=bu&u=fJSZcldV40DjjfGU3k1IznVQ-hHJ47Prnog__vAMAfk&cs=1800x0"
 ---
 
-
+#ANSYS #SpaceClaim 2016 будет доступен для скачивания уже 1 декабря (вторник). Так что поспешите записать на онлайн семинар с обзором новых возможностей этого чудесного геометрического процессора.

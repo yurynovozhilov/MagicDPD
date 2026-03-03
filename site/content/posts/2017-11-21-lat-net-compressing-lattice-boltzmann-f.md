@@ -6,13 +6,16 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_622
 tags:
-  - Boltzmann
-  - Lattice
-  - machinelearning
+  - opensource
   - CFD
+  - Boltzmann
+  - machinelearning
   - LBM
+  - Lattice
   - Python
 ---
+
+Lat-Net: Compressing Lattice Boltzmann Flow Simulations using Deep Neural Networks - такое интересное название носит #opensource проект, про который я пишу сегодня.
 
 Суть проекта заключается в подмене #CFD расчета методом #Lattice #Boltzmann на нейронную сеть. Причем, если верить авторам, то натренировав нейрону на грубой "сетке" можно надеются на достаточно точный расчет на мелкой "сетке".
 

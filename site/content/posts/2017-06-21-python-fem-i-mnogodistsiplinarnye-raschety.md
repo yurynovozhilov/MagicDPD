@@ -6,15 +6,16 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_380
 tags:
-  - FEniCS
-  - МКЭ
-  - FEATool
-  - OpenMP
-  - Python
-  - MPI
   - Matlab
+  - FEATool
+  - MPI
+  - МКЭ
+  - FEniCS
+  - Python
+  - OpenMP
 ---
 
+Python FEM и многодисциплинарные расчеты  в FEniCS и FEATool
 https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html
 
 #FEATool, который позволяет решать задачи методом конечных элементов (#МКЭ) на базе #Matlab, начали взаимодействовать с проектом #FEniCS, который также занимается решением задач в МКЭ припомни #Python и C++. Теперь FEniCS дочтен прямо в GUI FEATool.

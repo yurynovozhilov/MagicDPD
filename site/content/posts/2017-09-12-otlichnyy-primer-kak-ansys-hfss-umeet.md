@@ -5,7 +5,14 @@ date: 2017-09-12T17:05:35+00:00
 author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_487
+tags:
+  - NVIDIA
+  - HFSS
+  - ANSYS
+  - GPGPU
 ---
+
+Отличный пример, как #ANSYS #HFSS умеет решать эклектически большие (1050&lambda; x 160&lambda; x 190&lambda;) задачи с использованием #GPGPU #NVIDIA. Коллеги ускорили расчет при помощи новых видеокрт в десятки раз.
 
 Ссылка на статью не окрыляется с территории России.
 

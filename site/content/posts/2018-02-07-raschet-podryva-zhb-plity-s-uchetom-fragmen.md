@@ -6,21 +6,22 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_774
 tags:
-  - fracture
-  - concrete
-  - ParticleBlast
-  - SPH
+  - fragmentation
   - DEFINE_ADAPTIVE_SOLID_TO_SPH
-  - blast
+  - SPH
+  - fracture
   - reinforcement
+  - concrete
+  - LS
+  - ParticleBlast
+  - blast
   - LSTC
   - CONSTRAINED_BEAM_IN_SOLID
-  - fragmentation
-  - LS
 images:
   - url: "/assets/images/775.jpg"
 ---
 
+Расчет подрыва ЖБ плиты с учетом фрагментации
 Очень красивый пример от LSTC, демонстрирующий работу LS-DYNA в области расчета взрывов и переноса нагрузок от них на конструкции. Разберем три составляющих успеха данного расчета.
 
 <!--more-->

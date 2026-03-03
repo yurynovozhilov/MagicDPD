@@ -5,7 +5,12 @@ date: 2016-01-29T17:01:23+00:00
 author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1186
+tags:
+  - CAD
+  - Onshape
 ---
+
+Давненько я ничего не писал про #Onshape. А между тем, у них появился свой AppSore, где можно добавить расширений к облачной #CAD системе. Вот список доступных уже сейчас расширений:
 
 ANALYSIS
 -SimLab Composer by Simulation Lab Software

@@ -1,18 +1,16 @@
 ---
-date: 2017-01-13 17:01:17+00:00
-link_previews:
-- description: Predictive Engineering has done over 650+ FEA simulation projects in
-    its 20+ years in business. Our experience allows us to build FEA models quickly
-    and corr...
-  image: https://i.ytimg.com/vi/sYbRnzzL3p8/maxresdefault.jpg
-  title: FEA Consulting Services   Transmissions Gearboxes and Drive Train Components
-  url: https://www.youtube.com/watch?v=sYbRnzzL3p8
-original_url: https://t.me/MagicDPD/238
-source: tg
-title: Считаем трансмиссию
+layout: post
+title: "Считаем трансмиссию"
+date: 2017-01-13T17:01:17+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_238
+tags:
+  - PredictiveEngineering
 ---
 
+Считаем трансмиссию
 https://www.youtube.com/watch?v=sYbRnzzL3p8
 
-Давно у меня не было материалов от #PredictiveEngineering. На этот раз коллеги порадовали сборным видео по их расчётам всевозможных трансмиссионных узлов: от коробок для мотоциклов, до коробок для бурильных установок на 3000 лошадиных сил. 
+Давно у меня не было материалов от #PredictiveEngineering. На этот раз коллеги порадовали сборным видео по их расчётам всевозможных трансмиссионных узлов: от коробок для мотоциклов, до коробок для бурильных установок на 3000 лошадиных сил.
 https://www.youtube.com/watch?v=sYbRnzzL3p8

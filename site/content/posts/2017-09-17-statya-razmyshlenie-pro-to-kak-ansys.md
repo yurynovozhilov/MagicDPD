@@ -6,26 +6,28 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_499
 tags:
-  - APDL
-  - GPU
-  - Siemens
-  - Autodesk
-  - Fluent
-  - AIM
-  - Mechanical
-  - Workbench
-  - GPGPU
-  - CFD
-  - FEM
-  - PTC
-  - Fusion
-  - CUDA
-  - NVIDIA
-  - ANSYS
-  - SpaceClaim
   - Discovery
+  - APDL
+  - Fusion
+  - Mechanical
+  - ANSYS
+  - Fluent
+  - FEM
+  - CUDA
+  - GPGPU
+  - PTC
+  - GPU
+  - Workbench
+  - SpaceClaim
+  - Autodesk
   - Creo
+  - NVIDIA
+  - Siemens
+  - CFD
+  - AIM
 ---
+
+Статья - размышление про то, как #ANSYS #Discovery Live помогает ANSYS реализовать свободомыслий давнюю задумку: сделать всех инженеров и проектировщиков своими пользователями.
 
 И тут ключевыми факторами успеха оказывается не только использование самого передового решателя, разработанного совместно с #NVIDIA. Не даром ANSYS очень дружен с разработчиком GPU. Об этом говорят те факты, что #Mechanical #APDL был первым коммерческим #FEM использовавшим #GPU, как и #Fluent - первым коммерческим #CFD использовавшим #GPU
 

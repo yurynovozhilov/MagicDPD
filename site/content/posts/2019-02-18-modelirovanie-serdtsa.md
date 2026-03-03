@@ -1,17 +1,23 @@
 ---
-date: 2019-02-18 17:00:41+00:00
+layout: post
+title: "Моделирование сердца"
+date: 2019-02-18T17:00:41+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1359
+tags:
+  - Hall_of_Fame
+  - CFX
+  - Ensight
+  - CFD
+  - ANSYS
+  - ICEM_CFD
 images:
-- url: /assets/images/1359.jpg
-link_previews:
-- description: ''
-  image: http://yourmine.ru/i/parking/glob_parking.png
-  title: "Ð¡Ñ\x80Ð¾Ðº Ñ\x80ÐµÐ³Ð¸Ñ\x81Ñ\x82Ñ\x80Ð°Ñ\x86Ð¸Ð¸ Ð´Ð¾Ð¼ÐµÐ½Ð° magicdpd.ru
-    Ð¸Ñ\x81Ñ\x82Ñ\x91Ðº"
-  url: https://wp.me/p9vWYY-2lu
-original_url: https://t.me/MagicDPD/1359
-source: tg
-title: Моделирование сердца
+  - url: "/assets/images/1359.jpg"
 ---
+
+Моделирование сердца
+
 
 Удивительные достижения Линчёпингского университета были отмечены в зале славы ANSYS в этом году. Когда я первый раз смотрел их презентацию, я даже не поверил, что такое возможно.
 
@@ -19,7 +25,7 @@ title: Моделирование сердца
 
 
 
-Судя по описанию проекта, эксперты вуза взяли большую выборку данных МРТ сердца и на основе нее построили историю изменения его внутреннего объема. 
+Судя по описанию проекта, эксперты вуза взяли большую выборку данных МРТ сердца и на основе нее построили историю изменения его внутреннего объема.
 
 
 
@@ -39,5 +45,3 @@ title: Моделирование сердца
 #ANSYS #CFD #CFX #Ensight #Hall_of_Fame #ICEM_CFD
 
 https://wp.me/p9vWYY-2lu
-
-by GlukRazor

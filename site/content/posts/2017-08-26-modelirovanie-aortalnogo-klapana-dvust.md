@@ -7,9 +7,13 @@ source: vk
 original_url: https://vk.com/wall-97265142_462
 tags:
   - FEM
+  - ABAQUS
+  - FSI
   - CFD
+  - FlowVision
 ---
 
+Моделирование аортального клапана, двусторонний #FSI: #ABAQUS + #FlowVision
 #CFD #FEM
 https://www.youtube.com/watch?v=jZE…Media📼 Two way FSI FlowVision & Abaqus - Artificial Aorti…
 

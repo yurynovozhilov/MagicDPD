@@ -6,11 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_653
 tags:
-  - HPC
   - vGPU
-  - visualisation
   - cloud
+  - HPC
   - AWS
+  - visualisation
 ---
 
-
+В честь воскресного вечера позволю себе очень любопытный оффтопик. На днях мне попалась очень интересная презентация от Walt Disney Animation Studios, рассказывающая об их опыте использование AWS для рендеринга анимации. Диснеевские спецы собирают виртуальные катера порядка 50 000 ядер!!!

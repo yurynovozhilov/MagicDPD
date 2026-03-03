@@ -1,21 +1,23 @@
 ---
-date: 2019-01-28 17:00:27+00:00
+layout: post
+title: "InverseCSG: как получить B-rep из STL"
+date: 2019-01-28T17:00:27+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1325
+tags:
+  - InverseCSG
+  - STL
+  - Open_Source
+  - ReverseEngineering
+  - Python
+  - MIT
 images:
-- url: /assets/images/1325.jpg
-link_previews:
-- description: ACM SIGGRAPH ASIA 2018
-  image: https://i.ytimg.com/vi/mf7Xd6oxNrM/maxresdefault.jpg
-  title: 'InverseCSG: Automatic Conversion of 3D Models to CSG Trees'
-  url: https://youtu.be/mf7Xd6oxNrM
-- description: ''
-  image: http://yourmine.ru/i/parking/glob_parking.png
-  title: "Ð¡Ñ\x80Ð¾Ðº Ñ\x80ÐµÐ³Ð¸Ñ\x81Ñ\x82Ñ\x80Ð°Ñ\x86Ð¸Ð¸ Ð´Ð¾Ð¼ÐµÐ½Ð° magicdpd.ru
-    Ð¸Ñ\x81Ñ\x82Ñ\x91Ðº"
-  url: https://wp.me/p9vWYY-2ik
-original_url: https://t.me/MagicDPD/1325
-source: tg
-title: 'InverseCSG: как получить B-rep из STL'
+  - url: "/assets/images/1325.jpg"
 ---
+
+InverseCSG: как получить B-rep из STL
+
 
 https://youtu.be/mf7Xd6oxNrM
 
@@ -33,7 +35,7 @@ https://youtu.be/mf7Xd6oxNrM
 
 
 
-К сожаленю, сейчас репозиторий проекта закрыт. Надеюсь, что это просто временный сбой. 
+К сожаленю, сейчас репозиторий проекта закрыт. Надеюсь, что это просто временный сбой.
 
 
 Публикация по работе кода: https://people.csail.mit.edu/taodu/csg/csg.pdf
@@ -44,5 +46,3 @@ https://youtu.be/mf7Xd6oxNrM
 #InverseCSG #MIT #Open_Source #Python #ReverseEngineering #STL
 
 https://wp.me/p9vWYY-2ik
-
-by GlukRazor

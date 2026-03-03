@@ -6,8 +6,10 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_480
 tags:
-  - FEA
   - SimScale
+  - FEA
+images:
+  - url: "https://sun9-30.userapi.com/s/v1/ig1/30YaXcRekzrxzLbeHSRg2LL9TJsQM_BUfxsmyQ3m81FSC4t0S-ovGHK4Lnjds9dp_WSvW2j1.jpg?quality=96&as=32x21,48x31,72x46,108x70,160x103,240x155,360x232,480x310,540x348,640x413,720x465,1080x697,1159x748&from=bu&u=VBOAyXQyFQtBbpgNyxOAonJcNgu1v5f3WsGGgbSbSDU&cs=1159x0"
 ---
 
-
+SimScale отчитался о расчете креплений детский автомобильных кресел стандарта ISOfix для Malaika Ltd. Интересно, как они ставились без явной схемы интегрирования по времени.

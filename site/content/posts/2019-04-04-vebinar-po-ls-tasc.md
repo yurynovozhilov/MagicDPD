@@ -1,17 +1,25 @@
 ---
-date: 2019-04-04 18:54:28+00:00
+layout: post
+title: "Вебинар по LS-TaSC"
+date: 2019-04-04T18:54:28+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1433
+tags:
+  - Oasys
+  - LS_TaSC
+  - optimization
+  - ARUP
+  - Free_shape
+  - Topology
+  - Topometry
+  - LSTC
 images:
-- url: /assets/images/1433.jpg
-link_previews:
-- description: ''
-  image: http://yourmine.ru/i/parking/glob_parking.png
-  title: "Ð¡Ñ\x80Ð¾Ðº Ñ\x80ÐµÐ³Ð¸Ñ\x81Ñ\x82Ñ\x80Ð°Ñ\x86Ð¸Ð¸ Ð´Ð¾Ð¼ÐµÐ½Ð° magicdpd.ru
-    Ð¸Ñ\x81Ñ\x82Ñ\x91Ðº"
-  url: https://wp.me/p9vWYY-2sB
-original_url: https://t.me/MagicDPD/1433
-source: tg
-title: Вебинар по LS-TaSC
+  - url: "/assets/images/1433.jpg"
 ---
+
+Вебинар по LS-TaSC
+
 
 Наверно это самый интересный для меня вебинар из цикла записей, который подготовили коллеги из Oasys и ARUP в начале 2019 года: обзор возможностей LS-TaSC — непараметрической оптимизации от LSTC.
 

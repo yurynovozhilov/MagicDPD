@@ -6,14 +6,16 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_940
 tags:
-  - FEniCS
-  - MATLAB
-  - STL
-  - Octave
-  - FEATool
   - OpenFOAM
+  - STL
+  - FEATool
+  - Octave
+  - FEniCS
   - Open
+  - MATLAB
 ---
+
+FEATool Multiphysics 1.8 теперь дружит с OpenFOAM
 
 Пакет для КЭ нанализа на FEATool Multiphysics — это открытый и бесплатный код, работающий опверх MATLAB. Теперь он адаптировался еще и под открытый и бесплатный GNU Octave.
 Кроме того, основной фишкой нового релиза стала интеграция OpenFOAM и даже создание GUI для этого дела. Теперь прямо из интерфейса FEATool можно готовить и ставить задачи не только для их собстенного КЭ решателя, но и для OpenFOAM, и для FEniCS.

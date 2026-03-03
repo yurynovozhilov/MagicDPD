@@ -6,10 +6,10 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1274
 tags:
-  - ALE
-  - FSI
   - lsdyna
   - explicit
+  - FSI
+  - ALE
 ---
 
-
+Так и я ныряю в выходные после 6-ти дневной недели.

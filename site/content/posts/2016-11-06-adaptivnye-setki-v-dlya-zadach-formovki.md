@@ -1,16 +1,17 @@
 ---
-date: 2016-11-06 17:00:19+00:00
-link_previews:
-- description: Enjoy the videos and music you love, upload original content, and share
-    it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
-  url: https://www.youtube.com/watch?v=B6fsb16BxEo
-original_url: https://t.me/MagicDPD/177
-source: tg
-title: Адаптивные сетки в для задач формовки
+layout: post
+title: "Адаптивные сетки в для задач формовки"
+date: 2016-11-06T17:00:19+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_177
+tags:
+  - ANSYS
+  - SPH
+  - Mechanical
 ---
 
+Адаптивные сетки в для задач формовки
 https://www.youtube.com/watch?v=B6fsb16BxEo
 
 Адаптивная сетка может творить чудеса - в некоторых задачах вполне можно обойтись без #SPH. Очень хороший пример по работе с адаптивными сетками в #ANSYS #Mechanical для задач формовки подготовил мой коллега - всем приятного просмотра!

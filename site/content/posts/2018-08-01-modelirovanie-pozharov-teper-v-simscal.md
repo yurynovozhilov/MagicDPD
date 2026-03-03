@@ -6,15 +6,16 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1048
 tags:
-  - Simscale
-  - OpenSource
-  - NIST
   - FDS
+  - NIST
   - Cloud
+  - OpenSource
+  - Simscale
 images:
   - url: "/assets/images/1049.jpg"
 ---
 
+Моделирование пожаров - теперь в SimScale
 Компания SimScale, пожалуй, самый активный игрок рынка облачного CAE/CFD/FEM, анонсировали планы по включению в свое портфолио возможности расчетов FDS - Fire Dynamics Simulator.
 
 FDS позволяет выполнять расчеты динамики пожаров, получать данные по задымлению помещений и температуре в них. Данный код разработан Национальным институтом стандартов и технологий США (The National Institute of Standards and Technology) совместно с Научно-исследовательским центром VTT Финляндии (VTT Technical Research Centre of Finland). Код открытый, бесплатный. Я даже про него уже как-то писал тут: http://magicdpd.ru/4524/

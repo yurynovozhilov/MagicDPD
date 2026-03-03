@@ -1,15 +1,16 @@
 ---
-date: 2018-05-17 18:01:16+00:00
-link_previews:
-- description: ''
-  image: http://yourmine.ru/i/parking/glob_parking.png
-  title: "Ð¡Ñ\x80Ð¾Ðº Ñ\x80ÐµÐ³Ð¸Ñ\x81Ñ\x82Ñ\x80Ð°Ñ\x86Ð¸Ð¸ Ð´Ð¾Ð¼ÐµÐ½Ð° magicdpd.ru
-    Ð¸Ñ\x81Ñ\x82Ñ\x91Ðº"
-  url: https://wp.me/p9vWYY-1QG
-original_url: https://t.me/MagicDPD/932
-source: tg
-title: Управление жестами в SpaceClaim
+layout: post
+title: "Управление жестами в SpaceClaim"
+date: 2018-05-17T18:01:16+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_932
+tags:
+  - SpaceClaim
+  - ANSYS
 ---
+
+Управление жестами в SpaceClaim
 
 В свое время (лет 10-15 назад) была очень популярна тема с управлением компьютером при помощи жестов. Нет, не тех жестов, которые сейчас нам позволяют делать современные сенсорные экраны. Тогда речь шла о возможности рисовать некие символы на экране мышкой для вызова тех или иных действий.
 

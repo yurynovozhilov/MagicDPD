@@ -1,11 +1,21 @@
 ---
+layout: post
 title: "Coreform покупает csimsoft"
 date: 2019-10-31T17:03:00+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1623"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1623
+tags:
+  - bolt2
+  - coreform
+  - mesh
+  - CUBIT
+  - Trelis
+  - csimsoft
+  - IGA
+  - Sandia
 images:
   - url: "/assets/images/1623.jpg"
 ---
 
-#bolt2 #coreform #csimsoft #CUBIT #IGA #mesh #Sandia #Trelis
-by GlukRazor
+Coreform покупает csimsoft

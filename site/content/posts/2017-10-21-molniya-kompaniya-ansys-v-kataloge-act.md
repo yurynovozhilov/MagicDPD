@@ -7,15 +7,22 @@ source: vk
 original_url: https://vk.com/wall-97265142_564
 tags:
   - additivemanufacturing
-  - APDL
-  - 3dptinting
-  - Workbench
-  - TechnologyPreview
-  - Manufacturing
   - topology
+  - TechnologyPreview
+  - Workbench
   - optimization
+  - MAPDL
+  - Manufacturing
+  - 3dptinting
+  - APDL
   - Additive
+  - Mechanical
+  - ACT
+  - молния
+  - ANSYS
 ---
+
+#молния! Компания #ANSYS в каталоге #ACT расширения размесила модуль для моделироапни процессов 3D печати. Расширение пока что предназначено для демонстрации технологических возможностей кода #ANSYS #Mechanical (#MAPDL).
 
 Однако, мы помним, что аналогичное #TechnologyPreview модуля топологической оптимизации для 17-ой версии стало стандартным модулем в 18-ой версии. Держим кулаки, что бы в 19-ой версии модуль #Additive #Manufacturing стал стабильным компонентом #Workbench.
 

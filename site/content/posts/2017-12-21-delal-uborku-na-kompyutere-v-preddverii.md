@@ -6,9 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_667
 tags:
-  - LSDYNA
   - SPH
+  - LSDYNA
 ---
+
+Делал уборку на компьютере в преддверии нового года и откопал результаты одного пре интереснейшего проекта.
 
 #LSDYNA #SPH
 

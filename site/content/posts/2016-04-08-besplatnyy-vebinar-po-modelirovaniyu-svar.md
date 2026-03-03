@@ -6,9 +6,9 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1554
 tags:
-  - lspp
   - welding
   - lsdyna
+  - lspp
 ---
 
-
+Бесплатный вебинар по моделированию сварки в LS-DYNA проведут 14 апреля специалисты DYNAmore Nordic AB. Обещают показать новый удобный GUI в LS-PrePost для решения подобных задач. Событие в календарь прилагается.

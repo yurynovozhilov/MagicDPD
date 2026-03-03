@@ -6,14 +6,17 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_480
 tags:
-  - FSI
-  - Paraview
-  - LSTC
-  - LSDYNA
   - VisualSPHysic
-  - Blender
+  - SPH
   - opensource
+  - FSI
+  - Blender
+  - LSDYNA
+  - LSTC
+  - Paraview
 ---
+
+Использование #SPH для полноценных гидродинамических расчетов - это весьма спорная методика. Однако тут видео пример не про это.
 
 Коллеги из #LSTC посчитали простенькую #FSI задачу в #LSDYNA, а потом при помощи #Paraview (бесплатно) реконструировали свободную поверхность и сделали красивый рендер в #VisualSPHysic (бесплатно, #opensource) для #Blender (бесплатно, #opensource).
 

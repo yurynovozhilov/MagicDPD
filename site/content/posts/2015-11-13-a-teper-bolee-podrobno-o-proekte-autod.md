@@ -6,11 +6,12 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_703
 tags:
-  - CAM
-  - ProjectLeopard
-  - CAD
   - Fusion360
   - cloud
+  - ProjectLeopard
+  - CAD
+  - Autodesk
+  - CAM
 ---
 
-
+А теперь более подробно о проекте #Autodesk "Project Leopard". Очень интересно написано про сравнение аудитории с OnShape.

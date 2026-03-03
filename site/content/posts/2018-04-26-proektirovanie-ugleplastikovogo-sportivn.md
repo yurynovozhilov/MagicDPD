@@ -6,12 +6,14 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_920
 tags:
-  - Mechanical
-  - ACCS
   - composite
   - ACP
+  - Mechanical
   - ANSYS
+  - ACCS
 ---
+
+Проектирование углепластикового спортивного диска
 
 Небольшое, но ёмкое видео, демонстрирующее возможности ANSYS Composite PrepPost по моделированию изделий из углепластика сложной формы. Ну а дальше все, как в лучших практиках: геометрия в SpaceClaim, сетка в ANSYS Meshing, структура композита в ACP, расчет в Mechanical
 

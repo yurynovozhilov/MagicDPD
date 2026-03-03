@@ -6,9 +6,12 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_1984
 tags:
-  - ansys
   - lsdyna
+  - ansys
 ---
+
+Моделирование деградации литиевых аккумулаторов при механических повреждениях
+
 
 https://www.youtube.com/watch?v=lUhedL9YQWY
 

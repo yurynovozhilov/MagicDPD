@@ -1,11 +1,18 @@
 ---
+layout: post
 title: "Контакты в LS-DYNA"
 date: 2020-01-24T13:01:26+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1681"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1681
+tags:
+  - LS_DYNA
+  - webinar
+  - Oasys
+  - ARUP
+  - contact
 images:
   - url: "/assets/images/1681.jpg"
 ---
 
-#ARUP #contact #LS_DYNA #Oasys #webinar
-by GlukRazor
+Контакты в LS-DYNA

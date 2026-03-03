@@ -6,7 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1438
 tags:
+  - DEM
+  - Rocky
   - LSDYNA
 ---
+
+#DEM идет-шагает по планете. Пара примеров Discrete Element Method в LS-DYNA, для того, что бы #Rocky не расслаблялся.
 
 Как говорит автор, на решение задачи ушли сутки на 6-ти ядерном процессоре с частотой 4 ГГц. В расчете участвовали около 300 000 частиц.

@@ -6,8 +6,16 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_532
 tags:
+  - Siemens
+  - Fibersim
   - composite
+  - ESAComp
+  - Componeering
+  - ANSYS
+  - Altair
 ---
+
+Все всех покупают. Я вот например и не знал, что #Altair прикупил себе #Componeering Inc. - разработчика #ESAComp. ESAComp, в свою очередь, один из стандартов по работе с текстильным композитными моделями, как и #ANSYS Composite PrepPost или #Siemens #Fibersim.
 
 P.S.
 Теперь у Altair есть сразу и своей модуль по работе с композитами, и минское подразделение Altair Engineering Finland Oy.

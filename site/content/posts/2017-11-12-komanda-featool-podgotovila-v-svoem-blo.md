@@ -6,9 +6,13 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_602
 tags:
+  - FEATool
   - mesh
+  - Gmsh
   - opensource
 ---
+
+Команда #FEATool подготовила в своем блоге простой и понятный урок по построению сеток при помощи одного из самых распространенных сеточных генераторов с открытым исходным кодом #Gmsh.
 
 #opensource #mesh
 

@@ -7,4 +7,4 @@ source: vk
 original_url: https://vk.com/wall-97265142_1404
 ---
 
-
+Поверьте, расчет дает более красивый результат чем 3Ds MAX

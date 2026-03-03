@@ -1,14 +1,17 @@
 ---
-date: 2021-03-17 13:02:33+00:00
-link_previews:
-- description: ''
-  image: ''
-  title: URL Shortener, Branded Short Links & Analytics | TinyURL
-  url: https://tinyurl.com/ydqqy5mn
-original_url: https://t.me/MagicDPD/1925
-source: tg
-title: Про IGA по русски
+layout: post
+title: "Про IGA по русски"
+date: 2021-03-17T13:02:33+00:00
+author: "MagicDPD"
+source: vk
+original_url: https://vk.com/wall-97265142_1925
+tags:
+  - coreform
+  - ls
+  - iga
 ---
+
+Про IGA по русски
 
 Наконец нашел статью про IGA на русском. Данный метод сейчас очень активно развивается в таких кодах, как CoreForm IGA и LS-DYNA, так как позволяет получить более точные результаты чем традиционный МКЭ. Оригинальное резюме статьи далее.
 
@@ -26,4 +29,3 @@ title: Про IGA по русски
 
 #coreform #iga #ls-dyna
 https://tinyurl.com/ydqqy5mn
-by GlukRazor

@@ -7,4 +7,4 @@ source: vk
 original_url: https://vk.com/wall-97265142_2180
 ---
 
-
+CFD расчет охлаждения реактора со свинцовым охлаждением на примере проекта "Nuclear Thermal Hydraulics", который финансируется Министерством бизнеса, энергетики и промышленной стратегии (BEIS, department for Business, Energy and Industrial Strategy) правительства Великобритании. Полный отчет тут: https://www.imeche.org/industry-sectors/power-energy/digital-reactor-design-nuclear-thermal-hydraulics https://youtu.be/u17fjAjAGvQ

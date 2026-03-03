@@ -7,9 +7,11 @@ source: vk
 original_url: https://vk.com/wall-97265142_1605
 tags:
   - simulationfriday
-  - IMPETUS
   - blast
   - explicit
+  - IMPETUS
 ---
+
+https://www.youtube.com/watch?v=8GmMjVtFT8A
 
 Бомбануло

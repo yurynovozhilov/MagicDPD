@@ -6,9 +6,9 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1256
 tags:
-  - ANSYS
   - DEM
+  - ANSYS
   - Rocky
 ---
 
-
+Мы проведем семинар по вопросам на засыпку уже сорок!

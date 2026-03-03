@@ -6,10 +6,12 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1735
 tags:
-  - NoMesh
-  - Optimiztaion
   - FEA
   - Topology
+  - SimSolid
+  - Optimiztaion
+  - nTopolody
+  - NoMesh
 ---
 
-
+Пример расчета результатов топологической оптимизации #nTopolody в #SimSolid

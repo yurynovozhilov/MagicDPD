@@ -6,9 +6,9 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_448
 tags:
-  - TOPO
   - COMSOL
+  - TOPO
   - Optimiztaion
 ---
 
-
+Если вы еще удивляетесь, как работает топологическая оптимизация, то вот хороший ликбез по данной тематике.

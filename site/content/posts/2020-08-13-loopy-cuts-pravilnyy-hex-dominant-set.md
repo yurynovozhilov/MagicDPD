@@ -6,14 +6,14 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1814
 tags:
-  - octree
-  - mesh
+  - PolyCut
   - LoopyCuts
+  - mesh
+  - octree
   - Open_Source
   - all_hex
-  - PolyCut
 images:
   - url: "/assets/images/1814.jpg"
 ---
 
-
+Loopy Cuts — правильный Hex-Dominant сеточный генератор

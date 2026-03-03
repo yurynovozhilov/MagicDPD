@@ -6,15 +6,17 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_479
 tags:
-  - AIM
-  - Discovery
-  - Mechanical
-  - GPGPU
-  - Maxwell
-  - Fluent
-  - ANSYS
   - NVIDIA
+  - Discovery
+  - Fluent
+  - Maxwell
+  - Mechanical
+  - AIM
+  - ANSYS
+  - GPGPU
 ---
+
+Надеюсь вы не пропустили мероприятие по поводу #ANSYS #Discovery - это было очень круто. Математическое моделирование в реальном времени!
 
 Из того, что мне больше всего понравилось - это возможность не только практически мгновенно сделать прикидочный расчет, но и экспортировать его для доводки в #AIM, #Mechanical, #Fluent и #Maxwell. Понравилось, что #ANSYS #Discovery - свежий код, который не тащит с собой кучу наследства и умеет нормально использовать #GPGPU #NVIDIA.
 

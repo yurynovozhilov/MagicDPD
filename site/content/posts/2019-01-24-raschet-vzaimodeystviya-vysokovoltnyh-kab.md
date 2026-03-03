@@ -6,14 +6,17 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1321
 tags:
+  - LS_DYNA
   - Hall_of_Fame
   - EM
   - simulationfriday
   - ANSYS
-  - LS_DYNA
 images:
   - url: "/assets/images/1321.jpg"
 ---
+
+Расчет взаимодействия высоковольтных кабелей в LS-DYNA
+
 
 Хочу обратить ваше внимание на проект компании Panduit, который стал одним из победителей конкурса Hall of Fame 2019, проводимого компанией ANSYS.
 

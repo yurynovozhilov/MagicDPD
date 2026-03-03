@@ -7,4 +7,4 @@ source: vk
 original_url: https://vk.com/wall-97265142_223
 ---
 
-
+Процесс бурения горной породы в DEM постановке.

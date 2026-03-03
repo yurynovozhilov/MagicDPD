@@ -6,13 +6,14 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1664
 tags:
-  - Disney
   - mesh
-  - simulationfriday
+  - Disney
   - XFEM
+  - simulationfriday
 images:
   - url: "/assets/images/1664.jpg"
 ---
 
+Disney Research рассказывает про применение XFEM
 #Disney #mesh #simulationfriday #XFEM
 by Юрий Новожилов

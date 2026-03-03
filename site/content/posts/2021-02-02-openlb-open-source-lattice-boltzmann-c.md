@@ -6,13 +6,14 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_1896
 tags:
-  - lbm
-  - open_source
-  - cfd
-  - lattice_boltzmann
   - openlb
+  - lattice_boltzmann
+  - open_source
+  - lbm
+  - cfd
 ---
 
+OpenLB - Open Source Lattice Boltzmann Code
 https://www.youtube.com/watch?v=1hgP7vXmfPw
 
 

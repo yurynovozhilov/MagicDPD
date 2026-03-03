@@ -6,11 +6,14 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_1951
 tags:
-  - ls
-  - ansys
-  - sph
   - lsdyna
+  - ls
+  - sph
+  - ansys
 ---
+
+Визуализация свободной поверхности SPH в LS-PrePost
+
 
 https://www.youtube.com/watch?v=4sQET0y_gUI&feature=share
 

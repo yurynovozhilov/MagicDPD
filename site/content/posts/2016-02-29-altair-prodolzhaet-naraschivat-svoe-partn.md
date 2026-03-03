@@ -5,6 +5,14 @@ date: 2016-02-29T08:25:00+00:00
 author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1312
+tags:
+  - Microsoft
+  - HPC
+  - Altair
+  - RADDIOSS
+  - PBS
+  - Infiniband
+  - Azure
 ---
 
-
+#Altair продолжает наращивать свое партнерство с #Microsoft. Очередным этапом стал запуска решателя #RADDIOSS (явная динамика) на мощностях #Azure для выполнения #HPC расчетов. Надо отметить, что до этого шага Altair и Microsoft начали дружить в рамках Altair #PBS Pro - одного лидеров среди систем планирования очереди задач. И вот теперь RADDIOSS покажет всем, что такое #Infiniband в публичном облаке (а ведь он есть только у Microsoft Azure).

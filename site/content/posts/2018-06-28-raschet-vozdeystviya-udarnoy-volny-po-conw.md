@@ -6,14 +6,15 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_981
 tags:
-  - Blast
-  - PredictiveEngineering
-  - LSDYNA
   - ConWep
+  - LSDYNA
+  - PredictiveEngineering
+  - Blast
 images:
   - url: "/assets/images/982.jpg"
 ---
 
+Расчет воздействия ударной волны по ConWep
 Пример расчета от компании Predictive Engineering. Как обычно качественное оформление и красивая задача.
 
 

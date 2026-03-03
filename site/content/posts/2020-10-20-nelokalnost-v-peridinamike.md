@@ -1,11 +1,17 @@
 ---
+layout: post
 title: "Нелокальность в перидинамике"
 date: 2020-10-20T15:22:36+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1844"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1844
+tags:
+  - peridynamics
+  - nonlocal
 images:
   - url: "/assets/images/1844.jpg"
 ---
 
+Нелокальность в перидинамике
 #nonlocal #peridynamics
 by Юрий Новожилов

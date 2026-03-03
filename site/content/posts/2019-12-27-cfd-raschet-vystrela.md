@@ -1,9 +1,16 @@
 ---
+layout: post
 title: "CFD расчет выстрела"
 date: 2019-12-27T13:00:27+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1669"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1669
+tags:
+  - OpenFOAM
+  - simulationfriday
+  - CFD
 ---
 
+CFD расчет выстрела
 #CFD #OpenFOAM #simulationfriday
 by Юрий Новожилов

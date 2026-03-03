@@ -6,11 +6,17 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_629
 tags:
+  - NVIDIA
   - Tesla
-  - Infiniband
+  - Fluent
   - HPC
+  - GPGU
   - CFD
+  - Infiniband
+  - ANSYS
 ---
+
+Ускорение #ANSYS #Fluent при помощи #GPGU #NVIDIA возможно, и даже очень полезно!
 
 Как показывают тесты NVIDIA, на одном и том-же пуле лицензии главный #CFD решатель ANSYS может ускориться почти в 4 раза за счет подключения нескольких #Tesla P100. И сейчас мы говорим не про супер компьютер, а про обычный сервер на 32 ядра.
 

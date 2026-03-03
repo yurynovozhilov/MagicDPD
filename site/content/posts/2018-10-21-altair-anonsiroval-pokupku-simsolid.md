@@ -1,17 +1,18 @@
 ---
-date: 2018-10-21 17:00:46+00:00
+layout: post
+title: "Altair анонсировал покупку SIMSOLID"
+date: 2018-10-21T17:00:47+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1163
+tags:
+  - SIMSOLID
+  - Altair
 images:
-- url: /assets/images/1162.jpg
-link_previews:
-- description: ''
-  image: ''
-  title: ''
-  url: https://www.linkedin.com/in/victor-apanovitch-711444100/
-original_url: https://t.me/MagicDPD/1162
-source: tg
-title: Altair анонсировал покупку SIMSOLID
+  - url: "/assets/images/1164.jpg"
 ---
 
+Altair анонсировал покупку SIMSOLID
 На прошедшей неделе произошел один очень значительный анонс в мире CAE. Компания Altair, известная прежде всего по таким продуктам как HyperMesh и OptiStruct, на своей главной конференции Altair ATC 2018, проходившей в Париже, анонсировала поглащение SIMSOLID. Собственно, ниже есть видео с анонсом с конференции.
 
 Пару слов про SIMSOLID, о котором было много информации в данном паблике. SIMSOLID называет себя "бессеточным КЭ решателем". Основная его фишка заключается в том, что вы можете закинуть в него адскую сборку без каких-либо упрощений, и система будет решать это на ноутбуке :-).

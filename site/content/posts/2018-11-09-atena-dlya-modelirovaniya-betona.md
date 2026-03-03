@@ -1,11 +1,19 @@
 ---
+layout: post
 title: "ATENA для моделирования бетона"
-date: 2018-11-09T17:01:44+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1200"
+date: 2018-11-09T17:01:45+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1201
+tags:
+  - CervenkaConsulting
+  - Concrete
+  - ATENA
 images:
-  - url: "/assets/images/1200.jpg"
+  - url: "/assets/images/1202.jpg"
 ---
+
+ATENA для моделирования бетона
 
 Чешская система ATENA умеет моделировать железобетон во всех его проявлениях. Разрабатывается система компанией Cervenka Consulting
 

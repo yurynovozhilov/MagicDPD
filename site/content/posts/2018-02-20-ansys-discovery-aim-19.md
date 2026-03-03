@@ -1,19 +1,19 @@
 ---
-date: 2018-02-20 18:01:11+00:00
+layout: post
+title: "ANSYS Discovery AIM 19"
+date: 2018-02-20T18:01:11+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_808
+tags:
+  - Discovery
+  - AIM
+  - ANSYS
 images:
-- url: /assets/images/807.jpg
-link_previews:
-- description: In ANSYS 19, Discovery AIM is full of enhancements making it easier
-    and faster to simulate real world conditions. We’ve packed in several enhancements
-    to the...
-  image: https://i.ytimg.com/vi/ThW58RG1Kjw/maxresdefault.jpg
-  title: ANSYS Discovery AIM - ANSYS 19 Update
-  url: https://www.youtube.com/watch?v=ThW58RG1Kjw
-original_url: https://t.me/MagicDPD/807
-source: tg
-title: ANSYS Discovery AIM 19
+  - url: "/assets/images/809.jpg"
 ---
 
+ANSYS Discovery AIM 19
 ANSYS AIM с 19-ого релиза входит в состав семейства продуктов Discovery. Сам программный комплекс развивается очень стремительно — новые возможности появляются в каждой минорной версии. На своем канале ANSYS рассказал про нововведения в версии 19.
 https://www.youtube.com/watch?v=ThW58RG1Kjw
 Дайджест нововедений, отмеченных в видео:
@@ -25,6 +25,3 @@ https://www.youtube.com/watch?v=ThW58RG1Kjw
 Пористые изотропные или ортотропные среды для CFD расчетов
 Связка тепла и электромагнитной составляющей решателя
 Поддержка секущих плоскостей и эпюр (наконец-то)
-
- 
-#AIM #ANSYS #Discovery

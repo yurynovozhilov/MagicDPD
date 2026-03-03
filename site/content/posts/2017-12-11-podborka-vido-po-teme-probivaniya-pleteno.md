@@ -6,9 +6,12 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_652
 tags:
-  - composite
   - Kevlar
+  - composite
+  - LSDYNA
 ---
+
+Подборка видо по теме пробивания плетеной из кевларовых нитей ткани (Kevlar Style 706) от Гуарана Нилаканта (Dr. Gaurav Nilakantan) - он реально замет толк в #LSDYNA и композитах.
 
 #composite #Kevlar
 http://ift.tt/2iRiRgH

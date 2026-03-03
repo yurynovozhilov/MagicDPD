@@ -6,13 +6,20 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1727
 tags:
-  - optimization
   - topology
+  - optimization
+  - lattice
+  - nTopology
+  - Within
+  - OptiStruct
+  - Autodesk
   - Altair
 images:
   - url: "/assets/images/1727.jpg"
   - url: "/assets/images/1727.jpg"
 ---
+
+Продолжая тему #nTopology и #Autodesk #Within вспомним про монстра оптимизации #Altair #OptiStruct. В 14-ой версии OptiStruct получил возможность создавать пористые конструкции на основе результатов топологической оптимизации (#lattice structures или lattice optimization).
 
 Система работает так: проводится топологическая оптимизация и из ее результатов извлекается геометрия по изоповерхности псевдоплотности, скажем, 0.5. Далее все элементы с псевдоплотностью, скажем, от 0.5 до 0.8 заменяются пространственной сеткой из балочных элементов, толщины которых подбираются отдельно или на основе данных распределения псевдоплотности.
 

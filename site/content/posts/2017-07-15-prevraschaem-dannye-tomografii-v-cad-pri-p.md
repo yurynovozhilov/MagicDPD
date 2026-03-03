@@ -6,14 +6,15 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_407
 tags:
+  - CAE
+  - uETA
+  - ANSA
+  - RETOMO
   - Beta
   - CAD
-  - CAE
-  - ANSA
-  - uETA
-  - RETOMO
 ---
 
+Превращаем данные томографии в CAD при помощи RETOMO
 http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/15092/Embed-Computer-Tomography-Data-into-CAE-with-RETOMO.aspx
 
 Греческая компания #Beta #CAE Systems, знаменитая своими пре и постпроцессорами  #ANSA и #uETA представила публике собственную разработку для перевода данных компьютерной томографии в #CAD - #RETOMO. Судя по скриншотам, там еще и починки и восстановления геометрии имеются.

@@ -7,4 +7,6 @@ source: vk
 original_url: https://vk.com/wall-97265142_508
 ---
 
+Суровые краш-тесты образца 1962 годаMedia📼 Crash And Stay Alive (1962)
+
 http://ift.tt/2xtYFtd

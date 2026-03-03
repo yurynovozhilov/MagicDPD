@@ -7,9 +7,11 @@ source: vk
 original_url: https://vk.com/wall-97265142_392
 tags:
   - CAD
-  - Pages3D
   - VCollab
+  - Pages3D
 ---
+
+QuadriSpace Pages3D вам делать техническую документацию включающую интерактивные CAD модель в вашу документацию. Это прямо целая система верстки для документации! Хотя VCollab, на мой взгляд, может больше и по другому, но об этом в другой раз.
 
 #Pages3D #CAD #VCollab
 

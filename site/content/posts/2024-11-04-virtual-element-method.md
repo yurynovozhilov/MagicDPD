@@ -1,14 +1,13 @@
 ---
-date: 2024-11-04 14:51:59+00:00
-link_previews:
-- description: ''
-  image: ''
-  title: Vemhub
-  url: https://www.vemhub.com
-original_url: https://t.me/MagicDPD/2826
-source: tg
-title: Virtual Element Method
+layout: post
+title: "Virtual Element Method"
+date: 2024-11-04T14:51:59+00:00
+author: "Yury Novozhilov"
+source: vk
+original_url: https://vk.com/wall-97265142_2826
 ---
+
+Virtual Element Method
 
 Метод виртуальных элементов (Virtual Element Method, VEM) — численный метод для решения задач механики сплошных сред и моделирования физических явлений (деформация твердых тел, теплообмен и др.). VEM — это обобщение метода конечных элементов (FEM), использующее "виртуальные" функции и преодолевающее ограничения FEM, особенно при сложной геометрии.
 

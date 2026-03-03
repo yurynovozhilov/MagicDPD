@@ -1,17 +1,22 @@
 ---
-date: 2017-02-16 17:00:59+00:00
-link_previews:
-- description: We put this simple how-to together for users to speed up the process
-    on getting your Remote Solve Manager client up and running on Microsoft Windows
-    2012 R2
-  image: https://www.padtinc.com/wp-content/uploads/2022/02/r18-rsm-setup-icon-1.jpg
-  title: 'How-To: ANSYS 18 RSM CLIENT SETUP on Windows 2012 R2 HPC - PADT'
-  url: http://www.padtinc.com/blog/the-focus/how-to-ansys-18-rsm-client-setup-on-windows-2012-r2-hpc
-original_url: https://t.me/MagicDPD/273
-source: tg
-title: ANSYS RSM 18.0 для Windows HPC
+layout: post
+title: "ANSYS RSM 18.0 для Windows HPC"
+date: 2017-02-16T17:00:59+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_273
+tags:
+  - PADT
+  - RSM
+  - HPC
+  - Cluster
+  - Server
+  - ARC
+  - Windows
+  - ANSYS
 ---
 
+ANSYS RSM 18.0 для Windows HPC
 http://www.padtinc.com/blog/the-focus/how-to-ansys-18-rsm-client-setup-on-windows-2012-r2-hpc
 
 #ANSYS #RSM 18 принципиально отличается от всех предыдущих версий RSM. Теперь он легче связывается в кластерными менеджерами очереди задач или сам может быть таким менеджером, благодаря ANSYS RSM Cluster (#ARC).

@@ -6,9 +6,9 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_770
 tags:
-  - CDadapco
   - StarCCM
   - CFD
+  - CDadapco
 ---
 
-
+Встречаем победителя в конкурсе иллюстраций для календаря компании CD-adapco. Господин van der Merwe расчитал и красиво представил велосипедный шлем при помощи STAR-CCM+

@@ -9,6 +9,7 @@ tags:
   - ANSYS
 ---
 
+ANSYS 18.0 готов, можно регистрироваться на обзорные вебинары.
 http://www.ansys.com/Solutions/Solutions-by-Role/IT-Professionals/Platform-Support
 
 Радуемся, и читаем спеки на аппаратную платформу, ставим #ANSYS 18.0. А еще, регистриуемся на целый ворох февральских вебинаров:

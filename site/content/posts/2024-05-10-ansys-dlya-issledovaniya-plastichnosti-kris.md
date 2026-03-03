@@ -9,6 +9,8 @@ images:
   - url: "/assets/images/2698.jpg"
 ---
 
+Ansys для исследования пластичности крислаллов
+
 Kоллеги из Ansys  выложили в открытый доступ свои недавние слайды по возможностями решения задач Crystal Plasticity (CP). Заодно показали тизер pyMicrostructure - python фреймворка, для управления всем этим.
 
 https://www.linkedin.com/feed/update/urn:li:activity:7194398805331492864/

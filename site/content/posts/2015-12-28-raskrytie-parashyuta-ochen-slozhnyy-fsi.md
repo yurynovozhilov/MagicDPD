@@ -6,11 +6,13 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_979
 tags:
+  - ICFD
   - ALE
   - FSI
-  - ICFD
   - CFD
   - LSDYNA
 ---
+
+Раскрытие парашюта - очень сложный FSI.
 
 А какой код/связка кодов еще может смоделировать такой процесс?

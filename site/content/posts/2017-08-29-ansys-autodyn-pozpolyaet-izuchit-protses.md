@@ -6,10 +6,15 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_467
 tags:
-  - CEI
-  - ANSYS
+  - Autodyn
+  - FSI
   - Ensight
+  - explicit
+  - ANSYS
+  - CEI
 ---
+
+#ANSYS #Autodyn позполяет изучить процессы, протекающие внутри патрона .416 Barrett в момент удара по капсулю, а потом еще и посмотреть на динамику пули в нарезном стволе. И все это моделируется в одном расчете - вот такой вот #explicit #FSI.
 
 Видео подготовлено в постпроцессоре #CEI #Ensight, который сейчас уже стал частью #ANSYS.
 

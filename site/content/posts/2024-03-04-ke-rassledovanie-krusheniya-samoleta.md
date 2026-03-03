@@ -1,15 +1,13 @@
 ---
-date: 2024-03-04 13:57:43+00:00
-link_previews:
-- description: Enjoy the videos and music you love, upload original content, and share
-    it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
-  url: https://youtu.be/2aqOI3-R76I?si=GhhHeJJZuoJ3zPg8
-original_url: https://t.me/MagicDPD/2659
-source: tg
-title: КЭ расследование крушения самолета
+layout: post
+title: "КЭ расследование крушения самолета"
+date: 2024-03-04T13:57:43+00:00
+author: "Yury Novozhilov"
+source: vk
+original_url: https://vk.com/wall-97265142_2659
 ---
+
+КЭ расследование крушения самолета
 
 «Расследовали» на сей раз в Abaqus. Кстати, это расследование про Пригожина.
 

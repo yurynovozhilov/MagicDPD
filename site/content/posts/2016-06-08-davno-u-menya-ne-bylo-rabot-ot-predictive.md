@@ -7,9 +7,10 @@ source: vk
 original_url: https://vk.com/wall-97265142_1741
 tags:
   - composite
+  - FEMAP
+  - PredictiveEngineering
   - LSDYNA
   - progressivedamage
-  - PredictiveEngineering
 ---
 
-
+Давно у меня не было работ от Predictive Engineering. После долгого перерыва ребята порадовали большим видно с рассказом о их расчете композитного контейнера в  LS-DYNA. В качестве препроцессора опять их любимый #FEMAP. Композиты считаются с учетом прогрессивного разрушения по критик Цая-Ву.

@@ -6,9 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1116
 tags:
+  - SIMULIA
   - Explicit
+  - Abaqus
   - ALE
   - FSI
 ---
 
-
+Невольно вспоминается реклама стирального порошка. Но тут вся суть не в порошке, а в явной схеме решателя #SIMULIA #Abaqus.

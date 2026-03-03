@@ -7,6 +7,8 @@ source: vk
 original_url: https://vk.com/wall-97265142_2327
 tags:
   - opensource
+  - Python
+  - FEM
 images:
   - url: "/assets/images/2327.jpg"
   - url: "/assets/images/2328.jpg"
@@ -14,4 +16,5 @@ images:
   - url: "/assets/images/2330.jpg"
 ---
 
+Сегодня у нас очень простая тема. Сегодня у нас пример того, как можно решить задача с помощью #FEM используя около сотни строк #Python кода.
 #opensource https://polymerfem.com/full-finite-element-solver-in-100-lines-of-python/

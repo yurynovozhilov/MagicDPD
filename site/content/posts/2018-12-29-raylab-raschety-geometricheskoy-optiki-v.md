@@ -6,13 +6,15 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1294
 tags:
-  - IOS
-  - Optics
   - RayLab
   - Zemax
+  - Optics
+  - IOS
 images:
   - url: "/assets/images/1295.jpg"
 ---
+
+RayLab - расчеты геометрической оптики в iOS
 
 Очередное серьезное CAE приложение для iPhone/iPad позволяющее выполнять расчеты геометрической оптики. Впервые 7 дней сипоьзования - бесплатно. В составе есть много готовых примеров расчетов.
 

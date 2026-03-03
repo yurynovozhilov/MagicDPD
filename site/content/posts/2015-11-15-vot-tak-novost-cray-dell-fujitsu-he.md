@@ -9,4 +9,4 @@ tags:
   - HPC
 ---
 
-
+Вот так новость: Cray, Dell, Fujitsu, Hewlett Packard, Intel Lenovo, NEC и SUSE будут делать проект OpenHPC Collaborative Project. Посмотрим, что у них получится, и как с этим будет работаться.

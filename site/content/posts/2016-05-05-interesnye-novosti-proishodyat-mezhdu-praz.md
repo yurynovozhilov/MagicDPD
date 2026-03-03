@@ -6,8 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1633
 tags:
-  - opensourse
+  - OpenHPC
   - HPC
+  - opensourse
+  - PBS
+  - Altair
 ---
 
-
+Интересные новости происходят между праздниками. Команда #Altair #PBS Pro открывает исходные коды своего планировщика в рамках инициативы #OpenHPC. Итак, один из самых зубастых менеджеров очереди задач кластера разработанных когда-то в NASA c 14-ой версии станет open sourse!

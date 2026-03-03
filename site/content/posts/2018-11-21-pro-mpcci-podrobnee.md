@@ -1,12 +1,22 @@
 ---
+layout: post
 title: "Про MpCCI подробнее"
-date: 2018-11-21T17:01:35+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1224"
+date: 2018-11-21T17:01:36+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1225
+tags:
+  - OpenFOAM
+  - Fluent
+  - STARCCM
+  - ABAQUS
+  - MpCCI
+  - FSI
 images:
-  - url: "/assets/images/1224.jpg"
+  - url: "/assets/images/1226.jpg"
 ---
 
+Про MpCCI подробнее
 MpCCI - система, позволяющая связывать работы нескольких расчетных кодов в разных областях физики, для решения сложных междисциплинарных задач.
 
 В новом вебинаре коллеги не только рассказывают об архитектуре ПО, но показывают примеры работы: связка Abaqus и различных CFD кодов (Fluent, OpenFOAM, STAR-CCM+).

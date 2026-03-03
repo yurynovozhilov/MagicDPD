@@ -1,10 +1,17 @@
 ---
+layout: post
 title: "ANSYS против въедливых профессоров"
 date: 2017-05-24T17:00:13+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/358"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_358
+tags:
+  - ANSYS
 images:
   - url: "/assets/images/358.jpg"
 ---
+
+ANSYS против въедливых профессоров
+
 
 За три дня я три раза столкнулся с людьми, которые считают себя гуру #ANSYS, но при этом сильно критикуют его словами: "непонятно, что он там внутри себя считает -

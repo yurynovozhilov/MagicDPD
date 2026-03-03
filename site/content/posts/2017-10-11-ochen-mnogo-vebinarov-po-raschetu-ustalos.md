@@ -6,8 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_550
 tags:
+  - Matlab
   - FatigueMedia
 ---
+
+Очень много вебинаров по расчету усталостей прочности в #Matlab
 
 #FatigueMedia🔗 Fatigue Analysis Webinars
 

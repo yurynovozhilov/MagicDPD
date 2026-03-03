@@ -6,17 +6,18 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1597
 tags:
-  - Revit
-  - IFC
   - SOFiSTiK
+  - IFC
+  - Revit
   - reinforcement
-  - Autodesk
   - BIM
+  - Autodesk
 images:
   - url: "/assets/images/1597.jpg"
   - url: "/assets/images/1600.jpg"
 ---
 
+SOFiSTiK Reinforcement Generation — генерируем арматуру быстро
 SOFiSTiK Reinforcement Generation создан для того, чтобы удобно и быстро генерировать геометрию арматуры в железобетонных строительных конструкциях.
 
 

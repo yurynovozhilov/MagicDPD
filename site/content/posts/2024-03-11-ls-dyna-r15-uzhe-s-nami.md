@@ -1,15 +1,13 @@
 ---
-date: 2024-03-11 14:18:23+00:00
-link_previews:
-- description: The following copies of LS-DYNA manuals are provided LS-DYNA manuals
-     LS-DYNA Manual R13.0 Vol I  LS-DYNA Manual R13.0 Vol II...
-  image: ''
-  title: Manuals
-  url: https://lsdyna.ansys.com/manuals/
-original_url: https://t.me/MagicDPD/2665
-source: tg
-title: LS-DYNA R15 уже с нами
+layout: post
+title: "LS-DYNA R15 уже с нами"
+date: 2024-03-11T14:18:23+00:00
+author: "Yury Novozhilov"
+source: vk
+original_url: https://vk.com/wall-97265142_2665
 ---
+
+LS-DYNA R15 уже с нами
 
 Оказывается еще 29 февраля Ansys выпустил финальную сборку моего любимого решателя. Все можно сказачть с известного ftp.lstc.com, а документация опубликована на сайте: https://lsdyna.ansys.com/manuals/
 

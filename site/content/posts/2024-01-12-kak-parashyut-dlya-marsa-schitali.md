@@ -1,16 +1,15 @@
 ---
-date: 2024-01-12 15:08:41+00:00
+layout: post
+title: "Как парашют для Марса считали"
+date: 2024-01-12T15:08:41+00:00
+author: "Yury Novozhilov"
+source: vk
+original_url: https://vk.com/wall-97265142_2620
 images:
-- url: /assets/images/2620.jpg
-link_previews:
-- description: ''
-  image: ''
-  title: ''
-  url: https://www.linkedin.com/in/steve-lingard-7961b57/
-original_url: https://t.me/MagicDPD/2620
-source: tg
-title: Как парашют для Марса считали
+  - url: "/assets/images/2620.jpg"
 ---
+
+Как парашют для Марса считали
 
 Небольшая презентация, о том как проектировали парашют для спускаемых на Марс устройств. Ну а решетелем была LS-DYNA. Автор тут https://www.linkedin.com/in/steve-lingard-7961b57/
 

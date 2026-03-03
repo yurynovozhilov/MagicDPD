@@ -1,25 +1,26 @@
 ---
 layout: post
-title: "Восстановление аналитической геометрии по STL в SpaceClaim"
-date: 2016-08-21T06:30:25+00:00
+title: "Восстановление аналитической геометрии по STL в SpaceClaim: "
+date: 2016-08-21T12:01:26+00:00
 author: "GlukRazor"
 source: vk
-original_url: https://vk.com/wall-97265142_88
+original_url: https://vk.com/wall-97265142_89
 tags:
   - STL
-  - CAD
-  - PolyNURBS
-  - topology
-  - solidThinking
-  - optimization
   - SCDM
-  - ANSYS
+  - NURBS
   - ReverseEngineering
   - SpaceClaim
+  - ANSYS
 ---
 
-http://www.spaceclaim.com/en/Solutions/ReverseEngineering.aspx
+Восстановление аналитической геометрии по STL в SpaceClaim: часть 2
+https://www.youtube.com/watch?v=VEUvYM2qFRc
 
-Похоже, что у #ANSYS #SpaceClaim Direct Modeller (#SCDM) есть ответ технологиям #PolyNURBS, заложеным в #solidThinking. Надо только уметь ими пользоваться: функционал по богаче, да настроек по более.
+А теперь более образовательный пост на тему работы с #NURBS в #ANSYS #SpaceClaim Direct Modeller (#SCDM): несколько небольших мастерклассов по восстановлению аналитических поверхностей на основе #STL моделей.
 
-А мне прямо сейчас ох как надо восстановить нормальную геометрию на основе #STL резуьтатов топологической оптимизации.
+P.S. Вот, что бывает, когда нужно решить интересную и новую задачу - три поста про SCDM в ряд!
+#ReverseEngineering
+https://www.youtube.com/watch?v=VEUvYM2qFRc
+http://storage.ansys.com/video/release-highlights/spaceclaim-rev-eng.mp4
+https://www.youtube.com/watch?v=2j6N5A6T3Kw

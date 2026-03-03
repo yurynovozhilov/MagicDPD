@@ -6,13 +6,14 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_154
 tags:
+  - enginsoft
   - Mechanical
   - Workbench
-  - enginsoft
-  - ACT
   - ANSYS
+  - ACT
 ---
 
+Параметризация многошаговых нагрузок в ANSYS
 https://appstore.ansys.com/download?prodid=APC-ACTAPP-153
 
 Одной из фишек #ANSYS #Workbench является возможность тотальной параметризации всего и вся буквально в один клик. Однако, тут есть досадное упущение: когда вы используете многошаговое нагружение в #Mechanical, вы не можете параметризовать изменение нагрузки на каждом шаге нагружения.

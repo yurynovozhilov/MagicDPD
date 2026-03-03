@@ -1,26 +1,18 @@
 ---
-date: 2018-10-08 17:00:23+00:00
+layout: post
+title: "Ищу ученика"
+date: 2018-10-08T17:00:24+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1139
+tags:
+  - LSDYNA
+  - Blast
 images:
-- url: /assets/images/1138.jpg
-link_previews:
-- description: Документ обсуждает методики моделирования взрывов с помощью программного
-    обеспечения ANSYS LS-DYNA, включая моделирование детонации и эмпирические модели.
-    Основное внимание уделено способам анализа воздействия взрывных волн на различные
-    объекты и методы учета химических реакций. Показаны примеры расчетов и практические
-    приложения моделирования при различных сценариях взрывов. - Download as a PPTX,
-    PDF or view online for free
-  image: https://cdn.slidesharecdn.com/ss_thumbnails/ansysls-dyna-180110115402-thumbnail.jpg?width=640&height=640&fit=bounds
-  title: Методики моделирования взрывов в ANSYS LS-DYNA
-  url: https://www.slideshare.net/YuryNovozhilov/ansys-lsdyna-85968234
-- description: I am an engineer, and this is my passion! https://linktr.ee/GlukRazor
-  image: https://cdn4.telesco.pe/file/GN6V8vFRJx1vBY75374k2TKbzMP20acfIdh7VwywQYHLxLQNmi-eTGWEbS0zEJW5uO7DUYrGC-bph7oCb0r-yQS8dF_9WjI5SjCAMabiEY-6MlmbYqmwHhoiXDe7N0YvsOEu8YY5QWdrwsf8sw17fc7fEOv3ZkOd_uKwQr-6mu4leNb6rtlA4rXWhMKj_naLE5Q1WHz91A7tjfWqMrusbTU28h0J-0BHw3H5WHYTcTLkKKMz7Lcbl1ZuCBYTKkNA2aiTs2AcFO7FnsY33BmP9reSVSMdTbx57QYvATULXnpnHhltTWHrlhgi2Zh5wTCIzbPOyzuiRIaoZMz0mGr7yw.jpg
-  title: Yury Novozhilov
-  url: https://t.me/GlukRazor
-original_url: https://t.me/MagicDPD/1138
-source: tg
-title: Ищу ученика
+  - url: "/assets/images/1140.jpg"
 ---
 
+Ищу ученика
 Да, я снова его ищу, ибо хороших учеников много не бывает. Хотите побыть Тони Старком?
 
 Как вы знаете, я люблю все решать в LS-DYNA. Она очень хорошо может моделировать взрывы. Тут есть:

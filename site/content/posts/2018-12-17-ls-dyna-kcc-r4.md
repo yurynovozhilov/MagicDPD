@@ -1,43 +1,53 @@
 ---
+layout: post
 title: "LS-DYNA KCC R4"
 date: 2018-12-17T17:00:17+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1269"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1270
+tags:
+  - SPH
+  - KCC
+  - Concrete
+  - RHT
+  - CSCM
+  - DEFINEADAPTIVESOLIDTOSPH
 images:
-  - url: "/assets/images/1269.jpg"
+  - url: "/assets/images/1271.jpg"
 ---
 
+LS-DYNA KCC R4
 Случайно наткнулся на материалы одной около военной конференции, где подробно рассматривали задачу пробивания неармированной бетонной плиты. Считали, как водится, в LS-DYNA. Но самое интересное тут в моделях материалов. При этом использовали такие важные бетонные модели как:
 
-  
-    
-      
-        
-          Karagozian & Case Concrete Model, Release 3 (*MAT_CONCRETE_DAMAGE_REL3)
-        
-        
-          Continuous Surface Cap Model (*MAT_CSCM)
-        
-        
-          Riedel-Hiermaier-Thoma Model (*MAT_RHT)
-        
-        
-          Winfrith Concrete Model (*MAT_WINFRITH_CONCRETE)
-        
-        
-          Johnson-Holmquist Concrete Model (*MAT_JOHNSON_HOLMQUIST_CONCRETE)
-        
-        
-          Karagozian & Case Concrete Model, Release 4
-        
-      
-    
-  
 
 
-  
-     
-  
+
+
+Karagozian & Case Concrete Model, Release 3 (*MAT_CONCRETE_DAMAGE_REL3)
+
+
+Continuous Surface Cap Model (*MAT_CSCM)
+
+
+Riedel-Hiermaier-Thoma Model (*MAT_RHT)
+
+
+Winfrith Concrete Model (*MAT_WINFRITH_CONCRETE)
+
+
+Johnson-Holmquist Concrete Model (*MAT_JOHNSON_HOLMQUIST_CONCRETE)
+
+
+Karagozian & Case Concrete Model, Release 4
+
+
+
+
+
+
+
+
+
 
 
 
@@ -48,7 +58,7 @@ images:
 
 
 
-Для корректного расчета пробивания использовалось адаптивное переключение лагранжевого МКЭ в SPH по мере "смерти элементов", что является одним из передовых правильных подходов в задачах терминальной баллистики. 
+Для корректного расчета пробивания использовалось адаптивное переключение лагранжевого МКЭ в SPH по мере "смерти элементов", что является одним из передовых правильных подходов в задачах терминальной баллистики.
 Слайды презентации:
 https://ndiastorage.blob.core.usgovcloudapi.net/ndia/2018/intexpsafety/Durant.pdf
 Сопутствующая статья:

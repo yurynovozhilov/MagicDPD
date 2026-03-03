@@ -1,17 +1,19 @@
 ---
-date: 2019-04-11 12:01:15+00:00
+layout: post
+title: "HPC porn: HPE Superdome Flex"
+date: 2019-04-11T12:01:15+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1443
+tags:
+  - HPC
+  - HPE
 images:
-- url: /assets/images/1443.jpg
-link_previews:
-- description: ''
-  image: http://yourmine.ru/i/parking/glob_parking.png
-  title: "Ð¡Ñ\x80Ð¾Ðº Ñ\x80ÐµÐ³Ð¸Ñ\x81Ñ\x82Ñ\x80Ð°Ñ\x86Ð¸Ð¸ Ð´Ð¾Ð¼ÐµÐ½Ð° magicdpd.ru
-    Ð¸Ñ\x81Ñ\x82Ñ\x91Ðº"
-  url: https://wp.me/p9vWYY-2tb
-original_url: https://t.me/MagicDPD/1443
-source: tg
-title: 'HPC porn: HPE Superdome Flex'
+  - url: "/assets/images/1443.jpg"
 ---
+
+HPC porn: HPE Superdome Flex
+
 
 Наши инженеры многое бы отдали за такую систему с общей памятью
 

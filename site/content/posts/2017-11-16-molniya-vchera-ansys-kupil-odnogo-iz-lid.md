@@ -6,13 +6,16 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_612
 tags:
-  - GovCloud
-  - 3DSIM
   - additivemanufacturing
   - exaSIM
+  - GovCloud
+  - 3DSIM
   - cloud
   - AWS
+  - ANSYS
 ---
+
+Молния! Вчера #ANSYS купил одного из лидеров рынка моделирования процессов аддитивного производства, компанию 3DSIM.
 
 Основной решатель #3DSIM называется #exaSIM, и он занимается моделированием процесса послойной 3D печати.
 

@@ -6,13 +6,14 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1307
 tags:
+  - CAD
   - AdditiveManufacturing
   - NTopology
-  - CAD
 images:
   - url: "/assets/images/1308.jpg"
 ---
 
+Доклад nTopology на DEVELOP3D LIVE USA 2018
 На прошедшей конференции было много интересных докладов от передовых CAD/CAE компаний. Но начать я хотел бы с доклада компании nTopology, которая занимается созданием CAD системы нового поколения, разрабатываемой специально для проектирования необыкновенных форм, изготовляемых методами аддитивного производства.
 
 

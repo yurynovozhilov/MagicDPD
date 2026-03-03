@@ -1,51 +1,26 @@
 ---
-date: 2019-02-06 17:00:48+00:00
+layout: post
+title: "Бессеточный CFD решатель PreonLab"
+date: 2019-02-06T17:00:48+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1334
+tags:
+  - preonlab
+  - CFD
+  - meshless
 images:
-- url: /assets/images/1334.jpg
-link_previews:
-- description: Are you looking to optimize the design of the vehicle for water passage?
-    Or would you like to optimize rain water evacuation in order to prevent corrosion
-    an...
-  image: https://i.ytimg.com/vi/3WjJYI8vkK4/maxresdefault.jpg
-  title: Meshless Fluid Simulation
-  url: https://youtu.be/3WjJYI8vkK4
-- description: 'Gearbox mesh by Aniket Malbari (https://grabcad.com/aniket.malbari-1,
-    Email: malbarianiket@gmail.com)With PreonLab 3.1, we take the first step towards
-    bringi...'
-  image: https://i.ytimg.com/vi/CEerYI-BAgE/maxresdefault.jpg
-  title: PreonLab 3.1 - Rigid Body Simulation Showcase
-  url: https://youtu.be/CEerYI-BAgE
-- description: PreonLab is the physical fluid simulation software suite made by FIFTY2.
-    Based on the novel PREON technology, it enables the engineer to simulate high-resolu...
-  image: https://i.ytimg.com/vi/VCswHNhWTmE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGIgYihiMA8=&rs=AOn4CLBEgHE7ZvZJHi1HS-PwUSSx63rDeg
-  title: Drive Through Simulation with PreonLab
-  url: https://www.youtube.com/watch?v=VCswHNhWTmE
-- description: PreonLab benefits from an implicit viscosity solver which imposes no
-    restrictions on the timestep and, therefore, greatly improves the performance
-    in simulat...
-  image: https://i.ytimg.com/vi/osFWUdn0TmQ/maxresdefault.jpg
-  title: PreonLab - Static Mixer for Highly Viscous Fluids
-  url: https://www.youtube.com/watch?v=osFWUdn0TmQ
-- description: 'CFD Software PreonLab accelerates virtual testing: Intuitive workflows,
-    real insights, faster results. Explore next generation simulation with multiphase'
-  image: ''
-  title: CFD Software PreonLab – virtual materials – real insights | FIFTY2
-  url: https://www.fifty2.eu/preonlab/
-- description: ''
-  image: http://yourmine.ru/i/parking/glob_parking.png
-  title: "Ð¡Ñ\x80Ð¾Ðº Ñ\x80ÐµÐ³Ð¸Ñ\x81Ñ\x82Ñ\x80Ð°Ñ\x86Ð¸Ð¸ Ð´Ð¾Ð¼ÐµÐ½Ð° magicdpd.ru
-    Ð¸Ñ\x81Ñ\x82Ñ\x91Ðº"
-  url: https://wp.me/p9vWYY-2jc
-original_url: https://t.me/MagicDPD/1334
-source: tg
-title: Бессеточный CFD решатель PreonLab
+  - url: "/assets/images/1334.jpg"
 ---
+
+Бессеточный CFD решатель PreonLab
+
 
 Похоже, сеточные методы уже всем поднадоели. PreonLab — очередной бессеточный CFD решатель, разработанный немецкой компанией FIFTY2 Technology GmbH.
 
 
 
-  https://youtu.be/3WjJYI8vkK4
+https://youtu.be/3WjJYI8vkK4
 
 
 
@@ -53,7 +28,7 @@ title: Бессеточный CFD решатель PreonLab
 
 
 
-  https://youtu.be/CEerYI-BAgE
+https://youtu.be/CEerYI-BAgE
 
 
 
@@ -61,7 +36,7 @@ title: Бессеточный CFD решатель PreonLab
 
 
 
-  https://www.youtube.com/watch?v=VCswHNhWTmE
+https://www.youtube.com/watch?v=VCswHNhWTmE
 
 
 
@@ -69,7 +44,7 @@ title: Бессеточный CFD решатель PreonLab
 
 
 
-  https://www.youtube.com/watch?v=osFWUdn0TmQ
+https://www.youtube.com/watch?v=osFWUdn0TmQ
 
 
 

@@ -6,14 +6,15 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_76
 tags:
-  - BigData
-  - BCM
-  - HPC
   - cloud
-  - Docker
+  - HPC
   - AWS
+  - Docker
+  - BCM
+  - BigData
 ---
 
+Новый Bright Cluster Manager уже доступен для закачки
 http://www.brightcomputing.com/blog/the-new-release-of-bright-cluster-manager-is-now-shipping
 
 Лидер рынка независимых (от вендоров железа) систем управления #HPC кластерами Bright Cluster Manager (#BCM) от голландской компании Bright Comuting обновился до версии 7.3.

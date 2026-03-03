@@ -1,17 +1,16 @@
 ---
-date: 2023-07-07 15:01:02+00:00
+layout: post
+title: "Wildkatze CFD solver"
+date: 2023-07-07T15:01:02+00:00
+author: "Yury Novozhilov"
+source: vk
+original_url: https://vk.com/wall-97265142_2463
 images:
-- url: /assets/images/2463.jpg
-- url: /assets/images/2464.jpg
-link_previews:
-- description: Multiphysics Solver
-  image: ''
-  title: Wildkatze Multiphysics Solver
-  url: https://fvus.github.io/wildkatze/
-original_url: https://t.me/MagicDPD/2463
-source: tg
-title: Wildkatze CFD solver
+  - url: "/assets/images/2463.jpg"
+  - url: "/assets/images/2464.jpg"
 ---
+
+Wildkatze CFD solver
 
 wildkatze берет свое начало из проетка FVUS (Finite Volume Utilities and Solvers), который был начат 1 января 2015 года с целью создания очень надежного и хорошо адаптируемого многодисциплинарного решателя.
 

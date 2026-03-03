@@ -1,19 +1,20 @@
 ---
-date: 2021-03-25 13:02:28+00:00
-link_previews:
-- description: Enjoy the videos and music you love, upload original content, and share
-    it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
-  url: https://www.youtube.com/watch?v=plsZPkpHQxk
-- description: ''
-  image: ''
-  title: URL Shortener, Branded Short Links & Analytics | TinyURL
-  url: https://tinyurl.com/yfzmb774
-original_url: https://t.me/MagicDPD/1931
-source: tg
-title: Очень горячая прокатка
+layout: post
+title: "Очень горячая прокатка"
+date: 2021-03-25T13:02:28+00:00
+author: "MagicDPD"
+source: vk
+original_url: https://vk.com/wall-97265142_1931
+tags:
+  - cadfem
+  - efg
+  - ls
+  - meshless
+  - ansys
 ---
+
+Очень горячая прокатка
+
 
 https://www.youtube.com/watch?v=plsZPkpHQxk
 

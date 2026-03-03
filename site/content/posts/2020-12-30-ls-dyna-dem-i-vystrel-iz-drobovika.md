@@ -1,11 +1,15 @@
 ---
+layout: post
 title: "LS-DYNA DEM и выстрел из дробовика"
 date: 2020-12-30T13:00:15+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1879"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1879
+tags:
+  - DEM
+  - LS_DYNA
 images:
   - url: "/assets/images/1879.jpg"
 ---
 
-#DEM #LS_DYNA
-by GlukRazor
+LS-DYNA DEM и выстрел из дробовика

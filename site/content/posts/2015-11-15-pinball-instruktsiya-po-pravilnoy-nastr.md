@@ -6,7 +6,9 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_709
 tags:
+  - ANSYS
   - FEA
+  - Mechanical
 ---
 
-
+Pinball - инструкция по правильной настройке контактов в #ANSYS #Mechanical

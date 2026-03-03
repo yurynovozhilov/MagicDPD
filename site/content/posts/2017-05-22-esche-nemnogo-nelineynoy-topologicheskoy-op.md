@@ -6,12 +6,13 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_356
 tags:
-  - TOSCA
   - optmization
-  - fedesign
   - topology
+  - TOSCA
+  - fedesign
 ---
 
+Еще немного нелинейной топологической оптимизации
 https://www.youtube.com/watch?v=ua76xTK9Wws
 
 Вот так в 2010 году еще независимая #TOSCA от компании #fedesign уже решала задачи топологической оптимизации в нелинейной постановке.

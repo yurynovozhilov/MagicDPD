@@ -7,13 +7,14 @@ source: vk
 original_url: https://vk.com/wall-97265142_411
 tags:
   - LEAP
-  - Composite
   - Fluent
   - DesignXplorer
-  - ANSYS
+  - Composite
   - Mechancial
+  - ANSYS
 ---
 
+История успеха с кубка Америки по яхтенному спорту 2017
 http://www.ansys-blog.com/emirates-team-new-zealand-wins-2017-americas-cup/
 
 #ANSYS рассказывает о том, как его технологии помогли команде Emirates Team New Zealand победить в самой престижной гонке на скоростных парусных судах. Расчетами занимались инженеры австралийского партнера - компании #LEAP Australia

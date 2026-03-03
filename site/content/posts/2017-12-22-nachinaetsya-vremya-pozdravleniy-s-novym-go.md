@@ -7,6 +7,8 @@ source: vk
 original_url: https://vk.com/wall-97265142_670
 ---
 
+Начинается время поздравлений с новым годом. Посмотрим, кто на что способен.
+
 https://www.youtube.com/watch?v=y8r…Media📼 Happy 2018 from the Femto Engineering Team
 
 http://ift.tt/2BQHcfm

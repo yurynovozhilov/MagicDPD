@@ -6,10 +6,12 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1225
 tags:
-  - GridPro
-  - OpenFOAM
   - CFD
+  - OpenFOAM
+  - GridPro
 ---
+
+На старт, внимание, марш!
 
 Пример расчета давления, теплового потока и поверхностного трения вызываемого стартом ракеты. Расчет выполняется в #OpenFOAM и самописном коде MISTRAL. Блочная структурированная сетка готовится с помощью #GridPro.
 

@@ -6,21 +6,24 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_771
 tags:
-  - BrightClusterManager
-  - PBS
-  - torque
-  - DCV
-  - Marc
-  - COMSOL
-  - MSC
-  - lsdyna
-  - CFD
-  - Moldex3D
   - Nastran
-  - ANSYS
-  - FEA
+  - torque
   - Abaqus
+  - FEA
+  - Moldex3D
+  - lsdyna
+  - HPC
+  - DCV
+  - MSC
+  - Marc
+  - CFD
+  - PBS
+  - COMSOL
+  - ANSYS
+  - BrightClusterManager
 ---
+
+Nor-Tech, один из крупнейших в США системных интеграторов специализирующихся на #HPC, запустил демонстрационных кластер, на котором вы можете свободно проверить, что конкретно вам даст настоящий высокопроизводительный ресурс. Уже сейчас на классе доступны следующие программные продукты:
 
 CAE:
 - ANSYS: ANSYS Fluent – CFD,

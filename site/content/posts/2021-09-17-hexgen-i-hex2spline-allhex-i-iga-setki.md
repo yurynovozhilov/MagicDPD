@@ -6,14 +6,16 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_2001
 tags:
-  - bext
-  - open_source
-  - all
-  - iga
-  - ls
   - polycube
+  - all
+  - ls
+  - iga
+  - open_source
   - ansys
+  - bext
 ---
+
+HexGen и Hex2Spline: ALLHEX и IGA сетки для LS-DYNA
 
 Коллеги, на мой взгляд, сегодня просто огненный контент. Представляю вам два открытых набора консольных утилит, HexGen и Hex2Spline, разработанные группой профессора Юнцзе Джессики Чжан (Yongjie Jessica Zhang) в Университете Карнеги-Меллон (Carnegie Mellon University). Что бы лучше понимать, эта группа очень тесно связана со всем, что сейчас делается в области IGA для LS-DYNA и Corefrom.
 

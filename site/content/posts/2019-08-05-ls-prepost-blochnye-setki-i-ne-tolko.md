@@ -1,11 +1,21 @@
 ---
+layout: post
 title: "LS-PrePost: блочные сетки и не только"
 date: 2019-08-05T13:00:37+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1548"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1548
+tags:
+  - mesh
+  - LSTC
+  - LS_PrePost
+  - BlockM
 images:
   - url: "/assets/images/1548.jpg"
 ---
+
+LS-PrePost: блочные сетки и не только
+
 
 Бесплатный LS-PrePost в действительности обладает давольно-таки мощными возможностями по построению сеток. Однако они, к сожалению, остаются неоцененными в силу «удобства интерфейса» данного препоста. Сегодня у нас 3 интенсивных видео, которые показывают, как строить плоскую сетку на основе эскиза, как работать c BlockMesher для объемных задачи, и какие простеющие манипуляции можно проводить с уже готовой сеткой.
 
@@ -34,5 +44,3 @@ images:
 #BlockM #LS_PrePost #LSTC #mesh
 
 https://wp.me/p9vWYY-2CK
-
-by GlukRazor

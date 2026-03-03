@@ -6,13 +6,18 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_2138
 tags:
-  - EM
+  - Ansys
   - APDL
+  - EM
+  - Mechanical
+  - SimuTech
 images:
   - url: "/assets/images/2138.jpg"
   - url: "/assets/images/2139.jpg"
   - url: "/assets/images/2140.jpg"
   - url: "/assets/images/2141.jpg"
 ---
+
+Моделируем эффект Пельте (полупроводниковый холодильник) в #Ansys #Mechanical c #SimuTech
 
 #APDL #EM https://www.youtube.com/watch?v=Lnf4EGptub8

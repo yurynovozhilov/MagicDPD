@@ -8,6 +8,8 @@ original_url: https://vk.com/wall-97265142_1002
 tags:
   - concrete
   - APDL
+  - ANSYS
+  - Mechanical
 ---
 
-
+Армированный бетон: квазиститика в #ANSYS #Mechanical!

@@ -1,15 +1,16 @@
 ---
-date: 2021-12-08 13:03:42+00:00
-link_previews:
-- description: Фильм рассказывает о том, как современные компьютерные технологии меняют
-    традиционный уклад профессии инженера конструктора.СоюзВузФильм, 1986 г.
-  image: https://i.ytimg.com/vi/7Td559kHnA0/maxresdefault.jpg
-  title: САПР в машиностроении. Фильм 1, 1986
-  url: https://youtu.be/7Td559kHnA0
-original_url: https://t.me/MagicDPD/2048
-source: tg
-title: САПР в машиностроении СССР
+layout: post
+title: "САПР в машиностроении СССР"
+date: 2021-12-08T13:03:42+00:00
+author: "MagicDPD"
+source: vk
+original_url: https://vk.com/wall-97265142_2048
+tags:
+  - cad
 ---
+
+САПР в машиностроении СССР
+
 
 https://youtu.be/7Td559kHnA0
 
@@ -20,4 +21,3 @@ https://youtu.be/7Td559kHnA0
 
 #cad
 Something went wrong
-by GlukRazor

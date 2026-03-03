@@ -7,12 +7,13 @@ source: vk
 original_url: https://vk.com/wall-97265142_1274
 tags:
   - ARUP
-  - LSDYNA
   - LSTC
+  - LSDYNA
 images:
   - url: "/assets/images/1275.jpg"
 ---
 
+Моделирование процесса возведения конструкции в LS-DYNA
 Компания ARUP приготовила еще один полезный набор слайдов для тех, кто использует LS-DYNA в гражданском строительстве. Он посвящается набору карт семейства *CONTROL_STAGED_CONSTRUCTION
 
 

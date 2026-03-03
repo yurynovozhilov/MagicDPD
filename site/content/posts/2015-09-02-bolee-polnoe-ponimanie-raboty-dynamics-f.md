@@ -6,8 +6,8 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_297
 tags:
-  - DfCS
   - SpaceClaim
+  - DfCS
 ---
 
-
+Более полное понимание работы Dynamics for SpaceClaim от Algoryx Simulation AB дает хороший пример решения задачи роторной динамики для электродвигателя.

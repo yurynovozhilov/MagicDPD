@@ -1,17 +1,14 @@
 ---
-date: 2024-07-15 11:02:13+00:00
-link_previews:
-- description: In seiner Keynote "Future of Simulation Driven Product Innovation"
-    zur CADFEM Conferencee 2024 präsentiert Dr. Prith Banerjee (CTO, Ansys Inc.),
-    wie Ansys di...
-  image: https://i.ytimg.com/vi/PoZBtwrnMRs/maxresdefault.jpg
-  title: Future of Simulation Driven Product Innovation | Keynote Dr. Prith Banerjee
-  url: https://www.youtube.com/watch?v=PoZBtwrnMRs
-original_url: https://t.me/MagicDPD/2750
-source: tg
-title: Dr. Prith Banerjee Keynote on CASCON2024
+layout: post
+title: "Dr. Prith Banerjee Keynote on CASCON2024"
+date: 2024-07-15T11:02:13+00:00
+author: "Yury Novozhilov"
+source: vk
+original_url: https://vk.com/wall-97265142_2750
 ---
 
-Выступление Притха Банерджи, CTO Ansys, на прошедшей этим летом конференции CADFEM. 
+Dr. Prith Banerjee Keynote on CASCON2024
+
+Выступление Притха Банерджи, CTO Ansys, на прошедшей этим летом конференции CADFEM.
 
 https://www.youtube.com/watch?v=PoZBtwrnMRs

@@ -6,13 +6,16 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_1916
 tags:
-  - thermal
-  - additive_manufacturing
-  - welding
   - apdl
-  - ansys
   - mechanical
+  - thermal
+  - welding
+  - ansys
+  - additive_manufacturing
 ---
+
+Подвижный источник тепла в ANSYS Mechanical
+
 
 https://www.youtube.com/watch?v=nqNNjeZxVlg
 

@@ -5,6 +5,8 @@ date: 2016-03-18T07:00:09+00:00
 author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1440
+tags:
+  - SpaceClaim
 ---
 
-
+Научим старую собаку новым трюкам? Следим за вводным курсом по #SpaceClaim от PADT Inc

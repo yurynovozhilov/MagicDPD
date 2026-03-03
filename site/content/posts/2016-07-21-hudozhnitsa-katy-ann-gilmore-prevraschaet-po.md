@@ -11,5 +11,7 @@ images:
   - url: "/assets/images/50.jpg"
 ---
 
+Художница Katy Ann Gilmore превращает построение сетки в искусство или искусство в построение сетки?
+
 #mesh
 http://lnk.al/1NGG

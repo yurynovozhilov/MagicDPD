@@ -1,9 +1,13 @@
 ---
+layout: post
 title: "2024 International LS-DYNA Conference"
 date: 2024-03-12T17:32:59+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/2666"
+author: "Yury Novozhilov"
+source: vk
+original_url: https://vk.com/wall-97265142_2666
 ---
+
+2024 International LS-DYNA Conference
 
 На этой неделе Ansys объявил даты проведения международной конференции по LS-DYNA. Она, как водится, пройдет в США, в окрестностях Детройта, штат Мичиган. Важные даты:
 - Прием рефератов до конца мая

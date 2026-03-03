@@ -6,15 +6,17 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_593
 tags:
+  - LSPP
+  - ICFD
+  - LSOPT
   - FSI
+  - LSDYNA
   - explicit
   - implicit
-  - ICFD
-  - LSDYNA
-  - LSPP
-  - LSOPT
+  - DYNAMore
 ---
 
+#DYNAMore выпустили отличнейший учебный курс по #LSDYNA для всех и бесплатно! Курс состоит из 10 уроков:
 0. Введение в #LSDYNA и #LSPP
 1. Основы МКЭ
 2. Решение задачи растяжении болта в #explicit и #implicit постановке

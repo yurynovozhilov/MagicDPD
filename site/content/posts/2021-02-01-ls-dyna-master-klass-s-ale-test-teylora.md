@@ -1,15 +1,23 @@
 ---
-date: 2021-02-01 17:54:45+00:00
-link_previews:
-- description: Enjoy the videos and music you love, upload original content, and share
-    it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
-  url: https://www.youtube.com/watch?v=S7IYFWuFyOg
-original_url: https://t.me/MagicDPD/1895
-source: tg
-title: 'LS-DYNA мастер класс: S-ALE тест Тейлора'
+layout: post
+title: "LS-DYNA мастер класс: S-ALE тест Тейлора"
+date: 2021-02-01T17:54:45+00:00
+author: "MagicDPD"
+source: vk
+original_url: https://vk.com/wall-97265142_1895
+tags:
+  - s
+  - cadfem
+  - ansys_lst
+  - ls
+  - cascon
+  - ansys
+  - fsi
+  - taylor
 ---
+
+LS-DYNA мастер класс: S-ALE тест Тейлора
+
 
 https://www.youtube.com/watch?v=S7IYFWuFyOg
 
@@ -20,4 +28,3 @@ https://www.youtube.com/watch?v=S7IYFWuFyOg
 
 #ansys #ansys_lst #cadfem #cascon #fsi #ls #ls-dyna #ls-prepost #s-ale #taylor
 https://tinyurl.com/y4hlvvee
-by GlukRazor

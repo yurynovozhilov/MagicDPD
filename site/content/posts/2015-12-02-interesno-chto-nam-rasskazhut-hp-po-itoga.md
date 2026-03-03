@@ -6,9 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_828
 tags:
+  - HPC
   - HP
   - HPE
-  - HPC
 ---
+
+Интересно, что нам расскажут HP по итогам прошедшей конференции SC'15. Регистрируемся на утро вторника, 8 декабря.
 
 P.S. После разделения HP корпоративную часть компании называют Hewlett Packard Enterprise (HPE)

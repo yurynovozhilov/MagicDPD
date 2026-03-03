@@ -1,17 +1,21 @@
 ---
-date: 2019-03-09 17:01:43+00:00
+layout: post
+title: "MSC изобрел ANSYS Workbench"
+date: 2019-03-09T17:01:43+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1385
+tags:
+  - Workbench
+  - ANSYS
+  - CoSim
+  - MSC
 images:
-- url: /assets/images/1385.jpg
-link_previews:
-- description: ''
-  image: http://yourmine.ru/i/parking/glob_parking.png
-  title: "Ð¡Ñ\x80Ð¾Ðº Ñ\x80ÐµÐ³Ð¸Ñ\x81Ñ\x82Ñ\x80Ð°Ñ\x86Ð¸Ð¸ Ð´Ð¾Ð¼ÐµÐ½Ð° magicdpd.ru
-    Ð¸Ñ\x81Ñ\x82Ñ\x91Ðº"
-  url: https://wp.me/p9vWYY-2nJ
-original_url: https://t.me/MagicDPD/1385
-source: tg
-title: MSC изобрел ANSYS Workbench
+  - url: "/assets/images/1385.jpg"
 ---
+
+MSC изобрел ANSYS Workbench
+
 
 Не могу писать данную новость без сарказма. Все больше CAE компаний очень неповоротливы. Но у ANSYS лет 10 назад получилось реализовать идею, за которую ее тогда все ругали, а теперь все пытаются повторить. Это была идея многодисциплинарной расчетной платформы Workbench. ANSYS Workbench берет на себя все заботы о передаче информации между любыми решателями, работающими в рамках его  проекта, а у ANSYS есть действительно любые решатели.
 

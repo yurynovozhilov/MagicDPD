@@ -11,6 +11,9 @@ tags:
   - lsdyna
 ---
 
+Полностью нелинейный динамический расчет здания при землетрясении
+
+
 https://www.youtube.com/watch?v=84esnU2a4Fg
 
 

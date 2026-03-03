@@ -1,10 +1,21 @@
 ---
+layout: post
 title: "Семинар проРоки!"
 date: 2017-01-28T17:00:17+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/254"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_254
+tags:
+  - NVIDIA
+  - DEM
+  - Rocky
+  - CFD
+  - GPU
+  - ANSYS
+  - Chemkin
 ---
 
+Семинар проРоки!
 https://www.cadfem-cis.ru/list/article/rocky-seminar-2017/
 
 28 февраля 2017 года в здании главного корпуса Санкт-Петербургского горного университета будет проходить важный и интересный семинар «Применение современных компьютерных технологий численного моделирования для решения задач минерально-сырьевого сектора».

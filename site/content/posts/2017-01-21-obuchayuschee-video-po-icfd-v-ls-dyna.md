@@ -1,16 +1,18 @@
 ---
-date: 2017-01-21 17:02:07+00:00
-link_previews:
-- description: A tutorial about how to set up a flow over a 2D cylinder, the example
-    can be downloaded at http://www.dynaexamples.com/icfd/basics-examples/cylinder_flow.
-  image: https://i.ytimg.com/vi/_8p929ke3gU/maxresdefault.jpg
-  title: ICFD video how to set up a 2D CFD case in LS-DYNA
-  url: https://www.youtube.com/watch?v=_8p929ke3gU
-original_url: https://t.me/MagicDPD/246
-source: tg
-title: Обучающее видео по ICFD в LS-DYNA
+layout: post
+title: "Обучающее видео по ICFD в LS-DYNA"
+date: 2017-01-21T17:02:07+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_246
+tags:
+  - LSTC
+  - ICFD
+  - CFD
+  - LSDYNA
 ---
 
+Обучающее видео по ICFD в LS-DYNA
 https://www.youtube.com/watch?v=_8p929ke3gU
 
 #LSTC внезапно опубликовали на своем канале сорокаминутное обучающее видео по постановке и решению плоской #CFD задачи при помощи #ICFD решателя #LSDYNA. Очень полезно для новичков.

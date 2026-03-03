@@ -5,8 +5,12 @@ date: 2016-04-21T07:00:59+00:00
 author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1594
+tags:
+  - SimuTech
+  - ANSYS
+  - Mechanical
 images:
   - url: "/assets/images/1594.jpg"
 ---
 
-
+Сколько всего придумано для моделирования такой простой штуки, как болтовое соединение. Методическое пособие/брошюра по этой теме подготовлена #SimuTech для всех пользователей #ANSYS #Mechanical.

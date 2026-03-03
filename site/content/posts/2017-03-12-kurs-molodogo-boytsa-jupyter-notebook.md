@@ -1,15 +1,16 @@
 ---
-date: 2017-03-12 12:00:50+00:00
-link_previews:
-- description: ''
-  image: ''
-  title: Before you continue to YouTube
-  url: https://www.youtube.com/playlist?list=PLwCnsQacFoW4XtU9RAtjZr_jJzHD3SdE7
-original_url: https://t.me/MagicDPD/298
-source: tg
-title: Курс молодого бойца Jupyter Notebook
+layout: post
+title: "Курс молодого бойца Jupyter Notebook"
+date: 2017-03-12T12:00:50+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_298
+tags:
+  - Python
+  - Jupyter
 ---
 
+Курс молодого бойца Jupyter Notebook
 https://www.youtube.com/playlist?list=PLwCnsQacFoW4XtU9RAtjZr_jJzHD3SdE7
 
 #Jupyter Notebook - это отличная штука для тех, кому нужно выполнять околонаучные расчеты с использованием #Python. На мой вкус, это намного более удобный и функциональный инструмент, чем платные системы математики.

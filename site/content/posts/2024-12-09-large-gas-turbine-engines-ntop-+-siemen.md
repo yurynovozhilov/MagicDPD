@@ -7,6 +7,9 @@ source: vk
 original_url: https://vk.com/wall-97265142_2853
 ---
 
+Large Gas Turbine Engines: nTop + Siemens Energy at CDFAM NYC 2024
+
+
 Меня больше всего порождают размеры файлов. 6 Mb для nTop с аналитической точностью, тогда как STL надо 5 Gb, и это конечная точность.
 
 https://www.youtube.com/watch?v=kcPEzdEVjw0

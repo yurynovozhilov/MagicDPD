@@ -7,11 +7,11 @@ source: vk
 original_url: https://vk.com/wall-97265142_1756
 tags:
   - optimization
-  - DesignXplorer
-  - ANSYS
   - Response_Surfaces
+  - ANSYS
+  - DesignXplorer
 images:
   - url: "/assets/images/1756.jpg"
 ---
 
-
+Работа с поверхностями отклика в ANSYS DX

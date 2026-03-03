@@ -7,4 +7,4 @@ source: vk
 original_url: https://vk.com/wall-97265142_183
 ---
 
-
+Кому посчитать запорную арматуру в браузере - тому в SimScale.

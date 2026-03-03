@@ -6,16 +6,19 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1445
 tags:
-  - Discovery
-  - GPU
-  - Live
   - optimization
-  - ANSYS
-  - Topology
+  - Discovery
   - level_set_method
+  - Topology
+  - GPU
+  - ANSYS
+  - Live
 images:
   - url: "/assets/images/1445.jpg"
 ---
+
+Оптимизация топологии в ANSYS на GPU — легко!
+
 
 Это решение напрашивалось уже давно. Задачи оптимизации топологии обычно очень ресурсоемки — ведь на каждой итерации вам предстоит рассчитать энергию деформации всего расчетного домена, который существенно больше итоговой конструкции. Как ускорить данный процесс?
 

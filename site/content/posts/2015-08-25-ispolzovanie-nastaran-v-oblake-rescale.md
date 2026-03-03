@@ -7,4 +7,4 @@ source: vk
 original_url: https://vk.com/wall-97265142_264
 ---
 
-
+Использование Nastaran в облаке Rescale.com для NVH расчета кузова автомобиля.

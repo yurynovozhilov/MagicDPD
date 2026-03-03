@@ -6,14 +6,15 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_259
 tags:
-  - python
-  - AIM
-  - Workbench
-  - ACT
-  - ANSYS
   - GUI
+  - python
+  - Workbench
+  - AIM
+  - ANSYS
+  - ACT
 ---
 
+ANSYS App Builder
 https://www.youtube.com/watch?v=xYJPgdOdD3k
 
 В #ANSYS 18 появилось такое приложение, как ANSYS App Builder, и, на мой взгляд, это самое крутое нововведение в R18!

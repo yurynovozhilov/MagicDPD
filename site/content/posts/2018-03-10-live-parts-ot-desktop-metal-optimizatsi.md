@@ -6,15 +6,16 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_841
 tags:
-  - GPU
-  - Optimization
+  - Topology
   - SolidWorks
   - Desktop_Metal
-  - Topology
+  - GPU
+  - Optimization
 images:
   - url: "/assets/images/842.jpg"
 ---
 
+Live Parts от Desktop Metal - оптимизация топологии конструкции в реальном времени!
 Desktop Metal Lab (https://labs.desktopmetal.com/liveparts/) показали технологию оптимизации формы конструкции в реальном времени!
 
 

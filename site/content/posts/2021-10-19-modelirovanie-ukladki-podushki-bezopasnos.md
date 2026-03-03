@@ -6,11 +6,14 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_2018
 tags:
+  - lsdyna
   - ls
   - airbag
   - ansys
-  - lsdyna
 ---
+
+Моделирование укладки подушки безопасности в LS-DYNA
+
 
 https://www.youtube.com/watch?v=axbvdmrxbBo
 

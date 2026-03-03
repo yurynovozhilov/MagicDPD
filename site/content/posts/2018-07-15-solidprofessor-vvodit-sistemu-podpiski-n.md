@@ -6,17 +6,18 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1015
 tags:
-  - SolidProfessor
   - Inventor
   - Caita
-  - Autodesk
-  - Onshape
+  - SolidProfessor
   - SolidWorks
+  - Autodesk
   - ANSYS
+  - Onshape
 images:
   - url: "/assets/images/1016.jpg"
 ---
 
+SolidProfessor вводит систему подписки на свою библиотеку курсов
 Пожалуй самая крупная из существующих платформ online обучения для инженеров вводит новую модель монетизации. Если раньше вы приобретали права на просмотр того или иного учебного курса, то теперь вы можете подписаться на доступ ко всей библиотеке за $49 в месяц.
 А платить есть за что: на платформе есть учебные материалы по таким системам, как Solidworks, ANSYS, Autodesk,  Caita, Inventor, Onshape и многому другому (https://www.solidprofessor.com/tutorials/).
 https://www.develop3d.com/blog/solidprofessor-announces-single-plan-pricing-solidworks-education

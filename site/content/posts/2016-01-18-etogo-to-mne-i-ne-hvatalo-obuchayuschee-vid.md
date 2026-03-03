@@ -6,9 +6,10 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1098
 tags:
-  - LSDYNA
   - LSPP
+  - ICFD
   - CFD
+  - LSDYNA
 ---
 
-
+Этого-то мне и не хватало: обучающее видео на тему решения задачи гидродинамики в допущении несжимаемости потока при помощи LS-DYNA Incompressible CFD (#ICFD). На этот раз нас научат пользовать LS-PerPost 4.3 для постпроцессинга.

@@ -7,6 +7,8 @@ source: vk
 original_url: https://vk.com/wall-97265142_648
 ---
 
+Ply-based composite modeling with the new *ELEMENT_SHELL_COMPOSITE keyword.
+
 http://ift.tt/2AFXG9h
 
 Статья от 2011 года про дружбу LS-DYNA и ANSYS Composite PrepPost и пара комментариев к ней от меня:

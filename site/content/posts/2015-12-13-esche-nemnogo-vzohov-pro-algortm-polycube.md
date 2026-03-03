@@ -9,4 +9,4 @@ tags:
   - MESH
 ---
 
-
+Еще немного взохов про алгортм PolyCube Based Automatic Hex-Mesh Generation (UBC). Какая же хорошая сетка!

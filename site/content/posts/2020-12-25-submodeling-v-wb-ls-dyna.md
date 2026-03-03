@@ -1,11 +1,17 @@
 ---
+layout: post
 title: "Submodeling в WB LS-DYNA"
 date: 2020-12-25T15:25:01+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1876"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1876
+tags:
+  - LS_DYNA
+  - submodeling
+  - ANSYS
+  - Ozen
 images:
   - url: "/assets/images/1876.jpg"
 ---
 
-#ANSYS #LS_DYNA #Ozen #submodeling
-by GlukRazor
+Submodeling в WB LS-DYNA

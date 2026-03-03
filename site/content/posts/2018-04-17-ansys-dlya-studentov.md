@@ -1,14 +1,16 @@
 ---
+layout: post
 title: "ANSYS для студентов"
 date: 2018-04-17T18:46:13+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/901"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_902
 images:
-  - url: "/assets/images/901.jpg"
   - url: "/assets/images/903.jpg"
   - url: "/assets/images/904.jpg"
 ---
 
+ANSYS для студентов
 Коллеги, никогда не прекращайте учиться! А если для этого вам необходимы инструменты ANSYS, то вы просто обязаны зайти на сайт ansys.com/student - на нем вы сможете совершенно бесплатно и без SMS скачать студенческие версии ПО.
 
 

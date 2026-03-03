@@ -9,12 +9,13 @@ tags:
   - Mallett_Technology
   - Python
   - Parametrisation
-  - ANSYS
   - SpaceClaim
+  - ANSYS
 images:
   - url: "/assets/images/1588.jpg"
 ---
 
+Параметризация и автоматизация в SpaceClaim
 Mallett Technology подготовили обучающий вебинар по очень важной и очень плохо изученной теме — автоматизация работы SpaceClaim при помощи python-скриптов. Коллеги показывают как записывать журнал проекта, как создавать переменные и именованные выборки, которые потом будут видны в рамках Workbench.
 
 

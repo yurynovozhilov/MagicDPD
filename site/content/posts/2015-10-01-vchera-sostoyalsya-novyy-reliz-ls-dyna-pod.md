@@ -6,10 +6,12 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_443
 tags:
-  - dem
   - lsdyna
   - fem
+  - dem
 ---
+
+Вчера состоялся новый релиз LS-DYNA под версией 8.0.0 R8.95309.
 
 Из принципиально нового:
 - *SET_POROUS_ALE для пористости тел в ALE постановке

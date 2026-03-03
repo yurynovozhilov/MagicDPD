@@ -1,13 +1,14 @@
 ---
+layout: post
 title: "Два типа CAE"
 date: 2018-04-08T09:37:29+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/888"
-images:
-  - url: "/assets/images/888.jpg"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_889
 ---
 
+Два типа CAE
 Бьёрн Страуструп как-то заметил, что есть два типа языков программирования: те, про которые никто не знает, и те, которые все ненавидят. Как вы думаете, а для CAE такая классификация работает? Какой решатель или препост вы ненавидите?
- 
+
 
 https://is.gd/opERCK

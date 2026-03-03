@@ -1,12 +1,18 @@
 ---
+layout: post
 title: "ANSYS Mechanical 2019R3"
 date: 2019-09-14T13:00:20+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1583"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1583
+tags:
+  - ANSYS
+  - Mechanical
 images:
   - url: "/assets/images/1583.jpg"
 ---
 
+ANSYS Mechanical 2019R3
 На мой взгляд, это самый сильный релиз ANSYS этого года — просто громадное количество изменений и улучшений. Я упомяну только три самых запомнившихся мне улучшения.
 
 
@@ -20,5 +26,3 @@ SMART Fracture теперь может растить трещины на имп
 
 
 Наконец довели до ума интеграцию ANSYS Mechanical и AQWA для получения океанических нагрузок на суда и прибрежные сооружения — судостроители должны оценить.
-#ANSYS #Mechanical
-by GlukRazor

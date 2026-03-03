@@ -6,7 +6,14 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_458
 tags:
+  - HyperBlocks
+  - HyperMesh
   - tetrisMediaMedia
+  - тетрис
+  - Korea
+  - Altair
 ---
+
+#Altair #Korea сделали расширение #HyperBlocks  для #HyperMesh, которое позволяет вам поиграть в #тетрис!!!
 
 #tetrisMediaMedia🔗 한국알테어 온라인 스토어

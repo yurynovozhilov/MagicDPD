@@ -6,11 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1822
 tags:
+  - SpaceClaim
   - LEAP
   - ANSYS
-  - SpaceClaim
 images:
   - url: "/assets/images/1822.jpg"
 ---
 
-
+Обзор/тренинг по SpaceClaim 2020R2 от LEAP

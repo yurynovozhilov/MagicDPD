@@ -6,13 +6,15 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_489
 tags:
+  - Explicit
+  - SPH
+  - lsdyna
   - ALE
   - Autodyn
   - Dytran
-  - SPH
-  - lsdyna
-  - Explicit
 ---
+
+Подборка видео выходного дня, которая лучше котиков. Ну ведь правда кумулятивный эффект лучше котиков?
 
 Процессы моделируют в эйлеровом домене или методом сглаженных частиц. Решатели очень разные. Тут есть и Autodyn, и LS-DYNA, и Dytran и еще что-то неопознанное.
 

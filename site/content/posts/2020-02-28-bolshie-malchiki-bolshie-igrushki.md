@@ -1,11 +1,15 @@
 ---
+layout: post
 title: "Большие мальчики — большие игрушки"
 date: 2020-02-28T13:00:34+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1708"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1708
+tags:
+  - DEM
+  - UMIT_Research_Lab
 images:
   - url: "/assets/images/1708.jpg"
 ---
 
-#DEM #UMIT_Research_Lab
-by GlukRazor
+Большие мальчики — большие игрушки

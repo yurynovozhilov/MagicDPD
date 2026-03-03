@@ -6,10 +6,13 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_1933
 tags:
+  - fragmentation
   - ls
   - sph
-  - fragmentation
 ---
+
+Моделирование разрушения и фрагментации при помощи SPH
+
 
 https://youtu.be/p0e8pTs0zgU?list=WL
 

@@ -1,21 +1,21 @@
 ---
-date: 2018-10-30 17:01:44+00:00
+layout: post
+title: "CivilFEM для Workbech"
+date: 2018-10-30T17:01:47+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1181
+tags:
+  - CivilFEM
+  - Ingeciber
+  - Mechanical
+  - Workbench
+  - ACT
 images:
-- url: /assets/images/1180.jpg
-link_previews:
-- description: ''
-  image: ''
-  title: CivilFEM® APPs for ANSYS® Workbench™ | CivilFEM
-  url: http://www.civilfem.com/civilfem-apps-for-ansys-workbench-1/
-- description: ''
-  image: ''
-  title: CivilFEM® APPs for ANSYS® Workbench™ | CivilFEM
-  url: http://www.civilfem.com/civilfem-apps-for-ansys-workbench-2/
-original_url: https://t.me/MagicDPD/1180
-source: tg
-title: CivilFEM для Workbech
+  - url: "/assets/images/1182.jpg"
 ---
 
+CivilFEM для Workbech
 14 ноября Ingeciber на своем вебинаре покажет нечто под названием CivilFEM APPs - похоже это будет тот самый долгожданный ACT для работы со всеми возможностями CivilFEM не в черном экране смерти, а в современной системе Mechanical.
 Бесплатная регистрация на две сессии по ссылкам:
 http://www.civilfem.com/civilfem-apps-for-ansys-workbench-1/

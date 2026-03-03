@@ -1,14 +1,17 @@
 ---
-date: 2021-12-15 14:01:40+00:00
-link_previews:
-- description: ''
-  image: ''
-  title: URL Shortener, Branded Short Links & Analytics | TinyURL
-  url: https://tinyurl.com/yybthdtm
-original_url: https://t.me/MagicDPD/2051
-source: tg
-title: Signed Von Mises stress
+layout: post
+title: "Signed Von Mises stress"
+date: 2021-12-15T14:01:40+00:00
+author: "MagicDPD"
+source: vk
+original_url: https://vk.com/wall-97265142_2051
+tags:
+  - lsdyna
+  - ls
+  - ansys
 ---
+
+Signed Von Mises stress
 
 Одной из грубейших ошибок при обработке результатов является необдуманный вывод напряжений по Мизесу для не изотропных или не равнопрочных на растяжение/сжатие материалов. Данные напряжения в общем случае можно показывать только для материалов, для которых справедлива 4-ая теория прочности (теория наибольшей удельной потенциальной энергии формоизменения). А если вы показываете напряжения по Мизесу для, скажем, композитов или бетонов (и не делаете пояснения, почему так в данном случае все-таки можно), то с вашим пониманием механики что-то не так. Напряжения по Мизесу просто не несут информации о том, где материал сжат, а где растянут.
 
@@ -22,4 +25,3 @@ title: Signed Von Mises stress
 
 #ansys #ls-prepost #lsdyna
 https://tinyurl.com/yybthdtm
-by GlukRazor

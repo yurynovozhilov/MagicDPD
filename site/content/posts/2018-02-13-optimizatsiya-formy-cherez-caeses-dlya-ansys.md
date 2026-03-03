@@ -1,23 +1,21 @@
 ---
-date: 2018-02-13 18:02:32+00:00
+layout: post
+title: "Оптимизация формы через CAESES для ANSYS"
+date: 2018-02-13T18:02:32+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_791
+tags:
+  - optimization
+  - Workbench
+  - ACT
+  - ANSYS
+  - CAESES
 images:
-- url: /assets/images/790.jpg
-link_previews:
-- description: Simulation-driven shape optimization in ANSYS. Robustly generate geometry
-    variants with CAESES. Fast, simple and fully automated.
-  image: ''
-  title: Shape Optimization in ANSYS with CAESES › CAESES
-  url: https://www.caeses.com/blog/2018/shape-optimization-in-ansys-with-caeses/
-- description: ''
-  image: http://yourmine.ru/i/parking/glob_parking.png
-  title: "Ð¡Ñ\x80Ð¾Ðº Ñ\x80ÐµÐ³Ð¸Ñ\x81Ñ\x82Ñ\x80Ð°Ñ\x86Ð¸Ð¸ Ð´Ð¾Ð¼ÐµÐ½Ð° magicdpd.ru
-    Ð¸Ñ\x81Ñ\x82Ñ\x91Ðº"
-  url: https://wp.me/p9vWYY-1CE
-original_url: https://t.me/MagicDPD/790
-source: tg
-title: Оптимизация формы через CAESES для ANSYS
+  - url: "/assets/images/795.jpg"
 ---
 
+Оптимизация формы через CAESES для ANSYS
 Сегодня мы посмотрим, как встроить CAESES в схематику проекта ANSYS Workbench
 
 <!--more-->
@@ -31,5 +29,5 @@ CAESES, от CAE System Empowering Simulation, представляет соб�
 У CAESES есть специальное ACT расширение, которое позволяет встраиваться в проект Workbench в  качестве поставщика геометрии, связываться по параметрам.
 
 <a href="https://www.caeses.com/blog/2018/shape-optimization-in-ansys-with-caeses/">https://www.caeses.com/blog/2018/shape-optimization-in-ansys-with-caeses/</a>
- #ACT #ANSYS #CAESES #optimization #Workbench
+#ACT #ANSYS #CAESES #optimization #Workbench
 https://wp.me/p9vWYY-1CE

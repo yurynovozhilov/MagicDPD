@@ -1,29 +1,13 @@
 ---
-date: 2025-06-05 12:33:12+00:00
-link_previews:
-- description: 'Exclusive: Synopsys Inc Halts China Sales Amid U.S. Export Restrictions
-
-
-    Synopsys has suspended all product sales and services in China, including new
-    orders, effective May 29, 2025, per an internal memo reviewed by Reuters. This
-    follows new export restrictions from the U.S. Department of Commerce’s Bureau
-    of Industry and Security.
-
-
-    Key points:
-
-    ▪️ The company has paused both annual and quarterly forecasts due to regulatory
-    uncertainty.
-
-    ▪️ The restrictions impact all Chinese customers, including'
-  image: https://media.licdn.com/dms/image/v2/D5622AQG-ds75FydUAg/feedshare-shrink_800/B56Zcmtc67G0Ak-/0/1748701139345?e=2147483647&v=beta&t=o1CQG94zcgyUacXzvw-30815G-QQxlwgaX06To9D9Ng
-  title: '#semiconductors #eda #synopsys #exportcontrols #china #uschinatech #chipdesign
-    #geopolitics #cadence #siemenseda | Robert Quinn | 18 comments'
-  url: https://www.linkedin.com/posts/robertquinn2020_semiconductors-eda-synopsys-activity-7334584190811688961-ogPX
-original_url: https://t.me/MagicDPD/2958
-source: tg
-title: Когда уже наконец Синопсис скушает Ансис?
+layout: post
+title: "Когда уже наконец Синопсис скушает Ансис?"
+date: 2025-06-05T12:33:12+00:00
+author: "Yury Novozhilov"
+source: vk
+original_url: https://vk.com/wall-97265142_2958
 ---
+
+Когда уже наконец Синопсис скушает Ансис?
 
 Synopsys Inc приостанавливает продажи в Китае на фоне экспортных ограничений США
 

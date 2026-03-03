@@ -7,4 +7,6 @@ source: vk
 original_url: https://vk.com/wall-97265142_669
 ---
 
+Прочностные испытания бетонной балкиMedia📼 Beam Test...watch beam failure in slow-motion!
+
 http://ift.tt/2DvTF8G

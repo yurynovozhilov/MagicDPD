@@ -6,10 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_457
 tags:
-  - CADFEM
   - IDAC
+  - CADFEM
 ---
 
+Основанная в 1996 году компания IDAC Ltd, партнер ANSYS в Великобритании, на минувшей неделе стала частью CADFEM Group.
 Новость об этом компания разместила на своей странице в сети Linkedin.
 
 Не только ANSYS развивается поглощением 😊

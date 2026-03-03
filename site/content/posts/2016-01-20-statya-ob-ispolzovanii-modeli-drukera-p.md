@@ -6,8 +6,8 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1133
 tags:
-  - Mechanical
   - ANSYS
+  - Mechanical
 ---
 
-
+Статья об использовании модели Друкера-Прагера вместо модели клеевого соединения. Даже эксперимент есть!

@@ -6,18 +6,20 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_2016
 tags:
-  - spg
-  - fracture
+  - apdl
   - cadfem
-  - xfem
+  - smart_fracture
+  - vcct
+  - fracture
   - czm
   - lsdyna
-  - apdl
-  - vcct
-  - ansys
-  - smart_fracture
+  - spg
   - peridynamics
+  - ansys
+  - xfem
 ---
+
+Возможности решателей Ansys в области теории разрушения
 
 Коллеги, почему-то даже у меня, когда речь заходит о моделировании роста трещин, не всегда первым вспоминается Ansys Mechanical. Для того, что бы устранить такие ошибки в восприятии я подготовил ликбез вебинар, в котором собрал обзор всех технологий механических решателей Ansys в области моделирования линейного и нелинейного разрушения.
 

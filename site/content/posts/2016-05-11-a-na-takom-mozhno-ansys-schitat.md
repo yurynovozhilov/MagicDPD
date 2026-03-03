@@ -7,4 +7,4 @@ source: vk
 original_url: https://vk.com/wall-97265142_1641
 ---
 
-
+а на таком можно ANSYS  считать?)

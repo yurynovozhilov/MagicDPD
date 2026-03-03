@@ -5,6 +5,9 @@ date: 2015-10-25T08:00:35+00:00
 author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_576
+tags:
+  - FEA
+  - Altair
 ---
 
-
+#Altair тоже участвует в разработках для кубка Америки по парусному спорту. Красиво плывут! #FEA

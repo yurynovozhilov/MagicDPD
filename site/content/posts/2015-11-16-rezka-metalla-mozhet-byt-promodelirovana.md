@@ -6,9 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_713
 tags:
-  - implicit
   - lsdyna
   - EFG
+  - implicit
 ---
+
+Резка металла может быть промоделирована неявным решателем LS-DYNA для адаптивной постановки бессеточного метода Галеркина (r-adaptive Element-Free Galerkin, EFG).
 
 Сетка, которую вы видите - это не совсем сетка. Подробнее в прилагаемой презентации по данному бессеточному методу.

@@ -6,15 +6,16 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1337
 tags:
+  - LS_DYNA
   - lsdyna
+  - peridynamics
   - LSTC
   - SPG
-  - peridynamics
-  - LS_DYNA
 images:
   - url: "/assets/images/1337.jpg"
 ---
 
+Вернемся к перидинамике. Уже сейчас заинтересованные пользователи могут запросить у #LSTC новейшую beta версию LS-DYNA способную работать в данной постановке механики сплошной среды. Очень хочется опробовать данный метод для хрупкого разрушения.
 А еще там будет много вкусностей про Smoothed Particle Galerkin (#SPG) для пластического разрушения.
 #peridynamics #lsdyna
 

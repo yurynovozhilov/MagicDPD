@@ -9,6 +9,8 @@ images:
   - url: "/assets/images/2595.jpg"
 ---
 
+Cadfil - Filament Winding Software & Technology
+
 Еще одна система моделировния намотки. На этот раз, они мотают что- по сложнее сосудов высокого далвения. И да, сайт у них - привет из 80х.
 
 https://www.cadfil.com/

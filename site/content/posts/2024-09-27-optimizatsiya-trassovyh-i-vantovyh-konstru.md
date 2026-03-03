@@ -7,4 +7,6 @@ source: vk
 original_url: https://vk.com/wall-97265142_2789
 ---
 
+Оптимизация трассовых и вантовых конструкций
+
 https://www.youtube.com/live/HM4PftgSK7g?si=4Kxf4S-lnok0d4nU

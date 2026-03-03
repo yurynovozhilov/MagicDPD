@@ -7,6 +7,8 @@ source: vk
 original_url: https://vk.com/wall-97265142_1251
 tags:
   - CFD
+  - Fluent
+  - ANSYS
 ---
 
-
+Рассчитано в #ANSYS #Fluent

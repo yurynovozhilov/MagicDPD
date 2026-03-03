@@ -6,9 +6,9 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1768
 tags:
-  - LSDYNA
-  - FSI
   - ICFD
+  - FSI
+  - LSDYNA
 ---
 
-
+Не болтай ерундой!

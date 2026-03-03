@@ -1,21 +1,21 @@
 ---
-date: 2021-02-11 13:01:21+00:00
-link_previews:
-- description: LayOpt is an interactive web app that allows users to rapidly identify
-    the minimum volume layout (or topology) of a 2D truss.Visit www.layopt.com to
-    try it f...
-  image: https://i.ytimg.com/vi/8OuU5K4iwSM/maxresdefault.jpg
-  title: LayOpt - Interactive Truss Optimization App
-  url: https://www.youtube.com/watch?v=8OuU5K4iwSM
-- description: Interactively explore minimum volume truss layouts for a range of design
-    problems.
-  image: https://www.layopt.com/truss/OG_screenshot.PNG
-  title: LayOpt | Truss layout optimization tool
-  url: https://www.layopt.com/truss/
-original_url: https://t.me/MagicDPD/1903
-source: tg
-title: LayOpt - это вам не bridge builder
+layout: post
+title: "LayOpt - это вам не bridge builder"
+date: 2021-02-11T13:01:21+00:00
+author: "MagicDPD"
+source: vk
+original_url: https://vk.com/wall-97265142_1903
+tags:
+  - topology
+  - limitstateform
+  - optimization
+  - limitstate
+  - layopt
+  - simulationfriday
 ---
+
+LayOpt - это вам не bridge builder
+
 
 https://www.youtube.com/watch?v=8OuU5K4iwSM
 
@@ -38,4 +38,3 @@ LayOpt является интерактивным веб-приложением
 
 #layopt #limitstate #limitstateform #optimization #simulationfriday #topology
 https://tinyurl.com/y2j4j2mx
-by GlukRazor

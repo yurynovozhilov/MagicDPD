@@ -1,20 +1,27 @@
 ---
-date: 2016-12-16 17:00:18+00:00
-link_previews:
-- description: This shows a set of cases where AGX Dynamics is used for granular simulation
-    of bulk material, using a non-smooth DEM (NDEM) approach which works naturally
-    t...
-  image: https://i.ytimg.com/vi/7OA-54FNYVQ/maxresdefault.jpg
-  title: Granular simulation in AGX Dynamics - Overview
-  url: https://www.youtube.com/watch?v=7OA-54FNYVQ
-original_url: https://t.me/MagicDPD/217
-source: tg
-title: AGX Dynamics для частиц
+layout: post
+title: "AGX Dynamics для частиц"
+date: 2016-12-16T17:00:18+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_217
+tags:
+  - RBD
+  - DEM
+  - Rocky
+  - NDEM
+  - GPU
+  - Algoryx
+  - LSDYNA
+  - EDEM
+  - SpaceClaim
+  - AGX
 ---
 
+AGX Dynamics для частиц
 https://www.youtube.com/watch?v=7OA-54FNYVQ
 
-#Algoryx - разработчик Dynamics for #SpaceClaim выкатил новые фишки своего ПО 
+#Algoryx - разработчик Dynamics for #SpaceClaim выкатил новые фишки своего ПО
 
 Из решатель #AGX Dynamics, который является сердцем Dynamics for #SpaceClaim - системы для расчета твердотельной динамики (#RBD) - теперь умеет решать задачи в #DEM постановке. При этом, используется не сферические частицы (привет #LSDYNA) и их кластеры (привет #EDEM), а частицы произвольной формы (привет #Rocky). Такую постановку метода дискретных элементов разработчики окрестили #NDEM (non-smooth discrete element methods). И это все помимо возможности моделировать поведение кабелей и тросов.
 

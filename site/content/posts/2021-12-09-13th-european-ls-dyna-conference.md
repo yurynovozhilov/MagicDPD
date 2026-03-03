@@ -1,14 +1,20 @@
 ---
-date: 2021-12-09 15:30:46+00:00
-link_previews:
-- description: ''
-  image: ''
-  title: URL Shortener, Branded Short Links & Analytics | TinyURL
-  url: https://tinyurl.com/y65sbajb
-original_url: https://t.me/MagicDPD/2049
-source: tg
-title: 13th European LS-DYNA Conference
+layout: post
+title: "13th European LS-DYNA Conference"
+date: 2021-12-09T15:30:46+00:00
+author: "MagicDPD"
+source: vk
+original_url: https://vk.com/wall-97265142_2049
+tags:
+  - lsdyna
+  - ansys
 ---
+
+13th European LS-DYNA Conference
+
+
+
+
 
 Стали доступны материалы 13-ой европейской конференции LS-DYNA, прошедшей в октябре этого года в Германии. Я уже успел скачать все 147 статей просматриваю их на досуге - интереснее любых комиксов.
 
@@ -18,4 +24,3 @@ title: 13th European LS-DYNA Conference
 
 #ansys #lsdyna
 https://tinyurl.com/y65sbajb
-by GlukRazor

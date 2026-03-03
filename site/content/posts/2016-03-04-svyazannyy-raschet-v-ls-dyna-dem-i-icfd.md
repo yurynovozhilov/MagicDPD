@@ -6,9 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1334
 tags:
-  - LSDYNA
+  - ICFD
+  - DEM
   - FSI
   - CFD
+  - LSDYNA
 ---
 
-
+Связанный расчет в LS-DYNA: #DEM и #ICFD. Дискретные частицы захватываются потоком и взаимодействуют с объектом.

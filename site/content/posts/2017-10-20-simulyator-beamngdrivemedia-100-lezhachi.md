@@ -7,4 +7,6 @@ source: vk
 original_url: https://vk.com/wall-97265142_562
 ---
 
+Симулятор BeamNG.driveMedia📼 100 "лежачих полицейских" в ряд на высокой скорост…
+
 http://ift.tt/2iqKwrB

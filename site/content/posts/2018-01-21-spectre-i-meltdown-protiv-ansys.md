@@ -1,24 +1,22 @@
 ---
-date: 2018-01-21 17:01:06+00:00
+layout: post
+title: "Spectre и Meltdown против ANSYS"
+date: 2018-01-21T17:01:07+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_739
+tags:
+  - HPC
+  - Meltdown
+  - Spectre
+  - Mechanical
+  - padtinc
+  - ANSYS
 images:
-- url: /assets/images/738.jpg
-link_previews:
-- description: ''
-  image: ''
-  title: Meltdown and Spectre
-  url: https://spectreattack.com
-- description: Literally, while I was sorting and running benchmarks and prepping
-    the new benchmarks data originally titled. ANSYS Release 18.2 Ball Grid Array
-    Benchmark
-  image: https://www.padtinc.com/wp-content/uploads/2022/02/01152018-t1-meltdown-spectre-numerical-sim-benchmark.png
-  title: Spectre Side-Channel and Meltdown – How will living in this new reality affect
-    the world of numerical simulation? - PADT
-  url: http://www.padtinc.com/blog/the-focus/spectre-side-channel-and-meltdown-how-will-living-in-this-new-reality-affect-the-world-of-numerical-simulation
-original_url: https://t.me/MagicDPD/738
-source: tg
-title: Spectre и Meltdown против ANSYS
+  - url: "/assets/images/740.jpg"
 ---
 
+Spectre и Meltdown против ANSYS
 В начале этого года прогремели новости об обнаружении уязвимостей практически во всех процессорах x86_64 и ARM. Уязвимости получили названия Spectre и Meltdown - у них даже есть свой сайт https://spectreattack.com (а у вас есть? :-)). Я не буду вдаваться в подробности работы уязвимостей, скажу только, что с их появлением можно забыть о концепции защищенной памяти процесса, которая декларировалась уже лет 10 - это огромная дыра в безопасности!
 
 Для исправления уязвимостей были выпущены заплатки на уровне операционных систем, которые исправляют баг, но могут очень здорово просадить производительность системы: от 5 в зависимости от типа решаемой задачи. Перед всеми нами встала дилемма: работать безопасно или работать быстро? Но вот почти никто не стал проверять, насколько проседает производительность в задачах, которые интересны нам - в CAE.
@@ -26,13 +24,13 @@ title: Spectre и Meltdown против ANSYS
 Одними из немногих, кто провел реальные тесты и опубликовал их результаты, оказался коллектив PADT Inc. Коллеги взяли задачу Ball Grid Array из стандартного набора тестов производительности для  ANSYS Mechanical 18.2  Benchmark и выполнили расчет на двухпроцессорной рабочей станции:
 
 
-    CPU: INTEL XEON Gold 6130 CPU x2
-    RAM: 128GB DDR4-2667MHz (1Rx4) ECC REG DIMM
-    OS: Windows 10 Professional
-    MPI: INTEL MPI 5.0.1.3
-    GPU: NVIDIA QUADRO P4000
-    SSD: Samsung EVO 960 Pro NVMe M.2
-    HDD: Toshiba 2TB 7200 RPM SATA 3 Drive
+CPU: INTEL XEON Gold 6130 CPU x2
+RAM: 128GB DDR4-2667MHz (1Rx4) ECC REG DIMM
+OS: Windows 10 Professional
+MPI: INTEL MPI 5.0.1.3
+GPU: NVIDIA QUADRO P4000
+SSD: Samsung EVO 960 Pro NVMe M.2
+HDD: Toshiba 2TB 7200 RPM SATA 3 Drive
 
 
 Результаты получились примерно следующие:
@@ -42,5 +40,5 @@ title: Spectre и Meltdown против ANSYS
 Как можно видеть, производительность на данном тесте падает не более чем на 10%, а в некоторых случаях даже растет (что вообще-то очень странно). Для случая использования высокооптимизированного решателя ANSYS Mechanical исправления уязвимостей Spectre и Meltdown оказыват малое влияние на время расчета.
 
 http://www.padtinc.com/blog/the-focus/spectre-side-channel-and-meltdown-how-will-living-in-this-new-reality-affect-the-world-of-numerical-simulation
- #ANSYS #HPC #Mechanical #Meltdown #padtinc #Spectre
+#ANSYS #HPC #Mechanical #Meltdown #padtinc #Spectre
 https://magicdpd.ru/?p=6002

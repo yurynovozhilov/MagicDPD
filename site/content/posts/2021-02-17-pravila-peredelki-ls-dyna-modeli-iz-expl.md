@@ -6,12 +6,15 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_1908
 tags:
-  - explicit
-  - implicit
   - lsdyna
   - ansys
   - dynamore
+  - explicit
+  - implicit
 ---
+
+Правила переделки LS-DYNA модели из explicit в implicit
+
 
 https://www.youtube.com/watch?v=0pGOwjie_UA
 

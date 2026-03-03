@@ -6,18 +6,19 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_221
 tags:
-  - FSI
-  - CESE
-  - DEM
   - ICFD
+  - DEM
+  - MEFEM
+  - FSI
   - CFD
+  - DYNAmore
   - LSDYNA
   - Implicit
-  - MEFEM
-  - DYNAmore
+  - CESE
   - UDF
 ---
 
+Материалы вебинара по новым возможностям LS-DYNA R9
 https://www.dynamore.se/en/news/meet-dynamore/resources/papers/webinar-ls-dyna-r9-presentations
 
 Шведское подразделение #DYNAmore любезно выложило слайды с прошедшего вебинара по новым возможностям #LSDYNA R9. Для меня это просто праздник какой-то, ибо внутри есть много очень крутых фишек.

@@ -1,23 +1,18 @@
 ---
-date: 2019-02-07 17:01:48+00:00
+layout: post
+title: "Karagozian & Case"
+date: 2019-02-07T17:01:48+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1336
+tags:
+  - KCC
 images:
-- url: /assets/images/1336.jpg
-link_previews:
-- description: Karagozian & Case (K&C) is an internationally recognized science and
-    engineering consulting firm founded in 1945. K&C supports a broad range of clients
-    acros...
-  image: https://i.ytimg.com/vi/5m9DLrpzlLk/maxresdefault.jpg
-  title: Karagozian & Case
-  url: https://www.youtube.com/watch?v=5m9DLrpzlLk&feature=youtu.be
-- description: ''
-  image: http://yourmine.ru/i/parking/glob_parking.png
-  title: "Ð¡Ñ\x80Ð¾Ðº Ñ\x80ÐµÐ³Ð¸Ñ\x81Ñ\x82Ñ\x80Ð°Ñ\x86Ð¸Ð¸ Ð´Ð¾Ð¼ÐµÐ½Ð° magicdpd.ru
-    Ð¸Ñ\x81Ñ\x82Ñ\x91Ðº"
-  url: https://wp.me/p9vWYY-2jG
-original_url: https://t.me/MagicDPD/1336
-source: tg
-title: Karagozian & Case
+  - url: "/assets/images/1336.jpg"
 ---
+
+Karagozian & Case
+
 
 https://www.youtube.com/watch?v=5m9DLrpzlLk&feature=youtu.be
 
@@ -28,5 +23,3 @@ https://www.youtube.com/watch?v=5m9DLrpzlLk&feature=youtu.be
 #KCC
 
 https://wp.me/p9vWYY-2jG
-
-by GlukRazor

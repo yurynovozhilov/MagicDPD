@@ -6,16 +6,19 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_2022
 tags:
-  - spg
-  - fracture
   - cadfem
-  - xfem
+  - vcct
+  - smart_fracture
+  - fracture
   - czm
   - lsdyna
-  - vcct
+  - spg
   - ansys
-  - smart_fracture
+  - xfem
 ---
+
+Возможности решателей Ansys при решении задач теории разрушения
+
 
 https://youtu.be/-zzRTvYFhyw?list=PLhkE5O59hYsGBmcYGkRZZMzKgSUTbTIPd
 

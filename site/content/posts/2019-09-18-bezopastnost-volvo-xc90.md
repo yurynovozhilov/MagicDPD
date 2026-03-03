@@ -7,6 +7,7 @@ source: vk
 original_url: https://vk.com/wall-97265142_1587
 ---
 
+Безопастность Volvo XC90
 Предлагаю вашему вниманию пленарный доклад для NORDIC LS-DYNA USERS FORUM 2014 подготовленный A. Sandahl, J. Jergeus, O. Centeno, D. Macri, A. Ericsson, W. Wu, E. Claesson, P. A. Eggertsen, M. Retzlaff, M. Khoo (Volvo Car). Тема доклада очень простая — безопасность нового Volvo XC90.
 На мой взгляд, идеальное совпадение с экспериментом.
 

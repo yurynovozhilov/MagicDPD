@@ -1,11 +1,17 @@
 ---
+layout: post
 title: "FSAE Car CFD"
 date: 2020-01-28T13:01:04+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1684"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1684
+tags:
+  - CFD
+  - Fluent
+  - Student
+  - ANSYS
 images:
   - url: "/assets/images/1684.jpg"
 ---
 
-#ANSYS #CFD #Fluent #Student
-by GlukRazor
+FSAE Car CFD

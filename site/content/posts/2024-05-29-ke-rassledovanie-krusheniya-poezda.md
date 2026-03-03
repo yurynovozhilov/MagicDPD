@@ -1,14 +1,13 @@
 ---
-date: 2024-05-29 13:01:18+00:00
-link_previews:
-- description: ''
-  image: ''
-  title: Crash Simulation of the Waterfall Train Disaster – LEAP Australia Blog
-  url: https://www.finiteelementanalysis.com.au/fea/crash-simulation-waterfall-train-disaster/
-original_url: https://t.me/MagicDPD/2711
-source: tg
-title: КЭ расследование крушения поезда
+layout: post
+title: "КЭ расследование крушения поезда"
+date: 2024-05-29T13:01:18+00:00
+author: "Yury Novozhilov"
+source: vk
+original_url: https://vk.com/wall-97265142_2711
 ---
+
+КЭ расследование крушения поезда
 
 31 января 2003 года пассажирский поезд G7 из Тангары с четырьмя вагонами, следовавший с Центрального железнодорожного вокзала Сиднея в Порт-Кемблу, сошел с рельсов примерно в 2 километрах к югу от железнодорожной станции Уотерфолл. Машинист и шесть пассажиров погибли, многие пассажиры получили серьезные травмы.
 

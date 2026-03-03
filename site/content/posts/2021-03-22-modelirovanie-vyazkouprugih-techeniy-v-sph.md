@@ -9,6 +9,9 @@ tags:
   - sph
 ---
 
+Моделирование вязкоупругих течений в SPH постановке
+
+
 https://youtu.be/rJrY0Y9LSGM
 
 

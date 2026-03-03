@@ -6,10 +6,13 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_1904
 tags:
+  - open_source
   - opensim
   - biomed
-  - open_source
 ---
+
+OpenSim - моделирование опорно-двигательного аппарата
+
 
 https://www.youtube.com/watch?v=0e6vQV_ioCI
 

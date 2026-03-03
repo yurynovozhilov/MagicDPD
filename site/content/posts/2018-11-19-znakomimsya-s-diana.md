@@ -1,23 +1,21 @@
 ---
-date: 2018-11-19 07:00:55+00:00
+layout: post
+title: "Знакомимся с DIANA"
+date: 2018-11-19T07:00:56+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1221
+tags:
+  - IFC
+  - Revit
+  - DIANA
+  - Autodesk
+  - Civil
 images:
-- url: /assets/images/1220.jpg
-link_previews:
-- description: The DIANA Newsletter - Your Source for the Latest Software News, Events,
-    and Technical Insights.
-  image: https://dianafea.com/wp-content/uploads/2024/06/favicon-DIANA.png
-  title: Home - DIANA
-  url: https://dianafea.com
-- description: Creating impactful innovations for the sustainable wellbeing and prosperity
-    of society.
-  image: https://www.tno.nl/publish/varianten/2/tno_innovation_for_life.jpg
-  title: Innovation for life | TNO
-  url: https://www.tno.nl/en/
-original_url: https://t.me/MagicDPD/1220
-source: tg
-title: Знакомимся с DIANA
+  - url: "/assets/images/1222.jpg"
 ---
 
+Знакомимся с DIANA
 Мои читатели рассказали мне, что есть такая штука, как DIANA, и я решил обратить на нее внимание. Итак, DIANA (DIaplacement ANAlyser, https://dianafea.com) - КЭ код общего назначения, разработанный специально для решения задач гражданского строительства, нефтянки и геомеханики. Код ведет ведет свою историю с 1972 года, когда его разработкой занялись в Нидерландах TNO Building and Construction Research (https://www.tno.nl/en/) на базе закрытого кода COLOS 70-х годов разработки. Так что DIANA - тертый калач, постарше NASTRAN и ANSYS.
 А для начала знакомства с кодом стоит посмотреть часовой вебинар, посвященной вышедшей недавно версии DIANA 10.2
 

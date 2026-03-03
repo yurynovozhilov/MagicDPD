@@ -6,12 +6,15 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_2000
 tags:
-  - spg
+  - bpm
   - mining
+  - spg
   - itasca
   - dem
-  - bpm
 ---
+
+Метод связанных частиц в механике горных пород
+
 
 https://www.youtube.com/watch?v=AgssizDIRDk
 

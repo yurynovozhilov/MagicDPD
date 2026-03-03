@@ -6,10 +6,14 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1586
 tags:
-  - freesurface
   - MPP
+  - ICFD
+  - freesurface
+  - CFD
+  - LSDYNA
 ---
 
+Я наконец смог посчитать #CFD задачу со свободной поверхностью в #LSDYNA #ICFD. Использовал слегка модифицированную постановку Sunao Tokura из стати "Validation of Fluid Analysis Capabilities in LS-DYNA Based on Experimental Result". Получилось неплохо. Есть несколько тонкостей:
 - на задачах со свободной поверхностью пристеночные слои глючат
 - граничные условия прилипания в такой задаче тоже не очень адекватны для грубой сетки
 - расчет идет быстро и стабильно, заметно быстрее чем ALE

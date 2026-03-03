@@ -6,9 +6,14 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1545
 tags:
-  - simulationfriday
   - books
+  - simulationfriday
 ---
+
+Книга дня
+
+
+
 
 #books #simulationfriday
 

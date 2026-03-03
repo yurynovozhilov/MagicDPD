@@ -6,10 +6,14 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_598
 tags:
-  - ANSYSMediaMedia
+  - CADFEM
   - concrete
   - LSDYNA
+  - ACUM
+  - ANSYSMediaMedia
 ---
+
+К прошедшей в Питере конференции #ACUM было приурочено еще одно важное событие: вышел новый номер журнала #CADFEM Review. Физические копии журнала расхватали еще на конференции, но остались электронные - на сайте.
 
 http://ift.tt/2yoDo2m
 

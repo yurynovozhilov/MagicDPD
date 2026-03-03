@@ -7,6 +7,7 @@ source: vk
 original_url: https://vk.com/wall-97265142_681
 ---
 
+Несколько учебных видеоуроков от российского дистрибьютера LS-DYNA
 http://ift.tt/2pQper1Media🔗 LS-DYNA конечно-элементный анализ
 
 http://ift.tt/2E6INxZ

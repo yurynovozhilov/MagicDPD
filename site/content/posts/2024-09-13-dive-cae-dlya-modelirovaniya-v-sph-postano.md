@@ -7,6 +7,8 @@ source: vk
 original_url: https://vk.com/wall-97265142_2778
 ---
 
+Dive CAE для моделирования в SPH постановке
+
 17 и 19 сентября Dive CAE  расскажут о своем облачном SPH решателе с поддержкой GPU. Посмотрим, что у него инетесного внутри.
 
 https://www.divecae.com/webinar

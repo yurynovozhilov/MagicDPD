@@ -6,13 +6,16 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_2053
 tags:
-  - acp
-  - lsdyna
-  - oasys
-  - composite
   - wb_ls
+  - composite
+  - lsdyna
+  - acp
+  - oasys
   - ansys
 ---
+
+Моделирование текстильных композитов в LS-DYNA
+
 
 https://www.youtube.com/watch?v=8xxefifDzY0
 

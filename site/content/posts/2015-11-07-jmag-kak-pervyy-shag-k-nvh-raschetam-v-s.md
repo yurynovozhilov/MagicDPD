@@ -6,7 +6,10 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_648
 tags:
+  - NVH
+  - JMAG
   - EM
+  - Altair
 ---
 
-
+#JMAG как первый шаг к #NVH расчетам в связке с OptiStruct, Nastran, Abaqus или LMS Virtual.Lab. #Altair научит!

@@ -6,11 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1835
 tags:
-  - fracture
-  - SPG
   - LS_DYNA
+  - SPG
+  - fracture
 images:
   - url: "/assets/images/1835.jpg"
 ---
 
-
+LS-DYNA SPG – метод частиц с физическим механизмом разрушения

@@ -5,8 +5,11 @@ date: 2016-03-24T10:36:45+00:00
 author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1497
+tags:
+  - Workbench
+  - ANSYS
 images:
   - url: "/assets/images/1497.jpg"
 ---
 
-
+#ANSYS #Workbench намекает мне, что схема проекта выбрана неудачно.

@@ -7,8 +7,13 @@ source: vk
 original_url: https://vk.com/wall-97265142_16
 tags:
   - AM
-  - Optimization
+  - CADFEM
   - Topology
+  - Mechanical
+  - Optimization
+  - ANSYS
 ---
+
+Сегодня, в 16:00 по Москве, ирландский #CADFEM устраивает бесплатный часовой вебинар посвященный топологической оптимизации в #ANSYS #Mechanical.
 
 #AM #Topology #Optimization http://www.cadfemukandireland.com/event_date/ansys-topological-optimisation/

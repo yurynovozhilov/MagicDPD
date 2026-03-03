@@ -1,16 +1,19 @@
 ---
-date: 2016-08-16 06:30:49+00:00
-link_previews:
-- description: Enjoy the videos and music you love, upload original content, and share
-    it all with friends, family, and the world on YouTube.
-  image: https://i.ytimg.com/vi/zcdZ5_04gTA/hqdefault.jpg
-  title: '[Case Studies] Femap: Mars Rover'
-  url: https://www.youtube.com/watch?v=zcdZ5_04gTA
-original_url: https://t.me/MagicDPD/81
-source: tg
-title: CAE для Марса
+layout: post
+title: "CAE для Марса"
+date: 2016-08-16T06:30:49+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_81
+tags:
+  - Siemens
+  - Curiosity
+  - PLM
+  - Femap
+  - PDM
 ---
 
+CAE для Марса
 https://www.youtube.com/watch?v=zcdZ5_04gTA
 
 Очень хороший рекламный видеоролик о том, как проектировался марсоход #Curiosity. Это была очень большая работа для #Femap #Siemens.

@@ -7,7 +7,10 @@ source: vk
 original_url: https://vk.com/wall-97265142_619
 tags:
   - blast
+  - Sandia
 ---
+
+Наука должна быть крутой! Очень эпичное видео об изучении ударных волн от #Sandia National Labs. Тут и эксперимент с не тривиальной обработкой данных (Шлирен-метод), и расчет с красивой визуализацией.
 
 #blast
 https://www.youtube.com/watch?v=Ckh…Media📼 Sandia Blast Tube - Engineered Explosive Shockwave…

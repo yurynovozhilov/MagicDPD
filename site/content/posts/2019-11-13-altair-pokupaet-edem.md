@@ -1,11 +1,16 @@
 ---
+layout: post
 title: "Altair покупает EDEM"
 date: 2019-11-13T13:00:29+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1632"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1632
+tags:
+  - EDEM
+  - DEM
+  - Altair
 images:
   - url: "/assets/images/1632.jpg"
 ---
 
-#Altair #DEM #EDEM
-by GlukRazor
+Altair покупает EDEM

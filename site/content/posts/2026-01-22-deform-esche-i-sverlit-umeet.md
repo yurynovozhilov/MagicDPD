@@ -1,15 +1,12 @@
 ---
-date: 2026-01-22 15:17:20+00:00
-link_previews:
-- description: 'A DEFORM-3D simulation modeled chip formation and tool stress in a
-    machining process involving a spade drill cutting insert.Product: DEFORM Premier;
-    DEFORM-3...'
-  image: https://i.ytimg.com/vi/CF6dvVVDXVE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFkgWChlMA8=&rs=AOn4CLAofIR1Dc92c6-EZ8VfJya7owC44g
-  title: Spade Drill Machining Simulation
-  url: https://youtu.be/CF6dvVVDXVE?si=XXw4yzBQ6I3ikmI2
-original_url: https://t.me/MagicDPD/3089
-source: tg
-title: DEFORM еще и сверлить умеет!
+layout: post
+title: "DEFORM еще и сверлить умеет!"
+date: 2026-01-22T15:17:20+00:00
+author: "Yury Novozhilov"
+source: vk
+original_url: https://vk.com/wall-97265142_3089
 ---
+
+DEFORM еще и сверлить умеет!
 
 https://youtu.be/CF6dvVVDXVE?si=XXw4yzBQ6I3ikmI2

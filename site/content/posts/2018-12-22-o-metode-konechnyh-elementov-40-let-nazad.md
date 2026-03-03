@@ -1,17 +1,19 @@
 ---
-date: 2018-12-22 17:00:13+00:00
+layout: post
+title: "О методе конечных элементов 40 лет назад"
+date: 2018-12-22T17:00:14+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1280
+tags:
+  - Simulationfriday
+  - МКЭ
 images:
-- url: /assets/images/1279.jpg
-link_previews:
-- description: Enjoy the videos and music you love, upload original content, and share
-    it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
-  url: https://www.youtube.com/watch?v=aLJMDn_2-d8
-original_url: https://t.me/MagicDPD/1279
-source: tg
-title: О методе конечных элементов 40 лет назад
+  - url: "/assets/images/1281.jpg"
 ---
+
+О методе конечных элементов 40 лет назад
+
 
 https://www.youtube.com/watch?v=aLJMDn_2-d8
 

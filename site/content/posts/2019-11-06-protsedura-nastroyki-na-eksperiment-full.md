@@ -6,14 +6,15 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1627
 tags:
-  - DIC
-  - LS_OPT
-  - calibration
   - LS_DYNA
+  - calibration
   - FFC
+  - LS_OPT
+  - DIC
 images:
   - url: "/assets/images/1627.jpg"
 ---
 
+Процедура настройки на эксперимент «Full Field Calibration» в LS-OPT
 #calibration #DIC #FFC #LS_DYNA #LS_OPT
 by Юрий Новожилов

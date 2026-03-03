@@ -13,4 +13,4 @@ images:
   - url: "/assets/images/1639.jpg"
 ---
 
-
+Что такое ANSYS Granta Materials Data for Simulation

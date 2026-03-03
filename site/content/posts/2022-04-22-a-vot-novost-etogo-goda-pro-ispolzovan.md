@@ -6,16 +6,22 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_2229
 tags:
-  - Gold
-  - HPC
-  - Intel
   - NVIDIA
-  - Xeon
+  - Gold
   - A100
+  - Fluent
+  - Xeon
+  - HPC
+  - Ansys
+  - CFD
+  - GPU
+  - Intel
 images:
   - url: "/assets/images/2230.jpg"
   - url: "/assets/images/2231.jpg"
 ---
+
+А вот новость этого года про использование #GPU для #CFD расчетов в #Fluent. В версии #Ansys 2022 R1 завезли beta версию, как я называю "второго поколения" CFD-GPU решателя, который получил название "Ansys Multi-GPU Solver". Данный решатель пока работает не для вех бесчисленных классов задач, решаемых Fluent. Но, вот для задач внешней аэродинамики, производительность решателя просто взлетает в космос!
 
 Одна карта #NVIDIA #A100 дает производительность, соизмеримую с 272 процессорными ядрами #Intel #Xeon #Gold 6242!
 

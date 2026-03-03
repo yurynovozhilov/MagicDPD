@@ -1,16 +1,15 @@
 ---
-date: 2023-07-03 15:01:19+00:00
+layout: post
+title: "Канал менее скучных лекций"
+date: 2023-07-03T15:01:19+00:00
+author: "Yury Novozhilov"
+source: vk
+original_url: https://vk.com/wall-97265142_2459
 images:
-- url: /assets/images/2459.jpg
-link_previews:
-- description: ''
-  image: ''
-  title: Before you continue to YouTube
-  url: https://www.youtube.com/LessBoringLectures
-original_url: https://t.me/MagicDPD/2459
-source: tg
-title: Канал менее скучных лекций
+  - url: "/assets/images/2459.jpg"
 ---
+
+Канал менее скучных лекций
 
 У кого есть ОДИН ЧАС, чтобы слушать ОДНУ лекцию?
 

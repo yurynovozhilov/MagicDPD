@@ -6,12 +6,13 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_892
 tags:
-  - Mechanical
-  - ANSYS
   - Fracture
   - Crack
+  - ANSYS
+  - Mechanical
 ---
 
+Моделирование трещин в ANSYS: кины и энергия
 Второе видео из серии материалов, посвященных моделированию роста трещин в ANSYS Mechanical 19. Сегодня разговор пойдет о кинах (коэффициентах интенсивности напряжений), критерии Гриффитса и критической длине трещины.
 
 

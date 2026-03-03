@@ -6,14 +6,15 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1849
 tags:
-  - Algoryx
   - AGX_Dynamics
   - DEM
-  - ANSYS
+  - Algoryx
   - SpaceClaim
+  - ANSYS
 images:
   - url: "/assets/images/1849.jpg"
 ---
 
+Расчет «тераформирования» в реальном времени благодаря гибридной DEM постановке
 #AGX_Dynamics #Algoryx #ANSYS #DEM #SpaceClaim
 by Юрий Новожилов

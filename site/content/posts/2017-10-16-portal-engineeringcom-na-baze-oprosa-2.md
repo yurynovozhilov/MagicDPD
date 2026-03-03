@@ -6,13 +6,18 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_555
 tags:
+  - SolidEdge
+  - NX
   - AutoCAD
   - CATIA
-  - NX
-  - Creo
+  - ENGINEERING
   - SOLIDWORKS
-  - SolidEdge
+  - CAD
+  - САПР
+  - Creo
 ---
+
+Портал #ENGINEERING.com на базе опроса 230 профессиональных пользователей #CAD программного обеспечения собрали очень любопытную статистику на тему, какой из современных #САПР больше всего любит кушать мозг, и насколько большая у него для этого ложечка есть.
 
 В соревновании приняли участие (под раздачу попали):
 - #SOLIDWORKS

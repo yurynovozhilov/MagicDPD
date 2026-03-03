@@ -5,7 +5,11 @@ date: 2017-09-30T17:07:37+00:00
 author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_528
+tags:
+  - ANSYS
 ---
+
+Коллеги, время летит быстро, и перед нами возможность принять участие в очередном конкурсе от #ANSYS. ANSYS открывает прием работ в свой зал славы - ANSYS Hall of Fame Competition 2018.
 
 Работы принимаются до 3 ноября 2017, 23:59 EDT
 

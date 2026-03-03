@@ -7,4 +7,6 @@ source: vk
 original_url: https://vk.com/wall-97265142_675
 ---
 
+Когда днем ты считаешь в ANSYS, а вечером печешь торт. С новым годом!Media
+
 http://ift.tt/2DOy7Ei

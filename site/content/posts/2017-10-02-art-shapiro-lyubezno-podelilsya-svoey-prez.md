@@ -7,4 +7,6 @@ source: vk
 original_url: https://vk.com/wall-97265142_533
 ---
 
+Art Shapiro любезно поделился своей презентацией Using LS-DYNA To Model Hot StampingMedia💾 App_D_hot_stamp.pdf
+
 http://ift.tt/2wrMzOp

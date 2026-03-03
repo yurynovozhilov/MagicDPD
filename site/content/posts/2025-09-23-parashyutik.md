@@ -1,15 +1,12 @@
 ---
-date: 2025-09-23 14:01:08+00:00
-link_previews:
-- description: 'Free Fall of a Drogue Porous Parachute: Colors: stresses on the porous
-    fabric.Solver: ICFD LS-DYNA.'
-  image: https://i.ytimg.com/vi/G7B2456emE8/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AGsBYAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLC62dN6-YNahtB_GBLCv4nIQO5Ymw
-  title: 'FSI simulation of the Free Fall of a Drogue Porous Parachute w/ ICFD LS-DYNA:
-    stresses on the fabric'
-  url: https://www.youtube.com/watch?v=G7B2456emE8
-original_url: https://t.me/MagicDPD/3021
-source: tg
-title: Парашютик
+layout: post
+title: "Парашютик"
+date: 2025-09-23T14:01:08+00:00
+author: "Yury Novozhilov"
+source: vk
+original_url: https://vk.com/wall-97265142_3021
 ---
+
+Парашютик
 
 https://www.youtube.com/watch?v=G7B2456emE8

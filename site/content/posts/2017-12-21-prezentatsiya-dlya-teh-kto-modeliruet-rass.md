@@ -7,6 +7,7 @@ source: vk
 original_url: https://vk.com/wall-97265142_668
 ---
 
+Презентация для тех, кто моделирует расслоение в Дайне:
 "TIEBREAK CONTACTS IN LS-DYNA"Media💾 tiebreak.pdf
 
 http://ift.tt/2BLNUDa

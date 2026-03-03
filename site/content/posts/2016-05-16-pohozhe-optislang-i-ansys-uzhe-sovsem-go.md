@@ -6,7 +6,9 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1655
 tags:
+  - optiSLang
+  - ANSYS
   - optimization
 ---
 
-
+Похоже #optiSLang и #ANSYS уже совсем готовы слиться в экстазе!

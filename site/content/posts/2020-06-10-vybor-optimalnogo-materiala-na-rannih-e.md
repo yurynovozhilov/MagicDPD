@@ -6,15 +6,16 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1772
 tags:
-  - CAE
-  - ANSYS
-  - properties
-  - GRANTA_Selector
   - Granta_Design
+  - properties
+  - CAE
   - material
+  - GRANTA_Selector
+  - ANSYS
 images:
   - url: "/assets/images/1772.jpg"
 ---
 
+Выбор оптимального материала на ранних этапах проектирования
 #ANSYS #CAE #Granta_Design #GRANTA_Selector #material #properties
 by Ян Поженько

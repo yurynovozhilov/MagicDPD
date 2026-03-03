@@ -6,9 +6,9 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_482
 tags:
-  - ale
   - lsdyna
+  - ale
   - lib
 ---
 
-
+Шикарный документ-методичка, для тех, кто хочет в LS-DYNA моделировать что-нибудь жидкое или газообразное в ALE постановке.

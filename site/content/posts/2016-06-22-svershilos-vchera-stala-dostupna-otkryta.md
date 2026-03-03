@@ -5,6 +5,10 @@ date: 2016-06-22T11:02:13+00:00
 author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1822
+tags:
+  - PBS
+  - HPC
+  - Altair
 ---
 
-
+Свершилось! Вчера стала доступна открытая версия #Altair #PBS Pro. Вместе с открытием исходных текстов стала доступна и бесплатная версия. Все идем на www.pbspro.org за #HPC.

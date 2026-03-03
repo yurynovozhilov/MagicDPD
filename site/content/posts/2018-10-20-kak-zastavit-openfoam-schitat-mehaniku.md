@@ -6,14 +6,15 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1161
 tags:
+  - OpenFOAM
   - Explicit
   - OpenCour
-  - OpenFOAM
   - GitHub
 images:
   - url: "/assets/images/1162.jpg"
 ---
 
+Как заставить OpenFOAM считать механику в явной постановке
 Джибран Хайдер (Jibran Haider) опубликовал на GitHub результаты своей работы - проект по созданию explicit решателя механики на базе математики OpenFOAM.
 
 Прикольное и необычное использование этого знаменитого открытого кода, который ранее в основном использовался для задач CFD.

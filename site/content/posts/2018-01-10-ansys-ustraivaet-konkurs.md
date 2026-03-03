@@ -1,35 +1,41 @@
 ---
+layout: post
 title: "ANSYS устраивает конкурс"
-date: 2018-01-10T08:43:53+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/709"
-images:
-  - url: "/assets/images/709.jpg"
+date: 2018-01-10T08:43:54+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_710
+tags:
+  - NVIDIA
+  - Discovery
+  - ANSYS
+  - competition
 ---
 
+ANSYS устраивает конкурс
 ANSYS похоже готов дарить призы и подарки даже после новго года. Так, компания объявила конкурс на лучшую демонстрацию возможностей ANSYS Discovery Live с очень хорошими призами:
 
 
-    1-ое место - около $8,494
+1-ое место - около $8,494
 
-    NVIDIA Quadro P6000
-    Free Discovery Live subscription for 2018
-
-
-    2-ое место - около $5,244
-
-    NVIDIA Quadro P5000
-    Free Discovery Live subscription for 2018
+NVIDIA Quadro P6000
+Free Discovery Live subscription for 2018
 
 
-    3-е место - около $4,245
+2-ое место - около $5,244
 
-    NVIDIA Quadro P4000
-    Free Discovery Live subscription for 2018
+NVIDIA Quadro P5000
+Free Discovery Live subscription for 2018
+
+
+3-е место - около $4,245
+
+NVIDIA Quadro P4000
+Free Discovery Live subscription for 2018
 
 
 
 
 Конкурс продлится до 28 февряля 2018 года - подробности участия в конкурсе по ссылке: http://www.ansys.com/other/discovery-live-competition
- #ANSYS #competition #Discovery #NVIDIA
+#ANSYS #competition #Discovery #NVIDIA
 https://magicdpd.ru/?p=5892

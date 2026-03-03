@@ -9,4 +9,4 @@ images:
   - url: "/assets/images/2319.jpg"
 ---
 
-
+Теория и практика работы с моделью Муни-Ривлина для гиперупругих материалов. https://youtu.be/Pi8qRehqcvM

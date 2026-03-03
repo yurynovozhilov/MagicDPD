@@ -6,10 +6,10 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_493
 tags:
-  - Engys
-  - OpenFOAM
   - HELYX
   - CFD
+  - Engys
+  - OpenFOAM
 ---
 
-
+Отличный пример вертикального приложения для расчета аэродинамики транспортных средств под названием ELEMENTS от компании Engys. Система разработана на основе HELYX, а он, в свою очередь, представляет сильно доработанный OpenFOAM.

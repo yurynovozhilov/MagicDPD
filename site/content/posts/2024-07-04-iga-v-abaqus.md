@@ -1,17 +1,16 @@
 ---
-date: 2024-07-04 11:02:08+00:00
+layout: post
+title: "IGA в Abaqus"
+date: 2024-07-04T11:02:08+00:00
+author: "Yury Novozhilov"
+source: vk
+original_url: https://vk.com/wall-97265142_2742
 images:
-- url: /assets/images/2742.jpg
-- url: /assets/images/2743.jpg
-link_previews:
-- description: ''
-  image: ''
-  title: Advanced FEM - GEM
-  url: https://gem-innovation.com/services/advanced-fem-update-2021/
-original_url: https://t.me/MagicDPD/2742
-source: tg
-title: IGA в Abaqus
+  - url: "/assets/images/2742.jpg"
+  - url: "/assets/images/2743.jpg"
 ---
+
+IGA в Abaqus
 
 Конкуренция - это хорошо. Пока Ansys LST все еще делают свой "сеточный" генератор для IGA на сцену выходит другой тяжеловес. Консалтинговая компания Global Engineering & Materials, Inc. написала свой набор инструментов для IGA моделирования в Abaqus. Вообще, ребята очень продвинутые: они не только IGA прикрутили, но и для традиционных FEM расчетов они смогли подключить PolyCube алгоритм генерации ALLHEX сеток.
 

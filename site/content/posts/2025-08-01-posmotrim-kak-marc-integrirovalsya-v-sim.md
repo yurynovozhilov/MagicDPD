@@ -7,4 +7,6 @@ source: vk
 original_url: https://vk.com/wall-97265142_2997
 ---
 
+Посмотрим, как Marc интегрировался в SimScale
+
 https://youtu.be/Bb1hhy4QJGU?si=UFGPeW6uxr4L95Id

@@ -6,13 +6,16 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1367
 tags:
-  - Particleworks
-  - FSI
   - RecurDyn
+  - FSI
   - CFD
+  - Particleworks
 images:
   - url: "/assets/images/1367.jpg"
 ---
+
+Совместная работа Particleworks и RecurDyn
+
 
 RecurDyn на своем канале выложил очень много красивых примеров взаимодействия с бессеточным CFD решетелем от Particleworks. Развлекательное пятничное видео.
 

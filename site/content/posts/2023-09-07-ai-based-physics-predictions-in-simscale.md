@@ -1,18 +1,17 @@
 ---
-date: 2023-09-07 15:01:30+00:00
-link_previews:
-- description: See the new AI-powered simulation features launching in SimScale soon.
-  image: ''
-  title: AI-based Physics Predictions in Your Web-browser | Webinar
-  url: https://www.simscale.com/webinars-workshops/ai-based-physics-predictions/
-original_url: https://t.me/MagicDPD/2514
-source: tg
-title: AI-Based Physics Predictions in SimScale
+layout: post
+title: "AI-Based Physics Predictions in SimScale"
+date: 2023-09-07T15:01:30+00:00
+author: "Yury Novozhilov"
+source: vk
+original_url: https://vk.com/wall-97265142_2514
 ---
 
-Начинается! 4 октября SimScale совместно с NAVASTO проводит вебинар, где покажет покажет предварительную версию  интегрированных решателей на основе AI/ML и расскажет о том, как они изменят мир инженеров. 
+AI-Based Physics Predictions in SimScale
+
+Начинается! 4 октября SimScale совместно с NAVASTO проводит вебинар, где покажет покажет предварительную версию  интегрированных решателей на основе AI/ML и расскажет о том, как они изменят мир инженеров.
 
 Мне кажется, что вот только сейчас мы наконец подходим к настоящим цифровым, прости господи, двоникам.
 
-Бесплатный вебинар требует регистрации 
+Бесплатный вебинар требует регистрации
 https://www.simscale.com/webinars-workshops/ai-based-physics-predictions/

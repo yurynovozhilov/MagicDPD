@@ -5,7 +5,12 @@ date: 2017-08-28T17:11:15+00:00
 author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_466
+tags:
+  - AGX
+  - Algoryx
 ---
+
+И еще одна полезная функция #AGX Dynamics от #Algoryx - динамика кабелей, трубопроводов и прочих очень гибких элементов системы.
 
 https://www.youtube.com/watch?v=BGW…Media📼 Simulation of cable damage
 

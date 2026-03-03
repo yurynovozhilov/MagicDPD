@@ -1,31 +1,16 @@
 ---
-date: 2021-03-09 13:02:10+00:00
-link_previews:
-- description: Thermo-Calc has a long and interesting history that goes back to the
-    mid-1970s. Learn how we grew from a university thesis project into a leading developer
-    o...
-  image: https://i.ytimg.com/vi/6YnCrbcGE_c/maxresdefault.jpg
-  title: Thermo-Calc Software 20th Anniversary
-  url: https://www.youtube.com/watch?v=6YnCrbcGE_c
-- description: Lightweight sheet alloys with superior mechanical performance such
-    as high strength, ductility and formability at room temperature (RT) are desirable
-    for high volume automotive applications. However, ductility or formability of
-    metallic alloys at RT are generally inversely related to strength, thereby making
-    it difficult to optimize all three simultaneously. Here we design a new magnesium
-    sheet alloy-ZAXME11100 (Mg-1.0Zn-1.0Al-0.5Ca-0.4Mn-0.2Ce, wt. pct.) via CALPHAD
-    (CALculation of PHAse Diagra
-  image: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-67161-9/MediaObjects/41598_2020_67161_Fig1_HTML.png
-  title: A new magnesium sheet alloy with high tensile properties and room-temperature
-    formability - Scientific Reports
-  url: https://www.nature.com/articles/s41598-020-67161-9
-- description: ''
-  image: ''
-  title: URL Shortener, Branded Short Links & Analytics | TinyURL
-  url: https://tinyurl.com/yd2usm4h
-original_url: https://t.me/MagicDPD/1919
-source: tg
-title: Thermo-calc
+layout: post
+title: "Thermo-calc"
+date: 2021-03-09T13:02:10+00:00
+author: "MagicDPD"
+source: vk
+original_url: https://vk.com/wall-97265142_1919
+tags:
+  - thermo
 ---
+
+Thermo-calc
+
 
 https://www.youtube.com/watch?v=6YnCrbcGE_c
 
@@ -48,4 +33,3 @@ https://doi.org/10.1016/j.mtcomm.2020.101088 https://www.nature.com/articles/s41
 
 #thermo-calc
 https://tinyurl.com/yd2usm4h
-by GlukRazor

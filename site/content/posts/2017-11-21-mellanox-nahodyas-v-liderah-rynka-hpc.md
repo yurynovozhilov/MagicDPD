@@ -6,10 +6,14 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_621
 tags:
-  - SocketDirect
-  - ANSYS
+  - HPC
+  - Mellanox
   - Infiniband
+  - ANSYS
+  - SocketDirect
 ---
+
+#Mellanox, находясь в лидерах рынка #HPC интерконнекта, не останавливается, и продолжает придумывать новые технологии для снижения задержек и повышения быстродействия.
 
 Строите кластер для #ANSYS - закладывайте в его основу Mellanox Infiniband.
 

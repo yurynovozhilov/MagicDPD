@@ -1,21 +1,18 @@
 ---
-date: 2021-04-15 13:03:43+00:00
-link_previews:
-- description: Enjoy the videos and music you love, upload original content, and share
-    it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
-  url: https://www.youtube.com/watch?v=oIMRUy8_cd0
-- description: ''
-  image: ''
-  title: URL Shortener, Branded Short Links & Analytics | TinyURL
-  url: https://tinyurl.com/yelh8g9n
-original_url: https://t.me/MagicDPD/1945
-source: tg
-title: Hexagon покупает CADLM
+layout: post
+title: "Hexagon покупает CADLM"
+date: 2021-04-15T13:03:43+00:00
+author: "MagicDPD"
+source: vk
+original_url: https://vk.com/wall-97265142_1945
+tags:
+  - cadlm
+  - hexagon
 ---
 
-Hexagon объявили о приобретении компании CADLM SAS - разработчика ODYSSEE (CADLM). Сейчас Hexagon AB уже владеет MSC Software, а теперь получает в свое распоряжение одного из пионеров в области построения моделей пониженного порядка и мета моделей, особенно зарекомендовавших себя при расчётах динамики явными методами. 
+Hexagon покупает CADLM
+
+Hexagon объявили о приобретении компании CADLM SAS - разработчика ODYSSEE (CADLM). Сейчас Hexagon AB уже владеет MSC Software, а теперь получает в свое распоряжение одного из пионеров в области построения моделей пониженного порядка и мета моделей, особенно зарекомендовавших себя при расчётах динамики явными методами.
 
 
 
@@ -29,4 +26,3 @@ https://www.youtube.com/watch?v=oIMRUy8_cd0
 
 #cadlm #hexagon
 https://tinyurl.com/yelh8g9n
-by GlukRazor

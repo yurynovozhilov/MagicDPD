@@ -1,19 +1,16 @@
 ---
-date: 2017-07-22 17:00:59+00:00
-link_previews:
-- description: Marc combines to deliver a complete solution (pre-processing, solution,
-    and post-processing) for implicit nonlinear FEA. Marc provides the easiest to
-    use and most robust capabilities for contact, large strain, and multiphysics analysis
-    available today to solve static and quasi-static nonlinear problems.
-  image: ''
-  title: Download your student edition of MSC Marc today! – Simulating Reality, Delivering
-    Certainty
-  url: http://simulatemore.mscsoftware.com/learn-advanced-non-linear-simulations-for-free/
-original_url: https://t.me/MagicDPD/416
-source: tg
-title: Студенческая версия Marc
+layout: post
+title: "Студенческая версия Marc"
+date: 2017-07-22T17:00:59+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_416
+tags:
+  - Marc
+  - MSC
 ---
 
+Студенческая версия Marc
 http://simulatemore.mscsoftware.com/learn-advanced-non-linear-simulations-for-free/
 
 К корпании #MSC тоже бывают студенческие версии их решателей. Вот так засветился знаменитый нелинейный решатель #Marc

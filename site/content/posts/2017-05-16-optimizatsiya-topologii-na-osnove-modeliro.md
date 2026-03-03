@@ -7,17 +7,18 @@ source: vk
 original_url: https://vk.com/wall-97265142_353
 tags:
   - LSTASC
-  - Genesis
-  - ANSYS
-  - LSTC
-  - ESL
-  - LSDYNA
   - topology
+  - Genesis
   - optimization
   - HCA
+  - ESL
   - DYNAmore
+  - LSDYNA
+  - LSTC
+  - ANSYS
 ---
 
+Оптимизация топологии на основе моделирования краштетса
 https://www.dynamore.de/de/download/papers/ls-dyna-forum-2012/documents/optimization-3-2
 
 Знаете ли вы, что кроме стандартных алгоритмов метода подвижных асимптот или критерия оптимальности, заложенных в большинство оптимизаторов топологии (например #ANSYS), существуют гораздо более сложные и продвинутые алгоритмы?

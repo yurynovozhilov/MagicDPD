@@ -1,20 +1,18 @@
 ---
-date: 2021-06-25 13:01:30+00:00
-link_previews:
-- description: 'Prof. Moubin LIUDate and time: Feburary 3rd 2021. 09:00 PM UTC.Title:
-    Smoothed particle hydrodynamics (SPH) for modeling fluid-structure interactionsAbstract...'
-  image: https://i.ytimg.com/vi/XoGW5yutskY/maxresdefault.jpg
-  title: 2021 SPHERIC Global Seminars Prof. Moubin Liu "SPH for modeling fluid-structure
-    interactions""
-  url: https://www.youtube.com/watch?v=XoGW5yutskY
-- description: ''
-  image: ''
-  title: URL Shortener, Branded Short Links & Analytics | TinyURL
-  url: https://tinyurl.com/yj7gkl54
-original_url: https://t.me/MagicDPD/1973
-source: tg
-title: SPH для FSI
+layout: post
+title: "SPH для FSI"
+date: 2021-06-25T13:01:30+00:00
+author: "MagicDPD"
+source: vk
+original_url: https://vk.com/wall-97265142_1973
+tags:
+  - fsi
+  - shape_charge
+  - sph
 ---
+
+SPH для FSI
+
 
 https://www.youtube.com/watch?v=XoGW5yutskY
 

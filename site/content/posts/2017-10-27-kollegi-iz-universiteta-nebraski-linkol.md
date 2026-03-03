@@ -6,9 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_572
 tags:
-  - LSDYNA
   - MAT_MOMENT_CURVATURE_BEAMMedia
+  - LSDYNA
 ---
+
+Коллеги из университета Небраски-Линкольна (University of Nebraska-Lincoln) разработали свою собственную модель материала, способную моделировать металлический трос при помощи одного балочного элемента!
 
 #LSDYNA #MAT_MOMENT_CURVATURE_BEAMMedia💾 Reid_DevelopmentofAdvancedFiniteElementMaterialMod…
 

@@ -1,20 +1,21 @@
 ---
-date: 2021-03-19 13:01:41+00:00
-link_previews:
-- description: 'Speaker: Maik Schenke (DYNAmore GmbH)The analysis of large deformations
-    in solid structures often require special numerical techniques to overcome the
-    limita...'
-  image: https://i.ytimg.com/vi/pwdoZfi9OBA/maxresdefault.jpg
-  title: 'DYNAmore Express: Beyond FEA - Smoothed Particle Hydrodynamics (SPH)'
-  url: https://www.youtube.com/watch?v=pwdoZfi9OBA&t=1624s
-- description: ''
-  image: ''
-  title: URL Shortener, Branded Short Links & Analytics | TinyURL
-  url: https://tinyurl.com/yg2pg8ls
-original_url: https://t.me/MagicDPD/1927
-source: tg
-title: SPH в LS-DYNA - обзорный доклад DYNAmore
+layout: post
+title: "SPH в LS-DYNA - обзорный доклад DYNAmore"
+date: 2021-03-19T13:01:41+00:00
+author: "MagicDPD"
+source: vk
+original_url: https://vk.com/wall-97265142_1927
+tags:
+  - sph
+  - ls
+  - isph
+  - dynamore
+  - asph
+  - mls
 ---
+
+SPH в LS-DYNA - обзорный доклад DYNAmore
+
 
 https://www.youtube.com/watch?v=pwdoZfi9OBA&t=1624s
 
@@ -25,4 +26,3 @@ https://www.youtube.com/watch?v=pwdoZfi9OBA&t=1624s
 
 #asph #dynamore #isph #ls-dyna #mls #sph
 https://tinyurl.com/yg2pg8ls
-by GlukRazor

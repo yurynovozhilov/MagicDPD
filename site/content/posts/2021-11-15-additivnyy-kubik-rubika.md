@@ -1,20 +1,20 @@
 ---
-date: 2021-11-15 13:01:47+00:00
-link_previews:
-- description: ''
-  image: ''
-  title: Video
-  url: https://facebook.com/EOSGmbH/videos/laser-profusion-cube/511843523366450
-- description: ''
-  image: ''
-  title: URL Shortener, Branded Short Links & Analytics | TinyURL
-  url: https://tinyurl.com/yhnrw5hh
-original_url: https://t.me/MagicDPD/2033
-source: tg
-title: Аддитивный кубик Рубика
+layout: post
+title: "Аддитивный кубик Рубика"
+date: 2021-11-15T13:01:47+00:00
+author: "MagicDPD"
+source: vk
+original_url: https://vk.com/wall-97265142_2033
+tags:
+  - additive_science
+  - ansys
+  - additive_manufacturing
+  - additive_print
 ---
 
-Компания EOS Global, разработчик систем аддитивного производства, показала как должен выглядеть кубик Рубика для true инженера. Этот кубик, создан специалистом по исследованиям и разработкам Александром Прильвицем (Alexander Prillwitz). 
+Аддитивный кубик Рубика
+
+Компания EOS Global, разработчик систем аддитивного производства, показала как должен выглядеть кубик Рубика для true инженера. Этот кубик, создан специалистом по исследованиям и разработкам Александром Прильвицем (Alexander Prillwitz).
 
 
 
@@ -34,4 +34,3 @@ title: Аддитивный кубик Рубика
 
 #additive_manufacturing #additive_print #additive_science #ansys
 https://tinyurl.com/yhnrw5hh
-by GlukRazor

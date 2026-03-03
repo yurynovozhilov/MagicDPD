@@ -6,13 +6,16 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1502
 tags:
-  - MPI
-  - Windows
   - LS_DYNA
+  - MPI
   - HPC
+  - Windows
 images:
   - url: "/assets/images/1502.jpg"
 ---
+
+Расчеты в LS-DYNA на кластерах Windows HPC Cluster
+
 
 DYNAmore выпустили инструкцию по настройке и работе распределённого решетеля LS-DYNA на кластерах под управлением MS Windows HPC Pack 2016. Инструкция полезная, но на самом деле вам достаточно знать следующий набор команд:
 

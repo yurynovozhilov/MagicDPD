@@ -1,11 +1,17 @@
 ---
+layout: post
 title: "Теплообменник во Fluent"
 date: 2020-02-25T13:00:49+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1705"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1705
+tags:
+  - Fluent
+  - ANSYS
 images:
   - url: "/assets/images/1705.jpg"
 ---
 
+Теплообменник во Fluent
 #ANSYS #Fluent
 by Юрий Новожилов

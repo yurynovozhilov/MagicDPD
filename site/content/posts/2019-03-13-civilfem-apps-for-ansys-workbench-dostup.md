@@ -6,13 +6,16 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1390
 tags:
-  - CivilFEM
-  - Ingeciber
-  - ANSYS
   - ACT
+  - CivilFEM
+  - ANSYS
+  - Ingeciber
 images:
   - url: "/assets/images/1390.jpg"
 ---
+
+CivilFEM APPs for ANSYS Workbench доступен в каталоге ACT
+
 
 Версия CivilFEM для Workbench теперь доступна в официальном каталоге ACT расширений ANSYS. Программа поделена сразу на два отдельных модуля: «Eurocode Check & Design» и «AISC/ACI Check & Design» — по запросу «CivilFEM» найти эти расширения почему-то нельзя.
 

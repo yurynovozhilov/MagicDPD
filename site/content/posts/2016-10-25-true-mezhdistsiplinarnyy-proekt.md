@@ -1,16 +1,25 @@
 ---
-date: 2016-10-25 17:00:25+00:00
-link_previews:
-- description: ''
-  image: ''
-  title: End to End System Design with ANSYS – An Electric Guitar Example – LEAP Australia
-    Blog
-  url: http://www.finiteelementanalysis.com.au/featured/end-to-end-system-design-with-ansys-an-electric-guitar-example/
-original_url: https://t.me/MagicDPD/160
-source: tg
-title: True междисциплинарный проект
+layout: post
+title: "True междисциплинарный проект"
+date: 2016-10-25T17:00:25+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_160
+tags:
+  - LEAP
+  - FEA
+  - Simplorer
+  - Stratocaster
+  - Maxwell
+  - FSI
+  - SoundCloud
+  - CFD
+  - Mechanical
+  - SpaceClaim
+  - ANSYS
 ---
 
+True междисциплинарный проект
 http://www.finiteelementanalysis.com.au/featured/end-to-end-system-design-with-ansys-an-electric-guitar-example/
 
 Команда #LEAP #FEA Team промоделировала легендарную гитару #Stratocaster и сыграла на ней композицию "Smoke on the Water" (даже есть семпл с результатом на #SoundCloud).

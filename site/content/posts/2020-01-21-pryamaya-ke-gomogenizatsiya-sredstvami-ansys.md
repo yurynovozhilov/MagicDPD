@@ -6,12 +6,12 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1678
 tags:
-  - composite
-  - ANSYS
-  - Material_Designer
   - padtinc
+  - Material_Designer
+  - ANSYS
+  - composite
 images:
   - url: "/assets/images/1678.jpg"
 ---
 
-
+Прямая КЭ гомогенизация средствами ANSYS Material Designer

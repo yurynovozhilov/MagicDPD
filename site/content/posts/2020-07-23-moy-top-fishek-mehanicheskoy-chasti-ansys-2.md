@@ -6,12 +6,12 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1803
 tags:
-  - Mechanical
+  - 2020_R2
   - ANSYS
   - SPH
-  - 2020_R2
+  - Mechanical
 images:
   - url: "/assets/images/1803.jpg"
 ---
 
-
+Мой топ фишек механической части ANSYS 2020 R2

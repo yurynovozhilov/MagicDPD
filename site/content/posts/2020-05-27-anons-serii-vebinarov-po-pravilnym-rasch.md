@@ -6,8 +6,8 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1763
 tags:
-  - com
   - LS_DYNA
+  - com
 ---
 
-
+Анонс серии вебинаров по правильным расчетам композитов

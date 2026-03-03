@@ -1,10 +1,17 @@
 ---
+layout: post
 title: "#Молния: ANSYS 17.2 вышел!"
 date: 2016-08-17T14:40:34+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/83"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_83
+tags:
+  - CAE
+  - ANSYS
+  - Молния
 ---
 
+#Молния: ANSYS 17.2 вышел!
 http://www.ansys.com/Solutions/Solutions-by-Role/IT-Professionals/Platform-Support
 
 Если у вас есть действующая техническая поддержка, то на вашей улице праздник: сегодня #ANSYS выложил на пользовательский портал версию 17.2.
@@ -18,7 +25,7 @@ http://www.ansys.com/Solutions/Solutions-by-Role/IT-Professionals/Platform-Suppo
 - ANSYS 17.2 - 3Dconnexion Devices Certification
 - ANSYS 17.2 - GPU Accelerator and Co-Processor Capabilities
 - ANSYS 17.2 - Graphics Cards Tested
-- ANSYS 17.2 - Interconnects Support 
+- ANSYS 17.2 - Interconnects Support
 - ANSYS 17.2 - Job Schedulers & Queuing Systems Support
 - ANSYS 17.2 - Platform Support by Application
 - ANSYS 17.2 - Remote Display Support

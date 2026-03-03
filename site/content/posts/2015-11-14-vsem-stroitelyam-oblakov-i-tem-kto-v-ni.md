@@ -6,8 +6,10 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_707
 tags:
-  - Cloud
+  - CAD
   - HPC
+  - Cloud
+  - CAE
 ---
 
-
+Всем строителям облаков, и тем, кто в них хочет переехать читать обязательно. Большой ликбез по виртуализации для #CAD и #CAE.

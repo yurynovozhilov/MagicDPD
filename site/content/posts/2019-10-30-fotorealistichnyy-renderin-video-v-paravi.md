@@ -6,11 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1622
 tags:
-  - Ray_Tracing
-  - Paraview
   - LS_DYNA
+  - Paraview
+  - Ray_Tracing
 images:
   - url: "/assets/images/1622.jpg"
 ---
 
-
+Фотореалистичный рендерин видео в Paraview

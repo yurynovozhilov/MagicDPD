@@ -7,4 +7,6 @@ source: vk
 original_url: https://vk.com/wall-97265142_584
 ---
 
+General Guidelines for Crash Analysis in LS-DYNAMedia💾 LS-DYNA_guidelines__General_Modeling_Guidelines_fo…
+
 http://ift.tt/2h2dfiA

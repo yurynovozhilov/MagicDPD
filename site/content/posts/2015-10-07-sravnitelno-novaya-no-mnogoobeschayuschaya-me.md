@@ -6,13 +6,17 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_466
 tags:
-  - DEM
-  - lsdyna
-  - blast
-  - JWL
   - CPM
   - PBM
+  - lsdyna
+  - DEM
+  - blast
+  - JWL
+images:
+  - url: "https://sun9-57.userapi.com/s/v1/ig1/2hEmi9zVATZtSqvbgbyYid--useFOALF9HUDPPohpH299Ts2iYim4f5CV4rszLz-tXu5Jj0o.jpg?quality=96&as=32x17,48x26,72x39,108x58,160x86,240x129,360x193,480x257,540x289,640x343,720x386,1080x578,1280x685,1440x771,2532x1356&from=bu&u=EdUgdvWcGhAa1-C_lrjnhd-Uf8e_RBuw9tfkPi6ksLo&cs=2532x0"
 ---
+
+Сравнительно новая, но многообещающая методика расчета воздействия взрыв на объекты на основе метода взрыва частиц (particle blast method, PBM). Данный подход является расширением метода корпускулярный частиц (corpuscular particle method, CPM) изначально был реализованного в LS-DYNA для моделирования подушек безопастности. Метод работает в лагранжевой домене, что существенно упрощает постановку задачи.
 
 В связке с DEM метод PBM может быть использован для моделирования осколочного воздействия.
 

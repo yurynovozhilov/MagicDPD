@@ -1,12 +1,21 @@
 ---
+layout: post
 title: "Аддитивные технологии ParaMatters"
 date: 2018-10-22T17:01:24+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1164"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1165
+tags:
+  - ParaMatters
+  - Topology
+  - SIMP
+  - CogniCAD
+  - Optimization
 images:
-  - url: "/assets/images/1164.jpg"
+  - url: "/assets/images/1166.jpg"
 ---
 
+Аддитивные технологии ParaMatters
 Компания ParaMatters - это еще один игрок на рынке топологической оптимизации. Говорят, что вся система работает в облаке, может делать как классическую оптимизацию топологии, так и lattices structures.
 
 Основным продуктом компании, несущим в себе весь расчетный потенциал, является система со скромным названием CogniCAD - Cognitive Computer Aided Design Platform.

@@ -1,16 +1,18 @@
 ---
-date: 2021-01-20 13:01:56+00:00
-link_previews:
-- description: Rocky DEM flexible fiber breakage feature is used to represent grass
-    in this simulation of a riding lawnmower. Breakage models engineers to model the
-    cutting...
-  image: https://i.ytimg.com/vi/YTLOXbANQ48/maxresdefault.jpg
-  title: Riding lawnmower simulation with CFD-DEM coupling
-  url: https://www.youtube.com/watch?v=YTLOXbANQ48
-original_url: https://t.me/MagicDPD/1887
-source: tg
-title: DEM для газонокосилок
+layout: post
+title: "DEM для газонокосилок"
+date: 2021-01-20T13:01:56+00:00
+author: "MagicDPD"
+source: vk
+original_url: https://vk.com/wall-97265142_1887
+tags:
+  - rocky
+  - fsi
+  - dem
 ---
+
+DEM для газонокосилок
+
 
 https://www.youtube.com/watch?v=YTLOXbANQ48
 

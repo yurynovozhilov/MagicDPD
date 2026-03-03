@@ -6,19 +6,20 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_969
 tags:
-  - ThingWorx
-  - Discovery
-  - CAD
-  - Creo
-  - TwinBuilder
-  - PTC
-  - Live
   - NVIDIA
   - Simplorer
+  - Discovery
+  - TwinBuilder
+  - PTC
+  - ThingWorx
+  - CAD
+  - Creo
+  - Live
 images:
   - url: "/assets/images/970.jpg"
 ---
 
+Гибрид ужа и ежа: PTC встраивает технологии Discovery Live в Creo
 Есть у ANSYS среди прочих очень интересный и действительно уникальный продукт: ANSYS Discovery Live. Он позволяет решать задачи механики, гидродинамики, теплопроводности и сопряженного теплообмена с некоторыми допущениями в реальном времени на неподготовленной геометрии.
 
 А у компании PTC есть платформа промышленного интернета вещей ThingWorx, на почве которой они дружат с ANSYS. ANSYS даже переименовал свой Simplorer в  ANSYS TwinBuilder, и последний теперь встраивается в систему ThingWorx.

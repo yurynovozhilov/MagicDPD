@@ -1,12 +1,19 @@
 ---
+layout: post
 title: "Управление .k файлами из Python"
-date: 2018-02-22T18:01:01+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/811"
+date: 2018-02-22T18:01:02+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_812
+tags:
+  - Qd
+  - Python
+  - LSDYNA
 images:
-  - url: "/assets/images/811.jpg"
+  - url: "/assets/images/813.jpg"
 ---
 
+Управление .k файлами из Python
 В версии 0.7.0 библиотеки qd для Python появилась поддержка редактирования .k — текстовых файлов моделей LS-DYNA
 Итак, сейчас библиотека позволяет как создавать новые модели, так и редактировать существующие. Реализованные возможности:
 
@@ -18,5 +25,3 @@ images:
 Запись .k файлов
 
 Подробное описание новых функций библиотеки можно найти тут: http://www.qd-eng.de/index.php/2018/02/19/manipulating-ls-dyna-keyfiles-in-python/
- 
-#LSDYNA #Python #Qd

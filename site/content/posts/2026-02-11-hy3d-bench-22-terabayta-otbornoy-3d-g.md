@@ -6,15 +6,17 @@ author: "Yury Novozhilov"
 source: vk
 original_url: https://vk.com/wall-97265142_3105
 tags:
-  - HY3DBench
   - ML
-  - AI
   - Dataset
   - Tencent
+  - HY3DBench
+  - AI
 images:
   - url: "/assets/images/3105.jpg"
   - url: "/assets/images/3106.jpg"
 ---
+
+🌟 HY3D-Bench: 22 терабайта отборной 3D-геометрии.
 
 Tencent Hunyuan вывалили в опенсорс монструозный пак HY3D-Bench на 22.5 ТБ и это подарок для всех, кто занимается 3D Gen и робототехникой.
 

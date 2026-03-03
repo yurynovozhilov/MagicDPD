@@ -1,16 +1,14 @@
 ---
-date: 2023-07-17 15:01:36+00:00
-link_previews:
-- description: Learn different concepts of Multibody Dynamics Theory and get ready
-    for Ansys Motion.
-  image: https://innovationspace.ansys.com/wp-content/uploads/2024/03/Course-card-image-Multibody-Dynamics-Theory-Ansys-Motion-1.png
-  title: Multibody Dynamics Theory | Ansys Innovation Courses
-  url: https://courses.ansys.com/index.php/courses/multibody-dynamics-theory-ansys-innovation-courses/
-original_url: https://t.me/MagicDPD/2472
-source: tg
-title: Multibody Dynamics Theory
+layout: post
+title: "Multibody Dynamics Theory"
+date: 2023-07-17T15:01:36+00:00
+author: "Yury Novozhilov"
+source: vk
+original_url: https://vk.com/wall-97265142_2472
 ---
 
-Ansys выложил новый учебный курс на своей платформе Innovation Courses. Я бы очень советовал заглядывать на эту платформу всем начинающим. 
+Multibody Dynamics Theory
+
+Ansys выложил новый учебный курс на своей платформе Innovation Courses. Я бы очень советовал заглядывать на эту платформу всем начинающим.
 
 https://courses.ansys.com/index.php/courses/multibody-dynamics-theory-ansys-innovation-courses/

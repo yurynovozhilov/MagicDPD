@@ -6,9 +6,9 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_336
 tags:
-  - ANSYS
-  - FEA
   - APDL
+  - FEA
+  - ANSYS
 ---
 
-
+Вот по этому мы используем численные методы!

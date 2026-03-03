@@ -6,10 +6,12 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_722
 tags:
-  - FEM
-  - EM
   - CAE
+  - FEM
   - CFD
+  - EM
+  - COMSOL
 ---
 
+Вышел #COMSOL 5.2, вынес много всего нового:
 Новые возможности Application Builder и COMSOL Server, блочная сетка, сеточные сборки и много некоторые нововведения для решателей.

@@ -6,14 +6,15 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1725
 tags:
-  - Epilysis
   - BetaCAE
   - composite
   - optimization
   - Topology
+  - Epilysis
 images:
   - url: "/assets/images/1725.jpg"
 ---
 
+Оптимизация топологии для ортотропных материалов
 #BetaCAE #composite #Epilysis #optimization #Topology
 by Юрий Новожилов

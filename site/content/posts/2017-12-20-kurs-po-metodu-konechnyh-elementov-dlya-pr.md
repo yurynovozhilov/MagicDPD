@@ -6,11 +6,13 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_666
 tags:
-  - FEM
   - CAE
-  - МКЭ
   - FEA
+  - FEM
+  - МКЭ
 ---
+
+Курс по методу конечных элементов для проблем физики от Мичиганского университета (University of Michigan).
 
 Обещают научить писать #МКЭ код за 45 часов лекций.
 

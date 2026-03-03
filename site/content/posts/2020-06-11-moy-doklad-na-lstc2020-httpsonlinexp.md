@@ -11,6 +11,8 @@ images:
   - url: "/assets/images/1774.jpg"
 ---
 
+Мой доклад на LSTC2020: https://onlinexperiences.com/Launch/Event.htm?ShowKey=93235&DisplayItem=E400489
+
 LSTC 2020
 
 

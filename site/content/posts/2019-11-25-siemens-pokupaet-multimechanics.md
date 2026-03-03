@@ -1,11 +1,15 @@
 ---
+layout: post
 title: "Siemens покупает MultiMechanics"
 date: 2019-11-25T14:20:16+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1642"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1642
+tags:
+  - Siemens
+  - MultiMechanics
 images:
   - url: "/assets/images/1642.jpg"
 ---
 
-#MultiMechanics #Siemens
-by GlukRazor
+Siemens покупает MultiMechanics

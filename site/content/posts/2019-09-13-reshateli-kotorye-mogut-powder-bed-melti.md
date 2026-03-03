@@ -8,11 +8,14 @@ original_url: https://vk.com/wall-97265142_1582
 tags:
   - Fluent
   - Additive_Manufacturing
-  - FLOW_3D
   - CFD
+  - FLOW_3D
 images:
   - url: "/assets/images/1582.jpg"
 ---
+
+Решатели, которые могут Powder bed melting
+
 
 Одна из самых сложных задач в аддитивке — моделирование ванны расплава. Сегодня у нас красуются CFD коды Fluent (ANSYS, Inc), FLOW-3D (Flow Science, Inc.).
 

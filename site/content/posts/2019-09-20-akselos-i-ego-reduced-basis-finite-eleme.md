@@ -6,13 +6,14 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1589
 tags:
-  - Akselos
   - superelement
+  - Akselos
   - RB_FEM
 images:
   - url: "/assets/images/1589.jpg"
 ---
 
+Akselos и его Reduced-Basis Finite Element Analysis
 Совершенно случайно на меня вышел ролик компании Akselos, разработчика одноименного ПО, которое согласно заявлениям создателей обладает чудесными свойствами: сложные нелинейные прочностные расчеты на несколько десятков MDOF за несколько минут. И это все еще с контактами и ростом трещин.
 
 

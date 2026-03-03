@@ -6,19 +6,22 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1841
 tags:
-  - Lattice
-  - Optimization
   - GeomagicDesignX
-  - OptiStruct
   - Pan
-  - ANSYS
-  - Autodesk
-  - Within
-  - Altair
+  - PADTInc
   - SolidThinking
-  - Simpleware
+  - OptiStruct
   - Topology
+  - Autodesk
+  - Lattice
+  - Within
+  - Simpleware
   - SpaceClaim
+  - Optimization
+  - ANSYS
+  - Altair
 ---
+
+#PADTInc подготовили хороший обзор программных средств для жизни в мире аддитивных технологий. Тут и работа с 3D сканерами, и подготовка геометрии, и топологическая оптимизация с генерацией балочных структур - все самые новые тренды.
 
 #SpaceClaim #GeomagicDesignX #Topology #Optimization #Altair #SolidThinking Inspire #Autodesk #Within #Altair #OptiStruct #Simpleware #Pan #Lattice #ANSYS

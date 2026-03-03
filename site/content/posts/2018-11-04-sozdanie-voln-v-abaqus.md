@@ -1,12 +1,18 @@
 ---
+layout: post
 title: "Создание волн в Abaqus"
-date: 2018-11-04T17:00:14+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1190"
+date: 2018-11-04T17:00:15+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1191
+tags:
+  - ALE
+  - ABAQUS
 images:
-  - url: "/assets/images/1190.jpg"
+  - url: "/assets/images/1192.jpg"
 ---
 
+Создание волн в Abaqus
 Учебное видео на 25 минут, которое показывает, как при помощи подвижной границы создавать волны при расчете жидкостей с использованием эйлеровой формулировки метода конечных элементов.
 
 

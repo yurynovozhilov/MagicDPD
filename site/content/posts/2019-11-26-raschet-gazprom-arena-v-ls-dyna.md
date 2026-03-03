@@ -1,11 +1,14 @@
 ---
+layout: post
 title: "Расчет «Газпром-Арена» в LS-DYNA"
 date: 2019-11-26T13:00:22+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1643"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1643
+tags:
+  - LS_DYNA
 images:
   - url: "/assets/images/1643.jpg"
 ---
 
-#LS_DYNA
-by GlukRazor
+Расчет «Газпром-Арена» в LS-DYNA

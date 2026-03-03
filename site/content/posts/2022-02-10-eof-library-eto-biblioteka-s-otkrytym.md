@@ -6,13 +6,17 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_2132
 tags:
-  - EOFLibrary
-  - Elmet
+  - Fortan
+  - C
   - OpenFOAM
-  - CFD
   - FEM
+  - Elmet
   - opensource
+  - CFD
+  - EOFLibrary
 ---
+
+EOF-Library - это библиотека с открытым исходным кодом для связки открытых решетелей Elmer FEM (МКЭ) и OpenFOAM (CFD). Сочетание всех этих систем позволяет получить очень мощное программное обеспечение для мультифизического моделирования. Говорят, что EOF-Library даже способен замахнуться на моделирование левитационной плавки металлов. Однако, как и в любом открытом проекте, вам надо быть готовым нырнуть в #Fortan, #C и другие языки низкого уровня для отладки проектов.
 
 Сайт проекта: https://eof-library.org/
 Репозиторий проекта: https://github.com/jvencels/EOF-Library

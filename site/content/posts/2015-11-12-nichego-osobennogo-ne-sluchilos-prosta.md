@@ -6,11 +6,15 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_682
 tags:
-  - CAM
-  - ProjectLeopard
-  - CAD
   - Fusion360
   - cloud
+  - OnShape
+  - ProjectLeopard
+  - CAD
+  - Autodesk
+  - CAM
 ---
+
+Ничего особенного не случилось, проста #Autodesk тоже хочет в облако. Видимо, идея #OnShape не так уж и наивна. На днях Autodesk начал закрытое бета тестирование свое "Project Leopard" в рамках которого система Fusion 360 будет доступна прямо в браузере.
 
 Итак +1 в браузере!

@@ -8,9 +8,12 @@ original_url: https://vk.com/wall-97265142_501
 tags:
   - Siemens
   - TASS
+  - MSC
   - ADASMediaMedia
   - PreScan
 ---
+
+Интеренсые совпадения: сначала на Youtube мне попадается новое видео #MSC, где они рассказывают, что одним из главных вызовов для их компании будет программное обеспечение автопилотирования транспортных средств. https://youtu.be/OvYlblL6_AY
 
 После этого я нахожу новость о том, что #Siemens покупает #TASS International, у которой, в свою очередь, есть платформа #PreScan, предназначенная для работы над помощниками в управлении автомобилем (Advanced Driver Assistance Systems).
 http://ift.tt/2yjV3IN

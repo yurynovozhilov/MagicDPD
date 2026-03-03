@@ -9,4 +9,6 @@ images:
   - url: "/assets/images/2383.jpg"
 ---
 
+Пожалуй единственный официальный источник вебинаров по Ansys на русском. Материалы готовит мой бывший коллега и хороший друг Юрий Кабанов из CADFEM UA
+
 https://youtube.com/@ansysmechanical

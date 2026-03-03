@@ -1,12 +1,19 @@
 ---
+layout: post
 title: "LEGO crash test"
-date: 2018-12-08T17:01:39+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1251"
+date: 2018-12-08T17:01:40+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1252
+tags:
+  - Crush
+  - LEGO
+  - LSDYNA
 images:
-  - url: "/assets/images/1251.jpg"
+  - url: "/assets/images/1253.jpg"
 ---
 
+LEGO crash test
 На этот раз у нас очень серьезное испытание для LS-DYNA: моделирование удара в недеформируемый барьер с 25% перекрытием на скорости 17 км/ч!
 
 При этом нам достпно сравнение с данными реалного эксперимента - камеры работают с двух точек обзора.

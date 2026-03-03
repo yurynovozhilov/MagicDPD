@@ -11,5 +11,6 @@ images:
   - url: "/assets/images/1787.jpg"
 ---
 
+THUMS модели человека скоро станут бесплатными
 #THUMS
 by Юрий Новожилов

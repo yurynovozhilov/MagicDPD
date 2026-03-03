@@ -1,20 +1,16 @@
 ---
-date: 2021-03-15 13:03:10+00:00
-link_previews:
-- description: The first talk from the inaugural UK Fluids Network SPH SIG virtual
-    seminar. Konstantinos Georgoulas from The University of Edinburgh presents work
-    on unders...
-  image: https://i.ytimg.com/vi/lHsNMo8p-Xo/hqdefault.jpg
-  title: 'Virtual Seminar 1: Modelling Coral Growth using SPH'
-  url: https://www.youtube.com/watch?v=lHsNMo8p-Xo
-- description: ''
-  image: ''
-  title: URL Shortener, Branded Short Links & Analytics | TinyURL
-  url: https://tinyurl.com/yeso66hl
-original_url: https://t.me/MagicDPD/1923
-source: tg
-title: Моделирование роста кораллов
+layout: post
+title: "Моделирование роста кораллов"
+date: 2021-03-15T13:03:10+00:00
+author: "MagicDPD"
+source: vk
+original_url: https://vk.com/wall-97265142_1923
+tags:
+  - sph
 ---
+
+Моделирование роста кораллов
+
 
 https://www.youtube.com/watch?v=lHsNMo8p-Xo
 
@@ -25,4 +21,3 @@ https://www.youtube.com/watch?v=lHsNMo8p-Xo
 
 #sph
 https://tinyurl.com/yeso66hl
-by GlukRazor

@@ -1,17 +1,20 @@
 ---
-date: 2017-03-16 17:03:35+00:00
-link_previews:
-- description: This video is a continuation of the 3D CFD case. In this video you
-    will learn how to set up a basic implicit structural problem in LS-DYNA and then
-    trigger t...
-  image: https://i.ytimg.com/vi/eLI4p5Ifcds/maxresdefault.jpg
-  title: How to set up a 3D FSI case in LS-DYNA
-  url: https://www.youtube.com/watch?v=eLI4p5Ifcds
-original_url: https://t.me/MagicDPD/303
-source: tg
-title: 3D FSI в LS-DYNA
+layout: post
+title: "3D FSI в LS-DYNA"
+date: 2017-03-16T17:03:35+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_303
+tags:
+  - ICFD
+  - FSI
+  - CFD
+  - LSDYNA
+  - Implicit
+  - LSTC
 ---
 
+3D FSI в LS-DYNA
 https://www.youtube.com/watch?v=eLI4p5Ifcds
 
 Учебный пример/вебинар #LSTC по постановке #FSI в #LSDYNA для трехмерного случая. Изучаем #ICFD и #Implicit.

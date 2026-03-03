@@ -6,10 +6,13 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_2036
 tags:
-  - ansys
   - cadfem
+  - ansys
   - lsdyna
 ---
+
+Новые возможности решателя LS-DYNA R13 - часть первая
+
 
 https://youtu.be/jZp1yISsBG8?list=PLhkE5O59hYsGBmcYGkRZZMzKgSUTbTIPd
 

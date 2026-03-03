@@ -7,6 +7,8 @@ source: vk
 original_url: https://vk.com/wall-97265142_996
 tags:
   - explicit
+  - Abaqus
+  - SPH
 ---
 
-
+Моделирование падения капли воды на металлическую мембрану в постановке #SPH - #Abaqus тоже может дать жару! Смотрим видео урок!

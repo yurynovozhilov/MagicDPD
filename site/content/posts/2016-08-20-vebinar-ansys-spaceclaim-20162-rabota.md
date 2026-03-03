@@ -6,12 +6,13 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_87
 tags:
-  - ASYS
+  - SpaceClaim
   - SCDM
   - STL
-  - SpaceClaim
+  - ASYS
 ---
 
+Вебинар ANSYS SpaceClaim 2016.2: работа с STL
 https://attendee.gotowebinar.com/rt/1891354989561575940
 
 Регичтация на обзорный вебинар по работе с #STL моделями в #ASYS #SpaceClaim Direct Modeler (#SCDM). Дополнително расскажту про такие темы, как PMI export, Associative scripting, STL shelling with face removal и т.п.

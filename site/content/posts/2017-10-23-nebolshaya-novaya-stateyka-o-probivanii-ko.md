@@ -7,6 +7,8 @@ source: vk
 original_url: https://vk.com/wall-97265142_567
 ---
 
+Небольшая новая статейка о пробивании композитных баллонов давления:
+
 A. Cherniaev, I. Telichev. "Introducing manufacturing features into numerical modeling of hypervelocity impact damage of composite pressure vessels" - Procedia Engineering, 2017
 
 http://ift.tt/1SP8s0jMedia🔗 Redirecting

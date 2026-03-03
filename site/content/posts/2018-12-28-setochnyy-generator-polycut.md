@@ -1,21 +1,23 @@
 ---
-date: 2018-12-28 17:01:34+00:00
+layout: post
+title: "Сеточный генератор PolyCut"
+date: 2018-12-28T17:01:35+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1292
+tags:
+  - PolyCut
+  - PolyCube
+  - Mesh
+  - AllHex
 images:
-- url: /assets/images/1291.jpg
-link_previews:
-- description: Enjoy the videos and music you love, upload original content, and share
-    it all with friends, family, and the world on YouTube.
-  image: https://i.ytimg.com/vi/Ju0C70-EkE4/hqdefault.jpg
-  title: PolyCut
-  url: https://youtu.be/Ju0C70-EkE4
-- description: PolyCut
-  image: ''
-  title: 'PolyCut: Monotone Graph-Cuts for PolyCube Base-Complex Construction'
-  url: http://www.cs.ubc.ca/labs/imager/tr/2013/polycut/
-original_url: https://t.me/MagicDPD/1291
-source: tg
-title: Сеточный генератор PolyCut
+  - url: "/assets/images/1293.jpg"
 ---
+
+Сеточный генератор PolyCut
+
+
+
 
 В 2013 году группа ученых из Университета Британской Колумбии впервые опубликовала статью об разработанном ими алгоритме PolyCut, способном автоматически гененировать all-hex сетки на произвольной геометрии. PolyCut работал на основе метода PolyCube, когда геометрия автоматически представляется в виде набора параллелепипедов, для которых уже можно построить блочно-структурированную топологию.
 
@@ -27,7 +29,7 @@ title: Сеточный генератор PolyCut
 
 
 
-  https://youtu.be/Ju0C70-EkE4
+https://youtu.be/Ju0C70-EkE4
 
 
 

@@ -1,11 +1,15 @@
 ---
+layout: post
 title: "CADFEM исполняется 40 лет!"
 date: 2025-04-16T11:05:48+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/2929"
+author: "Yury Novozhilov"
+source: vk
+original_url: https://vk.com/wall-97265142_2929
 images:
   - url: "/assets/images/2929.jpg"
 ---
+
+CADFEM исполняется 40 лет!
 
 Коллеги даже подготовили про это раздел слайда. Аж олдскусы свело!
 

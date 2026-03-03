@@ -7,14 +7,15 @@ source: vk
 original_url: https://vk.com/wall-97265142_1167
 tags:
   - Coronary
-  - Implicit
   - Stent
   - LSDYNA
+  - Implicit
   - LSTC
 images:
   - url: "/assets/images/1168.jpg"
 ---
 
+Моделирование установки стента в LS-DYNA Implicit
 Видео с невероятно крутым расчетом установки стента.
 
 При этом расчет всех этих контактов, пластического деформирования материала и надува "шарика" оболочки считается, по заявлениями авторов, средствами LS-DYNA Implicit (!!!).

@@ -1,19 +1,23 @@
 ---
-date: 2018-08-22 18:00:54+00:00
+layout: post
+title: "Симулятор оригами"
+date: 2018-08-22T18:00:55+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1084
+tags:
+  - Game
+  - OpenSource
+  - GitHub
+  - Origami
 images:
-- url: /assets/images/1083.jpg
-link_previews:
-- description: This app simulates how any origami crease pattern will fold.  It calculates
-    the geometry of folded or partially folded origami using a dynamic, GPU-accelerated
-    solver and illustrates physical properties of the folded material. It also supports
-    an immersive, interactive VR mode using WebVR.  Code on Github.
-  image: https://amandaghassaei.com/projects/origami_simulator/images/wide_1200.jpg
-  title: ORIGAMI SIMULATOR
-  url: http://www.amandaghassaei.com/projects/origami_simulator/
-original_url: https://t.me/MagicDPD/1083
-source: tg
-title: Симулятор оригами
+  - url: "/assets/images/1085.jpg"
 ---
+
+Симулятор оригами
+
+
+
 
 Аманда Гассаи (Amanda Ghassaei) на своем сайте публикует удивительные по качеству и красоте примеры своих работ. Я познакомился с ее творчеством с симулятора оригами, с него обзор и начнем.
 

@@ -6,12 +6,15 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1511
 tags:
+  - LSTC
   - Solution_Explorer
   - LS_PrePost
-  - LSTC
 images:
   - url: "/assets/images/1511.jpg"
 ---
+
+Solution Explorer в LS-PrePost для удобной постановки задач
+
 
 То есть это как? LSTC добавляет удобства в LSPP?! Готовить модели для LS-DYNA становится удобно???
 

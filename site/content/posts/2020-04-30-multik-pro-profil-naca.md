@@ -1,11 +1,16 @@
 ---
+layout: post
 title: "Мультик про профиль NACA"
 date: 2020-04-30T18:32:14+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1748"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1748
+tags:
+  - naca
+  - simulationfriday
+  - CFD
 images:
   - url: "/assets/images/1748.jpg"
 ---
 
-#CFD #naca #simulationfriday
-by GlukRazor
+Мультик про профиль NACA

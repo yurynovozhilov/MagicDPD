@@ -1,21 +1,18 @@
 ---
-date: 2021-11-19 15:50:59+00:00
-link_previews:
-- description: Updated link here https://youtu.be/hfFArusJWu8 This video shows a physics-based
-    recreation of the shooting down of Russian Satellite Cosmos 1408 by an object...
-  image: https://i.ytimg.com/vi/b52F9R9ByOY/maxresdefault.jpg
-  title: 2021 Russian satellite intercept
-  url: https://www.youtube.com/watch?v=b52F9R9ByOY
-- description: ''
-  image: ''
-  title: URL Shortener, Branded Short Links & Analytics | TinyURL
-  url: https://tinyurl.com/yj47b5p3
-original_url: https://t.me/MagicDPD/2037
-source: tg
-title: Ansys и "звёздные войны"
+layout: post
+title: "Ansys и \"звёздные войны\""
+date: 2021-11-19T15:50:59+00:00
+author: "MagicDPD"
+source: vk
+original_url: https://vk.com/wall-97265142_2037
+tags:
+  - agi
+  - ansys
 ---
 
-15 ноября 2021 года спутник "Космос 1408" был уничтожен в ходе испытания российского противоспутникового оружия. Коллеги из AGI, Systems Tool Kit (STK) пренадлежащего Ansys,  который широко используется в космическом аэрокосмическом и оборонном сообществе для точного моделирования сложных многокомпонентных миссий, промоделировали это событие. 
+Ansys и "звёздные войны"
+
+15 ноября 2021 года спутник "Космос 1408" был уничтожен в ходе испытания российского противоспутникового оружия. Коллеги из AGI, Systems Tool Kit (STK) пренадлежащего Ansys,  который широко используется в космическом аэрокосмическом и оборонном сообществе для точного моделирования сложных многокомпонентных миссий, промоделировали это событие.
 
 
 
@@ -29,4 +26,3 @@ https://www.youtube.com/watch?v=b52F9R9ByOY
 
 #agi #ansys
 https://tinyurl.com/yj47b5p3
-by GlukRazor

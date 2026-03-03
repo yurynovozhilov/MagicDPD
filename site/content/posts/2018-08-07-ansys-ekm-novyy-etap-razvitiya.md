@@ -1,12 +1,24 @@
 ---
+layout: post
 title: "ANSYS EKM - новый этап развития"
-date: 2018-08-07T18:01:17+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1058"
+date: 2018-08-07T18:01:18+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1059
+tags:
+  - SLURM
+  - SDM
+  - Fluent
+  - HPC
+  - CFX
+  - EKM
+  - Mechanical
+  - ANSYS
 images:
-  - url: "/assets/images/1058.jpg"
+  - url: "/assets/images/1060.jpg"
 ---
 
+ANSYS EKM - новый этап развития
 Коллеги из МСК подготовили шикарное видео, в котором показали очень много всего интересного касательно EKM.
 
 EKM (Engineering Knowledge Manager) - система класса SDM (Simulation Data Management) от ANSYS. При всех ее достоинствах, у нее до недавнего времени была одна особенность, существенно затруднявшая ее врендрение. А именно: EKM имел жесткую привязку к версии ANSYS, что заставляло обновлять все ПО организации разом. Сейчас, начиная в версии 19.1 (или как она теперь должна называться?), EKM может работать с любой версией решателей ANSYS - ему можно это объяснить.

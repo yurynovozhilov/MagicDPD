@@ -6,10 +6,14 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_611
 tags:
-  - LSTC
   - LSPP
+  - wine
+  - Platypus
   - macOS
+  - LSTC
 ---
+
+Сегодня у нас на повестке дня эксклюзивный материал: моя небольшая статья-инструкция о том, как использовать LS-PrePost на macOS High Sierra при помощи #wine и #Platypus.
 
 #LSTC #LSPP #macOS
 

@@ -6,9 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_537
 tags:
+  - LBM
   - PowerFLOW
   - CFD
-  - LBM
+images:
+  - url: "https://sun9-81.userapi.com/s/v1/ig1/6j__6GT99qUruOBEhApXExE_LQj8c7buiHhgXjVIVmNg_foQy16dLPMp3C7RG3m8EZQA_FzH.jpg?quality=96&as=32x18,48x28,72x42,108x62,160x92,240x139,350x202&from=bu&u=FDLOlljl_cYfpwHEBP4wcH2GYuhg1OVoldkrXzhoFus&cs=350x0"
 ---
 
-
+Статья на тему того, как Fiat Chrysler Automobiles снизила коэффициент лобового сопротивления Chrysler 200 на 20% используя CFD код PowerFLOW от Exa Corporation. Интересно, что PowerFLOW базируется на методе решёточных уравнений Больцмана (Lattice Boltzmann Method, LBM), про которые я писал ранее.

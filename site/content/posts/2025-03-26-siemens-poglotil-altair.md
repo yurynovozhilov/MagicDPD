@@ -7,6 +7,8 @@ source: vk
 original_url: https://vk.com/wall-97265142_2914
 ---
 
+Siemens поглотил Altair
+
 Сегодня вышел официальный пресс-релиз от Siemens AG, о том, что сделка по поглощению Altair Engineering Inc. завершена. Там приговаривают про AI, и действительно, Altair имеет в своем портфолио дин из самых крутых планировщиков на рынке (PBS Pro). А еще у наго есть приложения для конечных пользователей для визуализации результатов "AI моделирования."
 
 https://newsroom.sw.siemens.com/en-US/siemens-altair-engineering-closing/

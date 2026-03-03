@@ -6,12 +6,14 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_2295
 tags:
+  - opensource
   - python
   - Matplotlib
-  - opensource
 images:
   - url: "/assets/images/2295.jpg"
 ---
+
+Любите ли вы делать визуализацию научных и инженерных данных красивой и понятной? Тогда вам пригодится моя сегодняшняя находка.
 
 Предлагаю вашему вниманию книгу "Scientific Visualization: Python + Matplotlib," которая доступна в рамках open access. А приятным дополнением книге является репозиторий ее автора на GitHub, где можно посмотреть все примеры.
 

@@ -7,13 +7,14 @@ source: vk
 original_url: https://vk.com/wall-97265142_1837
 tags:
   - LEAP
-  - Mechanical
   - composite
   - ACP
+  - Mechanical
   - ANSYS
 images:
   - url: "/assets/images/1837.jpg"
 ---
 
+Постановка задачи о трехточечном изгибе сэндвич панели в ANSYS
 #ACP #ANSYS #composite #LEAP #Mechanical
 by Юрий Новожилов

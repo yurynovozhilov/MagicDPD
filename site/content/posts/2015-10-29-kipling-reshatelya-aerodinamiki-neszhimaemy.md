@@ -6,10 +6,10 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_595
 tags:
-  - icfd
-  - cfd
-  - dem
   - lsdyna
+  - icfd
+  - dem
+  - cfd
 ---
 
-
+Киплинг решателя аэродинамики несжимаемых жидкостей и метода дискретных частиц в LS-DYNA R9 (тизер :-)).

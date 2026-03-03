@@ -7,4 +7,4 @@ source: vk
 original_url: https://vk.com/wall-97265142_189
 ---
 
-
+ANSYS CFX и структурированная сетка из TwinMesh - завораживающе!

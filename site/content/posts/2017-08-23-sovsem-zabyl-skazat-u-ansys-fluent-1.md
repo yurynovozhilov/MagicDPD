@@ -6,9 +6,14 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_456
 tags:
-  - mesh
+  - PUMA
   - cfdMedia
+  - Fluent
+  - mesh
+  - ANSYS
 ---
+
+Совсем забыл сказать: у #ANSYS #Fluent 18.2 теперь есть #PUMA (polyhedral unstructured mesh adaptation). За такой интересной аббревиатурой скрывается метод сеточной адаптации позволяет динамически сгущать сетку, например для повышения разрешения свободной поверхности.
 
 #mesh #cfdMedia📼 Dynamic Adaption of Polyhedral Cells in ANSYS Flue…
 

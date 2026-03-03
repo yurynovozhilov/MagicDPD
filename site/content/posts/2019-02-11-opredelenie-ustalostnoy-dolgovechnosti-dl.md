@@ -6,15 +6,18 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1351
 tags:
-  - thermal
+  - Fatigue
   - CAE
+  - thermal
   - download
   - ACT
-  - Fatigue
   - ANSYS
 images:
   - url: "/assets/images/1351.jpg"
 ---
+
+Определение усталостной долговечности для термомеханических задач
+
 
 В магазине ACT-расширений ANSYS недавно появилось приложение для расчетов на усталость для термомеханических задач по LCF. Теория и ссылка на источники внутри.
 

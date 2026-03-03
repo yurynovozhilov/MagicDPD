@@ -6,10 +6,12 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1718
 tags:
-  - Thinware
+  - Citrix
+  - Synergy
   - vGPU
   - remoteviz
   - framehawk
+  - Thinware
 ---
 
-
+Большой доклад по системам визуализации от специалистов #Citrix с прошедшей конференции #Synergy 2016. Очень интересно послушать историю развития. Полезно узнать про их новый видео кодек.

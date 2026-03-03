@@ -6,9 +6,9 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1369
 tags:
-  - CADFEM
-  - DEM
   - Rocky
+  - DEM
+  - CADFEM
 ---
 
-
+В Горном было здорово!

@@ -1,12 +1,16 @@
 ---
+layout: post
 title: "Моделирование спагетти"
 date: 2019-09-30T13:00:29+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1596"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1596
+tags:
+  - two_minute_papers
+  - FSI
 images:
   - url: "/assets/images/1596.jpg"
 ---
 
+Моделирование спагетти
 Двухминутный обзор научной работы по моделированию взаимодействия жидкости и волокон. Особый упор в статье сделан на разработку метода, а позволяющего делать такие расчеты на очень-очень грубых сетках.
-#FSI #two_minute_papers
-by GlukRazor

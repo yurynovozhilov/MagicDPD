@@ -6,7 +6,12 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1679
 tags:
+  - HFSS
   - em
+  - Delcross
+  - Savant
+  - SBR
+  - ANSYS
 ---
 
-
+Обзор возможностей #ANSYS #HFSS #SBR+, который получился из #Delcross #Savant, для решение больших задач!

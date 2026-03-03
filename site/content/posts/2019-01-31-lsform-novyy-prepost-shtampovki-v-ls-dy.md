@@ -6,15 +6,18 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1328
 tags:
-  - FLD
-  - deepdrawing
-  - LSTC
-  - forming
-  - stamping
   - LS_DYNA
+  - forming
+  - deepdrawing
+  - FLD
+  - stamping
+  - LSTC
 images:
   - url: "/assets/images/1328.jpg"
 ---
+
+LSFORM — новый ПреПост штамповки в LS-DYNA
+
 
 https://www.youtube.com/watch?v=g6wZ0MMEmmA
 

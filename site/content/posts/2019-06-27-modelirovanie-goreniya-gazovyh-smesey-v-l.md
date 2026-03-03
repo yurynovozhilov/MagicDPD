@@ -6,14 +6,17 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1517
 tags:
+  - LS_DYNA
+  - Chemistry
   - FSI
   - CESE
-  - Chemistry
   - LSTC
-  - LS_DYNA
 images:
   - url: "/assets/images/1517.jpg"
 ---
+
+Моделирование горения газовых смесей в LS-DYNA
+
 
 Вашему вниманию предлагаю слайды доклада коллег из LSTC по теме моделирования горения газовых смесей. Да-да, совместная работа CESE решателя гидродинамики с учетом сжимаемости и химического решателя (оба внутри LS-DYNA) позволяют и такое.
 

@@ -1,12 +1,19 @@
 ---
+layout: post
 title: "ANSYS купил OPTIS"
-date: 2018-03-25T18:01:18+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/868"
+date: 2018-03-25T18:01:19+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_869
+tags:
+  - SPEOS
+  - ANSYS
+  - OPTIS
 images:
-  - url: "/assets/images/868.jpg"
+  - url: "/assets/images/870.jpg"
 ---
 
+ANSYS купил OPTIS
 Когда раньше меня спрашивали на совещаниях что можно посчитать в ANSYS, я отвечал (в шутку), что все, однако есть некоторые затруднения в области геометрической оптики.
 
 На прошедшей неделе компания ANSYS приобрела лидера в области расчетов геометрической оптики, распространения света и человеческого зрения, компанию OPTIS. Ну что же, минус одна шутка.
@@ -16,6 +23,6 @@ images:
 
 Для компании, занимающейся визуализацией качество видео, мягко говоря, сомнительное.
 Ссылка на официальное заявление для прессы: https://www.ansys.com/about-ansys/news-center/03-22-18-ansys
- 
+
 #ANSYS #OPTIS #SPEOS
 https://goo.gl/EsV5Bz

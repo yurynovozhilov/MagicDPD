@@ -6,9 +6,15 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_568
 tags:
-  - LimitStateFORM
   - additivemanufacturing
+  - FORM
+  - LimitState
+  - LimitStateFORM
+  - Discovery
+  - ANSYS
 ---
+
+#LimitState показали работу своего генератора облегченных конструкций #FORM, встроив его в #ANSYS #Discovery Live. Таким образом коллеги получают проверку предлагаемой их программным обеспечением топологии в реальном времени. Это прям супер!
 
 #additivemanufacturing #LimitStateFORM
 

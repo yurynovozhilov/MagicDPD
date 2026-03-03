@@ -6,10 +6,15 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_540
 tags:
-  - optimization
-  - cloud
   - topology
+  - cloud
+  - optimization
+  - solidThinking
+  - Inspire
+  - Altair
 ---
+
+Обзор облачного решения от #Altair - #solidThinking #Inspire Unlimited, которое сейчас находится в статусе beta и доступно всем желающим бесплатно. Всем кто хочет попробовать их топологическую оптимизацию стоит поторопиться.
 
 #topology #optimization #cloud
 

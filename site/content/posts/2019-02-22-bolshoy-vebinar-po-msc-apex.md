@@ -1,22 +1,22 @@
 ---
-date: 2019-02-22 17:00:21+00:00
+layout: post
+title: "Большой вебинар по MSC Apex"
+date: 2019-02-22T17:00:21+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1363
 images:
-- url: /assets/images/1363.jpg
-link_previews:
-- description: MSC Apex Modeler and Structures Overview
-  image: https://i.ytimg.com/vi/lXh6IzMqn0E/maxresdefault.jpg
-  title: Webinar- How to Perform a Stress Analysis in One Day
-  url: https://www.youtube.com/watch?v=lXh6IzMqn0E
-original_url: https://t.me/MagicDPD/1363
-source: tg
-title: Большой вебинар по MSC Apex
+  - url: "/assets/images/1363.jpg"
 ---
+
+Большой вебинар по MSC Apex
+
 
 На днях я наконец смог осилить большой вебинар от MSC, посвященный их системе/решателю/среде Apex. Я слышал довольно много легенд про него, так что решил увидеть все своими глазами. Если у вас нет времени для просмотра всего видео, то могу посоветовать начать прямо с 32-ой минуты, где начинается живая демонстрация системы.
 
 
 
-  https://www.youtube.com/watch?v=lXh6IzMqn0E
+https://www.youtube.com/watch?v=lXh6IzMqn0E
 
 
 

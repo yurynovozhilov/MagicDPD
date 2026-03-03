@@ -6,8 +6,16 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_620
 tags:
+  - Elmer
+  - OpenFOAM
+  - Gmsh
+  - КЭ
+  - ONELAB
   - opensource
+  - GetDP
 ---
+
+#ONELAB (Open Numerical Engineering LABoratory) - готовый бесплатный кросс платформенный набор инженерного софта с открытым исходным кодом для работы с #КЭ решателями и сеточным генератором #Gmsh. В комплекте есть собственный решатель #GetDP. Заявлена поддержка #OpenFOAM и #Elmer
 
 Все это хозяйство есть под Windows, Linux, macOS, iOS (!!!) и Android (!!!).
 

@@ -7,4 +7,5 @@ source: vk
 original_url: https://vk.com/wall-97265142_3
 ---
 
+Самый свежий обхор d3VIEW 😊
 Август 2010

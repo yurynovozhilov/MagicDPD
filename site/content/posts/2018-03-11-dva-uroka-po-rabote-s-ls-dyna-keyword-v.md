@@ -6,14 +6,15 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_843
 tags:
-  - Python
-  - LSDYNA
   - Qd
+  - Python
   - Open_Source
+  - LSDYNA
 images:
   - url: "/assets/images/844.jpg"
 ---
 
+Два урока по работе с LS-DYNA Keyword в Python библиотеке qd-cae
 Если вы следите за публикацияи MDPD, то вы занете о существовании замечатьельной бесплатной открытой Python библиотеки qd. В недавней версии в нее добавили инструменты по манипулированию Keyword файлами — моделями LS-DYNA. Сегодя у нас есть уже 2 видео урока, демонстрирующих, что может билиотека.
 
 

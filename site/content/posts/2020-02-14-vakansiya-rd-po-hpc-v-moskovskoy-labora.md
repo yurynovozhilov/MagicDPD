@@ -12,4 +12,4 @@ images:
   - url: "/assets/images/1699.jpg"
 ---
 
-
+Вакансия: R&D по HPC в московской лаборатории Huawei

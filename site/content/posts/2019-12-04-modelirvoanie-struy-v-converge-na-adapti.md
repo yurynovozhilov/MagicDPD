@@ -12,4 +12,4 @@ images:
   - url: "/assets/images/1651.jpg"
 ---
 
-
+Моделирвоание струй в CONVERGE на адаптивных сетка

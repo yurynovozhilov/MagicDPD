@@ -6,20 +6,24 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_2370
 tags:
-  - Oasys
-  - PRIMER
-  - BetaCAE
-  - Workbench
-  - Minerva
-  - FEMZIP
-  - LSDYNA
-  - ANSA
   - Hexagon
+  - BetaCAE
+  - Oasys
   - DIGIMAT
+  - Ansys
+  - ANSA
   - EKM
+  - DYNAmore
+  - LSDYNA
+  - FEMZIP
+  - Workbench
+  - PRIMER
+  - Minerva
 images:
   - url: "/assets/images/2371.jpg"
 ---
+
+Сегодня, 6 декабря 2022 года, компания #Ansys объявила о подписании соглашения по поглощению #DYNAmore! В официальном пресс-релизе компания DYNAmore позиционируется как ключ к мировой автомобильной индустрии, и это не далеко от истины.
 
 DYNAmore поставляет и поддерживает #LSDYNA (отраслевой стандарт для краштестов) для всех ключевых автомобильных компаний европы, что генерирует внушительный поток денег.
 

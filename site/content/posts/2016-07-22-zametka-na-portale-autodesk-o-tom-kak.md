@@ -7,9 +7,13 @@ source: vk
 original_url: https://vk.com/wall-97265142_51
 tags:
   - composite
-  - cohesive
   - czm
+  - FEM
+  - Autodesk
+  - cohesive
 ---
+
+Заметка на портале #Autodesk о том, как идентифицировать параметры когезивного слоя для композитов на основе реальный и численных экспериметнов. #FEM для тех кто по проще.
 
 #composite #cohesive #czm
 

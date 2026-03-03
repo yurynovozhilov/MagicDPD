@@ -6,14 +6,15 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1087
 tags:
+  - lsdyna
+  - EKM
   - betacae
   - SDPD
-  - lsdyna
-  - SPDRM
   - ANSYS
-  - EKM
+  - SPDRM
 ---
 
+На лицо ужасные,
 Добрые внутри.
 
 BETA CAE Systems выложила ряд обзорных видео по их системе управления инженерными знаниями SPDRM. Для работы с LS-DYNA это еще не самый страшный интерфейс. Пользователи #ANSYS #EKM могут испытать шок и кровотечение из глаз.

@@ -1,20 +1,17 @@
 ---
-date: 2024-03-06 08:20:59+00:00
-link_previews:
-- description: Cadence today announced it has entered into a definitive agreement
-    to acquire BETA CAE Systems International AG, a leading system analysis platform
-    provider of multi-domain, engineering simulation solutions.
-  image: https://www.cadence.com/content/dam/cadence-www/global/en_US/images/site-images/common/social-thumbnail.jpg
-  title: Cadence to Acquire BETA CAE, Expanding into Structural Analysis
-  url: https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2024/cadence-to-acquire-beta-cae-expanding-into-structural-analysis.html
-original_url: https://t.me/MagicDPD/2662
-source: tg
-title: Cadence покупает BETA CAE
+layout: post
+title: "Cadence покупает BETA CAE"
+date: 2024-03-06T08:20:59+00:00
+author: "Yury Novozhilov"
+source: vk
+original_url: https://vk.com/wall-97265142_2662
 ---
 
-Случилось нечто удивительное и странное. Вчера Cadance  объявили о покупке BETA CAE за $1.24 (60% - наличными, 40% - акциями). Интересное тут происходит, если немного покопаться в контексте. 
+Cadence покупает BETA CAE
 
-BETA CAE разрабатывает много разного ПО, но безусловным флагманом компании является препроцессор ANSA. Он же является и стандартном во всей автомобильной отрасли, позиционируя себя, как независящее от решателей решение, готовящее единую модель под любой тип расчета в любом коде. 
+Случилось нечто удивительное и странное. Вчера Cadance  объявили о покупке BETA CAE за $1.24 (60% - наличными, 40% - акциями). Интересное тут происходит, если немного покопаться в контексте.
+
+BETA CAE разрабатывает много разного ПО, но безусловным флагманом компании является препроцессор ANSA. Он же является и стандартном во всей автомобильной отрасли, позиционируя себя, как независящее от решателей решение, готовящее единую модель под любой тип расчета в любом коде.
 
 Компания Cadance же изначально пришила из области радио электроцинки и приборостроения. Сейчас у них есть EM, CFD, но вообще нет ничего отвечающего за прочность. Как я уже писал выше, наряду с ANSA, у BETA CAE есть и другие программные продукты, среди которых и прочностной решатель EPILYSIS с неявной схемой интегрирования.  Я сильно удивлюсь, если EPILYSIS может всерьез конкурировать с ANSYS, NASTART или ABAQUS, но что-то на уровне SolidWorks Simulations наверно посчитать можно.
 

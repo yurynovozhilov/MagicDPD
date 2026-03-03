@@ -6,9 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_418
 tags:
-  - SImScale
   - OpenFOAM
+  - SImScale
 ---
+
+SimScale в очередной раз показывает, что OpenFOAM внутри не врет при моделировании запорной арматуры.
 
 #SImScale #OpenFOAM
 

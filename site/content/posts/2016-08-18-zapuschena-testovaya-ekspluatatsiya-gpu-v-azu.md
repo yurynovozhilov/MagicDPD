@@ -6,22 +6,23 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_84
 tags:
-  - Azure
-  - Channel9
-  - GPU
-  - cloud
-  - teradici
-  - Windows
-  - HPC
-  - hyperv
-  - tesla
-  - m60
-  - k80
   - NVIDIA
+  - hyperv
+  - Channel9
+  - m60
   - DDA
+  - cloud
+  - HPC
+  - tesla
+  - k80
   - Server
+  - teradici
+  - GPU
+  - Windows
+  - Azure
 ---
 
+Запущена тестовая эксплуатация GPU в Azure
 https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure
 
 Тестовая демонстрация работы #GPU #NVIDIA инстансов в облаке #Azure началась в зоне South Central US. При этом, как говорят сами MS, они используют технологию прямого проброса устройстви (Discrete Device Assignment, #DDA), заложенную в ожидаемый #Windows #Server 2016 Hyper-V.

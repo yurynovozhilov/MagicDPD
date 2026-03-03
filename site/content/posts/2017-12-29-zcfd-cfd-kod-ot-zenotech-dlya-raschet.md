@@ -6,17 +6,22 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_683
 tags:
-  - RANS
-  - LES
-  - GPU
-  - Galerkin
-  - HFSS
-  - Discontinuous
-  - SAS
-  - LSDYNA
-  - DES
   - NVIDIA
+  - DES
+  - Galerkin
+  - Zenotech
+  - SAS
+  - Discontinuous
+  - CFD
+  - GPU
+  - LSDYNA
+  - HFSS
+  - LES
+  - zCFD
+  - RANS
 ---
+
+#zCFD - #CFD код от #Zenotech для расчета сжимаемых течений, который обещает сразу кучу всего нового, и многое из это - бесплатно.
 
 Итак, ключевые особенности ПО:
 - эффективность - обычно присутствует у любого, уважающего себя кода

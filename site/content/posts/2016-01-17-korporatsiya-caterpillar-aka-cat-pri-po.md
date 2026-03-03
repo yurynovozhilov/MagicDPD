@@ -5,6 +5,13 @@ date: 2016-01-17T12:00:04+00:00
 author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1097
+tags:
+  - OpenFOAM
+  - ANSYS
+  - CAESES
+  - Mechanical
 ---
+
+Корпорация Caterpillar (aka. CAT) при помощи связки #ANSYS #Mechanical, #OpenFOAM и #CAESES сделала оптимальный гребной винт.
 
 Мой интерес к данной новости вызвал CAESES - некий диковинный геометрический процессор, о котором я постараюсь разузнать побольше подробностей и рассказать, но позднее.

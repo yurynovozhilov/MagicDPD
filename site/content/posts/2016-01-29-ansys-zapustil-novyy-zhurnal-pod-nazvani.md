@@ -6,8 +6,9 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1184
 tags:
-  - Advantage
   - Dimensions
+  - Advantage
+  - ANSYS
 ---
 
-
+#ANSYS запустил новый журнал под названием Dimensions. Интересно, что при этом заслуженный ANSYS Advantage никуда не делся. Судя по описанию журналов складывается мнение, что новый журнал больше за бизнес, а старый - за расчеты.

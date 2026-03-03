@@ -7,4 +7,6 @@ source: vk
 original_url: https://vk.com/wall-97265142_2406
 ---
 
+Моделирование кумулятивной струи от LLNL в SPH постановке. Красиво и с экспериментом.
+
 https://www.youtube.com/watch?v=5SBQdRobGCY

@@ -12,4 +12,4 @@ images:
   - url: "/assets/images/1826.jpg"
 ---
 
-
+Подходы к моделированию полимеров в LS-DYNA

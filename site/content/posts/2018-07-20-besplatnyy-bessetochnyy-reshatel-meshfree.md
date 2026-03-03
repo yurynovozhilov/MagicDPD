@@ -6,15 +6,16 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1024
 tags:
+  - NFX
   - NAFEMS
   - MESHFREE
-  - MIDAS
   - MidasNFX
-  - NFX
+  - MIDAS
 images:
   - url: "/assets/images/1025.jpg"
 ---
 
+Бесплатный бессеточный решатель MESHFREE от MIDASIT и Samsung Electronics
 Очень громкое название, не правда ли? Давайте попробуем разобраться. Для начала есть маркетинговое видео:
 
 Компания MIDAS - очень молодая, всего 5 лет. Есть сайт: http://ru.midasuser.com/ . Большая часть ПО у них с уклоном в гражданское строительство. Хотя есть и чистый КЭ midas NFX, который решает все, включая CFD и оптимизацию топологии. Но сейчас речь не про него  - давайте еще посмотрим на MESHFREE.

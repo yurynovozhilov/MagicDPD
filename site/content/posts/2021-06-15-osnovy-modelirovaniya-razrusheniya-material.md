@@ -6,12 +6,15 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_1969
 tags:
-  - ansys
-  - ls
   - forming
-  - fld
   - nakajima_test
+  - ls
+  - ansys
+  - fld
 ---
+
+Основы моделирования разрушения материала при обработке металла давлением
+
 
 https://www.youtube.com/watch?v=w7u_tyqZwwg
 

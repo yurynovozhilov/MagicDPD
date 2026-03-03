@@ -1,10 +1,15 @@
 ---
+layout: post
 title: "Сохраняйся до/и после"
 date: 2017-04-13T17:04:07+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/328"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_328
 images:
   - url: "/assets/images/328.jpg"
 ---
+
+Сохраняйся до/и после
+
 
 Как много раз вы запускали расчет, а потом ловили себя на мысли, что как-то давно вы не сохранялись - и расчет остановить жалко, и не сохраниться опасно. Глубоко в настройках #

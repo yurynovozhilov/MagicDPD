@@ -6,13 +6,16 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1343
 tags:
-  - LSDYNA
-  - EFG
-  - forming
   - LS_DYNA
+  - forming
+  - EFG
+  - LSDYNA
 images:
   - url: "/assets/images/1343.jpg"
 ---
+
+Моделирование процессов ОМД на АО Ульяновский НИАТ
+
 
 Приятно видеть, когда люди работают, и работают хорошо!
 #LSDYNA #EFG #forming

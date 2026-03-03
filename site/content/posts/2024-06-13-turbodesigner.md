@@ -1,18 +1,15 @@
 ---
-date: 2024-06-13 13:02:12+00:00
+layout: post
+title: "Turbodesigner"
+date: 2024-06-13T13:02:12+00:00
+author: "Yury Novozhilov"
+source: vk
+original_url: https://vk.com/wall-97265142_2722
 images:
-- url: /assets/images/2722.jpg
-link_previews:
-- description: the open-source turbomachinery designer. Contribute to OpenOrion/turbodesigner
-    development by creating an account on GitHub.
-  image: https://opengraph.githubassets.com/9143fc45e931ceca29cbb634a04f0430ff87376b55a570e967fee75fa19b01ed/OpenOrion/turbodesigner
-  title: 'GitHub - OpenOrion/turbodesigner: the open-source turbomachinery designer'
-  url: https://github.com/OpenOrion/turbodesigner
-original_url: https://t.me/MagicDPD/2722
-source: tg
-title: Turbodesigner
+  - url: "/assets/images/2722.jpg"
 ---
 
+Turbodesigner
 Turbodesigner - это инструмент, который, задавая такие параметры, как соотношение давлений и массовый расход, может генерировать конструкции с использованием среднелинейного проектирования (mean-line design), анализа обтекания лопаток и, в конце концов, создавать CAD-модель, которую можно экспортировать в файлы STL и STEP.
 
 В настоящее время он генерирует осевые компрессоры, а при дальнейшей доработке - осевые турбонасосы для жидкостных ракетных двигателей.

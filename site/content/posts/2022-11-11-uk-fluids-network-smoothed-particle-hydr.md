@@ -5,6 +5,8 @@ date: 2022-11-11T19:00:09+00:00
 author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_2364
+tags:
+  - SPH
 images:
   - url: "/assets/images/2364.jpg"
   - url: "/assets/images/2365.jpg"
@@ -14,6 +16,7 @@ images:
   - url: "/assets/images/2369.jpg"
 ---
 
+UK Fluids Network Smoothed Particle Hydrodynamics (#SPH) Special Interest Group выложила 4 сезон своей виртуальной серии семинаров. В нем 5 серии:
 - Aero-fluid Interaction of Fuel Jettison Using an SPH Model
 - Applications of FEM-PFEM Coupling in Multiphysics Simulations
 - Multi-phase Simulations of Nonlinear Fluids with SPH

@@ -6,11 +6,16 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_674
 tags:
-  - OPA
   - Fluent
-  - ANSYS
+  - HPC
   - CFX
+  - OPA
+  - Mellanox
+  - Intel
+  - ANSYS
 ---
+
+Сейчас на рынке #HPC интерконнектов идет тихая война между #Mellanox и #Intel.
 
 Хотя на мой вкус, Mellanox так далеко впереди, что за ним уже никому не угнаться. Посудите сами: у них полностью аппаратная работа с данными, не нагружающая CPU, у них уже есть 200 Гбит и, что самое важное, их поддерживают все решатели (ну хотя бы все решатели #ANSYS). А вот Intel #OPA может только #ANSYS #Fluent и #ANSYS #CFX.
 

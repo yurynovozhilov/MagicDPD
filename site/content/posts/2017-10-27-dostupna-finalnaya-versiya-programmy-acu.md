@@ -6,8 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_571
 tags:
+  - ACUM
   - cadfem
 ---
+
+Доступна финальная версия программы #ACUM 2017
 
 P.S. Второй день - 5 (пять, Карл!!!) отраслевых секций.
 

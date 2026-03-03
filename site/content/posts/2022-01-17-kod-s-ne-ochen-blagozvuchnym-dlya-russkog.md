@@ -6,14 +6,21 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_2082
 tags:
-  - SMiRT
   - MATRiSEB
+  - SSI
+  - Ansys
+  - SMiRT
+  - APDL
   - GhiocelPredictiveTechnologies
+  - ACS
+  - SASSI
 images:
   - url: "/assets/images/2083.jpg"
   - url: "/assets/images/2084.jpg"
   - url: "/assets/images/2085.jpg"
 ---
+
+Код, с не очень благозвучным для русского уха названием, #ACS #SASSI разрабатывается компанией Ghiocel Predictive Technologies и  поддерживается компанией MATRISEB. Код является, своего рода, стандартом для решения задач #SSI (soil structure interraction) при моделировании сейсмических воздействий на важные здания. Код сопрягается с #Ansys #APDL для полномасштабного моделирования строительных конструкций.
 
 #GhiocelPredictiveTechnologies, Inc. специализируется на вычислительной механике, моделировании неопределенностей и прогнозировании рисков для крупномасштабных сложных инженерных приложений. Ghiocel Predictive Technologies накопила более чем пятидесятилетний инженерный опыт в области вычислительной стохастической механики, статистического моделирования и прогнозирования структурных рисков.
 

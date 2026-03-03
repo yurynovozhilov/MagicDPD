@@ -7,6 +7,8 @@ source: vk
 original_url: https://vk.com/wall-97265142_657
 tags:
   - Fatigue
+  - ANSYS
+  - Mechanical
 ---
 
-
+Расчет на циклическую прочность в #ANSYS #Mechanical

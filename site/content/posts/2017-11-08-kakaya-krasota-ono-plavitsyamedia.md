@@ -1,13 +1,12 @@
 ---
-date: 2017-11-08 17:05:17+00:00
-link_previews:
-- description: ''
-  image: ''
-  title: VK.com | VK
-  url: http://ift.tt/2m4A8aC
-original_url: https://t.me/MagicDPD/596
-source: tg
-title: Какая красота! Оно плавится.Media
+layout: post
+title: "Какая красота! Оно плавится.Media"
+date: 2017-11-08T17:05:17+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_596
 ---
+
+Какая красота! Оно плавится.Media
 
 http://ift.tt/2m4A8aC

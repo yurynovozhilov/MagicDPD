@@ -7,4 +7,4 @@ source: vk
 original_url: https://vk.com/wall-97265142_2646
 ---
 
-
+P.S. Расскажите, кто пользуется ParaView, для каких задач и почему?

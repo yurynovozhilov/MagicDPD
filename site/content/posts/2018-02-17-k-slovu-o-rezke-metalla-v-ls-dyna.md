@@ -1,16 +1,26 @@
 ---
+layout: post
 title: "К слову о резке металла в LS-DYNA"
 date: 2018-02-17T17:00:23+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/801"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_802
+tags:
+  - Tutorial
+  - EFG
+  - Cutting
+  - AdaptiveEFG
+  - Meshless
+  - LSDYNA
+  - Implicit
+  - LSTC
 images:
-  - url: "/assets/images/801.jpg"
+  - url: "/assets/images/803.jpg"
 ---
 
+К слову о резке металла в LS-DYNA
 Разберем небольшой пример по моделированию процесса резки металла в EFG постановке.
 Расчет такого сложного процесса становится возможен благодаря Element-Free Galerkin (EFG) — бессеточному методу Галеркина. Очень интересной особенностью данной постановки является использование решателя с неявной (!!! *CONTROL_IMPLICIT_DYNAMICS !!!) схемой интегрирования по времени. Основная цель — видеодемонстрация влияния настроек механизма адаптации EFG модели под деформацию (динамическое перестроение сетки, которой как бы нет :-D ).
 
 Готовая модель для самостоятельного изучения лежит в открытом доступе: http://www.dynaexamples.com/efg/metal-cutting
 Кстати, очень интересно отдельно посмотреть на работу контактного алгоритма семейства  MORTAR — специальная разработка LSTC для implicit расчетов (*CONTACT_FORMING_SURFACE_TO_SURFACE_MORTAR).
- 
-#AdaptiveEFG #Cutting #EFG #Implicit #LSDYNA #LSTC #Meshless #Tutorial

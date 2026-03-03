@@ -1,20 +1,16 @@
 ---
-date: 2021-12-06 13:20:36+00:00
-link_previews:
-- description: 2019 Purdue Engineering Distinguished Lecture Series presenter Thomas
-    J.R. Hughes, the Peter O'Donnell Jr. Chair in Computational and Applied Mathematics
-    and...
-  image: https://i.ytimg.com/vi/HwDh-M-6kfQ/maxresdefault.jpg
-  title: 'Thomas Hughes: “Isogeometric Analysis”'
-  url: https://youtu.be/HwDh-M-6kfQ
-- description: ''
-  image: ''
-  title: URL Shortener, Branded Short Links & Analytics | TinyURL
-  url: https://tinyurl.com/y54myc95
-original_url: https://t.me/MagicDPD/2046
-source: tg
-title: Лекция по IGA для Университета Пердью
+layout: post
+title: "Лекция по IGA для Университета Пердью"
+date: 2021-12-06T13:20:36+00:00
+author: "MagicDPD"
+source: vk
+original_url: https://vk.com/wall-97265142_2046
+tags:
+  - iga
 ---
+
+Лекция по IGA для Университета Пердью
+
 
 https://youtu.be/HwDh-M-6kfQ
 
@@ -25,4 +21,3 @@ https://youtu.be/HwDh-M-6kfQ
 
 #iga
 https://tinyurl.com/y54myc95
-by GlukRazor

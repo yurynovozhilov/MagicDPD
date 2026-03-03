@@ -1,20 +1,16 @@
 ---
-date: 2021-09-27 13:04:17+00:00
-link_previews:
-- description: Failure theories are used to predict when a material will fail due
-    to static loading. They do this by comparing the stress state at a point with
-    material pro...
-  image: https://i.ytimg.com/vi/xkbQnBAOFEg/maxresdefault.jpg
-  title: Understanding Failure Theories (Tresca, von Mises etc...)
-  url: https://www.youtube.com/watch?v=xkbQnBAOFEg
-- description: ''
-  image: ''
-  title: URL Shortener, Branded Short Links & Analytics | TinyURL
-  url: https://tinyurl.com/yjnaquv7
-original_url: https://t.me/MagicDPD/2007
-source: tg
-title: Теории разрушения
+layout: post
+title: "Теории разрушения"
+date: 2021-09-27T13:04:17+00:00
+author: "MagicDPD"
+source: vk
+original_url: https://vk.com/wall-97265142_2007
+tags:
+  - theory
 ---
+
+Теории разрушения
+
 
 https://www.youtube.com/watch?v=xkbQnBAOFEg
 
@@ -25,4 +21,3 @@ https://www.youtube.com/watch?v=xkbQnBAOFEg
 
 #theory
 https://tinyurl.com/yjnaquv7
-by GlukRazor

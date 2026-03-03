@@ -1,11 +1,20 @@
 ---
+layout: post
 title: "Ретро вечеринка"
-date: 2018-12-20T17:00:56+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1275"
+date: 2018-12-20T17:00:57+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1276
+tags:
+  - ANSYS
 images:
-  - url: "/assets/images/1275.jpg"
+  - url: "/assets/images/1277.jpg"
 ---
+
+Ретро вечеринка
+
+
+
 
 Пост для тех, кто знает что такое Fortran и помнит кто такой Вольтрон, специально из архива нашего офиса. Тут у нас лицензионные диски с ANSYS 11 - первая версия дистрибутива, содержавшего среду Workbench.
 

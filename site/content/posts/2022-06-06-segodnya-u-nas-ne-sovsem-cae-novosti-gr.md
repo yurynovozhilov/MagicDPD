@@ -6,9 +6,14 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_2289
 tags:
+  - CAE
+  - deeplearning
+  - МРТ
   - CFD
 images:
   - url: "/assets/images/2289.jpg"
 ---
+
+Сегодня у нас не совсем #CAE новости. Группа ученых опубликовала в журнале Journal of Magnetic Resonance Imaging свое исследование, которое позволяет автоматически точно и быстро строить динамическую 3D картину течение крови в сердце. Причем данная картина строиться на основе данных #МРТ обработанных особой #deeplearning системой. Получается какой-то фантастический источник информации для исследователей работы сердца!
 
 #CFD https://onlinelibrary.wiley.com/doi/10.1002/jmri.28221

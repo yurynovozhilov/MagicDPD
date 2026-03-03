@@ -7,4 +7,4 @@ source: vk
 original_url: https://vk.com/wall-97265142_244
 ---
 
-
+Небольшое портфолио FEA расчетов от Predictive Engineering. Простые расчеты, но качественное видео.

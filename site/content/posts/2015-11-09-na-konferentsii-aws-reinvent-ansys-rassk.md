@@ -6,16 +6,18 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_654
 tags:
+  - Amazon
+  - NICE
   - DCV
   - HPC
-  - Amazon
-  - CycleComputing
-  - NICE
-  - Chef
   - AWS
-  - ANSYS
+  - Chef
   - Cloud
+  - CycleComputing
+  - ANSYS
 ---
+
+На конференции AWS re:Invent ANSYS расскзал об архитектуре своего облачного решения ANSYS Enterprise Cloud в AWS. Всю магию по созданию виртуального кластера для них делает Cycle Computing. Графикой естественно завидует NICE Software. Управление конфигурациями через Chef. Метаданные пишутся в базу Amazon RDS (наверно они приделали к ней аналог ANSYS EKM).
 
 Однако проблемы, на которые я всегда обращаю внимание, остались открытыми:
 - нет RDMA - большой кластер тормозит даже для CFD

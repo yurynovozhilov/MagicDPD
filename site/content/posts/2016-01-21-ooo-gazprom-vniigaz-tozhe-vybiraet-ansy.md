@@ -8,11 +8,11 @@ original_url: https://vk.com/wall-97265142_1142
 tags:
   - газпром
   - lsdyna
-  - blast
   - ale
   - ansys
+  - blast
 images:
   - url: "/assets/images/1142.jpg"
 ---
 
-
+ООО «Газпром ВНИИГАЗ» тоже выбирает ANSYS и LS-DYNA. Хороший пример их статьи.

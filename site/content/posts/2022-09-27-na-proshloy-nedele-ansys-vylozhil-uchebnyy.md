@@ -6,11 +6,14 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_2350
 tags:
-  - LSDYNA
   - explicit
+  - Ansys
+  - LSDYNA
 images:
   - url: "/assets/images/2350.jpg"
 ---
+
+На прошлой неделе #Ansys выложил учебный курс по явной динамике. Курс не привязан к какому-то определённому решателю. Он скорее адресован начинающи студентам и инженерам, кто просто хочет получить базовый ликбез.
 
 #explicit #LSDYNA
 

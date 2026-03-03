@@ -6,25 +6,26 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_69
 tags:
-  - Azure
-  - GPU
-  - PCoIP
-  - Windows
-  - VDI
-  - HPC
+  - NVIDIA
   - Microsoft
   - OpenGL
-  - K80
-  - Tesla
-  - Teradici
   - DDS
-  - NVIDIA
+  - Tesla
+  - VDI
+  - HPC
+  - PCoIP
   - Server
   - Cloud
-  - VMWare
+  - GPU
   - RemoteFX
+  - Teradici
+  - VMWare
+  - K80
+  - Windows
+  - Azure
 ---
 
+Молния: открыта очередь на тестирование GPU NVIDIA в облаке AZURE
 http://gpu.azure.com/
 
 Вчера компания #Microsoft выдала очередной анонс запуска #GPU инстансов в #Azure. Примерно год назад компания уже писала о своих планах в блоке, но видимо разработка идет не так гладко, как хотелось бы. Сейчас, вместе с анонсом компания разместила страницу регистрации на тестирование нового продукта. Лично я уже заказал сете на тест машинку с 2-мя #NVIDIA #Tesla #K80, 224 Гб RAM и 1.5 Тб SSD.

@@ -7,14 +7,15 @@ source: vk
 original_url: https://vk.com/wall-97265142_999
 tags:
   - Dynardo
-  - Optimization
   - DEM
-  - Rocky
   - OptiSLang
+  - Rocky
+  - Optimization
 images:
   - url: "/assets/images/1000.jpg"
 ---
 
+Оптимизация для задач динамики сыпучих сред
 Большой вебинар от Dynardo GmbH по работе Rocky DEM в связке с их знаменитым оптимизатором optiSLang. Коллеги разбирают основные возможности софта и показывают, как строить оптимизационные проекты.
 
 

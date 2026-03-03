@@ -6,10 +6,10 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_646
 tags:
-  - FEM
-  - ANSYS
-  - HPC
   - CFD
+  - FEM
+  - HPC
+  - ANSYS
 ---
 
-
+Компания  NuScale Power, LLC (http://www.nuscalepower.com/), компания занимающаяся малыми модульными атомными реакторами (small modular reactor, SMR), подписала стратегическое соглашение с ANSYS. В рамках данного соглашения компании будут взаимодействовать по расчетам механики и гидродинамики, а также в области HPC.

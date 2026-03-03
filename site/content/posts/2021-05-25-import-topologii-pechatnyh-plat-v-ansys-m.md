@@ -6,13 +6,16 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_1958
 tags:
-  - tracemapping
   - em
-  - lsdyna
-  - ansys
   - mechanical
+  - lsdyna
+  - tracemapping
+  - ansys
   - odb
 ---
+
+Импорт топологии печатных плат в Ansys Mechanical и LS-DYNA
+
 
 https://www.youtube.com/watch?v=EBpKi7Oq6dw
 

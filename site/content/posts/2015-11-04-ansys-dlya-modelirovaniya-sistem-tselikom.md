@@ -6,9 +6,10 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_636
 tags:
-  - FEM
-  - EM
   - CFD
+  - FEM
+  - ANSYS
+  - EM
 ---
 
-
+#ANSYS для моделирования систем целиком. Начинаем с механики и гидродинмики и заканчиваем ПО для урпавления. Выглядит красиво.

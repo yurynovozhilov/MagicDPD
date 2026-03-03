@@ -1,25 +1,17 @@
 ---
-date: 2021-09-09 13:01:28+00:00
-link_previews:
-- description: OpticStudio® is the standard for optical, illumination, and laser system
-    design in universities around the world, and in leading companies throughout the
-    opt...
-  image: https://i.ytimg.com/vi/2W5yvsi9f7Q/maxresdefault.jpg
-  title: Zemax OpticStudio - Everything you need to design optical systems!
-  url: https://www.youtube.com/watch?v=2W5yvsi9f7Q
-- description: Приобретение даст пользователям возможность моделировать поведение
-    света и проектировать сложные оптические системы.
-  image: https://www.cadfem-cis.ru/static/templates/cadfem/dist/images/OG-image.png
-  title: Ansys приобретает разработчика ПО для оптического моделирования Zemax
-  url: https://cadfem-cis.ru/list/article/ansys-priobretaet-razrabotchika-po-dlja-opticheskogo-modelirovanija-zemax/
-- description: ''
-  image: ''
-  title: URL Shortener, Branded Short Links & Analytics | TinyURL
-  url: https://tinyurl.com/yz8hb5nw
-original_url: https://t.me/MagicDPD/1995
-source: tg
-title: Ansys приобретает Zemax
+layout: post
+title: "Ansys приобретает Zemax"
+date: 2021-09-09T13:01:28+00:00
+author: "MagicDPD"
+source: vk
+original_url: https://vk.com/wall-97265142_1995
+tags:
+  - optics
+  - ansys
+  - zemax
 ---
+
+Ansys приобретает Zemax
 
 Ansys пошел в геометрическую оптику! 30 августа 2021 года было объявлено о заключении окончательного соглашения о приобретении компании Zemax, LLC, лидера в области моделирования высокопроизводительных оптических систем формирования изображений.  Программное обеспечение Zemax для проектирования оптических систем более 30 лет помогает компаниям быстрее получить качественные результаты, оптимизируя рабочий процесс и коммуникацию между оптическими, механическими и производственными инженерами. Основными инструментами разрабатываемыми Zemax являются OpticStudio, OpticsBuilder и OpticsViewer.
 
@@ -39,4 +31,3 @@ https://www.youtube.com/watch?v=2W5yvsi9f7Q
 
 #ansys #optics #zemax
 https://tinyurl.com/yz8hb5nw
-by GlukRazor

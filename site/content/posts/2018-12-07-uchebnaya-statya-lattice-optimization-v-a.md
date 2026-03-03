@@ -6,16 +6,17 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1250
 tags:
+  - Topology
+  - Padtinc
   - LatticeStructure
   - Mechanical
   - Optimization
-  - Padtinc
   - ANSYS
-  - Topology
 images:
   - url: "/assets/images/1251.jpg"
 ---
 
+Учебная статья: Lattice Optimization в ANSYS Mechanical
 Коллеги из Padtinc написали отличный пост, где пошагово разобран весь процесс Lattice Optimization при помомщи ANSYS Mechanical версии 19.2.
 Тут разобраны все этапы:
 

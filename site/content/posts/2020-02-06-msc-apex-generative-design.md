@@ -1,11 +1,22 @@
 ---
+layout: post
 title: "MSC Apex Generative Design"
 date: 2020-02-06T20:05:20+00:00
-source: tg
-original_url: "https://t.me/MagicDPD/1692"
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_1692
+tags:
+  - NVIDIA
+  - optimization
+  - Discovery
+  - Topology
+  - MSC
+  - GPU
+  - Apex
+  - ANSYS
+  - Live
 images:
   - url: "/assets/images/1692.jpg"
 ---
 
-#ANSYS #Apex #Discovery #GPU #Live #MSC #NVIDIA #optimization #Topology
-by GlukRazor
+MSC Apex Generative Design

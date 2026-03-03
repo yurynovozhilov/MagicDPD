@@ -6,14 +6,15 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1740
 tags:
-  - LS_PrePost
+  - LS_DYNA
   - Moldex3D
   - composite
   - Moldflow
-  - LS_DYNA
+  - LS_PrePost
 images:
   - url: "/assets/images/1740.jpg"
 ---
 
+Импорт данных изготовления композитов в LS-PrePost
 #composite #LS_DYNA #LS_PrePost #Moldex3D #Moldflow
 by Юрий Новожилов

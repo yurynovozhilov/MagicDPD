@@ -6,13 +6,16 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1386
 tags:
-  - ANSYS
   - Mallett_Technology
   - Discovery
+  - ANSYS
   - Live
 images:
   - url: "/assets/images/1386.jpg"
 ---
+
+Вебиран по ANSYS Discovery Live от Mallett Technology
+
 
 Получасовой рассказ об решателе ANSYS Discovery Live, который выполняет расчеты механики, гидро-аэродинамики и тепла почти в реальном времени.
 

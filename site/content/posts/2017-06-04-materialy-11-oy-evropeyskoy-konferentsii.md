@@ -11,6 +11,7 @@ tags:
   - SALE
 ---
 
+Материалы 11-ой европейской конференции по LS-DYNA
 http://www.dynalook.com/11th-european-ls-dyna-conference
 
 Материалы конференции, прошедшей в Зальцбурге, стали доступны все и бесплатно на портале dynalook.com. Программа конференции также есть: https://www.dynamore.de/de/download/flyer/2017/european-ls-dyna-conference-2017-invitation-agenda

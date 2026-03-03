@@ -6,9 +6,9 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_361
 tags:
-  - EM
   - Delcross
   - ANSYS
+  - EM
 ---
 
-
+Что бы понять, чем занимается новоприобретенная ANSYS компания Delcross можно посмотреть, для примера, вебинар по проектированию радаров для автомобильной промышленности.

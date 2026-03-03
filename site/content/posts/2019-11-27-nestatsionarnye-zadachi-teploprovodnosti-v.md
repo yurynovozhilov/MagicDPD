@@ -6,11 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1645
 tags:
-  - ANSYS
-  - AIM
   - Discovery
+  - AIM
+  - ANSYS
 images:
   - url: "/assets/images/1645.jpg"
 ---
 
-
+Нестационарные задачи теплопроводности в ANSYS AIM

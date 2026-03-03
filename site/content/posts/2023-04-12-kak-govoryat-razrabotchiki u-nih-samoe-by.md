@@ -6,13 +6,18 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_2376
 tags:
-  - FluidX3D
   - opensource
+  - CFD
+  - GPU
   - LBM
+  - FluidX3D
+  - OpenCL
 images:
   - url: "/assets/images/2376.jpg"
   - url: "/assets/images/2377.jpg"
   - url: "/assets/images/2378.jpg"
 ---
+
+Как говорят разработчики, у них самое быстрое и наиболее эффективное с точки зрения использования памяти программное обеспечение для #CFD в постановке решетчатых уравнений Больцмана, работающее на всех #GPU через #OpenCL. А еще оно открытое и бесплатное. Интересно, как там с физикой дела.
 
 #LBM #FluidX3D #opensource https://github.com/ProjectPhysX/FluidX3D

@@ -6,12 +6,15 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_2221
 tags:
-  - CAE
-  - cloud
-  - HPC
   - quantimcomputing
+  - cloud
+  - CAE
+  - HPC
+  - BQPhy
 images:
   - url: "/assets/images/2221.jpg"
 ---
+
+Любопытная штука - #BQPhy.  Они говорят, что они - это первый в мире программный комплекс CAE Simulations-as-a-Service (Q-SaaS) с расчетами на квантовом компьютере! Ни какие данные о преимуществах таких вычислений, точности их алгоритмов в сравнении с традиционными кодами коллеги не приводят. Кажется, что квантовый компьютер там пока только для привлечения инвесторов.
 
 #quantimcomputing #HPC #CAE #cloud https://youtu.be/VHjVXalI3bw

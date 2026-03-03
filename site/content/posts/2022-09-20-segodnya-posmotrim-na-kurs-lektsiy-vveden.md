@@ -13,4 +13,6 @@ images:
   - url: "/assets/images/2345.jpg"
 ---
 
+Сегодня посмотрим на курс лекций "Введение в методы конечных элементов", который читает Кришна Гарикипати (Krishna Garikipati), профессор механики и математики из Мичиганского университета (University of Michigan). Курс опубликован в рамках программы Open.Michigan для всех желающих, а продолжительность учебных видео составляет около 50 часов.
+
 #FEM https://open.umich.edu/find/open-educational-resources/engineering/introduction-finite-element-methods#materials

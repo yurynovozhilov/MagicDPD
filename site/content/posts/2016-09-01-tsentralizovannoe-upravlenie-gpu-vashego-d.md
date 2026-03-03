@@ -6,18 +6,19 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_100
 tags:
+  - NVIDIA
   - DCGM
-  - PBS
-  - BCM
-  - GPU
-  - GPGPU
   - HPC
   - LSF
-  - Altair
-  - NVIDIA
   - IBM
+  - BCM
+  - GPU
+  - PBS
+  - Altair
+  - GPGPU
 ---
 
+Централизованное управление GPU вашего датацентра
 https://devblogs.nvidia.com/parallelforall/nvidia-data-center-gpu-manager-cluster-administration/
 
 #NVIDIA объявила о выходе Data Center GPU Manager (#DCGM) предназанвенного для централизованного мониторинга и управления #GPU и #GPGPU вашего датацентра или кластера (у кого что). ПО имеет интерфейсы к основным игрокам #HPC рынка: Bright Custer Manager (#BCM), #Altair #PBS Works и #IBM Spectrum #LSF и позволяет производить низкоуровневую диагностику аппаратной части, конфигурирование драйверов и прочие низкоуровневые фишки.

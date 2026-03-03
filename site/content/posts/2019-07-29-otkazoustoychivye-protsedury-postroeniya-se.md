@@ -6,12 +6,15 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1541
 tags:
-  - Fluent
   - mesh
+  - Fluent
   - CFD
 images:
   - url: "/assets/images/1541.jpg"
 ---
+
+Отказоустойчивые процедуры построения сетки во Fluent
+
 
 Минутка зависти гидродинамикам и их сеточным генераторам.
 

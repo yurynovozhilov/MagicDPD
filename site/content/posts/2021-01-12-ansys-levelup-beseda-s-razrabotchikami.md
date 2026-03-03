@@ -6,11 +6,11 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1882
 tags:
-  - Mechanical
-  - LevelUp
   - ANSYS
+  - LevelUp
+  - Mechanical
 images:
   - url: "/assets/images/1882.jpg"
 ---
 
-
+Ansys LevelUp — беседа с разработчиками Ansys Mechanical

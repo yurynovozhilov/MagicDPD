@@ -7,13 +7,16 @@ source: vk
 original_url: https://vk.com/wall-97265142_1346
 tags:
   - CAE
+  - FEM
   - result
   - CFD
-  - FEM
   - viewer
 images:
   - url: "/assets/images/1346.jpg"
 ---
+
+Просмотрщик результатов расчетов iChrome CAE Viewer
+
 
 Бесплатный просмотрщик CAE результатов и моделей. Работает с форматами NASTRAN, ABAQUS и ANSYS. Позволяет визуализировать FEM и CFD результаты.
 CAE Viewer доступен только для 64-битных архитектур Windows.

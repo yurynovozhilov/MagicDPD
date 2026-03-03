@@ -6,10 +6,10 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_1691
 tags:
-  - preonlab
   - CFD
+  - preonlab
 images:
   - url: "/assets/images/1691.jpg"
 ---
 
-
+PreonLab 4.1 получил адаптивность для метода частиц

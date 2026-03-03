@@ -7,8 +7,11 @@ source: vk
 original_url: https://vk.com/wall-97265142_1650
 tags:
   - CAD
+  - SolidWorks
+  - SimSolid
 ---
 
+#SimSolid радостно рассказал, что он получил интеграцию с #SolidWorks. Сейчас есть поддержка:
 SOLIDWORKS 2016, service pack 3.0, Win7/Win8/Win 10, 64-bit
 SOLIDWORKS 2015, service pack 5.0, Win7/Win8/Win 10, 64-bit
 SOLIDWORKS 2014, service pack 5.0, Win7/Win8, 64-bit

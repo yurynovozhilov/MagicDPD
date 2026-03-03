@@ -6,15 +6,19 @@ author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_15
 tags:
-  - PBS
-  - Azure
   - Microsoft
   - Amazon
-  - Manager
   - AWS
-  - Simulator
+  - Altair
+  - Azure
   - Cloud
+  - PBS
+  - Manager
+  - ISC
+  - Simulator
 ---
+
+Билл Ницберг (Bill Nitzberg), CEO подразделения #PBS Works компании #Altair, рассказывает про новости с #ISC 2016.
 
 Гвоздь программы - это, естественно, открытие кода #PBS Pro. В первый же день после ананаса уже появились люди вне компании, вносящие изменения в код.
 

@@ -5,6 +5,13 @@ date: 2017-09-25T18:25:18+00:00
 author: "GlukRazor"
 source: vk
 original_url: https://vk.com/wall-97265142_514
+tags:
+  - НИЦЭВТMedia
+  - HPC
+  - ANSYS
+  - Ангара
 ---
+
+Доложился на http://ift.tt/2htF57m про #ANSYS на отечественном #HPC интерконнекте #Ангара от #НИЦЭВТMedia
 
 http://ift.tt/2jVyyXk

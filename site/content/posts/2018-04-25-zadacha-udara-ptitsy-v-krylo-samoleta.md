@@ -1,15 +1,17 @@
 ---
-date: 2018-04-25 18:00:39+00:00
-link_previews:
-- description: ''
-  image: http://yourmine.ru/i/parking/glob_parking.png
-  title: "Ð¡Ñ\x80Ð¾Ðº Ñ\x80ÐµÐ³Ð¸Ñ\x81Ñ\x82Ñ\x80Ð°Ñ\x86Ð¸Ð¸ Ð´Ð¾Ð¼ÐµÐ½Ð° magicdpd.ru
-    Ð¸Ñ\x81Ñ\x82Ñ\x91Ðº"
-  url: https://wp.me/p9vWYY-1Nu
-original_url: https://t.me/MagicDPD/919
-source: tg
-title: Задача удара птицы в крыло самолета
+layout: post
+title: "Задача удара птицы в крыло самолета"
+date: 2018-04-25T18:00:39+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_919
+tags:
+  - bird
+  - LS
+  - SPH
 ---
+
+Задача удара птицы в крыло самолета
 
 Подробный видеоурок по моделированию стандартного прочностного теста — удара птицы в крыло самолета. Птица тут реологически представляет собой жидкость, так что обычно моделируется в эйлеровой или SPH (как в данном примере) постановке. В общем, птичку жалко.
 

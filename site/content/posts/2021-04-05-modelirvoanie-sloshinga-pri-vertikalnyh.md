@@ -6,9 +6,12 @@ author: "MagicDPD"
 source: vk
 original_url: https://vk.com/wall-97265142_1938
 tags:
-  - sloshing
   - sph
+  - sloshing
 ---
+
+Моделирвоание слошинга при вертикальных колебаниях
+
 
 https://youtu.be/wHM1pl77HPA
 

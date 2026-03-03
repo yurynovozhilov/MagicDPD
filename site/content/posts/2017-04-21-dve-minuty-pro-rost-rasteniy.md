@@ -1,20 +1,17 @@
 ---
-date: 2017-04-21 08:00:40+00:00
-link_previews:
-- description: Two Minute Papers on Patreon + our technical memos:https://www.patreon.com/TwoMinutePapershttps://www.patreon.com/TwoMinutePapers/posts?tag=what%27s%20newThe...
-  image: https://i.ytimg.com/vi/aAsejHZC5EE/maxresdefault.jpg
-  title: 'Real-Time Modeling and Animation of Climbing Plants | Two Minute Papers
-    #146'
-  url: https://www.youtube.com/watch?v=aAsejHZC5EE
-original_url: https://t.me/MagicDPD/336
-source: tg
-title: Две минуты про рост растений
+layout: post
+title: "Две минуты про рост растений"
+date: 2017-04-21T08:00:40+00:00
+author: "GlukRazor"
+source: vk
+original_url: https://vk.com/wall-97265142_336
 ---
 
+Две минуты про рост растений
 https://www.youtube.com/watch?v=aAsejHZC5EE
 
 Отличный топик для пятницы!
 
-Двухминутный рассказ о разработанном коде, позволяющем моделировать рост растений. Работа эта практически полностью для визуализационных целей, но и тут не обошлось без физики. Растения можно рвать, резать и даже задавать порывы ветра, обдувающие объекты. Все очень красиво и наглядно. 
+Двухминутный рассказ о разработанном коде, позволяющем моделировать рост растений. Работа эта практически полностью для визуализационных целей, но и тут не обошлось без физики. Растения можно рвать, резать и даже задавать порывы ветра, обдувающие объекты. Все очень красиво и наглядно.
 
 https://www.youtube.com/watch?v=aAsejHZC5EE
