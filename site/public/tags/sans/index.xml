@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sans on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/sans/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Sans)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 14 Dec 2021 13:01:44 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/sans/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Адаптивные сетки для высокоскоростных течений</title>
+      <link>http://localhost:1313/posts/2021-12-14-adaptivnye-setki-dlya-vysokoskorostnyh-te/</link>
+      <pubDate>Tue, 14 Dec 2021 13:01:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-12-14-adaptivnye-setki-dlya-vysokoskorostnyh-te/</guid>
+      <description>&lt;p&gt;Я люблю смотреть на решения, связанные с адаптивными сетками. Приятно понимать, что вычислительная система может попытаться исправить ошибки дискретизации пространства или использовать дискретизацию более оптимально. Сегодня мне попалась публикация от Cadence, которые с лета этого года пилят такое для CFD. Пилят они это вместе с MIT (Массачусетский технологический институт) и UTK (Университете Теннесси в Ноксвилле) в рамках проекта “Rapid and Robust Analysis of High-Speed Environments Using Inviscid Output-Based Adaptive-Mesh Solvers.”&lt;/p&gt;
+&lt;p&gt;Концепция исследования предполагает использование разработанного в MIT решателя течений SANS, который сочетает в себе конечные элементы высокого порядка с адаптацией на основе выходных данных. Процесс адаптации итеративно изменяет сетку для минимизации численных ошибок в инженерных величинах, представляющих интерес, таких как подъемная сила, сопротивление и теплопередача. Для каждой сетки оцениваются численные ошибки, и выполняется оптимизация для минимизации этих ошибок в зависимости от масштаба сетки. Результат этой оптимизации затем используется сеточным генератором Pointwise Meshing для следующей итерации по оптимизации сетки.&lt;/p&gt;
+&lt;p&gt;На мой взгляд, результаты выглядят достаточно интересными. Я привык к тому, что первоначальная сетка должна достаточно хорошо описывать геометрию для получения решения, и данническая сетка срабатывает именно при искажении исходной сетки. Однако тут мы видим, что благодаря включению в расчетный процесс полноценного сеточного генератора, который обладает информацией о B-Rep геометрии тела, мы можем уточнять сетку и действительно повышать точность описания геометрии.&lt;/p&gt;
+&lt;p&gt;#cadence #cfd #mesh #pointwise #sans
+&lt;a href=&#34;https://tinyurl.com/y2hovsos&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y2hovsos&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

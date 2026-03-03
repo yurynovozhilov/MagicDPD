@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RSM on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/rsm/</link>
+    <description>MagicDPD: Magic Driven Product Development! (RSM)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 11 Jul 2018 18:00:57 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/rsm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Настройка использования лицензий при работе RSM</title>
+      <link>http://localhost:1313/posts/2018-07-11-nastroyka-ispolzovaniya-litsenziy-pri-rab/</link>
+      <pubDate>Wed, 11 Jul 2018 18:00:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-07-11-nastroyka-ispolzovaniya-litsenziy-pri-rab/</guid>
+      <description>&lt;p&gt;ANSYS RSM (Remote Solve Manager) - отличное средство по выполнению расчетов как на кластерах, так и на соседних рабочих станциях коллег, которые ушли в отпуск. Однако его надо уметь готовить.
+Иногда при отсутствии тонкой настройки может сложиться впечатление, что система &amp;ldquo;поджирает&amp;rdquo; лицензии на Mechanical. На самом деле, при выполнении фонового расчета в Mechanical по умолчанию RSM берет сразу 2 лицензии:&lt;/p&gt;
+&lt;p&gt;одна лицензия используется для проверки корректности постановки задачи в проекте (в логе сервера лицензий отображается как mech_struct)
+еще одна уходит непосредственно на расчет (в логе сервера лицензий отображается как  ans_solve)&lt;/p&gt;
+&lt;p&gt;Такое распараллеливание по лицензиям позволяет ускорить расчетный процесс - не надо ждать ответа от сервера лицензий. Однако, если лицензий мало, то неплохо бы их экономить.
+На этот случай есть одна интересная тонкая настройка, скрытая в главном меню Workbench&amp;gt;  Tools&amp;gt; Options&amp;gt; Mechanical. Там есть список &amp;ldquo;Release License for Pending Jobs&amp;rdquo; со следующими опциями:&lt;/p&gt;
+&lt;p&gt;On Demand - работа по умолчанию с задействованием двух лицензий. Одну из лицензий можно попросить назад через опцию контекстного меню &amp;ldquo;Release License&amp;rdquo; на ячейке Solution.
+Always - заставляет решатель автоматически отдавать лицензию при фоновом/пакетном расчете, когда работа идет на уровне ячейки Solution.
+Design Point Run Only - аналогично предыдущему, но только для проектов, содержащих параметрические исследования или перебор вариантов.&lt;/p&gt;
+&lt;p&gt;Таким образом, переключив настройки системы на Always или Design Point Run Only, мы немного усмиряем аппетит Mechanical за счет небольшого падения производительности.&lt;/p&gt;
+&lt;p&gt;#HPC #Longread #Mechancial #RSM
+&lt;a href=&#34;http://bit.ly/2NJa1j3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NJa1j3&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как корректно остановить решатель на ходу</title>
+      <link>http://localhost:1313/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</link>
+      <pubDate>Tue, 03 Jul 2018 18:02:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</guid>
+      <description>&lt;p&gt;Есть очень часто встречающаяся задача - запуск решателя в консольном/пакетном режиме для выполнения расчета на рабочей станции или кластере. С этой задачей сталкиваются многие опытные инженеры. Как запускать консольные расчеты хорошо описано в документации, много рассказано на форумах.
+Однако мало кто знает, что практически любой решатель, работающий в фоне, можно корректно остановить с запуском точки рестарта/чекпоинта. Как правило, необходимо создать особый файл в особом месте. Когда решатель его обнаружит, он сам все поймет. Особый файл будет удалён сразу после его обработки. Давайте посмотрим, как это сделать для основных решателей ANSYS.
+Mechanical/APDL:
+В рабочей директории решателя надо создать файл с именем jobname.abt, где jobname - имя проекта. Файл должен содержать только одно слово: nonlinear
+Fluent:
+Для записи файла рестарта (а это просто обычный набор из cas и dat) необходимо создать файл check-fluent в директории /tmp для Linux или check-fluent.txt в директории C:\temp для Windows. Корректно завершить решатель можно, создав в этих директориях файл exit-fluent или exit-fluent.txt соответсвенно.
+CFX:
+C этим решателем все сильно проще. У него есть специальный исполняемый файл cfx5stop, предназначенный для корректной остановки расчета. Таким образом, для проекта mixer_001, достаточно выполнить команду cfx5stop -directory mixer_001.dir в его рабочей директории - там mixer_001.dir будет являться временной рабочей директорией.
+LS-DYNA:
+У этого решателя есть такая штука как SWITCH CONTROLS - в ходе расчета вы можете нажать комбинацию клавиш Control+C и ввести определнный код. Вот те ключевые коды, которые относятся к нашей теме:
+sw1 - записать файл рестарта
+sw2 - вывести оценку оставшегося времени расчета
+sw3 - записать файл рестарта
+Если консоль вам недоступна (расчет идет в фоне), то необходимо создать в рабочей директории решателя файл d3kil (или jobid.d3kil, если вы используете идентификаторы расчетного проекта), содержащий соответсвующий код.
+Autodyn
+Для этого решателя надо создать файл savenow.dat для записи файла рестарта в конце текущей итерации, а файл endbat.dat завершит расчет после окончания текущей итерации.
+Решатели семейства AEDT (ANSYS Electronics Desktop) - бывший Ansoft
+Знающие люди подсказали, что решатели можно спокойно убивать на лету - они сами смогут рестартовать остановленный таким образом расчет с последней записанной итерации.
+ANSYS Workbench
+Если вы пользуетесь ANSYS RSM, то там для всех поддерживаемых решателей уже есть стандартная кнопка Interrupt, которая делает всю вышеописанную магию за вас. Настраивайте RSM и наслаждайтесь :-)&lt;/p&gt;
+&lt;p&gt;#AEDT #ANSYS #Autodyn #CFX #Checkpont #Fluent #HPC #Longread #LSDYNA #Restart #RSM #Workbench
+&lt;a href=&#34;http://bit.ly/2u3rrhp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2u3rrhp&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Наш свежий видео урок по взаимодействию #ANSYS #Workbench и </title>
+      <link>http://localhost:1313/posts/2017-12-19-nash-svezhiy-video-urok-po-vzaimodeystviyu/</link>
+      <pubDate>Tue, 19 Dec 2017 17:00:53 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-12-19-nash-svezhiy-video-urok-po-vzaimodeystviyu/</guid>
+      <description>&lt;p&gt;Скажу так: EKM в 18-ой версии это прям годна штука. Я его уже поставил и почти до конца настроил. С коллегами мы к нему даже Let&amp;rsquo;s Encrypt сертификаты прикрутить смогли! Скоро сам смогу рассказать о впечатлениях от использования в бою.&lt;/p&gt;
+&lt;p&gt;#SDM #HPC #RSM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jIw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jIw&lt;/a&gt;…Media📼 VL1726 — Взаимодействие среды ANSYS Workbench с се…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2D1QZ25&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2D1QZ25&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Еще один способ упростить расчеты LS-DYNA</title>
+      <link>http://localhost:1313/posts/2017-02-21-esche-odin-sposob-uprostit-raschety-ls-dyn/</link>
+      <pubDate>Tue, 21 Feb 2017 17:03:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-02-21-esche-odin-sposob-uprostit-raschety-ls-dyn/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.lsdyna-tutorials.com/k-runner&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lsdyna-tutorials.com/k-runner&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;На сайте &lt;a href=&#34;http://www.lsdyna-tutorials.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lsdyna-tutorials.com/&lt;/a&gt; появился еще один интересный ланчер для расчетов в #LSDYNA. Он позволяет построить настоящую расчетную сеть с клиентами и серверами приложений - прямо как #ANSYS #RSM. Я бы такой развернул на работе, правда, боюсь, что эта штука окажется платной.
+#HPC&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=TraTYWyLf0s&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=TraTYWyLf0s&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Мои старые-добрые знакомые, Сигма Технология, на днях объяви</title>
+      <link>http://localhost:1313/posts/2016-04-15-moi-starye-dobrye-znakomye-sigma-tehnol/</link>
+      <pubDate>Fri, 15 Apr 2016 07:01:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-04-15-moi-starye-dobrye-znakomye-sigma-tehnol/</guid>
+      <description>&lt;p&gt;Итак, версии 3.3 появились такая долгожданная прямая интеграция с #ANSYS #Workbench через #ACT. Теперь IOSO есть в схематизме проекта, а значит он совместим с ANSYS #RSM и может использовать специальные лицензии для параметрических исследований и оптимизации ANSYS HPC Parametric Pack.
+Кроме ANSYS Сигма технологии уважили и другие продукты - появилась интеграция с  Concepts NREC Turboopt II, FLOW-3D,  SolidWorks, FlowVision.&lt;/p&gt;
+&lt;p&gt;Я с IOSO знаком уже лет 7, и могу сказать, что это очень серьезная штука, во многом уделывающая всех иностранных конкурентов.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EM on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/em/</link>
+    <description>MagicDPD: Magic Driven Product Development! (EM)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 15 Feb 2022 19:00:10 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/em/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Моделируем эффект Пельте (полупроводниковый холодильник) в #</title>
+      <link>http://localhost:1313/posts/2022-02-15-modeliruem-effekt-pelte-poluprovodniko/</link>
+      <pubDate>Tue, 15 Feb 2022 19:00:10 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-02-15-modeliruem-effekt-pelte-poluprovodniko/</guid>
+      <description>&lt;p&gt;#APDL #EM &lt;a href=&#34;https://www.youtube.com/watch?v=Lnf4EGptub8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Lnf4EGptub8&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>У #Cadance в блоге вышел неплохой пост, сравнивающий работу </title>
+      <link>http://localhost:1313/posts/2022-01-31-u-cadance-v-bloge-vyshel-neplohoy-post/</link>
+      <pubDate>Mon, 31 Jan 2022 17:00:01 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-01-31-u-cadance-v-bloge-vyshel-neplohoy-post/</guid>
+      <description>&lt;p&gt;#EM &lt;a href=&#34;https://resources.system-analysis.cadence.com/blog/msa2021-fdtd-vs-fem-vs-mom-what-are-they-and-how-are-they-different?utm_source=pocket_mylist&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://resources.system-analysis.cadence.com/blog/msa2021-fdtd-vs-fem-vs-mom-what-are-they-and-how-are-they-different?utm_source=pocket_mylist&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Импорт топологии печатных плат в Ansys Mechanical и LS-DYNA</title>
+      <link>http://localhost:1313/posts/2021-05-25-import-topologii-pechatnyh-plat-v-ansys-m/</link>
+      <pubDate>Tue, 25 May 2021 17:01:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-05-25-import-topologii-pechatnyh-plat-v-ansys-m/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EBpKi7Oq6dw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=EBpKi7Oq6dw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Демонстрация активно развиваемой функции trace mapping из Ansys Mechanical, которая пригодится при механических и тепловых расчетах печатных плат. Итак, trace mapping позволяет импортировать структуру печатной платы из ODB++. Далее эта структура передается в препроцессор, где отображается геометрической положение того или иного материала в пространстве. После того как материалу или &amp;ldquo;сущности&amp;rdquo; из ODB++ выставляются соответствие его механический эквивалент (грубо говоря - дорожка должны быть медные) препроцессор &amp;ldquo;намазывает&amp;rdquo; эти свойства на модель состоящую из слоистых оболочек. Не надо прорисовывать многие сотни, если не тысячи объектов, не надо портить геометрию и усложнять работу сеточного генератора, не надо возиться с solid моделью платы - все данные переносятся автоматом на уровне сетки. Если же сетку надо будет перестроить, то и данные из ODB++ будут автоматически применены к новым элементам. Кстати, в актуальной версии 2021R1, trace mapping работает и для Workbench LS-DYNA, а значит одна модель печатной платы может быть использована и для расчета тепла, и для расчёта прочности и для случая удара.&lt;/p&gt;
+&lt;p&gt;#ansys #em #lsdyna #mechanical #odb #tracemapping
+&lt;a href=&#34;https://tinyurl.com/ygnyywsn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ygnyywsn&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Расчет взаимодействия высоковольтных кабелей в LS-DYNA</title>
+      <link>http://localhost:1313/posts/2019-01-24-raschet-vzaimodeystviya-vysokovoltnyh-kab/</link>
+      <pubDate>Thu, 24 Jan 2019 17:00:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-01-24-raschet-vzaimodeystviya-vysokovoltnyh-kab/</guid>
+      <description>&lt;p&gt;Хочу обратить ваше внимание на проект компании Panduit, который стал одним из победителей конкурса Hall of Fame 2019, проводимого компанией ANSYS.&lt;/p&gt;
+&lt;p&gt;В рамках проекта инженеры компании промоделировали процесс короткого замыкания и последующего «взрыва» сборки проводов, вызванного электромагнитными силами. На моей памяти это второй большой проект, где использовались возможности LS-DYNA не только для расчета нелинейной механики, но и сопряжения со встроенным EM решателем.&lt;/p&gt;
+&lt;p&gt;Ссылка на исходную статью (там же видеопрезентация): &lt;a href=&#34;https://www.ansys.com/other/hall-of-fame/archive/2019/panduit&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/other/hall-of-fame/archive/2019/panduit&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS #EM #Hall_of_Fame #LS_DYNA #simulationfriday&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2hI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2hI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Электромагнитные расчеты в ANSYS Discovery AIM</title>
+      <link>http://localhost:1313/posts/2018-05-03-elektromagnitnye-raschety-v-ansys-discove/</link>
+      <pubDate>Thu, 03 May 2018 18:00:56 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-05-03-elektromagnitnye-raschety-v-ansys-discove/</guid>
+      <description>&lt;p&gt;AIM стал флагманом новой линейки продуктов Discovery. И не стоит забывать, что внутри AIM работают проверенные десятилетиями решатели ANSYS.
+В демонстрационном видео показывают электромагнитные расчеты — пример того, как из EMAG (электромагнитного решателя в составе APDL) можно выжать еще много чего, если дать ему удобный и современный интерфейс.
+#AIM #ANSYS #APDL #Discovery #EM #EMAG&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1O8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1O8&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Электромагнитный решатель LS-DYNA: моделируем рельсотрон</title>
+      <link>http://localhost:1313/posts/2018-05-01-elektromagnitnyy-reshatel-ls-dyna-model/</link>
+      <pubDate>Tue, 01 May 2018 18:01:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-05-01-elektromagnitnyy-reshatel-ls-dyna-model/</guid>
+      <description>&lt;p&gt;Сегодня у нас 7-ой видеоурок, посвященный решению задач электромагнетизма в LS-DYNA. И сегодня нашему вниманию предлагается моделирование рельсотрона — полуфантастического оружия, сошедшего с экранов компьютерных игр и вставшего на боевое дежурство в реальных вооруженных силах.
+Но нас в этой задаче больше будет интересовать методика перестроения BEM сетки в условиях меняющейся геометрии. Как видно из видео, это не очень сложно настроить, но это потребляет очень много вычислительных ресурсов при выполнении расчета.&lt;/p&gt;
+&lt;p&gt;Как всегда в подобных учебных видео, LSTC публикует расчетную модель для самостоятельного изучения: &lt;a href=&#34;https://www.dynaexamples.com/em/em_railgun&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynaexamples.com/em/em_railgun&lt;/a&gt;
+#BEM #EM #LS-DYNA #LSTC #railgun&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1NS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1NS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Электромагнитный решатель LS-DYNA: использование циклической</title>
+      <link>http://localhost:1313/posts/2018-04-08-elektromagnitnyy-reshatel-ls-dyna-ispol/</link>
+      <pubDate>Sun, 08 Apr 2018 18:00:51 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-04-08-elektromagnitnyy-reshatel-ls-dyna-ispol/</guid>
+      <description>&lt;p&gt;Шестая часть цикла уроков, посвящённых работе EM решателя LS-DYNA в приложении к задачам электромагнитной штамповки.&lt;/p&gt;
+&lt;p&gt;Рассматривается работа EM решателя в постановке, использующей циклическую симметрию. Почему-то тут эту постановку упорно называют осесимметричной, хотя до плоских элементов так и не доходят.&lt;/p&gt;
+&lt;p&gt;Видимо это связано с тем, что используются специальные команды, позволяющие существенно ускорить процесс расчета: на рассмотренном примере — в 100 раз! Интересно, что циклосимметричная постановка для EM решателя работает в связке с полной 3D постановкой для задачи механики (прочность и тепло).
+Как обычно это бывает у LSTC, вы можете скачать модель для самостоятельного изучения тут: http://www.dynaexamples.com/em/em_axi&lt;/p&gt;
+&lt;p&gt;#EM #Forming #LSDYNA #LSTC
+&lt;a href=&#34;https://is.gd/QmTqht&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://is.gd/QmTqht&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Электромагнитный решатель LS-DYNA: оптимизация вычислительно</title>
+      <link>http://localhost:1313/posts/2018-03-09-elektromagnitnyy-reshatel-ls-dyna-optim/</link>
+      <pubDate>Fri, 09 Mar 2018 18:00:56 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-03-09-elektromagnitnyy-reshatel-ls-dyna-optim/</guid>
+      <description>&lt;p&gt;Пятый эпизод сезона увлекательных видео от LSTC, посвященных возможностям проведения связанных электромагнитных расчетов. Сегодня речь идет об уловках и хитростях, которые позволят сэкономить вычислительные ресурсы.
+Следующие три шага, описанные в видео, позволят в 2 раза сократить время расчета рассматриваемого примера:&lt;/p&gt;
+&lt;p&gt;Экономия на BEM постановке за счет разумной постановки граничных условий и настройки точности/стабильности расчета (за счет P и Q матриц);
+Настройка шага интегрирования по времени, который тут не обязательно должен подчиняться критерию Куранта;
+Правильное использование лога работы решателя (управление через EM_OUTPUT) и профайлинг проекта.&lt;/p&gt;
+&lt;p&gt;#BEM #EM #LSDYNA #LSTC
+&lt;a href=&#34;https://goo.gl/JxUG1y&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/JxUG1y&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Электромагнитный решатель LS-DYNA: связка с задачами механик</title>
+      <link>http://localhost:1313/posts/2018-02-23-elektromagnitnyy-reshatel-ls-dyna-svyazk/</link>
+      <pubDate>Fri, 23 Feb 2018 18:00:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-02-23-elektromagnitnyy-reshatel-ls-dyna-svyazk/</guid>
+      <description>&lt;p&gt;Сегодня 4-ая часть серии учебных видео по работе с EM решателем LS-DYNA. И сегодня мы перейдем к разбору того, как в задаче электромагнитной штамповки осуществлятеся свзка трех физик: прочности, тепла и электромагнитизма.&lt;/p&gt;
+&lt;p&gt;Для начал нам рассказывают, какие именно допущеня при решении уравнений Максвела используются в рассматриваемой постновке задачи.
+Мне очень поравилась часть, рассказывающая о связке трех незваисимо работающих решателей — тепла, прочтости и электромагнетизма. Мало того, что у каждого решателя свой шаг по времени, так они еще и используют кто FEM, а кто BEM постновки. И тут есть вожный момент — FEM/BEM постновку для EM решателя надо перестраивать при деформации геометрии (карты *EM_SOLVER_FEM и *EM_SOLVER_BEM), а она у нас в этом уроке уже будет.&lt;/p&gt;
+&lt;p&gt;В видео также вводится понятия EM EOS — уравнения состояния для материала, используемое электромагнитным решателем для учета влияния тепловых эффектов на проводимость. Тут можно использовать как готовые уравнения состояния, так и задать свои собственные уравнения в аналитической форме или как процедуру на Fortran (аналогично карте *DEFINE_FUNCRION).&lt;/p&gt;
+&lt;p&gt;Таким образом, на данном этапе мы уже можем поставить задачу электромагнитной штамповки, организовав совместный расчет сразу трех физик: механики, тепла и электромагнитизма, что уже является внушительным набором. Файлы для самостоятельной тренировки лежать тут: http://www.dynaexamples.com/em/em_forming&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Электромагнитный решатель LS-DYNA: добавим больше физики</title>
+      <link>http://localhost:1313/posts/2018-02-09-elektromagnitnyy-reshatel-ls-dyna-dobav/</link>
+      <pubDate>Fri, 09 Feb 2018 18:01:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-02-09-elektromagnitnyy-reshatel-ls-dyna-dobav/</guid>
+      <description>&lt;p&gt;Продолжаем знакомиться с  возможностями решателя от LSTC в области электромагнитных расчетов. Второй видеоурок посвящен особенностям выбора шага по времени и настройке сетки модели.&lt;/p&gt;
+&lt;p&gt;Собственно, сетка строится так, чтобы на поверхности проводника было хотя бы 3 элемента на толщину скин-слоя (&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Скин-эффект). И опять нам рекомендуют использовать hex сетку.&lt;/p&gt;
+&lt;p&gt;Несмотря на то, что решатель в данном классе задач используется неявный (должен сходиться с любым шагом по времени), разработчики рекомендуют соблюдать критерий Куранта-Фридрихса-Леви в его электромагнитной формулировке. Так мы сможем повысить не только точность, но и стабильность расчета.&lt;/p&gt;
+&lt;p&gt;Кроме того, в видео показывают ряд интересных возможностей по постпроцессингу результатов - например, построение эпюр и линий поля.&lt;/p&gt;
+&lt;p&gt;Интересный факт: оказывается EM решатель LS-DYNA основан на библиотеках FEMSTER&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=LYhXfSLwz0c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=LYhXfSLwz0c&lt;/a&gt;
+#EM #FEMSTER #LS-DYNA #LSTC
+&lt;a href=&#34;https://wp.me/p9vWYY-1BP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1BP&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Следом за #ANSYS специальную версию своего программного обес</title>
+      <link>http://localhost:1313/posts/2016-06-22-sledom-za-ansys-spetsialnuyu-versiyu-svoe/</link>
+      <pubDate>Wed, 22 Jun 2016 07:00:29 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-22-sledom-za-ansys-spetsialnuyu-versiyu-svoe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#Altair прикупил себе #Cerdat - разработчика программных про</title>
+      <link>http://localhost:1313/posts/2016-05-22-altair-prikupil-sebe-cerdat-razrabot/</link>
+      <pubDate>Sun, 22 May 2016 11:01:34 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-05-22-altair-prikupil-sebe-cerdat-razrabot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Обзор возможностей #ANSYS #HFSS #SBR&#43;, который получился из </title>
+      <link>http://localhost:1313/posts/2016-05-22-obzor-vozmozhnostey-ansys-hfss-sbr&#43;-k/</link>
+      <pubDate>Sun, 22 May 2016 07:00:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-05-22-obzor-vozmozhnostey-ansys-hfss-sbr&#43;-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Наш спец по радиофизике и высокочастотному электромагнетизму</title>
+      <link>http://localhost:1313/posts/2015-11-21-nash-spets-po-radiofizike-i-vysokochastotno/</link>
+      <pubDate>Sat, 21 Nov 2015 18:00:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-21-nash-spets-po-radiofizike-i-vysokochastotno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Вышел #COMSOL 5.2, вынес много всего нового:</title>
+      <link>http://localhost:1313/posts/2015-11-17-vyshel-comsol-52-vynes-mnogo-vsego-nov/</link>
+      <pubDate>Tue, 17 Nov 2015 18:30:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-17-vyshel-comsol-52-vynes-mnogo-vsego-nov/</guid>
+      <description>&lt;p&gt;Новые возможности Application Builder и COMSOL Server, блочная сетка, сеточные сборки и много некоторые нововведения для решателей.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#JMAG как первый шаг к #NVH расчетам в связке с OptiStruct, </title>
+      <link>http://localhost:1313/posts/2015-11-07-jmag-kak-pervyy-shag-k-nvh-raschetam-v-s/</link>
+      <pubDate>Sat, 07 Nov 2015 07:00:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-07-jmag-kak-pervyy-shag-k-nvh-raschetam-v-s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#ANSYS для моделирования систем целиком. Начинаем с механики</title>
+      <link>http://localhost:1313/posts/2015-11-04-ansys-dlya-modelirovaniya-sistem-tselikom/</link>
+      <pubDate>Wed, 04 Nov 2015 18:00:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-04-ansys-dlya-modelirovaniya-sistem-tselikom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Если очень хочется, то даже в SolidWorks можно EM расчеты де</title>
+      <link>http://localhost:1313/posts/2015-10-20-esli-ochen-hochetsya-to-dazhe-v-solidworks/</link>
+      <pubDate>Tue, 20 Oct 2015 06:00:52 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-20-esli-ochen-hochetsya-to-dazhe-v-solidworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>На прошедшей неделе продукты ANSYS RedHawk и Totem были серт</title>
+      <link>http://localhost:1313/posts/2015-09-23-na-proshedshey-nedele-produkty-ansys-redha/</link>
+      <pubDate>Wed, 23 Sep 2015 18:00:25 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-23-na-proshedshey-nedele-produkty-ansys-redha/</guid>
+      <description>&lt;p&gt;Для тех кто не в курсе, TSMC является крупнейшим контрактным производителем полупроводниковых микросхем. Его заказчиками являются такие компании как Qualcomm, NVIDIA, AMD, MediaTek, Marvell, Broadcom, Apple и другие.&lt;/p&gt;
+&lt;p&gt;К сожалению, продукты ANSYS RedHawk и Totem не поставляются на рынок СНГ.&lt;/p&gt;
+&lt;p&gt;#ANSYS #RedHawk #Totem #EM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://investors.ansys.com/press-releases/2015/17-Sep-15-120547571.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://investors.ansys.com/press-releases/2015/17-Sep-15-120547571.aspx&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Что бы понять, чем занимается новоприобретенная ANSYS компан</title>
+      <link>http://localhost:1313/posts/2015-09-15-chto-by-ponyat-chem-zanimaetsya-novopriobr/</link>
+      <pubDate>Tue, 15 Sep 2015 07:00:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-15-chto-by-ponyat-chem-zanimaetsya-novopriobr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Foam on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/foam/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Foam)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 03 Feb 2021 13:01:13 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/foam/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Моделирование пены низкой плотности в МКЭ</title>
+      <link>http://localhost:1313/posts/2021-02-03-modelirovanie-peny-nizkoy-plotnosti-v-mk/</link>
+      <pubDate>Wed, 03 Feb 2021 13:01:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-02-03-modelirovanie-peny-nizkoy-plotnosti-v-mk/</guid>
+      <description>&lt;p&gt;На сегодня я нашел два интересных видео, посвященных моделированию полимерной пены низкой плотности.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=g8YSmFk5KSc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=g8YSmFk5KSc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В первом видео обсуждается, почему традиционные гиперупругие модели материалов не могут использоваться для прогнозирования поведения мягких полимерных пен. Далее в видео рассматривается математика работы специализированных подходящий моделей Ansys Ogden Foam, LS-DYNA Hill Foam, Abaqus Hyperfoam и COMSOL Storakers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=W9e-GJHJk00&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=W9e-GJHJk00&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Во второй части видео показывается, как проводить настройку модели материалов с применением пакета PolymerFEM MCalibration.&lt;/p&gt;
+&lt;p&gt;#abaqus #ansys #comsol #foam #ls-dyna #mcalibration #mechanical #polymerfem
+&lt;a href=&#34;https://tinyurl.com/y2gu28ph&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y2gu28ph&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Perforation on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/perforation/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Perforation)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 14 Nov 2018 17:00:23 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/perforation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Применение SPG в задачах фрезировки и пробивания</title>
+      <link>http://localhost:1313/posts/2018-11-14-primenenie-spg-v-zadachah-frezirovki-i-pr/</link>
+      <pubDate>Wed, 14 Nov 2018 17:00:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-11-14-primenenie-spg-v-zadachah-frezirovki-i-pr/</guid>
+      <description>&lt;p&gt;Хорошая статья от LSTC, посвященная изучению работы их SPG метода в применении к задачам обработки материалов. И тут под обработкой понимается очень широкий круг понятий: в статье описаны только задачи фрезировки металла и пробивания бетона, но у меня есть кейсы, где рассматривается и сверление, и разрывные испытания, и даже фрагментация осколочных боеприпасов.&lt;/p&gt;
+&lt;p&gt;SPG (не путать с SPH или EFG)- это вообще некий единорог среди бессеточных методов, который может очень много чего как в explicit, так и в implicit (!!!) постановках, отличается стабильностью и простотой настройки. Вот только ресурсов любой бессеточный метод в механике обычно кушает раза в 3 больше, чем сеточный.
+&lt;a href=&#34;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/parametric-and-convergence-studies-of-the-smoothed-particle-galerkin-spg-method-in-semi-brittle-and-ductile-material-failure-analyses&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/parametric-and-convergence-studies-of-the-smoothed-particle-galerkin-spg-method-in-semi-brittle-and-ductile-material-failure-analyses&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Concrete #KCC #LSDYNA #LSTC #Machining #Meshless #Perforation #SPG
+&lt;a href=&#34;http://bit.ly/2RZwFW3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RZwFW3&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование композиционного материала с учетом разрушения </title>
+      <link>http://localhost:1313/posts/2018-03-03-modelirovanie-kompozitsionnogo-materiala/</link>
+      <pubDate>Sat, 03 Mar 2018 18:01:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-03-03-modelirovanie-kompozitsionnogo-materiala/</guid>
+      <description>&lt;p&gt;Центр композиционных материалов Делавэрского университета разработал очень интересную модель материала для расчетов композитных конструкций — *MAT_COMPOSITE_MSC_DMG&lt;/p&gt;
+&lt;p&gt;Эта модель имеет номер 162 в стандартной библиотеке материалов LS-DYNA, и она способна расчитывать накопление повреждений (Progressive Damage) и разрушение композиционных материалов.
+На сайте, посвященном данной модели, есть все, что нужно для начала ее использования:&lt;/p&gt;
+&lt;p&gt;расписание тренингов
+готовые примеры по работе модели на основе одного конечного элемента
+полноценные сравнения с физическими экспериментами
+расширенная документация с описанием всей математики модели
+ссылки на научные статьи по разработке модели и ее использованию&lt;/p&gt;
+&lt;p&gt;Просто бери и делай!
+&lt;a href=&#34;https://magicdpd.ru/wp-content/uploads/2018/03/03-Perforation-8L-200mps-50cal.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/wp-content/uploads/2018/03/03-Perforation-8L-200mps-50cal.mp4&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/wp-content/uploads/2018/03/02-Pen-Perf-22L-500mps-50cal.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/wp-content/uploads/2018/03/02-Pen-Perf-22L-500mps-50cal.mp4&lt;/a&gt;
+MAT162 Software&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

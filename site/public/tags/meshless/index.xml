@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meshless on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/meshless/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Meshless)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 25 May 2022 18:00:08 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/meshless/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Южнокорейская компания #Metariver Technology Co., Ltd показа</title>
+      <link>http://localhost:1313/posts/2022-05-25-yuzhnokoreyskaya-kompaniya-metariver-techno/</link>
+      <pubDate>Wed, 25 May 2022 18:00:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-05-25-yuzhnokoreyskaya-kompaniya-metariver-techno/</guid>
+      <description>&lt;p&gt;Теперь же Metariver взяли и выкатили поддержку #MPS (Moving Particle Semi-Implicit Method), что, при правильно реализации, позволит выполнять #CFD расчеты намного точнее чем традиционный #SPH.&lt;/p&gt;
+&lt;p&gt;#meshless&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/eXCe5LgOTH0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/eXCe5LgOTH0&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/6-rN7ABWbkM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/6-rN7ABWbkM&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сегодня я бы хотел рассказать вам об исследовании процесса р</title>
+      <link>http://localhost:1313/posts/2022-01-19-segodnya-ya-by-hotel-rasskazat-vam-ob-iss/</link>
+      <pubDate>Wed, 19 Jan 2022 17:00:09 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-01-19-segodnya-ya-by-hotel-rasskazat-vam-ob-iss/</guid>
+      <description>&lt;p&gt;Джошуа моделирует процесс разрушения айсберга,  сползающего в океан, создав код, учитывающий физические механизмы фрагментации льда и процесс взаимодействия жидкости и твердого тела. Весь расчет проводится с применением метода материальной точки (#MPM, Material Point Method), что позволяет достаточной просто и стабильно моделировать требуемые механические эффекты. Основные принципы работы MPM кратко, но внятно рассказаны в докладе по итогам работы.
+Работа хорошо структурирована, а все изложение строиться на последовательности валидационных и верификационных примеров.
+Короче говоря, сплошное наслаждение для ума.
+#meshless #ice #fragmentation #FSI
+&lt;a href=&#34;https://youtu.be/7IC_ehdH7ZM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/7IC_ehdH7ZM&lt;/a&gt; &lt;a href=&#34;https://joshuahwolper.com/glacier&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://joshuahwolper.com/glacier&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KC-FEMFRE - бессеточный код решения задач разрушения</title>
+      <link>http://localhost:1313/posts/2021-03-10-kc-femfre-bessetochnyy-kod-resheniya-zada/</link>
+      <pubDate>Wed, 10 Mar 2021 13:01:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-03-10-kc-femfre-bessetochnyy-kod-resheniya-zada/</guid>
+      <description>&lt;p&gt;Знаете ли вы, что компания Karagozian &amp;amp; Case, Inc., специализирующаяся на консалтинге для оборонно-промышленного комплекса, компания, создатель одной из самых популярных и точных моделей бетона для LS-DYNA *MAT_CONCRETE_DAMAGE_REL3/*MAT_072R3 также разрабатывается свой собственный расчетный кода!&lt;/p&gt;
+&lt;p&gt;Их детище носит название FEMFRE (Finite Element and MeshFREe solver). Код обладает встроенной базой материалов для расчетов задач разрушения  Extreme Materials Library (ExML), включающую в себя, например, 4-тую версию их модели бетона. Из интересных особенностей - адаптивный бессеточный метод расчета. Пока конструкцию можно считать при помощи МКЭ расчет так и ведется.&lt;/p&gt;
+&lt;p&gt;Но когда разрушения уже не могут быть описаны традиционными сеточными методами система переключаться на бессеточный метод на основе RKPM (Reprodusing Kernel Particel Meshod), являющийся аналогом бессеточных методов Гелеркина, применяемых в LS-DYNA (&lt;a href=&#34;https://ftp.lstc.com/anonymous/outgoing/support/FAQ_kw/concrete/kccm_paper.pdf%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ftp.lstc.com/anonymous/outgoing/support/FAQ_kw/concrete/kccm_paper.pdf)&lt;/a&gt;.  Сайт продукта: &lt;a href=&#34;https://www.kcse.com/home/software/kcfemfre/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.kcse.com/home/software/kcfemfre/&lt;/a&gt; Одна из ранних публикаций по теме: &lt;a href=&#34;https://doi.org/10.1061/%28ASCE%29EM.1943-7889.0000497&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://doi.org/10.1061/(ASCE)EM.1943-7889.0000497&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#concrete #explicit #kcc #meshless
+&lt;a href=&#34;https://tinyurl.com/y86ydvts&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y86ydvts&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Терминология для бессеточных методов по ГОСТ</title>
+      <link>http://localhost:1313/posts/2020-06-30-terminologiya-dlya-bessetochnyh-metodov-po/</link>
+      <pubDate>Tue, 30 Jun 2020 14:01:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-06-30-terminologiya-dlya-bessetochnyh-metodov-po/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Хрупкое разрушение</title>
+      <link>http://localhost:1313/posts/2019-02-08-hrupkoe-razrushenie/</link>
+      <pubDate>Fri, 08 Feb 2019 04:38:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-02-08-hrupkoe-razrushenie/</guid>
+      <description>&lt;p&gt;Тут у меня коллеги интересовались моделированием хрупкого разрушения материалов в #LSDYNA. Самым передовым и многообещающим методом расчета такого разрушения и трещенообразования является перидинамика (&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Перидинамика)
+Так вот, я поскреб по сусекам, посмотрел, что у меня есть в волшебном хранилище знаний, и нашел отличную ссылку на репозиторий господина Cheng-Tang Wu (одного из главных разработчиков #LSTC в этом направлении), где он выкладываем свой учебный курс по бессрочным методам (корме перидинамики есть еще #EFG и #SPG).
+Внимание, в составе данного учебного курса есть работающие примеры со всем перечисленными бессрочными методами расчета разрушения!
+#meshless #peridynamics #AdaptiveEFG
+P.S. Насколько я понял, ключевые карты SECTION_SOLID_PERI и MAT_ELASTIC_PERI пока реализованы только в beta версиях решателя поколения R10.
+&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Index of /anonymous/outgoing/whu/Class&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS подружится с Prometech Software, Inc.</title>
+      <link>http://localhost:1313/posts/2018-12-21-ansys-podruzhitsya-s-prometech-software-i/</link>
+      <pubDate>Fri, 21 Dec 2018 17:01:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-12-21-ansys-podruzhitsya-s-prometech-software-i/</guid>
+      <description>&lt;p&gt;В прошедший понедельник на своей конференции японская компания Prometech Software, Inc. объявила о дружбе с ANSYS. Давайте разберемся, почему это очень круто.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/WDFSzgjWR_4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/WDFSzgjWR_4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Прежде всего, стоит вспомнить, что Prometech - это разработчик Particleworks, одного из самых умных бессеточных CFD решателей. Решатель бессеточный - работает на основе своего метода частиц MPS (Moving Particle Simulation) Method.&lt;/p&gt;
+&lt;p&gt;Работа решателя на основе метода частиц позволяет решать динамические задачи с подвижными (и сильно подвижными :-)) границами, FSI и описывать прочие динамические процессы - например, задачи смазки зубчатых передач, слошинш, аквапланирование.&lt;/p&gt;
+&lt;p&gt;Ну и вишенка на торте - все это еще умеет очень хорошо работать на GPU. Я бы на месте ANSYS давно уже купил эту компанию целиком.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.prometech.co.jp/newsroom_ja/prometech-and-ansys-announce-a-collaboration-to-provide-broader-multiphysics-solution.html?lang=ja&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.prometech.co.jp/newsroom_ja/prometech-and-ansys-announce-a-collaboration-to-provide-broader-multiphysics-solution.html?lang=ja&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS #CFD #FSI #GPU #Meshless #MPS #Particleworks #Prometech
+&lt;a href=&#34;http://bit.ly/2V1xxeO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2V1xxeO&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Применение SPG в задачах фрезировки и пробивания</title>
+      <link>http://localhost:1313/posts/2018-11-14-primenenie-spg-v-zadachah-frezirovki-i-pr/</link>
+      <pubDate>Wed, 14 Nov 2018 17:00:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-11-14-primenenie-spg-v-zadachah-frezirovki-i-pr/</guid>
+      <description>&lt;p&gt;Хорошая статья от LSTC, посвященная изучению работы их SPG метода в применении к задачам обработки материалов. И тут под обработкой понимается очень широкий круг понятий: в статье описаны только задачи фрезировки металла и пробивания бетона, но у меня есть кейсы, где рассматривается и сверление, и разрывные испытания, и даже фрагментация осколочных боеприпасов.&lt;/p&gt;
+&lt;p&gt;SPG (не путать с SPH или EFG)- это вообще некий единорог среди бессеточных методов, который может очень много чего как в explicit, так и в implicit (!!!) постановках, отличается стабильностью и простотой настройки. Вот только ресурсов любой бессеточный метод в механике обычно кушает раза в 3 больше, чем сеточный.
+&lt;a href=&#34;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/parametric-and-convergence-studies-of-the-smoothed-particle-galerkin-spg-method-in-semi-brittle-and-ductile-material-failure-analyses&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/parametric-and-convergence-studies-of-the-smoothed-particle-galerkin-spg-method-in-semi-brittle-and-ductile-material-failure-analyses&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Concrete #KCC #LSDYNA #LSTC #Machining #Meshless #Perforation #SPG
+&lt;a href=&#34;http://bit.ly/2RZwFW3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RZwFW3&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование армирования в бессеточных методах</title>
+      <link>http://localhost:1313/posts/2018-07-19-modelirovanie-armirovaniya-v-bessetochnyh/</link>
+      <pubDate>Thu, 19 Jul 2018 18:00:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-07-19-modelirovanie-armirovaniya-v-bessetochnyh/</guid>
+      <description>&lt;p&gt;Хочу обратить ваше внимание на статью &amp;ldquo;The Immersed Smoothed Particle Galerkin Method in LS-DYNA® for Material Failure Analysis of Fiber-Reinforced Solid Structures&amp;rdquo;, опубликованную в рамках 15-ой международной пользовательской конференции LS-DYNA. В ней рассказывается про разработку новой карты *CONSTRAINED_IMMERSED_IN_SPG, которая позволяет автоматически встраивать армирование на основе beam элементов в матрицу, на основе SPG формулировки.&lt;/p&gt;
+&lt;p&gt;SPG - Smoothed Particle Galerkin Method - бессеточный метод, разработанный LSTC для моделирования процессов как хрупкого, так и пластического разрушения. Данный метод вобрал в себя все преимущества SPH, но лишился его недостатков - например, нестабильности при растяжении или невозможности работы с неявным решателем. Подробности по математике метода тут: https://www.dynalook.com/13th-international-ls-dyna-conference/fluid-structure-interaction/an-introduction-to-the-ls-dyna-r-smoothed-particle-galerkin-method-for-severe-deformation-and-failure-analyses-in-solids
+Таким образом, *CONSTRAINED_IMMERSED_IN_SPG позволит нормально считать задачи пробивания в бессеточной постановке как только будет включен.&lt;/p&gt;
+&lt;p&gt;#LSDYNA #LSTC #Meshless #Reinforcement #SPG #SPH
+&lt;a href=&#34;http://bit.ly/2NrEzFg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NrEzFg&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Тут у меня коллеги интересовались моделированием хрупкого ра</title>
+      <link>http://localhost:1313/posts/2017-11-09-tut-u-menya-kollegi-interesovalis-modeli/</link>
+      <pubDate>Thu, 09 Nov 2017 17:09:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-11-09-tut-u-menya-kollegi-interesovalis-modeli/</guid>
+      <description>&lt;p&gt;Так вот, я поскреб по сусекам, посмотрел, что у меня есть в волшебном хранилище знаний, и нашел отличную ссылку на репозиторий господина Cheng-Tang Wu (одного из главных разработчиков #LSTC в этом направлении), где он выкладываем свой учебный курс по бессрочным методам (корме перидинамики есть еще #EFG и #SPG).&lt;/p&gt;
+&lt;p&gt;Внимание, в составе данного учебного курса есть работающие примеры со всем перечисленными бессрочными методами расчета разрушения!&lt;/p&gt;
+&lt;p&gt;#meshless #peridynamics #AdaptiveEFG&lt;/p&gt;
+&lt;p&gt;P.S. Насколько я понял, ключевые карты SECTION_SOLID_PERI и MAT_ELASTIC_PERI пока реализованы только в beta версиях решателя поколения R10.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&lt;/a&gt; 🔗 Index of /anonymous/outgoing/whu/Class&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

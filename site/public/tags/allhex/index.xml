@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Allhex on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/allhex/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Allhex)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Thu, 20 Jan 2022 17:00:12 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/allhex/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CE-PolyCube: Cut-enhanced PolyCube-Maps for Feature-aware Al</title>
+      <link>http://localhost:1313/posts/2022-01-20-ce-polycube-cut-enhanced-polycube-maps/</link>
+      <pubDate>Thu, 20 Jan 2022 17:00:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-01-20-ce-polycube-cut-enhanced-polycube-maps/</guid>
+      <description>&lt;p&gt;Методы генерации сетки, основанные на объемных картах PolyCube-Map, предлагают автоматическую генерацию #ALLHEX сеток для замкнутых трехмерных многогранных объёмов, однако качество получаемой сетки ограничено особенностями геометрии. В представленной работе предлагается ряд улучшений к PolyCube-Maps. Основная идея проста и интуитивно понятна: исходный объем периодически декомпозируют на подобаемы (или добавляют линии раздела на слишком протяженных поверхностях), что приводит к улучшению получаемой сетки и лучшему описанию геометрии.&lt;/p&gt;
+&lt;p&gt;Что мне больше всего нравится в данном проекте, так это опубликованные исходники кода, рассчитанные на работу в 64-х битных версиях Windows&lt;/p&gt;
+&lt;p&gt;#PolyCube #mesh #opensource &lt;a href=&#34;https://github.com/msraig/CE-PolyCube&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/msraig/CE-PolyCube&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Автоматическая блочная декомпозиция в CADfix</title>
+      <link>http://localhost:1313/posts/2018-07-21-avtomaticheskaya-blochnaya-dekompozitsiya-v-ca/</link>
+      <pubDate>Sat, 21 Jul 2018 18:00:30 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-07-21-avtomaticheskaya-blochnaya-dekompozitsiya-v-ca/</guid>
+      <description>&lt;p&gt;CADfix на прошедшей конференции  NAFEMS UK Conference 2018 показали свою новую фишку. Теперь они умеют автоматически делать блочную декомпозицию геометрии для построения на ней качественной all-hex сетки!
+Вообще, CADfix - это система упрощения, очистки и подготовки геометрии для расчетов, принадлежащая компании International TechneGroup Incorporated.
+Картинки - это хорошо, но я обязательно попробую взять триалку и проверить на моих тестовых задачах, как это работает.
+&lt;a href=&#34;https://info.iti-global.com/blog/automatic-hex-skin-meshing-nafems-uk-2018&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://info.iti-global.com/blog/automatic-hex-skin-meshing-nafems-uk-2018&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Allhex #CADfix #Mesh
+&lt;a href=&#34;http://bit.ly/2NyTUnl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NyTUnl&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LayTracks3D — новый алгоритм генерации ALL-HEX сетки</title>
+      <link>http://localhost:1313/posts/2018-05-29-laytracks3d-novyy-algoritm-generatsii-a/</link>
+      <pubDate>Tue, 29 May 2018 18:00:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-05-29-laytracks3d-novyy-algoritm-generatsii-a/</guid>
+      <description>&lt;p&gt;Периодически я просматриваю интернет на тему новых сеточных генераторов для своих задач. Так как в основном я работаю в LS-DYNA, то полностью hex сетка высокого качества мне очень нужна. Конечно, никто не отменял работу с геометрией для подготовки тотального sweep, но эта рутинная работа отнимает очень много времени.&lt;/p&gt;
+&lt;p&gt;На прошедших выходных я набрел на цикл публикаций Сандийских Национальных лабораторий по их алгоритму LayTracks3D. Судя по материалам публикации, данный алгоритм может решить проблему автоматизированного all-hex, если дойдет до коммерческой реализации.
+Презентация: http://cdn2.hubspot.net/hub/35600/file-2445444788-pdf/Quadros.pdf
+Статья раз: https://pdfs.semanticscholar.org/0735/122cb43872b02a4b19aea68fcc22bd0fb934.pdf
+Статья два: https://www.sciencedirect.com/science/article/pii/S1877705814016531
+#allhex #LayTracks3D #mesh #Sandia&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1S2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1S2&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>И еще один сеточный генератор, вызывающий мой интерес - Mesh</title>
+      <link>http://localhost:1313/posts/2017-10-03-i-esche-odin-setochnyy-generator-vyzyvayuschi/</link>
+      <pubDate>Tue, 03 Oct 2017 17:14:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-10-03-i-esche-odin-setochnyy-generator-vyzyvayuschi/</guid>
+      <description>&lt;p&gt;#mesh #allhex
+&lt;a href=&#34;http://www.meshgems.com/volume-meshing-meshgems-hexa.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.meshgems.com/volume-meshing-meshgems-hexa.html&lt;/a&gt; 🔗 MeshGems-Hexa - Volume Hexahedral Mesh Generation | MeshGems suite&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Компания SIW Corp с 1995 года занимается разработкой сеточны</title>
+      <link>http://localhost:1313/posts/2017-10-02-kompaniya-siw-corp-s-1995-goda-zanimaetsya/</link>
+      <pubDate>Mon, 02 Oct 2017 17:09:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-10-02-kompaniya-siw-corp-s-1995-goda-zanimaetsya/</guid>
+      <description>&lt;p&gt;#mesh #allhex&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://texmesher.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://texmesher.com&lt;/a&gt;MediaMedia🔗 SIW Corp.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

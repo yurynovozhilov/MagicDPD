@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cubit on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/cubit/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Cubit)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 13 Apr 2022 17:00:14 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/cubit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Я уже писал про интересный открытый междисциплинарный решате</title>
+      <link>http://localhost:1313/posts/2022-04-13-ya-uzhe-pisal-pro-interesnyy-otkrytyy-mezhd/</link>
+      <pubDate>Wed, 13 Apr 2022 17:00:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-04-13-ya-uzhe-pisal-pro-interesnyy-otkrytyy-mezhd/</guid>
+      <description>&lt;p&gt;Так вот, в нем теперь есть поддержка #IGA, и это все стало возможным благодаря совместному проекту с командой  #Coreform #Cubit.&lt;/p&gt;
+&lt;p&gt;Для тех, кто еще не знает, что такое IGA, то данный подход подразумевает использование одной и той же гладкой сплайновой основы для определения геометрии и моделирования. Это дает более точные результаты, особенно на сравнительно грубых сетках: геометрия оказывается точно описанной при любом качестве сетки, оболочечные элементы могут сгибаться не только в узлах, а иногда нам требуется меньше степеней свободы для получения точного результата расчета. А еще там есть моя мечта - техника погружденных Solid IGA элементов, которая может навсегда решить проблемы с генерацией сложных сеток.&lt;/p&gt;
+&lt;p&gt;#opensource &lt;a href=&#34;https://youtu.be/UmS-pAuBnEU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/UmS-pAuBnEU&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

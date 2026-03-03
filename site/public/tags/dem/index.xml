@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dem on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/dem/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Dem)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Thu, 16 Sep 2021 18:31:23 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/dem/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Метод связанных частиц в механике горных пород</title>
+      <link>http://localhost:1313/posts/2021-09-16-metod-svyazannyh-chastits-v-mehanike-gornyh/</link>
+      <pubDate>Thu, 16 Sep 2021 18:31:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-09-16-metod-svyazannyh-chastits-v-mehanike-gornyh/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=AgssizDIRDk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=AgssizDIRDk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Вебинар доктора Дэвида Потионди (Dr. David Potyondy) содержит обзор возможностей и потенциальных путей развития метода связанных частиц элементов (Bonded-Particle Modeling, BPM). Рассказ идет с прицелом на использование метода области механики горных пород. Презентация сделана в рамках виртуального семинара для Научно-исследовательской группы по многомасштабной механике (Multiscale Mechanics Research Group) в Университете Твенте (University of Twente) в Энсхеде, Нидерланды (Enschede, Netherlands).&lt;/p&gt;
+&lt;p&gt;#bpm #dem #itasca #mining #spg
+&lt;a href=&#34;https://tinyurl.com/yz57fs36&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yz57fs36&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новые DEM подходы к моделированю хрупкого разрушения трещено</title>
+      <link>http://localhost:1313/posts/2021-09-06-novye-dem-podhody-k-modelirovanyu-hrupkog/</link>
+      <pubDate>Mon, 06 Sep 2021 13:04:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-09-06-novye-dem-podhody-k-modelirovanyu-hrupkog/</guid>
+      <description>&lt;p&gt;Используя математическое моделирование, можно получить представление о процессе разрушения хрупких неоднородных материалов без необходимости проведения дорогостоящих, сложных или даже невозможных экспериментов. Хрупкие и гетерогенные материалы, такие как горные породы, обычно демонстрируют большой разброс экспериментальных данных, поэтому существует необходимость в стохастической модели, которая могла бы имитировать такое поведение. В данной работе предлагается и оценивается новый численный подход, основанный на методе связанных дискретных элементов (Bonded Discrete Element Method), для моделирования неоднородных хрупких материалов. Модель имеет два основных источника данных о структуре материала.&lt;/p&gt;
+&lt;p&gt;Во-первых, зерна строятся как эллипсоидальные подмножества сферических дискретных элементов. Размеры и формы этих эллипсоидных подмножеств рандомизированы, что вносит неоднородность в форму зерен Во-вторых, микромеханические параметры составляющих частиц зерен задаются распределением Вейбулла. Модель была применена к Бразильскому тесту, где зарождение, распространение и ветвление трещин были исследованы для различных наборов прочностей, зернистости и неоднородностей бетонного образца. Было обнаружено, что зарождение и распространение трещин сильно зависит от уровня неоднородности и прочности бетона.&lt;/p&gt;
+&lt;p&gt;В частности, было обнаружено, что количество трещин, начинающихся от контакта с нагрузкой, преобладает в случаях с более высокой прочностью бетона и низкой неоднородностью, в то время как для случаев с более низкой прочностью бетона и высокой неоднородностью была обнаружена более серьезная зигзагообразная форма трещин. В целом, было установлено, что предложенная модель способна отражать типичные явления, связанные с хрупкими гетерогенными материалами, например, непредсказуемость прочности при растяжении и свойств трещин.&lt;/p&gt;
+&lt;p&gt;Все это очень сильно напоминает реализацию Bonded DEM, присутствовавшую в LS-DYNA лет 10 назад, однако закопанную — разработка была перенесена в сторону более перспективного SPG. Мне кажется, что использование Bonded DEM для подобных расчетов хрупкого разрушения, да еще и с применением статистики — это очень хороший подход, но он требует большого числа экспериментов для настройки. Хотя от экспериментов авторы, вроде как, и хотели уйти.&lt;/p&gt;
+&lt;p&gt;Оригинальная статья: &lt;a href=&#34;https://link.springer.com/article/10.1007/s40571-021-00434-w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://link.springer.com/article/10.1007/s40571-021-00434-w&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#concrete #dem #fracture
+&lt;a href=&#34;https://tinyurl.com/yzl6s3v7&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzl6s3v7&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Полномасштабное моделирование и проверка износа ковша горной</title>
+      <link>http://localhost:1313/posts/2021-06-17-polnomasshtabnoe-modelirovanie-i-proverka/</link>
+      <pubDate>Thu, 17 Jun 2021 13:01:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-06-17-polnomasshtabnoe-modelirovanie-i-proverka/</guid>
+      <description>&lt;p&gt;Публикация по итогам кандидатской работы из Швеции. Коллеги смоделировали износ ковша горной канатной лопаты. Истирание происходило из-за взаимодействия со смесью DEM и Rigid тел произвольной формы. Все это считалось в моей любимой LS-DYNA.  Отличный расчет с экспериментальным подтверждением.&lt;/p&gt;
+&lt;p&gt;Ссылка на научную публикацию: &lt;a href=&#34;https://www.mdpi.com/2075-163X/11/6/623&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.mdpi.com/2075-163X/11/6/623&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ссылка на LinkedIn пост с анимацией процесса: &lt;a href=&#34;https://www.linkedin.com/posts/andreas-svanberg-0b727786_dem-simulations-boliden-activity-6809103345618345985-0xik&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.linkedin.com/posts/andreas-svanberg-0b727786_dem-simulations-boliden-activity-6809103345618345985-0xik&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #dem #ls-dyna #wear
+&lt;a href=&#34;https://tinyurl.com/yhugt89f&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yhugt89f&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Полномасштабное моделирование работ карьерного экскаватора в</title>
+      <link>http://localhost:1313/posts/2020-11-04-polnomasshtabnoe-modelirovanie-rabot-kar/</link>
+      <pubDate>Wed, 04 Nov 2020 13:00:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-11-04-polnomasshtabnoe-modelirovanie-rabot-kar/</guid>
+      <description>&lt;p&gt;#DEM #LS_DYNA #LS_PrePost
+by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Расчет «тераформирования» в реальном времени благодаря гибри</title>
+      <link>http://localhost:1313/posts/2020-11-02-raschet-teraformirovaniya-v-realnom-vre/</link>
+      <pubDate>Mon, 02 Nov 2020 12:59:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-11-02-raschet-teraformirovaniya-v-realnom-vre/</guid>
+      <description>&lt;p&gt;#AGX_Dynamics #Algoryx #ANSYS #DEM #SpaceClaim
+by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SimPARTIX от Фраунгоферовского института механики материалов</title>
+      <link>http://localhost:1313/posts/2020-03-10-simpartix-ot-fraungoferovskogo-instituta/</link>
+      <pubDate>Tue, 10 Mar 2020 14:51:51 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-03-10-simpartix-ot-fraungoferovskogo-instituta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Визуализация сил, действующих на грунт при движении техники</title>
+      <link>http://localhost:1313/posts/2019-03-25-vizualizatsiya-sil-deystvuyuschih-na-grunt-p/</link>
+      <pubDate>Mon, 25 Mar 2019 12:00:17 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-03-25-vizualizatsiya-sil-deystvuyuschih-na-grunt-p/</guid>
+      <description>&lt;p&gt;Очень интересная визуализация, выполненная самописным DEM кодом от UMIT Research Lab. Ну а к силам прилагаются и более привычные результаты.&lt;/p&gt;
+&lt;p&gt;#DEM #UMIT_Research_Lab&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2rx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2rx&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оптимизация для задач динамики сыпучих сред</title>
+      <link>http://localhost:1313/posts/2018-07-07-optimizatsiya-dlya-zadach-dinamiki-sypuchih-s/</link>
+      <pubDate>Sat, 07 Jul 2018 18:00:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-07-07-optimizatsiya-dlya-zadach-dinamiki-sypuchih-s/</guid>
+      <description>&lt;p&gt;Большой вебинар от Dynardo GmbH по работе Rocky DEM в связке с их знаменитым оптимизатором optiSLang. Коллеги разбирают основные возможности софта и показывают, как строить оптимизационные проекты.&lt;/p&gt;
+&lt;p&gt;#DEM #Dynardo #Optimization #OptiSLang #Rocky
+&lt;a href=&#34;http://bit.ly/2u1Y5AW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2u1Y5AW&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Компания Metariver Technology co., ltd (http://www.metariver</title>
+      <link>http://localhost:1313/posts/2017-11-26-kompaniya-metariver-technology-co-ltd/</link>
+      <pubDate>Sun, 26 Nov 2017 17:09:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-11-26-kompaniya-metariver-technology-co-ltd/</guid>
+      <description>&lt;p&gt;Сейчас у них есть:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;samadii/sciv (Statistical Contact in Vacuum) - моделирование процессов в вакуумных приборах методом Monte Carlo&lt;/li&gt;
+&lt;li&gt;samadii/plasma - моделирование процессов в плазме&lt;/li&gt;
+&lt;li&gt;samadii/dem - моделирования сыпучих сред в #DEM постановке&lt;/li&gt;
+&lt;li&gt;samadii/lbm - #CFD решатель на основе #Lattice Boltzmann methods (#LBM)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Все это работает чисть на графических картах, а значит очень быстро.&lt;/p&gt;
+&lt;p&gt;#HPC
+&lt;a href=&#34;https://youtu.be/xXG3JbT0AQkMediaMediaMediaMedia&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/xXG3JbT0AQkMediaMediaMediaMedia&lt;/a&gt;📼 samadii, Metariver Technology&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2i8z0RZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i8z0RZ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Увидел свет обновленный #EDEM 2018. Из наиболее заметных нов</title>
+      <link>http://localhost:1313/posts/2017-10-17-uvidel-svet-obnovlennyy-edem-2018-iz-n/</link>
+      <pubDate>Tue, 17 Oct 2017 17:19:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-10-17-uvidel-svet-obnovlennyy-edem-2018-iz-n/</guid>
+      <description>&lt;p&gt;#DEM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cfdreview.com/article.pl?sid=17/10/04/159246&amp;amp;rss=1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.cfdreview.com/article.pl?sid=17/10/04/159246&amp;rss=1&lt;/a&gt; 🔗 CFD Review | EDEM 2018 Focuses on Productivity Enhancements&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>История того, как #EDEM помог Министерству образования и нау</title>
+      <link>http://localhost:1313/posts/2017-08-19-istoriya-togo-kak-edem-pomog-ministerst/</link>
+      <pubDate>Sat, 19 Aug 2017 17:02:10 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-08-19-istoriya-togo-kak-edem-pomog-ministerst/</guid>
+      <description>&lt;p&gt;#DEM &lt;a href=&#34;https://www.edemsimulation.com/spotlight/study-influence-offroad-vehicles-bottom-body-parts-resistance-movement-deep-snow/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.edemsimulation.com/spotlight/study-influence-offroad-vehicles-bottom-body-parts-resistance-movement-deep-snow/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>http://mdx2.plm.automation.siemens.com/blog/david-mann/star-</title>
+      <link>http://localhost:1313/posts/2017-07-02-httpmdx2plmautomationsiemenscomb/</link>
+      <pubDate>Sun, 02 Jul 2017 17:00:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-07-02-httpmdx2plmautomationsiemenscomb/</guid>
+      <description>&lt;p&gt;В STAR-CCM+ v12.04 в качестве демонстрации возможностей добавили возможность считать в #DEM постановке не сферические частицы по честному. По честному - это значит не как кластер из слепленных сферических частиц. До сего момента возможность использовать Polyhedral DEM была фишкой предыдущего релиза #ESSS #Rocky - в новом есть более интересные фокусы.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Материалы вебинара по новым возможностям LS-DYNA R9</title>
+      <link>http://localhost:1313/posts/2016-12-18-materialy-vebinara-po-novym-vozmozhnostyam/</link>
+      <pubDate>Sun, 18 Dec 2016 17:00:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-12-18-materialy-vebinara-po-novym-vozmozhnostyam/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.dynamore.se/en/news/meet-dynamore/resources/papers/webinar-ls-dyna-r9-presentations&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.se/en/news/meet-dynamore/resources/papers/webinar-ls-dyna-r9-presentations&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Шведское подразделение #DYNAmore любезно выложило слайды с прошедшего вебинара по новым возможностям #LSDYNA R9. Для меня это просто праздник какой-то, ибо внутри есть много очень крутых фишек.&lt;/p&gt;
+&lt;p&gt;Вот что больше всего понравилось мне:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Новые карты &lt;em&gt;MODULE_&lt;/em&gt; для подключения самоличных (#UDF) расширений к вычислительному ядру решателя без его пересборки&lt;/li&gt;
+&lt;li&gt;Роторная динамика (*CONTROL_IMPLICIT_ROTATIONAL_DYNAMICS) в #Implicit решателе&lt;/li&gt;
+&lt;li&gt;Новая подключаемая модель повреждения (не путать с разрушением) материала *MAT_ADD_GENERALIZED_DAMAGE&lt;/li&gt;
+&lt;li&gt;Новая модель материла для *MAT_GLASS стекал (в том числе и триплекса) специально сделанная для моделирования процесса трещенообразования в shell постановке&lt;/li&gt;
+&lt;li&gt;Одно и двухсторонний #FSI для #DEM в #ICFD решателе благодаря *ICFD_CONTROL_DEM_COUPLING&lt;/li&gt;
+&lt;li&gt;Расширенная работа не ньютоновскими жидкостями и жидкостями с температурнозависимой вязкостью благодаря *ICFD_MODEL_NONNEWT&lt;/li&gt;
+&lt;li&gt;Граничные условия типа &amp;ldquo;ударная волна от взрыва&amp;rdquo; (через взаимодействие с *LOAD_BLAST_ENHANCED) для #CFD решателя сжимаемых течений #CESE&lt;/li&gt;
+&lt;li&gt;Бессеточный (!!!) метод обогощенных конечных элементов (Meshfree Enriched FEM, #MEFEM) специально для моделирования резин (*SECTION_SOLID, ELFORM=43).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;P.S. Ну надо было только такое придумать - бессеточный метод конечных элементов :-)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>А вы знали, что у #EDEM есть специальный API для реализации </title>
+      <link>http://localhost:1313/posts/2016-04-23-a-vy-znali-chto-u-edem-est-spetsialnyy/</link>
+      <pubDate>Sat, 23 Apr 2016 08:57:40 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-04-23-a-vy-znali-chto-u-edem-est-spetsialnyy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Говорят, что это вибрационный питатель.</title>
+      <link>http://localhost:1313/posts/2016-04-20-govoryat-chto-eto-vibratsionnyy-pitatel/</link>
+      <pubDate>Wed, 20 Apr 2016 07:00:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-04-20-govoryat-chto-eto-vibratsionnyy-pitatel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#MPS (Moving Particle Simulation) - бессеточный метод для ре</title>
+      <link>http://localhost:1313/posts/2016-04-11-mps-moving-particle-simulation-bess/</link>
+      <pubDate>Mon, 11 Apr 2016 07:01:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-04-11-mps-moving-particle-simulation-bess/</guid>
+      <description>&lt;p&gt;Прежде всего, этот метод, чем-то похожий на #SPH, имеет как явную, так и неявную схемы интегрирования по времени. Далее, он позволяет учитывать поверхностное натяжение и обладает #LES моделью турбулентности, чего нет в классическом #SPH. Ну и на сладкое - метод ускоряется на #GPU #NVIDIA в 5-9 раз (прямо как #DEM), при этом может использовать несколько графических карт.&lt;/p&gt;
+&lt;p&gt;Метод реализован в независимомо CFD пакете #Particleworks японской компании #Prometech.&lt;/p&gt;
+&lt;p&gt;На мой взгляд, это может быть по круче чем #XFlowCFD с их решеточным методом Больцмана.&lt;/p&gt;
+&lt;p&gt;Базовая теория по работе метода прилагается.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>В Горном было здорово!</title>
+      <link>http://localhost:1313/posts/2016-03-09-v-gornom-bylo-zdorovo/</link>
+      <pubDate>Wed, 09 Mar 2016 09:19:10 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-03-09-v-gornom-bylo-zdorovo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Мы проведем семинар по вопросам на засыпку уже сорок!</title>
+      <link>http://localhost:1313/posts/2016-02-15-my-provedem-seminar-po-voprosam-na-zasyp/</link>
+      <pubDate>Mon, 15 Feb 2016 18:00:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-02-15-my-provedem-seminar-po-voprosam-na-zasyp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#ProjectChrono - набор открытых инструментов для решения зад</title>
+      <link>http://localhost:1313/posts/2015-12-17-projectchrono-nabor-otkrytyh-instrume/</link>
+      <pubDate>Thu, 17 Dec 2015 18:00:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-12-17-projectchrono-nabor-otkrytyh-instrume/</guid>
+      <description>&lt;p&gt;На сайте много примеров решения зада в постановке #DEM&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#FEM - Finite element method</title>
+      <link>http://localhost:1313/posts/2015-10-30-fem-finite-element-method/</link>
+      <pubDate>Fri, 30 Oct 2015 06:30:09 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-30-fem-finite-element-method/</guid>
+      <description>&lt;p&gt;#FDM - Finite difference method
+#DDA - Discontinuous deformation analysis
+#NMM - Numerical manifold method
+#DEM - Discrete element method
+#PBM - Particle Blast Method
+#BPM - Bonded Particle Model&lt;/p&gt;
+&lt;p&gt;Ну почему все так любят аббревиатуры из трех букв?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Киплинг решателя аэродинамики несжимаемых жидкостей и метода</title>
+      <link>http://localhost:1313/posts/2015-10-29-kipling-reshatelya-aerodinamiki-neszhimaemy/</link>
+      <pubDate>Thu, 29 Oct 2015 18:00:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-29-kipling-reshatelya-aerodinamiki-neszhimaemy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Я тут заметил, что на сайте с примерами задач для дайны доба</title>
+      <link>http://localhost:1313/posts/2015-10-09-ya-tut-zametil-chto-na-sayte-s-primerami/</link>
+      <pubDate>Fri, 09 Oct 2015 18:00:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-09-ya-tut-zametil-chto-na-sayte-s-primerami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Сравнительно новая, но многообещающая методика расчета возде</title>
+      <link>http://localhost:1313/posts/2015-10-07-sravnitelno-novaya-no-mnogoobeschayuschaya-me/</link>
+      <pubDate>Wed, 07 Oct 2015 06:30:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-07-sravnitelno-novaya-no-mnogoobeschayuschaya-me/</guid>
+      <description>&lt;p&gt;В связке с DEM метод PBM может быть использован для моделирования осколочного воздействия.&lt;/p&gt;
+&lt;p&gt;В статье PBM показывает себя более эффективным, с вычислительной точки зрения. Кроме того, есть существенные преимущества по точности в сравнении с классическим моделированию взрыва в эйлеровом домене.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вчера состоялся новый релиз LS-DYNA под версией 8.0.0 R8.953</title>
+      <link>http://localhost:1313/posts/2015-10-01-vchera-sostoyalsya-novyy-reliz-ls-dyna-pod/</link>
+      <pubDate>Thu, 01 Oct 2015 06:30:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-01-vchera-sostoyalsya-novyy-reliz-ls-dyna-pod/</guid>
+      <description>&lt;p&gt;Из принципиально нового:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;*SET_POROUS_ALE для пористости тел в ALE постановке&lt;/li&gt;
+&lt;li&gt;*ALE_SWITCH_MMG для переопределения многообразных жидкостей в процессе расчета&lt;/li&gt;
+&lt;li&gt;*BOUNDARY_SPC_SYMMETRY_PLANE (ну наконец-то) гранитное условие плоскости симметрии работающее даже при динамическом перестроении сетки&lt;/li&gt;
+&lt;li&gt;*DEFINE_PBLAST_GEOMETRY для задания сложной геометрии *PARTICLE_BLAST&lt;/li&gt;
+&lt;li&gt;*CONTROL_MAT для возможности в одном месте подключить для всех тел *MAT_ADD_ERROSION&lt;/li&gt;
+&lt;li&gt;*INITIAL_LAG_MAPPING позволяющия при растрате переходит от плоской к трехмерной постановке для лагренжевых сеток&lt;/li&gt;
+&lt;li&gt;*DEFINE_ELEMENT_DEATH для контролируемой смерти элементов&lt;/li&gt;
+&lt;li&gt;*DEFINE_ADAPTIVE_SOLID_TO_DES для адаптивного переключения умерших элементов в DEM частицы!&lt;/li&gt;
+&lt;li&gt;*INCLUDE_AUTO_OFFSET для автоматической перенумерация сборных моделей в случае конфликтов номеров элементов&lt;/li&gt;
+&lt;li&gt;появились 20 узловой Solid элементы!&lt;/li&gt;
+&lt;li&gt;несколько новых моделей материалов для EM и CFD.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ребята из LSTC даром время не теряли 😊&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Не успели мы изучить аббревиатуру DEM (метод дискретного эле</title>
+      <link>http://localhost:1313/posts/2015-09-24-ne-uspeli-my-izuchit-abbreviaturu-dem-m/</link>
+      <pubDate>Thu, 24 Sep 2015 18:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-24-ne-uspeli-my-izuchit-abbreviaturu-dem-m/</guid>
+      <description>&lt;p&gt;Встречайте, Polyhedral Element Method (PEM), который умеет HELYX от компании Engys. Самое интересно, что HELYX основан на кодовой базе OpenFOAM и, вроде как, является открытым кодом.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

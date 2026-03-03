@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IGA on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/iga/</link>
+    <description>MagicDPD: Magic Driven Product Development! (IGA)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 13 Apr 2022 17:00:14 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/iga/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Я уже писал про интересный открытый междисциплинарный решате</title>
+      <link>http://localhost:1313/posts/2022-04-13-ya-uzhe-pisal-pro-interesnyy-otkrytyy-mezhd/</link>
+      <pubDate>Wed, 13 Apr 2022 17:00:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-04-13-ya-uzhe-pisal-pro-interesnyy-otkrytyy-mezhd/</guid>
+      <description>&lt;p&gt;Так вот, в нем теперь есть поддержка #IGA, и это все стало возможным благодаря совместному проекту с командой  #Coreform #Cubit.&lt;/p&gt;
+&lt;p&gt;Для тех, кто еще не знает, что такое IGA, то данный подход подразумевает использование одной и той же гладкой сплайновой основы для определения геометрии и моделирования. Это дает более точные результаты, особенно на сравнительно грубых сетках: геометрия оказывается точно описанной при любом качестве сетки, оболочечные элементы могут сгибаться не только в узлах, а иногда нам требуется меньше степеней свободы для получения точного результата расчета. А еще там есть моя мечта - техника погружденных Solid IGA элементов, которая может навсегда решить проблемы с генерацией сложных сеток.&lt;/p&gt;
+&lt;p&gt;#opensource &lt;a href=&#34;https://youtu.be/UmS-pAuBnEU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/UmS-pAuBnEU&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HexGen и Hex2Spline: ALLHEX и IGA сетки для LS-DYNA</title>
+      <link>http://localhost:1313/posts/2021-09-17-hexgen-i-hex2spline-allhex-i-iga-setki/</link>
+      <pubDate>Fri, 17 Sep 2021 13:01:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-09-17-hexgen-i-hex2spline-allhex-i-iga-setki/</guid>
+      <description>&lt;p&gt;Коллеги, на мой взгляд, сегодня просто огненный контент. Представляю вам два открытых набора консольных утилит, HexGen и Hex2Spline, разработанные группой профессора Юнцзе Джессики Чжан (Yongjie Jessica Zhang) в Университете Карнеги-Меллон (Carnegie Mellon University). Что бы лучше понимать, эта группа очень тесно связана со всем, что сейчас делается в области IGA для LS-DYNA и Corefrom.&lt;/p&gt;
+&lt;p&gt;Рассматриваемый комплект утилит позволяет на основе произвольной геометрии строить ALL-HEX неструктурированную сетку при помощи реализации алгоритма поликуба - это делает HexGen. А уже на основе полученной сетки Hex2Spline строить модель для IGA расчета, извлекая данные сплайнов Безье и записывая их в формат BEXT, напрямую читаемый LS-DYNA и визуализируемый в LS-PrePost.&lt;/p&gt;
+&lt;p&gt;Что особенно приятно, так это степень проработки вопроса. В репозитории проекта вы найдете не только все сходные коды утилит и собранные бинарники по Windows - вы найдете подробные инструкции по пересборке утилит. Естественно, в репозитории есть и тренировочные примеры с итогами правильной работы софта. А еще есть сопроводительная научная статья, в которой вы найдете подробные инструкции как пользоваться всеми утилитами и как настраивать их работу для разных геометрических моделей.&lt;/p&gt;
+&lt;p&gt;Научная статья: &lt;a href=&#34;https://arxiv.org/abs/2011.14213&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://arxiv.org/abs/2011.14213&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Репозиторий проекта: &lt;a href=&#34;https://github.com/yu-yuxuan/HexGen_Hex2Spline&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/yu-yuxuan/HexGen_Hex2Spline&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Страничка группы профессора Джессики Чжан в Университете Карнеги-Меллон:  &lt;a href=&#34;https://www.meche.engineering.cmu.edu/directory/bios/zhang-yongjie.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.meche.engineering.cmu.edu/directory/bios/zhang-yongjie.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#all-hex #ansys #bext #iga #ls-dyna #ls-prepost #open_source #polycube
+&lt;a href=&#34;https://tinyurl.com/ydnqewkz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ydnqewkz&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coreform IGA: оценка прочности с Solid IGA</title>
+      <link>http://localhost:1313/posts/2021-05-19-coreform-iga-otsenka-prochnosti-s-solid-i/</link>
+      <pubDate>Wed, 19 May 2021 13:01:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-05-19-coreform-iga-otsenka-prochnosti-s-solid-i/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=y8SS50utWlQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=y8SS50utWlQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Coreform - еще один большой игрок на поле изогеометрических расчетов, и это их вебинар с примером работы Coreform IGA для полноценного расчета solid геометрии данный методом. Получается что-то на подобии метода погруженной границы, но главное, что &amp;ldquo;сетка&amp;rdquo; больше не доставляет боли.&lt;/p&gt;
+&lt;p&gt;#coreform #iga
+&lt;a href=&#34;https://tinyurl.com/yhbonguj&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yhbonguj&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Топологическая оптимизация в изогеометрической постановке</title>
+      <link>http://localhost:1313/posts/2021-03-16-topologicheskaya-optimizatsiya-v-izogeometri/</link>
+      <pubDate>Tue, 16 Mar 2021 13:21:10 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-03-16-topologicheskaya-optimizatsiya-v-izogeometri/</guid>
+      <description>&lt;p&gt;Статья, о которой я сегодня рассуждаю, это очень красивое развитие топологической оптимизации. Итак, для оптимизации топологии у нас есть древний SIMP, который дает дискретные результаты на дискретных моделях, так как играет с псевдоплотностью конечных элементов.&lt;/p&gt;
+&lt;p&gt;У нас есть более модны Level-Set который конструирует некую гладкую функцию, определяющую наличие или отсутствие материала в каждой точке пространства проектирования. Но гладкий Level-Set, приземляясь на дискретную КЭ модель все равно дает &amp;ldquo;ступенчатые&amp;rdquo; и &amp;ldquo;пиксилизированные результаты&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;И тут, автор стати вспоминает про активно развивающийся сейчас метод изогеометрического анализа (IGA, IsoGeometric Analisys) - модификацию МКЭ, использующую NURBS в качестве базисных функций. Таким образом, если приземлить гладкие результаты топологической оптимизации методом Level-Set на гладкое IGA представление КЭ модели, то можно получить более точное решение сразу с гладкой аналитической поверхностью для новой топологии.&lt;/p&gt;
+&lt;p&gt;Ссылка на видео запись доклада: &lt;a href=&#34;https://slideslive.com/38944315/structural-topology-optimization-with-accurate-boundary-representation-using-untrimming-techniques-and-isogeometric-analysis&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://slideslive.com/38944315/structural-topology-optimization-with-accurate-boundary-representation-using-untrimming-techniques-and-isogeometric-analysis&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ссылка на статью: &lt;a href=&#34;https://dx.doi.org/10.13140/RG.2.2.32756.78729&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://dx.doi.org/10.13140/RG.2.2.32756.78729&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #iga #level_set_method #optimization #simp #topology
+&lt;a href=&#34;https://tinyurl.com/yzfdkqxo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzfdkqxo&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

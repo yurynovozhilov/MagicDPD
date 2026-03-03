@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/cloud/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Cloud)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 18 Apr 2022 17:00:05 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Любопытная штука - #BQPhy.  Они говорят, что они - это первы</title>
+      <link>http://localhost:1313/posts/2022-04-18-lyubopytnaya-shtuka-bqphy--oni-govoryat/</link>
+      <pubDate>Mon, 18 Apr 2022 17:00:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-04-18-lyubopytnaya-shtuka-bqphy--oni-govoryat/</guid>
+      <description>&lt;p&gt;#quantimcomputing #HPC #CAE #cloud &lt;a href=&#34;https://youtu.be/VHjVXalI3bw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/VHjVXalI3bw&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вчера #Ansys купил себе #OnScale, и я расскажу почему это ва</title>
+      <link>http://localhost:1313/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</link>
+      <pubDate>Thu, 14 Apr 2022 17:00:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</guid>
+      <description>&lt;p&gt;Итак, компания OnScale делала одноименную независимую платформу для  КЭ расчетов в облаке. Идея у них была очень похоже на успешный проект SimScale. Однако, SimScale использовал внутри себя #opensource коды для расчетов, а OnScale решили писать все свое. Кажется, что они просто не оценили трудоемкости написания хороших решателей, вот WebUI вышел вполне себе нормальный.&lt;/p&gt;
+&lt;p&gt;Теперь их покупает Ansys, который идет в облако всеми возможными путями. У них, как и всех конкурентов, есть облачные лицензии. У них есть облачные #HPC партнеры в лице #AWS и #Azure. Есть встроенные возможности из классических приложений посылать задачи на расчет в облако. А вот полноценного #WebUI для работы с решателями не было - всегда были какие-то средства доставки классических дестопных приложений и рабочих столов Windows/Linux систем. И тут мы видим, что OnScale становиться последним кусочком мозаики полноценного облачного решения от Ansys.&lt;/p&gt;
+&lt;p&gt;Я думаю, что в ближайшие 5 лет мы сможем увидеть новые Web версии #Fluent, #Mechanical #HFSS, которые больше не будут требовать установки дистрибутива с 5 DVD дисков, а полноценно будет работать в глобальном или корпоративном облаке.&lt;/p&gt;
+&lt;p&gt;#cloud #opensource #HPC &lt;a href=&#34;https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Высокопроизводительные вычисления в ANSYS 2019 R1</title>
+      <link>http://localhost:1313/posts/2019-05-16-vysokoproizvoditelnye-vychisleniya-v-ansy/</link>
+      <pubDate>Thu, 16 May 2019 11:01:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-05-16-vysokoproizvoditelnye-vychisleniya-v-ansy/</guid>
+      <description>&lt;p&gt;Ровно через неделю (23 мая в 14:00) приходите на мой вебинар про HPC и Cloud для ANSYS. Каверзные вопросы приветствуются. Необходима бесплатная регистрация: &lt;a href=&#34;https://webinars.cadfem-cis.ru/event/hpc/registration/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://webinars.cadfem-cis.ru/event/hpc/registration/&lt;/a&gt;. Ну и вообще, у нас новая прикольная платформа для Web семинаров: &lt;a href=&#34;https://webinars.cadfem-cis.ru&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://webinars.cadfem-cis.ru&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS #CADFEM #cloud #eCADFEM #HPC #webinar&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2vY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2vY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Облачная платформа OnScale</title>
+      <link>http://localhost:1313/posts/2019-02-10-oblachnaya-platforma-onscale/</link>
+      <pubDate>Sun, 10 Feb 2019 17:01:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-02-10-oblachnaya-platforma-onscale/</guid>
+      <description>&lt;p&gt;OnScale (не путать с OnShape и SimScale) — облачная платформа для FEM расчетов, которой удавалось долгое время уходить от нашего внимания. Интересно, что у компании есть довольно много вебинаров, и их тематика имеет уклон в моделирование электроники, распространения упругих и электромагнитных волн.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MgS0ae0129I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=MgS0ae0129I&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Решатели позволяют выполнять связанные расчеты во всех основных физиках: механика, тепло-, гидрогазодинамика и электромагнетизм.&lt;/p&gt;
+&lt;p&gt;Всем желающим доступно бесплатно 10 часов в месяц вычислительного времени в облаке OnScale для решения одномерных и плоских задач.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://onscale.com/pricing/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://onscale.com/pricing/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#cloud #FEM #HPC&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-onscale&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-onscale&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Построение сетки с искусственным интеллектом</title>
+      <link>http://localhost:1313/posts/2018-11-18-postroenie-setki-s-iskusstvennym-intelle/</link>
+      <pubDate>Sun, 18 Nov 2018 17:00:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-11-18-postroenie-setki-s-iskusstvennym-intelle/</guid>
+      <description>&lt;p&gt;Компания Zenotech, провайдер облачных CFD расчетов на своей платформе и своим решателем zCFD, объявила о том, что уже с сентября месяца этого года она совместно с AlgoLib ведет проект по улучшению качества генерируемых расчетных сеток путем применения машинного обучения. Еще одна интересная попытка сделать качественную сетку без мучений - буду надеяться, что из этого получится что-то кроме хайпа.
+&lt;a href=&#34;https://zenotech.com/zenotech-and-algolib-collaborate-on-an-industry-first-ai-mesh/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://zenotech.com/zenotech-and-algolib-collaborate-on-an-industry-first-ai-mesh/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#AlgoLib #Cloud #HPC #Mesh #ZCFD #Zenotech
+&lt;a href=&#34;http://bit.ly/2RYTOI0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RYTOI0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование пожаров - теперь в SimScale</title>
+      <link>http://localhost:1313/posts/2018-08-01-modelirovanie-pozharov-teper-v-simscal/</link>
+      <pubDate>Wed, 01 Aug 2018 18:00:26 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-08-01-modelirovanie-pozharov-teper-v-simscal/</guid>
+      <description>&lt;p&gt;Компания SimScale, пожалуй, самый активный игрок рынка облачного CAE/CFD/FEM, анонсировали планы по включению в свое портфолио возможности расчетов FDS - Fire Dynamics Simulator.&lt;/p&gt;
+&lt;p&gt;FDS позволяет выполнять расчеты динамики пожаров, получать данные по задымлению помещений и температуре в них. Данный код разработан Национальным институтом стандартов и технологий США (The National Institute of Standards and Technology) совместно с Научно-исследовательским центром VTT Финляндии (VTT Technical Research Centre of Finland). Код открытый, бесплатный. Я даже про него уже как-то писал тут: http://magicdpd.ru/4524/
+Оригинальная статья: https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/17171/Browser-Based-Fire-and-Smoke-Simulation.aspx
+Ссылка на заказ тестирования работы FDS в SimScale: https://www.simscale.com/contact-form/?title=Fire%20and%20Smoke%20Simulation%20in%20a%20Browser%0D%0A&lt;/p&gt;
+&lt;p&gt;#Cloud #FDS #NIST #OpenSource #Simscale
+&lt;a href=&#34;http://bit.ly/2KjnEm6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2KjnEm6&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Виртуальная аэродинамическая труба AirShaper</title>
+      <link>http://localhost:1313/posts/2018-07-13-virtualnaya-aerodinamicheskaya-truba-airsh/</link>
+      <pubDate>Fri, 13 Jul 2018 18:00:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-07-13-virtualnaya-aerodinamicheskaya-truba-airsh/</guid>
+      <description>&lt;p&gt;Компания AirShaper предлагает всем желающим произвести испытания их моделей в виртуальной аэродинамической трубе. При этом стоимость расчета начинается всего от 200 евро. Интересно тут пара моментов.
+Для начала, AirShaper - это еще один игрок на рынке CFD в облаке. Однако это не полноценный CFD код как SimScale, а скорее узкозаточенное решение.
+Любопытно, но компанию основал бельгийский инженер-механик (Wouter Remmerie), который 6 лет мучался с всевозможными испытаниями на аэродинамических трубах.&lt;/p&gt;
+&lt;p&gt;К сожалению, на сайте сервиса нет никако информации об используемых методиках расчета, зато сам сайт выглядит живым и современным. Еще на сайте есть очень красивые отчеты о выполненых исследованиях. Например вот этот документ: https://airshaper.com/reports/aquilo.pdf&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.develop3d.com/blog/2018/06/airshaper-launches-pay-per-simulation-virtual-wind-tunnel-cfd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.develop3d.com/blog/2018/06/airshaper-launches-pay-per-simulation-virtual-wind-tunnel-cfd&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#AirShaper #CFD #Cloud
+&lt;a href=&#34;http://bit.ly/2Ndn4Z1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Ndn4Z1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Облачные лицензии ANSYS’ Pay-Per-Use для Rescale</title>
+      <link>http://localhost:1313/posts/2018-01-25-oblachnye-litsenzii-ansys-pay-per-use-dlya/</link>
+      <pubDate>Thu, 25 Jan 2018 17:01:29 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-01-25-oblachnye-litsenzii-ansys-pay-per-use-dlya/</guid>
+      <description>&lt;p&gt;На протяжении года ANSYS выкатывает свою систему лицензирования по запросу. Данная схема лицензирования очень хорошо подходит для случая использования облачных вычислительных ресурсов (также по запросу).&lt;/p&gt;
+&lt;p&gt;Итак, в начале этого года ANSYS Elastic Units (AEUs) - так называются облачные лицензии на ANSYS - стали доступны для платформы ScaleX Cloud HPC Platform от Rescale. Rescale, в свою очередь является одним из лидеров облачных HPC решений.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.rescale.com/ansys-rescale-offer-on-demand-ansys-software-on-scalex/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blog.rescale.com/ansys-rescale-offer-on-demand-ansys-software-on-scalex/&lt;/a&gt;
+#AEUs #ANSYS #cloud #HPC #Rescale #ScaleX
+&lt;a href=&#34;https://magicdpd.ru/?p=6080&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6080&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>На #SC17 #Rescale показал как выглядит работает их #HPC обла</title>
+      <link>http://localhost:1313/posts/2017-12-16-na-sc17-rescale-pokazal-kak-vyglyadit-r/</link>
+      <pubDate>Sat, 16 Dec 2017 17:18:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-12-16-na-sc17-rescale-pokazal-kak-vyglyadit-r/</guid>
+      <description>&lt;p&gt;В целом - это просто большой и правильно настроенный вычислительный кластер. Нет ничего фантастического - есть много вдумчивой и аккуратно выполненной работы. Пожалуй все из показанного можно повторить в ЦОД вашего предприятия за две недели работы на готовом железе.&lt;/p&gt;
+&lt;p&gt;#cloud
+&lt;a href=&#34;https://www.youtube.com/watch?v=b7J&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=b7J&lt;/a&gt;…Media📼 Rescale Demos Easy HPC Cloud Management at SC17&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2yJQS87&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yJQS87&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Молния! Вчера #ANSYS купил одного из лидеров рынка моделиров</title>
+      <link>http://localhost:1313/posts/2017-11-16-molniya-vchera-ansys-kupil-odnogo-iz-lid/</link>
+      <pubDate>Thu, 16 Nov 2017 09:11:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-11-16-molniya-vchera-ansys-kupil-odnogo-iz-lid/</guid>
+      <description>&lt;p&gt;Основной решатель #3DSIM называется #exaSIM, и он занимается моделированием процесса послойной 3D печати.&lt;/p&gt;
+&lt;p&gt;Очень интересный момент, касающийся exaSIM, это то, что решатель нельзя скачать и установить. Система работает только в облаке, а качестве хостинга используется #AWS, а в особых случаях, его особо защищенная часть #GovCloud. Более подробный обзор ПО можно почитать тут: &lt;a href=&#34;http://ift.tt/2zO2Q2O&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zO2Q2O&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#cloud #additivemanufacturing&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0q1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=0q1&lt;/a&gt;…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://learn.3dsim.com/ansys-acquires-additive-manufacturing-simulation-leader-3dsim/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://learn.3dsim.com/ansys-acquires-additive-manufacturing-simulation-leader-3dsim/&lt;/a&gt; 🔗 Ansys Acquires Additive Manufacturing Simulation Leader 3DSIM - 3DSIM&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Обзор облачного решения от #Altair - #solidThinking #Inspire</title>
+      <link>http://localhost:1313/posts/2017-10-05-obzor-oblachnogo-resheniya-ot-altair-so/</link>
+      <pubDate>Thu, 05 Oct 2017 17:02:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-10-05-obzor-oblachnogo-resheniya-ot-altair-so/</guid>
+      <description>&lt;p&gt;#topology #optimization #cloud&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.develop3d.com/reviews/review-solidthinking-inspire-unlimited-beta-topology-optimisation-design&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.develop3d.com/reviews/review-solidthinking-inspire-unlimited-beta-topology-optimisation-design&lt;/a&gt; 🔗 DEVELOP3D - Review: solidThinking Inspire Unlimited - beta&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#Siemens #NX есть в магазине приложений #Amazon для #AWS (#A</title>
+      <link>http://localhost:1313/posts/2017-09-14-siemens-nx-est-v-magazine-prilozheniy/</link>
+      <pubDate>Thu, 14 Sep 2017 17:08:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-09-14-siemens-nx-est-v-magazine-prilozheniy/</guid>
+      <description>&lt;p&gt;#CAD #Cloud
+&lt;a href=&#34;https://www.youtube.com/watch?v=lOW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=lOW&lt;/a&gt;…Media📼 NX on the Cloud with Amazon AppStream 2.0&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2flsEdy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2flsEdy&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Топологическая оптимизация в облаке для Onshape</title>
+      <link>http://localhost:1313/posts/2017-07-17-topologicheskaya-optimizatsiya-v-oblake-dlya/</link>
+      <pubDate>Mon, 17 Jul 2017 09:00:51 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-07-17-topologicheskaya-optimizatsiya-v-oblake-dlya/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.onshape.com/cad-blog/partner-spotlight-generate-brings-advanced-design-topology-optimization-to-cad&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.onshape.com/cad-blog/partner-spotlight-generate-brings-advanced-design-topology-optimization-to-cad&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Компания #Onshape в своем блоге рассказывает о стартапе #Generate, который занимается топологической оптимизацией в браузере/облаке. Картинки у Generate получаются ну очень красивые. А главное, это то, что вам не нужно занимать ваш компьютер ресурсоемкими задачами.&lt;/p&gt;
+&lt;p&gt;До 31 июля ползование Generate бесплатно. У нас есть две недели - время пошло!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Несколько слов про доставку инженерной графики</title>
+      <link>http://localhost:1313/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</link>
+      <pubDate>Thu, 29 Sep 2016 17:00:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Microsoft продолжает хвастаться новыми возможностями по работе с #GPU, которые она реализует в #Windows #Server 2016. Нас ожидает поддержка нужного #OpenGL 4.4+ как в сценариях с #RDSH, так и при построении #VDI. При этом, в качестве средства доставки будет выступать привычный и понятный #RDP, а видеопоток будет полностью аппаратно кодироваться и декодироваться на GPU сервера и клиента. Аналогичные возможности ожидаются в #Azure #Cloud.&lt;/p&gt;
+&lt;p&gt;Неужели скоро все инженеры получат достойные системы доставки инженерной графики практически за так?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SimScale получил интеграцию с Autodesk Fusion 360</title>
+      <link>http://localhost:1313/posts/2016-09-03-simscale-poluchil-integratsiyu-s-autodesk-f/</link>
+      <pubDate>Sat, 03 Sep 2016 06:30:10 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-09-03-simscale-poluchil-integratsiyu-s-autodesk-f/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://insidehpc.com/2016/08/simscale-announces-integration-for-autodesk-fusion-360/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://insidehpc.com/2016/08/simscale-announces-integration-for-autodesk-fusion-360/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Облачный #CAE подружился с одним из лидеров #CAD отрасли.&lt;/p&gt;
+&lt;p&gt;Вообще #SimScale очень активно ведет себя на рынке: до #Autodesk была дружба с #SolidWorks - теперь надо подружиться с CATIA.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Запущена тестовая эксплуатация GPU в Azure</title>
+      <link>http://localhost:1313/posts/2016-08-18-zapuschena-testovaya-ekspluatatsiya-gpu-v-azu/</link>
+      <pubDate>Thu, 18 Aug 2016 06:30:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-08-18-zapuschena-testovaya-ekspluatatsiya-gpu-v-azu/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Тестовая демонстрация работы #GPU #NVIDIA инстансов в облаке #Azure началась в зоне South Central US. При этом, как говорят сами MS, они используют технологию прямого проброса устройстви (Discrete Device Assignment, #DDA), заложенную в ожидаемый #Windows #Server 2016 Hyper-V.&lt;/p&gt;
+&lt;p&gt;Итак, в облаке Azure теперь есть все для построения виртуального #HPC кластера!&lt;/p&gt;
+&lt;p&gt;#cloud #tesla #k80 #m60 #hyperv #teradici&lt;/p&gt;
+&lt;p&gt;Небольшое интевью по поводу события от #Channel9
+&lt;a href=&#34;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новый Bright Cluster Manager уже доступен для закачки</title>
+      <link>http://localhost:1313/posts/2016-08-11-novyy-bright-cluster-manager-uzhe-dostupe/</link>
+      <pubDate>Thu, 11 Aug 2016 06:30:55 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-08-11-novyy-bright-cluster-manager-uzhe-dostupe/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.brightcomputing.com/blog/the-new-release-of-bright-cluster-manager-is-now-shipping&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.brightcomputing.com/blog/the-new-release-of-bright-cluster-manager-is-now-shipping&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Лидер рынка независимых (от вендоров железа) систем управления #HPC кластерами Bright Cluster Manager (#BCM) от голландской компании Bright Comuting обновился до версии 7.3.&lt;/p&gt;
+&lt;p&gt;В новой версии расширена поддержка Amazon Web Services (#AWS) для автоматического разворачивания кластера в облаке, улучшена поддержка технологий контейнеризации #Docker. Еще есть куча всяких улучшений для коллеги, занимающихся #BigData.&lt;/p&gt;
+&lt;p&gt;Всем обязательно советую сходить по ссылке и посмотреть небольшой демонстрационный видео ролик о том, как должен выглядеть правильный кластер-менеджер.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Молния: открыта очередь на тестирование GPU NVIDIA в облаке </title>
+      <link>http://localhost:1313/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</link>
+      <pubDate>Fri, 05 Aug 2016 12:30:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://gpu.azure.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://gpu.azure.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Вчера компания #Microsoft выдала очередной анонс запуска #GPU инстансов в #Azure. Примерно год назад компания уже писала о своих планах в блоке, но видимо разработка идет не так гладко, как хотелось бы. Сейчас, вместе с анонсом компания разместила страницу регистрации на тестирование нового продукта. Лично я уже заказал сете на тест машинку с 2-мя #NVIDIA #Tesla #K80, 224 Гб RAM и 1.5 Тб SSD.&lt;/p&gt;
+&lt;p&gt;Еще Microsoft говори о партнерстве с компанией #Teradici для использования технологии #PCoIP доставляющей удаленные рабочие столы со сложной графикой. Это немного странно для меня. Во-первых Teradici - это решение заклятого конкурента #VMWare. Во-вторых, где обещанный ранее #DDS и новый #RemoteFX с поддержкой #OpenGL 4+ (заявлено для #Windows #Server 2016)? Неужели MS отказывает использовать свои серверные операционные систем и технологии в своем же облаке?&lt;/p&gt;
+&lt;p&gt;#VDI #Cloud #HPC
+&lt;a href=&#34;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Готовая инстукция по запуску #OpenFOAM на мощностях #Amazon </title>
+      <link>http://localhost:1313/posts/2016-07-28-gotovaya-instuktsiya-po-zapusku-openfoam-n/</link>
+      <pubDate>Thu, 28 Jul 2016 06:30:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-07-28-gotovaya-instuktsiya-po-zapusku-openfoam-n/</guid>
+      <description>&lt;p&gt;#HPC #Cloud
+&lt;a href=&#34;http://lnk.al/1WXy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1WXy&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Обачный #CAD #Onshape начал поддержку #STL с очень правильны</title>
+      <link>http://localhost:1313/posts/2016-07-25-obachnyy-cad-onshape-nachal-podderzhku-s/</link>
+      <pubDate>Mon, 25 Jul 2016 06:30:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-07-25-obachnyy-cad-onshape-nachal-podderzhku-s/</guid>
+      <description>&lt;p&gt;#cloud
+&lt;a href=&#34;http://lnk.al/1U4L&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1U4L&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Совсем недавно #NIMBIX (один из самых крутых владельцев обла</title>
+      <link>http://localhost:1313/posts/2016-07-24-sovsem-nedavno-nimbix-odin-iz-samyh-kr/</link>
+      <pubDate>Sun, 24 Jul 2016 13:00:03 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-07-24-sovsem-nedavno-nimbix-odin-iz-samyh-kr/</guid>
+      <description>&lt;p&gt;#HPC #Cloud
+&lt;a href=&#34;http://lnk.al/1U4g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1U4g&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Билл Ницберг (Bill Nitzberg), CEO подразделения #PBS Works к</title>
+      <link>http://localhost:1313/posts/2016-07-04-bill-nitsberg-bill-nitzberg-ceo-podraz/</link>
+      <pubDate>Mon, 04 Jul 2016 12:02:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-07-04-bill-nitsberg-bill-nitzberg-ceo-podraz/</guid>
+      <description>&lt;p&gt;Гвоздь программы - это, естественно, открытие кода #PBS Pro. В первый же день после ананаса уже появились люди вне компании, вносящие изменения в код.&lt;/p&gt;
+&lt;p&gt;Кроме того есть еще пара новостных поводов.&lt;/p&gt;
+&lt;p&gt;PBS #Simulator позволяет на основе истории загрузки вашего кластера оптимизировать его архитектуру (например показывает какие типы узлов стоит закупить)&lt;/p&gt;
+&lt;p&gt;PBS #Cloud #Manager - система позволяющая автоматически рааричивать вычислительные кластеры на базе публичных облаков #Amazon #AWS и #Microsoft #Azure. &lt;a href=&#34;https://www.youtube.com/watch?v=nbrkpNsD4rk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nbrkpNsD4rk&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Большой вебинар по работе #XFlow в облаке #Rescale. Рассказы</title>
+      <link>http://localhost:1313/posts/2016-06-19-bolshoy-vebinar-po-rabote-xflow-v-oblak/</link>
+      <pubDate>Sun, 19 Jun 2016 07:20:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-19-bolshoy-vebinar-po-rabote-xflow-v-oblak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#ANSYS делает шикарный подарок для студентов! Если с раньше </title>
+      <link>http://localhost:1313/posts/2016-06-09-ansys-delaet-shikarnyy-podarok-dlya-stude/</link>
+      <pubDate>Thu, 09 Jun 2016 07:01:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-09-ansys-delaet-shikarnyy-podarok-dlya-stude/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>И в догону ко вчерашней новости про #SimForDesign - вебинар </title>
+      <link>http://localhost:1313/posts/2016-05-24-i-v-dogonu-ko-vcherashney-novosti-pro-sim/</link>
+      <pubDate>Tue, 24 May 2016 07:00:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-05-24-i-v-dogonu-ko-vcherashney-novosti-pro-sim/</guid>
+      <description>&lt;p&gt;#cloud #FEA #&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Еще только на прошлой неделе #NVIDIA #Tesla на процессорах #</title>
+      <link>http://localhost:1313/posts/2016-05-23-esche-tolko-na-proshloy-nedele-nvidia-te/</link>
+      <pubDate>Mon, 23 May 2016 11:00:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-05-23-esche-tolko-na-proshloy-nedele-nvidia-te/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Я как-то умудрился пропустить облачный сервис для #CAE расче</title>
+      <link>http://localhost:1313/posts/2016-05-23-ya-kak-to-umudrilsya-propustit-oblachnyy-s/</link>
+      <pubDate>Mon, 23 May 2016 07:00:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-05-23-ya-kak-to-umudrilsya-propustit-oblachnyy-s/</guid>
+      <description>&lt;p&gt;Первый отечественный настоящий #cloud!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#OnShape запустили бесплатный тариф для всех студентов. При </title>
+      <link>http://localhost:1313/posts/2016-04-08-onshape-zapustili-besplatnyy-tarif-dlya/</link>
+      <pubDate>Fri, 08 Apr 2016 15:01:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-04-08-onshape-zapustili-besplatnyy-tarif-dlya/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.onshape.com/cad-blog/introducing-the-onshape-education-plan&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.onshape.com/cad-blog/introducing-the-onshape-education-plan&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Встречаем Akselos - программное обеспечения для решения зада</title>
+      <link>http://localhost:1313/posts/2016-03-20-vstrechaem-akselos-programmnoe-obespeche/</link>
+      <pubDate>Sun, 20 Mar 2016 07:00:54 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-03-20-vstrechaem-akselos-programmnoe-obespeche/</guid>
+      <description>&lt;p&gt;Еще фишки ПО:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;работа с неподготовленной геометрией&lt;/li&gt;
+&lt;li&gt;моделирования роста трещин&lt;/li&gt;
+&lt;li&gt;использование открытых библиотек для работы с сеткой и решения СЛАУ: PETSc, libMesh&lt;/li&gt;
+&lt;li&gt;использование GCE (Google Compute Engine) для #HPC&lt;/li&gt;
+&lt;li&gt;и т.д.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Некоторые брошюры по RB-FEM во вложении.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Блок человека по фону просчитавшего внешнюю аэродинамику зна</title>
+      <link>http://localhost:1313/posts/2016-03-19-blok-cheloveka-po-fonu-proschitavshego-vnesh/</link>
+      <pubDate>Sat, 19 Mar 2016 07:01:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-03-19-blok-cheloveka-po-fonu-proschitavshego-vnesh/</guid>
+      <description>&lt;p&gt;Есть ссылка на форк проекта в #SimScale&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#SimScale совместно с #CAESES проводят бесплатную серию ворк</title>
+      <link>http://localhost:1313/posts/2016-03-12-simscale-sovmestno-s-caeses-provodyat-b/</link>
+      <pubDate>Sat, 12 Mar 2016 12:31:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-03-12-simscale-sovmestno-s-caeses-provodyat-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Новость дня: для наших старых друзей, компании #NICE #Softwa</title>
+      <link>http://localhost:1313/posts/2016-02-12-novost-dnya-dlya-nashih-staryh-druzey-ko/</link>
+      <pubDate>Fri, 12 Feb 2016 17:36:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-02-12-novost-dnya-dlya-nashih-staryh-druzey-ko/</guid>
+      <description>&lt;p&gt;Это очень хорошая поддержка для небольшой итальянской компании менее чем из 100 человек.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Суровый маркетинг облаков от #Numbix: взять старый iMac с OS</title>
+      <link>http://localhost:1313/posts/2015-12-24-surovyy-marketing-oblakov-ot-numbix-vz/</link>
+      <pubDate>Thu, 24 Dec 2015 06:00:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-12-24-surovyy-marketing-oblakov-ot-numbix-vz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Наконец #SIMSOLID вышел из стадии beta. И вышел он сразу в м</title>
+      <link>http://localhost:1313/posts/2015-12-16-nakonets-simsolid-vyshel-iz-stadii-beta/</link>
+      <pubDate>Wed, 16 Dec 2015 18:00:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-12-16-nakonets-simsolid-vyshel-iz-stadii-beta/</guid>
+      <description>&lt;p&gt;Напомню, что SIMSOLID позиционирует себя как неявный решатель механики, для которого вам нет необходимости думать о #КЭ сетке. Якобы у них какой-то бессточный алгоритм. Ну посмотрим - посмотрим.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trampo обещает в своем рекламном видео, что #CFD специалисты</title>
+      <link>http://localhost:1313/posts/2015-12-14-trampo-obeschaet-v-svoem-reklamnom-video/</link>
+      <pubDate>Mon, 14 Dec 2015 06:01:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-12-14-trampo-obeschaet-v-svoem-reklamnom-video/</guid>
+      <description>&lt;p&gt;+1 в облаке 😊&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Что бы вы сказали, если бы я предложил вам хороший #FEM или </title>
+      <link>http://localhost:1313/posts/2015-12-11-chto-by-vy-skazali-esli-by-ya-predlozhil-v/</link>
+      <pubDate>Fri, 11 Dec 2015 14:56:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-12-11-chto-by-vy-skazali-esli-by-ya-predlozhil-v/</guid>
+      <description>&lt;p&gt;Компания #Simscale сделал очень сильный ход. Теперь вы можете бесплатно воспользоваться их сервисом инженерных расчетов в облаке. Вам становится доступно 500 Гб дискового пространства и квота на 3000 процессорных часов в год. Вы имеет право на техническую поддержку (даже по телефону!). Единственное ограничение - все ваши проекты должны быть опубликованы на портале компании.
+А вот за приватный репозиторий для проектов придется заплатить.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Всем строителям облаков, и тем, кто в них хочет переехать чи</title>
+      <link>http://localhost:1313/posts/2015-11-14-vsem-stroitelyam-oblakov-i-tem-kto-v-ni/</link>
+      <pubDate>Sat, 14 Nov 2015 18:00:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-14-vsem-stroitelyam-oblakov-i-tem-kto-v-ni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>А теперь более подробно о проекте #Autodesk &#34;Project Leopard</title>
+      <link>http://localhost:1313/posts/2015-11-13-a-teper-bolee-podrobno-o-proekte-autod/</link>
+      <pubDate>Fri, 13 Nov 2015 18:00:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-13-a-teper-bolee-podrobno-o-proekte-autod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ничего особенного не случилось, проста #Autodesk тоже хочет </title>
+      <link>http://localhost:1313/posts/2015-11-12-nichego-osobennogo-ne-sluchilos-prosta/</link>
+      <pubDate>Thu, 12 Nov 2015 18:30:29 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-12-nichego-osobennogo-ne-sluchilos-prosta/</guid>
+      <description>&lt;p&gt;Итак +1 в браузере!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#OnShape теперь отдельно публикует обновления своего мобильн</title>
+      <link>http://localhost:1313/posts/2015-11-11-onshape-teper-otdelno-publikuet-obnov/</link>
+      <pubDate>Wed, 11 Nov 2015 18:01:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-11-onshape-teper-otdelno-publikuet-obnov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Компания #Numbix - явно компания с юмором. Их обновленное об</title>
+      <link>http://localhost:1313/posts/2015-11-11-kompaniya-numbix-yavno-kompaniya-s-yumoro/</link>
+      <pubDate>Wed, 11 Nov 2015 06:30:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-11-kompaniya-numbix-yavno-kompaniya-s-yumoro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>На конференции AWS re:Invent ANSYS расскзал об архитектуре с</title>
+      <link>http://localhost:1313/posts/2015-11-09-na-konferentsii-aws-reinvent-ansys-rassk/</link>
+      <pubDate>Mon, 09 Nov 2015 06:30:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-09-na-konferentsii-aws-reinvent-ansys-rassk/</guid>
+      <description>&lt;p&gt;Однако проблемы, на которые я всегда обращаю внимание, остались открытыми:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;нет RDMA - большой кластер тормозит даже для CFD&lt;/li&gt;
+&lt;li&gt;очень кривая организация виртуальных рабочих станций для постпроцессинга из-за ограничений на объем оперативной памяти.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Есть и замечательные, доселе невиданные возможности: вы получаете готовый к расчетами HPC кластер менее чем за 3 (три!!!) часа, и вы можете изменять его размер по запросу. Обычно проектирование и пуск кластера занимает месяцы :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>В честь воскресного вечера позволю себе очень любопытный офф</title>
+      <link>http://localhost:1313/posts/2015-11-08-v-chest-voskresnogo-vechera-pozvolyu-sebe/</link>
+      <pubDate>Sun, 08 Nov 2015 18:00:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-08-v-chest-voskresnogo-vechera-pozvolyu-sebe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#SimScale смог набрать уже 50 000 пользователей с даты своег</title>
+      <link>http://localhost:1313/posts/2015-11-05-simscale-smog-nabrat-uzhe-50-000-polzo/</link>
+      <pubDate>Thu, 05 Nov 2015 18:00:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-05-simscale-smog-nabrat-uzhe-50-000-polzo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Еще одни пример расчетов в облаке/браузере. На сей раз встре</title>
+      <link>http://localhost:1313/posts/2015-11-01-esche-odni-primer-raschetov-v-oblakebrauze/</link>
+      <pubDate>Sun, 01 Nov 2015 18:00:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-01-esche-odni-primer-raschetov-v-oblakebrauze/</guid>
+      <description>&lt;p&gt;#cloud
+Осторожно - жесткий индийский английский!!!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ребята из команды CFD Engine, которая специализируется на ра</title>
+      <link>http://localhost:1313/posts/2015-10-31-rebyata-iz-komandy-cfd-engine-kotoraya-sp/</link>
+      <pubDate>Sat, 31 Oct 2015 18:00:54 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-31-rebyata-iz-komandy-cfd-engine-kotoraya-sp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NX Nastran тоже ударился в облака. Скоро будет проще сказать</title>
+      <link>http://localhost:1313/posts/2015-10-17-nx-nastran-tozhe-udarilsya-v-oblaka-skoro/</link>
+      <pubDate>Sat, 17 Oct 2015 07:01:49 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-17-nx-nastran-tozhe-udarilsya-v-oblaka-skoro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Это не совсем про расчеты, но это то, чем мы все скоро будем</title>
+      <link>http://localhost:1313/posts/2015-10-11-eto-ne-sovsem-pro-raschety-no-eto-to-che/</link>
+      <pubDate>Sun, 11 Oct 2015 06:30:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-11-eto-ne-sovsem-pro-raschety-no-eto-to-che/</guid>
+      <description>&lt;p&gt;Лично я не могу дождаться, когда инстансы N-типа будут доступны нам - очень хочется проверить задержки при удаленной визуализации через DCV.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Похоже, что у Onshape появился очень сильный конкурент. Букв</title>
+      <link>http://localhost:1313/posts/2015-10-06-pohozhe-chto-u-onshape-poyavilsya-ochen-sil/</link>
+      <pubDate>Tue, 06 Oct 2015 06:30:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-06-pohozhe-chto-u-onshape-poyavilsya-ochen-sil/</guid>
+      <description>&lt;p&gt;И вот тут начинается самое интересное. С одной стороны мы имеем Onshape, который изначально проектировался как CAD для работы в браузере. Он не умеет это делать хорошо, но вот функционал CAD в нем еще слабоват. С другой стороны у нас SolidWorks, который еще не CATIA, но уже пакет из высшей лиги. Но он не очень то заточен для работы в браузере.&lt;/p&gt;
+&lt;p&gt;Кто победит: удобство интереса или мощность и обилие возможностей?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Со всей этой рутинной я чуть пропустил абсолютно сногсшибате</title>
+      <link>http://localhost:1313/posts/2015-10-05-so-vsey-etoy-rutinnoy-ya-chut-propustil-a/</link>
+      <pubDate>Mon, 05 Oct 2015 06:30:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-05-so-vsey-etoy-rutinnoy-ya-chut-propustil-a/</guid>
+      <description>&lt;p&gt;Теперь же мы можем наблюдать очень интересную направленность Azure в HPC направление. Тут и честный Infiniband (чего нет даже у Amazon AWS), и несколько HPC планировщиков, в числе которых есть лидер рынка Altair PBS Pro, и, наконец, недостающее звено - гибридные вычисления и поддержка удаленной визуализации!!! Мне кажется, что сейчас Azure дал крепкую затрещину AWS.&lt;/p&gt;
+&lt;p&gt;#Azure #AWS #Cloud #HPC #NVIDIA
+&lt;a href=&#34;http://nvidianews.nvidia.com/news/nvidia-gpus-to-accelerate-microsoft-azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://nvidianews.nvidia.com/news/nvidia-gpus-to-accelerate-microsoft-azure&lt;/a&gt;
+&lt;a href=&#34;http://www.nvidia.ru/object/nvidia-grid-microsoft-azure-29-sep-2015-ru.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.nvidia.ru/object/nvidia-grid-microsoft-azure-29-sep-2015-ru.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Издание HPCWire начало голосование за лучшие HPC 2015 года. </title>
+      <link>http://localhost:1313/posts/2015-09-30-izdanie-hpcwire-nachalo-golosovanie-za-lu/</link>
+      <pubDate>Wed, 30 Sep 2015 06:30:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-30-izdanie-hpcwire-nachalo-golosovanie-za-lu/</guid>
+      <description>&lt;p&gt;Голосование будет проходить до 9 Октября 23:59 по тихоокеанскому времени.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Похоже Onshape действительно готовится к выходу на профессио</title>
+      <link>http://localhost:1313/posts/2015-09-15-pohozhe-onshape-deystvitelno-gotovitsya-k/</link>
+      <pubDate>Tue, 15 Sep 2015 17:00:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-15-pohozhe-onshape-deystvitelno-gotovitsya-k/</guid>
+      <description>&lt;p&gt;Видео с подробной инструкцией прилагается к статье.&lt;/p&gt;
+&lt;p&gt;#CAD #Onshape #cloud&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.onshape.com/cad-blog/introducing-onshape-companies&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.onshape.com/cad-blog/introducing-onshape-companies&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>На прошедшей неделе Rescale, создатель одной из крупнейших о</title>
+      <link>http://localhost:1313/posts/2015-08-29-na-proshedshey-nedele-rescale-sozdatel-o/</link>
+      <pubDate>Sat, 29 Aug 2015 17:00:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-08-29-na-proshedshey-nedele-rescale-sozdatel-o/</guid>
+      <description>&lt;p&gt;Надо отметить, что из игроков на рынке HPC #Cloud в Европе до сего момента уже присутствовали такие компании как ClusterVision, #CADFEM GmbH, CPU 24/7, Gompute. Возможности по HPC также предоставляет и Azure, но там нет изначальной заточки под CAE использование.
+Посмотрим как опыт гораздо более жесткого развитого HPC рынка США поможет #Rescale работать в Старом свете.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

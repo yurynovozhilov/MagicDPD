@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RHT on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/rht/</link>
+    <description>MagicDPD: Magic Driven Product Development! (RHT)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 05 Jun 2017 17:01:28 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/rht/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Реализации модели RHT (RTH) в LS-DYNA и AUTODYN</title>
+      <link>http://localhost:1313/posts/2017-06-05-realizatsii-modeli-rht-rth-v-ls-dyna-i/</link>
+      <pubDate>Mon, 05 Jun 2017 17:01:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-06-05-realizatsii-modeli-rht-rth-v-ls-dyna-i/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/11th-european-ls-dyna-conference/concrete-penetration/comparison-of-the-rht-concrete-material-model-in-ls-dyna-and-ansys-autodyn/view&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/11th-european-ls-dyna-conference/concrete-penetration/comparison-of-the-rht-concrete-material-model-in-ls-dyna-and-ansys-autodyn/view&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Модель материала для предсказания поведения высокопрочного и сверх высокопрочного бетона #RHT или #RTH является пожалуй одной из самых известных моделей в своей области. Она названа по инициалам ученых, разработавших ее: Riedel, Hiermaier и Thoma.&lt;/p&gt;
+&lt;p&gt;Данная модель реализована как в #LSTC #LSDYNA (*MAT_272), так и в #ANYS #AUTODYN (и в ANSYS #Explicit STR заодно ). Только если в LSD есть еще с десяток моделей-конкурентов, до в AD других моделей бетона нет.&lt;/p&gt;
+&lt;p&gt;Коллеги из немецкой организации #GRS (Gesellschaft für Anlagen- und Reaktorsicherheit (GRS) gGmbH, &lt;a href=&#34;http://www.grs.de/en&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.grs.de/en&lt;/a&gt;) в своей работе провели сравнительный анализ реализаций модели. Получились очень любопытные выводы. Обе реализации сеточнозависимы по показателю разрушения, в AUTODYN еще и некорректно считает трещенообразование при растягивающих нагрузках.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/python/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Python)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Thu, 06 Oct 2022 20:00:02 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Большой учебный материал по тому, как выполнять обработку ре</title>
+      <link>http://localhost:1313/posts/2022-10-06-bolshoy-uchebnyy-material-po-tomu-kak-vy/</link>
+      <pubDate>Thu, 06 Oct 2022 20:00:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-10-06-bolshoy-uchebnyy-material-po-tomu-kak-vy/</guid>
+      <description>&lt;p&gt;#opensource #python &lt;a href=&#34;https://www.padtinc.com/2022/07/18/ansys-scripting-python-p1-solve-post/?utm_source=pocket_mylist&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.padtinc.com/2022/07/18/ansys-scripting-python-p1-solve-post/?utm_source=pocket_mylist&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сегодня я бы хотел высказать пару мыслей про #opensource про</title>
+      <link>http://localhost:1313/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</link>
+      <pubDate>Wed, 14 Sep 2022 18:00:17 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</guid>
+      <description>&lt;p&gt;Итак, #Python внутри экосистемы #Ansys есть очень давно, так почему все вдруг начала говорить про #pyAnsys? Дело в том, что раньше python выступал только в роли некого внутреннего инструмента помощи в постановки задачи. Вы запускали продукты Ansys, и в них уже могли что-то автоматизировать на python.&lt;/p&gt;
+&lt;p&gt;pyAnsys полностью меняет концепцию. У каждого модуля появляется свой #API, который вы можете использовать в вашей #python программе. Ansys тут выступает как вспомогательный инструмент.&lt;/p&gt;
+&lt;p&gt;Например, #pyMAPDL позволяет полностью поставить #FEM задачу и запустить решатель MAPDL, который вообще может быть помещен в #docker контейнер. Обработка данных теперь может производиться единым #pyDPF фреймвоком. Данные между решателями теперь могут передаваться как вы придумаете - ведь у всех них есть свой открытый API! И да, никто не ограничивает вас в возможности совместной работы продуктов Ansys и не Ansys. В стандартных примерах вы сейчас можете найти инструкции для работы с #Gmsh.&lt;/p&gt;
+&lt;p&gt;Я бы сказал, что #pyAnsys - это основа для переосмысления Workbench. Сейчас все связи между модулями #Workbench жестко определенны разработчиками. С pyAnsys вас больше нет таких ограничений, а что еще нужно вам для проведения новых увлекательных расчетов? &lt;a href=&#34;https://docs.pyansys.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://docs.pyansys.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Любите ли вы делать визуализацию научных и инженерных данных</title>
+      <link>http://localhost:1313/posts/2022-06-10-lyubite-li-vy-delat-vizualizatsiyu-nauchnyh/</link>
+      <pubDate>Fri, 10 Jun 2022 18:00:01 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-06-10-lyubite-li-vy-delat-vizualizatsiyu-nauchnyh/</guid>
+      <description>&lt;p&gt;Предлагаю вашему вниманию книгу &amp;ldquo;Scientific Visualization: Python + Matplotlib,&amp;rdquo; которая доступна в рамках open access. А приятным дополнением книге является репозиторий ее автора на GitHub, где можно посмотреть все примеры.&lt;/p&gt;
+&lt;p&gt;#opensource #python #Matplotlib &lt;a href=&#34;https://github.com/rougier/scientific-visualization-book&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/rougier/scientific-visualization-book&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>manim - как сделать вашу научную презентацию захватывающей</title>
+      <link>http://localhost:1313/posts/2021-02-26-manim-kak-sdelat-vashu-nauchnuyu-prezent/</link>
+      <pubDate>Fri, 26 Feb 2021 13:01:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-02-26-manim-kak-sdelat-vashu-nauchnuyu-prezent/</guid>
+      <description>&lt;p&gt;Многие гики от науки знают, что в сети есть отличный сайт от MIT 3blue1brown.com занимающейся популяризацией науки. Их канал на YouTube ломится от огромного числа видео роликов, деланных с большим вкусом и умением. Вот, например, видео про ряды Фурье.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=r6sGWTCMz2k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=r6sGWTCMz2k&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Хотите делать такие же классные видео по результатам ваших исследований? Нет проблем: у коллег из 3Blue1Brown есть репозиторий на GitHub, где выложены исходные коды их движка создания анимированной научной инфографики manim. Все, что вам нужно, этот Python, FFmpeg и LaTeX. Ну а далее - читайте инструкции по ссылке на репозиторий github.com/3b1b/manim&lt;/p&gt;
+&lt;p&gt;#3blue1brown #ffmpeg #latex #open_source #python
+&lt;a href=&#34;https://tinyurl.com/ybn92n6a&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ybn92n6a&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python для автоматизации работы с ParaView</title>
+      <link>http://localhost:1313/posts/2021-02-05-python-dlya-avtomatizatsii-raboty-s-paravi/</link>
+      <pubDate>Fri, 05 Feb 2021 15:01:40 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-02-05-python-dlya-avtomatizatsii-raboty-s-paravi/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/knWz0LCSgic&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/knWz0LCSgic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#paraview #python
+&lt;a href=&#34;https://tinyurl.com/y5k9hog9&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y5k9hog9&lt;/a&gt;
+by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Параметризация и автоматизация в SpaceClaim</title>
+      <link>http://localhost:1313/posts/2019-09-19-parametrizatsiya-i-avtomatizatsiya-v-spacecl/</link>
+      <pubDate>Thu, 19 Sep 2019 13:00:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-09-19-parametrizatsiya-i-avtomatizatsiya-v-spacecl/</guid>
+      <description>&lt;p&gt;Mallett Technology подготовили обучающий вебинар по очень важной и очень плохо изученной теме — автоматизация работы SpaceClaim при помощи python-скриптов. Коллеги показывают как записывать журнал проекта, как создавать переменные и именованные выборки, которые потом будут видны в рамках Workbench.&lt;/p&gt;
+&lt;p&gt;А ведь это далеко не все функции по автоматизации SpaceClaim. Так, в новых версиях, вы можете параметризовать процесс построения как в классических CAD, создавая последовательность проигрываемых действий без привлечения средств пользовательского программирования. А для часто используемых действий можно добавлять свои кнопки в интерфейс. И для всего этого есть отдельный однодневный учебный курс.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Два урока по работе с LS-DYNA Keyword в Python библиотеке qd</title>
+      <link>http://localhost:1313/posts/2018-03-11-dva-uroka-po-rabote-s-ls-dyna-keyword-v/</link>
+      <pubDate>Sun, 11 Mar 2018 18:01:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-03-11-dva-uroka-po-rabote-s-ls-dyna-keyword-v/</guid>
+      <description>&lt;p&gt;Если вы следите за публикацияи MDPD, то вы занете о существовании замечатьельной бесплатной открытой Python библиотеки qd. В недавней версии в нее добавили инструменты по манипулированию Keyword файлами — моделями LS-DYNA. Сегодя у нас есть уже 2 видео урока, демонстрирующих, что может билиотека.&lt;/p&gt;
+&lt;p&gt;Репозиторий библиотеки на GitHub: &lt;a href=&#34;https://github.com/qd-cae/qd-cae-python&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/qd-cae/qd-cae-python&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#LSDYNA #Open_Source #Python #Qd
+&lt;a href=&#34;https://goo.gl/64RTLQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/64RTLQ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EASA - это специализированная платформа для создания интерак</title>
+      <link>http://localhost:1313/posts/2017-12-12-easa-eto-spetsializirovannaya-platforma/</link>
+      <pubDate>Tue, 12 Dec 2017 17:02:43 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-12-12-easa-eto-spetsializirovannaya-platforma/</guid>
+      <description>&lt;p&gt;Так EASA может связать в единую цепочку такие системы, как #Excel, #Salesforce, Visual Basic, #MATLAB, #ANSYS, #Python и все, что имеет внятный API или CMD.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16084/Link-Almost-Any-CAE-and-Design-Software-Tool-into-an-App-With-EASA.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16084/Link-Almost-Any-CAE-and-Design-Software-Tool-into-an-App-With-EASA.aspx&lt;/a&gt; 🔗 Link Almost Any CAE and Design Software Tool into an App With EASA ? ENGINEERING.com&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>А что если научить машину ускорять задачи топологической опт</title>
+      <link>http://localhost:1313/posts/2017-11-24-a-chto-esli-nauchit-mashinu-uskoryat-zadach/</link>
+      <pubDate>Fri, 24 Nov 2017 17:14:52 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-11-24-a-chto-esli-nauchit-mashinu-uskoryat-zadach/</guid>
+      <description>&lt;p&gt;Статья двух русских студентов (Иван Сосновик и Иван Оселедец) посвящена рассказывает про их проект, в котором нейронной сети показывали промежуточные результаты работы алгоритма топологической оптимизации и учили ее угадывать, какой будет итоговый результат. После обучения на 10 000 произвольно сгенерированных задачах для #ToPy нейрона смогла ускорить процесс оптимизации до 20 раз в рассматриваемых примерах!&lt;/p&gt;
+&lt;p&gt;Выборка для тренировки нейроне доступна на #GitHub:
+&lt;a href=&#34;http://ift.tt/2hRdoWE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hRdoWE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Исходная научная статья лежит тут:
+&lt;a href=&#34;http://ift.tt/2A2KoWc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2A2KoWc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#topology #optimization #python #machinelearning #opensourceMediaMedia🔗 [1709.09578] Neural networks for topology optimization&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Привет всем, кто пишет свой движок топологической оптимизаци</title>
+      <link>http://localhost:1313/posts/2017-11-22-privet-vsem-kto-pishet-svoy-dvizhok-topol/</link>
+      <pubDate>Wed, 22 Nov 2017 17:10:26 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-11-22-privet-vsem-kto-pishet-svoy-dvizhok-topol/</guid>
+      <description>&lt;p&gt;Так уж сейчас обстоят дела, что написать алгоритм линейной топологической оптимизации - это уровень обычной бакалаврской работы. И я очень рад, что, дабы остановить поток велосипедостроителей, люди выкладывают такие коды на #GitHub. Хотите сделать хорошую топологическую оптимизацию - сделайте сначала обзор литературы 😊&lt;/p&gt;
+&lt;p&gt;Кстати, ToPly не так прост, как может показаться. Он может решать как классические задачи оптимизации топологии с целью минимизации податливости при уменьшении объема, так и выполнять оптимизацию теплопроводности (вот это что-то новенькое!)&lt;/p&gt;
+&lt;p&gt;#python #toplology #optimization
+&lt;a href=&#34;https://github.com/williamhunter/topy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/williamhunter/topy&lt;/a&gt; 🔗 williamhunter/topy&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lat-Net: Compressing Lattice Boltzmann Flow Simulations usin</title>
+      <link>http://localhost:1313/posts/2017-11-21-lat-net-compressing-lattice-boltzmann-f/</link>
+      <pubDate>Tue, 21 Nov 2017 17:10:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-11-21-lat-net-compressing-lattice-boltzmann-f/</guid>
+      <description>&lt;p&gt;Суть проекта заключается в подмене #CFD расчета методом #Lattice #Boltzmann на нейронную сеть. Причем, если верить авторам, то натренировав нейрону на грубой &amp;ldquo;сетке&amp;rdquo; можно надеются на достаточно точный расчет на мелкой &amp;ldquo;сетке&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Это конечно не супер точный #CFD подход, но зато можно быстро получить оценочное решение вашей задачи экономя ресурсы.&lt;/p&gt;
+&lt;p&gt;#Python #machinelearning #LBM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/loliverhennigh/Phy-Net&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/loliverhennigh/Phy-Net&lt;/a&gt; 🔗 loliverhennigh/Phy-Net&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python FEM и многодисциплинарные расчеты  в FEniCS и FEATool</title>
+      <link>http://localhost:1313/posts/2017-06-21-python-fem-i-mnogodistsiplinarnye-raschety/</link>
+      <pubDate>Wed, 21 Jun 2017 17:00:59 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-06-21-python-fem-i-mnogodistsiplinarnye-raschety/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#FEATool, который позволяет решать задачи методом конечных элементов (#МКЭ) на базе #Matlab, начали взаимодействовать с проектом #FEniCS, который также занимается решением задач в МКЭ припомни #Python и C++. Теперь FEniCS дочтен прямо в GUI FEATool.&lt;/p&gt;
+&lt;p&gt;Говорят, что FEniCS протестирован для работы со СЛАУ размерности 100 миллионов уравнений, а также может работать на 512 CPUs, используя как #MPI, так и #OpenMP. А это существенно больше того, что сейчас может решать FEATool.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS App Builder</title>
+      <link>http://localhost:1313/posts/2017-02-03-ansys-app-builder/</link>
+      <pubDate>Fri, 03 Feb 2017 17:03:01 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-02-03-ansys-app-builder/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=xYJPgdOdD3k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xYJPgdOdD3k&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В #ANSYS 18 появилось такое приложение, как ANSYS App Builder, и, на мой взгляд, это самое крутое нововведение в R18!&lt;/p&gt;
+&lt;p&gt;ANSYS App Builder позволяет создавать #ACT для #Workbench и #AIM прямо в #GUI! Он умеет не только записывать все ваши действия при работе с проектом, но и низкоуровненов редактировать записанный #python журнал и XML описание интефейса.&lt;/p&gt;
+&lt;p&gt;Те из нас, кто пробовали писать свои ACT, поймут, какой пропыв в упращении нашего нелегкого ремесла нас ожидает!
+&lt;a href=&#34;https://www.youtube.com/watch?v=xYJPgdOdD3k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xYJPgdOdD3k&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FiPy - библиотека-фреймворк для #Python, которая поможет вам</title>
+      <link>http://localhost:1313/posts/2015-12-11-fipy-biblioteka-freymvork-dlya-python/</link>
+      <pubDate>Fri, 11 Dec 2015 06:30:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-12-11-fipy-biblioteka-freymvork-dlya-python/</guid>
+      <description>&lt;p&gt;Всем быстро писать свои решатели!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Если вы вдруг решите писать свой (читай - еще одни) пер/пост</title>
+      <link>http://localhost:1313/posts/2015-12-10-esli-vy-vdrug-reshite-pisat-svoy-chitay/</link>
+      <pubDate>Thu, 10 Dec 2015 06:30:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-12-10-esli-vy-vdrug-reshite-pisat-svoy-chitay/</guid>
+      <description>&lt;p&gt;Я обещаю написать свой собственный велосипед!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

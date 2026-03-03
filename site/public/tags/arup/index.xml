@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arup on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/arup/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Arup)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 26 Mar 2021 13:03:38 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/arup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LS-DYNA для гражданского строительства от Arup</title>
+      <link>http://localhost:1313/posts/2021-03-26-ls-dyna-dlya-grazhdanskogo-stroitelstva-o/</link>
+      <pubDate>Fri, 26 Mar 2021 13:03:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-03-26-ls-dyna-dlya-grazhdanskogo-stroitelstva-o/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=PhLq9N85Oe8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=PhLq9N85Oe8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Потрясающий, великолепный, незабываемый доклад от Arup по из опыту решения околостроительных задач с применением LS-DYNA. Эти ребята знают как считать, эти ребята знают, как готовить LS-DYNA, и, наконец, они умеют делать хорошие доклады. Я смотрел на одном дыхании. Чего только стоил кейс, где они посчитали на воздействие землетрясения не одно здание, а целый район грода.&lt;/p&gt;
+&lt;p&gt;#arup #civil #concrete #ls-dyna #oasys
+&lt;a href=&#34;https://tinyurl.com/yffwyjjf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yffwyjjf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Все что вы хотели и не хотели знать о контактах в LS-DYNA</title>
+      <link>http://localhost:1313/posts/2020-12-04-vse-chto-vy-hoteli-i-ne-hoteli-znat-o-ko/</link>
+      <pubDate>Fri, 04 Dec 2020 13:48:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-12-04-vse-chto-vy-hoteli-i-ne-hoteli-znat-o-ko/</guid>
+      <description>&lt;p&gt;#ARUP #LS_DYNA
+by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование процесса возведения конструкции в LS-DYNA</title>
+      <link>http://localhost:1313/posts/2018-12-19-modelirovanie-protsessa-vozvedeniya-konstr/</link>
+      <pubDate>Wed, 19 Dec 2018 17:00:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-12-19-modelirovanie-protsessa-vozvedeniya-konstr/</guid>
+      <description>&lt;p&gt;Компания ARUP приготовила еще один полезный набор слайдов для тех, кто использует LS-DYNA в гражданском строительстве. Он посвящается набору карт семейства *CONTROL_STAGED_CONSTRUCTION&lt;/p&gt;
+&lt;p&gt;Эти карты позволяют промоделировать поэтапное возведение конструкций, действие на них гравитации и монтажных усилий, изменение в свойствах грунтов основания.
+Кроме того, детально описаны изменения и корректировки в работе алгоритмов при переходе на решатель R11.
+&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/support/PRESENTATIONS/Staged_construction_notes_03apr2018.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/support/PRESENTATIONS/Staged_construction_notes_03apr2018.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ARUP #LSDYNA #LSTC
+&lt;a href=&#34;http://bit.ly/2PRanEi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PRanEi&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Включаем Implicit решатель в Workbench LS-DYNA</title>
+      <link>http://localhost:1313/posts/2018-08-14-vklyuchaem-implicit-reshatel-v-workbench-l/</link>
+      <pubDate>Tue, 14 Aug 2018 18:01:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-08-14-vklyuchaem-implicit-reshatel-v-workbench-l/</guid>
+      <description>&lt;p&gt;Если очень надо, то можно и Workbench LS-DYNA  заставить работать в Implicit режиме. При этом выводятся очень симпатичные невязки. Хотя графики на первых порах были бы приятнее.
+Далее код командного объекта, что включает хороший нелинейный расчет. Будьте очень аккуратны при копировании: даже несмотря на freeformat стиль записи, есть вероятность, что web форматирование может повредить командный блок. Лучше сначала проверьте его в LS-PrePost. Командный объект подготвлен на основе материалов ARUP, найденных в сети в 2017 году.&lt;/p&gt;
+&lt;p&gt;*CONTROL_ACCURACY
+$
+$ OSU – 2nd order objective stress update
+$ = 0 -&amp;gt; Off (default)
+$ = 1 -&amp;gt; On
+$
+$ INN – Invariant node numbering
+$ = 2 -&amp;gt; On for shell and thick shell elements (default for implicit)
+$
+$ IACC – Implicit accuracy flag, turns on some specific accuracy considerations in implicit analysis at an extra CPU cost.
+$ = 0 -&amp;gt; Off (default)
+$ = 1 -&amp;gt; On
+$
+1,2,0,1
+&lt;em&gt;CONTROL_IMPLICIT_AUTO
+$
+$ IAUTO – Automatic time step control
+$ = 0 -&amp;gt; constant time step size (default)
+$ = 1 -&amp;gt; automatically adjusted timestep size
+$
+$ DTMIN – Minimum allowable timestep size (default = DT0/1000)
+$ Simulation stops with error termination, if time step falls below DTMIN
+$
+$ DTMAX – Maximum allowable timestep (default = DT0&lt;/em&gt;10)
+$
+1,11,5,0.0002,0.02
+*CONTROL_IMPLICIT_GENERAL
+$
+$ IMFLAG – Implicit/ Explicit analysis type flag
+$ = 1 -&amp;gt; Implicit analysis
+$
+$ DT0 – Initial time step size for implicit
+$ (default – none)
+$
+$ IMFORM:= Element formulation switching flag
+$ EQ.1: switch to fully integrated formulation for implicit springback
+$ EQ.2: retain original element formulation (default).
+;
+1,0.02,1,1,2
+*CONTROL_IMPLICIT_SOLUTION
+$
+$ NSOLVR – Solution method for implicit analysis
+$ = 2 -&amp;gt; Nonlinear with BFGS updates (obsolete)
+$ = 12 -&amp;gt; (new default from 9.0.1) Nonlinear with BFGS updates
+$ + optional arc length
+$ + different line search and integration schemes compared to solver 2.
+$
+$ DCTOL – Displacement relative convergence tolerance (default = 0.001)
+$
+$ ECTOL – Energy relative convergence tolerance (default = 0.01)
+$
+$ NLPRINT – Nonlinear solver print flag
+$ = 3 -&amp;gt; print iteration, norm and line search info.
+$
+$ D3ITCTL – Controls D3ITER database (default = 0)
+$
+12,11,15,0.001,0.01,1e+010,0.9,1e-010
+2,1,1,3,2
+0,,,1,2
+4,2
+*DATABASE_EXTENT_BINARY
+$
+$ RESPLT – Output of translational and rotational residual forces to d3plot &amp;amp; d3iter.
+$ = 1 -&amp;gt; Output residual
+$
+,,,1,1,1,1,1
+,,,1,1,1,2
+,,,,2,,,
+,1&lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS #ARUP #Implicit #Longread #LSDYNA #SommandSnipet #Workbench
+&lt;a href=&#34;http://bit.ly/2OwQJgD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OwQJgD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование железобетона в оболочечной постановке</title>
+      <link>http://localhost:1313/posts/2018-07-16-modelirovanie-zhelezobetona-v-obolochechnoy/</link>
+      <pubDate>Mon, 16 Jul 2018 18:00:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-07-16-modelirovanie-zhelezobetona-v-obolochechnoy/</guid>
+      <description>&lt;p&gt;В сеть попала презентация от LSTC и ARUP по использованию такой замечательной модели железобетона, как *MAT_CONCRETE_EC2, где EC2 - это от Eurocode. Чувствуете чем пахнет?&lt;/p&gt;
+&lt;p&gt;Модель *MAT_CONCRETE_EC2 позволяет такое, что любая модель бетона для твердотельной постановки позавидует:&lt;/p&gt;
+&lt;p&gt;Работа в оболочечной и балочной (армированные колонны) постановке
+Автоматическая генерация входных параметров согласно классу прочности бетона по Eurocode2
+Учет нескольких слоев армирования
+Термическое разупрочнение для моделирования пожаров
+Поддержка циклического нагружения&lt;/p&gt;
+&lt;p&gt;А еще, поддержка данной модели реализована в Beta ражиме внутри ANSYS Workbench LS-DYNA - данная модель материала доступна в Engineering Data!&lt;/p&gt;
+&lt;p&gt;У меня даже есть примеры диссертаций, где она использовалась:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.byggmek.lth.se/fileadmin/byggnadsmekanik/publications/tvsm5000/web5193.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.byggmek.lth.se/fileadmin/byggnadsmekanik/publications/tvsm5000/web5193.pdf&lt;/a&gt;
+&lt;a href=&#34;https://paginas.fe.up.pt/~eurodyn2014/CD/papers/492_MS24_ABS_1957.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://paginas.fe.up.pt/~eurodyn2014/CD/papers/492_MS24_ABS_1957.pdf&lt;/a&gt;
+&lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-01183176/document&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://hal.archives-ouvertes.fr/hal-01183176/document&lt;/a&gt;
+&lt;a href=&#34;https://www.dynalook.com/13th-international-ls-dyna-conference/blast/response-of-a-large-span-stay-cable-bridge-to-blast-loading&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/13th-international-ls-dyna-conference/blast/response-of-a-large-span-stay-cable-bridge-to-blast-loading&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ну и собственно материал, который стал инфоповодом для данного поста:
+&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/support/FAQ_kw/concrete/MAT_172_notes_03apr2018.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/support/FAQ_kw/concrete/MAT_172_notes_03apr2018.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ARUP #Concrete #LSDYNA #LSTC #MATCONCRETEEC2
+&lt;a href=&#34;http://bit.ly/2uEXrIV&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2uEXrIV&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

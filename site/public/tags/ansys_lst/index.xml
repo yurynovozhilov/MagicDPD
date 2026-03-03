@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ansys_lst on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/ansys_lst/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Ansys_lst)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 23 Nov 2021 15:42:22 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/ansys_lst/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LS-TaSC для нелинейной топологической оптимизации в динамиче</title>
+      <link>http://localhost:1313/posts/2021-11-23-ls-tasc-dlya-nelineynoy-topologicheskoy-op/</link>
+      <pubDate>Tue, 23 Nov 2021 15:42:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-11-23-ls-tasc-dlya-nelineynoy-topologicheskoy-op/</guid>
+      <description>&lt;p&gt;Мы все привыкли, что топологическая оптимизация aka генеративный дизайн, это что-то работающее с кучей ограничений: изотропные материалы, малые перемещения, статическая постановка, отсутствие нелинейности в материалах, отсутствие контактов&amp;hellip; Короче говоря, скучная линейная теория упругости в самой базовой постановке. Конечно есть некоторые отдельные дорогие оптимизаторы, которые обещают и нелинейные расчеты, но пробовали ли вы ими пользоваться для реальных задач?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nVJ_7kpAp_A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nVJ_7kpAp_A&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;А вот у Ansys LST есть отдельный бесплатны (для обладателей лицензий на LS-DYNA) топологический оптимизатор LS-TaSC, который изначально создавался для оптимизации моделей под задачи пассивной безопасности автомобилей. А это значит, что он автоматически работает с большими перемещениями, динамическими контактными задачами и нелинейными материалами. Смотрим вебинар про него и наслаждаемся.&lt;/p&gt;
+&lt;p&gt;#ansys #ansys_lst #ls-tasc #lsdyna #lstc #optimization #topology
+&lt;a href=&#34;https://tinyurl.com/yjzdx4v5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yjzdx4v5&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

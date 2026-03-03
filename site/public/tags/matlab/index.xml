@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MATLAB on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/matlab/</link>
+    <description>MagicDPD: Magic Driven Product Development! (MATLAB)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 25 May 2018 18:00:56 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FEATool Multiphysics 1.8 теперь дружит с OpenFOAM</title>
+      <link>http://localhost:1313/posts/2018-05-25-featool-multiphysics-18-teper-druzhit-s/</link>
+      <pubDate>Fri, 25 May 2018 18:00:56 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-05-25-featool-multiphysics-18-teper-druzhit-s/</guid>
+      <description>&lt;p&gt;Пакет для КЭ нанализа на FEATool Multiphysics — это открытый и бесплатный код, работающий опверх MATLAB. Теперь он адаптировался еще и под открытый и бесплатный GNU Octave.
+Кроме того, основной фишкой нового релиза стала интеграция OpenFOAM и даже создание GUI для этого дела. Теперь прямо из интерфейса FEATool можно готовить и ставить задачи не только для их собстенного КЭ решателя, но и для OpenFOAM, и для FEniCS.&lt;/p&gt;
+&lt;p&gt;Ну и до кучи, в ПО докинули новый функционал по работе с STL геометрией, получившей всеобщую популятность на волне развития аддитивных технологий.
+&lt;a href=&#34;https://www.featool.com/news/2018/05/17/FEATool-v1p8-with-OpenFOAM-Matlab-CFD-Solver-Interface.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/news/2018/05/17/FEATool-v1p8-with-OpenFOAM-Matlab-CFD-Solver-Interface.html&lt;/a&gt;
+#FEATool #FEniCS #MATLAB #Octave #Open Source #OpenFOAM #STL&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Ry&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Ry&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EASA - это специализированная платформа для создания интерак</title>
+      <link>http://localhost:1313/posts/2017-12-12-easa-eto-spetsializirovannaya-platforma/</link>
+      <pubDate>Tue, 12 Dec 2017 17:02:43 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-12-12-easa-eto-spetsializirovannaya-platforma/</guid>
+      <description>&lt;p&gt;Так EASA может связать в единую цепочку такие системы, как #Excel, #Salesforce, Visual Basic, #MATLAB, #ANSYS, #Python и все, что имеет внятный API или CMD.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16084/Link-Almost-Any-CAE-and-Design-Software-Tool-into-an-App-With-EASA.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16084/Link-Almost-Any-CAE-and-Design-Software-Tool-into-an-App-With-EASA.aspx&lt;/a&gt; 🔗 Link Almost Any CAE and Design Software Tool into an App With EASA ? ENGINEERING.com&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python FEM и многодисциплинарные расчеты  в FEniCS и FEATool</title>
+      <link>http://localhost:1313/posts/2017-06-21-python-fem-i-mnogodistsiplinarnye-raschety/</link>
+      <pubDate>Wed, 21 Jun 2017 17:00:59 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-06-21-python-fem-i-mnogodistsiplinarnye-raschety/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#FEATool, который позволяет решать задачи методом конечных элементов (#МКЭ) на базе #Matlab, начали взаимодействовать с проектом #FEniCS, который также занимается решением задач в МКЭ припомни #Python и C++. Теперь FEniCS дочтен прямо в GUI FEATool.&lt;/p&gt;
+&lt;p&gt;Говорят, что FEniCS протестирован для работы со СЛАУ размерности 100 миллионов уравнений, а также может работать на 512 CPUs, используя как #MPI, так и #OpenMP. А это существенно больше того, что сейчас может решать FEATool.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Связка Adams-Matlab для промышленных роботов</title>
+      <link>http://localhost:1313/posts/2016-09-02-svyazka-adams-matlab-dlya-promyshlennyh-rob/</link>
+      <pubDate>Fri, 02 Sep 2016 06:30:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-09-02-svyazka-adams-matlab-dlya-promyshlennyh-rob/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ztnliqfcvgo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ztnliqfcvgo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Получасовой вебинар от #MSC, посвященный взаимодействию #Adams и #Matlab, если вам не хватает Easy5&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#ANSYS #ACP (который #Composite #PrepPost) в 17-ой версии по</title>
+      <link>http://localhost:1313/posts/2016-05-29-ansys-acp-kotoryy-composite-preppos/</link>
+      <pubDate>Sun, 29 May 2016 09:14:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-05-29-ansys-acp-kotoryy-composite-preppos/</guid>
+      <description>&lt;p&gt;Сам BECAS распространяется, в исходных кодах (для #MATLAB !!!) или в скомпилированном виде и доступен бесплатно для научно-исследовательской (не коммерческой) деятельности.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

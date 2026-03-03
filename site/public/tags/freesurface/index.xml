@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Freesurface on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/freesurface/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Freesurface)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 26 Apr 2016 08:00:41 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/freesurface/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Еще одни выходные - еще один этап самообучения по теме #CFD </title>
+      <link>http://localhost:1313/posts/2016-04-26-esche-odni-vyhodnye-esche-odin-etap-samoob/</link>
+      <pubDate>Tue, 26 Apr 2016 08:00:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-04-26-esche-odni-vyhodnye-esche-odin-etap-samoob/</guid>
+      <description>&lt;p&gt;В бассейне со свободной поверхностью задается колебательное движение одной стенки. Стенка принимается недеформируемой, а жидкость - несжимаемой. При этом, так как сетка у меня все равно очень плохая, то на всех границах домена ставлю скольжение. Колебания стенки рассчитываются неявным решателем, что бы не мельчить шаг по времени.&lt;/p&gt;
+&lt;p&gt;P.S. Такой простой настройки FSI я еще не видел 😊&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Я наконец смог посчитать #CFD задачу со свободной поверхност</title>
+      <link>http://localhost:1313/posts/2016-04-19-ya-nakonets-smog-poschitat-cfd-zadachu-so/</link>
+      <pubDate>Tue, 19 Apr 2016 07:02:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-04-19-ya-nakonets-smog-poschitat-cfd-zadachu-so/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;на задачах со свободной поверхностью пристеночные слои глючат&lt;/li&gt;
+&lt;li&gt;граничные условия прилипания в такой задаче тоже не очень адекватны для грубой сетки&lt;/li&gt;
+&lt;li&gt;расчет идет быстро и стабильно, заметно быстрее чем ALE&lt;/li&gt;
+&lt;li&gt;второй фазой может быть только вакуум - никакой поддержки полноценной многофазности пока нет&lt;/li&gt;
+&lt;li&gt;кажется, что решатель не очень любит регулярную треугольную сетку на стенках домена.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;И да, вам потребуется LS-DYNA #MPP, если хотите использовать более 1 ядра на расчет. Для этого пригодится такая командная строка (я использовал LS-DYNA R8.1:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;%AWP_ROOT170%\commonfiles\MPI\Platform\9.1.3.1\winx64\bin\mpirun.exe&amp;rdquo; -v -np 4 mppdyna.exe i=water_column_collapse_main.k&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

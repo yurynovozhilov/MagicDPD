@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MLS on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/mls/</link>
+    <description>MagicDPD: Magic Driven Product Development! (MLS)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 08 Feb 2019 06:52:01 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/mls/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Повышение устойчивости SPH при помощи Moving Last Square под</title>
+      <link>http://localhost:1313/posts/2019-02-08-povyshenie-ustoychivosti-sph-pri-pomoschi-mo/</link>
+      <pubDate>Fri, 08 Feb 2019 06:52:01 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-02-08-povyshenie-ustoychivosti-sph-pri-pomoschi-mo/</guid>
+      <description>&lt;p&gt;На своем канале #LSTC показали несколько тестовых задач, демонстрирующих работу их новой формулировки для #SPH. Напомню, что SPH обладает врожденной болезнью: нестабильностью при работе на растяжение. Материал, моделируемый в SPH постановке показывает разрушение при растяжении намного раньше, чем того требуют его механическое состояние — получается так из-за численных проблем.
+В видео от LSTC демонстрируется работа билда #LSDYNA с 12-ой формулировкой метода SPH, получившей название MLS-based. К сожалению, даже в самой свежей черновой документации от 4 октября, данная опция никак не описана. Однако удалось найти, что #MLS (moving last square) интерполяция ранее применялась в LS-DYNA для бессеточного метода Галеркина (#EFG, Element Free Galerkin), так что какое-то описание по теории работы метода все-таки можно найти.
+Важно другое: когда MLS-based SPH войдет в очередной релиз — это будет большой шаг в области применения бессрочных методов для&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>На своем канале #LSTC показали несколько тестовых задач, дем</title>
+      <link>http://localhost:1313/posts/2017-10-09-na-svoem-kanale-lstc-pokazali-neskolko/</link>
+      <pubDate>Mon, 09 Oct 2017 17:07:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-10-09-na-svoem-kanale-lstc-pokazali-neskolko/</guid>
+      <description>&lt;p&gt;В видео от LSTC демонстрируется работа билда #LSDYNA с 12-ой формулировкой метода SPH, получившей название MLS-based. К сожалению, даже в самой свежей черновой документации от 4 октября, данная опция никак не описана. Однако удалось найти, что #MLS (moving last square) интерполяция ранее применялась в LS-DYNA для бессеточного метода Галеркина (#EFG, Element Free Galerkin), так что какое-то описание по теории работы метода все-таки можно найти.&lt;/p&gt;
+&lt;p&gt;Важно другое: когда MLS-based SPH войдет в очередной релиз - это будет большой шаг в области применения бессрочных методов для решения задач механики.Media📼 LS-DYNA SPH: Performance of different SPH formulat…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2ySNCYE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ySNCYE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

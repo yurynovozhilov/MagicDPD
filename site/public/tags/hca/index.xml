@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HCA on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/hca/</link>
+    <description>MagicDPD: Magic Driven Product Development! (HCA)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 16 May 2017 17:01:47 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/hca/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Оптимизация топологии на основе моделирования краштетса</title>
+      <link>http://localhost:1313/posts/2017-05-16-optimizatsiya-topologii-na-osnove-modeliro/</link>
+      <pubDate>Tue, 16 May 2017 17:01:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-05-16-optimizatsiya-topologii-na-osnove-modeliro/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.dynamore.de/de/download/papers/ls-dyna-forum-2012/documents/optimization-3-2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.de/de/download/papers/ls-dyna-forum-2012/documents/optimization-3-2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Знаете ли вы, что кроме стандартных алгоритмов метода подвижных асимптот или критерия оптимальности, заложенных в большинство оптимизаторов топологии (например #ANSYS), существуют гораздо более сложные и продвинутые алгоритмы?&lt;/p&gt;
+&lt;p&gt;Вот, например, #DYNAmore провели обзор и сравнения алгоритма #ESL (Equivalent Static Loads) заложенного внутрь #Genesis и #HCA (Hybrid Cellular Automata)  из состава #LSTC LS-TaSC (#LSTASC).&lt;/p&gt;
+&lt;p&gt;Среди фишек данных методов - возможность работы с динамическими нагрузками, нелинейными материалами и учетом больших перемещений.&lt;/p&gt;
+&lt;p&gt;#topology #optimization&lt;/p&gt;
+&lt;p&gt;P.S. LS-TaSC бесплатный софт для тех, у кого есть #LSDYNA :-)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

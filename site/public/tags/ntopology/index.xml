@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NTopology on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/ntopology/</link>
+    <description>MagicDPD: Magic Driven Product Development! (NTopology)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 21 Oct 2020 13:07:02 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/ntopology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Проектирование нестандартных теплообменников с nTopology</title>
+      <link>http://localhost:1313/posts/2020-10-21-proektirovanie-nestandartnyh-teploobmenn/</link>
+      <pubDate>Wed, 21 Oct 2020 13:07:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-10-21-proektirovanie-nestandartnyh-teploobmenn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Первое GPU-ускоренное геометрическое ядро</title>
+      <link>http://localhost:1313/posts/2019-12-03-pervoe-gpu-uskorennoe-geometricheskoe-yadr/</link>
+      <pubDate>Tue, 03 Dec 2019 15:00:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-12-03-pervoe-gpu-uskorennoe-geometricheskoe-yadr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Выступление nTopology на DEVELOP3D LIVE 2019</title>
+      <link>http://localhost:1313/posts/2019-06-03-vystuplenie-ntopology-na-develop3d-live/</link>
+      <pubDate>Mon, 03 Jun 2019 17:00:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-06-03-vystuplenie-ntopology-na-develop3d-live/</guid>
+      <description>&lt;p&gt;nTopology рассказали, в чем основная фишка их системы проектирования. В отличие от традиционного для CAD представления через границы геометрии (B-rep), коллеги используют неявное представление объема через уравнения его формы.&lt;/p&gt;
+&lt;p&gt;Даже не верится, что такую сложную геометрию можно представить в виде одного уравнения, описывающего его объем. В качестве бонуса коллеги получают модель, которая не может сломаться из-за одного неправильно заданного скругления.&lt;/p&gt;
+&lt;p&gt;А еще «толщина» и количество материала может быть задано через описание некого потенциала влияния. Этот подход может, например, автоматически извлекать гладкую геометрию из результатов топологической оптимизации.&lt;/p&gt;
+&lt;p&gt;На мой взгляд, эта система дает такой же прорыв для инженеров, как  переход от традиционного CAD к прямым системам моделирования, как  SpaceClaim. А ведь поверх этого коллеги еще собираются натянуть расчет прочности!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Доклад nTopology на DEVELOP3D LIVE USA 2018</title>
+      <link>http://localhost:1313/posts/2019-01-13-doklad-ntopology-na-develop3d-live-usa-2/</link>
+      <pubDate>Sun, 13 Jan 2019 17:01:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-01-13-doklad-ntopology-na-develop3d-live-usa-2/</guid>
+      <description>&lt;p&gt;На прошедшей конференции было много интересных докладов от передовых CAD/CAE компаний. Но начать я хотел бы с доклада компании nTopology, которая занимается созданием CAD системы нового поколения, разрабатываемой специально для проектирования необыкновенных форм, изготовляемых методами аддитивного производства.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=lKP3Nv1FEsI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=lKP3Nv1FEsI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Действительно, глядя на геометрические модели, которые создаются при помощи nTopology, становится понятно, что традиционные CAD системы тут мало что могут дать.&lt;/p&gt;
+&lt;p&gt;Это даже не ставшие уже привычными lattice structures — это что-то совсем новое. А к уже имеющимся возможностям коллеги обещают дописать и полноценное вычислительное ядро, и кучу всяких систем, которые помогут выбрать оптимальную структуру материала.&lt;/p&gt;
+&lt;p&gt;#AdditiveManufacturing #CAD #NTopology
+&lt;a href=&#34;http://bit.ly/2VOthjc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2VOthjc&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вероятностный подходи к топологической оптимизации</title>
+      <link>http://localhost:1313/posts/2016-08-23-veroyatnostnyy-podhodi-k-topologicheskoy-o/</link>
+      <pubDate>Tue, 23 Aug 2016 06:30:25 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-08-23-veroyatnostnyy-podhodi-k-topologicheskoy-o/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.ntopology.com/element-pro&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ntopology.com/element-pro&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В новой версии Element Pro (специализированного средства топологической оптимизации и генерации ферменных структур) от компании #nTopology появилась возможность создания Стохастических структур. За подробностями проследуйте по ссылке:https://www.linkedin.com/pulse/stochastic-structures-ntopology-element-spencer-wright&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вы наверняка слышали про электрический мотоцикл Lingt Rider </title>
+      <link>http://localhost:1313/posts/2016-05-30-vy-navernyaka-slyshali-pro-elektricheskiy-m/</link>
+      <pubDate>Mon, 30 May 2016 08:02:48 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-05-30-vy-navernyaka-slyshali-pro-elektricheskiy-m/</guid>
+      <description>&lt;p&gt;Но мне намного больше интересно программное обеспечение, применяемое при проектировании подобных конструкций. В случае Lignt Rider это не топологическая оптимизация. Это подход, названный в #Autodesk &amp;ldquo;Generative design&amp;rdquo;. Такой подход к моделированию легковесных конструкций реализован в ПО Autodesk #Within и очень напоминает по духу разработки компании #nTopology.&lt;/p&gt;
+&lt;p&gt;Чувствую, что грядет новый виток в развитии средств создания конструкций оптимальной топологии.&lt;/p&gt;
+&lt;p&gt;#optimization #topology
+Мартиалы по теме &lt;a href=&#34;https://geektimes.ru/post/276160/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://geektimes.ru/post/276160/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

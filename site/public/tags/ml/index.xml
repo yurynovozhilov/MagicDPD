@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ml on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/ml/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Ml)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 11 Feb 2026 09:54:10 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>🌟 HY3D-Bench: 22 терабайта отборной 3D-геометрии.</title>
+      <link>http://localhost:1313/posts/2026-02-11-hy3d-bench-22-terabayta-otbornoy-3d-g/</link>
+      <pubDate>Wed, 11 Feb 2026 09:54:10 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2026-02-11-hy3d-bench-22-terabayta-otbornoy-3d-g/</guid>
+      <description>&lt;p&gt;Tencent Hunyuan вывалили в опенсорс монструозный пак HY3D-Bench на 22.5 ТБ и это подарок для всех, кто занимается 3D Gen и робототехникой.&lt;/p&gt;
+&lt;p&gt;Датасет разбит на 3 логических куска, каждый под свои задачи:&lt;/p&gt;
+&lt;p&gt;🟡Full-level Dataset (252K+ мешей, ~11 ТБ)
+База с полностью замкнутой геометрией, без дырок и non-manifold артефактов, которыми обычно кишат сканы. Все нормализовано и готово к скармливанию в DiT или GAN. В комплекте идут сэмплы точек и мульти-вью рендеры.&lt;/p&gt;
+&lt;p&gt;🟡Part-level Dataset (240K+ объектов, ~5 ТБ)
+Мёд для робототехников и тех, кто занимается geometric perception. Тут объекты с семантической сегментацией на части. Если учите сервоприводного друга манипуляциям или хотите генерить объекты кусками - вам сюда.&lt;/p&gt;
+&lt;p&gt;🟡Synthetic Dataset (125K+ объектов, ~6.5 ТБ)
+Очевидная синтетика, чтобы закрыть редкие категории, которых нет в обычных датасетах. Охват - 1252 категории.&lt;/p&gt;
+&lt;p&gt;Ждем волну SOAT-level 3D-генераторов, дотюненных на этом наборе.&lt;/p&gt;
+&lt;p&gt;🟡Arxiv
+🟡Датасет
+🖥GitHub&lt;/p&gt;
+&lt;p&gt;@ai_machinelearning_big_data&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>⚡️ OpenAI Prism: научный редактор на базе GPT-5.2 с поддержк</title>
+      <link>http://localhost:1313/posts/2026-01-28-openai-prism-nauchnyy-redaktor-na-baz/</link>
+      <pubDate>Wed, 28 Jan 2026 13:51:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2026-01-28-openai-prism-nauchnyy-redaktor-na-baz/</guid>
+      <description>&lt;p&gt;OpenAI наконец-то пустила в дело наработки купленного стартапа Crixet и это очень хорошая попытка создать идеальное рабочее место для ученых, где не нужно прыгать между десятью вкладками.&lt;/p&gt;
+&lt;p&gt;Если вы когда-нибудь писали статью, то вам знакомо, когда в одном окне Overleaf, в другом - ChatGPT, в третьем - arXiv, а где-то сбоку еще болтается менеджер ссылок. Контекст постоянно теряется, а копипаст формул туда-сюда рано или поздно приводит к ошибкам.&lt;/p&gt;
+&lt;p&gt;Так вот,  Prism соберет все это в одну кучу и это не просто чат в боковой панели. Он видит всю структуру вашей статьи: уравнения, библиографию и графики.&lt;/p&gt;
+&lt;p&gt;Можно запустить режим Тhinking и попросить модель, например, переписать сложную формулу или поправить логику в конкретном абзаце.  При этом правки вносятся прямо в текст, так что копировать куски кода из чата больше не придется.&lt;/p&gt;
+&lt;p&gt;🟡Еще из полезного&lt;/p&gt;
+&lt;p&gt;🟢Можно сфотографировать наброски формул или диаграмм с маркерной доски, и Prism сама перегонит их в LaTeX.&lt;/p&gt;
+&lt;p&gt;🟢Связь с arXiv: искать литературу и вставлять цитаты можно прямо во время написания черновика.&lt;/p&gt;
+&lt;p&gt;🟢Голосовые правки - если лень тянуться к клавиатуре, простые изменения можно надиктовать.&lt;/p&gt;
+&lt;p&gt;🟢Совместная работа: можно добавить сколько угодно соавторов, и никто не будет бомбить от конфликта версий.&lt;/p&gt;
+&lt;p&gt;Самое приятное - базовую версию Prism сделали бесплатной для всех.&lt;/p&gt;
+&lt;p&gt;@ai_machinelearning_big_data&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#Ansys опубликовал обзор новых фишек следующей своей версии </title>
+      <link>http://localhost:1313/posts/2022-07-13-ansys-opublikoval-obzor-novyh-fishek-sle/</link>
+      <pubDate>Wed, 13 Jul 2022 19:53:40 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-07-13-ansys-opublikoval-obzor-novyh-fishek-sle/</guid>
+      <description>&lt;p&gt;Моделирование аддитивного производства стало выглядеть как действительно важная часть кода, а не как непонятный набор кода. Появилась поддержка #DED (на основе #gcode!!!), предсказание коробления на основе машинного обучения (!!!) и куча новых целей и критериев топологической оптимизации.
+#additivemanufacturing #ML &lt;a href=&#34;https://www.youtube.com/watch?v=AxiB_1A67AI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=AxiB_1A67AI&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Модели турбулентности на основе машинного обучения</title>
+      <link>http://localhost:1313/posts/2021-05-20-modeli-turbulentnosti-na-osnove-mashinnog/</link>
+      <pubDate>Thu, 20 May 2021 13:01:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-05-20-modeli-turbulentnosti-na-osnove-mashinnog/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/AgvjPPzy64I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/AgvjPPzy64I&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Машинное обучение, и в частности глубокие нейронные сети, в настоящее время революционизируют методы моделирования турбулентной гидродинамики. В этом видео рассказывается о том, как глубокое обучение используется для моделирования турбулентности.&lt;/p&gt;
+&lt;p&gt;#ai #ml #turbulence
+&lt;a href=&#34;https://tinyurl.com/ygdrop9q&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ygdrop9q&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

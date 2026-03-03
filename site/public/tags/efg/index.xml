@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EFG on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/efg/</link>
+    <description>MagicDPD: Magic Driven Product Development! (EFG)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 01 Sep 2020 13:00:45 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/efg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Вебинар «LS-DYNA EFG – подробный разбор с учётом возможносте</title>
+      <link>http://localhost:1313/posts/2020-09-01-vebinar-ls-dyna-efg-podrobnyy-razbor/</link>
+      <pubDate>Tue, 01 Sep 2020 13:00:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-09-01-vebinar-ls-dyna-efg-podrobnyy-razbor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Лекция по бессеточному методу Галеркина для сверхбольших деф</title>
+      <link>http://localhost:1313/posts/2019-07-10-lektsiya-po-bessetochnomu-metodu-galerkina/</link>
+      <pubDate>Wed, 10 Jul 2019 17:00:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-07-10-lektsiya-po-bessetochnomu-metodu-galerkina/</guid>
+      <description>&lt;p&gt;Один из самых перспективных методов моделирования задач изменения формы — бессеточный метод Галеркина (Element Free Galerkin, EFG). Он реализован в моей любимой LS-DYNA для SHELL и SOLID постановок в Explicit и Implicit расчетных схемах. Поддерживает связанный термопрочностной расчет, не обладает эффектом песочных часов, инициализируется на основе обычной hex или tet сетки. В общем пока сплошные плюсы. Однако, пока он выглядит «магическим», так как трудно понять, как именно он работает.&lt;/p&gt;
+&lt;p&gt;Посему я предлагаю вам очень интересную лекцию профессора университета Калифорнии (Сан Диего) Дж. С. Чена (J.S. Chen), которую он прочел в Стэнфорде в 2017 году (&lt;a href=&#34;https://blume.stanford.edu/event/seminar/recent-advances-accelerated-and-stabilized-meshfree-method-modeling-manmade-and%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blume.stanford.edu/event/seminar/recent-advances-accelerated-and-stabilized-meshfree-method-modeling-manmade-and)&lt;/a&gt;. Поразительно простой и наглядный рассказ такой сложной темы.&lt;/p&gt;
+&lt;p&gt;#EFG #LS_DYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2B7&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2B7&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>r-adaptive Element-Free Galerkin</title>
+      <link>http://localhost:1313/posts/2019-02-08-r-adaptive-element-free-galerkin/</link>
+      <pubDate>Fri, 08 Feb 2019 06:56:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-02-08-r-adaptive-element-free-galerkin/</guid>
+      <description>&lt;p&gt;Резка металла может быть промоделирована неявным решателем LS-DYNA для адаптивной постановки бессеточного метода Галеркина (r-adaptive Element-Free Galerkin, EFG).
+Сетка, которую вы видите — это не совсем сетка. Подробнее в прилагаемой презентации по данному бессеточному методу.
+#EFG #implicit #lsdyna
+LS-DYNA: Implicit element-Free Galerkin (EFG) — Cutting Simulation&lt;/p&gt;
+&lt;p&gt;Файл Element-Free Galerkin Method.pdf&lt;/p&gt;
+&lt;p&gt;#EFG #implicit #LS_DYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-5426&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-5426&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование ковки</title>
+      <link>http://localhost:1313/posts/2019-02-08-modelirovanie-kovki/</link>
+      <pubDate>Fri, 08 Feb 2019 06:54:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-02-08-modelirovanie-kovki/</guid>
+      <description>&lt;p&gt;Cравнение различных подходов моделирования задачи ковки. Задача сопряжена с большими пластическими деформациями, которые неминуемо приводят к сеточным проблемам. Как раз для таких случаев есть #EFG метод, да еще и с несколькими стратегиями сгущения сетки.
+#LSDYNA&lt;/p&gt;
+&lt;p&gt;Cylinder forging with LS-DYNA&lt;/p&gt;
+&lt;p&gt;#EFG #forming #LS_DYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-4616&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-4616&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование процессов ОМД на АО Ульяновский НИАТ</title>
+      <link>http://localhost:1313/posts/2019-02-08-modelirovanie-protsessov-omd-na-ao-ulyano/</link>
+      <pubDate>Fri, 08 Feb 2019 06:52:52 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-02-08-modelirovanie-protsessov-omd-na-ao-ulyano/</guid>
+      <description>&lt;p&gt;Приятно видеть, когда люди работают, и работают хорошо!
+#LSDYNA #EFG #forming
+Краткая статья про применение моделирования процессов на АО «Ульяновский НИАТ»
+&lt;a href=&#34;http://tzshp.ru/o-nas/stati/59-modelirovanie-protsessov-omd-na-ao-ulyanovskij-niat&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://tzshp.ru/o-nas/stati/59-modelirovanie-protsessov-omd-na-ao-ulyanovskij-niat&lt;/a&gt;
+Моделирование процессов ОМД на АО Ульяновский НИАТ
+&lt;a href=&#34;http://tzshp.ru/o-nas/stati/59-modelirovanie-protsessov-omd-na-ao-ulyanovskij-niat&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://tzshp.ru/o-nas/stati/59-modelirovanie-protsessov-omd-na-ao-ulyanovskij-niat&lt;/a&gt;
+Моделирование процессов ОМД на АО Ульяновский НИАТ&lt;/p&gt;
+&lt;p&gt;#EFG #forming #LS_DYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-4396&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-4396&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Повышение устойчивости SPH при помощи Moving Last Square под</title>
+      <link>http://localhost:1313/posts/2019-02-08-povyshenie-ustoychivosti-sph-pri-pomoschi-mo/</link>
+      <pubDate>Fri, 08 Feb 2019 06:52:01 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-02-08-povyshenie-ustoychivosti-sph-pri-pomoschi-mo/</guid>
+      <description>&lt;p&gt;На своем канале #LSTC показали несколько тестовых задач, демонстрирующих работу их новой формулировки для #SPH. Напомню, что SPH обладает врожденной болезнью: нестабильностью при работе на растяжение. Материал, моделируемый в SPH постановке показывает разрушение при растяжении намного раньше, чем того требуют его механическое состояние — получается так из-за численных проблем.
+В видео от LSTC демонстрируется работа билда #LSDYNA с 12-ой формулировкой метода SPH, получившей название MLS-based. К сожалению, даже в самой свежей черновой документации от 4 октября, данная опция никак не описана. Однако удалось найти, что #MLS (moving last square) интерполяция ранее применялась в LS-DYNA для бессеточного метода Галеркина (#EFG, Element Free Galerkin), так что какое-то описание по теории работы метода все-таки можно найти.
+Важно другое: когда MLS-based SPH войдет в очередной релиз — это будет большой шаг в области применения бессрочных методов для&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Литеература по резанию металла на русском</title>
+      <link>http://localhost:1313/posts/2019-02-08-liteeratura-po-rezaniyu-metalla-na-russko/</link>
+      <pubDate>Fri, 08 Feb 2019 06:49:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-02-08-liteeratura-po-rezaniyu-metalla-na-russko/</guid>
+      <description>&lt;p&gt;Тот самый случай, когда лучший подарок — это книга!
+Поздравляем наших коллег из Арзамасского политехнического института с выпуском отличного учебного пособия «Численное моделирование процессов резания».
+В книге рассмотрены 3 метода моделирования процесса резания в программе LS-DYNA: Лагранжевый, SPH и EFG.
+Приведена подробная последовательность действий для создания данных моделей в препроцессоре ls-prepost.
+В конце книги представлены параметры уравнений и разрушений модели материала Джонсона-Кука для большого количества различных материалов.&lt;/p&gt;
+&lt;p&gt;#cut #EFG #LS_DYNA #SPH&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-4381&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-4381&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Хрупкое разрушение</title>
+      <link>http://localhost:1313/posts/2019-02-08-hrupkoe-razrushenie/</link>
+      <pubDate>Fri, 08 Feb 2019 04:38:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-02-08-hrupkoe-razrushenie/</guid>
+      <description>&lt;p&gt;Тут у меня коллеги интересовались моделированием хрупкого разрушения материалов в #LSDYNA. Самым передовым и многообещающим методом расчета такого разрушения и трещенообразования является перидинамика (&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Перидинамика)
+Так вот, я поскреб по сусекам, посмотрел, что у меня есть в волшебном хранилище знаний, и нашел отличную ссылку на репозиторий господина Cheng-Tang Wu (одного из главных разработчиков #LSTC в этом направлении), где он выкладываем свой учебный курс по бессрочным методам (корме перидинамики есть еще #EFG и #SPG).
+Внимание, в составе данного учебного курса есть работающие примеры со всем перечисленными бессрочными методами расчета разрушения!
+#meshless #peridynamics #AdaptiveEFG
+P.S. Насколько я понял, ключевые карты SECTION_SOLID_PERI и MAT_ELASTIC_PERI пока реализованы только в beta версиях решателя поколения R10.
+&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Index of /anonymous/outgoing/whu/Class&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Работают ли бессрочные методы?</title>
+      <link>http://localhost:1313/posts/2019-02-08-rabotayut-li-bessrochnye-metody/</link>
+      <pubDate>Fri, 08 Feb 2019 04:36:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-02-08-rabotayut-li-bessrochnye-metody/</guid>
+      <description>&lt;p&gt;Работают ли бессрочные методы?
+Небольшая статья с очередной конференции по #LSDYNA. В статье рассказывается о сравнении расчета с применением сеточных и бессрочных методов с экспериментом — разрывом металлического образца.
+Постановки:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#FEM #Lagrangian&lt;/li&gt;
+&lt;li&gt;#FEM #ALE&lt;/li&gt;
+&lt;li&gt;#SPH&lt;/li&gt;
+&lt;li&gt;#EFG&lt;/li&gt;
+&lt;li&gt;#SPG
+Точную кривую не описал не один из методов. Точная форма получилась только у ALE. Хуже всех, естественно выступил SPH, с его численной нестабильностью при работе на растяжение. На мой вкус EFG дал самую хорошую кривую, но с формой беда.
+Прям захотелось повторить численный эксперимент.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ALE #EFG #FEM #Lagrangian #LS_DYNA #SPG #SPH&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-4867&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-4867&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование резки металла бессеточным методом Галеркина</title>
+      <link>http://localhost:1313/posts/2018-02-06-modelirovanie-rezki-metalla-bessetochnym/</link>
+      <pubDate>Tue, 06 Feb 2018 18:01:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-02-06-modelirovanie-rezki-metalla-bessetochnym/</guid>
+      <description>&lt;p&gt;EFG - ElementFree Galerkin Method, он же бессеточный метод Галеркина, применяется при решении задач механики, связанных с большими деформациями как, например, резка металла, экструзия, ковка и прочие подобные процессы обработки материалов.&lt;/p&gt;
+&lt;p&gt;Метод позволяет аккуратно описать процессы изменения формы конструкции, учесть как трение, так и и выделение тепла. При этом метод работает как с явной, так и с неявной схемой интегрирования по времени. Подробнее о реализации данного метода в LS-DYNA можно почитать в этой презентации: http://www.dynalook.com/european-conf-2009/I-I-01.pdf&lt;/p&gt;
+&lt;p&gt;Мы же рассмотрим видеопример, где показаны основные моменты настройки именно EFG части расчета.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=BREDG6QHUKA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=BREDG6QHUKA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;А еще по этой теме есть готовый пример от LSTC: http://www.dynaexamples.com/efg/metal-cutting
+#cutting #EFG #LS-DYNA #LSTC
+&lt;a href=&#34;https://wp.me/p9vWYY-1C4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1C4&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Тут у меня коллеги интересовались моделированием хрупкого ра</title>
+      <link>http://localhost:1313/posts/2017-11-09-tut-u-menya-kollegi-interesovalis-modeli/</link>
+      <pubDate>Thu, 09 Nov 2017 17:09:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-11-09-tut-u-menya-kollegi-interesovalis-modeli/</guid>
+      <description>&lt;p&gt;Так вот, я поскреб по сусекам, посмотрел, что у меня есть в волшебном хранилище знаний, и нашел отличную ссылку на репозиторий господина Cheng-Tang Wu (одного из главных разработчиков #LSTC в этом направлении), где он выкладываем свой учебный курс по бессрочным методам (корме перидинамики есть еще #EFG и #SPG).&lt;/p&gt;
+&lt;p&gt;Внимание, в составе данного учебного курса есть работающие примеры со всем перечисленными бессрочными методами расчета разрушения!&lt;/p&gt;
+&lt;p&gt;#meshless #peridynamics #AdaptiveEFG&lt;/p&gt;
+&lt;p&gt;P.S. Насколько я понял, ключевые карты SECTION_SOLID_PERI и MAT_ELASTIC_PERI пока реализованы только в beta версиях решателя поколения R10.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&lt;/a&gt; 🔗 Index of /anonymous/outgoing/whu/Class&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>На своем канале #LSTC показали несколько тестовых задач, дем</title>
+      <link>http://localhost:1313/posts/2017-10-09-na-svoem-kanale-lstc-pokazali-neskolko/</link>
+      <pubDate>Mon, 09 Oct 2017 17:07:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-10-09-na-svoem-kanale-lstc-pokazali-neskolko/</guid>
+      <description>&lt;p&gt;В видео от LSTC демонстрируется работа билда #LSDYNA с 12-ой формулировкой метода SPH, получившей название MLS-based. К сожалению, даже в самой свежей черновой документации от 4 октября, данная опция никак не описана. Однако удалось найти, что #MLS (moving last square) интерполяция ранее применялась в LS-DYNA для бессеточного метода Галеркина (#EFG, Element Free Galerkin), так что какое-то описание по теории работы метода все-таки можно найти.&lt;/p&gt;
+&lt;p&gt;Важно другое: когда MLS-based SPH войдет в очередной релиз - это будет большой шаг в области применения бессрочных методов для решения задач механики.Media📼 LS-DYNA SPH: Performance of different SPH formulat…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2ySNCYE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ySNCYE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Резка металла может быть промоделирована неявным решателем L</title>
+      <link>http://localhost:1313/posts/2015-11-16-rezka-metalla-mozhet-byt-promodelirovana/</link>
+      <pubDate>Mon, 16 Nov 2015 06:30:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-16-rezka-metalla-mozhet-byt-promodelirovana/</guid>
+      <description>&lt;p&gt;Сетка, которую вы видите - это не совсем сетка. Подробнее в прилагаемой презентации по данному бессеточному методу.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>А как насчет бессеточных методов? Вот например бессеточный м</title>
+      <link>http://localhost:1313/posts/2015-10-10-a-kak-naschet-bessetochnyh-metodov-vot-na/</link>
+      <pubDate>Sat, 10 Oct 2015 06:30:09 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-10-a-kak-naschet-bessetochnyh-metodov-vot-na/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

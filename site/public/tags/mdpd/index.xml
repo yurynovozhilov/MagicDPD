@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mdpd on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/mdpd/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Mdpd)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 26 Apr 2016 08:00:41 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/mdpd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Еще одни выходные - еще один этап самообучения по теме #CFD </title>
+      <link>http://localhost:1313/posts/2016-04-26-esche-odni-vyhodnye-esche-odin-etap-samoob/</link>
+      <pubDate>Tue, 26 Apr 2016 08:00:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-04-26-esche-odni-vyhodnye-esche-odin-etap-samoob/</guid>
+      <description>&lt;p&gt;В бассейне со свободной поверхностью задается колебательное движение одной стенки. Стенка принимается недеформируемой, а жидкость - несжимаемой. При этом, так как сетка у меня все равно очень плохая, то на всех границах домена ставлю скольжение. Колебания стенки рассчитываются неявным решателем, что бы не мельчить шаг по времени.&lt;/p&gt;
+&lt;p&gt;P.S. Такой простой настройки FSI я еще не видел 😊&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

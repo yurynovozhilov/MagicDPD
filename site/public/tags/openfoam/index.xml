@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenFOAM on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/openfoam/</link>
+    <description>MagicDPD: Magic Driven Product Development! (OpenFOAM)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Thu, 07 Apr 2022 17:00:14 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/openfoam/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#МАГАТЭ расскажет, как использовать #CFD коды для расчетов #</title>
+      <link>http://localhost:1313/posts/2022-04-07-magate-rasskazhet-kak-ispolzovat-cfd/</link>
+      <pubDate>Thu, 07 Apr 2022 17:00:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-04-07-magate-rasskazhet-kak-ispolzovat-cfd/</guid>
+      <description>&lt;p&gt;В данной публикации представлены результаты координируемого МАГАТЭ исследовательского проекта (CRP) по применению кодов вычислительной гидродинамики (CFD) для проектирования атомных электростанций. Основная цель заключалась в сравнении CFD-кодов, вариантов моделей и методов с экспериментальными данными CFD в условиях однофазного потока. В данной публикации обобщены текущие возможности и способы применения CFD-кодов, а также их текущий уровень квалификации в отношении требований к проектированию атомных электростанций. Она не претендует на всеобъемлющий характер, а сосредоточена на международном опыте практического применения этих инструментов при проектировании компонентов и систем атомных электростанций. Руководство в данной публикации основано на материалах, предоставленных международными экспертами атомной промышленности, непосредственно участвующими в вопросах проектирования атомных электростанций, применения CFD, а также в соответствующих экспериментах и валидации, выделенных в ходе CRP.&lt;/p&gt;
+&lt;p&gt;Чаще всего упоминаются наши любимые коды: #Ansys #Fluent и #CFX, #Siemens #StarCCM+, #OpenFOAM &lt;a href=&#34;https://www.iaea.org/publications/14718/summary-review-on-the-application-of-computational-fluid-dynamics-in-nuclear-power-plant-design&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.iaea.org/publications/14718/summary-review-on-the-application-of-computational-fluid-dynamics-in-nuclear-power-plant-design&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EOF-Library - это библиотека с открытым исходным кодом для с</title>
+      <link>http://localhost:1313/posts/2022-02-10-eof-library-eto-biblioteka-s-otkrytym/</link>
+      <pubDate>Thu, 10 Feb 2022 17:00:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-02-10-eof-library-eto-biblioteka-s-otkrytym/</guid>
+      <description>&lt;p&gt;Сайт проекта: https://eof-library.org/
+Репозиторий проекта: https://github.com/jvencels/EOF-Library&lt;/p&gt;
+&lt;p&gt;#CFD #opensource #EOFLibrary #Elmet #OpenFOAM #CFD #FEM &lt;a href=&#34;https://youtu.be/Z3gD4BRl7sY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Z3gD4BRl7sY&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сравнение работы кодов моделирования детонации ВВ</title>
+      <link>http://localhost:1313/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</link>
+      <pubDate>Thu, 23 Sep 2021 15:01:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</guid>
+      <description>&lt;p&gt;Разработчики blastFoam, открытого CFD кода на базе openFoam, специализирующегося на задачах детонации ВВ и распространении ударных волны в воздухе, опубликовали любопытное сравнение. Они смоделировали детонацию сферического заряда тротила в воздухе в бесконечном домене - довольно простая постановка с хорошо известными аналитическими решениями.&lt;/p&gt;
+&lt;p&gt;Моделирование они выполнили в:&lt;/p&gt;
+&lt;p&gt;Ansys Autodyn - код, разработанный когда-то, поглощённой компанией Century Dynamics - заточен под решение задач ОПКAnsys LS-DYNA - код, разработанный, поглощённой компанией LSTC - заточен под решение сильно связанных высоконелинейных задачEUROPLEXUS - или EpX, полуоткрытьй код для моделирования быстропротекающих процессов от французской промышленности, работает на основе моделей, подготовленных для Code_Aster.  CHT - код для моделирования быстропротекающих процессов от Сандийских национальных лабораторийblastFoam, который я уже представил&lt;/p&gt;
+&lt;p&gt;Во всех кодах использовалось уравнение состояния JWL. На мой взгляд, справились все коды примерно одинаково, и, не зная особенностей постановки задачи, времени, затраченного на решение, трудно выбрать лидера.&lt;/p&gt;
+&lt;p&gt;Надо просто иметь в виду, что какие-то из этих кодов могут решать только задачи детонации ВВ с различными уравнениями состояния, некоторые могут применяться для моделирования широкого круга динамических задач, а кто-то может замахнуться и на междисциплинарные расчеты. Так что выбирайте подходящие вам инструменты которым вас могут научить на понятном вам языке.&lt;/p&gt;
+&lt;p&gt;Ссылка на оригинальный пост: &lt;a href=&#34;https://www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #autodyn #blast #blastfoam #cht #europlexus #ls-dyna #open_source #openfoam #sandia
+&lt;a href=&#34;https://tinyurl.com/yzxkzr4r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzxkzr4r&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как заставить OpenFOAM считать механику в явной постановке</title>
+      <link>http://localhost:1313/posts/2018-10-20-kak-zastavit-openfoam-schitat-mehaniku/</link>
+      <pubDate>Sat, 20 Oct 2018 17:00:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-10-20-kak-zastavit-openfoam-schitat-mehaniku/</guid>
+      <description>&lt;p&gt;Джибран Хайдер (Jibran Haider) опубликовал на GitHub результаты своей работы - проект по созданию explicit решателя механики на базе математики OpenFOAM.&lt;/p&gt;
+&lt;p&gt;Прикольное и необычное использование этого знаменитого открытого кода, который ранее в основном использовался для задач CFD.&lt;/p&gt;
+&lt;p&gt;Естественно, все с окрытым кодом и бесплатно.&lt;/p&gt;
+&lt;p&gt;#Explicit #GitHub #OpenCour #OpenFOAM
+&lt;a href=&#34;http://bit.ly/2CWHxQP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2CWHxQP&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FEATool Multiphysics 1.8 теперь дружит с OpenFOAM</title>
+      <link>http://localhost:1313/posts/2018-05-25-featool-multiphysics-18-teper-druzhit-s/</link>
+      <pubDate>Fri, 25 May 2018 18:00:56 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-05-25-featool-multiphysics-18-teper-druzhit-s/</guid>
+      <description>&lt;p&gt;Пакет для КЭ нанализа на FEATool Multiphysics — это открытый и бесплатный код, работающий опверх MATLAB. Теперь он адаптировался еще и под открытый и бесплатный GNU Octave.
+Кроме того, основной фишкой нового релиза стала интеграция OpenFOAM и даже создание GUI для этого дела. Теперь прямо из интерфейса FEATool можно готовить и ставить задачи не только для их собстенного КЭ решателя, но и для OpenFOAM, и для FEniCS.&lt;/p&gt;
+&lt;p&gt;Ну и до кучи, в ПО докинули новый функционал по работе с STL геометрией, получившей всеобщую популятность на волне развития аддитивных технологий.
+&lt;a href=&#34;https://www.featool.com/news/2018/05/17/FEATool-v1p8-with-OpenFOAM-Matlab-CFD-Solver-Interface.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/news/2018/05/17/FEATool-v1p8-with-OpenFOAM-Matlab-CFD-Solver-Interface.html&lt;/a&gt;
+#FEATool #FEniCS #MATLAB #Octave #Open Source #OpenFOAM #STL&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Ry&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Ry&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Расчет каталитического конвертор в simFlow</title>
+      <link>http://localhost:1313/posts/2017-05-02-raschet-kataliticheskogo-konvertor-v-simfl/</link>
+      <pubDate>Tue, 02 May 2017 17:00:54 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-05-02-raschet-kataliticheskogo-konvertor-v-simfl/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=LYyJUYqfe5Y&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=LYyJUYqfe5Y&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#simFlow является одним из самых популярных и удобных GUI для #OpenFOAM. Коллеги подготовили пример #CFD расчета каталитического конвертора при помощи данного софта. Внимание, у софта есть как коммерческая, так и бесплатная версия :-)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=LYyJUYqfe5Y&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=LYyJUYqfe5Y&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Скачать бесплатно, без sms!</title>
+      <link>http://localhost:1313/posts/2016-05-27-skachat-besplatno-bez-sms/</link>
+      <pubDate>Fri, 27 May 2016 07:00:55 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-05-27-skachat-besplatno-bez-sms/</guid>
+      <description>&lt;p&gt;Компания #CFD support, Ltd представила готовую сборку #OpenFOAM  3.0 для Windows. Странно, что продукт имеет версию 16.06 - можно немного запутаться.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>На старт, внимание, марш!</title>
+      <link>http://localhost:1313/posts/2016-02-09-na-start-vnimanie-marsh/</link>
+      <pubDate>Tue, 09 Feb 2016 13:02:54 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-02-09-na-start-vnimanie-marsh/</guid>
+      <description>&lt;p&gt;Пример расчета давления, теплового потока и поверхностного трения вызываемого стартом ракеты. Расчет выполняется в #OpenFOAM и самописном коде MISTRAL. Блочная структурированная сетка готовится с помощью #GridPro.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/unsteady-cfd-future-rocket-flame-trench-vincent-rivola?trk=hp-feed-article-title-like&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.linkedin.com/pulse/unsteady-cfd-future-rocket-flame-trench-vincent-rivola?trk=hp-feed-article-title-like&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Отличный пример вертикального приложения для расчета аэродин</title>
+      <link>http://localhost:1313/posts/2015-10-10-otlichnyy-primer-vertikalnogo-prilozheniya/</link>
+      <pubDate>Sat, 10 Oct 2015 18:00:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-10-otlichnyy-primer-vertikalnogo-prilozheniya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenSource это хорошо! Главное уметь его готовить. Мне очень</title>
+      <link>http://localhost:1313/posts/2015-09-28-opensource-eto-horosho-glavnoe-umet-ego/</link>
+      <pubDate>Mon, 28 Sep 2015 06:30:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-28-opensource-eto-horosho-glavnoe-umet-ego/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SimScale в очередной раз показывает, что OpenFOAM внутри не </title>
+      <link>http://localhost:1313/posts/2015-09-26-simscale-v-ocherednoy-raz-pokazyvaet-chto/</link>
+      <pubDate>Sat, 26 Sep 2015 06:30:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-26-simscale-v-ocherednoy-raz-pokazyvaet-chto/</guid>
+      <description>&lt;p&gt;#SImScale #OpenFOAM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.simscale.com/blog/2015/09/3-valve-simulations-that-you-&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blog.simscale.com/blog/2015/09/3-valve-simulations-that-you-&lt;/a&gt;
+should-not-miss/&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Не успели мы изучить аббревиатуру DEM (метод дискретного эле</title>
+      <link>http://localhost:1313/posts/2015-09-24-ne-uspeli-my-izuchit-abbreviaturu-dem-m/</link>
+      <pubDate>Thu, 24 Sep 2015 18:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-24-ne-uspeli-my-izuchit-abbreviaturu-dem-m/</guid>
+      <description>&lt;p&gt;Встречайте, Polyhedral Element Method (PEM), который умеет HELYX от компании Engys. Самое интересно, что HELYX основан на кодовой базе OpenFOAM и, вроде как, является открытым кодом.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вот как надо оформлять консалтинг: британская компания Total</title>
+      <link>http://localhost:1313/posts/2015-09-14-vot-kak-nado-oformlyat-konsalting-brita/</link>
+      <pubDate>Mon, 14 Sep 2015 07:00:09 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-14-vot-kak-nado-oformlyat-konsalting-brita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Если очень хочется, то можно посчитать все на бесплатном соф</title>
+      <link>http://localhost:1313/posts/2015-08-23-esli-ochen-hochetsya-to-mozhno-poschitat-v/</link>
+      <pubDate>Sun, 23 Aug 2015 17:00:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-08-23-esli-ochen-hochetsya-to-mozhno-poschitat-v/</guid>
+      <description>&lt;p&gt;Пример того, как можно минимизировать затраты на софт: на Ubunut проводится расчет обтекания подводной средствами #OpenFoam. Геометрию готовят в #freeCAD, результаты строят в #ParaView. Верификацию и валидацию расчетных методик проводит конечный пользователь.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

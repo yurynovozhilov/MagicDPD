@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BEM on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/bem/</link>
+    <description>MagicDPD: Magic Driven Product Development! (BEM)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 22 Nov 2021 14:02:34 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/bem/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Новые возможности решателя LS-DYNA R13: часть II</title>
+      <link>http://localhost:1313/posts/2021-11-22-novye-vozmozhnosti-reshatelya-ls-dyna-r13/</link>
+      <pubDate>Mon, 22 Nov 2021 14:02:34 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-11-22-novye-vozmozhnosti-reshatelya-ls-dyna-r13/</guid>
+      <description>&lt;p&gt;Коллеги, на этой неделе, в среду перед обедом я приглашаю вас посмотреть живой вебинар новым возможностям LS-DYNA R13. Это будет заключительное мероприятие посвященное именно новым возможностям данного решателя. В ходе часового (а может и дольше) доклада вы узнаете про следующие темы:&lt;/p&gt;
+&lt;p&gt;Работа с контактом, задачи штамповки и формовки.Акустика, вибрация, NVH и новый решатель для расчета ультразвуковых волн.Новый монолитный электромагнитный BEM-FEM решатель и работа с постоянными магнитами.Новые возможности (S-)ALE и его связка с тепловым решателем.Развитие неявного решателя ICFD для несжимаемых течений.Новые возможности явного решателя CESE для сжимаемых реагирующих многофазных течений.&lt;/p&gt;
+&lt;p&gt;Конечно, самая горячая тема тут на мой вкус будет в акустике и в CESE, но это только на мой вкус. Я уверен, что каждый найдет что-то по своим интересам.&lt;/p&gt;
+&lt;p&gt;Если вы хотите попасть на вебинар, то вам обязательно (!!!) надо пройти бесплатную регистрацию и не в последний момент: &lt;a href=&#34;https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13-chast-ii/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13-chast-ii/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ale #bem #cadfem #icfd #sael
+&lt;a href=&#34;https://tinyurl.com/yfxn6xfv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfxn6xfv&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Электромагнитный решатель LS-DYNA: моделируем рельсотрон</title>
+      <link>http://localhost:1313/posts/2018-05-01-elektromagnitnyy-reshatel-ls-dyna-model/</link>
+      <pubDate>Tue, 01 May 2018 18:01:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-05-01-elektromagnitnyy-reshatel-ls-dyna-model/</guid>
+      <description>&lt;p&gt;Сегодня у нас 7-ой видеоурок, посвященный решению задач электромагнетизма в LS-DYNA. И сегодня нашему вниманию предлагается моделирование рельсотрона — полуфантастического оружия, сошедшего с экранов компьютерных игр и вставшего на боевое дежурство в реальных вооруженных силах.
+Но нас в этой задаче больше будет интересовать методика перестроения BEM сетки в условиях меняющейся геометрии. Как видно из видео, это не очень сложно настроить, но это потребляет очень много вычислительных ресурсов при выполнении расчета.&lt;/p&gt;
+&lt;p&gt;Как всегда в подобных учебных видео, LSTC публикует расчетную модель для самостоятельного изучения: &lt;a href=&#34;https://www.dynaexamples.com/em/em_railgun&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynaexamples.com/em/em_railgun&lt;/a&gt;
+#BEM #EM #LS-DYNA #LSTC #railgun&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1NS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1NS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Электромагнитный решатель LS-DYNA: оптимизация вычислительно</title>
+      <link>http://localhost:1313/posts/2018-03-09-elektromagnitnyy-reshatel-ls-dyna-optim/</link>
+      <pubDate>Fri, 09 Mar 2018 18:00:56 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-03-09-elektromagnitnyy-reshatel-ls-dyna-optim/</guid>
+      <description>&lt;p&gt;Пятый эпизод сезона увлекательных видео от LSTC, посвященных возможностям проведения связанных электромагнитных расчетов. Сегодня речь идет об уловках и хитростях, которые позволят сэкономить вычислительные ресурсы.
+Следующие три шага, описанные в видео, позволят в 2 раза сократить время расчета рассматриваемого примера:&lt;/p&gt;
+&lt;p&gt;Экономия на BEM постановке за счет разумной постановки граничных условий и настройки точности/стабильности расчета (за счет P и Q матриц);
+Настройка шага интегрирования по времени, который тут не обязательно должен подчиняться критерию Куранта;
+Правильное использование лога работы решателя (управление через EM_OUTPUT) и профайлинг проекта.&lt;/p&gt;
+&lt;p&gt;#BEM #EM #LSDYNA #LSTC
+&lt;a href=&#34;https://goo.gl/JxUG1y&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/JxUG1y&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Электромагнитный решатель LS-DYNA: связка с задачами механик</title>
+      <link>http://localhost:1313/posts/2018-02-23-elektromagnitnyy-reshatel-ls-dyna-svyazk/</link>
+      <pubDate>Fri, 23 Feb 2018 18:00:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-02-23-elektromagnitnyy-reshatel-ls-dyna-svyazk/</guid>
+      <description>&lt;p&gt;Сегодня 4-ая часть серии учебных видео по работе с EM решателем LS-DYNA. И сегодня мы перейдем к разбору того, как в задаче электромагнитной штамповки осуществлятеся свзка трех физик: прочности, тепла и электромагнитизма.&lt;/p&gt;
+&lt;p&gt;Для начал нам рассказывают, какие именно допущеня при решении уравнений Максвела используются в рассматриваемой постновке задачи.
+Мне очень поравилась часть, рассказывающая о связке трех незваисимо работающих решателей — тепла, прочтости и электромагнетизма. Мало того, что у каждого решателя свой шаг по времени, так они еще и используют кто FEM, а кто BEM постновки. И тут есть вожный момент — FEM/BEM постновку для EM решателя надо перестраивать при деформации геометрии (карты *EM_SOLVER_FEM и *EM_SOLVER_BEM), а она у нас в этом уроке уже будет.&lt;/p&gt;
+&lt;p&gt;В видео также вводится понятия EM EOS — уравнения состояния для материала, используемое электромагнитным решателем для учета влияния тепловых эффектов на проводимость. Тут можно использовать как готовые уравнения состояния, так и задать свои собственные уравнения в аналитической форме или как процедуру на Fortran (аналогично карте *DEFINE_FUNCRION).&lt;/p&gt;
+&lt;p&gt;Таким образом, на данном этапе мы уже можем поставить задачу электромагнитной штамповки, организовав совместный расчет сразу трех физик: механики, тепла и электромагнитизма, что уже является внушительным набором. Файлы для самостоятельной тренировки лежать тут: http://www.dynaexamples.com/em/em_forming&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Свежая презентация по развитию LS-PrePost 4.3 от #LSTC - нав</title>
+      <link>http://localhost:1313/posts/2016-07-15-svezhaya-prezentatsiya-po-razvitiyu-ls-prepos/</link>
+      <pubDate>Fri, 15 Jul 2016 13:00:48 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-07-15-svezhaya-prezentatsiya-po-razvitiyu-ls-prepos/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Специальный модуль для настроки задач акустики решаемых методом граничных элементов ( #BEM )&lt;/li&gt;
+&lt;li&gt;Разработка нового интерфейса для работы с #CFD решателм ( #ICFD и #CASE )&lt;/li&gt;
+&lt;li&gt;Сборка нерегулятной простаноственной КЭ сетки из облака точек&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;#LSDYNA #LSPP
+&lt;a href=&#34;https://vk.com/doc11568_437666321&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/doc11568_437666321&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

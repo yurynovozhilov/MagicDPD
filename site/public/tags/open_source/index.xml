@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open_Source on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/open_source/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Open_Source)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 24 Nov 2021 16:34:59 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/open_source/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Национальная лаборатория Лоуренса Ливермора и атака астероид</title>
+      <link>http://localhost:1313/posts/2021-11-24-natsionalnaya-laboratoriya-lourensa-liverm/</link>
+      <pubDate>Wed, 24 Nov 2021 16:34:59 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-11-24-natsionalnaya-laboratoriya-lourensa-liverm/</guid>
+      <description>&lt;p&gt;Национальная лаборатория Лоуренса Ливермора (LLNL) принимает участие в первом в истории NASA испытании планетарной защиты, в ходе которого космический аппарат намеренно столкнется с астероидом под названием Dimorphos.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UbrxGnkIoXE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=UbrxGnkIoXE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В ходе испытания Double Asteroid Redirect Test (DART) будут изучены технологии, которые позволят предотвратить столкновение опасного астероида с Землей. DART - это первая демонстрация кинетического ударного механизма для изменения движения астероида в космосе. Астероид является маленькой луной более крупного астероида под названием Дидимос. Удар в Dimorphos не представляет опасности для Земли.&lt;/p&gt;
+&lt;p&gt;Нас в этой новости интересует инструмент моделирования такого уникального события. Им будет свободный бессеточный код Spheral собственной разработки LLNL. Код умеет SPH (гидродинамика сглаженных частиц) и ASPH (адаптивная гидродинамика сглаженных частиц). Он также может учитывать предоставляем гравитацию (как само гравитацию с помощью методов N-тел, так и наложение произвольных внешних сил) и моделирование повреждений в твердых телах с помощью стохастической техники Гради-Киппа. Код можно расширять при помощи C++ или Python, причем Python позволяет добавлять именно физику и алгоритмы, специфичные для конкретной задачи.&lt;/p&gt;
+&lt;p&gt;Источник: &lt;a href=&#34;https://www.llnl.gov/news/lawrence-livermore-takes-part-nasas-first-planetary-defense-test&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.llnl.gov/news/lawrence-livermore-takes-part-nasas-first-planetary-defense-test&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Репозиторий кода Spheral: &lt;a href=&#34;https://github.com/LLNL/spheral&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/LLNL/spheral&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#dart #llnl #open_source #sph #spheral
+&lt;a href=&#34;https://tinyurl.com/yeh78hvs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yeh78hvs&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сравнение работы кодов моделирования детонации ВВ</title>
+      <link>http://localhost:1313/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</link>
+      <pubDate>Thu, 23 Sep 2021 15:01:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</guid>
+      <description>&lt;p&gt;Разработчики blastFoam, открытого CFD кода на базе openFoam, специализирующегося на задачах детонации ВВ и распространении ударных волны в воздухе, опубликовали любопытное сравнение. Они смоделировали детонацию сферического заряда тротила в воздухе в бесконечном домене - довольно простая постановка с хорошо известными аналитическими решениями.&lt;/p&gt;
+&lt;p&gt;Моделирование они выполнили в:&lt;/p&gt;
+&lt;p&gt;Ansys Autodyn - код, разработанный когда-то, поглощённой компанией Century Dynamics - заточен под решение задач ОПКAnsys LS-DYNA - код, разработанный, поглощённой компанией LSTC - заточен под решение сильно связанных высоконелинейных задачEUROPLEXUS - или EpX, полуоткрытьй код для моделирования быстропротекающих процессов от французской промышленности, работает на основе моделей, подготовленных для Code_Aster.  CHT - код для моделирования быстропротекающих процессов от Сандийских национальных лабораторийblastFoam, который я уже представил&lt;/p&gt;
+&lt;p&gt;Во всех кодах использовалось уравнение состояния JWL. На мой взгляд, справились все коды примерно одинаково, и, не зная особенностей постановки задачи, времени, затраченного на решение, трудно выбрать лидера.&lt;/p&gt;
+&lt;p&gt;Надо просто иметь в виду, что какие-то из этих кодов могут решать только задачи детонации ВВ с различными уравнениями состояния, некоторые могут применяться для моделирования широкого круга динамических задач, а кто-то может замахнуться и на междисциплинарные расчеты. Так что выбирайте подходящие вам инструменты которым вас могут научить на понятном вам языке.&lt;/p&gt;
+&lt;p&gt;Ссылка на оригинальный пост: &lt;a href=&#34;https://www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #autodyn #blast #blastfoam #cht #europlexus #ls-dyna #open_source #openfoam #sandia
+&lt;a href=&#34;https://tinyurl.com/yzxkzr4r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzxkzr4r&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HexGen и Hex2Spline: ALLHEX и IGA сетки для LS-DYNA</title>
+      <link>http://localhost:1313/posts/2021-09-17-hexgen-i-hex2spline-allhex-i-iga-setki/</link>
+      <pubDate>Fri, 17 Sep 2021 13:01:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-09-17-hexgen-i-hex2spline-allhex-i-iga-setki/</guid>
+      <description>&lt;p&gt;Коллеги, на мой взгляд, сегодня просто огненный контент. Представляю вам два открытых набора консольных утилит, HexGen и Hex2Spline, разработанные группой профессора Юнцзе Джессики Чжан (Yongjie Jessica Zhang) в Университете Карнеги-Меллон (Carnegie Mellon University). Что бы лучше понимать, эта группа очень тесно связана со всем, что сейчас делается в области IGA для LS-DYNA и Corefrom.&lt;/p&gt;
+&lt;p&gt;Рассматриваемый комплект утилит позволяет на основе произвольной геометрии строить ALL-HEX неструктурированную сетку при помощи реализации алгоритма поликуба - это делает HexGen. А уже на основе полученной сетки Hex2Spline строить модель для IGA расчета, извлекая данные сплайнов Безье и записывая их в формат BEXT, напрямую читаемый LS-DYNA и визуализируемый в LS-PrePost.&lt;/p&gt;
+&lt;p&gt;Что особенно приятно, так это степень проработки вопроса. В репозитории проекта вы найдете не только все сходные коды утилит и собранные бинарники по Windows - вы найдете подробные инструкции по пересборке утилит. Естественно, в репозитории есть и тренировочные примеры с итогами правильной работы софта. А еще есть сопроводительная научная статья, в которой вы найдете подробные инструкции как пользоваться всеми утилитами и как настраивать их работу для разных геометрических моделей.&lt;/p&gt;
+&lt;p&gt;Научная статья: &lt;a href=&#34;https://arxiv.org/abs/2011.14213&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://arxiv.org/abs/2011.14213&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Репозиторий проекта: &lt;a href=&#34;https://github.com/yu-yuxuan/HexGen_Hex2Spline&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/yu-yuxuan/HexGen_Hex2Spline&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Страничка группы профессора Джессики Чжан в Университете Карнеги-Меллон:  &lt;a href=&#34;https://www.meche.engineering.cmu.edu/directory/bios/zhang-yongjie.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.meche.engineering.cmu.edu/directory/bios/zhang-yongjie.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#all-hex #ansys #bext #iga #ls-dyna #ls-prepost #open_source #polycube
+&lt;a href=&#34;https://tinyurl.com/ydnqewkz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ydnqewkz&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>manim - как сделать вашу научную презентацию захватывающей</title>
+      <link>http://localhost:1313/posts/2021-02-26-manim-kak-sdelat-vashu-nauchnuyu-prezent/</link>
+      <pubDate>Fri, 26 Feb 2021 13:01:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-02-26-manim-kak-sdelat-vashu-nauchnuyu-prezent/</guid>
+      <description>&lt;p&gt;Многие гики от науки знают, что в сети есть отличный сайт от MIT 3blue1brown.com занимающейся популяризацией науки. Их канал на YouTube ломится от огромного числа видео роликов, деланных с большим вкусом и умением. Вот, например, видео про ряды Фурье.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=r6sGWTCMz2k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=r6sGWTCMz2k&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Хотите делать такие же классные видео по результатам ваших исследований? Нет проблем: у коллег из 3Blue1Brown есть репозиторий на GitHub, где выложены исходные коды их движка создания анимированной научной инфографики manim. Все, что вам нужно, этот Python, FFmpeg и LaTeX. Ну а далее - читайте инструкции по ссылке на репозиторий github.com/3b1b/manim&lt;/p&gt;
+&lt;p&gt;#3blue1brown #ffmpeg #latex #open_source #python
+&lt;a href=&#34;https://tinyurl.com/ybn92n6a&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ybn92n6a&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenSim - моделирование опорно-двигательного аппарата</title>
+      <link>http://localhost:1313/posts/2021-02-12-opensim-modelirovanie-oporno-dvigatel/</link>
+      <pubDate>Fri, 12 Feb 2021 14:57:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-02-12-opensim-modelirovanie-oporno-dvigatel/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0e6vQV_ioCI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=0e6vQV_ioCI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenSim - это свободное программное обеспечение, используемое учеными всего мира для моделирования людей и животных и понимания того, как они двигаются. Например, данное ПО позволяет хирургам-ортопедам моделировать влиянием проводимых ими операций для детей с ДЦП.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=WSsVlwDS-vY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=WSsVlwDS-vY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=CPx0JzxIBKc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=CPx0JzxIBKc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Сайт проекта &lt;a href=&#34;http://opensim.stanford.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://opensim.stanford.edu&lt;/a&gt; - ПО собрано под Windows и macOS&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/ME0VHfCtIM0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/ME0VHfCtIM0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#biomed #open_source #opensim
+&lt;a href=&#34;https://tinyurl.com/yx9hkymv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yx9hkymv&lt;/a&gt;
+by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenLB - Open Source Lattice Boltzmann Code</title>
+      <link>http://localhost:1313/posts/2021-02-02-openlb-open-source-lattice-boltzmann-c/</link>
+      <pubDate>Tue, 02 Feb 2021 14:01:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-02-02-openlb-open-source-lattice-boltzmann-c/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1hgP7vXmfPw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=1hgP7vXmfPw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenLB - это открытая реализация CFD решателя на основе метода решёточных уравнений Больцмана. Реализация написана на C++, и6 по заявлениям авторов, снабжена хорошими комментариями. Сайт проекта &lt;a href=&#34;https://www.openlb.net&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.openlb.net&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=rEHNU8f0lW4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=rEHNU8f0lW4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=y454jlGk5b4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=y454jlGk5b4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#cfd #lattice_boltzmann #lbm #open_source #openlb
+&lt;a href=&#34;https://tinyurl.com/y5np6cch&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y5np6cch&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Loopy Cuts — правильный Hex-Dominant сеточный генератор</title>
+      <link>http://localhost:1313/posts/2020-08-13-loopy-cuts-pravilnyy-hex-dominant-set/</link>
+      <pubDate>Thu, 13 Aug 2020 13:01:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-08-13-loopy-cuts-pravilnyy-hex-dominant-set/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Два урока по работе с LS-DYNA Keyword в Python библиотеке qd</title>
+      <link>http://localhost:1313/posts/2018-03-11-dva-uroka-po-rabote-s-ls-dyna-keyword-v/</link>
+      <pubDate>Sun, 11 Mar 2018 18:01:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-03-11-dva-uroka-po-rabote-s-ls-dyna-keyword-v/</guid>
+      <description>&lt;p&gt;Если вы следите за публикацияи MDPD, то вы занете о существовании замечатьельной бесплатной открытой Python библиотеки qd. В недавней версии в нее добавили инструменты по манипулированию Keyword файлами — моделями LS-DYNA. Сегодя у нас есть уже 2 видео урока, демонстрирующих, что может билиотека.&lt;/p&gt;
+&lt;p&gt;Репозиторий библиотеки на GitHub: &lt;a href=&#34;https://github.com/qd-cae/qd-cae-python&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/qd-cae/qd-cae-python&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#LSDYNA #Open_Source #Python #Qd
+&lt;a href=&#34;https://goo.gl/64RTLQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/64RTLQ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

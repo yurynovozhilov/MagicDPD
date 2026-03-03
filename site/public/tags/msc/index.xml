@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MSC on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/msc/</link>
+    <description>MagicDPD: Magic Driven Product Development! (MSC)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sun, 17 Feb 2019 11:19:15 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/msc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Моделирование технологических процессов в MARC</title>
+      <link>http://localhost:1313/posts/2019-02-17-modelirovanie-tehnologicheskih-protsessov/</link>
+      <pubDate>Sun, 17 Feb 2019 11:19:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-02-17-modelirovanie-tehnologicheskih-protsessov/</guid>
+      <description>&lt;p&gt;Помню, как лет 15 назад мне впервые показали как работает крутой КЭ решатель — то был MSC.Marc. Не знаю, может это ностальгические воспоминания, но с тех пор я всегда с большим уважением отношусь к продуктам MSC.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/DI3oxvVwKZw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/DI3oxvVwKZw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Увлекшись моделированием резки металлов, я стал искать материалы не только в тусовке LS-DYNA, но и за ее пределами. И тут попалось мне отличное видео, которым я сегодня хочу поделиться. Да, по современным меркам, такие расчеты для Implicit решателей уже являются нормой, но видео сделано в 2015 году, и на тот момент это был высший пилотаж. Глубокая пластика, адаптивные (пусть и плоские) сетки, смерть элементов, implicit решатель — красота.&lt;/p&gt;
+&lt;p&gt;#Marc #MSC #Simufact&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2lo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2lo&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Смотрим на MSC Apex в плане подготовки сетки</title>
+      <link>http://localhost:1313/posts/2018-12-24-smotrim-na-msc-apex-v-plane-podgotovki-s/</link>
+      <pubDate>Mon, 24 Dec 2018 17:00:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-12-24-smotrim-na-msc-apex-v-plane-podgotovki-s/</guid>
+      <description>&lt;p&gt;Всегда полезно знать, что там у конкурентов, и сегодня я решил взглянуть на передовые разработки MSC и их наиболее современную разработку - интерфейс Apex.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/I4U9aNVqBvA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/I4U9aNVqBvA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В целом ничего необычного я не увидел - все та же блочноструктурированная топология, все те же sweep сетки. Пользователи ANSYS SpaceClaim и Meshing не должны удивляться. Единственная фишка, что мне показалась полезной, - подсветка на лету свипуемой геометрии. В ANSYS для этого надо лезть в контекстное меню.&lt;/p&gt;
+&lt;p&gt;#Apex #Mesh #MSC
+&lt;a href=&#34;http://bit.ly/2Q2lNFc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Q2lNFc&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование послойного синтеза в Simufact</title>
+      <link>http://localhost:1313/posts/2018-06-30-modelirovanie-posloynogo-sinteza-v-simuf/</link>
+      <pubDate>Sat, 30 Jun 2018 18:01:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-06-30-modelirovanie-posloynogo-sinteza-v-simuf/</guid>
+      <description>&lt;p&gt;MSC всерьез взялись за маркетинг. В сети появляется большое количество видео с использованием Simufact Welding. Примечательно в работе моделирующего ПО два момента:&lt;/p&gt;
+&lt;p&gt;Насколько можно видеть, алгоритм может работать на &amp;ldquo;обычных&amp;rdquo; hex-сетках, тогда как у коллег по отрасли обычно используется декартовы (cartesian) сетки. Хотя для расчета остаточных напряжений и деформаций это не сильно важно.
+Если верить визуализации, то слой материала напыляется не целиком за раз, а постепенно. Этот интересный подход, по-хорошему, должен требовать дополнительных данных от печатающей машины - нужен шаблон движения сканирующего луча. Ну и сетка нужна мелкая.&lt;/p&gt;
+&lt;p&gt;#AdditiveManufacturing #MSC #Simufact
+&lt;a href=&#34;http://bit.ly/2tTlfsn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2tTlfsn&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ушел из жизни Ричард МакНил, один из отцов MSC и Nastran</title>
+      <link>http://localhost:1313/posts/2018-02-01-ushel-iz-zhizni-richard-maknil-odin-iz-otts/</link>
+      <pubDate>Thu, 01 Feb 2018 17:01:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-02-01-ushel-iz-zhizni-richard-maknil-odin-iz-otts/</guid>
+      <description>&lt;p&gt;Доктор Ричард МакНил (Dr. Richard H. MacNeal), один из отцов MSC Software и MSC Nastran, скончался 29 января 2018 года в возрасте 94 лет. На протяжении 54 лет своей жизни он занимался развитием индустрии CAE.&lt;/p&gt;
+&lt;p&gt;[caption id=&amp;ldquo;attachment_6167&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;847&amp;rdquo;] Роберт Швендлер (слева) и Ричард МакНил (справа) работают над космической программой в 1960-х[/caption]&lt;/p&gt;
+&lt;p&gt;В 1963 году Ричард МакНил и Роберт Швендлер (Robert Schwendler) основали компанию MacNeal-Schwendler Corporation (MSC). Под руководством МакНила в MSC разработали их первый инструмент для решения задач механики SADSAM (Structural Analysis by Digital Simulation of Analog Methods). В 1965 году МакНил начал участвовать в программе по созданию решателя задач механики для NASA. Код предназначенный для решения задач, возникавших в ходе планирования первого полета человека на Луну, получил название Nastran (NASA STRucture ANalysis). В 1971 году компания MSC Software выпустила коммерческую версию Nastran, получившую название MSC.Nastran.&lt;/p&gt;
+&lt;p&gt;Согласно оценкам NASA, к 2003 году использование Nastran позволило сэкономить более 10 миллиардов долларов!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.mscsoftware.com/news/remembering-dr-richard-macneal-co-founder-msc-software-and-msc-nastran&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.mscsoftware.com/news/remembering-dr-richard-macneal-co-founder-msc-software-and-msc-nastran&lt;/a&gt;
+#CAE #legendpeople #MSC #NASA #NASTRAN
+&lt;a href=&#34;https://magicdpd.ru/?p=6160&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6160&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Тенденции мира математического моделирования</title>
+      <link>http://localhost:1313/posts/2018-01-16-tendentsii-mira-matematicheskogo-modelirov/</link>
+      <pubDate>Tue, 16 Jan 2018 17:01:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-01-16-tendentsii-mira-matematicheskogo-modelirov/</guid>
+      <description>&lt;p&gt;Портал engineering.com подвел итоги ушедшего года и постарался определить основные тенденции на год текущий.&lt;/p&gt;
+&lt;p&gt;Так, основными событиями 2017 года названы:&lt;/p&gt;
+&lt;p&gt;Мгновенные расчеты благодаря технической демо версии ANSYS Discovery Live
+Поглощение MSC Software компанией Hexagon
+Поглощение Mentor Graphics компанией Siemens&lt;/p&gt;
+&lt;p&gt;Тренды этого года:&lt;/p&gt;
+&lt;p&gt;Выход стабильной версии ANSYS Discovery Live
+Внедрение AR и VR - что-то я сомневаюсь, что эти технологии готовы для профессионального использования
+Интерактивные расчетные методики, по типу как делает COMSOL App - прикольно, но я не вижу в этом особого всплеска активности
+Возможный рост и возрождение MSC - тоже пока все тихо, но Hexagon не дураки
+Digital Twin
+Additive Manufacturing - вот сюда реально ломятся все, но никто толком посчитать не может, так как не хватает корректной теории.
+Автопилот в автомобилях - это уже про встроенное ПО&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16124/Engineering-Simulation-Software-in-2018-and-Beyond.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16124/Engineering-Simulation-Software-in-2018-and-Beyond.aspx&lt;/a&gt;
+#Additive Manufacturing #ANSYS #Digital Twin #Discovery #Hexagon #Mentor #MSC #Siemens
+&lt;a href=&#34;https://magicdpd.ru/?p=5960&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5960&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Marc решате задчу нелинейной потери устойчивости</title>
+      <link>http://localhost:1313/posts/2017-06-13-marc-reshate-zadchu-nelineynoy-poteri-usto/</link>
+      <pubDate>Tue, 13 Jun 2017 17:01:49 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-06-13-marc-reshate-zadchu-nelineynoy-poteri-usto/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/iTFXs6eG_MQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/iTFXs6eG_MQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Кто-то залипает на видное с котиками, а я - на видео с задачами механики.&lt;/p&gt;
+&lt;p&gt;#MSC #Marc&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/iTFXs6eG_MQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/iTFXs6eG_MQ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Direct Metal Deposition или процесс объемной лазерной наплав</title>
+      <link>http://localhost:1313/posts/2017-05-25-direct-metal-deposition-ili-protsess-obe/</link>
+      <pubDate>Thu, 25 May 2017 17:01:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-05-25-direct-metal-deposition-ili-protsess-obe/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=esBC0WwAX8g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=esBC0WwAX8g&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Интересный и очень сложный физический процесс, встречающийся в 3D принтерах, печатающих металлом. Как бы вы стали его моделировать: в #CFD постановке или при помощи #FEM?&lt;/p&gt;
+&lt;p&gt;CFD by #FLOW3D: &lt;a href=&#34;https://www.youtube.com/watch?v=esBC0WwAX8g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=esBC0WwAX8g&lt;/a&gt;
+CFD by #FLOW3D: &lt;a href=&#34;https://www.youtube.com/watch?v=oWfoAzQlLVo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=oWfoAzQlLVo&lt;/a&gt;
+FEM by #MSC #Simufact Additive: &lt;a href=&#34;https://www.youtube.com/watch?v=l9n6AheyI2E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=l9n6AheyI2E&lt;/a&gt;
+FEM by #ANSYS #Mechanical: &lt;a href=&#34;https://www.youtube.com/watch?v=H0Uara7B5to&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=H0Uara7B5to&lt;/a&gt;
+FEM by #ANSYS #Mechanical: &lt;a href=&#34;https://www.youtube.com/watch?v=74TOhQwEj80&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=74TOhQwEj80&lt;/a&gt;
+FEM by #Pancomputing &lt;a href=&#34;https://www.youtube.com/watch?v=LWk43HjKjcM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=LWk43HjKjcM&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Связка Adams-Matlab для промышленных роботов</title>
+      <link>http://localhost:1313/posts/2016-09-02-svyazka-adams-matlab-dlya-promyshlennyh-rob/</link>
+      <pubDate>Fri, 02 Sep 2016 06:30:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-09-02-svyazka-adams-matlab-dlya-promyshlennyh-rob/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ztnliqfcvgo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ztnliqfcvgo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Получасовой вебинар от #MSC, посвященный взаимодействию #Adams и #Matlab, если вам не хватает Easy5&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nor-Tech, один из крупнейших в США системных интеграторов сп</title>
+      <link>http://localhost:1313/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</link>
+      <pubDate>Mon, 23 Nov 2015 06:00:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</guid>
+      <description>&lt;p&gt;CAE:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ANSYS: ANSYS Fluent – CFD,&lt;/li&gt;
+&lt;li&gt;ANSYS: Mechanical – FEA,&lt;/li&gt;
+&lt;li&gt;ANSYS: CFX – CFD&lt;/li&gt;
+&lt;li&gt;LS-DYNA – FEA,&lt;/li&gt;
+&lt;li&gt;Altair: Hyperworks – Suite of CAE software&lt;/li&gt;
+&lt;li&gt;CEI Software: Ensight&lt;/li&gt;
+&lt;li&gt;Convergent Science: Converge CFD – Meshless CFD&lt;/li&gt;
+&lt;li&gt;Cradle-CDF: scSTREAM, scTetra&lt;/li&gt;
+&lt;li&gt;Dassault Systemes – Simulia: Abaqus – FEA&lt;/li&gt;
+&lt;li&gt;Lumerical: FDTD Solutions – Photonic Design Tools&lt;/li&gt;
+&lt;li&gt;MSC Software: Marc Nonlinear – FEA MSC Nastran&lt;/li&gt;
+&lt;li&gt;Moldex3D: eDesign – Plastic Injection Molding Simulation&lt;/li&gt;
+&lt;li&gt;COMSOL: COMSOL Multiphysics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Системное кластерное ПО:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rocks Cluster Management Suite&lt;/li&gt;
+&lt;li&gt;NICE: DCV Remote Visualization&lt;/li&gt;
+&lt;li&gt;NICE: EnginFrame GUI for Job Scheduler &amp;amp; Resource Mgr&lt;/li&gt;
+&lt;li&gt;Ganglia&lt;/li&gt;
+&lt;li&gt;IPMI management&lt;/li&gt;
+&lt;li&gt;OGS/GE based on (Sun Grid Engine), Torque&lt;/li&gt;
+&lt;li&gt;Bright Cluster Manager&lt;/li&gt;
+&lt;li&gt;Windows Server 2012/HPC&lt;/li&gt;
+&lt;li&gt;Intel: Compilers &amp;amp; Libraries&lt;/li&gt;
+&lt;li&gt;Altair PBS Pro, Compute Manager &amp;amp; Display Manager и другеи продукты&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Жаль, что у нас пока нет таких же бравых системных интеграторов.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Настоящая лекция на тему моделирования акустики в нестациона</title>
+      <link>http://localhost:1313/posts/2015-10-12-nastoyaschaya-lektsiya-na-temu-modelirovaniya-a/</link>
+      <pubDate>Mon, 12 Oct 2015 06:30:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-12-nastoyaschaya-lektsiya-na-temu-modelirovaniya-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Топологическая оптимизация от Virtual.PYXIS для MSC.Nastarn.</title>
+      <link>http://localhost:1313/posts/2015-10-08-topologicheskaya-optimizatsiya-ot-virtualpy/</link>
+      <pubDate>Thu, 08 Oct 2015 06:30:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-08-topologicheskaya-optimizatsiya-ot-virtualpy/</guid>
+      <description>&lt;p&gt;#ANSYS #Mechanical #Virtual.PYXIS #TOPO #MSC #Nastran&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Мой матрас явно не моделировали так, как этот. Это ж надо бы</title>
+      <link>http://localhost:1313/posts/2015-10-02-moy-matras-yavno-ne-modelirovali-tak-kak/</link>
+      <pubDate>Fri, 02 Oct 2015 18:00:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-02-moy-matras-yavno-ne-modelirovali-tak-kak/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

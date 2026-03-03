@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RB_FEM on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/rb_fem/</link>
+    <description>MagicDPD: Magic Driven Product Development! (RB_FEM)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 20 Sep 2019 13:01:07 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/rb_fem/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Akselos и его Reduced-Basis Finite Element Analysis</title>
+      <link>http://localhost:1313/posts/2019-09-20-akselos-i-ego-reduced-basis-finite-eleme/</link>
+      <pubDate>Fri, 20 Sep 2019 13:01:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-09-20-akselos-i-ego-reduced-basis-finite-eleme/</guid>
+      <description>&lt;p&gt;Совершенно случайно на меня вышел ролик компании Akselos, разработчика одноименного ПО, которое согласно заявлениям создателей обладает чудесными свойствами: сложные нелинейные прочностные расчеты на несколько десятков MDOF за несколько минут. И это все еще с контактами и ростом трещин.&lt;/p&gt;
+&lt;p&gt;Вся эта магия создается неким собственным Reduced-Basis Finite Element Analysis методом (далее RB-FEM), который работает в тысячи раз быстрее традиционного МКЭ. Однако при изучении материалов и научных статей с сайта выясняется, что этот RB-FEM — это просто техника очень грамотного и автоматизированного создания суперэлементов для всего, что линейно по первому чиху. Соответственно все, что у нас нелинейно считается как обычно. Ну что ж, заход хороший, но опытных пользователей ANSYS и NASTRAN такая магия не должна удивить.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

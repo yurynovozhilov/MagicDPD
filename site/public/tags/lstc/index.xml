@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lstc on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/lstc/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Lstc)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 29 Mar 2022 17:00:06 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/lstc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ansys LST ведет работу по удалению всех ссылок на слова &#34;Mas</title>
+      <link>http://localhost:1313/posts/2022-03-29-ansys-lst-vedet-rabotu-po-udaleniyu-vseh/</link>
+      <pubDate>Tue, 29 Mar 2022 17:00:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-03-29-ansys-lst-vedet-rabotu-po-udaleniyu-vseh/</guid>
+      <description>&lt;p&gt;Теперь вместо  &amp;ldquo;Master&amp;rdquo; и &amp;ldquo;Slave&amp;rdquo; надо использовать термины &amp;ldquo;Поверхность A&amp;rdquo; и &amp;ldquo;Поверхность Б&amp;rdquo; соответственно. А в интерфейсе это будет отображаться как SURFA и SURFB.&lt;/p&gt;
+&lt;p&gt;#ANSYS #LSDYNA #LSPREPOST #LSTC &lt;a href=&#34;https://www.linkedin.com/posts/dynamore-nordic-ab_dynamore-lsdyna-ansys-activity-6914524595517595648-SyIn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.linkedin.com/posts/dynamore-nordic-ab_dynamore-lsdyna-ansys-activity-6914524595517595648-SyIn&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-TaSC для нелинейной топологической оптимизации в динамиче</title>
+      <link>http://localhost:1313/posts/2021-11-23-ls-tasc-dlya-nelineynoy-topologicheskoy-op/</link>
+      <pubDate>Tue, 23 Nov 2021 15:42:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-11-23-ls-tasc-dlya-nelineynoy-topologicheskoy-op/</guid>
+      <description>&lt;p&gt;Мы все привыкли, что топологическая оптимизация aka генеративный дизайн, это что-то работающее с кучей ограничений: изотропные материалы, малые перемещения, статическая постановка, отсутствие нелинейности в материалах, отсутствие контактов&amp;hellip; Короче говоря, скучная линейная теория упругости в самой базовой постановке. Конечно есть некоторые отдельные дорогие оптимизаторы, которые обещают и нелинейные расчеты, но пробовали ли вы ими пользоваться для реальных задач?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nVJ_7kpAp_A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nVJ_7kpAp_A&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;А вот у Ansys LST есть отдельный бесплатны (для обладателей лицензий на LS-DYNA) топологический оптимизатор LS-TaSC, который изначально создавался для оптимизации моделей под задачи пассивной безопасности автомобилей. А это значит, что он автоматически работает с большими перемещениями, динамическими контактными задачами и нелинейными материалами. Смотрим вебинар про него и наслаждаемся.&lt;/p&gt;
+&lt;p&gt;#ansys #ansys_lst #ls-tasc #lsdyna #lstc #optimization #topology
+&lt;a href=&#34;https://tinyurl.com/yjzdx4v5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yjzdx4v5&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новые возможности среды Workbench LS-DYNA 2021 R2</title>
+      <link>http://localhost:1313/posts/2021-11-16-novye-vozmozhnosti-sredy-workbench-ls-dyn/</link>
+      <pubDate>Tue, 16 Nov 2021 13:01:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-11-16-novye-vozmozhnosti-sredy-workbench-ls-dyn/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=KzmY3U428mo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=KzmY3U428mo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Наконец выложен ремастер моего вебинара по новым возможностям Workbench LS-DYNA 2021 R2!&lt;/p&gt;
+&lt;p&gt;#ansys #cadfem #lsdyna #lstc
+&lt;a href=&#34;https://tinyurl.com/yfflewpg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfflewpg&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence for Material Models</title>
+      <link>http://localhost:1313/posts/2021-03-24-artificial-intelligence-for-material-mod/</link>
+      <pubDate>Wed, 24 Mar 2021 12:27:29 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-03-24-artificial-intelligence-for-material-mod/</guid>
+      <description>&lt;p&gt;Еще одно применение AI для CAE в области материаловедения - на этот раз от DYNAmore. Коллеги вписались в исследовательский проект &amp;ldquo;Искусственный интеллект для моделей материалов&amp;rdquo; (Artificial Intelligence for Material Models, AIMM), который состоит в том, чтобы дополнить и/или заменить классические реологические модели материалов на модели, построенные AI при анализе большого числа экспериментов. Основное внимание в AIMM будет уделяться более быстрому внедрению новых материалов посредством ускоренного описания для приложений CAE, разработки связанных с ними новых экспериментальных концепций для генерирования необходимых обучающих данных, а также сокращению фазы характеризации и моделирования посредством автоматизации процессов.&lt;/p&gt;
+&lt;p&gt;Спонсором проекта является TÜV Rheinland (&lt;a href=&#34;https://ru.wikipedia.org/wiki/T&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/T&lt;/a&gt;ÜV_Rheinland_Group). В проекте также задействованы Mercedes-Benz AG, ElringKlinger AG, GOM GmbH и renumics GmbH.&lt;/p&gt;
+&lt;p&gt;Вообще, тема DYNAmore очень здорово пересекается с уже имеющимися у ANSYS LST наработками по использованию нейронных сетей для моделирования микроструктуры материалов (&lt;a href=&#34;https://www.lstc-cmmg.org/deep-material-network%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.lstc-cmmg.org/deep-material-network)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;#ansys #dynamore #ls-dyna #lstc #machine_learning #material
+&lt;a href=&#34;https://tinyurl.com/yf6xk86t&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yf6xk86t&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Подготовка геометрии средствами LS-PrePost</title>
+      <link>http://localhost:1313/posts/2020-01-31-podgotovka-geometrii-sredstvami-ls-prepo/</link>
+      <pubDate>Fri, 31 Jan 2020 13:01:54 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-01-31-podgotovka-geometrii-sredstvami-ls-prepo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LS-PrePost для качественных иллюстраций и видео</title>
+      <link>http://localhost:1313/posts/2019-10-16-ls-prepost-dlya-kachestvennyh-illyustratsiy/</link>
+      <pubDate>Wed, 16 Oct 2019 13:00:34 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-10-16-ls-prepost-dlya-kachestvennyh-illyustratsiy/</guid>
+      <description>&lt;p&gt;#LS_PrePost #LSTC
+by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование горения газовых смесей в LS-DYNA</title>
+      <link>http://localhost:1313/posts/2019-06-27-modelirovanie-goreniya-gazovyh-smesey-v-l/</link>
+      <pubDate>Thu, 27 Jun 2019 17:01:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-06-27-modelirovanie-goreniya-gazovyh-smesey-v-l/</guid>
+      <description>&lt;p&gt;Вашему вниманию предлагаю слайды доклада коллег из LSTC по теме моделирования горения газовых смесей. Да-да, совместная работа CESE решателя гидродинамики с учетом сжимаемости и химического решателя (оба внутри LS-DYNA) позволяют и такое.&lt;/p&gt;
+&lt;p&gt;Все это идет далеко за пределы квалификации хорошего инженера расчётчика: тут необходимы знания и химии, и механики, и гидродинамики. Но зато вы сможете считать как горение, так и детонацию газовой смеси!&lt;/p&gt;
+&lt;p&gt;Слайды доступны по ссылке:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;ftp://ftp.lstc.com/outgoing/ksim/examples/LNG_fire/Lng_combustion_KOGAS_2018.pdf&#34;&gt;ftp://ftp.lstc.com/outgoing/ksim/examples/LNG_fire/Lng_combustion_KOGAS_2018.pdf&lt;/a&gt; &lt;a href=&#34;ftp://ftp.lstc.com/outgoing/ksim/examples/LNG_fire/Lng_combustion_KOGAS_2018.ppsm&#34;&gt;ftp://ftp.lstc.com/outgoing/ksim/examples/LNG_fire/Lng_combustion_KOGAS_2018.ppsm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#CESE #Chemistry #FSI #LS_DYNA #LSTC&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2A1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2A1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Solution Explorer в LS-PrePost для удобной постановки задач</title>
+      <link>http://localhost:1313/posts/2019-06-20-solution-explorer-v-ls-prepost-dlya-udobn/</link>
+      <pubDate>Thu, 20 Jun 2019 17:00:40 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-06-20-solution-explorer-v-ls-prepost-dlya-udobn/</guid>
+      <description>&lt;p&gt;То есть это как? LSTC добавляет удобства в LSPP?! Готовить модели для LS-DYNA становится удобно???&lt;/p&gt;
+&lt;p&gt;Новый интерфейс «Solution Explorer», изначально созданный для подготовки CFD и FSI задач под LS-DYNA, теперь может помочь и c классическими прочностными расчетами, в чем вы можете убедиться, посмотрев демонстрационное видео от Simvare Inc.&lt;/p&gt;
+&lt;p&gt;Solution Explorer доступен начиная с версии LSPP 4.6&lt;/p&gt;
+&lt;p&gt;#LS_PrePost #LSTC #Solution_Explorer&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2zQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2zQ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Повышение устойчивости SPH при помощи Moving Last Square под</title>
+      <link>http://localhost:1313/posts/2019-02-08-povyshenie-ustoychivosti-sph-pri-pomoschi-mo/</link>
+      <pubDate>Fri, 08 Feb 2019 06:52:01 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-02-08-povyshenie-ustoychivosti-sph-pri-pomoschi-mo/</guid>
+      <description>&lt;p&gt;На своем канале #LSTC показали несколько тестовых задач, демонстрирующих работу их новой формулировки для #SPH. Напомню, что SPH обладает врожденной болезнью: нестабильностью при работе на растяжение. Материал, моделируемый в SPH постановке показывает разрушение при растяжении намного раньше, чем того требуют его механическое состояние — получается так из-за численных проблем.
+В видео от LSTC демонстрируется работа билда #LSDYNA с 12-ой формулировкой метода SPH, получившей название MLS-based. К сожалению, даже в самой свежей черновой документации от 4 октября, данная опция никак не описана. Однако удалось найти, что #MLS (moving last square) интерполяция ранее применялась в LS-DYNA для бессеточного метода Галеркина (#EFG, Element Free Galerkin), так что какое-то описание по теории работы метода все-таки можно найти.
+Важно другое: когда MLS-based SPH войдет в очередной релиз — это будет большой шаг в области применения бессрочных методов для&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Хрупкое разрушение</title>
+      <link>http://localhost:1313/posts/2019-02-08-hrupkoe-razrushenie/</link>
+      <pubDate>Fri, 08 Feb 2019 04:38:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-02-08-hrupkoe-razrushenie/</guid>
+      <description>&lt;p&gt;Тут у меня коллеги интересовались моделированием хрупкого разрушения материалов в #LSDYNA. Самым передовым и многообещающим методом расчета такого разрушения и трещенообразования является перидинамика (&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Перидинамика)
+Так вот, я поскреб по сусекам, посмотрел, что у меня есть в волшебном хранилище знаний, и нашел отличную ссылку на репозиторий господина Cheng-Tang Wu (одного из главных разработчиков #LSTC в этом направлении), где он выкладываем свой учебный курс по бессрочным методам (корме перидинамики есть еще #EFG и #SPG).
+Внимание, в составе данного учебного курса есть работающие примеры со всем перечисленными бессрочными методами расчета разрушения!
+#meshless #peridynamics #AdaptiveEFG
+P.S. Насколько я понял, ключевые карты SECTION_SOLID_PERI и MAT_ELASTIC_PERI пока реализованы только в beta версиях решателя поколения R10.
+&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Index of /anonymous/outgoing/whu/Class&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вернемся к перидинамике. Уже сейчас заинтересованные пользов</title>
+      <link>http://localhost:1313/posts/2019-02-08-vernemsya-k-peridinamike-uzhe-seychas-zain/</link>
+      <pubDate>Fri, 08 Feb 2019 04:35:29 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-02-08-vernemsya-k-peridinamike-uzhe-seychas-zain/</guid>
+      <description>&lt;p&gt;А еще там будет много вкусностей про Smoothed Particle Galerkin (#SPG) для пластического разрушения.
+#peridynamics #lsdyna&lt;/p&gt;
+&lt;p&gt;Файл Recent Development of Advanced FEM and Meshfree Methods in LS-DYNA for Solid and Structural Analyses.pdf
+Файл Implementation of Peridynamic Theory to LS-DYNA for Prediction of Crack Propagation in a Composite Lamina.pdf&lt;/p&gt;
+&lt;p&gt;#LS_DYNA #LSTC #peridynamics #SPG&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-5356&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-5356&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LSFORM — новый ПреПост штамповки в LS-DYNA</title>
+      <link>http://localhost:1313/posts/2019-01-31-lsform-novyy-prepost-shtampovki-v-ls-dy/</link>
+      <pubDate>Thu, 31 Jan 2019 17:00:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-01-31-lsform-novyy-prepost-shtampovki-v-ls-dy/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=g6wZ0MMEmmA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=g6wZ0MMEmmA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В январе этого года компания LSTC без лишней помпы представила всем заинтересованным свой новый продукт — специализированный препост для решения задач штамповки. Препост получил название LSForm, доступен бесплатно всем, у кого есть лицензия на LS-DYNA, как, впрочем, и любой софт от LSTC.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=C40qFGqPbyA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=C40qFGqPbyA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LSForm имеет сравнительно современный ленточный интерфейс. Подробнее с его возможностями можно ознакомиться на доступных демонстрационных видео.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ZZcdfj8SezI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ZZcdfj8SezI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#deepdrawing #FLD #forming #LS_DYNA #LSTC #stamping&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-lsform&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-lsform&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование процесса возведения конструкции в LS-DYNA</title>
+      <link>http://localhost:1313/posts/2018-12-19-modelirovanie-protsessa-vozvedeniya-konstr/</link>
+      <pubDate>Wed, 19 Dec 2018 17:00:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-12-19-modelirovanie-protsessa-vozvedeniya-konstr/</guid>
+      <description>&lt;p&gt;Компания ARUP приготовила еще один полезный набор слайдов для тех, кто использует LS-DYNA в гражданском строительстве. Он посвящается набору карт семейства *CONTROL_STAGED_CONSTRUCTION&lt;/p&gt;
+&lt;p&gt;Эти карты позволяют промоделировать поэтапное возведение конструкций, действие на них гравитации и монтажных усилий, изменение в свойствах грунтов основания.
+Кроме того, детально описаны изменения и корректировки в работе алгоритмов при переходе на решатель R11.
+&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/support/PRESENTATIONS/Staged_construction_notes_03apr2018.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/support/PRESENTATIONS/Staged_construction_notes_03apr2018.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ARUP #LSDYNA #LSTC
+&lt;a href=&#34;http://bit.ly/2PRanEi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PRanEi&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Применение SPG в задачах фрезировки и пробивания</title>
+      <link>http://localhost:1313/posts/2018-11-14-primenenie-spg-v-zadachah-frezirovki-i-pr/</link>
+      <pubDate>Wed, 14 Nov 2018 17:00:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-11-14-primenenie-spg-v-zadachah-frezirovki-i-pr/</guid>
+      <description>&lt;p&gt;Хорошая статья от LSTC, посвященная изучению работы их SPG метода в применении к задачам обработки материалов. И тут под обработкой понимается очень широкий круг понятий: в статье описаны только задачи фрезировки металла и пробивания бетона, но у меня есть кейсы, где рассматривается и сверление, и разрывные испытания, и даже фрагментация осколочных боеприпасов.&lt;/p&gt;
+&lt;p&gt;SPG (не путать с SPH или EFG)- это вообще некий единорог среди бессеточных методов, который может очень много чего как в explicit, так и в implicit (!!!) постановках, отличается стабильностью и простотой настройки. Вот только ресурсов любой бессеточный метод в механике обычно кушает раза в 3 больше, чем сеточный.
+&lt;a href=&#34;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/parametric-and-convergence-studies-of-the-smoothed-particle-galerkin-spg-method-in-semi-brittle-and-ductile-material-failure-analyses&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/parametric-and-convergence-studies-of-the-smoothed-particle-galerkin-spg-method-in-semi-brittle-and-ductile-material-failure-analyses&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Concrete #KCC #LSDYNA #LSTC #Machining #Meshless #Perforation #SPG
+&lt;a href=&#34;http://bit.ly/2RZwFW3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RZwFW3&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование установки стента в LS-DYNA Implicit</title>
+      <link>http://localhost:1313/posts/2018-10-23-modelirovanie-ustanovki-stenta-v-ls-dyna/</link>
+      <pubDate>Tue, 23 Oct 2018 17:02:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-10-23-modelirovanie-ustanovki-stenta-v-ls-dyna/</guid>
+      <description>&lt;p&gt;Видео с невероятно крутым расчетом установки стента.&lt;/p&gt;
+&lt;p&gt;При этом расчет всех этих контактов, пластического деформирования материала и надува &amp;ldquo;шарика&amp;rdquo; оболочки считается, по заявлениями авторов, средствами LS-DYNA Implicit (!!!).
+Я стал разбираться в теме, и нашел еще несколько публикаций с подобными расчетами, и все в LS-DYNA Implicit. Похоже коллеги из LSTC и в работе нелинейной неявной механики готовы утереть многим нос.
+Публикации по теме:
+Numerical analysis of crimping and inflation process of balloon‐expandable coronary stent using implicit solution
+&lt;a href=&#34;https://doi.org/10.1002/cnm.2890&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://doi.org/10.1002/cnm.2890&lt;/a&gt;
+Finite element methods to analyze helical stent expansion
+&lt;a href=&#34;https://doi.org/10.1002/cnm.2605&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://doi.org/10.1002/cnm.2605&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Coronary #Implicit #LSDYNA #LSTC #Stent
+&lt;a href=&#34;http://bit.ly/2PL9VIh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PL9VIh&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование ферменных конструкций в LS-DYNA</title>
+      <link>http://localhost:1313/posts/2018-10-07-modelirovanie-fermennyh-konstruktsiy-v-ls/</link>
+      <pubDate>Sun, 07 Oct 2018 17:00:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-10-07-modelirovanie-fermennyh-konstruktsiy-v-ls/</guid>
+      <description>&lt;p&gt;Видеоурок на 17 минут по моделированю конструкций из блочных элементов. Вся подготовка задачи в LS-PrePost.&lt;/p&gt;
+&lt;p&gt;Да и вообще, это видео скорее рассказывает о работе в LS-PrePost, чем и надо пользоваться новичкам.&lt;/p&gt;
+&lt;p&gt;#LSDYNA #LSPrePost #LSTC
+&lt;a href=&#34;http://bit.ly/2ymqbIw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2ymqbIw&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование армирования в бессеточных методах</title>
+      <link>http://localhost:1313/posts/2018-07-19-modelirovanie-armirovaniya-v-bessetochnyh/</link>
+      <pubDate>Thu, 19 Jul 2018 18:00:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-07-19-modelirovanie-armirovaniya-v-bessetochnyh/</guid>
+      <description>&lt;p&gt;Хочу обратить ваше внимание на статью &amp;ldquo;The Immersed Smoothed Particle Galerkin Method in LS-DYNA® for Material Failure Analysis of Fiber-Reinforced Solid Structures&amp;rdquo;, опубликованную в рамках 15-ой международной пользовательской конференции LS-DYNA. В ней рассказывается про разработку новой карты *CONSTRAINED_IMMERSED_IN_SPG, которая позволяет автоматически встраивать армирование на основе beam элементов в матрицу, на основе SPG формулировки.&lt;/p&gt;
+&lt;p&gt;SPG - Smoothed Particle Galerkin Method - бессеточный метод, разработанный LSTC для моделирования процессов как хрупкого, так и пластического разрушения. Данный метод вобрал в себя все преимущества SPH, но лишился его недостатков - например, нестабильности при растяжении или невозможности работы с неявным решателем. Подробности по математике метода тут: https://www.dynalook.com/13th-international-ls-dyna-conference/fluid-structure-interaction/an-introduction-to-the-ls-dyna-r-smoothed-particle-galerkin-method-for-severe-deformation-and-failure-analyses-in-solids
+Таким образом, *CONSTRAINED_IMMERSED_IN_SPG позволит нормально считать задачи пробивания в бессеточной постановке как только будет включен.&lt;/p&gt;
+&lt;p&gt;#LSDYNA #LSTC #Meshless #Reinforcement #SPG #SPH
+&lt;a href=&#34;http://bit.ly/2NrEzFg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NrEzFg&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование железобетона в оболочечной постановке</title>
+      <link>http://localhost:1313/posts/2018-07-16-modelirovanie-zhelezobetona-v-obolochechnoy/</link>
+      <pubDate>Mon, 16 Jul 2018 18:00:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-07-16-modelirovanie-zhelezobetona-v-obolochechnoy/</guid>
+      <description>&lt;p&gt;В сеть попала презентация от LSTC и ARUP по использованию такой замечательной модели железобетона, как *MAT_CONCRETE_EC2, где EC2 - это от Eurocode. Чувствуете чем пахнет?&lt;/p&gt;
+&lt;p&gt;Модель *MAT_CONCRETE_EC2 позволяет такое, что любая модель бетона для твердотельной постановки позавидует:&lt;/p&gt;
+&lt;p&gt;Работа в оболочечной и балочной (армированные колонны) постановке
+Автоматическая генерация входных параметров согласно классу прочности бетона по Eurocode2
+Учет нескольких слоев армирования
+Термическое разупрочнение для моделирования пожаров
+Поддержка циклического нагружения&lt;/p&gt;
+&lt;p&gt;А еще, поддержка данной модели реализована в Beta ражиме внутри ANSYS Workbench LS-DYNA - данная модель материала доступна в Engineering Data!&lt;/p&gt;
+&lt;p&gt;У меня даже есть примеры диссертаций, где она использовалась:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.byggmek.lth.se/fileadmin/byggnadsmekanik/publications/tvsm5000/web5193.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.byggmek.lth.se/fileadmin/byggnadsmekanik/publications/tvsm5000/web5193.pdf&lt;/a&gt;
+&lt;a href=&#34;https://paginas.fe.up.pt/~eurodyn2014/CD/papers/492_MS24_ABS_1957.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://paginas.fe.up.pt/~eurodyn2014/CD/papers/492_MS24_ABS_1957.pdf&lt;/a&gt;
+&lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-01183176/document&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://hal.archives-ouvertes.fr/hal-01183176/document&lt;/a&gt;
+&lt;a href=&#34;https://www.dynalook.com/13th-international-ls-dyna-conference/blast/response-of-a-large-span-stay-cable-bridge-to-blast-loading&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/13th-international-ls-dyna-conference/blast/response-of-a-large-span-stay-cable-bridge-to-blast-loading&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ну и собственно материал, который стал инфоповодом для данного поста:
+&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/support/FAQ_kw/concrete/MAT_172_notes_03apr2018.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/support/FAQ_kw/concrete/MAT_172_notes_03apr2018.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ARUP #Concrete #LSDYNA #LSTC #MATCONCRETEEC2
+&lt;a href=&#34;http://bit.ly/2uEXrIV&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2uEXrIV&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Электромагнитный решатель LS-DYNA: моделируем рельсотрон</title>
+      <link>http://localhost:1313/posts/2018-05-01-elektromagnitnyy-reshatel-ls-dyna-model/</link>
+      <pubDate>Tue, 01 May 2018 18:01:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-05-01-elektromagnitnyy-reshatel-ls-dyna-model/</guid>
+      <description>&lt;p&gt;Сегодня у нас 7-ой видеоурок, посвященный решению задач электромагнетизма в LS-DYNA. И сегодня нашему вниманию предлагается моделирование рельсотрона — полуфантастического оружия, сошедшего с экранов компьютерных игр и вставшего на боевое дежурство в реальных вооруженных силах.
+Но нас в этой задаче больше будет интересовать методика перестроения BEM сетки в условиях меняющейся геометрии. Как видно из видео, это не очень сложно настроить, но это потребляет очень много вычислительных ресурсов при выполнении расчета.&lt;/p&gt;
+&lt;p&gt;Как всегда в подобных учебных видео, LSTC публикует расчетную модель для самостоятельного изучения: &lt;a href=&#34;https://www.dynaexamples.com/em/em_railgun&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynaexamples.com/em/em_railgun&lt;/a&gt;
+#BEM #EM #LS-DYNA #LSTC #railgun&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1NS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1NS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Электромагнитный решатель LS-DYNA: использование циклической</title>
+      <link>http://localhost:1313/posts/2018-04-08-elektromagnitnyy-reshatel-ls-dyna-ispol/</link>
+      <pubDate>Sun, 08 Apr 2018 18:00:51 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-04-08-elektromagnitnyy-reshatel-ls-dyna-ispol/</guid>
+      <description>&lt;p&gt;Шестая часть цикла уроков, посвящённых работе EM решателя LS-DYNA в приложении к задачам электромагнитной штамповки.&lt;/p&gt;
+&lt;p&gt;Рассматривается работа EM решателя в постановке, использующей циклическую симметрию. Почему-то тут эту постановку упорно называют осесимметричной, хотя до плоских элементов так и не доходят.&lt;/p&gt;
+&lt;p&gt;Видимо это связано с тем, что используются специальные команды, позволяющие существенно ускорить процесс расчета: на рассмотренном примере — в 100 раз! Интересно, что циклосимметричная постановка для EM решателя работает в связке с полной 3D постановкой для задачи механики (прочность и тепло).
+Как обычно это бывает у LSTC, вы можете скачать модель для самостоятельного изучения тут: http://www.dynaexamples.com/em/em_axi&lt;/p&gt;
+&lt;p&gt;#EM #Forming #LSDYNA #LSTC
+&lt;a href=&#34;https://is.gd/QmTqht&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://is.gd/QmTqht&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-Run от LSTC упрощает запуск расчетов LS-DYNA</title>
+      <link>http://localhost:1313/posts/2018-03-15-ls-run-ot-lstc-uproschaet-zapusk-raschetov/</link>
+      <pubDate>Thu, 15 Mar 2018 18:01:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-03-15-ls-run-ot-lstc-uproschaet-zapusk-raschetov/</guid>
+      <description>&lt;p&gt;Одна маленькая бесплатная утилита от LSTC, идущая в составе с LS-PrePost, начиная с версии 4.5 или скачиваемая отдельно с ftp.lstc.com, решает сразу кучу задач:&lt;/p&gt;
+&lt;p&gt;Взаимодействие с сервером лицензий
+Запуск расчетов локально
+Поддержание очереди задач
+Упрощение открытия результатов на постпроцессинге
+Рестарт расчетов
+Запуск удаленных расчетов
+Взаимодействие с кластерами на базе Microsoft HPC Cluster&lt;/p&gt;
+&lt;p&gt;Учебное видео по ее использованию в комплекте&lt;/p&gt;
+&lt;p&gt;#HPC #LSDYNA #LSRun #LSTC
+&lt;a href=&#34;https://goo.gl/XeUstw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/XeUstw&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Электромагнитный решатель LS-DYNA: оптимизация вычислительно</title>
+      <link>http://localhost:1313/posts/2018-03-09-elektromagnitnyy-reshatel-ls-dyna-optim/</link>
+      <pubDate>Fri, 09 Mar 2018 18:00:56 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-03-09-elektromagnitnyy-reshatel-ls-dyna-optim/</guid>
+      <description>&lt;p&gt;Пятый эпизод сезона увлекательных видео от LSTC, посвященных возможностям проведения связанных электромагнитных расчетов. Сегодня речь идет об уловках и хитростях, которые позволят сэкономить вычислительные ресурсы.
+Следующие три шага, описанные в видео, позволят в 2 раза сократить время расчета рассматриваемого примера:&lt;/p&gt;
+&lt;p&gt;Экономия на BEM постановке за счет разумной постановки граничных условий и настройки точности/стабильности расчета (за счет P и Q матриц);
+Настройка шага интегрирования по времени, который тут не обязательно должен подчиняться критерию Куранта;
+Правильное использование лога работы решателя (управление через EM_OUTPUT) и профайлинг проекта.&lt;/p&gt;
+&lt;p&gt;#BEM #EM #LSDYNA #LSTC
+&lt;a href=&#34;https://goo.gl/JxUG1y&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/JxUG1y&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Электромагнитный решатель LS-DYNA: связка с задачами механик</title>
+      <link>http://localhost:1313/posts/2018-02-23-elektromagnitnyy-reshatel-ls-dyna-svyazk/</link>
+      <pubDate>Fri, 23 Feb 2018 18:00:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-02-23-elektromagnitnyy-reshatel-ls-dyna-svyazk/</guid>
+      <description>&lt;p&gt;Сегодня 4-ая часть серии учебных видео по работе с EM решателем LS-DYNA. И сегодня мы перейдем к разбору того, как в задаче электромагнитной штамповки осуществлятеся свзка трех физик: прочности, тепла и электромагнитизма.&lt;/p&gt;
+&lt;p&gt;Для начал нам рассказывают, какие именно допущеня при решении уравнений Максвела используются в рассматриваемой постновке задачи.
+Мне очень поравилась часть, рассказывающая о связке трех незваисимо работающих решателей — тепла, прочтости и электромагнетизма. Мало того, что у каждого решателя свой шаг по времени, так они еще и используют кто FEM, а кто BEM постновки. И тут есть вожный момент — FEM/BEM постновку для EM решателя надо перестраивать при деформации геометрии (карты *EM_SOLVER_FEM и *EM_SOLVER_BEM), а она у нас в этом уроке уже будет.&lt;/p&gt;
+&lt;p&gt;В видео также вводится понятия EM EOS — уравнения состояния для материала, используемое электромагнитным решателем для учета влияния тепловых эффектов на проводимость. Тут можно использовать как готовые уравнения состояния, так и задать свои собственные уравнения в аналитической форме или как процедуру на Fortran (аналогично карте *DEFINE_FUNCRION).&lt;/p&gt;
+&lt;p&gt;Таким образом, на данном этапе мы уже можем поставить задачу электромагнитной штамповки, организовав совместный расчет сразу трех физик: механики, тепла и электромагнитизма, что уже является внушительным набором. Файлы для самостоятельной тренировки лежать тут: http://www.dynaexamples.com/em/em_forming&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Электромагнитный решатель LS-DYNA: добавим больше физики</title>
+      <link>http://localhost:1313/posts/2018-02-09-elektromagnitnyy-reshatel-ls-dyna-dobav/</link>
+      <pubDate>Fri, 09 Feb 2018 18:01:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-02-09-elektromagnitnyy-reshatel-ls-dyna-dobav/</guid>
+      <description>&lt;p&gt;Продолжаем знакомиться с  возможностями решателя от LSTC в области электромагнитных расчетов. Второй видеоурок посвящен особенностям выбора шага по времени и настройке сетки модели.&lt;/p&gt;
+&lt;p&gt;Собственно, сетка строится так, чтобы на поверхности проводника было хотя бы 3 элемента на толщину скин-слоя (&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Скин-эффект). И опять нам рекомендуют использовать hex сетку.&lt;/p&gt;
+&lt;p&gt;Несмотря на то, что решатель в данном классе задач используется неявный (должен сходиться с любым шагом по времени), разработчики рекомендуют соблюдать критерий Куранта-Фридрихса-Леви в его электромагнитной формулировке. Так мы сможем повысить не только точность, но и стабильность расчета.&lt;/p&gt;
+&lt;p&gt;Кроме того, в видео показывают ряд интересных возможностей по постпроцессингу результатов - например, построение эпюр и линий поля.&lt;/p&gt;
+&lt;p&gt;Интересный факт: оказывается EM решатель LS-DYNA основан на библиотеках FEMSTER&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=LYhXfSLwz0c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=LYhXfSLwz0c&lt;/a&gt;
+#EM #FEMSTER #LS-DYNA #LSTC
+&lt;a href=&#34;https://wp.me/p9vWYY-1BP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1BP&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Расчет подрыва ЖБ плиты с учетом фрагментации</title>
+      <link>http://localhost:1313/posts/2018-02-07-raschet-podryva-zhb-plity-s-uchetom-fragmen/</link>
+      <pubDate>Wed, 07 Feb 2018 18:00:53 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-02-07-raschet-podryva-zhb-plity-s-uchetom-fragmen/</guid>
+      <description>&lt;p&gt;Очень красивый пример от LSTC, демонстрирующий работу LS-DYNA в области расчета взрывов и переноса нагрузок от них на конструкции. Разберем три составляющих успеха данного расчета.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Имеем бетонную плиту, армированную стальными стержнями (естественно beam арматура внедряется в solid бетон при помощи специальных уравнений связи типа *CONSTRAINED_BEAM_IN_SOLID).&lt;/li&gt;
+&lt;li&gt;Дальше, на этой плите расположен заряд в оболочке из shell элементов. Заряд ВВ моделируется в постановке Particle Blast Method (PBM) - не надо заморачиваться с генерацией SPH или переходом в эйлеров домен. PBM решает быстро и точно!&lt;/li&gt;
+&lt;li&gt;И на десерт, для solid элементов бетона задается *DEFINE_ADAPTIVE_SOLID_TO_SPH - автоматическое переключение умерших solid элементов в SPH частицы, моделирующие разлет осколков. Надо отдельно отметить, что получающиеся SPH частицы могут не просто разлетаться, как точечные массы, но и работать как тот же самый бетон, но уже сильно поврежденный - между ними есть определенный потенциал взаимодействия.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=QHbO6tRPI3c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=QHbO6tRPI3c&lt;/a&gt;
+#blast #concrete #CONSTRAINED_BEAM_IN_SOLID #DEFINE_ADAPTIVE_SOLID_TO_SPH #fracture #fragmentation #LS-DYNA #LSTC #ParticleBlast #reinforcement #SPH
+&lt;a href=&#34;https://wp.me/p9vWYY-1BK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1BK&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Моделирование резки металла бессеточным методом Галеркина</title>
+      <link>http://localhost:1313/posts/2018-02-06-modelirovanie-rezki-metalla-bessetochnym/</link>
+      <pubDate>Tue, 06 Feb 2018 18:01:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-02-06-modelirovanie-rezki-metalla-bessetochnym/</guid>
+      <description>&lt;p&gt;EFG - ElementFree Galerkin Method, он же бессеточный метод Галеркина, применяется при решении задач механики, связанных с большими деформациями как, например, резка металла, экструзия, ковка и прочие подобные процессы обработки материалов.&lt;/p&gt;
+&lt;p&gt;Метод позволяет аккуратно описать процессы изменения формы конструкции, учесть как трение, так и и выделение тепла. При этом метод работает как с явной, так и с неявной схемой интегрирования по времени. Подробнее о реализации данного метода в LS-DYNA можно почитать в этой презентации: http://www.dynalook.com/european-conf-2009/I-I-01.pdf&lt;/p&gt;
+&lt;p&gt;Мы же рассмотрим видеопример, где показаны основные моменты настройки именно EFG части расчета.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=BREDG6QHUKA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=BREDG6QHUKA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;А еще по этой теме есть готовый пример от LSTC: http://www.dynaexamples.com/efg/metal-cutting
+#cutting #EFG #LS-DYNA #LSTC
+&lt;a href=&#34;https://wp.me/p9vWYY-1C4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1C4&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Большой и очень подробный видео урок про то как можно оптими</title>
+      <link>http://localhost:1313/posts/2017-12-15-bolshoy-i-ochen-podrobnyy-video-urok-pro/</link>
+      <pubDate>Fri, 15 Dec 2017 17:13:39 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-12-15-bolshoy-i-ochen-podrobnyy-video-urok-pro/</guid>
+      <description>&lt;p&gt;Интересные фишки урока - #ANSA используется для морфина сетки. Надо отметить, что та сетка, что вы видите - это не расчетная сетка. Расчетная сетка генерируется решателем на лету. Та сетка, что вы видите - это просто такое представление геометрии для решателя. Это же объясняет отсутствие призматических слоев у границ домена. По сути работая с сеткой в #ANSA тут задают параметризацию формы геометрии как #SpaceClaim.&lt;/p&gt;
+&lt;p&gt;А вот начиная со времени 10:12 начинается настройка параметрического проекта в LS-Opt - бесплатного (!!!) оптимизатора от #LSTC. Очень полезно тем, кто хочет познакомиться с оптимизацией. Бесплатен #LSOPT для тех, у кого есть LS-DYNA 😊&lt;/p&gt;
+&lt;p&gt;И да, если у вас есть весь описаный в уроке софт, то вот ссылка на архив пролета от авторов видео урока: &lt;a href=&#34;http://ift.tt/2AB0pjs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2AB0pjs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5h0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=5h0&lt;/a&gt;…MediaMediaMedia📼 Shape optimization for CFD analysis using LS-Opt +…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2ABXw28&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ABXw28&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сегодня у нас на повестке дня эксклюзивный материал: моя неб</title>
+      <link>http://localhost:1313/posts/2017-11-15-segodnya-u-nas-na-povestke-dnya-eksklyuzivn/</link>
+      <pubDate>Wed, 15 Nov 2017 17:01:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-11-15-segodnya-u-nas-na-povestke-dnya-eksklyuzivn/</guid>
+      <description>&lt;p&gt;#LSTC #LSPP #macOS&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2jve485Media&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2jve485Media&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2jtqsp0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2jtqsp0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Тут у меня коллеги интересовались моделированием хрупкого ра</title>
+      <link>http://localhost:1313/posts/2017-11-09-tut-u-menya-kollegi-interesovalis-modeli/</link>
+      <pubDate>Thu, 09 Nov 2017 17:09:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-11-09-tut-u-menya-kollegi-interesovalis-modeli/</guid>
+      <description>&lt;p&gt;Так вот, я поскреб по сусекам, посмотрел, что у меня есть в волшебном хранилище знаний, и нашел отличную ссылку на репозиторий господина Cheng-Tang Wu (одного из главных разработчиков #LSTC в этом направлении), где он выкладываем свой учебный курс по бессрочным методам (корме перидинамики есть еще #EFG и #SPG).&lt;/p&gt;
+&lt;p&gt;Внимание, в составе данного учебного курса есть работающие примеры со всем перечисленными бессрочными методами расчета разрушения!&lt;/p&gt;
+&lt;p&gt;#meshless #peridynamics #AdaptiveEFG&lt;/p&gt;
+&lt;p&gt;P.S. Насколько я понял, ключевые карты SECTION_SOLID_PERI и MAT_ELASTIC_PERI пока реализованы только в beta версиях решателя поколения R10.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&lt;/a&gt; 🔗 Index of /anonymous/outgoing/whu/Class&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Использование #SPH для полноценных гидродинамических расчето</title>
+      <link>http://localhost:1313/posts/2017-09-08-ispolzovanie-sph-dlya-polnotsennyh-gidro/</link>
+      <pubDate>Fri, 08 Sep 2017 17:08:26 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-09-08-ispolzovanie-sph-dlya-polnotsennyh-gidro/</guid>
+      <description>&lt;p&gt;Коллеги из #LSTC посчитали простенькую #FSI задачу в #LSDYNA, а потом при помощи #Paraview (бесплатно) реконструировали свободную поверхность и сделали красивый рендер в #VisualSPHysic (бесплатно, #opensource) для #Blender (бесплатно, #opensource).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=HHb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=HHb&lt;/a&gt;…Media📼 LS-DYNA SPH: Flexible impeller pump simulation, Bl…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2xRdHGW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xRdHGW&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Реализации модели RHT (RTH) в LS-DYNA и AUTODYN</title>
+      <link>http://localhost:1313/posts/2017-06-05-realizatsii-modeli-rht-rth-v-ls-dyna-i/</link>
+      <pubDate>Mon, 05 Jun 2017 17:01:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-06-05-realizatsii-modeli-rht-rth-v-ls-dyna-i/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/11th-european-ls-dyna-conference/concrete-penetration/comparison-of-the-rht-concrete-material-model-in-ls-dyna-and-ansys-autodyn/view&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/11th-european-ls-dyna-conference/concrete-penetration/comparison-of-the-rht-concrete-material-model-in-ls-dyna-and-ansys-autodyn/view&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Модель материала для предсказания поведения высокопрочного и сверх высокопрочного бетона #RHT или #RTH является пожалуй одной из самых известных моделей в своей области. Она названа по инициалам ученых, разработавших ее: Riedel, Hiermaier и Thoma.&lt;/p&gt;
+&lt;p&gt;Данная модель реализована как в #LSTC #LSDYNA (*MAT_272), так и в #ANYS #AUTODYN (и в ANSYS #Explicit STR заодно ). Только если в LSD есть еще с десяток моделей-конкурентов, до в AD других моделей бетона нет.&lt;/p&gt;
+&lt;p&gt;Коллеги из немецкой организации #GRS (Gesellschaft für Anlagen- und Reaktorsicherheit (GRS) gGmbH, &lt;a href=&#34;http://www.grs.de/en&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.grs.de/en&lt;/a&gt;) в своей работе провели сравнительный анализ реализаций модели. Получились очень любопытные выводы. Обе реализации сеточнозависимы по показателю разрушения, в AUTODYN еще и некорректно считает трещенообразование при растягивающих нагрузках.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оптимизация топологии на основе моделирования краштетса</title>
+      <link>http://localhost:1313/posts/2017-05-16-optimizatsiya-topologii-na-osnove-modeliro/</link>
+      <pubDate>Tue, 16 May 2017 17:01:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-05-16-optimizatsiya-topologii-na-osnove-modeliro/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.dynamore.de/de/download/papers/ls-dyna-forum-2012/documents/optimization-3-2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.de/de/download/papers/ls-dyna-forum-2012/documents/optimization-3-2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Знаете ли вы, что кроме стандартных алгоритмов метода подвижных асимптот или критерия оптимальности, заложенных в большинство оптимизаторов топологии (например #ANSYS), существуют гораздо более сложные и продвинутые алгоритмы?&lt;/p&gt;
+&lt;p&gt;Вот, например, #DYNAmore провели обзор и сравнения алгоритма #ESL (Equivalent Static Loads) заложенного внутрь #Genesis и #HCA (Hybrid Cellular Automata)  из состава #LSTC LS-TaSC (#LSTASC).&lt;/p&gt;
+&lt;p&gt;Среди фишек данных методов - возможность работы с динамическими нагрузками, нелинейными материалами и учетом больших перемещений.&lt;/p&gt;
+&lt;p&gt;#topology #optimization&lt;/p&gt;
+&lt;p&gt;P.S. LS-TaSC бесплатный софт для тех, у кого есть #LSDYNA :-)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cray, LSTC и Rolls-Royce соберутся на одном вебинаре</title>
+      <link>http://localhost:1313/posts/2016-08-28-cray-lstc-i-rolls-royce-soberutsya-na-od/</link>
+      <pubDate>Sun, 28 Aug 2016 12:00:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-08-28-cray-lstc-i-rolls-royce-soberutsya-na-od/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://web.cray.com/CAE_webinar_series_LSTC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://web.cray.com/CAE_webinar_series_LSTC&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Компании #Cray, #LSTC и #RollsRoyce 13 сентября проведут совместный вебинар. На вебинаре будут показаны их достижения в области #HPC для расчетов, выполняемых в #LSDYNA&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#ANSYS сколько угодно может говорить, что Mac OS X - это не </title>
+      <link>http://localhost:1313/posts/2015-12-30-ansys-skolko-ugodno-mozhet-govorit-cht/</link>
+      <pubDate>Wed, 30 Dec 2015 06:00:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-12-30-ansys-skolko-ugodno-mozhet-govorit-cht/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

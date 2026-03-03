@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FSI on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/fsi/</link>
+    <description>MagicDPD: Magic Driven Product Development! (FSI)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 19 Jan 2022 17:00:09 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/fsi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Сегодня я бы хотел рассказать вам об исследовании процесса р</title>
+      <link>http://localhost:1313/posts/2022-01-19-segodnya-ya-by-hotel-rasskazat-vam-ob-iss/</link>
+      <pubDate>Wed, 19 Jan 2022 17:00:09 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-01-19-segodnya-ya-by-hotel-rasskazat-vam-ob-iss/</guid>
+      <description>&lt;p&gt;Джошуа моделирует процесс разрушения айсберга,  сползающего в океан, создав код, учитывающий физические механизмы фрагментации льда и процесс взаимодействия жидкости и твердого тела. Весь расчет проводится с применением метода материальной точки (#MPM, Material Point Method), что позволяет достаточной просто и стабильно моделировать требуемые механические эффекты. Основные принципы работы MPM кратко, но внятно рассказаны в докладе по итогам работы.
+Работа хорошо структурирована, а все изложение строиться на последовательности валидационных и верификационных примеров.
+Короче говоря, сплошное наслаждение для ума.
+#meshless #ice #fragmentation #FSI
+&lt;a href=&#34;https://youtu.be/7IC_ehdH7ZM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/7IC_ehdH7ZM&lt;/a&gt; &lt;a href=&#34;https://joshuahwolper.com/glacier&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://joshuahwolper.com/glacier&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование приводнения возвращаемого аппарата в FlowVisio</title>
+      <link>http://localhost:1313/posts/2020-05-06-modelirovanie-privodneniya-vozvraschaemogo/</link>
+      <pubDate>Wed, 06 May 2020 13:00:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-05-06-modelirovanie-privodneniya-vozvraschaemogo/</guid>
+      <description>&lt;p&gt;#CFD #FlowVision
+by Ян Поженько&lt;/p&gt;
+&lt;p&gt;LS-DYNA ICFD для расчета маски&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вебинар «Методики моделирования взрывов в Ansys LS-DYNA»</title>
+      <link>http://localhost:1313/posts/2020-04-24-vebinar-metodiki-modelirovaniya-vzryvov/</link>
+      <pubDate>Fri, 24 Apr 2020 15:27:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-04-24-vebinar-metodiki-modelirovaniya-vzryvov/</guid>
+      <description>&lt;p&gt;#ALE #blast #CESE #ConWep #FSI #LS_DYNA #ParticleBlast #S_ALE #SPH
+by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Постановка S-ALE расчета в LS-PrePost Solution Explorer</title>
+      <link>http://localhost:1313/posts/2020-02-10-postanovka-s-ale-rascheta-v-ls-prepost-so/</link>
+      <pubDate>Mon, 10 Feb 2020 13:00:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-02-10-postanovka-s-ale-rascheta-v-ls-prepost-so/</guid>
+      <description>&lt;p&gt;#ALE #FSI #LS_DYNA #LS_PrePost #S_ALE #Solution_Explorer
+by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-DYNA для 2-way-FSI c учетом пористости ткани</title>
+      <link>http://localhost:1313/posts/2019-12-21-ls-dyna-dlya-2-way-fsi-c-uchetom-poristost/</link>
+      <pubDate>Sat, 21 Dec 2019 13:00:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-12-21-ls-dyna-dlya-2-way-fsi-c-uchetom-poristost/</guid>
+      <description>&lt;p&gt;#FSI #ICFD #LS_DYNA #Parachute #simulationfriday
+by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование горения газовых смесей в LS-DYNA</title>
+      <link>http://localhost:1313/posts/2019-06-27-modelirovanie-goreniya-gazovyh-smesey-v-l/</link>
+      <pubDate>Thu, 27 Jun 2019 17:01:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-06-27-modelirovanie-goreniya-gazovyh-smesey-v-l/</guid>
+      <description>&lt;p&gt;Вашему вниманию предлагаю слайды доклада коллег из LSTC по теме моделирования горения газовых смесей. Да-да, совместная работа CESE решателя гидродинамики с учетом сжимаемости и химического решателя (оба внутри LS-DYNA) позволяют и такое.&lt;/p&gt;
+&lt;p&gt;Все это идет далеко за пределы квалификации хорошего инженера расчётчика: тут необходимы знания и химии, и механики, и гидродинамики. Но зато вы сможете считать как горение, так и детонацию газовой смеси!&lt;/p&gt;
+&lt;p&gt;Слайды доступны по ссылке:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;ftp://ftp.lstc.com/outgoing/ksim/examples/LNG_fire/Lng_combustion_KOGAS_2018.pdf&#34;&gt;ftp://ftp.lstc.com/outgoing/ksim/examples/LNG_fire/Lng_combustion_KOGAS_2018.pdf&lt;/a&gt; &lt;a href=&#34;ftp://ftp.lstc.com/outgoing/ksim/examples/LNG_fire/Lng_combustion_KOGAS_2018.ppsm&#34;&gt;ftp://ftp.lstc.com/outgoing/ksim/examples/LNG_fire/Lng_combustion_KOGAS_2018.ppsm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#CESE #Chemistry #FSI #LS_DYNA #LSTC&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2A1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2A1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Просто залипательные видео про подушки безопастности</title>
+      <link>http://localhost:1313/posts/2019-06-19-prosto-zalipatelnye-video-pro-podushki-b/</link>
+      <pubDate>Wed, 19 Jun 2019 17:00:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-06-19-prosto-zalipatelnye-video-pro-podushki-b/</guid>
+      <description>&lt;p&gt;Серия видео с результатом расчета раскрытия подушки безопасности. Поведение газа внутри объема подушки моделируется при помощи  Particle Finite Element Method (PFEM), относящийся к бессточным методам Галеркина.&lt;/p&gt;
+&lt;p&gt;#ABAQUS #Airbag #FSI #PFEM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2zF&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2zF&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Совместная работа Particleworks и RecurDyn</title>
+      <link>http://localhost:1313/posts/2019-02-25-sovmestnaya-rabota-particleworks-i-recurd/</link>
+      <pubDate>Mon, 25 Feb 2019 17:01:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-02-25-sovmestnaya-rabota-particleworks-i-recurd/</guid>
+      <description>&lt;p&gt;RecurDyn на своем канале выложил очень много красивых примеров взаимодействия с бессеточным CFD решетелем от Particleworks. Развлекательное пятничное видео.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=_sMYSve1Mms&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=_sMYSve1Mms&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=WCSjr-0i1Ag&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=WCSjr-0i1Ag&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jJ5dUNGOx50&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jJ5dUNGOx50&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=d-4AixP23tM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=d-4AixP23tM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UtuuuXnarDQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=UtuuuXnarDQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#CFD #FSI #Particleworks #RecurDyn&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2m9&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2m9&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS подружится с Prometech Software, Inc.</title>
+      <link>http://localhost:1313/posts/2018-12-21-ansys-podruzhitsya-s-prometech-software-i/</link>
+      <pubDate>Fri, 21 Dec 2018 17:01:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-12-21-ansys-podruzhitsya-s-prometech-software-i/</guid>
+      <description>&lt;p&gt;В прошедший понедельник на своей конференции японская компания Prometech Software, Inc. объявила о дружбе с ANSYS. Давайте разберемся, почему это очень круто.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/WDFSzgjWR_4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/WDFSzgjWR_4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Прежде всего, стоит вспомнить, что Prometech - это разработчик Particleworks, одного из самых умных бессеточных CFD решателей. Решатель бессеточный - работает на основе своего метода частиц MPS (Moving Particle Simulation) Method.&lt;/p&gt;
+&lt;p&gt;Работа решателя на основе метода частиц позволяет решать динамические задачи с подвижными (и сильно подвижными :-)) границами, FSI и описывать прочие динамические процессы - например, задачи смазки зубчатых передач, слошинш, аквапланирование.&lt;/p&gt;
+&lt;p&gt;Ну и вишенка на торте - все это еще умеет очень хорошо работать на GPU. Я бы на месте ANSYS давно уже купил эту компанию целиком.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.prometech.co.jp/newsroom_ja/prometech-and-ansys-announce-a-collaboration-to-provide-broader-multiphysics-solution.html?lang=ja&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.prometech.co.jp/newsroom_ja/prometech-and-ansys-announce-a-collaboration-to-provide-broader-multiphysics-solution.html?lang=ja&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS #CFD #FSI #GPU #Meshless #MPS #Particleworks #Prometech
+&lt;a href=&#34;http://bit.ly/2V1xxeO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2V1xxeO&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Уравнение Мурнагана для моделирования жидкостей в SPH</title>
+      <link>http://localhost:1313/posts/2018-07-26-uravnenie-murnagana-dlya-modelirovaniya-zhi/</link>
+      <pubDate>Thu, 26 Jul 2018 18:00:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-07-26-uravnenie-murnagana-dlya-modelirovaniya-zhi/</guid>
+      <description>&lt;p&gt;В LS-DYNA R10 появилось новое уравнение состояния для моделирования жидкостей. Если раньше приходилось мучаться с уравнением состояния Грюнайзена, то теперь есть специальное уравнение состояния Мурнагана для слабосжимаемых жидкостей. У LSTC есть не только статья, рассказывающая о том, как работает данное уравнение, но и целый рабочий пример, скалиброванный на эксперименте и дающий достоверные результаты!&lt;/p&gt;
+&lt;p&gt;Таким образом, мы имеем EOS_MURNAGHAN, которое сопрягается с MAT_NULL и работает только для SECTION_SPH. Остается только задать вязкость жидкости через CONTROL_BULK_VISCOSITY и все готово. Полученное решение хорошо согласуется с экспериментами и расчетами в CFD решателе LS-DYNA ICFD.&lt;/p&gt;
+&lt;p&gt;Статья: https://www.dynalook.com/15th-international-ls-dyna-conference/sph/fluid-flow-modeling-with-sph-in-ls-dyna-r
+Тестовый пример: https://www.dynaexamples.com/sph/intermediate-examples/wavestructure&lt;/p&gt;
+&lt;p&gt;#CFD #FSI #ICFD #LSDYNA #MURNAGHAN #SPH
+&lt;a href=&#34;http://bit.ly/2K2RMSG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2K2RMSG&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#DYNAMore выпустили отличнейший учебный курс по #LSDYNA для </title>
+      <link>http://localhost:1313/posts/2017-11-07-dynamore-vypustili-otlichneyshiy-uchebnyy/</link>
+      <pubDate>Tue, 07 Nov 2017 17:10:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-11-07-dynamore-vypustili-otlichneyshiy-uchebnyy/</guid>
+      <description>&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;Введение в #LSDYNA и #LSPP&lt;/li&gt;
+&lt;li&gt;Основы МКЭ&lt;/li&gt;
+&lt;li&gt;Решение задачи растяжении болта в #explicit и #implicit постановке&lt;/li&gt;
+&lt;li&gt;Краш анализ в простейшем виде&lt;/li&gt;
+&lt;li&gt;Поиск собственных частот и форм колебаний на примере покрышки&lt;/li&gt;
+&lt;li&gt;Упрочнение и разрушение&lt;/li&gt;
+&lt;li&gt;Преднажтяг болта&lt;/li&gt;
+&lt;li&gt;Идентификация параметров при помощи LS-OPT&lt;/li&gt;
+&lt;li&gt;2D CFD задача&lt;/li&gt;
+&lt;li&gt;3D #FSI ICFD задача&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Вот как надо делать учетные курсы!&lt;/p&gt;
+&lt;p&gt;#ICFD #LSOPT
+&lt;a href=&#34;http://www.dynasupport.com/tutorial/introduction-ls-dyna-ls-prepost-for-explicit-and-implicit-analysis&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynasupport.com/tutorial/introduction-ls-dyna-ls-prepost-for-explicit-and-implicit-analysis&lt;/a&gt; 🔗 Introduction LS-DYNA/LS-PrePost for explicit and implicit analysis — LS-DYNA Support&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Использование #SPH для полноценных гидродинамических расчето</title>
+      <link>http://localhost:1313/posts/2017-09-08-ispolzovanie-sph-dlya-polnotsennyh-gidro/</link>
+      <pubDate>Fri, 08 Sep 2017 17:08:26 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-09-08-ispolzovanie-sph-dlya-polnotsennyh-gidro/</guid>
+      <description>&lt;p&gt;Коллеги из #LSTC посчитали простенькую #FSI задачу в #LSDYNA, а потом при помощи #Paraview (бесплатно) реконструировали свободную поверхность и сделали красивый рендер в #VisualSPHysic (бесплатно, #opensource) для #Blender (бесплатно, #opensource).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=HHb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=HHb&lt;/a&gt;…Media📼 LS-DYNA SPH: Flexible impeller pump simulation, Bl…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2xRdHGW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xRdHGW&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Материалы вебинара по новым возможностям LS-DYNA R9</title>
+      <link>http://localhost:1313/posts/2016-12-18-materialy-vebinara-po-novym-vozmozhnostyam/</link>
+      <pubDate>Sun, 18 Dec 2016 17:00:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-12-18-materialy-vebinara-po-novym-vozmozhnostyam/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.dynamore.se/en/news/meet-dynamore/resources/papers/webinar-ls-dyna-r9-presentations&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.se/en/news/meet-dynamore/resources/papers/webinar-ls-dyna-r9-presentations&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Шведское подразделение #DYNAmore любезно выложило слайды с прошедшего вебинара по новым возможностям #LSDYNA R9. Для меня это просто праздник какой-то, ибо внутри есть много очень крутых фишек.&lt;/p&gt;
+&lt;p&gt;Вот что больше всего понравилось мне:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Новые карты &lt;em&gt;MODULE_&lt;/em&gt; для подключения самоличных (#UDF) расширений к вычислительному ядру решателя без его пересборки&lt;/li&gt;
+&lt;li&gt;Роторная динамика (*CONTROL_IMPLICIT_ROTATIONAL_DYNAMICS) в #Implicit решателе&lt;/li&gt;
+&lt;li&gt;Новая подключаемая модель повреждения (не путать с разрушением) материала *MAT_ADD_GENERALIZED_DAMAGE&lt;/li&gt;
+&lt;li&gt;Новая модель материла для *MAT_GLASS стекал (в том числе и триплекса) специально сделанная для моделирования процесса трещенообразования в shell постановке&lt;/li&gt;
+&lt;li&gt;Одно и двухсторонний #FSI для #DEM в #ICFD решателе благодаря *ICFD_CONTROL_DEM_COUPLING&lt;/li&gt;
+&lt;li&gt;Расширенная работа не ньютоновскими жидкостями и жидкостями с температурнозависимой вязкостью благодаря *ICFD_MODEL_NONNEWT&lt;/li&gt;
+&lt;li&gt;Граничные условия типа &amp;ldquo;ударная волна от взрыва&amp;rdquo; (через взаимодействие с *LOAD_BLAST_ENHANCED) для #CFD решателя сжимаемых течений #CESE&lt;/li&gt;
+&lt;li&gt;Бессеточный (!!!) метод обогощенных конечных элементов (Meshfree Enriched FEM, #MEFEM) специально для моделирования резин (*SECTION_SOLID, ELFORM=43).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;P.S. Ну надо было только такое придумать - бессеточный метод конечных элементов :-)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Интересную тему подсказали мне коллеги - штамповка взрывом. </title>
+      <link>http://localhost:1313/posts/2016-07-18-interesnuyu-temu-podskazali-mne-kollegi/</link>
+      <pubDate>Mon, 18 Jul 2016 06:30:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-07-18-interesnuyu-temu-podskazali-mne-kollegi/</guid>
+      <description>&lt;p&gt;Так как задача поставлена в ANSYS Workbech LS-DYNA ACT 17.0, то входной файл получился немного грязный, зато есть параметрический проект.&lt;/p&gt;
+&lt;p&gt;video &lt;a href=&#34;https://www.youtube.com/watch?v=ZplZXHB4knk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ZplZXHB4knk&lt;/a&gt;
+input.k &lt;a href=&#34;http://lnk.al/1ILR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILR&lt;/a&gt;
+ebt.wbpz &lt;a href=&#34;http://lnk.al/1ILQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILQ&lt;/a&gt;
+статья &lt;a href=&#34;http://lnk.al/1ILS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>А вот это уже полезно: генерация волн через граничные услови</title>
+      <link>http://localhost:1313/posts/2016-06-11-a-vot-eto-uzhe-polezno-generatsiya-voln-che/</link>
+      <pubDate>Sat, 11 Jun 2016 07:01:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-11-a-vot-eto-uzhe-polezno-generatsiya-voln-che/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Не болтай ерундой!</title>
+      <link>http://localhost:1313/posts/2016-06-10-ne-boltay-erundoy/</link>
+      <pubDate>Fri, 10 Jun 2016 11:02:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-10-ne-boltay-erundoy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Старый - добрый #Altair #Radioss тоже умеет спускать корабли</title>
+      <link>http://localhost:1313/posts/2016-04-07-staryy-dobryy-altair-radioss-tozhe-um/</link>
+      <pubDate>Thu, 07 Apr 2016 07:02:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-04-07-staryy-dobryy-altair-radioss-tozhe-um/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Связанный расчет в LS-DYNA: #DEM и #ICFD. Дискретные частицы</title>
+      <link>http://localhost:1313/posts/2016-03-04-svyazannyy-raschet-v-ls-dyna-dem-i-icfd/</link>
+      <pubDate>Fri, 04 Mar 2016 11:27:39 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-03-04-svyazannyy-raschet-v-ls-dyna-dem-i-icfd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Так и я ныряю в выходные после 6-ти дневной недели.</title>
+      <link>http://localhost:1313/posts/2016-02-21-tak-i-ya-nyryayu-v-vyhodnye-posle-6-ti-dnev/</link>
+      <pubDate>Sun, 21 Feb 2016 07:00:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-02-21-tak-i-ya-nyryayu-v-vyhodnye-posle-6-ti-dnev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Невольно вспоминается реклама стирального порошка. Но тут вс</title>
+      <link>http://localhost:1313/posts/2016-01-20-nevolno-vspominaetsya-reklama-stiralnog/</link>
+      <pubDate>Wed, 20 Jan 2016 07:02:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-01-20-nevolno-vspominaetsya-reklama-stiralnog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Тема #FSI расчета парашюта в LS-DYNA вызвала большой интерес</title>
+      <link>http://localhost:1313/posts/2015-12-30-tema-fsi-rascheta-parashyuta-v-ls-dyna-vyz/</link>
+      <pubDate>Wed, 30 Dec 2015 18:00:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-12-30-tema-fsi-rascheta-parashyuta-v-ls-dyna-vyz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Раскрытие парашюта - очень сложный FSI.</title>
+      <link>http://localhost:1313/posts/2015-12-28-raskrytie-parashyuta-ochen-slozhnyy-fsi/</link>
+      <pubDate>Mon, 28 Dec 2015 06:30:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-12-28-raskrytie-parashyuta-ochen-slozhnyy-fsi/</guid>
+      <description>&lt;p&gt;А какой код/связка кодов еще может смоделировать такой процесс?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Кто не любит делать блинчики? Я про игру, когда надо подкрут</title>
+      <link>http://localhost:1313/posts/2015-11-15-kto-ne-lyubit-delat-blinchiki-ya-pro-igru/</link>
+      <pubDate>Sun, 15 Nov 2015 18:30:30 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-15-kto-ne-lyubit-delat-blinchiki-ya-pro-igru/</guid>
+      <description>&lt;p&gt;Играть теперь еще интереснее, ибо есть расчет в #SPH и #ALE постановках. #FSI в LS-DYNA.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Продолжаю быть евангелистом LS-DYNA. Нужен доброволец-гидрод</title>
+      <link>http://localhost:1313/posts/2015-10-26-prodolzhayu-byt-evangelistom-ls-dyna-nuzh/</link>
+      <pubDate>Mon, 26 Oct 2015 06:00:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-26-prodolzhayu-byt-evangelistom-ls-dyna-nuzh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Попалась на глаза прелюбопытнейшая статья &#34;Drop Test into Wa</title>
+      <link>http://localhost:1313/posts/2015-09-30-popalas-na-glaza-prelyubopytneyshaya-stat/</link>
+      <pubDate>Wed, 30 Sep 2015 18:00:17 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-30-popalas-na-glaza-prelyubopytneyshaya-stat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

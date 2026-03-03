@@ -1,0 +1,2373 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ansys on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/ansys/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Ansys)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 14 Sep 2022 18:00:17 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/ansys/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Сегодня я бы хотел высказать пару мыслей про #opensource про</title>
+      <link>http://localhost:1313/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</link>
+      <pubDate>Wed, 14 Sep 2022 18:00:17 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</guid>
+      <description>&lt;p&gt;Итак, #Python внутри экосистемы #Ansys есть очень давно, так почему все вдруг начала говорить про #pyAnsys? Дело в том, что раньше python выступал только в роли некого внутреннего инструмента помощи в постановки задачи. Вы запускали продукты Ansys, и в них уже могли что-то автоматизировать на python.&lt;/p&gt;
+&lt;p&gt;pyAnsys полностью меняет концепцию. У каждого модуля появляется свой #API, который вы можете использовать в вашей #python программе. Ansys тут выступает как вспомогательный инструмент.&lt;/p&gt;
+&lt;p&gt;Например, #pyMAPDL позволяет полностью поставить #FEM задачу и запустить решатель MAPDL, который вообще может быть помещен в #docker контейнер. Обработка данных теперь может производиться единым #pyDPF фреймвоком. Данные между решателями теперь могут передаваться как вы придумаете - ведь у всех них есть свой открытый API! И да, никто не ограничивает вас в возможности совместной работы продуктов Ansys и не Ansys. В стандартных примерах вы сейчас можете найти инструкции для работы с #Gmsh.&lt;/p&gt;
+&lt;p&gt;Я бы сказал, что #pyAnsys - это основа для переосмысления Workbench. Сейчас все связи между модулями #Workbench жестко определенны разработчиками. С pyAnsys вас больше нет таких ограничений, а что еще нужно вам для проведения новых увлекательных расчетов? &lt;a href=&#34;https://docs.pyansys.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://docs.pyansys.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Министерство национальной обороны Республики Польша опублико</title>
+      <link>http://localhost:1313/posts/2022-06-28-ministerstvo-natsionalnoy-oborony-respub/</link>
+      <pubDate>Tue, 28 Jun 2022 18:20:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-06-28-ministerstvo-natsionalnoy-oborony-respub/</guid>
+      <description>&lt;p&gt;Расследование сопровождается подробным моделированием происшествия в #Ansys #LSDYNA &lt;a href=&#34;https://youtu.be/5hG9fZGm0R8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/5hG9fZGm0R8&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>В настоящее время в воздухе находится почти 5 миллионов бесп</title>
+      <link>http://localhost:1313/posts/2022-06-23-v-nastoyaschee-vremya-v-vozduhe-nahoditsya-po/</link>
+      <pubDate>Thu, 23 Jun 2022 19:20:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-06-23-v-nastoyaschee-vremya-v-vozduhe-nahoditsya-po/</guid>
+      <description>&lt;p&gt;В сотрудничестве с #transportcanada и #NRCCanada в Западном университете  Лондона был проведен анализ различных сценариев падений и ударов беспилотников (на примере #DJI) в человека. Считали в #Ansys #LSDYNA, использовали модели людей #THUMS. &lt;a href=&#34;https://doi.org/10.4224/40002733&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://doi.org/10.4224/40002733&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Коллеги, сегодня я пользуюсь своим положением создателя прое</title>
+      <link>http://localhost:1313/posts/2022-06-01-kollegi-segodnya-ya-polzuyus-svoim-polozh/</link>
+      <pubDate>Wed, 01 Jun 2022 18:00:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-06-01-kollegi-segodnya-ya-polzuyus-svoim-polozh/</guid>
+      <description>&lt;p&gt;Последние несколько месяцев дались мне очень тяжело как в профессиональном, так и в моральном плане. Однако, сегодня я рад объявить, что я начинаю работать на новом месте. С 1 июня приступаю к  развитию направления #Ansys #LSDYNA в компании #CADFEM GmbH. Моя новая жизнь теперь связана с Германией, где я теперь живу, а мои знания и умения проверяются на соответствие мировым стандартам.&lt;/p&gt;
+&lt;p&gt;Я не собираюсь останавливать работу паблика и буду продолжать поддерживать в нем максимальную техническую чистоту. О моих взглядах на происходящее в мире вы можете судить по моим поступкам, а не словам. &lt;a href=&#34;https://www.cadfem.net/de/en/home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem.net/de/en/home.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>По заявлениям разработчиков, #Endurica является лучшей в мир</title>
+      <link>http://localhost:1313/posts/2022-05-05-po-zayavleniyam-razrabotchikov-endurica-ya/</link>
+      <pubDate>Thu, 05 May 2022 17:00:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-05-05-po-zayavleniyam-razrabotchikov-endurica-ya/</guid>
+      <description>&lt;p&gt;Тут нам в помощь бесплатный вебинар по совместной работе #Ansys #Mechanical и Endurica, который будет уже 24 мая.
+#fatigue&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/K2MS1P1eEZI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/K2MS1P1eEZI&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=4xymu-1_RvE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=4xymu-1_RvE&lt;/a&gt; &lt;a href=&#34;https://www.ansys.com/events/get-rubber-durability-right-with-endurica&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/events/get-rubber-durability-right-with-endurica&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>30 сентября 2017 года над Атлантикой произошла авиационная а</title>
+      <link>http://localhost:1313/posts/2022-05-04-30-sentyabrya-2017-goda-nad-atlantikoy-pro/</link>
+      <pubDate>Wed, 04 May 2022 17:00:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-05-04-30-sentyabrya-2017-goda-nad-atlantikoy-pro/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Рейс_066_Air_France&lt;/p&gt;
+&lt;p&gt;Мне в руки попал отчет с расследованием данного происшествия. И самое интересное для меня в нем - это то, что коллеги разбираются в причинах апории двигателя с помощью моделирования в #Ansys #LSDYNA! &lt;a href=&#34;https://bea.aero/uploads/tx_elydbrapports/BEA2017-0568.en.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://bea.aero/uploads/tx_elydbrapports/BEA2017-0568.en.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Обычно, я занимаюсь моделированием быстропротекающих (что-то</title>
+      <link>http://localhost:1313/posts/2022-04-15-obychno-ya-zanimayus-modelirovaniem-bystr/</link>
+      <pubDate>Fri, 15 Apr 2022 17:00:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-04-15-obychno-ya-zanimayus-modelirovaniem-bystr/</guid>
+      <description>&lt;p&gt;Именно про ползучесть мне и попалась обзорная презентация от Йоргена Бергстрома (Dr. Jorgen Bergstrom), разработчика модели гипервязкоупругости Бергстрома-Бойс (Bergstrom-Boyce) и основателя #PolymerFEM LLC. Проф. Бегрстром в своем видео попробует помочь нам разобраться, зачем в #Ansys #Mechanical реализовано 11 моделей ползучести, как они работают и когда их стоит применять.
+#creep &lt;a href=&#34;https://youtu.be/hhOHap0GL1M&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/hhOHap0GL1M&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#МАГАТЭ расскажет, как использовать #CFD коды для расчетов #</title>
+      <link>http://localhost:1313/posts/2022-04-07-magate-rasskazhet-kak-ispolzovat-cfd/</link>
+      <pubDate>Thu, 07 Apr 2022 17:00:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-04-07-magate-rasskazhet-kak-ispolzovat-cfd/</guid>
+      <description>&lt;p&gt;В данной публикации представлены результаты координируемого МАГАТЭ исследовательского проекта (CRP) по применению кодов вычислительной гидродинамики (CFD) для проектирования атомных электростанций. Основная цель заключалась в сравнении CFD-кодов, вариантов моделей и методов с экспериментальными данными CFD в условиях однофазного потока. В данной публикации обобщены текущие возможности и способы применения CFD-кодов, а также их текущий уровень квалификации в отношении требований к проектированию атомных электростанций. Она не претендует на всеобъемлющий характер, а сосредоточена на международном опыте практического применения этих инструментов при проектировании компонентов и систем атомных электростанций. Руководство в данной публикации основано на материалах, предоставленных международными экспертами атомной промышленности, непосредственно участвующими в вопросах проектирования атомных электростанций, применения CFD, а также в соответствующих экспериментах и валидации, выделенных в ходе CRP.&lt;/p&gt;
+&lt;p&gt;Чаще всего упоминаются наши любимые коды: #Ansys #Fluent и #CFX, #Siemens #StarCCM+, #OpenFOAM &lt;a href=&#34;https://www.iaea.org/publications/14718/summary-review-on-the-application-of-computational-fluid-dynamics-in-nuclear-power-plant-design&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.iaea.org/publications/14718/summary-review-on-the-application-of-computational-fluid-dynamics-in-nuclear-power-plant-design&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>7 апреля шведское подразделение #DYNAmore будет рассказывать</title>
+      <link>http://localhost:1313/posts/2022-04-01-7-aprelya-shvedskoe-podrazdelenie-dynamor/</link>
+      <pubDate>Fri, 01 Apr 2022 17:00:10 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-04-01-7-aprelya-shvedskoe-podrazdelenie-dynamor/</guid>
+      <description>&lt;p&gt;#ANSYS #Damage &lt;a href=&#34;https://www.dynamore.se/en/training/seminars/webinars/parameter-identification-for-gissmo-and-diem-damage-models-1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.se/en/training/seminars/webinars/parameter-identification-for-gissmo-and-diem-damage-models-1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ansys LST ведет работу по удалению всех ссылок на слова &#34;Mas</title>
+      <link>http://localhost:1313/posts/2022-03-29-ansys-lst-vedet-rabotu-po-udaleniyu-vseh/</link>
+      <pubDate>Tue, 29 Mar 2022 17:00:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-03-29-ansys-lst-vedet-rabotu-po-udaleniyu-vseh/</guid>
+      <description>&lt;p&gt;Теперь вместо  &amp;ldquo;Master&amp;rdquo; и &amp;ldquo;Slave&amp;rdquo; надо использовать термины &amp;ldquo;Поверхность A&amp;rdquo; и &amp;ldquo;Поверхность Б&amp;rdquo; соответственно. А в интерфейсе это будет отображаться как SURFA и SURFB.&lt;/p&gt;
+&lt;p&gt;#ANSYS #LSDYNA #LSPREPOST #LSTC &lt;a href=&#34;https://www.linkedin.com/posts/dynamore-nordic-ab_dynamore-lsdyna-ansys-activity-6914524595517595648-SyIn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.linkedin.com/posts/dynamore-nordic-ab_dynamore-lsdyna-ansys-activity-6914524595517595648-SyIn&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Давно я ничего не постил про #concrete! Смотрите, какую крас</title>
+      <link>http://localhost:1313/posts/2022-03-25-davno-ya-nichego-ne-postil-pro-concrete/</link>
+      <pubDate>Fri, 25 Mar 2022 17:00:03 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-03-25-davno-ya-nichego-ne-postil-pro-concrete/</guid>
+      <description>&lt;p&gt;Расчеты, естественно, в #Ansys #LSDYNA &lt;a href=&#34;https://youtu.be/4UJNZv5Pos0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/4UJNZv5Pos0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оптимизация топологии с помощью LS-TaSC и параметрическая оп</title>
+      <link>http://localhost:1313/posts/2022-03-05-optimizatsiya-topologii-s-pomoschyu-ls-tasc/</link>
+      <pubDate>Sat, 05 Mar 2022 17:18:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-03-05-optimizatsiya-topologii-s-pomoschyu-ls-tasc/</guid>
+      <description>&lt;p&gt;#topology #optimization #LSOPT #LSTaSC #DYNAmore #Ansys &lt;a href=&#34;https://www.youtube.com/watch?v=62CQoY0eOfk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=62CQoY0eOfk&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Недавно я писал про модель сердца, которую сделали на день с</title>
+      <link>http://localhost:1313/posts/2022-02-24-nedavno-ya-pisal-pro-model-serdtsa-kotor/</link>
+      <pubDate>Thu, 24 Feb 2022 17:00:10 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-02-24-nedavno-ya-pisal-pro-model-serdtsa-kotor/</guid>
+      <description>&lt;p&gt;#SPH #ALE #ICFD #CFD #ANSYS &lt;a href=&#34;https://www.tafsm.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.tafsm.org&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Презентация с обзором моделей накопления повреждений и нелин</title>
+      <link>http://localhost:1313/posts/2022-02-14-prezentatsiya-s-obzorom-modeley-nakopleniya/</link>
+      <pubDate>Mon, 14 Feb 2022 17:00:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-02-14-prezentatsiya-s-obzorom-modeley-nakopleniya/</guid>
+      <description>&lt;p&gt;Среди авторов презентации хотел бы отметить таких заслуженных экспертов, как Neukamm и  Feucht (авторы модели GISSMO), а также DuBois (первый человек выполнивший коммерческий расчет краш теста)&lt;/p&gt;
+&lt;p&gt;#LSDYNA #ANSYS #GISSMO #GURSON #DYNAMORE &lt;a href=&#34;https://www.dynalook.com/conferences/international-conf-2010/a-comparison-of-recent-damage-and-failure-models-for-steel-materials-in-crashworthiness-application-in-ls-dyna&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/conferences/international-conf-2010/a-comparison-of-recent-damage-and-failure-models-for-steel-materials-in-crashworthiness-application-in-ls-dyna&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Суперкомпьютерное моделирование геомеханического состояния м</title>
+      <link>http://localhost:1313/posts/2021-12-30-superkompyuternoe-modelirovanie-geomehan/</link>
+      <pubDate>Thu, 30 Dec 2021 13:56:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-12-30-superkompyuternoe-modelirovanie-geomehan/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=HwAURzWXxYE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=HwAURzWXxYE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Доклад по применению LS-DYNA для решения геомеханических задач. Доклад сделан в рамках суперкомпьютерной конференции НСКФ-2021 на основе работ коллектива авторов Смалюк А.Ф., Медведев С.В., Матюшенко В.М., Медведева В.Г., Биряльцев Е.В., Дегтярев А.Г., Гильмутдинов Р.Р., Пономаренко Д.В. Текст доклада можно найти на сайте конференции: &lt;a href=&#34;https://2021.nscf.ru/TesisAll/02_Sypercomputernoe_modelirovanie/903_SmalykAF.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://2021.nscf.ru/TesisAll/02_Sypercomputernoe_modelirovanie/903_SmalykAF.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #hpc #lsdyna
+&lt;a href=&#34;https://tinyurl.com/y5mneyzj&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y5mneyzj&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование текстильных композитов в LS-DYNA</title>
+      <link>http://localhost:1313/posts/2021-12-21-modelirovanie-tekstilnyh-kompozitov-v-l/</link>
+      <pubDate>Tue, 21 Dec 2021 20:29:34 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-12-21-modelirovanie-tekstilnyh-kompozitov-v-l/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8xxefifDzY0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=8xxefifDzY0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Очень актуальное для меня свежее видео про работу композитами в LS-DYNA. В решателе много интересных моделей разрушения таких материалов, однако задание ориентаций в LS-PrePost (да и в наборе  от Oasys) - это прям больно. При всей моей любви к LSPP тут от вчистую проигрывает WB LS-DYNA, которая задает ориентации намного быстрее и проще, и это еще без учета возможности подключения к сборке модели Ansys Composite PrepPost. Основные темы видео:&lt;/p&gt;
+&lt;p&gt;Локальные системы координат материалов с использованием опций AOPT и BETA
+Сборка ламинатов на основе *PART_COMPOSITE и *ELEMENT_SHELL_COMPOSITE
+Обзор ортотропных материалов для моделирования композитов
+Использование дополнительных исторических переменных для оценки повреждений/отказов
+Обзор соответствующих карт контроля состояния модели и специфических форматов результатов&lt;/p&gt;
+&lt;p&gt;#acp #ansys #composite #lsdyna #oasys #wb_ls-dyna
+&lt;a href=&#34;https://tinyurl.com/yxwzywmh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yxwzywmh&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Неявная штамповка картона в Ansys Mechanical</title>
+      <link>http://localhost:1313/posts/2021-11-25-neyavnaya-shtampovka-kartona-v-ansys-mechan/</link>
+      <pubDate>Thu, 25 Nov 2021 13:02:34 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-11-25-neyavnaya-shtampovka-kartona-v-ansys-mechan/</guid>
+      <description>&lt;p&gt;Традиционно, для решения задач штамповки используются явные решетили, так как им проще работать с требуемым уровнем нелинейности. Однако тут коллеги из Швеции посчитали штамповку в неявной квазистатической постановке Ansys Mechancial 2019R1! Штамповали в расчете картонные лотки одноразовой посуды. Сетку взяли очень мелкую (потому явный решатель и не подошел). Я могу сказать только, что мне очень нравятся такие публикации, когда нетипичный инструмент оказывается намного эффективнее общепринятый в промышленности подходов.&lt;/p&gt;
+&lt;p&gt;Научная статья: &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/10.1002/pts.2619&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://onlinelibrary.wiley.com/doi/10.1002/pts.2619&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #forming #mechanical
+&lt;a href=&#34;https://tinyurl.com/y2rc3oj3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y2rc3oj3&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-TaSC для нелинейной топологической оптимизации в динамиче</title>
+      <link>http://localhost:1313/posts/2021-11-23-ls-tasc-dlya-nelineynoy-topologicheskoy-op/</link>
+      <pubDate>Tue, 23 Nov 2021 15:42:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-11-23-ls-tasc-dlya-nelineynoy-topologicheskoy-op/</guid>
+      <description>&lt;p&gt;Мы все привыкли, что топологическая оптимизация aka генеративный дизайн, это что-то работающее с кучей ограничений: изотропные материалы, малые перемещения, статическая постановка, отсутствие нелинейности в материалах, отсутствие контактов&amp;hellip; Короче говоря, скучная линейная теория упругости в самой базовой постановке. Конечно есть некоторые отдельные дорогие оптимизаторы, которые обещают и нелинейные расчеты, но пробовали ли вы ими пользоваться для реальных задач?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nVJ_7kpAp_A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nVJ_7kpAp_A&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;А вот у Ansys LST есть отдельный бесплатны (для обладателей лицензий на LS-DYNA) топологический оптимизатор LS-TaSC, который изначально создавался для оптимизации моделей под задачи пассивной безопасности автомобилей. А это значит, что он автоматически работает с большими перемещениями, динамическими контактными задачами и нелинейными материалами. Смотрим вебинар про него и наслаждаемся.&lt;/p&gt;
+&lt;p&gt;#ansys #ansys_lst #ls-tasc #lsdyna #lstc #optimization #topology
+&lt;a href=&#34;https://tinyurl.com/yjzdx4v5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yjzdx4v5&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новые возможности решателя LS-DYNA R13 - часть первая</title>
+      <link>http://localhost:1313/posts/2021-11-18-novye-vozmozhnosti-reshatelya-ls-dyna-r13/</link>
+      <pubDate>Thu, 18 Nov 2021 13:01:48 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-11-18-novye-vozmozhnosti-reshatelya-ls-dyna-r13/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/jZp1yISsBG8?list=PLhkE5O59hYsGBmcYGkRZZMzKgSUTbTIPd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/jZp1yISsBG8?list=PLhkE5O59hYsGBmcYGkRZZMzKgSUTbTIPd&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ремастер первой части вебинара по 13-ому релизу решателю LS-DYNA. Ждете вторую часть?&lt;/p&gt;
+&lt;p&gt;#ansys #cadfem #lsdyna
+&lt;a href=&#34;https://tinyurl.com/ygnloc64&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ygnloc64&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новые возможности среды Workbench LS-DYNA 2021 R2</title>
+      <link>http://localhost:1313/posts/2021-11-16-novye-vozmozhnosti-sredy-workbench-ls-dyn/</link>
+      <pubDate>Tue, 16 Nov 2021 13:01:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-11-16-novye-vozmozhnosti-sredy-workbench-ls-dyn/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=KzmY3U428mo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=KzmY3U428mo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Наконец выложен ремастер моего вебинара по новым возможностям Workbench LS-DYNA 2021 R2!&lt;/p&gt;
+&lt;p&gt;#ansys #cadfem #lsdyna #lstc
+&lt;a href=&#34;https://tinyurl.com/yfflewpg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfflewpg&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Полностью нелинейный динамический расчет здания при землетря</title>
+      <link>http://localhost:1313/posts/2021-11-10-polnostyu-nelineynyy-dinamicheskiy-raschet/</link>
+      <pubDate>Wed, 10 Nov 2021 13:02:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-11-10-polnostyu-nelineynyy-dinamicheskiy-raschet/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=84esnU2a4Fg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=84esnU2a4Fg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В качестве сейсмической нагрузки использована запись движения грунта в Такатори, землетрясение в Кобе. Расчет выполнен специалистами Online School of  Earthquake Resilient Design в LS-DYNA.&lt;/p&gt;
+&lt;p&gt;#ansys #concrete #lsdyna
+&lt;a href=&#34;https://tinyurl.com/yehe5pwv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yehe5pwv&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как писать пользовательские модели материалов под LS-DYNA</title>
+      <link>http://localhost:1313/posts/2021-10-27-kak-pisat-polzovatelskie-modeli-mater/</link>
+      <pubDate>Wed, 27 Oct 2021 13:02:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-10-27-kak-pisat-polzovatelskie-modeli-mater/</guid>
+      <description>&lt;p&gt;Допустим, вам почему-то не хватило нескольких сотен моделей материалов из LS-DYNA, и вы хотите написать свой. На GitHUB я нашел репозиторий с полным набором инструкций, как это делать, описанием необходимых компиляторов, инструкциями по их настройке, логикой работы пользовательских моделей в LS-DYNA и даже кратким учебником Fortran.&lt;/p&gt;
+&lt;p&gt;Крутость данного репозитория трудно переоценить. При этом, проект вполне себе живой - последние изменения в него вносились на этой неделе! Ссылка на репозиторий: github.com/jfriedlein/usrmat_LS-Dyna_Fortran&lt;/p&gt;
+&lt;p&gt;#ansys #fortran #github #lsdyna #umat
+&lt;a href=&#34;https://tinyurl.com/yz63vjfe&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yz63vjfe&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Возможности решателей Ansys при решении задач теории разруше</title>
+      <link>http://localhost:1313/posts/2021-10-26-vozmozhnosti-reshateley-ansys-pri-reshenii/</link>
+      <pubDate>Tue, 26 Oct 2021 13:01:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-10-26-vozmozhnosti-reshateley-ansys-pri-reshenii/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/-zzRTvYFhyw?list=PLhkE5O59hYsGBmcYGkRZZMzKgSUTbTIPd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/-zzRTvYFhyw?list=PLhkE5O59hYsGBmcYGkRZZMzKgSUTbTIPd&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Стала доступна запись моего вебинара по обзору возможностей решения задач теории разрушения в механических решателях ANSYS: Machanical и LS-DYNA. Вот ключевые слова для знатоков: SMART Fracture, XFEM, Preidynamic, SPG, CZM, VCCT.&lt;/p&gt;
+&lt;p&gt;#ansys #cadfem #czm #fracture #lsdyna #smart_fracture #spg #vcct #xfem
+&lt;a href=&#34;https://tinyurl.com/yzre3u86&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzre3u86&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Обзор новых возможностей Ansys Meshing 2021R2</title>
+      <link>http://localhost:1313/posts/2021-10-21-obzor-novyh-vozmozhnostey-ansys-meshing-2/</link>
+      <pubDate>Thu, 21 Oct 2021 17:01:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-10-21-obzor-novyh-vozmozhnostey-ansys-meshing-2/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=z-wi_Fn_2sY&amp;amp;t=16s&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=z-wi_Fn_2sY&amp;t=16s&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=naniTlyXkR8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=naniTlyXkR8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=6r9QwlsS5a8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=6r9QwlsS5a8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=SFX_XSZAWd0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=SFX_XSZAWd0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #leap #mes #meshing
+&lt;a href=&#34;https://tinyurl.com/yfsoe3nv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfsoe3nv&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование укладки подушки безопасности в LS-DYNA</title>
+      <link>http://localhost:1313/posts/2021-10-19-modelirovanie-ukladki-podushki-bezopasnos/</link>
+      <pubDate>Tue, 19 Oct 2021 17:02:03 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-10-19-modelirovanie-ukladki-podushki-bezopasnos/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=axbvdmrxbBo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=axbvdmrxbBo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#airbag #ansys #ls-prepost #lsdyna
+&lt;a href=&#34;https://tinyurl.com/yfnouykp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfnouykp&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Возможности решателей Ansys в области теории разрушения</title>
+      <link>http://localhost:1313/posts/2021-10-13-vozmozhnosti-reshateley-ansys-v-oblasti-te/</link>
+      <pubDate>Wed, 13 Oct 2021 13:02:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-10-13-vozmozhnosti-reshateley-ansys-v-oblasti-te/</guid>
+      <description>&lt;p&gt;Коллеги, почему-то даже у меня, когда речь заходит о моделировании роста трещин, не всегда первым вспоминается Ansys Mechanical. Для того, что бы устранить такие ошибки в восприятии я подготовил ликбез вебинар, в котором собрал обзор всех технологий механических решателей Ansys в области моделирования линейного и нелинейного разрушения.&lt;/p&gt;
+&lt;p&gt;Вебинар я постарался сделать максимально отвязанным от конкретных версий ПО, и если у вас версия Ansys не старее 3-х лет, то вам будет особенно интересно. Ну и не обошлось без моей любимой LS-DYNA, которая тоже может в рост трещин, но уже за рамками линейной теории разрушения.&lt;/p&gt;
+&lt;p&gt;Таким образом, слушателей будет ожидать порядка 70 подготовленный мной с нуля слайдов с материалами, и проработанная структура доклада, что позволит организовать интересное повествование и не порвать мозг формулами.&lt;/p&gt;
+&lt;p&gt;Ссылка не регистрацию (надо учесть, что за пару часов до мероприятия регистрация на него закроется): &lt;a href=&#34;https://cadfem-cis.ru/event/vozmozhnosti-reshatelej-ansys-pri-reshenii-zadach-teorii-razrushenija/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://cadfem-cis.ru/event/vozmozhnosti-reshatelej-ansys-pri-reshenii-zadach-teorii-razrushenija/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #apdl #cadfem #czm #fracture #lsdyna #peridynamics #smart_fracture #spg #vcct #xfem
+&lt;a href=&#34;https://tinyurl.com/yjh5v85t&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yjh5v85t&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учетное видео: горообразование на 6-ти гранной трубе</title>
+      <link>http://localhost:1313/posts/2021-10-12-uchetnoe-video-goroobrazovanie-na-6-ti-g/</link>
+      <pubDate>Tue, 12 Oct 2021 13:01:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-10-12-uchetnoe-video-goroobrazovanie-na-6-ti-g/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8ATwsbyY1c4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=8ATwsbyY1c4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #ls-dyna
+&lt;a href=&#34;https://tinyurl.com/yehafba5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yehafba5&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сравнение работы кодов моделирования детонации ВВ</title>
+      <link>http://localhost:1313/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</link>
+      <pubDate>Thu, 23 Sep 2021 15:01:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</guid>
+      <description>&lt;p&gt;Разработчики blastFoam, открытого CFD кода на базе openFoam, специализирующегося на задачах детонации ВВ и распространении ударных волны в воздухе, опубликовали любопытное сравнение. Они смоделировали детонацию сферического заряда тротила в воздухе в бесконечном домене - довольно простая постановка с хорошо известными аналитическими решениями.&lt;/p&gt;
+&lt;p&gt;Моделирование они выполнили в:&lt;/p&gt;
+&lt;p&gt;Ansys Autodyn - код, разработанный когда-то, поглощённой компанией Century Dynamics - заточен под решение задач ОПКAnsys LS-DYNA - код, разработанный, поглощённой компанией LSTC - заточен под решение сильно связанных высоконелинейных задачEUROPLEXUS - или EpX, полуоткрытьй код для моделирования быстропротекающих процессов от французской промышленности, работает на основе моделей, подготовленных для Code_Aster.  CHT - код для моделирования быстропротекающих процессов от Сандийских национальных лабораторийblastFoam, который я уже представил&lt;/p&gt;
+&lt;p&gt;Во всех кодах использовалось уравнение состояния JWL. На мой взгляд, справились все коды примерно одинаково, и, не зная особенностей постановки задачи, времени, затраченного на решение, трудно выбрать лидера.&lt;/p&gt;
+&lt;p&gt;Надо просто иметь в виду, что какие-то из этих кодов могут решать только задачи детонации ВВ с различными уравнениями состояния, некоторые могут применяться для моделирования широкого круга динамических задач, а кто-то может замахнуться и на междисциплинарные расчеты. Так что выбирайте подходящие вам инструменты которым вас могут научить на понятном вам языке.&lt;/p&gt;
+&lt;p&gt;Ссылка на оригинальный пост: &lt;a href=&#34;https://www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #autodyn #blast #blastfoam #cht #europlexus #ls-dyna #open_source #openfoam #sandia
+&lt;a href=&#34;https://tinyurl.com/yzxkzr4r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzxkzr4r&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HexGen и Hex2Spline: ALLHEX и IGA сетки для LS-DYNA</title>
+      <link>http://localhost:1313/posts/2021-09-17-hexgen-i-hex2spline-allhex-i-iga-setki/</link>
+      <pubDate>Fri, 17 Sep 2021 13:01:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-09-17-hexgen-i-hex2spline-allhex-i-iga-setki/</guid>
+      <description>&lt;p&gt;Коллеги, на мой взгляд, сегодня просто огненный контент. Представляю вам два открытых набора консольных утилит, HexGen и Hex2Spline, разработанные группой профессора Юнцзе Джессики Чжан (Yongjie Jessica Zhang) в Университете Карнеги-Меллон (Carnegie Mellon University). Что бы лучше понимать, эта группа очень тесно связана со всем, что сейчас делается в области IGA для LS-DYNA и Corefrom.&lt;/p&gt;
+&lt;p&gt;Рассматриваемый комплект утилит позволяет на основе произвольной геометрии строить ALL-HEX неструктурированную сетку при помощи реализации алгоритма поликуба - это делает HexGen. А уже на основе полученной сетки Hex2Spline строить модель для IGA расчета, извлекая данные сплайнов Безье и записывая их в формат BEXT, напрямую читаемый LS-DYNA и визуализируемый в LS-PrePost.&lt;/p&gt;
+&lt;p&gt;Что особенно приятно, так это степень проработки вопроса. В репозитории проекта вы найдете не только все сходные коды утилит и собранные бинарники по Windows - вы найдете подробные инструкции по пересборке утилит. Естественно, в репозитории есть и тренировочные примеры с итогами правильной работы софта. А еще есть сопроводительная научная статья, в которой вы найдете подробные инструкции как пользоваться всеми утилитами и как настраивать их работу для разных геометрических моделей.&lt;/p&gt;
+&lt;p&gt;Научная статья: &lt;a href=&#34;https://arxiv.org/abs/2011.14213&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://arxiv.org/abs/2011.14213&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Репозиторий проекта: &lt;a href=&#34;https://github.com/yu-yuxuan/HexGen_Hex2Spline&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/yu-yuxuan/HexGen_Hex2Spline&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Страничка группы профессора Джессики Чжан в Университете Карнеги-Меллон:  &lt;a href=&#34;https://www.meche.engineering.cmu.edu/directory/bios/zhang-yongjie.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.meche.engineering.cmu.edu/directory/bios/zhang-yongjie.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#all-hex #ansys #bext #iga #ls-dyna #ls-prepost #open_source #polycube
+&lt;a href=&#34;https://tinyurl.com/ydnqewkz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ydnqewkz&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Последние достижения в области моделирования материалов в LS</title>
+      <link>http://localhost:1313/posts/2021-09-15-poslednie-dostizheniya-v-oblasti-modelirov/</link>
+      <pubDate>Wed, 15 Sep 2021 17:01:26 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-09-15-poslednie-dostizheniya-v-oblasti-modelirov/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=6ae7j2Hk07k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=6ae7j2Hk07k&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Последние достижения в области решения прочностных задачи и идентификации параметров полимеров и металлических сплавов для применения в системах пассивной безопасности.&lt;/p&gt;
+&lt;p&gt;#ansys #dynamore #ls-dyna
+&lt;a href=&#34;https://tinyurl.com/yjvoqmg8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yjvoqmg8&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Расчет фазовых превращений железо-углеродистых сплавов в LS-</title>
+      <link>http://localhost:1313/posts/2021-08-26-raschet-fazovyh-prevrascheniy-zhelezo-uglero/</link>
+      <pubDate>Thu, 26 Aug 2021 14:01:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-08-26-raschet-fazovyh-prevrascheniy-zhelezo-uglero/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=YTSaESOYR9g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=YTSaESOYR9g&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;DYNAmore рассказывает как работать моделями материалов *MAT_UHS_STEEL/*MAT_244 и *MAT_GENERALIZED_PHASE_CHANGE/*MAT_254 в LS-DYNA. Эти модели специально созданы для моделирования обработки материалов давлением и температурой (!!!), так что в качестве результатов расчетов вы не только получаете НДС конструкции, но и ее прочностные свойства: например распределение предела текучести и твердости по объему. Такие данные вы сможете получить при расчетах ковки, прокатки, сварки и даже аддитивного производства. Естественно, модели материалов требуют намного больше знаний о металле, чем просто упругие константы и переделы текучести, но без этого никуда.&lt;/p&gt;
+&lt;p&gt;#ansys #dynamore #lsdyna #mat_generalized_phase_change #mat_uhs_steel
+&lt;a href=&#34;https://tinyurl.com/yhnb6rjr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yhnb6rjr&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование деградации литиевых аккумулаторов при механиче</title>
+      <link>http://localhost:1313/posts/2021-08-23-modelirovanie-degradatsii-litievyh-akkumu/</link>
+      <pubDate>Mon, 23 Aug 2021 13:03:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-08-23-modelirovanie-degradatsii-litievyh-akkumu/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=lUhedL9YQWY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=lUhedL9YQWY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Это только очень один простейший пример того, что может LS-DYNA для расчета аккумуляторов.&lt;/p&gt;
+&lt;p&gt;#ansys #lsdyna
+&lt;a href=&#34;https://tinyurl.com/yhjl2w43&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yhjl2w43&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>КЭ моделирование SARS-CoV-2 в ANSYS Mechanical</title>
+      <link>http://localhost:1313/posts/2021-07-05-ke-modelirovanie-sars-cov-2-v-ansys-mech/</link>
+      <pubDate>Mon, 05 Jul 2021 13:01:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-07-05-ke-modelirovanie-sars-cov-2-v-ansys-mech/</guid>
+      <description>&lt;p&gt;Сегодня у нас очень странная научная статья от коллектива ученых из Англии и Индии, держащаяся на 3-х китах: COVID-19, машинное обучение и&amp;hellip; Ansys Mechanical (!!!). Что-то они там считали про собственные частоты молекулы, что-то оптимизировали и сравнивали, и это даже зачем-то да нужно. Но я просто решил оставить данную статью на суд читателей, как очень курьезный факт.&lt;/p&gt;
+&lt;p&gt;Научная статья: &lt;a href=&#34;https://www.researchgate.net/publication/348909778_Probing_the_Stochastic_Dynamics_of_Coronaviruses_Machine_Learning_Assisted_Deep_Computational_Insights_with_Exploitable_Dimensions&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.researchgate.net/publication/348909778_Probing_the_Stochastic_Dynamics_of_Coronaviruses_Machine_Learning_Assisted_Deep_Computational_Insights_with_Exploitable_Dimensions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #covid #mechanical
+&lt;a href=&#34;https://tinyurl.com/ydv2urnu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ydv2urnu&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Полномасштабное моделирование и проверка износа ковша горной</title>
+      <link>http://localhost:1313/posts/2021-06-17-polnomasshtabnoe-modelirovanie-i-proverka/</link>
+      <pubDate>Thu, 17 Jun 2021 13:01:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-06-17-polnomasshtabnoe-modelirovanie-i-proverka/</guid>
+      <description>&lt;p&gt;Публикация по итогам кандидатской работы из Швеции. Коллеги смоделировали износ ковша горной канатной лопаты. Истирание происходило из-за взаимодействия со смесью DEM и Rigid тел произвольной формы. Все это считалось в моей любимой LS-DYNA.  Отличный расчет с экспериментальным подтверждением.&lt;/p&gt;
+&lt;p&gt;Ссылка на научную публикацию: &lt;a href=&#34;https://www.mdpi.com/2075-163X/11/6/623&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.mdpi.com/2075-163X/11/6/623&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ссылка на LinkedIn пост с анимацией процесса: &lt;a href=&#34;https://www.linkedin.com/posts/andreas-svanberg-0b727786_dem-simulations-boliden-activity-6809103345618345985-0xik&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.linkedin.com/posts/andreas-svanberg-0b727786_dem-simulations-boliden-activity-6809103345618345985-0xik&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #dem #ls-dyna #wear
+&lt;a href=&#34;https://tinyurl.com/yhugt89f&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yhugt89f&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Основы моделирования разрушения материала при обработке мета</title>
+      <link>http://localhost:1313/posts/2021-06-15-osnovy-modelirovaniya-razrusheniya-material/</link>
+      <pubDate>Tue, 15 Jun 2021 16:02:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-06-15-osnovy-modelirovaniya-razrusheniya-material/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=w7u_tyqZwwg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=w7u_tyqZwwg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Неплохая обзорная лекция от Design Online Academy по тому, на что смотреть при моделировании течения металла в процессе штамповки, вытяжки, прокатки и т.п. В лекции дан обзор основным теориям прочности, которые преподают еще на 3-ем курсе. Также будет разговор о таких важных понятиях, как Forming Limit Diagram (FLD) и эксперименте Накаджимы (Nakajima Test) по определению параметров FLD. Ну и в конце немного слов о применении всех этих знаний в LS-DYNA.&lt;/p&gt;
+&lt;p&gt;#ansys #fld #forming #ls-dyna #nakajima_test
+&lt;a href=&#34;https://tinyurl.com/ye94vouc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ye94vouc&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Использование модели накопления повреждений GISSMO при расче</title>
+      <link>http://localhost:1313/posts/2021-06-11-ispolzovanie-modeli-nakopleniya-povrezhde/</link>
+      <pubDate>Fri, 11 Jun 2021 13:01:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-06-11-ispolzovanie-modeli-nakopleniya-povrezhde/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=2DmR-H0L2Eg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=2DmR-H0L2Eg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Томас Файстер (Thomas Feister) из EWI очень хорошо и понятно рассказывает про одну из самых передовых моделей накопления повреждений в LS-DYNA - GISSMO. Данная модель позволяет учитывать не только неоднородность напряженно-деформированного состояния, но и общую нелинейность процесса накопления повреждений, а также компенсировать возникающие при загрублении КЭ сетки эффекты. EWI - ведущая инженерно-технологическая компания Северной Америки, занимающаяся вопросами сварки и соединения материалов. Сотрудники EWI оказывают помощь в соединении материалов, проводят контрактные исследования, оказывают консультационные услуги и проводят обучение для почти 2 800 компаний-заказчиков. EWI предоставляет услуги мирового класса для аэрокосмической, автомобильной, оборонной, энергетической и химической, правительственной, тяжелой промышленности, медицинской и электронной отраслей.&lt;/p&gt;
+&lt;p&gt;#ansys #ewi #forming #gissmo #ls-dyna
+&lt;a href=&#34;https://tinyurl.com/yfx9zkdh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfx9zkdh&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование работы системы пассивной безопасности электров</title>
+      <link>http://localhost:1313/posts/2021-05-31-modelirovanie-raboty-sistemy-passivnoy-b/</link>
+      <pubDate>Mon, 31 May 2021 17:01:51 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-05-31-modelirovanie-raboty-sistemy-passivnoy-b/</guid>
+      <description>&lt;p&gt;09 июня 2021 года в 11:00 (МСК)  КАДФЕМ Си-Ай-Эс, &amp;ldquo;Уральские локомотивы&amp;rdquo; и Ansys расскажут, как система пассивной безопасности железнодорожного подвижного состава предназначена для повышения безопасности пассажирских перевозок, снижения риска гибели и травматизма людей и минимизации ущерба подвижному составу в экстремальных ситуациях, возникающих при случайных столкновениях подвижного состава с препятствиями. Докладываться по данной тематике выпала честь мне, так что я вас всех очень буду там ждать! Ссылка на официальную новость: &lt;a href=&#34;https://www.cadfem-cis.ru/list/article/vebinar-modelirovanie-raboty-sistemy-passivnoj-bezopasnosti-elektrovoza/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/list/article/vebinar-modelirovanie-raboty-sistemy-passivnoj-bezopasnosti-elektrovoza/&lt;/a&gt; Бесплатная регистрация на вебинар: &lt;a href=&#34;https://www.ansys.com/events/simulating-electric-locomotive-passive-safety-system-operation&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/events/simulating-electric-locomotive-passive-safety-system-operation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #cadfem #lsdyna
+&lt;a href=&#34;https://tinyurl.com/yfons8rv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfons8rv&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Импорт топологии печатных плат в Ansys Mechanical и LS-DYNA</title>
+      <link>http://localhost:1313/posts/2021-05-25-import-topologii-pechatnyh-plat-v-ansys-m/</link>
+      <pubDate>Tue, 25 May 2021 17:01:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-05-25-import-topologii-pechatnyh-plat-v-ansys-m/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EBpKi7Oq6dw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=EBpKi7Oq6dw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Демонстрация активно развиваемой функции trace mapping из Ansys Mechanical, которая пригодится при механических и тепловых расчетах печатных плат. Итак, trace mapping позволяет импортировать структуру печатной платы из ODB++. Далее эта структура передается в препроцессор, где отображается геометрической положение того или иного материала в пространстве. После того как материалу или &amp;ldquo;сущности&amp;rdquo; из ODB++ выставляются соответствие его механический эквивалент (грубо говоря - дорожка должны быть медные) препроцессор &amp;ldquo;намазывает&amp;rdquo; эти свойства на модель состоящую из слоистых оболочек. Не надо прорисовывать многие сотни, если не тысячи объектов, не надо портить геометрию и усложнять работу сеточного генератора, не надо возиться с solid моделью платы - все данные переносятся автоматом на уровне сетки. Если же сетку надо будет перестроить, то и данные из ODB++ будут автоматически применены к новым элементам. Кстати, в актуальной версии 2021R1, trace mapping работает и для Workbench LS-DYNA, а значит одна модель печатной платы может быть использована и для расчета тепла, и для расчёта прочности и для случая удара.&lt;/p&gt;
+&lt;p&gt;#ansys #em #lsdyna #mechanical #odb #tracemapping
+&lt;a href=&#34;https://tinyurl.com/ygnyywsn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ygnyywsn&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Визуализация свободной поверхности SPH в LS-PrePost</title>
+      <link>http://localhost:1313/posts/2021-04-29-vizualizatsiya-svobodnoy-poverhnosti-sph-v/</link>
+      <pubDate>Thu, 29 Apr 2021 15:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-04-29-vizualizatsiya-svobodnoy-poverhnosti-sph-v/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=4sQET0y_gUI&amp;amp;feature=share&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=4sQET0y_gUI&amp;feature=share&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #ls-prepost #lsdyna #sph
+&lt;a href=&#34;https://tinyurl.com/yhlgwks6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yhlgwks6&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence for Material Models</title>
+      <link>http://localhost:1313/posts/2021-03-24-artificial-intelligence-for-material-mod/</link>
+      <pubDate>Wed, 24 Mar 2021 12:27:29 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-03-24-artificial-intelligence-for-material-mod/</guid>
+      <description>&lt;p&gt;Еще одно применение AI для CAE в области материаловедения - на этот раз от DYNAmore. Коллеги вписались в исследовательский проект &amp;ldquo;Искусственный интеллект для моделей материалов&amp;rdquo; (Artificial Intelligence for Material Models, AIMM), который состоит в том, чтобы дополнить и/или заменить классические реологические модели материалов на модели, построенные AI при анализе большого числа экспериментов. Основное внимание в AIMM будет уделяться более быстрому внедрению новых материалов посредством ускоренного описания для приложений CAE, разработки связанных с ними новых экспериментальных концепций для генерирования необходимых обучающих данных, а также сокращению фазы характеризации и моделирования посредством автоматизации процессов.&lt;/p&gt;
+&lt;p&gt;Спонсором проекта является TÜV Rheinland (&lt;a href=&#34;https://ru.wikipedia.org/wiki/T&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/T&lt;/a&gt;ÜV_Rheinland_Group). В проекте также задействованы Mercedes-Benz AG, ElringKlinger AG, GOM GmbH и renumics GmbH.&lt;/p&gt;
+&lt;p&gt;Вообще, тема DYNAmore очень здорово пересекается с уже имеющимися у ANSYS LST наработками по использованию нейронных сетей для моделирования микроструктуры материалов (&lt;a href=&#34;https://www.lstc-cmmg.org/deep-material-network%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.lstc-cmmg.org/deep-material-network)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;#ansys #dynamore #ls-dyna #lstc #machine_learning #material
+&lt;a href=&#34;https://tinyurl.com/yf6xk86t&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yf6xk86t&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Топологическая оптимизация в изогеометрической постановке</title>
+      <link>http://localhost:1313/posts/2021-03-16-topologicheskaya-optimizatsiya-v-izogeometri/</link>
+      <pubDate>Tue, 16 Mar 2021 13:21:10 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-03-16-topologicheskaya-optimizatsiya-v-izogeometri/</guid>
+      <description>&lt;p&gt;Статья, о которой я сегодня рассуждаю, это очень красивое развитие топологической оптимизации. Итак, для оптимизации топологии у нас есть древний SIMP, который дает дискретные результаты на дискретных моделях, так как играет с псевдоплотностью конечных элементов.&lt;/p&gt;
+&lt;p&gt;У нас есть более модны Level-Set который конструирует некую гладкую функцию, определяющую наличие или отсутствие материала в каждой точке пространства проектирования. Но гладкий Level-Set, приземляясь на дискретную КЭ модель все равно дает &amp;ldquo;ступенчатые&amp;rdquo; и &amp;ldquo;пиксилизированные результаты&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;И тут, автор стати вспоминает про активно развивающийся сейчас метод изогеометрического анализа (IGA, IsoGeometric Analisys) - модификацию МКЭ, использующую NURBS в качестве базисных функций. Таким образом, если приземлить гладкие результаты топологической оптимизации методом Level-Set на гладкое IGA представление КЭ модели, то можно получить более точное решение сразу с гладкой аналитической поверхностью для новой топологии.&lt;/p&gt;
+&lt;p&gt;Ссылка на видео запись доклада: &lt;a href=&#34;https://slideslive.com/38944315/structural-topology-optimization-with-accurate-boundary-representation-using-untrimming-techniques-and-isogeometric-analysis&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://slideslive.com/38944315/structural-topology-optimization-with-accurate-boundary-representation-using-untrimming-techniques-and-isogeometric-analysis&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ссылка на статью: &lt;a href=&#34;https://dx.doi.org/10.13140/RG.2.2.32756.78729&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://dx.doi.org/10.13140/RG.2.2.32756.78729&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #iga #level_set_method #optimization #simp #topology
+&lt;a href=&#34;https://tinyurl.com/yzfdkqxo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzfdkqxo&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Подвижный источник тепла в ANSYS Mechanical</title>
+      <link>http://localhost:1313/posts/2021-03-03-podvizhnyy-istochnik-tepla-v-ansys-mechani/</link>
+      <pubDate>Wed, 03 Mar 2021 18:31:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-03-03-podvizhnyy-istochnik-tepla-v-ansys-mechani/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nqNNjeZxVlg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nqNNjeZxVlg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Сегодня будет жестко, и даже немного больно. Видео пример того, как при помощи развесистой командной вставки на APDL задать в ANSYS Mechanical подвижный источник тепла. Ну а подвижный источник тепла нужен уже для моделирования сварки, наплавки или лазерной резки металла.&lt;/p&gt;
+&lt;p&gt;#additive_manufacturing #ansys #apdl #mechanical #thermal #welding
+&lt;a href=&#34;https://tinyurl.com/ybauhn3m&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ybauhn3m&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Правила переделки LS-DYNA модели из explicit в implicit</title>
+      <link>http://localhost:1313/posts/2021-02-17-pravila-peredelki-ls-dyna-modeli-iz-expl/</link>
+      <pubDate>Wed, 17 Feb 2021 13:01:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-02-17-pravila-peredelki-ls-dyna-modeli-iz-expl/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0pGOwjie_UA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=0pGOwjie_UA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LS-DYNA славится своей способностью моделировать быстропротекающие процессы. Однако, в ней зашиты решатели под гораздо большее число физик. И даже для механики там есть не только explicit, но и более чем полноценный implicit решатель. Данный вебинар покажет, как быстро и правильно перенастроить уже готовкою explicit модель для implicit расчетов. Таким образом, вам не придется менять решатель и думать о том, как пересобрать модель для новой расчетной платформы с учетом ее реализаций материалов, граничных условий и контактов.&lt;/p&gt;
+&lt;p&gt;#ansys #dynamore #explicit #implicit #lsdyna
+&lt;a href=&#34;https://tinyurl.com/ycxued3c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ycxued3c&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование пены низкой плотности в МКЭ</title>
+      <link>http://localhost:1313/posts/2021-02-03-modelirovanie-peny-nizkoy-plotnosti-v-mk/</link>
+      <pubDate>Wed, 03 Feb 2021 13:01:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-02-03-modelirovanie-peny-nizkoy-plotnosti-v-mk/</guid>
+      <description>&lt;p&gt;На сегодня я нашел два интересных видео, посвященных моделированию полимерной пены низкой плотности.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=g8YSmFk5KSc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=g8YSmFk5KSc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В первом видео обсуждается, почему традиционные гиперупругие модели материалов не могут использоваться для прогнозирования поведения мягких полимерных пен. Далее в видео рассматривается математика работы специализированных подходящий моделей Ansys Ogden Foam, LS-DYNA Hill Foam, Abaqus Hyperfoam и COMSOL Storakers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=W9e-GJHJk00&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=W9e-GJHJk00&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Во второй части видео показывается, как проводить настройку модели материалов с применением пакета PolymerFEM MCalibration.&lt;/p&gt;
+&lt;p&gt;#abaqus #ansys #comsol #foam #ls-dyna #mcalibration #mechanical #polymerfem
+&lt;a href=&#34;https://tinyurl.com/y2gu28ph&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y2gu28ph&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ansys LevelUp — беседа с разработчиками Ansys Mechanical</title>
+      <link>http://localhost:1313/posts/2021-01-12-ansys-levelup-beseda-s-razrabotchikami/</link>
+      <pubDate>Tue, 12 Jan 2021 14:50:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-01-12-ansys-levelup-beseda-s-razrabotchikami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Уcталостный рост трещин в Ansys Mechanical</title>
+      <link>http://localhost:1313/posts/2020-11-10-uctalostnyy-rost-treschin-v-ansys-mechanic/</link>
+      <pubDate>Tue, 10 Nov 2020 15:29:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-11-10-uctalostnyy-rost-treschin-v-ansys-mechanic/</guid>
+      <description>&lt;p&gt;#ANSYS #crack #Fatigue #Mechanical
+by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Расчет «тераформирования» в реальном времени благодаря гибри</title>
+      <link>http://localhost:1313/posts/2020-11-02-raschet-teraformirovaniya-v-realnom-vre/</link>
+      <pubDate>Mon, 02 Nov 2020 12:59:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-11-02-raschet-teraformirovaniya-v-realnom-vre/</guid>
+      <description>&lt;p&gt;#AGX_Dynamics #Algoryx #ANSYS #DEM #SpaceClaim
+by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Проектирование нестандартных теплообменников с nTopology</title>
+      <link>http://localhost:1313/posts/2020-10-21-proektirovanie-nestandartnyh-teploobmenn/</link>
+      <pubDate>Wed, 21 Oct 2020 13:07:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-10-21-proektirovanie-nestandartnyh-teploobmenn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Обзор полностью нового ANSYS Discovery 2020R2</title>
+      <link>http://localhost:1313/posts/2020-10-08-obzor-polnostyu-novogo-ansys-discovery-2/</link>
+      <pubDate>Thu, 08 Oct 2020 14:57:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-10-08-obzor-polnostyu-novogo-ansys-discovery-2/</guid>
+      <description>&lt;p&gt;#ANSYS
+by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Постановка задачи о трехточечном изгибе сэндвич панели в ANS</title>
+      <link>http://localhost:1313/posts/2020-10-07-postanovka-zadachi-o-trehtochechnom-izgibe/</link>
+      <pubDate>Wed, 07 Oct 2020 17:24:01 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-10-07-postanovka-zadachi-o-trehtochechnom-izgibe/</guid>
+      <description>&lt;p&gt;#ACP #ANSYS #composite #LEAP #Mechanical
+by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Обзор/тренинг по SpaceClaim 2020R2 от LEAP</title>
+      <link>http://localhost:1313/posts/2020-09-11-obzortrening-po-spaceclaim-2020r2-ot-le/</link>
+      <pubDate>Fri, 11 Sep 2020 13:00:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-09-11-obzortrening-po-spaceclaim-2020r2-ot-le/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online CFD Training 2020 от LEAP Australia</title>
+      <link>http://localhost:1313/posts/2020-09-08-online-cfd-training-2020-ot-leap-austral/</link>
+      <pubDate>Tue, 08 Sep 2020 13:34:56 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-09-08-online-cfd-training-2020-ot-leap-austral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Мой топ фишек механической части ANSYS 2020 R2</title>
+      <link>http://localhost:1313/posts/2020-07-23-moy-top-fishek-mehanicheskoy-chasti-ansys-2/</link>
+      <pubDate>Thu, 23 Jul 2020 17:29:59 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-07-23-moy-top-fishek-mehanicheskoy-chasti-ansys-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Если вы еще не умеет Share Topology в SpaceClaim</title>
+      <link>http://localhost:1313/posts/2020-06-12-esli-vy-esche-ne-umeet-share-topology-v-sp/</link>
+      <pubDate>Fri, 12 Jun 2020 13:00:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-06-12-esli-vy-esche-ne-umeet-share-topology-v-sp/</guid>
+      <description>&lt;p&gt;#ANSYS #SpaceClaim
+by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Выбор оптимального материала на ранних этапах проектирования</title>
+      <link>http://localhost:1313/posts/2020-06-10-vybor-optimalnogo-materiala-na-rannih-e/</link>
+      <pubDate>Wed, 10 Jun 2020 12:58:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-06-10-vybor-optimalnogo-materiala-na-rannih-e/</guid>
+      <description>&lt;p&gt;#ANSYS #CAE #Granta_Design #GRANTA_Selector #material #properties
+by Ян Поженько&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Свойства материалов при комнатных, повышенных и криогенных т</title>
+      <link>http://localhost:1313/posts/2020-06-02-svoystva-materialov-pri-komnatnyh-povysh/</link>
+      <pubDate>Tue, 02 Jun 2020 13:00:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-06-02-svoystva-materialov-pri-komnatnyh-povysh/</guid>
+      <description>&lt;p&gt;#ANSYS #CFD #FEM #material #properties
+by Ян Поженько&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Помните видео про невозможные конструкции?</title>
+      <link>http://localhost:1313/posts/2020-05-26-pomnite-video-pro-nevozmozhnye-konstruktsi/</link>
+      <pubDate>Tue, 26 May 2020 13:01:10 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-05-26-pomnite-video-pro-nevozmozhnye-konstruktsi/</guid>
+      <description>&lt;p&gt;#ANSYS
+by Ян Поженько&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Работа с поверхностями отклика в ANSYS DX</title>
+      <link>http://localhost:1313/posts/2020-05-14-rabota-s-poverhnostyami-otklika-v-ansys-d/</link>
+      <pubDate>Thu, 14 May 2020 16:01:49 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-05-14-rabota-s-poverhnostyami-otklika-v-ansys-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansys покупает Lumerical — привет вычистильеная фотоника</title>
+      <link>http://localhost:1313/posts/2020-03-06-ansys-pokupaet-lumerical-privet-vychist/</link>
+      <pubDate>Fri, 06 Mar 2020 13:00:17 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-03-06-ansys-pokupaet-lumerical-privet-vychist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Прямая КЭ гомогенизация средствами ANSYS Material Designer</title>
+      <link>http://localhost:1313/posts/2020-01-21-pryamaya-ke-gomogenizatsiya-sredstvami-ansys/</link>
+      <pubDate>Tue, 21 Jan 2020 13:00:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-01-21-pryamaya-ke-gomogenizatsiya-sredstvami-ansys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Работа адаптивных сеток в ANSYS Mechanical</title>
+      <link>http://localhost:1313/posts/2019-12-02-rabota-adaptivnyh-setok-v-ansys-mechanic/</link>
+      <pubDate>Mon, 02 Dec 2019 13:00:34 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-12-02-rabota-adaptivnyh-setok-v-ansys-mechanic/</guid>
+      <description>&lt;p&gt;#ANSYS #Mechanical #mesh #NLAD
+by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Нестационарные задачи теплопроводности в ANSYS AIM</title>
+      <link>http://localhost:1313/posts/2019-11-27-nestatsionarnye-zadachi-teploprovodnosti-v/</link>
+      <pubDate>Wed, 27 Nov 2019 16:00:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-11-27-nestatsionarnye-zadachi-teploprovodnosti-v/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Что такое ANSYS Granta Materials Data for Simulation</title>
+      <link>http://localhost:1313/posts/2019-11-21-chto-takoe-ansys-granta-materials-data-fo/</link>
+      <pubDate>Thu, 21 Nov 2019 16:01:55 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-11-21-chto-takoe-ansys-granta-materials-data-fo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Простейший термопрочностной расчет ANSYS Mechanical</title>
+      <link>http://localhost:1313/posts/2019-10-05-prosteyshiy-termoprochnostnoy-raschet-ansys/</link>
+      <pubDate>Sat, 05 Oct 2019 13:00:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-10-05-prosteyshiy-termoprochnostnoy-raschet-ansys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ANSYS SPEOS Live — моделирование оптики в реальном времени</title>
+      <link>http://localhost:1313/posts/2019-09-26-ansys-speos-live-modelirovanie-optiki/</link>
+      <pubDate>Thu, 26 Sep 2019 13:00:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-09-26-ansys-speos-live-modelirovanie-optiki/</guid>
+      <description>&lt;p&gt;ANSYS SPEOS — это у нас софт для расчета оптики. Про него есть несколько видеоуроков — смотрите хештеги в данном паблике. А у SPEOS есть еще такая фишка, как ANSYS SPEOS Live. Это уже система, позволяющая делать рендеринг в реальном времени на видеокартах NVIDIA и на основе точных математических и физических законов. И про нее есть отличное техническое демо от ARRK в блоге ANSYS: &lt;a href=&#34;https://www.ansys.com/blog/optimize-optical-designs-using-real-time-simulation&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/blog/optimize-optical-designs-using-real-time-simulation&lt;/a&gt; — там еще и видеодемонстрация есть.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Параметризация и автоматизация в SpaceClaim</title>
+      <link>http://localhost:1313/posts/2019-09-19-parametrizatsiya-i-avtomatizatsiya-v-spacecl/</link>
+      <pubDate>Thu, 19 Sep 2019 13:00:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-09-19-parametrizatsiya-i-avtomatizatsiya-v-spacecl/</guid>
+      <description>&lt;p&gt;Mallett Technology подготовили обучающий вебинар по очень важной и очень плохо изученной теме — автоматизация работы SpaceClaim при помощи python-скриптов. Коллеги показывают как записывать журнал проекта, как создавать переменные и именованные выборки, которые потом будут видны в рамках Workbench.&lt;/p&gt;
+&lt;p&gt;А ведь это далеко не все функции по автоматизации SpaceClaim. Так, в новых версиях, вы можете параметризовать процесс построения как в классических CAD, создавая последовательность проигрываемых действий без привлечения средств пользовательского программирования. А для часто используемых действий можно добавлять свои кнопки в интерфейс. И для всего этого есть отдельный однодневный учебный курс.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS Hall of Fame — открыть прием заявок</title>
+      <link>http://localhost:1313/posts/2019-09-16-ansys-hall-of-fame-otkryt-priem-zayavo/</link>
+      <pubDate>Mon, 16 Sep 2019 13:00:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-09-16-ansys-hall-of-fame-otkryt-priem-zayavo/</guid>
+      <description>&lt;p&gt;ANSYS объявил о приеме работ на свой ежегодный конкурс лучших CAE проектов. Всем желающим войти в зал славы надо успеть до 5 ноября 2019 года. Всего будет выбрано 20 призеров. 6 главных финалистов (Best in Show) получат по iPad Pro, про остальных 14 (Runners Up) расскажут на сайте. Для участия в конкурсе важно не только наличие крутого проекта, но и умение его подать публике в хорошо оформленном виде.&lt;/p&gt;
+&lt;p&gt;Ссылка на мероприятие: &lt;a href=&#34;https://www.ansys.com/other/hall-of-fame&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/other/hall-of-fame&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Архив конкурсов прошлых лет: &lt;a href=&#34;https://www.ansys.com/other/hall-of-fame/archive&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/other/hall-of-fame/archive&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование взаимодействия лопаточных венцов с учетом влия</title>
+      <link>http://localhost:1313/posts/2019-09-11-modelirovanie-vzaimodeystviya-lopatochnyh/</link>
+      <pubDate>Wed, 11 Sep 2019 13:00:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-09-11-modelirovanie-vzaimodeystviya-lopatochnyh/</guid>
+      <description>&lt;p&gt;Моё незнание темы CFD для турбомашиностроения не должно лишать вас возможности насладиться этим видеоуроком в двух частях.&lt;/p&gt;
+&lt;p&gt;#ANSYS #CFX&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Fv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Fv&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Видеоурок по пользованию документацией ANSYS</title>
+      <link>http://localhost:1313/posts/2019-09-07-videourok-po-polzovaniyu-dokumentatsiey-a/</link>
+      <pubDate>Sat, 07 Sep 2019 13:00:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-09-07-videourok-po-polzovaniyu-dokumentatsiey-a/</guid>
+      <description>&lt;p&gt;Я всегда говорил и продолжаю так думать: у ANSYS отличная документация, но ее становится очень много. Поэтому ANSYS создал видеоурок по пользованию их порталом с документацией. Хотя по мне, локальный Help пользовать все же удобнее. Не забывайте его скачивать и устанавливать.&lt;/p&gt;
+&lt;p&gt;#ANSYS #help&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Fm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Fm&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Directed Energy Deposition в ANSYS Additive Suite</title>
+      <link>http://localhost:1313/posts/2019-08-29-directed-energy-deposition-v-ansys-addit/</link>
+      <pubDate>Thu, 29 Aug 2019 13:00:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-08-29-directed-energy-deposition-v-ansys-addit/</guid>
+      <description>&lt;p&gt;Как же полезно всегда (!!!) держать beta опции ANSYS включенными. Вот, например, что нашлось в уже привычном релизе 2019 R2.&lt;/p&gt;
+&lt;p&gt;#Additive_Manufacturing #ANSYS #DED&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Fe&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Fe&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Верификационный отчет по ANSYS Mechanical в строительстве</title>
+      <link>http://localhost:1313/posts/2019-08-25-verifikatsionnyy-otchet-po-ansys-mechanica/</link>
+      <pubDate>Sun, 25 Aug 2019 13:00:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-08-25-verifikatsionnyy-otchet-po-ansys-mechanica/</guid>
+      <description>&lt;p&gt;Подробный отчет по верификации ANSYS Mechanical для решения задач строительной  механики, подготовленный для Российской академии архитектуры и  строительных наук (РААСН).  Монументальный документ на 600+ страниц. Феноменальный объем верификации — только одно перечисление верифицируемых возможностей занимает 2 страницы.&lt;/p&gt;
+&lt;p&gt;В работе есть большое число модельных задач, взятых из верификационных материалов ANSYS, NAFEMS и созданных самостоятельно. А еще есть очень интересный 4-й том, посвященный опыту применения ANSYS в строительстве. И тут можно найти описание моделей зданий, которые бережно созданы в «черном экране смерти». Ибо без любви к своей работе такие модели сделать не получится.&lt;/p&gt;
+&lt;p&gt;Бонусом идет достойный перевод теоретических основ ANSYS и МКЭ. Ссылка на материалы: &lt;a href=&#34;http://www.raasn.ru/structure.php?st_id=materials&amp;amp;st_p=research_boards/rb_software/rb_sw_materials/verification/ANSYS/ansys&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.raasn.ru/structure.php?st_id=materials&amp;st_p=research_boards/rb_software/rb_sw_materials/verification/ANSYS/ansys&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сравнение CFD решателей супертяжелой весовой категории</title>
+      <link>http://localhost:1313/posts/2019-08-21-sravnenie-cfd-reshateley-supertyazheloy-ves/</link>
+      <pubDate>Wed, 21 Aug 2019 13:00:40 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-08-21-sravnenie-cfd-reshateley-supertyazheloy-ves/</guid>
+      <description>&lt;p&gt;Большой обзор-сравнение двух главных решателей гидродинамики современности: ANSYS Fluent и Siemens Simcenter STAR-CCM+. И тут у нас идет очень большое перечисление всех фишек всех решателей.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.resolvedanalytics.com/theflux/comparing-cfd-software-part-4-comprehensive-cfd-software-packages&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.resolvedanalytics.com/theflux/comparing-cfd-software-part-4-comprehensive-cfd-software-packages&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;А какой решатель выберете вы и почему?&lt;/p&gt;
+&lt;p&gt;#ANSYS #CFD #Fluent #Siemens #STAR_CCM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2DZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2DZ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Магия блочно-структурированных сеток в ICEM CFD</title>
+      <link>http://localhost:1313/posts/2019-08-01-magiya-blochno-strukturirovannyh-setok-v-i/</link>
+      <pubDate>Thu, 01 Aug 2019 13:01:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-08-01-magiya-blochno-strukturirovannyh-setok-v-i/</guid>
+      <description>&lt;p&gt;ICEM CFD — великий и ужасный сеточный генератора  от ANSYS. И его еще пока рано списывать со счетов, если вам нужны  блочные сетки. В представленных видео разобраны примеры построения  плоских и объёмных блоков, создание сетки для тел вращения. Если не  обращать внимания на некоторые специфические особенности интерфейса, то  все не так уж и страшно.&lt;/p&gt;
+&lt;p&gt;#ANSYS #ICEM_CFD #mesh&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2CA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2CA&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Рассказ о ANSYS Motion на DEVELOP3D LIVE 2019</title>
+      <link>http://localhost:1313/posts/2019-06-11-rasskaz-o-ansys-motion-na-develop3d-live/</link>
+      <pubDate>Tue, 11 Jun 2019 17:01:53 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-06-11-rasskaz-o-ansys-motion-na-develop3d-live/</guid>
+      <description>&lt;p&gt;Один из самых активных людей по механике в ANSYS, Ричард Митчел (Richard Mitchell), на конференции DEVELOP3D LIVE 2019 рассказал про ANSYS Motion — перспективный Multibody Dynamics решатель, призванный дать жару Adams и RecurDyn. Тут вам и коробки передач (все жесткое), и цепные/ременные передачи (что-то обладает упругостью или пластичностью), и подвеска автомобиля, и много всего другого. И вроде как, все это считается «без сетки»,  даже когда речь идет о пластике.&lt;/p&gt;
+&lt;p&gt;#ANSYS #DEVELOP3D #Motion #Multibody_Dynamics&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2xX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2xX&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Высокопроизводительные вычисления в ANSYS 2019 R1</title>
+      <link>http://localhost:1313/posts/2019-05-16-vysokoproizvoditelnye-vychisleniya-v-ansy/</link>
+      <pubDate>Thu, 16 May 2019 11:01:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-05-16-vysokoproizvoditelnye-vychisleniya-v-ansy/</guid>
+      <description>&lt;p&gt;Ровно через неделю (23 мая в 14:00) приходите на мой вебинар про HPC и Cloud для ANSYS. Каверзные вопросы приветствуются. Необходима бесплатная регистрация: &lt;a href=&#34;https://webinars.cadfem-cis.ru/event/hpc/registration/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://webinars.cadfem-cis.ru/event/hpc/registration/&lt;/a&gt;. Ну и вообще, у нас новая прикольная платформа для Web семинаров: &lt;a href=&#34;https://webinars.cadfem-cis.ru&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://webinars.cadfem-cis.ru&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS #CADFEM #cloud #eCADFEM #HPC #webinar&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2vY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2vY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оптимизация топологии в ANSYS на GPU — легко!</title>
+      <link>http://localhost:1313/posts/2019-04-12-optimizatsiya-topologii-v-ansys-na-gpu-l/</link>
+      <pubDate>Fri, 12 Apr 2019 17:00:26 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-04-12-optimizatsiya-topologii-v-ansys-na-gpu-l/</guid>
+      <description>&lt;p&gt;Это решение напрашивалось уже давно. Задачи оптимизации топологии обычно очень ресурсоемки — ведь на каждой итерации вам предстоит рассчитать энергию деформации всего расчетного домена, который существенно больше итоговой конструкции. Как ускорить данный процесс?&lt;/p&gt;
+&lt;p&gt;А что, если натравить на решение задачи самый быстрый КЭ решетель на рынке — ANSYS Discovery Live? Ведь он может решать линейные задачи на GPU за считанные секунды!&lt;/p&gt;
+&lt;p&gt;Итак, мы получаем оптимизацию топологии в Discovery Live, которая считает быстрее, чем у других строится анимация по готовым результатам. При этом мы еще получаем сразу гладкий STL файл, благодаря использованию самого передового Level-Set метода. Ну и для проверочного расчета тоже никуда идти не надо: Live c радостью сделает его для вас на основе STL всего за пару секунд.&lt;/p&gt;
+&lt;p&gt;#ANSYS #Discovery #GPU #level_set_method #Live #optimization #Topology&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2tz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2tz&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учимся работать в Sublime Text</title>
+      <link>http://localhost:1313/posts/2019-04-03-uchimsya-rabotat-v-sublime-text/</link>
+      <pubDate>Wed, 03 Apr 2019 12:51:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-04-03-uchimsya-rabotat-v-sublime-text/</guid>
+      <description>&lt;p&gt;SublimeText — мой любимый текстовый редактор. Я уже писал, что он очень быстр, работает на любой операционной системе и умеет подсвечивать синтаксис #ANSYS #APDL, #LSDYNA и #Abaqus. Этот текстовый редактор совсем не боится файлов по несколько Гб.
+Но что бы получить полную отдачу от Sublime Tesxt стоит посмотреть этот небольшой цикл из 12 обучающих видео:&lt;/p&gt;
+&lt;p&gt;#ABAQUS #ANSYS #APDL #LS_DYNA #SublimeText&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-4899&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-4899&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Расчет коэффициента теплоотдачи радиатора в AIM</title>
+      <link>http://localhost:1313/posts/2019-03-17-raschet-koeffitsienta-teplootdachi-radiator/</link>
+      <pubDate>Sun, 17 Mar 2019 12:00:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-03-17-raschet-koeffitsienta-teplootdachi-radiator/</guid>
+      <description>&lt;p&gt;В видео разобрано решение сравнительно простой аэродинамической задачи при помощи ANSYS AIM. Данная CAE система все еще является редкостью, хотя может решать задачи механики, гидродинамики, теплопроводности и электромагнетизма, а вдобавок еще обладает и встроенным модулем параметрических исследований и оптимизации.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=X8gDQltR5UY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=X8gDQltR5UY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Все это благодаря встроенным в единый интерфейс решателям APDL, Fluent, Maxwell, сеточному генератору Meshing, оптимизатору DesignXplorer и геометрическому процессору SpaceClaim. Вот сколько всего полезного в одной «простой» системе.&lt;/p&gt;
+&lt;p&gt;#AIM #ANSYS #CFD&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2qd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2qd&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CivilFEM APPs for ANSYS Workbench доступен в каталоге ACT</title>
+      <link>http://localhost:1313/posts/2019-03-13-civilfem-apps-for-ansys-workbench-dostup/</link>
+      <pubDate>Wed, 13 Mar 2019 12:00:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-03-13-civilfem-apps-for-ansys-workbench-dostup/</guid>
+      <description>&lt;p&gt;Версия CivilFEM для Workbench теперь доступна в официальном каталоге ACT расширений ANSYS. Программа поделена сразу на два отдельных модуля: «Eurocode Check &amp;amp; Design» и «AISC/ACI Check &amp;amp; Design» — по запросу «CivilFEM» найти эти расширения почему-то нельзя.&lt;/p&gt;
+&lt;p&gt;Eurocode Check &amp;amp; Design: &lt;a href=&#34;https://catalog.ansys.com/product/5c800590393ff66ca0d507aa/eurocode-check-des&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://catalog.ansys.com/product/5c800590393ff66ca0d507aa/eurocode-check-des&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AISC/ACI Check &amp;amp; Design: &lt;a href=&#34;https://catalog.ansys.com/product/5c80073a393ff66ca0d507b2/aisc-aci-check-des&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://catalog.ansys.com/product/5c80073a393ff66ca0d507b2/aisc-aci-check-des&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS #CivilFEM #Ingeciber&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2pj&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2pj&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вебиран по ANSYS Discovery Live от Mallett Technology</title>
+      <link>http://localhost:1313/posts/2019-03-10-vebiran-po-ansys-discovery-live-ot-malle/</link>
+      <pubDate>Sun, 10 Mar 2019 12:00:39 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-03-10-vebiran-po-ansys-discovery-live-ot-malle/</guid>
+      <description>&lt;p&gt;Получасовой рассказ об решателе ANSYS Discovery Live, который выполняет расчеты механики, гидро-аэродинамики и тепла почти в реальном времени.&lt;/p&gt;
+&lt;p&gt;#ANSYS #Discovery #Live #Mallett_Technology&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2oW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2oW&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Определение усталостной долговечности для термомеханических </title>
+      <link>http://localhost:1313/posts/2019-02-11-opredelenie-ustalostnoy-dolgovechnosti-dl/</link>
+      <pubDate>Mon, 11 Feb 2019 12:00:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-02-11-opredelenie-ustalostnoy-dolgovechnosti-dl/</guid>
+      <description>&lt;p&gt;В магазине ACT-расширений ANSYS недавно появилось приложение для расчетов на усталость для термомеханических задач по LCF. Теория и ссылка на источники внутри.&lt;/p&gt;
+&lt;p&gt;Может скоро появится в основном функционале Fatigue?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://catalog.ansys.com/product/5bd702e5393ff657fc70de9e/thermo-mechanical#download&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://catalog.ansys.com/product/5bd702e5393ff657fc70de9e/thermo-mechanical#download&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS #CAE #Fatigue #thermal&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2hW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2hW&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Ян Поженько&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вебинар по ANSYS Rigid Body Dynamics от Mallett Technology</title>
+      <link>http://localhost:1313/posts/2019-01-30-vebinar-po-ansys-rigid-body-dynamics-ot/</link>
+      <pubDate>Wed, 30 Jan 2019 17:00:30 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-01-30-vebinar-po-ansys-rigid-body-dynamics-ot/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=cGv8m60zN4c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=cGv8m60zN4c&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Сегодня у нас 45 минут видео, посвященного твердотельной кинематике/динамике в ANSYS Rigid Body Dynamics.&lt;/p&gt;
+&lt;p&gt;#ANSYS #Mallett_Technology #Rigid_Body_Dynamics&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2iC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2iC&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Расчет взаимодействия высоковольтных кабелей в LS-DYNA</title>
+      <link>http://localhost:1313/posts/2019-01-24-raschet-vzaimodeystviya-vysokovoltnyh-kab/</link>
+      <pubDate>Thu, 24 Jan 2019 17:00:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-01-24-raschet-vzaimodeystviya-vysokovoltnyh-kab/</guid>
+      <description>&lt;p&gt;Хочу обратить ваше внимание на проект компании Panduit, который стал одним из победителей конкурса Hall of Fame 2019, проводимого компанией ANSYS.&lt;/p&gt;
+&lt;p&gt;В рамках проекта инженеры компании промоделировали процесс короткого замыкания и последующего «взрыва» сборки проводов, вызванного электромагнитными силами. На моей памяти это второй большой проект, где использовались возможности LS-DYNA не только для расчета нелинейной механики, но и сопряжения со встроенным EM решателем.&lt;/p&gt;
+&lt;p&gt;Ссылка на исходную статью (там же видеопрезентация): &lt;a href=&#34;https://www.ansys.com/other/hall-of-fame/archive/2019/panduit&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/other/hall-of-fame/archive/2019/panduit&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS #EM #Hall_of_Fame #LS_DYNA #simulationfriday&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2hI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2hI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вебинар по ANSYS SpaceClaim от Mallett Technology</title>
+      <link>http://localhost:1313/posts/2019-01-23-vebinar-po-ansys-spaceclaim-ot-mallett-t/</link>
+      <pubDate>Wed, 23 Jan 2019 18:34:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-01-23-vebinar-po-ansys-spaceclaim-ot-mallett-t/</guid>
+      <description>&lt;p&gt;Mallett Technology продолжают серию больших и информативных вебинаров по ключевым модулям ANSYS. В данном видео они расскажут про основное геометрическое ядро платформы — ANSYS SpaceClaim&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qvJbgEO41Ek&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=qvJbgEO41Ek&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Очень неплохой материал, для тех, кто начинает знакомится со SpaceClaim&lt;/p&gt;
+&lt;p&gt;#ANSYS #Mallett_Technology #SpaceClaim&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2hC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2hC&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Магистерская программа Мадридского технического университета</title>
+      <link>http://localhost:1313/posts/2019-01-11-magisterskaya-programma-madridskogo-tehni/</link>
+      <pubDate>Fri, 11 Jan 2019 17:09:40 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-01-11-magisterskaya-programma-madridskogo-tehni/</guid>
+      <description>&lt;p&gt;Компания ANSYS совместно с Мадридским техническим университетом (Technical University of Madrid) запускает специализированную магистерскую программу с удаленным обучением — и это, пожалуй, уже становится одной из новостей года!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=oVE1ujqSyEI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=oVE1ujqSyEI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В рамках программы будут изложены курсы по механике  и гидродинамике, студентам будут предоставлены лицензии, специализированные теоретические и прикладные учебные материалы, домашние задания. Будет возможность общаться с сокурсниками и преподавателями.
+Программа рассчитана не только на бакалавров, но и на выпускников, которые хотят повысить свою квалификацию. Например, на 23 минуте про свой опыт участия в программе рассказывает инженер, имеющий за плечами 13 лет стажа, и который решил прокачаться. Прокачка заняла у него в среднем 10 часов в неделю.
+Естественно, обучение не бесплатно, но получить диплом одного из ведущих механических вузов Европы по вашей будущей специальности — это, по-моему, бесценно. На мой взгляд, если вы видите себя инженером по этой специальности, то такой шанс упускать нельзя. 
+Больше информации о программе вы сможете найти на официальной странице: http://www.ansys.com/mastersdegree
+Презентация к вебинару: https://www.ansys.com/-/media/ansys/corporate/files/pdf/product/academic/masters-degree-course-catalogue.pdf?la=en
+#ANSYS
+&lt;a href=&#34;http://bit.ly/2QHimUS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2QHimUS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS Discovery Live при производстве спортивных велосипедов</title>
+      <link>http://localhost:1313/posts/2019-01-09-ansys-discovery-live-pri-proizvodstve-sp/</link>
+      <pubDate>Wed, 09 Jan 2019 17:01:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-01-09-ansys-discovery-live-pri-proizvodstve-sp/</guid>
+      <description>&lt;p&gt;Начнем новый год с простых новостей: рассказ компании Time об их опыте использвоания Discovery Live при проектировании спотривных велосипедов.&lt;/p&gt;
+&lt;p&gt;#ANSYS #Discovery
+&lt;a href=&#34;http://bit.ly/2QCIwIx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2QCIwIx&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS подружится с Prometech Software, Inc.</title>
+      <link>http://localhost:1313/posts/2018-12-21-ansys-podruzhitsya-s-prometech-software-i/</link>
+      <pubDate>Fri, 21 Dec 2018 17:01:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-12-21-ansys-podruzhitsya-s-prometech-software-i/</guid>
+      <description>&lt;p&gt;В прошедший понедельник на своей конференции японская компания Prometech Software, Inc. объявила о дружбе с ANSYS. Давайте разберемся, почему это очень круто.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/WDFSzgjWR_4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/WDFSzgjWR_4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Прежде всего, стоит вспомнить, что Prometech - это разработчик Particleworks, одного из самых умных бессеточных CFD решателей. Решатель бессеточный - работает на основе своего метода частиц MPS (Moving Particle Simulation) Method.&lt;/p&gt;
+&lt;p&gt;Работа решателя на основе метода частиц позволяет решать динамические задачи с подвижными (и сильно подвижными :-)) границами, FSI и описывать прочие динамические процессы - например, задачи смазки зубчатых передач, слошинш, аквапланирование.&lt;/p&gt;
+&lt;p&gt;Ну и вишенка на торте - все это еще умеет очень хорошо работать на GPU. Я бы на месте ANSYS давно уже купил эту компанию целиком.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.prometech.co.jp/newsroom_ja/prometech-and-ansys-announce-a-collaboration-to-provide-broader-multiphysics-solution.html?lang=ja&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.prometech.co.jp/newsroom_ja/prometech-and-ansys-announce-a-collaboration-to-provide-broader-multiphysics-solution.html?lang=ja&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS #CFD #FSI #GPU #Meshless #MPS #Particleworks #Prometech
+&lt;a href=&#34;http://bit.ly/2V1xxeO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2V1xxeO&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учебная статья: Lattice Optimization в ANSYS Mechanical</title>
+      <link>http://localhost:1313/posts/2018-12-07-uchebnaya-statya-lattice-optimization-v-a/</link>
+      <pubDate>Fri, 07 Dec 2018 17:00:17 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-12-07-uchebnaya-statya-lattice-optimization-v-a/</guid>
+      <description>&lt;p&gt;Коллеги из Padtinc написали отличный пост, где пошагово разобран весь процесс Lattice Optimization при помомщи ANSYS Mechanical версии 19.2.
+Тут разобраны все этапы:&lt;/p&gt;
+&lt;p&gt;Постановка прочностного расчета
+Настройка модуля оптимизации
+Просмотр и анализ базовых результатов
+Генерация lattice structure на основе результатов расчётов
+Проверочный расчет&lt;/p&gt;
+&lt;p&gt;How to Use Lattice Optimization in ANSYS Mechanical and ANSYS SpaceClaim 19.2&lt;/p&gt;
+&lt;p&gt;#ANSYS #LatticeStructure #Mechanical #Optimization #Padtinc #Topology
+&lt;a href=&#34;http://bit.ly/2UpSlws&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2UpSlws&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новые возможности ANSYS по работе с материалами</title>
+      <link>http://localhost:1313/posts/2018-11-05-novye-vozmozhnosti-ansys-po-rabote-s-mate/</link>
+      <pubDate>Mon, 05 Nov 2018 17:01:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-11-05-novye-vozmozhnosti-ansys-po-rabote-s-mate/</guid>
+      <description>&lt;p&gt;Еще одно полезное видео от LEAP: на этот раз оно посвящено новым возможностям ANSYS в области работы с материалами. Коллеги расскажут про две новых фишки ANSYS:&lt;/p&gt;
+&lt;p&gt;Material Designer - модуль расчета прямой гомогенизации (получения эффективных свойств композита на основе испытания представительного элемента объема)
+Material Assignment Tool - новый механизм присваивания моделей материалов не на основе геометрических объектов, а через именованные выборки&lt;/p&gt;
+&lt;p&gt;Еще покажут как влияет учет драпировки на свойства изделий из текстильных композитов, но это уже хорошо известная возможность ACP.&lt;/p&gt;
+&lt;p&gt;#ACP #ANSYS #Composite #LEAP #MaterialAssignmentTool #MaterialDesigner #Mechanical
+&lt;a href=&#34;http://bit.ly/2D4uPyD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2D4uPyD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>От сетки до результатов - и все во Fluent</title>
+      <link>http://localhost:1313/posts/2018-10-27-ot-setki-do-rezultatov-i-vse-vo-fluen/</link>
+      <pubDate>Sat, 27 Oct 2018 16:01:39 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-10-27-ot-setki-do-rezultatov-i-vse-vo-fluen/</guid>
+      <description>&lt;p&gt;Отличное демонстрационное видео, показывающее возможности ANSYS Fluent 19.2. Теперь в этой махине можно сделать все: затянуть геометрию, извлечь внутренний объем, построить сетку, задать граничные условия, провести расчет (ну куда ж без этого) и сделать красивую визуализацию результатов.&lt;/p&gt;
+&lt;p&gt;Неужели инженерное ПО становиться удобным? :-)&lt;/p&gt;
+&lt;p&gt;#ANSYS #CFD #Fluent
+&lt;a href=&#34;http://bit.ly/2D8iGKa&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2D8iGKa&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Коротко о новых возможностях ANSYS Mechanical 19.2</title>
+      <link>http://localhost:1313/posts/2018-09-24-korotko-o-novyh-vozmozhnostyah-ansys-mecha/</link>
+      <pubDate>Mon, 24 Sep 2018 17:01:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-09-24-korotko-o-novyh-vozmozhnostyah-ansys-mecha/</guid>
+      <description>&lt;p&gt;Собственно все показано в видео. Мне из этого всего пригодится Material Designer и возможность делать топологическую оптимизацию с прицелом на технологичность печати. Жаль, что condensed part мне в расчетах не нужны :(&lt;/p&gt;
+&lt;p&gt;#ANSYS #Mechanical
+&lt;a href=&#34;http://bit.ly/2MXvOSB&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2MXvOSB&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вебинар по аддитивным технологиям ANSYS от PADT</title>
+      <link>http://localhost:1313/posts/2018-09-01-vebinar-po-additivnym-tehnologiyam-ansys/</link>
+      <pubDate>Sat, 01 Sep 2018 18:00:25 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-09-01-vebinar-po-additivnym-tehnologiyam-ansys/</guid>
+      <description>&lt;p&gt;12 сентября PADT проведет бесплатный вебинар по соответствующей тематике. Этот вебинар будет особенно интересен тем, что компания PADT кроме того, что является элитным партнером ANSYS, так еще и профессионально занимается 3D печатью.
+&lt;a href=&#34;http://www.padtinc.com/blog/webinar/design-simulate-print-ansys-offerings-in-additive-manufacturing-webinar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.padtinc.com/blog/webinar/design-simulate-print-ansys-offerings-in-additive-manufacturing-webinar&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#AdditiveManufacturing #AdditivePrint #ANSYS #Padtinc
+&lt;a href=&#34;http://bit.ly/2MIGyJd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2MIGyJd&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Включаем Implicit решатель в Workbench LS-DYNA</title>
+      <link>http://localhost:1313/posts/2018-08-14-vklyuchaem-implicit-reshatel-v-workbench-l/</link>
+      <pubDate>Tue, 14 Aug 2018 18:01:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-08-14-vklyuchaem-implicit-reshatel-v-workbench-l/</guid>
+      <description>&lt;p&gt;Если очень надо, то можно и Workbench LS-DYNA  заставить работать в Implicit режиме. При этом выводятся очень симпатичные невязки. Хотя графики на первых порах были бы приятнее.
+Далее код командного объекта, что включает хороший нелинейный расчет. Будьте очень аккуратны при копировании: даже несмотря на freeformat стиль записи, есть вероятность, что web форматирование может повредить командный блок. Лучше сначала проверьте его в LS-PrePost. Командный объект подготвлен на основе материалов ARUP, найденных в сети в 2017 году.&lt;/p&gt;
+&lt;p&gt;*CONTROL_ACCURACY
+$
+$ OSU – 2nd order objective stress update
+$ = 0 -&amp;gt; Off (default)
+$ = 1 -&amp;gt; On
+$
+$ INN – Invariant node numbering
+$ = 2 -&amp;gt; On for shell and thick shell elements (default for implicit)
+$
+$ IACC – Implicit accuracy flag, turns on some specific accuracy considerations in implicit analysis at an extra CPU cost.
+$ = 0 -&amp;gt; Off (default)
+$ = 1 -&amp;gt; On
+$
+1,2,0,1
+&lt;em&gt;CONTROL_IMPLICIT_AUTO
+$
+$ IAUTO – Automatic time step control
+$ = 0 -&amp;gt; constant time step size (default)
+$ = 1 -&amp;gt; automatically adjusted timestep size
+$
+$ DTMIN – Minimum allowable timestep size (default = DT0/1000)
+$ Simulation stops with error termination, if time step falls below DTMIN
+$
+$ DTMAX – Maximum allowable timestep (default = DT0&lt;/em&gt;10)
+$
+1,11,5,0.0002,0.02
+*CONTROL_IMPLICIT_GENERAL
+$
+$ IMFLAG – Implicit/ Explicit analysis type flag
+$ = 1 -&amp;gt; Implicit analysis
+$
+$ DT0 – Initial time step size for implicit
+$ (default – none)
+$
+$ IMFORM:= Element formulation switching flag
+$ EQ.1: switch to fully integrated formulation for implicit springback
+$ EQ.2: retain original element formulation (default).
+;
+1,0.02,1,1,2
+*CONTROL_IMPLICIT_SOLUTION
+$
+$ NSOLVR – Solution method for implicit analysis
+$ = 2 -&amp;gt; Nonlinear with BFGS updates (obsolete)
+$ = 12 -&amp;gt; (new default from 9.0.1) Nonlinear with BFGS updates
+$ + optional arc length
+$ + different line search and integration schemes compared to solver 2.
+$
+$ DCTOL – Displacement relative convergence tolerance (default = 0.001)
+$
+$ ECTOL – Energy relative convergence tolerance (default = 0.01)
+$
+$ NLPRINT – Nonlinear solver print flag
+$ = 3 -&amp;gt; print iteration, norm and line search info.
+$
+$ D3ITCTL – Controls D3ITER database (default = 0)
+$
+12,11,15,0.001,0.01,1e+010,0.9,1e-010
+2,1,1,3,2
+0,,,1,2
+4,2
+*DATABASE_EXTENT_BINARY
+$
+$ RESPLT – Output of translational and rotational residual forces to d3plot &amp;amp; d3iter.
+$ = 1 -&amp;gt; Output residual
+$
+,,,1,1,1,1,1
+,,,1,1,1,2
+,,,,2,,,
+,1&lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS #ARUP #Implicit #Longread #LSDYNA #SommandSnipet #Workbench
+&lt;a href=&#34;http://bit.ly/2OwQJgD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OwQJgD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SolidProfessor вводит систему подписки на свою библиотеку ку</title>
+      <link>http://localhost:1313/posts/2018-07-15-solidprofessor-vvodit-sistemu-podpiski-n/</link>
+      <pubDate>Sun, 15 Jul 2018 18:02:34 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-07-15-solidprofessor-vvodit-sistemu-podpiski-n/</guid>
+      <description>&lt;p&gt;Пожалуй самая крупная из существующих платформ online обучения для инженеров вводит новую модель монетизации. Если раньше вы приобретали права на просмотр того или иного учебного курса, то теперь вы можете подписаться на доступ ко всей библиотеке за $49 в месяц.
+А платить есть за что: на платформе есть учебные материалы по таким системам, как Solidworks, ANSYS, Autodesk,  Caita, Inventor, Onshape и многому другому (&lt;a href=&#34;https://www.solidprofessor.com/tutorials/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.solidprofessor.com/tutorials/)&lt;/a&gt;.
+&lt;a href=&#34;https://www.develop3d.com/blog/solidprofessor-announces-single-plan-pricing-solidworks-education&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.develop3d.com/blog/solidprofessor-announces-single-plan-pricing-solidworks-education&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS #Autodesk #Caita #Inventor #Onshape #SolidProfessor #SolidWorks
+&lt;a href=&#34;http://bit.ly/2uzy0c0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2uzy0c0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Официальный релиз CivilFEM for ANSYS 19.0</title>
+      <link>http://localhost:1313/posts/2018-07-10-ofitsialnyy-reliz-civilfem-for-ansys-19/</link>
+      <pubDate>Tue, 10 Jul 2018 18:01:54 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-07-10-ofitsialnyy-reliz-civilfem-for-ansys-19/</guid>
+      <description>&lt;p&gt;Отчасти эта новость уже проскакивала пару недель назад. Однако тогда это была скорее догадка, а теперь - точное утверждение: &amp;ldquo;CivilFEM for ANSYS 19.0 вышел и готов к использованию&amp;rdquo;.
+Вообще CivilFEM - это международно признаваемый стандарт в области расчетов для гражданского строительства и атомной энергетики. Он выполняет расчеты по международным нормам, подбирает арматуру, имеет собственную библиотеку моделей материалов и формулировок конечных элементов. Подробности можно почитать тут. Единственная моя претензия к данному коду - он работает только в старом интерфейсе ANSYS APDL /Prep7 - они никак не соберутся сделать нормальное ACT.
+А вот и неполный список клиентов по всему миру.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.civilfem.com/new-version-of-civilfem-for-ansys-18-2-add-on-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.civilfem.com/new-version-of-civilfem-for-ansys-18-2-add-on-2/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS #APDL #CivilFEM
+&lt;a href=&#34;http://bit.ly/2N0AfN1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2N0AfN1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как корректно остановить решатель на ходу</title>
+      <link>http://localhost:1313/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</link>
+      <pubDate>Tue, 03 Jul 2018 18:02:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</guid>
+      <description>&lt;p&gt;Есть очень часто встречающаяся задача - запуск решателя в консольном/пакетном режиме для выполнения расчета на рабочей станции или кластере. С этой задачей сталкиваются многие опытные инженеры. Как запускать консольные расчеты хорошо описано в документации, много рассказано на форумах.
+Однако мало кто знает, что практически любой решатель, работающий в фоне, можно корректно остановить с запуском точки рестарта/чекпоинта. Как правило, необходимо создать особый файл в особом месте. Когда решатель его обнаружит, он сам все поймет. Особый файл будет удалён сразу после его обработки. Давайте посмотрим, как это сделать для основных решателей ANSYS.
+Mechanical/APDL:
+В рабочей директории решателя надо создать файл с именем jobname.abt, где jobname - имя проекта. Файл должен содержать только одно слово: nonlinear
+Fluent:
+Для записи файла рестарта (а это просто обычный набор из cas и dat) необходимо создать файл check-fluent в директории /tmp для Linux или check-fluent.txt в директории C:\temp для Windows. Корректно завершить решатель можно, создав в этих директориях файл exit-fluent или exit-fluent.txt соответсвенно.
+CFX:
+C этим решателем все сильно проще. У него есть специальный исполняемый файл cfx5stop, предназначенный для корректной остановки расчета. Таким образом, для проекта mixer_001, достаточно выполнить команду cfx5stop -directory mixer_001.dir в его рабочей директории - там mixer_001.dir будет являться временной рабочей директорией.
+LS-DYNA:
+У этого решателя есть такая штука как SWITCH CONTROLS - в ходе расчета вы можете нажать комбинацию клавиш Control+C и ввести определнный код. Вот те ключевые коды, которые относятся к нашей теме:
+sw1 - записать файл рестарта
+sw2 - вывести оценку оставшегося времени расчета
+sw3 - записать файл рестарта
+Если консоль вам недоступна (расчет идет в фоне), то необходимо создать в рабочей директории решателя файл d3kil (или jobid.d3kil, если вы используете идентификаторы расчетного проекта), содержащий соответсвующий код.
+Autodyn
+Для этого решателя надо создать файл savenow.dat для записи файла рестарта в конце текущей итерации, а файл endbat.dat завершит расчет после окончания текущей итерации.
+Решатели семейства AEDT (ANSYS Electronics Desktop) - бывший Ansoft
+Знающие люди подсказали, что решатели можно спокойно убивать на лету - они сами смогут рестартовать остановленный таким образом расчет с последней записанной итерации.
+ANSYS Workbench
+Если вы пользуетесь ANSYS RSM, то там для всех поддерживаемых решателей уже есть стандартная кнопка Interrupt, которая делает всю вышеописанную магию за вас. Настраивайте RSM и наслаждайтесь :-)&lt;/p&gt;
+&lt;p&gt;#AEDT #ANSYS #Autodyn #CFX #Checkpont #Fluent #HPC #Longread #LSDYNA #Restart #RSM #Workbench
+&lt;a href=&#34;http://bit.ly/2u3rrhp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2u3rrhp&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Удары и дроптесты: генерация спектра отклика</title>
+      <link>http://localhost:1313/posts/2018-06-25-udary-i-droptesty-generatsiya-spektra-otk/</link>
+      <pubDate>Mon, 25 Jun 2018 18:01:48 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-06-25-udary-i-droptesty-generatsiya-spektra-otk/</guid>
+      <description>&lt;p&gt;Собственно, учебное видео по теме для пользователей ANSYS Mechanical. Видео примечательно использованием командных APDL вставок для постпроцессинга. Это магическое знание позволяет вытаскивать графические результаты в современный интерфейс из /POST1&lt;/p&gt;
+&lt;p&gt;#ANSYS #APDL #DropTest #Mechanical #Shock
+&lt;a href=&#34;https://is.gd/kIIdgG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://is.gd/kIIdgG&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Совершенствование конструкции защитных экранов Уипла</title>
+      <link>http://localhost:1313/posts/2018-05-26-sovershenstvovanie-konstruktsii-zaschitnyh-e/</link>
+      <pubDate>Sat, 26 May 2018 18:00:54 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-05-26-sovershenstvovanie-konstruktsii-zaschitnyh-e/</guid>
+      <description>&lt;p&gt;Новая публикация от моего коллеги Александра Черняева, который долгое время занимался защитой космических объектов от ударов микрометеоритов. Аккуратно, внутри много экспериментальных данных и расчетов в AUTODYN.
+&lt;a href=&#34;https://vk.com/wall13004811_950&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/wall13004811_950&lt;/a&gt;
+#ANSYS #Autodyn #SPH&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1RE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1RE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вебинары по GTAM/GSAM v16 — оптимизация топологии и не тольк</title>
+      <link>http://localhost:1313/posts/2018-05-06-vebinary-po-gtamgsam-v16-optimizatsiya/</link>
+      <pubDate>Sun, 06 May 2018 18:01:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-05-06-vebinary-po-gtamgsam-v16-optimizatsiya/</guid>
+      <description>&lt;p&gt;На случай если вы пропустили данный вебинар, стоит пересмотреть его сейчас. Компания Vanderplaats Research &amp;amp; Development  рассказывает о своих оптимизаторах, встраиваемых в ANSYS Mechanical и существенно расширяющих его возможности. Речь в основном идет об GENESIS Structural Optimization for ANSYS Mechanical (GSAM) и GENESIS Topology Optimization for ANSYS Mechanical (GTAM). GTAM решает только задачи оптимизации топологии, тогда как GSAM умеет еще и такие штуки, как оптимизация по средством морфинга сетки, топографическая оптимизация, оптимизация толщин оболочечных моделей и оптимизация жесткости оболочечных конструкций за счет выштамповок. Скучно не будет, ведь все это может работать с учетом нелинейности на уровне геометрии и свойств материалов! И да, весь софт встраивается в Workbench по средствам ACT.
+#ACT #ANSYS #GENESIS #GSAM #GTAM #Mechanical #optimiziation #Topology #Workbench&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Pr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Pr&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Электромагнитные расчеты в ANSYS Discovery AIM</title>
+      <link>http://localhost:1313/posts/2018-05-03-elektromagnitnye-raschety-v-ansys-discove/</link>
+      <pubDate>Thu, 03 May 2018 18:00:56 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-05-03-elektromagnitnye-raschety-v-ansys-discove/</guid>
+      <description>&lt;p&gt;AIM стал флагманом новой линейки продуктов Discovery. И не стоит забывать, что внутри AIM работают проверенные десятилетиями решатели ANSYS.
+В демонстрационном видео показывают электромагнитные расчеты — пример того, как из EMAG (электромагнитного решателя в составе APDL) можно выжать еще много чего, если дать ему удобный и современный интерфейс.
+#AIM #ANSYS #APDL #Discovery #EM #EMAG&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1O8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1O8&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Проектирование углепластикового спортивного диска</title>
+      <link>http://localhost:1313/posts/2018-04-26-proektirovanie-ugleplastikovogo-sportivn/</link>
+      <pubDate>Thu, 26 Apr 2018 18:01:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-04-26-proektirovanie-ugleplastikovogo-sportivn/</guid>
+      <description>&lt;p&gt;Небольшое, но ёмкое видео, демонстрирующее возможности ANSYS Composite PrepPost по моделированию изделий из углепластика сложной формы. Ну а дальше все, как в лучших практиках: геометрия в SpaceClaim, сетка в ANSYS Meshing, структура композита в ACP, расчет в Mechanical&lt;/p&gt;
+&lt;p&gt;Кроме того, не забываем о возможностях посчитать ударные нагрузки в Explicit STR или LS-DYNA или учесть возможное коробление при спекании в ANSYS Composite Cure Simulation (ASSC).
+#ACCS #ACP #ANSYS #composite #Mechanical&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Nz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Nz&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Discovery Live для CFD расчета загрязнения окружающей среды</title>
+      <link>http://localhost:1313/posts/2018-04-24-discovery-live-dlya-cfd-rascheta-zagryaznen/</link>
+      <pubDate>Tue, 24 Apr 2018 18:02:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-04-24-discovery-live-dlya-cfd-rascheta-zagryaznen/</guid>
+      <description>&lt;p&gt;Коллеги из CADFEM подготовили небольшую демонстрацию расчета возможного загрязнения города. В качестве примера они взяли модель центра Франкфурта и посчитали, как будет распространяться выброс газов в атмосфере города с учетом ветра. ANSYS Discovery Live считает быстро, но пока только однофазные течения. Так что для учета выброса коллеги использовали температурную аналогию.&lt;/p&gt;
+&lt;p&gt;Прошу заметить, что благодаря возможностям Discovery Live и GPU NVIDIA, весь расчет выполняется в реальном времени.
+#ANSYS #CADFEM #CFD #Discovery&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Ns&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Ns&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование трещин в ANSYS: кины и энергия</title>
+      <link>http://localhost:1313/posts/2018-04-09-modelirovanie-treschin-v-ansys-kiny-i-ene/</link>
+      <pubDate>Mon, 09 Apr 2018 18:01:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-04-09-modelirovanie-treschin-v-ansys-kiny-i-ene/</guid>
+      <description>&lt;p&gt;Второе видео из серии материалов, посвященных моделированию роста трещин в ANSYS Mechanical 19. Сегодня разговор пойдет о кинах (коэффициентах интенсивности напряжений), критерии Гриффитса и критической длине трещины.&lt;/p&gt;
+&lt;p&gt;#ANSYS #Crack #Fracture #Mechanical
+&lt;a href=&#34;https://is.gd/kdwjsx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://is.gd/kdwjsx&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ну очень упрощенный интефейс ANSYS Meshing GUI</title>
+      <link>http://localhost:1313/posts/2018-03-28-nu-ochen-uproschennyy-intefeys-ansys-meshi/</link>
+      <pubDate>Wed, 28 Mar 2018 10:58:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-03-28-nu-ochen-uproschennyy-intefeys-ansys-meshi/</guid>
+      <description>&lt;p&gt;Одно из нововведений ANSYS Meshing 19 — возможность включить упрощенный интефейс, скрывающий «лишние настроки» сетки. Судя по поведению Workbench, размер элемента сетки теперь относится к «лишним настройкам» :-)&lt;/p&gt;
+&lt;p&gt;#ANSYS #Bug #Meshing
+&lt;a href=&#34;https://goo.gl/CDT5gu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/CDT5gu&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS запустил свой AppStore c ACT расширениями для версии 1</title>
+      <link>http://localhost:1313/posts/2018-03-12-ansys-zapustil-svoy-appstore-c-act-rasshi/</link>
+      <pubDate>Mon, 12 Mar 2018 18:01:03 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-03-12-ansys-zapustil-svoy-appstore-c-act-rasshi/</guid>
+      <description>&lt;p&gt;ACT — Application Customisation Toolkit — всевозможные расширения, расширяющие возможности среды ANSYS. Они могут быть просто кнопкой с новым граничным условием, полноценным GUI для стороннего решателя (как сделано для LS-DYNA) или целой связкой нескольких расчетных систем для моделирования сложного физического процесса (например, система Additive Manufacturing).
+На прошлой неделе ANSYS обновил свой портал с расширениями, включив поддержку актуального 19-ого релиза. Адрес портала: https://appstore.ansys.com — и там уже есть чем поживиться! А кому мало — можно написать и собрать такое расширение самому.
+ &lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS
+&lt;a href=&#34;https://goo.gl/827Zvi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/827Zvi&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Подробности о расчете  эффективной отражающей площади объект</title>
+      <link>http://localhost:1313/posts/2018-02-05-podrobnosti-o-raschete-effektivnoy-otrazh/</link>
+      <pubDate>Mon, 05 Feb 2018 18:00:26 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-02-05-podrobnosti-o-raschete-effektivnoy-otrazh/</guid>
+      <description>&lt;p&gt;Одним из наиболее значимых нововведений 19-ого релиза ANSYS стала возможность рассчитывать эффективную отражающую площадь объекта при помощи решателя SBR+, вошедшего в состав HFSS.&lt;/p&gt;
+&lt;p&gt;Эффекти́вная пло́щадь рассе́яния (ЭПР; &lt;a title=&#34;Английский язык&#34; href=&#34;https://ru.wikipedia.org/wiki/90BDB3BBB8B981BAB8B9_8FB78BBA&#34;&gt;англ.&lt;/a&gt; &lt;span lang=&#34;en&#34; xml:lang=&#34;en&#34;&gt;radar cross-section, RCS&lt;/span&gt;; в некоторых источниках — эффективная пове́рхность рассеяния, эффективный попере́чник рассеяния, эффективная отража́ющая площадь, ЭОП) в &lt;a title=&#34;Радиолокация&#34; href=&#34;https://ru.wikipedia.org/wiki/A0B0B4B8BEBBBEBAB086B88F&#34;&gt;радиолокации&lt;/a&gt; — площадь некоторой фиктивной плоской поверхности, расположенной нормально к направлению падающей &lt;a title=&#34;Плоская волна&#34; href=&#34;https://ru.wikipedia.org/wiki/9FBBBE81BAB08F_B2BEBBBDB0&#34;&gt;плоской волны&lt;/a&gt; и являющейся идеальным и изотропным переизлучателем, которая, будучи помещена в точку расположения цели, создаёт в месте расположения &lt;a title=&#34;Антенна&#34; href=&#34;https://ru.wikipedia.org/wiki/90BD82B5BDBDB0&#34;&gt;антенны&lt;/a&gt; &lt;a title=&#34;Радиолокационная станция&#34; href=&#34;https://ru.wikipedia.org/wiki/A0B0B4B8BEBBBEBAB086B8BEBDBDB08F_8182B0BD86B88F&#34;&gt;радиолокационной станции&lt;/a&gt; ту же &lt;a title=&#34;Вектор Пойнтинга&#34; href=&#34;https://ru.wikipedia.org/wiki/92B5BA82BE80_9FBEB9BD82B8BDB3B0&#34;&gt;плотность потока мощности&lt;/a&gt;, что и реальная цель&lt;sup id=&#34;cite_ref-1&#34; class=&#34;reference&#34;&gt;&lt;a href=&#34;https://ru.wikipedia.org/wiki/AD8484B5BA82B8B2BDB08F_BFBBBE89B0B48C_80B08181B58FBDB88F#cite_note-1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;. Решатель SBR+ достался HFSS в результате покупки компании Delcross - это был один из решателей в Savant. SBR+ позволяет HFSS выполнять расчет эффективной площади рассеяния с использованием специализированных эмпирических методик (раньше был доступен только &amp;ldquo;честный расчет&amp;rdquo;).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=KtEdoEOay8U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=KtEdoEOay8U&lt;/a&gt;
+#ANSYS #Delcross #HFSS #RCS #Savant #SBR+
+&lt;a href=&#34;https://wp.me/p9vWYY-1BE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1BE&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Облачные лицензии ANSYS’ Pay-Per-Use для Rescale</title>
+      <link>http://localhost:1313/posts/2018-01-25-oblachnye-litsenzii-ansys-pay-per-use-dlya/</link>
+      <pubDate>Thu, 25 Jan 2018 17:01:29 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-01-25-oblachnye-litsenzii-ansys-pay-per-use-dlya/</guid>
+      <description>&lt;p&gt;На протяжении года ANSYS выкатывает свою систему лицензирования по запросу. Данная схема лицензирования очень хорошо подходит для случая использования облачных вычислительных ресурсов (также по запросу).&lt;/p&gt;
+&lt;p&gt;Итак, в начале этого года ANSYS Elastic Units (AEUs) - так называются облачные лицензии на ANSYS - стали доступны для платформы ScaleX Cloud HPC Platform от Rescale. Rescale, в свою очередь является одним из лидеров облачных HPC решений.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.rescale.com/ansys-rescale-offer-on-demand-ansys-software-on-scalex/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blog.rescale.com/ansys-rescale-offer-on-demand-ansys-software-on-scalex/&lt;/a&gt;
+#AEUs #ANSYS #cloud #HPC #Rescale #ScaleX
+&lt;a href=&#34;https://magicdpd.ru/?p=6080&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6080&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Тенденции мира математического моделирования</title>
+      <link>http://localhost:1313/posts/2018-01-16-tendentsii-mira-matematicheskogo-modelirov/</link>
+      <pubDate>Tue, 16 Jan 2018 17:01:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-01-16-tendentsii-mira-matematicheskogo-modelirov/</guid>
+      <description>&lt;p&gt;Портал engineering.com подвел итоги ушедшего года и постарался определить основные тенденции на год текущий.&lt;/p&gt;
+&lt;p&gt;Так, основными событиями 2017 года названы:&lt;/p&gt;
+&lt;p&gt;Мгновенные расчеты благодаря технической демо версии ANSYS Discovery Live
+Поглощение MSC Software компанией Hexagon
+Поглощение Mentor Graphics компанией Siemens&lt;/p&gt;
+&lt;p&gt;Тренды этого года:&lt;/p&gt;
+&lt;p&gt;Выход стабильной версии ANSYS Discovery Live
+Внедрение AR и VR - что-то я сомневаюсь, что эти технологии готовы для профессионального использования
+Интерактивные расчетные методики, по типу как делает COMSOL App - прикольно, но я не вижу в этом особого всплеска активности
+Возможный рост и возрождение MSC - тоже пока все тихо, но Hexagon не дураки
+Digital Twin
+Additive Manufacturing - вот сюда реально ломятся все, но никто толком посчитать не может, так как не хватает корректной теории.
+Автопилот в автомобилях - это уже про встроенное ПО&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16124/Engineering-Simulation-Software-in-2018-and-Beyond.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16124/Engineering-Simulation-Software-in-2018-and-Beyond.aspx&lt;/a&gt;
+#Additive Manufacturing #ANSYS #Digital Twin #Discovery #Hexagon #Mentor #MSC #Siemens
+&lt;a href=&#34;https://magicdpd.ru/?p=5960&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5960&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Грунты и сеточная адаптация в ANSYS Mechanical</title>
+      <link>http://localhost:1313/posts/2018-01-02-grunty-i-setochnaya-adaptatsiya-v-ansys-mech/</link>
+      <pubDate>Tue, 02 Jan 2018 19:52:03 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-01-02-grunty-i-setochnaya-adaptatsiya-v-ansys-mech/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://twitter.com/flaxius/status/948149501684011008&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://twitter.com/flaxius/status/948149501684011008&lt;/a&gt;
+#ANSYS #Mechanical #Soil
+&lt;a href=&#34;https://magicdpd.ru/?p=5745&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5745&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сейчас на рынке #HPC интерконнектов идет тихая война между #</title>
+      <link>http://localhost:1313/posts/2017-12-24-seychas-na-rynke-hpc-interkonnektov-idet/</link>
+      <pubDate>Sun, 24 Dec 2017 17:11:49 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-12-24-seychas-na-rynke-hpc-interkonnektov-idet/</guid>
+      <description>&lt;p&gt;Хотя на мой вкус, Mellanox так далеко впереди, что за ним уже никому не угнаться. Посудите сами: у них полностью аппаратная работа с данными, не нагружающая CPU, у них уже есть 200 Гбит и, что самое важное, их поддерживают все решатели (ну хотя бы все решатели #ANSYS). А вот Intel #OPA может только #ANSYS #Fluent и #ANSYS #CFX.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2l7xnl8MediaMediaMedia&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2l7xnl8MediaMediaMedia&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2kQNVyg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2kQNVyg&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Коллеги, я продолжаю поиск учеников для того, чтобы делиться</title>
+      <link>http://localhost:1313/posts/2017-12-14-kollegi-ya-prodolzhayu-poisk-uchenikov-dlya/</link>
+      <pubDate>Thu, 14 Dec 2017 10:02:34 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-12-14-kollegi-ya-prodolzhayu-poisk-uchenikov-dlya/</guid>
+      <description>&lt;p&gt;Задачи я решаю преимущественно в #LSDYNA, и это потребует обязательного знания #МКЭ, #ANSYS Mechanical, #SpaceClaim, #Meshing, #LSPP. Знание сложного инженерного ПО - это хорошо, но без хорошего базового образования и понимания физики процесса никуда не деться. Таким образом вам потребуются знания таких дисциплин, как теоретическая механика, математическая физика, теория упругости и что-нибудь из численных методов.&lt;/p&gt;
+&lt;p&gt;Каким я вижу своих учеников:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;студент старше 3-его курса&lt;/li&gt;
+&lt;li&gt;проживает в Санкт-Петербурге&lt;/li&gt;
+&lt;li&gt;способность анализировать технические и научные статьи, документацию на английском языке&lt;/li&gt;
+&lt;li&gt;высокий уровень самоорганизации&lt;/li&gt;
+&lt;li&gt;аккуратность и рассудительность&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Отдельно по двум последним требованиям. Мои ученики должны быть способны осмысленно отвечать за все выполненные действия и допущения при постановке задач, а не просто нажимать на кнопки. А после выполнения очередного задания они не должны затихать и идти отдыхать, а наоборот - бегать за мной с вопросами &amp;ldquo;что еще можно по решать?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Зачем еще мне нудны ученики? Прямо сейчас у меня есть несколько пилотных проектов для организаций заинтересованных в решении своих задач. Но один я во всех проектах принять участие не смогу 😒&lt;/p&gt;
+&lt;p&gt;Что надо сделать, чтобы начать? Надо найти способ связаться со мной. Предпочтительный способ: &lt;a href=&#34;https://t.me/GlukRazor&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://t.me/GlukRazor&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;И да, я редко прошу, но для этого поста просто необходим максимальный репост.MediaMediaMediaMedia&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2j2Iv1R&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2j2Iv1R&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EASA - это специализированная платформа для создания интерак</title>
+      <link>http://localhost:1313/posts/2017-12-12-easa-eto-spetsializirovannaya-platforma/</link>
+      <pubDate>Tue, 12 Dec 2017 17:02:43 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-12-12-easa-eto-spetsializirovannaya-platforma/</guid>
+      <description>&lt;p&gt;Так EASA может связать в единую цепочку такие системы, как #Excel, #Salesforce, Visual Basic, #MATLAB, #ANSYS, #Python и все, что имеет внятный API или CMD.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16084/Link-Almost-Any-CAE-and-Design-Software-Tool-into-an-App-With-EASA.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16084/Link-Almost-Any-CAE-and-Design-Software-Tool-into-an-App-With-EASA.aspx&lt;/a&gt; 🔗 Link Almost Any CAE and Design Software Tool into an App With EASA ? ENGINEERING.com&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🍗🍗🍗 Как правильно запекать индейку в барбекю?</title>
+      <link>http://localhost:1313/posts/2017-12-08-kak-pravilno-zapekat-indeyku-v-bar/</link>
+      <pubDate>Fri, 08 Dec 2017 19:03:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-12-08-kak-pravilno-zapekat-indeyku-v-bar/</guid>
+      <description>&lt;p&gt;Мастер-класс от Jacobs Analytics по моделированию воздушного потока в процессе запекания индейки инструментами #ANSYS #CFX :)Media📼 BBQ Turkey&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2A3cygP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2A3cygP&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#Mellanox, находясь в лидерах рынка #HPC интерконнекта, не о</title>
+      <link>http://localhost:1313/posts/2017-11-21-mellanox-nahodyas-v-liderah-rynka-hpc/</link>
+      <pubDate>Tue, 21 Nov 2017 15:10:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-11-21-mellanox-nahodyas-v-liderah-rynka-hpc/</guid>
+      <description>&lt;p&gt;Строите кластер для #ANSYS - закладывайте в его основу Mellanox Infiniband.&lt;/p&gt;
+&lt;p&gt;#Infiniband #SocketDirect&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/gzilN_cuhMkMedia&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/gzilN_cuhMkMedia&lt;/a&gt;📼 Eye on Mellanox socket direct&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2zmVfuV&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zmVfuV&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оказывается #atom умеет работать не только с синтаксисом #LS</title>
+      <link>http://localhost:1313/posts/2017-11-18-okazyvaetsya-atom-umeet-rabotat-ne-tol/</link>
+      <pubDate>Sat, 18 Nov 2017 17:15:25 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-11-18-okazyvaetsya-atom-umeet-rabotat-ne-tol/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;#ANSYS #APDL &lt;a href=&#34;http://ift.tt/2AaBre6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2AaBre6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;#NASTRAN &lt;a href=&#34;http://ift.tt/2zLVvDc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zLVvDc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;#Abaqus &lt;a href=&#34;https://atom.io/packages/language-ansys&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://atom.io/packages/language-ansys&lt;/a&gt; 🔗 language-ansys&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#BetaCAE показала BETA Web - возможность удаленного подключе</title>
+      <link>http://localhost:1313/posts/2017-11-03-betacae-pokazala-beta-web-vozmozhnost/</link>
+      <pubDate>Fri, 03 Nov 2017 17:16:53 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-11-03-betacae-pokazala-beta-web-vozmozhnost/</guid>
+      <description>&lt;p&gt;По сути, система дает доступ по WEB в вашей модели. Таким образом заинтересованные люди без установки ПО и задания его особенностей могут на любом компьютере посмотреть нет ли ошибок в модели и в каком она сейчас статусе. Примерно что-то такое год назад появилось у #ANSYS #SpaceClaim, но не для сеточной модели, а для геометрической.&lt;/p&gt;
+&lt;p&gt;#betaweb
+&lt;a href=&#34;https://www.youtube.com/watch?v=dRX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=dRX&lt;/a&gt;…Media📼 Connect with your partners through the BETA Web in…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2hDa1D7&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hDa1D7&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Программное обеспечение True-Load в связке с ANSYS Workbench</title>
+      <link>http://localhost:1313/posts/2017-09-21-programmnoe-obespechenie-true-load-v-svyaz/</link>
+      <pubDate>Thu, 21 Sep 2017 16:43:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-09-21-programmnoe-obespechenie-true-load-v-svyaz/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://goo.gl/anVknw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/anVknw&lt;/a&gt;
+В настоящий момент с интеграцией True-Load в интерфейс #ANSYS #Workbench, использование True-Load стало интуитивно понятным для пользователей Workbench. Элементы программного обеспечения True-Load доступны прямо в среде Workbench и могут быть добавлены в дерево построения при производстве расчётов. Инженеры получили мощный и гибкий инструмент для проектирования транспортных машин исходя из реальных уровней напряжений, с которыми эти машины столкнутся в процессе эксплуатации.
+#ansys #TrueLoadMedia&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2xxZQs4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xxZQs4&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сразу после представления #ANSYS #Discovery Live сотрудникам</title>
+      <link>http://localhost:1313/posts/2017-09-19-srazu-posle-predstavleniya-ansys-discov/</link>
+      <pubDate>Tue, 19 Sep 2017 17:06:03 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-09-19-srazu-posle-predstavleniya-ansys-discov/</guid>
+      <description>&lt;p&gt;Особенно порадовал следующий диалог:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Grabowski: How is meshing done automatically? I assume it ignores small parts automatically. (Как происходи процесс автоматической генерации сетки? Я предполагаю что в процессе автоматически отбрасываются мелкие элементы.)&lt;/li&gt;
+&lt;li&gt;ANSYS: The simulation methodology is proprietary to ANSYS, and so we do not share details about how it works. (Методика выполнения расчетов запатентована ANSYS, и мы не будем раскрывать особенности ее работы).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Таким образом, пока официально никто не знает, как именно #ANSYS #Discovery Live умудряется решать задачи механики, гидродинамики и теплопроводности в реальном времени.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.worldcadaccess.com/blog/2017/09/we-ask-ansys-about-their-new-gpu-based-fea-software.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.worldcadaccess.com/blog/2017/09/we-ask-ansys-about-their-new-gpu-based-fea-software.html&lt;/a&gt; 🔗 We ask ANSYS about their new GPU-based FEA software&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Статья - размышление про то, как #ANSYS #Discovery Live помо</title>
+      <link>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</link>
+      <pubDate>Sun, 17 Sep 2017 17:04:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</guid>
+      <description>&lt;p&gt;И тут ключевыми факторами успеха оказывается не только использование самого передового решателя, разработанного совместно с #NVIDIA. Не даром ANSYS очень дружен с разработчиком GPU. Об этом говорят те факты, что #Mechanical #APDL был первым коммерческим #FEM использовавшим #GPU, как и #Fluent - первым коммерческим #CFD использовавшим #GPU&lt;/p&gt;
+&lt;p&gt;Тут еще вспоминается и #SpaceClaim, который выйдя на рынок в 2005 сделал лидеров отстающими. Именно после #SpaceClaim появились такие системы, как #PTC #Creo, #Autodesk #Fusion и концепция #Siemens Synchronous Technology.&lt;/p&gt;
+&lt;p&gt;Сейчас SpaceClaim становиться геометрическим ядром для #Workbench, #AIM и #ANSYS #Discovery.&lt;/p&gt;
+&lt;p&gt;#GPGPU #CUDA
+&lt;a href=&#34;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&lt;/a&gt; 🔗 ANSYS Discovery Live Changes Everything&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Надеюсь вы не пропустили мероприятие по поводу #ANSYS #Disco</title>
+      <link>http://localhost:1313/posts/2017-09-07-nadeyus-vy-ne-propustili-meropriyatie-po/</link>
+      <pubDate>Thu, 07 Sep 2017 14:31:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-09-07-nadeyus-vy-ne-propustili-meropriyatie-po/</guid>
+      <description>&lt;p&gt;Из того, что мне больше всего понравилось - это возможность не только практически мгновенно сделать прикидочный расчет, но и экспортировать его для доводки в #AIM, #Mechanical, #Fluent и #Maxwell. Понравилось, что #ANSYS #Discovery - свежий код, который не тащит с собой кучу наследства и умеет нормально использовать #GPGPU #NVIDIA.&lt;/p&gt;
+&lt;p&gt;Что мне не понравилось: обещали интерактивное мероприятие, а на деле был набор заготовленных видео роликов.&lt;/p&gt;
+&lt;p&gt;А еще, на сайте продукта уже можно скачать техническое превью бесплатно.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ansys.com/discovery&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ansys.com/discovery&lt;/a&gt; 🔗 ANSYS Discovery Live: Instant Simulation Results&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Существуют в современном мире такие классные штуки, как подк</title>
+      <link>http://localhost:1313/posts/2017-09-04-suschestvuyut-v-sovremennom-mire-takie-klas/</link>
+      <pubDate>Mon, 04 Sep 2017 17:03:49 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-09-04-suschestvuyut-v-sovremennom-mire-takie-klas/</guid>
+      <description>&lt;p&gt;А есть такая классная шутка, как YouTube, где публикуется куча видео, которое, к сожалению, никуда автоматически не скачивается и доступно только online.&lt;/p&gt;
+&lt;p&gt;А еще есть замечательный бесплатный сервис &lt;a href=&#34;http://podsync.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://podsync.net/&lt;/a&gt;, который способен превратить YouTube в подкаст! Благодаря этому сервису вы больше никогда не пропустите ничего интересного. Начнем с подписок полезные каналы:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://podsync.net/2xNG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://podsync.net/2xNG&lt;/a&gt; - CADFEM CIS
+&lt;a href=&#34;http://podsync.net/myBK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://podsync.net/myBK&lt;/a&gt; - ANSYS Inc
+&lt;a href=&#34;http://podsync.net/OxJn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://podsync.net/OxJn&lt;/a&gt; - ANSYS How To Videos
+&lt;a href=&#34;http://podsync.net/WZXO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://podsync.net/WZXO&lt;/a&gt; - ANSYS TechTips
+&lt;a href=&#34;http://podsync.net/amgD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://podsync.net/amgD&lt;/a&gt; - LS-DYNA Corporate Tutorial &amp;amp; Content&lt;/p&gt;
+&lt;p&gt;#подкаст #ANSYS #LSDYNA #CADFEMMedia🔗 Podsync - turn YouTube channels into podcast feeds&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#ANSYS #Autodyn позполяет изучить процессы, протекающие внут</title>
+      <link>http://localhost:1313/posts/2017-08-29-ansys-autodyn-pozpolyaet-izuchit-protses/</link>
+      <pubDate>Tue, 29 Aug 2017 17:11:17 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-08-29-ansys-autodyn-pozpolyaet-izuchit-protses/</guid>
+      <description>&lt;p&gt;Видео подготовлено в постпроцессоре #CEI #Ensight, который сейчас уже стал частью #ANSYS.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=n0n&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=n0n&lt;/a&gt;…Media📼 416 Barrett with ANSYS Autodyn&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2x1uFoY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2x1uFoY&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Наконец-то появился подкаст на тему #CAE. Его автором стала </title>
+      <link>http://localhost:1313/posts/2017-08-25-nakonets-to-poyavilsya-podkast-na-temu-cae/</link>
+      <pubDate>Fri, 25 Aug 2017 17:11:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-08-25-nakonets-to-poyavilsya-podkast-na-temu-cae/</guid>
+      <description>&lt;p&gt;Я слушаю разные подкасты уже наверное лет 10, и могу сказать, что слушать этот подкаст конечно можно, но удовольствия или полезных знания от него я пока получить не смог. До моего любимого Radio-T ой как далеко. Буду надеяться, что ребята раскачаются и уберут эту ужасную рекламу самих себя.&lt;/p&gt;
+&lt;p&gt;#ANSYS&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.padtinc.com/blog/news/the-all-things-ansys-podcast-episode-002-hfss-file-storage-management-with-ekm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.padtinc.com/blog/news/the-all-things-ansys-podcast-episode-002-hfss-file-storage-management-with-ekm&lt;/a&gt; 🔗 The All Things ANSYS Podcast – Episode 002 – HFSS, File Storage, &amp;amp; Management with EKM&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Представляю вам #Theorem Solutions - разработчика Publish 3D</title>
+      <link>http://localhost:1313/posts/2017-08-22-predstavlyayu-vam-theorem-solutions-raz/</link>
+      <pubDate>Tue, 22 Aug 2017 19:48:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-08-22-predstavlyayu-vam-theorem-solutions-raz/</guid>
+      <description>&lt;p&gt;При этом, насколько я понимаю, так как такой формат сертифицирован #Adobe, то для просмотра 3D PDF вам не нужно устанавливать никаких дополнительных плагинов!&lt;/p&gt;
+&lt;p&gt;Видео обзор работы ПО: https://youtu.be/50b4IMzbWE0&lt;/p&gt;
+&lt;p&gt;Кстати, #ANSYS #SpaceClaim воспринимает 3D PDF как полноценный CAD формат 😊&lt;/p&gt;
+&lt;p&gt;#3DPDF #Publish3D
+#magicdpd 🔗 vk.com/wall-97265142_3073&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#Intel в ближайшее время начнет поставки новых серверных про</title>
+      <link>http://localhost:1313/posts/2017-08-18-intel-v-blizhayshee-vremya-nachnet-postavki/</link>
+      <pubDate>Fri, 18 Aug 2017 17:02:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-08-18-intel-v-blizhayshee-vremya-nachnet-postavki/</guid>
+      <description>&lt;p&gt;#ANSYS уже подсуетился и замерил производительность новых процессоров в актуальной версии своего ПО. Тут мы видим до 40% прироста производительности. Магии никакой нет, просто код решателей ANSYS умеет использоваться новый набор векторных инструкций Intel® Advanced Vector Extensions 2 (#AVX2) - шах и мат любителям высокой частоты.&lt;/p&gt;
+&lt;p&gt;И да, если вы собираетесь подбирать новое железо, то моя инструкция (ее пункт 11) все еще актуальна: https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/18/ANSYS18.1_tech.pdf&lt;/p&gt;
+&lt;p&gt;#HPC &lt;a href=&#34;http://www.ansys-blog.com/boost-ansys-performance-intel-technologies/#more-18699&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/boost-ansys-performance-intel-technologies/#more-18699&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учебное видео на тему работы с #ANSYS #Composite #Cure #Simu</title>
+      <link>http://localhost:1313/posts/2017-08-14-uchebnoe-video-na-temu-raboty-s-ansys-c/</link>
+      <pubDate>Mon, 14 Aug 2017 17:01:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-08-14-uchebnoe-video-na-temu-raboty-s-ansys-c/</guid>
+      <description>&lt;p&gt;Типичный цикл моделирования выглядит примерно следующим образом:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Выбор математических моделей материлов из базы #ACCS&lt;/li&gt;
+&lt;li&gt;Задание структуры композитной детали в #ACP (#ANSYS #Composite #PrepPost)&lt;/li&gt;
+&lt;li&gt;Решение нестационарной задачи теплопроводности (#Transient #Thermal) для описания процесса термической полимеризации в автоклаве&lt;/li&gt;
+&lt;li&gt;Решение статической задачи механики (#Static #Structural) для определения деформаций конструкции в следствии теплового расширения и возможной неравномерной полимеризации. &lt;a href=&#34;https://youtu.be/HufoH6O1ntM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/HufoH6O1ntM&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Тепловое расширение материала в ANSYS Mechanical</title>
+      <link>http://localhost:1313/posts/2017-08-05-teplovoe-rasshirenie-materiala-v-ansys-me/</link>
+      <pubDate>Sat, 05 Aug 2017 17:00:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-08-05-teplovoe-rasshirenie-materiala-v-ansys-me/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/secant-or-instantaneous-cte-understanding-thermal-expansion-modeling-ansys-mechanical&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.padtinc.com/blog/the-focus/secant-or-instantaneous-cte-understanding-thermal-expansion-modeling-ansys-mechanical&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Ликбез от #padtinc на тему работы коэффициента теплового расширения материала в #ANSYS #Mechanical, особенно в случае, когда он зависит от температуры.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>История успеха с кубка Америки по яхтенному спорту 2017</title>
+      <link>http://localhost:1313/posts/2017-07-17-istoriya-uspeha-s-kubka-ameriki-po-yahtenn/</link>
+      <pubDate>Mon, 17 Jul 2017 17:00:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-07-17-istoriya-uspeha-s-kubka-ameriki-po-yahtenn/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.ansys-blog.com/emirates-team-new-zealand-wins-2017-americas-cup/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/emirates-team-new-zealand-wins-2017-americas-cup/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS рассказывает о том, как его технологии помогли команде Emirates Team New Zealand победить в самой престижной гонке на скоростных парусных судах. Расчетами занимались инженеры австралийского партнера - компании #LEAP Australia&lt;/p&gt;
+&lt;p&gt;Пригодилось много чего:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ANSYS #Composite PrepPost - композиты&lt;/li&gt;
+&lt;li&gt;ANSYS #Mechancial - прочность&lt;/li&gt;
+&lt;li&gt;ANSYS #Fluent - аэро и гидродинамика&lt;/li&gt;
+&lt;li&gt;ANSYS #DesignXplorer - оптимизация и робастрое проектирование&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/xXWGSvJRACE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/xXWGSvJRACE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вебинар по случаю новой версии GENESIS Structural Optimizati</title>
+      <link>http://localhost:1313/posts/2017-07-09-vebinar-po-sluchayu-novoy-versii-genesis-s/</link>
+      <pubDate>Sun, 09 Jul 2017 09:00:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-07-09-vebinar-po-sluchayu-novoy-versii-genesis-s/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://vrand.com/node/250&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://vrand.com/node/250&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;13 июля компания Vanderplaats Research &amp;amp; Development, Inc., (VR&amp;amp;D) проведет вебинар по случаю выхода новой версии #GSAM (#GENESIS Structural #Optimization for #ANSYS #Mechanical) - системы топологической оптимизации. Данная система интегрируется с ANSYS Mechanical по средствам #ACT.&lt;/p&gt;
+&lt;p&gt;Очень хочется расспросить создателей о их наработках в области нелинейной оптимизации топологии.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Библиотека технического университета Чалмерса</title>
+      <link>http://localhost:1313/posts/2017-06-30-biblioteka-tehnicheskogo-universiteta-chal/</link>
+      <pubDate>Fri, 30 Jun 2017 17:00:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-06-30-biblioteka-tehnicheskogo-universiteta-chal/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://publications.lib.chalmers.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://publications.lib.chalmers.se/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Технический университет Чалмерса (Chalmers and Technical University of Denmark) обладает очень хорошей открытой библиотекой с публикациями научных работ. И это очень полезно, так как согласно Википедии, в рейтинге Times Higher Education 2005 года Чалмерс указывался как лучший университет Швеции и один из основных исследовательских университетов Европы.&lt;/p&gt;
+&lt;p&gt;В библиотеке есть много хороших научных статей подкрепленных расчетами в #LSDYNA, всех кодах #ANSYS и многом другом #CAE софте - изучаем и применяем.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Робастная генерация КЭ сеток в ANSYS Meching</title>
+      <link>http://localhost:1313/posts/2017-06-06-robastnaya-generatsiya-ke-setok-v-ansys-mec/</link>
+      <pubDate>Tue, 06 Jun 2017 17:01:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-06-06-robastnaya-generatsiya-ke-setok-v-ansys-mec/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/robust-meshing-for-fea-with-ansys&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.padtinc.com/blog/the-focus/robust-meshing-for-fea-with-ansys&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Коллеги, если вы все еще считаете, что стандартный #ANSYS #Meshing плохо строит сетку, имеет мало настроек, не дает инструментов контроля над процессом разбиения, то прошу вас ознакомиться с постом от #PADT Inc и пройти хотя бы однодневное базовое обучение по тематике генерации сеток.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/PGZY16hzMDg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/PGZY16hzMDg&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Direct Metal Deposition или процесс объемной лазерной наплав</title>
+      <link>http://localhost:1313/posts/2017-05-25-direct-metal-deposition-ili-protsess-obe/</link>
+      <pubDate>Thu, 25 May 2017 17:01:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-05-25-direct-metal-deposition-ili-protsess-obe/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=esBC0WwAX8g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=esBC0WwAX8g&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Интересный и очень сложный физический процесс, встречающийся в 3D принтерах, печатающих металлом. Как бы вы стали его моделировать: в #CFD постановке или при помощи #FEM?&lt;/p&gt;
+&lt;p&gt;CFD by #FLOW3D: &lt;a href=&#34;https://www.youtube.com/watch?v=esBC0WwAX8g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=esBC0WwAX8g&lt;/a&gt;
+CFD by #FLOW3D: &lt;a href=&#34;https://www.youtube.com/watch?v=oWfoAzQlLVo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=oWfoAzQlLVo&lt;/a&gt;
+FEM by #MSC #Simufact Additive: &lt;a href=&#34;https://www.youtube.com/watch?v=l9n6AheyI2E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=l9n6AheyI2E&lt;/a&gt;
+FEM by #ANSYS #Mechanical: &lt;a href=&#34;https://www.youtube.com/watch?v=H0Uara7B5to&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=H0Uara7B5to&lt;/a&gt;
+FEM by #ANSYS #Mechanical: &lt;a href=&#34;https://www.youtube.com/watch?v=74TOhQwEj80&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=74TOhQwEj80&lt;/a&gt;
+FEM by #Pancomputing &lt;a href=&#34;https://www.youtube.com/watch?v=LWk43HjKjcM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=LWk43HjKjcM&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Констатируем факты - 18.0 уже не не самый свежий релиз ANSYS</title>
+      <link>http://localhost:1313/posts/2017-05-18-konstatiruem-fakty-180-uzhe-ne-ne-samy/</link>
+      <pubDate>Thu, 18 May 2017 17:01:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-05-18-konstatiruem-fakty-180-uzhe-ne-ne-samy/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.prnewswire.com/news-releases/ansys-181-expands-pervasive-engineering-simulation-300457825.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.prnewswire.com/news-releases/ansys-181-expands-pervasive-engineering-simulation-300457825.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В понедельник #ANSYS выкатил очередную большую версию своего ПО - R18.1. Нововведения есть и их много. Особенно порадовала топологическая оптимизация и #SpaceClaim.&lt;/p&gt;
+&lt;p&gt;Однако для меня этот релиз сделала пожалуй одна мелкая и приятная новая возможность: F11 для полноэкранного режима в ANSYS Mechanical :-). Прямо как-то ностальгия по временам, когда экраны были маленькие и браузеры по этой клавише пытались спрятать весь свой интерфейс.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Приходил ко мне Антошка - поиграли мы немножко</title>
+      <link>http://localhost:1313/posts/2017-05-17-prihodil-ko-mne-antoshka-poigrali-my-ne/</link>
+      <pubDate>Wed, 17 May 2017 17:00:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-05-17-prihodil-ko-mne-antoshka-poigrali-my-ne/</guid>
+      <description>&lt;p&gt;Вот что бывает, когда у вас много условий нагружения и все надо проверить на потерю устойчивости. #ANSYS&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оптимизация топологии на основе моделирования краштетса</title>
+      <link>http://localhost:1313/posts/2017-05-16-optimizatsiya-topologii-na-osnove-modeliro/</link>
+      <pubDate>Tue, 16 May 2017 17:01:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-05-16-optimizatsiya-topologii-na-osnove-modeliro/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.dynamore.de/de/download/papers/ls-dyna-forum-2012/documents/optimization-3-2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.de/de/download/papers/ls-dyna-forum-2012/documents/optimization-3-2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Знаете ли вы, что кроме стандартных алгоритмов метода подвижных асимптот или критерия оптимальности, заложенных в большинство оптимизаторов топологии (например #ANSYS), существуют гораздо более сложные и продвинутые алгоритмы?&lt;/p&gt;
+&lt;p&gt;Вот, например, #DYNAmore провели обзор и сравнения алгоритма #ESL (Equivalent Static Loads) заложенного внутрь #Genesis и #HCA (Hybrid Cellular Automata)  из состава #LSTC LS-TaSC (#LSTASC).&lt;/p&gt;
+&lt;p&gt;Среди фишек данных методов - возможность работы с динамическими нагрузками, нелинейными материалами и учетом больших перемещений.&lt;/p&gt;
+&lt;p&gt;#topology #optimization&lt;/p&gt;
+&lt;p&gt;P.S. LS-TaSC бесплатный софт для тех, у кого есть #LSDYNA :-)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>А что если Fluent на миллион ядер запустить</title>
+      <link>http://localhost:1313/posts/2017-05-14-a-chto-esli-fluent-na-million-yader-zapust/</link>
+      <pubDate>Sun, 14 May 2017 17:00:55 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-05-14-a-chto-esli-fluent-na-million-yader-zapust/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.ansys-blog.com/hpc/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/hpc/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS прикинул, что если они не сбавят темпы разработки #HPC части своего главного #CFD кода #Fluent, то к 2020 году он сможет эффективно распараллеливать на миллион ядер. А что, последний десяток лет им удается сохранять тренд. Challenge accepted, как говориться.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Использование граничных условий асимметрии</title>
+      <link>http://localhost:1313/posts/2017-04-27-ispolzovanie-granichnyh-usloviy-asimmetr/</link>
+      <pubDate>Thu, 27 Apr 2017 17:00:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-04-27-ispolzovanie-granichnyh-usloviy-asimmetr/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://caeai.com/blog/lost-art-anti-symmetry&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://caeai.com/blog/lost-art-anti-symmetry&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#caeai в своем блоге рассказывают о почти забытом искусстве использования не только граничных условий симметрии, но и граничных условий асимметрии. Когда вам надо построить максимально изящную модель для расчета в #ANSYS такое знание будет не лишним.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Еще один способ упростить расчеты LS-DYNA</title>
+      <link>http://localhost:1313/posts/2017-02-21-esche-odin-sposob-uprostit-raschety-ls-dyn/</link>
+      <pubDate>Tue, 21 Feb 2017 17:03:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-02-21-esche-odin-sposob-uprostit-raschety-ls-dyn/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.lsdyna-tutorials.com/k-runner&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lsdyna-tutorials.com/k-runner&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;На сайте &lt;a href=&#34;http://www.lsdyna-tutorials.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lsdyna-tutorials.com/&lt;/a&gt; появился еще один интересный ланчер для расчетов в #LSDYNA. Он позволяет построить настоящую расчетную сеть с клиентами и серверами приложений - прямо как #ANSYS #RSM. Я бы такой развернул на работе, правда, боюсь, что эта штука окажется платной.
+#HPC&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=TraTYWyLf0s&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=TraTYWyLf0s&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новые возможности ANSYS для топологической оптимизации</title>
+      <link>http://localhost:1313/posts/2017-02-12-novye-vozmozhnosti-ansys-dlya-topologichesk/</link>
+      <pubDate>Sun, 12 Feb 2017 12:02:49 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-02-12-novye-vozmozhnosti-ansys-dlya-topologichesk/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=xHN810lJs4k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xHN810lJs4k&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В 18-ой версии #ANSYS хорошо так улучшил топологическую оптимизацию. Прежде всего - это теперь не #ACT, а встроенная система доступная с любой механической лицензией. Она теперь работает быстрее и стабильнее. А мне больше всего нравится возможность в реальном времени видеть визуализацию распределения псевдоплотности по объему конструкции в ходе расчета.
+#Topo&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=xHN810lJs4k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xHN810lJs4k&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS App Builder</title>
+      <link>http://localhost:1313/posts/2017-02-03-ansys-app-builder/</link>
+      <pubDate>Fri, 03 Feb 2017 17:03:01 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-02-03-ansys-app-builder/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=xYJPgdOdD3k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xYJPgdOdD3k&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В #ANSYS 18 появилось такое приложение, как ANSYS App Builder, и, на мой взгляд, это самое крутое нововведение в R18!&lt;/p&gt;
+&lt;p&gt;ANSYS App Builder позволяет создавать #ACT для #Workbench и #AIM прямо в #GUI! Он умеет не только записывать все ваши действия при работе с проектом, но и низкоуровненов редактировать записанный #python журнал и XML описание интефейса.&lt;/p&gt;
+&lt;p&gt;Те из нас, кто пробовали писать свои ACT, поймут, какой пропыв в упращении нашего нелегкого ремесла нас ожидает!
+&lt;a href=&#34;https://www.youtube.com/watch?v=xYJPgdOdD3k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xYJPgdOdD3k&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS 18.0 готов, можно регистрироваться на обзорные вебинар</title>
+      <link>http://localhost:1313/posts/2017-01-26-ansys-180-gotov-mozhno-registrirovatsya/</link>
+      <pubDate>Thu, 26 Jan 2017 17:01:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-01-26-ansys-180-gotov-mozhno-registrirovatsya/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.ansys.com/Solutions/Solutions-by-Role/IT-Professionals/Platform-Support&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/Solutions/Solutions-by-Role/IT-Professionals/Platform-Support&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Радуемся, и читаем спеки на аппаратную платформу, ставим #ANSYS 18.0. А еще, регистриуемся на целый ворох февральских вебинаров:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fluids
+&lt;a href=&#34;http://www.ansys.com/other/fluids-18-webinar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/other/fluids-18-webinar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mechanical
+&lt;a href=&#34;http://www.ansys.com/other/mechanical-18-webinar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/other/mechanical-18-webinar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;High Frequency Electromagnetics
+&lt;a href=&#34;http://www.ansys.com/About-ANSYS/events/17-02-21-high-frequency-webinar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/About-ANSYS/events/17-02-21-high-frequency-webinar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Low Frequency Electromagnetics
+&lt;a href=&#34;http://www.ansys.com/About-ANSYS/events/17-03-14-low-frequency-webinar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/About-ANSYS/events/17-03-14-low-frequency-webinar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AIM
+&lt;a href=&#34;http://www.ansys.com/other/aim-18-webinar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/other/aim-18-webinar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Systems and Simplorer
+&lt;a href=&#34;http://www.ansys.com/other/simplorer-18-webinar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/other/simplorer-18-webinar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;SpaceClaim
+&lt;a href=&#34;http://www.ansys.com/other/spaceclaim-18-webinar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/other/spaceclaim-18-webinar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-DYNA для как генератор обоев рабочего стола</title>
+      <link>http://localhost:1313/posts/2016-11-07-ls-dyna-dlya-kak-generator-oboev-rabochego/</link>
+      <pubDate>Mon, 07 Nov 2016 10:02:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-11-07-ls-dyna-dlya-kak-generator-oboev-rabochego/</guid>
+      <description>&lt;p&gt;Это не баг при визуализации результатов расчетов #ANSYS #Workbench #LSDYNA #ACT - это фича по созданию психоделических обоев для рабочего стола 😄&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS Toplogy Optimization - еще большой учебный материал</title>
+      <link>http://localhost:1313/posts/2016-10-22-ansys-toplogy-optimization-esche-bolshoy/</link>
+      <pubDate>Sat, 22 Oct 2016 17:00:49 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-10-22-ansys-toplogy-optimization-esche-bolshoy/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.finiteelementanalysis.com.au/featured/topological-optimisation-with-ansys-17-0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.finiteelementanalysis.com.au/featured/topological-optimisation-with-ansys-17-0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Большой учебный материал/статья/мастер класс по работе с #ANSYS #Toplogy #Optimization #ACT. Разобраны не только моменты, связанные с постановкой задачи в #ANSYS #Mechanical и выполнения поверочного расчета на основе #STL, но и восстановление аналитической геометрии при помощи #SpaceClaim.&lt;/p&gt;
+&lt;p&gt;Спасибо команде LEAP Australia!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Параметризация многошаговых нагрузок в ANSYS</title>
+      <link>http://localhost:1313/posts/2016-10-22-parametrizatsiya-mnogoshagovyh-nagruzok-v-a/</link>
+      <pubDate>Sat, 22 Oct 2016 12:00:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-10-22-parametrizatsiya-mnogoshagovyh-nagruzok-v-a/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Одной из фишек #ANSYS #Workbench является возможность тотальной параметризации всего и вся буквально в один клик. Однако, тут есть досадное упущение: когда вы используете многошаговое нагружение в #Mechanical, вы не можете параметризовать изменение нагрузки на каждом шаге нагружения.&lt;/p&gt;
+&lt;p&gt;Компания Engin Soft исправила это досадное упущение при помощи своего бесплатного #ACT MultiStep Parametric Loads (&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153)&lt;/a&gt;. Они реализовали возможность параметризовать значения граничных условий и условий нагружения на каждом шаге. Первая версия ACT работает с R17.0 и R17.1&lt;/p&gt;
+&lt;p&gt;#enginsoft&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Восстановление аналитической геометрии по STL в SpaceClaim</title>
+      <link>http://localhost:1313/posts/2016-08-21-vosstanovlenie-analiticheskoy-geometrii-p/</link>
+      <pubDate>Sun, 21 Aug 2016 06:30:25 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-08-21-vosstanovlenie-analiticheskoy-geometrii-p/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.spaceclaim.com/en/Solutions/ReverseEngineering.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.spaceclaim.com/en/Solutions/ReverseEngineering.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Похоже, что у #ANSYS #SpaceClaim Direct Modeller (#SCDM) есть ответ технологиям #PolyNURBS, заложеным в #solidThinking. Надо только уметь ими пользоваться: функционал по богаче, да настроек по более.&lt;/p&gt;
+&lt;p&gt;А мне прямо сейчас ох как надо восстановить нормальную геометрию на основе #STL резуьтатов топологической оптимизации.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как правильно кататься на велосипеде зная #CFD</title>
+      <link>http://localhost:1313/posts/2016-08-08-kak-pravilno-katatsya-na-velosipede-zna/</link>
+      <pubDate>Mon, 08 Aug 2016 06:30:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-08-08-kak-pravilno-katatsya-na-velosipede-zna/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/fantastic-downhill-from-chris-froome-worth-scientific-bert-blocken&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.linkedin.com/pulse/fantastic-downhill-from-chris-froome-worth-scientific-bert-blocken&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Кристофер (Крис) Фрум (Christopher &amp;ldquo;Chris&amp;rdquo; Froome) на Тур де Франс 2016 (фр. Tour de France 2016) не только выиграл 8-ой этап гонки, но и удивил всех необычной посадкой на своем гоночном велосипеде. При помощи #ANSYS #Fluent специалисты Université de Liege, Бельгия, Eindhoven University of Technology, Голландия, KU Leuven, Бельгия и ANSYS International провели расследование случившегося и пришли к очень любопытным выводам. За подробностями по ссылке.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Интересную тему подсказали мне коллеги - штамповка взрывом. </title>
+      <link>http://localhost:1313/posts/2016-07-18-interesnuyu-temu-podskazali-mne-kollegi/</link>
+      <pubDate>Mon, 18 Jul 2016 06:30:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-07-18-interesnuyu-temu-podskazali-mne-kollegi/</guid>
+      <description>&lt;p&gt;Так как задача поставлена в ANSYS Workbech LS-DYNA ACT 17.0, то входной файл получился немного грязный, зато есть параметрический проект.&lt;/p&gt;
+&lt;p&gt;video &lt;a href=&#34;https://www.youtube.com/watch?v=ZplZXHB4knk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ZplZXHB4knk&lt;/a&gt;
+input.k &lt;a href=&#34;http://lnk.al/1ILR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILR&lt;/a&gt;
+ebt.wbpz &lt;a href=&#34;http://lnk.al/1ILQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILQ&lt;/a&gt;
+статья &lt;a href=&#34;http://lnk.al/1ILS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#PADTInc подготовили хороший обзор программных средств для ж</title>
+      <link>http://localhost:1313/posts/2016-06-27-padtinc-podgotovili-horoshiy-obzor-progr/</link>
+      <pubDate>Mon, 27 Jun 2016 07:00:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-27-padtinc-podgotovili-horoshiy-obzor-progr/</guid>
+      <description>&lt;p&gt;#SpaceClaim #GeomagicDesignX #Topology #Optimization #Altair #SolidThinking Inspire #Autodesk #Within #Altair #OptiStruct #Simpleware #Pan #Lattice #ANSYS&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Нам надо больше бесплатной топологической оптимизации!!!</title>
+      <link>http://localhost:1313/posts/2016-06-22-nam-nado-bolshe-besplatnoy-topologichesko/</link>
+      <pubDate>Wed, 22 Jun 2016 12:02:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-22-nam-nado-bolshe-besplatnoy-topologichesko/</guid>
+      <description>&lt;p&gt;Компания Virtual.PYXIS совместно с #ESSS выкатила бесплатное #ACT для #topology #optimization прямо в #ANSYS ACT Applications Store! На первый взгляд, данное расширение сдано несколько более качественно чем родное расширение от ANSYS, оно лучше выводит статистику по процессу оптимизации, позволяет задавать веса условиям нагружения. И да, чуть не забыл, у него есть возможность использовать #HPC в отличие от родного ACT - процесс оптимизации требует раз 10 - 20 прогнать решение вашей задачи, так что оперативной ресурсы потребуются.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Интересный факт: первые пользователи #ANSYS платили за время</title>
+      <link>http://localhost:1313/posts/2016-06-11-interesnyy-fakt-pervye-polzovateli-an/</link>
+      <pubDate>Sat, 11 Jun 2016 11:18:54 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-11-interesnyy-fakt-pervye-polzovateli-an/</guid>
+      <description>&lt;p&gt;Интервью с самим профессором Джоном Свонсоном (Dr. John A. Swanson), основанием компании #ANSYS, Inc. в рамках учебного курса Корне́лльского университе́т (#Cornell University) для платформы #edX. Интересно, что сам Свонсон получил степень бакалавра и магистра по механике в Корне́лльском университете, а свой первый КЭ код он написал 1965.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Мои старые-добрые знакомые, Сигма Технология, на днях объяви</title>
+      <link>http://localhost:1313/posts/2016-04-15-moi-starye-dobrye-znakomye-sigma-tehnol/</link>
+      <pubDate>Fri, 15 Apr 2016 07:01:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-04-15-moi-starye-dobrye-znakomye-sigma-tehnol/</guid>
+      <description>&lt;p&gt;Итак, версии 3.3 появились такая долгожданная прямая интеграция с #ANSYS #Workbench через #ACT. Теперь IOSO есть в схематизме проекта, а значит он совместим с ANSYS #RSM и может использовать специальные лицензии для параметрических исследований и оптимизации ANSYS HPC Parametric Pack.
+Кроме ANSYS Сигма технологии уважили и другие продукты - появилась интеграция с  Concepts NREC Turboopt II, FLOW-3D,  SolidWorks, FlowVision.&lt;/p&gt;
+&lt;p&gt;Я с IOSO знаком уже лет 7, и могу сказать, что это очень серьезная штука, во многом уделывающая всех иностранных конкурентов.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Хотите понять, как вы используете ваши лицензии FlexLM? Инте</title>
+      <link>http://localhost:1313/posts/2016-02-25-hotite-ponyat-kak-vy-ispolzuete-vashi-l/</link>
+      <pubDate>Thu, 25 Feb 2016 13:27:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-02-25-hotite-ponyat-kak-vy-ispolzuete-vashi-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Мы проведем семинар по вопросам на засыпку уже сорок!</title>
+      <link>http://localhost:1313/posts/2016-02-15-my-provedem-seminar-po-voprosam-na-zasyp/</link>
+      <pubDate>Mon, 15 Feb 2016 18:00:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-02-15-my-provedem-seminar-po-voprosam-na-zasyp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Как насчет зарядить этим в бетонную стенку?</title>
+      <link>http://localhost:1313/posts/2016-02-12-kak-naschet-zaryadit-etim-v-betonnuyu-sten/</link>
+      <pubDate>Fri, 12 Feb 2016 15:39:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-02-12-kak-naschet-zaryadit-etim-v-betonnuyu-sten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Это вам не с торрентов качать - уже 4 часа льется!</title>
+      <link>http://localhost:1313/posts/2016-01-21-eto-vam-ne-s-torrentov-kachat-uzhe-4-cha/</link>
+      <pubDate>Thu, 21 Jan 2016 10:59:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-01-21-eto-vam-ne-s-torrentov-kachat-uzhe-4-cha/</guid>
+      <description>&lt;p&gt;#ANSYS 17.0&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ООО «Газпром ВНИИГАЗ» тоже выбирает ANSYS и LS-DYNA. Хороший</title>
+      <link>http://localhost:1313/posts/2016-01-21-ooo-gazprom-vniigaz-tozhe-vybiraet-ansy/</link>
+      <pubDate>Thu, 21 Jan 2016 06:30:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-01-21-ooo-gazprom-vniigaz-tozhe-vybiraet-ansy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Статья об использовании модели Друкера-Прагера вместо модели</title>
+      <link>http://localhost:1313/posts/2016-01-20-statya-ob-ispolzovanii-modeli-drukera-p/</link>
+      <pubDate>Wed, 20 Jan 2016 18:01:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-01-20-statya-ob-ispolzovanii-modeli-drukera-p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>На лицо ужасные,</title>
+      <link>http://localhost:1313/posts/2016-01-15-na-litso-uzhasnye/</link>
+      <pubDate>Fri, 15 Jan 2016 17:01:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-01-15-na-litso-uzhasnye/</guid>
+      <description>&lt;p&gt;Добрые внутри.&lt;/p&gt;
+&lt;p&gt;BETA CAE Systems выложила ряд обзорных видео по их системе управления инженерными знаниями SPDRM. Для работы с LS-DYNA это еще не самый страшный интерфейс. Пользователи #ANSYS #EKM могут испытать шок и кровотечение из глаз.&lt;/p&gt;
+&lt;p&gt;Интересно, в уважаемой греческой компании кто-нибудь задумывался об ущемлении чувства прекрасного конечных пользователей?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS обновил WB LS-DYNA ACT до версии 16.2. Ничего принципи</title>
+      <link>http://localhost:1313/posts/2015-12-09-ansys-obnovil-wb-ls-dyna-act-do-versii-1/</link>
+      <pubDate>Wed, 09 Dec 2015 06:30:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-12-09-ansys-obnovil-wb-ls-dyna-act-do-versii-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Мы такие!</title>
+      <link>http://localhost:1313/posts/2015-12-08-my-takie/</link>
+      <pubDate>Tue, 08 Dec 2015 06:00:40 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-12-08-my-takie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>У #Altair вышел новый препост #SimLabs 14.0. Утверждается, ч</title>
+      <link>http://localhost:1313/posts/2015-12-01-u-altair-vyshel-novyy-prepost-simlabs-1/</link>
+      <pubDate>Tue, 01 Dec 2015 06:01:39 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-12-01-u-altair-vyshel-novyy-prepost-simlabs-1/</guid>
+      <description>&lt;p&gt;Если же посмотреть демонстрационное видео, то можно увидеть, что пользователю надо размечать мелкие детали геометрии  в сеткопостроителе вручную.&lt;/p&gt;
+&lt;p&gt;На мой взгляд, пользователи #ANSYS #Meshing не удивились.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nor-Tech, один из крупнейших в США системных интеграторов сп</title>
+      <link>http://localhost:1313/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</link>
+      <pubDate>Mon, 23 Nov 2015 06:00:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</guid>
+      <description>&lt;p&gt;CAE:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ANSYS: ANSYS Fluent – CFD,&lt;/li&gt;
+&lt;li&gt;ANSYS: Mechanical – FEA,&lt;/li&gt;
+&lt;li&gt;ANSYS: CFX – CFD&lt;/li&gt;
+&lt;li&gt;LS-DYNA – FEA,&lt;/li&gt;
+&lt;li&gt;Altair: Hyperworks – Suite of CAE software&lt;/li&gt;
+&lt;li&gt;CEI Software: Ensight&lt;/li&gt;
+&lt;li&gt;Convergent Science: Converge CFD – Meshless CFD&lt;/li&gt;
+&lt;li&gt;Cradle-CDF: scSTREAM, scTetra&lt;/li&gt;
+&lt;li&gt;Dassault Systemes – Simulia: Abaqus – FEA&lt;/li&gt;
+&lt;li&gt;Lumerical: FDTD Solutions – Photonic Design Tools&lt;/li&gt;
+&lt;li&gt;MSC Software: Marc Nonlinear – FEA MSC Nastran&lt;/li&gt;
+&lt;li&gt;Moldex3D: eDesign – Plastic Injection Molding Simulation&lt;/li&gt;
+&lt;li&gt;COMSOL: COMSOL Multiphysics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Системное кластерное ПО:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rocks Cluster Management Suite&lt;/li&gt;
+&lt;li&gt;NICE: DCV Remote Visualization&lt;/li&gt;
+&lt;li&gt;NICE: EnginFrame GUI for Job Scheduler &amp;amp; Resource Mgr&lt;/li&gt;
+&lt;li&gt;Ganglia&lt;/li&gt;
+&lt;li&gt;IPMI management&lt;/li&gt;
+&lt;li&gt;OGS/GE based on (Sun Grid Engine), Torque&lt;/li&gt;
+&lt;li&gt;Bright Cluster Manager&lt;/li&gt;
+&lt;li&gt;Windows Server 2012/HPC&lt;/li&gt;
+&lt;li&gt;Intel: Compilers &amp;amp; Libraries&lt;/li&gt;
+&lt;li&gt;Altair PBS Pro, Compute Manager &amp;amp; Display Manager и другеи продукты&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Жаль, что у нас пока нет таких же бравых системных интеграторов.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Целы канал на посвященный Rigid Body Dynamics решателю ANSYS</title>
+      <link>http://localhost:1313/posts/2015-11-10-tsely-kanal-na-posvyaschennyy-rigid-body-dyn/</link>
+      <pubDate>Tue, 10 Nov 2015 06:30:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-10-tsely-kanal-na-posvyaschennyy-rigid-body-dyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>На конференции AWS re:Invent ANSYS расскзал об архитектуре с</title>
+      <link>http://localhost:1313/posts/2015-11-09-na-konferentsii-aws-reinvent-ansys-rassk/</link>
+      <pubDate>Mon, 09 Nov 2015 06:30:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-09-na-konferentsii-aws-reinvent-ansys-rassk/</guid>
+      <description>&lt;p&gt;Однако проблемы, на которые я всегда обращаю внимание, остались открытыми:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;нет RDMA - большой кластер тормозит даже для CFD&lt;/li&gt;
+&lt;li&gt;очень кривая организация виртуальных рабочих станций для постпроцессинга из-за ограничений на объем оперативной памяти.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Есть и замечательные, доселе невиданные возможности: вы получаете готовый к расчетами HPC кластер менее чем за 3 (три!!!) часа, и вы можете изменять его размер по запросу. Обычно проектирование и пуск кластера занимает месяцы :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Компания  NuScale Power, LLC (http://www.nuscalepower.com/),</title>
+      <link>http://localhost:1313/posts/2015-11-06-kompaniya-nuscale-power-llc-httpwww/</link>
+      <pubDate>Fri, 06 Nov 2015 06:30:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-06-kompaniya-nuscale-power-llc-httpwww/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Красивая презентация - хороший академический подход.</title>
+      <link>http://localhost:1313/posts/2015-10-13-krasivaya-prezentatsiya-horoshiy-akademiche/</link>
+      <pubDate>Tue, 13 Oct 2015 06:30:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-13-krasivaya-prezentatsiya-horoshiy-akademiche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Уже сегодня утром команда CADFEM CIS преступит к финальной с</title>
+      <link>http://localhost:1313/posts/2015-10-13-uzhe-segodnya-utrom-komanda-cadfem-cis-pre/</link>
+      <pubDate>Tue, 13 Oct 2015 02:48:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-13-uzhe-segodnya-utrom-komanda-cadfem-cis-pre/</guid>
+      <description>&lt;p&gt;Так как я сам буду активно принимать участие в работе конференции, то не исключаю вероятность сбоев в поставках для вас интересных новостей. Зато буду фотографии из-за кулис!&lt;/p&gt;
+&lt;p&gt;До встречи на ACUM!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EDR Medesо показали одну из возможностей своего ACT Heavy Du</title>
+      <link>http://localhost:1313/posts/2015-10-11-edr-medeso-pokazali-odnu-iz-vozmozhnostey/</link>
+      <pubDate>Sun, 11 Oct 2015 18:00:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-11-edr-medeso-pokazali-odnu-iz-vozmozhnostey/</guid>
+      <description>&lt;p&gt;#ACT #ANSYS #Mechanical #Workbench #EDRMedesо #bolts&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1Q3Fv-7HUZc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=1Q3Fv-7HUZc&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Топологическая оптимизация от Virtual.PYXIS для MSC.Nastarn.</title>
+      <link>http://localhost:1313/posts/2015-10-08-topologicheskaya-optimizatsiya-ot-virtualpy/</link>
+      <pubDate>Thu, 08 Oct 2015 06:30:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-08-topologicheskaya-optimizatsiya-ot-virtualpy/</guid>
+      <description>&lt;p&gt;#ANSYS #Mechanical #Virtual.PYXIS #TOPO #MSC #Nastran&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование процесса возведения больших строительных конст</title>
+      <link>http://localhost:1313/posts/2015-10-04-modelirovanie-protsessa-vozvedeniya-bolshi/</link>
+      <pubDate>Sun, 04 Oct 2015 07:30:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-04-modelirovanie-protsessa-vozvedeniya-bolshi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Издание HPCWire начало голосование за лучшие HPC 2015 года. </title>
+      <link>http://localhost:1313/posts/2015-09-30-izdanie-hpcwire-nachalo-golosovanie-za-lu/</link>
+      <pubDate>Wed, 30 Sep 2015 06:30:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-30-izdanie-hpcwire-nachalo-golosovanie-za-lu/</guid>
+      <description>&lt;p&gt;Голосование будет проходить до 9 Октября 23:59 по тихоокеанскому времени.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>На прошедшей неделе продукты ANSYS RedHawk и Totem были серт</title>
+      <link>http://localhost:1313/posts/2015-09-23-na-proshedshey-nedele-produkty-ansys-redha/</link>
+      <pubDate>Wed, 23 Sep 2015 18:00:25 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-23-na-proshedshey-nedele-produkty-ansys-redha/</guid>
+      <description>&lt;p&gt;Для тех кто не в курсе, TSMC является крупнейшим контрактным производителем полупроводниковых микросхем. Его заказчиками являются такие компании как Qualcomm, NVIDIA, AMD, MediaTek, Marvell, Broadcom, Apple и другие.&lt;/p&gt;
+&lt;p&gt;К сожалению, продукты ANSYS RedHawk и Totem не поставляются на рынок СНГ.&lt;/p&gt;
+&lt;p&gt;#ANSYS #RedHawk #Totem #EM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://investors.ansys.com/press-releases/2015/17-Sep-15-120547571.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://investors.ansys.com/press-releases/2015/17-Sep-15-120547571.aspx&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Peter Barrett из CAE Associates рассуждает на тему применени</title>
+      <link>http://localhost:1313/posts/2015-09-19-peter-barrett-iz-cae-associates-rassuzhda/</link>
+      <pubDate>Sat, 19 Sep 2015 07:00:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-19-peter-barrett-iz-cae-associates-rassuzhda/</guid>
+      <description>&lt;p&gt;#FEA #ANSYS #APDL
+&lt;a href=&#34;https://caeai.com/blog/value-beam-elements-structural-analysis&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://caeai.com/blog/value-beam-elements-structural-analysis&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Транслируем сетку Plymouth Neon 1996 года выпуска из LS-DYNA</title>
+      <link>http://localhost:1313/posts/2015-09-17-transliruem-setku-plymouth-neon-1996-god/</link>
+      <pubDate>Thu, 17 Sep 2015 17:00:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-17-transliruem-setku-plymouth-neon-1996-god/</guid>
+      <description>&lt;p&gt;#ANSYS #lsdyna #femodeler #ICEMCFD #ICEM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.topcrunch.org/benchmark_details.sfe?query=3&amp;amp;id=139&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.topcrunch.org/benchmark_details.sfe?query=3&amp;id=139&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>О том как в ANSYS AIM мост трактора считали, или привыкаем к</title>
+      <link>http://localhost:1313/posts/2015-09-17-o-tom-kak-v-ansys-aim-most-traktora-schit/</link>
+      <pubDate>Thu, 17 Sep 2015 07:00:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-17-o-tom-kak-v-ansys-aim-most-traktora-schit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GE используя ANSYS создали прототип предохранителя под кодов</title>
+      <link>http://localhost:1313/posts/2015-09-16-ge-ispolzuya-ansys-sozdali-prototip-pred/</link>
+      <pubDate>Wed, 16 Sep 2015 17:00:40 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-16-ge-ispolzuya-ansys-sozdali-prototip-pred/</guid>
+      <description>&lt;p&gt;#ANSYS #MAXWELL&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.gereports.com/post/128854239195/breaking-new-ground-digital-twin-helps&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.gereports.com/post/128854239195/breaking-new-ground-digital-twin-helps&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Что бы понять, чем занимается новоприобретенная ANSYS компан</title>
+      <link>http://localhost:1313/posts/2015-09-15-chto-by-ponyat-chem-zanimaetsya-novopriobr/</link>
+      <pubDate>Tue, 15 Sep 2015 07:00:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-15-chto-by-ponyat-chem-zanimaetsya-novopriobr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Перед сном: часовой обзор расчетных возможностей новых приоб</title>
+      <link>http://localhost:1313/posts/2015-09-13-pered-snom-chasovoy-obzor-raschetnyh-vozm/</link>
+      <pubDate>Sun, 13 Sep 2015 17:00:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-13-pered-snom-chasovoy-obzor-raschetnyh-vozm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Молния! Сегодня стало известно о новых рекордах ANSYS в обла</title>
+      <link>http://localhost:1313/posts/2015-09-10-molniya-segodnya-stalo-izvestno-o-novyh-r/</link>
+      <pubDate>Thu, 10 Sep 2015 11:19:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-10-molniya-segodnya-stalo-izvestno-o-novyh-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Вот по этому мы используем численные методы!</title>
+      <link>http://localhost:1313/posts/2015-09-10-vot-po-etomu-my-ispolzuem-chislennye-met/</link>
+      <pubDate>Thu, 10 Sep 2015 06:47:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-10-vot-po-etomu-my-ispolzuem-chislennye-met/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ANSYS никак не может остановиться с покупками других компани</title>
+      <link>http://localhost:1313/posts/2015-09-07-ansys-nikak-ne-mozhet-ostanovitsya-s-poku/</link>
+      <pubDate>Mon, 07 Sep 2015 19:00:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-07-ansys-nikak-ne-mozhet-ostanovitsya-s-poku/</guid>
+      <description>&lt;p&gt;Данный набор программного обеспечения решает задачи возникающие в радиофизике и немного пересекается с областью HFSS. Однако ANSYS позиционирует решения Delcross для расчетов вокруг базворда IoT (Internet of Things, Интернет вещей), когда необходимо организовать взаимодействие великого множества всякой электроники в замкнутом пространстве (порядка квартиры или дома) по высокочастотному радиоканалу (Bluetooth, WiFi, ZigBee).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nebia - супер экономичный душ с Kickstarter. Примечательно, </title>
+      <link>http://localhost:1313/posts/2015-08-22-nebia-super-ekonomichnyy-dush-s-kickstar/</link>
+      <pubDate>Sat, 22 Aug 2015 17:00:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-08-22-nebia-super-ekonomichnyy-dush-s-kickstar/</guid>
+      <description>&lt;p&gt;Забавный факт - все инженеры работают на компьютерах Apple, на части из которых запущен Windows 8.1, так как ни #ANSYS, ни #SolidWorks под OS X нет. Вот такие они - стартаперы!
+Если честно, то я взял бы себе такой душ домой, если бы он только мог противостоять стандартной проблеме жесткой воды.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

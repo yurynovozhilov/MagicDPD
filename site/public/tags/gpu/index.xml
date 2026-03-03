@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GPU on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/gpu/</link>
+    <description>MagicDPD: Magic Driven Product Development! (GPU)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 12 Apr 2019 17:00:26 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/gpu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Оптимизация топологии в ANSYS на GPU — легко!</title>
+      <link>http://localhost:1313/posts/2019-04-12-optimizatsiya-topologii-v-ansys-na-gpu-l/</link>
+      <pubDate>Fri, 12 Apr 2019 17:00:26 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-04-12-optimizatsiya-topologii-v-ansys-na-gpu-l/</guid>
+      <description>&lt;p&gt;Это решение напрашивалось уже давно. Задачи оптимизации топологии обычно очень ресурсоемки — ведь на каждой итерации вам предстоит рассчитать энергию деформации всего расчетного домена, который существенно больше итоговой конструкции. Как ускорить данный процесс?&lt;/p&gt;
+&lt;p&gt;А что, если натравить на решение задачи самый быстрый КЭ решетель на рынке — ANSYS Discovery Live? Ведь он может решать линейные задачи на GPU за считанные секунды!&lt;/p&gt;
+&lt;p&gt;Итак, мы получаем оптимизацию топологии в Discovery Live, которая считает быстрее, чем у других строится анимация по готовым результатам. При этом мы еще получаем сразу гладкий STL файл, благодаря использованию самого передового Level-Set метода. Ну и для проверочного расчета тоже никуда идти не надо: Live c радостью сделает его для вас на основе STL всего за пару секунд.&lt;/p&gt;
+&lt;p&gt;#ANSYS #Discovery #GPU #level_set_method #Live #optimization #Topology&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2tz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2tz&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS подружится с Prometech Software, Inc.</title>
+      <link>http://localhost:1313/posts/2018-12-21-ansys-podruzhitsya-s-prometech-software-i/</link>
+      <pubDate>Fri, 21 Dec 2018 17:01:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-12-21-ansys-podruzhitsya-s-prometech-software-i/</guid>
+      <description>&lt;p&gt;В прошедший понедельник на своей конференции японская компания Prometech Software, Inc. объявила о дружбе с ANSYS. Давайте разберемся, почему это очень круто.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/WDFSzgjWR_4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/WDFSzgjWR_4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Прежде всего, стоит вспомнить, что Prometech - это разработчик Particleworks, одного из самых умных бессеточных CFD решателей. Решатель бессеточный - работает на основе своего метода частиц MPS (Moving Particle Simulation) Method.&lt;/p&gt;
+&lt;p&gt;Работа решателя на основе метода частиц позволяет решать динамические задачи с подвижными (и сильно подвижными :-)) границами, FSI и описывать прочие динамические процессы - например, задачи смазки зубчатых передач, слошинш, аквапланирование.&lt;/p&gt;
+&lt;p&gt;Ну и вишенка на торте - все это еще умеет очень хорошо работать на GPU. Я бы на месте ANSYS давно уже купил эту компанию целиком.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.prometech.co.jp/newsroom_ja/prometech-and-ansys-announce-a-collaboration-to-provide-broader-multiphysics-solution.html?lang=ja&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.prometech.co.jp/newsroom_ja/prometech-and-ansys-announce-a-collaboration-to-provide-broader-multiphysics-solution.html?lang=ja&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS #CFD #FSI #GPU #Meshless #MPS #Particleworks #Prometech
+&lt;a href=&#34;http://bit.ly/2V1xxeO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2V1xxeO&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Live Parts от Desktop Metal - оптимизация топологии конструк</title>
+      <link>http://localhost:1313/posts/2018-03-10-live-parts-ot-desktop-metal-optimizatsi/</link>
+      <pubDate>Sat, 10 Mar 2018 18:02:17 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-03-10-live-parts-ot-desktop-metal-optimizatsi/</guid>
+      <description>&lt;p&gt;Desktop Metal Lab (&lt;a href=&#34;https://labs.desktopmetal.com/liveparts/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://labs.desktopmetal.com/liveparts/&lt;/a&gt;) показали технологию оптимизации формы конструкции в реальном времени!&lt;/p&gt;
+&lt;p&gt;source&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;type&amp;rdquo;:&amp;ldquo;video&amp;rdquo;,&amp;ldquo;tracklist&amp;rdquo;:true,&amp;ldquo;tracknumbers&amp;rdquo;:true,&amp;ldquo;images&amp;rdquo;:true,&amp;ldquo;artists&amp;rdquo;:true,&amp;ldquo;tracks&amp;rdquo;:[&amp;ldquo;src&amp;rdquo;:&amp;ldquo;https://magicdpd.ru/wp-content/uploads/2018/03/source.mp4&amp;rdquo;,&amp;ldquo;type&amp;rdquo;:&amp;ldquo;video/mp4&amp;rdquo;,&amp;ldquo;title&amp;rdquo;:&amp;ldquo;source&amp;rdquo;,&amp;ldquo;caption&amp;rdquo;:&amp;quot;&amp;quot;,&amp;ldquo;description&amp;rdquo;:&amp;quot;&amp;quot;,&amp;ldquo;meta&amp;rdquo;:[],&amp;ldquo;dimensions&amp;rdquo;:&amp;ldquo;original&amp;rdquo;:&amp;ldquo;width&amp;rdquo;:1280,&amp;ldquo;height&amp;rdquo;:720,&amp;ldquo;resized&amp;rdquo;:&amp;ldquo;width&amp;rdquo;:618,&amp;ldquo;height&amp;rdquo;:348,&amp;ldquo;image&amp;rdquo;:&amp;ldquo;src&amp;rdquo;:&amp;ldquo;http://magicdpd.ru/wp-includes/images/media/video.png&amp;rdquo;,&amp;ldquo;width&amp;rdquo;:48,&amp;ldquo;height&amp;rdquo;:64,&amp;ldquo;thumb&amp;rdquo;:&amp;ldquo;src&amp;rdquo;:&amp;ldquo;http://magicdpd.ru/wp-includes/images/media/video.png&amp;rdquo;,&amp;ldquo;width&amp;rdquo;:48,&amp;ldquo;height&amp;rdquo;:64]&lt;/p&gt;
+&lt;p&gt;Уникальная технология позволяет получать облегченные конструкции по принципу как после работы методов топологической оптимизации, но не после долгих расчетов (там форма подбирается сутками), а в реальном времени (!!!). Расчет выполняется на GPU за считанные секунды, а результаты работы алгоритмов визуализируются прямо в процессе. При этом система может работать как со статическими, так и с динамическими условиями нагружения.
+Live Parts доступна в рамках технологического демо для пользователей SOLIDWORKS с 6 февраля 2018 года.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.develop3d.com/blog/2018/02/desktop-metal-launch-live-parts&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.develop3d.com/blog/2018/02/desktop-metal-launch-live-parts&lt;/a&gt;
+P.S. Получилась система, как если бы ANSYS научил свой Discovery Live делать топологическую оптимизаию.&lt;/p&gt;
+&lt;p&gt;#Desktop_Metal #GPU #Optimization #SolidWorks #Topology
+&lt;a href=&#34;https://goo.gl/Bfi1Ua&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/Bfi1Ua&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#zCFD - #CFD код от #Zenotech для расчета сжимаемых течений,</title>
+      <link>http://localhost:1313/posts/2017-12-29-zcfd-cfd-kod-ot-zenotech-dlya-raschet/</link>
+      <pubDate>Fri, 29 Dec 2017 17:14:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-12-29-zcfd-cfd-kod-ot-zenotech-dlya-raschet/</guid>
+      <description>&lt;p&gt;Итак, ключевые особенности ПО:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;эффективность - обычно присутствует у любого, уважающего себя кода&lt;/li&gt;
+&lt;li&gt;модели турбулентности (#RANS, #DES, #LES, #SAS) - куда же без них&lt;/li&gt;
+&lt;li&gt;автоматическое использвоание #NVIDIA #GPU для расчетов, если они есть в системе - это уже что-то новенькое&lt;/li&gt;
+&lt;li&gt;работа как с классической конечно-обемной постановкой, так и с разрывным методом Гелеркина (#Discontinuous #Galerkin) - а вот это уже что-то очень необычное, больше свойственное #HFSS или #LSDYNA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Теперь насчет бесплатности - полифункциональную версию для работы на машине с общей памятью можно скачать с сайта совершенно бесплатно!&lt;/p&gt;
+&lt;p&gt;Верификационные примеры для кода прилагаются: &lt;a href=&#34;http://ift.tt/2CmJ6GY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2CmJ6GY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&lt;/a&gt; 🔗 New zCFD release for affordable CFD at scale | Zenotech Ltd&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Статья - размышление про то, как #ANSYS #Discovery Live помо</title>
+      <link>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</link>
+      <pubDate>Sun, 17 Sep 2017 17:04:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</guid>
+      <description>&lt;p&gt;И тут ключевыми факторами успеха оказывается не только использование самого передового решателя, разработанного совместно с #NVIDIA. Не даром ANSYS очень дружен с разработчиком GPU. Об этом говорят те факты, что #Mechanical #APDL был первым коммерческим #FEM использовавшим #GPU, как и #Fluent - первым коммерческим #CFD использовавшим #GPU&lt;/p&gt;
+&lt;p&gt;Тут еще вспоминается и #SpaceClaim, который выйдя на рынок в 2005 сделал лидеров отстающими. Именно после #SpaceClaim появились такие системы, как #PTC #Creo, #Autodesk #Fusion и концепция #Siemens Synchronous Technology.&lt;/p&gt;
+&lt;p&gt;Сейчас SpaceClaim становиться геометрическим ядром для #Workbench, #AIM и #ANSYS #Discovery.&lt;/p&gt;
+&lt;p&gt;#GPGPU #CUDA
+&lt;a href=&#34;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&lt;/a&gt; 🔗 ANSYS Discovery Live Changes Everything&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Несколько слов про доставку инженерной графики</title>
+      <link>http://localhost:1313/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</link>
+      <pubDate>Thu, 29 Sep 2016 17:00:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Microsoft продолжает хвастаться новыми возможностями по работе с #GPU, которые она реализует в #Windows #Server 2016. Нас ожидает поддержка нужного #OpenGL 4.4+ как в сценариях с #RDSH, так и при построении #VDI. При этом, в качестве средства доставки будет выступать привычный и понятный #RDP, а видеопоток будет полностью аппаратно кодироваться и декодироваться на GPU сервера и клиента. Аналогичные возможности ожидаются в #Azure #Cloud.&lt;/p&gt;
+&lt;p&gt;Неужели скоро все инженеры получат достойные системы доставки инженерной графики практически за так?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Централизованное управление GPU вашего датацентра</title>
+      <link>http://localhost:1313/posts/2016-09-01-tsentralizovannoe-upravlenie-gpu-vashego-d/</link>
+      <pubDate>Thu, 01 Sep 2016 06:30:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-09-01-tsentralizovannoe-upravlenie-gpu-vashego-d/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://devblogs.nvidia.com/parallelforall/nvidia-data-center-gpu-manager-cluster-administration/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://devblogs.nvidia.com/parallelforall/nvidia-data-center-gpu-manager-cluster-administration/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#NVIDIA объявила о выходе Data Center GPU Manager (#DCGM) предназанвенного для централизованного мониторинга и управления #GPU и #GPGPU вашего датацентра или кластера (у кого что). ПО имеет интерфейсы к основным игрокам #HPC рынка: Bright Custer Manager (#BCM), #Altair #PBS Works и #IBM Spectrum #LSF и позволяет производить низкоуровневую диагностику аппаратной части, конфигурирование драйверов и прочие низкоуровневые фишки.&lt;/p&gt;
+&lt;p&gt;Nvidia DCGM 1.0 Release Candidate доступен для скачивания по регистрации (&lt;a href=&#34;https://developer.nvidia.com/data-center-gpu-manager-dcgm-access%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://developer.nvidia.com/data-center-gpu-manager-dcgm-access)&lt;/a&gt;. О том, будет ли данное ПО бесплано, или потребуется приобретение лицензий пока не сообщается, но что-то мне подсказывает, что с учетом последних действий NVIDIA нам всем придется раскошелиться.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Запущена тестовая эксплуатация GPU в Azure</title>
+      <link>http://localhost:1313/posts/2016-08-18-zapuschena-testovaya-ekspluatatsiya-gpu-v-azu/</link>
+      <pubDate>Thu, 18 Aug 2016 06:30:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-08-18-zapuschena-testovaya-ekspluatatsiya-gpu-v-azu/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Тестовая демонстрация работы #GPU #NVIDIA инстансов в облаке #Azure началась в зоне South Central US. При этом, как говорят сами MS, они используют технологию прямого проброса устройстви (Discrete Device Assignment, #DDA), заложенную в ожидаемый #Windows #Server 2016 Hyper-V.&lt;/p&gt;
+&lt;p&gt;Итак, в облаке Azure теперь есть все для построения виртуального #HPC кластера!&lt;/p&gt;
+&lt;p&gt;#cloud #tesla #k80 #m60 #hyperv #teradici&lt;/p&gt;
+&lt;p&gt;Небольшое интевью по поводу события от #Channel9
+&lt;a href=&#34;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Молния: открыта очередь на тестирование GPU NVIDIA в облаке </title>
+      <link>http://localhost:1313/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</link>
+      <pubDate>Fri, 05 Aug 2016 12:30:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://gpu.azure.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://gpu.azure.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Вчера компания #Microsoft выдала очередной анонс запуска #GPU инстансов в #Azure. Примерно год назад компания уже писала о своих планах в блоке, но видимо разработка идет не так гладко, как хотелось бы. Сейчас, вместе с анонсом компания разместила страницу регистрации на тестирование нового продукта. Лично я уже заказал сете на тест машинку с 2-мя #NVIDIA #Tesla #K80, 224 Гб RAM и 1.5 Тб SSD.&lt;/p&gt;
+&lt;p&gt;Еще Microsoft говори о партнерстве с компанией #Teradici для использования технологии #PCoIP доставляющей удаленные рабочие столы со сложной графикой. Это немного странно для меня. Во-первых Teradici - это решение заклятого конкурента #VMWare. Во-вторых, где обещанный ранее #DDS и новый #RemoteFX с поддержкой #OpenGL 4+ (заявлено для #Windows #Server 2016)? Неужели MS отказывает использовать свои серверные операционные систем и технологии в своем же облаке?&lt;/p&gt;
+&lt;p&gt;#VDI #Cloud #HPC
+&lt;a href=&#34;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AMD Radeon Pro SSG - графическая карта с 1TB SSD</title>
+      <link>http://localhost:1313/posts/2016-07-28-amd-radeon-pro-ssg-graficheskaya-karta-s/</link>
+      <pubDate>Thu, 28 Jul 2016 20:44:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-07-28-amd-radeon-pro-ssg-graficheskaya-karta-s/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://semiaccurate.com/2016/07/25/amd-puts-massive-ssds-gpus-calls-ssg/?sf31777054=1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://semiaccurate.com/2016/07/25/amd-puts-massive-ssds-gpus-calls-ssg/?sf31777054=1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#AMD анонсировала новую топовую профессиональную видеокарту. Ее изюминка - наличие сразу двух разъемов для M.2 для установки #SSD в качестве дополнительного буфера хранения обрабатываемой информации. И это на случай, если вам не хватит 32 Гб памяти, что и так есть на борту этого #GPU. Жаль, что GPU от AMD практически не поддерживаются #CAE софтом.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#MPS (Moving Particle Simulation) - бессеточный метод для ре</title>
+      <link>http://localhost:1313/posts/2016-04-11-mps-moving-particle-simulation-bess/</link>
+      <pubDate>Mon, 11 Apr 2016 07:01:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-04-11-mps-moving-particle-simulation-bess/</guid>
+      <description>&lt;p&gt;Прежде всего, этот метод, чем-то похожий на #SPH, имеет как явную, так и неявную схемы интегрирования по времени. Далее, он позволяет учитывать поверхностное натяжение и обладает #LES моделью турбулентности, чего нет в классическом #SPH. Ну и на сладкое - метод ускоряется на #GPU #NVIDIA в 5-9 раз (прямо как #DEM), при этом может использовать несколько графических карт.&lt;/p&gt;
+&lt;p&gt;Метод реализован в независимомо CFD пакете #Particleworks японской компании #Prometech.&lt;/p&gt;
+&lt;p&gt;На мой взгляд, это может быть по круче чем #XFlowCFD с их решеточным методом Больцмана.&lt;/p&gt;
+&lt;p&gt;Базовая теория по работе метода прилагается.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

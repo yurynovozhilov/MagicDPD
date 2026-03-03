@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peridynamics on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/peridynamics/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Peridynamics)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 13 Oct 2021 13:02:22 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/peridynamics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Возможности решателей Ansys в области теории разрушения</title>
+      <link>http://localhost:1313/posts/2021-10-13-vozmozhnosti-reshateley-ansys-v-oblasti-te/</link>
+      <pubDate>Wed, 13 Oct 2021 13:02:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-10-13-vozmozhnosti-reshateley-ansys-v-oblasti-te/</guid>
+      <description>&lt;p&gt;Коллеги, почему-то даже у меня, когда речь заходит о моделировании роста трещин, не всегда первым вспоминается Ansys Mechanical. Для того, что бы устранить такие ошибки в восприятии я подготовил ликбез вебинар, в котором собрал обзор всех технологий механических решателей Ansys в области моделирования линейного и нелинейного разрушения.&lt;/p&gt;
+&lt;p&gt;Вебинар я постарался сделать максимально отвязанным от конкретных версий ПО, и если у вас версия Ansys не старее 3-х лет, то вам будет особенно интересно. Ну и не обошлось без моей любимой LS-DYNA, которая тоже может в рост трещин, но уже за рамками линейной теории разрушения.&lt;/p&gt;
+&lt;p&gt;Таким образом, слушателей будет ожидать порядка 70 подготовленный мной с нуля слайдов с материалами, и проработанная структура доклада, что позволит организовать интересное повествование и не порвать мозг формулами.&lt;/p&gt;
+&lt;p&gt;Ссылка не регистрацию (надо учесть, что за пару часов до мероприятия регистрация на него закроется): &lt;a href=&#34;https://cadfem-cis.ru/event/vozmozhnosti-reshatelej-ansys-pri-reshenii-zadach-teorii-razrushenija/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://cadfem-cis.ru/event/vozmozhnosti-reshatelej-ansys-pri-reshenii-zadach-teorii-razrushenija/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #apdl #cadfem #czm #fracture #lsdyna #peridynamics #smart_fracture #spg #vcct #xfem
+&lt;a href=&#34;https://tinyurl.com/yjh5v85t&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yjh5v85t&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Хрупкое разрушение</title>
+      <link>http://localhost:1313/posts/2019-02-08-hrupkoe-razrushenie/</link>
+      <pubDate>Fri, 08 Feb 2019 04:38:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-02-08-hrupkoe-razrushenie/</guid>
+      <description>&lt;p&gt;Тут у меня коллеги интересовались моделированием хрупкого разрушения материалов в #LSDYNA. Самым передовым и многообещающим методом расчета такого разрушения и трещенообразования является перидинамика (&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Перидинамика)
+Так вот, я поскреб по сусекам, посмотрел, что у меня есть в волшебном хранилище знаний, и нашел отличную ссылку на репозиторий господина Cheng-Tang Wu (одного из главных разработчиков #LSTC в этом направлении), где он выкладываем свой учебный курс по бессрочным методам (корме перидинамики есть еще #EFG и #SPG).
+Внимание, в составе данного учебного курса есть работающие примеры со всем перечисленными бессрочными методами расчета разрушения!
+#meshless #peridynamics #AdaptiveEFG
+P.S. Насколько я понял, ключевые карты SECTION_SOLID_PERI и MAT_ELASTIC_PERI пока реализованы только в beta версиях решателя поколения R10.
+&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Index of /anonymous/outgoing/whu/Class&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вернемся к перидинамике. Уже сейчас заинтересованные пользов</title>
+      <link>http://localhost:1313/posts/2019-02-08-vernemsya-k-peridinamike-uzhe-seychas-zain/</link>
+      <pubDate>Fri, 08 Feb 2019 04:35:29 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-02-08-vernemsya-k-peridinamike-uzhe-seychas-zain/</guid>
+      <description>&lt;p&gt;А еще там будет много вкусностей про Smoothed Particle Galerkin (#SPG) для пластического разрушения.
+#peridynamics #lsdyna&lt;/p&gt;
+&lt;p&gt;Файл Recent Development of Advanced FEM and Meshfree Methods in LS-DYNA for Solid and Structural Analyses.pdf
+Файл Implementation of Peridynamic Theory to LS-DYNA for Prediction of Crack Propagation in a Composite Lamina.pdf&lt;/p&gt;
+&lt;p&gt;#LS_DYNA #LSTC #peridynamics #SPG&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-5356&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-5356&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Тут у меня коллеги интересовались моделированием хрупкого ра</title>
+      <link>http://localhost:1313/posts/2017-11-09-tut-u-menya-kollegi-interesovalis-modeli/</link>
+      <pubDate>Thu, 09 Nov 2017 17:09:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-11-09-tut-u-menya-kollegi-interesovalis-modeli/</guid>
+      <description>&lt;p&gt;Так вот, я поскреб по сусекам, посмотрел, что у меня есть в волшебном хранилище знаний, и нашел отличную ссылку на репозиторий господина Cheng-Tang Wu (одного из главных разработчиков #LSTC в этом направлении), где он выкладываем свой учебный курс по бессрочным методам (корме перидинамики есть еще #EFG и #SPG).&lt;/p&gt;
+&lt;p&gt;Внимание, в составе данного учебного курса есть работающие примеры со всем перечисленными бессрочными методами расчета разрушения!&lt;/p&gt;
+&lt;p&gt;#meshless #peridynamics #AdaptiveEFG&lt;/p&gt;
+&lt;p&gt;P.S. Насколько я понял, ключевые карты SECTION_SOLID_PERI и MAT_ELASTIC_PERI пока реализованы только в beta версиях решателя поколения R10.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&lt;/a&gt; 🔗 Index of /anonymous/outgoing/whu/Class&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вернемся к перидинамике. Уже сейчас заинтересованные пользов</title>
+      <link>http://localhost:1313/posts/2015-12-13-vernemsya-k-peridinamike-uzhe-seychas-zain/</link>
+      <pubDate>Sun, 13 Dec 2015 18:01:09 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-12-13-vernemsya-k-peridinamike-uzhe-seychas-zain/</guid>
+      <description>&lt;p&gt;А еще там будет много вкусностей про Smoothed Particle Galerkin (#SPG) для пластического разрушения.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новое слово в моем словаре: перидинамика или peridynamics. К</title>
+      <link>http://localhost:1313/posts/2015-12-12-novoe-slovo-v-moem-slovare-peridinamika/</link>
+      <pubDate>Sat, 12 Dec 2015 18:01:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-12-12-novoe-slovo-v-moem-slovare-peridinamika/</guid>
+      <description>&lt;p&gt;Зачем мне это слово и кто мне его рассказал вы узнаете завтра 😊&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

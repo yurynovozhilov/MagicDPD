@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simufact on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/simufact/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Simufact)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sun, 17 Feb 2019 11:19:15 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/simufact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Моделирование технологических процессов в MARC</title>
+      <link>http://localhost:1313/posts/2019-02-17-modelirovanie-tehnologicheskih-protsessov/</link>
+      <pubDate>Sun, 17 Feb 2019 11:19:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-02-17-modelirovanie-tehnologicheskih-protsessov/</guid>
+      <description>&lt;p&gt;Помню, как лет 15 назад мне впервые показали как работает крутой КЭ решатель — то был MSC.Marc. Не знаю, может это ностальгические воспоминания, но с тех пор я всегда с большим уважением отношусь к продуктам MSC.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/DI3oxvVwKZw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/DI3oxvVwKZw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Увлекшись моделированием резки металлов, я стал искать материалы не только в тусовке LS-DYNA, но и за ее пределами. И тут попалось мне отличное видео, которым я сегодня хочу поделиться. Да, по современным меркам, такие расчеты для Implicit решателей уже являются нормой, но видео сделано в 2015 году, и на тот момент это был высший пилотаж. Глубокая пластика, адаптивные (пусть и плоские) сетки, смерть элементов, implicit решатель — красота.&lt;/p&gt;
+&lt;p&gt;#Marc #MSC #Simufact&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2lo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2lo&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование послойного синтеза в Simufact</title>
+      <link>http://localhost:1313/posts/2018-06-30-modelirovanie-posloynogo-sinteza-v-simuf/</link>
+      <pubDate>Sat, 30 Jun 2018 18:01:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-06-30-modelirovanie-posloynogo-sinteza-v-simuf/</guid>
+      <description>&lt;p&gt;MSC всерьез взялись за маркетинг. В сети появляется большое количество видео с использованием Simufact Welding. Примечательно в работе моделирующего ПО два момента:&lt;/p&gt;
+&lt;p&gt;Насколько можно видеть, алгоритм может работать на &amp;ldquo;обычных&amp;rdquo; hex-сетках, тогда как у коллег по отрасли обычно используется декартовы (cartesian) сетки. Хотя для расчета остаточных напряжений и деформаций это не сильно важно.
+Если верить визуализации, то слой материала напыляется не целиком за раз, а постепенно. Этот интересный подход, по-хорошему, должен требовать дополнительных данных от печатающей машины - нужен шаблон движения сканирующего луча. Ну и сетка нужна мелкая.&lt;/p&gt;
+&lt;p&gt;#AdditiveManufacturing #MSC #Simufact
+&lt;a href=&#34;http://bit.ly/2tTlfsn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2tTlfsn&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Direct Metal Deposition или процесс объемной лазерной наплав</title>
+      <link>http://localhost:1313/posts/2017-05-25-direct-metal-deposition-ili-protsess-obe/</link>
+      <pubDate>Thu, 25 May 2017 17:01:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-05-25-direct-metal-deposition-ili-protsess-obe/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=esBC0WwAX8g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=esBC0WwAX8g&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Интересный и очень сложный физический процесс, встречающийся в 3D принтерах, печатающих металлом. Как бы вы стали его моделировать: в #CFD постановке или при помощи #FEM?&lt;/p&gt;
+&lt;p&gt;CFD by #FLOW3D: &lt;a href=&#34;https://www.youtube.com/watch?v=esBC0WwAX8g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=esBC0WwAX8g&lt;/a&gt;
+CFD by #FLOW3D: &lt;a href=&#34;https://www.youtube.com/watch?v=oWfoAzQlLVo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=oWfoAzQlLVo&lt;/a&gt;
+FEM by #MSC #Simufact Additive: &lt;a href=&#34;https://www.youtube.com/watch?v=l9n6AheyI2E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=l9n6AheyI2E&lt;/a&gt;
+FEM by #ANSYS #Mechanical: &lt;a href=&#34;https://www.youtube.com/watch?v=H0Uara7B5to&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=H0Uara7B5to&lt;/a&gt;
+FEM by #ANSYS #Mechanical: &lt;a href=&#34;https://www.youtube.com/watch?v=74TOhQwEj80&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=74TOhQwEj80&lt;/a&gt;
+FEM by #Pancomputing &lt;a href=&#34;https://www.youtube.com/watch?v=LWk43HjKjcM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=LWk43HjKjcM&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

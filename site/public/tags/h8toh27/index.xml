@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H8TOH27 on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/h8toh27/</link>
+    <description>MagicDPD: Magic Driven Product Development! (H8TOH27)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 31 Jan 2018 17:01:06 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/h8toh27/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Делаем 27-ми узловые элементы в LS-PrePost</title>
+      <link>http://localhost:1313/posts/2018-01-31-delaem-27-mi-uzlovye-elementy-v-ls-prepo/</link>
+      <pubDate>Wed, 31 Jan 2018 17:01:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-01-31-delaem-27-mi-uzlovye-elementy-v-ls-prepo/</guid>
+      <description>&lt;p&gt;Малюсенький видеоурок, показывающий как построить 27 узловые Solid элементы в LS-PrePost для дальнейшего расчета в LS-DYNA.&lt;/p&gt;
+&lt;p&gt;А для тех из вас, кому лень возиться с перестроением сетки, в LS-PrePost есть возможность заставить сам решатель в начале расчета перестроить обычные 8-ми узловые Solid элементы в новые 27-ми узловые, просто заменив заголовок карты *ELEMENT_SOLID на *ELEMENT_SOLID_H8TOH27.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0U1rkt8MX6M&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=0U1rkt8MX6M&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Напомню, что 27-ми узловые элементы в LS-DYNA обладают кучей полезных свойств, о которых я уже писал:&lt;/p&gt;
+&lt;p&gt;Работа на скручивание
+Работа в один слой по толщине
+Учет больших деформаций
+Обработка больших искажений сетки
+Сжимаемые и несжимаемые материалы
+Отсутствие эффекта песочных часов
+Отсутствие паразитной жесткости на сдвиг или объемное сжатие&lt;/p&gt;
+&lt;p&gt;Подробности работы элементов и их тестирования можно найти в статье Recent Advances on Higher Order 27-node Hexahedral Element in LS-DYNA
+#H8TOH27 #LS-DYNA #LS-PrePost
+&lt;a href=&#34;https://magicdpd.ru/?p=6087&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6087&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ls on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/ls/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Ls)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 23 Nov 2021 15:42:22 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/ls/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LS-TaSC для нелинейной топологической оптимизации в динамиче</title>
+      <link>http://localhost:1313/posts/2021-11-23-ls-tasc-dlya-nelineynoy-topologicheskoy-op/</link>
+      <pubDate>Tue, 23 Nov 2021 15:42:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-11-23-ls-tasc-dlya-nelineynoy-topologicheskoy-op/</guid>
+      <description>&lt;p&gt;Мы все привыкли, что топологическая оптимизация aka генеративный дизайн, это что-то работающее с кучей ограничений: изотропные материалы, малые перемещения, статическая постановка, отсутствие нелинейности в материалах, отсутствие контактов&amp;hellip; Короче говоря, скучная линейная теория упругости в самой базовой постановке. Конечно есть некоторые отдельные дорогие оптимизаторы, которые обещают и нелинейные расчеты, но пробовали ли вы ими пользоваться для реальных задач?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nVJ_7kpAp_A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nVJ_7kpAp_A&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;А вот у Ansys LST есть отдельный бесплатны (для обладателей лицензий на LS-DYNA) топологический оптимизатор LS-TaSC, который изначально создавался для оптимизации моделей под задачи пассивной безопасности автомобилей. А это значит, что он автоматически работает с большими перемещениями, динамическими контактными задачами и нелинейными материалами. Смотрим вебинар про него и наслаждаемся.&lt;/p&gt;
+&lt;p&gt;#ansys #ansys_lst #ls-tasc #lsdyna #lstc #optimization #topology
+&lt;a href=&#34;https://tinyurl.com/yjzdx4v5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yjzdx4v5&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование укладки подушки безопасности в LS-DYNA</title>
+      <link>http://localhost:1313/posts/2021-10-19-modelirovanie-ukladki-podushki-bezopasnos/</link>
+      <pubDate>Tue, 19 Oct 2021 17:02:03 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-10-19-modelirovanie-ukladki-podushki-bezopasnos/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=axbvdmrxbBo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=axbvdmrxbBo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#airbag #ansys #ls-prepost #lsdyna
+&lt;a href=&#34;https://tinyurl.com/yfnouykp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfnouykp&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учетное видео: горообразование на 6-ти гранной трубе</title>
+      <link>http://localhost:1313/posts/2021-10-12-uchetnoe-video-goroobrazovanie-na-6-ti-g/</link>
+      <pubDate>Tue, 12 Oct 2021 13:01:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-10-12-uchetnoe-video-goroobrazovanie-na-6-ti-g/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8ATwsbyY1c4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=8ATwsbyY1c4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #ls-dyna
+&lt;a href=&#34;https://tinyurl.com/yehafba5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yehafba5&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сравнение работы кодов моделирования детонации ВВ</title>
+      <link>http://localhost:1313/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</link>
+      <pubDate>Thu, 23 Sep 2021 15:01:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</guid>
+      <description>&lt;p&gt;Разработчики blastFoam, открытого CFD кода на базе openFoam, специализирующегося на задачах детонации ВВ и распространении ударных волны в воздухе, опубликовали любопытное сравнение. Они смоделировали детонацию сферического заряда тротила в воздухе в бесконечном домене - довольно простая постановка с хорошо известными аналитическими решениями.&lt;/p&gt;
+&lt;p&gt;Моделирование они выполнили в:&lt;/p&gt;
+&lt;p&gt;Ansys Autodyn - код, разработанный когда-то, поглощённой компанией Century Dynamics - заточен под решение задач ОПКAnsys LS-DYNA - код, разработанный, поглощённой компанией LSTC - заточен под решение сильно связанных высоконелинейных задачEUROPLEXUS - или EpX, полуоткрытьй код для моделирования быстропротекающих процессов от французской промышленности, работает на основе моделей, подготовленных для Code_Aster.  CHT - код для моделирования быстропротекающих процессов от Сандийских национальных лабораторийblastFoam, который я уже представил&lt;/p&gt;
+&lt;p&gt;Во всех кодах использовалось уравнение состояния JWL. На мой взгляд, справились все коды примерно одинаково, и, не зная особенностей постановки задачи, времени, затраченного на решение, трудно выбрать лидера.&lt;/p&gt;
+&lt;p&gt;Надо просто иметь в виду, что какие-то из этих кодов могут решать только задачи детонации ВВ с различными уравнениями состояния, некоторые могут применяться для моделирования широкого круга динамических задач, а кто-то может замахнуться и на междисциплинарные расчеты. Так что выбирайте подходящие вам инструменты которым вас могут научить на понятном вам языке.&lt;/p&gt;
+&lt;p&gt;Ссылка на оригинальный пост: &lt;a href=&#34;https://www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #autodyn #blast #blastfoam #cht #europlexus #ls-dyna #open_source #openfoam #sandia
+&lt;a href=&#34;https://tinyurl.com/yzxkzr4r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzxkzr4r&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HexGen и Hex2Spline: ALLHEX и IGA сетки для LS-DYNA</title>
+      <link>http://localhost:1313/posts/2021-09-17-hexgen-i-hex2spline-allhex-i-iga-setki/</link>
+      <pubDate>Fri, 17 Sep 2021 13:01:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-09-17-hexgen-i-hex2spline-allhex-i-iga-setki/</guid>
+      <description>&lt;p&gt;Коллеги, на мой взгляд, сегодня просто огненный контент. Представляю вам два открытых набора консольных утилит, HexGen и Hex2Spline, разработанные группой профессора Юнцзе Джессики Чжан (Yongjie Jessica Zhang) в Университете Карнеги-Меллон (Carnegie Mellon University). Что бы лучше понимать, эта группа очень тесно связана со всем, что сейчас делается в области IGA для LS-DYNA и Corefrom.&lt;/p&gt;
+&lt;p&gt;Рассматриваемый комплект утилит позволяет на основе произвольной геометрии строить ALL-HEX неструктурированную сетку при помощи реализации алгоритма поликуба - это делает HexGen. А уже на основе полученной сетки Hex2Spline строить модель для IGA расчета, извлекая данные сплайнов Безье и записывая их в формат BEXT, напрямую читаемый LS-DYNA и визуализируемый в LS-PrePost.&lt;/p&gt;
+&lt;p&gt;Что особенно приятно, так это степень проработки вопроса. В репозитории проекта вы найдете не только все сходные коды утилит и собранные бинарники по Windows - вы найдете подробные инструкции по пересборке утилит. Естественно, в репозитории есть и тренировочные примеры с итогами правильной работы софта. А еще есть сопроводительная научная статья, в которой вы найдете подробные инструкции как пользоваться всеми утилитами и как настраивать их работу для разных геометрических моделей.&lt;/p&gt;
+&lt;p&gt;Научная статья: &lt;a href=&#34;https://arxiv.org/abs/2011.14213&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://arxiv.org/abs/2011.14213&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Репозиторий проекта: &lt;a href=&#34;https://github.com/yu-yuxuan/HexGen_Hex2Spline&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/yu-yuxuan/HexGen_Hex2Spline&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Страничка группы профессора Джессики Чжан в Университете Карнеги-Меллон:  &lt;a href=&#34;https://www.meche.engineering.cmu.edu/directory/bios/zhang-yongjie.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.meche.engineering.cmu.edu/directory/bios/zhang-yongjie.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#all-hex #ansys #bext #iga #ls-dyna #ls-prepost #open_source #polycube
+&lt;a href=&#34;https://tinyurl.com/ydnqewkz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ydnqewkz&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Последние достижения в области моделирования материалов в LS</title>
+      <link>http://localhost:1313/posts/2021-09-15-poslednie-dostizheniya-v-oblasti-modelirov/</link>
+      <pubDate>Wed, 15 Sep 2021 17:01:26 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-09-15-poslednie-dostizheniya-v-oblasti-modelirov/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=6ae7j2Hk07k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=6ae7j2Hk07k&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Последние достижения в области решения прочностных задачи и идентификации параметров полимеров и металлических сплавов для применения в системах пассивной безопасности.&lt;/p&gt;
+&lt;p&gt;#ansys #dynamore #ls-dyna
+&lt;a href=&#34;https://tinyurl.com/yjvoqmg8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yjvoqmg8&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Полномасштабное моделирование и проверка износа ковша горной</title>
+      <link>http://localhost:1313/posts/2021-06-17-polnomasshtabnoe-modelirovanie-i-proverka/</link>
+      <pubDate>Thu, 17 Jun 2021 13:01:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-06-17-polnomasshtabnoe-modelirovanie-i-proverka/</guid>
+      <description>&lt;p&gt;Публикация по итогам кандидатской работы из Швеции. Коллеги смоделировали износ ковша горной канатной лопаты. Истирание происходило из-за взаимодействия со смесью DEM и Rigid тел произвольной формы. Все это считалось в моей любимой LS-DYNA.  Отличный расчет с экспериментальным подтверждением.&lt;/p&gt;
+&lt;p&gt;Ссылка на научную публикацию: &lt;a href=&#34;https://www.mdpi.com/2075-163X/11/6/623&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.mdpi.com/2075-163X/11/6/623&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ссылка на LinkedIn пост с анимацией процесса: &lt;a href=&#34;https://www.linkedin.com/posts/andreas-svanberg-0b727786_dem-simulations-boliden-activity-6809103345618345985-0xik&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.linkedin.com/posts/andreas-svanberg-0b727786_dem-simulations-boliden-activity-6809103345618345985-0xik&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #dem #ls-dyna #wear
+&lt;a href=&#34;https://tinyurl.com/yhugt89f&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yhugt89f&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Основы моделирования разрушения материала при обработке мета</title>
+      <link>http://localhost:1313/posts/2021-06-15-osnovy-modelirovaniya-razrusheniya-material/</link>
+      <pubDate>Tue, 15 Jun 2021 16:02:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-06-15-osnovy-modelirovaniya-razrusheniya-material/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=w7u_tyqZwwg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=w7u_tyqZwwg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Неплохая обзорная лекция от Design Online Academy по тому, на что смотреть при моделировании течения металла в процессе штамповки, вытяжки, прокатки и т.п. В лекции дан обзор основным теориям прочности, которые преподают еще на 3-ем курсе. Также будет разговор о таких важных понятиях, как Forming Limit Diagram (FLD) и эксперименте Накаджимы (Nakajima Test) по определению параметров FLD. Ну и в конце немного слов о применении всех этих знаний в LS-DYNA.&lt;/p&gt;
+&lt;p&gt;#ansys #fld #forming #ls-dyna #nakajima_test
+&lt;a href=&#34;https://tinyurl.com/ye94vouc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ye94vouc&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Использование модели накопления повреждений GISSMO при расче</title>
+      <link>http://localhost:1313/posts/2021-06-11-ispolzovanie-modeli-nakopleniya-povrezhde/</link>
+      <pubDate>Fri, 11 Jun 2021 13:01:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-06-11-ispolzovanie-modeli-nakopleniya-povrezhde/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=2DmR-H0L2Eg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=2DmR-H0L2Eg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Томас Файстер (Thomas Feister) из EWI очень хорошо и понятно рассказывает про одну из самых передовых моделей накопления повреждений в LS-DYNA - GISSMO. Данная модель позволяет учитывать не только неоднородность напряженно-деформированного состояния, но и общую нелинейность процесса накопления повреждений, а также компенсировать возникающие при загрублении КЭ сетки эффекты. EWI - ведущая инженерно-технологическая компания Северной Америки, занимающаяся вопросами сварки и соединения материалов. Сотрудники EWI оказывают помощь в соединении материалов, проводят контрактные исследования, оказывают консультационные услуги и проводят обучение для почти 2 800 компаний-заказчиков. EWI предоставляет услуги мирового класса для аэрокосмической, автомобильной, оборонной, энергетической и химической, правительственной, тяжелой промышленности, медицинской и электронной отраслей.&lt;/p&gt;
+&lt;p&gt;#ansys #ewi #forming #gissmo #ls-dyna
+&lt;a href=&#34;https://tinyurl.com/yfx9zkdh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfx9zkdh&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Визуализация свободной поверхности SPH в LS-PrePost</title>
+      <link>http://localhost:1313/posts/2021-04-29-vizualizatsiya-svobodnoy-poverhnosti-sph-v/</link>
+      <pubDate>Thu, 29 Apr 2021 15:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-04-29-vizualizatsiya-svobodnoy-poverhnosti-sph-v/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=4sQET0y_gUI&amp;amp;feature=share&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=4sQET0y_gUI&amp;feature=share&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #ls-prepost #lsdyna #sph
+&lt;a href=&#34;https://tinyurl.com/yhlgwks6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yhlgwks6&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование разрушения и фрагментации при помощи SPH</title>
+      <link>http://localhost:1313/posts/2021-03-29-modelirovanie-razrusheniya-i-fragmentatsii/</link>
+      <pubDate>Mon, 29 Mar 2021 13:01:30 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-03-29-modelirovanie-razrusheniya-i-fragmentatsii/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/p0e8pTs0zgU?list=WL&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/p0e8pTs0zgU?list=WL&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Третий доклад с первого виртуального семинара от UK Fluids Network по жидкостям SPH SIG. Эваристо Сантамария Ферраро (Evaristo Santamaria Ferraro) из Университета Хартфордшира (The University of Hertfordshire), а также французско-немецкого научно-исследовательского института Сен-Луи представляет свою работу по изучению процессов разрушения и фрагментации металлов с помощью SPH.&lt;/p&gt;
+&lt;p&gt;#fragmentation #ls-dyna #sph
+&lt;a href=&#34;https://tinyurl.com/yztj9swd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yztj9swd&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-DYNA для гражданского строительства от Arup</title>
+      <link>http://localhost:1313/posts/2021-03-26-ls-dyna-dlya-grazhdanskogo-stroitelstva-o/</link>
+      <pubDate>Fri, 26 Mar 2021 13:03:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-03-26-ls-dyna-dlya-grazhdanskogo-stroitelstva-o/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=PhLq9N85Oe8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=PhLq9N85Oe8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Потрясающий, великолепный, незабываемый доклад от Arup по из опыту решения околостроительных задач с применением LS-DYNA. Эти ребята знают как считать, эти ребята знают, как готовить LS-DYNA, и, наконец, они умеют делать хорошие доклады. Я смотрел на одном дыхании. Чего только стоил кейс, где они посчитали на воздействие землетрясения не одно здание, а целый район грода.&lt;/p&gt;
+&lt;p&gt;#arup #civil #concrete #ls-dyna #oasys
+&lt;a href=&#34;https://tinyurl.com/yffwyjjf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yffwyjjf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence for Material Models</title>
+      <link>http://localhost:1313/posts/2021-03-24-artificial-intelligence-for-material-mod/</link>
+      <pubDate>Wed, 24 Mar 2021 12:27:29 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-03-24-artificial-intelligence-for-material-mod/</guid>
+      <description>&lt;p&gt;Еще одно применение AI для CAE в области материаловедения - на этот раз от DYNAmore. Коллеги вписались в исследовательский проект &amp;ldquo;Искусственный интеллект для моделей материалов&amp;rdquo; (Artificial Intelligence for Material Models, AIMM), который состоит в том, чтобы дополнить и/или заменить классические реологические модели материалов на модели, построенные AI при анализе большого числа экспериментов. Основное внимание в AIMM будет уделяться более быстрому внедрению новых материалов посредством ускоренного описания для приложений CAE, разработки связанных с ними новых экспериментальных концепций для генерирования необходимых обучающих данных, а также сокращению фазы характеризации и моделирования посредством автоматизации процессов.&lt;/p&gt;
+&lt;p&gt;Спонсором проекта является TÜV Rheinland (&lt;a href=&#34;https://ru.wikipedia.org/wiki/T&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/T&lt;/a&gt;ÜV_Rheinland_Group). В проекте также задействованы Mercedes-Benz AG, ElringKlinger AG, GOM GmbH и renumics GmbH.&lt;/p&gt;
+&lt;p&gt;Вообще, тема DYNAmore очень здорово пересекается с уже имеющимися у ANSYS LST наработками по использованию нейронных сетей для моделирования микроструктуры материалов (&lt;a href=&#34;https://www.lstc-cmmg.org/deep-material-network%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.lstc-cmmg.org/deep-material-network)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;#ansys #dynamore #ls-dyna #lstc #machine_learning #material
+&lt;a href=&#34;https://tinyurl.com/yf6xk86t&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yf6xk86t&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SPH моделирование спинномозговой жидкости в LS-DYNA</title>
+      <link>http://localhost:1313/posts/2021-03-05-sph-modelirovanie-spinnomozgovoy-zhidkost/</link>
+      <pubDate>Fri, 05 Mar 2021 13:01:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-03-05-sph-modelirovanie-spinnomozgovoy-zhidkost/</guid>
+      <description>&lt;p&gt;Спинномозговая жидкость (Cerebrospinal Fluid, CSF) может претерпевать сдвиговые деформации при движении головы. Модели конечных элементов (FE), которые обычно используются для моделирования биомеханики мозга, в том числе травматических травм головного мозга, используют твердые элементы для представления CSF.&lt;/p&gt;
+&lt;p&gt;Однако, ограниченное количество элементов в паре со сдвиговыми деформациями в CSF может снизить точность их прогнозирования. Большие проблемы деформации могут быть точно смоделированы с помощью безсеточного метода гидродинамики сглаженных частиц (SPH). Таким образом, молодые ученые взяли LS-DYNA и посчитали в нем мозг с учетом CSF, а результаты опубликовали в журнале &amp;ldquo;International Journal for Numerical Methods in Biomedical Engineering&amp;rdquo; &lt;a href=&#34;https://doi.org/10.1002/cnm.3440&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://doi.org/10.1002/cnm.3440&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Исходный пост с анимацией результатов: &lt;a href=&#34;https://www.linkedin.com/posts/activity-6772564841979797504-jHS_/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.linkedin.com/posts/activity-6772564841979797504-jHS_/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#biomed #ls-dyna #sph
+&lt;a href=&#34;https://tinyurl.com/ydgrrc9c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ydgrrc9c&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Подходы к моделированию подушек безопастности</title>
+      <link>http://localhost:1313/posts/2021-02-15-podhody-k-modelirovaniyu-podushek-bezopast/</link>
+      <pubDate>Mon, 15 Feb 2021 18:09:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-02-15-podhody-k-modelirovaniyu-podushek-bezopast/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MI_u7HEnbyQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=MI_u7HEnbyQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В настоящее время LS-DYNA предлагает три различных метода моделирования подушек безопасности. Подход на основе однородного давления (UP, uniform pressure), старейший из доступных методов, является очень эффективным с вычислительной точки зрения и хорошо работает, например, для моделирования взаимодействия манекенов с полностью надутыми подушками безопасности. Для удовлетворения возросших требований, предъявляемых к современным имитационным моделям, все большее значение приобретает точное отображение фазы развертывания.Поэтому используется метод ALE, при котором &amp;ldquo;газовая&amp;rdquo; область дискретизирована конечными элементами, что позволяет моделировать эффекты потока газа и его взаимодействие с тканью подушки безопасности. Совсем недавно был реализован метод корпускулярных частиц (CPM, Corpuscular Particle Method), где газ представлен дискретными частицами, взаимодействующими друг с другом и с окружающей их средой. Кстати, все эти методы могут применять не только для моделирования подушек безопастности, то и для расчетом сосудов и трубопроводов под давлением: моделирование динамики пневматических покрышек, моделирование баллонов  пневматической подвески или даже пневматические испытания трубопровода.&lt;/p&gt;
+&lt;p&gt;#airbag #ale #cpm #ls-dyna
+&lt;a href=&#34;https://tinyurl.com/y44xkm2g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y44xkm2g&lt;/a&gt;
+by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование пены низкой плотности в МКЭ</title>
+      <link>http://localhost:1313/posts/2021-02-03-modelirovanie-peny-nizkoy-plotnosti-v-mk/</link>
+      <pubDate>Wed, 03 Feb 2021 13:01:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-02-03-modelirovanie-peny-nizkoy-plotnosti-v-mk/</guid>
+      <description>&lt;p&gt;На сегодня я нашел два интересных видео, посвященных моделированию полимерной пены низкой плотности.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=g8YSmFk5KSc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=g8YSmFk5KSc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В первом видео обсуждается, почему традиционные гиперупругие модели материалов не могут использоваться для прогнозирования поведения мягких полимерных пен. Далее в видео рассматривается математика работы специализированных подходящий моделей Ansys Ogden Foam, LS-DYNA Hill Foam, Abaqus Hyperfoam и COMSOL Storakers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=W9e-GJHJk00&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=W9e-GJHJk00&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Во второй части видео показывается, как проводить настройку модели материалов с применением пакета PolymerFEM MCalibration.&lt;/p&gt;
+&lt;p&gt;#abaqus #ansys #comsol #foam #ls-dyna #mcalibration #mechanical #polymerfem
+&lt;a href=&#34;https://tinyurl.com/y2gu28ph&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y2gu28ph&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BetaCAE Meta для постпроцессинга задач пассивной безопасност</title>
+      <link>http://localhost:1313/posts/2018-05-05-betacae-meta-dlya-postprotsessinga-zadach-p/</link>
+      <pubDate>Sat, 05 May 2018 18:01:25 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-05-05-betacae-meta-dlya-postprotsessinga-zadach-p/</guid>
+      <description>&lt;p&gt;Meta практически является стандартом де-факто для обработки результатов расчетов краштестов. Данный постпроцессор отлично зарекомендовал себя, но реклама лишней не бывает. На видео представлена работа Meta с результатами краштеста Volvo XC60 нового поколения. Но только в видео очень лукаво говорят, что расчет сделан в Meta — на самом деле Volvo все краштесты счиатет в LS-DYNA, о чем регулярно докладывает на соответствующих конференциях.
+#BetaCAE #Crush #LS-DYNA #Meta #Volvo&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Pn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Pn&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Электромагнитный решатель LS-DYNA: моделируем рельсотрон</title>
+      <link>http://localhost:1313/posts/2018-05-01-elektromagnitnyy-reshatel-ls-dyna-model/</link>
+      <pubDate>Tue, 01 May 2018 18:01:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-05-01-elektromagnitnyy-reshatel-ls-dyna-model/</guid>
+      <description>&lt;p&gt;Сегодня у нас 7-ой видеоурок, посвященный решению задач электромагнетизма в LS-DYNA. И сегодня нашему вниманию предлагается моделирование рельсотрона — полуфантастического оружия, сошедшего с экранов компьютерных игр и вставшего на боевое дежурство в реальных вооруженных силах.
+Но нас в этой задаче больше будет интересовать методика перестроения BEM сетки в условиях меняющейся геометрии. Как видно из видео, это не очень сложно настроить, но это потребляет очень много вычислительных ресурсов при выполнении расчета.&lt;/p&gt;
+&lt;p&gt;Как всегда в подобных учебных видео, LSTC публикует расчетную модель для самостоятельного изучения: &lt;a href=&#34;https://www.dynaexamples.com/em/em_railgun&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynaexamples.com/em/em_railgun&lt;/a&gt;
+#BEM #EM #LS-DYNA #LSTC #railgun&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1NS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1NS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Попадание птицы в турбореактивный двигатель</title>
+      <link>http://localhost:1313/posts/2018-04-27-popadanie-ptitsy-v-turboreaktivnyy-dvigat/</link>
+      <pubDate>Fri, 27 Apr 2018 18:01:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-04-27-popadanie-ptitsy-v-turboreaktivnyy-dvigat/</guid>
+      <description>&lt;p&gt;Перед нами подборка как учебных, так и демонстрационных видео на тему моделирования попадания SPH птицы-жидкости (*MATNULL и *EOS\GRUNEISEN) в двигатель коммерческого лайнера.
+#bird strike #LS-DYNA #SPH&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1NF&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1NF&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Электромагнитный решатель LS-DYNA: добавим больше физики</title>
+      <link>http://localhost:1313/posts/2018-02-09-elektromagnitnyy-reshatel-ls-dyna-dobav/</link>
+      <pubDate>Fri, 09 Feb 2018 18:01:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-02-09-elektromagnitnyy-reshatel-ls-dyna-dobav/</guid>
+      <description>&lt;p&gt;Продолжаем знакомиться с  возможностями решателя от LSTC в области электромагнитных расчетов. Второй видеоурок посвящен особенностям выбора шага по времени и настройке сетки модели.&lt;/p&gt;
+&lt;p&gt;Собственно, сетка строится так, чтобы на поверхности проводника было хотя бы 3 элемента на толщину скин-слоя (&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Скин-эффект). И опять нам рекомендуют использовать hex сетку.&lt;/p&gt;
+&lt;p&gt;Несмотря на то, что решатель в данном классе задач используется неявный (должен сходиться с любым шагом по времени), разработчики рекомендуют соблюдать критерий Куранта-Фридрихса-Леви в его электромагнитной формулировке. Так мы сможем повысить не только точность, но и стабильность расчета.&lt;/p&gt;
+&lt;p&gt;Кроме того, в видео показывают ряд интересных возможностей по постпроцессингу результатов - например, построение эпюр и линий поля.&lt;/p&gt;
+&lt;p&gt;Интересный факт: оказывается EM решатель LS-DYNA основан на библиотеках FEMSTER&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=LYhXfSLwz0c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=LYhXfSLwz0c&lt;/a&gt;
+#EM #FEMSTER #LS-DYNA #LSTC
+&lt;a href=&#34;https://wp.me/p9vWYY-1BP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1BP&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Расчет подрыва ЖБ плиты с учетом фрагментации</title>
+      <link>http://localhost:1313/posts/2018-02-07-raschet-podryva-zhb-plity-s-uchetom-fragmen/</link>
+      <pubDate>Wed, 07 Feb 2018 18:00:53 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-02-07-raschet-podryva-zhb-plity-s-uchetom-fragmen/</guid>
+      <description>&lt;p&gt;Очень красивый пример от LSTC, демонстрирующий работу LS-DYNA в области расчета взрывов и переноса нагрузок от них на конструкции. Разберем три составляющих успеха данного расчета.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Имеем бетонную плиту, армированную стальными стержнями (естественно beam арматура внедряется в solid бетон при помощи специальных уравнений связи типа *CONSTRAINED_BEAM_IN_SOLID).&lt;/li&gt;
+&lt;li&gt;Дальше, на этой плите расположен заряд в оболочке из shell элементов. Заряд ВВ моделируется в постановке Particle Blast Method (PBM) - не надо заморачиваться с генерацией SPH или переходом в эйлеров домен. PBM решает быстро и точно!&lt;/li&gt;
+&lt;li&gt;И на десерт, для solid элементов бетона задается *DEFINE_ADAPTIVE_SOLID_TO_SPH - автоматическое переключение умерших solid элементов в SPH частицы, моделирующие разлет осколков. Надо отдельно отметить, что получающиеся SPH частицы могут не просто разлетаться, как точечные массы, но и работать как тот же самый бетон, но уже сильно поврежденный - между ними есть определенный потенциал взаимодействия.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=QHbO6tRPI3c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=QHbO6tRPI3c&lt;/a&gt;
+#blast #concrete #CONSTRAINED_BEAM_IN_SOLID #DEFINE_ADAPTIVE_SOLID_TO_SPH #fracture #fragmentation #LS-DYNA #LSTC #ParticleBlast #reinforcement #SPH
+&lt;a href=&#34;https://wp.me/p9vWYY-1BK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1BK&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Моделирование резки металла бессеточным методом Галеркина</title>
+      <link>http://localhost:1313/posts/2018-02-06-modelirovanie-rezki-metalla-bessetochnym/</link>
+      <pubDate>Tue, 06 Feb 2018 18:01:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-02-06-modelirovanie-rezki-metalla-bessetochnym/</guid>
+      <description>&lt;p&gt;EFG - ElementFree Galerkin Method, он же бессеточный метод Галеркина, применяется при решении задач механики, связанных с большими деформациями как, например, резка металла, экструзия, ковка и прочие подобные процессы обработки материалов.&lt;/p&gt;
+&lt;p&gt;Метод позволяет аккуратно описать процессы изменения формы конструкции, учесть как трение, так и и выделение тепла. При этом метод работает как с явной, так и с неявной схемой интегрирования по времени. Подробнее о реализации данного метода в LS-DYNA можно почитать в этой презентации: http://www.dynalook.com/european-conf-2009/I-I-01.pdf&lt;/p&gt;
+&lt;p&gt;Мы же рассмотрим видеопример, где показаны основные моменты настройки именно EFG части расчета.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=BREDG6QHUKA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=BREDG6QHUKA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;А еще по этой теме есть готовый пример от LSTC: http://www.dynaexamples.com/efg/metal-cutting
+#cutting #EFG #LS-DYNA #LSTC
+&lt;a href=&#34;https://wp.me/p9vWYY-1C4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1C4&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Random vibration и Fatigue analisys в одном расчете</title>
+      <link>http://localhost:1313/posts/2018-02-04-random-vibration-i-fatigue-analisys-v-od/</link>
+      <pubDate>Sun, 04 Feb 2018 17:00:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-02-04-random-vibration-i-fatigue-analisys-v-od/</guid>
+      <description>&lt;p&gt;Итак, сегодня у нас видеоурок по расчету усталостной прочности и долговечности в случае, когда нагрузка задается в виде случайного воздействия с определённой плотностью вероятности (СПМ - спектральной плотностью мощности). Это все считается в LS-DYNA, причем в частотном, а не во временном домене (карты группы *FREQUENCY_DOMAIN).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=dkZpV3NJCss&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=dkZpV3NJCss&lt;/a&gt;
+#Fatigue #LS-DYNA #LS-PrePost #random_vibration #tutorial
+&lt;a href=&#34;https://wp.me/p9vWYY-1AA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1AA&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Делаем 27-ми узловые элементы в LS-PrePost</title>
+      <link>http://localhost:1313/posts/2018-01-31-delaem-27-mi-uzlovye-elementy-v-ls-prepo/</link>
+      <pubDate>Wed, 31 Jan 2018 17:01:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-01-31-delaem-27-mi-uzlovye-elementy-v-ls-prepo/</guid>
+      <description>&lt;p&gt;Малюсенький видеоурок, показывающий как построить 27 узловые Solid элементы в LS-PrePost для дальнейшего расчета в LS-DYNA.&lt;/p&gt;
+&lt;p&gt;А для тех из вас, кому лень возиться с перестроением сетки, в LS-PrePost есть возможность заставить сам решатель в начале расчета перестроить обычные 8-ми узловые Solid элементы в новые 27-ми узловые, просто заменив заголовок карты *ELEMENT_SOLID на *ELEMENT_SOLID_H8TOH27.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0U1rkt8MX6M&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=0U1rkt8MX6M&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Напомню, что 27-ми узловые элементы в LS-DYNA обладают кучей полезных свойств, о которых я уже писал:&lt;/p&gt;
+&lt;p&gt;Работа на скручивание
+Работа в один слой по толщине
+Учет больших деформаций
+Обработка больших искажений сетки
+Сжимаемые и несжимаемые материалы
+Отсутствие эффекта песочных часов
+Отсутствие паразитной жесткости на сдвиг или объемное сжатие&lt;/p&gt;
+&lt;p&gt;Подробности работы элементов и их тестирования можно найти в статье Recent Advances on Higher Order 27-node Hexahedral Element in LS-DYNA
+#H8TOH27 #LS-DYNA #LS-PrePost
+&lt;a href=&#34;https://magicdpd.ru/?p=6087&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6087&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Знакомимся с компанией Karagozian &amp; Case, разработчиком одно</title>
+      <link>http://localhost:1313/posts/2015-09-20-znakomimsya-s-kompaniey-karagozian-case/</link>
+      <pubDate>Sun, 20 Sep 2015 07:00:25 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-20-znakomimsya-s-kompaniey-karagozian-case/</guid>
+      <description>&lt;p&gt;#ls-dyna #concrete&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.kcse.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.kcse.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

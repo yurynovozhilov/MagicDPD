@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Explicit on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/explicit/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Explicit)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 27 Sep 2022 18:00:02 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/explicit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>На прошлой неделе #Ansys выложил учебный курс по явной динам</title>
+      <link>http://localhost:1313/posts/2022-09-27-na-proshloy-nedele-ansys-vylozhil-uchebnyy/</link>
+      <pubDate>Tue, 27 Sep 2022 18:00:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09-27-na-proshloy-nedele-ansys-vylozhil-uchebnyy/</guid>
+      <description>&lt;p&gt;#explicit #LSDYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/PixSNDIzBZ0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/PixSNDIzBZ0&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/oRulOsX7ijk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/oRulOsX7ijk&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/B4-MpbSVxyo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/B4-MpbSVxyo&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/rwf3Xnuveyg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/rwf3Xnuveyg&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/P0WBlXijUoc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/P0WBlXijUoc&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Визуализация в стиле шлирен-метода и теневого фонового метод</title>
+      <link>http://localhost:1313/posts/2021-11-03-vizualizatsiya-v-stile-shliren-metoda-i-ten/</link>
+      <pubDate>Wed, 03 Nov 2021 13:07:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-11-03-vizualizatsiya-v-stile-shliren-metoda-i-ten/</guid>
+      <description>&lt;p&gt;Есть много экспериментов в ходе которых необходима визуализация неоднородность в жидкости или газе. Например, вы хотите посмотреть на ударные полны при сверхзвуковом обтекании или при детонации ВВ. Тога вам на помощь приходит Шлирен-метод (Schlieren photography) и теневой фоновый метода (Shadowgraph).&lt;/p&gt;
+&lt;p&gt;Оба этих метода позволяют получить наглядные черно-белые изображения неоднородностей среды. Но как же быть, если мы выполняем не физический эксперимент, а математическое моделирование? Как получить такую привычную визуализацию и провести наглядное сравнение с данными экспериментаторов?&lt;/p&gt;
+&lt;p&gt;Нам на помощь приходит Paraview, для которого я сегодня нашел инструкцию по реализации процесса визуализации в обоих &amp;ldquo;стилях&amp;rdquo;. Я надеюсь, что в следующих своих работах, связанных с ударными волнами, я уже буду публиковать результаты в таком виде.&lt;/p&gt;
+&lt;p&gt;Ссылка на инструкию по визуализации: curiosityfluids.com/2019/04/28/creating-synthetic-schlieren-and-shadowgraph-images-in-paraview/amp/
+#blast #explicit #paraview
+&lt;a href=&#34;https://tinyurl.com/yze2ssgw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yze2ssgw&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KC-FEMFRE - бессеточный код решения задач разрушения</title>
+      <link>http://localhost:1313/posts/2021-03-10-kc-femfre-bessetochnyy-kod-resheniya-zada/</link>
+      <pubDate>Wed, 10 Mar 2021 13:01:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-03-10-kc-femfre-bessetochnyy-kod-resheniya-zada/</guid>
+      <description>&lt;p&gt;Знаете ли вы, что компания Karagozian &amp;amp; Case, Inc., специализирующаяся на консалтинге для оборонно-промышленного комплекса, компания, создатель одной из самых популярных и точных моделей бетона для LS-DYNA *MAT_CONCRETE_DAMAGE_REL3/*MAT_072R3 также разрабатывается свой собственный расчетный кода!&lt;/p&gt;
+&lt;p&gt;Их детище носит название FEMFRE (Finite Element and MeshFREe solver). Код обладает встроенной базой материалов для расчетов задач разрушения  Extreme Materials Library (ExML), включающую в себя, например, 4-тую версию их модели бетона. Из интересных особенностей - адаптивный бессеточный метод расчета. Пока конструкцию можно считать при помощи МКЭ расчет так и ведется.&lt;/p&gt;
+&lt;p&gt;Но когда разрушения уже не могут быть описаны традиционными сеточными методами система переключаться на бессеточный метод на основе RKPM (Reprodusing Kernel Particel Meshod), являющийся аналогом бессеточных методов Гелеркина, применяемых в LS-DYNA (&lt;a href=&#34;https://ftp.lstc.com/anonymous/outgoing/support/FAQ_kw/concrete/kccm_paper.pdf%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ftp.lstc.com/anonymous/outgoing/support/FAQ_kw/concrete/kccm_paper.pdf)&lt;/a&gt;.  Сайт продукта: &lt;a href=&#34;https://www.kcse.com/home/software/kcfemfre/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.kcse.com/home/software/kcfemfre/&lt;/a&gt; Одна из ранних публикаций по теме: &lt;a href=&#34;https://doi.org/10.1061/%28ASCE%29EM.1943-7889.0000497&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://doi.org/10.1061/(ASCE)EM.1943-7889.0000497&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#concrete #explicit #kcc #meshless
+&lt;a href=&#34;https://tinyurl.com/y86ydvts&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y86ydvts&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Правила переделки LS-DYNA модели из explicit в implicit</title>
+      <link>http://localhost:1313/posts/2021-02-17-pravila-peredelki-ls-dyna-modeli-iz-expl/</link>
+      <pubDate>Wed, 17 Feb 2021 13:01:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-02-17-pravila-peredelki-ls-dyna-modeli-iz-expl/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0pGOwjie_UA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=0pGOwjie_UA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LS-DYNA славится своей способностью моделировать быстропротекающие процессы. Однако, в ней зашиты решатели под гораздо большее число физик. И даже для механики там есть не только explicit, но и более чем полноценный implicit решатель. Данный вебинар покажет, как быстро и правильно перенастроить уже готовкою explicit модель для implicit расчетов. Таким образом, вам не придется менять решатель и думать о том, как пересобрать модель для новой расчетной платформы с учетом ее реализаций материалов, граничных условий и контактов.&lt;/p&gt;
+&lt;p&gt;#ansys #dynamore #explicit #implicit #lsdyna
+&lt;a href=&#34;https://tinyurl.com/ycxued3c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ycxued3c&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Квазистатика, динамика и масштабирование массы</title>
+      <link>http://localhost:1313/posts/2020-06-03-kvazistatika-dinamika-i-masshtabirovanie/</link>
+      <pubDate>Wed, 03 Jun 2020 15:02:03 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-06-03-kvazistatika-dinamika-i-masshtabirovanie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explicit vs. Implicit для самых маленьких</title>
+      <link>http://localhost:1313/posts/2019-11-07-explicit-vs-implicit-dlya-samyh-malenki/</link>
+      <pubDate>Thu, 07 Nov 2019 13:00:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-11-07-explicit-vs-implicit-dlya-samyh-malenki/</guid>
+      <description>&lt;p&gt;#Enterfea #explicit #implicit
+by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>https://www.youtube.com/watch?v=8GmMjVtFT8A</title>
+      <link>http://localhost:1313/posts/2019-10-04-httpswwwyoutubecomwatchv8gmmjvtf/</link>
+      <pubDate>Fri, 04 Oct 2019 13:05:40 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-10-04-httpswwwyoutubecomwatchv8gmmjvtf/</guid>
+      <description>&lt;p&gt;Бомбануло&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как заставить OpenFOAM считать механику в явной постановке</title>
+      <link>http://localhost:1313/posts/2018-10-20-kak-zastavit-openfoam-schitat-mehaniku/</link>
+      <pubDate>Sat, 20 Oct 2018 17:00:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-10-20-kak-zastavit-openfoam-schitat-mehaniku/</guid>
+      <description>&lt;p&gt;Джибран Хайдер (Jibran Haider) опубликовал на GitHub результаты своей работы - проект по созданию explicit решателя механики на базе математики OpenFOAM.&lt;/p&gt;
+&lt;p&gt;Прикольное и необычное использование этого знаменитого открытого кода, который ранее в основном использовался для задач CFD.&lt;/p&gt;
+&lt;p&gt;Естественно, все с окрытым кодом и бесплатно.&lt;/p&gt;
+&lt;p&gt;#Explicit #GitHub #OpenCour #OpenFOAM
+&lt;a href=&#34;http://bit.ly/2CWHxQP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2CWHxQP&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s simulate badminton</title>
+      <link>http://localhost:1313/posts/2018-02-10-lets-simulate-badminton/</link>
+      <pubDate>Sat, 10 Feb 2018 18:01:40 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-02-10-lets-simulate-badminton/</guid>
+      <description>&lt;p&gt;Altair team tresents nice technical demo on badminton racquet dinamics.&lt;/p&gt;
+&lt;img class=&#34;alignnone size-medium wp-image-6228&#34; src=&#34;https://magicdpd.ru/wp-content/uploads/2018/02/badminton-300x240.gif&#34; alt=&#34;&#34; width=&#34;300&#34; height=&#34;240&#34; /&gt;
+&lt;p&gt;The simulation was done with good and mature solver RADIOSS - explicit code from Altair. This case is nothing special from simulation point. But post-processing is really cool. With help of solidThinking Evolve engineers was able to render photorealistic process animation.&lt;/p&gt;
+&lt;p&gt;You could find original post here: &lt;a href=&#34;http://innovationintelligence.com/simulation-badminton-racquet/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://innovationintelligence.com/simulation-badminton-racquet/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I provide link to solidThinking Evolve page also: &lt;a href=&#34;https://solidthinking.com/ProductOverview.aspx?item=Evolve%20Overview&amp;amp;amp;category=Products&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://solidthinking.com/ProductOverview.aspx?item=Evolve%20Overview&amp;amp;category=Products&lt;/a&gt;
+#Altair #Evolve #explicit #RADIOSS #solidThinking
+&lt;a href=&#34;https://wp.me/p9vWYY-1Di&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Di&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Изогеометрический анализ (#IGA, isogeometric analysis) - это</title>
+      <link>http://localhost:1313/posts/2017-12-25-izogeometricheskiy-analiz-iga-isogeome/</link>
+      <pubDate>Mon, 25 Dec 2017 17:11:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-12-25-izogeometricheskiy-analiz-iga-isogeome/</guid>
+      <description>&lt;p&gt;Если кратко, то благодаря использованию особых функций форм и гладкой аппроксимации геометрия решение задачи также получается более гладким, хотя это сказывается на ресурсоемкости задачи.&lt;/p&gt;
+&lt;p&gt;И да, конечно же этот метод уже реализован в LS-DYNA (смотри *ELEMENT_SOLID_NURBS_PATCH + *SECTION_SOLID ELFORM=201), а специфические сетки умеет строить бесплатный LSPP (смотри FEM&amp;gt;Element and Mesh&amp;gt;NURBS 3D Editing). Метод применим как для #explicit, так и для #implicit расчетов и даже для поиска собственных частот.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2DcECzoMediaMedia&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2DcECzoMediaMedia&lt;/a&gt;💾 03_Montanari_University_of_Oxford.pdf&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2DbfSrp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2DbfSrp&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#DYNAMore выпустили отличнейший учебный курс по #LSDYNA для </title>
+      <link>http://localhost:1313/posts/2017-11-07-dynamore-vypustili-otlichneyshiy-uchebnyy/</link>
+      <pubDate>Tue, 07 Nov 2017 17:10:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-11-07-dynamore-vypustili-otlichneyshiy-uchebnyy/</guid>
+      <description>&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;Введение в #LSDYNA и #LSPP&lt;/li&gt;
+&lt;li&gt;Основы МКЭ&lt;/li&gt;
+&lt;li&gt;Решение задачи растяжении болта в #explicit и #implicit постановке&lt;/li&gt;
+&lt;li&gt;Краш анализ в простейшем виде&lt;/li&gt;
+&lt;li&gt;Поиск собственных частот и форм колебаний на примере покрышки&lt;/li&gt;
+&lt;li&gt;Упрочнение и разрушение&lt;/li&gt;
+&lt;li&gt;Преднажтяг болта&lt;/li&gt;
+&lt;li&gt;Идентификация параметров при помощи LS-OPT&lt;/li&gt;
+&lt;li&gt;2D CFD задача&lt;/li&gt;
+&lt;li&gt;3D #FSI ICFD задача&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Вот как надо делать учетные курсы!&lt;/p&gt;
+&lt;p&gt;#ICFD #LSOPT
+&lt;a href=&#34;http://www.dynasupport.com/tutorial/introduction-ls-dyna-ls-prepost-for-explicit-and-implicit-analysis&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynasupport.com/tutorial/introduction-ls-dyna-ls-prepost-for-explicit-and-implicit-analysis&lt;/a&gt; 🔗 Introduction LS-DYNA/LS-PrePost for explicit and implicit analysis — LS-DYNA Support&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>В блоге #Simscale вышла хорошая статья, посвященная критерию</title>
+      <link>http://localhost:1313/posts/2017-09-16-v-bloge-simscale-vyshla-horoshaya-statya/</link>
+      <pubDate>Sat, 16 Sep 2017 17:04:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-09-16-v-bloge-simscale-vyshla-horoshaya-statya/</guid>
+      <description>&lt;p&gt;Пост будет очень полезен всем пользователям CFD, считающим задачи, связанные с конвекцией или волнами. Ну а пользователям #explicit кодов без знаний про CFL даже кнопку solve нажимать нельзя.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.simscale.com/blog/2017/08/cfl-condition/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.simscale.com/blog/2017/08/cfl-condition/&lt;/a&gt; 🔗&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>прочтение данной статьи позволит моим пользователям #LSDYNA </title>
+      <link>http://localhost:1313/posts/2017-09-06-prochtenie-dannoy-stati-pozvolit-moim-po/</link>
+      <pubDate>Wed, 06 Sep 2017 17:04:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-09-06-prochtenie-dannoy-stati-pozvolit-moim-po/</guid>
+      <description>&lt;p&gt;Всем ведущим #explicit расчеты читать обязательно.&lt;/p&gt;
+&lt;p&gt;#mass_scaling&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynasupport.com/howtos/general/mass-scaling&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynasupport.com/howtos/general/mass-scaling&lt;/a&gt; 🔗 Mass scaling — LS-DYNA Support&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Реализации модели RHT (RTH) в LS-DYNA и AUTODYN</title>
+      <link>http://localhost:1313/posts/2017-06-05-realizatsii-modeli-rht-rth-v-ls-dyna-i/</link>
+      <pubDate>Mon, 05 Jun 2017 17:01:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-06-05-realizatsii-modeli-rht-rth-v-ls-dyna-i/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/11th-european-ls-dyna-conference/concrete-penetration/comparison-of-the-rht-concrete-material-model-in-ls-dyna-and-ansys-autodyn/view&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/11th-european-ls-dyna-conference/concrete-penetration/comparison-of-the-rht-concrete-material-model-in-ls-dyna-and-ansys-autodyn/view&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Модель материала для предсказания поведения высокопрочного и сверх высокопрочного бетона #RHT или #RTH является пожалуй одной из самых известных моделей в своей области. Она названа по инициалам ученых, разработавших ее: Riedel, Hiermaier и Thoma.&lt;/p&gt;
+&lt;p&gt;Данная модель реализована как в #LSTC #LSDYNA (*MAT_272), так и в #ANYS #AUTODYN (и в ANSYS #Explicit STR заодно ). Только если в LSD есть еще с десяток моделей-конкурентов, до в AD других моделей бетона нет.&lt;/p&gt;
+&lt;p&gt;Коллеги из немецкой организации #GRS (Gesellschaft für Anlagen- und Reaktorsicherheit (GRS) gGmbH, &lt;a href=&#34;http://www.grs.de/en&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.grs.de/en&lt;/a&gt;) в своей работе провели сравнительный анализ реализаций модели. Получились очень любопытные выводы. Обе реализации сеточнозависимы по показателю разрушения, в AUTODYN еще и некорректно считает трещенообразование при растягивающих нагрузках.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Фотореалистичный рендеринг результатов расчетов</title>
+      <link>http://localhost:1313/posts/2017-05-01-fotorealistichnyy-rendering-rezultatov-r/</link>
+      <pubDate>Mon, 01 May 2017 17:00:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-05-01-fotorealistichnyy-rendering-rezultatov-r/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://innovationintelligence.com/slingshot-topples-cans-simulated-radioss-visualized-rendered-evolve/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://innovationintelligence.com/slingshot-topples-cans-simulated-radioss-visualized-rendered-evolve/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Среди софта, дружественного платформе #Altair, есть очень любопытная система - #solidThinking #Evolve. Эта штуковина не только занимается концептуальным дизайном на основе #NURBS поверхностей, но и позволяет осуществлять рендеринг сцен с анимацией на основе расчетных данных. В качестве примера последнего есть  видео, созданное по данным расчета в #explicit коде #Altair #RADIOSS.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/1rRRd0BfPAc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/1rRRd0BfPAc&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Что вы знаете о странных конечных элементах</title>
+      <link>http://localhost:1313/posts/2016-11-19-chto-vy-znaete-o-strannyh-konechnyh-elemen/</link>
+      <pubDate>Sat, 19 Nov 2016 12:00:52 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-11-19-chto-vy-znaete-o-strannyh-konechnyh-elemen/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/14th-international-ls-dyna-conference/simulation/recent-advances-on-higher-order-27-node-hexahedral-element-in-ls-dyna-r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/14th-international-ls-dyna-conference/simulation/recent-advances-on-higher-order-27-node-hexahedral-element-in-ls-dyna-r&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Все привыкли к тому, что для #implicit расчетов механики оптимальны 20-ти узловые hex элементы, а для #explicit обычно используют 8-ми узловые hex с одной точкой интегрирования. А как вам идея использовать 27 узлов на один элемент?! Свежая статья о новом типе элементов для #LSDYNA, который не только позволяет получить очень хорошие показатели по точности для больших и малых деформаций, но еще и автоматически решает проблему песочных часов (#hourglass). Просто добавь 8 узлов на углах, 12 - на ребрах, 6 - в центрах граней и 1 - в геометрическом центре - получи *ELEMENT_SOLID_H27&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Интересную тему подсказали мне коллеги - штамповка взрывом. </title>
+      <link>http://localhost:1313/posts/2016-07-18-interesnuyu-temu-podskazali-mne-kollegi/</link>
+      <pubDate>Mon, 18 Jul 2016 06:30:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-07-18-interesnuyu-temu-podskazali-mne-kollegi/</guid>
+      <description>&lt;p&gt;Так как задача поставлена в ANSYS Workbech LS-DYNA ACT 17.0, то входной файл получился немного грязный, зато есть параметрический проект.&lt;/p&gt;
+&lt;p&gt;video &lt;a href=&#34;https://www.youtube.com/watch?v=ZplZXHB4knk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ZplZXHB4knk&lt;/a&gt;
+input.k &lt;a href=&#34;http://lnk.al/1ILR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILR&lt;/a&gt;
+ebt.wbpz &lt;a href=&#34;http://lnk.al/1ILQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILQ&lt;/a&gt;
+статья &lt;a href=&#34;http://lnk.al/1ILS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Следом за #ANSYS специальную версию своего программного обес</title>
+      <link>http://localhost:1313/posts/2016-06-22-sledom-za-ansys-spetsialnuyu-versiyu-svoe/</link>
+      <pubDate>Wed, 22 Jun 2016 07:00:29 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-22-sledom-za-ansys-spetsialnuyu-versiyu-svoe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Сегодня в Питере провели небольшой семинар на пол дня по #AN</title>
+      <link>http://localhost:1313/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</link>
+      <pubDate>Thu, 02 Jun 2016 13:58:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</guid>
+      <description>&lt;p&gt;11 докладов по #Mechanical, #Explicit, #CFX, #Fluent, #DesignXplorer, #SpaceClaim, #HPC, #RBD, #ACP, #ACCS и конечно же #AIM!&lt;/p&gt;
+&lt;p&gt;А еще состоялся анонс проекта под рабочим названием #CADFEM #Haze!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Видео урок по гибке/формовке металла в #ABAQUS с учетом пруж</title>
+      <link>http://localhost:1313/posts/2016-03-24-video-urok-po-gibkeformovke-metalla-v/</link>
+      <pubDate>Thu, 24 Mar 2016 12:00:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-03-24-video-urok-po-gibkeformovke-metalla-v/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Видео урок по глубокой вытяжке в #Simulia #Abaqus.</title>
+      <link>http://localhost:1313/posts/2016-03-09-video-urok-po-glubokoy-vytyazhke-v-simuli/</link>
+      <pubDate>Wed, 09 Mar 2016 07:00:48 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-03-09-video-urok-po-glubokoy-vytyazhke-v-simuli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Так и я ныряю в выходные после 6-ти дневной недели.</title>
+      <link>http://localhost:1313/posts/2016-02-21-tak-i-ya-nyryayu-v-vyhodnye-posle-6-ti-dnev/</link>
+      <pubDate>Sun, 21 Feb 2016 07:00:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-02-21-tak-i-ya-nyryayu-v-vyhodnye-posle-6-ti-dnev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Как плетеная ткань удержит пулю - это очень занимательный во</title>
+      <link>http://localhost:1313/posts/2016-02-20-kak-pletenaya-tkan-uderzhit-pulyu-eto-och/</link>
+      <pubDate>Sat, 20 Feb 2016 07:12:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-02-20-kak-pletenaya-tkan-uderzhit-pulyu-eto-och/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Что будет если выстрелить под водой из огнестрельного оружия</title>
+      <link>http://localhost:1313/posts/2016-02-04-chto-budet-esli-vystrelit-pod-vodoy-iz-o/</link>
+      <pubDate>Thu, 04 Feb 2016 18:01:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-02-04-chto-budet-esli-vystrelit-pod-vodoy-iz-o/</guid>
+      <description>&lt;p&gt;Очень красиво получает образование каверны и ее схлопывание, сопровождаемое потерей устойчивости и началом вращения пули. Самое забавное, что пуля имея начальную скорость 950 м/с не пролетает в воде и метра.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>От влекой Сандийской Национальной Лаборатории (#Sandia Natio</title>
+      <link>http://localhost:1313/posts/2016-02-04-ot-vlekoy-sandiyskoy-natsionalnoy-labora/</link>
+      <pubDate>Thu, 04 Feb 2016 07:00:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-02-04-ot-vlekoy-sandiyskoy-natsionalnoy-labora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Невольно вспоминается реклама стирального порошка. Но тут вс</title>
+      <link>http://localhost:1313/posts/2016-01-20-nevolno-vspominaetsya-reklama-stiralnog/</link>
+      <pubDate>Wed, 20 Jan 2016 07:02:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-01-20-nevolno-vspominaetsya-reklama-stiralnog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Моделирование падения капли воды на металлическую мембрану в</title>
+      <link>http://localhost:1313/posts/2015-12-31-modelirovanie-padeniya-kapli-vody-na-meta/</link>
+      <pubDate>Thu, 31 Dec 2015 06:00:17 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-12-31-modelirovanie-padeniya-kapli-vody-na-meta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#ANSYS 17.0 уже близко! Грядет большие количество изменений </title>
+      <link>http://localhost:1313/posts/2015-11-19-ansys-170-uzhe-blizko-gryadet-bolshie-k/</link>
+      <pubDate>Thu, 19 Nov 2015 18:00:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-19-ansys-170-uzhe-blizko-gryadet-bolshie-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Подборка видео выходного дня, которая лучше котиков. Ну ведь</title>
+      <link>http://localhost:1313/posts/2015-10-10-podborka-video-vyhodnogo-dnya-kotoraya-lu/</link>
+      <pubDate>Sat, 10 Oct 2015 09:05:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-10-podborka-video-vyhodnogo-dnya-kotoraya-lu/</guid>
+      <description>&lt;p&gt;Процессы моделируют в эйлеровом домене или методом сглаженных частиц. Решатели очень разные. Тут есть и Autodyn, и LS-DYNA, и Dytran и еще что-то неопознанное.&lt;/p&gt;
+&lt;p&gt;#Autodyn #lsdyna #Dytran #Explicit #SPH #ALE&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Кумулятивный_эффект&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Altair с новой версией своего решателя явной динамики RADIOS</title>
+      <link>http://localhost:1313/posts/2015-10-03-altair-s-novoy-versiey-svoego-reshatelya-ya/</link>
+      <pubDate>Sat, 03 Oct 2015 18:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-03-altair-s-novoy-versiey-svoego-reshatelya-ya/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

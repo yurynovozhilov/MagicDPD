@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boltzmann on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/boltzmann/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Boltzmann)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 21 Nov 2017 17:10:14 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/boltzmann/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lat-Net: Compressing Lattice Boltzmann Flow Simulations usin</title>
+      <link>http://localhost:1313/posts/2017-11-21-lat-net-compressing-lattice-boltzmann-f/</link>
+      <pubDate>Tue, 21 Nov 2017 17:10:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-11-21-lat-net-compressing-lattice-boltzmann-f/</guid>
+      <description>&lt;p&gt;Суть проекта заключается в подмене #CFD расчета методом #Lattice #Boltzmann на нейронную сеть. Причем, если верить авторам, то натренировав нейрону на грубой &amp;ldquo;сетке&amp;rdquo; можно надеются на достаточно точный расчет на мелкой &amp;ldquo;сетке&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Это конечно не супер точный #CFD подход, но зато можно быстро получить оценочное решение вашей задачи экономя ресурсы.&lt;/p&gt;
+&lt;p&gt;#Python #machinelearning #LBM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/loliverhennigh/Phy-Net&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/loliverhennigh/Phy-Net&lt;/a&gt; 🔗 loliverhennigh/Phy-Net&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

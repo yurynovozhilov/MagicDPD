@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MPI on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/mpi/</link>
+    <description>MagicDPD: Magic Driven Product Development! (MPI)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 10 Jun 2019 17:00:30 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/mpi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Расчеты в LS-DYNA на кластерах Windows HPC Cluster</title>
+      <link>http://localhost:1313/posts/2019-06-10-raschety-v-ls-dyna-na-klasterah-windows-h/</link>
+      <pubDate>Mon, 10 Jun 2019 17:00:30 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-06-10-raschety-v-ls-dyna-na-klasterah-windows-h/</guid>
+      <description>&lt;p&gt;DYNAmore выпустили инструкцию по настройке и работе распределённого решетеля LS-DYNA на кластерах под управлением MS Windows HPC Pack 2016. Инструкция полезная, но на самом деле вам достаточно знать следующий набор команд:&lt;/p&gt;
+&lt;p&gt;SET LSTC_MEMORY=auto
+job submit /jobname: /numcores: /workdir:  mpiexec -np   i= jobid=&lt;/p&gt;
+&lt;p&gt;Ну а если вы используете лицензии ANSYS LS-DYNA, то в начало надо добавить еще такое:&lt;/p&gt;
+&lt;p&gt;set LSTC_LICENSE=ANSYS
+set ANSYSLMD_LICENSE_FILE=1055@
+set ANSYSLI_SERVERS=2325@&lt;/p&gt;
+&lt;p&gt;Исходный документ тут: &lt;a href=&#34;https://project.dynamore.se/public/windowscluster12&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://project.dynamore.se/public/windowscluster12&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#HPC #LS_DYNA #MPI #Windows&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2yI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2yI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python FEM и многодисциплинарные расчеты  в FEniCS и FEATool</title>
+      <link>http://localhost:1313/posts/2017-06-21-python-fem-i-mnogodistsiplinarnye-raschety/</link>
+      <pubDate>Wed, 21 Jun 2017 17:00:59 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-06-21-python-fem-i-mnogodistsiplinarnye-raschety/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#FEATool, который позволяет решать задачи методом конечных элементов (#МКЭ) на базе #Matlab, начали взаимодействовать с проектом #FEniCS, который также занимается решением задач в МКЭ припомни #Python и C++. Теперь FEniCS дочтен прямо в GUI FEATool.&lt;/p&gt;
+&lt;p&gt;Говорят, что FEniCS протестирован для работы со СЛАУ размерности 100 миллионов уравнений, а также может работать на 512 CPUs, используя как #MPI, так и #OpenMP. А это существенно больше того, что сейчас может решать FEATool.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>С удивлением для себя узнал, что у #Platform #LSF (Load Shar</title>
+      <link>http://localhost:1313/posts/2016-06-12-s-udivleniem-dlya-sebya-uznal-chto-u-plat/</link>
+      <pubDate>Sun, 12 Jun 2016 07:00:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-12-s-udivleniem-dlya-sebya-uznal-chto-u-plat/</guid>
+      <description>&lt;p&gt;IBM бесплатно предоставляет данную версию HPC Clustre Meanager + Workload Manage + Platfrom MPI + Web UI которая может использоваться на кластерах с 10 узлами. Система способна управлять 1000 заданий!&lt;/p&gt;
+&lt;p&gt;Между прочим 20 узлов - это от 256 до 1024 ядер процессоров в зависимости от архитектуры узлов!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

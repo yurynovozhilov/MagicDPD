@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workbench on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/workbench/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Workbench)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 06 Dec 2022 19:00:01 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/workbench/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Сегодня, 6 декабря 2022 года, компания #Ansys объявила о под</title>
+      <link>http://localhost:1313/posts/2022-12-06-segodnya-6-dekabrya-2022-goda-kompaniya/</link>
+      <pubDate>Tue, 06 Dec 2022 19:00:01 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-12-06-segodnya-6-dekabrya-2022-goda-kompaniya/</guid>
+      <description>&lt;p&gt;DYNAmore поставляет и поддерживает #LSDYNA (отраслевой стандарт для краштестов) для всех ключевых автомобильных компаний европы, что генерирует внушительный поток денег.&lt;/p&gt;
+&lt;p&gt;Однако, стоит отметить, что DYNAmore по умолчанию сидит не на инфраструктуре Ansys - они предпочитают специализированные решения от #BetaCAE (#ANSA, например), #Oasys (#PRIMER, например) и даже #Hexagon (#DIGIMAT, например). А еще у DYNAmore есть и свои разработки, иногда конкурирующие с Ansys: DYNAFORM (привет Ansys Forming), связка LoCo+CAViT+Status.E (привет #Minerva и #EKM), #FEMZIP и куча разных утилит по мельче.&lt;/p&gt;
+&lt;p&gt;Так что инженеров DYNAmore в ближайшие годы ждет интересный процесс борьбы за привычные инструменты и погружения в мир #Workbench. &lt;a href=&#34;https://www.ansys.com/news-center/press-releases/12-6-22-ansys-and-automotive-simulation-leader-dynamore-sign-definitive-acquisition-agreement&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/news-center/press-releases/12-6-22-ansys-and-automotive-simulation-leader-dynamore-sign-definitive-acquisition-agreement&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сегодня я бы хотел высказать пару мыслей про #opensource про</title>
+      <link>http://localhost:1313/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</link>
+      <pubDate>Wed, 14 Sep 2022 18:00:17 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</guid>
+      <description>&lt;p&gt;Итак, #Python внутри экосистемы #Ansys есть очень давно, так почему все вдруг начала говорить про #pyAnsys? Дело в том, что раньше python выступал только в роли некого внутреннего инструмента помощи в постановки задачи. Вы запускали продукты Ansys, и в них уже могли что-то автоматизировать на python.&lt;/p&gt;
+&lt;p&gt;pyAnsys полностью меняет концепцию. У каждого модуля появляется свой #API, который вы можете использовать в вашей #python программе. Ansys тут выступает как вспомогательный инструмент.&lt;/p&gt;
+&lt;p&gt;Например, #pyMAPDL позволяет полностью поставить #FEM задачу и запустить решатель MAPDL, который вообще может быть помещен в #docker контейнер. Обработка данных теперь может производиться единым #pyDPF фреймвоком. Данные между решателями теперь могут передаваться как вы придумаете - ведь у всех них есть свой открытый API! И да, никто не ограничивает вас в возможности совместной работы продуктов Ansys и не Ansys. В стандартных примерах вы сейчас можете найти инструкции для работы с #Gmsh.&lt;/p&gt;
+&lt;p&gt;Я бы сказал, что #pyAnsys - это основа для переосмысления Workbench. Сейчас все связи между модулями #Workbench жестко определенны разработчиками. С pyAnsys вас больше нет таких ограничений, а что еще нужно вам для проведения новых увлекательных расчетов? &lt;a href=&#34;https://docs.pyansys.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://docs.pyansys.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MpCCI - связка любых расчетных кодов для междисциплинарных р</title>
+      <link>http://localhost:1313/posts/2018-11-07-mpcci-svyazka-lyubyh-raschetnyh-kodov-dlya/</link>
+      <pubDate>Wed, 07 Nov 2018 17:01:29 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-11-07-mpcci-svyazka-lyubyh-raschetnyh-kodov-dlya/</guid>
+      <description>&lt;p&gt;Презентация от великого и ужасного общества Fraunhofer по их системе связки любых кодов для выполнения междисциплинарных расчетов. Система поволяет не только дружить ужам и ежам (ANSYS, Abaqus, OpenFOAM, JMAG и прочие), но и осуществляет интерполяцию результатов между разными сетками.&lt;/p&gt;
+&lt;p&gt;Очень полезная штука, если у вас нет ANSYS Workbench и его встроенного System Coupling  :-)
+Сайт программного продукта: https://www.mpcci.de&lt;/p&gt;
+&lt;p&gt;#Fraunhofer #MpCCI #Workbench
+&lt;a href=&#34;http://bit.ly/2PHF2rG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PHF2rG&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Включаем Implicit решатель в Workbench LS-DYNA</title>
+      <link>http://localhost:1313/posts/2018-08-14-vklyuchaem-implicit-reshatel-v-workbench-l/</link>
+      <pubDate>Tue, 14 Aug 2018 18:01:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-08-14-vklyuchaem-implicit-reshatel-v-workbench-l/</guid>
+      <description>&lt;p&gt;Если очень надо, то можно и Workbench LS-DYNA  заставить работать в Implicit режиме. При этом выводятся очень симпатичные невязки. Хотя графики на первых порах были бы приятнее.
+Далее код командного объекта, что включает хороший нелинейный расчет. Будьте очень аккуратны при копировании: даже несмотря на freeformat стиль записи, есть вероятность, что web форматирование может повредить командный блок. Лучше сначала проверьте его в LS-PrePost. Командный объект подготвлен на основе материалов ARUP, найденных в сети в 2017 году.&lt;/p&gt;
+&lt;p&gt;*CONTROL_ACCURACY
+$
+$ OSU – 2nd order objective stress update
+$ = 0 -&amp;gt; Off (default)
+$ = 1 -&amp;gt; On
+$
+$ INN – Invariant node numbering
+$ = 2 -&amp;gt; On for shell and thick shell elements (default for implicit)
+$
+$ IACC – Implicit accuracy flag, turns on some specific accuracy considerations in implicit analysis at an extra CPU cost.
+$ = 0 -&amp;gt; Off (default)
+$ = 1 -&amp;gt; On
+$
+1,2,0,1
+&lt;em&gt;CONTROL_IMPLICIT_AUTO
+$
+$ IAUTO – Automatic time step control
+$ = 0 -&amp;gt; constant time step size (default)
+$ = 1 -&amp;gt; automatically adjusted timestep size
+$
+$ DTMIN – Minimum allowable timestep size (default = DT0/1000)
+$ Simulation stops with error termination, if time step falls below DTMIN
+$
+$ DTMAX – Maximum allowable timestep (default = DT0&lt;/em&gt;10)
+$
+1,11,5,0.0002,0.02
+*CONTROL_IMPLICIT_GENERAL
+$
+$ IMFLAG – Implicit/ Explicit analysis type flag
+$ = 1 -&amp;gt; Implicit analysis
+$
+$ DT0 – Initial time step size for implicit
+$ (default – none)
+$
+$ IMFORM:= Element formulation switching flag
+$ EQ.1: switch to fully integrated formulation for implicit springback
+$ EQ.2: retain original element formulation (default).
+;
+1,0.02,1,1,2
+*CONTROL_IMPLICIT_SOLUTION
+$
+$ NSOLVR – Solution method for implicit analysis
+$ = 2 -&amp;gt; Nonlinear with BFGS updates (obsolete)
+$ = 12 -&amp;gt; (new default from 9.0.1) Nonlinear with BFGS updates
+$ + optional arc length
+$ + different line search and integration schemes compared to solver 2.
+$
+$ DCTOL – Displacement relative convergence tolerance (default = 0.001)
+$
+$ ECTOL – Energy relative convergence tolerance (default = 0.01)
+$
+$ NLPRINT – Nonlinear solver print flag
+$ = 3 -&amp;gt; print iteration, norm and line search info.
+$
+$ D3ITCTL – Controls D3ITER database (default = 0)
+$
+12,11,15,0.001,0.01,1e+010,0.9,1e-010
+2,1,1,3,2
+0,,,1,2
+4,2
+*DATABASE_EXTENT_BINARY
+$
+$ RESPLT – Output of translational and rotational residual forces to d3plot &amp;amp; d3iter.
+$ = 1 -&amp;gt; Output residual
+$
+,,,1,1,1,1,1
+,,,1,1,1,2
+,,,,2,,,
+,1&lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS #ARUP #Implicit #Longread #LSDYNA #SommandSnipet #Workbench
+&lt;a href=&#34;http://bit.ly/2OwQJgD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OwQJgD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как корректно остановить решатель на ходу</title>
+      <link>http://localhost:1313/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</link>
+      <pubDate>Tue, 03 Jul 2018 18:02:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</guid>
+      <description>&lt;p&gt;Есть очень часто встречающаяся задача - запуск решателя в консольном/пакетном режиме для выполнения расчета на рабочей станции или кластере. С этой задачей сталкиваются многие опытные инженеры. Как запускать консольные расчеты хорошо описано в документации, много рассказано на форумах.
+Однако мало кто знает, что практически любой решатель, работающий в фоне, можно корректно остановить с запуском точки рестарта/чекпоинта. Как правило, необходимо создать особый файл в особом месте. Когда решатель его обнаружит, он сам все поймет. Особый файл будет удалён сразу после его обработки. Давайте посмотрим, как это сделать для основных решателей ANSYS.
+Mechanical/APDL:
+В рабочей директории решателя надо создать файл с именем jobname.abt, где jobname - имя проекта. Файл должен содержать только одно слово: nonlinear
+Fluent:
+Для записи файла рестарта (а это просто обычный набор из cas и dat) необходимо создать файл check-fluent в директории /tmp для Linux или check-fluent.txt в директории C:\temp для Windows. Корректно завершить решатель можно, создав в этих директориях файл exit-fluent или exit-fluent.txt соответсвенно.
+CFX:
+C этим решателем все сильно проще. У него есть специальный исполняемый файл cfx5stop, предназначенный для корректной остановки расчета. Таким образом, для проекта mixer_001, достаточно выполнить команду cfx5stop -directory mixer_001.dir в его рабочей директории - там mixer_001.dir будет являться временной рабочей директорией.
+LS-DYNA:
+У этого решателя есть такая штука как SWITCH CONTROLS - в ходе расчета вы можете нажать комбинацию клавиш Control+C и ввести определнный код. Вот те ключевые коды, которые относятся к нашей теме:
+sw1 - записать файл рестарта
+sw2 - вывести оценку оставшегося времени расчета
+sw3 - записать файл рестарта
+Если консоль вам недоступна (расчет идет в фоне), то необходимо создать в рабочей директории решателя файл d3kil (или jobid.d3kil, если вы используете идентификаторы расчетного проекта), содержащий соответсвующий код.
+Autodyn
+Для этого решателя надо создать файл savenow.dat для записи файла рестарта в конце текущей итерации, а файл endbat.dat завершит расчет после окончания текущей итерации.
+Решатели семейства AEDT (ANSYS Electronics Desktop) - бывший Ansoft
+Знающие люди подсказали, что решатели можно спокойно убивать на лету - они сами смогут рестартовать остановленный таким образом расчет с последней записанной итерации.
+ANSYS Workbench
+Если вы пользуетесь ANSYS RSM, то там для всех поддерживаемых решателей уже есть стандартная кнопка Interrupt, которая делает всю вышеописанную магию за вас. Настраивайте RSM и наслаждайтесь :-)&lt;/p&gt;
+&lt;p&gt;#AEDT #ANSYS #Autodyn #CFX #Checkpont #Fluent #HPC #Longread #LSDYNA #Restart #RSM #Workbench
+&lt;a href=&#34;http://bit.ly/2u3rrhp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2u3rrhp&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вебинары по GTAM/GSAM v16 — оптимизация топологии и не тольк</title>
+      <link>http://localhost:1313/posts/2018-05-06-vebinary-po-gtamgsam-v16-optimizatsiya/</link>
+      <pubDate>Sun, 06 May 2018 18:01:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-05-06-vebinary-po-gtamgsam-v16-optimizatsiya/</guid>
+      <description>&lt;p&gt;На случай если вы пропустили данный вебинар, стоит пересмотреть его сейчас. Компания Vanderplaats Research &amp;amp; Development  рассказывает о своих оптимизаторах, встраиваемых в ANSYS Mechanical и существенно расширяющих его возможности. Речь в основном идет об GENESIS Structural Optimization for ANSYS Mechanical (GSAM) и GENESIS Topology Optimization for ANSYS Mechanical (GTAM). GTAM решает только задачи оптимизации топологии, тогда как GSAM умеет еще и такие штуки, как оптимизация по средством морфинга сетки, топографическая оптимизация, оптимизация толщин оболочечных моделей и оптимизация жесткости оболочечных конструкций за счет выштамповок. Скучно не будет, ведь все это может работать с учетом нелинейности на уровне геометрии и свойств материалов! И да, весь софт встраивается в Workbench по средствам ACT.
+#ACT #ANSYS #GENESIS #GSAM #GTAM #Mechanical #optimiziation #Topology #Workbench&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Pr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Pr&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Среди большого набора #ACT расширений для #ANSYS сегодня я н</title>
+      <link>http://localhost:1313/posts/2017-11-14-sredi-bolshogo-nabora-act-rasshireniy-dl/</link>
+      <pubDate>Tue, 14 Nov 2017 17:11:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-11-14-sredi-bolshogo-nabora-act-rasshireniy-dl/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;генерировать геометрию представительных элемент объема композита или ячеек периодичности&lt;/li&gt;
+&lt;li&gt;выполнять прямую КЭ гомогенизации для представительного элемента&lt;/li&gt;
+&lt;li&gt;записывать полученные таким образом эффективные свойства композита прямо в библиотеку материалов проекта #Workbench&lt;/li&gt;
+&lt;li&gt;подбирать рецептуру композита при помощи решения обратной задачи оптимизации (тут нужен #DX, #optiSLang или другой оптимизатор, встраивающийся в Workbench)&lt;/li&gt;
+&lt;li&gt;выполнять задачу локализации - переносить нагрузки с глобальной модели на микроуровень для детального изучения состояния представительного элемента объема&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;И тут почти все бесплатно - деньги просят только в том случае, когда представительный элемент объема композита должен генерироваться псевдослучайным образом (гранулированные композиторы, композиторы с хаотическим армированием).&lt;/p&gt;
+&lt;p&gt;Большое спасибо #Сybernet Systems за такое важное дополнение - это просто #musthave!&lt;/p&gt;
+&lt;p&gt;P.S. В дистрибутиве с дополнением есть 3 видео урока!&lt;/p&gt;
+&lt;p&gt;#composite #Homogenization #композиты
+&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-302&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-302&lt;/a&gt; 🔗 ANSYS Estore&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#молния! Компания #ANSYS в каталоге #ACT расширения размесил</title>
+      <link>http://localhost:1313/posts/2017-10-21-molniya-kompaniya-ansys-v-kataloge-act/</link>
+      <pubDate>Sat, 21 Oct 2017 08:52:30 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-10-21-molniya-kompaniya-ansys-v-kataloge-act/</guid>
+      <description>&lt;p&gt;Однако, мы помним, что аналогичное #TechnologyPreview модуля топологической оптимизации для 17-ой версии стало стандартным модулем в 18-ой версии. Держим кулаки, что бы в 19-ой версии модуль #Additive #Manufacturing стал стабильным компонентом #Workbench.&lt;/p&gt;
+&lt;p&gt;#additivemanufacturing #topology #optimization #3dptinting #APDL&lt;/p&gt;
+&lt;p&gt;Ссылка для бесплатного скачивания для всех пользователей с действующей технической поддержкой:
+&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-318&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-318&lt;/a&gt; 🔗 ANSYS Estore&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Программное обеспечение True-Load в связке с ANSYS Workbench</title>
+      <link>http://localhost:1313/posts/2017-09-21-programmnoe-obespechenie-true-load-v-svyaz/</link>
+      <pubDate>Thu, 21 Sep 2017 16:43:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-09-21-programmnoe-obespechenie-true-load-v-svyaz/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://goo.gl/anVknw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/anVknw&lt;/a&gt;
+В настоящий момент с интеграцией True-Load в интерфейс #ANSYS #Workbench, использование True-Load стало интуитивно понятным для пользователей Workbench. Элементы программного обеспечения True-Load доступны прямо в среде Workbench и могут быть добавлены в дерево построения при производстве расчётов. Инженеры получили мощный и гибкий инструмент для проектирования транспортных машин исходя из реальных уровней напряжений, с которыми эти машины столкнутся в процессе эксплуатации.
+#ansys #TrueLoadMedia&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2xxZQs4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xxZQs4&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Статья - размышление про то, как #ANSYS #Discovery Live помо</title>
+      <link>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</link>
+      <pubDate>Sun, 17 Sep 2017 17:04:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</guid>
+      <description>&lt;p&gt;И тут ключевыми факторами успеха оказывается не только использование самого передового решателя, разработанного совместно с #NVIDIA. Не даром ANSYS очень дружен с разработчиком GPU. Об этом говорят те факты, что #Mechanical #APDL был первым коммерческим #FEM использовавшим #GPU, как и #Fluent - первым коммерческим #CFD использовавшим #GPU&lt;/p&gt;
+&lt;p&gt;Тут еще вспоминается и #SpaceClaim, который выйдя на рынок в 2005 сделал лидеров отстающими. Именно после #SpaceClaim появились такие системы, как #PTC #Creo, #Autodesk #Fusion и концепция #Siemens Synchronous Technology.&lt;/p&gt;
+&lt;p&gt;Сейчас SpaceClaim становиться геометрическим ядром для #Workbench, #AIM и #ANSYS #Discovery.&lt;/p&gt;
+&lt;p&gt;#GPGPU #CUDA
+&lt;a href=&#34;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&lt;/a&gt; 🔗 ANSYS Discovery Live Changes Everything&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS App Builder</title>
+      <link>http://localhost:1313/posts/2017-02-03-ansys-app-builder/</link>
+      <pubDate>Fri, 03 Feb 2017 17:03:01 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-02-03-ansys-app-builder/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=xYJPgdOdD3k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xYJPgdOdD3k&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В #ANSYS 18 появилось такое приложение, как ANSYS App Builder, и, на мой взгляд, это самое крутое нововведение в R18!&lt;/p&gt;
+&lt;p&gt;ANSYS App Builder позволяет создавать #ACT для #Workbench и #AIM прямо в #GUI! Он умеет не только записывать все ваши действия при работе с проектом, но и низкоуровненов редактировать записанный #python журнал и XML описание интефейса.&lt;/p&gt;
+&lt;p&gt;Те из нас, кто пробовали писать свои ACT, поймут, какой пропыв в упращении нашего нелегкого ремесла нас ожидает!
+&lt;a href=&#34;https://www.youtube.com/watch?v=xYJPgdOdD3k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xYJPgdOdD3k&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-DYNA для как генератор обоев рабочего стола</title>
+      <link>http://localhost:1313/posts/2016-11-07-ls-dyna-dlya-kak-generator-oboev-rabochego/</link>
+      <pubDate>Mon, 07 Nov 2016 10:02:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-11-07-ls-dyna-dlya-kak-generator-oboev-rabochego/</guid>
+      <description>&lt;p&gt;Это не баг при визуализации результатов расчетов #ANSYS #Workbench #LSDYNA #ACT - это фича по созданию психоделических обоев для рабочего стола 😄&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Параметризация многошаговых нагрузок в ANSYS</title>
+      <link>http://localhost:1313/posts/2016-10-22-parametrizatsiya-mnogoshagovyh-nagruzok-v-a/</link>
+      <pubDate>Sat, 22 Oct 2016 12:00:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-10-22-parametrizatsiya-mnogoshagovyh-nagruzok-v-a/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Одной из фишек #ANSYS #Workbench является возможность тотальной параметризации всего и вся буквально в один клик. Однако, тут есть досадное упущение: когда вы используете многошаговое нагружение в #Mechanical, вы не можете параметризовать изменение нагрузки на каждом шаге нагружения.&lt;/p&gt;
+&lt;p&gt;Компания Engin Soft исправила это досадное упущение при помощи своего бесплатного #ACT MultiStep Parametric Loads (&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153)&lt;/a&gt;. Они реализовали возможность параметризовать значения граничных условий и условий нагружения на каждом шаге. Первая версия ACT работает с R17.0 и R17.1&lt;/p&gt;
+&lt;p&gt;#enginsoft&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Мои старые-добрые знакомые, Сигма Технология, на днях объяви</title>
+      <link>http://localhost:1313/posts/2016-04-15-moi-starye-dobrye-znakomye-sigma-tehnol/</link>
+      <pubDate>Fri, 15 Apr 2016 07:01:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-04-15-moi-starye-dobrye-znakomye-sigma-tehnol/</guid>
+      <description>&lt;p&gt;Итак, версии 3.3 появились такая долгожданная прямая интеграция с #ANSYS #Workbench через #ACT. Теперь IOSO есть в схематизме проекта, а значит он совместим с ANSYS #RSM и может использовать специальные лицензии для параметрических исследований и оптимизации ANSYS HPC Parametric Pack.
+Кроме ANSYS Сигма технологии уважили и другие продукты - появилась интеграция с  Concepts NREC Turboopt II, FLOW-3D,  SolidWorks, FlowVision.&lt;/p&gt;
+&lt;p&gt;Я с IOSO знаком уже лет 7, и могу сказать, что это очень серьезная штука, во многом уделывающая всех иностранных конкурентов.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EDR Medesо показали одну из возможностей своего ACT Heavy Du</title>
+      <link>http://localhost:1313/posts/2015-10-11-edr-medeso-pokazali-odnu-iz-vozmozhnostey/</link>
+      <pubDate>Sun, 11 Oct 2015 18:00:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-11-edr-medeso-pokazali-odnu-iz-vozmozhnostey/</guid>
+      <description>&lt;p&gt;#ACT #ANSYS #Mechanical #Workbench #EDRMedesо #bolts&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1Q3Fv-7HUZc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=1Q3Fv-7HUZc&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

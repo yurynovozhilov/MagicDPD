@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sandia on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/sandia/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Sandia)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Thu, 23 Sep 2021 15:01:35 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/sandia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Сравнение работы кодов моделирования детонации ВВ</title>
+      <link>http://localhost:1313/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</link>
+      <pubDate>Thu, 23 Sep 2021 15:01:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</guid>
+      <description>&lt;p&gt;Разработчики blastFoam, открытого CFD кода на базе openFoam, специализирующегося на задачах детонации ВВ и распространении ударных волны в воздухе, опубликовали любопытное сравнение. Они смоделировали детонацию сферического заряда тротила в воздухе в бесконечном домене - довольно простая постановка с хорошо известными аналитическими решениями.&lt;/p&gt;
+&lt;p&gt;Моделирование они выполнили в:&lt;/p&gt;
+&lt;p&gt;Ansys Autodyn - код, разработанный когда-то, поглощённой компанией Century Dynamics - заточен под решение задач ОПКAnsys LS-DYNA - код, разработанный, поглощённой компанией LSTC - заточен под решение сильно связанных высоконелинейных задачEUROPLEXUS - или EpX, полуоткрытьй код для моделирования быстропротекающих процессов от французской промышленности, работает на основе моделей, подготовленных для Code_Aster.  CHT - код для моделирования быстропротекающих процессов от Сандийских национальных лабораторийblastFoam, который я уже представил&lt;/p&gt;
+&lt;p&gt;Во всех кодах использовалось уравнение состояния JWL. На мой взгляд, справились все коды примерно одинаково, и, не зная особенностей постановки задачи, времени, затраченного на решение, трудно выбрать лидера.&lt;/p&gt;
+&lt;p&gt;Надо просто иметь в виду, что какие-то из этих кодов могут решать только задачи детонации ВВ с различными уравнениями состояния, некоторые могут применяться для моделирования широкого круга динамических задач, а кто-то может замахнуться и на междисциплинарные расчеты. Так что выбирайте подходящие вам инструменты которым вас могут научить на понятном вам языке.&lt;/p&gt;
+&lt;p&gt;Ссылка на оригинальный пост: &lt;a href=&#34;https://www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #autodyn #blast #blastfoam #cht #europlexus #ls-dyna #open_source #openfoam #sandia
+&lt;a href=&#34;https://tinyurl.com/yzxkzr4r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzxkzr4r&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LayTracks3D — новый алгоритм генерации ALL-HEX сетки</title>
+      <link>http://localhost:1313/posts/2018-05-29-laytracks3d-novyy-algoritm-generatsii-a/</link>
+      <pubDate>Tue, 29 May 2018 18:00:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-05-29-laytracks3d-novyy-algoritm-generatsii-a/</guid>
+      <description>&lt;p&gt;Периодически я просматриваю интернет на тему новых сеточных генераторов для своих задач. Так как в основном я работаю в LS-DYNA, то полностью hex сетка высокого качества мне очень нужна. Конечно, никто не отменял работу с геометрией для подготовки тотального sweep, но эта рутинная работа отнимает очень много времени.&lt;/p&gt;
+&lt;p&gt;На прошедших выходных я набрел на цикл публикаций Сандийских Национальных лабораторий по их алгоритму LayTracks3D. Судя по материалам публикации, данный алгоритм может решить проблему автоматизированного all-hex, если дойдет до коммерческой реализации.
+Презентация: http://cdn2.hubspot.net/hub/35600/file-2445444788-pdf/Quadros.pdf
+Статья раз: https://pdfs.semanticscholar.org/0735/122cb43872b02a4b19aea68fcc22bd0fb934.pdf
+Статья два: https://www.sciencedirect.com/science/article/pii/S1877705814016531
+#allhex #LayTracks3D #mesh #Sandia&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1S2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1S2&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сандийские национальны лаборатории как всегда красиво рааска</title>
+      <link>http://localhost:1313/posts/2018-01-02-sandiyskie-natsionalny-laboratorii-kak-v/</link>
+      <pubDate>Tue, 02 Jan 2018 09:23:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-01-02-sandiyskie-natsionalny-laboratorii-kak-v/</guid>
+      <description>&lt;p&gt;#additive_manufacturing #sandia
+&lt;a href=&#34;https://www.youtube.com/watch?v=YCE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=YCE&lt;/a&gt;…Media📼 Sandia Labs’ Additive Manufacturing Program&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2CcymrG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2CcymrG&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

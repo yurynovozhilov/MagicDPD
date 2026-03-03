@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infiniband on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/infiniband/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Infiniband)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 27 Nov 2017 17:08:07 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/infiniband/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ускорение #ANSYS #Fluent при помощи #GPGU #NVIDIA возможно, </title>
+      <link>http://localhost:1313/posts/2017-11-27-uskorenie-ansys-fluent-pri-pomoschi-gpg/</link>
+      <pubDate>Mon, 27 Nov 2017 17:08:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-11-27-uskorenie-ansys-fluent-pri-pomoschi-gpg/</guid>
+      <description>&lt;p&gt;Как показывают тесты NVIDIA, на одном и том-же пуле лицензии главный #CFD решатель ANSYS может ускориться почти в 4 раза за счет подключения нескольких #Tesla P100. И сейчас мы говорим не про супер компьютер, а про обычный сервер на 32 ядра.&lt;/p&gt;
+&lt;p&gt;Что бы добиться такого же ускорения просто на процессорах вам потребуется уже 4 сервера соединенных по #Infiniband, коммутатор Infiniband, управляющий софт для получившегося кластера и дополнительные лицензий ANSYS на #HPC.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2ACZNhd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ACZNhd&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Хотите собрать сбалансированный вычислительный сервер под расчеты в ANSYS - читайте документацию 😊MediaMedia💾 ANSYS18.2_tech.pdf🔗 Ansys Fluent GPU Acceleration | NVIDIA&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#Mellanox, находясь в лидерах рынка #HPC интерконнекта, не о</title>
+      <link>http://localhost:1313/posts/2017-11-21-mellanox-nahodyas-v-liderah-rynka-hpc/</link>
+      <pubDate>Tue, 21 Nov 2017 15:10:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-11-21-mellanox-nahodyas-v-liderah-rynka-hpc/</guid>
+      <description>&lt;p&gt;Строите кластер для #ANSYS - закладывайте в его основу Mellanox Infiniband.&lt;/p&gt;
+&lt;p&gt;#Infiniband #SocketDirect&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/gzilN_cuhMkMedia&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/gzilN_cuhMkMedia&lt;/a&gt;📼 Eye on Mellanox socket direct&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2zmVfuV&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zmVfuV&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deploying HPC Cluster with Mellanox InfiniBand Interconnect </title>
+      <link>http://localhost:1313/posts/2017-01-18-deploying-hpc-cluster-with-mellanox-infi/</link>
+      <pubDate>Wed, 18 Jan 2017 17:02:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-01-18-deploying-hpc-cluster-with-mellanox-infi/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://vk.com/doc11568_441185555&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/doc11568_441185555&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В очередной раз убедился, что нет лучше пособия по отладке true #HPC кластеров чем эта небольшая брошюрка от #Mellanox. #Infiniband рули, а ссылка на документ чуть ниже в посте.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

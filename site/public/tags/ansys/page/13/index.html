@@ -1,0 +1,984 @@
+<!DOCTYPE html>
+
+
+<html lang="ru" data-theme="">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>Ansys - MagicDPD: Magic Driven Product Development!</title>
+
+<meta name="description" content="Архив постов MagicDPD">
+
+
+
+
+
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/tags/ansys/index.xml" title="MagicDPD: Magic Driven Product Development!" />
+<link rel="icon" type="image/x-icon" href="http://localhost:1313/favicon.ico">
+<link rel="apple-touch-icon-precomposed" href="http://localhost:1313/favicon.png">
+
+
+
+
+    
+
+
+
+<style>
+  body {
+    visibility: hidden;
+    opacity: 0;
+  }
+</style>
+
+<noscript>
+  <style>
+    body {
+      visibility: visible;
+      opacity: 1;
+    }
+  </style>
+</noscript>
+
+
+
+
+    
+
+
+
+
+
+    
+    
+    
+
+    
+        <link rel="stylesheet" href="http://localhost:1313/css/style.6df53fed462bc4d16b8af12236d385b224df2abde195f3f4c3a5c75107b55f23.css" integrity="sha256-bfU/7UYrxNFrivEiNtOFsiTfKr3hlfP0w6XHUQe1XyM=">
+    
+
+
+
+
+
+    
+
+    
+
+
+
+
+
+    
+    
+    
+
+    
+        <script src="http://localhost:1313/js/script.32e751300d2d69e2cb56a98d2c9d964d54a53a8fb7281ccdbd80f055c88e8d86.js" type="text/javascript" charset="utf-8" integrity="sha256-MudRMA0taeLLVqmNLJ2WTVSlOo&#43;3KBzNvYDwVciOjYY="></script>
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+    
+    
+
+    
+        <script src="http://localhost:1313/js/script.ae6fed7c049ecccfe14b288ac5de95ff21548894988f794dbd32df892508579d.js" type="text/javascript" charset="utf-8" integrity="sha256-rm/tfASezM/hSyiKxd6V/yFUiJSYj3lNvTLfiSUIV50="></script>
+    
+
+
+
+
+    
+
+
+
+
+
+    
+    
+    
+
+    
+        <script src="http://localhost:1313/js/script.5c7dcfbdb3bbdea9b02c1872924c97d4b96e9a07adf2c0fa7bde1b3880d09034.js" type="text/javascript" charset="utf-8" integrity="sha256-XH3PvbO73qmwLBhykkyX1Llumget8sD6e94bOIDQkDQ="></script>
+    
+
+
+
+
+
+
+
+
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Перейти к основному контенту</a>
+    <div class="container">
+        <header class="common-header"> 
+            
+                <div class="header-top">
+    <div class="header-top-left">
+        <h1 class="site-title">
+    <a href="/">MagicDPD: Magic Driven Product Development!</a>
+</h1>
+        <ul class="social-icons">
+
+
+    
+        <li>
+            <a href="https://t.me/MagicDPD" title="Telegram" rel="me">
+            <span class="inline-svg" >
+
+
+
+
+    
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm121.8 169.9l-40.7 191.8c-3 13.6-11.1 16.9-22.4 10.5l-62-45.7-29.9 28.8c-3.3 3.3-6.1 6.1-12.5 6.1l4.4-63.1 114.9-103.8c5-4.4-1.1-6.9-7.7-2.5l-142 89.4-61.2-19.1c-13.3-4.2-13.6-13.3 2.8-19.7l239.1-92.2c11.1-4 20.8 2.7 17.2 19.5z"/></svg>
+
+</span>
+
+            </a>
+        </li>
+    
+
+
+
+    <li>
+            <a href="http://localhost:1313/index.xml" title="RSS" rel="me">
+            <span class="inline-svg" >
+
+
+
+
+    
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M128.081 415.959c0 35.369-28.672 64.041-64.041 64.041S0 451.328 0 415.959s28.672-64.041 64.041-64.041 64.04 28.673 64.04 64.041zm175.66 47.25c-8.354-154.6-132.185-278.587-286.95-286.95C7.656 175.765 0 183.105 0 192.253v48.069c0 8.415 6.49 15.472 14.887 16.018 111.832 7.284 201.473 96.702 208.772 208.772.547 8.397 7.604 14.887 16.018 14.887h48.069c9.149.001 16.489-7.655 15.995-16.79zm144.249.288C439.596 229.677 251.465 40.445 16.503 32.01 7.473 31.686 0 38.981 0 48.016v48.068c0 8.625 6.835 15.645 15.453 15.999 191.179 7.839 344.627 161.316 352.465 352.465.353 8.618 7.373 15.453 15.999 15.453h48.068c9.034-.001 16.329-7.474 16.005-16.504z"/></svg>
+
+</span>
+
+            </a>
+        </li>
+    
+
+</ul>
+    </div>
+    <div class="header-top-right">
+        
+
+    
+
+
+
+
+    <div class="theme-switcher">
+        <span class="inline-svg" >
+
+
+
+
+    
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 290 290">
+<path fill="currentColor" d="M142.959,0C64.131,0,0,64.132,0,142.96c0,78.828,64.131,142.959,142.959,142.959c78.828,0,142.96-64.131,142.96-142.959  C285.919,64.132,221.787,0,142.959,0z M142.959,260.919V142.96V25c65.043,0,117.96,52.917,117.96,117.96  C260.919,208.003,208.002,260.919,142.959,260.919z"/>
+</svg>
+
+</span>
+
+    </div>
+
+
+<script>
+const STORAGE_KEY = 'user-color-scheme'
+const defaultTheme = "auto"
+
+let currentTheme
+let switchButton
+let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+const autoChangeScheme = e => {
+    currentTheme = e.matches ? 'dark' : 'light'
+    document.documentElement.setAttribute('data-theme', currentTheme)
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    switchButton = document.querySelector('.theme-switcher')
+    currentTheme = detectCurrentScheme()
+    if (currentTheme == 'dark') {
+        document.documentElement.setAttribute('data-theme', 'dark')
+    }
+    if (currentTheme == 'auto') {
+        autoChangeScheme(autoDefinedScheme);
+        autoDefinedScheme.addListener(autoChangeScheme);
+    }
+
+    if (switchButton) {
+        switchButton.addEventListener('click', switchTheme, false)
+    }
+  
+    showContent()
+})
+
+function detectCurrentScheme() {
+    if (localStorage !== null && localStorage.getItem(STORAGE_KEY)) {
+        return localStorage.getItem(STORAGE_KEY)
+    } 
+    if (defaultTheme) {
+        return defaultTheme
+    } 
+    if (!window.matchMedia) {
+        return 'light'
+    } 
+    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        return 'dark'
+    }
+    return 'light'
+}
+
+function switchTheme(e) {
+    if (currentTheme == 'dark') {
+        if (localStorage !== null)
+            localStorage.setItem(STORAGE_KEY, 'light')
+        document.documentElement.setAttribute('data-theme', 'light')
+        currentTheme = 'light'
+    } else {
+        if (localStorage !== null)
+            localStorage.setItem(STORAGE_KEY, 'dark')
+        document.documentElement.setAttribute('data-theme', 'dark')
+        currentTheme = 'dark'
+    }
+}
+
+function showContent() {
+    document.body.style.visibility = 'visible';
+    document.body.style.opacity = 1;
+}
+</script>
+
+  
+    </div>
+</div>
+
+
+    <nav>
+        
+        
+        <a class="" href="http://localhost:1313/" title="Главная">Главная</a>
+        
+        <a class="" href="http://localhost:1313/archive/" title="Архив постов">Архив</a>
+        
+        <a class="" href="http://localhost:1313/about/" title="О проекте">О проекте</a>
+        
+    </nav>
+
+
+
+
+
+            
+        </header>
+        <main id="main" tabindex="-1"> 
+            
+    <h1>Тег: Ansys</h1>
+    <div class="post-info">
+        <a href="/tags/">К списку тегов</a>
+    </div>
+    
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2017-09-04-suschestvuyut-v-sovremennom-mire-takie-klas/">Существуют в современном мире такие классные штуки, как подк</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>А есть такая классная шутка, как YouTube, где публикуется куча видео, которое, к сожалению, никуда автоматически не скачивается и доступно только online.</p>
+<p>А еще есть замечательный бесплатный сервис <a href="http://podsync.net/" target="_blank" rel="noopener noreferrer">http://podsync.net/</a>, который способен превратить YouTube в подкаст! Благодаря этому сервису вы больше никогда не пропустите ничего интересного. Начнем с подписок полезные каналы:</p>
+<p><a href="http://podsync.net/2xNG" target="_blank" rel="noopener noreferrer">http://podsync.net/2xNG</a> - CADFEM CIS
+<a href="http://podsync.net/myBK" target="_blank" rel="noopener noreferrer">http://podsync.net/myBK</a> - ANSYS Inc
+<a href="http://podsync.net/OxJn" target="_blank" rel="noopener noreferrer">http://podsync.net/OxJn</a> - ANSYS How To Videos
+<a href="http://podsync.net/WZXO" target="_blank" rel="noopener noreferrer">http://podsync.net/WZXO</a> - ANSYS TechTips
+<a href="http://podsync.net/amgD" target="_blank" rel="noopener noreferrer">http://podsync.net/amgD</a> - LS-DYNA Corporate Tutorial &amp; Content</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/posts/2017-09-04-suschestvuyut-v-sovremennom-mire-takie-klas/"><time datetime="2017-09-04">04.09.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2017-09-04-suschestvuyut-v-sovremennom-mire-takie-klas/">http://localhost:1313/posts/2017-09-04-suschestvuyut-v-sovremennom-mire-takie-klas/</a>
+    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="http://localhost:1313/tags/cadfemmedia/">#CADFEMMedia</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/lsdyna/">#Lsdyna</a></li>
+                
+                    
+                    <li><a href="">#подкаст</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/ansys/">#Ansys</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2017-08-29-ansys-autodyn-pozpolyaet-izuchit-protses/">#ANSYS #Autodyn позполяет изучить процессы, протекающие внут</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Видео подготовлено в постпроцессоре #CEI #Ensight, который сейчас уже стал частью #ANSYS.</p>
+<p><a href="https://www.youtube.com/watch?v=n0n" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=n0n</a>…Media📼 416 Barrett with ANSYS Autodyn</p>
+<p><a href="http://ift.tt/2x1uFoY" target="_blank" rel="noopener noreferrer">http://ift.tt/2x1uFoY</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/posts/2017-08-29-ansys-autodyn-pozpolyaet-izuchit-protses/"><time datetime="2017-08-29">29.08.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2017-08-29-ansys-autodyn-pozpolyaet-izuchit-protses/">http://localhost:1313/posts/2017-08-29-ansys-autodyn-pozpolyaet-izuchit-protses/</a>
+    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="http://localhost:1313/tags/cei/">#CEI</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/ansys/">#Ansys</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/ensight/">#Ensight</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2017-08-25-nakonets-to-poyavilsya-podkast-na-temu-cae/">Наконец-то появился подкаст на тему #CAE. Его автором стала</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Я слушаю разные подкасты уже наверное лет 10, и могу сказать, что слушать этот подкаст конечно можно, но удовольствия или полезных знания от него я пока получить не смог. До моего любимого Radio-T ой как далеко. Буду надеяться, что ребята раскачаются и уберут эту ужасную рекламу самих себя.</p>
+<p>#ANSYS</p>
+<p><a href="http://www.padtinc.com/blog/news/the-all-things-ansys-podcast-episode-002-hfss-file-storage-management-with-ekm" target="_blank" rel="noopener noreferrer">http://www.padtinc.com/blog/news/the-all-things-ansys-podcast-episode-002-hfss-file-storage-management-with-ekm</a> 🔗 The All Things ANSYS Podcast – Episode 002 – HFSS, File Storage, &amp; Management with EKM</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/posts/2017-08-25-nakonets-to-poyavilsya-podkast-na-temu-cae/"><time datetime="2017-08-25">25.08.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2017-08-25-nakonets-to-poyavilsya-podkast-na-temu-cae/">http://localhost:1313/posts/2017-08-25-nakonets-to-poyavilsya-podkast-na-temu-cae/</a>
+    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="http://localhost:1313/tags/ansys/">#Ansys</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2017-08-22-predstavlyayu-vam-theorem-solutions-raz/">Представляю вам #Theorem Solutions - разработчика Publish 3D</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>При этом, насколько я понимаю, так как такой формат сертифицирован #Adobe, то для просмотра 3D PDF вам не нужно устанавливать никаких дополнительных плагинов!</p>
+<p>Видео обзор работы ПО: https://youtu.be/50b4IMzbWE0</p>
+<p>Кстати, #ANSYS #SpaceClaim воспринимает 3D PDF как полноценный CAD формат 😊</p>
+<p>#3DPDF #Publish3D
+#magicdpd 🔗 vk.com/wall-97265142_3073</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/posts/2017-08-22-predstavlyayu-vam-theorem-solutions-raz/"><time datetime="2017-08-22">22.08.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2017-08-22-predstavlyayu-vam-theorem-solutions-raz/">http://localhost:1313/posts/2017-08-22-predstavlyayu-vam-theorem-solutions-raz/</a>
+    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="http://localhost:1313/tags/publish3d/">#Publish3D</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/magicdpd/">#Magicdpd</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/3dpdf/">#3DPDF</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/adobe/">#Adobe</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/ansys/">#Ansys</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/spaceclaim/">#SpaceClaim</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2017-08-18-intel-v-blizhayshee-vremya-nachnet-postavki/">#Intel в ближайшее время начнет поставки новых серверных про</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>#ANSYS уже подсуетился и замерил производительность новых процессоров в актуальной версии своего ПО. Тут мы видим до 40% прироста производительности. Магии никакой нет, просто код решателей ANSYS умеет использоваться новый набор векторных инструкций Intel® Advanced Vector Extensions 2 (#AVX2) - шах и мат любителям высокой частоты.</p>
+<p>И да, если вы собираетесь подбирать новое железо, то моя инструкция (ее пункт 11) все еще актуальна: https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/18/ANSYS18.1_tech.pdf</p>
+<p>#HPC <a href="http://www.ansys-blog.com/boost-ansys-performance-intel-technologies/#more-18699" target="_blank" rel="noopener noreferrer">http://www.ansys-blog.com/boost-ansys-performance-intel-technologies/#more-18699</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/posts/2017-08-18-intel-v-blizhayshee-vremya-nachnet-postavki/"><time datetime="2017-08-18">18.08.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2017-08-18-intel-v-blizhayshee-vremya-nachnet-postavki/">http://localhost:1313/posts/2017-08-18-intel-v-blizhayshee-vremya-nachnet-postavki/</a>
+    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="http://localhost:1313/tags/more/">#More</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/avx2/">#AVX2</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/ansys/">#Ansys</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/hpc/">#HPC</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2017-08-14-uchebnoe-video-na-temu-raboty-s-ansys-c/">Учебное видео на тему работы с #ANSYS #Composite #Cure #Simu</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Типичный цикл моделирования выглядит примерно следующим образом:</p>
+<ul>
+<li>Выбор математических моделей материлов из базы #ACCS</li>
+<li>Задание структуры композитной детали в #ACP (#ANSYS #Composite #PrepPost)</li>
+<li>Решение нестационарной задачи теплопроводности (#Transient #Thermal) для описания процесса термической полимеризации в автоклаве</li>
+<li>Решение статической задачи механики (#Static #Structural) для определения деформаций конструкции в следствии теплового расширения и возможной неравномерной полимеризации. <a href="https://youtu.be/HufoH6O1ntM" target="_blank" rel="noopener noreferrer">https://youtu.be/HufoH6O1ntM</a></li>
+</ul>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/posts/2017-08-14-uchebnoe-video-na-temu-raboty-s-ansys-c/"><time datetime="2017-08-14">14.08.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2017-08-14-uchebnoe-video-na-temu-raboty-s-ansys-c/">http://localhost:1313/posts/2017-08-14-uchebnoe-video-na-temu-raboty-s-ansys-c/</a>
+    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="http://localhost:1313/tags/structural/">#Structural</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/preppost/">#PrepPost</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/thermal/">#Thermal</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/transient/">#Transient</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/accs/">#ACCS</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/composite/">#Composite</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/acp/">#ACP</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/ansys/">#Ansys</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/static/">#Static</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2017-08-05-teplovoe-rasshirenie-materiala-v-ansys-me/">Тепловое расширение материала в ANSYS Mechanical</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p><a href="http://www.padtinc.com/blog/the-focus/secant-or-instantaneous-cte-understanding-thermal-expansion-modeling-ansys-mechanical" target="_blank" rel="noopener noreferrer">http://www.padtinc.com/blog/the-focus/secant-or-instantaneous-cte-understanding-thermal-expansion-modeling-ansys-mechanical</a></p>
+<p>#Ликбез от #padtinc на тему работы коэффициента теплового расширения материала в #ANSYS #Mechanical, особенно в случае, когда он зависит от температуры.</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/posts/2017-08-05-teplovoe-rasshirenie-materiala-v-ansys-me/"><time datetime="2017-08-05">05.08.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2017-08-05-teplovoe-rasshirenie-materiala-v-ansys-me/">http://localhost:1313/posts/2017-08-05-teplovoe-rasshirenie-materiala-v-ansys-me/</a>
+    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="http://localhost:1313/tags/mechanical/">#Mechanical</a></li>
+                
+                    
+                    <li><a href="">#Ликбез</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/padtinc/">#Padtinc</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/ansys/">#Ansys</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2017-07-17-istoriya-uspeha-s-kubka-ameriki-po-yahtenn/">История успеха с кубка Америки по яхтенному спорту 2017</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p><a href="http://www.ansys-blog.com/emirates-team-new-zealand-wins-2017-americas-cup/" target="_blank" rel="noopener noreferrer">http://www.ansys-blog.com/emirates-team-new-zealand-wins-2017-americas-cup/</a></p>
+<p>#ANSYS рассказывает о том, как его технологии помогли команде Emirates Team New Zealand победить в самой престижной гонке на скоростных парусных судах. Расчетами занимались инженеры австралийского партнера - компании #LEAP Australia</p>
+<p>Пригодилось много чего:</p>
+<ul>
+<li>ANSYS #Composite PrepPost - композиты</li>
+<li>ANSYS #Mechancial - прочность</li>
+<li>ANSYS #Fluent - аэро и гидродинамика</li>
+<li>ANSYS #DesignXplorer - оптимизация и робастрое проектирование</li>
+</ul>
+<p><a href="https://youtu.be/xXWGSvJRACE" target="_blank" rel="noopener noreferrer">https://youtu.be/xXWGSvJRACE</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/posts/2017-07-17-istoriya-uspeha-s-kubka-ameriki-po-yahtenn/"><time datetime="2017-07-17">17.07.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2017-07-17-istoriya-uspeha-s-kubka-ameriki-po-yahtenn/">http://localhost:1313/posts/2017-07-17-istoriya-uspeha-s-kubka-ameriki-po-yahtenn/</a>
+    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="http://localhost:1313/tags/leap/">#LEAP</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/composite/">#Composite</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/fluent/">#Fluent</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/designxplorer/">#DesignXplorer</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/ansys/">#Ansys</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/mechancial/">#Mechancial</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2017-07-09-vebinar-po-sluchayu-novoy-versii-genesis-s/">Вебинар по случаю новой версии GENESIS Structural Optimizati</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p><a href="http://vrand.com/node/250" target="_blank" rel="noopener noreferrer">http://vrand.com/node/250</a></p>
+<p>13 июля компания Vanderplaats Research &amp; Development, Inc., (VR&amp;D) проведет вебинар по случаю выхода новой версии #GSAM (#GENESIS Structural #Optimization for #ANSYS #Mechanical) - системы топологической оптимизации. Данная система интегрируется с ANSYS Mechanical по средствам #ACT.</p>
+<p>Очень хочется расспросить создателей о их наработках в области нелинейной оптимизации топологии.</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/posts/2017-07-09-vebinar-po-sluchayu-novoy-versii-genesis-s/"><time datetime="2017-07-09">09.07.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2017-07-09-vebinar-po-sluchayu-novoy-versii-genesis-s/">http://localhost:1313/posts/2017-07-09-vebinar-po-sluchayu-novoy-versii-genesis-s/</a>
+    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="http://localhost:1313/tags/gsam/">#GSAM</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/mechanical/">#Mechanical</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/optimization/">#Optimization</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/act/">#ACT</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/topology/">#Topology</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/optimization/">#Optimization</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/ansys/">#Ansys</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/genesis/">#Genesis</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2017-06-30-biblioteka-tehnicheskogo-universiteta-chal/">Библиотека технического университета Чалмерса</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p><a href="http://publications.lib.chalmers.se/" target="_blank" rel="noopener noreferrer">http://publications.lib.chalmers.se/</a></p>
+<p>Технический университет Чалмерса (Chalmers and Technical University of Denmark) обладает очень хорошей открытой библиотекой с публикациями научных работ. И это очень полезно, так как согласно Википедии, в рейтинге Times Higher Education 2005 года Чалмерс указывался как лучший университет Швеции и один из основных исследовательских университетов Европы.</p>
+<p>В библиотеке есть много хороших научных статей подкрепленных расчетами в #LSDYNA, всех кодах #ANSYS и многом другом #CAE софте - изучаем и применяем.</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/posts/2017-06-30-biblioteka-tehnicheskogo-universiteta-chal/"><time datetime="2017-06-30">30.06.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2017-06-30-biblioteka-tehnicheskogo-universiteta-chal/">http://localhost:1313/posts/2017-06-30-biblioteka-tehnicheskogo-universiteta-chal/</a>
+    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="http://localhost:1313/tags/cae/">#CAE</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/lsdyna/">#Lsdyna</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/ansys/">#Ansys</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+    
+    
+    
+    <div class="pagination">
+        <div class="left pagination-item ">
+            
+                <a href="/tags/ansys/page/12/">к новым записям</a>
+            
+        </div>
+        <div class="right pagination-item ">
+            
+                <a href="/tags/ansys/page/14/">к старым записям</a>
+            
+        </div>
+    </div>
+
+
+
+
+        </main>
+        
+            <footer class="common-footer">
+    
+    
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+            <p>© GlukRazor, 2026<br>
+            Движок <a target="_blank" rel="noopener noreferrer" href="https://gohugo.io/">Hugo</a>, тема <a target="_blank" rel="noopener noreferrer" href="https://github.com/mitrichius/hugo-theme-anubis">Anubis</a>.<br>
+            
+            </p>  
+        </div> 
+    </div>
+
+    <p class="h-card vcard">
+
+    <a href=http://localhost:1313/ class="p-name u-url url fn" rel="me">GlukRazor</a> 
+
+    
+
+    
+</p> 
+</footer>
+
+        
+    </div>
+</body>
+</html>

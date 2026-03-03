@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paraview on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/paraview/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Paraview)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 03 Nov 2021 13:07:15 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/paraview/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Визуализация в стиле шлирен-метода и теневого фонового метод</title>
+      <link>http://localhost:1313/posts/2021-11-03-vizualizatsiya-v-stile-shliren-metoda-i-ten/</link>
+      <pubDate>Wed, 03 Nov 2021 13:07:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-11-03-vizualizatsiya-v-stile-shliren-metoda-i-ten/</guid>
+      <description>&lt;p&gt;Есть много экспериментов в ходе которых необходима визуализация неоднородность в жидкости или газе. Например, вы хотите посмотреть на ударные полны при сверхзвуковом обтекании или при детонации ВВ. Тога вам на помощь приходит Шлирен-метод (Schlieren photography) и теневой фоновый метода (Shadowgraph).&lt;/p&gt;
+&lt;p&gt;Оба этих метода позволяют получить наглядные черно-белые изображения неоднородностей среды. Но как же быть, если мы выполняем не физический эксперимент, а математическое моделирование? Как получить такую привычную визуализацию и провести наглядное сравнение с данными экспериментаторов?&lt;/p&gt;
+&lt;p&gt;Нам на помощь приходит Paraview, для которого я сегодня нашел инструкцию по реализации процесса визуализации в обоих &amp;ldquo;стилях&amp;rdquo;. Я надеюсь, что в следующих своих работах, связанных с ударными волнами, я уже буду публиковать результаты в таком виде.&lt;/p&gt;
+&lt;p&gt;Ссылка на инструкию по визуализации: curiosityfluids.com/2019/04/28/creating-synthetic-schlieren-and-shadowgraph-images-in-paraview/amp/
+#blast #explicit #paraview
+&lt;a href=&#34;https://tinyurl.com/yze2ssgw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yze2ssgw&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python для автоматизации работы с ParaView</title>
+      <link>http://localhost:1313/posts/2021-02-05-python-dlya-avtomatizatsii-raboty-s-paravi/</link>
+      <pubDate>Fri, 05 Feb 2021 15:01:40 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-02-05-python-dlya-avtomatizatsii-raboty-s-paravi/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/knWz0LCSgic&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/knWz0LCSgic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#paraview #python
+&lt;a href=&#34;https://tinyurl.com/y5k9hog9&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y5k9hog9&lt;/a&gt;
+by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Фотореалистичный рендеринг результатов расчетов в Blender</title>
+      <link>http://localhost:1313/posts/2020-02-17-fotorealistichnyy-rendering-rezultatov-r/</link>
+      <pubDate>Mon, 17 Feb 2020 13:00:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-02-17-fotorealistichnyy-rendering-rezultatov-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Фотореалистичный рендерин видео в Paraview</title>
+      <link>http://localhost:1313/posts/2019-10-30-fotorealistichnyy-renderin-video-v-paravi/</link>
+      <pubDate>Wed, 30 Oct 2019 18:55:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-10-30-fotorealistichnyy-renderin-video-v-paravi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Использование #SPH для полноценных гидродинамических расчето</title>
+      <link>http://localhost:1313/posts/2017-09-08-ispolzovanie-sph-dlya-polnotsennyh-gidro/</link>
+      <pubDate>Fri, 08 Sep 2017 17:08:26 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-09-08-ispolzovanie-sph-dlya-polnotsennyh-gidro/</guid>
+      <description>&lt;p&gt;Коллеги из #LSTC посчитали простенькую #FSI задачу в #LSDYNA, а потом при помощи #Paraview (бесплатно) реконструировали свободную поверхность и сделали красивый рендер в #VisualSPHysic (бесплатно, #opensource) для #Blender (бесплатно, #opensource).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=HHb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=HHb&lt;/a&gt;…Media📼 LS-DYNA SPH: Flexible impeller pump simulation, Bl…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2xRdHGW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xRdHGW&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Если очень хочется, то можно посчитать все на бесплатном соф</title>
+      <link>http://localhost:1313/posts/2015-08-23-esli-ochen-hochetsya-to-mozhno-poschitat-v/</link>
+      <pubDate>Sun, 23 Aug 2015 17:00:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-08-23-esli-ochen-hochetsya-to-mozhno-poschitat-v/</guid>
+      <description>&lt;p&gt;Пример того, как можно минимизировать затраты на софт: на Ubunut проводится расчет обтекания подводной средствами #OpenFoam. Геометрию готовят в #freeCAD, результаты строят в #ParaView. Верификацию и валидацию расчетных методик проводит конечный пользователь.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

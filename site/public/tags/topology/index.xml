@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topology on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/topology/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Topology)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sat, 05 Mar 2022 17:18:23 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/topology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Оптимизация топологии с помощью LS-TaSC и параметрическая оп</title>
+      <link>http://localhost:1313/posts/2022-03-05-optimizatsiya-topologii-s-pomoschyu-ls-tasc/</link>
+      <pubDate>Sat, 05 Mar 2022 17:18:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-03-05-optimizatsiya-topologii-s-pomoschyu-ls-tasc/</guid>
+      <description>&lt;p&gt;#topology #optimization #LSOPT #LSTaSC #DYNAmore #Ansys &lt;a href=&#34;https://www.youtube.com/watch?v=62CQoY0eOfk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=62CQoY0eOfk&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-TaSC для нелинейной топологической оптимизации в динамиче</title>
+      <link>http://localhost:1313/posts/2021-11-23-ls-tasc-dlya-nelineynoy-topologicheskoy-op/</link>
+      <pubDate>Tue, 23 Nov 2021 15:42:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-11-23-ls-tasc-dlya-nelineynoy-topologicheskoy-op/</guid>
+      <description>&lt;p&gt;Мы все привыкли, что топологическая оптимизация aka генеративный дизайн, это что-то работающее с кучей ограничений: изотропные материалы, малые перемещения, статическая постановка, отсутствие нелинейности в материалах, отсутствие контактов&amp;hellip; Короче говоря, скучная линейная теория упругости в самой базовой постановке. Конечно есть некоторые отдельные дорогие оптимизаторы, которые обещают и нелинейные расчеты, но пробовали ли вы ими пользоваться для реальных задач?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nVJ_7kpAp_A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nVJ_7kpAp_A&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;А вот у Ansys LST есть отдельный бесплатны (для обладателей лицензий на LS-DYNA) топологический оптимизатор LS-TaSC, который изначально создавался для оптимизации моделей под задачи пассивной безопасности автомобилей. А это значит, что он автоматически работает с большими перемещениями, динамическими контактными задачами и нелинейными материалами. Смотрим вебинар про него и наслаждаемся.&lt;/p&gt;
+&lt;p&gt;#ansys #ansys_lst #ls-tasc #lsdyna #lstc #optimization #topology
+&lt;a href=&#34;https://tinyurl.com/yjzdx4v5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yjzdx4v5&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Топологическая оптимизация с учетом анизотропии при печати п</title>
+      <link>http://localhost:1313/posts/2021-11-11-topologicheskaya-optimizatsiya-s-uchetom-aniz/</link>
+      <pubDate>Thu, 11 Nov 2021 14:01:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-11-11-topologicheskaya-optimizatsiya-s-uchetom-aniz/</guid>
+      <description>&lt;p&gt;Anisoprint, люксембургский стартап в области композитной 3D-печати, и Additive Flow, британский разработчик программного обеспечения для AM, встроили в слайсер для 3D печати систему оптимизации топологии, которая, по их словам, должна учитывать анизотропность печатаемого из пластика изделия. Хотя, возможно они имели в виду анизотропию, вызванную печатью композитными материалами. Бета-версия Additive Flow Formflow должна была быть выпущена в прошедшем октябре, однако более подробной информации по ее работе пока найти не удалось.&lt;/p&gt;
+&lt;p&gt;Спасибо за новость моему подписчику, Станиславу Щебетову. Ссылка на новостной источник: &lt;a href=&#34;https://anisoprint.com/blog/anisoprint-additiveflow-launch/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://anisoprint.com/blog/anisoprint-additiveflow-launch/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#additive_manufacturing #optimization #topology
+&lt;a href=&#34;https://tinyurl.com/yhdekurh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yhdekurh&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оптимизация топологии с учетом анизотропии при аддитивном пр</title>
+      <link>http://localhost:1313/posts/2021-09-10-optimizatsiya-topologii-s-uchetom-anizotrop/</link>
+      <pubDate>Fri, 10 Sep 2021 13:02:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-09-10-optimizatsiya-topologii-s-uchetom-anizotrop/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EvSfOMYO_mc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=EvSfOMYO_mc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ParaMatters и Covestro собираются показать их ПО для топологической оптимизации с учетом анизотропии свойств материала, которая неизбежно может появиться при некоторых видах аддитивного производства. Причем на выходе коллеги обещают выдавать не просто геометрию, а сразу g-код для 3D принтера. Презентация ПО пройдет в Zoom 5 и 28 октября. Я посмотрю: &lt;a href=&#34;https://us02web.zoom.us/webinar/register/WN_QslYmKBxQzWn-sz0Z_6PHA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://us02web.zoom.us/webinar/register/WN_QslYmKBxQzWn-sz0Z_6PHA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#additive_manufacturing #covestro #gcode #optimization #paramatters #topology
+&lt;a href=&#34;https://tinyurl.com/ygaaebwl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ygaaebwl&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Лекции по дискретной дифференциальной геометрии</title>
+      <link>http://localhost:1313/posts/2021-04-02-lektsii-po-diskretnoy-differentsialnoy-ge/</link>
+      <pubDate>Fri, 02 Apr 2021 13:02:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-04-02-lektsii-po-diskretnoy-differentsialnoy-ge/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/mas-PUA3OvA?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/mas-PUA3OvA?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Любите учебные курсы? Тогда как вам такое? Согласно википедии, дифференциа́льная геоме́трия и дифференциальная тополо́гия — два смежных раздела математики, которые изучают гладкие многообразия, обычно с дополнительными структурами. Эти два раздела математики почти неразделимы, при этом часто оба раздела вместе называют дифференциальной геометрией.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/8JCR6z3GLVI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/8JCR6z3GLVI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Сегодня я нашел для вас курс, который для нас подготовил Кинан Крейн (Keenan Crane, &lt;a href=&#34;http://www.cs.cmu.edu/~kmcrane/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.cs.cmu.edu/~kmcrane/&lt;/a&gt; - кстати, отличная персональная страница), доцент информатики и робототехники в Университете Карнеги-Меллон (Carnegie Mellon University, CMU).&lt;/p&gt;
+&lt;p&gt;Этот курс сосредоточен работе с трехмерной геометрией, как аналитической, так и дискретной. Основной целью является показать, как фундаментальные геометрические концепции (например, кривизна) могут быть поняты с дополнительной вычислительной и математической точки зрения. Эта двойная перспектива обогащает понимание с обеих сторон и приводит к разработке практических алгоритмов для работы с геометрическими данными реального мира. Курс делает сильный акцент на интуитивном, визуальном понимании, которое дополняет более традиционную формальную, алгебраическую обработку. Курс предоставляет необходимую математическую базу, а также большое количество реальных примеров и приложений. Он также предоставляет краткий обзор последних достижений в области цифровой обработки геометрии и дискретной дифференциальной геометрии.&lt;/p&gt;
+&lt;p&gt;Без этого курса не обойтись разработчикам современных CAD систем, систем 3D анимации и визуализации и конечно же тем, кто хочет написать свой правильный сеточный генератор. Очень жаль, что у меня в свое время такого курса в учебном плане не было. Ссылка на курс, для тех, кому нужны слайды и комментарии: &lt;a href=&#34;https://brickisland.net/DDGSpring2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://brickisland.net/DDGSpring2021/&lt;/a&gt; - там живая лента, по этому первые лекции в самом низу. Если же хотите посмотреть курс запоем, как хороший сериал, то вот ссылка на YouTube плейлист: &lt;a href=&#34;https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#cad #mesh #topology #training
+&lt;a href=&#34;https://tinyurl.com/ygjbzpz9&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ygjbzpz9&lt;/a&gt;
+by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Топологическая оптимизация в изогеометрической постановке</title>
+      <link>http://localhost:1313/posts/2021-03-16-topologicheskaya-optimizatsiya-v-izogeometri/</link>
+      <pubDate>Tue, 16 Mar 2021 13:21:10 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-03-16-topologicheskaya-optimizatsiya-v-izogeometri/</guid>
+      <description>&lt;p&gt;Статья, о которой я сегодня рассуждаю, это очень красивое развитие топологической оптимизации. Итак, для оптимизации топологии у нас есть древний SIMP, который дает дискретные результаты на дискретных моделях, так как играет с псевдоплотностью конечных элементов.&lt;/p&gt;
+&lt;p&gt;У нас есть более модны Level-Set который конструирует некую гладкую функцию, определяющую наличие или отсутствие материала в каждой точке пространства проектирования. Но гладкий Level-Set, приземляясь на дискретную КЭ модель все равно дает &amp;ldquo;ступенчатые&amp;rdquo; и &amp;ldquo;пиксилизированные результаты&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;И тут, автор стати вспоминает про активно развивающийся сейчас метод изогеометрического анализа (IGA, IsoGeometric Analisys) - модификацию МКЭ, использующую NURBS в качестве базисных функций. Таким образом, если приземлить гладкие результаты топологической оптимизации методом Level-Set на гладкое IGA представление КЭ модели, то можно получить более точное решение сразу с гладкой аналитической поверхностью для новой топологии.&lt;/p&gt;
+&lt;p&gt;Ссылка на видео запись доклада: &lt;a href=&#34;https://slideslive.com/38944315/structural-topology-optimization-with-accurate-boundary-representation-using-untrimming-techniques-and-isogeometric-analysis&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://slideslive.com/38944315/structural-topology-optimization-with-accurate-boundary-representation-using-untrimming-techniques-and-isogeometric-analysis&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ссылка на статью: &lt;a href=&#34;https://dx.doi.org/10.13140/RG.2.2.32756.78729&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://dx.doi.org/10.13140/RG.2.2.32756.78729&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #iga #level_set_method #optimization #simp #topology
+&lt;a href=&#34;https://tinyurl.com/yzfdkqxo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzfdkqxo&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оптимизация топологии для ортотропных материалов</title>
+      <link>http://localhost:1313/posts/2020-03-25-optimizatsiya-topologii-dlya-ortotropnyh-ma/</link>
+      <pubDate>Wed, 25 Mar 2020 13:50:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-03-25-optimizatsiya-topologii-dlya-ortotropnyh-ma/</guid>
+      <description>&lt;p&gt;#BetaCAE #composite #Epilysis #optimization #Topology
+by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Лекция по теории топологической оптимизации</title>
+      <link>http://localhost:1313/posts/2019-10-17-lektsiya-po-teorii-topologicheskoy-optimiza/</link>
+      <pubDate>Thu, 17 Oct 2019 13:00:54 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-10-17-lektsiya-po-teorii-topologicheskoy-optimiza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Оптимизация топологии высокого разрешения</title>
+      <link>http://localhost:1313/posts/2019-04-23-optimizatsiya-topologii-vysokogo-razresheni/</link>
+      <pubDate>Tue, 23 Apr 2019 17:00:30 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-04-23-optimizatsiya-topologii-vysokogo-razresheni/</guid>
+      <description>&lt;p&gt;Коллеги разработали алгоритм, способный решать задачи топологической оптимизации на сетке, состоящий из миллиардов элементов (!!!). Правда ресурсов это кушает много. То, что коллеги называют «одной рабочей станцией»,  на самом деле представляет собой 4-х сокетную систему с 12-ти ядерными процессорами Intel E7-4830v4 и 512 Гб памяти. Но все равно, даже на такой машине решение задачи оптимизации топологии с 1E12 элементов за 2,5 часа выглядит очень круто!&lt;/p&gt;
+&lt;p&gt;Текст статьи: &lt;a href=&#34;https://doi.org/10.1145/3272127.3275012&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://doi.org/10.1145/3272127.3275012&lt;/a&gt; — тут описана вся магия и оптимизации.&lt;/p&gt;
+&lt;p&gt;#optimization #Topology&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2ue&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2ue&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оптимизация топологии в ANSYS на GPU — легко!</title>
+      <link>http://localhost:1313/posts/2019-04-12-optimizatsiya-topologii-v-ansys-na-gpu-l/</link>
+      <pubDate>Fri, 12 Apr 2019 17:00:26 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-04-12-optimizatsiya-topologii-v-ansys-na-gpu-l/</guid>
+      <description>&lt;p&gt;Это решение напрашивалось уже давно. Задачи оптимизации топологии обычно очень ресурсоемки — ведь на каждой итерации вам предстоит рассчитать энергию деформации всего расчетного домена, который существенно больше итоговой конструкции. Как ускорить данный процесс?&lt;/p&gt;
+&lt;p&gt;А что, если натравить на решение задачи самый быстрый КЭ решетель на рынке — ANSYS Discovery Live? Ведь он может решать линейные задачи на GPU за считанные секунды!&lt;/p&gt;
+&lt;p&gt;Итак, мы получаем оптимизацию топологии в Discovery Live, которая считает быстрее, чем у других строится анимация по готовым результатам. При этом мы еще получаем сразу гладкий STL файл, благодаря использованию самого передового Level-Set метода. Ну и для проверочного расчета тоже никуда идти не надо: Live c радостью сделает его для вас на основе STL всего за пару секунд.&lt;/p&gt;
+&lt;p&gt;#ANSYS #Discovery #GPU #level_set_method #Live #optimization #Topology&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2tz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2tz&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenLSTO - открытый код оптимизации топологии</title>
+      <link>http://localhost:1313/posts/2019-01-10-openlsto-otkrytyy-kod-optimizatsii-topo/</link>
+      <pubDate>Thu, 10 Jan 2019 17:01:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-01-10-openlsto-otkrytyy-kod-optimizatsii-topo/</guid>
+      <description>&lt;p&gt;Летом 2018 года команда M2DO (Multiscale Multiphysics Design Optimization Laboratory) Калифорнийского университета Сан-Диего представила новый код для решения задач топологической оптимизации OpenLSTO. &lt;/p&gt;
+&lt;p&gt;Результаты 3D оптимизации&lt;/p&gt;
+&lt;p&gt;Название кода расшифровывается как  «open-source software for level set based structural topology optimization», что может быть переведено на русский язык как «программное обеспечение с открытым исходным кодом для топологической оптимизации с использованием метода фиксации уровня».&lt;/p&gt;
+&lt;p&gt;Взаимосвязь между функцией фиксации уровня (снизу) и получаемым контуром (сверху)&lt;/p&gt;
+&lt;p&gt;Подробнее про работу метода на русском можно почитать статью на Хабре: https://habr.com/post/332692/. Данный метод сейчас начинает очень активно применяться при решении задач оптимизации топологии, так как дает хорошие гладкие формы новой геометрии быстро и эффективно. И OpenLSTO, насколько я знаю, первая open source реализация такого подхода.&lt;/p&gt;
+&lt;p&gt;Результаты 2D оптимизации&lt;/p&gt;
+&lt;p&gt;Код, к сожалению, написан на C++. Без его знания вы хороших результатов не добьётесь, так как GUI у кода пока нет — есть только командная строка под *nix совместимыми операционными системами. Ну хоть результаты можно смотреть в ParaView. &lt;/p&gt;
+&lt;p&gt;Домашняя страница проекта: http://m2do.ucsd.edu/software/
+Репозиторий GitHub: https://github.com/M2DOLab/OpenLSTO
+Документация с учебными примерами: http://m2do.ucsd.edu/static/pdf/OpenLSTO-Tutorial-v1.0.pdf&lt;/p&gt;
+&lt;p&gt;#LevelSetMethod #M2DO #OpenSource #OpenLSTO #Optimization #Topology
+&lt;a href=&#34;http://bit.ly/2VLn1bU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2VLn1bU&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учебная статья: Lattice Optimization в ANSYS Mechanical</title>
+      <link>http://localhost:1313/posts/2018-12-07-uchebnaya-statya-lattice-optimization-v-a/</link>
+      <pubDate>Fri, 07 Dec 2018 17:00:17 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-12-07-uchebnaya-statya-lattice-optimization-v-a/</guid>
+      <description>&lt;p&gt;Коллеги из Padtinc написали отличный пост, где пошагово разобран весь процесс Lattice Optimization при помомщи ANSYS Mechanical версии 19.2.
+Тут разобраны все этапы:&lt;/p&gt;
+&lt;p&gt;Постановка прочностного расчета
+Настройка модуля оптимизации
+Просмотр и анализ базовых результатов
+Генерация lattice structure на основе результатов расчётов
+Проверочный расчет&lt;/p&gt;
+&lt;p&gt;How to Use Lattice Optimization in ANSYS Mechanical and ANSYS SpaceClaim 19.2&lt;/p&gt;
+&lt;p&gt;#ANSYS #LatticeStructure #Mechanical #Optimization #Padtinc #Topology
+&lt;a href=&#34;http://bit.ly/2UpSlws&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2UpSlws&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Нелинейная топологическая оптимизация железобетонных констру</title>
+      <link>http://localhost:1313/posts/2018-12-05-nelineynaya-topologicheskaya-optimizatsiya-zhe/</link>
+      <pubDate>Wed, 05 Dec 2018 17:01:39 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-12-05-nelineynaya-topologicheskaya-optimizatsiya-zhe/</guid>
+      <description>&lt;p&gt;Статья, ссылку на которую мне подсказали коллеги из ParaMatters, - это пример сочетания всего того, что я люблю. Судите сами: оптимизация топологии, нелинейные расчеты и железобетон.&lt;/p&gt;
+&lt;p&gt;Хотя вся работа пока далека от прикладного применения, однако получена концепция алгоритма, который показывает, как автоматизированно подбирать положение армирующих элементов в ЖБ конструкциях с учетом нелинейной модели бетона!
+&lt;a href=&#34;https://www.researchgate.net/publication/257526321_Conceptual_design_of_reinforced_concrete_structures_using_topology_optimization_with_elastoplastic_material_modeling&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.researchgate.net/publication/257526321_Conceptual_design_of_reinforced_concrete_structures_using_topology_optimization_with_elastoplastic_material_modeling&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Concrete #Optimization #Topology
+&lt;a href=&#34;http://bit.ly/2PjCoUF&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PjCoUF&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Примеры оптимизации топологии при помощи ParaMatters</title>
+      <link>http://localhost:1313/posts/2018-11-08-primery-optimizatsii-topologii-pri-pomoschi/</link>
+      <pubDate>Thu, 08 Nov 2018 17:01:30 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-11-08-primery-optimizatsii-topologii-pri-pomoschi/</guid>
+      <description>&lt;p&gt;#Optimization #ParaMatters #Topology
+&lt;a href=&#34;http://bit.ly/2RGn5XR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RGn5XR&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Материалы конференции &#34;2018 VR&amp;D Users Conference&#34;</title>
+      <link>http://localhost:1313/posts/2018-10-29-materialy-konferentsii-2018-vrd-users-c/</link>
+      <pubDate>Mon, 29 Oct 2018 17:01:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-10-29-materialy-konferentsii-2018-vrd-users-c/</guid>
+      <description>&lt;p&gt;Компания VR&amp;amp;D (Vanderplaats R&amp;amp;D) выложила в открытый доступ материалы своей главной годовой конференции.&lt;/p&gt;
+&lt;p&gt;Если кто не в курсе, то VR&amp;amp;D - это один из лидеров, если вообще не самый крутой игрок на рынке оптимизации топологии, топографии, формы и все подобного.&lt;/p&gt;
+&lt;p&gt;Их решатель GENESIS не боится геометрических и физических нелинейностей, а так же быстропротекающих процессов - с удовольствием стыкуется с ANSYS и LS-DYNA.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.vrand.com/2018-vrd-users-conference-north-america/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.vrand.com/2018-vrd-users-conference-north-america/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#GENESIS #GTAM #Optimization #Topology #Vrand
+&lt;a href=&#34;http://bit.ly/2Py6tE2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Py6tE2&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Frustum приглашает на вебинар по Generate</title>
+      <link>http://localhost:1313/posts/2018-09-27-frustum-priglashaet-na-vebinar-po-generat/</link>
+      <pubDate>Thu, 27 Sep 2018 17:01:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-09-27-frustum-priglashaet-na-vebinar-po-generat/</guid>
+      <description>&lt;p&gt;Компания Frustum, один из заметных разработчиков движков топологической оптимизации, будет проводить часовой вебинар по новому релизу их системы GENERATE. Для тех кто не в курсе, их математика используется Siemens для оптимизации топологии в NX и SolidEdge.
+Вебинар пройдет во вторник, 9 октября. Время старта - 21:00 по Москве
+&lt;a href=&#34;https://register.gotowebinar.com/register/4044537423651619074?_hsenc=p2ANqtz-9yOaAPDNn3-GgZ2oup6GK0QOnAyR7CEbcbgD96fGT8UBgBejnHQxZG4GQHnt9bacCtcG5mEOVHEW3F_7WuEM-X5IcizA&amp;amp;_hsmi=66162722&amp;amp;hsCtaTracking=a8bae8ab-3ee7-4657-8b27-e542a2110bc2%7Ce40dfb9c-9270-455a-b95e-ffef90c3984e&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://register.gotowebinar.com/register/4044537423651619074?_hsenc=p2ANqtz-9yOaAPDNn3-GgZ2oup6GK0QOnAyR7CEbcbgD96fGT8UBgBejnHQxZG4GQHnt9bacCtcG5mEOVHEW3F_7WuEM-X5IcizA&amp;_hsmi=66162722&amp;hsCtaTracking=a8bae8ab-3ee7-4657-8b27-e542a2110bc2%7Ce40dfb9c-9270-455a-b95e-ffef90c3984e&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Frustum #Generate #NX #Optimization #SolidEdge #Topology
+&lt;a href=&#34;http://bit.ly/2OUnEwd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OUnEwd&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вебинары по GTAM/GSAM v16 — оптимизация топологии и не тольк</title>
+      <link>http://localhost:1313/posts/2018-05-06-vebinary-po-gtamgsam-v16-optimizatsiya/</link>
+      <pubDate>Sun, 06 May 2018 18:01:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-05-06-vebinary-po-gtamgsam-v16-optimizatsiya/</guid>
+      <description>&lt;p&gt;На случай если вы пропустили данный вебинар, стоит пересмотреть его сейчас. Компания Vanderplaats Research &amp;amp; Development  рассказывает о своих оптимизаторах, встраиваемых в ANSYS Mechanical и существенно расширяющих его возможности. Речь в основном идет об GENESIS Structural Optimization for ANSYS Mechanical (GSAM) и GENESIS Topology Optimization for ANSYS Mechanical (GTAM). GTAM решает только задачи оптимизации топологии, тогда как GSAM умеет еще и такие штуки, как оптимизация по средством морфинга сетки, топографическая оптимизация, оптимизация толщин оболочечных моделей и оптимизация жесткости оболочечных конструкций за счет выштамповок. Скучно не будет, ведь все это может работать с учетом нелинейности на уровне геометрии и свойств материалов! И да, весь софт встраивается в Workbench по средствам ACT.
+#ACT #ANSYS #GENESIS #GSAM #GTAM #Mechanical #optimiziation #Topology #Workbench&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Pr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Pr&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оптимизация топологии в рамках Solid Edge</title>
+      <link>http://localhost:1313/posts/2018-03-17-optimizatsiya-topologii-v-ramkah-solid-edg/</link>
+      <pubDate>Sat, 17 Mar 2018 18:00:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-03-17-optimizatsiya-topologii-v-ramkah-solid-edg/</guid>
+      <description>&lt;p&gt;SOLID EDGE ST10 тоже умеет делать оптимизацию топологии и работать в режиме прямого редактирования геометрии задачи. Впрочем, оптимизация топологии тут реализована на базовом уровне.&lt;/p&gt;
+&lt;p&gt;#Optimization #Siemens #SOLID_EDGE #Topology
+&lt;a href=&#34;https://goo.gl/LaJdqh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/LaJdqh&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Live Parts от Desktop Metal - оптимизация топологии конструк</title>
+      <link>http://localhost:1313/posts/2018-03-10-live-parts-ot-desktop-metal-optimizatsi/</link>
+      <pubDate>Sat, 10 Mar 2018 18:02:17 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-03-10-live-parts-ot-desktop-metal-optimizatsi/</guid>
+      <description>&lt;p&gt;Desktop Metal Lab (&lt;a href=&#34;https://labs.desktopmetal.com/liveparts/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://labs.desktopmetal.com/liveparts/&lt;/a&gt;) показали технологию оптимизации формы конструкции в реальном времени!&lt;/p&gt;
+&lt;p&gt;source&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;type&amp;rdquo;:&amp;ldquo;video&amp;rdquo;,&amp;ldquo;tracklist&amp;rdquo;:true,&amp;ldquo;tracknumbers&amp;rdquo;:true,&amp;ldquo;images&amp;rdquo;:true,&amp;ldquo;artists&amp;rdquo;:true,&amp;ldquo;tracks&amp;rdquo;:[&amp;ldquo;src&amp;rdquo;:&amp;ldquo;https://magicdpd.ru/wp-content/uploads/2018/03/source.mp4&amp;rdquo;,&amp;ldquo;type&amp;rdquo;:&amp;ldquo;video/mp4&amp;rdquo;,&amp;ldquo;title&amp;rdquo;:&amp;ldquo;source&amp;rdquo;,&amp;ldquo;caption&amp;rdquo;:&amp;quot;&amp;quot;,&amp;ldquo;description&amp;rdquo;:&amp;quot;&amp;quot;,&amp;ldquo;meta&amp;rdquo;:[],&amp;ldquo;dimensions&amp;rdquo;:&amp;ldquo;original&amp;rdquo;:&amp;ldquo;width&amp;rdquo;:1280,&amp;ldquo;height&amp;rdquo;:720,&amp;ldquo;resized&amp;rdquo;:&amp;ldquo;width&amp;rdquo;:618,&amp;ldquo;height&amp;rdquo;:348,&amp;ldquo;image&amp;rdquo;:&amp;ldquo;src&amp;rdquo;:&amp;ldquo;http://magicdpd.ru/wp-includes/images/media/video.png&amp;rdquo;,&amp;ldquo;width&amp;rdquo;:48,&amp;ldquo;height&amp;rdquo;:64,&amp;ldquo;thumb&amp;rdquo;:&amp;ldquo;src&amp;rdquo;:&amp;ldquo;http://magicdpd.ru/wp-includes/images/media/video.png&amp;rdquo;,&amp;ldquo;width&amp;rdquo;:48,&amp;ldquo;height&amp;rdquo;:64]&lt;/p&gt;
+&lt;p&gt;Уникальная технология позволяет получать облегченные конструкции по принципу как после работы методов топологической оптимизации, но не после долгих расчетов (там форма подбирается сутками), а в реальном времени (!!!). Расчет выполняется на GPU за считанные секунды, а результаты работы алгоритмов визуализируются прямо в процессе. При этом система может работать как со статическими, так и с динамическими условиями нагружения.
+Live Parts доступна в рамках технологического демо для пользователей SOLIDWORKS с 6 февраля 2018 года.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.develop3d.com/blog/2018/02/desktop-metal-launch-live-parts&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.develop3d.com/blog/2018/02/desktop-metal-launch-live-parts&lt;/a&gt;
+P.S. Получилась система, как если бы ANSYS научил свой Discovery Live делать топологическую оптимизаию.&lt;/p&gt;
+&lt;p&gt;#Desktop_Metal #GPU #Optimization #SolidWorks #Topology
+&lt;a href=&#34;https://goo.gl/Bfi1Ua&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/Bfi1Ua&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Топ 10 новых возможностей в SoldWord 2018</title>
+      <link>http://localhost:1313/posts/2018-02-17-top-10-novyh-vozmozhnostey-v-soldword-201/</link>
+      <pubDate>Sat, 17 Feb 2018 10:02:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-02-17-top-10-novyh-vozmozhnostey-v-soldword-201/</guid>
+      <description>&lt;p&gt;Смотрим и наслаждаемся!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оптимизация топологии под чистый изгиб при помощи #ToPy</title>
+      <link>http://localhost:1313/posts/2017-12-23-optimizatsiya-topologii-pod-chistyy-izgib-p/</link>
+      <pubDate>Sat, 23 Dec 2017 17:13:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-12-23-optimizatsiya-topologii-pod-chistyy-izgib-p/</guid>
+      <description>&lt;p&gt;#topology #optimization #opensource
+&lt;a href=&#34;http://www.variousconsequences.com/2017/12/topology-optimization-topy-pure-bending.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.variousconsequences.com/2017/12/topology-optimization-topy-pure-bending.html&lt;/a&gt; 🔗 Topology Optimization with ToPy: Pure Bending&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>А что если научить машину ускорять задачи топологической опт</title>
+      <link>http://localhost:1313/posts/2017-11-24-a-chto-esli-nauchit-mashinu-uskoryat-zadach/</link>
+      <pubDate>Fri, 24 Nov 2017 17:14:52 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-11-24-a-chto-esli-nauchit-mashinu-uskoryat-zadach/</guid>
+      <description>&lt;p&gt;Статья двух русских студентов (Иван Сосновик и Иван Оселедец) посвящена рассказывает про их проект, в котором нейронной сети показывали промежуточные результаты работы алгоритма топологической оптимизации и учили ее угадывать, какой будет итоговый результат. После обучения на 10 000 произвольно сгенерированных задачах для #ToPy нейрона смогла ускорить процесс оптимизации до 20 раз в рассматриваемых примерах!&lt;/p&gt;
+&lt;p&gt;Выборка для тренировки нейроне доступна на #GitHub:
+&lt;a href=&#34;http://ift.tt/2hRdoWE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hRdoWE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Исходная научная статья лежит тут:
+&lt;a href=&#34;http://ift.tt/2A2KoWc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2A2KoWc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#topology #optimization #python #machinelearning #opensourceMediaMedia🔗 [1709.09578] Neural networks for topology optimization&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Компания #Frustum реализовала топологическую оптимизацию в о</title>
+      <link>http://localhost:1313/posts/2017-10-28-kompaniya-frustum-realizovala-topologiche/</link>
+      <pubDate>Sat, 28 Oct 2017 17:08:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-10-28-kompaniya-frustum-realizovala-topologiche/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Так как все работает в облаке/браузере, то можно проворить топологическую оптимизацию не загружая свое железо.&lt;/li&gt;
+&lt;li&gt;Сам оптимизационный код Frustum использует компания #Siemens в своих продуктах для топологической оптимизации.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Полный обзор актуальной версии Frustum Generate 1.4 по ссылке ниже.&lt;/p&gt;
+&lt;p&gt;А теперь немного ворчания от меня. Frustum Generate это очередной движок топологической оптимизации в линейной постановке. Никакого учета больших перемещений, пластики или динамических нагрузок, как, в прочем почти у всех на этом рынке (ключевой слово - почти).&lt;/p&gt;
+&lt;p&gt;#topology #optimization&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.develop3d.com/reviews/review-frustum-generate-1.4-design-tech-topology-optimisation-cloud&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.develop3d.com/reviews/review-frustum-generate-1.4-design-tech-topology-optimisation-cloud&lt;/a&gt; 🔗 DEVELOP3D - Review: Frustum Generate 1.4&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#молния! Компания #ANSYS в каталоге #ACT расширения размесил</title>
+      <link>http://localhost:1313/posts/2017-10-21-molniya-kompaniya-ansys-v-kataloge-act/</link>
+      <pubDate>Sat, 21 Oct 2017 08:52:30 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-10-21-molniya-kompaniya-ansys-v-kataloge-act/</guid>
+      <description>&lt;p&gt;Однако, мы помним, что аналогичное #TechnologyPreview модуля топологической оптимизации для 17-ой версии стало стандартным модулем в 18-ой версии. Держим кулаки, что бы в 19-ой версии модуль #Additive #Manufacturing стал стабильным компонентом #Workbench.&lt;/p&gt;
+&lt;p&gt;#additivemanufacturing #topology #optimization #3dptinting #APDL&lt;/p&gt;
+&lt;p&gt;Ссылка для бесплатного скачивания для всех пользователей с действующей технической поддержкой:
+&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-318&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-318&lt;/a&gt; 🔗 ANSYS Estore&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Коллеги, вы все наслышаны про аддитивное технологии - о ни с</title>
+      <link>http://localhost:1313/posts/2017-10-10-kollegi-vy-vse-naslyshany-pro-additivnoe/</link>
+      <pubDate>Tue, 10 Oct 2017 09:08:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-10-10-kollegi-vy-vse-naslyshany-pro-additivnoe/</guid>
+      <description>&lt;p&gt;Я ищу юного падавана, которого я научу не обычной, а нелинейной (!!!) топологической оптимизации, да еще и для конструкций, подверженных динамическому нагружению. Работать мы будем в LS-TaSС, LS-DYNA и LS-PrePost - полный набор от LSTC.&lt;/p&gt;
+&lt;p&gt;Какие качества я нам понадобится:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;профильное образование для решения задач механики (хорошо бы быть бакалавром и учиться на магистра - если вы не отличаете кинематическое упрочнение от изотропного, то мы с вами не сработаемся)&lt;/li&gt;
+&lt;li&gt;чтение и понимание документации на английском (без этого инженеру вообще никуда)&lt;/li&gt;
+&lt;li&gt;знание МКЭ (ну хоть что-то считали по механике, строили сетки)&lt;/li&gt;
+&lt;li&gt;наличие свободного времени и готовности погрузиться в исследования с головой&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;#topology #optimization #LSPP #LSTaSC #LSDYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/fW_XmemcfYIMediaMedia&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/fW_XmemcfYIMediaMedia&lt;/a&gt;📼 LS-TaSC optimized bottle opener&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2i2qHHf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i2qHHf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Обзор облачного решения от #Altair - #solidThinking #Inspire</title>
+      <link>http://localhost:1313/posts/2017-10-05-obzor-oblachnogo-resheniya-ot-altair-so/</link>
+      <pubDate>Thu, 05 Oct 2017 17:02:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-10-05-obzor-oblachnogo-resheniya-ot-altair-so/</guid>
+      <description>&lt;p&gt;#topology #optimization #cloud&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.develop3d.com/reviews/review-solidthinking-inspire-unlimited-beta-topology-optimisation-design&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.develop3d.com/reviews/review-solidthinking-inspire-unlimited-beta-topology-optimisation-design&lt;/a&gt; 🔗 DEVELOP3D - Review: solidThinking Inspire Unlimited - beta&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Топологическая оптимизация в облаке для Onshape</title>
+      <link>http://localhost:1313/posts/2017-07-17-topologicheskaya-optimizatsiya-v-oblake-dlya/</link>
+      <pubDate>Mon, 17 Jul 2017 09:00:51 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-07-17-topologicheskaya-optimizatsiya-v-oblake-dlya/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.onshape.com/cad-blog/partner-spotlight-generate-brings-advanced-design-topology-optimization-to-cad&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.onshape.com/cad-blog/partner-spotlight-generate-brings-advanced-design-topology-optimization-to-cad&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Компания #Onshape в своем блоге рассказывает о стартапе #Generate, который занимается топологической оптимизацией в браузере/облаке. Картинки у Generate получаются ну очень красивые. А главное, это то, что вам не нужно занимать ваш компьютер ресурсоемкими задачами.&lt;/p&gt;
+&lt;p&gt;До 31 июля ползование Generate бесплатно. У нас есть две недели - время пошло!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вебинар по случаю новой версии GENESIS Structural Optimizati</title>
+      <link>http://localhost:1313/posts/2017-07-09-vebinar-po-sluchayu-novoy-versii-genesis-s/</link>
+      <pubDate>Sun, 09 Jul 2017 09:00:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-07-09-vebinar-po-sluchayu-novoy-versii-genesis-s/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://vrand.com/node/250&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://vrand.com/node/250&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;13 июля компания Vanderplaats Research &amp;amp; Development, Inc., (VR&amp;amp;D) проведет вебинар по случаю выхода новой версии #GSAM (#GENESIS Structural #Optimization for #ANSYS #Mechanical) - системы топологической оптимизации. Данная система интегрируется с ANSYS Mechanical по средствам #ACT.&lt;/p&gt;
+&lt;p&gt;Очень хочется расспросить создателей о их наработках в области нелинейной оптимизации топологии.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Еще немного нелинейной топологической оптимизации</title>
+      <link>http://localhost:1313/posts/2017-05-22-esche-nemnogo-nelineynoy-topologicheskoy-op/</link>
+      <pubDate>Mon, 22 May 2017 17:01:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-05-22-esche-nemnogo-nelineynoy-topologicheskoy-op/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ua76xTK9Wws&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ua76xTK9Wws&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Вот так в 2010 году еще независимая #TOSCA от компании #fedesign уже решала задачи топологической оптимизации в нелинейной постановке.&lt;/p&gt;
+&lt;p&gt;#topology #optmization&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ua76xTK9Wws&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ua76xTK9Wws&lt;/a&gt;
+&lt;a href=&#34;https://link.springer.com/article/10.1007%2Fs001580050089&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://link.springer.com/article/10.1007%2Fs001580050089&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оптимизация топологии на основе моделирования краштетса</title>
+      <link>http://localhost:1313/posts/2017-05-16-optimizatsiya-topologii-na-osnove-modeliro/</link>
+      <pubDate>Tue, 16 May 2017 17:01:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-05-16-optimizatsiya-topologii-na-osnove-modeliro/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.dynamore.de/de/download/papers/ls-dyna-forum-2012/documents/optimization-3-2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.de/de/download/papers/ls-dyna-forum-2012/documents/optimization-3-2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Знаете ли вы, что кроме стандартных алгоритмов метода подвижных асимптот или критерия оптимальности, заложенных в большинство оптимизаторов топологии (например #ANSYS), существуют гораздо более сложные и продвинутые алгоритмы?&lt;/p&gt;
+&lt;p&gt;Вот, например, #DYNAmore провели обзор и сравнения алгоритма #ESL (Equivalent Static Loads) заложенного внутрь #Genesis и #HCA (Hybrid Cellular Automata)  из состава #LSTC LS-TaSC (#LSTASC).&lt;/p&gt;
+&lt;p&gt;Среди фишек данных методов - возможность работы с динамическими нагрузками, нелинейными материалами и учетом больших перемещений.&lt;/p&gt;
+&lt;p&gt;#topology #optimization&lt;/p&gt;
+&lt;p&gt;P.S. LS-TaSC бесплатный софт для тех, у кого есть #LSDYNA :-)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новый оптимизационный софт от Vanderplaats R&amp;D</title>
+      <link>http://localhost:1313/posts/2017-03-31-novyy-optimizatsionnyy-soft-ot-vanderplaa/</link>
+      <pubDate>Fri, 31 Mar 2017 17:01:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-03-31-novyy-optimizatsionnyy-soft-ot-vanderplaa/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://vrand.com/node/244&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://vrand.com/node/244&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Vanderplaats R&amp;amp;D выкатили новые версии #GENESIS и Design Studio. Тут очень много всего по нестандартной оптимизации - чего только стоит топологическая оптимизация для задач теплопроводности.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Топологическая оптимизация в задачах акустики</title>
+      <link>http://localhost:1313/posts/2016-11-13-topologicheskaya-optimizatsiya-v-zadachah-aku/</link>
+      <pubDate>Sun, 13 Nov 2016 12:04:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-11-13-topologicheskaya-optimizatsiya-v-zadachah-aku/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.comsol.com/blogs/how-to-use-acoustic-topology-optimization-in-your-simulation-studies/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.comsol.com/blogs/how-to-use-acoustic-topology-optimization-in-your-simulation-studies/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Comsol в своем блоге написал хорошую статью, содержащую не только основы постановок задачи топологической оптимизации в классическом ее понимании (для конструкций несущих нагрузку), но и сделал небольшое отступление в область акустики. Коллеги показали, что можно переформулировать топологическую оптимизацию для получения акустически оптимальных конструкций, воде направленных излучателей.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>5 основных ошибок при топологической оптимизации</title>
+      <link>http://localhost:1313/posts/2016-10-30-5-osnovnyh-oshibok-pri-topologicheskoy-opt/</link>
+      <pubDate>Sun, 30 Oct 2016 12:00:49 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-10-30-5-osnovnyh-oshibok-pri-topologicheskoy-opt/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://innovationintelligence.com/thought-leader-thursday-five-common-mistakes-made-running-topology-optimization/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://innovationintelligence.com/thought-leader-thursday-five-common-mistakes-made-running-topology-optimization/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Altair подготовил набор самых часто допускаемых ошибок при решении задач топологической оптимизации. Сама тема #Topology #Optimisaztion сейчас стоит очень остро - на прошедшем #ACUM все только про нее и говорили. Так что читаем, и пробуем перенять чужой опыт!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вероятностный подходи к топологической оптимизации</title>
+      <link>http://localhost:1313/posts/2016-08-23-veroyatnostnyy-podhodi-k-topologicheskoy-o/</link>
+      <pubDate>Tue, 23 Aug 2016 06:30:25 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-08-23-veroyatnostnyy-podhodi-k-topologicheskoy-o/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.ntopology.com/element-pro&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ntopology.com/element-pro&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В новой версии Element Pro (специализированного средства топологической оптимизации и генерации ферменных структур) от компании #nTopology появилась возможность создания Стохастических структур. За подробностями проследуйте по ссылке:https://www.linkedin.com/pulse/stochastic-structures-ntopology-element-spencer-wright&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Восстановление аналитической геометрии по STL в SpaceClaim</title>
+      <link>http://localhost:1313/posts/2016-08-21-vosstanovlenie-analiticheskoy-geometrii-p/</link>
+      <pubDate>Sun, 21 Aug 2016 06:30:25 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-08-21-vosstanovlenie-analiticheskoy-geometrii-p/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.spaceclaim.com/en/Solutions/ReverseEngineering.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.spaceclaim.com/en/Solutions/ReverseEngineering.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Похоже, что у #ANSYS #SpaceClaim Direct Modeller (#SCDM) есть ответ технологиям #PolyNURBS, заложеным в #solidThinking. Надо только уметь ими пользоваться: функционал по богаче, да настроек по более.&lt;/p&gt;
+&lt;p&gt;А мне прямо сейчас ох как надо восстановить нормальную геометрию на основе #STL резуьтатов топологической оптимизации.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сегодня, в 16:00 по Москве, ирландский #CADFEM устраивает бе</title>
+      <link>http://localhost:1313/posts/2016-07-05-segodnya-v-1600-po-moskve-irlandskiy/</link>
+      <pubDate>Tue, 05 Jul 2016 06:30:56 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-07-05-segodnya-v-1600-po-moskve-irlandskiy/</guid>
+      <description>&lt;p&gt;#AM #Topology #Optimization &lt;a href=&#34;http://www.cadfemukandireland.com/event_date/ansys-topological-optimisation/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.cadfemukandireland.com/event_date/ansys-topological-optimisation/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>На фоне бума аддитивных технологий издательство #Springer сд</title>
+      <link>http://localhost:1313/posts/2016-06-29-na-fone-buma-additivnyh-tehnologiy-izdat/</link>
+      <pubDate>Wed, 29 Jun 2016 11:01:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-29-na-fone-buma-additivnyh-tehnologiy-izdat/</guid>
+      <description>&lt;p&gt;Специально для тех, кто не хочет стоить велосипеды, а действительно хочет разобраться в вопросе.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#PADTInc подготовили хороший обзор программных средств для ж</title>
+      <link>http://localhost:1313/posts/2016-06-27-padtinc-podgotovili-horoshiy-obzor-progr/</link>
+      <pubDate>Mon, 27 Jun 2016 07:00:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-27-padtinc-podgotovili-horoshiy-obzor-progr/</guid>
+      <description>&lt;p&gt;#SpaceClaim #GeomagicDesignX #Topology #Optimization #Altair #SolidThinking Inspire #Autodesk #Within #Altair #OptiStruct #Simpleware #Pan #Lattice #ANSYS&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Нам надо больше бесплатной топологической оптимизации!!!</title>
+      <link>http://localhost:1313/posts/2016-06-22-nam-nado-bolshe-besplatnoy-topologichesko/</link>
+      <pubDate>Wed, 22 Jun 2016 12:02:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-22-nam-nado-bolshe-besplatnoy-topologichesko/</guid>
+      <description>&lt;p&gt;Компания Virtual.PYXIS совместно с #ESSS выкатила бесплатное #ACT для #topology #optimization прямо в #ANSYS ACT Applications Store! На первый взгляд, данное расширение сдано несколько более качественно чем родное расширение от ANSYS, оно лучше выводит статистику по процессу оптимизации, позволяет задавать веса условиям нагружения. И да, чуть не забыл, у него есть возможность использовать #HPC в отличие от родного ACT - процесс оптимизации требует раз 10 - 20 прогнать решение вашей задачи, так что оперативной ресурсы потребуются.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оказывается я не угадал программный продукт, при помощи кото</title>
+      <link>http://localhost:1313/posts/2016-06-21-okazyvaetsya-ya-ne-ugadal-programmnyy-prod/</link>
+      <pubDate>Tue, 21 Jun 2016 07:00:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-21-okazyvaetsya-ya-ne-ugadal-programmnyy-prod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Пример расчета результатов топологической оптимизации #nTopo</title>
+      <link>http://localhost:1313/posts/2016-06-06-primer-rascheta-rezultatov-topologichesko/</link>
+      <pubDate>Mon, 06 Jun 2016 13:34:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-06-primer-rascheta-rezultatov-topologichesko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Продолжая тему #nTopology и #Autodesk #Within вспомним про м</title>
+      <link>http://localhost:1313/posts/2016-06-03-prodolzhaya-temu-ntopology-i-autodesk-w/</link>
+      <pubDate>Fri, 03 Jun 2016 07:00:29 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-03-prodolzhaya-temu-ntopology-i-autodesk-w/</guid>
+      <description>&lt;p&gt;Система работает так: проводится топологическая оптимизация и из ее результатов извлекается геометрия по изоповерхности псевдоплотности, скажем, 0.5. Далее все элементы с псевдоплотностью, скажем, от 0.5 до 0.8 заменяются пространственной сеткой из балочных элементов, толщины которых подбираются отдельно или на основе данных распределения псевдоплотности.&lt;/p&gt;
+&lt;p&gt;#Altair говорит, что пока этот подход имеет сильную сеточную зависимость. Надеюсь они ее скоро победят.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вы наверняка слышали про электрический мотоцикл Lingt Rider </title>
+      <link>http://localhost:1313/posts/2016-05-30-vy-navernyaka-slyshali-pro-elektricheskiy-m/</link>
+      <pubDate>Mon, 30 May 2016 08:02:48 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-05-30-vy-navernyaka-slyshali-pro-elektricheskiy-m/</guid>
+      <description>&lt;p&gt;Но мне намного больше интересно программное обеспечение, применяемое при проектировании подобных конструкций. В случае Lignt Rider это не топологическая оптимизация. Это подход, названный в #Autodesk &amp;ldquo;Generative design&amp;rdquo;. Такой подход к моделированию легковесных конструкций реализован в ПО Autodesk #Within и очень напоминает по духу разработки компании #nTopology.&lt;/p&gt;
+&lt;p&gt;Чувствую, что грядет новый виток в развитии средств создания конструкций оптимальной топологии.&lt;/p&gt;
+&lt;p&gt;#optimization #topology
+Мартиалы по теме &lt;a href=&#34;https://geektimes.ru/post/276160/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://geektimes.ru/post/276160/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Мне одному кажется, что методы компании #nTopology - это нов</title>
+      <link>http://localhost:1313/posts/2016-05-28-mne-odnomu-kazhetsya-chto-metody-kompanii/</link>
+      <pubDate>Sat, 28 May 2016 07:01:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-05-28-mne-odnomu-kazhetsya-chto-metody-kompanii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#Morphogenesis, носящий ныне имя #Altair #solidThinking Insp</title>
+      <link>http://localhost:1313/posts/2016-05-12-morphogenesis-nosyaschiy-nyne-imya-altair/</link>
+      <pubDate>Thu, 12 May 2016 07:03:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-05-12-morphogenesis-nosyaschiy-nyne-imya-altair/</guid>
+      <description>&lt;p&gt;Ведь это была моя мечта - сделать гладкую, почти #CAD, геометрию на основе результатов топологической оптимизации. А PolyNURBS взял и реализовал ее!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#Altair в своем #solidThinking Inspire 2016 добавил ще одну </title>
+      <link>http://localhost:1313/posts/2016-03-21-altair-v-svoem-solidthinking-inspire-2/</link>
+      <pubDate>Mon, 21 Mar 2016 07:00:53 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-03-21-altair-v-svoem-solidthinking-inspire-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ACT on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/act/</link>
+    <description>MagicDPD: Magic Driven Product Development! (ACT)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 13 Mar 2019 12:00:42 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/act/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CivilFEM APPs for ANSYS Workbench доступен в каталоге ACT</title>
+      <link>http://localhost:1313/posts/2019-03-13-civilfem-apps-for-ansys-workbench-dostup/</link>
+      <pubDate>Wed, 13 Mar 2019 12:00:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-03-13-civilfem-apps-for-ansys-workbench-dostup/</guid>
+      <description>&lt;p&gt;Версия CivilFEM для Workbench теперь доступна в официальном каталоге ACT расширений ANSYS. Программа поделена сразу на два отдельных модуля: «Eurocode Check &amp;amp; Design» и «AISC/ACI Check &amp;amp; Design» — по запросу «CivilFEM» найти эти расширения почему-то нельзя.&lt;/p&gt;
+&lt;p&gt;Eurocode Check &amp;amp; Design: &lt;a href=&#34;https://catalog.ansys.com/product/5c800590393ff66ca0d507aa/eurocode-check-des&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://catalog.ansys.com/product/5c800590393ff66ca0d507aa/eurocode-check-des&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AISC/ACI Check &amp;amp; Design: &lt;a href=&#34;https://catalog.ansys.com/product/5c80073a393ff66ca0d507b2/aisc-aci-check-des&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://catalog.ansys.com/product/5c80073a393ff66ca0d507b2/aisc-aci-check-des&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS #CivilFEM #Ingeciber&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2pj&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2pj&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Определение усталостной долговечности для термомеханических </title>
+      <link>http://localhost:1313/posts/2019-02-11-opredelenie-ustalostnoy-dolgovechnosti-dl/</link>
+      <pubDate>Mon, 11 Feb 2019 12:00:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-02-11-opredelenie-ustalostnoy-dolgovechnosti-dl/</guid>
+      <description>&lt;p&gt;В магазине ACT-расширений ANSYS недавно появилось приложение для расчетов на усталость для термомеханических задач по LCF. Теория и ссылка на источники внутри.&lt;/p&gt;
+&lt;p&gt;Может скоро появится в основном функционале Fatigue?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://catalog.ansys.com/product/5bd702e5393ff657fc70de9e/thermo-mechanical#download&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://catalog.ansys.com/product/5bd702e5393ff657fc70de9e/thermo-mechanical#download&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS #CAE #Fatigue #thermal&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2hW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2hW&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Ян Поженько&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Включаем Implicit решатель в Workbench LS-DYNA</title>
+      <link>http://localhost:1313/posts/2018-08-14-vklyuchaem-implicit-reshatel-v-workbench-l/</link>
+      <pubDate>Tue, 14 Aug 2018 18:01:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-08-14-vklyuchaem-implicit-reshatel-v-workbench-l/</guid>
+      <description>&lt;p&gt;Если очень надо, то можно и Workbench LS-DYNA  заставить работать в Implicit режиме. При этом выводятся очень симпатичные невязки. Хотя графики на первых порах были бы приятнее.
+Далее код командного объекта, что включает хороший нелинейный расчет. Будьте очень аккуратны при копировании: даже несмотря на freeformat стиль записи, есть вероятность, что web форматирование может повредить командный блок. Лучше сначала проверьте его в LS-PrePost. Командный объект подготвлен на основе материалов ARUP, найденных в сети в 2017 году.&lt;/p&gt;
+&lt;p&gt;*CONTROL_ACCURACY
+$
+$ OSU – 2nd order objective stress update
+$ = 0 -&amp;gt; Off (default)
+$ = 1 -&amp;gt; On
+$
+$ INN – Invariant node numbering
+$ = 2 -&amp;gt; On for shell and thick shell elements (default for implicit)
+$
+$ IACC – Implicit accuracy flag, turns on some specific accuracy considerations in implicit analysis at an extra CPU cost.
+$ = 0 -&amp;gt; Off (default)
+$ = 1 -&amp;gt; On
+$
+1,2,0,1
+&lt;em&gt;CONTROL_IMPLICIT_AUTO
+$
+$ IAUTO – Automatic time step control
+$ = 0 -&amp;gt; constant time step size (default)
+$ = 1 -&amp;gt; automatically adjusted timestep size
+$
+$ DTMIN – Minimum allowable timestep size (default = DT0/1000)
+$ Simulation stops with error termination, if time step falls below DTMIN
+$
+$ DTMAX – Maximum allowable timestep (default = DT0&lt;/em&gt;10)
+$
+1,11,5,0.0002,0.02
+*CONTROL_IMPLICIT_GENERAL
+$
+$ IMFLAG – Implicit/ Explicit analysis type flag
+$ = 1 -&amp;gt; Implicit analysis
+$
+$ DT0 – Initial time step size for implicit
+$ (default – none)
+$
+$ IMFORM:= Element formulation switching flag
+$ EQ.1: switch to fully integrated formulation for implicit springback
+$ EQ.2: retain original element formulation (default).
+;
+1,0.02,1,1,2
+*CONTROL_IMPLICIT_SOLUTION
+$
+$ NSOLVR – Solution method for implicit analysis
+$ = 2 -&amp;gt; Nonlinear with BFGS updates (obsolete)
+$ = 12 -&amp;gt; (new default from 9.0.1) Nonlinear with BFGS updates
+$ + optional arc length
+$ + different line search and integration schemes compared to solver 2.
+$
+$ DCTOL – Displacement relative convergence tolerance (default = 0.001)
+$
+$ ECTOL – Energy relative convergence tolerance (default = 0.01)
+$
+$ NLPRINT – Nonlinear solver print flag
+$ = 3 -&amp;gt; print iteration, norm and line search info.
+$
+$ D3ITCTL – Controls D3ITER database (default = 0)
+$
+12,11,15,0.001,0.01,1e+010,0.9,1e-010
+2,1,1,3,2
+0,,,1,2
+4,2
+*DATABASE_EXTENT_BINARY
+$
+$ RESPLT – Output of translational and rotational residual forces to d3plot &amp;amp; d3iter.
+$ = 1 -&amp;gt; Output residual
+$
+,,,1,1,1,1,1
+,,,1,1,1,2
+,,,,2,,,
+,1&lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS #ARUP #Implicit #Longread #LSDYNA #SommandSnipet #Workbench
+&lt;a href=&#34;http://bit.ly/2OwQJgD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OwQJgD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вебинары по GTAM/GSAM v16 — оптимизация топологии и не тольк</title>
+      <link>http://localhost:1313/posts/2018-05-06-vebinary-po-gtamgsam-v16-optimizatsiya/</link>
+      <pubDate>Sun, 06 May 2018 18:01:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-05-06-vebinary-po-gtamgsam-v16-optimizatsiya/</guid>
+      <description>&lt;p&gt;На случай если вы пропустили данный вебинар, стоит пересмотреть его сейчас. Компания Vanderplaats Research &amp;amp; Development  рассказывает о своих оптимизаторах, встраиваемых в ANSYS Mechanical и существенно расширяющих его возможности. Речь в основном идет об GENESIS Structural Optimization for ANSYS Mechanical (GSAM) и GENESIS Topology Optimization for ANSYS Mechanical (GTAM). GTAM решает только задачи оптимизации топологии, тогда как GSAM умеет еще и такие штуки, как оптимизация по средством морфинга сетки, топографическая оптимизация, оптимизация толщин оболочечных моделей и оптимизация жесткости оболочечных конструкций за счет выштамповок. Скучно не будет, ведь все это может работать с учетом нелинейности на уровне геометрии и свойств материалов! И да, весь софт встраивается в Workbench по средствам ACT.
+#ACT #ANSYS #GENESIS #GSAM #GTAM #Mechanical #optimiziation #Topology #Workbench&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Pr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Pr&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS запустил свой AppStore c ACT расширениями для версии 1</title>
+      <link>http://localhost:1313/posts/2018-03-12-ansys-zapustil-svoy-appstore-c-act-rasshi/</link>
+      <pubDate>Mon, 12 Mar 2018 18:01:03 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-03-12-ansys-zapustil-svoy-appstore-c-act-rasshi/</guid>
+      <description>&lt;p&gt;ACT — Application Customisation Toolkit — всевозможные расширения, расширяющие возможности среды ANSYS. Они могут быть просто кнопкой с новым граничным условием, полноценным GUI для стороннего решателя (как сделано для LS-DYNA) или целой связкой нескольких расчетных систем для моделирования сложного физического процесса (например, система Additive Manufacturing).
+На прошлой неделе ANSYS обновил свой портал с расширениями, включив поддержку актуального 19-ого релиза. Адрес портала: https://appstore.ansys.com — и там уже есть чем поживиться! А кому мало — можно написать и собрать такое расширение самому.
+ &lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS
+&lt;a href=&#34;https://goo.gl/827Zvi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/827Zvi&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вебинар по случаю новой версии GENESIS Structural Optimizati</title>
+      <link>http://localhost:1313/posts/2017-07-09-vebinar-po-sluchayu-novoy-versii-genesis-s/</link>
+      <pubDate>Sun, 09 Jul 2017 09:00:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-07-09-vebinar-po-sluchayu-novoy-versii-genesis-s/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://vrand.com/node/250&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://vrand.com/node/250&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;13 июля компания Vanderplaats Research &amp;amp; Development, Inc., (VR&amp;amp;D) проведет вебинар по случаю выхода новой версии #GSAM (#GENESIS Structural #Optimization for #ANSYS #Mechanical) - системы топологической оптимизации. Данная система интегрируется с ANSYS Mechanical по средствам #ACT.&lt;/p&gt;
+&lt;p&gt;Очень хочется расспросить создателей о их наработках в области нелинейной оптимизации топологии.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новые возможности ANSYS для топологической оптимизации</title>
+      <link>http://localhost:1313/posts/2017-02-12-novye-vozmozhnosti-ansys-dlya-topologichesk/</link>
+      <pubDate>Sun, 12 Feb 2017 12:02:49 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-02-12-novye-vozmozhnosti-ansys-dlya-topologichesk/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=xHN810lJs4k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xHN810lJs4k&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В 18-ой версии #ANSYS хорошо так улучшил топологическую оптимизацию. Прежде всего - это теперь не #ACT, а встроенная система доступная с любой механической лицензией. Она теперь работает быстрее и стабильнее. А мне больше всего нравится возможность в реальном времени видеть визуализацию распределения псевдоплотности по объему конструкции в ходе расчета.
+#Topo&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=xHN810lJs4k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xHN810lJs4k&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS App Builder</title>
+      <link>http://localhost:1313/posts/2017-02-03-ansys-app-builder/</link>
+      <pubDate>Fri, 03 Feb 2017 17:03:01 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-02-03-ansys-app-builder/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=xYJPgdOdD3k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xYJPgdOdD3k&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В #ANSYS 18 появилось такое приложение, как ANSYS App Builder, и, на мой взгляд, это самое крутое нововведение в R18!&lt;/p&gt;
+&lt;p&gt;ANSYS App Builder позволяет создавать #ACT для #Workbench и #AIM прямо в #GUI! Он умеет не только записывать все ваши действия при работе с проектом, но и низкоуровненов редактировать записанный #python журнал и XML описание интефейса.&lt;/p&gt;
+&lt;p&gt;Те из нас, кто пробовали писать свои ACT, поймут, какой пропыв в упращении нашего нелегкого ремесла нас ожидает!
+&lt;a href=&#34;https://www.youtube.com/watch?v=xYJPgdOdD3k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xYJPgdOdD3k&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-DYNA для как генератор обоев рабочего стола</title>
+      <link>http://localhost:1313/posts/2016-11-07-ls-dyna-dlya-kak-generator-oboev-rabochego/</link>
+      <pubDate>Mon, 07 Nov 2016 10:02:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-11-07-ls-dyna-dlya-kak-generator-oboev-rabochego/</guid>
+      <description>&lt;p&gt;Это не баг при визуализации результатов расчетов #ANSYS #Workbench #LSDYNA #ACT - это фича по созданию психоделических обоев для рабочего стола 😄&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS Toplogy Optimization - еще большой учебный материал</title>
+      <link>http://localhost:1313/posts/2016-10-22-ansys-toplogy-optimization-esche-bolshoy/</link>
+      <pubDate>Sat, 22 Oct 2016 17:00:49 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-10-22-ansys-toplogy-optimization-esche-bolshoy/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.finiteelementanalysis.com.au/featured/topological-optimisation-with-ansys-17-0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.finiteelementanalysis.com.au/featured/topological-optimisation-with-ansys-17-0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Большой учебный материал/статья/мастер класс по работе с #ANSYS #Toplogy #Optimization #ACT. Разобраны не только моменты, связанные с постановкой задачи в #ANSYS #Mechanical и выполнения поверочного расчета на основе #STL, но и восстановление аналитической геометрии при помощи #SpaceClaim.&lt;/p&gt;
+&lt;p&gt;Спасибо команде LEAP Australia!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Параметризация многошаговых нагрузок в ANSYS</title>
+      <link>http://localhost:1313/posts/2016-10-22-parametrizatsiya-mnogoshagovyh-nagruzok-v-a/</link>
+      <pubDate>Sat, 22 Oct 2016 12:00:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-10-22-parametrizatsiya-mnogoshagovyh-nagruzok-v-a/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Одной из фишек #ANSYS #Workbench является возможность тотальной параметризации всего и вся буквально в один клик. Однако, тут есть досадное упущение: когда вы используете многошаговое нагружение в #Mechanical, вы не можете параметризовать изменение нагрузки на каждом шаге нагружения.&lt;/p&gt;
+&lt;p&gt;Компания Engin Soft исправила это досадное упущение при помощи своего бесплатного #ACT MultiStep Parametric Loads (&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153)&lt;/a&gt;. Они реализовали возможность параметризовать значения граничных условий и условий нагружения на каждом шаге. Первая версия ACT работает с R17.0 и R17.1&lt;/p&gt;
+&lt;p&gt;#enginsoft&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Интересную тему подсказали мне коллеги - штамповка взрывом. </title>
+      <link>http://localhost:1313/posts/2016-07-18-interesnuyu-temu-podskazali-mne-kollegi/</link>
+      <pubDate>Mon, 18 Jul 2016 06:30:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-07-18-interesnuyu-temu-podskazali-mne-kollegi/</guid>
+      <description>&lt;p&gt;Так как задача поставлена в ANSYS Workbech LS-DYNA ACT 17.0, то входной файл получился немного грязный, зато есть параметрический проект.&lt;/p&gt;
+&lt;p&gt;video &lt;a href=&#34;https://www.youtube.com/watch?v=ZplZXHB4knk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ZplZXHB4knk&lt;/a&gt;
+input.k &lt;a href=&#34;http://lnk.al/1ILR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILR&lt;/a&gt;
+ebt.wbpz &lt;a href=&#34;http://lnk.al/1ILQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILQ&lt;/a&gt;
+статья &lt;a href=&#34;http://lnk.al/1ILS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#ANSYS в своем блоге рассказали как скрепить их #Fluent, #Me</title>
+      <link>http://localhost:1313/posts/2016-07-14-ansys-v-svoem-bloge-rasskazali-kak-skre/</link>
+      <pubDate>Thu, 14 Jul 2016 06:30:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-07-14-ansys-v-svoem-bloge-rasskazali-kak-skre/</guid>
+      <description>&lt;p&gt;P.S. Среди #ACT расширений для ANSYS уже давно есть такое, которое позволяет встраивать MATLAB в схематизму проекта в качестве движка оптимизации и параметрических исследований. &lt;a href=&#34;http://www.ansys-blog.com/how-to-make-matlab-apps-for-ansys/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/how-to-make-matlab-apps-for-ansys/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Нам надо больше бесплатной топологической оптимизации!!!</title>
+      <link>http://localhost:1313/posts/2016-06-22-nam-nado-bolshe-besplatnoy-topologichesko/</link>
+      <pubDate>Wed, 22 Jun 2016 12:02:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-22-nam-nado-bolshe-besplatnoy-topologichesko/</guid>
+      <description>&lt;p&gt;Компания Virtual.PYXIS совместно с #ESSS выкатила бесплатное #ACT для #topology #optimization прямо в #ANSYS ACT Applications Store! На первый взгляд, данное расширение сдано несколько более качественно чем родное расширение от ANSYS, оно лучше выводит статистику по процессу оптимизации, позволяет задавать веса условиям нагружения. И да, чуть не забыл, у него есть возможность использовать #HPC в отличие от родного ACT - процесс оптимизации требует раз 10 - 20 прогнать решение вашей задачи, так что оперативной ресурсы потребуются.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Мои старые-добрые знакомые, Сигма Технология, на днях объяви</title>
+      <link>http://localhost:1313/posts/2016-04-15-moi-starye-dobrye-znakomye-sigma-tehnol/</link>
+      <pubDate>Fri, 15 Apr 2016 07:01:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-04-15-moi-starye-dobrye-znakomye-sigma-tehnol/</guid>
+      <description>&lt;p&gt;Итак, версии 3.3 появились такая долгожданная прямая интеграция с #ANSYS #Workbench через #ACT. Теперь IOSO есть в схематизме проекта, а значит он совместим с ANSYS #RSM и может использовать специальные лицензии для параметрических исследований и оптимизации ANSYS HPC Parametric Pack.
+Кроме ANSYS Сигма технологии уважили и другие продукты - появилась интеграция с  Concepts NREC Turboopt II, FLOW-3D,  SolidWorks, FlowVision.&lt;/p&gt;
+&lt;p&gt;Я с IOSO знаком уже лет 7, и могу сказать, что это очень серьезная штука, во многом уделывающая всех иностранных конкурентов.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS обновил WB LS-DYNA ACT до версии 16.2. Ничего принципи</title>
+      <link>http://localhost:1313/posts/2015-12-09-ansys-obnovil-wb-ls-dyna-act-do-versii-1/</link>
+      <pubDate>Wed, 09 Dec 2015 06:30:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-12-09-ansys-obnovil-wb-ls-dyna-act-do-versii-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Читал лекции по штамповке и освоил одни старый трюк. Адаптив</title>
+      <link>http://localhost:1313/posts/2015-11-27-chital-lektsii-po-shtampovke-i-osvoil-odni/</link>
+      <pubDate>Fri, 27 Nov 2015 18:00:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-27-chital-lektsii-po-shtampovke-i-osvoil-odni/</guid>
+      <description>&lt;p&gt;Настройка адаптивной сетки для оболочек работает прямо из GUI от Workbech LS-DYNA ACT!&lt;/p&gt;
+&lt;p&gt;#LSDYNA #adaptivemesh #mesh #ACT.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EDR Medesо показали одну из возможностей своего ACT Heavy Du</title>
+      <link>http://localhost:1313/posts/2015-10-11-edr-medeso-pokazali-odnu-iz-vozmozhnostey/</link>
+      <pubDate>Sun, 11 Oct 2015 18:00:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-11-edr-medeso-pokazali-odnu-iz-vozmozhnostey/</guid>
+      <description>&lt;p&gt;#ACT #ANSYS #Mechanical #Workbench #EDRMedesо #bolts&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1Q3Fv-7HUZc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=1Q3Fv-7HUZc&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Некто Khai Chau Nguyen ведет вполне годный канал на Youtube,</title>
+      <link>http://localhost:1313/posts/2015-09-11-nekto-khai-chau-nguyen-vedet-vpolne-godn/</link>
+      <pubDate>Fri, 11 Sep 2015 17:00:26 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-11-nekto-khai-chau-nguyen-vedet-vpolne-godn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

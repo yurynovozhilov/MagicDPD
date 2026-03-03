@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NVIDIA on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/nvidia/</link>
+    <description>MagicDPD: Magic Driven Product Development! (NVIDIA)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 04 Jul 2022 16:22:01 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/nvidia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#FluidX3D - это программное обеспечение для #CFD моделирован</title>
+      <link>http://localhost:1313/posts/2022-07-04-fluidx3d-eto-programmnoe-obespechenie/</link>
+      <pubDate>Mon, 04 Jul 2022 16:22:01 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-07-04-fluidx3d-eto-programmnoe-obespechenie/</guid>
+      <description>&lt;p&gt;В качестве примера работы кода автор предлагает расчет внешней аэродинамики Боинга 747 на числах Рейнольдса Re=50k.  Разрешение модели 912×1824×456, 100k временных шагов, время вычисления+рендеринга 6.5 часов #Nvidia #A100 40GB GPU. &lt;a href=&#34;https://www.youtube.com/watch?v=zp6tgdN9EBY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=zp6tgdN9EBY&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>А вот новость этого года про использование #GPU для #CFD рас</title>
+      <link>http://localhost:1313/posts/2022-04-22-a-vot-novost-etogo-goda-pro-ispolzovan/</link>
+      <pubDate>Fri, 22 Apr 2022 17:00:10 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-04-22-a-vot-novost-etogo-goda-pro-ispolzovan/</guid>
+      <description>&lt;p&gt;Одна карта #NVIDIA #A100 дает производительность, соизмеримую с 272 процессорными ядрами #Intel #Xeon #Gold 6242!&lt;/p&gt;
+&lt;p&gt;Новый решатель позволяет одновременно:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;снизить стоимость используемого железа до 7 раз&lt;/li&gt;
+&lt;li&gt;снизить потребление электроэнергии вычислительной системой до 4 раза&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;А если учесть, что решатели Ansys традиционно лицензируется так, что стоимость задействования 1 процессорного ядра эквивалентна стоимости задействования 1 карты NVIDIA A100, то цена требуемых для #HPC расчетов лицензий с новым &amp;ldquo;Ansys Multi-GPU Solver&amp;rdquo; оказывается если не в сотни, то в десятки раз ниже! &lt;a href=&#34;https://www.ansys.com/blog/unleashing-the-power-of-multiple-gpus-for-cfd-simulations&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/blog/unleashing-the-power-of-multiple-gpus-for-cfd-simulations&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS SPEOS Live — моделирование оптики в реальном времени</title>
+      <link>http://localhost:1313/posts/2019-09-26-ansys-speos-live-modelirovanie-optiki/</link>
+      <pubDate>Thu, 26 Sep 2019 13:00:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-09-26-ansys-speos-live-modelirovanie-optiki/</guid>
+      <description>&lt;p&gt;ANSYS SPEOS — это у нас софт для расчета оптики. Про него есть несколько видеоуроков — смотрите хештеги в данном паблике. А у SPEOS есть еще такая фишка, как ANSYS SPEOS Live. Это уже система, позволяющая делать рендеринг в реальном времени на видеокартах NVIDIA и на основе точных математических и физических законов. И про нее есть отличное техническое демо от ARRK в блоге ANSYS: &lt;a href=&#34;https://www.ansys.com/blog/optimize-optical-designs-using-real-time-simulation&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/blog/optimize-optical-designs-using-real-time-simulation&lt;/a&gt; — там еще и видеодемонстрация есть.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KeyShot 9 с поддержкой NVIDIA RTX Ray Tracing</title>
+      <link>http://localhost:1313/posts/2019-08-08-keyshot-9-s-podderzhkoy-nvidia-rtx-ray-tr/</link>
+      <pubDate>Thu, 08 Aug 2019 13:00:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-08-08-keyshot-9-s-podderzhkoy-nvidia-rtx-ray-tr/</guid>
+      <description>&lt;p&gt;KeyShot — система фотореалистичного рендеринга CAD моделей, поставляемая, в частности, в тестовой версии вместе с любым ANSYS SpaceClaim, скоро получит существенное обновление. Уже сейчас в beta, а осенью и в стабильном релизе 9 появится возможность рендеринга в реальном времени при использовании технологии NVIDIA RTX with OptiX. По мне, так такое ускорение в основном рабочем процессе системы — это просто must have!&lt;/p&gt;
+&lt;p&gt;#CAD #KeyShot #NVIDIA #RTX&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2CZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2CZ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Гибрид ужа и ежа: PTC встраивает технологии Discovery Live в</title>
+      <link>http://localhost:1313/posts/2018-06-24-gibrid-uzha-i-ezha-ptc-vstraivaet-tehnolo/</link>
+      <pubDate>Sun, 24 Jun 2018 18:01:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-06-24-gibrid-uzha-i-ezha-ptc-vstraivaet-tehnolo/</guid>
+      <description>&lt;p&gt;Есть у ANSYS среди прочих очень интересный и действительно уникальный продукт: ANSYS Discovery Live. Он позволяет решать задачи механики, гидродинамики, теплопроводности и сопряженного теплообмена с некоторыми допущениями в реальном времени на неподготовленной геометрии.&lt;/p&gt;
+&lt;p&gt;А у компании PTC есть платформа промышленного интернета вещей ThingWorx, на почве которой они дружат с ANSYS. ANSYS даже переименовал свой Simplorer в  ANSYS TwinBuilder, и последний теперь встраивается в систему ThingWorx.
+Но дружба двух компаний на этом не заканчивается. На прошедшем мероприятии LiveWorx 18 компании объявили, что тот самый движок мгновенных расчетов от Discovery Live будет встраиваться в Creo - однy из самых продвинутых CAD систем на рынке. Новый продукт появится на рынке в 2019 - 2020 году и будет иметь название Creo Simulation Live&lt;/p&gt;
+&lt;p&gt;Вообще, видео демонстрации разрабатываемого продукта выглядит весьма интересно. Когда-то давно ядро ANSYS APDL встраивалось во многие CAD пакеты для расчетов. Теперь ему на смену идет современный Discovery Live. Классный виток истории получился. И не стоит забывать, что в отличие от классических КЭ вычислительных ядер Discovery Live не нуждается в упрощении геометрии - он может напрямую и мгновенно делать расчет на сложных деталях из Creo!
+Ссылка по теме на русском:
+&lt;a href=&#34;https://www.cadfem-cis.ru/list/article/ansys-ptc2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/list/article/ansys-ptc2018/&lt;/a&gt;
+Ссылки по теме на английском: https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/17153/ANSYS-Discovery-Live-comes-to-PTC-Creo.aspx
+&lt;a href=&#34;https://www.ptc.com/en/cad-software-blog/ceo-speak-real-time-simulation&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ptc.com/en/cad-software-blog/ceo-speak-real-time-simulation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#CAD #Creo #Discovery #Live #NVIDIA #PTC #Simplorer #ThingWorx #TwinBuilder
+&lt;a href=&#34;https://is.gd/BMwHCi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://is.gd/BMwHCi&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#zCFD - #CFD код от #Zenotech для расчета сжимаемых течений,</title>
+      <link>http://localhost:1313/posts/2017-12-29-zcfd-cfd-kod-ot-zenotech-dlya-raschet/</link>
+      <pubDate>Fri, 29 Dec 2017 17:14:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-12-29-zcfd-cfd-kod-ot-zenotech-dlya-raschet/</guid>
+      <description>&lt;p&gt;Итак, ключевые особенности ПО:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;эффективность - обычно присутствует у любого, уважающего себя кода&lt;/li&gt;
+&lt;li&gt;модели турбулентности (#RANS, #DES, #LES, #SAS) - куда же без них&lt;/li&gt;
+&lt;li&gt;автоматическое использвоание #NVIDIA #GPU для расчетов, если они есть в системе - это уже что-то новенькое&lt;/li&gt;
+&lt;li&gt;работа как с классической конечно-обемной постановкой, так и с разрывным методом Гелеркина (#Discontinuous #Galerkin) - а вот это уже что-то очень необычное, больше свойственное #HFSS или #LSDYNA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Теперь насчет бесплатности - полифункциональную версию для работы на машине с общей памятью можно скачать с сайта совершенно бесплатно!&lt;/p&gt;
+&lt;p&gt;Верификационные примеры для кода прилагаются: &lt;a href=&#34;http://ift.tt/2CmJ6GY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2CmJ6GY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&lt;/a&gt; 🔗 New zCFD release for affordable CFD at scale | Zenotech Ltd&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Статья - размышление про то, как #ANSYS #Discovery Live помо</title>
+      <link>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</link>
+      <pubDate>Sun, 17 Sep 2017 17:04:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</guid>
+      <description>&lt;p&gt;И тут ключевыми факторами успеха оказывается не только использование самого передового решателя, разработанного совместно с #NVIDIA. Не даром ANSYS очень дружен с разработчиком GPU. Об этом говорят те факты, что #Mechanical #APDL был первым коммерческим #FEM использовавшим #GPU, как и #Fluent - первым коммерческим #CFD использовавшим #GPU&lt;/p&gt;
+&lt;p&gt;Тут еще вспоминается и #SpaceClaim, который выйдя на рынок в 2005 сделал лидеров отстающими. Именно после #SpaceClaim появились такие системы, как #PTC #Creo, #Autodesk #Fusion и концепция #Siemens Synchronous Technology.&lt;/p&gt;
+&lt;p&gt;Сейчас SpaceClaim становиться геометрическим ядром для #Workbench, #AIM и #ANSYS #Discovery.&lt;/p&gt;
+&lt;p&gt;#GPGPU #CUDA
+&lt;a href=&#34;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&lt;/a&gt; 🔗 ANSYS Discovery Live Changes Everything&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Надеюсь вы не пропустили мероприятие по поводу #ANSYS #Disco</title>
+      <link>http://localhost:1313/posts/2017-09-07-nadeyus-vy-ne-propustili-meropriyatie-po/</link>
+      <pubDate>Thu, 07 Sep 2017 14:31:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-09-07-nadeyus-vy-ne-propustili-meropriyatie-po/</guid>
+      <description>&lt;p&gt;Из того, что мне больше всего понравилось - это возможность не только практически мгновенно сделать прикидочный расчет, но и экспортировать его для доводки в #AIM, #Mechanical, #Fluent и #Maxwell. Понравилось, что #ANSYS #Discovery - свежий код, который не тащит с собой кучу наследства и умеет нормально использовать #GPGPU #NVIDIA.&lt;/p&gt;
+&lt;p&gt;Что мне не понравилось: обещали интерактивное мероприятие, а на деле был набор заготовленных видео роликов.&lt;/p&gt;
+&lt;p&gt;А еще, на сайте продукта уже можно скачать техническое превью бесплатно.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ansys.com/discovery&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ansys.com/discovery&lt;/a&gt; 🔗 ANSYS Discovery Live: Instant Simulation Results&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Централизованное управление GPU вашего датацентра</title>
+      <link>http://localhost:1313/posts/2016-09-01-tsentralizovannoe-upravlenie-gpu-vashego-d/</link>
+      <pubDate>Thu, 01 Sep 2016 06:30:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-09-01-tsentralizovannoe-upravlenie-gpu-vashego-d/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://devblogs.nvidia.com/parallelforall/nvidia-data-center-gpu-manager-cluster-administration/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://devblogs.nvidia.com/parallelforall/nvidia-data-center-gpu-manager-cluster-administration/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#NVIDIA объявила о выходе Data Center GPU Manager (#DCGM) предназанвенного для централизованного мониторинга и управления #GPU и #GPGPU вашего датацентра или кластера (у кого что). ПО имеет интерфейсы к основным игрокам #HPC рынка: Bright Custer Manager (#BCM), #Altair #PBS Works и #IBM Spectrum #LSF и позволяет производить низкоуровневую диагностику аппаратной части, конфигурирование драйверов и прочие низкоуровневые фишки.&lt;/p&gt;
+&lt;p&gt;Nvidia DCGM 1.0 Release Candidate доступен для скачивания по регистрации (&lt;a href=&#34;https://developer.nvidia.com/data-center-gpu-manager-dcgm-access%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://developer.nvidia.com/data-center-gpu-manager-dcgm-access)&lt;/a&gt;. О том, будет ли данное ПО бесплано, или потребуется приобретение лицензий пока не сообщается, но что-то мне подсказывает, что с учетом последних действий NVIDIA нам всем придется раскошелиться.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Запущена тестовая эксплуатация GPU в Azure</title>
+      <link>http://localhost:1313/posts/2016-08-18-zapuschena-testovaya-ekspluatatsiya-gpu-v-azu/</link>
+      <pubDate>Thu, 18 Aug 2016 06:30:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-08-18-zapuschena-testovaya-ekspluatatsiya-gpu-v-azu/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Тестовая демонстрация работы #GPU #NVIDIA инстансов в облаке #Azure началась в зоне South Central US. При этом, как говорят сами MS, они используют технологию прямого проброса устройстви (Discrete Device Assignment, #DDA), заложенную в ожидаемый #Windows #Server 2016 Hyper-V.&lt;/p&gt;
+&lt;p&gt;Итак, в облаке Azure теперь есть все для построения виртуального #HPC кластера!&lt;/p&gt;
+&lt;p&gt;#cloud #tesla #k80 #m60 #hyperv #teradici&lt;/p&gt;
+&lt;p&gt;Небольшое интевью по поводу события от #Channel9
+&lt;a href=&#34;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Молния: открыта очередь на тестирование GPU NVIDIA в облаке </title>
+      <link>http://localhost:1313/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</link>
+      <pubDate>Fri, 05 Aug 2016 12:30:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://gpu.azure.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://gpu.azure.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Вчера компания #Microsoft выдала очередной анонс запуска #GPU инстансов в #Azure. Примерно год назад компания уже писала о своих планах в блоке, но видимо разработка идет не так гладко, как хотелось бы. Сейчас, вместе с анонсом компания разместила страницу регистрации на тестирование нового продукта. Лично я уже заказал сете на тест машинку с 2-мя #NVIDIA #Tesla #K80, 224 Гб RAM и 1.5 Тб SSD.&lt;/p&gt;
+&lt;p&gt;Еще Microsoft говори о партнерстве с компанией #Teradici для использования технологии #PCoIP доставляющей удаленные рабочие столы со сложной графикой. Это немного странно для меня. Во-первых Teradici - это решение заклятого конкурента #VMWare. Во-вторых, где обещанный ранее #DDS и новый #RemoteFX с поддержкой #OpenGL 4+ (заявлено для #Windows #Server 2016)? Неужели MS отказывает использовать свои серверные операционные систем и технологии в своем же облаке?&lt;/p&gt;
+&lt;p&gt;#VDI #Cloud #HPC
+&lt;a href=&#34;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#MPS (Moving Particle Simulation) - бессеточный метод для ре</title>
+      <link>http://localhost:1313/posts/2016-04-11-mps-moving-particle-simulation-bess/</link>
+      <pubDate>Mon, 11 Apr 2016 07:01:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-04-11-mps-moving-particle-simulation-bess/</guid>
+      <description>&lt;p&gt;Прежде всего, этот метод, чем-то похожий на #SPH, имеет как явную, так и неявную схемы интегрирования по времени. Далее, он позволяет учитывать поверхностное натяжение и обладает #LES моделью турбулентности, чего нет в классическом #SPH. Ну и на сладкое - метод ускоряется на #GPU #NVIDIA в 5-9 раз (прямо как #DEM), при этом может использовать несколько графических карт.&lt;/p&gt;
+&lt;p&gt;Метод реализован в независимомо CFD пакете #Particleworks японской компании #Prometech.&lt;/p&gt;
+&lt;p&gt;На мой взгляд, это может быть по круче чем #XFlowCFD с их решеточным методом Больцмана.&lt;/p&gt;
+&lt;p&gt;Базовая теория по работе метода прилагается.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Это не совсем про расчеты, но это то, чем мы все скоро будем</title>
+      <link>http://localhost:1313/posts/2015-10-11-eto-ne-sovsem-pro-raschety-no-eto-to-che/</link>
+      <pubDate>Sun, 11 Oct 2015 06:30:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-11-eto-ne-sovsem-pro-raschety-no-eto-to-che/</guid>
+      <description>&lt;p&gt;Лично я не могу дождаться, когда инстансы N-типа будут доступны нам - очень хочется проверить задержки при удаленной визуализации через DCV.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Со всей этой рутинной я чуть пропустил абсолютно сногсшибате</title>
+      <link>http://localhost:1313/posts/2015-10-05-so-vsey-etoy-rutinnoy-ya-chut-propustil-a/</link>
+      <pubDate>Mon, 05 Oct 2015 06:30:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-05-so-vsey-etoy-rutinnoy-ya-chut-propustil-a/</guid>
+      <description>&lt;p&gt;Теперь же мы можем наблюдать очень интересную направленность Azure в HPC направление. Тут и честный Infiniband (чего нет даже у Amazon AWS), и несколько HPC планировщиков, в числе которых есть лидер рынка Altair PBS Pro, и, наконец, недостающее звено - гибридные вычисления и поддержка удаленной визуализации!!! Мне кажется, что сейчас Azure дал крепкую затрещину AWS.&lt;/p&gt;
+&lt;p&gt;#Azure #AWS #Cloud #HPC #NVIDIA
+&lt;a href=&#34;http://nvidianews.nvidia.com/news/nvidia-gpus-to-accelerate-microsoft-azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://nvidianews.nvidia.com/news/nvidia-gpus-to-accelerate-microsoft-azure&lt;/a&gt;
+&lt;a href=&#34;http://www.nvidia.ru/object/nvidia-grid-microsoft-azure-29-sep-2015-ru.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.nvidia.ru/object/nvidia-grid-microsoft-azure-29-sep-2015-ru.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

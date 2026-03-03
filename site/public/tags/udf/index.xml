@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UDF on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/udf/</link>
+    <description>MagicDPD: Magic Driven Product Development! (UDF)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sun, 18 Dec 2016 17:00:20 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/udf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Материалы вебинара по новым возможностям LS-DYNA R9</title>
+      <link>http://localhost:1313/posts/2016-12-18-materialy-vebinara-po-novym-vozmozhnostyam/</link>
+      <pubDate>Sun, 18 Dec 2016 17:00:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-12-18-materialy-vebinara-po-novym-vozmozhnostyam/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.dynamore.se/en/news/meet-dynamore/resources/papers/webinar-ls-dyna-r9-presentations&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.se/en/news/meet-dynamore/resources/papers/webinar-ls-dyna-r9-presentations&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Шведское подразделение #DYNAmore любезно выложило слайды с прошедшего вебинара по новым возможностям #LSDYNA R9. Для меня это просто праздник какой-то, ибо внутри есть много очень крутых фишек.&lt;/p&gt;
+&lt;p&gt;Вот что больше всего понравилось мне:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Новые карты &lt;em&gt;MODULE_&lt;/em&gt; для подключения самоличных (#UDF) расширений к вычислительному ядру решателя без его пересборки&lt;/li&gt;
+&lt;li&gt;Роторная динамика (*CONTROL_IMPLICIT_ROTATIONAL_DYNAMICS) в #Implicit решателе&lt;/li&gt;
+&lt;li&gt;Новая подключаемая модель повреждения (не путать с разрушением) материала *MAT_ADD_GENERALIZED_DAMAGE&lt;/li&gt;
+&lt;li&gt;Новая модель материла для *MAT_GLASS стекал (в том числе и триплекса) специально сделанная для моделирования процесса трещенообразования в shell постановке&lt;/li&gt;
+&lt;li&gt;Одно и двухсторонний #FSI для #DEM в #ICFD решателе благодаря *ICFD_CONTROL_DEM_COUPLING&lt;/li&gt;
+&lt;li&gt;Расширенная работа не ньютоновскими жидкостями и жидкостями с температурнозависимой вязкостью благодаря *ICFD_MODEL_NONNEWT&lt;/li&gt;
+&lt;li&gt;Граничные условия типа &amp;ldquo;ударная волна от взрыва&amp;rdquo; (через взаимодействие с *LOAD_BLAST_ENHANCED) для #CFD решателя сжимаемых течений #CESE&lt;/li&gt;
+&lt;li&gt;Бессеточный (!!!) метод обогощенных конечных элементов (Meshfree Enriched FEM, #MEFEM) специально для моделирования резин (*SECTION_SOLID, ELFORM=43).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;P.S. Ну надо было только такое придумать - бессеточный метод конечных элементов :-)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

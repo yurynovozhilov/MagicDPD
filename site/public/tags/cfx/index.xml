@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CFX on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/cfx/</link>
+    <description>MagicDPD: Magic Driven Product Development! (CFX)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Thu, 07 Apr 2022 17:00:14 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/cfx/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#МАГАТЭ расскажет, как использовать #CFD коды для расчетов #</title>
+      <link>http://localhost:1313/posts/2022-04-07-magate-rasskazhet-kak-ispolzovat-cfd/</link>
+      <pubDate>Thu, 07 Apr 2022 17:00:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-04-07-magate-rasskazhet-kak-ispolzovat-cfd/</guid>
+      <description>&lt;p&gt;В данной публикации представлены результаты координируемого МАГАТЭ исследовательского проекта (CRP) по применению кодов вычислительной гидродинамики (CFD) для проектирования атомных электростанций. Основная цель заключалась в сравнении CFD-кодов, вариантов моделей и методов с экспериментальными данными CFD в условиях однофазного потока. В данной публикации обобщены текущие возможности и способы применения CFD-кодов, а также их текущий уровень квалификации в отношении требований к проектированию атомных электростанций. Она не претендует на всеобъемлющий характер, а сосредоточена на международном опыте практического применения этих инструментов при проектировании компонентов и систем атомных электростанций. Руководство в данной публикации основано на материалах, предоставленных международными экспертами атомной промышленности, непосредственно участвующими в вопросах проектирования атомных электростанций, применения CFD, а также в соответствующих экспериментах и валидации, выделенных в ходе CRP.&lt;/p&gt;
+&lt;p&gt;Чаще всего упоминаются наши любимые коды: #Ansys #Fluent и #CFX, #Siemens #StarCCM+, #OpenFOAM &lt;a href=&#34;https://www.iaea.org/publications/14718/summary-review-on-the-application-of-computational-fluid-dynamics-in-nuclear-power-plant-design&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.iaea.org/publications/14718/summary-review-on-the-application-of-computational-fluid-dynamics-in-nuclear-power-plant-design&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Проектирование нестандартных теплообменников с nTopology</title>
+      <link>http://localhost:1313/posts/2020-10-21-proektirovanie-nestandartnyh-teploobmenn/</link>
+      <pubDate>Wed, 21 Oct 2020 13:07:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-10-21-proektirovanie-nestandartnyh-teploobmenn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Моделирование взаимодействия лопаточных венцов с учетом влия</title>
+      <link>http://localhost:1313/posts/2019-09-11-modelirovanie-vzaimodeystviya-lopatochnyh/</link>
+      <pubDate>Wed, 11 Sep 2019 13:00:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-09-11-modelirovanie-vzaimodeystviya-lopatochnyh/</guid>
+      <description>&lt;p&gt;Моё незнание темы CFD для турбомашиностроения не должно лишать вас возможности насладиться этим видеоуроком в двух частях.&lt;/p&gt;
+&lt;p&gt;#ANSYS #CFX&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Fv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Fv&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как корректно остановить решатель на ходу</title>
+      <link>http://localhost:1313/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</link>
+      <pubDate>Tue, 03 Jul 2018 18:02:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</guid>
+      <description>&lt;p&gt;Есть очень часто встречающаяся задача - запуск решателя в консольном/пакетном режиме для выполнения расчета на рабочей станции или кластере. С этой задачей сталкиваются многие опытные инженеры. Как запускать консольные расчеты хорошо описано в документации, много рассказано на форумах.
+Однако мало кто знает, что практически любой решатель, работающий в фоне, можно корректно остановить с запуском точки рестарта/чекпоинта. Как правило, необходимо создать особый файл в особом месте. Когда решатель его обнаружит, он сам все поймет. Особый файл будет удалён сразу после его обработки. Давайте посмотрим, как это сделать для основных решателей ANSYS.
+Mechanical/APDL:
+В рабочей директории решателя надо создать файл с именем jobname.abt, где jobname - имя проекта. Файл должен содержать только одно слово: nonlinear
+Fluent:
+Для записи файла рестарта (а это просто обычный набор из cas и dat) необходимо создать файл check-fluent в директории /tmp для Linux или check-fluent.txt в директории C:\temp для Windows. Корректно завершить решатель можно, создав в этих директориях файл exit-fluent или exit-fluent.txt соответсвенно.
+CFX:
+C этим решателем все сильно проще. У него есть специальный исполняемый файл cfx5stop, предназначенный для корректной остановки расчета. Таким образом, для проекта mixer_001, достаточно выполнить команду cfx5stop -directory mixer_001.dir в его рабочей директории - там mixer_001.dir будет являться временной рабочей директорией.
+LS-DYNA:
+У этого решателя есть такая штука как SWITCH CONTROLS - в ходе расчета вы можете нажать комбинацию клавиш Control+C и ввести определнный код. Вот те ключевые коды, которые относятся к нашей теме:
+sw1 - записать файл рестарта
+sw2 - вывести оценку оставшегося времени расчета
+sw3 - записать файл рестарта
+Если консоль вам недоступна (расчет идет в фоне), то необходимо создать в рабочей директории решателя файл d3kil (или jobid.d3kil, если вы используете идентификаторы расчетного проекта), содержащий соответсвующий код.
+Autodyn
+Для этого решателя надо создать файл savenow.dat для записи файла рестарта в конце текущей итерации, а файл endbat.dat завершит расчет после окончания текущей итерации.
+Решатели семейства AEDT (ANSYS Electronics Desktop) - бывший Ansoft
+Знающие люди подсказали, что решатели можно спокойно убивать на лету - они сами смогут рестартовать остановленный таким образом расчет с последней записанной итерации.
+ANSYS Workbench
+Если вы пользуетесь ANSYS RSM, то там для всех поддерживаемых решателей уже есть стандартная кнопка Interrupt, которая делает всю вышеописанную магию за вас. Настраивайте RSM и наслаждайтесь :-)&lt;/p&gt;
+&lt;p&gt;#AEDT #ANSYS #Autodyn #CFX #Checkpont #Fluent #HPC #Longread #LSDYNA #Restart #RSM #Workbench
+&lt;a href=&#34;http://bit.ly/2u3rrhp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2u3rrhp&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сейчас на рынке #HPC интерконнектов идет тихая война между #</title>
+      <link>http://localhost:1313/posts/2017-12-24-seychas-na-rynke-hpc-interkonnektov-idet/</link>
+      <pubDate>Sun, 24 Dec 2017 17:11:49 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-12-24-seychas-na-rynke-hpc-interkonnektov-idet/</guid>
+      <description>&lt;p&gt;Хотя на мой вкус, Mellanox так далеко впереди, что за ним уже никому не угнаться. Посудите сами: у них полностью аппаратная работа с данными, не нагружающая CPU, у них уже есть 200 Гбит и, что самое важное, их поддерживают все решатели (ну хотя бы все решатели #ANSYS). А вот Intel #OPA может только #ANSYS #Fluent и #ANSYS #CFX.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2l7xnl8MediaMediaMedia&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2l7xnl8MediaMediaMedia&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2kQNVyg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2kQNVyg&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🍗🍗🍗 Как правильно запекать индейку в барбекю?</title>
+      <link>http://localhost:1313/posts/2017-12-08-kak-pravilno-zapekat-indeyku-v-bar/</link>
+      <pubDate>Fri, 08 Dec 2017 19:03:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-12-08-kak-pravilno-zapekat-indeyku-v-bar/</guid>
+      <description>&lt;p&gt;Мастер-класс от Jacobs Analytics по моделированию воздушного потока в процессе запекания индейки инструментами #ANSYS #CFX :)Media📼 BBQ Turkey&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2A3cygP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2A3cygP&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сегодня в Питере провели небольшой семинар на пол дня по #AN</title>
+      <link>http://localhost:1313/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</link>
+      <pubDate>Thu, 02 Jun 2016 13:58:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</guid>
+      <description>&lt;p&gt;11 докладов по #Mechanical, #Explicit, #CFX, #Fluent, #DesignXplorer, #SpaceClaim, #HPC, #RBD, #ACP, #ACCS и конечно же #AIM!&lt;/p&gt;
+&lt;p&gt;А еще состоялся анонс проекта под рабочим названием #CADFEM #Haze!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Первого декабря все были так увлечены новость о выходе #ANSY</title>
+      <link>http://localhost:1313/posts/2015-12-05-pervogo-dekabrya-vse-byli-tak-uvlecheny-no/</link>
+      <pubDate>Sat, 05 Dec 2015 18:00:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-12-05-pervogo-dekabrya-vse-byli-tak-uvlecheny-no/</guid>
+      <description>&lt;p&gt;Для тех, кто не курсе, FENSAP-ICE и FENSAP-ICE TURBO - это уникальное программное обеспечение для моделирования обледенения приобретенное ANSYS в прошедшем году. Его функционал готовят к более плотной интеграции с ANSYS #CFX.&lt;/p&gt;
+&lt;p&gt;Подробности по ссылке.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

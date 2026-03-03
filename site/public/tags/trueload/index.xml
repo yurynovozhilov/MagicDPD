@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TrueLoad on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/trueload/</link>
+    <description>MagicDPD: Magic Driven Product Development! (TrueLoad)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 27 Jul 2018 18:00:36 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/trueload/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>True-Load - настояще нагрузки для вашей КЭ модели</title>
+      <link>http://localhost:1313/posts/2018-07-27-true-load-nastoyasche-nagruzki-dlya-vashey/</link>
+      <pubDate>Fri, 27 Jul 2018 18:00:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-07-27-true-load-nastoyasche-nagruzki-dlya-vashey/</guid>
+      <description>&lt;p&gt;Как-то раз у меня уже проскакивала новость про True-Load, и их дружбу с ANSYS Workbench. Помнится тогда, мы так и не нашли правды: чем эта дружба так полезна для инженеров. Теперь настало время разобраться в True-Load, тем более, что мне на глаза попалась запись часового вебинара от создателя технологии.&lt;/p&gt;
+&lt;p&gt;Итак, True-Load (&lt;a href=&#34;https://www.wolfstartech.com/true-load%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.wolfstartech.com/true-load)&lt;/a&gt;, разработка Wolf Star Technologies LLC, позволяет вам сформировать условия и историю нагружения конструкции, которые будут использоваться при расчете долговечности. Алгоритм работы True-Load таков:&lt;/p&gt;
+&lt;p&gt;Инженер строит КЭ модель
+Инженер задает варианты граничных условий и нагрузок
+Система раскладывает нагрузки на &amp;ldquo;базис&amp;rdquo; - единичные нагрузки по глобальным осям
+Система строит матрицу отклика конструкции на базисные нагрузки в линейном приближении
+На основе полученных даных система предлагает оптимальное расположение тензодатчиков как на КЭ модели, так и на реальном изделии
+По данным с датчиков на реальной модели система восстанавливает реальную историю нагружения модели (ведь матрица отклика уже получена на шаге 4)
+Полученные нагрузки прикладываются к КЭ модели&lt;/p&gt;
+&lt;p&gt;Проделав эту процедуру один раз, мы получаем материал для оптимизации усталостной долговечности конструкции в любом поддерживаемом программном обеспечении.
+Особенно мне понравился 5-й шаг в рабочем процессе True-Load, когда система прямо в графике показывает вам где стоит устанавливать тензодатчики.&lt;/p&gt;
+&lt;p&gt;Естественно, надо понимать (и это говорит сам создатель ПО в вебинаре), вся схема работает, пока вы не выходите за рамки линейной модели, как и вся концепция усталостной долговечности.
+А еще, эта штука может работать в рамках так модного сейчас промышленного интернета вещей, анализируя нагрузки на конструкции в реальном времени и проводя расчет долговечности для цифрового двойника.&lt;/p&gt;
+&lt;p&gt;P.S. Пост по теме в блока ANSYS: http://www.ansys-blog.com/true-load-software/&lt;/p&gt;
+&lt;p&gt;#DigitalTwin #Fatigue #TrueLoad #WolfStarTechnologies
+&lt;a href=&#34;http://bit.ly/2K0ZAEx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2K0ZAEx&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fluent on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/fluent/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Fluent)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Thu, 14 Apr 2022 17:00:07 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/fluent/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Вчера #Ansys купил себе #OnScale, и я расскажу почему это ва</title>
+      <link>http://localhost:1313/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</link>
+      <pubDate>Thu, 14 Apr 2022 17:00:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</guid>
+      <description>&lt;p&gt;Итак, компания OnScale делала одноименную независимую платформу для  КЭ расчетов в облаке. Идея у них была очень похоже на успешный проект SimScale. Однако, SimScale использовал внутри себя #opensource коды для расчетов, а OnScale решили писать все свое. Кажется, что они просто не оценили трудоемкости написания хороших решателей, вот WebUI вышел вполне себе нормальный.&lt;/p&gt;
+&lt;p&gt;Теперь их покупает Ansys, который идет в облако всеми возможными путями. У них, как и всех конкурентов, есть облачные лицензии. У них есть облачные #HPC партнеры в лице #AWS и #Azure. Есть встроенные возможности из классических приложений посылать задачи на расчет в облако. А вот полноценного #WebUI для работы с решателями не было - всегда были какие-то средства доставки классических дестопных приложений и рабочих столов Windows/Linux систем. И тут мы видим, что OnScale становиться последним кусочком мозаики полноценного облачного решения от Ansys.&lt;/p&gt;
+&lt;p&gt;Я думаю, что в ближайшие 5 лет мы сможем увидеть новые Web версии #Fluent, #Mechanical #HFSS, которые больше не будут требовать установки дистрибутива с 5 DVD дисков, а полноценно будет работать в глобальном или корпоративном облаке.&lt;/p&gt;
+&lt;p&gt;#cloud #opensource #HPC &lt;a href=&#34;https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#МАГАТЭ расскажет, как использовать #CFD коды для расчетов #</title>
+      <link>http://localhost:1313/posts/2022-04-07-magate-rasskazhet-kak-ispolzovat-cfd/</link>
+      <pubDate>Thu, 07 Apr 2022 17:00:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-04-07-magate-rasskazhet-kak-ispolzovat-cfd/</guid>
+      <description>&lt;p&gt;В данной публикации представлены результаты координируемого МАГАТЭ исследовательского проекта (CRP) по применению кодов вычислительной гидродинамики (CFD) для проектирования атомных электростанций. Основная цель заключалась в сравнении CFD-кодов, вариантов моделей и методов с экспериментальными данными CFD в условиях однофазного потока. В данной публикации обобщены текущие возможности и способы применения CFD-кодов, а также их текущий уровень квалификации в отношении требований к проектированию атомных электростанций. Она не претендует на всеобъемлющий характер, а сосредоточена на международном опыте практического применения этих инструментов при проектировании компонентов и систем атомных электростанций. Руководство в данной публикации основано на материалах, предоставленных международными экспертами атомной промышленности, непосредственно участвующими в вопросах проектирования атомных электростанций, применения CFD, а также в соответствующих экспериментах и валидации, выделенных в ходе CRP.&lt;/p&gt;
+&lt;p&gt;Чаще всего упоминаются наши любимые коды: #Ansys #Fluent и #CFX, #Siemens #StarCCM+, #OpenFOAM &lt;a href=&#34;https://www.iaea.org/publications/14718/summary-review-on-the-application-of-computational-fluid-dynamics-in-nuclear-power-plant-design&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.iaea.org/publications/14718/summary-review-on-the-application-of-computational-fluid-dynamics-in-nuclear-power-plant-design&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Решатели, которые могут Powder bed melting</title>
+      <link>http://localhost:1313/posts/2019-09-13-reshateli-kotorye-mogut-powder-bed-melti/</link>
+      <pubDate>Fri, 13 Sep 2019 13:00:55 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-09-13-reshateli-kotorye-mogut-powder-bed-melti/</guid>
+      <description>&lt;p&gt;Одна из самых сложных задач в аддитивке — моделирование ванны расплава. Сегодня у нас красуются CFD коды Fluent (ANSYS, Inc), FLOW-3D (Flow Science, Inc.).&lt;/p&gt;
+&lt;p&gt;Сначала при помощи DEM решателя мы формируем «геометрию» расположения порошка, а потом передаем это в CFD код, где уже работаем с VOF моделью.&lt;/p&gt;
+&lt;p&gt;#Additive_Manufacturing #CFD #FLOW_3D #Fluent&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2FD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2FD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сравнение CFD решателей супертяжелой весовой категории</title>
+      <link>http://localhost:1313/posts/2019-08-21-sravnenie-cfd-reshateley-supertyazheloy-ves/</link>
+      <pubDate>Wed, 21 Aug 2019 13:00:40 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-08-21-sravnenie-cfd-reshateley-supertyazheloy-ves/</guid>
+      <description>&lt;p&gt;Большой обзор-сравнение двух главных решателей гидродинамики современности: ANSYS Fluent и Siemens Simcenter STAR-CCM+. И тут у нас идет очень большое перечисление всех фишек всех решателей.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.resolvedanalytics.com/theflux/comparing-cfd-software-part-4-comprehensive-cfd-software-packages&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.resolvedanalytics.com/theflux/comparing-cfd-software-part-4-comprehensive-cfd-software-packages&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;А какой решатель выберете вы и почему?&lt;/p&gt;
+&lt;p&gt;#ANSYS #CFD #Fluent #Siemens #STAR_CCM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2DZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2DZ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Отказоустойчивые процедуры построения сетки во Fluent</title>
+      <link>http://localhost:1313/posts/2019-07-29-otkazoustoychivye-protsedury-postroeniya-se/</link>
+      <pubDate>Mon, 29 Jul 2019 13:00:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-07-29-otkazoustoychivye-protsedury-postroeniya-se/</guid>
+      <description>&lt;p&gt;Минутка зависти гидродинамикам и их сеточным генераторам.&lt;/p&gt;
+&lt;p&gt;#CFD #Fluent #mesh&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Cl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Cl&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>От сетки до результатов - и все во Fluent</title>
+      <link>http://localhost:1313/posts/2018-10-27-ot-setki-do-rezultatov-i-vse-vo-fluen/</link>
+      <pubDate>Sat, 27 Oct 2018 16:01:39 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-10-27-ot-setki-do-rezultatov-i-vse-vo-fluen/</guid>
+      <description>&lt;p&gt;Отличное демонстрационное видео, показывающее возможности ANSYS Fluent 19.2. Теперь в этой махине можно сделать все: затянуть геометрию, извлечь внутренний объем, построить сетку, задать граничные условия, провести расчет (ну куда ж без этого) и сделать красивую визуализацию результатов.&lt;/p&gt;
+&lt;p&gt;Неужели инженерное ПО становиться удобным? :-)&lt;/p&gt;
+&lt;p&gt;#ANSYS #CFD #Fluent
+&lt;a href=&#34;http://bit.ly/2D8iGKa&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2D8iGKa&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как корректно остановить решатель на ходу</title>
+      <link>http://localhost:1313/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</link>
+      <pubDate>Tue, 03 Jul 2018 18:02:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</guid>
+      <description>&lt;p&gt;Есть очень часто встречающаяся задача - запуск решателя в консольном/пакетном режиме для выполнения расчета на рабочей станции или кластере. С этой задачей сталкиваются многие опытные инженеры. Как запускать консольные расчеты хорошо описано в документации, много рассказано на форумах.
+Однако мало кто знает, что практически любой решатель, работающий в фоне, можно корректно остановить с запуском точки рестарта/чекпоинта. Как правило, необходимо создать особый файл в особом месте. Когда решатель его обнаружит, он сам все поймет. Особый файл будет удалён сразу после его обработки. Давайте посмотрим, как это сделать для основных решателей ANSYS.
+Mechanical/APDL:
+В рабочей директории решателя надо создать файл с именем jobname.abt, где jobname - имя проекта. Файл должен содержать только одно слово: nonlinear
+Fluent:
+Для записи файла рестарта (а это просто обычный набор из cas и dat) необходимо создать файл check-fluent в директории /tmp для Linux или check-fluent.txt в директории C:\temp для Windows. Корректно завершить решатель можно, создав в этих директориях файл exit-fluent или exit-fluent.txt соответсвенно.
+CFX:
+C этим решателем все сильно проще. У него есть специальный исполняемый файл cfx5stop, предназначенный для корректной остановки расчета. Таким образом, для проекта mixer_001, достаточно выполнить команду cfx5stop -directory mixer_001.dir в его рабочей директории - там mixer_001.dir будет являться временной рабочей директорией.
+LS-DYNA:
+У этого решателя есть такая штука как SWITCH CONTROLS - в ходе расчета вы можете нажать комбинацию клавиш Control+C и ввести определнный код. Вот те ключевые коды, которые относятся к нашей теме:
+sw1 - записать файл рестарта
+sw2 - вывести оценку оставшегося времени расчета
+sw3 - записать файл рестарта
+Если консоль вам недоступна (расчет идет в фоне), то необходимо создать в рабочей директории решателя файл d3kil (или jobid.d3kil, если вы используете идентификаторы расчетного проекта), содержащий соответсвующий код.
+Autodyn
+Для этого решателя надо создать файл savenow.dat для записи файла рестарта в конце текущей итерации, а файл endbat.dat завершит расчет после окончания текущей итерации.
+Решатели семейства AEDT (ANSYS Electronics Desktop) - бывший Ansoft
+Знающие люди подсказали, что решатели можно спокойно убивать на лету - они сами смогут рестартовать остановленный таким образом расчет с последней записанной итерации.
+ANSYS Workbench
+Если вы пользуетесь ANSYS RSM, то там для всех поддерживаемых решателей уже есть стандартная кнопка Interrupt, которая делает всю вышеописанную магию за вас. Настраивайте RSM и наслаждайтесь :-)&lt;/p&gt;
+&lt;p&gt;#AEDT #ANSYS #Autodyn #CFX #Checkpont #Fluent #HPC #Longread #LSDYNA #Restart #RSM #Workbench
+&lt;a href=&#34;http://bit.ly/2u3rrhp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2u3rrhp&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сейчас на рынке #HPC интерконнектов идет тихая война между #</title>
+      <link>http://localhost:1313/posts/2017-12-24-seychas-na-rynke-hpc-interkonnektov-idet/</link>
+      <pubDate>Sun, 24 Dec 2017 17:11:49 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-12-24-seychas-na-rynke-hpc-interkonnektov-idet/</guid>
+      <description>&lt;p&gt;Хотя на мой вкус, Mellanox так далеко впереди, что за ним уже никому не угнаться. Посудите сами: у них полностью аппаратная работа с данными, не нагружающая CPU, у них уже есть 200 Гбит и, что самое важное, их поддерживают все решатели (ну хотя бы все решатели #ANSYS). А вот Intel #OPA может только #ANSYS #Fluent и #ANSYS #CFX.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2l7xnl8MediaMediaMedia&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2l7xnl8MediaMediaMedia&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2kQNVyg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2kQNVyg&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Статья - размышление про то, как #ANSYS #Discovery Live помо</title>
+      <link>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</link>
+      <pubDate>Sun, 17 Sep 2017 17:04:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</guid>
+      <description>&lt;p&gt;И тут ключевыми факторами успеха оказывается не только использование самого передового решателя, разработанного совместно с #NVIDIA. Не даром ANSYS очень дружен с разработчиком GPU. Об этом говорят те факты, что #Mechanical #APDL был первым коммерческим #FEM использовавшим #GPU, как и #Fluent - первым коммерческим #CFD использовавшим #GPU&lt;/p&gt;
+&lt;p&gt;Тут еще вспоминается и #SpaceClaim, который выйдя на рынок в 2005 сделал лидеров отстающими. Именно после #SpaceClaim появились такие системы, как #PTC #Creo, #Autodesk #Fusion и концепция #Siemens Synchronous Technology.&lt;/p&gt;
+&lt;p&gt;Сейчас SpaceClaim становиться геометрическим ядром для #Workbench, #AIM и #ANSYS #Discovery.&lt;/p&gt;
+&lt;p&gt;#GPGPU #CUDA
+&lt;a href=&#34;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&lt;/a&gt; 🔗 ANSYS Discovery Live Changes Everything&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Надеюсь вы не пропустили мероприятие по поводу #ANSYS #Disco</title>
+      <link>http://localhost:1313/posts/2017-09-07-nadeyus-vy-ne-propustili-meropriyatie-po/</link>
+      <pubDate>Thu, 07 Sep 2017 14:31:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-09-07-nadeyus-vy-ne-propustili-meropriyatie-po/</guid>
+      <description>&lt;p&gt;Из того, что мне больше всего понравилось - это возможность не только практически мгновенно сделать прикидочный расчет, но и экспортировать его для доводки в #AIM, #Mechanical, #Fluent и #Maxwell. Понравилось, что #ANSYS #Discovery - свежий код, который не тащит с собой кучу наследства и умеет нормально использовать #GPGPU #NVIDIA.&lt;/p&gt;
+&lt;p&gt;Что мне не понравилось: обещали интерактивное мероприятие, а на деле был набор заготовленных видео роликов.&lt;/p&gt;
+&lt;p&gt;А еще, на сайте продукта уже можно скачать техническое превью бесплатно.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ansys.com/discovery&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ansys.com/discovery&lt;/a&gt; 🔗 ANSYS Discovery Live: Instant Simulation Results&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>История успеха с кубка Америки по яхтенному спорту 2017</title>
+      <link>http://localhost:1313/posts/2017-07-17-istoriya-uspeha-s-kubka-ameriki-po-yahtenn/</link>
+      <pubDate>Mon, 17 Jul 2017 17:00:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-07-17-istoriya-uspeha-s-kubka-ameriki-po-yahtenn/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.ansys-blog.com/emirates-team-new-zealand-wins-2017-americas-cup/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/emirates-team-new-zealand-wins-2017-americas-cup/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS рассказывает о том, как его технологии помогли команде Emirates Team New Zealand победить в самой престижной гонке на скоростных парусных судах. Расчетами занимались инженеры австралийского партнера - компании #LEAP Australia&lt;/p&gt;
+&lt;p&gt;Пригодилось много чего:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ANSYS #Composite PrepPost - композиты&lt;/li&gt;
+&lt;li&gt;ANSYS #Mechancial - прочность&lt;/li&gt;
+&lt;li&gt;ANSYS #Fluent - аэро и гидродинамика&lt;/li&gt;
+&lt;li&gt;ANSYS #DesignXplorer - оптимизация и робастрое проектирование&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/xXWGSvJRACE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/xXWGSvJRACE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>А что если Fluent на миллион ядер запустить</title>
+      <link>http://localhost:1313/posts/2017-05-14-a-chto-esli-fluent-na-million-yader-zapust/</link>
+      <pubDate>Sun, 14 May 2017 17:00:55 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-05-14-a-chto-esli-fluent-na-million-yader-zapust/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.ansys-blog.com/hpc/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/hpc/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS прикинул, что если они не сбавят темпы разработки #HPC части своего главного #CFD кода #Fluent, то к 2020 году он сможет эффективно распараллеливать на миллион ядер. А что, последний десяток лет им удается сохранять тренд. Challenge accepted, как говориться.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как правильно кататься на велосипеде зная #CFD</title>
+      <link>http://localhost:1313/posts/2016-08-08-kak-pravilno-katatsya-na-velosipede-zna/</link>
+      <pubDate>Mon, 08 Aug 2016 06:30:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-08-08-kak-pravilno-katatsya-na-velosipede-zna/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/fantastic-downhill-from-chris-froome-worth-scientific-bert-blocken&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.linkedin.com/pulse/fantastic-downhill-from-chris-froome-worth-scientific-bert-blocken&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Кристофер (Крис) Фрум (Christopher &amp;ldquo;Chris&amp;rdquo; Froome) на Тур де Франс 2016 (фр. Tour de France 2016) не только выиграл 8-ой этап гонки, но и удивил всех необычной посадкой на своем гоночном велосипеде. При помощи #ANSYS #Fluent специалисты Université de Liege, Бельгия, Eindhoven University of Technology, Голландия, KU Leuven, Бельгия и ANSYS International провели расследование случившегося и пришли к очень любопытным выводам. За подробностями по ссылке.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сегодня в Питере провели небольшой семинар на пол дня по #AN</title>
+      <link>http://localhost:1313/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</link>
+      <pubDate>Thu, 02 Jun 2016 13:58:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</guid>
+      <description>&lt;p&gt;11 докладов по #Mechanical, #Explicit, #CFX, #Fluent, #DesignXplorer, #SpaceClaim, #HPC, #RBD, #ACP, #ACCS и конечно же #AIM!&lt;/p&gt;
+&lt;p&gt;А еще состоялся анонс проекта под рабочим названием #CADFEM #Haze!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Простои и наглядный пример/видео урок по работе #ANSYS #Adjo</title>
+      <link>http://localhost:1313/posts/2016-04-30-prostoi-i-naglyadnyy-primervideo-urok-po/</link>
+      <pubDate>Sat, 30 Apr 2016 07:00:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-04-30-prostoi-i-naglyadnyy-primervideo-urok-po/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Покупка CD-adapco обошлась Siemens меньше чем в 1 Instagram </title>
+      <link>http://localhost:1313/posts/2016-01-26-pokupka-cd-adapco-oboshlas-siemens-mensh/</link>
+      <pubDate>Tue, 26 Jan 2016 07:45:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-01-26-pokupka-cd-adapco-oboshlas-siemens-mensh/</guid>
+      <description>&lt;p&gt;Siemens прикупил себе CD-adapco. Напомню, что у Siemens сейчас есть #Nastran - старый и проверенный код для неявной механики. Причем он интегрирован с ранее приобретенной очень крутой #CAD системой #Unigraphic, которую с трудом догоняли такие звери как #Catia и Pro/E. Кроме того, #Siemens приобрел себе Samsef - французский код для механики, который лучше всех считает композиты. Teamcenter - вообще самый крутой на рынке PLM/PDM.&lt;/p&gt;
+&lt;p&gt;Добавим к этому портфолио #StarCCM+ - единственного серьезного конкурента #Fluent, и получим очень сильную связку.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Запущенный на Cary XC40TM код ANSYS Fluent помог очень краси</title>
+      <link>http://localhost:1313/posts/2015-10-07-zapuschennyy-na-cary-xc40tm-kod-ansys-flue/</link>
+      <pubDate>Wed, 07 Oct 2015 18:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-07-zapuschennyy-na-cary-xc40tm-kod-ansys-flue/</guid>
+      <description>&lt;p&gt;Дальше остаться только завидовать показателям: сетка на 62 миллионов ячеек, 8192 ядра суперкомпьютера. CARY MPI и Cary Linux делают свое дело в плане эффективности.&lt;/p&gt;
+&lt;p&gt;Иллюстрации от FCA Italy.&lt;/p&gt;
+&lt;p&gt;Пресс релиз доступен по ссылке:
+&lt;a href=&#34;http://www.ansys.com/staticassets/ANSYS/staticassets/partner/Cray/ApplicationBrief-Cray-ANSYS-Fluent-Vehicle-Noise.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/staticassets/ANSYS/staticassets/partner/Cray/ApplicationBrief-Cray-ANSYS-Fluent-Vehicle-Noise.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Издание HPCWire начало голосование за лучшие HPC 2015 года. </title>
+      <link>http://localhost:1313/posts/2015-09-30-izdanie-hpcwire-nachalo-golosovanie-za-lu/</link>
+      <pubDate>Wed, 30 Sep 2015 06:30:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-30-izdanie-hpcwire-nachalo-golosovanie-za-lu/</guid>
+      <description>&lt;p&gt;Голосование будет проходить до 9 Октября 23:59 по тихоокеанскому времени.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Молния! Сегодня стало известно о новых рекордах ANSYS в обла</title>
+      <link>http://localhost:1313/posts/2015-09-10-molniya-segodnya-stalo-izvestno-o-novyh-r/</link>
+      <pubDate>Thu, 10 Sep 2015 11:19:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-10-molniya-segodnya-stalo-izvestno-o-novyh-r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

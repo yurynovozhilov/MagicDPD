@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CESE on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/cese/</link>
+    <description>MagicDPD: Magic Driven Product Development! (CESE)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 24 Apr 2020 15:27:20 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/cese/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Вебинар «Методики моделирования взрывов в Ansys LS-DYNA»</title>
+      <link>http://localhost:1313/posts/2020-04-24-vebinar-metodiki-modelirovaniya-vzryvov/</link>
+      <pubDate>Fri, 24 Apr 2020 15:27:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-04-24-vebinar-metodiki-modelirovaniya-vzryvov/</guid>
+      <description>&lt;p&gt;#ALE #blast #CESE #ConWep #FSI #LS_DYNA #ParticleBlast #S_ALE #SPH
+by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование горения газовых смесей в LS-DYNA</title>
+      <link>http://localhost:1313/posts/2019-06-27-modelirovanie-goreniya-gazovyh-smesey-v-l/</link>
+      <pubDate>Thu, 27 Jun 2019 17:01:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-06-27-modelirovanie-goreniya-gazovyh-smesey-v-l/</guid>
+      <description>&lt;p&gt;Вашему вниманию предлагаю слайды доклада коллег из LSTC по теме моделирования горения газовых смесей. Да-да, совместная работа CESE решателя гидродинамики с учетом сжимаемости и химического решателя (оба внутри LS-DYNA) позволяют и такое.&lt;/p&gt;
+&lt;p&gt;Все это идет далеко за пределы квалификации хорошего инженера расчётчика: тут необходимы знания и химии, и механики, и гидродинамики. Но зато вы сможете считать как горение, так и детонацию газовой смеси!&lt;/p&gt;
+&lt;p&gt;Слайды доступны по ссылке:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;ftp://ftp.lstc.com/outgoing/ksim/examples/LNG_fire/Lng_combustion_KOGAS_2018.pdf&#34;&gt;ftp://ftp.lstc.com/outgoing/ksim/examples/LNG_fire/Lng_combustion_KOGAS_2018.pdf&lt;/a&gt; &lt;a href=&#34;ftp://ftp.lstc.com/outgoing/ksim/examples/LNG_fire/Lng_combustion_KOGAS_2018.ppsm&#34;&gt;ftp://ftp.lstc.com/outgoing/ksim/examples/LNG_fire/Lng_combustion_KOGAS_2018.ppsm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#CESE #Chemistry #FSI #LS_DYNA #LSTC&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2A1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2A1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Материалы вебинара по новым возможностям LS-DYNA R9</title>
+      <link>http://localhost:1313/posts/2016-12-18-materialy-vebinara-po-novym-vozmozhnostyam/</link>
+      <pubDate>Sun, 18 Dec 2016 17:00:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-12-18-materialy-vebinara-po-novym-vozmozhnostyam/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.dynamore.se/en/news/meet-dynamore/resources/papers/webinar-ls-dyna-r9-presentations&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.se/en/news/meet-dynamore/resources/papers/webinar-ls-dyna-r9-presentations&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Шведское подразделение #DYNAmore любезно выложило слайды с прошедшего вебинара по новым возможностям #LSDYNA R9. Для меня это просто праздник какой-то, ибо внутри есть много очень крутых фишек.&lt;/p&gt;
+&lt;p&gt;Вот что больше всего понравилось мне:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Новые карты &lt;em&gt;MODULE_&lt;/em&gt; для подключения самоличных (#UDF) расширений к вычислительному ядру решателя без его пересборки&lt;/li&gt;
+&lt;li&gt;Роторная динамика (*CONTROL_IMPLICIT_ROTATIONAL_DYNAMICS) в #Implicit решателе&lt;/li&gt;
+&lt;li&gt;Новая подключаемая модель повреждения (не путать с разрушением) материала *MAT_ADD_GENERALIZED_DAMAGE&lt;/li&gt;
+&lt;li&gt;Новая модель материла для *MAT_GLASS стекал (в том числе и триплекса) специально сделанная для моделирования процесса трещенообразования в shell постановке&lt;/li&gt;
+&lt;li&gt;Одно и двухсторонний #FSI для #DEM в #ICFD решателе благодаря *ICFD_CONTROL_DEM_COUPLING&lt;/li&gt;
+&lt;li&gt;Расширенная работа не ньютоновскими жидкостями и жидкостями с температурнозависимой вязкостью благодаря *ICFD_MODEL_NONNEWT&lt;/li&gt;
+&lt;li&gt;Граничные условия типа &amp;ldquo;ударная волна от взрыва&amp;rdquo; (через взаимодействие с *LOAD_BLAST_ENHANCED) для #CFD решателя сжимаемых течений #CESE&lt;/li&gt;
+&lt;li&gt;Бессеточный (!!!) метод обогощенных конечных элементов (Meshfree Enriched FEM, #MEFEM) специально для моделирования резин (*SECTION_SOLID, ELFORM=43).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;P.S. Ну надо было только такое придумать - бессеточный метод конечных элементов :-)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slamming on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/slamming/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Slamming)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Thu, 17 Mar 2016 07:01:26 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/slamming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Я вчера у ЦНИИ &#34;Электроприбор&#34; на конференции рассказывал пр</title>
+      <link>http://localhost:1313/posts/2016-03-17-ya-vchera-u-tsnii-elektropribor-na-konfer/</link>
+      <pubDate>Thu, 17 Mar 2016 07:01:26 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-03-17-ya-vchera-u-tsnii-elektropribor-na-konfer/</guid>
+      <description>&lt;p&gt;P.S. Хозяйке на заметку: SlideGo оказался единственным средством опубликовать презентацию с интегрированным видео в режиме только для чтения. Знает кто альтернативы?&lt;/p&gt;
+&lt;p&gt;P.P.S. Волшебная строчка для конвертации видео в формат, понятный HTML5 браузерам:
+ffmpeg -i file.avi -c:v libx264 -pix_fmt yuv420p -movflags faststart file.mp4&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

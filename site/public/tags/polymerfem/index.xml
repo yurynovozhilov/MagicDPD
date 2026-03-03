@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PolymerFEM on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/polymerfem/</link>
+    <description>MagicDPD: Magic Driven Product Development! (PolymerFEM)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 15 Apr 2022 17:00:05 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/polymerfem/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Обычно, я занимаюсь моделированием быстропротекающих (что-то</title>
+      <link>http://localhost:1313/posts/2022-04-15-obychno-ya-zanimayus-modelirovaniem-bystr/</link>
+      <pubDate>Fri, 15 Apr 2022 17:00:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-04-15-obychno-ya-zanimayus-modelirovaniem-bystr/</guid>
+      <description>&lt;p&gt;Именно про ползучесть мне и попалась обзорная презентация от Йоргена Бергстрома (Dr. Jorgen Bergstrom), разработчика модели гипервязкоупругости Бергстрома-Бойс (Bergstrom-Boyce) и основателя #PolymerFEM LLC. Проф. Бегрстром в своем видео попробует помочь нам разобраться, зачем в #Ansys #Mechanical реализовано 11 моделей ползучести, как они работают и когда их стоит применять.
+#creep &lt;a href=&#34;https://youtu.be/hhOHap0GL1M&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/hhOHap0GL1M&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование пены низкой плотности в МКЭ</title>
+      <link>http://localhost:1313/posts/2021-02-03-modelirovanie-peny-nizkoy-plotnosti-v-mk/</link>
+      <pubDate>Wed, 03 Feb 2021 13:01:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-02-03-modelirovanie-peny-nizkoy-plotnosti-v-mk/</guid>
+      <description>&lt;p&gt;На сегодня я нашел два интересных видео, посвященных моделированию полимерной пены низкой плотности.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=g8YSmFk5KSc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=g8YSmFk5KSc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В первом видео обсуждается, почему традиционные гиперупругие модели материалов не могут использоваться для прогнозирования поведения мягких полимерных пен. Далее в видео рассматривается математика работы специализированных подходящий моделей Ansys Ogden Foam, LS-DYNA Hill Foam, Abaqus Hyperfoam и COMSOL Storakers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=W9e-GJHJk00&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=W9e-GJHJk00&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Во второй части видео показывается, как проводить настройку модели материалов с применением пакета PolymerFEM MCalibration.&lt;/p&gt;
+&lt;p&gt;#abaqus #ansys #comsol #foam #ls-dyna #mcalibration #mechanical #polymerfem
+&lt;a href=&#34;https://tinyurl.com/y2gu28ph&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y2gu28ph&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

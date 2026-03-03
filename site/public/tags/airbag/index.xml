@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Airbag on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/airbag/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Airbag)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 19 Oct 2021 17:02:03 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/airbag/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Моделирование укладки подушки безопасности в LS-DYNA</title>
+      <link>http://localhost:1313/posts/2021-10-19-modelirovanie-ukladki-podushki-bezopasnos/</link>
+      <pubDate>Tue, 19 Oct 2021 17:02:03 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-10-19-modelirovanie-ukladki-podushki-bezopasnos/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=axbvdmrxbBo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=axbvdmrxbBo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#airbag #ansys #ls-prepost #lsdyna
+&lt;a href=&#34;https://tinyurl.com/yfnouykp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfnouykp&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Подходы к моделированию подушек безопастности</title>
+      <link>http://localhost:1313/posts/2021-02-15-podhody-k-modelirovaniyu-podushek-bezopast/</link>
+      <pubDate>Mon, 15 Feb 2021 18:09:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-02-15-podhody-k-modelirovaniyu-podushek-bezopast/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MI_u7HEnbyQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=MI_u7HEnbyQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В настоящее время LS-DYNA предлагает три различных метода моделирования подушек безопасности. Подход на основе однородного давления (UP, uniform pressure), старейший из доступных методов, является очень эффективным с вычислительной точки зрения и хорошо работает, например, для моделирования взаимодействия манекенов с полностью надутыми подушками безопасности. Для удовлетворения возросших требований, предъявляемых к современным имитационным моделям, все большее значение приобретает точное отображение фазы развертывания.Поэтому используется метод ALE, при котором &amp;ldquo;газовая&amp;rdquo; область дискретизирована конечными элементами, что позволяет моделировать эффекты потока газа и его взаимодействие с тканью подушки безопасности. Совсем недавно был реализован метод корпускулярных частиц (CPM, Corpuscular Particle Method), где газ представлен дискретными частицами, взаимодействующими друг с другом и с окружающей их средой. Кстати, все эти методы могут применять не только для моделирования подушек безопастности, то и для расчетом сосудов и трубопроводов под давлением: моделирование динамики пневматических покрышек, моделирование баллонов  пневматической подвески или даже пневматические испытания трубопровода.&lt;/p&gt;
+&lt;p&gt;#airbag #ale #cpm #ls-dyna
+&lt;a href=&#34;https://tinyurl.com/y44xkm2g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y44xkm2g&lt;/a&gt;
+by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Просто залипательные видео про подушки безопастности</title>
+      <link>http://localhost:1313/posts/2019-06-19-prosto-zalipatelnye-video-pro-podushki-b/</link>
+      <pubDate>Wed, 19 Jun 2019 17:00:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-06-19-prosto-zalipatelnye-video-pro-podushki-b/</guid>
+      <description>&lt;p&gt;Серия видео с результатом расчета раскрытия подушки безопасности. Поведение газа внутри объема подушки моделируется при помощи  Particle Finite Element Method (PFEM), относящийся к бессточным методам Галеркина.&lt;/p&gt;
+&lt;p&gt;#ABAQUS #Airbag #FSI #PFEM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2zF&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2zF&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

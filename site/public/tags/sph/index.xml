@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sph on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/sph/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Sph)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 25 May 2022 18:00:08 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/sph/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Южнокорейская компания #Metariver Technology Co., Ltd показа</title>
+      <link>http://localhost:1313/posts/2022-05-25-yuzhnokoreyskaya-kompaniya-metariver-techno/</link>
+      <pubDate>Wed, 25 May 2022 18:00:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-05-25-yuzhnokoreyskaya-kompaniya-metariver-techno/</guid>
+      <description>&lt;p&gt;Теперь же Metariver взяли и выкатили поддержку #MPS (Moving Particle Semi-Implicit Method), что, при правильно реализации, позволит выполнять #CFD расчеты намного точнее чем традиционный #SPH.&lt;/p&gt;
+&lt;p&gt;#meshless&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/eXCe5LgOTH0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/eXCe5LgOTH0&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/6-rN7ABWbkM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/6-rN7ABWbkM&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Недавно я писал про модель сердца, которую сделали на день с</title>
+      <link>http://localhost:1313/posts/2022-02-24-nedavno-ya-pisal-pro-model-serdtsa-kotor/</link>
+      <pubDate>Thu, 24 Feb 2022 17:00:10 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-02-24-nedavno-ya-pisal-pro-model-serdtsa-kotor/</guid>
+      <description>&lt;p&gt;#SPH #ALE #ICFD #CFD #ANSYS &lt;a href=&#34;https://www.tafsm.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.tafsm.org&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Люблю повеселиться, особенно поесть. А вы знали, что 05.02.2</title>
+      <link>http://localhost:1313/posts/2022-02-11-lyublyu-poveselitsya-osobenno-poest-a-v/</link>
+      <pubDate>Fri, 11 Feb 2022 17:00:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-02-11-lyublyu-poveselitsya-osobenno-poest-a-v/</guid>
+      <description>&lt;p&gt;Основная идея расчета в том, что крем из ореховой нуги обладает нелинейной вязкостью и уплотняется при сдвиге. Такая физика поведения материала является довольно сложной для классических бессеточных кодов на основе #SPH. Однако, Particleworks использует #MPS (Moving Particle Simulation) подход, позволяющий реализовывать более сложные модели вязкости, подходящие для описания данной физики. &lt;a href=&#34;https://youtu.be/zfwh9d-xTaQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/zfwh9d-xTaQ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Национальная лаборатория Лоуренса Ливермора и атака астероид</title>
+      <link>http://localhost:1313/posts/2021-11-24-natsionalnaya-laboratoriya-lourensa-liverm/</link>
+      <pubDate>Wed, 24 Nov 2021 16:34:59 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-11-24-natsionalnaya-laboratoriya-lourensa-liverm/</guid>
+      <description>&lt;p&gt;Национальная лаборатория Лоуренса Ливермора (LLNL) принимает участие в первом в истории NASA испытании планетарной защиты, в ходе которого космический аппарат намеренно столкнется с астероидом под названием Dimorphos.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UbrxGnkIoXE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=UbrxGnkIoXE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В ходе испытания Double Asteroid Redirect Test (DART) будут изучены технологии, которые позволят предотвратить столкновение опасного астероида с Землей. DART - это первая демонстрация кинетического ударного механизма для изменения движения астероида в космосе. Астероид является маленькой луной более крупного астероида под названием Дидимос. Удар в Dimorphos не представляет опасности для Земли.&lt;/p&gt;
+&lt;p&gt;Нас в этой новости интересует инструмент моделирования такого уникального события. Им будет свободный бессеточный код Spheral собственной разработки LLNL. Код умеет SPH (гидродинамика сглаженных частиц) и ASPH (адаптивная гидродинамика сглаженных частиц). Он также может учитывать предоставляем гравитацию (как само гравитацию с помощью методов N-тел, так и наложение произвольных внешних сил) и моделирование повреждений в твердых телах с помощью стохастической техники Гради-Киппа. Код можно расширять при помощи C++ или Python, причем Python позволяет добавлять именно физику и алгоритмы, специфичные для конкретной задачи.&lt;/p&gt;
+&lt;p&gt;Источник: &lt;a href=&#34;https://www.llnl.gov/news/lawrence-livermore-takes-part-nasas-first-planetary-defense-test&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.llnl.gov/news/lawrence-livermore-takes-part-nasas-first-planetary-defense-test&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Репозиторий кода Spheral: &lt;a href=&#34;https://github.com/LLNL/spheral&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/LLNL/spheral&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#dart #llnl #open_source #sph #spheral
+&lt;a href=&#34;https://tinyurl.com/yeh78hvs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yeh78hvs&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Визуализация свободной поверхности SPH в LS-PrePost</title>
+      <link>http://localhost:1313/posts/2021-04-29-vizualizatsiya-svobodnoy-poverhnosti-sph-v/</link>
+      <pubDate>Thu, 29 Apr 2021 15:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-04-29-vizualizatsiya-svobodnoy-poverhnosti-sph-v/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=4sQET0y_gUI&amp;amp;feature=share&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=4sQET0y_gUI&amp;feature=share&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #ls-prepost #lsdyna #sph
+&lt;a href=&#34;https://tinyurl.com/yhlgwks6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yhlgwks6&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирвоание слошинга при вертикальных колебаниях</title>
+      <link>http://localhost:1313/posts/2021-04-05-modelirvoanie-sloshinga-pri-vertikalnyh/</link>
+      <pubDate>Mon, 05 Apr 2021 13:01:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-04-05-modelirvoanie-sloshinga-pri-vertikalnyh/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/wHM1pl77HPA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/wHM1pl77HPA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Четвертый доклад с первого виртуального семинара от UK Fluids Network по жидкостям SPH SIG. Джо Де Курси (Joe De Courcy) из Университета Бристоля (The University of Bristol) рассказывает о работе, проделанной вместе с его коллегой Лучианом Константином (Lucian Constantin), чтобы смоделировать поведение жидкостей при вертикальных колебаниях с помощью SPH.&lt;/p&gt;
+&lt;p&gt;#sloshing #sph
+&lt;a href=&#34;https://tinyurl.com/ygocan2l&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ygocan2l&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование разрушения и фрагментации при помощи SPH</title>
+      <link>http://localhost:1313/posts/2021-03-29-modelirovanie-razrusheniya-i-fragmentatsii/</link>
+      <pubDate>Mon, 29 Mar 2021 13:01:30 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-03-29-modelirovanie-razrusheniya-i-fragmentatsii/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/p0e8pTs0zgU?list=WL&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/p0e8pTs0zgU?list=WL&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Третий доклад с первого виртуального семинара от UK Fluids Network по жидкостям SPH SIG. Эваристо Сантамария Ферраро (Evaristo Santamaria Ferraro) из Университета Хартфордшира (The University of Hertfordshire), а также французско-немецкого научно-исследовательского института Сен-Луи представляет свою работу по изучению процессов разрушения и фрагментации металлов с помощью SPH.&lt;/p&gt;
+&lt;p&gt;#fragmentation #ls-dyna #sph
+&lt;a href=&#34;https://tinyurl.com/yztj9swd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yztj9swd&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование вязкоупругих течений в SPH постановке</title>
+      <link>http://localhost:1313/posts/2021-03-22-modelirovanie-vyazkouprugih-techeniy-v-sph/</link>
+      <pubDate>Mon, 22 Mar 2021 13:01:30 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-03-22-modelirovanie-vyazkouprugih-techeniy-v-sph/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/rJrY0Y9LSGM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/rJrY0Y9LSGM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Второй доклад с первого виртуального семинара от UK Fluids Network по жидкостям SPH SIG. Джек Кинг (Jack King) из Университета Манчестера (The University of Manchester) обсуждает моделирование вязкоупругих течений с помощью SPH.&lt;/p&gt;
+&lt;p&gt;#sph
+&lt;a href=&#34;https://tinyurl.com/yf9luvvb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yf9luvvb&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SPH моделирование спинномозговой жидкости в LS-DYNA</title>
+      <link>http://localhost:1313/posts/2021-03-05-sph-modelirovanie-spinnomozgovoy-zhidkost/</link>
+      <pubDate>Fri, 05 Mar 2021 13:01:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-03-05-sph-modelirovanie-spinnomozgovoy-zhidkost/</guid>
+      <description>&lt;p&gt;Спинномозговая жидкость (Cerebrospinal Fluid, CSF) может претерпевать сдвиговые деформации при движении головы. Модели конечных элементов (FE), которые обычно используются для моделирования биомеханики мозга, в том числе травматических травм головного мозга, используют твердые элементы для представления CSF.&lt;/p&gt;
+&lt;p&gt;Однако, ограниченное количество элементов в паре со сдвиговыми деформациями в CSF может снизить точность их прогнозирования. Большие проблемы деформации могут быть точно смоделированы с помощью безсеточного метода гидродинамики сглаженных частиц (SPH). Таким образом, молодые ученые взяли LS-DYNA и посчитали в нем мозг с учетом CSF, а результаты опубликовали в журнале &amp;ldquo;International Journal for Numerical Methods in Biomedical Engineering&amp;rdquo; &lt;a href=&#34;https://doi.org/10.1002/cnm.3440&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://doi.org/10.1002/cnm.3440&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Исходный пост с анимацией результатов: &lt;a href=&#34;https://www.linkedin.com/posts/activity-6772564841979797504-jHS_/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.linkedin.com/posts/activity-6772564841979797504-jHS_/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#biomed #ls-dyna #sph
+&lt;a href=&#34;https://tinyurl.com/ydgrrc9c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ydgrrc9c&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Неявный решатель SPH с учетом сжимаемости для моделирования </title>
+      <link>http://localhost:1313/posts/2021-02-08-neyavnyy-reshatel-sph-s-uchetom-szhimaemost/</link>
+      <pubDate>Mon, 08 Feb 2021 09:41:40 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-02-08-neyavnyy-reshatel-sph-s-uchetom-szhimaemost/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=JSNE_PIG1UQ&amp;amp;feature=share&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=JSNE_PIG1UQ&amp;feature=share&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Обзор публикации &amp;ldquo;An Implicit Compressible SPH Solver for Snow Simulation&amp;rdquo; коллег из FIFTY2 Technology GmbH - разработчиков PreonLab. Статья опубликована в рамках конференции  SIGGRAPH. Что тут сказать: выглядит круто, однако конференция SIGGRAPH - это конференция по визуализации. Соответсвенно, никакой верификации или валидации данного метода для реальных расчетов снега вы не найдете. Просто красивые картинки и мультики, а жаль.&lt;/p&gt;
+&lt;p&gt;#fifty2 #preonlab #siggraph #snow #sph
+&lt;a href=&#34;https://tinyurl.com/yxezqybu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yxezqybu&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Мой топ фишек механической части ANSYS 2020 R2</title>
+      <link>http://localhost:1313/posts/2020-07-23-moy-top-fishek-mehanicheskoy-chasti-ansys-2/</link>
+      <pubDate>Thu, 23 Jul 2020 17:29:59 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-07-23-moy-top-fishek-mehanicheskoy-chasti-ansys-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Вебинар «Методики моделирования взрывов в Ansys LS-DYNA»</title>
+      <link>http://localhost:1313/posts/2020-04-24-vebinar-metodiki-modelirovaniya-vzryvov/</link>
+      <pubDate>Fri, 24 Apr 2020 15:27:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-04-24-vebinar-metodiki-modelirovaniya-vzryvov/</guid>
+      <description>&lt;p&gt;#ALE #blast #CESE #ConWep #FSI #LS_DYNA #ParticleBlast #S_ALE #SPH
+by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SimPARTIX от Фраунгоферовского института механики материалов</title>
+      <link>http://localhost:1313/posts/2020-03-10-simpartix-ot-fraungoferovskogo-instituta/</link>
+      <pubDate>Tue, 10 Mar 2020 14:51:51 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-03-10-simpartix-ot-fraungoferovskogo-instituta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPH моделирование слошинга и разбрызгивания</title>
+      <link>http://localhost:1313/posts/2019-03-26-sph-modelirovanie-sloshinga-i-razbryzgiva/</link>
+      <pubDate>Tue, 26 Mar 2019 17:01:17 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-03-26-sph-modelirovanie-sloshinga-i-razbryzgiva/</guid>
+      <description>&lt;p&gt;20 минут содержательного разговора о теории и практике применения SPH в LS-DYNA для задач слошинга и образования брызг. В ходе вебинара расскажут про особенности математики SPH, покажут основные карты, задающие работу решателя, и не забудут об тонких настройках.&lt;/p&gt;
+&lt;p&gt;#LS_DYNA #Sloshing #SPH #Splashing&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2rg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2rg&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Повышение устойчивости SPH при помощи Moving Last Square под</title>
+      <link>http://localhost:1313/posts/2019-02-08-povyshenie-ustoychivosti-sph-pri-pomoschi-mo/</link>
+      <pubDate>Fri, 08 Feb 2019 06:52:01 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-02-08-povyshenie-ustoychivosti-sph-pri-pomoschi-mo/</guid>
+      <description>&lt;p&gt;На своем канале #LSTC показали несколько тестовых задач, демонстрирующих работу их новой формулировки для #SPH. Напомню, что SPH обладает врожденной болезнью: нестабильностью при работе на растяжение. Материал, моделируемый в SPH постановке показывает разрушение при растяжении намного раньше, чем того требуют его механическое состояние — получается так из-за численных проблем.
+В видео от LSTC демонстрируется работа билда #LSDYNA с 12-ой формулировкой метода SPH, получившей название MLS-based. К сожалению, даже в самой свежей черновой документации от 4 октября, данная опция никак не описана. Однако удалось найти, что #MLS (moving last square) интерполяция ранее применялась в LS-DYNA для бессеточного метода Галеркина (#EFG, Element Free Galerkin), так что какое-то описание по теории работы метода все-таки можно найти.
+Важно другое: когда MLS-based SPH войдет в очередной релиз — это будет большой шаг в области применения бессрочных методов для&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Литеература по резанию металла на русском</title>
+      <link>http://localhost:1313/posts/2019-02-08-liteeratura-po-rezaniyu-metalla-na-russko/</link>
+      <pubDate>Fri, 08 Feb 2019 06:49:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-02-08-liteeratura-po-rezaniyu-metalla-na-russko/</guid>
+      <description>&lt;p&gt;Тот самый случай, когда лучший подарок — это книга!
+Поздравляем наших коллег из Арзамасского политехнического института с выпуском отличного учебного пособия «Численное моделирование процессов резания».
+В книге рассмотрены 3 метода моделирования процесса резания в программе LS-DYNA: Лагранжевый, SPH и EFG.
+Приведена подробная последовательность действий для создания данных моделей в препроцессоре ls-prepost.
+В конце книги представлены параметры уравнений и разрушений модели материала Джонсона-Кука для большого количества различных материалов.&lt;/p&gt;
+&lt;p&gt;#cut #EFG #LS_DYNA #SPH&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-4381&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-4381&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Работают ли бессрочные методы?</title>
+      <link>http://localhost:1313/posts/2019-02-08-rabotayut-li-bessrochnye-metody/</link>
+      <pubDate>Fri, 08 Feb 2019 04:36:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-02-08-rabotayut-li-bessrochnye-metody/</guid>
+      <description>&lt;p&gt;Работают ли бессрочные методы?
+Небольшая статья с очередной конференции по #LSDYNA. В статье рассказывается о сравнении расчета с применением сеточных и бессрочных методов с экспериментом — разрывом металлического образца.
+Постановки:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#FEM #Lagrangian&lt;/li&gt;
+&lt;li&gt;#FEM #ALE&lt;/li&gt;
+&lt;li&gt;#SPH&lt;/li&gt;
+&lt;li&gt;#EFG&lt;/li&gt;
+&lt;li&gt;#SPG
+Точную кривую не описал не один из методов. Точная форма получилась только у ALE. Хуже всех, естественно выступил SPH, с его численной нестабильностью при работе на растяжение. На мой вкус EFG дал самую хорошую кривую, но с формой беда.
+Прям захотелось повторить численный эксперимент.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ALE #EFG #FEM #Lagrangian #LS_DYNA #SPG #SPH&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-4867&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-4867&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учет сопротивления воздуха при работе с SPH</title>
+      <link>http://localhost:1313/posts/2018-08-31-uchet-soprotivleniya-vozduha-pri-rabote-s/</link>
+      <pubDate>Fri, 31 Aug 2018 18:00:26 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-08-31-uchet-soprotivleniya-vozduha-pri-rabote-s/</guid>
+      <description>&lt;p&gt;Данное видео - результат работы &amp;ldquo;Approximate Air-Fluid Interactions for SPH&amp;rdquo;, написанной коллективом авторов: Кристоф Гисслер (Christoph Gissler), Стефан Банд (Stefan Band), Андреас Пеер (Andreas Peer), Маркус Имсмен (Markus Ihmsen), Маттиас Тешнер (Matthias Teschner)&lt;/p&gt;
+&lt;p&gt;Полный текст работы свободно доступен тут:
+&lt;a href=&#34;https://www.semanticscholar.org/paper/Approximate-Air-Fluid-Interactions-for-SPH-Gissler-Band/ae64cece01e28303e2ab087d2a2818feffc3fd82&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.semanticscholar.org/paper/Approximate-Air-Fluid-Interactions-for-SPH-Gissler-Band/ae64cece01e28303e2ab087d2a2818feffc3fd82&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#SPH
+&lt;a href=&#34;http://bit.ly/2C1aOKu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2C1aOKu&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Уравнение Мурнагана для моделирования жидкостей в SPH</title>
+      <link>http://localhost:1313/posts/2018-07-26-uravnenie-murnagana-dlya-modelirovaniya-zhi/</link>
+      <pubDate>Thu, 26 Jul 2018 18:00:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-07-26-uravnenie-murnagana-dlya-modelirovaniya-zhi/</guid>
+      <description>&lt;p&gt;В LS-DYNA R10 появилось новое уравнение состояния для моделирования жидкостей. Если раньше приходилось мучаться с уравнением состояния Грюнайзена, то теперь есть специальное уравнение состояния Мурнагана для слабосжимаемых жидкостей. У LSTC есть не только статья, рассказывающая о том, как работает данное уравнение, но и целый рабочий пример, скалиброванный на эксперименте и дающий достоверные результаты!&lt;/p&gt;
+&lt;p&gt;Таким образом, мы имеем EOS_MURNAGHAN, которое сопрягается с MAT_NULL и работает только для SECTION_SPH. Остается только задать вязкость жидкости через CONTROL_BULK_VISCOSITY и все готово. Полученное решение хорошо согласуется с экспериментами и расчетами в CFD решателе LS-DYNA ICFD.&lt;/p&gt;
+&lt;p&gt;Статья: https://www.dynalook.com/15th-international-ls-dyna-conference/sph/fluid-flow-modeling-with-sph-in-ls-dyna-r
+Тестовый пример: https://www.dynaexamples.com/sph/intermediate-examples/wavestructure&lt;/p&gt;
+&lt;p&gt;#CFD #FSI #ICFD #LSDYNA #MURNAGHAN #SPH
+&lt;a href=&#34;http://bit.ly/2K2RMSG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2K2RMSG&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование армирования в бессеточных методах</title>
+      <link>http://localhost:1313/posts/2018-07-19-modelirovanie-armirovaniya-v-bessetochnyh/</link>
+      <pubDate>Thu, 19 Jul 2018 18:00:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-07-19-modelirovanie-armirovaniya-v-bessetochnyh/</guid>
+      <description>&lt;p&gt;Хочу обратить ваше внимание на статью &amp;ldquo;The Immersed Smoothed Particle Galerkin Method in LS-DYNA® for Material Failure Analysis of Fiber-Reinforced Solid Structures&amp;rdquo;, опубликованную в рамках 15-ой международной пользовательской конференции LS-DYNA. В ней рассказывается про разработку новой карты *CONSTRAINED_IMMERSED_IN_SPG, которая позволяет автоматически встраивать армирование на основе beam элементов в матрицу, на основе SPG формулировки.&lt;/p&gt;
+&lt;p&gt;SPG - Smoothed Particle Galerkin Method - бессеточный метод, разработанный LSTC для моделирования процессов как хрупкого, так и пластического разрушения. Данный метод вобрал в себя все преимущества SPH, но лишился его недостатков - например, нестабильности при растяжении или невозможности работы с неявным решателем. Подробности по математике метода тут: https://www.dynalook.com/13th-international-ls-dyna-conference/fluid-structure-interaction/an-introduction-to-the-ls-dyna-r-smoothed-particle-galerkin-method-for-severe-deformation-and-failure-analyses-in-solids
+Таким образом, *CONSTRAINED_IMMERSED_IN_SPG позволит нормально считать задачи пробивания в бессеточной постановке как только будет включен.&lt;/p&gt;
+&lt;p&gt;#LSDYNA #LSTC #Meshless #Reinforcement #SPG #SPH
+&lt;a href=&#34;http://bit.ly/2NrEzFg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NrEzFg&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Совершенствование конструкции защитных экранов Уипла</title>
+      <link>http://localhost:1313/posts/2018-05-26-sovershenstvovanie-konstruktsii-zaschitnyh-e/</link>
+      <pubDate>Sat, 26 May 2018 18:00:54 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-05-26-sovershenstvovanie-konstruktsii-zaschitnyh-e/</guid>
+      <description>&lt;p&gt;Новая публикация от моего коллеги Александра Черняева, который долгое время занимался защитой космических объектов от ударов микрометеоритов. Аккуратно, внутри много экспериментальных данных и расчетов в AUTODYN.
+&lt;a href=&#34;https://vk.com/wall13004811_950&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/wall13004811_950&lt;/a&gt;
+#ANSYS #Autodyn #SPH&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1RE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1RE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование турбулентного течения (и не только) в SHP пост</title>
+      <link>http://localhost:1313/posts/2018-04-28-modelirovanie-turbulentnogo-techeniya-i-n/</link>
+      <pubDate>Sat, 28 Apr 2018 18:01:17 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-04-28-modelirovanie-turbulentnogo-techeniya-i-n/</guid>
+      <description>&lt;p&gt;Видео в данном посте — результат работы библиотеки с открытым исходным кодом SPlisHSPlasH (&lt;a href=&#34;http://www.interactive-graphics.de/SPlisHSPlasH/doc/html/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.interactive-graphics.de/SPlisHSPlasH/doc/html/)&lt;/a&gt;. Данная библиотека реалзирует возможность работы с течениями в SPH постановке. При этом она позволяет получать прямо-таки магического качества результаты. Библотека позволяет учитывать завихренность потока, вязкозть жидкости (!), поверхностное натяжение (!!!).
+Также, в библиотеке реализованы такие методы как:&lt;/p&gt;
+&lt;p&gt;Weakly compressible SPH for free surface flows (WCSPH)
+Predictive-corrective incompressible SPH (PCISPH)
+Position based fluids (PBF)
+Implicit incompressible SPH (IISPH)
+Divergence-free smoothed particle hydrodynamics (DFSPH)
+Projective Fluids (PF)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=elZieJNBYqk&amp;amp;feature=share&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=elZieJNBYqk&amp;feature=share&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ссылка на репозиторий проекта: https://github.com/InteractiveComputerGraphics/SPlisHSPlasH — есть сборки под Windows 10 и Ubuntu
+#CFD #Open Source #SPH #SPlisHSPlasH&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1NN&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1NN&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Попадание птицы в турбореактивный двигатель</title>
+      <link>http://localhost:1313/posts/2018-04-27-popadanie-ptitsy-v-turboreaktivnyy-dvigat/</link>
+      <pubDate>Fri, 27 Apr 2018 18:01:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-04-27-popadanie-ptitsy-v-turboreaktivnyy-dvigat/</guid>
+      <description>&lt;p&gt;Перед нами подборка как учебных, так и демонстрационных видео на тему моделирования попадания SPH птицы-жидкости (*MATNULL и *EOS\GRUNEISEN) в двигатель коммерческого лайнера.
+#bird strike #LS-DYNA #SPH&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1NF&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1NF&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Расчет подрыва ЖБ плиты с учетом фрагментации</title>
+      <link>http://localhost:1313/posts/2018-02-07-raschet-podryva-zhb-plity-s-uchetom-fragmen/</link>
+      <pubDate>Wed, 07 Feb 2018 18:00:53 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-02-07-raschet-podryva-zhb-plity-s-uchetom-fragmen/</guid>
+      <description>&lt;p&gt;Очень красивый пример от LSTC, демонстрирующий работу LS-DYNA в области расчета взрывов и переноса нагрузок от них на конструкции. Разберем три составляющих успеха данного расчета.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Имеем бетонную плиту, армированную стальными стержнями (естественно beam арматура внедряется в solid бетон при помощи специальных уравнений связи типа *CONSTRAINED_BEAM_IN_SOLID).&lt;/li&gt;
+&lt;li&gt;Дальше, на этой плите расположен заряд в оболочке из shell элементов. Заряд ВВ моделируется в постановке Particle Blast Method (PBM) - не надо заморачиваться с генерацией SPH или переходом в эйлеров домен. PBM решает быстро и точно!&lt;/li&gt;
+&lt;li&gt;И на десерт, для solid элементов бетона задается *DEFINE_ADAPTIVE_SOLID_TO_SPH - автоматическое переключение умерших solid элементов в SPH частицы, моделирующие разлет осколков. Надо отдельно отметить, что получающиеся SPH частицы могут не просто разлетаться, как точечные массы, но и работать как тот же самый бетон, но уже сильно поврежденный - между ними есть определенный потенциал взаимодействия.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=QHbO6tRPI3c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=QHbO6tRPI3c&lt;/a&gt;
+#blast #concrete #CONSTRAINED_BEAM_IN_SOLID #DEFINE_ADAPTIVE_SOLID_TO_SPH #fracture #fragmentation #LS-DYNA #LSTC #ParticleBlast #reinforcement #SPH
+&lt;a href=&#34;https://wp.me/p9vWYY-1BK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1BK&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Делал уборку на компьютере в преддверии нового года и откопа</title>
+      <link>http://localhost:1313/posts/2017-12-21-delal-uborku-na-kompyutere-v-preddverii/</link>
+      <pubDate>Thu, 21 Dec 2017 17:18:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-12-21-delal-uborku-na-kompyutere-v-preddverii/</guid>
+      <description>&lt;p&gt;#LSDYNA #SPH&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/2sHxCZruIM4Media&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/2sHxCZruIM4Media&lt;/a&gt;📼 Project Jaw&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2CScHoh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2CScHoh&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#MPS (Moving Particle Simulation) - бессеточный метод для ре</title>
+      <link>http://localhost:1313/posts/2016-04-11-mps-moving-particle-simulation-bess/</link>
+      <pubDate>Mon, 11 Apr 2016 07:01:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-04-11-mps-moving-particle-simulation-bess/</guid>
+      <description>&lt;p&gt;Прежде всего, этот метод, чем-то похожий на #SPH, имеет как явную, так и неявную схемы интегрирования по времени. Далее, он позволяет учитывать поверхностное натяжение и обладает #LES моделью турбулентности, чего нет в классическом #SPH. Ну и на сладкое - метод ускоряется на #GPU #NVIDIA в 5-9 раз (прямо как #DEM), при этом может использовать несколько графических карт.&lt;/p&gt;
+&lt;p&gt;Метод реализован в независимомо CFD пакете #Particleworks японской компании #Prometech.&lt;/p&gt;
+&lt;p&gt;На мой взгляд, это может быть по круче чем #XFlowCFD с их решеточным методом Больцмана.&lt;/p&gt;
+&lt;p&gt;Базовая теория по работе метода прилагается.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Кто не любит делать блинчики? Я про игру, когда надо подкрут</title>
+      <link>http://localhost:1313/posts/2015-11-15-kto-ne-lyubit-delat-blinchiki-ya-pro-igru/</link>
+      <pubDate>Sun, 15 Nov 2015 18:30:30 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-15-kto-ne-lyubit-delat-blinchiki-ya-pro-igru/</guid>
+      <description>&lt;p&gt;Играть теперь еще интереснее, ибо есть расчет в #SPH и #ALE постановках. #FSI в LS-DYNA.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Подборка видео выходного дня, которая лучше котиков. Ну ведь</title>
+      <link>http://localhost:1313/posts/2015-10-10-podborka-video-vyhodnogo-dnya-kotoraya-lu/</link>
+      <pubDate>Sat, 10 Oct 2015 09:05:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-10-podborka-video-vyhodnogo-dnya-kotoraya-lu/</guid>
+      <description>&lt;p&gt;Процессы моделируют в эйлеровом домене или методом сглаженных частиц. Решатели очень разные. Тут есть и Autodyn, и LS-DYNA, и Dytran и еще что-то неопознанное.&lt;/p&gt;
+&lt;p&gt;#Autodyn #lsdyna #Dytran #Explicit #SPH #ALE&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Кумулятивный_эффект&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

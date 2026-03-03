@@ -1,0 +1,964 @@
+<!DOCTYPE html>
+
+
+<html lang="ru" data-theme="">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>Cadfem - MagicDPD: Magic Driven Product Development!</title>
+
+<meta name="description" content="Архив постов MagicDPD">
+
+
+
+
+
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/tags/cadfem/index.xml" title="MagicDPD: Magic Driven Product Development!" />
+<link rel="icon" type="image/x-icon" href="http://localhost:1313/favicon.ico">
+<link rel="apple-touch-icon-precomposed" href="http://localhost:1313/favicon.png">
+
+
+
+
+    
+
+
+
+<style>
+  body {
+    visibility: hidden;
+    opacity: 0;
+  }
+</style>
+
+<noscript>
+  <style>
+    body {
+      visibility: visible;
+      opacity: 1;
+    }
+  </style>
+</noscript>
+
+
+
+
+    
+
+
+
+
+
+    
+    
+    
+
+    
+        <link rel="stylesheet" href="http://localhost:1313/css/style.6df53fed462bc4d16b8af12236d385b224df2abde195f3f4c3a5c75107b55f23.css" integrity="sha256-bfU/7UYrxNFrivEiNtOFsiTfKr3hlfP0w6XHUQe1XyM=">
+    
+
+
+
+
+
+    
+
+    
+
+
+
+
+
+    
+    
+    
+
+    
+        <script src="http://localhost:1313/js/script.32e751300d2d69e2cb56a98d2c9d964d54a53a8fb7281ccdbd80f055c88e8d86.js" type="text/javascript" charset="utf-8" integrity="sha256-MudRMA0taeLLVqmNLJ2WTVSlOo&#43;3KBzNvYDwVciOjYY="></script>
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+    
+    
+
+    
+        <script src="http://localhost:1313/js/script.ae6fed7c049ecccfe14b288ac5de95ff21548894988f794dbd32df892508579d.js" type="text/javascript" charset="utf-8" integrity="sha256-rm/tfASezM/hSyiKxd6V/yFUiJSYj3lNvTLfiSUIV50="></script>
+    
+
+
+
+
+    
+
+
+
+
+
+    
+    
+    
+
+    
+        <script src="http://localhost:1313/js/script.5c7dcfbdb3bbdea9b02c1872924c97d4b96e9a07adf2c0fa7bde1b3880d09034.js" type="text/javascript" charset="utf-8" integrity="sha256-XH3PvbO73qmwLBhykkyX1Llumget8sD6e94bOIDQkDQ="></script>
+    
+
+
+
+
+
+
+
+
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Перейти к основному контенту</a>
+    <div class="container">
+        <header class="common-header"> 
+            
+                <div class="header-top">
+    <div class="header-top-left">
+        <h1 class="site-title">
+    <a href="/">MagicDPD: Magic Driven Product Development!</a>
+</h1>
+        <ul class="social-icons">
+
+
+    
+        <li>
+            <a href="https://t.me/MagicDPD" title="Telegram" rel="me">
+            <span class="inline-svg" >
+
+
+
+
+    
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm121.8 169.9l-40.7 191.8c-3 13.6-11.1 16.9-22.4 10.5l-62-45.7-29.9 28.8c-3.3 3.3-6.1 6.1-12.5 6.1l4.4-63.1 114.9-103.8c5-4.4-1.1-6.9-7.7-2.5l-142 89.4-61.2-19.1c-13.3-4.2-13.6-13.3 2.8-19.7l239.1-92.2c11.1-4 20.8 2.7 17.2 19.5z"/></svg>
+
+</span>
+
+            </a>
+        </li>
+    
+
+
+
+    <li>
+            <a href="http://localhost:1313/index.xml" title="RSS" rel="me">
+            <span class="inline-svg" >
+
+
+
+
+    
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M128.081 415.959c0 35.369-28.672 64.041-64.041 64.041S0 451.328 0 415.959s28.672-64.041 64.041-64.041 64.04 28.673 64.04 64.041zm175.66 47.25c-8.354-154.6-132.185-278.587-286.95-286.95C7.656 175.765 0 183.105 0 192.253v48.069c0 8.415 6.49 15.472 14.887 16.018 111.832 7.284 201.473 96.702 208.772 208.772.547 8.397 7.604 14.887 16.018 14.887h48.069c9.149.001 16.489-7.655 15.995-16.79zm144.249.288C439.596 229.677 251.465 40.445 16.503 32.01 7.473 31.686 0 38.981 0 48.016v48.068c0 8.625 6.835 15.645 15.453 15.999 191.179 7.839 344.627 161.316 352.465 352.465.353 8.618 7.373 15.453 15.999 15.453h48.068c9.034-.001 16.329-7.474 16.005-16.504z"/></svg>
+
+</span>
+
+            </a>
+        </li>
+    
+
+</ul>
+    </div>
+    <div class="header-top-right">
+        
+
+    
+
+
+
+
+    <div class="theme-switcher">
+        <span class="inline-svg" >
+
+
+
+
+    
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 290 290">
+<path fill="currentColor" d="M142.959,0C64.131,0,0,64.132,0,142.96c0,78.828,64.131,142.959,142.959,142.959c78.828,0,142.96-64.131,142.96-142.959  C285.919,64.132,221.787,0,142.959,0z M142.959,260.919V142.96V25c65.043,0,117.96,52.917,117.96,117.96  C260.919,208.003,208.002,260.919,142.959,260.919z"/>
+</svg>
+
+</span>
+
+    </div>
+
+
+<script>
+const STORAGE_KEY = 'user-color-scheme'
+const defaultTheme = "auto"
+
+let currentTheme
+let switchButton
+let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+const autoChangeScheme = e => {
+    currentTheme = e.matches ? 'dark' : 'light'
+    document.documentElement.setAttribute('data-theme', currentTheme)
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    switchButton = document.querySelector('.theme-switcher')
+    currentTheme = detectCurrentScheme()
+    if (currentTheme == 'dark') {
+        document.documentElement.setAttribute('data-theme', 'dark')
+    }
+    if (currentTheme == 'auto') {
+        autoChangeScheme(autoDefinedScheme);
+        autoDefinedScheme.addListener(autoChangeScheme);
+    }
+
+    if (switchButton) {
+        switchButton.addEventListener('click', switchTheme, false)
+    }
+  
+    showContent()
+})
+
+function detectCurrentScheme() {
+    if (localStorage !== null && localStorage.getItem(STORAGE_KEY)) {
+        return localStorage.getItem(STORAGE_KEY)
+    } 
+    if (defaultTheme) {
+        return defaultTheme
+    } 
+    if (!window.matchMedia) {
+        return 'light'
+    } 
+    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        return 'dark'
+    }
+    return 'light'
+}
+
+function switchTheme(e) {
+    if (currentTheme == 'dark') {
+        if (localStorage !== null)
+            localStorage.setItem(STORAGE_KEY, 'light')
+        document.documentElement.setAttribute('data-theme', 'light')
+        currentTheme = 'light'
+    } else {
+        if (localStorage !== null)
+            localStorage.setItem(STORAGE_KEY, 'dark')
+        document.documentElement.setAttribute('data-theme', 'dark')
+        currentTheme = 'dark'
+    }
+}
+
+function showContent() {
+    document.body.style.visibility = 'visible';
+    document.body.style.opacity = 1;
+}
+</script>
+
+  
+    </div>
+</div>
+
+
+    <nav>
+        
+        
+        <a class="" href="http://localhost:1313/" title="Главная">Главная</a>
+        
+        <a class="" href="http://localhost:1313/archive/" title="Архив постов">Архив</a>
+        
+        <a class="" href="http://localhost:1313/about/" title="О проекте">О проекте</a>
+        
+    </nav>
+
+
+
+
+
+            
+        </header>
+        <main id="main" tabindex="-1"> 
+            
+    <h1>Тег: Cadfem</h1>
+    <div class="post-info">
+        <a href="/tags/">К списку тегов</a>
+    </div>
+    
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2022-06-01-kollegi-segodnya-ya-polzuyus-svoim-polozh/">Коллеги, сегодня я пользуюсь своим положением создателя прое</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Последние несколько месяцев дались мне очень тяжело как в профессиональном, так и в моральном плане. Однако, сегодня я рад объявить, что я начинаю работать на новом месте. С 1 июня приступаю к  развитию направления #Ansys #LSDYNA в компании #CADFEM GmbH. Моя новая жизнь теперь связана с Германией, где я теперь живу, а мои знания и умения проверяются на соответствие мировым стандартам.</p>
+<p>Я не собираюсь останавливать работу паблика и буду продолжать поддерживать в нем максимальную техническую чистоту. О моих взглядах на происходящее в мире вы можете судить по моим поступкам, а не словам. <a href="https://www.cadfem.net/de/en/home.html" target="_blank" rel="noopener noreferrer">https://www.cadfem.net/de/en/home.html</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/posts/2022-06-01-kollegi-segodnya-ya-polzuyus-svoim-polozh/"><time datetime="2022-06-01">01.06.2022</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2022-06-01-kollegi-segodnya-ya-polzuyus-svoim-polozh/">http://localhost:1313/posts/2022-06-01-kollegi-segodnya-ya-polzuyus-svoim-polozh/</a>
+    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">MagicDPD</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="http://localhost:1313/tags/cadfem/">#Cadfem</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/lsdyna/">#Lsdyna</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/ansys/">#Ansys</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2021-11-22-novye-vozmozhnosti-reshatelya-ls-dyna-r13/">Новые возможности решателя LS-DYNA R13: часть II</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Коллеги, на этой неделе, в среду перед обедом я приглашаю вас посмотреть живой вебинар новым возможностям LS-DYNA R13. Это будет заключительное мероприятие посвященное именно новым возможностям данного решателя. В ходе часового (а может и дольше) доклада вы узнаете про следующие темы:</p>
+<p>Работа с контактом, задачи штамповки и формовки.Акустика, вибрация, NVH и новый решатель для расчета ультразвуковых волн.Новый монолитный электромагнитный BEM-FEM решатель и работа с постоянными магнитами.Новые возможности (S-)ALE и его связка с тепловым решателем.Развитие неявного решателя ICFD для несжимаемых течений.Новые возможности явного решателя CESE для сжимаемых реагирующих многофазных течений.</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/posts/2021-11-22-novye-vozmozhnosti-reshatelya-ls-dyna-r13/"><time datetime="2021-11-22">22.11.2021</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2021-11-22-novye-vozmozhnosti-reshatelya-ls-dyna-r13/">http://localhost:1313/posts/2021-11-22-novye-vozmozhnosti-reshatelya-ls-dyna-r13/</a>
+    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">MagicDPD</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="http://localhost:1313/tags/cadfem/">#Cadfem</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/sael/">#Sael</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/bem/">#BEM</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/icfd/">#ICFD</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/ale/">#Ale</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2021-11-18-novye-vozmozhnosti-reshatelya-ls-dyna-r13/">Новые возможности решателя LS-DYNA R13 - часть первая</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p><a href="https://youtu.be/jZp1yISsBG8?list=PLhkE5O59hYsGBmcYGkRZZMzKgSUTbTIPd" target="_blank" rel="noopener noreferrer">https://youtu.be/jZp1yISsBG8?list=PLhkE5O59hYsGBmcYGkRZZMzKgSUTbTIPd</a></p>
+<p>Ремастер первой части вебинара по 13-ому релизу решателю LS-DYNA. Ждете вторую часть?</p>
+<p>#ansys #cadfem #lsdyna
+<a href="https://tinyurl.com/ygnloc64" target="_blank" rel="noopener noreferrer">https://tinyurl.com/ygnloc64</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/posts/2021-11-18-novye-vozmozhnosti-reshatelya-ls-dyna-r13/"><time datetime="2021-11-18">18.11.2021</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2021-11-18-novye-vozmozhnosti-reshatelya-ls-dyna-r13/">http://localhost:1313/posts/2021-11-18-novye-vozmozhnosti-reshatelya-ls-dyna-r13/</a>
+    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">MagicDPD</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="http://localhost:1313/tags/ansys/">#Ansys</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/cadfem/">#Cadfem</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/lsdyna/">#Lsdyna</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2021-11-16-novye-vozmozhnosti-sredy-workbench-ls-dyn/">Новые возможности среды Workbench LS-DYNA 2021 R2</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p><a href="https://www.youtube.com/watch?v=KzmY3U428mo" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=KzmY3U428mo</a></p>
+<p>Наконец выложен ремастер моего вебинара по новым возможностям Workbench LS-DYNA 2021 R2!</p>
+<p>#ansys #cadfem #lsdyna #lstc
+<a href="https://tinyurl.com/yfflewpg" target="_blank" rel="noopener noreferrer">https://tinyurl.com/yfflewpg</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/posts/2021-11-16-novye-vozmozhnosti-sredy-workbench-ls-dyn/"><time datetime="2021-11-16">16.11.2021</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2021-11-16-novye-vozmozhnosti-sredy-workbench-ls-dyn/">http://localhost:1313/posts/2021-11-16-novye-vozmozhnosti-sredy-workbench-ls-dyn/</a>
+    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">MagicDPD</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="http://localhost:1313/tags/lstc/">#Lstc</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/ansys/">#Ansys</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/cadfem/">#Cadfem</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/lsdyna/">#Lsdyna</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2021-10-26-vozmozhnosti-reshateley-ansys-pri-reshenii/">Возможности решателей Ansys при решении задач теории разруше</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p><a href="https://youtu.be/-zzRTvYFhyw?list=PLhkE5O59hYsGBmcYGkRZZMzKgSUTbTIPd" target="_blank" rel="noopener noreferrer">https://youtu.be/-zzRTvYFhyw?list=PLhkE5O59hYsGBmcYGkRZZMzKgSUTbTIPd</a></p>
+<p>Стала доступна запись моего вебинара по обзору возможностей решения задач теории разрушения в механических решателях ANSYS: Machanical и LS-DYNA. Вот ключевые слова для знатоков: SMART Fracture, XFEM, Preidynamic, SPG, CZM, VCCT.</p>
+<p>#ansys #cadfem #czm #fracture #lsdyna #smart_fracture #spg #vcct #xfem
+<a href="https://tinyurl.com/yzre3u86" target="_blank" rel="noopener noreferrer">https://tinyurl.com/yzre3u86</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/posts/2021-10-26-vozmozhnosti-reshateley-ansys-pri-reshenii/"><time datetime="2021-10-26">26.10.2021</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2021-10-26-vozmozhnosti-reshateley-ansys-pri-reshenii/">http://localhost:1313/posts/2021-10-26-vozmozhnosti-reshateley-ansys-pri-reshenii/</a>
+    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">MagicDPD</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="http://localhost:1313/tags/spg/">#SPG</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/fracture/">#Fracture</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/cadfem/">#Cadfem</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/xfem/">#XFEM</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/czm/">#Czm</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/lsdyna/">#Lsdyna</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/vcct/">#Vcct</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/ansys/">#Ansys</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/smart_fracture/">#Smart_fracture</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2021-10-13-vozmozhnosti-reshateley-ansys-v-oblasti-te/">Возможности решателей Ansys в области теории разрушения</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Коллеги, почему-то даже у меня, когда речь заходит о моделировании роста трещин, не всегда первым вспоминается Ansys Mechanical. Для того, что бы устранить такие ошибки в восприятии я подготовил ликбез вебинар, в котором собрал обзор всех технологий механических решателей Ansys в области моделирования линейного и нелинейного разрушения.</p>
+<p>Вебинар я постарался сделать максимально отвязанным от конкретных версий ПО, и если у вас версия Ansys не старее 3-х лет, то вам будет особенно интересно. Ну и не обошлось без моей любимой LS-DYNA, которая тоже может в рост трещин, но уже за рамками линейной теории разрушения.</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/posts/2021-10-13-vozmozhnosti-reshateley-ansys-v-oblasti-te/"><time datetime="2021-10-13">13.10.2021</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2021-10-13-vozmozhnosti-reshateley-ansys-v-oblasti-te/">http://localhost:1313/posts/2021-10-13-vozmozhnosti-reshateley-ansys-v-oblasti-te/</a>
+    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">MagicDPD</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="http://localhost:1313/tags/spg/">#SPG</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/fracture/">#Fracture</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/cadfem/">#Cadfem</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/xfem/">#XFEM</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/czm/">#Czm</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/lsdyna/">#Lsdyna</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/apdl/">#APDL</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/vcct/">#Vcct</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/ansys/">#Ansys</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/smart_fracture/">#Smart_fracture</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/peridynamics/">#Peridynamics</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2021-05-31-modelirovanie-raboty-sistemy-passivnoy-b/">Моделирование работы системы пассивной безопасности электров</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>09 июня 2021 года в 11:00 (МСК)  КАДФЕМ Си-Ай-Эс, &ldquo;Уральские локомотивы&rdquo; и Ansys расскажут, как система пассивной безопасности железнодорожного подвижного состава предназначена для повышения безопасности пассажирских перевозок, снижения риска гибели и травматизма людей и минимизации ущерба подвижному составу в экстремальных ситуациях, возникающих при случайных столкновениях подвижного состава с препятствиями. Докладываться по данной тематике выпала честь мне, так что я вас всех очень буду там ждать! Ссылка на официальную новость: <a href="https://www.cadfem-cis.ru/list/article/vebinar-modelirovanie-raboty-sistemy-passivnoj-bezopasnosti-elektrovoza/" target="_blank" rel="noopener noreferrer">https://www.cadfem-cis.ru/list/article/vebinar-modelirovanie-raboty-sistemy-passivnoj-bezopasnosti-elektrovoza/</a> Бесплатная регистрация на вебинар: <a href="https://www.ansys.com/events/simulating-electric-locomotive-passive-safety-system-operation" target="_blank" rel="noopener noreferrer">https://www.ansys.com/events/simulating-electric-locomotive-passive-safety-system-operation</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/posts/2021-05-31-modelirovanie-raboty-sistemy-passivnoy-b/"><time datetime="2021-05-31">31.05.2021</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2021-05-31-modelirovanie-raboty-sistemy-passivnoy-b/">http://localhost:1313/posts/2021-05-31-modelirovanie-raboty-sistemy-passivnoy-b/</a>
+    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">MagicDPD</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="http://localhost:1313/tags/ansys/">#Ansys</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/cadfem/">#Cadfem</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/lsdyna/">#Lsdyna</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2020-09-01-vebinar-ls-dyna-efg-podrobnyy-razbor/">Вебинар «LS-DYNA EFG – подробный разбор с учётом возможносте</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/posts/2020-09-01-vebinar-ls-dyna-efg-podrobnyy-razbor/"><time datetime="2020-09-01">01.09.2020</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2020-09-01-vebinar-ls-dyna-efg-podrobnyy-razbor/">http://localhost:1313/posts/2020-09-01-vebinar-ls-dyna-efg-podrobnyy-razbor/</a>
+    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="http://localhost:1313/tags/cadfem/">#Cadfem</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/efg/">#EFG</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/ls_dyna/">#LS_DYNA</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2020-06-29-kak-postroit-superkompyuter-iz-starogo/">Как построить суперкомпьютер из старого учебного класса. Дёш</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/posts/2020-06-29-kak-postroit-superkompyuter-iz-starogo/"><time datetime="2020-06-29">29.06.2020</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2020-06-29-kak-postroit-superkompyuter-iz-starogo/">http://localhost:1313/posts/2020-06-29-kak-postroit-superkompyuter-iz-starogo/</a>
+    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="http://localhost:1313/tags/cadfem/">#Cadfem</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/hpc/">#HPC</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2019-05-16-vysokoproizvoditelnye-vychisleniya-v-ansy/">Высокопроизводительные вычисления в ANSYS 2019 R1</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Ровно через неделю (23 мая в 14:00) приходите на мой вебинар про HPC и Cloud для ANSYS. Каверзные вопросы приветствуются. Необходима бесплатная регистрация: <a href="https://webinars.cadfem-cis.ru/event/hpc/registration/" target="_blank" rel="noopener noreferrer">https://webinars.cadfem-cis.ru/event/hpc/registration/</a>. Ну и вообще, у нас новая прикольная платформа для Web семинаров: <a href="https://webinars.cadfem-cis.ru" target="_blank" rel="noopener noreferrer">https://webinars.cadfem-cis.ru</a></p>
+<p>#ANSYS #CADFEM #cloud #eCADFEM #HPC #webinar</p>
+<p><a href="https://wp.me/p9vWYY-2vY" target="_blank" rel="noopener noreferrer">https://wp.me/p9vWYY-2vY</a></p>
+<p>by Юрий Новожилов</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/posts/2019-05-16-vysokoproizvoditelnye-vychisleniya-v-ansy/"><time datetime="2019-05-16">16.05.2019</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2019-05-16-vysokoproizvoditelnye-vychisleniya-v-ansy/">http://localhost:1313/posts/2019-05-16-vysokoproizvoditelnye-vychisleniya-v-ansy/</a>
+    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="http://localhost:1313/tags/webinar/">#Webinar</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/hpc/">#HPC</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/cadfem/">#Cadfem</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/ecadfem/">#ECADFEM</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/cloud/">#Cloud</a></li>
+                
+                    
+                    <li><a href="http://localhost:1313/tags/ansys/">#Ansys</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+    
+    
+    
+    <div class="pagination">
+        <div class="left pagination-item disabled">
+            
+        </div>
+        <div class="right pagination-item ">
+            
+                <a href="/tags/cadfem/page/2/">к старым записям</a>
+            
+        </div>
+    </div>
+
+
+
+
+        </main>
+        
+            <footer class="common-footer">
+    
+    
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+            <p>© GlukRazor, 2026<br>
+            Движок <a target="_blank" rel="noopener noreferrer" href="https://gohugo.io/">Hugo</a>, тема <a target="_blank" rel="noopener noreferrer" href="https://github.com/mitrichius/hugo-theme-anubis">Anubis</a>.<br>
+            
+            </p>  
+        </div> 
+    </div>
+
+    <p class="h-card vcard">
+
+    <a href=http://localhost:1313/ class="p-name u-url url fn" rel="me">GlukRazor</a> 
+
+    
+
+    
+</p> 
+</footer>
+
+        
+    </div>
+</body>
+</html>

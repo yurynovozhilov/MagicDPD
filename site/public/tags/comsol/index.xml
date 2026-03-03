@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>COMSOL on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/comsol/</link>
+    <description>MagicDPD: Magic Driven Product Development! (COMSOL)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 03 Feb 2021 13:01:13 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/comsol/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Моделирование пены низкой плотности в МКЭ</title>
+      <link>http://localhost:1313/posts/2021-02-03-modelirovanie-peny-nizkoy-plotnosti-v-mk/</link>
+      <pubDate>Wed, 03 Feb 2021 13:01:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-02-03-modelirovanie-peny-nizkoy-plotnosti-v-mk/</guid>
+      <description>&lt;p&gt;На сегодня я нашел два интересных видео, посвященных моделированию полимерной пены низкой плотности.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=g8YSmFk5KSc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=g8YSmFk5KSc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В первом видео обсуждается, почему традиционные гиперупругие модели материалов не могут использоваться для прогнозирования поведения мягких полимерных пен. Далее в видео рассматривается математика работы специализированных подходящий моделей Ansys Ogden Foam, LS-DYNA Hill Foam, Abaqus Hyperfoam и COMSOL Storakers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=W9e-GJHJk00&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=W9e-GJHJk00&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Во второй части видео показывается, как проводить настройку модели материалов с применением пакета PolymerFEM MCalibration.&lt;/p&gt;
+&lt;p&gt;#abaqus #ansys #comsol #foam #ls-dyna #mcalibration #mechanical #polymerfem
+&lt;a href=&#34;https://tinyurl.com/y2gu28ph&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y2gu28ph&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Распараллеленная генерация сетки в COMSOL</title>
+      <link>http://localhost:1313/posts/2019-05-15-rasparallelennaya-generatsiya-setki-v-comso/</link>
+      <pubDate>Wed, 15 May 2019 17:00:59 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-05-15-rasparallelennaya-generatsiya-setki-v-comso/</guid>
+      <description>&lt;p&gt;Говорят, что у COMSOL распараллеленный сеточный генератор регулярной и нерегулярной, плоской и пространственной сетки! На простейшем тесте очень хорошие результаты, но вот что будет на сложной геометрии — это вопрос.&lt;/p&gt;
+&lt;p&gt;Ссылка на источник: &lt;a href=&#34;https://www.comsol.com/blogs/is-meshing-run-in-parallel-in-comsol-multiphysics&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.comsol.com/blogs/is-meshing-run-in-parallel-in-comsol-multiphysics&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Comsol #mesh&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2vf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2vf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Знаете ли вы компанию Amway - производителя косметики и быто</title>
+      <link>http://localhost:1313/posts/2017-09-16-znaete-li-vy-kompaniyu-amway-proizvodit/</link>
+      <pubDate>Sat, 16 Sep 2017 08:59:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-09-16-znaete-li-vy-kompaniyu-amway-proizvodit/</guid>
+      <description>&lt;p&gt;Так вот, Amway набирает людей со знанием #CFD, #FEA и параметрических исследований в команду. Надо уметь пользоваться #COMSOL.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jobs.amway.com/job/Ada-Intern-Computational-Fluid-Dynamics-%28CFD%29-Modeling-MI-49355/429787400/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://jobs.amway.com/job/Ada-Intern-Computational-Fluid-Dynamics-%28CFD%29-Modeling-MI-49355/429787400/&lt;/a&gt; 🔗 Intern- Computational Fluid Dynamics (CFD) Modeling&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Тонскости моделирования зубчатого зацепления</title>
+      <link>http://localhost:1313/posts/2016-12-11-tonskosti-modelirovaniya-zubchatogo-zatsepl/</link>
+      <pubDate>Sun, 11 Dec 2016 17:01:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-12-11-tonskosti-modelirovaniya-zubchatogo-zatsepl/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.comsol.com/blogs/how-to-evaluate-gear-mesh-stiffness-in-a-multibody-dynamics-model/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.comsol.com/blogs/how-to-evaluate-gear-mesh-stiffness-in-a-multibody-dynamics-model/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#COMSOL в своем блоге подробно разобрал как моделировать зубчатое зацепление, на что влияет использование подхода с деформируемыми и не деформируемыми телами и насколько важна хорошая сетка. Материал полезен не только пользователям COMSOL, но и любого другого #FEM кода.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Топологическая оптимизация в задачах акустики</title>
+      <link>http://localhost:1313/posts/2016-11-13-topologicheskaya-optimizatsiya-v-zadachah-aku/</link>
+      <pubDate>Sun, 13 Nov 2016 12:04:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-11-13-topologicheskaya-optimizatsiya-v-zadachah-aku/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.comsol.com/blogs/how-to-use-acoustic-topology-optimization-in-your-simulation-studies/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.comsol.com/blogs/how-to-use-acoustic-topology-optimization-in-your-simulation-studies/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Comsol в своем блоге написал хорошую статью, содержащую не только основы постановок задачи топологической оптимизации в классическом ее понимании (для конструкций несущих нагрузку), но и сделал небольшое отступление в область акустики. Коллеги показали, что можно переформулировать топологическую оптимизацию для получения акустически оптимальных конструкций, воде направленных излучателей.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nor-Tech, один из крупнейших в США системных интеграторов сп</title>
+      <link>http://localhost:1313/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</link>
+      <pubDate>Mon, 23 Nov 2015 06:00:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</guid>
+      <description>&lt;p&gt;CAE:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ANSYS: ANSYS Fluent – CFD,&lt;/li&gt;
+&lt;li&gt;ANSYS: Mechanical – FEA,&lt;/li&gt;
+&lt;li&gt;ANSYS: CFX – CFD&lt;/li&gt;
+&lt;li&gt;LS-DYNA – FEA,&lt;/li&gt;
+&lt;li&gt;Altair: Hyperworks – Suite of CAE software&lt;/li&gt;
+&lt;li&gt;CEI Software: Ensight&lt;/li&gt;
+&lt;li&gt;Convergent Science: Converge CFD – Meshless CFD&lt;/li&gt;
+&lt;li&gt;Cradle-CDF: scSTREAM, scTetra&lt;/li&gt;
+&lt;li&gt;Dassault Systemes – Simulia: Abaqus – FEA&lt;/li&gt;
+&lt;li&gt;Lumerical: FDTD Solutions – Photonic Design Tools&lt;/li&gt;
+&lt;li&gt;MSC Software: Marc Nonlinear – FEA MSC Nastran&lt;/li&gt;
+&lt;li&gt;Moldex3D: eDesign – Plastic Injection Molding Simulation&lt;/li&gt;
+&lt;li&gt;COMSOL: COMSOL Multiphysics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Системное кластерное ПО:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rocks Cluster Management Suite&lt;/li&gt;
+&lt;li&gt;NICE: DCV Remote Visualization&lt;/li&gt;
+&lt;li&gt;NICE: EnginFrame GUI for Job Scheduler &amp;amp; Resource Mgr&lt;/li&gt;
+&lt;li&gt;Ganglia&lt;/li&gt;
+&lt;li&gt;IPMI management&lt;/li&gt;
+&lt;li&gt;OGS/GE based on (Sun Grid Engine), Torque&lt;/li&gt;
+&lt;li&gt;Bright Cluster Manager&lt;/li&gt;
+&lt;li&gt;Windows Server 2012/HPC&lt;/li&gt;
+&lt;li&gt;Intel: Compilers &amp;amp; Libraries&lt;/li&gt;
+&lt;li&gt;Altair PBS Pro, Compute Manager &amp;amp; Display Manager и другеи продукты&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Жаль, что у нас пока нет таких же бравых системных интеграторов.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Если вы еще удивляетесь, как работает топологическая оптимиз</title>
+      <link>http://localhost:1313/posts/2015-10-02-esli-vy-esche-udivlyaetes-kak-rabotaet-to/</link>
+      <pubDate>Fri, 02 Oct 2015 06:30:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-02-esli-vy-esche-udivlyaetes-kak-rabotaet-to/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Сладкая история о том, как Nestlé использует COMSOL и SolidW</title>
+      <link>http://localhost:1313/posts/2015-09-21-sladkaya-istoriya-o-tom-kak-nestl%C3%A9-ispol/</link>
+      <pubDate>Mon, 21 Sep 2015 07:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-21-sladkaya-istoriya-o-tom-kak-nestl%C3%A9-ispol/</guid>
+      <description>&lt;p&gt;#COMSOL #SolidWorks #CAE&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.comsol.com/blogs/nestle-sweetens-the-candy-production-process-with-simulation/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.comsol.com/blogs/nestle-sweetens-the-candy-production-process-with-simulation/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COMSOL проводит в своем блоге ликбез по теме геометрической </title>
+      <link>http://localhost:1313/posts/2015-09-18-comsol-provodit-v-svoem-bloge-likbez-po/</link>
+      <pubDate>Fri, 18 Sep 2015 07:00:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-18-comsol-provodit-v-svoem-bloge-likbez-po/</guid>
+      <description>&lt;p&gt;Напомню, что в ANSYS Mechanical и ANSYS MAPDL учет геометрической нелинейность включаются одно галочкой в настройках решателя.&lt;/p&gt;
+&lt;p&gt;#COMSOL #FEA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.comsol.com/blogs/what-is-geometric-nonlinearity/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.comsol.com/blogs/what-is-geometric-nonlinearity/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

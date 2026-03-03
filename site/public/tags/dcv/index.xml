@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dcv on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/dcv/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Dcv)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 23 Nov 2015 06:00:37 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/dcv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nor-Tech, один из крупнейших в США системных интеграторов сп</title>
+      <link>http://localhost:1313/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</link>
+      <pubDate>Mon, 23 Nov 2015 06:00:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</guid>
+      <description>&lt;p&gt;CAE:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ANSYS: ANSYS Fluent – CFD,&lt;/li&gt;
+&lt;li&gt;ANSYS: Mechanical – FEA,&lt;/li&gt;
+&lt;li&gt;ANSYS: CFX – CFD&lt;/li&gt;
+&lt;li&gt;LS-DYNA – FEA,&lt;/li&gt;
+&lt;li&gt;Altair: Hyperworks – Suite of CAE software&lt;/li&gt;
+&lt;li&gt;CEI Software: Ensight&lt;/li&gt;
+&lt;li&gt;Convergent Science: Converge CFD – Meshless CFD&lt;/li&gt;
+&lt;li&gt;Cradle-CDF: scSTREAM, scTetra&lt;/li&gt;
+&lt;li&gt;Dassault Systemes – Simulia: Abaqus – FEA&lt;/li&gt;
+&lt;li&gt;Lumerical: FDTD Solutions – Photonic Design Tools&lt;/li&gt;
+&lt;li&gt;MSC Software: Marc Nonlinear – FEA MSC Nastran&lt;/li&gt;
+&lt;li&gt;Moldex3D: eDesign – Plastic Injection Molding Simulation&lt;/li&gt;
+&lt;li&gt;COMSOL: COMSOL Multiphysics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Системное кластерное ПО:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rocks Cluster Management Suite&lt;/li&gt;
+&lt;li&gt;NICE: DCV Remote Visualization&lt;/li&gt;
+&lt;li&gt;NICE: EnginFrame GUI for Job Scheduler &amp;amp; Resource Mgr&lt;/li&gt;
+&lt;li&gt;Ganglia&lt;/li&gt;
+&lt;li&gt;IPMI management&lt;/li&gt;
+&lt;li&gt;OGS/GE based on (Sun Grid Engine), Torque&lt;/li&gt;
+&lt;li&gt;Bright Cluster Manager&lt;/li&gt;
+&lt;li&gt;Windows Server 2012/HPC&lt;/li&gt;
+&lt;li&gt;Intel: Compilers &amp;amp; Libraries&lt;/li&gt;
+&lt;li&gt;Altair PBS Pro, Compute Manager &amp;amp; Display Manager и другеи продукты&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Жаль, что у нас пока нет таких же бравых системных интеграторов.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>На конференции AWS re:Invent ANSYS расскзал об архитектуре с</title>
+      <link>http://localhost:1313/posts/2015-11-09-na-konferentsii-aws-reinvent-ansys-rassk/</link>
+      <pubDate>Mon, 09 Nov 2015 06:30:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-09-na-konferentsii-aws-reinvent-ansys-rassk/</guid>
+      <description>&lt;p&gt;Однако проблемы, на которые я всегда обращаю внимание, остались открытыми:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;нет RDMA - большой кластер тормозит даже для CFD&lt;/li&gt;
+&lt;li&gt;очень кривая организация виртуальных рабочих станций для постпроцессинга из-за ограничений на объем оперативной памяти.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Есть и замечательные, доселе невиданные возможности: вы получаете готовый к расчетами HPC кластер менее чем за 3 (три!!!) часа, и вы можете изменять его размер по запросу. Обычно проектирование и пуск кластера занимает месяцы :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Отличный ликбез по теме доставки приложений и рабочих столов</title>
+      <link>http://localhost:1313/posts/2015-10-12-otlichnyy-likbez-po-teme-dostavki-prilozhe/</link>
+      <pubDate>Mon, 12 Oct 2015 18:01:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-12-otlichnyy-likbez-po-teme-dostavki-prilozhe/</guid>
+      <description>&lt;p&gt;Если собираетесь проектировать расчетный классе для предприятия - данный документ обязателен к изучению!&lt;/p&gt;
+&lt;p&gt;Более свежие версии документа доступны на сайте самих Team RGE (&lt;a href=&#34;https://www.teamrge.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.teamrge.com&lt;/a&gt;) после бесплатной регистрации.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HPC on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/hpc/</link>
+    <description>MagicDPD: Magic Driven Product Development! (HPC)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 22 Apr 2022 17:00:10 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/hpc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>А вот новость этого года про использование #GPU для #CFD рас</title>
+      <link>http://localhost:1313/posts/2022-04-22-a-vot-novost-etogo-goda-pro-ispolzovan/</link>
+      <pubDate>Fri, 22 Apr 2022 17:00:10 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-04-22-a-vot-novost-etogo-goda-pro-ispolzovan/</guid>
+      <description>&lt;p&gt;Одна карта #NVIDIA #A100 дает производительность, соизмеримую с 272 процессорными ядрами #Intel #Xeon #Gold 6242!&lt;/p&gt;
+&lt;p&gt;Новый решатель позволяет одновременно:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;снизить стоимость используемого железа до 7 раз&lt;/li&gt;
+&lt;li&gt;снизить потребление электроэнергии вычислительной системой до 4 раза&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;А если учесть, что решатели Ansys традиционно лицензируется так, что стоимость задействования 1 процессорного ядра эквивалентна стоимости задействования 1 карты NVIDIA A100, то цена требуемых для #HPC расчетов лицензий с новым &amp;ldquo;Ansys Multi-GPU Solver&amp;rdquo; оказывается если не в сотни, то в десятки раз ниже! &lt;a href=&#34;https://www.ansys.com/blog/unleashing-the-power-of-multiple-gpus-for-cfd-simulations&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/blog/unleashing-the-power-of-multiple-gpus-for-cfd-simulations&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Для меня стало большой новостью, что только в этом году комп</title>
+      <link>http://localhost:1313/posts/2022-04-21-dlya-menya-stalo-bolshoy-novostyu-chto-tol/</link>
+      <pubDate>Thu, 21 Apr 2022 17:00:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-04-21-dlya-menya-stalo-bolshoy-novostyu-chto-tol/</guid>
+      <description>&lt;p&gt;#HPC &lt;a href=&#34;https://www.plm.automation.siemens.com/global/ru/our-story/newsroom/simcenter-star-ccm-cfd-gpu-nvidia/105875&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.plm.automation.siemens.com/global/ru/our-story/newsroom/simcenter-star-ccm-cfd-gpu-nvidia/105875&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Любопытная штука - #BQPhy.  Они говорят, что они - это первы</title>
+      <link>http://localhost:1313/posts/2022-04-18-lyubopytnaya-shtuka-bqphy--oni-govoryat/</link>
+      <pubDate>Mon, 18 Apr 2022 17:00:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-04-18-lyubopytnaya-shtuka-bqphy--oni-govoryat/</guid>
+      <description>&lt;p&gt;#quantimcomputing #HPC #CAE #cloud &lt;a href=&#34;https://youtu.be/VHjVXalI3bw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/VHjVXalI3bw&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вчера #Ansys купил себе #OnScale, и я расскажу почему это ва</title>
+      <link>http://localhost:1313/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</link>
+      <pubDate>Thu, 14 Apr 2022 17:00:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</guid>
+      <description>&lt;p&gt;Итак, компания OnScale делала одноименную независимую платформу для  КЭ расчетов в облаке. Идея у них была очень похоже на успешный проект SimScale. Однако, SimScale использовал внутри себя #opensource коды для расчетов, а OnScale решили писать все свое. Кажется, что они просто не оценили трудоемкости написания хороших решателей, вот WebUI вышел вполне себе нормальный.&lt;/p&gt;
+&lt;p&gt;Теперь их покупает Ansys, который идет в облако всеми возможными путями. У них, как и всех конкурентов, есть облачные лицензии. У них есть облачные #HPC партнеры в лице #AWS и #Azure. Есть встроенные возможности из классических приложений посылать задачи на расчет в облако. А вот полноценного #WebUI для работы с решателями не было - всегда были какие-то средства доставки классических дестопных приложений и рабочих столов Windows/Linux систем. И тут мы видим, что OnScale становиться последним кусочком мозаики полноценного облачного решения от Ansys.&lt;/p&gt;
+&lt;p&gt;Я думаю, что в ближайшие 5 лет мы сможем увидеть новые Web версии #Fluent, #Mechanical #HFSS, которые больше не будут требовать установки дистрибутива с 5 DVD дисков, а полноценно будет работать в глобальном или корпоративном облаке.&lt;/p&gt;
+&lt;p&gt;#cloud #opensource #HPC &lt;a href=&#34;https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Компания #Siemens анонсировала начало многолетнего с #Pasqal</title>
+      <link>http://localhost:1313/posts/2022-04-11-kompaniya-siemens-anonsirovala-nachalo-mn/</link>
+      <pubDate>Mon, 11 Apr 2022 17:00:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-04-11-kompaniya-siemens-anonsirovala-nachalo-mn/</guid>
+      <description>&lt;p&gt;Запатентованные Pasqal квантовые методы используются для решения сложных нелинейных дифференциальных уравнений и могут быть применены для повышения производительности программных решений Siemens, которые используются для автоматизированного проектирования и тестирования продукции, в том числе в автомобильной промышленности.&lt;/p&gt;
+&lt;p&gt;Ну что ж, надеюсь  Siemens сможет разобраться, есть ли в этом будущее для #CAE. Насколько я помню своем общение с создателями первых квантовых компьютеров лет 7 назад - это все было скорее для комбинаторных задач, чем для дифференциальных уравнений.&lt;/p&gt;
+&lt;p&gt;#quantumcomputing #HPC &lt;a href=&#34;https://www.scientific-computing.com/news/siemens-collaborates-pasqal-research-quantum-applications&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.scientific-computing.com/news/siemens-collaborates-pasqal-research-quantum-applications&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Суперкомпьютерное моделирование геомеханического состояния м</title>
+      <link>http://localhost:1313/posts/2021-12-30-superkompyuternoe-modelirovanie-geomehan/</link>
+      <pubDate>Thu, 30 Dec 2021 13:56:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-12-30-superkompyuternoe-modelirovanie-geomehan/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=HwAURzWXxYE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=HwAURzWXxYE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Доклад по применению LS-DYNA для решения геомеханических задач. Доклад сделан в рамках суперкомпьютерной конференции НСКФ-2021 на основе работ коллектива авторов Смалюк А.Ф., Медведев С.В., Матюшенко В.М., Медведева В.Г., Биряльцев Е.В., Дегтярев А.Г., Гильмутдинов Р.Р., Пономаренко Д.В. Текст доклада можно найти на сайте конференции: &lt;a href=&#34;https://2021.nscf.ru/TesisAll/02_Sypercomputernoe_modelirovanie/903_SmalykAF.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://2021.nscf.ru/TesisAll/02_Sypercomputernoe_modelirovanie/903_SmalykAF.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #hpc #lsdyna
+&lt;a href=&#34;https://tinyurl.com/y5mneyzj&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y5mneyzj&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как построить суперкомпьютер из старого учебного класса. Дёш</title>
+      <link>http://localhost:1313/posts/2020-06-29-kak-postroit-superkompyuter-iz-starogo/</link>
+      <pubDate>Mon, 29 Jun 2020 17:53:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-06-29-kak-postroit-superkompyuter-iz-starogo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Вакансия: R&amp;D по HPC в московской лаборатории Huawei</title>
+      <link>http://localhost:1313/posts/2020-02-14-vakansiya-rd-po-hpc-v-moskovskoy-labora/</link>
+      <pubDate>Fri, 14 Feb 2020 13:00:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-02-14-vakansiya-rd-po-hpc-v-moskovskoy-labora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ScaleMP поставил очередной рекорд для систем с общей памятью</title>
+      <link>http://localhost:1313/posts/2020-01-23-scalemp-postavil-ocherednoy-rekord-dlya-si/</link>
+      <pubDate>Thu, 23 Jan 2020 13:00:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-01-23-scalemp-postavil-ocherednoy-rekord-dlya-si/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Рекорд по расчетам и визуализации турбулентных вихрей</title>
+      <link>http://localhost:1313/posts/2019-11-28-rekord-po-raschetam-i-vizualizatsii-turbul/</link>
+      <pubDate>Thu, 28 Nov 2019 16:00:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-11-28-rekord-po-raschetam-i-vizualizatsii-turbul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Расчеты в LS-DYNA на кластерах Windows HPC Cluster</title>
+      <link>http://localhost:1313/posts/2019-06-10-raschety-v-ls-dyna-na-klasterah-windows-h/</link>
+      <pubDate>Mon, 10 Jun 2019 17:00:30 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-06-10-raschety-v-ls-dyna-na-klasterah-windows-h/</guid>
+      <description>&lt;p&gt;DYNAmore выпустили инструкцию по настройке и работе распределённого решетеля LS-DYNA на кластерах под управлением MS Windows HPC Pack 2016. Инструкция полезная, но на самом деле вам достаточно знать следующий набор команд:&lt;/p&gt;
+&lt;p&gt;SET LSTC_MEMORY=auto
+job submit /jobname: /numcores: /workdir:  mpiexec -np   i= jobid=&lt;/p&gt;
+&lt;p&gt;Ну а если вы используете лицензии ANSYS LS-DYNA, то в начало надо добавить еще такое:&lt;/p&gt;
+&lt;p&gt;set LSTC_LICENSE=ANSYS
+set ANSYSLMD_LICENSE_FILE=1055@
+set ANSYSLI_SERVERS=2325@&lt;/p&gt;
+&lt;p&gt;Исходный документ тут: &lt;a href=&#34;https://project.dynamore.se/public/windowscluster12&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://project.dynamore.se/public/windowscluster12&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#HPC #LS_DYNA #MPI #Windows&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2yI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2yI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Высокопроизводительные вычисления в ANSYS 2019 R1</title>
+      <link>http://localhost:1313/posts/2019-05-16-vysokoproizvoditelnye-vychisleniya-v-ansy/</link>
+      <pubDate>Thu, 16 May 2019 11:01:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-05-16-vysokoproizvoditelnye-vychisleniya-v-ansy/</guid>
+      <description>&lt;p&gt;Ровно через неделю (23 мая в 14:00) приходите на мой вебинар про HPC и Cloud для ANSYS. Каверзные вопросы приветствуются. Необходима бесплатная регистрация: &lt;a href=&#34;https://webinars.cadfem-cis.ru/event/hpc/registration/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://webinars.cadfem-cis.ru/event/hpc/registration/&lt;/a&gt;. Ну и вообще, у нас новая прикольная платформа для Web семинаров: &lt;a href=&#34;https://webinars.cadfem-cis.ru&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://webinars.cadfem-cis.ru&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS #CADFEM #cloud #eCADFEM #HPC #webinar&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2vY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2vY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Облачная платформа OnScale</title>
+      <link>http://localhost:1313/posts/2019-02-10-oblachnaya-platforma-onscale/</link>
+      <pubDate>Sun, 10 Feb 2019 17:01:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-02-10-oblachnaya-platforma-onscale/</guid>
+      <description>&lt;p&gt;OnScale (не путать с OnShape и SimScale) — облачная платформа для FEM расчетов, которой удавалось долгое время уходить от нашего внимания. Интересно, что у компании есть довольно много вебинаров, и их тематика имеет уклон в моделирование электроники, распространения упругих и электромагнитных волн.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MgS0ae0129I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=MgS0ae0129I&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Решатели позволяют выполнять связанные расчеты во всех основных физиках: механика, тепло-, гидрогазодинамика и электромагнетизм.&lt;/p&gt;
+&lt;p&gt;Всем желающим доступно бесплатно 10 часов в месяц вычислительного времени в облаке OnScale для решения одномерных и плоских задач.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://onscale.com/pricing/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://onscale.com/pricing/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#cloud #FEM #HPC&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-onscale&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-onscale&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Построение сетки с искусственным интеллектом</title>
+      <link>http://localhost:1313/posts/2018-11-18-postroenie-setki-s-iskusstvennym-intelle/</link>
+      <pubDate>Sun, 18 Nov 2018 17:00:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-11-18-postroenie-setki-s-iskusstvennym-intelle/</guid>
+      <description>&lt;p&gt;Компания Zenotech, провайдер облачных CFD расчетов на своей платформе и своим решателем zCFD, объявила о том, что уже с сентября месяца этого года она совместно с AlgoLib ведет проект по улучшению качества генерируемых расчетных сеток путем применения машинного обучения. Еще одна интересная попытка сделать качественную сетку без мучений - буду надеяться, что из этого получится что-то кроме хайпа.
+&lt;a href=&#34;https://zenotech.com/zenotech-and-algolib-collaborate-on-an-industry-first-ai-mesh/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://zenotech.com/zenotech-and-algolib-collaborate-on-an-industry-first-ai-mesh/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#AlgoLib #Cloud #HPC #Mesh #ZCFD #Zenotech
+&lt;a href=&#34;http://bit.ly/2RYTOI0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RYTOI0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Настройка использования лицензий при работе RSM</title>
+      <link>http://localhost:1313/posts/2018-07-11-nastroyka-ispolzovaniya-litsenziy-pri-rab/</link>
+      <pubDate>Wed, 11 Jul 2018 18:00:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-07-11-nastroyka-ispolzovaniya-litsenziy-pri-rab/</guid>
+      <description>&lt;p&gt;ANSYS RSM (Remote Solve Manager) - отличное средство по выполнению расчетов как на кластерах, так и на соседних рабочих станциях коллег, которые ушли в отпуск. Однако его надо уметь готовить.
+Иногда при отсутствии тонкой настройки может сложиться впечатление, что система &amp;ldquo;поджирает&amp;rdquo; лицензии на Mechanical. На самом деле, при выполнении фонового расчета в Mechanical по умолчанию RSM берет сразу 2 лицензии:&lt;/p&gt;
+&lt;p&gt;одна лицензия используется для проверки корректности постановки задачи в проекте (в логе сервера лицензий отображается как mech_struct)
+еще одна уходит непосредственно на расчет (в логе сервера лицензий отображается как  ans_solve)&lt;/p&gt;
+&lt;p&gt;Такое распараллеливание по лицензиям позволяет ускорить расчетный процесс - не надо ждать ответа от сервера лицензий. Однако, если лицензий мало, то неплохо бы их экономить.
+На этот случай есть одна интересная тонкая настройка, скрытая в главном меню Workbench&amp;gt;  Tools&amp;gt; Options&amp;gt; Mechanical. Там есть список &amp;ldquo;Release License for Pending Jobs&amp;rdquo; со следующими опциями:&lt;/p&gt;
+&lt;p&gt;On Demand - работа по умолчанию с задействованием двух лицензий. Одну из лицензий можно попросить назад через опцию контекстного меню &amp;ldquo;Release License&amp;rdquo; на ячейке Solution.
+Always - заставляет решатель автоматически отдавать лицензию при фоновом/пакетном расчете, когда работа идет на уровне ячейки Solution.
+Design Point Run Only - аналогично предыдущему, но только для проектов, содержащих параметрические исследования или перебор вариантов.&lt;/p&gt;
+&lt;p&gt;Таким образом, переключив настройки системы на Always или Design Point Run Only, мы немного усмиряем аппетит Mechanical за счет небольшого падения производительности.&lt;/p&gt;
+&lt;p&gt;#HPC #Longread #Mechancial #RSM
+&lt;a href=&#34;http://bit.ly/2NJa1j3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NJa1j3&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как корректно остановить решатель на ходу</title>
+      <link>http://localhost:1313/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</link>
+      <pubDate>Tue, 03 Jul 2018 18:02:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</guid>
+      <description>&lt;p&gt;Есть очень часто встречающаяся задача - запуск решателя в консольном/пакетном режиме для выполнения расчета на рабочей станции или кластере. С этой задачей сталкиваются многие опытные инженеры. Как запускать консольные расчеты хорошо описано в документации, много рассказано на форумах.
+Однако мало кто знает, что практически любой решатель, работающий в фоне, можно корректно остановить с запуском точки рестарта/чекпоинта. Как правило, необходимо создать особый файл в особом месте. Когда решатель его обнаружит, он сам все поймет. Особый файл будет удалён сразу после его обработки. Давайте посмотрим, как это сделать для основных решателей ANSYS.
+Mechanical/APDL:
+В рабочей директории решателя надо создать файл с именем jobname.abt, где jobname - имя проекта. Файл должен содержать только одно слово: nonlinear
+Fluent:
+Для записи файла рестарта (а это просто обычный набор из cas и dat) необходимо создать файл check-fluent в директории /tmp для Linux или check-fluent.txt в директории C:\temp для Windows. Корректно завершить решатель можно, создав в этих директориях файл exit-fluent или exit-fluent.txt соответсвенно.
+CFX:
+C этим решателем все сильно проще. У него есть специальный исполняемый файл cfx5stop, предназначенный для корректной остановки расчета. Таким образом, для проекта mixer_001, достаточно выполнить команду cfx5stop -directory mixer_001.dir в его рабочей директории - там mixer_001.dir будет являться временной рабочей директорией.
+LS-DYNA:
+У этого решателя есть такая штука как SWITCH CONTROLS - в ходе расчета вы можете нажать комбинацию клавиш Control+C и ввести определнный код. Вот те ключевые коды, которые относятся к нашей теме:
+sw1 - записать файл рестарта
+sw2 - вывести оценку оставшегося времени расчета
+sw3 - записать файл рестарта
+Если консоль вам недоступна (расчет идет в фоне), то необходимо создать в рабочей директории решателя файл d3kil (или jobid.d3kil, если вы используете идентификаторы расчетного проекта), содержащий соответсвующий код.
+Autodyn
+Для этого решателя надо создать файл savenow.dat для записи файла рестарта в конце текущей итерации, а файл endbat.dat завершит расчет после окончания текущей итерации.
+Решатели семейства AEDT (ANSYS Electronics Desktop) - бывший Ansoft
+Знающие люди подсказали, что решатели можно спокойно убивать на лету - они сами смогут рестартовать остановленный таким образом расчет с последней записанной итерации.
+ANSYS Workbench
+Если вы пользуетесь ANSYS RSM, то там для всех поддерживаемых решателей уже есть стандартная кнопка Interrupt, которая делает всю вышеописанную магию за вас. Настраивайте RSM и наслаждайтесь :-)&lt;/p&gt;
+&lt;p&gt;#AEDT #ANSYS #Autodyn #CFX #Checkpont #Fluent #HPC #Longread #LSDYNA #Restart #RSM #Workbench
+&lt;a href=&#34;http://bit.ly/2u3rrhp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2u3rrhp&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-Run от LSTC упрощает запуск расчетов LS-DYNA</title>
+      <link>http://localhost:1313/posts/2018-03-15-ls-run-ot-lstc-uproschaet-zapusk-raschetov/</link>
+      <pubDate>Thu, 15 Mar 2018 18:01:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-03-15-ls-run-ot-lstc-uproschaet-zapusk-raschetov/</guid>
+      <description>&lt;p&gt;Одна маленькая бесплатная утилита от LSTC, идущая в составе с LS-PrePost, начиная с версии 4.5 или скачиваемая отдельно с ftp.lstc.com, решает сразу кучу задач:&lt;/p&gt;
+&lt;p&gt;Взаимодействие с сервером лицензий
+Запуск расчетов локально
+Поддержание очереди задач
+Упрощение открытия результатов на постпроцессинге
+Рестарт расчетов
+Запуск удаленных расчетов
+Взаимодействие с кластерами на базе Microsoft HPC Cluster&lt;/p&gt;
+&lt;p&gt;Учебное видео по ее использованию в комплекте&lt;/p&gt;
+&lt;p&gt;#HPC #LSDYNA #LSRun #LSTC
+&lt;a href=&#34;https://goo.gl/XeUstw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/XeUstw&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Облачные лицензии ANSYS’ Pay-Per-Use для Rescale</title>
+      <link>http://localhost:1313/posts/2018-01-25-oblachnye-litsenzii-ansys-pay-per-use-dlya/</link>
+      <pubDate>Thu, 25 Jan 2018 17:01:29 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-01-25-oblachnye-litsenzii-ansys-pay-per-use-dlya/</guid>
+      <description>&lt;p&gt;На протяжении года ANSYS выкатывает свою систему лицензирования по запросу. Данная схема лицензирования очень хорошо подходит для случая использования облачных вычислительных ресурсов (также по запросу).&lt;/p&gt;
+&lt;p&gt;Итак, в начале этого года ANSYS Elastic Units (AEUs) - так называются облачные лицензии на ANSYS - стали доступны для платформы ScaleX Cloud HPC Platform от Rescale. Rescale, в свою очередь является одним из лидеров облачных HPC решений.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.rescale.com/ansys-rescale-offer-on-demand-ansys-software-on-scalex/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blog.rescale.com/ansys-rescale-offer-on-demand-ansys-software-on-scalex/&lt;/a&gt;
+#AEUs #ANSYS #cloud #HPC #Rescale #ScaleX
+&lt;a href=&#34;https://magicdpd.ru/?p=6080&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6080&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Наш свежий видео урок по взаимодействию #ANSYS #Workbench и </title>
+      <link>http://localhost:1313/posts/2017-12-19-nash-svezhiy-video-urok-po-vzaimodeystviyu/</link>
+      <pubDate>Tue, 19 Dec 2017 17:00:53 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-12-19-nash-svezhiy-video-urok-po-vzaimodeystviyu/</guid>
+      <description>&lt;p&gt;Скажу так: EKM в 18-ой версии это прям годна штука. Я его уже поставил и почти до конца настроил. С коллегами мы к нему даже Let&amp;rsquo;s Encrypt сертификаты прикрутить смогли! Скоро сам смогу рассказать о впечатлениях от использования в бою.&lt;/p&gt;
+&lt;p&gt;#SDM #HPC #RSM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jIw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jIw&lt;/a&gt;…Media📼 VL1726 — Взаимодействие среды ANSYS Workbench с се…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2D1QZ25&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2D1QZ25&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ускорение #ANSYS #Fluent при помощи #GPGU #NVIDIA возможно, </title>
+      <link>http://localhost:1313/posts/2017-11-27-uskorenie-ansys-fluent-pri-pomoschi-gpg/</link>
+      <pubDate>Mon, 27 Nov 2017 17:08:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-11-27-uskorenie-ansys-fluent-pri-pomoschi-gpg/</guid>
+      <description>&lt;p&gt;Как показывают тесты NVIDIA, на одном и том-же пуле лицензии главный #CFD решатель ANSYS может ускориться почти в 4 раза за счет подключения нескольких #Tesla P100. И сейчас мы говорим не про супер компьютер, а про обычный сервер на 32 ядра.&lt;/p&gt;
+&lt;p&gt;Что бы добиться такого же ускорения просто на процессорах вам потребуется уже 4 сервера соединенных по #Infiniband, коммутатор Infiniband, управляющий софт для получившегося кластера и дополнительные лицензий ANSYS на #HPC.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2ACZNhd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ACZNhd&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Хотите собрать сбалансированный вычислительный сервер под расчеты в ANSYS - читайте документацию 😊MediaMedia💾 ANSYS18.2_tech.pdf🔗 Ansys Fluent GPU Acceleration | NVIDIA&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Компания Metariver Technology co., ltd (http://www.metariver</title>
+      <link>http://localhost:1313/posts/2017-11-26-kompaniya-metariver-technology-co-ltd/</link>
+      <pubDate>Sun, 26 Nov 2017 17:09:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-11-26-kompaniya-metariver-technology-co-ltd/</guid>
+      <description>&lt;p&gt;Сейчас у них есть:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;samadii/sciv (Statistical Contact in Vacuum) - моделирование процессов в вакуумных приборах методом Monte Carlo&lt;/li&gt;
+&lt;li&gt;samadii/plasma - моделирование процессов в плазме&lt;/li&gt;
+&lt;li&gt;samadii/dem - моделирования сыпучих сред в #DEM постановке&lt;/li&gt;
+&lt;li&gt;samadii/lbm - #CFD решатель на основе #Lattice Boltzmann methods (#LBM)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Все это работает чисть на графических картах, а значит очень быстро.&lt;/p&gt;
+&lt;p&gt;#HPC
+&lt;a href=&#34;https://youtu.be/xXG3JbT0AQkMediaMediaMediaMedia&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/xXG3JbT0AQkMediaMediaMediaMedia&lt;/a&gt;📼 samadii, Metariver Technology&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2i8z0RZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i8z0RZ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#TotalCAE хвастают тем, что написали слой интеграции между S</title>
+      <link>http://localhost:1313/posts/2017-10-22-totalcae-hvastayut-tem-chto-napisali-slo/</link>
+      <pubDate>Sun, 22 Oct 2017 17:14:25 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-10-22-totalcae-hvastayut-tem-chto-napisali-slo/</guid>
+      <description>&lt;p&gt;TotalCAE взяли и написали свой собственный слой интеграции. Это прикольно, но проще было взять стандартный транслятор SLURM-PBS.&lt;/p&gt;
+&lt;p&gt;#HPC&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.totalcae.com/learn/slurm-ansys-remote-solver-manager-rsm/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.totalcae.com/learn/slurm-ansys-remote-solver-manager-rsm/&lt;/a&gt; 🔗 SLURM with ANSYS Remote Solver Manager (RSM) - TotalCAE Blog&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Очень крутой технический доклад #Volvo на 7-ой конференции &#34;</title>
+      <link>http://localhost:1313/posts/2017-10-19-ochen-krutoy-tehnicheskiy-doklad-volvo-n/</link>
+      <pubDate>Thu, 19 Oct 2017 17:12:40 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-10-19-ochen-krutoy-tehnicheskiy-doklad-volvo-n/</guid>
+      <description>&lt;p&gt;Мне больше всего понравился рассказ про рабочий процесс, выработанный на Volvo - ведь они строят полные модели автомобилей для расчетов! И строят их почти автоматически.&lt;/p&gt;
+&lt;p&gt;А еще, подробная модель автомобиля у них состоит всего из 10-15 миллионов элементов - это не очень много, а значит инженеры очень грамотно строят сетку и используют кучу упрощений без потери точности.&lt;/p&gt;
+&lt;p&gt;И конечно есть пара слайдов про #HPC: 34 800 процессорных ядер! И им не хватает 😊
+&lt;a href=&#34;https://youtu.be/kfYjxiZaESIMedia&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/kfYjxiZaESIMedia&lt;/a&gt;📼 Comprehensive Safety CAE for the all-new Volvo S90…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2gw0MXQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2gw0MXQ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#Intel в ближайшее время начнет поставки новых серверных про</title>
+      <link>http://localhost:1313/posts/2017-08-18-intel-v-blizhayshee-vremya-nachnet-postavki/</link>
+      <pubDate>Fri, 18 Aug 2017 17:02:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-08-18-intel-v-blizhayshee-vremya-nachnet-postavki/</guid>
+      <description>&lt;p&gt;#ANSYS уже подсуетился и замерил производительность новых процессоров в актуальной версии своего ПО. Тут мы видим до 40% прироста производительности. Магии никакой нет, просто код решателей ANSYS умеет использоваться новый набор векторных инструкций Intel® Advanced Vector Extensions 2 (#AVX2) - шах и мат любителям высокой частоты.&lt;/p&gt;
+&lt;p&gt;И да, если вы собираетесь подбирать новое железо, то моя инструкция (ее пункт 11) все еще актуальна: https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/18/ANSYS18.1_tech.pdf&lt;/p&gt;
+&lt;p&gt;#HPC &lt;a href=&#34;http://www.ansys-blog.com/boost-ansys-performance-intel-technologies/#more-18699&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/boost-ansys-performance-intel-technologies/#more-18699&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>А что если Fluent на миллион ядер запустить</title>
+      <link>http://localhost:1313/posts/2017-05-14-a-chto-esli-fluent-na-million-yader-zapust/</link>
+      <pubDate>Sun, 14 May 2017 17:00:55 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-05-14-a-chto-esli-fluent-na-million-yader-zapust/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.ansys-blog.com/hpc/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/hpc/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS прикинул, что если они не сбавят темпы разработки #HPC части своего главного #CFD кода #Fluent, то к 2020 году он сможет эффективно распараллеливать на миллион ядер. А что, последний десяток лет им удается сохранять тренд. Challenge accepted, как говориться.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Еще один способ упростить расчеты LS-DYNA</title>
+      <link>http://localhost:1313/posts/2017-02-21-esche-odin-sposob-uprostit-raschety-ls-dyn/</link>
+      <pubDate>Tue, 21 Feb 2017 17:03:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-02-21-esche-odin-sposob-uprostit-raschety-ls-dyn/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.lsdyna-tutorials.com/k-runner&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lsdyna-tutorials.com/k-runner&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;На сайте &lt;a href=&#34;http://www.lsdyna-tutorials.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lsdyna-tutorials.com/&lt;/a&gt; появился еще один интересный ланчер для расчетов в #LSDYNA. Он позволяет построить настоящую расчетную сеть с клиентами и серверами приложений - прямо как #ANSYS #RSM. Я бы такой развернул на работе, правда, боюсь, что эта штука окажется платной.
+#HPC&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=TraTYWyLf0s&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=TraTYWyLf0s&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deploying HPC Cluster with Mellanox InfiniBand Interconnect </title>
+      <link>http://localhost:1313/posts/2017-01-18-deploying-hpc-cluster-with-mellanox-infi/</link>
+      <pubDate>Wed, 18 Jan 2017 17:02:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-01-18-deploying-hpc-cluster-with-mellanox-infi/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://vk.com/doc11568_441185555&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/doc11568_441185555&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В очередной раз убедился, что нет лучше пособия по отладке true #HPC кластеров чем эта небольшая брошюрка от #Mellanox. #Infiniband рули, а ссылка на документ чуть ниже в посте.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Несколько слов про доставку инженерной графики</title>
+      <link>http://localhost:1313/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</link>
+      <pubDate>Thu, 29 Sep 2016 17:00:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Microsoft продолжает хвастаться новыми возможностями по работе с #GPU, которые она реализует в #Windows #Server 2016. Нас ожидает поддержка нужного #OpenGL 4.4+ как в сценариях с #RDSH, так и при построении #VDI. При этом, в качестве средства доставки будет выступать привычный и понятный #RDP, а видеопоток будет полностью аппаратно кодироваться и декодироваться на GPU сервера и клиента. Аналогичные возможности ожидаются в #Azure #Cloud.&lt;/p&gt;
+&lt;p&gt;Неужели скоро все инженеры получат достойные системы доставки инженерной графики практически за так?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Централизованное управление GPU вашего датацентра</title>
+      <link>http://localhost:1313/posts/2016-09-01-tsentralizovannoe-upravlenie-gpu-vashego-d/</link>
+      <pubDate>Thu, 01 Sep 2016 06:30:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-09-01-tsentralizovannoe-upravlenie-gpu-vashego-d/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://devblogs.nvidia.com/parallelforall/nvidia-data-center-gpu-manager-cluster-administration/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://devblogs.nvidia.com/parallelforall/nvidia-data-center-gpu-manager-cluster-administration/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#NVIDIA объявила о выходе Data Center GPU Manager (#DCGM) предназанвенного для централизованного мониторинга и управления #GPU и #GPGPU вашего датацентра или кластера (у кого что). ПО имеет интерфейсы к основным игрокам #HPC рынка: Bright Custer Manager (#BCM), #Altair #PBS Works и #IBM Spectrum #LSF и позволяет производить низкоуровневую диагностику аппаратной части, конфигурирование драйверов и прочие низкоуровневые фишки.&lt;/p&gt;
+&lt;p&gt;Nvidia DCGM 1.0 Release Candidate доступен для скачивания по регистрации (&lt;a href=&#34;https://developer.nvidia.com/data-center-gpu-manager-dcgm-access%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://developer.nvidia.com/data-center-gpu-manager-dcgm-access)&lt;/a&gt;. О том, будет ли данное ПО бесплано, или потребуется приобретение лицензий пока не сообщается, но что-то мне подсказывает, что с учетом последних действий NVIDIA нам всем придется раскошелиться.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cray, LSTC и Rolls-Royce соберутся на одном вебинаре</title>
+      <link>http://localhost:1313/posts/2016-08-28-cray-lstc-i-rolls-royce-soberutsya-na-od/</link>
+      <pubDate>Sun, 28 Aug 2016 12:00:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-08-28-cray-lstc-i-rolls-royce-soberutsya-na-od/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://web.cray.com/CAE_webinar_series_LSTC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://web.cray.com/CAE_webinar_series_LSTC&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Компании #Cray, #LSTC и #RollsRoyce 13 сентября проведут совместный вебинар. На вебинаре будут показаны их достижения в области #HPC для расчетов, выполняемых в #LSDYNA&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Запущена тестовая эксплуатация GPU в Azure</title>
+      <link>http://localhost:1313/posts/2016-08-18-zapuschena-testovaya-ekspluatatsiya-gpu-v-azu/</link>
+      <pubDate>Thu, 18 Aug 2016 06:30:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-08-18-zapuschena-testovaya-ekspluatatsiya-gpu-v-azu/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Тестовая демонстрация работы #GPU #NVIDIA инстансов в облаке #Azure началась в зоне South Central US. При этом, как говорят сами MS, они используют технологию прямого проброса устройстви (Discrete Device Assignment, #DDA), заложенную в ожидаемый #Windows #Server 2016 Hyper-V.&lt;/p&gt;
+&lt;p&gt;Итак, в облаке Azure теперь есть все для построения виртуального #HPC кластера!&lt;/p&gt;
+&lt;p&gt;#cloud #tesla #k80 #m60 #hyperv #teradici&lt;/p&gt;
+&lt;p&gt;Небольшое интевью по поводу события от #Channel9
+&lt;a href=&#34;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новый Bright Cluster Manager уже доступен для закачки</title>
+      <link>http://localhost:1313/posts/2016-08-11-novyy-bright-cluster-manager-uzhe-dostupe/</link>
+      <pubDate>Thu, 11 Aug 2016 06:30:55 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-08-11-novyy-bright-cluster-manager-uzhe-dostupe/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.brightcomputing.com/blog/the-new-release-of-bright-cluster-manager-is-now-shipping&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.brightcomputing.com/blog/the-new-release-of-bright-cluster-manager-is-now-shipping&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Лидер рынка независимых (от вендоров железа) систем управления #HPC кластерами Bright Cluster Manager (#BCM) от голландской компании Bright Comuting обновился до версии 7.3.&lt;/p&gt;
+&lt;p&gt;В новой версии расширена поддержка Amazon Web Services (#AWS) для автоматического разворачивания кластера в облаке, улучшена поддержка технологий контейнеризации #Docker. Еще есть куча всяких улучшений для коллеги, занимающихся #BigData.&lt;/p&gt;
+&lt;p&gt;Всем обязательно советую сходить по ссылке и посмотреть небольшой демонстрационный видео ролик о том, как должен выглядеть правильный кластер-менеджер.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Молния: открыта очередь на тестирование GPU NVIDIA в облаке </title>
+      <link>http://localhost:1313/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</link>
+      <pubDate>Fri, 05 Aug 2016 12:30:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://gpu.azure.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://gpu.azure.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Вчера компания #Microsoft выдала очередной анонс запуска #GPU инстансов в #Azure. Примерно год назад компания уже писала о своих планах в блоке, но видимо разработка идет не так гладко, как хотелось бы. Сейчас, вместе с анонсом компания разместила страницу регистрации на тестирование нового продукта. Лично я уже заказал сете на тест машинку с 2-мя #NVIDIA #Tesla #K80, 224 Гб RAM и 1.5 Тб SSD.&lt;/p&gt;
+&lt;p&gt;Еще Microsoft говори о партнерстве с компанией #Teradici для использования технологии #PCoIP доставляющей удаленные рабочие столы со сложной графикой. Это немного странно для меня. Во-первых Teradici - это решение заклятого конкурента #VMWare. Во-вторых, где обещанный ранее #DDS и новый #RemoteFX с поддержкой #OpenGL 4+ (заявлено для #Windows #Server 2016)? Неужели MS отказывает использовать свои серверные операционные систем и технологии в своем же облаке?&lt;/p&gt;
+&lt;p&gt;#VDI #Cloud #HPC
+&lt;a href=&#34;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AMD Radeon Pro SSG - графическая карта с 1TB SSD</title>
+      <link>http://localhost:1313/posts/2016-07-28-amd-radeon-pro-ssg-graficheskaya-karta-s/</link>
+      <pubDate>Thu, 28 Jul 2016 20:44:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-07-28-amd-radeon-pro-ssg-graficheskaya-karta-s/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://semiaccurate.com/2016/07/25/amd-puts-massive-ssds-gpus-calls-ssg/?sf31777054=1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://semiaccurate.com/2016/07/25/amd-puts-massive-ssds-gpus-calls-ssg/?sf31777054=1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#AMD анонсировала новую топовую профессиональную видеокарту. Ее изюминка - наличие сразу двух разъемов для M.2 для установки #SSD в качестве дополнительного буфера хранения обрабатываемой информации. И это на случай, если вам не хватит 32 Гб памяти, что и так есть на борту этого #GPU. Жаль, что GPU от AMD практически не поддерживаются #CAE софтом.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Готовая инстукция по запуску #OpenFOAM на мощностях #Amazon </title>
+      <link>http://localhost:1313/posts/2016-07-28-gotovaya-instuktsiya-po-zapusku-openfoam-n/</link>
+      <pubDate>Thu, 28 Jul 2016 06:30:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-07-28-gotovaya-instuktsiya-po-zapusku-openfoam-n/</guid>
+      <description>&lt;p&gt;#HPC #Cloud
+&lt;a href=&#34;http://lnk.al/1WXy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1WXy&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Совсем недавно #NIMBIX (один из самых крутых владельцев обла</title>
+      <link>http://localhost:1313/posts/2016-07-24-sovsem-nedavno-nimbix-odin-iz-samyh-kr/</link>
+      <pubDate>Sun, 24 Jul 2016 13:00:03 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-07-24-sovsem-nedavno-nimbix-odin-iz-samyh-kr/</guid>
+      <description>&lt;p&gt;#HPC #Cloud
+&lt;a href=&#34;http://lnk.al/1U4g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1U4g&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Нам надо больше бесплатной топологической оптимизации!!!</title>
+      <link>http://localhost:1313/posts/2016-06-22-nam-nado-bolshe-besplatnoy-topologichesko/</link>
+      <pubDate>Wed, 22 Jun 2016 12:02:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-22-nam-nado-bolshe-besplatnoy-topologichesko/</guid>
+      <description>&lt;p&gt;Компания Virtual.PYXIS совместно с #ESSS выкатила бесплатное #ACT для #topology #optimization прямо в #ANSYS ACT Applications Store! На первый взгляд, данное расширение сдано несколько более качественно чем родное расширение от ANSYS, оно лучше выводит статистику по процессу оптимизации, позволяет задавать веса условиям нагружения. И да, чуть не забыл, у него есть возможность использовать #HPC в отличие от родного ACT - процесс оптимизации требует раз 10 - 20 прогнать решение вашей задачи, так что оперативной ресурсы потребуются.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#34;А неведома зверушка&#34;</title>
+      <link>http://localhost:1313/posts/2016-06-21-a-nevedoma-zverushka/</link>
+      <pubDate>Tue, 21 Jun 2016 10:58:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-21-a-nevedoma-zverushka/</guid>
+      <description>&lt;p&gt;Китайцы опять возглавили #TOP500 суперкомпьютеров по версии #HPL (High Perfomance #LINPACK). На этот раз это своя ОС и свои 260 ядерные #RISC процессоры. Вот как надо делать #HPC.&lt;/p&gt;
+&lt;p&gt;P.S. Интересно, смогу ли специалистов смогут перебрать свой код под такую экзотическую архитектуру?!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Большой вебинар по работе #XFlow в облаке #Rescale. Рассказы</title>
+      <link>http://localhost:1313/posts/2016-06-19-bolshoy-vebinar-po-rabote-xflow-v-oblak/</link>
+      <pubDate>Sun, 19 Jun 2016 07:20:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-19-bolshoy-vebinar-po-rabote-xflow-v-oblak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#Altair сказал - Altair сделал. На сайте появилась информаци</title>
+      <link>http://localhost:1313/posts/2016-06-16-altair-skazal-altair-sdelal-na-sayte/</link>
+      <pubDate>Thu, 16 Jun 2016 07:00:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-16-altair-skazal-altair-sdelal-na-sayte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>С удивлением для себя узнал, что у #Platform #LSF (Load Shar</title>
+      <link>http://localhost:1313/posts/2016-06-12-s-udivleniem-dlya-sebya-uznal-chto-u-plat/</link>
+      <pubDate>Sun, 12 Jun 2016 07:00:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-12-s-udivleniem-dlya-sebya-uznal-chto-u-plat/</guid>
+      <description>&lt;p&gt;IBM бесплатно предоставляет данную версию HPC Clustre Meanager + Workload Manage + Platfrom MPI + Web UI которая может использоваться на кластерах с 10 узлами. Система способна управлять 1000 заданий!&lt;/p&gt;
+&lt;p&gt;Между прочим 20 узлов - это от 256 до 1024 ядер процессоров в зависимости от архитектуры узлов!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Это не хентай - это презентация #ANSYS #Enterprise #Cloud на</title>
+      <link>http://localhost:1313/posts/2016-06-09-eto-ne-hentay-eto-prezentatsiya-ansys/</link>
+      <pubDate>Thu, 09 Jun 2016 08:38:51 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-09-eto-ne-hentay-eto-prezentatsiya-ansys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Сегодня в Питере провели небольшой семинар на пол дня по #AN</title>
+      <link>http://localhost:1313/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</link>
+      <pubDate>Thu, 02 Jun 2016 13:58:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</guid>
+      <description>&lt;p&gt;11 докладов по #Mechanical, #Explicit, #CFX, #Fluent, #DesignXplorer, #SpaceClaim, #HPC, #RBD, #ACP, #ACCS и конечно же #AIM!&lt;/p&gt;
+&lt;p&gt;А еще состоялся анонс проекта под рабочим названием #CADFEM #Haze!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Еще только на прошлой неделе #NVIDIA #Tesla на процессорах #</title>
+      <link>http://localhost:1313/posts/2016-05-23-esche-tolko-na-proshloy-nedele-nvidia-te/</link>
+      <pubDate>Mon, 23 May 2016 11:00:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-05-23-esche-tolko-na-proshloy-nedele-nvidia-te/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Я как-то умудрился пропустить облачный сервис для #CAE расче</title>
+      <link>http://localhost:1313/posts/2016-05-23-ya-kak-to-umudrilsya-propustit-oblachnyy-s/</link>
+      <pubDate>Mon, 23 May 2016 07:00:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-05-23-ya-kak-to-umudrilsya-propustit-oblachnyy-s/</guid>
+      <description>&lt;p&gt;Первый отечественный настоящий #cloud!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>19 мая #ANSYS объявил о своей новой технологии ANSYS #SeaSca</title>
+      <link>http://localhost:1313/posts/2016-05-21-19-maya-ansys-obyavil-o-svoey-novoy-tehn/</link>
+      <pubDate>Sat, 21 May 2016 17:02:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-05-21-19-maya-ansys-obyavil-o-svoey-novoy-tehn/</guid>
+      <description>&lt;p&gt;Пока во всех новостях по данной теме больше маркетинговых buzzword&amp;rsquo;ов и чепухи, чем сути. Будем следить за развитием событий.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новость по железу: #NVIDIA начинает массово выкатывать на ры</title>
+      <link>http://localhost:1313/posts/2016-05-19-novost-po-zhelezu-nvidia-nachinaet-mass/</link>
+      <pubDate>Thu, 19 May 2016 07:00:53 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-05-19-novost-po-zhelezu-nvidia-nachinaet-mass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Интересные новости происходят между праздниками. Команда #Al</title>
+      <link>http://localhost:1313/posts/2016-05-05-interesnye-novosti-proishodyat-mezhdu-praz/</link>
+      <pubDate>Thu, 05 May 2016 11:08:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-05-05-interesnye-novosti-proishodyat-mezhdu-praz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>С удовольствием нашел родной #Политех (#СПбГПУ) на третьей с</title>
+      <link>http://localhost:1313/posts/2016-04-06-s-udovolstviem-nashel-rodnoy-politeh/</link>
+      <pubDate>Wed, 06 Apr 2016 07:00:51 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-04-06-s-udovolstviem-nashel-rodnoy-politeh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Встречаем Akselos - программное обеспечения для решения зада</title>
+      <link>http://localhost:1313/posts/2016-03-20-vstrechaem-akselos-programmnoe-obespeche/</link>
+      <pubDate>Sun, 20 Mar 2016 07:00:54 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-03-20-vstrechaem-akselos-programmnoe-obespeche/</guid>
+      <description>&lt;p&gt;Еще фишки ПО:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;работа с неподготовленной геометрией&lt;/li&gt;
+&lt;li&gt;моделирования роста трещин&lt;/li&gt;
+&lt;li&gt;использование открытых библиотек для работы с сеткой и решения СЛАУ: PETSc, libMesh&lt;/li&gt;
+&lt;li&gt;использование GCE (Google Compute Engine) для #HPC&lt;/li&gt;
+&lt;li&gt;и т.д.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Некоторые брошюры по RB-FEM во вложении.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>4 марта 1976 года (40 лет назад) Лос-Аламосская национальная</title>
+      <link>http://localhost:1313/posts/2016-03-06-4-marta-1976-goda-40-let-nazad-los-ala/</link>
+      <pubDate>Sun, 06 Mar 2016 09:55:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-03-06-4-marta-1976-goda-40-let-nazad-los-ala/</guid>
+      <description>&lt;p&gt;А вы все еще считаете на &amp;ldquo;персоналках&amp;rdquo;?!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новость дня: для наших старых друзей, компании #NICE #Softwa</title>
+      <link>http://localhost:1313/posts/2016-02-12-novost-dnya-dlya-nashih-staryh-druzey-ko/</link>
+      <pubDate>Fri, 12 Feb 2016 17:36:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-02-12-novost-dnya-dlya-nashih-staryh-druzey-ko/</guid>
+      <description>&lt;p&gt;Это очень хорошая поддержка для небольшой итальянской компании менее чем из 100 человек.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#CFD от NASA</title>
+      <link>http://localhost:1313/posts/2016-01-09-cfd-ot-nasa/</link>
+      <pubDate>Sat, 09 Jan 2016 08:49:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-01-09-cfd-ot-nasa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trampo обещает в своем рекламном видео, что #CFD специалисты</title>
+      <link>http://localhost:1313/posts/2015-12-14-trampo-obeschaet-v-svoem-reklamnom-video/</link>
+      <pubDate>Mon, 14 Dec 2015 06:01:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-12-14-trampo-obeschaet-v-svoem-reklamnom-video/</guid>
+      <description>&lt;p&gt;+1 в облаке 😊&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Интересно, что нам расскажут HP по итогам прошедшей конферен</title>
+      <link>http://localhost:1313/posts/2015-12-02-interesno-chto-nam-rasskazhut-hp-po-itoga/</link>
+      <pubDate>Wed, 02 Dec 2015 18:01:17 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-12-02-interesno-chto-nam-rasskazhut-hp-po-itoga/</guid>
+      <description>&lt;p&gt;P.S. После разделения HP корпоративную часть компании называют Hewlett Packard Enterprise (HPE)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Насчет недавней новости про #OpenHPC - а вы заметили, что в </title>
+      <link>http://localhost:1313/posts/2015-11-20-naschet-nedavney-novosti-pro-openhpc-a/</link>
+      <pubDate>Fri, 20 Nov 2015 18:00:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-20-naschet-nedavney-novosti-pro-openhpc-a/</guid>
+      <description>&lt;p&gt;#HPC
+&lt;a href=&#34;http://www.openhpc.community/about-us/participants/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.openhpc.community/about-us/participants/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вот так новость: Cray, Dell, Fujitsu, Hewlett Packard, Intel</title>
+      <link>http://localhost:1313/posts/2015-11-15-vot-tak-novost-cray-dell-fujitsu-he/</link>
+      <pubDate>Sun, 15 Nov 2015 18:00:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-15-vot-tak-novost-cray-dell-fujitsu-he/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Всем строителям облаков, и тем, кто в них хочет переехать чи</title>
+      <link>http://localhost:1313/posts/2015-11-14-vsem-stroitelyam-oblakov-i-tem-kto-v-ni/</link>
+      <pubDate>Sat, 14 Nov 2015 18:00:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-14-vsem-stroitelyam-oblakov-i-tem-kto-v-ni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>На конференции AWS re:Invent ANSYS расскзал об архитектуре с</title>
+      <link>http://localhost:1313/posts/2015-11-09-na-konferentsii-aws-reinvent-ansys-rassk/</link>
+      <pubDate>Mon, 09 Nov 2015 06:30:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-09-na-konferentsii-aws-reinvent-ansys-rassk/</guid>
+      <description>&lt;p&gt;Однако проблемы, на которые я всегда обращаю внимание, остались открытыми:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;нет RDMA - большой кластер тормозит даже для CFD&lt;/li&gt;
+&lt;li&gt;очень кривая организация виртуальных рабочих станций для постпроцессинга из-за ограничений на объем оперативной памяти.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Есть и замечательные, доселе невиданные возможности: вы получаете готовый к расчетами HPC кластер менее чем за 3 (три!!!) часа, и вы можете изменять его размер по запросу. Обычно проектирование и пуск кластера занимает месяцы :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>В честь воскресного вечера позволю себе очень любопытный офф</title>
+      <link>http://localhost:1313/posts/2015-11-08-v-chest-voskresnogo-vechera-pozvolyu-sebe/</link>
+      <pubDate>Sun, 08 Nov 2015 18:00:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-08-v-chest-voskresnogo-vechera-pozvolyu-sebe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Компания  NuScale Power, LLC (http://www.nuscalepower.com/),</title>
+      <link>http://localhost:1313/posts/2015-11-06-kompaniya-nuscale-power-llc-httpwww/</link>
+      <pubDate>Fri, 06 Nov 2015 06:30:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-06-kompaniya-nuscale-power-llc-httpwww/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Запись доклада компании #NICE по их продукту #DCV - лидеру р</title>
+      <link>http://localhost:1313/posts/2015-11-05-zapis-doklada-kompanii-nice-po-ih-prod/</link>
+      <pubDate>Thu, 05 Nov 2015 06:30:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-05-zapis-doklada-kompanii-nice-po-ih-prod/</guid>
+      <description>&lt;p&gt;Знали бы вы, что NICE Software покажет в рамках проекта DCV в этом году на грядущем SC2015&amp;hellip; Я вот уже знаю и пользуюсь в рамках партнерской программы тестирования, но рассказать не могу. Могу только намекнуть, что Citrix XenApp/XenDesktop и VMWare View будут плакать.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NX Nastran тоже ударился в облака. Скоро будет проще сказать</title>
+      <link>http://localhost:1313/posts/2015-10-17-nx-nastran-tozhe-udarilsya-v-oblaka-skoro/</link>
+      <pubDate>Sat, 17 Oct 2015 07:01:49 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-17-nx-nastran-tozhe-udarilsya-v-oblaka-skoro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Это не совсем про расчеты, но это то, чем мы все скоро будем</title>
+      <link>http://localhost:1313/posts/2015-10-11-eto-ne-sovsem-pro-raschety-no-eto-to-che/</link>
+      <pubDate>Sun, 11 Oct 2015 06:30:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-11-eto-ne-sovsem-pro-raschety-no-eto-to-che/</guid>
+      <description>&lt;p&gt;Лично я не могу дождаться, когда инстансы N-типа будут доступны нам - очень хочется проверить задержки при удаленной визуализации через DCV.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Запущенный на Cary XC40TM код ANSYS Fluent помог очень краси</title>
+      <link>http://localhost:1313/posts/2015-10-07-zapuschennyy-na-cary-xc40tm-kod-ansys-flue/</link>
+      <pubDate>Wed, 07 Oct 2015 18:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-07-zapuschennyy-na-cary-xc40tm-kod-ansys-flue/</guid>
+      <description>&lt;p&gt;Дальше остаться только завидовать показателям: сетка на 62 миллионов ячеек, 8192 ядра суперкомпьютера. CARY MPI и Cary Linux делают свое дело в плане эффективности.&lt;/p&gt;
+&lt;p&gt;Иллюстрации от FCA Italy.&lt;/p&gt;
+&lt;p&gt;Пресс релиз доступен по ссылке:
+&lt;a href=&#34;http://www.ansys.com/staticassets/ANSYS/staticassets/partner/Cray/ApplicationBrief-Cray-ANSYS-Fluent-Vehicle-Noise.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/staticassets/ANSYS/staticassets/partner/Cray/ApplicationBrief-Cray-ANSYS-Fluent-Vehicle-Noise.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Со всей этой рутинной я чуть пропустил абсолютно сногсшибате</title>
+      <link>http://localhost:1313/posts/2015-10-05-so-vsey-etoy-rutinnoy-ya-chut-propustil-a/</link>
+      <pubDate>Mon, 05 Oct 2015 06:30:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-05-so-vsey-etoy-rutinnoy-ya-chut-propustil-a/</guid>
+      <description>&lt;p&gt;Теперь же мы можем наблюдать очень интересную направленность Azure в HPC направление. Тут и честный Infiniband (чего нет даже у Amazon AWS), и несколько HPC планировщиков, в числе которых есть лидер рынка Altair PBS Pro, и, наконец, недостающее звено - гибридные вычисления и поддержка удаленной визуализации!!! Мне кажется, что сейчас Azure дал крепкую затрещину AWS.&lt;/p&gt;
+&lt;p&gt;#Azure #AWS #Cloud #HPC #NVIDIA
+&lt;a href=&#34;http://nvidianews.nvidia.com/news/nvidia-gpus-to-accelerate-microsoft-azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://nvidianews.nvidia.com/news/nvidia-gpus-to-accelerate-microsoft-azure&lt;/a&gt;
+&lt;a href=&#34;http://www.nvidia.ru/object/nvidia-grid-microsoft-azure-29-sep-2015-ru.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.nvidia.ru/object/nvidia-grid-microsoft-azure-29-sep-2015-ru.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Altair с новой версией своего решателя явной динамики RADIOS</title>
+      <link>http://localhost:1313/posts/2015-10-03-altair-s-novoy-versiey-svoego-reshatelya-ya/</link>
+      <pubDate>Sat, 03 Oct 2015 18:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-03-altair-s-novoy-versiey-svoego-reshatelya-ya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Издание HPCWire начало голосование за лучшие HPC 2015 года. </title>
+      <link>http://localhost:1313/posts/2015-09-30-izdanie-hpcwire-nachalo-golosovanie-za-lu/</link>
+      <pubDate>Wed, 30 Sep 2015 06:30:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-30-izdanie-hpcwire-nachalo-golosovanie-za-lu/</guid>
+      <description>&lt;p&gt;Голосование будет проходить до 9 Октября 23:59 по тихоокеанскому времени.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Довольно часто пользователи ANSYS жалуются, что у них долго </title>
+      <link>http://localhost:1313/posts/2015-09-25-dovolno-chasto-polzovateli-ansys-zhaluyut/</link>
+      <pubDate>Fri, 25 Sep 2015 06:30:10 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-25-dovolno-chasto-polzovateli-ansys-zhaluyut/</guid>
+      <description>&lt;p&gt;Steve Legensky из Intelligent Light расскажет, как жить, когда результаты ваших расчетов измеряются петабайтами (1.0E+6 Гб)! В конце презентации шикарная визуализация посадки вертолета на корабль.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Молния! Сегодня стало известно о новых рекордах ANSYS в обла</title>
+      <link>http://localhost:1313/posts/2015-09-10-molniya-segodnya-stalo-izvestno-o-novyh-r/</link>
+      <pubDate>Thu, 10 Sep 2015 11:19:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-10-molniya-segodnya-stalo-izvestno-o-novyh-r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

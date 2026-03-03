@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mechancial on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/mechancial/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Mechancial)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 11 Jul 2018 18:00:57 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/mechancial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Настройка использования лицензий при работе RSM</title>
+      <link>http://localhost:1313/posts/2018-07-11-nastroyka-ispolzovaniya-litsenziy-pri-rab/</link>
+      <pubDate>Wed, 11 Jul 2018 18:00:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-07-11-nastroyka-ispolzovaniya-litsenziy-pri-rab/</guid>
+      <description>&lt;p&gt;ANSYS RSM (Remote Solve Manager) - отличное средство по выполнению расчетов как на кластерах, так и на соседних рабочих станциях коллег, которые ушли в отпуск. Однако его надо уметь готовить.
+Иногда при отсутствии тонкой настройки может сложиться впечатление, что система &amp;ldquo;поджирает&amp;rdquo; лицензии на Mechanical. На самом деле, при выполнении фонового расчета в Mechanical по умолчанию RSM берет сразу 2 лицензии:&lt;/p&gt;
+&lt;p&gt;одна лицензия используется для проверки корректности постановки задачи в проекте (в логе сервера лицензий отображается как mech_struct)
+еще одна уходит непосредственно на расчет (в логе сервера лицензий отображается как  ans_solve)&lt;/p&gt;
+&lt;p&gt;Такое распараллеливание по лицензиям позволяет ускорить расчетный процесс - не надо ждать ответа от сервера лицензий. Однако, если лицензий мало, то неплохо бы их экономить.
+На этот случай есть одна интересная тонкая настройка, скрытая в главном меню Workbench&amp;gt;  Tools&amp;gt; Options&amp;gt; Mechanical. Там есть список &amp;ldquo;Release License for Pending Jobs&amp;rdquo; со следующими опциями:&lt;/p&gt;
+&lt;p&gt;On Demand - работа по умолчанию с задействованием двух лицензий. Одну из лицензий можно попросить назад через опцию контекстного меню &amp;ldquo;Release License&amp;rdquo; на ячейке Solution.
+Always - заставляет решатель автоматически отдавать лицензию при фоновом/пакетном расчете, когда работа идет на уровне ячейки Solution.
+Design Point Run Only - аналогично предыдущему, но только для проектов, содержащих параметрические исследования или перебор вариантов.&lt;/p&gt;
+&lt;p&gt;Таким образом, переключив настройки системы на Always или Design Point Run Only, мы немного усмиряем аппетит Mechanical за счет небольшого падения производительности.&lt;/p&gt;
+&lt;p&gt;#HPC #Longread #Mechancial #RSM
+&lt;a href=&#34;http://bit.ly/2NJa1j3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NJa1j3&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>История успеха с кубка Америки по яхтенному спорту 2017</title>
+      <link>http://localhost:1313/posts/2017-07-17-istoriya-uspeha-s-kubka-ameriki-po-yahtenn/</link>
+      <pubDate>Mon, 17 Jul 2017 17:00:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-07-17-istoriya-uspeha-s-kubka-ameriki-po-yahtenn/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.ansys-blog.com/emirates-team-new-zealand-wins-2017-americas-cup/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/emirates-team-new-zealand-wins-2017-americas-cup/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS рассказывает о том, как его технологии помогли команде Emirates Team New Zealand победить в самой престижной гонке на скоростных парусных судах. Расчетами занимались инженеры австралийского партнера - компании #LEAP Australia&lt;/p&gt;
+&lt;p&gt;Пригодилось много чего:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ANSYS #Composite PrepPost - композиты&lt;/li&gt;
+&lt;li&gt;ANSYS #Mechancial - прочность&lt;/li&gt;
+&lt;li&gt;ANSYS #Fluent - аэро и гидродинамика&lt;/li&gt;
+&lt;li&gt;ANSYS #DesignXplorer - оптимизация и робастрое проектирование&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/xXWGSvJRACE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/xXWGSvJRACE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

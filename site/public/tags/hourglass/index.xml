@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hourglass on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/hourglass/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Hourglass)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sat, 19 Nov 2016 12:00:52 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/hourglass/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Что вы знаете о странных конечных элементах</title>
+      <link>http://localhost:1313/posts/2016-11-19-chto-vy-znaete-o-strannyh-konechnyh-elemen/</link>
+      <pubDate>Sat, 19 Nov 2016 12:00:52 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-11-19-chto-vy-znaete-o-strannyh-konechnyh-elemen/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/14th-international-ls-dyna-conference/simulation/recent-advances-on-higher-order-27-node-hexahedral-element-in-ls-dyna-r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/14th-international-ls-dyna-conference/simulation/recent-advances-on-higher-order-27-node-hexahedral-element-in-ls-dyna-r&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Все привыкли к тому, что для #implicit расчетов механики оптимальны 20-ти узловые hex элементы, а для #explicit обычно используют 8-ми узловые hex с одной точкой интегрирования. А как вам идея использовать 27 узлов на один элемент?! Свежая статья о новом типе элементов для #LSDYNA, который не только позволяет получить очень хорошие показатели по точности для больших и малых деформаций, но еще и автоматически решает проблему песочных часов (#hourglass). Просто добавь 8 узлов на углах, 12 - на ребрах, 6 - в центрах граней и 1 - в геометрическом центре - получи *ELEMENT_SOLID_H27&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Численное моделирование поведения защитных железобетонных</title>
+      <link>http://localhost:1313/posts/2016-01-15-chislennoe-modelirovanie-povedeniya-zaschitn/</link>
+      <pubDate>Fri, 15 Jan 2016 06:30:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-01-15-chislennoe-modelirovanie-povedeniya-zaschitn/</guid>
+      <description>&lt;p&gt;конструкций АЭС при падении самолета
+к.т.н. В.И. Голяков
+ОАО «Атомэнергопроект», Москва, Россия&lt;/p&gt;
+&lt;p&gt;Во-первых, #FEMAP - не решатель.
+Во-вторых, коллеги поймали классические песочные часы, процентов на 20 энергии (#hourglass)&lt;/p&gt;
+&lt;p&gt;А так, можно прокачаться по терминологии.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.gidropress.podolsk.ru/files/proceedings/mntk2009/mntk2009-072.doc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.gidropress.podolsk.ru/files/proceedings/mntk2009/mntk2009-072.doc&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

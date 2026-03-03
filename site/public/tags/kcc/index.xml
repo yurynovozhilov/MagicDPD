@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KCC on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/kcc/</link>
+    <description>MagicDPD: Magic Driven Product Development! (KCC)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 10 Mar 2021 13:01:32 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/kcc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>KC-FEMFRE - бессеточный код решения задач разрушения</title>
+      <link>http://localhost:1313/posts/2021-03-10-kc-femfre-bessetochnyy-kod-resheniya-zada/</link>
+      <pubDate>Wed, 10 Mar 2021 13:01:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-03-10-kc-femfre-bessetochnyy-kod-resheniya-zada/</guid>
+      <description>&lt;p&gt;Знаете ли вы, что компания Karagozian &amp;amp; Case, Inc., специализирующаяся на консалтинге для оборонно-промышленного комплекса, компания, создатель одной из самых популярных и точных моделей бетона для LS-DYNA *MAT_CONCRETE_DAMAGE_REL3/*MAT_072R3 также разрабатывается свой собственный расчетный кода!&lt;/p&gt;
+&lt;p&gt;Их детище носит название FEMFRE (Finite Element and MeshFREe solver). Код обладает встроенной базой материалов для расчетов задач разрушения  Extreme Materials Library (ExML), включающую в себя, например, 4-тую версию их модели бетона. Из интересных особенностей - адаптивный бессеточный метод расчета. Пока конструкцию можно считать при помощи МКЭ расчет так и ведется.&lt;/p&gt;
+&lt;p&gt;Но когда разрушения уже не могут быть описаны традиционными сеточными методами система переключаться на бессеточный метод на основе RKPM (Reprodusing Kernel Particel Meshod), являющийся аналогом бессеточных методов Гелеркина, применяемых в LS-DYNA (&lt;a href=&#34;https://ftp.lstc.com/anonymous/outgoing/support/FAQ_kw/concrete/kccm_paper.pdf%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ftp.lstc.com/anonymous/outgoing/support/FAQ_kw/concrete/kccm_paper.pdf)&lt;/a&gt;.  Сайт продукта: &lt;a href=&#34;https://www.kcse.com/home/software/kcfemfre/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.kcse.com/home/software/kcfemfre/&lt;/a&gt; Одна из ранних публикаций по теме: &lt;a href=&#34;https://doi.org/10.1061/%28ASCE%29EM.1943-7889.0000497&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://doi.org/10.1061/(ASCE)EM.1943-7889.0000497&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#concrete #explicit #kcc #meshless
+&lt;a href=&#34;https://tinyurl.com/y86ydvts&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y86ydvts&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Применение SPG в задачах фрезировки и пробивания</title>
+      <link>http://localhost:1313/posts/2018-11-14-primenenie-spg-v-zadachah-frezirovki-i-pr/</link>
+      <pubDate>Wed, 14 Nov 2018 17:00:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-11-14-primenenie-spg-v-zadachah-frezirovki-i-pr/</guid>
+      <description>&lt;p&gt;Хорошая статья от LSTC, посвященная изучению работы их SPG метода в применении к задачам обработки материалов. И тут под обработкой понимается очень широкий круг понятий: в статье описаны только задачи фрезировки металла и пробивания бетона, но у меня есть кейсы, где рассматривается и сверление, и разрывные испытания, и даже фрагментация осколочных боеприпасов.&lt;/p&gt;
+&lt;p&gt;SPG (не путать с SPH или EFG)- это вообще некий единорог среди бессеточных методов, который может очень много чего как в explicit, так и в implicit (!!!) постановках, отличается стабильностью и простотой настройки. Вот только ресурсов любой бессеточный метод в механике обычно кушает раза в 3 больше, чем сеточный.
+&lt;a href=&#34;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/parametric-and-convergence-studies-of-the-smoothed-particle-galerkin-spg-method-in-semi-brittle-and-ductile-material-failure-analyses&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/parametric-and-convergence-studies-of-the-smoothed-particle-galerkin-spg-method-in-semi-brittle-and-ductile-material-failure-analyses&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Concrete #KCC #LSDYNA #LSTC #Machining #Meshless #Perforation #SPG
+&lt;a href=&#34;http://bit.ly/2RZwFW3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RZwFW3&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

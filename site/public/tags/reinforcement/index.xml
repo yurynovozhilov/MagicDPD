@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reinforcement on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/reinforcement/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Reinforcement)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 01 Oct 2019 13:00:54 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/reinforcement/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SOFiSTiK Reinforcement Generation — генерируем арматуру быст</title>
+      <link>http://localhost:1313/posts/2019-10-01-sofistik-reinforcement-generation-gene/</link>
+      <pubDate>Tue, 01 Oct 2019 13:00:54 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-10-01-sofistik-reinforcement-generation-gene/</guid>
+      <description>&lt;p&gt;SOFiSTiK Reinforcement Generation создан для того, чтобы удобно и быстро генерировать геометрию арматуры в железобетонных строительных конструкциях.&lt;/p&gt;
+&lt;p&gt;Несмотря на то, что сейчас систему показывают как работающую только для Autodesk Revit, знающие люди говорят, что на самом деле у нее внутри есть свой собственный скриптовый язык, и ее можно заставить генерировать такую арматуру для произвольного IFC и как вам надо.&lt;/p&gt;
+&lt;p&gt;А вы еще знаете софт, который умеет генерировать массивы арматуры?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование армирования в бессеточных методах</title>
+      <link>http://localhost:1313/posts/2018-07-19-modelirovanie-armirovaniya-v-bessetochnyh/</link>
+      <pubDate>Thu, 19 Jul 2018 18:00:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-07-19-modelirovanie-armirovaniya-v-bessetochnyh/</guid>
+      <description>&lt;p&gt;Хочу обратить ваше внимание на статью &amp;ldquo;The Immersed Smoothed Particle Galerkin Method in LS-DYNA® for Material Failure Analysis of Fiber-Reinforced Solid Structures&amp;rdquo;, опубликованную в рамках 15-ой международной пользовательской конференции LS-DYNA. В ней рассказывается про разработку новой карты *CONSTRAINED_IMMERSED_IN_SPG, которая позволяет автоматически встраивать армирование на основе beam элементов в матрицу, на основе SPG формулировки.&lt;/p&gt;
+&lt;p&gt;SPG - Smoothed Particle Galerkin Method - бессеточный метод, разработанный LSTC для моделирования процессов как хрупкого, так и пластического разрушения. Данный метод вобрал в себя все преимущества SPH, но лишился его недостатков - например, нестабильности при растяжении или невозможности работы с неявным решателем. Подробности по математике метода тут: https://www.dynalook.com/13th-international-ls-dyna-conference/fluid-structure-interaction/an-introduction-to-the-ls-dyna-r-smoothed-particle-galerkin-method-for-severe-deformation-and-failure-analyses-in-solids
+Таким образом, *CONSTRAINED_IMMERSED_IN_SPG позволит нормально считать задачи пробивания в бессеточной постановке как только будет включен.&lt;/p&gt;
+&lt;p&gt;#LSDYNA #LSTC #Meshless #Reinforcement #SPG #SPH
+&lt;a href=&#34;http://bit.ly/2NrEzFg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NrEzFg&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Расчет подрыва ЖБ плиты с учетом фрагментации</title>
+      <link>http://localhost:1313/posts/2018-02-07-raschet-podryva-zhb-plity-s-uchetom-fragmen/</link>
+      <pubDate>Wed, 07 Feb 2018 18:00:53 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-02-07-raschet-podryva-zhb-plity-s-uchetom-fragmen/</guid>
+      <description>&lt;p&gt;Очень красивый пример от LSTC, демонстрирующий работу LS-DYNA в области расчета взрывов и переноса нагрузок от них на конструкции. Разберем три составляющих успеха данного расчета.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Имеем бетонную плиту, армированную стальными стержнями (естественно beam арматура внедряется в solid бетон при помощи специальных уравнений связи типа *CONSTRAINED_BEAM_IN_SOLID).&lt;/li&gt;
+&lt;li&gt;Дальше, на этой плите расположен заряд в оболочке из shell элементов. Заряд ВВ моделируется в постановке Particle Blast Method (PBM) - не надо заморачиваться с генерацией SPH или переходом в эйлеров домен. PBM решает быстро и точно!&lt;/li&gt;
+&lt;li&gt;И на десерт, для solid элементов бетона задается *DEFINE_ADAPTIVE_SOLID_TO_SPH - автоматическое переключение умерших solid элементов в SPH частицы, моделирующие разлет осколков. Надо отдельно отметить, что получающиеся SPH частицы могут не просто разлетаться, как точечные массы, но и работать как тот же самый бетон, но уже сильно поврежденный - между ними есть определенный потенциал взаимодействия.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=QHbO6tRPI3c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=QHbO6tRPI3c&lt;/a&gt;
+#blast #concrete #CONSTRAINED_BEAM_IN_SOLID #DEFINE_ADAPTIVE_SOLID_TO_SPH #fracture #fragmentation #LS-DYNA #LSTC #ParticleBlast #reinforcement #SPH
+&lt;a href=&#34;https://wp.me/p9vWYY-1BK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1BK&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Мне тут задавали вопрос, на тему использования арматуры, сое</title>
+      <link>http://localhost:1313/posts/2016-06-07-mne-tut-zadavali-vopros-na-temu-ispolz/</link>
+      <pubDate>Tue, 07 Jun 2016 12:27:26 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-07-mne-tut-zadavali-vopros-na-temu-ispolz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Поведение железобетонных конструкций под действием циклическ</title>
+      <link>http://localhost:1313/posts/2015-10-27-povedenie-zhelezobetonnyh-konstruktsiy-pod/</link>
+      <pubDate>Tue, 27 Oct 2015 18:01:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-27-povedenie-zhelezobetonnyh-konstruktsiy-pod/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

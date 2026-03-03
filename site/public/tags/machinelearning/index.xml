@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machinelearning on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/machinelearning/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Machinelearning)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 13 Feb 2019 17:01:05 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/machinelearning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CADLM — расчеты сложных процессов за секунды?!</title>
+      <link>http://localhost:1313/posts/2019-02-13-cadlm-raschety-slozhnyh-protsessov-za-sek/</link>
+      <pubDate>Wed, 13 Feb 2019 17:01:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-02-13-cadlm-raschety-slozhnyh-protsessov-za-sek/</guid>
+      <description>&lt;p&gt;Компания CADLM специализируется на работе с большими данными и аналитике вокруг этого, но все это в области CAE. Коллеги строят свои метамодели, способные предсказывать поведение реальных объектов с высокой точностью за считанные секунды.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/Vvm3iUnPOTA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Vvm3iUnPOTA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Все это выглядит очень завлекательно, но есть одно но. Для того, чтобы построить метамодель над математической моделью такой сложности, как показано в примере, нам придется сделать очень большую выборку учебных примеров. Я думаю, что их должны быть если не тысячи, то многие сотни. Вот и считайте, важно ли для вашей компании уметь получать результаты за 2 секунды, потратив сначала год на тренировки.&lt;/p&gt;
+&lt;p&gt;#CADLM #machinelearning&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2lc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2lc&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>А что если научить машину ускорять задачи топологической опт</title>
+      <link>http://localhost:1313/posts/2017-11-24-a-chto-esli-nauchit-mashinu-uskoryat-zadach/</link>
+      <pubDate>Fri, 24 Nov 2017 17:14:52 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-11-24-a-chto-esli-nauchit-mashinu-uskoryat-zadach/</guid>
+      <description>&lt;p&gt;Статья двух русских студентов (Иван Сосновик и Иван Оселедец) посвящена рассказывает про их проект, в котором нейронной сети показывали промежуточные результаты работы алгоритма топологической оптимизации и учили ее угадывать, какой будет итоговый результат. После обучения на 10 000 произвольно сгенерированных задачах для #ToPy нейрона смогла ускорить процесс оптимизации до 20 раз в рассматриваемых примерах!&lt;/p&gt;
+&lt;p&gt;Выборка для тренировки нейроне доступна на #GitHub:
+&lt;a href=&#34;http://ift.tt/2hRdoWE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hRdoWE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Исходная научная статья лежит тут:
+&lt;a href=&#34;http://ift.tt/2A2KoWc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2A2KoWc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#topology #optimization #python #machinelearning #opensourceMediaMedia🔗 [1709.09578] Neural networks for topology optimization&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lat-Net: Compressing Lattice Boltzmann Flow Simulations usin</title>
+      <link>http://localhost:1313/posts/2017-11-21-lat-net-compressing-lattice-boltzmann-f/</link>
+      <pubDate>Tue, 21 Nov 2017 17:10:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-11-21-lat-net-compressing-lattice-boltzmann-f/</guid>
+      <description>&lt;p&gt;Суть проекта заключается в подмене #CFD расчета методом #Lattice #Boltzmann на нейронную сеть. Причем, если верить авторам, то натренировав нейрону на грубой &amp;ldquo;сетке&amp;rdquo; можно надеются на достаточно точный расчет на мелкой &amp;ldquo;сетке&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Это конечно не супер точный #CFD подход, но зато можно быстро получить оценочное решение вашей задачи экономя ресурсы.&lt;/p&gt;
+&lt;p&gt;#Python #machinelearning #LBM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/loliverhennigh/Phy-Net&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/loliverhennigh/Phy-Net&lt;/a&gt; 🔗 loliverhennigh/Phy-Net&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

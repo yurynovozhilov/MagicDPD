@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cpm on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/cpm/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Cpm)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 15 Feb 2021 18:09:18 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/cpm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Подходы к моделированию подушек безопастности</title>
+      <link>http://localhost:1313/posts/2021-02-15-podhody-k-modelirovaniyu-podushek-bezopast/</link>
+      <pubDate>Mon, 15 Feb 2021 18:09:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-02-15-podhody-k-modelirovaniyu-podushek-bezopast/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MI_u7HEnbyQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=MI_u7HEnbyQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В настоящее время LS-DYNA предлагает три различных метода моделирования подушек безопасности. Подход на основе однородного давления (UP, uniform pressure), старейший из доступных методов, является очень эффективным с вычислительной точки зрения и хорошо работает, например, для моделирования взаимодействия манекенов с полностью надутыми подушками безопасности. Для удовлетворения возросших требований, предъявляемых к современным имитационным моделям, все большее значение приобретает точное отображение фазы развертывания.Поэтому используется метод ALE, при котором &amp;ldquo;газовая&amp;rdquo; область дискретизирована конечными элементами, что позволяет моделировать эффекты потока газа и его взаимодействие с тканью подушки безопасности. Совсем недавно был реализован метод корпускулярных частиц (CPM, Corpuscular Particle Method), где газ представлен дискретными частицами, взаимодействующими друг с другом и с окружающей их средой. Кстати, все эти методы могут применять не только для моделирования подушек безопастности, то и для расчетом сосудов и трубопроводов под давлением: моделирование динамики пневматических покрышек, моделирование баллонов  пневматической подвески или даже пневматические испытания трубопровода.&lt;/p&gt;
+&lt;p&gt;#airbag #ale #cpm #ls-dyna
+&lt;a href=&#34;https://tinyurl.com/y44xkm2g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y44xkm2g&lt;/a&gt;
+by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сравнительно новая, но многообещающая методика расчета возде</title>
+      <link>http://localhost:1313/posts/2015-10-07-sravnitelno-novaya-no-mnogoobeschayuschaya-me/</link>
+      <pubDate>Wed, 07 Oct 2015 06:30:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-07-sravnitelno-novaya-no-mnogoobeschayuschaya-me/</guid>
+      <description>&lt;p&gt;В связке с DEM метод PBM может быть использован для моделирования осколочного воздействия.&lt;/p&gt;
+&lt;p&gt;В статье PBM показывает себя более эффективным, с вычислительной точки зрения. Кроме того, есть существенные преимущества по точности в сравнении с классическим моделированию взрыва в эйлеровом домене.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

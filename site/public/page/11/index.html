@@ -308,71 +308,31 @@ function showContent() {
             <article class="post-list h-feed">
     <div class="post-header">
         <header>
-            <h1 class="p-name post-title"><a class="u-url" href="/posts/2025-07-23-code-usa/">Code USA</a></h1>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2025-09-17-novosti-materiamap/">Новости MateriaMap</a></h1>
         </header>
         
     </div>
-        <div class="content post-summary p-summary">
-            <p>Одним из продуктов LSTC был и является Code USA. И тут USA - это Underwater Shock Analisys. Основная задача кода заключается  для расчета переходных процессов в погруженных конструкциях под воздействием сферической ударной волны с произвольным профилем давления и расположением источника. Ну вы наверно догадываетесь о каких объектах и о каких ударных волнах тут идет речь. Короче, код доступен сугубо ограниченному кругу лиц, и я очень удивлюсь, если когда-нибудь получу к нему доступ.</p>
-        </div>
-    
-    
-
-    
-
-    
-
-
-
-<div class="post-info">
-    
-        <div class="post-date dt-published">
-            <a class="u-url" href="/posts/2025-07-23-code-usa/"><time datetime="2025-07-23">23.07.2025</time></a>
-            
-        </div>
-    
-
-    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2025-07-23-code-usa/">http://localhost:1313/posts/2025-07-23-code-usa/</a>
-    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
-
-
-    <div class="post-taxonomies">
-        
-        
-        
-    </div>
-</div>
-
-</article>
-
-        
-            <article class="post-list h-feed">
-    <div class="post-header">
-        <header>
-            <h1 class="p-name post-title"><a class="u-url" href="/posts/2025-07-22-openradioss-webgui/">OpenRadioss-WebGUI</a></h1>
-        </header>
-        
-    </div>
-<a class="link-preview__card" href="https://github.com/alekssadowski95/OpenRadioss-WebGUI" target="_blank" rel="noopener noreferrer">
-  
-  <span class="link-preview__thumb-wrap">
-    <img class="link-preview__thumb" src="https://repository-images.githubusercontent.com/934450891/4a168096-5b05-4b49-a59c-93525decb3ea" loading="lazy" alt="">
-  </span>
+<a class="link-preview__card" href="https://materialmap.github.io/piecewise_linear_plasticity_calculator.html" target="_blank" rel="noopener noreferrer">
   
   <span class="link-preview__body">
-    <span class="link-preview__title">GitHub - alekssadowski95/OpenRadioss-WebGUI: Fully open-source dynamic simulations on the web with the OpenRadioss solver and an interactive 3D Viewer</span>
+    <span class="link-preview__title">Piecewise Linear Plasticity Calculator</span>
     
-    <span class="link-preview__description">Fully open-source dynamic simulations on the web with the OpenRadioss solver and an interactive 3D Viewer - alekssadowski95/OpenRadioss-WebGUI</span>
-    
-    <span class="link-preview__host">github.com</span>
+    <span class="link-preview__host">materialmap.github.io</span>
   </span>
 </a>
 
 
         <div class="content post-summary p-summary">
-            <p>На днях был опубликован новое открытое решение по визуализации результатов OpenRadioss в WebUI</p>
-<p>Исходный код доступен в открытом доступе по лицензии AGPL. Версия для конечных пользователей будет доступна в ближайшее время!</p>
-<p>Во-первых, это красиво&hellip; Во-вторых, это заменяет сравнительно быстрый ParaView на модный набор Web виджетов, которые, по моему опыту с pyDPF (собранном примерно на том же стеке технологий) будут тормозить как не в себя. Короче, это решение не для инженеров, которые занимаются расчетами, это решение для построение вертикальных приложений.</p>
+            <p>Наиболее часто используемая модель материала в LS-DYNA — *MAT_PIECEWISE_LINEAR_PLASTICITY / *MAT_024. Хотя решатель поддерживает более 300 различных моделей, мы все предпочитаем использовать MAT_024 в качестве первого приближения при выполнении PoC. Во время двухнедельного отпуска я создал новый калькулятор кусочно-линейной пластичности, который заменил калькулятор закона Свифта в моем проекте MaterialMap.</p>
+<p>Что нужно знать о калькуляторе:</p>
+<ul>
+<li>Как и раньше, на основе нескольких входных точек данных с помощью закона Свифта генерируется плавная аппроксимация кривой пластического упрочнения материала.</li>
+<li>Предлагается выбор коэффициентов модели Коупера-Саймондса из встроенной базы данных со ссылками на источники для учета эффектов скорости деформации.</li>
+<li>Кривая «напряжение-деформация» материала визуализируется как статически, так и с учетом эффектов скорости деформации.</li>
+<li>Генерируются полноценные карты LS-DYNA *MAT_PIECEWISE_LINEAR_PLASTICITY + *DEFINE_CURVE_STRESS.</li>
+<li>Полностью поддерживается преобразование параметров в базовые согласованные системы измерения.</li>
+</ul>
+<p>… And one more thing! Страница позволяет использовать параметры для 1044 (!!!) материалов благодаря интеграции открытой и бесплатной библиотеки материалов VarmintAl. В том числе:</p>
         </div>
     
     
@@ -386,12 +346,12 @@ function showContent() {
 <div class="post-info">
     
         <div class="post-date dt-published">
-            <a class="u-url" href="/posts/2025-07-22-openradioss-webgui/"><time datetime="2025-07-22">22.07.2025</time></a>
+            <a class="u-url" href="/posts/2025-09-17-novosti-materiamap/"><time datetime="2025-09-17">17.09.2025</time></a>
             
         </div>
     
 
-    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2025-07-22-openradioss-webgui/">http://localhost:1313/posts/2025-07-22-openradioss-webgui/</a>
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2025-09-17-novosti-materiamap/">http://localhost:1313/posts/2025-09-17-novosti-materiamap/</a>
     <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
 
 
@@ -408,22 +368,120 @@ function showContent() {
             <article class="post-list h-feed">
     <div class="post-header">
         <header>
-            <h1 class="p-name post-title"><a class="u-url" href="/posts/2025-07-21-nebolshoy-anons-moego-doklada-po-iga/">Небольшой анонс моего доклада по IGA</a></h1>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2025-09-15-intactsolutions-pokazali-mnogo-novoe/">Intact.Solutions показали много новое</a></h1>
         </header>
         
     </div>
-<a class="link-preview__card" href="https://www.linkedin.com/feed/update/urn:li:activity:7349039530768752641/" target="_blank" rel="noopener noreferrer">
+        <div class="content post-summary p-summary">
+            <p>Напомню, что этот стартап пилит свой решатель под крылом nTop, и решатель работает &ldquo;как IGA&rdquo;, то есть без видимой сетки, но это не IGA, а какая-то своя теория.
+Что анонсировано:</p>
+<p>PyIntact - ну, вы знаете, все становиться лучше с pythonic cli
+LevelOpt - а вот это уже очень интересно, это топологическая оптимизация работающая в связке с &ldquo;бессеточным&rdquo; методом. Пока я такое видео только в научных академических сттатьях, а тут это почти в продакшене. Сочетание топологической оптимизации и бессеточного IGA подобного метода обычно дает очень хорошие результаты и быстро.</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/posts/2025-09-15-intactsolutions-pokazali-mnogo-novoe/"><time datetime="2025-09-15">15.09.2025</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2025-09-15-intactsolutions-pokazali-mnogo-novoe/">http://localhost:1313/posts/2025-09-15-intactsolutions-pokazali-mnogo-novoe/</a>
+    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+        
+    </div>
+</div>
+
+</article>
+
+        
+            <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2025-09-05-cadence-pokupaet-msc/">Cadence покупает MSC</a></h1>
+        </header>
+        
+    </div>
+<a class="link-preview__card" href="https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2025/cadence-to-acquire-hexagons-design--engineering-business.html" target="_blank" rel="noopener noreferrer">
   
   <span class="link-preview__thumb-wrap">
-    <img class="link-preview__thumb" src="https://dms.licdn.com/playlist/vid/v2/D4D05AQHUS79UoOm9BA/thumbnail-with-play-button-overlay-high/B4DZf0IfFUHAEE-/0/1752147560686?e=2147483647&amp;v=beta&amp;t=pQ1B8y5Y3zMrgnK0jYKX6RyoO44QfLfjZn8xw9Mj5EA" loading="lazy" alt="">
+    <img class="link-preview__thumb" src="https://www.cadence.com/content/dam/cadence-www/global/en_US/images/site-images/common/social-thumbnail.jpg" loading="lazy" alt="">
   </span>
   
   <span class="link-preview__body">
-    <span class="link-preview__title">#cadfem #ansys #lsdyna #workbench #iga #isogeometricanalysis | Yury Novozhilov | 14 comments</span>
+    <span class="link-preview__title">Cadence to Acquire Hexagon’s Design &amp; Engineering Business, Accelerating Expansion in Physical AI and System Design and Analysis</span>
     
-    <span class="link-preview__description">Iso-Geometric Analysis (IGA) is a computational approach that seamlessly integrates finite element analysis (FEA) with conventional NURBS-based CAD design tools. LS-DYNA has the longest IGA heritage in the CAE market – *ELEMENT_SHELL_NURBS_PATCH was the first commercial implementation of IGA Shell, released back in 2011 (Benson, Bazilevs, Hsu, Hughes 2010).
+    <span class="link-preview__host">www.cadence.com</span>
+  </span>
+</a>
 
-I am currently conducting extensive testing of Trimmed (Immersed) IGA capabilities in LS-DYNA. This innovative method has tremendous potent</span>
+
+        <div class="content post-summary p-summary">
+            <p>Cadence сегодня объявил о подписании соглашения о поглащении Design &amp; Engineering (“D&amp;E”) части бизнеса Hexagon AB. А это, на сколько я понимаю, как раз и есть MSC. Гексагон видимо так и не смог развить этот бизнес, так что MSC продают за 2.7 милиарда долларов. И теперь у Cadance будет очень много всего для механики: Adams, Nastran, Dytran, Marc</p>
+<p><a href="https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2025/cadence-to-acquire-hexagons-design--engineering-business.html" target="_blank" rel="noopener noreferrer">https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2025/cadence-to-acquire-hexagons-design--engineering-business.html</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/posts/2025-09-05-cadence-pokupaet-msc/"><time datetime="2025-09-05">05.09.2025</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2025-09-05-cadence-pokupaet-msc/">http://localhost:1313/posts/2025-09-05-cadence-pokupaet-msc/</a>
+    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+        
+    </div>
+</div>
+
+</article>
+
+        
+            <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2025-09-03-oni-smodelirovali-titanik/">Они смоделировали Титаник!</a></h1>
+        </header>
+        
+    </div>
+<a class="link-preview__card" href="https://www.linkedin.com/posts/prof-jeom-kee-paik-ostm-freng-96264935b_we-have-now-finalised-our-titanic-paper-activity-7368099743224295424-BGHv?utm_medium=ios_app&amp;rcm=ACoAAAIB-1wBSy2qdKlEdvn4uXa5JRLKv3rDaxk&amp;utm_source=social_share_send&amp;utm_campaign=share_via" target="_blank" rel="noopener noreferrer">
+  
+  <span class="link-preview__thumb-wrap">
+    <img class="link-preview__thumb" src="https://dms.licdn.com/playlist/vid/v2/D5605AQEpV-R16PMLng/thumbnail-with-play-button-overlay-high/B56ZkC_pqcHAD4-/0/1756691866856?e=2147483647&amp;v=beta&amp;t=AIBKr60vVgUzpPg9a4RZ4buuu7wqP4N-S0e1K_u3HRI" loading="lazy" alt="">
+  </span>
+  
+  <span class="link-preview__body">
+    <span class="link-preview__title">We have now finalised our Titanic paper, entitled “The Digital Reconstruction and Resurrection of RMS Titanic’s Sinking”, which is scheduled for publication in the Special Issue of Ships and Offshore…</span>
+    
+    <span class="link-preview__description">We have now finalised our Titanic paper, entitled “The Digital Reconstruction and Resurrection of RMS Titanic’s Sinking”, which is scheduled for publication in the Special Issue of Ships and Offshore Structures (https://lnkd.in/eW6ae5Dx) in December 2025.  Selected simulation footage may be viewed at: https://lnkd.in/g7X_DzsN.</span>
     
     <span class="link-preview__host">www.linkedin.com</span>
   </span>
@@ -431,8 +489,8 @@ I am currently conducting extensive testing of Trimmed (Immersed) IGA capabiliti
 
 
         <div class="content post-summary p-summary">
-            <p>Будете в Мюнхене в октябре - заходите на конференцию LS-DYNA (бесплатно). Я вам там про IGA расскажу. У меня уже даже есть PoC кода для ACT, что бы IGA модели строил сам Workbench.</p>
-<p><a href="https://www.linkedin.com/feed/update/urn:li:activity:7349039530768752641/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/feed/update/urn:li:activity:7349039530768752641/</a></p>
+            <p>Говорят, даже есть научна статья про это тут: <a href="https://www.linkedin.com/posts/prof-jeom-kee-paik-ostm-freng-96264935b_we-have-now-finalised-our-titanic-paper-activity-7368099743224295424-BGHv?utm_medium=ios_app&amp;rcm=ACoAAAIB-1wBSy2qdKlEdvn4uXa5JRLKv3rDaxk&amp;utm_source=social_share_send&amp;utm_campaign=share_via" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/posts/prof-jeom-kee-paik-ostm-freng-96264935b_we-have-now-finalised-our-titanic-paper-activity-7368099743224295424-BGHv?utm_medium=ios_app&rcm=ACoAAAIB-1wBSy2qdKlEdvn4uXa5JRLKv3rDaxk&utm_source=social_share_send&utm_campaign=share_via</a></p>
+<p><a href="https://youtu.be/-tQDx1kkrhU" target="_blank" rel="noopener noreferrer">https://youtu.be/-tQDx1kkrhU</a></p>
         </div>
     
     
@@ -446,12 +504,12 @@ I am currently conducting extensive testing of Trimmed (Immersed) IGA capabiliti
 <div class="post-info">
     
         <div class="post-date dt-published">
-            <a class="u-url" href="/posts/2025-07-21-nebolshoy-anons-moego-doklada-po-iga/"><time datetime="2025-07-21">21.07.2025</time></a>
+            <a class="u-url" href="/posts/2025-09-03-oni-smodelirovali-titanik/"><time datetime="2025-09-03">03.09.2025</time></a>
             
         </div>
     
 
-    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2025-07-21-nebolshoy-anons-moego-doklada-po-iga/">http://localhost:1313/posts/2025-07-21-nebolshoy-anons-moego-doklada-po-iga/</a>
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2025-09-03-oni-smodelirovali-titanik/">http://localhost:1313/posts/2025-09-03-oni-smodelirovali-titanik/</a>
     <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
 
 
@@ -468,33 +526,177 @@ I am currently conducting extensive testing of Trimmed (Immersed) IGA capabiliti
             <article class="post-list h-feed">
     <div class="post-header">
         <header>
-            <h1 class="p-name post-title"><a class="u-url" href="/posts/2025-07-17-fizika-v-roblox/">Физика в Roblox</a></h1>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2025-09-01-post-3014/">Post 3014</a></h1>
         </header>
         
     </div>
-<a class="link-preview__card" href="https://youtu.be/TzIKbjuSy2A?si=6E1Gey0n5GVHphrp" target="_blank" rel="noopener noreferrer">
+        <div class="content post-summary p-summary">
+            
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/posts/2025-09-01-post-3014/"><time datetime="2025-09-01">01.09.2025</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2025-09-01-post-3014/">http://localhost:1313/posts/2025-09-01-post-3014/</a>
+    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+        
+    </div>
+</div>
+
+</article>
+
+        
+            <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2025-08-31-novosti-razrabotki-pro-material-map-za-a/">Новости разработки про Material Map за август</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Количество материалов в базе удвоилось за счет сбор тяжелых и полезных моделей. Теперь у меня почти около 40 штук *MAT_JOHNSON_COOK + *EOS_GRUNEISEN (причем много с трещинообразованием), примерно столько же ВВ (причем есть и AFTERBURN, и JWLB) и конечно 6 штук (а это вообще все, что есть в свободном доступе) сложных моделей полимеров   *MAT_SAMP-1 + *MAT_ADD_DAMAGE_GISSMO.</p>
+<p>Ну а для таких сложных данных грех не добавить более удобный UI. Так что теперь автоматически визуализируются *DEFINE_CURVE, *DEFINE_TABLE,  *MAT_JOHNSON_COOK и *EOS_GRUNEISEN.</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/posts/2025-08-31-novosti-razrabotki-pro-material-map-za-a/"><time datetime="2025-08-31">31.08.2025</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2025-08-31-novosti-razrabotki-pro-material-map-za-a/">http://localhost:1313/posts/2025-08-31-novosti-razrabotki-pro-material-map-za-a/</a>
+    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">Yury Novozhilov</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+        
+    </div>
+</div>
+
+</article>
+
+        
+            <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2025-08-31-novosti-razrabotki-pro-material-map-za-avgust/">Новости разработки про Material Map за август</a></h1>
+        </header>
+        
+    </div>
+<a class="link-preview__card" href="https://materialmap.github.io" target="_blank" rel="noopener noreferrer">
+  
+  <span class="link-preview__body">
+    <span class="link-preview__title">Material MAP</span>
+    
+    <span class="link-preview__host">materialmap.github.io</span>
+  </span>
+</a>
+
+
+        <div class="content post-summary p-summary">
+            <p>Количество материалов в базе удвоилось за счет сбор тяжелых и полезных моделей. Теперь у меня почти около 40 штук *MAT_JOHNSON_COOK + *EOS_GRUNEISEN (причем много с трещинообразованием), примерно столько же ВВ (причем есть и AFTERBURN, и JWLB) и конечно 6 штук (а это вообще все, что есть в свободном доступе) сложных моделей полимеров   *MAT_SAMP-1 + *MAT_ADD_DAMAGE_GISSMO.</p>
+<p>Ну а для таких сложных данных грех не добавить более удобный UI. Так что теперь автоматически визуализируются *DEFINE_CURVE, *DEFINE_TABLE,  *MAT_JOHNSON_COOK и *EOS_GRUNEISEN.</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/posts/2025-08-31-novosti-razrabotki-pro-material-map-za-avgust/"><time datetime="2025-08-31">31.08.2025</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2025-08-31-novosti-razrabotki-pro-material-map-za-avgust/">http://localhost:1313/posts/2025-08-31-novosti-razrabotki-pro-material-map-za-avgust/</a>
+    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+        
+    </div>
+</div>
+
+</article>
+
+        
+            <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2025-08-27-mnogofazka-v-sph/">Многофазка в SPH</a></h1>
+        </header>
+        
+    </div>
+<a class="link-preview__card" href="https://www.linkedin.com/posts/xiangyu-hu-tum_stable-high-order-high-resolution-simulation-activity-7366457517859553282-4TY5?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAIB-1wBSy2qdKlEdvn4uXa5JRLKv3rDaxk" target="_blank" rel="noopener noreferrer">
   
   <span class="link-preview__thumb-wrap">
-    <img class="link-preview__thumb" src="https://i.ytimg.com/vi/TzIKbjuSy2A/maxresdefault.jpg" loading="lazy" alt="">
+    <img class="link-preview__thumb" src="https://dms.licdn.com/playlist/vid/v2/D4D05AQFuSvswvuJIrw/thumbnail-with-play-button-overlay-high/B4DZjrqDulHYD4-/0/1756300330232?e=2147483647&amp;v=beta&amp;t=OxfYHQ8P94jPQTERHY5VNs_ZvJ4DAzH1ncjCgQvx4Vk" loading="lazy" alt="">
   </span>
   
   <span class="link-preview__body">
-    <span class="link-preview__title">Roblox Solved The Physics Problem That Stumped Everyone!</span>
+    <span class="link-preview__title">🚀 Stable high-order, high-resolution simulation of violent two-phase flows
+
+I’m excited to share the results of our recent work on advancing high-order SPH methods for two-phase flow simulation.
+
+By…</span>
     
-    <span class="link-preview__description">❤️ Check out Vast.ai and run DeepSeek or any AI project: https://vast.ai/papers 📝 The paper is available here:https://graphics.cs.utah.edu/research/projects...</span>
+    <span class="link-preview__description">🚀 Stable high-order, high-resolution simulation of violent two-phase flows
+
+I’m excited to share the results of our recent work on advancing high-order SPH methods for two-phase flow simulation.
+
+By combining:
+ 🔹 Reverse kernel gradient correction
+ 🔹 A two-phase low-dissipation Riemann solver
+ 🔹 Transport velocity formulation
+
+—all implemented in the open-source framework SPHinXsys, we achieve highly stable simulations of challenging scenarios such as violent wave breaking, air bubble collapse,</span>
     
-    <span class="link-preview__host">youtu.be</span>
+    <span class="link-preview__host">www.linkedin.com</span>
   </span>
 </a>
 
 
         <div class="content post-summary p-summary">
-            <p>Пока мы тут упариваемся по физической достоверности результатов, разработчики Roblox вместе с вузами разрабатываю передовые алгоритмы моделирования физики для своей игры. Возможно когда-нибудь мы увидим такой поход и в Rocky.</p>
-<p><a href="https://youtu.be/TzIKbjuSy2A?si=6E1Gey0n5GVHphrp" target="_blank" rel="noopener noreferrer">https://youtu.be/TzIKbjuSy2A?si=6E1Gey0n5GVHphrp</a></p>
-<p>Молния! Ansys - продано/потрачено!</p>
-<p>Исторический день для инженерных решений! А сегодня ночью, 17-ого июля,  сделка по приобретению  компании Ansys компанией Synopsys официально завершена!
-Я очень рад, что все эти приобретения были дружественными слияниями, а не враждебными поглощениями.</p>
-<p>Объединенная компания теперь готова конкурировать на расширенном рынке общей стоимостью 31 миллиард долларов!</p>
+            <p>В открытый код SPHinXsys завезли многофазку! А ведь там уже есть и GPU и турбулентность! Красота.</p>
+<p><a href="https://www.linkedin.com/posts/xiangyu-hu-tum_stable-high-order-high-resolution-simulation-activity-7366457517859553282-4TY5?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAIB-1wBSy2qdKlEdvn4uXa5JRLKv3rDaxk" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/posts/xiangyu-hu-tum_stable-high-order-high-resolution-simulation-activity-7366457517859553282-4TY5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIB-1wBSy2qdKlEdvn4uXa5JRLKv3rDaxk</a></p>
         </div>
     
     
@@ -508,12 +710,12 @@ I am currently conducting extensive testing of Trimmed (Immersed) IGA capabiliti
 <div class="post-info">
     
         <div class="post-date dt-published">
-            <a class="u-url" href="/posts/2025-07-17-fizika-v-roblox/"><time datetime="2025-07-17">17.07.2025</time></a>
+            <a class="u-url" href="/posts/2025-08-27-mnogofazka-v-sph/"><time datetime="2025-08-27">27.08.2025</time></a>
             
         </div>
     
 
-    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2025-07-17-fizika-v-roblox/">http://localhost:1313/posts/2025-07-17-fizika-v-roblox/</a>
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2025-08-27-mnogofazka-v-sph/">http://localhost:1313/posts/2025-08-27-mnogofazka-v-sph/</a>
     <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
 
 
@@ -530,29 +732,19 @@ I am currently conducting extensive testing of Trimmed (Immersed) IGA capabiliti
             <article class="post-list h-feed">
     <div class="post-header">
         <header>
-            <h1 class="p-name post-title"><a class="u-url" href="/posts/2025-07-14-molniya-kitay-nakonets-odobril-sdelku-synopsys&#43;ans/">Молния: Китай наконец одобрил сделку Synopsys+Ansys</a></h1>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2025-08-26-matlab-copilot/">MATLAB Copilot</a></h1>
         </header>
         
     </div>
-<a class="link-preview__card" href="https://schnitgercorp-com.cdn.ampproject.org/c/s/schnitgercorp.com/2025/07/14/china-finally-grants-approval-for-synopsysansys/amp/" target="_blank" rel="noopener noreferrer">
-  
-  <span class="link-preview__body">
-    <span class="link-preview__title">China finally grants approval for Synopsys&#43;Ansys | Schnitger Corporation</span>
-    
-    <span class="link-preview__host">schnitgercorp-com.cdn.ampproject.org</span>
-  </span>
-</a>
-
-
         <div class="content post-summary p-summary">
-            <p>Reuters и другие новостные агентства сообщают, что Государственное управление по регулированию рынка Китая (SAMR) одобрило приобретение Synopsys’ом компании Ansys при соблюдении следующих условий:</p>
+            <p>Вот и в матлаб завезли что-то типа ИИ. Надеюсь, что у них получиться лучше, чем пока получается у Ansys. Вообще, я пока еще не видел нормальных копилотов от компаний, для которых это не их главный бизнес или его дают бесплатно. И если вы думаете, что Copylot от GitHub/Microsoft внутри VS Code - это сила, то вы просто не пробовали нормальные продукты.</p>
+<p>Моя текущая связка:</p>
 <ul>
-<li>Synopsys должна продать свой бизнес Optical Solutions Group (OSG), а Ansys — бизнес PowerArtist. Сделан. Компании уже поставили в очередь продажу этих активов Keysight Technologies, предполагая, что сделка в конечном итоге будет закрыта.</li>
-<li>Synopsys и Ansys должны продолжать поставлять решения EDA китайским клиентам на «справедливых и недискриминационных условиях». Reuters не определяет, что это означает, но я не удивлюсь, если будет интерпретация типа «в соответствии с законодательством США и Китая».</li>
-<li>Они также должны разрешить клиентам приобретать и использовать свои продукты независимо, что, по моему мнению, направлено на то, чтобы исключить комплектацию/допродажу с целью повышения цен.</li>
-<li>Наконец, компании должны обеспечить, чтобы их продукты продолжали поддерживать стандартные форматы и совместимость с продуктами сторонних поставщиков средств автоматизации электронного проектирования (EDA). Один из источников, утверждает, что эти соглашения о совместимости были заключены «для китайских клиентов», но это может быть точка зрения китайских регулирующих органов; в целом, совместимость, по-видимому, отвечает интересам Synopsys+Ansys.</li>
+<li>OpenAI ChatGPT5 Thinking строго для Deepresearch, так как ищет он ну очень хорошо, а вот обработать результаты поиска он толком ленится или делает это с ошибками</li>
+<li>Anthopic Opus 4.1 для планирования и написания реально сложного кода ибо он очень быстро сжирает лимиты. Хотя его усердие и сообразительность в обработке информации, понимании запросов и выдаче консистентный ответов восхищает.</li>
+<li>Zencoder.ai для каждодневной разработки. Это рабочая лошадка. Без него я теперь свой код вообще не трогаю. Тут тебе и тесты, и код ревью и поговорит по душам можно. Ну и конечно, огромная обвязка из MCP.</li>
 </ul>
-<p>SAMR заявила, что Synopsys и Ansys согласились с этими условиями и что они будут действовать в течение 10 лет. SAMR будет контролировать соблюдение этих условий, но я не имею представления, что она сможет сделать через 3, 5 или 9 лет, если условия не будут выполнены.</p>
+<p><a href="https://www.mathworks.com/company/events/webinars/upcoming/introducing-matlab-copilot-4905250.html" target="_blank" rel="noopener noreferrer">https://www.mathworks.com/company/events/webinars/upcoming/introducing-matlab-copilot-4905250.html</a></p>
         </div>
     
     
@@ -566,12 +758,12 @@ I am currently conducting extensive testing of Trimmed (Immersed) IGA capabiliti
 <div class="post-info">
     
         <div class="post-date dt-published">
-            <a class="u-url" href="/posts/2025-07-14-molniya-kitay-nakonets-odobril-sdelku-synopsys&#43;ans/"><time datetime="2025-07-14">14.07.2025</time></a>
+            <a class="u-url" href="/posts/2025-08-26-matlab-copilot/"><time datetime="2025-08-26">26.08.2025</time></a>
             
         </div>
     
 
-    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2025-07-14-molniya-kitay-nakonets-odobril-sdelku-synopsys&#43;ans/">http://localhost:1313/posts/2025-07-14-molniya-kitay-nakonets-odobril-sdelku-synopsys&#43;ans/</a>
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2025-08-26-matlab-copilot/">http://localhost:1313/posts/2025-08-26-matlab-copilot/</a>
     <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
 
 
@@ -588,23 +780,32 @@ I am currently conducting extensive testing of Trimmed (Immersed) IGA capabiliti
             <article class="post-list h-feed">
     <div class="post-header">
         <header>
-            <h1 class="p-name post-title"><a class="u-url" href="/posts/2025-07-14-feenox/">FeenoX</a></h1>
+            <h1 class="p-name post-title"><a class="u-url" href="/posts/2025-08-25-boytes-kozhanye-ii-idet-za-vami/">Бойтесь, кожаные! ИИ идет за вами!</a></h1>
         </header>
         
     </div>
-<a class="link-preview__card" href="https://www.seamplex.com/feenox/" target="_blank" rel="noopener noreferrer">
+<a class="link-preview__card" href="https://www.linkedin.com/jobs/view/4286310712/?refId=TALFZ2X5O769yLNmSqZYiA%3D%3D&amp;trackingId=TALFZ2X5O769yLNmSqZYiA%3D%3D" target="_blank" rel="noopener noreferrer">
   
   <span class="link-preview__body">
-    <span class="link-preview__title">FeenoX</span>
+    <span class="link-preview__title">7 Ldv Inc. jobs in United States</span>
     
-    <span class="link-preview__host">www.seamplex.com</span>
+    <span class="link-preview__description">Today&amp;rsquo;s top 7 Ldv Inc. jobs in United States. Leverage your professional network, and get hired. New Ldv Inc. jobs added daily.</span>
+    
+    <span class="link-preview__host">www.linkedin.com</span>
   </span>
 </a>
 
 
         <div class="content post-summary p-summary">
-            <p>КЭ вычислительное что-то без инсталляции, без лицензионных отчислений, без GUI (без SMS и регистрации?). Оно даже сходится с бенчмарками NAFEMS. Как по мне, так эту штуку надо завернуть в MCP, что бы ИИ наконец научился считать механику точно.</p>
-<p><a href="https://www.seamplex.com/feenox/" target="_blank" rel="noopener noreferrer">https://www.seamplex.com/feenox/</a></p>
+            <p>Должностные обязанности:</p>
+<ul>
+<li>Создавать и запускать модели для оценки производительности в различных областях.</li>
+<li>Разрабатывать рабочие процессы для повышения эффективности и повторяемости симуляций.</li>
+<li>Сотрудничать с командами проектировщиков и тестировщиков для определения требований и проверки моделей.</li>
+<li>Использовать вычислительный анализ для принятия решений и выявления компромиссных решений.</li>
+<li>Вносить вклад в улучшение внутренних методов и практик симуляции.</li>
+</ul>
+<p><a href="https://www.linkedin.com/jobs/view/4286310712/?refId=TALFZ2X5O769yLNmSqZYiA%3D%3D&amp;trackingId=TALFZ2X5O769yLNmSqZYiA%3D%3D" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/jobs/view/4286310712/?refId=TALFZ2X5O769yLNmSqZYiA%3D%3D&trackingId=TALFZ2X5O769yLNmSqZYiA%3D%3D</a></p>
         </div>
     
     
@@ -618,231 +819,12 @@ I am currently conducting extensive testing of Trimmed (Immersed) IGA capabiliti
 <div class="post-info">
     
         <div class="post-date dt-published">
-            <a class="u-url" href="/posts/2025-07-14-feenox/"><time datetime="2025-07-14">14.07.2025</time></a>
+            <a class="u-url" href="/posts/2025-08-25-boytes-kozhanye-ii-idet-za-vami/"><time datetime="2025-08-25">25.08.2025</time></a>
             
         </div>
     
 
-    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2025-07-14-feenox/">http://localhost:1313/posts/2025-07-14-feenox/</a>
-    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
-
-
-    <div class="post-taxonomies">
-        
-        
-        
-    </div>
-</div>
-
-</article>
-
-        
-            <article class="post-list h-feed">
-    <div class="post-header">
-        <header>
-            <h1 class="p-name post-title"><a class="u-url" href="/posts/2025-07-11-autodesk-prodaetsya/">Autodesk продается?!</a></h1>
-        </header>
-        
-    </div>
-<a class="link-preview__card" href="https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/stock-market-news/ptc-stock-soars-as-autodesk-weighs-takeover-bid-4128831?ampMode=1" target="_blank" rel="noopener noreferrer">
-  
-  <span class="link-preview__body">
-    <span class="link-preview__title">PTC stock soars as Autodesk weighs takeover bid By Investing.com</span>
-    
-    <span class="link-preview__host">m-investing-com.cdn.ampproject.org</span>
-  </span>
-</a>
-
-
-        <div class="content post-summary p-summary">
-            <p>В настоящее время Autodesk рассматривает возможность поглощения компании PTC, основного конкурента в секторе инженерного программного обеспечения. Многочисленные отчеты указывают на то, что Autodesk привлекла консультантов для оценки потенциального приобретения бостонской компании PTC, рыночная стоимость которой составляет около 25 миллиардов долларов.</p>
-<p>Обсуждения все еще находятся на предварительной стадии, и окончательное решение еще не принято. В конечном итоге Autodesk может решить не заключать сделку. Источники, знакомые с этим вопросом, также упоминают, что PTC привлекает интерес со стороны других компаний отрасли.</p>
-        </div>
-    
-    
-
-    
-
-    
-
-
-
-<div class="post-info">
-    
-        <div class="post-date dt-published">
-            <a class="u-url" href="/posts/2025-07-11-autodesk-prodaetsya/"><time datetime="2025-07-11">11.07.2025</time></a>
-            
-        </div>
-    
-
-    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2025-07-11-autodesk-prodaetsya/">http://localhost:1313/posts/2025-07-11-autodesk-prodaetsya/</a>
-    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
-
-
-    <div class="post-taxonomies">
-        
-        
-        
-    </div>
-</div>
-
-</article>
-
-        
-            <article class="post-list h-feed">
-    <div class="post-header">
-        <header>
-            <h1 class="p-name post-title"><a class="u-url" href="/posts/2025-07-10-pozhaluy-samaya-staraya-kollektsiya-dannyh-dlya-eo/">Пожалуй самая старая коллекция данных для EOS JWL</a></h1>
-        </header>
-        
-    </div>
-<a class="link-preview__card" href="https://www.osti.gov/biblio/4479737" target="_blank" rel="noopener noreferrer">
-  
-  <span class="link-preview__body">
-    <span class="link-preview__title">JWL equation of state coefficients for high explosives (Technical Report) | OSTI.GOV</span>
-    
-    <span class="link-preview__description">The compilation of equetions of state for high explosives now includes some 38 entries. Additions and revisions have recently introduced errors in Previous lists should be discarded. To avoid transcribing errors, we have computerized the list and will issue computer updates periodically. If you are maintaining equation of state files for hydrodynamic codes and would like IBM card records of our lists, we will be happy to send you a copy of our card deck. We have noted those entries where changes</span>
-    
-    <span class="link-preview__host">www.osti.gov</span>
-  </span>
-</a>
-
-
-        <div class="content post-summary p-summary">
-            <p>EOS JWL - промышленный стандарт среди уравнений состояний для  моделирования высокоэнегетических материалов (они же промышленные конденсированные ВВ).  Я нашел ссылку на один из первых (а может и первый) сборников коэффициентов для данной модели: Lee, E., et al. &ldquo;JWL equation of state coefficients for high explosives.&rdquo; , Jan. 1973.</p>
-<p><a href="https://www.osti.gov/biblio/4479737" target="_blank" rel="noopener noreferrer">https://www.osti.gov/biblio/4479737</a></p>
-        </div>
-    
-    
-
-    
-
-    
-
-
-
-<div class="post-info">
-    
-        <div class="post-date dt-published">
-            <a class="u-url" href="/posts/2025-07-10-pozhaluy-samaya-staraya-kollektsiya-dannyh-dlya-eo/"><time datetime="2025-07-10">10.07.2025</time></a>
-            
-        </div>
-    
-
-    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2025-07-10-pozhaluy-samaya-staraya-kollektsiya-dannyh-dlya-eo/">http://localhost:1313/posts/2025-07-10-pozhaluy-samaya-staraya-kollektsiya-dannyh-dlya-eo/</a>
-    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
-
-
-    <div class="post-taxonomies">
-        
-        
-        
-    </div>
-</div>
-
-</article>
-
-        
-            <article class="post-list h-feed">
-    <div class="post-header">
-        <header>
-            <h1 class="p-name post-title"><a class="u-url" href="/posts/2025-07-09-besplatnyy-marc-v-oblake/">Бесплатный Marc в облаке</a></h1>
-        </header>
-        
-    </div>
-<a class="link-preview__card" href="https://www.simscale.com/press/simscale-and-hexagon-announce-marc-solver/" target="_blank" rel="noopener noreferrer">
-  
-  <span class="link-preview__body">
-    <span class="link-preview__title">SimScale and Hexagon Announce Cloud Availability of Marc Solver</span>
-    
-    <span class="link-preview__description">SimScale announces the General Availability of Hexagon&#39;s Marc nonlinear FEA solver technology on its cloud-native platform.</span>
-    
-    <span class="link-preview__host">www.simscale.com</span>
-  </span>
-</a>
-
-
-        <div class="content post-summary p-summary">
-            <p>Сегодня SimScale объявил о доступности нелинейного конечно-элементного решателя Marc от Hexagon в своей облачной платформе. Интеграция позволяет выполнять сложные FEA-расчеты непосредственно через веб-браузер без необходимости локального программного обеспечения. При этом решатель доступен бесплатно*!</p>
-<p>(*) Для ограниченного некоммерческого тестирования :-)</p>
-<p><a href="https://www.simscale.com/press/simscale-and-hexagon-announce-marc-solver/" target="_blank" rel="noopener noreferrer">https://www.simscale.com/press/simscale-and-hexagon-announce-marc-solver/</a></p>
-        </div>
-    
-    
-
-    
-
-    
-
-
-
-<div class="post-info">
-    
-        <div class="post-date dt-published">
-            <a class="u-url" href="/posts/2025-07-09-besplatnyy-marc-v-oblake/"><time datetime="2025-07-09">09.07.2025</time></a>
-            
-        </div>
-    
-
-    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2025-07-09-besplatnyy-marc-v-oblake/">http://localhost:1313/posts/2025-07-09-besplatnyy-marc-v-oblake/</a>
-    <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
-
-
-    <div class="post-taxonomies">
-        
-        
-        
-    </div>
-</div>
-
-</article>
-
-        
-            <article class="post-list h-feed">
-    <div class="post-header">
-        <header>
-            <h1 class="p-name post-title"><a class="u-url" href="/posts/2025-07-09-paraview-python-gpt/">Paraview Python GPT</a></h1>
-        </header>
-        
-    </div>
-<a class="link-preview__card" href="https://chatgpt.com/g/g-lbu3yvWDv" target="_blank" rel="noopener noreferrer">
-  
-  <span class="link-preview__thumb-wrap">
-    <img class="link-preview__thumb" src="https://chatgpt.com/backend-api/estuary/content?id=file-5pXhVWJn0ADtoZPwr4R3cwf3&amp;gizmo_id=g-lbu3yvWDv&amp;ts=492330&amp;p=gpp&amp;cid=1&amp;sig=60403c1c5100ed94475b5451cc368f4c8cdbf6939e094b6b6542af97df73acd5&amp;v=0" loading="lazy" alt="">
-  </span>
-  
-  <span class="link-preview__body">
-    <span class="link-preview__title">ChatGPT - Paraview Wizard</span>
-    
-    <span class="link-preview__description">Your go-to guide for the Paraview Python API.</span>
-    
-    <span class="link-preview__host">chatgpt.com</span>
-  </span>
-</a>
-
-
-        <div class="content post-summary p-summary">
-            <p>Все становиться лучше с LLM? Даже если это просто документация к вашему API. Вот бы Ansys сделал такое для ACT API.</p>
-<p><a href="https://chatgpt.com/g/g-lbu3yvWDv" target="_blank" rel="noopener noreferrer">https://chatgpt.com/g/g-lbu3yvWDv</a></p>
-        </div>
-    
-    
-
-    
-
-    
-
-
-
-<div class="post-info">
-    
-        <div class="post-date dt-published">
-            <a class="u-url" href="/posts/2025-07-09-paraview-python-gpt/"><time datetime="2025-07-09">09.07.2025</time></a>
-            
-        </div>
-    
-
-    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2025-07-09-paraview-python-gpt/">http://localhost:1313/posts/2025-07-09-paraview-python-gpt/</a>
+    <a class="post-hidden-url u-url" href="http://localhost:1313/posts/2025-08-25-boytes-kozhanye-ii-idet-za-vami/">http://localhost:1313/posts/2025-08-25-boytes-kozhanye-ii-idet-za-vami/</a>
     <a href="http://localhost:1313/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
 
 

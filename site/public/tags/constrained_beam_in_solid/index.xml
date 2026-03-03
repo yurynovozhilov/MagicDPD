@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CONSTRAINED_BEAM_IN_SOLID on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/constrained_beam_in_solid/</link>
+    <description>MagicDPD: Magic Driven Product Development! (CONSTRAINED_BEAM_IN_SOLID)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 18 Oct 2019 13:52:29 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/constrained_beam_in_solid/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LS-DYNA: учет вырывания арматуры при разрушении железобетона</title>
+      <link>http://localhost:1313/posts/2019-10-18-ls-dyna-uchet-vyryvaniya-armatury-pri-raz/</link>
+      <pubDate>Fri, 18 Oct 2019 13:52:29 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-10-18-ls-dyna-uchet-vyryvaniya-armatury-pri-raz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Расчет подрыва ЖБ плиты с учетом фрагментации</title>
+      <link>http://localhost:1313/posts/2018-02-07-raschet-podryva-zhb-plity-s-uchetom-fragmen/</link>
+      <pubDate>Wed, 07 Feb 2018 18:00:53 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-02-07-raschet-podryva-zhb-plity-s-uchetom-fragmen/</guid>
+      <description>&lt;p&gt;Очень красивый пример от LSTC, демонстрирующий работу LS-DYNA в области расчета взрывов и переноса нагрузок от них на конструкции. Разберем три составляющих успеха данного расчета.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Имеем бетонную плиту, армированную стальными стержнями (естественно beam арматура внедряется в solid бетон при помощи специальных уравнений связи типа *CONSTRAINED_BEAM_IN_SOLID).&lt;/li&gt;
+&lt;li&gt;Дальше, на этой плите расположен заряд в оболочке из shell элементов. Заряд ВВ моделируется в постановке Particle Blast Method (PBM) - не надо заморачиваться с генерацией SPH или переходом в эйлеров домен. PBM решает быстро и точно!&lt;/li&gt;
+&lt;li&gt;И на десерт, для solid элементов бетона задается *DEFINE_ADAPTIVE_SOLID_TO_SPH - автоматическое переключение умерших solid элементов в SPH частицы, моделирующие разлет осколков. Надо отдельно отметить, что получающиеся SPH частицы могут не просто разлетаться, как точечные массы, но и работать как тот же самый бетон, но уже сильно поврежденный - между ними есть определенный потенциал взаимодействия.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=QHbO6tRPI3c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=QHbO6tRPI3c&lt;/a&gt;
+#blast #concrete #CONSTRAINED_BEAM_IN_SOLID #DEFINE_ADAPTIVE_SOLID_TO_SPH #fracture #fragmentation #LS-DYNA #LSTC #ParticleBlast #reinforcement #SPH
+&lt;a href=&#34;https://wp.me/p9vWYY-1BK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1BK&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

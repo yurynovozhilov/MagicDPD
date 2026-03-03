@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LES on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/les/</link>
+    <description>MagicDPD: Magic Driven Product Development! (LES)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 29 Dec 2017 17:14:11 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/les/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#zCFD - #CFD код от #Zenotech для расчета сжимаемых течений,</title>
+      <link>http://localhost:1313/posts/2017-12-29-zcfd-cfd-kod-ot-zenotech-dlya-raschet/</link>
+      <pubDate>Fri, 29 Dec 2017 17:14:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-12-29-zcfd-cfd-kod-ot-zenotech-dlya-raschet/</guid>
+      <description>&lt;p&gt;Итак, ключевые особенности ПО:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;эффективность - обычно присутствует у любого, уважающего себя кода&lt;/li&gt;
+&lt;li&gt;модели турбулентности (#RANS, #DES, #LES, #SAS) - куда же без них&lt;/li&gt;
+&lt;li&gt;автоматическое использвоание #NVIDIA #GPU для расчетов, если они есть в системе - это уже что-то новенькое&lt;/li&gt;
+&lt;li&gt;работа как с классической конечно-обемной постановкой, так и с разрывным методом Гелеркина (#Discontinuous #Galerkin) - а вот это уже что-то очень необычное, больше свойственное #HFSS или #LSDYNA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Теперь насчет бесплатности - полифункциональную версию для работы на машине с общей памятью можно скачать с сайта совершенно бесплатно!&lt;/p&gt;
+&lt;p&gt;Верификационные примеры для кода прилагаются: &lt;a href=&#34;http://ift.tt/2CmJ6GY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2CmJ6GY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&lt;/a&gt; 🔗 New zCFD release for affordable CFD at scale | Zenotech Ltd&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#MPS (Moving Particle Simulation) - бессеточный метод для ре</title>
+      <link>http://localhost:1313/posts/2016-04-11-mps-moving-particle-simulation-bess/</link>
+      <pubDate>Mon, 11 Apr 2016 07:01:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-04-11-mps-moving-particle-simulation-bess/</guid>
+      <description>&lt;p&gt;Прежде всего, этот метод, чем-то похожий на #SPH, имеет как явную, так и неявную схемы интегрирования по времени. Далее, он позволяет учитывать поверхностное натяжение и обладает #LES моделью турбулентности, чего нет в классическом #SPH. Ну и на сладкое - метод ускоряется на #GPU #NVIDIA в 5-9 раз (прямо как #DEM), при этом может использовать несколько графических карт.&lt;/p&gt;
+&lt;p&gt;Метод реализован в независимомо CFD пакете #Particleworks японской компании #Prometech.&lt;/p&gt;
+&lt;p&gt;На мой взгляд, это может быть по круче чем #XFlowCFD с их решеточным методом Больцмана.&lt;/p&gt;
+&lt;p&gt;Базовая теория по работе метода прилагается.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

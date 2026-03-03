@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abaqus on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/abaqus/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Abaqus)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 06 Apr 2022 17:00:11 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/abaqus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Раньше все говорили, что моделировать композиты на микро уро</title>
+      <link>http://localhost:1313/posts/2022-04-06-ranshe-vse-govorili-chto-modelirovat-ko/</link>
+      <pubDate>Wed, 06 Apr 2022 17:00:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-04-06-ranshe-vse-govorili-chto-modelirovat-ko/</guid>
+      <description>&lt;p&gt;#composite #Abaqus #DEA &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S1359836821003267&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.sciencedirect.com/science/article/abs/pii/S1359836821003267&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование пены низкой плотности в МКЭ</title>
+      <link>http://localhost:1313/posts/2021-02-03-modelirovanie-peny-nizkoy-plotnosti-v-mk/</link>
+      <pubDate>Wed, 03 Feb 2021 13:01:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-02-03-modelirovanie-peny-nizkoy-plotnosti-v-mk/</guid>
+      <description>&lt;p&gt;На сегодня я нашел два интересных видео, посвященных моделированию полимерной пены низкой плотности.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=g8YSmFk5KSc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=g8YSmFk5KSc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В первом видео обсуждается, почему традиционные гиперупругие модели материалов не могут использоваться для прогнозирования поведения мягких полимерных пен. Далее в видео рассматривается математика работы специализированных подходящий моделей Ansys Ogden Foam, LS-DYNA Hill Foam, Abaqus Hyperfoam и COMSOL Storakers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=W9e-GJHJk00&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=W9e-GJHJk00&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Во второй части видео показывается, как проводить настройку модели материалов с применением пакета PolymerFEM MCalibration.&lt;/p&gt;
+&lt;p&gt;#abaqus #ansys #comsol #foam #ls-dyna #mcalibration #mechanical #polymerfem
+&lt;a href=&#34;https://tinyurl.com/y2gu28ph&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y2gu28ph&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Просто залипательные видео про подушки безопастности</title>
+      <link>http://localhost:1313/posts/2019-06-19-prosto-zalipatelnye-video-pro-podushki-b/</link>
+      <pubDate>Wed, 19 Jun 2019 17:00:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-06-19-prosto-zalipatelnye-video-pro-podushki-b/</guid>
+      <description>&lt;p&gt;Серия видео с результатом расчета раскрытия подушки безопасности. Поведение газа внутри объема подушки моделируется при помощи  Particle Finite Element Method (PFEM), относящийся к бессточным методам Галеркина.&lt;/p&gt;
+&lt;p&gt;#ABAQUS #Airbag #FSI #PFEM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2zF&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2zF&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учимся работать в Sublime Text</title>
+      <link>http://localhost:1313/posts/2019-04-03-uchimsya-rabotat-v-sublime-text/</link>
+      <pubDate>Wed, 03 Apr 2019 12:51:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-04-03-uchimsya-rabotat-v-sublime-text/</guid>
+      <description>&lt;p&gt;SublimeText — мой любимый текстовый редактор. Я уже писал, что он очень быстр, работает на любой операционной системе и умеет подсвечивать синтаксис #ANSYS #APDL, #LSDYNA и #Abaqus. Этот текстовый редактор совсем не боится файлов по несколько Гб.
+Но что бы получить полную отдачу от Sublime Tesxt стоит посмотреть этот небольшой цикл из 12 обучающих видео:&lt;/p&gt;
+&lt;p&gt;#ABAQUS #ANSYS #APDL #LS_DYNA #SublimeText&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-4899&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-4899&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оказывается #atom умеет работать не только с синтаксисом #LS</title>
+      <link>http://localhost:1313/posts/2017-11-18-okazyvaetsya-atom-umeet-rabotat-ne-tol/</link>
+      <pubDate>Sat, 18 Nov 2017 17:15:25 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-11-18-okazyvaetsya-atom-umeet-rabotat-ne-tol/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;#ANSYS #APDL &lt;a href=&#34;http://ift.tt/2AaBre6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2AaBre6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;#NASTRAN &lt;a href=&#34;http://ift.tt/2zLVvDc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zLVvDc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;#Abaqus &lt;a href=&#34;https://atom.io/packages/language-ansys&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://atom.io/packages/language-ansys&lt;/a&gt; 🔗 language-ansys&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Хотите считать #explicit - учитесь! Вот стандартные тестовые</title>
+      <link>http://localhost:1313/posts/2017-10-20-hotite-schitat-explicit-uchites-vot/</link>
+      <pubDate>Fri, 20 Oct 2017 17:07:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-10-20-hotite-schitat-explicit-uchites-vot/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Тест Тейлора (#Taylor Anvil Test)&lt;/li&gt;
+&lt;li&gt;Распространение ударной воны в воздухе (Free Air #Blast)&lt;/li&gt;
+&lt;li&gt;Разрезной стержень Гопкинсона - Кольского (Split Hopkinson Pressure Bar, #SHPB)&lt;/li&gt;
+&lt;li&gt;Бразильский тест на прочность на растяжение (Brazilian test)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Научные статьи и учебное видео для #LSPP во вложении.&lt;/p&gt;
+&lt;p&gt;#LSDYNA #ABAQUS #CTH #ALEGRA #ALE3D #RADIOSSMedia📼 Taylor bar test💾 A method for selecting software for dynamic event…💾 A method for selecting software for dynamic event…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2zDmjm1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zDmjm1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nor-Tech, один из крупнейших в США системных интеграторов сп</title>
+      <link>http://localhost:1313/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</link>
+      <pubDate>Mon, 23 Nov 2015 06:00:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</guid>
+      <description>&lt;p&gt;CAE:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ANSYS: ANSYS Fluent – CFD,&lt;/li&gt;
+&lt;li&gt;ANSYS: Mechanical – FEA,&lt;/li&gt;
+&lt;li&gt;ANSYS: CFX – CFD&lt;/li&gt;
+&lt;li&gt;LS-DYNA – FEA,&lt;/li&gt;
+&lt;li&gt;Altair: Hyperworks – Suite of CAE software&lt;/li&gt;
+&lt;li&gt;CEI Software: Ensight&lt;/li&gt;
+&lt;li&gt;Convergent Science: Converge CFD – Meshless CFD&lt;/li&gt;
+&lt;li&gt;Cradle-CDF: scSTREAM, scTetra&lt;/li&gt;
+&lt;li&gt;Dassault Systemes – Simulia: Abaqus – FEA&lt;/li&gt;
+&lt;li&gt;Lumerical: FDTD Solutions – Photonic Design Tools&lt;/li&gt;
+&lt;li&gt;MSC Software: Marc Nonlinear – FEA MSC Nastran&lt;/li&gt;
+&lt;li&gt;Moldex3D: eDesign – Plastic Injection Molding Simulation&lt;/li&gt;
+&lt;li&gt;COMSOL: COMSOL Multiphysics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Системное кластерное ПО:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rocks Cluster Management Suite&lt;/li&gt;
+&lt;li&gt;NICE: DCV Remote Visualization&lt;/li&gt;
+&lt;li&gt;NICE: EnginFrame GUI for Job Scheduler &amp;amp; Resource Mgr&lt;/li&gt;
+&lt;li&gt;Ganglia&lt;/li&gt;
+&lt;li&gt;IPMI management&lt;/li&gt;
+&lt;li&gt;OGS/GE based on (Sun Grid Engine), Torque&lt;/li&gt;
+&lt;li&gt;Bright Cluster Manager&lt;/li&gt;
+&lt;li&gt;Windows Server 2012/HPC&lt;/li&gt;
+&lt;li&gt;Intel: Compilers &amp;amp; Libraries&lt;/li&gt;
+&lt;li&gt;Altair PBS Pro, Compute Manager &amp;amp; Display Manager и другеи продукты&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Жаль, что у нас пока нет таких же бравых системных интеграторов.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Издание HPCWire начало голосование за лучшие HPC 2015 года. </title>
+      <link>http://localhost:1313/posts/2015-09-30-izdanie-hpcwire-nachalo-golosovanie-za-lu/</link>
+      <pubDate>Wed, 30 Sep 2015 06:30:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-30-izdanie-hpcwire-nachalo-golosovanie-za-lu/</guid>
+      <description>&lt;p&gt;Голосование будет проходить до 9 Октября 23:59 по тихоокеанскому времени.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

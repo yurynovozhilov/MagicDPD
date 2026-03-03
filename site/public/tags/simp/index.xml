@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simp on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/simp/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Simp)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 16 Mar 2021 13:21:10 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/simp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Топологическая оптимизация в изогеометрической постановке</title>
+      <link>http://localhost:1313/posts/2021-03-16-topologicheskaya-optimizatsiya-v-izogeometri/</link>
+      <pubDate>Tue, 16 Mar 2021 13:21:10 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-03-16-topologicheskaya-optimizatsiya-v-izogeometri/</guid>
+      <description>&lt;p&gt;Статья, о которой я сегодня рассуждаю, это очень красивое развитие топологической оптимизации. Итак, для оптимизации топологии у нас есть древний SIMP, который дает дискретные результаты на дискретных моделях, так как играет с псевдоплотностью конечных элементов.&lt;/p&gt;
+&lt;p&gt;У нас есть более модны Level-Set который конструирует некую гладкую функцию, определяющую наличие или отсутствие материала в каждой точке пространства проектирования. Но гладкий Level-Set, приземляясь на дискретную КЭ модель все равно дает &amp;ldquo;ступенчатые&amp;rdquo; и &amp;ldquo;пиксилизированные результаты&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;И тут, автор стати вспоминает про активно развивающийся сейчас метод изогеометрического анализа (IGA, IsoGeometric Analisys) - модификацию МКЭ, использующую NURBS в качестве базисных функций. Таким образом, если приземлить гладкие результаты топологической оптимизации методом Level-Set на гладкое IGA представление КЭ модели, то можно получить более точное решение сразу с гладкой аналитической поверхностью для новой топологии.&lt;/p&gt;
+&lt;p&gt;Ссылка на видео запись доклада: &lt;a href=&#34;https://slideslive.com/38944315/structural-topology-optimization-with-accurate-boundary-representation-using-untrimming-techniques-and-isogeometric-analysis&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://slideslive.com/38944315/structural-topology-optimization-with-accurate-boundary-representation-using-untrimming-techniques-and-isogeometric-analysis&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ссылка на статью: &lt;a href=&#34;https://dx.doi.org/10.13140/RG.2.2.32756.78729&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://dx.doi.org/10.13140/RG.2.2.32756.78729&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #iga #level_set_method #optimization #simp #topology
+&lt;a href=&#34;https://tinyurl.com/yzfdkqxo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzfdkqxo&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

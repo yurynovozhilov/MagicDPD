@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Properties on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/properties/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Properties)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 17 Jun 2020 13:01:29 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/properties/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Как выбрать оптимальный материал на ранних этапах проектиров</title>
+      <link>http://localhost:1313/posts/2020-06-17-kak-vybrat-optimalnyy-material-na-rann/</link>
+      <pubDate>Wed, 17 Jun 2020 13:01:29 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-06-17-kak-vybrat-optimalnyy-material-na-rann/</guid>
+      <description>&lt;p&gt;#CAE #material #properties
+by Ян Поженько&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Выбор оптимального материала на ранних этапах проектирования</title>
+      <link>http://localhost:1313/posts/2020-06-10-vybor-optimalnogo-materiala-na-rannih-e/</link>
+      <pubDate>Wed, 10 Jun 2020 12:58:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-06-10-vybor-optimalnogo-materiala-na-rannih-e/</guid>
+      <description>&lt;p&gt;#ANSYS #CAE #Granta_Design #GRANTA_Selector #material #properties
+by Ян Поженько&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Свойства материалов при комнатных, повышенных и криогенных т</title>
+      <link>http://localhost:1313/posts/2020-06-02-svoystva-materialov-pri-komnatnyh-povysh/</link>
+      <pubDate>Tue, 02 Jun 2020 13:00:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-06-02-svoystva-materialov-pri-komnatnyh-povysh/</guid>
+      <description>&lt;p&gt;#ANSYS #CFD #FEM #material #properties
+by Ян Поженько&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Подбор констант для нелинейных моделей материалов — MCalibra</title>
+      <link>http://localhost:1313/posts/2019-06-28-podbor-konstant-dlya-nelineynyh-modeley-m/</link>
+      <pubDate>Fri, 28 Jun 2019 17:00:52 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-06-28-podbor-konstant-dlya-nelineynyh-modeley-m/</guid>
+      <description>&lt;p&gt;Большинство пакетов КЭ-моделирования имеет возможность калибровать простые модели материалов, такие как гиперэластичность и линейная вязкоупругость. Если речь идет о сложных моделях материалов, то КЭ-программы либо не умеют под них калиброваться, либо имеют достаточно ограниченный функционал.&lt;/p&gt;
+&lt;p&gt;А MCalibration умеет! Он умеет «чистить» экспериментальные данные, содержит кучу функций для калибровки, библиотеку уже откалиброванных моделей материалов и может калибровать большую часть моделей материалов Abaqus, ANSYS и библиотеку PolyUMod. Это означает, что можно очень быстро откалибровать эти модели, даже не используя КЭ-решатель.&lt;/p&gt;
+&lt;p&gt;Интересен тот факт, что в разработке ПО участвовал тот самый Йорген Бергстрем (вы же знали?:)), который и разработал модель Бергстрема-Бойса.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.veryst.com/what-we-offer/polymer-modeling&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.veryst.com/what-we-offer/polymer-modeling&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#material #MCalibration #non_linear #properties&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Ae&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Ae&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Ян Поженько&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MakeItFrom — еще одна онлайн база данных свойств материалов</title>
+      <link>http://localhost:1313/posts/2019-05-20-makeitfrom-esche-odna-onlayn-baza-dannyh/</link>
+      <pubDate>Mon, 20 May 2019 17:01:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-05-20-makeitfrom-esche-odna-onlayn-baza-dannyh/</guid>
+      <description>&lt;p&gt;Бесплатная база данных, доступ к которой возможен без регистрации. Доступны свойства основных классов материалов — металлы, сплавы, полимеры, резины, древесина и керамики. Библиотека содержит механические, физические, тепловые, электрические и некоторые другие свойства, а так же ссылки на источники. Для многих материалов доступны данные с учетом термической обработки.&lt;/p&gt;
+&lt;p&gt;С помощью MakeItFrom возможно осуществлять подбор материала по интересующим свойствам и сравнивать материалы между собой.&lt;/p&gt;
+&lt;p&gt;Чем эта база данных лучше остальных? У нее простой и понятный интерфейс.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.makeitfrom.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.makeitfrom.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#MakeItFrom #material #properties&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2vU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2vU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Ян Поженько&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MatWeb — онлайн библиотека свойств материалов.</title>
+      <link>http://localhost:1313/posts/2019-05-13-matweb-onlayn-biblioteka-svoystv-mater/</link>
+      <pubDate>Mon, 13 May 2019 17:00:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-05-13-matweb-onlayn-biblioteka-svoystv-mater/</guid>
+      <description>&lt;p&gt;Включает в себя механические, физические, теплофизические и некоторые эксплуатационные свойства различных материалов. Таких как термопластичные и термореактивные полимеры, например, ABS, нейлон, поликарбонат, полиэстер, полиэтилен и полипропилен; металлы, например, алюминий, кобальт, медь, свинец, магний, никель, сталь, суперсплавы, сплавы титана и цинка; керамики и другие инженерные материалы.
+Доступен поиск материалов по ключевым количественным свойствам по марке, составу и производителю.
+Бесплатная версия позволят просматривать свойства материалов по марке и осуществлять поиск по 3 ключевым свойствам, а платная — осуществлять поиск по 10 ключевым свойствам, просматривать зависимость свойств от температуры, экспортировать свойства в формате CAE-пакета и некоторые другие возможности.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.matweb.com/index.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.matweb.com/index.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#material #properties&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2vy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2vy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Ян Поженько&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

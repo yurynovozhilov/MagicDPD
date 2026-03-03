@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ACCS on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/accs/</link>
+    <description>MagicDPD: Magic Driven Product Development! (ACCS)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Thu, 26 Apr 2018 18:01:14 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/accs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Проектирование углепластикового спортивного диска</title>
+      <link>http://localhost:1313/posts/2018-04-26-proektirovanie-ugleplastikovogo-sportivn/</link>
+      <pubDate>Thu, 26 Apr 2018 18:01:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-04-26-proektirovanie-ugleplastikovogo-sportivn/</guid>
+      <description>&lt;p&gt;Небольшое, но ёмкое видео, демонстрирующее возможности ANSYS Composite PrepPost по моделированию изделий из углепластика сложной формы. Ну а дальше все, как в лучших практиках: геометрия в SpaceClaim, сетка в ANSYS Meshing, структура композита в ACP, расчет в Mechanical&lt;/p&gt;
+&lt;p&gt;Кроме того, не забываем о возможностях посчитать ударные нагрузки в Explicit STR или LS-DYNA или учесть возможное коробление при спекании в ANSYS Composite Cure Simulation (ASSC).
+#ACCS #ACP #ANSYS #composite #Mechanical&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Nz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Nz&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учебное видео на тему работы с #ANSYS #Composite #Cure #Simu</title>
+      <link>http://localhost:1313/posts/2017-08-14-uchebnoe-video-na-temu-raboty-s-ansys-c/</link>
+      <pubDate>Mon, 14 Aug 2017 17:01:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-08-14-uchebnoe-video-na-temu-raboty-s-ansys-c/</guid>
+      <description>&lt;p&gt;Типичный цикл моделирования выглядит примерно следующим образом:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Выбор математических моделей материлов из базы #ACCS&lt;/li&gt;
+&lt;li&gt;Задание структуры композитной детали в #ACP (#ANSYS #Composite #PrepPost)&lt;/li&gt;
+&lt;li&gt;Решение нестационарной задачи теплопроводности (#Transient #Thermal) для описания процесса термической полимеризации в автоклаве&lt;/li&gt;
+&lt;li&gt;Решение статической задачи механики (#Static #Structural) для определения деформаций конструкции в следствии теплового расширения и возможной неравномерной полимеризации. &lt;a href=&#34;https://youtu.be/HufoH6O1ntM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/HufoH6O1ntM&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сегодня в Питере провели небольшой семинар на пол дня по #AN</title>
+      <link>http://localhost:1313/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</link>
+      <pubDate>Thu, 02 Jun 2016 13:58:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</guid>
+      <description>&lt;p&gt;11 докладов по #Mechanical, #Explicit, #CFX, #Fluent, #DesignXplorer, #SpaceClaim, #HPC, #RBD, #ACP, #ACCS и конечно же #AIM!&lt;/p&gt;
+&lt;p&gt;А еще состоялся анонс проекта под рабочим названием #CADFEM #Haze!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

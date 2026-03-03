@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Odb on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/odb/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Odb)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 25 May 2021 17:01:47 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/odb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Импорт топологии печатных плат в Ansys Mechanical и LS-DYNA</title>
+      <link>http://localhost:1313/posts/2021-05-25-import-topologii-pechatnyh-plat-v-ansys-m/</link>
+      <pubDate>Tue, 25 May 2021 17:01:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-05-25-import-topologii-pechatnyh-plat-v-ansys-m/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EBpKi7Oq6dw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=EBpKi7Oq6dw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Демонстрация активно развиваемой функции trace mapping из Ansys Mechanical, которая пригодится при механических и тепловых расчетах печатных плат. Итак, trace mapping позволяет импортировать структуру печатной платы из ODB++. Далее эта структура передается в препроцессор, где отображается геометрической положение того или иного материала в пространстве. После того как материалу или &amp;ldquo;сущности&amp;rdquo; из ODB++ выставляются соответствие его механический эквивалент (грубо говоря - дорожка должны быть медные) препроцессор &amp;ldquo;намазывает&amp;rdquo; эти свойства на модель состоящую из слоистых оболочек. Не надо прорисовывать многие сотни, если не тысячи объектов, не надо портить геометрию и усложнять работу сеточного генератора, не надо возиться с solid моделью платы - все данные переносятся автоматом на уровне сетки. Если же сетку надо будет перестроить, то и данные из ODB++ будут автоматически применены к новым элементам. Кстати, в актуальной версии 2021R1, trace mapping работает и для Workbench LS-DYNA, а значит одна модель печатной платы может быть использована и для расчета тепла, и для расчёта прочности и для случая удара.&lt;/p&gt;
+&lt;p&gt;#ansys #em #lsdyna #mechanical #odb #tracemapping
+&lt;a href=&#34;https://tinyurl.com/ygnyywsn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ygnyywsn&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ale on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/ale/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Ale)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Thu, 24 Feb 2022 17:00:10 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/ale/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Недавно я писал про модель сердца, которую сделали на день с</title>
+      <link>http://localhost:1313/posts/2022-02-24-nedavno-ya-pisal-pro-model-serdtsa-kotor/</link>
+      <pubDate>Thu, 24 Feb 2022 17:00:10 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-02-24-nedavno-ya-pisal-pro-model-serdtsa-kotor/</guid>
+      <description>&lt;p&gt;#SPH #ALE #ICFD #CFD #ANSYS &lt;a href=&#34;https://www.tafsm.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.tafsm.org&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новые возможности решателя LS-DYNA R13: часть II</title>
+      <link>http://localhost:1313/posts/2021-11-22-novye-vozmozhnosti-reshatelya-ls-dyna-r13/</link>
+      <pubDate>Mon, 22 Nov 2021 14:02:34 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-11-22-novye-vozmozhnosti-reshatelya-ls-dyna-r13/</guid>
+      <description>&lt;p&gt;Коллеги, на этой неделе, в среду перед обедом я приглашаю вас посмотреть живой вебинар новым возможностям LS-DYNA R13. Это будет заключительное мероприятие посвященное именно новым возможностям данного решателя. В ходе часового (а может и дольше) доклада вы узнаете про следующие темы:&lt;/p&gt;
+&lt;p&gt;Работа с контактом, задачи штамповки и формовки.Акустика, вибрация, NVH и новый решатель для расчета ультразвуковых волн.Новый монолитный электромагнитный BEM-FEM решатель и работа с постоянными магнитами.Новые возможности (S-)ALE и его связка с тепловым решателем.Развитие неявного решателя ICFD для несжимаемых течений.Новые возможности явного решателя CESE для сжимаемых реагирующих многофазных течений.&lt;/p&gt;
+&lt;p&gt;Конечно, самая горячая тема тут на мой вкус будет в акустике и в CESE, но это только на мой вкус. Я уверен, что каждый найдет что-то по своим интересам.&lt;/p&gt;
+&lt;p&gt;Если вы хотите попасть на вебинар, то вам обязательно (!!!) надо пройти бесплатную регистрацию и не в последний момент: &lt;a href=&#34;https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13-chast-ii/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13-chast-ii/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ale #bem #cadfem #icfd #sael
+&lt;a href=&#34;https://tinyurl.com/yfxn6xfv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfxn6xfv&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Подходы к моделированию подушек безопастности</title>
+      <link>http://localhost:1313/posts/2021-02-15-podhody-k-modelirovaniyu-podushek-bezopast/</link>
+      <pubDate>Mon, 15 Feb 2021 18:09:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-02-15-podhody-k-modelirovaniyu-podushek-bezopast/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MI_u7HEnbyQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=MI_u7HEnbyQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В настоящее время LS-DYNA предлагает три различных метода моделирования подушек безопасности. Подход на основе однородного давления (UP, uniform pressure), старейший из доступных методов, является очень эффективным с вычислительной точки зрения и хорошо работает, например, для моделирования взаимодействия манекенов с полностью надутыми подушками безопасности. Для удовлетворения возросших требований, предъявляемых к современным имитационным моделям, все большее значение приобретает точное отображение фазы развертывания.Поэтому используется метод ALE, при котором &amp;ldquo;газовая&amp;rdquo; область дискретизирована конечными элементами, что позволяет моделировать эффекты потока газа и его взаимодействие с тканью подушки безопасности. Совсем недавно был реализован метод корпускулярных частиц (CPM, Corpuscular Particle Method), где газ представлен дискретными частицами, взаимодействующими друг с другом и с окружающей их средой. Кстати, все эти методы могут применять не только для моделирования подушек безопастности, то и для расчетом сосудов и трубопроводов под давлением: моделирование динамики пневматических покрышек, моделирование баллонов  пневматической подвески или даже пневматические испытания трубопровода.&lt;/p&gt;
+&lt;p&gt;#airbag #ale #cpm #ls-dyna
+&lt;a href=&#34;https://tinyurl.com/y44xkm2g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y44xkm2g&lt;/a&gt;
+by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вебинар «Методики моделирования взрывов в Ansys LS-DYNA»</title>
+      <link>http://localhost:1313/posts/2020-04-24-vebinar-metodiki-modelirovaniya-vzryvov/</link>
+      <pubDate>Fri, 24 Apr 2020 15:27:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-04-24-vebinar-metodiki-modelirovaniya-vzryvov/</guid>
+      <description>&lt;p&gt;#ALE #blast #CESE #ConWep #FSI #LS_DYNA #ParticleBlast #S_ALE #SPH
+by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Постановка S-ALE расчета в LS-PrePost Solution Explorer</title>
+      <link>http://localhost:1313/posts/2020-02-10-postanovka-s-ale-rascheta-v-ls-prepost-so/</link>
+      <pubDate>Mon, 10 Feb 2020 13:00:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-02-10-postanovka-s-ale-rascheta-v-ls-prepost-so/</guid>
+      <description>&lt;p&gt;#ALE #FSI #LS_DYNA #LS_PrePost #S_ALE #Solution_Explorer
+by Юрий Новожилов&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Работают ли бессрочные методы?</title>
+      <link>http://localhost:1313/posts/2019-02-08-rabotayut-li-bessrochnye-metody/</link>
+      <pubDate>Fri, 08 Feb 2019 04:36:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-02-08-rabotayut-li-bessrochnye-metody/</guid>
+      <description>&lt;p&gt;Работают ли бессрочные методы?
+Небольшая статья с очередной конференции по #LSDYNA. В статье рассказывается о сравнении расчета с применением сеточных и бессрочных методов с экспериментом — разрывом металлического образца.
+Постановки:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#FEM #Lagrangian&lt;/li&gt;
+&lt;li&gt;#FEM #ALE&lt;/li&gt;
+&lt;li&gt;#SPH&lt;/li&gt;
+&lt;li&gt;#EFG&lt;/li&gt;
+&lt;li&gt;#SPG
+Точную кривую не описал не один из методов. Точная форма получилась только у ALE. Хуже всех, естественно выступил SPH, с его численной нестабильностью при работе на растяжение. На мой вкус EFG дал самую хорошую кривую, но с формой беда.
+Прям захотелось повторить численный эксперимент.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ALE #EFG #FEM #Lagrangian #LS_DYNA #SPG #SPH&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-4867&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-4867&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Материалы 11-ой европейской конференции по LS-DYNA</title>
+      <link>http://localhost:1313/posts/2017-06-04-materialy-11-oy-evropeyskoy-konferentsii/</link>
+      <pubDate>Sun, 04 Jun 2017 17:00:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-06-04-materialy-11-oy-evropeyskoy-konferentsii/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/11th-european-ls-dyna-conference&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/11th-european-ls-dyna-conference&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Материалы конференции, прошедшей в Зальцбурге, стали доступны все и бесплатно на портале dynalook.com. Программа конференции также есть: &lt;a href=&#34;https://www.dynamore.de/de/download/flyer/2017/european-ls-dyna-conference-2017-invitation-agenda&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.de/de/download/flyer/2017/european-ls-dyna-conference-2017-invitation-agenda&lt;/a&gt;
+Я уже кое-что пролистал, и мне понравились некоторые работы по S-ALE и моделированию ударных волн.&lt;/p&gt;
+&lt;p&gt;#ALE, #SALE, #LSDYNA&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Интересную тему подсказали мне коллеги - штамповка взрывом. </title>
+      <link>http://localhost:1313/posts/2016-07-18-interesnuyu-temu-podskazali-mne-kollegi/</link>
+      <pubDate>Mon, 18 Jul 2016 06:30:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-07-18-interesnuyu-temu-podskazali-mne-kollegi/</guid>
+      <description>&lt;p&gt;Так как задача поставлена в ANSYS Workbech LS-DYNA ACT 17.0, то входной файл получился немного грязный, зато есть параметрический проект.&lt;/p&gt;
+&lt;p&gt;video &lt;a href=&#34;https://www.youtube.com/watch?v=ZplZXHB4knk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ZplZXHB4knk&lt;/a&gt;
+input.k &lt;a href=&#34;http://lnk.al/1ILR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILR&lt;/a&gt;
+ebt.wbpz &lt;a href=&#34;http://lnk.al/1ILQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILQ&lt;/a&gt;
+статья &lt;a href=&#34;http://lnk.al/1ILS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Я вчера у ЦНИИ &#34;Электроприбор&#34; на конференции рассказывал пр</title>
+      <link>http://localhost:1313/posts/2016-03-17-ya-vchera-u-tsnii-elektropribor-na-konfer/</link>
+      <pubDate>Thu, 17 Mar 2016 07:01:26 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-03-17-ya-vchera-u-tsnii-elektropribor-na-konfer/</guid>
+      <description>&lt;p&gt;P.S. Хозяйке на заметку: SlideGo оказался единственным средством опубликовать презентацию с интегрированным видео в режиме только для чтения. Знает кто альтернативы?&lt;/p&gt;
+&lt;p&gt;P.P.S. Волшебная строчка для конвертации видео в формат, понятный HTML5 браузерам:
+ffmpeg -i file.avi -c:v libx264 -pix_fmt yuv420p -movflags faststart file.mp4&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Так и я ныряю в выходные после 6-ти дневной недели.</title>
+      <link>http://localhost:1313/posts/2016-02-21-tak-i-ya-nyryayu-v-vyhodnye-posle-6-ti-dnev/</link>
+      <pubDate>Sun, 21 Feb 2016 07:00:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-02-21-tak-i-ya-nyryayu-v-vyhodnye-posle-6-ti-dnev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ООО «Газпром ВНИИГАЗ» тоже выбирает ANSYS и LS-DYNA. Хороший</title>
+      <link>http://localhost:1313/posts/2016-01-21-ooo-gazprom-vniigaz-tozhe-vybiraet-ansy/</link>
+      <pubDate>Thu, 21 Jan 2016 06:30:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-01-21-ooo-gazprom-vniigaz-tozhe-vybiraet-ansy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Невольно вспоминается реклама стирального порошка. Но тут вс</title>
+      <link>http://localhost:1313/posts/2016-01-20-nevolno-vspominaetsya-reklama-stiralnog/</link>
+      <pubDate>Wed, 20 Jan 2016 07:02:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-01-20-nevolno-vspominaetsya-reklama-stiralnog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Раскрытие парашюта - очень сложный FSI.</title>
+      <link>http://localhost:1313/posts/2015-12-28-raskrytie-parashyuta-ochen-slozhnyy-fsi/</link>
+      <pubDate>Mon, 28 Dec 2015 06:30:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-12-28-raskrytie-parashyuta-ochen-slozhnyy-fsi/</guid>
+      <description>&lt;p&gt;А какой код/связка кодов еще может смоделировать такой процесс?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Кто не любит делать блинчики? Я про игру, когда надо подкрут</title>
+      <link>http://localhost:1313/posts/2015-11-15-kto-ne-lyubit-delat-blinchiki-ya-pro-igru/</link>
+      <pubDate>Sun, 15 Nov 2015 18:30:30 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-11-15-kto-ne-lyubit-delat-blinchiki-ya-pro-igru/</guid>
+      <description>&lt;p&gt;Играть теперь еще интереснее, ибо есть расчет в #SPH и #ALE постановках. #FSI в LS-DYNA.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Подборка видео выходного дня, которая лучше котиков. Ну ведь</title>
+      <link>http://localhost:1313/posts/2015-10-10-podborka-video-vyhodnogo-dnya-kotoraya-lu/</link>
+      <pubDate>Sat, 10 Oct 2015 09:05:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-10-podborka-video-vyhodnogo-dnya-kotoraya-lu/</guid>
+      <description>&lt;p&gt;Процессы моделируют в эйлеровом домене или методом сглаженных частиц. Решатели очень разные. Тут есть и Autodyn, и LS-DYNA, и Dytran и еще что-то неопознанное.&lt;/p&gt;
+&lt;p&gt;#Autodyn #lsdyna #Dytran #Explicit #SPH #ALE&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Кумулятивный_эффект&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Шикарный документ-методичка, для тех, кто хочет в LS-DYNA мо</title>
+      <link>http://localhost:1313/posts/2015-10-09-shikarnyy-dokument-metodichka-dlya-teh-kt/</link>
+      <pubDate>Fri, 09 Oct 2015 08:42:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-10-09-shikarnyy-dokument-metodichka-dlya-teh-kt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

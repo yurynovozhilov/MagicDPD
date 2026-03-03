@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AIM on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/aim/</link>
+    <description>MagicDPD: Magic Driven Product Development! (AIM)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 27 Nov 2019 16:00:44 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/aim/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Нестационарные задачи теплопроводности в ANSYS AIM</title>
+      <link>http://localhost:1313/posts/2019-11-27-nestatsionarnye-zadachi-teploprovodnosti-v/</link>
+      <pubDate>Wed, 27 Nov 2019 16:00:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-11-27-nestatsionarnye-zadachi-teploprovodnosti-v/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Расчет коэффициента теплоотдачи радиатора в AIM</title>
+      <link>http://localhost:1313/posts/2019-03-17-raschet-koeffitsienta-teplootdachi-radiator/</link>
+      <pubDate>Sun, 17 Mar 2019 12:00:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-03-17-raschet-koeffitsienta-teplootdachi-radiator/</guid>
+      <description>&lt;p&gt;В видео разобрано решение сравнительно простой аэродинамической задачи при помощи ANSYS AIM. Данная CAE система все еще является редкостью, хотя может решать задачи механики, гидродинамики, теплопроводности и электромагнетизма, а вдобавок еще обладает и встроенным модулем параметрических исследований и оптимизации.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=X8gDQltR5UY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=X8gDQltR5UY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Все это благодаря встроенным в единый интерфейс решателям APDL, Fluent, Maxwell, сеточному генератору Meshing, оптимизатору DesignXplorer и геометрическому процессору SpaceClaim. Вот сколько всего полезного в одной «простой» системе.&lt;/p&gt;
+&lt;p&gt;#AIM #ANSYS #CFD&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2qd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2qd&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Электромагнитные расчеты в ANSYS Discovery AIM</title>
+      <link>http://localhost:1313/posts/2018-05-03-elektromagnitnye-raschety-v-ansys-discove/</link>
+      <pubDate>Thu, 03 May 2018 18:00:56 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-05-03-elektromagnitnye-raschety-v-ansys-discove/</guid>
+      <description>&lt;p&gt;AIM стал флагманом новой линейки продуктов Discovery. И не стоит забывать, что внутри AIM работают проверенные десятилетиями решатели ANSYS.
+В демонстрационном видео показывают электромагнитные расчеты — пример того, как из EMAG (электромагнитного решателя в составе APDL) можно выжать еще много чего, если дать ему удобный и современный интерфейс.
+#AIM #ANSYS #APDL #Discovery #EM #EMAG&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1O8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1O8&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Статья - размышление про то, как #ANSYS #Discovery Live помо</title>
+      <link>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</link>
+      <pubDate>Sun, 17 Sep 2017 17:04:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</guid>
+      <description>&lt;p&gt;И тут ключевыми факторами успеха оказывается не только использование самого передового решателя, разработанного совместно с #NVIDIA. Не даром ANSYS очень дружен с разработчиком GPU. Об этом говорят те факты, что #Mechanical #APDL был первым коммерческим #FEM использовавшим #GPU, как и #Fluent - первым коммерческим #CFD использовавшим #GPU&lt;/p&gt;
+&lt;p&gt;Тут еще вспоминается и #SpaceClaim, который выйдя на рынок в 2005 сделал лидеров отстающими. Именно после #SpaceClaim появились такие системы, как #PTC #Creo, #Autodesk #Fusion и концепция #Siemens Synchronous Technology.&lt;/p&gt;
+&lt;p&gt;Сейчас SpaceClaim становиться геометрическим ядром для #Workbench, #AIM и #ANSYS #Discovery.&lt;/p&gt;
+&lt;p&gt;#GPGPU #CUDA
+&lt;a href=&#34;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&lt;/a&gt; 🔗 ANSYS Discovery Live Changes Everything&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Надеюсь вы не пропустили мероприятие по поводу #ANSYS #Disco</title>
+      <link>http://localhost:1313/posts/2017-09-07-nadeyus-vy-ne-propustili-meropriyatie-po/</link>
+      <pubDate>Thu, 07 Sep 2017 14:31:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-09-07-nadeyus-vy-ne-propustili-meropriyatie-po/</guid>
+      <description>&lt;p&gt;Из того, что мне больше всего понравилось - это возможность не только практически мгновенно сделать прикидочный расчет, но и экспортировать его для доводки в #AIM, #Mechanical, #Fluent и #Maxwell. Понравилось, что #ANSYS #Discovery - свежий код, который не тащит с собой кучу наследства и умеет нормально использовать #GPGPU #NVIDIA.&lt;/p&gt;
+&lt;p&gt;Что мне не понравилось: обещали интерактивное мероприятие, а на деле был набор заготовленных видео роликов.&lt;/p&gt;
+&lt;p&gt;А еще, на сайте продукта уже можно скачать техническое превью бесплатно.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ansys.com/discovery&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ansys.com/discovery&lt;/a&gt; 🔗 ANSYS Discovery Live: Instant Simulation Results&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS App Builder</title>
+      <link>http://localhost:1313/posts/2017-02-03-ansys-app-builder/</link>
+      <pubDate>Fri, 03 Feb 2017 17:03:01 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-02-03-ansys-app-builder/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=xYJPgdOdD3k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xYJPgdOdD3k&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В #ANSYS 18 появилось такое приложение, как ANSYS App Builder, и, на мой взгляд, это самое крутое нововведение в R18!&lt;/p&gt;
+&lt;p&gt;ANSYS App Builder позволяет создавать #ACT для #Workbench и #AIM прямо в #GUI! Он умеет не только записывать все ваши действия при работе с проектом, но и низкоуровненов редактировать записанный #python журнал и XML описание интефейса.&lt;/p&gt;
+&lt;p&gt;Те из нас, кто пробовали писать свои ACT, поймут, какой пропыв в упращении нашего нелегкого ремесла нас ожидает!
+&lt;a href=&#34;https://www.youtube.com/watch?v=xYJPgdOdD3k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xYJPgdOdD3k&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сегодня в Питере провели небольшой семинар на пол дня по #AN</title>
+      <link>http://localhost:1313/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</link>
+      <pubDate>Thu, 02 Jun 2016 13:58:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</guid>
+      <description>&lt;p&gt;11 докладов по #Mechanical, #Explicit, #CFX, #Fluent, #DesignXplorer, #SpaceClaim, #HPC, #RBD, #ACP, #ACCS и конечно же #AIM!&lt;/p&gt;
+&lt;p&gt;А еще состоялся анонс проекта под рабочим названием #CADFEM #Haze!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>О том как в ANSYS AIM мост трактора считали, или привыкаем к</title>
+      <link>http://localhost:1313/posts/2015-09-17-o-tom-kak-v-ansys-aim-most-traktora-schit/</link>
+      <pubDate>Thu, 17 Sep 2015 07:00:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-09-17-o-tom-kak-v-ansys-aim-most-traktora-schit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

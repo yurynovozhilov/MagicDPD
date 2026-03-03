@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fortran on MagicDPD: Magic Driven Product Development!</title>
+    <link>http://localhost:1313/tags/fortran/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Fortran)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 27 Oct 2021 13:02:16 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/fortran/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Как писать пользовательские модели материалов под LS-DYNA</title>
+      <link>http://localhost:1313/posts/2021-10-27-kak-pisat-polzovatelskie-modeli-mater/</link>
+      <pubDate>Wed, 27 Oct 2021 13:02:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-10-27-kak-pisat-polzovatelskie-modeli-mater/</guid>
+      <description>&lt;p&gt;Допустим, вам почему-то не хватило нескольких сотен моделей материалов из LS-DYNA, и вы хотите написать свой. На GitHUB я нашел репозиторий с полным набором инструкций, как это делать, описанием необходимых компиляторов, инструкциями по их настройке, логикой работы пользовательских моделей в LS-DYNA и даже кратким учебником Fortran.&lt;/p&gt;
+&lt;p&gt;Крутость данного репозитория трудно переоценить. При этом, проект вполне себе живой - последние изменения в него вносились на этой неделе! Ссылка на репозиторий: github.com/jfriedlein/usrmat_LS-Dyna_Fortran&lt;/p&gt;
+&lt;p&gt;#ansys #fortran #github #lsdyna #umat
+&lt;a href=&#34;https://tinyurl.com/yz63vjfe&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yz63vjfe&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Методичка по штамповке, FLD и UMAT в LS-DYNA</title>
+      <link>http://localhost:1313/posts/2020-06-25-metodichka-po-shtampovke-fld-i-umat-v-ls/</link>
+      <pubDate>Thu, 25 Jun 2020 13:00:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-06-25-metodichka-po-shtampovke-fld-i-umat-v-ls/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
