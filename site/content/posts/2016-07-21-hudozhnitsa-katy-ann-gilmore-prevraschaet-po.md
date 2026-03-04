@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Художница Katy Ann Gilmore превращает построение сетки в иск"
+title: "Художница Katy Ann Gilmore превращает построение сетки в искусство или искусство в построение сетки?"
 date: 2016-07-21T06:30:09+00:00
 author: "GlukRazor"
 source: vk
@@ -9,8 +9,6 @@ tags:
 images:
   - url: "/assets/images/50.jpg"
 ---
-
-Художница Katy Ann Gilmore превращает построение сетки в искусство или искусство в построение сетки?
 
 #mesh
 http://lnk.al/1NGG

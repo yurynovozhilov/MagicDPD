@@ -13,10 +13,8 @@ tags:
 - DEM
 - EDEM
 - ANSYS
-title: '14 сентября #EDEM устраивает вебинаров по работе их #DEM код'
+title: "14 сентября #EDEM устраивает вебинаров по работе их #DEM кода в связке с #ANSYS #Mechanical."
 ---
-
-14 сентября #EDEM устраивает вебинаров по работе их #DEM кода в связке с #ANSYS #Mechanical.
 
 https://www.edemsimulation.com/adding-realistic-loads-in-ansys-fea-with-bulk-material-simulation-webinar-140917 🔗 Adding realistic loads in ANSYS FEA with bulk material simulation - Webinar
 

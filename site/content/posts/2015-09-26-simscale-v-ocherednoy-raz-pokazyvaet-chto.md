@@ -17,10 +17,8 @@ source: vk
 tags:
 - SImScale
 - OpenFOAM
-title: 'SimScale в очередной раз показывает, что OpenFOAM внутри не '
+title: "SimScale в очередной раз показывает, что OpenFOAM внутри не врет при моделировании запорной арматуры."
 ---
-
-SimScale в очередной раз показывает, что OpenFOAM внутри не врет при моделировании запорной арматуры.
 
 #SImScale #OpenFOAM
 

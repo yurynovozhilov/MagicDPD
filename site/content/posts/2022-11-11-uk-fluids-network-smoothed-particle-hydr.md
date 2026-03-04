@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UK Fluids Network Smoothed Particle Hydrodynamics (#SPH) Spe"
+title: "UK Fluids Network Smoothed Particle Hydrodynamics (#SPH) Special Interest Group выложила 4 сезон своей виртуальной серии семинаров."
 date: 2022-11-11T19:00:09+00:00
 author: "MagicDPD"
 source: vk
@@ -15,7 +15,7 @@ images:
   - url: "/assets/images/2369.jpg"
 ---
 
-UK Fluids Network Smoothed Particle Hydrodynamics (#SPH) Special Interest Group выложила 4 сезон своей виртуальной серии семинаров. В нем 5 серии:
+В нем 5 серии:
 - Aero-fluid Interaction of Fuel Jettison Using an SPH Model
 - Applications of FEM-PFEM Coupling in Multiphysics Simulations
 - Multi-phase Simulations of Nonlinear Fluids with SPH

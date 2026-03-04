@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Продолжаем тему #OpenRadioss: видео инструкция по сборке и з"
+title: "Продолжаем тему #OpenRadioss: видео инструкция по сборке и запуску #opensource кода под #Ubuntu"
 date: 2022-09-15T18:00:04+00:00
 author: "MagicDPD"
 source: vk
@@ -13,8 +13,6 @@ tags:
 images:
   - url: "/assets/images/2342.jpg"
 ---
-
-Продолжаем тему #OpenRadioss: видео инструкция по сборке и запуску #opensource кода под #Ubuntu
 
 #Altair #Radioss https://www.youtube.com/watch?v=He2CsOxNpfQ
 

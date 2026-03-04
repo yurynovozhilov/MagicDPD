@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Хотите считать, но нет денег на софт? Тогда смотрите на #ope"
+title: "Хотите считать, но нет денег на софт?"
 date: 2017-11-30T17:17:01+00:00
 author: "GlukRazor"
 source: vk
@@ -9,7 +9,7 @@ tags:
   - opensource
 ---
 
-Хотите считать, но нет денег на софт? Тогда смотрите на #opensource - вот например информация по установке #Salome-Meca 2017 прямо на ваш любимы Windows.
+Тогда смотрите на #opensource - вот например информация по установке #Salome-Meca 2017 прямо на ваш любимы Windows.
 
 #Salome
 https://youtu.be/PHLCcQhkNboMedia📼 How to install Salome-Meca 2017 on Windows?

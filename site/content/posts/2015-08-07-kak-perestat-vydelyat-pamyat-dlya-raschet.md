@@ -11,10 +11,10 @@ link_previews:
   title: Automatic memory allocation in LS-DYNA
   url: https://www.linkedin.com/pulse/automatic-memory-allocation-ls-dyna-yury-novozhilov
 source: vk
-title: Как перестать выделять память для расчетов в LS-DYNA в ручну
+title: "Как перестать выделять память для расчетов в LS-DYNA в ручную и начать нормально работать?"
 ---
 
-Как перестать выделять память для расчетов в LS-DYNA в ручную и начать нормально работать?!
+!
 
 Мое недавнее открытие, от которого я был в полнейшем восторге. Ссылка на двуязычную статью прилагается.
 

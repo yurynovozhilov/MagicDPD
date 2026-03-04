@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Коллеги из университета Небраски-Линкольна (University of Ne"
+title: "Коллеги из университета Небраски-Линкольна (University of Nebraska-Lincoln) разработали свою собственную модель материала, способную моделировать металлический трос при помощи одного балочного элемента!"
 date: 2017-10-27T17:10:30+00:00
 author: "GlukRazor"
 source: vk
@@ -8,8 +8,6 @@ tags:
   - MAT_MOMENT_CURVATURE_BEAMMedia
   - LSDYNA
 ---
-
-Коллеги из университета Небраски-Линкольна (University of Nebraska-Lincoln) разработали свою собственную модель материала, способную моделировать металлический трос при помощи одного балочного элемента!
 
 #LSDYNA #MAT_MOMENT_CURVATURE_BEAMMedia💾 Reid_DevelopmentofAdvancedFiniteElementMaterialMod…
 

@@ -10,9 +10,9 @@ link_previews:
     продуктов ANSYS EKM
   url: http://controlengrussia.com/programmnye-sredstva/avtomatizatsiya-inzhenernogo-raschetnogo-modelirovaniya-s-pomoshh-yu-programmny-h-produktov-ansys-ekm/
 source: vk
-title: Если продолжить разговор о вертикальных приложениях, то мы э
+title: "Если продолжить разговор о вертикальных приложениях, то мы это поняли уже давно, и даже попробовали реализовать уже в 2014 году."
 ---
 
-Если продолжить разговор о вертикальных приложениях, то мы это поняли уже давно, и даже попробовали реализовать уже в 2014 году. Получилось очень сердито. Удалось зашить кучу математики в простой Web интерфейс.
+Получилось очень сердито. Удалось зашить кучу математики в простой Web интерфейс.
 
 [Автоматизация инженерного расчетного моделирования с помощью программных продуктов ANSYS EKM - Control Engineering Russia](http://controlengrussia.com/programmnye-sredstva/avtomatizatsiya-inzhenernogo-raschetnogo-modelirovaniya-s-pomoshh-yu-programmny-h-produktov-ansys-ekm/)

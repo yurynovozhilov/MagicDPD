@@ -17,9 +17,9 @@ tags:
 - CFX
 - HFSS
 - Fluent
-title: 'Как включить #HPC в #ANSYS #Mechanical, #Fluent, #CFX, #HFSS'
+title: "Как включить #HPC в #ANSYS #Mechanical, #Fluent, #CFX, #HFSS - в основных средствах численного моделирования."
 ---
 
-Как включить #HPC в #ANSYS #Mechanical, #Fluent, #CFX, #HFSS - в основных средствах численного моделирования. Наглядная инструкция в картинках по ссылке.
+Наглядная инструкция в картинках по ссылке.
 
 [Activating Hyperdrive in ANSYS Simulations](http://www.padtinc.com/blog/the-focus/activating-hyperdrive-in-ansys-simulations)

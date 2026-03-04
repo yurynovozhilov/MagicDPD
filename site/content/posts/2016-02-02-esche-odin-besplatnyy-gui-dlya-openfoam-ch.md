@@ -12,9 +12,9 @@ source: vk
 tags:
 - CFD
 - OpenFOAM
-title: 'Еще один бесплатный GUI для #OpenFOAM. Что бы такое количест'
+title: "Еще один бесплатный GUI для #OpenFOAM. Что бы такое количество бесплатного кода для механики кто-нибудь написал!"
 ---
 
-Еще один бесплатный GUI для #OpenFOAM. Что бы такое количество бесплатного кода для механики кто-нибудь написал! #CFD
+#CFD
 
 [CFD Software - simFlow CFD](https://sim-flow.com/cfd-software/)

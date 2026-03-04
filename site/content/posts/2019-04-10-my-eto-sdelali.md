@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Мы это сделали!!!"
+title: "Мы это сделали!"
 date: 2019-04-10T14:13:14+00:00
 author: "GlukRazor"
 source: vk
@@ -9,7 +9,7 @@ tags:
   - ANSYS
 ---
 
-Мы это сделали!!!
+!!
 
 
 https://magicdpd.ru/wp-content/uploads/2019/04/1080p.mov

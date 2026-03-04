@@ -20,10 +20,10 @@ tags:
 - Bluetooth
 - 3Dconnexion
 - CAD
-title: '#3Dconnexion выпустил специализированную мышку для #CAD. Из '
+title: "#3Dconnexion выпустил специализированную мышку для #CAD."
 ---
 
-#3Dconnexion выпустил специализированную мышку для #CAD. Из особых, не программных фишек - очень высокое разрешение и работа по #Bluetooth.
+Из особых, не программных фишек - очень высокое разрешение и работа по #Bluetooth.
 
 http://www.develop3d.com/blog/2017/09/3dconnexion-wireless-cadmouse 🔗 DEVELOP3D blog - 3Dconnexion launch CADMouse Wireless
 

@@ -14,9 +14,7 @@ source: vk
 tags:
 - Mechanical
 - ANSYS
-title: Статья об использовании модели Друкера-Прагера вместо модели
+title: "Статья об использовании модели Друкера-Прагера вместо модели клеевого соединения. Даже эксперимент есть!"
 ---
-
-Статья об использовании модели Друкера-Прагера вместо модели клеевого соединения. Даже эксперимент есть!
 
 [What Do Soils and Adhesives Have In Common? | CAE Associates](https://caeai.com/blog/what-do-soils-and-adhesives-have-common)

@@ -11,9 +11,7 @@ link_previews:
 source: vk
 tags:
 - Altair
-title: 'Примеры численного моделирования в современном судостроении '
+title: "Примеры численного моделирования в современном судостроении от #Altair"
 ---
-
-Примеры численного моделирования в современном судостроении от #Altair
 
 [Thought Leader Thursday: A Safer, Greener, and Smarter Maritime Industry - Altair Innovation Intelligence](http://innovationintelligence.com/thought-leader-thursday-a-safer-greener-and-smarter-maritime-industry/)

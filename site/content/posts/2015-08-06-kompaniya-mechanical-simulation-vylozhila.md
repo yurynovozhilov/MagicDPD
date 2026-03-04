@@ -10,9 +10,7 @@ link_previews:
   title: Mechanical Simulation - Page Not Found
   url: http://www.carsim.com/downloads/video/CarSim_Demo_2015/1_view_results.php
 source: vk
-title: Компания Mechanical Simulation выложила в сеть вебинар демон
+title: "Компания Mechanical Simulation выложила в сеть вебинар демонстрирующий работу из программного обеспечения CarSim, предназначенного для моделирования поведения автомобилей при различных дорожных условиях."
 ---
-
-Компания Mechanical Simulation выложила в сеть вебинар демонстрирующий работу из программного обеспечения CarSim, предназначенного для моделирования поведения автомобилей при различных дорожных условиях.
 
 [CarSim Demo](http://www.carsim.com/downloads/video/CarSim_Demo_2015/1_view_results.php)

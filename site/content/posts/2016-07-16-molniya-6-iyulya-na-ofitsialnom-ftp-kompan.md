@@ -19,10 +19,10 @@ source: vk
 tags:
 - LSTC
 - LSDYNA
-title: 'Молния! 6 июля на официальном ftp компании #LSTC стала досту'
+title: "Молния!"
 ---
 
-Молния! 6 июля на официальном ftp компании #LSTC стала доступна #LSDYNA R9.0!!!
+6 июля на официальном ftp компании #LSTC стала доступна #LSDYNA R9.0!!!
 
 MPP: http://user:computer@ftp.lstc.com/user/mpp-dyna/R9.0/
 SMP: http://user:computer@ftp.lstc.com/user/ls-dyna/R9.0/

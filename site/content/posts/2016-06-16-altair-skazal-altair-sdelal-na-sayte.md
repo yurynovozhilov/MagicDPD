@@ -16,9 +16,9 @@ tags:
 - HPC
 - Altair
 - PBS
-title: '#Altair сказал - Altair сделал. На сайте появилась информаци'
+title: "#Altair сказал - Altair сделал."
 ---
 
-#Altair сказал - Altair сделал. На сайте появилась информация о том, что в середине 2016 года будут открыты коды #PBS Pro, и каждый желающий сможет собрать себе этот Workload Manager бесплатно.
+На сайте появилась информация о том, что в середине 2016 года будут открыты коды #PBS Pro, и каждый желающий сможет собрать себе этот Workload Manager бесплатно.
 
 [PBS Professional Open Source](http://www.pbsworks.com/opensource/)

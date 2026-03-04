@@ -9,9 +9,9 @@ link_previews:
   title: Computing Design Sensitivities in COMSOL Multiphysics
   url: http://www.comsol.com/blogs/computing-design-sensitivities-in-comsol-multiphysics/
 source: vk
-title: Робастное проектирование в COMSOL? Можно, но сложно. По край
+title: "Робастное проектирование в COMSOL?"
 ---
 
-Робастное проектирование в COMSOL? Можно, но сложно. По крайней мере, мне кажется, что для решения промышленных задач слишком наукоемко.
+Можно, но сложно. По крайней мере, мне кажется, что для решения промышленных задач слишком наукоемко.
 
 [Computing Design Sensitivities in COMSOL Multiphysics](http://www.comsol.com/blogs/computing-design-sensitivities-in-comsol-multiphysics/)

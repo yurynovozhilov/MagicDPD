@@ -15,9 +15,9 @@ source: vk
 tags:
 - DEM
 - EDEM
-title: Конец первого рабочего дня после отпуска... отсыпьте мен как
+title: "Конец первого рабочего дня после отпуска... отсыпьте мен каких-нибудь таблеток, ну как #EDEM показывает со своими #DEM. https://www.youtube.com/watch?"
 ---
 
-Конец первого рабочего дня после отпуска... отсыпьте мен каких-нибудь таблеток, ну как #EDEM показывает со своими #DEM. https://www.youtube.com/watch?v=KGeHsB-UdHI
+v=KGeHsB-UdHI
 
 [EDEM Simulation of Tablet Coating & Mixing](https://www.youtube.com/watch?v=KGeHsB-UdHI)

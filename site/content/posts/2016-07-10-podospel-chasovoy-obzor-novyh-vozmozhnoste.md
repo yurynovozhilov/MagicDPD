@@ -12,9 +12,9 @@ tags:
 - APDL
 - CivilFEM
 - ANSYS
-title: 'Подоспел часовой обзор новых возможностей #CivilFEM для #ANS'
+title: "Подоспел часовой обзор новых возможностей #CivilFEM для #ANSYS 17.1 - рассказывают все новые фишки. К сожалению все тот же #APDL https://www.youtube.com/watch?"
 ---
 
-Подоспел часовой обзор новых возможностей #CivilFEM для #ANSYS 17.1 - рассказывают все новые фишки. К сожалению все тот же #APDL https://www.youtube.com/watch?v=Q-QFOyp5Oyw
+v=Q-QFOyp5Oyw
 
 [Webinar CivilFEM for ANSYS:  CivilFEM for ANSYS 17.1 Highlights](https://www.youtube.com/watch?v=Q-QFOyp5Oyw)

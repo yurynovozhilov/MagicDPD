@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Большой вебинар от #MSC посвященный технологии #MaxFlex - вс"
+title: "Большой вебинар от #MSC посвященный технологии #MaxFlex - встроенного в #Adams расчета деформируемых тел."
 date: 2016-05-05T07:00:40+00:00
 author: "GlukRazor"
 source: vk
@@ -9,7 +9,5 @@ tags:
   - MaxFlex
   - Adams
 ---
-
-Большой вебинар от #MSC посвященный технологии #MaxFlex - встроенного в #Adams расчета деформируемых тел.
 
 [Incorporating Nonlinear Flexibility in Adams](https://www.youtube.com/watch?v=nhgYYNU2wNc)

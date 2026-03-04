@@ -23,9 +23,7 @@ tags:
 - SpaceClaim
 - CAD
 - STL
-title: '#Altair в своем #solidThinking Inspire 2016 добавил ще одну '
+title: "#Altair в своем #solidThinking Inspire 2016 добавил ще одну фишку в топологическую оптимизацию. Они используют PolyNURBS для аппроксимации и создания новой топологии. Это немного более аккуратно, чем делает #SpaceClaim на основе #STL результатов оптимизатора #ANSYS, но на мой взгляд не принципиально. Вот если бы система делала реальный #CAD на основе топологической оптимизации - это был бы номер!"
 ---
-
-#Altair в своем #solidThinking Inspire 2016 добавил ще одну фишку в топологическую оптимизацию. Они используют PolyNURBS для аппроксимации и создания новой топологии. Это немного более аккуратно, чем делает #SpaceClaim на основе #STL результатов оптимизатора #ANSYS, но на мой взгляд не принципиально. Вот если бы система делала реальный #CAD на основе топологической оптимизации - это был бы номер!
 
 [DEVELOP3D blog - PolyNURBS to take generative design to ‘next level’ in solidThinking Inspire 2016](http://www.develop3d.com/blog/2016/03/polynurbs-to-take-generative-design-to-next-level-in-solidthinking-inspire-)

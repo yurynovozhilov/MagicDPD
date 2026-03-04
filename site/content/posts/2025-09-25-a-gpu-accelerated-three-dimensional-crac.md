@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "A GPU-Accelerated Three-Dimensional Crack Element Method for"
+title: "A GPU-Accelerated Three-Dimensional Crack Element Method for Transient Dynamic Fracture Simulation"
 date: 2025-09-25T09:00:28+00:00
 author: "Yury Novozhilov"
 source: vk
 ---
-
-A GPU-Accelerated Three-Dimensional Crack Element Method for Transient Dynamic Fracture Simulation
 
 Если мне хочется почитать что-то интересное, то я захожу в Google Scholar профиль C.T.Wu. Доктор C.T.Wu выдающийся ученый, глава LST CMM Group (ученые, разрабатывающие все новые бессеточные алгоритмы и AI модели) и очень приятный в общении человек.
 

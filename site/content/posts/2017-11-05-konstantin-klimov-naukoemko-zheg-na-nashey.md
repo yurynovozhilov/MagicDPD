@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Константин Климов наукоемко жег на нашей конференции #acum b"
+title: "Константин Климов наукоемко жег на нашей конференции #acum by #cadfem"
 date: 2017-11-05T11:31:48+00:00
 author: "GlukRazor"
 source: vk
@@ -8,8 +8,6 @@ tags:
   - cadfem
   - acum
 ---
-
-Константин Климов наукоемко жег на нашей конференции #acum by #cadfem
 
 http://ift.tt/2j3UFedMedia
 

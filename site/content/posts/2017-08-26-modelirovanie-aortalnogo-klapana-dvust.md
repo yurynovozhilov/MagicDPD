@@ -44,10 +44,9 @@ tags:
 - ABAQUS
 - FEM
 - FlowVision
-title: 'Моделирование аортального клапана, двусторонний #FSI: #ABAQU'
+title: "Моделирование аортального клапана, двусторонний #FSI: #ABAQUS + #FlowVision"
 ---
 
-Моделирование аортального клапана, двусторонний #FSI: #ABAQUS + #FlowVision
 #CFD #FEM
 https://www.youtube.com/watch?v=jZE…Media📼 Two way FSI FlowVision & Abaqus - Artificial Aorti…
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AFDEX (Advisor for metal Forming process and Design EXpert) "
+title: "AFDEX (Advisor for metal Forming process and Design EXpert) - программное обеспечение от #MSC предназначенное для моделирования процессов обработки металлов давлением."
 date: 2016-03-22T07:01:10+00:00
 author: "GlukRazor"
 source: vk
@@ -9,8 +9,6 @@ tags:
   - Forming
   - AFDEX
 ---
-
-AFDEX (Advisor for metal Forming process and Design EXpert) - программное обеспечение от #MSC предназначенное для моделирования процессов обработки металлов давлением.
 
 Для желающих ознакомится - запись вебинара по ссылке.
 

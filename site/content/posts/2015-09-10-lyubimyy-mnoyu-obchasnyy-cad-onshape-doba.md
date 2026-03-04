@@ -12,9 +12,9 @@ source: vk
 tags:
 - Onshape
 - CAD
-title: 'Любимый мною обчасный #CAD #Onshape добавил к арсеналу своих'
+title: "Любимый мною обчасный #CAD #Onshape добавил к арсеналу своих возможностей необходимы всем чертежи!"
 ---
 
-Любимый мною обчасный #CAD #Onshape добавил к арсеналу своих возможностей необходимы всем чертежи! ЕСКД они наверно пока не поддерживают, но CAD без чертежей - не CAD.
+ЕСКД они наверно пока не поддерживают, но CAD без чертежей - не CAD.
 
 [Introducing Onshape Drawings](https://www.onshape.com/cad-blog/introducing-onshape-drawings)

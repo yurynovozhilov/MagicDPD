@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "И в догону ко вчерашней новости про #SimForDesign - вебинар "
+title: "И в догону ко вчерашней новости про #SimForDesign - вебинар от #OnShape (облачный #CAD) посвященной их совместной работе."
 date: 2016-05-24T07:00:28+00:00
 author: "GlukRazor"
 source: vk
@@ -13,8 +13,6 @@ tags:
 images:
   - url: "/assets/images/1687.jpg"
 ---
-
-И в догону ко вчерашней новости про #SimForDesign - вебинар от #OnShape (облачный #CAD) посвященной их совместной работе.
 
 #cloud #FEA #
 

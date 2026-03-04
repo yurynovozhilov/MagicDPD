@@ -29,10 +29,10 @@ tags:
 - Discovery
 - ANSYS
 - CFDMedia
-title: 'Чешские коллеги из #SVSFEM s.r.o. при помощи #ANSYS #Discove'
+title: "Чешские коллеги из #SVSFEM s.r.o. при помощи #ANSYS #Discovery посчитали аэродинамику дерева в горах..."
 ---
 
-Чешские коллеги из #SVSFEM s.r.o. при помощи #ANSYS #Discovery посчитали аэродинамику дерева в горах... Был выбран квадрат горного рельефа 300х300 км 😊
+Был выбран квадрат горного рельефа 300х300 км 😊
 #CFDMedia
 
 http://ift.tt/2fNTB9O

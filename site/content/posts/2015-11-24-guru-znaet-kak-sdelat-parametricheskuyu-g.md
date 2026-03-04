@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Гуру знает как сделать параметрическую геометрию в #ANSYS #S"
+title: "Гуру знает как сделать параметрическую геометрию в #ANSYS #SpaceClaim!"
 date: 2015-11-24T06:00:45+00:00
 author: "GlukRazor"
 source: vk
@@ -8,7 +8,5 @@ tags:
   - SpaceClaim
   - ANSYS
 ---
-
-Гуру знает как сделать параметрическую геометрию в #ANSYS #SpaceClaim!
 
 [Видеоурок CADFEM VL1509 - Параметрическое моделирование с применением решения ANSYS SpaceClaim](https://www.youtube.com/watch?v=demi4j-sAhI)

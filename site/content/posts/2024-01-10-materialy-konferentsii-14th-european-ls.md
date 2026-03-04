@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Материалы конференции  14th European LS-DYNA Conference 2023"
+title: "Материалы конференции  14th European LS-DYNA Conference 2023 доступны"
 date: 2024-01-10T15:02:14+00:00
 author: "Yury Novozhilov"
 source: vk
 ---
-
-Материалы конференции  14th European LS-DYNA Conference 2023 доступны
 
 Запоздалые подарки на Новый год: 106 статей с прошедшей конференции. И я там был - смотрите статью-инструкцию "Meshless Methods in Workbench LS-DYNA" аж на 16 страниц.
 

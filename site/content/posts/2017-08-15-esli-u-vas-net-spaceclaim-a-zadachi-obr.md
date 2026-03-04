@@ -21,10 +21,10 @@ tags:
 - XTract3D
 - SolidWorks
 - polyga
-title: 'Если у вас нет #SpaceClaim, а задачи обратного проектировани'
+title: "Если у вас нет #SpaceClaim, а задачи обратного проектирования вам решать надо, то можно попробовать #XTract3D от #polyga."
 ---
 
-Если у вас нет #SpaceClaim, а задачи обратного проектирования вам решать надо, то можно попробовать #XTract3D от #polyga. Данный плагин встраивается в #SolidWorks и позволяет восстанавливать CAD геометрию на основе STL.
+Данный плагин встраивается в #SolidWorks и позволяет восстанавливать CAD геометрию на основе STL.
 
 https://youtu.be/u29tMlPP9y8 https://www.polyga.com/xtract3d/video-tour/
 

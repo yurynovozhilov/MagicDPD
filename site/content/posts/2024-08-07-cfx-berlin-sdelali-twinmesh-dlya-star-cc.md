@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "CFX Berlin сделали TwinMesh для  STAR-CCM+?!"
+title: "CFX Berlin сделали TwinMesh для  STAR-CCM+?"
 date: 2024-08-07T12:02:58+00:00
 author: "Yury Novozhilov"
 source: vk
 ---
 
-CFX Berlin сделали TwinMesh для  STAR-CCM+?!
+!
 
 Основанная в 1997 году компания CFX Berlin (изначальное название CFD Research & Consulting GmbH) всегда сосредотачивала свои усилия на доработке и применении Ansys CFX. Так они сделали специализированные сеточный генератор TwinMesh, стоивших и динамически морфивший очень крутые HEX сетки для вращающихся машин. Вроде как, внутри там был ICEM CFD.
 

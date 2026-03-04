@@ -15,9 +15,9 @@ tags:
 - Altair
 - MEM
 - CSC
-title: 'Компания Impact Design Europe, входящая в #Altair Partner Al'
+title: "Компания Impact Design Europe, входящая в #Altair Partner Alliance показала способ, как получить расчет типовых узлов автомобиля при краш тесте за считанные секунды."
 ---
 
-Компания Impact Design Europe, входящая в #Altair Partner Alliance показала способ, как получить расчет типовых узлов автомобиля при краш тесте за считанные секунды. Программное обеспечение получило название #Crash Cad Calculate (#CCC) и Cross Section Creator (#CSC). Оно использует в своей основе некий Macro Element Method (#MEM) - некий аналог метода супер элементов, только с учетом специфика нагружения и учетом тонкостенности конструкций.
+Программное обеспечение получило название #Crash Cad Calculate (#CCC) и Cross Section Creator (#CSC). Оно использует в своей основе некий Macro Element Method (#MEM) - некий аналог метода супер элементов, только с учетом специфика нагружения и учетом тонкостенности конструкций.
 
 [Crash Calculations in Seconds? It’s Possible! - Altair Innovation Intelligence](http://innovationintelligence.com/crash-calculations-seconds-possible/)

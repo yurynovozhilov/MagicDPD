@@ -14,10 +14,10 @@ tags:
 - Mechanical
 - ANSYS
 - OpenFOAM
-title: 'Корпорация Caterpillar (aka. CAT) при помощи связки #ANSYS #'
+title: "Корпорация Caterpillar (aka."
 ---
 
-Корпорация Caterpillar (aka. CAT) при помощи связки #ANSYS #Mechanical, #OpenFOAM и #CAESES сделала оптимальный гребной винт.
+CAT) при помощи связки #ANSYS #Mechanical, #OpenFOAM и #CAESES сделала оптимальный гребной винт.
 
 Мой интерес к данной новости вызвал CAESES - некий диковинный геометрический процессор, о котором я постараюсь разузнать побольше подробностей и рассказать, но позднее.
 

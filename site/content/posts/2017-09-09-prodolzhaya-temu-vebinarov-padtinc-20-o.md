@@ -19,10 +19,8 @@ tags:
 - Fluent
 - padtinc
 - ANSYS
-title: 'Продолжая тему вебинаров - #padtinc 20-ого сентября приглаша'
+title: "Продолжая тему вебинаров - #padtinc 20-ого сентября приглашают всех желающих на вебинар, по #ANSYS #Fluent 18.2. Девиз вебинара \"Superior CFD Requires Superior Software\""
 ---
-
-Продолжая тему вебинаров - #padtinc 20-ого сентября приглашают всех желающих на вебинар, по #ANSYS #Fluent 18.2. Девиз вебинара "Superior CFD Requires Superior Software"
 
 #CFD
 

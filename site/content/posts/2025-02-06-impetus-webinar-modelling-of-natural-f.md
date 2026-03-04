@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "IMPETUS Webinar - Modelling of Natural Fragmentation Under E"
+title: "IMPETUS Webinar - Modelling of Natural Fragmentation Under Explosive Loading"
 date: 2025-02-06T07:34:12+00:00
 author: "Yury Novozhilov"
 source: vk
 images:
   - url: "/assets/images/2879.jpg"
 ---
-
-IMPETUS Webinar - Modelling of Natural Fragmentation Under Explosive Loading
 
 Я бы посетил это мероптиятие, если меня пустять. В прошлый раз, когда вебинар был про детонацию, организаторы выкидывали всех неизвестных им участников из сессии самым наглым образом. Но интересно же.
 

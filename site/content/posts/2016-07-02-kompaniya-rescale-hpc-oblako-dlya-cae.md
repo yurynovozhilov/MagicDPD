@@ -13,9 +13,9 @@ tags:
 - Rescale
 - CAE
 - HPC
-title: 'Компания #Rescale - #HPC облако для #CAE смогла привлечь $14'
+title: "Компания #Rescale - #HPC облако для #CAE смогла привлечь $14 000 000 долларов инвестиций для своего дальнейшего развития."
 ---
 
-Компания #Rescale - #HPC облако для #CAE смогла привлечь $14 000 000 долларов инвестиций для своего дальнейшего развития. Если посмотреть на список партнеров компании в области CAE, то все сразу становится понятно - там есть практически все разработчики научного и прикладного ПО для численного моделирования. http://oraresearch.com/2016/06/latest-signal-for-cloud-hpcs-role-in-caes-future-rescale-14-million-funding-round/
+Если посмотреть на список партнеров компании в области CAE, то все сразу становится понятно - там есть практически все разработчики научного и прикладного ПО для численного моделирования. http://oraresearch.com/2016/06/latest-signal-for-cloud-hpcs-role-in-caes-future-rescale-14-million-funding-round/
 
 http://oraresearch.com/2016/06/latest-signal-for-cloud-hpcs-role-in-caes-future-rescale-14-million-funding-round/

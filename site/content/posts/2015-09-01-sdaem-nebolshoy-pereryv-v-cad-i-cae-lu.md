@@ -9,9 +9,7 @@ link_previews:
   title: 'Video: Stunning Simulation Shows Comet in the Solar Wind'
   url: http://insidehpc.com/2015/08/video-stunning-simulation-shows-comet-in-the-solar-wind/
 source: vk
-title: Сдаем небольшой перерыв в CAD и CAE - лучше посмотрим на то,
+title: "Сдаем небольшой перерыв в CAD и CAE - лучше посмотрим на то, как ученые из Европейского космического агенства (European Space Agency) моделируют взаимодействие солнечного ветра с кометой Чурюмова-Герасименко."
 ---
-
-Сдаем небольшой перерыв в CAD и CAE - лучше посмотрим на то, как ученые из Европейского космического агенства (European Space Agency) моделируют взаимодействие солнечного ветра с кометой Чурюмова-Герасименко.
 
 [Video: Stunning Simulation Shows Comet in the Solar Wind](http://insidehpc.com/2015/08/video-stunning-simulation-shows-comet-in-the-solar-wind/)

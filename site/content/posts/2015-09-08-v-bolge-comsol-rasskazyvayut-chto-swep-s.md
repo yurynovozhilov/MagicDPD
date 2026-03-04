@@ -11,9 +11,9 @@ link_previews:
 source: vk
 tags:
 - COMSOL
-title: 'В болге #COMSOL рассказывают, что swep сетка - это очень хор'
+title: "В болге #COMSOL рассказывают, что swep сетка - это очень хорошо."
 ---
 
-В болге #COMSOL рассказывают, что swep сетка - это очень хорошо. Рассказывают с примерами... не одной хорошей сетки так и не показывают.
+Рассказывают с примерами... не одной хорошей сетки так и не показывают.
 
 [Improving Your Meshing with Swept Meshes](http://www.comsol.com/blogs/improving-your-meshing-with-swept-meshes/)

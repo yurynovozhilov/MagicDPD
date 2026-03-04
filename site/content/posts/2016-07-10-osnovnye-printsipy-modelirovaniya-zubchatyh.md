@@ -11,9 +11,7 @@ link_previews:
 source: vk
 tags:
 - Comsol
-title: 'Основные принципы моделирования зубчатых перекачан примере #'
+title: "Основные принципы моделирования зубчатых перекачан примере #Comsol - я думаю, что пользователям из конкурирующих лагерей тоже будет полезно. https://www.comsol.com/blogs/an-introduction-to-gear-modeling-in-comsol-multiphysics"
 ---
-
-Основные принципы моделирования зубчатых перекачан примере #Comsol - я думаю, что пользователям из конкурирующих лагерей тоже будет полезно. https://www.comsol.com/blogs/an-introduction-to-gear-modeling-in-comsol-multiphysics
 
 [An Introduction to Gear Modeling in COMSOL Multiphysics](https://www.comsol.com/blogs/an-introduction-to-gear-modeling-in-comsol-multiphysics)

@@ -14,9 +14,9 @@ tags:
 - NVIDIA
 - Polyflow
 - Fluent
-title: 'Если кто пользует #ANSYS #Polyflow - сотф для моделирования '
+title: "Если кто пользует #ANSYS #Polyflow - сотф для моделирования литья пластмасс - то вот вам новость."
 ---
 
-Если кто пользует #ANSYS #Polyflow - сотф для моделирования литья пластмасс - то вот вам новость. Polyflow тоже умеет ускоряться на #GPU #NVIDIA, так как у него решатель на базе #Fluent внутри.
+Polyflow тоже умеет ускоряться на #GPU #NVIDIA, так как у него решатель на базе #Fluent внутри.
 
 [Поддержка ускорения вычислений на GPU в ANSYS Polyflow— CADFEM](http://www.cadfem-cis.ru/list/article/ansys-polyflow-gpu-nvidia/)

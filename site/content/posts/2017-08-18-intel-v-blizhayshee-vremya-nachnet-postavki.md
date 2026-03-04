@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#Intel в ближайшее время начнет поставки новых серверных про"
+title: "#Intel в ближайшее время начнет поставки новых серверных процессоров."
 date: 2017-08-18T17:02:15+00:00
 author: "GlukRazor"
 source: vk
@@ -14,7 +14,7 @@ images:
   - url: "/assets/images/444.jpg"
 ---
 
-#Intel в ближайшее время начнет поставки новых серверных процессоров. Теперь они будут маркироваться не E3, E5, E7, а Bronze, Silver, Gold и Platinum (и все это вместе - Intel® Xeon® Scalable Processors, http://ark.intel.com/products/series/125191/Intel-Xeon-Scalable-Processors).
+Теперь они будут маркироваться не E3, E5, E7, а Bronze, Silver, Gold и Platinum (и все это вместе - Intel® Xeon® Scalable Processors, http://ark.intel.com/products/series/125191/Intel-Xeon-Scalable-Processors).
 
 #ANSYS уже подсуетился и замерил производительность новых процессоров в актуальной версии своего ПО. Тут мы видим до 40% прироста производительности. Магии никакой нет, просто код решателей ANSYS умеет использоваться новый набор векторных инструкций Intel® Advanced Vector Extensions 2 (#AVX2) - шах и мат любителям высокой частоты.
 

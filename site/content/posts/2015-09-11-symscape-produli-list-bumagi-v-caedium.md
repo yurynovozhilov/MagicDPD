@@ -12,9 +12,9 @@ tags:
 - Caedium
 - CFD
 - Symscape
-title: Symscape "продули" лист бумаги в Caedium Professional для то
+title: "Symscape \"продули\" лист бумаги в Caedium Professional для того, что визуализировать силы действующие на бумажные самолетики."
 ---
 
-Symscape "продули" лист бумаги в Caedium Professional для того, что визуализировать силы действующие на бумажные самолетики. Вот и еще один #CFD код, вот и еще один домашний эксперимент.
+Вот и еще один #CFD код, вот и еще один домашний эксперимент.
 
 [Spinning Paper Sheet Meets CFD | Symscape](http://www.symscape.com/blog/spinning-paper-sheet-meets-cfd)

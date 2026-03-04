@@ -9,9 +9,9 @@ link_previews:
   title: The World of FEA Simulation at Predictive Engineering | Predictive Engineering
   url: http://www.predictiveengineering.com/content/world-fea-simulation-predictive-engineering
 source: vk
-title: 'Небольшое портфолио FEA расчетов от Predictive Engineering. '
+title: "Небольшое портфолио FEA расчетов от Predictive Engineering."
 ---
 
-Небольшое портфолио FEA расчетов от Predictive Engineering. Простые расчеты, но качественное видео.
+Простые расчеты, но качественное видео.
 
 [The World of FEA Simulation at Predictive Engineering | Predictive Engineering](http://www.predictiveengineering.com/content/world-fea-simulation-predictive-engineering)

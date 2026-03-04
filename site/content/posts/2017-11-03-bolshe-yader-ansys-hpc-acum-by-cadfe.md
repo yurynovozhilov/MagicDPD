@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Больше ядер! #ANSYS #HPC #ACUM by #CADFEMMedia"
+title: "Больше ядер!"
 date: 2017-11-03T11:32:24+00:00
 author: "GlukRazor"
 source: vk
@@ -11,7 +11,7 @@ tags:
   - HPC
 ---
 
-Больше ядер! #ANSYS #HPC #ACUM by #CADFEMMedia
+#ANSYS #HPC #ACUM by #CADFEMMedia
 
 http://ift.tt/2A4OolA
 

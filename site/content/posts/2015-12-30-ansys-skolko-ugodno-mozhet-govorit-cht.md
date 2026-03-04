@@ -19,9 +19,7 @@ tags:
 - LSDYNA
 - OSX
 - LSPP
-title: '#ANSYS сколько угодно может говорить, что Mac OS X - это не '
+title: "#ANSYS сколько угодно может говорить, что Mac OS X - это не система для инженера. А в это время любой желающий может скачать с официального ftp.lstc.com самую свежую версию LS-DYNA R8.0.0 и LS-PrePost 4.3. Вот где они, true расчеты!"
 ---
-
-#ANSYS сколько угодно может говорить, что Mac OS X - это не система для инженера. А в это время любой желающий может скачать с официального ftp.lstc.com самую свежую версию LS-DYNA R8.0.0 и LS-PrePost 4.3. Вот где они, true расчеты!
 
 [Download LS-DYNA for UNIX/Linux/Solaris | Livermore Software Technology Corp.](http://lstc.com/download/ls-dyna)

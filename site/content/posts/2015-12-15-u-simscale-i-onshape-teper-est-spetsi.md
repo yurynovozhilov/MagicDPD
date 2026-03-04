@@ -13,9 +13,9 @@ tags:
 - Onshape
 - SimScale
 - Cloud
-title: 'У #SimScale и #Onshape теперь есть специальное объединяющее '
+title: "У #SimScale и #Onshape теперь есть специальное объединяющее приложение!"
 ---
 
-У #SimScale и #Onshape теперь есть специальное объединяющее приложение! #Cloud - объединяйся!
+#Cloud - объединяйся!
 
 [Introducing SimScale Connector App for Onshape - SimScale Blog](https://blog.simscale.com/blog/2015/12/introducing-simscale-connector-app-for-onshape/)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Сегодня у нас очень простая тема. Сегодня у нас пример того,"
+title: "Сегодня у нас очень простая тема."
 date: 2022-07-21T18:36:19+00:00
 author: "MagicDPD"
 source: vk
@@ -15,7 +15,7 @@ images:
   - url: "/assets/images/2330.jpg"
 ---
 
-Сегодня у нас очень простая тема. Сегодня у нас пример того, как можно решить задача с помощью #FEM используя около сотни строк #Python кода.
+Сегодня у нас пример того, как можно решить задача с помощью #FEM используя около сотни строк #Python кода.
 #opensource https://polymerfem.com/full-finite-element-solver-in-100-lines-of-python/
 
 https://polymerfem.com/full-finite-element-solver-in-100-lines-of-python/

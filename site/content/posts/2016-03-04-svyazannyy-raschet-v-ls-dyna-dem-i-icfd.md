@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Связанный расчет в LS-DYNA: #DEM и #ICFD. Дискретные частицы"
+title: "Связанный расчет в LS-DYNA: #DEM и #ICFD."
 date: 2016-03-04T11:27:39+00:00
 author: "GlukRazor"
 source: vk
@@ -12,6 +12,6 @@ tags:
   - ICFD
 ---
 
-Связанный расчет в LS-DYNA: #DEM и #ICFD. Дискретные частицы захватываются потоком и взаимодействуют с объектом.
+Дискретные частицы захватываются потоком и взаимодействуют с объектом.
 
 [ICFD coupled with DEM (LS-DYNA)](https://www.youtube.com/watch?v=IP7G0pVCSIU)

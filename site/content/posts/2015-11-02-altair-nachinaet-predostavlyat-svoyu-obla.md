@@ -13,9 +13,9 @@ source: vk
 tags:
 - HyperWorks
 - Altair
-title: '#Altair начинает предоставлять свою облачную платформу на ба'
+title: "#Altair начинает предоставлять свою облачную платформу на базе #HyperWorks в академической среде безвозмездно!"
 ---
 
-#Altair начинает предоставлять свою облачную платформу на базе #HyperWorks в академической среде безвозмездно! Получается продукт "Altair Connect for Academic Users"
+Получается продукт "Altair Connect for Academic Users"
 
 [Altair Connect for Academic Users | Altair University](http://www.altairuniversity.com/2015/08/20/altair-connect-for-academic-users/)

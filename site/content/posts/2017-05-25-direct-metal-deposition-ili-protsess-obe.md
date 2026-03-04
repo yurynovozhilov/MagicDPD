@@ -46,10 +46,9 @@ tags:
 - FLOW3D
 - additive_manufacturing
 - FEM
-title: Direct Metal Deposition или процесс объемной лазерной наплав
+title: "Direct Metal Deposition или процесс объемной лазерной наплавки"
 ---
 
-Direct Metal Deposition или процесс объемной лазерной наплавки
 https://www.youtube.com/watch?v=esBC0WwAX8g
 
 Интересный и очень сложный физический процесс, встречающийся в 3D принтерах, печатающих металлом. Как бы вы стали его моделировать: в #CFD постановке или при помощи #FEM?

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Оптимизация топологии с помощью LS-TaSC и параметрическая оп"
+title: "Оптимизация топологии с помощью LS-TaSC и параметрическая оптимизация с помощью LS-OPT"
 date: 2022-03-05T17:18:23+00:00
 author: "MagicDPD"
 source: vk
@@ -16,7 +16,6 @@ images:
   - url: "/assets/images/2171.jpg"
 ---
 
-Оптимизация топологии с помощью LS-TaSC и параметрическая оптимизация с помощью LS-OPT
 #topology #optimization #LSOPT #LSTaSC #DYNAmore #Ansys https://www.youtube.com/watch?v=62CQoY0eOfk
 
 https://www.youtube.com/watch?v=62CQoY0eOfk

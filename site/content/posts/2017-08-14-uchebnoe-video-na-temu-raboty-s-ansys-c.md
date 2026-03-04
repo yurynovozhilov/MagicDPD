@@ -32,10 +32,9 @@ tags:
 - Cure
 - PrepPost
 - Static
-title: 'Учебное видео на тему работы с #ANSYS #Composite #Cure #Simu'
+title: "Учебное видео на тему работы с #ANSYS #Composite #Cure #Simulation (#ACCS) - программного обеспечения математического моделирования процессов термической полимеризации композиционных материалов на основе технологий компании #LMAT (Lean Manufacturing & Assembly Technologies http://www.lmat-uk.com/)."
 ---
 
-Учебное видео на тему работы с #ANSYS #Composite #Cure #Simulation (#ACCS) - программного обеспечения математического моделирования процессов термической полимеризации композиционных материалов на основе технологий компании #LMAT (Lean Manufacturing & Assembly Technologies http://www.lmat-uk.com/).
 Типичный цикл моделирования выглядит примерно следующим образом:
 - Выбор математических моделей материлов из базы #ACCS
 - Задание структуры композитной детали в #ACP (#ANSYS #Composite #PrepPost)

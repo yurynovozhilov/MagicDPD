@@ -14,10 +14,10 @@ link_previews:
   title: 'Working Wonders with ADPL Math Illustrated: Thermal Modal Analysis - PADT'
   url: http://ift.tt/2xiPc8E
 source: vk
-title: Эта статья настолько охренительная, что сразу в мемориз. Пом
+title: "Эта статья настолько охренительная, что сразу в мемориз."
 ---
 
-Эта статья настолько охренительная, что сразу в мемориз. Помнится мне однажды примерно также небезызвестный А.С. Шадский решал задачу течения течения в трубе через уравнение теплопроводности. Расскажите мне теперь, что вы и сами так сто раз делали.Media🔗 Working Wonders with ADPL Math Illustrated: Thermal Modal Analysis
+Помнится мне однажды примерно также небезызвестный А.С. Шадский решал задачу течения течения в трубе через уравнение теплопроводности. Расскажите мне теперь, что вы и сами так сто раз делали.Media🔗 Working Wonders with ADPL Math Illustrated: Thermal Modal Analysis
 
 http://ift.tt/2eUarTR
 

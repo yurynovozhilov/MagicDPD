@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#science #solidworks #cae #ansys #airsoft #combat_union #air"
+title: "#science #solidworks #cae #ansys #airsoft #combat_union #airsoft_gear"
 date: 2017-11-19T08:30:14+00:00
 author: "GlukRazor"
 source: vk
@@ -13,8 +13,6 @@ tags:
   - science
   - airsoft_gear
 ---
-
-#science #solidworks #cae #ansys #airsoft #combat_union #airsoft_gear
 
 Газодинамический расчет работы ЦПГ. Часть I
 

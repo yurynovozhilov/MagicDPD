@@ -33,10 +33,8 @@ tags:
 - Ангара
 - ANSYS
 - HPC
-title: 'Доложился на http://ift.tt/2htF57m про #ANSYS на отечественн'
+title: "Доложился на http://ift.tt/2htF57m про #ANSYS на отечественном #HPC интерконнекте #Ангара от #НИЦЭВТMedia"
 ---
-
-Доложился на http://ift.tt/2htF57m про #ANSYS на отечественном #HPC интерконнекте #Ангара от #НИЦЭВТMedia
 
 http://ift.tt/2jVyyXk
 

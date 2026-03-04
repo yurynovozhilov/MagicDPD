@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lat-Net: Compressing Lattice Boltzmann Flow Simulations usin"
+title: "Lat-Net: Compressing Lattice Boltzmann Flow Simulations using Deep Neural Networks - такое интересное название носит #opensource проект, про который я пишу сегодня."
 date: 2017-11-21T17:10:14+00:00
 author: "GlukRazor"
 source: vk
@@ -13,8 +13,6 @@ tags:
   - LBM
   - opensource
 ---
-
-Lat-Net: Compressing Lattice Boltzmann Flow Simulations using Deep Neural Networks - такое интересное название носит #opensource проект, про который я пишу сегодня.
 
 Суть проекта заключается в подмене #CFD расчета методом #Lattice #Boltzmann на нейронную сеть. Причем, если верить авторам, то натренировав нейрону на грубой "сетке" можно надеются на достаточно точный расчет на мелкой "сетке".
 

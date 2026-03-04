@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Ply-based composite modeling with the new *ELEMENT_SHELL_COM"
+title: "Ply-based composite modeling with the new *ELEMENT_SHELL_COMPOSITE keyword."
 date: 2017-12-09T07:16:05+00:00
 author: "GlukRazor"
 source: vk
 ---
-
-Ply-based composite modeling with the new *ELEMENT_SHELL_COMPOSITE keyword.
 
 http://ift.tt/2AFXG9h
 

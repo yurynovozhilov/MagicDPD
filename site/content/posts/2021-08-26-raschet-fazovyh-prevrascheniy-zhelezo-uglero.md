@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Расчет фазовых превращений железо-углеродистых сплавов в LS-"
+title: "Расчет фазовых превращений железо-углеродистых сплавов в LS-DYNA"
 date: 2021-08-26T14:01:31+00:00
 author: "MagicDPD"
 source: vk
@@ -11,9 +11,6 @@ tags:
   - dynamore
   - mat_uhs_steel
 ---
-
-Расчет фазовых превращений железо-углеродистых сплавов в LS-DYNA
-
 
 https://www.youtube.com/watch?v=YTSaESOYR9g
 

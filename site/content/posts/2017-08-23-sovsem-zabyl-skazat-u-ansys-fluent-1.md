@@ -34,10 +34,10 @@ tags:
 - mesh
 - PUMA
 - Fluent
-title: 'Совсем забыл сказать: у #ANSYS #Fluent 18.2 теперь есть #PUM'
+title: "Совсем забыл сказать: у #ANSYS #Fluent 18.2 теперь есть #PUMA (polyhedral unstructured mesh adaptation)."
 ---
 
-Совсем забыл сказать: у #ANSYS #Fluent 18.2 теперь есть #PUMA (polyhedral unstructured mesh adaptation). За такой интересной аббревиатурой скрывается метод сеточной адаптации позволяет динамически сгущать сетку, например для повышения разрешения свободной поверхности.
+За такой интересной аббревиатурой скрывается метод сеточной адаптации позволяет динамически сгущать сетку, например для повышения разрешения свободной поверхности.
 
 #mesh #cfdMedia📼 Dynamic Adaption of Polyhedral Cells in ANSYS Flue…
 

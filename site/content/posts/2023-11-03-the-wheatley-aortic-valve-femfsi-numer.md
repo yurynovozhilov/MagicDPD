@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "The Wheatley aortic valve: FEM/FSI numerical model (verified"
+title: "The Wheatley aortic valve: FEM/FSI numerical model (verified experimentally)"
 date: 2023-11-03T16:02:05+00:00
 author: "Yury Novozhilov"
 source: vk
 ---
-
-The Wheatley aortic valve: FEM/FSI numerical model (verified experimentally)
 
 Многие до сих пор считают, что Ansys LS-DYNA предназначен только для типичного явного моделирования взрывов, ударов и краш-тестов. Однако этот знаменитый заслуженный решатель открывает дорогу в прекрасный мир сильносвязанных нелинейных мультифизических моделей.
 

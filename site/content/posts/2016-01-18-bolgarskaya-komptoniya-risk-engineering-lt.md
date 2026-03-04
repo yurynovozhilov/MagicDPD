@@ -12,9 +12,9 @@ link_previews:
 source: vk
 tags:
 - LSDYNA
-title: 'Болгарская комптония Risk Engineering Ltd. на своей станице '
+title: "Болгарская комптония Risk Engineering Ltd. на своей станице в Linkedin хвастается наличием собственных КЭ моделей самолетов Airbus и Boeing."
 ---
 
-Болгарская комптония Risk Engineering Ltd. на своей станице в Linkedin хвастается наличием собственных КЭ моделей самолетов Airbus и Boeing. Модели эти они использую для расчетов типа "удар самолета в важный объект".
+Модели эти они использую для расчетов типа "удар самолета в важный объект".
 
 [HOME - www.riskeng.bg](http://riskeng.bg/en/)

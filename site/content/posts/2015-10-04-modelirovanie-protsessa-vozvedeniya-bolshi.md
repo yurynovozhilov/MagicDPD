@@ -14,9 +14,7 @@ source: vk
 tags:
 - ANSYS
 - FEA
-title: Моделирование процесса возведения больших строительных конст
+title: "Моделирование процесса возведения больших строительных конструкций в ANSYS с применением техники рождения и смерти элементов."
 ---
-
-Моделирование процесса возведения больших строительных конструкций в ANSYS с применением техники рождения и смерти элементов.
 
 [FEA Simulation of Construction/Assembly Processes | CAE Associates](https://caeai.com/blog/fea-simulation-constructionassembly-processes)

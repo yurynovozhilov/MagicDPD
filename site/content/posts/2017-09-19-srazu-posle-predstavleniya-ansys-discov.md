@@ -11,10 +11,10 @@ source: vk
 tags:
 - Discovery
 - ANSYS
-title: 'Сразу после представления #ANSYS #Discovery Live сотрудникам'
+title: "Сразу после представления #ANSYS #Discovery Live сотрудниками издания WorldCAD Access удалось взять интервью у ANSYS."
 ---
 
-Сразу после представления #ANSYS #Discovery Live сотрудниками издания WorldCAD Access удалось взять интервью у ANSYS. Интервью получилось очень любопытным.
+Интервью получилось очень любопытным.
 
 Особенно порадовал следующий диалог:
 - Grabowski: How is meshing done automatically? I assume it ignores small parts automatically. (Как происходи процесс автоматической генерации сетки? Я предполагаю что в процессе автоматически отбрасываются мелкие элементы.)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ООО «Газпром ВНИИГАЗ» тоже выбирает ANSYS и LS-DYNA. Хороший"
+title: "ООО «Газпром ВНИИГАЗ» тоже выбирает ANSYS и LS-DYNA."
 date: 2016-01-21T06:30:19+00:00
 author: "GlukRazor"
 source: vk
@@ -14,4 +14,4 @@ images:
   - url: "/assets/images/1142.jpg"
 ---
 
-ООО «Газпром ВНИИГАЗ» тоже выбирает ANSYS и LS-DYNA. Хороший пример их статьи.
+Хороший пример их статьи.

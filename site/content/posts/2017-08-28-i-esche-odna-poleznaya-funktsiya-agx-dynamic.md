@@ -30,10 +30,8 @@ source: vk
 tags:
 - Algoryx
 - AGX
-title: 'И еще одна полезная функция #AGX Dynamics от #Algoryx - дина'
+title: "И еще одна полезная функция #AGX Dynamics от #Algoryx - динамика кабелей, трубопроводов и прочих очень гибких элементов системы."
 ---
-
-И еще одна полезная функция #AGX Dynamics от #Algoryx - динамика кабелей, трубопроводов и прочих очень гибких элементов системы.
 
 https://www.youtube.com/watch?v=BGW…Media📼 Simulation of cable damage
 

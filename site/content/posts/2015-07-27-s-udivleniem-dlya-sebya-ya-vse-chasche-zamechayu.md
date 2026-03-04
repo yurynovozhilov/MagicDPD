@@ -15,9 +15,9 @@ link_previews:
     Truck Body | Predictive Engineering
   url: http://www.predictiveengineering.com/consulting/ls-dyna/ls-dyna-discrete-element-method-analysis-load-analysis-mining-dump-truck-body
 source: vk
-title: 'С удивлением для себя я все чаще замечаю новую аббревиатуру '
+title: "С удивлением для себя я все чаще замечаю новую аббревиатуру для численных методов - DEM - Discrete Element Method."
 ---
 
-С удивлением для себя я все чаще замечаю новую аббревиатуру для численных методов - DEM - Discrete Element Method. Пока вот небольшой обзорчик консалтинга на эту тему. Позднее посмотрим, какие задачи можно решать данным методом. Может и у меня получится.
+Пока вот небольшой обзорчик консалтинга на эту тему. Позднее посмотрим, какие задачи можно решать данным методом. Может и у меня получится.
 
 [LS-DYNA Discrete Element Method Analysis for Load Analysis of Mining Dump Truck Body | Predictive Engineering](http://www.predictiveengineering.com/consulting/ls-dyna/ls-dyna-discrete-element-method-analysis-load-analysis-mining-dump-truck-body)

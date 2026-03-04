@@ -10,10 +10,10 @@ link_previews:
 source: vk
 tags:
 - ANSYS
-title: 'На канале #ANSYS в YouTube вышел новый сезон сериала "как по'
+title: "На канале #ANSYS в YouTube вышел новый сезон сериала \"как поставить ANSYS\"."
 ---
 
-На канале #ANSYS в YouTube вышел новый сезон сериала "как поставить ANSYS". А главной роли ANSYS 17.0. Ставят под Linux и Windows следующие компоненты:
+А главной роли ANSYS 17.0. Ставят под Linux и Windows следующие компоненты:
 - ANSYS 17.0 License Manager
 - ANSYS 17.0
 - ANSYS Electromagnetics Suite 17.0

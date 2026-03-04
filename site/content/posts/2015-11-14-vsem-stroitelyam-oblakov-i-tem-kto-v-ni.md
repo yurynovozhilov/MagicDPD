@@ -15,9 +15,9 @@ tags:
 - Cloud
 - HPC
 - CAE
-title: Всем строителям облаков, и тем, кто в них хочет переехать чи
+title: "Всем строителям облаков, и тем, кто в них хочет переехать читать обязательно."
 ---
 
-Всем строителям облаков, и тем, кто в них хочет переехать читать обязательно. Большой ликбез по виртуализации для #CAD и #CAE.
+Большой ликбез по виртуализации для #CAD и #CAE.
 
 [DEVELOP3D - A beginner’s guide to workstation virtualisation](http://www.develop3d.com/workstations/beginners-guide-to-workstation-virtualisation-CAD-3D-CAM-CAE)

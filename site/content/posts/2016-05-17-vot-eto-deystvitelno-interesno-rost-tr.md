@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Вот это действительно интересно: рост трещин в #xfem постано"
+title: "Вот это действительно интересно: рост трещин в #xfem постановке."
 date: 2016-05-17T07:01:23+00:00
 author: "GlukRazor"
 source: vk
@@ -11,6 +11,6 @@ tags:
   - fracture
 ---
 
-Вот это действительно интересно: рост трещин в #xfem постановке. Учебное видео для #ABAQUS
+Учебное видео для #ABAQUS
 
 [16-10 ABAQUS tutorial | XFEM | Turbine Blade | Fracture Mechanics | VCCT](https://www.youtube.com/watch?v=0poYsfjQp_A)

@@ -15,9 +15,7 @@ tags:
 - CFD
 - AIM
 - ANSYS
-title: 'Ставим простейшие задачи гидродинамики в #ANSYS #AIM вместе '
+title: "Ставим простейшие задачи гидродинамики в #ANSYS #AIM вместе с #CFD.NINJA"
 ---
-
-Ставим простейшие задачи гидродинамики в #ANSYS #AIM вместе с #CFD.NINJA
 
 [CFD.NINJA | Computational Fluid Dynamics](http://CFD.NINJA)

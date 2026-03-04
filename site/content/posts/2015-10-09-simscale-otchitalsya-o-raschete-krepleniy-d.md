@@ -14,9 +14,9 @@ source: vk
 tags:
 - SimScale
 - FEA
-title: SimScale отчитался о расчете креплений детский автомобильных
+title: "SimScale отчитался о расчете креплений детский автомобильных кресел стандарта ISOfix для Malaika Ltd."
 ---
 
-SimScale отчитался о расчете креплений детский автомобильных кресел стандарта ISOfix для Malaika Ltd. Интересно, как они ставились без явной схемы интегрирования по времени.
+Интересно, как они ставились без явной схемы интегрирования по времени.
 
 [SimScale - Engineering Simulation in your Browser](https://simscale.com/_en/?page=stories/malaika&_ga=1.2714803.2043562198.1427798443)

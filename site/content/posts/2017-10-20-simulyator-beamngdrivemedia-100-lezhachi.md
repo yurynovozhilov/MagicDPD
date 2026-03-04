@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Симулятор BeamNG.driveMedia📼 100 \"лежачих полицейских\" в ряд"
+title: "Симулятор BeamNG.driveMedia📼 100 \"лежачих полицейских\" в ряд на высокой скорост…"
 date: 2017-10-20T06:52:34+00:00
 author: "GlukRazor"
 source: vk
 ---
-
-Симулятор BeamNG.driveMedia📼 100 "лежачих полицейских" в ряд на высокой скорост…
 
 http://ift.tt/2iqKwrB
 

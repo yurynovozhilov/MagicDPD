@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#Siemens прикупил #Infolytica Corporation (http://ift.tt/2y7"
+title: "#Siemens прикупил #Infolytica Corporation (http://ift.tt/2y7vi1C), которая специализируется на программном обеспечении для выполнения электромагнитных расчетах."
 date: 2017-09-28T17:04:05+00:00
 author: "GlukRazor"
 source: vk
@@ -10,7 +10,7 @@ tags:
   - Maxwell
 ---
 
-#Siemens прикупил #Infolytica Corporation (http://ift.tt/2y7vi1C), которая специализируется на программном обеспечении для выполнения электромагнитных расчетах. В общем Siemens хочет себе свой #Maxwell.
+В общем Siemens хочет себе свой #Maxwell.
 
 P.S. Коллеги из Siemens, где можно читать нормальные новости про вас - новости для людей, а не сухие выжимки для инвесторов?!
 

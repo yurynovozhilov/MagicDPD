@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Applied Science International и честное моделирование подрыв"
+title: "Applied Science International и честное моделирование подрыва бетонной стены"
 date: 2018-12-02T17:00:32+00:00
 author: "GlukRazor"
 source: vk
@@ -14,7 +14,6 @@ images:
   - url: "/assets/images/1243.jpg"
 ---
 
-Applied Science International и честное моделирование подрыва бетонной стены
 Запись вебнара от Applied Science International, про то, как они при помощи своего кода ELS (Extreme Loading for Structures) на основе AEM, пробовали участвовать в знаменитов Blind Blast Test.
 
 Суть теста в том, что сначала вам рассказывают все про эксперимен по подрыву железобетонной стены, но не говорят про результаты. Вы же должны, не имея возможности подгонки, показать, насколько хорошо ваша модель предсказывае физику.

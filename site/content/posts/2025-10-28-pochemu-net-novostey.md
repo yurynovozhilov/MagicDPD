@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Почему нет новостей?!"
+title: "Почему нет новостей?"
 date: 2025-10-28T16:14:04+00:00
 author: "Yury Novozhilov"
 source: vk
@@ -9,4 +9,4 @@ images:
   - url: "/assets/images/3045.jpg"
 ---
 
-Почему нет новостей?!
+!

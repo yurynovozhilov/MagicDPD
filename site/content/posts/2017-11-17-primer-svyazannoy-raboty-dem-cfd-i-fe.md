@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Пример связанной работы #DEM, #CFD и #FEM решателя в #LSDYNA"
+title: "Пример связанной работы #DEM, #CFD и #FEM решателя в #LSDYNA. #IСАВ #FSI"
 date: 2017-11-17T17:06:13+00:00
 author: "GlukRazor"
 source: vk
@@ -13,7 +13,6 @@ tags:
   - FEM
 ---
 
-Пример связанной работы #DEM, #CFD и #FEM решателя в #LSDYNA. #IСАВ #FSI
 https://www.youtube.com/watch?v=jAN…Media📼 CFD Simulation Coupled to DEM for a Rotating Mecha…
 
 http://ift.tt/2jAWcbX

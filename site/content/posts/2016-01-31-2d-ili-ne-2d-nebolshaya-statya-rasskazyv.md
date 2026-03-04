@@ -11,9 +11,7 @@ link_previews:
   title: Forbrukslånsiden.com
   url: https://caeai.com/blog/2d-or-not-2d-often-fea-modeling-question
 source: vk
-title: '2D или не 2D: небольшая статья рассказывающая о возможностях'
+title: "2D или не 2D: небольшая статья рассказывающая о возможностях решения задач механики деформируемого твердого тела в плосконапряженной, плоско деформированной и осесимметричной постановке."
 ---
-
-2D или не 2D: небольшая статья рассказывающая о возможностях решения задач механики деформируемого твердого тела в плосконапряженной, плоско деформированной и осесимметричной постановке.
 
 [2D or not 2D? That is Often the FEA Modeling Question | CAE Associates](https://caeai.com/blog/2d-or-not-2d-often-fea-modeling-question)

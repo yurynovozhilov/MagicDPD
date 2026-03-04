@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Impetus Afea для реверсивной прокатки?!"
+title: "Impetus Afea для реверсивной прокатки?"
 date: 2020-10-19T13:40:40+00:00
 author: "GlukRazor"
 source: vk
@@ -14,7 +14,7 @@ images:
   - url: "/assets/images/1843.jpg"
 ---
 
-Impetus Afea для реверсивной прокатки?!
+!
 #Afea #explicit #GPU #IMPETUS #rolling
 by Юрий Новожилов
 

@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Первая работающая реализация Quantum Lattice Boltzmann Metho"
+title: "Первая работающая реализация Quantum Lattice Boltzmann Method от Ansys"
 date: 2025-06-13T11:02:28+00:00
 author: "Yury Novozhilov"
 source: vk
 ---
-
-Первая работающая реализация Quantum Lattice Boltzmann Method от Ansys
 
 Сегодня снова поговорим о квантовых вычислениях. На прошлой неделе Ansys и Nvidia опубликовали пресс-релиз о том, что им удалось впервые выполнить вычислительную гидродинамическую (CFD) симуляцию с помощью квантового компьютера. Сам по себе пресс-релиз — это интересно, но настоящая ценность кроется в научной основе: результаты базируются на препринте статьи «Algorithmic Advances Towards a Realizable Quantum Lattice Boltzmann Method», поданной к публикации коллективом исследователей из Ansys Inc. и IonQ Inc. (Apurva Tiwari, Jason Iaconis, Jezer Jojo, Sayonee Ray, Martin Roetteler, Chris Hill, Jay Pathak) в журнале Quantum Physics 15 апреля 2025 года.
 

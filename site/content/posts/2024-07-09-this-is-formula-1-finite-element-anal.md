@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "This Is Formula 1! - Finite Element Analysis"
+title: "This Is Formula 1!"
 date: 2024-07-09T12:01:56+00:00
 author: "Yury Novozhilov"
 source: vk
 ---
 
-This Is Formula 1! - Finite Element Analysis
+- Finite Element Analysis
 
 Любопытный учетный курс от Open University про использование современных (курсу 12+ лет) математических методов при проектировании для участия в гонках F1. Интерфейс софта тщательно скрывают, но кажется, что это что-то из NASTRAN.
 

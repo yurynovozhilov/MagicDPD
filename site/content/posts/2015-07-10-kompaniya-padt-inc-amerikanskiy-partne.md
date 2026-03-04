@@ -10,10 +10,8 @@ link_previews:
     - PADT
   url: http://www.padtinc.com/blog/the-focus/tech-tips-and-videos-for-electromechanical-simulation-with-ansys-products
 source: vk
-title: Компания PADT, Inc., американский партнер ANSYS, Inc., сегод
+title: "Компания PADT, Inc., американский партнер ANSYS, Inc., сегодня выкатил набор материалов в помощь специалистам по электромагнетизму - \"The Electromechanical Simulation Productivity Kit\"."
 ---
-
-Компания PADT, Inc., американский партнер ANSYS, Inc., сегодня выкатил набор материалов в помощь специалистам по электромагнетизму - "The Electromechanical Simulation Productivity Kit".
 
 Краткое содержание:
 - ANSYS Maxwell Automation and Customization Application Brief

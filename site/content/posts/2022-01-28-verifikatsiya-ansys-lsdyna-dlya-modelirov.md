@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Верификация #Ansys #LSDYNA для моделирования взрывов в ближн"
+title: "Верификация #Ansys #LSDYNA для моделирования взрывов в ближнем поле проведена в Университет Шеффилда."
 date: 2022-01-28T17:30:04+00:00
 author: "MagicDPD"
 source: vk
@@ -14,6 +14,6 @@ images:
   - url: "/assets/images/2105.jpg"
 ---
 
-Верификация #Ansys #LSDYNA для моделирования взрывов в ближнем поле проведена в Университет Шеффилда. Наслаждаемся задачей и постановкой в статье. Все, кто начинают моделировать детонацию и работать с #JWL - пробуем повторить. https://www.researchgate.net/publication/327136945_Validation_of_near-field_blast_loading_in_LS-DYNA
+Наслаждаемся задачей и постановкой в статье. Все, кто начинают моделировать детонацию и работать с #JWL - пробуем повторить. https://www.researchgate.net/publication/327136945_Validation_of_near-field_blast_loading_in_LS-DYNA
 
 https://www.researchgate.net/publication/327136945_Validation_of_near-field_blast_loading_in_LS-DYNA

@@ -11,9 +11,7 @@ link_previews:
 source: vk
 tags:
 - DEM
-title: 'Утром хорошо просыпается только #DEM, особенно если он приду'
+title: "Утром хорошо просыпается только #DEM, особенно если он придуман в недрах шведской UMIT Research Lab"
 ---
-
-Утром хорошо просыпается только #DEM, особенно если он придуман в недрах шведской UMIT Research Lab
 
 https://www.youtube.com/watch?v=HPb-TNT2YNQ

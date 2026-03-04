@@ -50,10 +50,10 @@ tags:
 - AWS
 - CAD
 - Siemens
-title: '#Siemens #NX есть в магазине приложений #Amazon для #AWS (#A'
+title: "#Siemens #NX есть в магазине приложений #Amazon для #AWS (#AppStream 2.0), и чувствует там себя очень жале неплохо."
 ---
 
-#Siemens #NX есть в магазине приложений #Amazon для #AWS (#AppStream 2.0), и чувствует там себя очень жале неплохо. Демонстрантке прилагается
+Демонстрантке прилагается
 
 #CAD #Cloud
 https://www.youtube.com/watch?v=lOW…Media📼 NX on the Cloud with Amazon AppStream 2.0

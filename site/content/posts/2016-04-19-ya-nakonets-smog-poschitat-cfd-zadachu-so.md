@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Я наконец смог посчитать #CFD задачу со свободной поверхност"
+title: "Я наконец смог посчитать #CFD задачу со свободной поверхностью в #LSDYNA #ICFD."
 date: 2016-04-19T07:02:16+00:00
 author: "GlukRazor"
 source: vk
@@ -12,7 +12,7 @@ tags:
   - freesurface
 ---
 
-Я наконец смог посчитать #CFD задачу со свободной поверхностью в #LSDYNA #ICFD. Использовал слегка модифицированную постановку Sunao Tokura из стати "Validation of Fluid Analysis Capabilities in LS-DYNA Based on Experimental Result". Получилось неплохо. Есть несколько тонкостей:
+Использовал слегка модифицированную постановку Sunao Tokura из стати "Validation of Fluid Analysis Capabilities in LS-DYNA Based on Experimental Result". Получилось неплохо. Есть несколько тонкостей:
 - на задачах со свободной поверхностью пристеночные слои глючат
 - граничные условия прилипания в такой задаче тоже не очень адекватны для грубой сетки
 - расчет идет быстро и стабильно, заметно быстрее чем ALE

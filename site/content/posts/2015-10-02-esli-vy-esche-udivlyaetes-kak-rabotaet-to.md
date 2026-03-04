@@ -13,9 +13,7 @@ tags:
 - COMSOL
 - TOPO
 - Optimiztaion
-title: Если вы еще удивляетесь, как работает топологическая оптимиз
+title: "Если вы еще удивляетесь, как работает топологическая оптимизация, то вот хороший ликбез по данной тематике."
 ---
-
-Если вы еще удивляетесь, как работает топологическая оптимизация, то вот хороший ликбез по данной тематике.
 
 [Finding a Structure's Best Design with Topology Optimization](http://www.comsol.com/blogs/finding-a-structures-best-design-with-topology-optimization/)

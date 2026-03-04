@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Очень много вебинаров по расчету усталостей прочности в #Mat"
+title: "Очень много вебинаров по расчету усталостей прочности в #Matlab"
 date: 2017-10-11T18:33:12+00:00
 author: "GlukRazor"
 source: vk
@@ -8,8 +8,6 @@ tags:
   - Matlab
   - FatigueMedia
 ---
-
-Очень много вебинаров по расчету усталостей прочности в #Matlab
 
 #FatigueMedia🔗 Fatigue Analysis Webinars
 

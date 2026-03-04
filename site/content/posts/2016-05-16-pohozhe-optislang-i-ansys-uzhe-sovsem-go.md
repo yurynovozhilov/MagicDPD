@@ -12,9 +12,7 @@ tags:
 - optiSLang
 - optimization
 - ANSYS
-title: 'Похоже #optiSLang и #ANSYS уже совсем готовы слиться в экста'
+title: "Похоже #optiSLang и #ANSYS уже совсем готовы слиться в экстазе!"
 ---
-
-Похоже #optiSLang и #ANSYS уже совсем готовы слиться в экстазе!
 
 [Dynardo optiSLang включен в линейку программных решений ANSYS](http://www.cadfem-cis.ru/list/article/ansys-optislang/)

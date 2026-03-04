@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#HPE объявил о запуске своей линейки высокопроизводительный "
+title: "#HPE объявил о запуске своей линейки высокопроизводительный серверов на базе архитектуры #ARM!"
 date: 2017-11-15T07:41:44+00:00
 author: "GlukRazor"
 source: vk
@@ -8,8 +8,6 @@ tags:
   - ARM
   - HPE
 ---
-
-#HPE объявил о запуске своей линейки высокопроизводительный серверов на базе архитектуры #ARM!
 
 HPE Launches ARM-based Apollo System for HPC, AIMedia🔗 HPE Launches ARM-based Apollo System for HPC, AI
 

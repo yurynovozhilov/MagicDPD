@@ -18,10 +18,10 @@ link_previews:
 source: vk
 tags:
 - HPC
-title: В новой платформе Intel Xeon Scalable появился встроенный 10
+title: "В новой платформе Intel Xeon Scalable появился встроенный 10 GigE, причем iWARP - это низколатентный вариант сети."
 ---
 
-В новой платформе Intel Xeon Scalable появился встроенный 10 GigE, причем iWARP - это низколатентный вариант сети. Главное, что он подходит для построения #HPC начального уровня.
+Главное, что он подходит для построения #HPC начального уровня.
 
 https://geektimes.ru/company/intel/blog/292747/ 🔗 Что такое Intel Xeon Scalable?
 

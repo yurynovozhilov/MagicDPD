@@ -8,10 +8,8 @@ link_previews:
   title: VK.com | VK
   url: http://ift.tt/2xtYFtd
 source: vk
-title: "Суровые краш-тесты образца 1962 годаMedia\U0001F4FC Crash And Stay Al"
+title: "Суровые краш-тесты образца 1962 годаMedia📼 Crash And Stay Alive (1962)"
 ---
-
-Суровые краш-тесты образца 1962 годаMedia📼 Crash And Stay Alive (1962)
 
 http://ift.tt/2xtYFtd
 

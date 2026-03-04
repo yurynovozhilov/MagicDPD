@@ -67,10 +67,10 @@ tags:
 - FlowVision
 - РазвИТиеMediaMedia
 - flowsimulation
-title: 'KompasFlow для Компас3D 17.1 !! Упрощенный #FlowVision внутр'
+title: "KompasFlow для Компас3D 17.1 !"
 ---
 
-KompasFlow для Компас3D 17.1 !! Упрощенный #FlowVision внутри одной из самых популярных #САПР в России! Подробности на форуме РазвИТие 27 сентября. http://plmrussia.ru #Kompas_3D #kompas3d #компас_3d #компас3D #plmrussia #FlowVisioncfd #flowsimulation #РазвИТиеMediaMedia🔗 PLM-форум «РазвИТие. Российские технологии для инженеров»
+! Упрощенный #FlowVision внутри одной из самых популярных #САПР в России! Подробности на форуме РазвИТие 27 сентября. http://plmrussia.ru #Kompas_3D #kompas3d #компас_3d #компас3D #plmrussia #FlowVisioncfd #flowsimulation #РазвИТиеMediaMedia🔗 PLM-форум «РазвИТие. Российские технологии для инженеров»
 
 http://ift.tt/2fxLLRB
 

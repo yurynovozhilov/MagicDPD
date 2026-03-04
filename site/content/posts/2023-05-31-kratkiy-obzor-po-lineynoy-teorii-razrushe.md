@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Краткий обзор по линейной теории разрушения  (Linear Elastic"
+title: "Краткий обзор по линейной теории разрушения  (Linear Elastic Fracture Mechanics, LEFM)"
 date: 2023-05-31T11:21:43+00:00
 author: "Yury Novozhilov"
 source: vk
 ---
-
-Краткий обзор по линейной теории разрушения  (Linear Elastic Fracture Mechanics, LEFM)
 
 - Теория Гриффитса: энергия идет на создание свободной поверхности трещины
 - Теория Ирвина: смотрите на скорость высвобождения энергии.

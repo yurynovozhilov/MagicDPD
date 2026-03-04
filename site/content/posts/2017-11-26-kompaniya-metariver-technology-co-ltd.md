@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Компания Metariver Technology co., ltd (http://www.metariver"
+title: "Компания Metariver Technology co., ltd (http://www.metariver.kr) специлизируется на создани #CAE софта #samadii максмально использующего возможности библиотеки #CUDA и графический чипов #NVIDIA."
 date: 2017-11-26T17:09:23+00:00
 author: "GlukRazor"
 source: vk
@@ -15,8 +15,6 @@ tags:
   - CAE
   - NVIDIA
 ---
-
-Компания Metariver Technology co., ltd (http://www.metariver.kr) специлизируется на создани #CAE софта #samadii максмально использующего возможности библиотеки #CUDA и графический чипов #NVIDIA.
 
 Сейчас у них есть:
 - samadii/sciv (Statistical Contact in Vacuum) - моделирование процессов в вакуумных приборах методом Monte Carlo

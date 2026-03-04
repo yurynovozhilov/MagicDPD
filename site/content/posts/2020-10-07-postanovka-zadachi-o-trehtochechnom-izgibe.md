@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Постановка задачи о трехточечном изгибе сэндвич панели в ANS"
+title: "Постановка задачи о трехточечном изгибе сэндвич панели в ANSYS"
 date: 2020-10-07T17:24:01+00:00
 author: "GlukRazor"
 source: vk
@@ -14,7 +14,6 @@ images:
   - url: "/assets/images/1837.jpg"
 ---
 
-Постановка задачи о трехточечном изгибе сэндвич панели в ANSYS
 #ACP #ANSYS #composite #LEAP #Mechanical
 by Юрий Новожилов
 

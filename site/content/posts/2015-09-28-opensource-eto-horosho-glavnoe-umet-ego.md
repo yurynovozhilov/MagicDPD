@@ -13,9 +13,9 @@ tags:
 - SimScale
 - OpenSource
 - OpenFOAM
-title: OpenSource это хорошо! Главное уметь его готовить. Мне очень
+title: "OpenSource это хорошо!"
 ---
 
-OpenSource это хорошо! Главное уметь его готовить. Мне очень нравится подходи SimScale. Они не занимаются конструированием велосипедов - они развивают известные проекты с открытым кодом.
+Главное уметь его готовить. Мне очень нравится подходи SimScale. Они не занимаются конструированием велосипедов - они развивают известные проекты с открытым кодом.
 
 [Open Source: A Philosophy behind SimScale](https://blog.simscale.com/blog/2015/09/open-source-a-philosophy-behind-simscale/)

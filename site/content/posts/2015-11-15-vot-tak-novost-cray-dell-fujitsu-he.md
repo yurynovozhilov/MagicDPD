@@ -15,9 +15,9 @@ link_previews:
 source: vk
 tags:
 - HPC
-title: 'Вот так новость: Cray, Dell, Fujitsu, Hewlett Packard, Intel'
+title: "Вот так новость: Cray, Dell, Fujitsu, Hewlett Packard, Intel Lenovo, NEC и SUSE будут делать проект OpenHPC Collaborative Project."
 ---
 
-Вот так новость: Cray, Dell, Fujitsu, Hewlett Packard, Intel Lenovo, NEC и SUSE будут делать проект OpenHPC Collaborative Project. Посмотрим, что у них получится, и как с этим будет работаться.
+Посмотрим, что у них получится, и как с этим будет работаться.
 
 [OpenNews: Организация Linux Foundation представила OpenHPC, фреймворк для оснащения Linux-кластеров](http://www.opennet.ru/opennews/art.shtml?num=43317)

@@ -36,10 +36,8 @@ tags:
 - SAGE
 - CFD
 - CONVERGE
-title: 'Пример расчета столба пламени в #CONVERGE #CFD с применением'
+title: "Пример расчета столба пламени в #CONVERGE #CFD с применением химического решателя #SAGE"
 ---
-
-Пример расчета столба пламени в #CONVERGE #CFD с применением химического решателя #SAGE
 
 https://youtu.be/lSZXAcrX1YQMedia📼 CONVERGE CFD Simulates Sandia Flame D
 

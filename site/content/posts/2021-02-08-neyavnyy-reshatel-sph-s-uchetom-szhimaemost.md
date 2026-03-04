@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Неявный решатель SPH с учетом сжимаемости для моделирования "
+title: "Неявный решатель SPH с учетом сжимаемости для моделирования снега"
 date: 2021-02-08T09:41:40+00:00
 author: "MagicDPD"
 source: vk
@@ -11,9 +11,6 @@ tags:
   - siggraph
   - preonlab
 ---
-
-Неявный решатель SPH с учетом сжимаемости для моделирования снега
-
 
 https://www.youtube.com/watch?v=JSNE_PIG1UQ&feature=share
 

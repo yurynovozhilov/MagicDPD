@@ -15,9 +15,9 @@ source: vk
 tags:
 - ProjectChrono
 - SBEL
-title: The Simulation-Based Engineering Lab (#SBEL) - один из основ
+title: "The Simulation-Based Engineering Lab (#SBEL) - один из основных пользователей/разработчиков #ProjectChrono."
 ---
 
-The Simulation-Based Engineering Lab (#SBEL) - один из основных пользователей/разработчиков #ProjectChrono. Очень крутой сайт у этой команды из Университета Висконсин, штат Мэдисон.
+Очень крутой сайт у этой команды из Университета Висконсин, штат Мэдисон.
 
 [Welcome to the Simulation Based Engineering Laboratory (SBEL) website, Dan Negrut](http://sbel.wisc.edu/)

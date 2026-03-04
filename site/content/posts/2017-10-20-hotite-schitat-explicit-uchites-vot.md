@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Хотите считать #explicit - учитесь! Вот стандартные тестовые"
+title: "Хотите считать #explicit - учитесь!"
 date: 2017-10-20T17:07:33+00:00
 author: "GlukRazor"
 source: vk
@@ -18,7 +18,7 @@ tags:
   - Taylor
 ---
 
-Хотите считать #explicit - учитесь! Вот стандартные тестовые задачи для настоящих #explicit кодов:
+Вот стандартные тестовые задачи для настоящих #explicit кодов:
 - Тест Тейлора (#Taylor Anvil Test)
 - Распространение ударной воны в воздухе (Free Air #Blast)
 - Разрезной стержень Гопкинсона - Кольского (Split Hopkinson Pressure Bar, #SHPB)

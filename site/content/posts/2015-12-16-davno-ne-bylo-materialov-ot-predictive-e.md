@@ -12,9 +12,9 @@ source: vk
 tags:
 - lsdyna
 - predictiveengineering
-title: Давно не было материалов от Predictive Engineering. Ребята в
+title: "Давно не было материалов от Predictive Engineering."
 ---
 
-Давно не было материалов от Predictive Engineering. Ребята выпустили свой небольшой обзор по моделированию композитов в LS-DYNA.
+Ребята выпустили свой небольшой обзор по моделированию композитов в LS-DYNA.
 
 [LS-DYNA: Observations on Composite Modeling | Predictive Engineering](http://www.predictiveengineering.com/content/ls-dyna-observations-composite-modeling)

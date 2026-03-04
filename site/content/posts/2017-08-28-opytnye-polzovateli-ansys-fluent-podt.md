@@ -19,10 +19,8 @@ source: vk
 tags:
 - FLUENT
 - ANSYS
-title: 'Опытные пользователи #ANSYS #FLUENT подтвердят, что TUI - то'
+title: "Опытные пользователи #ANSYS #FLUENT подтвердят, что TUI - то еще турагентство 😊Media"
 ---
-
-Опытные пользователи #ANSYS #FLUENT подтвердят, что TUI - то еще турагентство 😊Media
 
 http://ift.tt/2wLS4LG
 

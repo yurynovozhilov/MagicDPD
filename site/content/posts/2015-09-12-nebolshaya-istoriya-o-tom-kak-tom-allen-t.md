@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Небольшая история о том, как Tom Allen теннисную ракетку в #"
+title: "Небольшая история о том, как Tom Allen теннисную ракетку в #ANSYS #Workbech LS-DYNA считал."
 date: 2015-09-12T17:00:22+00:00
 author: "GlukRazor"
 source: vk
@@ -9,8 +9,6 @@ tags:
   - lsdyna
   - ANSYS
 ---
-
-Небольшая история о том, как Tom Allen теннисную ракетку в #ANSYS #Workbech LS-DYNA считал.
 
 #lsdyna
 

@@ -11,9 +11,7 @@ source: vk
 tags:
 - EM
 - SolidWorks
-title: Если очень хочется, то даже в SolidWorks можно EM расчеты де
+title: "Если очень хочется, то даже в SolidWorks можно EM расчеты делать."
 ---
-
-Если очень хочется, то даже в SolidWorks можно EM расчеты делать.
 
 [isicad: Моделирование электромагнитных явлений в среде SolidWorks](http://isicad.ru/ru/articles.php?article_num=18103)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "На прошедшей неделе продукты ANSYS RedHawk и Totem были серт"
+title: "На прошедшей неделе продукты ANSYS RedHawk и Totem были сертифицированы компанией TSMC (Taiwan Semiconductor Manufacturing Company) для применения в разработке чипов по 10 нм техпроцессу."
 date: 2015-09-23T18:00:25+00:00
 author: "GlukRazor"
 source: vk
@@ -10,8 +10,6 @@ tags:
   - EM
   - ANSYS
 ---
-
-На прошедшей неделе продукты ANSYS RedHawk и Totem были сертифицированы компанией TSMC (Taiwan Semiconductor Manufacturing Company) для применения в разработке чипов по 10 нм техпроцессу.
 
 Для тех кто не в курсе, TSMC является крупнейшим контрактным производителем полупроводниковых микросхем. Его заказчиками являются такие компании как Qualcomm, NVIDIA, AMD, MediaTek, Marvell, Broadcom, Apple и другие.
 

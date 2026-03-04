@@ -13,9 +13,7 @@ link_previews:
     Engineering
   url: http://www.predictiveengineering.com/consulting/ls-dyna/predictive-engineering-ls-dyna-dem-and-sph-simulation-project-work
 source: vk
-title: Наглядный обзор возможности работы LS-DYNA с ALE, SPH и DEM,
+title: "Наглядный обзор возможности работы LS-DYNA с ALE, SPH и DEM, и все это иногда в рамках одной задачи. Тут вам и резка метала, и бурение скальных пород, и пресловутый конвейер-сортировщик с учетом натуга конвейерной ленты, и даже волнорез!"
 ---
-
-Наглядный обзор возможности работы LS-DYNA с ALE, SPH и DEM, и все это иногда в рамках одной задачи. Тут вам и резка метала, и бурение скальных пород, и пресловутый конвейер-сортировщик с учетом натуга конвейерной ленты, и даже волнорез!
 
 [Predictive Engineering LS-DYNA DEM and SPH Simulation Project Work | Predictive Engineering](http://www.predictiveengineering.com/consulting/ls-dyna/predictive-engineering-ls-dyna-dem-and-sph-simulation-project-work)

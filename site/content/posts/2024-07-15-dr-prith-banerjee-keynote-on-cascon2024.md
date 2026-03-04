@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Dr. Prith Banerjee Keynote on CASCON2024"
+title: "Dr."
 date: 2024-07-15T11:02:13+00:00
 author: "Yury Novozhilov"
 source: vk
 ---
 
-Dr. Prith Banerjee Keynote on CASCON2024
+Prith Banerjee Keynote on CASCON2024
 
 Выступление Притха Банерджи, CTO Ansys, на прошедшей этим летом конференции CADFEM.
 

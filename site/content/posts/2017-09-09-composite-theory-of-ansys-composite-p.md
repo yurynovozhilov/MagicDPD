@@ -24,10 +24,8 @@ tags:
 - theory
 - ANSYS
 - composite
-title: "#composite #theory of #ANSYS Composite PrePost (ACP)Media\U0001F4BE C"
+title: "#composite #theory of #ANSYS Composite PrePost (ACP)Media💾 CompositesWorkshop_ANSYS_DAF.pdf"
 ---
-
-#composite #theory of #ANSYS Composite PrePost (ACP)Media💾 CompositesWorkshop_ANSYS_DAF.pdf
 
 http://ift.tt/2gR7bt1
 

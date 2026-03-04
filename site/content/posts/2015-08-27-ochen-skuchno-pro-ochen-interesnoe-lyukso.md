@@ -18,9 +18,7 @@ source: vk
 tags:
 - xflow
 - CFD
-title: 'Очень скучно про очень интересное: люксовый производитель ях'
+title: "Очень скучно про очень интересное: люксовый производитель яхт Glider Yachts рассказал, как они живут с X-Flow - нашумевшим решаете гидрогазодинамик на основе частиц (что-то они там говорили про старика Больцмана)."
 ---
-
-Очень скучно про очень интересное: люксовый производитель яхт Glider Yachts рассказал, как они живут с X-Flow - нашумевшим решаете гидрогазодинамик на основе частиц (что-то они там говорили про старика Больцмана).
 
 [Press Release: Glider Yachts Receives Expert Accreditation for Exceeding Yacht Design & Build Standards](http://prwire.com.au/pr/53751/glider-yachts-receives-expert-accreditation-for-exceeding-yacht-design-amp-build-standards)

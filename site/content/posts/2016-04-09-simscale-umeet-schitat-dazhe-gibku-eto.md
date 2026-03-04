@@ -11,9 +11,9 @@ link_previews:
 source: vk
 tags:
 - SimScale
-title: '#SimScale умеет считать даже гибку! Это же задача для экспли'
+title: "#SimScale умеет считать даже гибку!"
 ---
 
-#SimScale умеет считать даже гибку! Это же задача для эксплисита!
+Это же задача для эксплисита!
 
 https://www.simscale.com/projects/ahmedhussain18/pipe_bending_analysis_1

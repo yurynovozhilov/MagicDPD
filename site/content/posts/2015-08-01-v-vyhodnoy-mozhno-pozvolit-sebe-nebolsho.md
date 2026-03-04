@@ -9,9 +9,7 @@ link_previews:
   title: Medical Animation | Random42 Scientific Communication
   url: http://random42.com
 source: vk
-title: В выходной можно позволить себе небольшой off-топик. Взгляне
+title: "В выходной можно позволить себе небольшой off-топик. Взглянем на компанию Random42 и ее работы в области визуализации научных данных. Никакого CAE/CAD - только чистая наука!"
 ---
-
-В выходной можно позволить себе небольшой off-топик. Взглянем на компанию Random42 и ее работы в области визуализации научных данных. Никакого CAE/CAD - только чистая наука!
 
 [Medical Animations by Random42 – The Art of Science](http://random42.com)

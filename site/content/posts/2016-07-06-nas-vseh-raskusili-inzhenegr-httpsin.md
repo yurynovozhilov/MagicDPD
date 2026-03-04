@@ -16,10 +16,10 @@ link_previews:
 source: vk
 tags:
 - инженегр
-title: 'Нас всех раскусили! #инженегр https://instagram.com/p/BHeC-l'
+title: "Нас всех раскусили!"
 ---
 
-Нас всех раскусили! #инженегр https://instagram.com/p/BHeC-lNjVCw/
+#инженегр https://instagram.com/p/BHeC-lNjVCw/
 
 https://www.instagram.com/p/BHeC-lNjVCw/
 https://instagram.com/p/BHeC-lNjVCw/

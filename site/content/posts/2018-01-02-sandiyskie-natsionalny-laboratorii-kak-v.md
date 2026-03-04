@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Сандийские национальны лаборатории как всегда красиво рааска"
+title: "Сандийские национальны лаборатории как всегда красиво раасказывают о своих возможностях в области аддитивных технологий производства."
 date: 2018-01-02T09:23:14+00:00
 author: "GlukRazor"
 source: vk
@@ -8,8 +8,6 @@ tags:
   - additive_manufacturing
   - sandia
 ---
-
-Сандийские национальны лаборатории как всегда красиво раасказывают о своих возможностях в области аддитивных технологий производства.
 
 #additive_manufacturing #sandia
 https://www.youtube.com/watch?v=YCE…Media📼 Sandia Labs’ Additive Manufacturing Program

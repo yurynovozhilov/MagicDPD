@@ -23,9 +23,9 @@ tags:
 - Airbus
 - Autodesk
 - APWorks
-title: Оказывается я не угадал программный продукт, при помощи кото
+title: "Оказывается я не угадал программный продукт, при помощи которого #Airbus #APWorks сделали свой Light Rider."
 ---
 
-Оказывается я не угадал программный продукт, при помощи которого #Airbus #APWorks сделали свой Light Rider. Я то думал, что это #Autodesk #Within, что было бы логично исходя из партнерства Autodesk и APWorks, но нет. Light Rider создали при помощи топологической оптимизации от #Altair. Какой именно продукт использован непонятно: в статье говорится про #OptiStruct, но приводятся картинки из #solidThinking.
+Я то думал, что это #Autodesk #Within, что было бы логично исходя из партнерства Autodesk и APWorks, но нет. Light Rider создали при помощи топологической оптимизации от #Altair. Какой именно продукт использован непонятно: в статье говорится про #OptiStruct, но приводятся картинки из #solidThinking.
 
 [DEVELOP3D blog - Bionic structures to advance at Airbus APWorks with Altair assistance](http://www.develop3d.com/blog/2016/06/bionic-structures-to-advance-at-airbus-apworks-with-altair-assistance)

@@ -14,9 +14,7 @@ tags:
 - JMAG
 - Altair
 - EM
-title: '#JMAG как первый шаг к #NVH расчетам в связке с OptiStruct, '
+title: "#JMAG как первый шаг к #NVH расчетам в связке с OptiStruct, Nastran, Abaqus или LMS Virtual.Lab. #Altair научит!"
 ---
-
-#JMAG как первый шаг к #NVH расчетам в связке с OptiStruct, Nastran, Abaqus или LMS Virtual.Lab. #Altair научит!
 
 [How to Perform NVH Modeling & Simulation using JMAG - Altair Innovation Intelligence](http://innovationintelligence.com/how-to-perform-nvh-modeling-simulation-using-jmag/)

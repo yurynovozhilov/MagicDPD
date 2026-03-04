@@ -11,9 +11,9 @@ source: vk
 tags:
 - CFD
 - StarCCM
-title: 'Тема от читателя (Alexander Zaytsev): иcтория успеха #StarCC'
+title: "Тема от читателя (Alexander Zaytsev): иcтория успеха #StarCCM+."
 ---
 
-Тема от читателя (Alexander Zaytsev): иcтория успеха #StarCCM+. Этот замечательный #CFD код позволит Nissan Motorsports International Co., Ltd. победить в серии гонок Super GT.
+Этот замечательный #CFD код позволит Nissan Motorsports International Co., Ltd. победить в серии гонок Super GT.
 
 [Web Exclusive Articles : Professional Motorsport World](http://www.pmw-magazine.com/articles.php?ArticleID=1727)

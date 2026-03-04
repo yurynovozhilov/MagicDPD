@@ -9,9 +9,9 @@ link_previews:
   title: ROYALTOGEL# Situs Bandar Toto Macau Penyedia Data Macau Paling Akurat
   url: http://cogan.eu.com/cogan-project-update/fea-in-design-of-foundations-and-anchors-for-offshore-structures/
 source: vk
-title: Компания COGAN приглашает всех принять участие в их бесплатн
+title: "Компания COGAN приглашает всех принять участие в их бесплатном вебинаре, который проведет доктор Ларс Андерсон (Dr."
 ---
 
-Компания COGAN приглашает всех принять участие в их бесплатном вебинаре, который проведет доктор Ларс Андерсон (Dr. Lars Andresen), управляющий директор Геотехнического института Норвегии (Norwegian Geotechnical Institute, NGI). Тема вебинара: FEA in design of Foundations & Anchors for Offshore Structures
+Lars Andresen), управляющий директор Геотехнического института Норвегии (Norwegian Geotechnical Institute, NGI). Тема вебинара: FEA in design of Foundations & Anchors for Offshore Structures
 
 [Webinar on FEA in design of Foundations & Anchors for Offshore Structures - COGAN](http://cogan.eu.com/cogan-project-update/fea-in-design-of-foundations-and-anchors-for-offshore-structures/)

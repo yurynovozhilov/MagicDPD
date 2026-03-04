@@ -12,9 +12,7 @@ link_previews:
 source: vk
 tags:
 - Femap
-title: 24 марта в 19:30 по московскому времени (6:30 PM Eastern Eur
+title: "24 марта в 19:30 по московскому времени (6:30 PM Eastern European Time) команда Predictive Engineering проведет часовой вебинар по работе с линейными контактами в #Femap."
 ---
-
-24 марта в 19:30 по московскому времени (6:30 PM Eastern European Time) команда Predictive Engineering проведет часовой вебинар по работе с линейными контактами в #Femap.
 
 [Registration](https://attendee.gotowebinar.com/register/8816541012197363970)

@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Небольшая новая статейка о пробивании композитных баллонов д"
+title: "Небольшая новая статейка о пробивании композитных баллонов давления:"
 date: 2017-10-23T17:59:44+00:00
 author: "GlukRazor"
 source: vk
 ---
-
-Небольшая новая статейка о пробивании композитных баллонов давления:
 
 A. Cherniaev, I. Telichev. "Introducing manufacturing features into numerical modeling of hypervelocity impact damage of composite pressure vessels" - Procedia Engineering, 2017
 

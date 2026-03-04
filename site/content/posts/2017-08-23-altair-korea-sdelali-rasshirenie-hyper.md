@@ -15,10 +15,10 @@ tags:
 - HyperMesh
 - HyperBlocks
 - тетрис
-title: '#Altair #Korea сделали расширение #HyperBlocks  для #HyperMe'
+title: "#Altair #Korea сделали расширение #HyperBlocks  для #HyperMesh, которое позволяет вам поиграть в #тетрис!"
 ---
 
-#Altair #Korea сделали расширение #HyperBlocks  для #HyperMesh, которое позволяет вам поиграть в #тетрис!!!
+!!
 
 #tetrisMediaMedia🔗 한국알테어 온라인 스토어
 

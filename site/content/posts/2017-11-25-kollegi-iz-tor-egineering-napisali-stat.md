@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Коллеги из Tor-Egineering написали статью по мотивам очень с"
+title: "Коллеги из Tor-Egineering написали статью по мотивам очень старой публикации #padtinc про то, как управляться #ANSYS #Workbench через #Excel при помощи #Python."
 date: 2017-11-25T17:09:51+00:00
 author: "GlukRazor"
 source: vk
@@ -12,8 +12,6 @@ tags:
   - TorEgineering
   - padtinc
 ---
-
-Коллеги из Tor-Egineering написали статью по мотивам очень старой публикации #padtinc про то, как управляться #ANSYS #Workbench через #Excel при помощи #Python.
 
 В новой публикации исправлены недочеты и обновлены данные. Рабочие примеры прилагаются.
 

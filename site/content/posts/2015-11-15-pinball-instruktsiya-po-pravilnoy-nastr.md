@@ -14,9 +14,7 @@ tags:
 - Mechanical
 - ANSYS
 - FEA
-title: 'Pinball - инструкция по правильной настройке контактов в #AN'
+title: "Pinball - инструкция по правильной настройке контактов в #ANSYS #Mechanical"
 ---
-
-Pinball - инструкция по правильной настройке контактов в #ANSYS #Mechanical
 
 [Be a Pinball Wizard with Contact Regions in ANSYS Mechanical](http://www.padtinc.com/blog/the-focus/be-a-pinball-wizard-with-contact-regions-in-ansys-mechanical)

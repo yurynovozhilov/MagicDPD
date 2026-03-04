@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#SPH моделирование внутрикорпусного удержание (IVR, in-vesse"
+title: "#SPH моделирование внутрикорпусного удержание (IVR, in-vessel retention) расплава активной зоны путем внешнего охлаждения. Очень интересно, ничего не понятно. https://www.youtube.com/watch?"
 date: 2022-05-20T19:44:12+00:00
 author: "MagicDPD"
 source: vk
@@ -12,6 +12,6 @@ images:
   - url: "/assets/images/2274.jpg"
 ---
 
-#SPH моделирование внутрикорпусного удержание (IVR, in-vessel retention) расплава активной зоны путем внешнего охлаждения. Очень интересно, ничего не понятно. https://www.youtube.com/watch?v=yIfa9P8vciw
+v=yIfa9P8vciw
 
 https://www.youtube.com/watch?v=yIfa9P8vciw

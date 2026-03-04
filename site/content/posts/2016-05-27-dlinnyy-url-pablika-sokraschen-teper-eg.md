@@ -18,10 +18,8 @@ link_previews:
   title: 'MagicDPD - about #CAE and applied science (@magicdpd) on X'
   url: https://twitter.com/magicDPD
 source: vk
-title: Длинный URL паблика сокращен - теперь его еще проще запомнит
+title: "Длинный URL паблика сокращен - теперь его еще проще запомнить!"
 ---
-
-Длинный URL паблика сокращен - теперь его еще проще запомнить!
 
 Читайте во Вконтакте: https://vk.com/MagicDPD
 Читайте в Twitter: https://twitter.com/MagicDPD

@@ -12,9 +12,9 @@ source: vk
 tags:
 - Altair
 - FEA
-title: '#Altair тоже участвует в разработках для кубка Америки по па'
+title: "#Altair тоже участвует в разработках для кубка Америки по парусному спорту. Красиво плывут!"
 ---
 
-#Altair тоже участвует в разработках для кубка Америки по парусному спорту. Красиво плывут! #FEA
+#FEA
 
 [Artemis Racing Scores a Dramatic Victory in America’s Cup World Series - Altair Innovation Intelligence](http://innovationintelligence.com/artemis-racing-scores-a-dramatic-victory-in-americas-cup-world-series/)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "История того, как #EDEM помог Министерству образования и нау"
+title: "История того, как #EDEM помог Министерству образования и науки Российской Федерации в проектировании шнекохода."
 date: 2017-08-19T17:02:10+00:00
 author: "GlukRazor"
 source: vk
@@ -10,8 +10,6 @@ tags:
 images:
   - url: "/assets/images/446.jpg"
 ---
-
-История того, как #EDEM помог Министерству образования и науки Российской Федерации в проектировании шнекохода.
 
 #DEM https://www.edemsimulation.com/spotlight/study-influence-offroad-vehicles-bottom-body-parts-resistance-movement-deep-snow/
 

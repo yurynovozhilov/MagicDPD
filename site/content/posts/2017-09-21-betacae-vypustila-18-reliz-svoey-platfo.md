@@ -50,10 +50,9 @@ tags:
 - ANSA
 - BetaCAE
 - Meta
-title: '#BetaCAE выпустила 18 релиз своей платформы, состоящей из пр'
+title: "#BetaCAE выпустила 18 релиз своей платформы, состоящей из препроцессора #ANSA, постпроцессора #Meta, системы управления данными расчетов #SPDRM (Simulation, Process, Data & Resources Management), разрабатываемого с прошлого релиза собственного прочностного кода #Epilysis и двух новых продуктов: #Retomo - средства создания геометрии на основе данных МТР и #Komvos отвечающего за направление Simulation Data Management."
 ---
 
-#BetaCAE выпустила 18 релиз своей платформы, состоящей из препроцессора #ANSA, постпроцессора #Meta, системы управления данными расчетов #SPDRM (Simulation, Process, Data & Resources Management), разрабатываемого с прошлого релиза собственного прочностного кода #Epilysis и двух новых продуктов: #Retomo - средства создания геометрии на основе данных МТР и #Komvos отвечающего за направление Simulation Data Management.
 Подробности в видео записи презентации и по ссылке
 https://youtu.be/2EEX3lcboQ4
 http://ift.tt/2xkKo0lMediaMedia📼 Latest Developments & New Products in BETA’s produ…

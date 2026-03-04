@@ -13,9 +13,9 @@ source: vk
 tags:
 - Tetra4D
 - CAD
-title: '#Tetra4D позволит вам встроить #CAD модель в ваш отчет. Жаль'
+title: "#Tetra4D позволит вам встроить #CAD модель в ваш отчет."
 ---
 
-#Tetra4D позволит вам встроить #CAD модель в ваш отчет. Жаль, что с результатами расчетов он так работать не умеет.
+Жаль, что с результатами расчетов он так работать не умеет.
 
 [DEVELOP3D - Review: Tetra4D Enrich - Beta](http://www.develop3d.com/reviews/review-tetra4d-enrich-beta-3D-PDF-design-adobe)

@@ -10,9 +10,9 @@ link_previews:
 source: vk
 tags:
 - HPC
-title: '#HPC Advisory Council Best Practices - это архив данных по м'
+title: "#HPC Advisory Council Best Practices - это архив данных по масштабируемости более 140 вычислительных кодов!"
 ---
 
-#HPC Advisory Council Best Practices - это архив данных по масштабируемости более 140 вычислительных кодов! Отчеты об оптимизации и построении правильных кластеров от признанных экспертов своего дела.
+Отчеты об оптимизации и построении правильных кластеров от признанных экспертов своего дела.
 
 [HPC Advisory Council - Best Practices](http://www.hpcadvisorycouncil.com/best_practices.php)

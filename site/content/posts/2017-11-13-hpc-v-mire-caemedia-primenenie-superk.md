@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#HPC в мирe #CAEMedia📼 Применение суперкомпьютеров в совреме"
+title: "#HPC в мирe #CAEMedia📼 Применение суперкомпьютеров в современном мире - В…"
 date: 2017-11-13T11:41:22+00:00
 author: "GlukRazor"
 source: vk
@@ -8,8 +8,6 @@ tags:
   - CAEMedia
   - HPC
 ---
-
-#HPC в мирe #CAEMedia📼 Применение суперкомпьютеров в современном мире - В…
 
 http://ift.tt/2hwIBC3
 

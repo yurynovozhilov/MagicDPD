@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Мы тоже, особонно тех, кто хочет узнать по LS-DYNA. #lsdyna "
+title: "Мы тоже, особонно тех, кто хочет узнать по LS-DYNA. #lsdyna #ansys #cadfem"
 date: 2015-10-13T04:07:54+00:00
 author: "GlukRazor"
 source: vk
@@ -10,4 +10,3 @@ tags:
   - ansys
 ---
 
-Мы тоже, особонно тех, кто хочет узнать по LS-DYNA. #lsdyna #ansys #cadfem

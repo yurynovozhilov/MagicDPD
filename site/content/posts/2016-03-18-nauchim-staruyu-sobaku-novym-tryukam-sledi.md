@@ -12,9 +12,9 @@ link_previews:
 source: vk
 tags:
 - SpaceClaim
-title: 'Научим старую собаку новым трюкам? Следим за вводным курсом '
+title: "Научим старую собаку новым трюкам?"
 ---
 
-Научим старую собаку новым трюкам? Следим за вводным курсом по #SpaceClaim от PADT Inc
+Следим за вводным курсом по #SpaceClaim от PADT Inc
 
 [New Tricks for an Old Dog: Eric Learns ANSYS SpaceClaim – Post 1](http://www.padtinc.com/blog/the-focus/learn-ansys-spaceclaim-01)

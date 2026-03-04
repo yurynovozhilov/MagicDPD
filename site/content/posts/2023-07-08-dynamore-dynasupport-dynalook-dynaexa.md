@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "DYNAmore, DYNAsupport, DYNAlook, DYNAexamples,… DYNAbike?!"
+title: "DYNAmore, DYNAsupport, DYNAlook, DYNAexamples,… DYNAbike?"
 date: 2023-07-08T15:00:48+00:00
 author: "Yury Novozhilov"
 source: vk
 ---
 
-DYNAmore, DYNAsupport, DYNAlook, DYNAexamples,… DYNAbike?!
+!
 
 https://www.dynabike.net
 

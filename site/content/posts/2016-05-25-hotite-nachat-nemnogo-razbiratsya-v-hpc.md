@@ -11,9 +11,9 @@ source: vk
 tags:
 - BCM
 - HPC
-title: 'Хотите начать немного разбираться в #HPC и быть в курсе совр'
+title: "Хотите начать немного разбираться в #HPC и быть в курсе современных разработок?"
 ---
 
-Хотите начать немного разбираться в #HPC и быть в курсе современных разработок? Мои друзья из #BCM или Bright Computing разместили у себя обзор лучших HPC блогов.
+Мои друзья из #BCM или Bright Computing разместили у себя обзор лучших HPC блогов.
 
 [8 Best HPC Blogs To Follow](http://www.brightcomputing.com/blog/bid/193564/8-best-hpc-blogs-to-follow)

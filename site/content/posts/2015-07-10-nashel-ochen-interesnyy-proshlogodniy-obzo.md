@@ -10,9 +10,7 @@ link_previews:
   title: FEA, CFD, and LS-DYNA consulting services | Predictive Engineering
   url: http://www.predictiveengineering.com/
 source: vk
-title: Нашел очень интересный прошлогодний обзор расчетных возможно
+title: "Нашел очень интересный прошлогодний обзор расчетных возможностей LS-DYNA от гуру своего дела - американской компании Predictive Engineering. Прям очень вкусно написано!"
 ---
-
-Нашел очень интересный прошлогодний обзор расчетных возможностей LS-DYNA от гуру своего дела - американской компании Predictive Engineering. Прям очень вкусно написано!
 
 [FEA, CFD, and LS-DYNA consulting services | Predictive Engineering](http://www.predictiveengineering.com/)

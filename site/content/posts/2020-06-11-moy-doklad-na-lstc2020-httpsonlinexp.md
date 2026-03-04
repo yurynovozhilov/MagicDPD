@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Мой доклад на LSTC2020: https://onlinexperiences.com/Launch/"
+title: "Мой доклад на LSTC2020: https://onlinexperiences.com/Launch/Event.htm?"
 date: 2020-06-11T13:04:33+00:00
 author: "GlukRazor"
 source: vk
@@ -10,7 +10,7 @@ images:
   - url: "/assets/images/1774.jpg"
 ---
 
-Мой доклад на LSTC2020: https://onlinexperiences.com/Launch/Event.htm?ShowKey=93235&DisplayItem=E400489
+ShowKey=93235&DisplayItem=E400489
 
 LSTC 2020
 

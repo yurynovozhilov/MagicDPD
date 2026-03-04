@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Жажда все! Работа #MSC #Dytran в эйлеровой постановке."
+title: "Жажда все!"
 date: 2016-02-11T13:17:06+00:00
 author: "GlukRazor"
 source: vk
@@ -9,6 +9,6 @@ tags:
   - Dytran
 ---
 
-Жажда все! Работа #MSC #Dytran в эйлеровой постановке.
+Работа #MSC #Dytran в эйлеровой постановке.
 
 [Dytran - Water Pouring](https://www.youtube.com/watch?v=0JfbxAalj8E)

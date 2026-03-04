@@ -9,9 +9,9 @@ link_previews:
   title: Home - Vanderplaats
   url: http://www.vrand.com/
 source: vk
-title: Слышали ли вы что-нибудь о компании Vanderplaats R&D, Inc? А
+title: "Слышали ли вы что-нибудь о компании Vanderplaats R&D, Inc?"
 ---
 
-Слышали ли вы что-нибудь о компании Vanderplaats R&D, Inc? А между тем, их команда разрабатывает средства топологической оптимизации и оптимизации процессов штамповки  для ANSYS и LS-DYNA. Выглядит все очень солидно!
+А между тем, их команда разрабатывает средства топологической оптимизации и оптимизации процессов штамповки  для ANSYS и LS-DYNA. Выглядит все очень солидно!
 
 [Design Optimization Technologies | Vanderplaats Research & Development, Inc.](http://www.vrand.com/)

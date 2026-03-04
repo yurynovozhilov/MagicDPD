@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SOFiSTiK Reinforcement Generation — генерируем арматуру быст"
+title: "SOFiSTiK Reinforcement Generation — генерируем арматуру быстро"
 date: 2019-10-01T13:00:54+00:00
 author: "GlukRazor"
 source: vk
@@ -16,7 +16,6 @@ images:
   - url: "/assets/images/1600.jpg"
 ---
 
-SOFiSTiK Reinforcement Generation — генерируем арматуру быстро
 SOFiSTiK Reinforcement Generation создан для того, чтобы удобно и быстро генерировать геометрию арматуры в железобетонных строительных конструкциях.
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Возможности решателей Ansys при решении задач теории разруше"
+title: "Возможности решателей Ansys при решении задач теории разрушения"
 date: 2021-10-26T13:01:50+00:00
 author: "MagicDPD"
 source: vk
@@ -15,9 +15,6 @@ tags:
   - fracture
   - cadfem
 ---
-
-Возможности решателей Ansys при решении задач теории разрушения
-
 
 https://youtu.be/-zzRTvYFhyw?list=PLhkE5O59hYsGBmcYGkRZZMzKgSUTbTIPd
 

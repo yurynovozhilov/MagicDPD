@@ -13,10 +13,8 @@ tags:
 - COMSOL
 - SolidWorks
 - CAE
-title: Сладкая история о том, как Nestlé использует COMSOL и SolidW
+title: "Сладкая история о том, как Nestlé использует COMSOL и SolidWorks для глазировки таких вкусных и любимых везде вафель Kit Kat и Aero."
 ---
-
-Сладкая история о том, как Nestlé использует COMSOL и SolidWorks для глазировки таких вкусных и любимых везде вафель Kit Kat и Aero.
 
 #COMSOL #SolidWorks #CAE
 

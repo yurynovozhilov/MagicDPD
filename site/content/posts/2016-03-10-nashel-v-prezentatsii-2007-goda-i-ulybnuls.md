@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Нашел в презентации 2007 года и улыбнулся... more user-frien"
+title: "Нашел в презентации 2007 года и улыбнулся... more user-friendly - это они про LS-DYNA 😊"
 date: 2016-03-10T12:44:25+00:00
 author: "GlukRazor"
 source: vk
@@ -10,4 +10,3 @@ images:
   - url: "/assets/images/1374.jpg"
 ---
 
-Нашел в презентации 2007 года и улыбнулся... more user-friendly - это они про LS-DYNA 😊

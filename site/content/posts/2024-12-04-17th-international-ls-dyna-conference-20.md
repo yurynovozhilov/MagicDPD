@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "17th International LS-DYNA Conference 2024 - материалы конфе"
+title: "17th International LS-DYNA Conference 2024 - материалы конференции"
 date: 2024-12-04T12:11:34+00:00
 author: "Yury Novozhilov"
 source: vk
 ---
-
-17th International LS-DYNA Conference 2024 - материалы конференции
 
 Стали доступны материалы прошедшей в США международной конференции по LS-DYNA. Собственно, вот ссылка на материалы и на мою большую стать про адаптивный FEM-DEM подход к моделированию фрагментации железобетона. Давайте теперь вместе посмотрим, что еще интересного опубликовал.
 

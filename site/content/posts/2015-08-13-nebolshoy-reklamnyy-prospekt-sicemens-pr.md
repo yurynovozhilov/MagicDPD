@@ -9,10 +9,10 @@ link_previews:
   title: NX software | Siemens Software
   url: http://www.plm.automation.siemens.com/en_us/products/nx/for-simulation/driven-design/validation.shtml
 source: vk
-title: Небольшой рекламный проспект Sicemens про их междисциплинарн
+title: "Небольшой рекламный проспект Sicemens про их междисциплинарные возможности."
 ---
 
-Небольшой рекламный проспект Sicemens про их междисциплинарные возможности. В целом, те кто видели ANSYS Workbench не удивляются связи теплопроводности, гидродинамики и механики.
+В целом, те кто видели ANSYS Workbench не удивляются связи теплопроводности, гидродинамики и механики.
 
 P.S. Это ж надо такое скучное оформление для сайта сделать...
 

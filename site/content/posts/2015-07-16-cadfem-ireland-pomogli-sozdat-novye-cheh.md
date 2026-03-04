@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "CADFEM Ireland помогли создать новые чехлы Logitech для план"
+title: "CADFEM Ireland помогли создать новые чехлы Logitech для планшетов."
 date: 2015-07-16T13:01:05+00:00
 author: "GlukRazor"
 source: vk
 ---
 
-CADFEM Ireland помогли создать новые чехлы Logitech для планшетов. Так как чехлы позиционируются как защищающие от падений, то без ANSYS LS-DYNA не обошлось.
+Так как чехлы позиционируются как защищающие от падений, то без ANSYS LS-DYNA не обошлось.
 
 Во истину Magic Driven Product Development!
 

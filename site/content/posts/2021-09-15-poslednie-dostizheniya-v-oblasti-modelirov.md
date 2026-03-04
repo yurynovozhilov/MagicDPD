@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Последние достижения в области моделирования материалов в LS"
+title: "Последние достижения в области моделирования материалов в LS-DYNA"
 date: 2021-09-15T17:01:26+00:00
 author: "MagicDPD"
 source: vk
@@ -9,9 +9,6 @@ tags:
   - ansys
   - dynamore
 ---
-
-Последние достижения в области моделирования материалов в LS-DYNA
-
 
 https://www.youtube.com/watch?v=6ae7j2Hk07k
 

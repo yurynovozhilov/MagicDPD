@@ -22,10 +22,9 @@ tags:
 - NURBS
 - ReverseEngineering
 - STL
-title: 'Восстановление аналитической геометрии по STL в SpaceClaim: '
+title: "Восстановление аналитической геометрии по STL в SpaceClaim: часть 2"
 ---
 
-Восстановление аналитической геометрии по STL в SpaceClaim: часть 2
 https://www.youtube.com/watch?v=VEUvYM2qFRc
 
 А теперь более образовательный пост на тему работы с #NURBS в #ANSYS #SpaceClaim Direct Modeller (#SCDM): несколько небольших мастерклассов по восстановлению аналитических поверхностей на основе #STL моделей.

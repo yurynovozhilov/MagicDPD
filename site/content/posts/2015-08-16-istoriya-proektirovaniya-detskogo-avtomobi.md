@@ -9,10 +9,10 @@ link_previews:
   title: Altair Blog
   url: http://innovationintelligence.com/safety-comes-first-development-of-a-maxi-cosi-child-seat/
 source: vk
-title: История проектирования детского автомобильного кресла Maxi-C
+title: "История проектирования детского автомобильного кресла Maxi-Cosi 2wayPearl."
 ---
 
-История проектирования детского автомобильного кресла Maxi-Cosi 2wayPearl. Проектировали все при помощи ПО Altair - задействовали
+Проектировали все при помощи ПО Altair - задействовали
 RADIOSS, OptiStruct,HyperMesh, HyperCrash, HyperView. В общем все, до чего дотянулись руки.
 
 [Safety Comes First - Development of a Maxi-Cosi Child Seat Using a CAE-Driven Design Process - Altair Innovation Intelligence](http://innovationintelligence.com/safety-comes-first-development-of-a-maxi-cosi-child-seat/)

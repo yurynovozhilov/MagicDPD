@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANSYS 18.0 готов, можно регистрироваться на обзорные вебинар"
+title: "ANSYS 18.0 готов, можно регистрироваться на обзорные вебинары."
 date: 2017-01-26T17:01:45+00:00
 author: "GlukRazor"
 source: vk
@@ -8,7 +8,6 @@ tags:
   - ANSYS
 ---
 
-ANSYS 18.0 готов, можно регистрироваться на обзорные вебинары.
 http://www.ansys.com/Solutions/Solutions-by-Role/IT-Professionals/Platform-Support
 
 Радуемся, и читаем спеки на аппаратную платформу, ставим #ANSYS 18.0. А еще, регистриуемся на целый ворох февральских вебинаров:

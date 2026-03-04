@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Хозяйке на заметку: сертифицированные модели копотного тягач"
+title: "Хозяйке на заметку: сертифицированные модели копотного тягача и трейлера к нему."
 date: 2017-10-18T17:08:45+00:00
 author: "GlukRazor"
 source: vk
@@ -8,7 +8,7 @@ tags:
   - LSDYNA
 ---
 
-Хозяйке на заметку: сертифицированные модели копотного тягача и трейлера к нему. Разработано при поддержке National Transportation Research Center, Inc. (NTRCI) США.
+Разработано при поддержке National Transportation Research Center, Inc. (NTRCI) США.
 
 #LSDYNA
 

@@ -15,9 +15,9 @@ tags:
 - DesignXplorer
 - SpaceClaim
 - Fluent
-title: История успеха Nifco Inc., которым Wilde Analysis (британски
+title: "История успеха Nifco Inc., которым Wilde Analysis (британские партнеры ANSYS) внедрили целую пачку продуктов #ANSYS: #Fluent, #DesignXplorer, #SpaceClaim Direct Modeler и даже #Mechanical."
 ---
 
-История успеха Nifco Inc., которым Wilde Analysis (британские партнеры ANSYS) внедрили целую пачку продуктов #ANSYS: #Fluent, #DesignXplorer, #SpaceClaim Direct Modeler и даже #Mechanical. Говорят, что без работы остались японцы,  а цикл проектирования сократился с недель до часов. Видать хороший ликбез для Nifco Inc. устроили.
+Говорят, что без работы остались японцы,  а цикл проектирования сократился с недель до часов. Видать хороший ликбез для Nifco Inc. устроили.
 
 [Driving Technological Innovation with ANSYS - Wilde Analysis](http://wildeanalysis.co.uk/casestudies/driving-technological-innovation-ansys)

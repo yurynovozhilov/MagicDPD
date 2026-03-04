@@ -17,9 +17,9 @@ source: vk
 tags:
 - SimScale
 - FEM
-title: 'Основы работа метода конечных элементов в блоге #SimScale. П'
+title: "Основы работа метода конечных элементов в блоге #SimScale."
 ---
 
-Основы работа метода конечных элементов в блоге #SimScale. Пригодится для тех, кто проспал лекции в институте. #FEM
+Пригодится для тех, кто проспал лекции в институте. #FEM
 
 [The Finite Element Method - Fundamentals - Introduction [1]](https://forum.simscale.com/t/the-finite-element-method-fundamentals-introduction-1)

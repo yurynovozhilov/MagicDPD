@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Продолжаем тему #FEATool и #Gmsh - теперь более подробно про"
+title: "Продолжаем тему #FEATool и #Gmsh - теперь более подробно про создание сеток."
 date: 2017-12-08T17:18:15+00:00
 author: "GlukRazor"
 source: vk
@@ -10,8 +10,6 @@ tags:
   - mesh
   - FEATool
 ---
-
-Продолжаем тему #FEATool и #Gmsh - теперь более подробно про создание сеток.
 
 #opensource #mesh
 

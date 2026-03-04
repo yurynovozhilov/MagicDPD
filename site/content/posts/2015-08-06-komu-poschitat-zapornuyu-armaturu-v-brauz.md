@@ -9,9 +9,7 @@ link_previews:
   title: SimScale Blog | CFD, FEA, Thermal Simulation and CAE | SimScale
   url: https://blog.simscale.com/blog/2015/08/10-valve-simulation-projects-in-simscales-library/
 source: vk
-title: Кому посчитать запорную арматуру в браузере - тому в SimScal
+title: "Кому посчитать запорную арматуру в браузере - тому в SimScale."
 ---
-
-Кому посчитать запорную арматуру в браузере - тому в SimScale.
 
 [10 valve simulation projects in SimScale's library](https://blog.simscale.com/blog/2015/08/10-valve-simulation-projects-in-simscales-library/)

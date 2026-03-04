@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Live Parts от Desktop Metal - оптимизация топологии конструк"
+title: "Live Parts от Desktop Metal - оптимизация топологии конструкции в реальном времени!"
 date: 2018-03-10T18:02:17+00:00
 author: "GlukRazor"
 source: vk
@@ -14,7 +14,6 @@ images:
   - url: "/assets/images/842.jpg"
 ---
 
-Live Parts от Desktop Metal - оптимизация топологии конструкции в реальном времени!
 Desktop Metal Lab (https://labs.desktopmetal.com/liveparts/) показали технологию оптимизации формы конструкции в реальном времени!
 
 

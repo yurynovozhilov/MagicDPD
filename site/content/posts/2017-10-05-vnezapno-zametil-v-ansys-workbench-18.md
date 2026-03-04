@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Внезапно заметил в #ANSYS #Workbench 18.2 при включенных bet"
+title: "Внезапно заметил в #ANSYS #Workbench 18.2 при включенных beta опциях новую недокументированную фишку - #ACT Workflow Designer. Есть идеи, как она будет работать, когда будет работать?"
 date: 2017-10-05T08:07:18+00:00
 author: "GlukRazor"
 source: vk
@@ -10,7 +10,7 @@ tags:
   - ANSYS
 ---
 
-Внезапно заметил в #ANSYS #Workbench 18.2 при включенных beta опциях новую недокументированную фишку - #ACT Workflow Designer. Есть идеи, как она будет работать, когда будет работать?MediaMedia
+MediaMedia
 
 http://ift.tt/2xiOyEu
 

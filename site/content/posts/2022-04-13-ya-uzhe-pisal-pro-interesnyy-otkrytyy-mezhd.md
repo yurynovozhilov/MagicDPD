@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Я уже писал про интересный открытый междисциплинарный решате"
+title: "Я уже писал про интересный открытый междисциплинарный решатель \"Лось\" (#MOOSE или Multiphysics Object-Oriented Simulation Environment)."
 date: 2022-04-13T17:00:14+00:00
 author: "MagicDPD"
 source: vk
@@ -13,8 +13,6 @@ tags:
 images:
   - url: "/assets/images/2216.jpg"
 ---
-
-Я уже писал про интересный открытый междисциплинарный решатель "Лось" (#MOOSE или Multiphysics Object-Oriented Simulation Environment).
 
 Так вот, в нем теперь есть поддержка #IGA, и это все стало возможным благодаря совместному проекту с командой  #Coreform #Cubit.
 

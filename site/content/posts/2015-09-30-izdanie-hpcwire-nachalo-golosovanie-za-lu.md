@@ -20,10 +20,10 @@ tags:
 - Cloud
 - StarCD
 - Fluent
-title: 'Издание HPCWire начало голосование за лучшие HPC 2015 года. '
+title: "Издание HPCWire начало голосование за лучшие HPC 2015 года."
 ---
 
-Издание HPCWire начало голосование за лучшие HPC 2015 года. Среди множества дисциплин засветились следующие важные для нас игроки: NICE Software, ANSYS Cloud, ANSYS Fluent, Abaqus, Altair HyperWorks, Star-CD и многое другое.
+Среди множества дисциплин засветились следующие важные для нас игроки: NICE Software, ANSYS Cloud, ANSYS Fluent, Abaqus, Altair HyperWorks, Star-CD и многое другое.
 
 Голосование будет проходить до 9 Октября 23:59 по тихоокеанскому времени.
 

@@ -10,9 +10,7 @@ link_previews:
 source: vk
 tags:
 - MESH
-title: Еще немного взохов про алгортм PolyCube Based Automatic Hex-
+title: "Еще немного взохов про алгортм PolyCube Based Automatic Hex-Mesh Generation (UBC). Какая же хорошая сетка!"
 ---
-
-Еще немного взохов про алгортм PolyCube Based Automatic Hex-Mesh Generation (UBC). Какая же хорошая сетка!
 
 [PolyCube Based All-Hex Mesh Generation](https://www.cs.ubc.ca/~sheffa/hexing/hexing.htm)
