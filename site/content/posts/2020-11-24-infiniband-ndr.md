@@ -16,3 +16,5 @@ images:
 Infiniband NDR
 #HPC #Infiniband #NDR #NVIDIA
 by Юрий Новожилов
+
+[Infiniband NDR - MagicDPD](https://magicdpd.ru/infiniband-ndr/)

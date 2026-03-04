@@ -18,3 +18,5 @@ images:
 ---
 
 Coreform покупает csimsoft
+
+[Coreform покупает csimsoft - MagicDPD](https://magicdpd.ru/coreform-acquires-csimsoft/)

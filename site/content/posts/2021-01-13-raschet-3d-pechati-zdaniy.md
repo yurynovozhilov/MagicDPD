@@ -17,3 +17,5 @@ images:
 Расчет 3D печати зданий
 #ABAQUS #Additive_Manufacturing #CivilFEM #CobraPrint #Grasshopper
 by Юрий Новожилов
+
+[Расчет 3D печати зданий - MagicDPD](https://magicdpd.ru/cobraprint-civil-concrete-printing/)

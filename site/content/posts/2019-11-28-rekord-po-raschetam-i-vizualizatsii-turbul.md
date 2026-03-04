@@ -11,3 +11,5 @@ images:
 ---
 
 Рекорд по расчетам и визуализации турбулентных вихрей
+
+[Рекорд по расчетам и визуализации турбулентных вихрей - MagicDPD](https://magicdpd.ru/researchers-visualize-the-largest-turbulence-simulation-ever/)

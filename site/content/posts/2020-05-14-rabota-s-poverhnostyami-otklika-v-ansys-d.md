@@ -14,3 +14,5 @@ images:
 ---
 
 Работа с поверхностями отклика в ANSYS DX
+
+[Работа с поверхностями отклика в ANSYS DX - MagicDPD](https://magicdpd.ru/using-response-surfaces-with-dx/)

@@ -14,3 +14,5 @@ images:
 Все что вы хотели и не хотели знать о контактах в LS-DYNA
 #ARUP #LS_DYNA
 by Юрий Новожилов
+
+[Все что вы хотели и не хотели знать о контактах в LS-DYNA - MagicDPD](https://magicdpd.ru/deciphering-ls-dyna-contact-algorithms/)

@@ -14,3 +14,5 @@ images:
 ---
 
 Огромный семинар по blastFoam3.0
+
+[Огромный семинар по blastFoam3.0 - MagicDPD](https://magicdpd.ru/blastfoam-3-workshop/)

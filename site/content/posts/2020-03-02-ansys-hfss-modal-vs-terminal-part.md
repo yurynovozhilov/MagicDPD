@@ -13,3 +13,5 @@ images:
 ---
 
 ANSYS HFSS Modal vs Terminal Part
+
+[ANSYS HFSS Modal vs Terminal Part - MagicDPD](https://magicdpd.ru/ansys-hfss-modal-vs-terminal-part/)

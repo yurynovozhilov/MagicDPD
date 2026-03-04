@@ -13,3 +13,5 @@ images:
 ---
 
 Подготовка геометрии средствами LS-PrePost
+
+[Подготовка геометрии средствами LS-PrePost - MagicDPD](https://magicdpd.ru/cad-cleanup-in-ls-prepost/)

@@ -11,3 +11,5 @@ tags:
 ---
 
 Lattice Structure LSPP BlockM
+
+[Lattice Structure LSPP BlockM - MagicDPD](http://magicdpd.ru/lattice-structure-lspp-blockm/)

@@ -17,3 +17,5 @@ images:
 LS-DYNA для 2-way-FSI c учетом пористости ткани
 #FSI #ICFD #LS_DYNA #Parachute #simulationfriday
 by Юрий Новожилов
+
+[LS-DYNA для 2-way-FSI c учетом пористости ткани - MagicDPD](http://magicdpd.ru/ls-dyna-icfd-fsi-3d-porous-parachute-fsi-modeling/)

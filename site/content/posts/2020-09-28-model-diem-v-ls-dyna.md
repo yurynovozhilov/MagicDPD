@@ -14,3 +14,5 @@ images:
 ---
 
 Модель DIEM в LS-DYNA
+
+[Модель DIEM в LS-DYNA - MagicDPD](https://magicdpd.ru/diem-in-ls-dyna/)

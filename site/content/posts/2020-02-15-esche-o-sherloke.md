@@ -12,3 +12,5 @@ images:
 ---
 
 Еще о Шерлоке
+
+[Еще о Шерлоке - MagicDPD](http://magicdpd.ru/%d0%b5%d1%89%d0%b5-%d0%be-%d1%88%d0%b5%d1%80%d0%bb%d0%be%d0%ba%d0%b5/)

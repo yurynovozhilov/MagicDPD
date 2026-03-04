@@ -16,3 +16,5 @@ images:
 BAJA SAE Chassis Analysis
 #ANSYS #ANSYS_Student_Community #Mechanical #SpaceClaim
 by Юрий Новожилов
+
+[BAJA SAE Chassis Analysis - MagicDPD](https://magicdpd.ru/baja-sae-chassis-analysis/)

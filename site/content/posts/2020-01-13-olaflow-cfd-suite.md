@@ -17,3 +17,5 @@ images:
 olaFlow CFD Suite
 #CFD #offshore #OlaFlow #Open_Source #OpenFOAM
 by Юрий Новожилов
+
+[olaFlow CFD Suite - MagicDPD](https://magicdpd.ru/olaflow-cfd-suite/)

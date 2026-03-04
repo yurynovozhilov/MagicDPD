@@ -12,3 +12,5 @@ images:
 ---
 
 LS-DYNA Pinball
+
+[LS-DYNA Pinball - MagicDPD](https://magicdpd.ru/ls-dyna-pinball/)

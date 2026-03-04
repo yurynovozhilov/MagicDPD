@@ -11,3 +11,5 @@ images:
 ---
 
 Бессеточные методы и механика разрушения еды
+
+[Бессеточные методы и механика разрушения еды - MagicDPD](https://magicdpd.ru/meal-damage-simulation/)

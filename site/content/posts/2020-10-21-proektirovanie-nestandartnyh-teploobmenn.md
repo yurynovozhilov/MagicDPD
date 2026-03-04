@@ -13,3 +13,5 @@ images:
 ---
 
 Проектирование нестандартных теплообменников с nTopology
+
+[Проектирование нестандартных теплообменников с nTopology - MagicDPD](https://magicdpd.ru/ntopology-triply-periodic-minimal-surfaces/)

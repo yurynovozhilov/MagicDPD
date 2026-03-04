@@ -12,3 +12,5 @@ images:
 ---
 
 Ударим Ansys по вирусу!
+
+[Ударим Ansys по вирусу! - MagicDPD](https://magicdpd.ru/ansys-facing-covid/)

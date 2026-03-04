@@ -20,3 +20,5 @@ SMS — Selective Mass Scaling
 
 
 Существует и принципиально другой подход к масштабированию массы, давший свое название данному посту. Итак, SMS (Selective Mass Scaling). В этом случае масса в систему добавляется не просто так, а очень хитрым образом: влияние оказывается только на высокочастотный спектр
+
+[SMS - Selective Mass Scaling - MagicDPD](https://magicdpd.ru/selective-mass-scaling/)

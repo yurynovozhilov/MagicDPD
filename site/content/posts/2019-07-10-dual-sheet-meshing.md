@@ -38,3 +38,5 @@ Dual Sheet Meshing:
 
 
 Все материалы по проекту вы найдете на личной странице автора:
+
+[Dual Sheet Meshing: - MagicDPD](https://magicdpd.ru/dual-sheet-meshing/)

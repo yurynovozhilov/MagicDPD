@@ -18,3 +18,5 @@ images:
 ---
 
 Работа с CAE на удаленке
+
+[Работа с CAE на удаленке - MagicDPD](http://magicdpd.ru/remote-cae-work-simples-best-practice/)

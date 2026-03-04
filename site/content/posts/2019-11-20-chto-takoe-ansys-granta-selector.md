@@ -13,3 +13,5 @@ images:
 ---
 
 Что такое ANSYS GRANTA Selector
+
+[Что такое ANSYS GRANTA Selector - MagicDPD](https://magicdpd.ru/ansys-granta-selector/)

@@ -11,3 +11,5 @@ images:
 ---
 
 Немного про особенности пингвинов
+
+[Немного про особенности пингвинов - MagicDPD](https://magicdpd.ru/trajectory-of-penguins-faeces/)

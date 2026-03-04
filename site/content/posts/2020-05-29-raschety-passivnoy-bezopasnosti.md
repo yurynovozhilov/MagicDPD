@@ -12,3 +12,5 @@ images:
 ---
 
 Расчеты пассивной безопасности
+
+[Расчеты пассивной безопасности - MagicDPD](http://magicdpd.ru/trailer-safety-calculations/)

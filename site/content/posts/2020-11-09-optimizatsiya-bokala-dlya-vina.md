@@ -16,3 +16,5 @@ images:
 Оптимизация бокала для вина
 #CFD #MPM #Particleworks #Prometech
 by Юрий Новожилов
+
+[Оптимизация бокала для вина - MagicDPD](https://magicdpd.ru/how-to-improve-your-design-by-liquid-flow-simulation/)

@@ -14,3 +14,5 @@ images:
 ANSYS AIM — как швейцарский нож
 #AIM #ANSYS
 by Юрий Новожилов
+
+[ANSYS AIM - как швейцарский нож - MagicDPD](https://magicdpd.ru/ansys-aim-swiss-army-knife/)

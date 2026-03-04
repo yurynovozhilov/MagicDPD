@@ -28,3 +28,5 @@ We are know something about hiring
 
 
 У компании есть хороший социальный пакет, она российская, и вам не потребуется получать допуск к гостайне.
+
+[We are know something about hiring - MagicDPD](https://magicdpd.ru/we-are-know-something-about-hiring/)

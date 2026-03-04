@@ -12,3 +12,5 @@ images:
 ---
 
 LS-DYNA Submodeling
+
+[LS-DYNA Submodeling - MagicDPD](https://magicdpd.ru/ls-dyna-submodeling/)

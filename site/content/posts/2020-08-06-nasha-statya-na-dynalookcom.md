@@ -17,3 +17,5 @@ images:
 Наша статья на dynalook.com
 
 dynalook.com
+
+[Наша статья на dynalook.com - MagicDPD](https://magicdpd.ru/we-are-on-dynalook-com/)

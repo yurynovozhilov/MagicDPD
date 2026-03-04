@@ -14,3 +14,5 @@ images:
 ---
 
 Обзор актуальных нововведений в модель GISSMO
+
+[Обзор актуальных нововведений в модель GISSMO - MagicDPD](http://magicdpd.ru/recent-developments-in-gissmo/)

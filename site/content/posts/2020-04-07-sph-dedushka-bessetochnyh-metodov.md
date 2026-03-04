@@ -12,3 +12,5 @@ images:
 ---
 
 SPH — дедушка бессеточных методов
+
+[SPH - дедушка бессеточных методов - MagicDPD](https://magicdpd.ru/sph-introduction-to-a-meshless-method/)

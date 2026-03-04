@@ -13,3 +13,5 @@ images:
 Школа Дамблдора и новый год!
 #LS_DYNA
 by Юрий Новожилов
+
+[Школа Дамблдора и новый год! - MagicDPD](https://magicdpd.ru/using-ls-dyna-for-heat-transfer-coupled-thermal-stress-problems/)

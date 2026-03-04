@@ -17,3 +17,5 @@ images:
 Конференция WOST 2020
 #ANSYS #Dynardo #optimization #optiSLang #WOST
 by Юрий Новожилов
+
+[Конференция WOST 2020 - MagicDPD](http://magicdpd.ru/wost-2020/)

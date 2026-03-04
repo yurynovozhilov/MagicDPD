@@ -16,3 +16,5 @@ images:
 Disney Research рассказывает про применение XFEM
 #Disney #mesh #simulationfriday #XFEM
 by Юрий Новожилов
+
+[Disney Research рассказывает про применение XFEM - MagicDPD](https://magicdpd.ru/disney-research-xfem-for-cad-mesh/)

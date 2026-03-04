@@ -17,3 +17,5 @@ images:
 Nonlinear Concrete in CivilFEM 2019
 #CivilFEM #concrete #Ingeciber #Marc #MSC
 by Юрий Новожилов
+
+[Nonlinear Concrete in CivilFEM 2019 - MagicDPD](http://magicdpd.ru/nonlinear-concrete-in-civilfem-2019/)

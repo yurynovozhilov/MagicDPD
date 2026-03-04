@@ -14,3 +14,5 @@ images:
 Большие расчеты MPM на GPU
 #HPC #MPM
 by Юрий Новожилов
+
+[Большие расчеты MPM на GPU - MagicDPD](https://magicdpd.ru/100-million-mpm/)

@@ -13,3 +13,5 @@ images:
 ---
 
 Вебинар по EFG
+
+[Вебинар по EFG - MagicDPD](https://magicdpd.ru/efg-webinar/)

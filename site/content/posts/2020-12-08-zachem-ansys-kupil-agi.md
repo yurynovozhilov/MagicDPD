@@ -14,3 +14,5 @@ images:
 Зачем ANSYS купил AGI
 #AGI #ANSYS
 by Юрий Новожилов
+
+[Зачем ANSYS купил AGI - MagicDPD](https://magicdpd.ru/how-ansys-and-agi-products-fit-together/)

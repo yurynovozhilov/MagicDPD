@@ -13,3 +13,5 @@ images:
 ---
 
 Презентация Cray-1
+
+[Презентация Cray-1 - MagicDPD](http://magicdpd.ru/cray-1-introduction/)

@@ -14,3 +14,5 @@ images:
 Как можно разупрочняться
 #concrete #DIANA
 by Юрий Новожилов
+
+[Как можно разупрочняться - MagicDPD](https://magicdpd.ru/tensile-stress-strain-curves-in-diana-fea/)

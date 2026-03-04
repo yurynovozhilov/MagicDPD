@@ -17,3 +17,5 @@ images:
 Impetus Afea для реверсивной прокатки?!
 #Afea #explicit #GPU #IMPETUS #rolling
 by Юрий Новожилов
+
+[Impetus Afea для реверсивной прокатки?! - MagicDPD](https://magicdpd.ru/impetus-afea-hot-rolling/)

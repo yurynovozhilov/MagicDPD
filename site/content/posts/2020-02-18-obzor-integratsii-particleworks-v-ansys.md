@@ -15,3 +15,5 @@ images:
 Обзор интеграции Particleworks в ANSYS
 #ANSYS #Particleworks #Prometech
 by Юрий Новожилов
+
+[Обзор интеграции Particleworks в ANSYS - MagicDPD](https://magicdpd.ru/particleworks-ansys-fsi/)

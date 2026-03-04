@@ -13,3 +13,5 @@ images:
 Процессы прокатки
 #ретро
 by Юрий Новожилов
+
+[Процессы прокатки - MagicDPD](https://magicdpd.ru/hot-rolling/)

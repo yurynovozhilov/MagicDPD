@@ -16,3 +16,5 @@ images:
 Easy8 — Bright Cluster Manager бесплатно!
 #BrightClusterManager #easy8 #HPC #Linux
 by Юрий Новожилов
+
+[Easy8 - Bright Cluster Manager бесплатно! - MagicDPD](https://magicdpd.ru/easy8-bright-cluster-manager-for-free/)

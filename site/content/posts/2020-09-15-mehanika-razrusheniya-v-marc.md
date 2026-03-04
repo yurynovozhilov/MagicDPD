@@ -13,3 +13,5 @@ images:
 ---
 
 Механика разрушения в Marc
+
+[Механика разрушения в Marc - MagicDPD](https://magicdpd.ru/fracture-in-marc/)

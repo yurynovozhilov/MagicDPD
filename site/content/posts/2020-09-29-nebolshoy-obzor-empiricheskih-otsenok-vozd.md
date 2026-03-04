@@ -12,3 +12,5 @@ images:
 ---
 
 Небольшой обзор эмпирических оценок воздействия взрывов
+
+[Небольшой обзор эмпирических оценок воздействия взрывов - MagicDPD](https://magicdpd.ru/analytical-and-empirical-estimations-for-incident-blast-pressure/)

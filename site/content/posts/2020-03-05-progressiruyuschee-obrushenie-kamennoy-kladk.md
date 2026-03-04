@@ -13,3 +13,5 @@ images:
 ---
 
 Прогрессирующее обрушение каменной кладки
+
+[Прогрессирующее обрушение каменной кладки - MagicDPD](https://magicdpd.ru/masonry-progressive-fracture/)

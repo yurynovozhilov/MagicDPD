@@ -14,3 +14,5 @@ images:
 Свободный доступ к материалам конференции FRAGBLAST
 #blast #fracture
 by Юрий Новожилов
+
+[Свободный доступ к материалам конференции FRAGBLAST - MagicDPD](https://magicdpd.ru/fragblast/)

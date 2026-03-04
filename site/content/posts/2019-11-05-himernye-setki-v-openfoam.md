@@ -17,3 +17,5 @@ images:
 Химерные сетки в  OpenFOAM
 #CFD #Open_Source #OpenFOAM #Overset_Mesh #Wolf_Dynamics
 by Юрий Новожилов
+
+[Химерные сетки в OpenFOAM - MagicDPD](https://magicdpd.ru/overset-meshes-in-openfoam/)

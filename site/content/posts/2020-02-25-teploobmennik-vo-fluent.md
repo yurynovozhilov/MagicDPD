@@ -14,3 +14,5 @@ images:
 Теплообменник во Fluent
 #ANSYS #Fluent
 by Юрий Новожилов
+
+[Теплообменник во Fluent - MagicDPD](http://magicdpd.ru/fluent-heat-transfer/)

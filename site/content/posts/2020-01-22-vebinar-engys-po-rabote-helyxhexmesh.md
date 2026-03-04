@@ -19,3 +19,5 @@ images:
 ---
 
 Вебинар ENGYS по работе helyxHexMesh
+
+[Вебинар ENGYS по работе helyxHexMesh - MagicDPD](https://magicdpd.ru/helyxhexmesh-by-engys-webinar/)

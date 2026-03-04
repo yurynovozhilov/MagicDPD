@@ -17,3 +17,5 @@ images:
 Расчет «тераформирования» в реальном времени благодаря гибридной DEM постановке
 #AGX_Dynamics #Algoryx #ANSYS #DEM #SpaceClaim
 by Юрий Новожилов
+
+[Расчет "тераформирования" в реальном времени благодаря гибридной DEM постановке - MagicDPD](https://magicdpd.ru/terrain-dynamics-for-real-time-earthmoving-simulation/)

@@ -16,3 +16,5 @@ images:
 Красивые взрывы
 #blast #CFD #GPU #Viper_Blast
 by Юрий Новожилов
+
+[Красивые взрывы - MagicDPD](https://magicdpd.ru/beautiful-explosions/)

@@ -13,3 +13,5 @@ images:
 Как работает МКЭ
 #FEM
 by Юрий Новожилов
+
+[Как работает МКЭ - MagicDPD](https://magicdpd.ru/fem-start/)

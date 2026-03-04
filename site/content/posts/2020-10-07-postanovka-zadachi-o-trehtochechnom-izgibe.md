@@ -17,3 +17,5 @@ images:
 Постановка задачи о трехточечном изгибе сэндвич панели в ANSYS
 #ACP #ANSYS #composite #LEAP #Mechanical
 by Юрий Новожилов
+
+[Постановка задачи о трехточечном изгибе сэндвич панели в ANSYS - MagicDPD](https://magicdpd.ru/ansys-acp-for-sandwich-panel/)

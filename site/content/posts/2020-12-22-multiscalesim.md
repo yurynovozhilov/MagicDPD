@@ -15,3 +15,5 @@ tags:
 ---
 
 Multiscale.Sim
+
+[Multiscale.Sim - MagicDPD](https://magicdpd.ru/multiscale-sim/)

@@ -15,3 +15,5 @@ images:
 Madona: Run MATLAB/Octave code
 #iOS #MATLAB #Octave
 by Юрий Новожилов
+
+[Madona: Run MATLAB/Octave code - MagicDPD](http://magicdpd.ru/madona-run-matlab-octave-code/)

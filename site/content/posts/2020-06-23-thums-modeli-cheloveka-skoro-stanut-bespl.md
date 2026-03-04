@@ -13,3 +13,5 @@ images:
 THUMS модели человека скоро станут бесплатными
 #THUMS
 by Юрий Новожилов
+
+[THUMS модели человека скоро станут бесплатными - MagicDPD](http://magicdpd.ru/toyota-offers-free-access-to-thums/)

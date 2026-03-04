@@ -15,3 +15,5 @@ images:
 ---
 
 Анонс вебинара по SPG
+
+[Анонс вебинара по SPG - MagicDPD](https://magicdpd.ru/spg-webinar/)

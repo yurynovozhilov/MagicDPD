@@ -15,3 +15,5 @@ images:
 Synthetik Applied Technologies и ее blastFoam
 #blast #blastFOAM #CFD
 by Юрий Новожилов
+
+[Synthetik Applied Technologies и ее blastFoam - MagicDPD](http://magicdpd.ru/synthetik-applied-technologies-blastfoam/)

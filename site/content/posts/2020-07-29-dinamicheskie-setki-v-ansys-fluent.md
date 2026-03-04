@@ -13,3 +13,5 @@ images:
 ---
 
 Динамические сетки в Ansys Fluent
+
+[Динамические сетки в Ansys Fluent - MagicDPD](https://magicdpd.ru/ansys-fluent-dynamic-mesh-problem/)

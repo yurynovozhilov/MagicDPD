@@ -12,3 +12,5 @@ images:
 ---
 
 Отличная реклама ANSYS Discovery Live
+
+[Отличная реклама ANSYS Discovery Live - MagicDPD](https://magicdpd.ru/ansys-discovery-live-advertisement/)

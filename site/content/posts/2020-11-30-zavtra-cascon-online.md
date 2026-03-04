@@ -12,3 +12,5 @@ images:
 ---
 
 Завтра CASCON Online
+
+[Завтра CASCON Online - MagicDPD](https://magicdpd.ru/cascon-online-2020/)

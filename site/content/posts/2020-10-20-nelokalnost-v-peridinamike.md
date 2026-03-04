@@ -14,3 +14,5 @@ images:
 Нелокальность в перидинамике
 #nonlocal #peridynamics
 by Юрий Новожилов
+
+[Нелокальность в перидинамике - MagicDPD](https://magicdpd.ru/nonlocality-in-peridynamics/)

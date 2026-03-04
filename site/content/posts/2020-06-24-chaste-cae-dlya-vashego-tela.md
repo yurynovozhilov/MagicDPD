@@ -16,3 +16,5 @@ images:
 Chaste — CAE для вашего тела
 #bio #biomed #chaste #Open_Source
 by Юрий Новожилов
+
+[Chaste - CAE для вашего тела - MagicDPD](https://magicdpd.ru/chaste-cae-for-you-body/)

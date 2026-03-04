@@ -14,3 +14,5 @@ images:
 Extended Position Based Dynamics
 #NVIDIA #RBD
 by Юрий Новожилов
+
+[Extended Position Based Dynamics - MagicDPD](https://magicdpd.ru/extended-position-based-dynamics/)

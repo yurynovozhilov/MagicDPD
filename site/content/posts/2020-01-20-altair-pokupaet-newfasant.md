@@ -13,3 +13,5 @@ images:
 ---
 
 Altair покупает newFASANT
+
+[Altair покупает newFASANT - MagicDPD](https://magicdpd.ru/altair-acquires-newfasant/)

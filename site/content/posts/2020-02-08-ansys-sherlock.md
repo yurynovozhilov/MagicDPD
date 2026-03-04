@@ -12,3 +12,5 @@ images:
 ---
 
 ANSYS Sherlock
+
+[ANSYS Sherlock - MagicDPD](http://magicdpd.ru/ansys-sherlock/)

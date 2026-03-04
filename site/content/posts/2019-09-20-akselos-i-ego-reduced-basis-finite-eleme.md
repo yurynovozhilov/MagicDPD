@@ -24,3 +24,5 @@ Akselos и его Reduced-Basis Finite Element Analysis
 
 
 Вся эта магия создается неким собственным Reduced-Basis Finite Element Analysis методом (далее RB-FEM), который работает в тысячи раз быстрее традиционного МКЭ. Однако при изучении материалов и научных статей с сайта выясняется, что этот RB-FEM — это просто техника очень грамотного и автоматизированного создания суперэлементов для всего, что линейно по первому чиху. Соответственно все, что у нас нелинейно считается как обычно. Ну что ж, заход хороший, но опытных пользователей ANSYS и NASTRAN такая магия не должна удивить.
+
+[Akselos и его Reduced-Basis Finite Element Analysis - MagicDPD](http://magicdpd.ru/akselos-and-reduced-basis-finite-element-analysis/)

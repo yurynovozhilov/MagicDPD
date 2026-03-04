@@ -13,3 +13,5 @@ tags:
 CFD расчет выстрела
 #CFD #OpenFOAM #simulationfriday
 by Юрий Новожилов
+
+[CFD расчет выстрела - MagicDPD](http://magicdpd.ru/cfd-simulation-of-a-bullet-fired/)

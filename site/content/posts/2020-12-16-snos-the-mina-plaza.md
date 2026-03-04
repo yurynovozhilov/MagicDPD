@@ -15,3 +15,5 @@ images:
 Снос The Mina Plaza
 #Applied_Science_International #ASI #Civil
 by Юрий Новожилов
+
+[Снос The Mina Plaza - MagicDPD](https://magicdpd.ru/mina-plaza-demolition/)

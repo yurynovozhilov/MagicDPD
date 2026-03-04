@@ -10,3 +10,5 @@ tags:
 ---
 
 Анонс серии вебинаров по правильным расчетам композитов
+
+[Анонс серии вебинаров по правильным расчетам композитов - MagicDPD](http://magicdpd.ru/ls-dyna-composites-by-aleksandr-cherniaev/)

@@ -14,3 +14,5 @@ images:
 LS-PrePost для качественных иллюстраций и видео
 #LS_PrePost #LSTC
 by Юрий Новожилов
+
+[LS-PrePost для качественных иллюстраций и видео - MagicDPD](http://magicdpd.ru/ls-prepost-hq-render/)

@@ -12,3 +12,5 @@ images:
 ---
 
 CADFEM Medical Conference 2020
+
+[CADFEM Medical Conference 2020 - MagicDPD](https://magicdpd.ru/cadfem-medical-conference-2020/)

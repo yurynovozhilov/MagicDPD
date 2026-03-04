@@ -15,3 +15,5 @@ images:
 Ansys Fluent Meshing GUI
 #ANSYS #Fluent_Meshing #mesh
 by Юрий Новожилов
+
+[Ansys Fluent Meshing GUI - MagicDPD](https://magicdpd.ru/ansys-fluent-meshing-gui/)

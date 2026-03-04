@@ -13,3 +13,5 @@ images:
 ---
 
 Тонкости настройки LS-DYNA Implicit
+
+[Тонкости настройки LS-DYNA Implicit - MagicDPD](https://magicdpd.ru/tips-and-tricks-for-successful-implicit-analysis-with-ls-dyna/)

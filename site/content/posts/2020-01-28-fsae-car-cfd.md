@@ -14,3 +14,5 @@ images:
 ---
 
 FSAE Car CFD
+
+[FSAE Car CFD - MagicDPD](http://magicdpd.ru/fsae-car-cfd/)

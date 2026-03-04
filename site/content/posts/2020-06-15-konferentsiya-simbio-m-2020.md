@@ -15,3 +15,5 @@ images:
 Конференция SIMBIO-M 2020
 #biomed #LS_DYNA #Marc
 by Юрий Новожилов
+
+[Конференция SIMBIO-M 2020 - MagicDPD](https://magicdpd.ru/simbio-m-2020/)

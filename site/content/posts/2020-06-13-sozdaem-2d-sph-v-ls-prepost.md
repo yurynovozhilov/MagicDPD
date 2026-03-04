@@ -15,3 +15,5 @@ images:
 Создаем 2D SPH в LS-PrePost
 #LS_DYNA #LS_PrePost #SPH
 by Юрий Новожилов
+
+[Создаем 2D SPH в LS-PrePost - MagicDPD](https://magicdpd.ru/2d-sph-in-ls-prepost/)

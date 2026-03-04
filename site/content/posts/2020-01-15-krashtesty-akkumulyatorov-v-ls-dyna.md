@@ -23,3 +23,5 @@ www.youtube.com/watch?v=xU...
 
 Решая такую сложную междисциплинарную задачу, специалисты по пассивной безопасности могут оценивать вероятность ущерба, наносимого батарее при ударных воздействиях, внешнем и внутреннем коротком замыкании и дальнейший разогрев/деградацию/разрушении объекта.
 #battery@magicdpd, #ICFD@magicdpd, #LSDYNA@magicdpd, #LSDYNA_EM@magicdpd, #thermal@magicdpd
+
+[Краштесты аккумуляторов в LS-DYNA - MagicDPD](https://magicdpd.ru/battery-crash-simulations-in-ls-dyna/)

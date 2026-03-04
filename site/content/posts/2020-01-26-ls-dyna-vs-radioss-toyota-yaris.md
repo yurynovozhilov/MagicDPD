@@ -12,3 +12,5 @@ images:
 ---
 
 LS-DYNA vs RADIOSS (Toyota Yaris)
+
+[LS-DYNA vs RADIOSS (Toyota Yaris) - MagicDPD](https://magicdpd.ru/ls-dyna-vs-radioss-toyota-yaris/)

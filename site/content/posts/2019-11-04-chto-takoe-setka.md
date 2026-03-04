@@ -14,3 +14,5 @@ images:
 Что такое «сетка»
 #mesh #Simscale
 by Юрий Новожилов
+
+[Что такое "сетка" - MagicDPD](https://magicdpd.ru/%d1%87%d1%82%d0%be-%d1%82%d0%b0%d0%ba%d0%be%d0%b5-%d1%81%d0%b5%d1%82%d0%ba%d0%b0/)

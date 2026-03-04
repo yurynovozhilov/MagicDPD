@@ -16,3 +16,5 @@ images:
 Все, что надо знать про настройку RSM
 #ANSYS #ARC #HPC #RSM
 by Юрий Новожилов
+
+[Все, что надо знать про настройку RSM - MagicDPD](http://magicdpd.ru/setup-ansys-rsm-with-arc/)

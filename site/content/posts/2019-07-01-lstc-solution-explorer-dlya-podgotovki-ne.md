@@ -44,3 +44,5 @@ LSTC Solution Explorer для подготовки нелинейного рас
 
 
 С одной стороны, это очень здорово, это снижение порога входа для пользователей LS-DYNA. С другой стороны —
+
+[LSTC Solution Explorer для подготовки нелинейного расчета LS-DYNA Implicit - MagicDPD](http://magicdpd.ru/nonlinear-implicit-ls-dyna-workflow-in-solution-explorer/)

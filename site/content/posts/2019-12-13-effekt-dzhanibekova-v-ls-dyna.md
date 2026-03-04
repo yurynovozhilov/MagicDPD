@@ -14,3 +14,5 @@ images:
 Эффект Джанибекова в LS-DYNA
 #LS_DYNA #simulationfriday
 by Юрий Новожилов
+
+[Эффект Джанибекова в LS-DYNA - MagicDPD](http://magicdpd.ru/dzhanibekov-effect-in-ls-dyna/)

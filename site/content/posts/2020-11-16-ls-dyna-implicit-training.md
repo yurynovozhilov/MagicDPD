@@ -14,3 +14,5 @@ images:
 LS-DYNA Implicit Training
 #implicit #LS_DYNA
 by Юрий Новожилов
+
+[LS-DYNA Implicit Training - MagicDPD](https://magicdpd.ru/ls-dyna-implicit-training/)

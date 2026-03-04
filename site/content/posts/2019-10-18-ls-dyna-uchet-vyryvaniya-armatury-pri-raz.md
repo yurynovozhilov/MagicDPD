@@ -13,3 +13,5 @@ images:
 ---
 
 LS-DYNA: учет вырывания арматуры при разрушении железобетона
+
+[LS-DYNA: учет вырывания арматуры при разрушении железобетона - MagicDPD](https://magicdpd.ru/rebar-bond-slip-effect-in-ls-dyna/)

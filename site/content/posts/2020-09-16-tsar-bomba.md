@@ -11,3 +11,5 @@ images:
 ---
 
 Царь-Бомба
+
+[Царь-Бомба - MagicDPD](https://magicdpd.ru/thermonuclear-bomb/)

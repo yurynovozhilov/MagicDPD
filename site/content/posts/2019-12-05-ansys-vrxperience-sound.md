@@ -13,3 +13,5 @@ images:
 ---
 
 ANSYS VRXPERIENCE SOUND
+
+[ANSYS VRXPERIENCE SOUND - MagicDPD](https://magicdpd.ru/ansys-vrxperience-sound/)

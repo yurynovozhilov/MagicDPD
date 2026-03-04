@@ -17,3 +17,5 @@ images:
 Процедура настройки на эксперимент «Full Field Calibration» в LS-OPT
 #calibration #DIC #FFC #LS_DYNA #LS_OPT
 by Юрий Новожилов
+
+[Процедура настройки на эксперимент "Full Field Calibration" в LS-OPT - MagicDPD](https://magicdpd.ru/full-field-calibration-using-ls-opt-6/)

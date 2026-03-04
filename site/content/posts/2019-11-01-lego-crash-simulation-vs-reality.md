@@ -14,3 +14,5 @@ images:
 ---
 
 Lego Crash Simulation vs. Reality
+
+[Lego Crash Simulation vs. Reality - MagicDPD](http://magicdpd.ru/lego-crash-simulation-vs-reality/)

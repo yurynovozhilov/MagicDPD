@@ -11,3 +11,5 @@ images:
 ---
 
 Образцовая научная статья
+
+[Образцовая научная статья - MagicDPD](https://magicdpd.ru/get-me-off-your-fucking-mailing-list/)

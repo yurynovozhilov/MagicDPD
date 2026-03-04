@@ -12,3 +12,5 @@ images:
 ---
 
 Резка скальных пород
+
+[Резка скальных пород - MagicDPD](https://magicdpd.ru/rock-cutting-process-simulation/)

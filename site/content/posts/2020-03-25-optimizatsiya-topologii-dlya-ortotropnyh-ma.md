@@ -17,3 +17,5 @@ images:
 Оптимизация топологии для ортотропных материалов
 #BetaCAE #composite #Epilysis #optimization #Topology
 by Юрий Новожилов
+
+[Оптимизация топологии для ортотропных материалов - MagicDPD](https://magicdpd.ru/topology-optimization-and-material-orientation-on-orthotropic-materials/)

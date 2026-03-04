@@ -12,3 +12,5 @@ images:
 ---
 
 Сейсмическое возделйствие на железобетно: расчет и эксперимент
+
+[Сейсмическое возделйствие на железобетно: расчет и эксперимент - MagicDPD](https://magicdpd.ru/experimental-vs-numerical-diana-response-of-rc-walls-subjected-to-earthquake-loading/)

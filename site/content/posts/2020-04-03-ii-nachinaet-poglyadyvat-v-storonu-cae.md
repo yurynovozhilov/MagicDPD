@@ -13,3 +13,5 @@ images:
 ---
 
 ИИ начинает поглядывать в сторону CAE
+
+[ИИ начинает поглядывать в сторону CAE - MagicDPD](https://magicdpd.ru/machine-learning-for-accelerated-cae/)

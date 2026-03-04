@@ -19,3 +19,5 @@ tags:
 Подготовка модели:
 
 Обработка результатов:
+
+[Работа с композитами в HyperMesh — MagicDPD](https://magicdpd.ru/?p=6464&lang=ru)

@@ -15,3 +15,5 @@ images:
 FreeCAD Reinforcement Workbench
 #FreeCAD #Open_Source #reinforcement
 by Юрий Новожилов
+
+[FreeCAD Reinforcement Workbench - MagicDPD](https://magicdpd.ru/freecad-reinforcement-workbench/)

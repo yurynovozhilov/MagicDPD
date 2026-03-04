@@ -15,3 +15,5 @@ images:
 ---
 
 Презентация LoopyCuts
+
+[Презентация LoopyCuts - MagicDPD](https://magicdpd.ru/loopycuts-presentation/)

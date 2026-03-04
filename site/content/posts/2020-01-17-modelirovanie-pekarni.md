@@ -11,3 +11,5 @@ images:
 ---
 
 Моделирование пекарни
+
+[Моделирование пекарни - MagicDPD](http://magicdpd.ru/baking-and-melting-chocolate-simulations/)

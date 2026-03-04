@@ -18,3 +18,5 @@ images:
 Lego Crash Test Webinar
 #CAViT #LEGO #LoCo #LS_DYNA #Scale_GmbH #SDM
 by Юрий Новожилов
+
+[Lego Crash Test Webinar - MagicDPD](https://magicdpd.ru/lego-crash-test-webinar/)

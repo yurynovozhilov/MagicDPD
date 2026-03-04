@@ -12,3 +12,5 @@ images:
 ---
 
 PreonLab 4.1 получил адаптивность для метода частиц
+
+[PreonLab 4.1 получил адаптивность для метода частиц - MagicDPD](https://magicdpd.ru/preonlab-4-1-local-refinement/)

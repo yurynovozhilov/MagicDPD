@@ -13,3 +13,5 @@ images:
 ---
 
 Ansys LevelUp — беседа с разработчиками Ansys Mechanical
+
+[Ansys LevelUp - беседа с разработчиками Ansys Mechanical - MagicDPD](https://magicdpd.ru/ansys-levelup-mechanical/)

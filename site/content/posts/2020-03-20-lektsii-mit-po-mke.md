@@ -15,3 +15,5 @@ images:
 Лекции MIT по МКЭ
 #ADINA #FEM #legendpeople
 by Юрий Новожилов
+
+https://magicdpd.ru/finite-element-procedures-for-solids-and-structures-by-mit/

@@ -16,3 +16,5 @@ images:
 DualSPHysics v5
 #DualSPHysics #GPU #Open_Source #SPH
 by Юрий Новожилов
+
+[DualSPHysics v5 - MagicDPD](http://magicdpd.ru/dualsphysics-v5/)

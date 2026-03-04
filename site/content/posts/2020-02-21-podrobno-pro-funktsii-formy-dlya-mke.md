@@ -15,3 +15,5 @@ images:
 Подробно про функции формы для МКЭ
 #FEM #mesh #theory
 by Юрий Новожилов
+
+[Подробно про функции формы для МКЭ - MagicDPD](https://magicdpd.ru/fem-shape-function/)

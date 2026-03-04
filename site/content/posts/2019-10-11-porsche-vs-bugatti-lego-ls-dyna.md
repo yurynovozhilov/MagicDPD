@@ -18,3 +18,5 @@ images:
 ---
 
 Porsche vs Bugatti — LEGO LS-DYNA
+
+https://magicdpd.ru/porsche-vs-bugatti-lego-ls-dyna/

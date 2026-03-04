@@ -18,3 +18,5 @@ images:
 ---
 
 Infoday Welding and Heat Treatment
+
+[Infoday Welding and Heat Treatment - MagicDPD](https://magicdpd.ru/infoday-welding-and-heat-treatment/)

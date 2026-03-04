@@ -9,3 +9,5 @@ images:
 ---
 
 Крутильные колебани от СоюзВузФильм
+
+[Крутильные колебани от СоюзВузФильм - MagicDPD](https://magicdpd.ru/torsional-vibrations-from-soyuzvuzfilm/)

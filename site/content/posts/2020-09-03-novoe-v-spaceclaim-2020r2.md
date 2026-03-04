@@ -13,3 +13,5 @@ images:
 Новое в SpaceClaim 2020R2
 #SpaceClaim
 by Юрий Новожилов
+
+[Новое в SpaceClaim 2020R2 - MagicDPD](https://magicdpd.ru/%d0%bd%d0%be%d0%b2%d0%be%d0%b5-%d0%b2-spaceclaim-2020r2/)

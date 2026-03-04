@@ -13,3 +13,5 @@ images:
 В CFD для чайников — часть 2: уравнение Навье-Стокса
 #CFD
 by Юрий Новожилов
+
+[В CFD для чайников - часть 2: уравнение Навье-Стокса - MagicDPD](https://magicdpd.ru/cfd-from-the-basics-and-master-2/)

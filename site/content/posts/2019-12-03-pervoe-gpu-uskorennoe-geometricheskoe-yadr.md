@@ -17,3 +17,5 @@ images:
 ---
 
 Первое GPU-ускоренное геометрическое ядро
+
+[Первое GPU-ускоренное геометрическое ядро - MagicDPD](https://magicdpd.ru/gpu-cad-core/)

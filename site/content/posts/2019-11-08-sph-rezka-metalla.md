@@ -14,3 +14,5 @@ images:
 SPH резка металла
 #LS_DYNA #SPH
 by Юрий Новожилов
+
+[SPH резка металла - MagicDPD](http://magicdpd.ru/sph-metal-cutting/)

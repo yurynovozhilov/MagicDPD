@@ -11,3 +11,5 @@ images:
 ---
 
 Newton DEM
+
+[Newton DEM - MagicDPD](https://magicdpd.ru/newton-dem/)

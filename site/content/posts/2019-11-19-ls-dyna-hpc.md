@@ -15,3 +15,5 @@ images:
 ---
 
 LS-DYNA HPC
+
+[LS-DYNA HPC - MagicDPD](https://magicdpd.ru/ls-dyna-hpc/)

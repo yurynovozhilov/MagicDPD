@@ -14,3 +14,5 @@ images:
 Quickfem — МКЭ расчеты в iOS
 #iOS #Quickfem
 by Юрий Новожилов
+
+[Quickfem - МКЭ расчеты в iOS - MagicDPD](https://magicdpd.ru/quickfem/)

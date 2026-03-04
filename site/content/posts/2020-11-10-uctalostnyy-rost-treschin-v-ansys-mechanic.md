@@ -16,3 +16,5 @@ images:
 Уcталостный рост трещин в Ansys Mechanical
 #ANSYS #crack #Fatigue #Mechanical
 by Юрий Новожилов
+
+[Уcталостный рост трещин в Ansys Mechanical - MagicDPD](https://magicdpd.ru/ansys-mechanical-fatigue_fracture/)

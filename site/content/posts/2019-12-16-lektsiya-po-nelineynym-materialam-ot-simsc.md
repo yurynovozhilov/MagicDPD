@@ -12,3 +12,5 @@ images:
 ---
 
 Лекция по нелинейным материалам от SimScale и Enterfea
+
+[Лекция по нелинейным материалам от SimScale и Enterfea - MagicDPD](http://magicdpd.ru/nonlinear-materials-by-simscale-and-enterfea/)

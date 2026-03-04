@@ -14,3 +14,5 @@ images:
 ANSYS попал в индекс NASDAQ-100
 #ANSYS #stocks
 by Юрий Новожилов
+
+[ANSYS попал в индекс NASDAQ-100 - MagicDPD](http://magicdpd.ru/ansys-to-join-nasdaq-100-index/)

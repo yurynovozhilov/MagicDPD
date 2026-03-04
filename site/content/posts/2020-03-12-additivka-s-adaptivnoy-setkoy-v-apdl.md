@@ -14,3 +14,5 @@ images:
 ---
 
 Аддитивка с адаптивной сеткой в APDL!
+
+[Аддитивка с адаптивной сеткой в APDL! - MagicDPD](http://magicdpd.ru/ansys-am-simulation-with-mesh-dynamic-remeshing/)

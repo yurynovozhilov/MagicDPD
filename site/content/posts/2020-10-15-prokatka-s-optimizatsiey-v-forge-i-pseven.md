@@ -15,3 +15,5 @@ images:
 Прокатка с оптимизацией в Forge и pSeven
 #forge #pSeven #TRANSVALOR
 by Юрий Новожилов
+
+[Прокатка с оптимизацией в Forge и pSeven - MagicDPD](https://magicdpd.ru/forge-and-pseven/)

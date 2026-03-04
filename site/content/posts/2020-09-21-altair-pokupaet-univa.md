@@ -15,3 +15,5 @@ images:
 ---
 
 Altair покупает Univa
+
+[Overview of Univa Grid Engine](https://magicdpd.ru/altair-acquires-univa/)

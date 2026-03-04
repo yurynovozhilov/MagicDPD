@@ -16,3 +16,5 @@ images:
 Работа адаптивных сеток в ANSYS Mechanical
 #ANSYS #Mechanical #mesh #NLAD
 by Юрий Новожилов
+
+[Работа адаптивных сеток в ANSYS Mechanical - MagicDPD](http://magicdpd.ru/mesh-nonlinear-adaptivity-nlad/)

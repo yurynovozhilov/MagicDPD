@@ -28,3 +28,5 @@ We are hiring!
 
 
 LS-PrePost — основной инструмент оптимизации и отладки расчетных моделей, а так же обработки результатов.Знание Python — автоматизация постановки задач и обработка результатов (NumPy, SciPy,
+
+[We are hiring! - MagicDPD](https://magicdpd.ru/we-are-hiring/)

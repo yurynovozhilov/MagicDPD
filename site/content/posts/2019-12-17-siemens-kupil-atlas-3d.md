@@ -16,3 +16,5 @@ images:
 ---
 
 Siemens купил Atlas 3D
+
+[Siemens купил Atlas 3D - MagicDPD](https://magicdpd.ru/siemens-acquire-atlas-3d/)

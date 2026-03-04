@@ -14,3 +14,5 @@ source: vk
 
 www.radio-t.com
 umputun.com
+
+[Правило обсуждения ТЗ и оценки трудоемкости](https://magicdpd.ru/?p=6891)

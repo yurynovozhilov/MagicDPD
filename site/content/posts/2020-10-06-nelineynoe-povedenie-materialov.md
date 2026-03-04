@@ -14,3 +14,5 @@ images:
 Нелинейное поведение материалов
 #MIDAS #midasNFX
 by Юрий Новожилов
+
+[Нелинейное поведение материалов - MagicDPD](https://magicdpd.ru/material-non-linearity-modelling-midas/)

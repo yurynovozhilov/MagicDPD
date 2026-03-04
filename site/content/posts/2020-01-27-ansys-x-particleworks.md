@@ -15,3 +15,5 @@ images:
 ---
 
 ANSYS x Particleworks
+
+[ANSYS x Particleworks - MagicDPD](https://magicdpd.ru/ansys-x-particleworks/)

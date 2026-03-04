@@ -13,3 +13,5 @@ images:
 ---
 
 LS-DYNA Implicit — с чего начать
+
+[LS-DYNA Implicit - с чего начать - MagicDPD](https://magicdpd.ru/ls-dyna-implicit/)

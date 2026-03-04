@@ -36,3 +36,5 @@ images:
 
 
 И в качестве вишенки на торте: LS-DYNA умеет считать через SHP плоские и осесимметричные постановки, а также делать
+
+[Взаимодествие с SPH в LS-DYNA - MagicDPD](https://magicdpd.ru/sph-interraction-in-ls-dyna/)

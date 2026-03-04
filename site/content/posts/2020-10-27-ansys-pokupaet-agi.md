@@ -15,3 +15,5 @@ images:
 ANSYS покупает AGI
 #AGI #ANSYS #Ansys_Acquire
 by Юрий Новожилов
+
+[ANSYS покупает AGI - MagicDPD](https://magicdpd.ru/ansys-acquire-agi/)

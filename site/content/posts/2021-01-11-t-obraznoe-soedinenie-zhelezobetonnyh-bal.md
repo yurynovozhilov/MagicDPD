@@ -14,3 +14,5 @@ images:
 T-образное соединение железобетонных балок
 #APDL #concrete
 by Юрий Новожилов
+
+[T-образное соединение железобетонных балок - MagicDPD](https://magicdpd.ru/ansys-workbench-v2020-r2-tutorial-for-a-reinforced-concrete-t-joint/)

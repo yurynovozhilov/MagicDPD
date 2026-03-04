@@ -15,3 +15,5 @@ images:
 ANSYS Discovery Live 2020 R1
 #ANSYS #Discovery #Live
 by Юрий Новожилов
+
+[ANSYS Discovery Live 2020 R1 - MagicDPD](https://magicdpd.ru/ansys-discovery-live-2020-r1/)

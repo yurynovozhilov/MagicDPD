@@ -15,3 +15,5 @@ images:
 ---
 
 X-FEM в APDL
+
+[X-FEM в APDL - MagicDPD](http://magicdpd.ru/xfem-in-apdl/)

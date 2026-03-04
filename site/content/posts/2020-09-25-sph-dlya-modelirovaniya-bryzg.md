@@ -16,3 +16,5 @@ images:
 SPH для моделирования брызг
 #LS_DYNA #Sloshing #SPH
 by Юрий Новожилов
+
+[SPH для моделирования брызг - MagicDPD](https://magicdpd.ru/modeling-splashing-and-sloshing-in-ls-dyna-using-sph/)

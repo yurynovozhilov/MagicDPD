@@ -15,3 +15,5 @@ images:
 LS-DYNA для студентов бесплатно!
 #ANSYS #LS_DYNA #Student
 by Юрий Новожилов
+
+https://magicdpd.ru/ls-dyna-student/

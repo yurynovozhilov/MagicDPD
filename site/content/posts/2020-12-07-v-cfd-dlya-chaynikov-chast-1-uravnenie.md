@@ -13,3 +13,5 @@ images:
 В CFD для чайников — часть 1: уравнение неразрывности
 #CFD
 by Юрий Новожилов
+
+[В CFD для чайников - часть 1: уравнение неразрывности - MagicDPD](https://magicdpd.ru/cfd-from-the-basics-and-master-1/)

@@ -11,3 +11,5 @@ images:
 ---
 
 Практическая сеточная сходимость
+
+[Практическая сеточная сходимость - MagicDPD](https://magicdpd.ru/mesh-convergence/)

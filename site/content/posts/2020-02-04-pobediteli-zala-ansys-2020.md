@@ -13,3 +13,5 @@ images:
 ---
 
 Победители зала ANSYS 2020
+
+[Победители зала ANSYS 2020 - MagicDPD](http://magicdpd.ru/ansys-hof-2020/)

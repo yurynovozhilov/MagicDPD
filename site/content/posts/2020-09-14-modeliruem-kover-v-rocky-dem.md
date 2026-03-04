@@ -17,3 +17,5 @@ images:
 Моделируем ковер в Rocky DEM
 #CFD #DEM #ESSS #FSI #Rocky
 by Юрий Новожилов
+
+[Моделируем ковер в Rocky DEM - MagicDPD](https://magicdpd.ru/rocky-dem-carpet/)

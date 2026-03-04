@@ -13,3 +13,5 @@ images:
 ---
 
 Altair покупает EDEM
+
+[Altair покупает EDEM - MagicDPD](https://magicdpd.ru/altair-edem-acquisition/)

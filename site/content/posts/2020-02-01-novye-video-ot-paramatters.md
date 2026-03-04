@@ -16,3 +16,5 @@ images:
 ---
 
 Новые видео от ParaMatters
+
+[Новые видео от ParaMatters - MagicDPD](http://magicdpd.ru/paramatters-new-videos/)

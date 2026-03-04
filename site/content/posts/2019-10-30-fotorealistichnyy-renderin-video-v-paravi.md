@@ -13,3 +13,5 @@ images:
 ---
 
 Фотореалистичный рендерин видео в Paraview
+
+[Фотореалистичный рендерин видео в Paraview - MagicDPD](https://magicdpd.ru/photorealistic-video-rendering-from-simulation/)

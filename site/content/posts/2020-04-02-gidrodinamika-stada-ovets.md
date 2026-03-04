@@ -11,3 +11,5 @@ images:
 ---
 
 Гидродинамика стада овец
+
+[Гидродинамика стада овец - MagicDPD](https://magicdpd.ru/hydrodynamics-of-a-dense-flock-of-sheep/)

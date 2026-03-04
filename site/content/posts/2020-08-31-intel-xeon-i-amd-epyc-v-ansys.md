@@ -17,3 +17,5 @@ images:
 Intel Xeon и AMD EPYC в ANSYS
 #AMD #CADFEM #eCADFEM #HPC #Intel
 by Юрий Новожилов
+
+[Intel Xeon и AMD EPYC в ANSYS - MagicDPD](https://magicdpd.ru/intel-xeon-amd-epyc-ansys/)

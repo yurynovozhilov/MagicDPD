@@ -13,3 +13,5 @@ images:
 ---
 
 Что такое ANSYS Granta Materials Data for Simulation
+
+[Что такое ANSYS Granta Materials Data for Simulation - MagicDPD](https://magicdpd.ru/ansys-granta-materials-data-for-simulation/)

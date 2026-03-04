@@ -14,3 +14,5 @@ images:
 МКЭ от Ильи Карпова
 #FEM #theory
 by Юрий Новожилов
+
+[МКЭ от Ильи Карпова - MagicDPD](https://magicdpd.ru/seshu-fem/)

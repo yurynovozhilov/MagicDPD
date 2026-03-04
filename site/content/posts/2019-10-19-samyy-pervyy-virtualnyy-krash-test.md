@@ -13,3 +13,5 @@ images:
 ---
 
 Самый первый виртуальный краш тест
+
+[Самый первый виртуальный краш тест - MagicDPD](https://magicdpd.ru/first-crash-test-ever/)

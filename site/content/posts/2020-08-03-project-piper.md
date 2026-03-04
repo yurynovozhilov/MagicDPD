@@ -16,3 +16,5 @@ images:
 ---
 
 Project PIPER
+
+[Project PIPER - MagicDPD](https://magicdpd.ru/project-piper/)

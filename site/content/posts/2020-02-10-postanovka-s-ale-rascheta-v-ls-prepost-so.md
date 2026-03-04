@@ -18,3 +18,5 @@ images:
 Постановка S-ALE расчета в LS-PrePost Solution Explorer
 #ALE #FSI #LS_DYNA #LS_PrePost #S_ALE #Solution_Explorer
 by Юрий Новожилов
+
+[Постановка S-ALE расчета в LS-PrePost Solution Explorer - MagicDPD](http://magicdpd.ru/ls-dyna-structured-ale-using-ls-prepost-solution-explorer/)

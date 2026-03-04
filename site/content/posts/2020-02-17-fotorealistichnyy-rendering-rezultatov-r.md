@@ -13,3 +13,5 @@ images:
 ---
 
 Фотореалистичный рендеринг результатов расчетов в Blender
+
+[Фотореалистичный рендеринг результатов расчетов в Blender - MagicDPD](http://magicdpd.ru/render-realistic-fea-simulations-in-blender/)

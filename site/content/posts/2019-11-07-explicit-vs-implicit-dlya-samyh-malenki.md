@@ -15,3 +15,5 @@ images:
 Explicit vs. Implicit для самых маленьких
 #Enterfea #explicit #implicit
 by Юрий Новожилов
+
+[Explicit vs. Implicit для самых маленьких - MagicDPD](http://magicdpd.ru/explicit-vs-implicit/)

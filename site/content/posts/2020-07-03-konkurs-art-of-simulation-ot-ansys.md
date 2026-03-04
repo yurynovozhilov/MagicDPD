@@ -12,3 +12,5 @@ images:
 ---
 
 Конкурс «Art of Simulation»  от Ansys
+
+[Конкурс "Art of Simulation" от Ansys - MagicDPD](https://magicdpd.ru/art-of-simulation/)

@@ -13,3 +13,5 @@ images:
 ---
 
 Что такое перидинамика
+
+[Что такое перидинамика - MagicDPD](https://magicdpd.ru/what-is-peridynamics/)

@@ -15,3 +15,5 @@ images:
 Полномасштабное моделирование работ карьерного экскаватора в комбинированной FE-DEM постановке
 #DEM #LS_DYNA #LS_PrePost
 by Юрий Новожилов
+
+[Полномасштабное моделирование работ карьерного экскаватора в комбинированной FE-DEM постановке - Mag](https://magicdpd.ru/full-scale-modeling-of-mining-excavator-works-in-combined-fe-dem-staging/)

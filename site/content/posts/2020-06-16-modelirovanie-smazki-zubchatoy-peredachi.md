@@ -15,3 +15,5 @@ images:
 Моделирование смазки зубчатой передачи
 #LS_DYNA #SPH #Splashing
 by Юрий Новожилов
+
+[Моделирование смазки зубчатой передачи - MagicDPD](http://magicdpd.ru/incompressible-sph-oil-splashing-in-gearbox/)

@@ -13,3 +13,5 @@ images:
 ---
 
 Ansys покупает Lumerical — привет вычистильеная фотоника
+
+[Ansys покупает Lumerical - привет вычистильеная фотоника - MagicDPD](https://magicdpd.ru/ansys-lumerical-acquisition-agreement/)

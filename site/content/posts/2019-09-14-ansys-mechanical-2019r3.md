@@ -25,3 +25,5 @@ SMART Fracture теперь может растить трещины на имп
 
 
 Наконец довели до ума интеграцию ANSYS Mechanical и AQWA для получения океанических нагрузок на суда и прибрежные сооружения — судостроители должны оценить.
+
+[ANSYS Mechanical 2019R3 - MagicDPD](http://magicdpd.ru/ansys-mechanical-2019r3/)

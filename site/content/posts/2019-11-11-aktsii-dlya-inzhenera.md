@@ -12,3 +12,5 @@ images:
 ---
 
 Акции для инженера
+
+[Акции для инженера - MagicDPD](https://magicdpd.ru/ansys-cae-stocks/)

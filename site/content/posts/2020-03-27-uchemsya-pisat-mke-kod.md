@@ -15,3 +15,5 @@ images:
 Учемся писать МКЭ код
 #C #Coursera #FEM
 by Юрий Новожилов
+
+[Учемся писать МКЭ код - MagicDPD](http://magicdpd.ru/fem-code-c/)

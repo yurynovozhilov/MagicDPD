@@ -13,3 +13,5 @@ tags:
 ---
 
 Smoothed Finite Element Methods
+
+[Smoothed Finite Element Methods - MagicDPD](https://magicdpd.ru/smoothed-finite-element-methods/)

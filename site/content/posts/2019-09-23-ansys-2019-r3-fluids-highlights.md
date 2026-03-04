@@ -17,3 +17,5 @@ images:
 ---
 
 ANSYS 2019 R3 Fluids Highlights
+
+[ANSYS 2019 R3 Fluids Highlights - MagicDPD](http://magicdpd.ru/ansys-2019-r3-fluids-highlights/)

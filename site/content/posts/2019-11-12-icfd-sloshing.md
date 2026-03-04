@@ -14,3 +14,5 @@ images:
 ---
 
 ICFD sloshing
+
+[ICFD sloshing - MagicDPD](https://magicdpd.ru/icfd-sloshing/)

@@ -14,3 +14,5 @@ images:
 САПР «Сударушка»
 #simulationfriday #сударушка
 by Юрий Новожилов
+
+[САПР "Сударушка" - MagicDPD](https://magicdpd.ru/sdr/)

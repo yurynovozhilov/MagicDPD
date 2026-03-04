@@ -15,3 +15,5 @@ images:
 ---
 
 Модель бетона CDPM
+
+[Модель бетона CDPM - MagicDPD](https://magicdpd.ru/cdpm-open-source/)

@@ -18,3 +18,5 @@ images:
 ---
 
 Оптимизация гидравлического коллектора
+
+[Оптимизация гидравлического коллектора - MagicDPD](https://magicdpd.ru/hydraulic-manifold-optimization/)

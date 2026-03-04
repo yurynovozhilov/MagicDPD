@@ -13,3 +13,5 @@ images:
 Пластическая деформация
 #ретро
 by Юрий Новожилов
+
+[Пластическая деформация - MagicDPD](https://magicdpd.ru/plastic-strain/)

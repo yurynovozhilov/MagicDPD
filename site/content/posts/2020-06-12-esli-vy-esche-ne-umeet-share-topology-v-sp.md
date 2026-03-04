@@ -14,3 +14,5 @@ images:
 Если вы еще не умеет Share Topology в SpaceClaim
 #ANSYS #SpaceClaim
 by Юрий Новожилов
+
+[Если вы еще не умеет Share Topology в SpaceClaim - MagicDPD](https://magicdpd.ru/share-topology-in-spaceclaim/)

@@ -13,3 +13,5 @@ images:
 ---
 
 Online CFD Training 2020 от LEAP Australia
+
+[Online CFD Training 2020 от LEAP Australia - MagicDPD](https://magicdpd.ru/online-cfd-training-2020-leap-australia/)

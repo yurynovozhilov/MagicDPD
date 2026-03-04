@@ -13,3 +13,5 @@ images:
 ---
 
 А как вы работает на удаленке?
+
+[А как вы работает на удаленке? - MagicDPD](https://magicdpd.ru/ansys-forum-2020-r1-by-cadfem-on-remote/)

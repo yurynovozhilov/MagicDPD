@@ -15,3 +15,5 @@ images:
 Комфортность избушки Санты
 #CFD #Simscale #simulationfriday
 by Юрий Новожилов
+
+[Комфортность избушки Санты - MagicDPD](https://magicdpd.ru/wind-comfort-analysis-for-santa/)

@@ -14,3 +14,5 @@ images:
 Задание клеевого слоя в LS-PrePost
 #cohesive #LS_PrePost
 by Юрий Новожилов
+
+[Задание клеевого слоя в LS-PrePost - MagicDPD](http://magicdpd.ru/cohesive-elements-mesh-in-lspp/)

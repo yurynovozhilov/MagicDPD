@@ -38,3 +38,5 @@ SOFiSTiK Reinforcement Generation создан для того, чтобы уд�
 
 
 А вы еще знаете софт, который умеет генерировать массивы арматуры?
+
+[SOFiSTiK Reinforcement Generation - генерируем арматуру быстро - MagicDPD](https://magicdpd.ru/sofistik-reinforcement-generation/)

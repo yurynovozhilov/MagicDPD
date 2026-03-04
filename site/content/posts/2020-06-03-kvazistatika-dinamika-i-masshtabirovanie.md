@@ -12,3 +12,5 @@ images:
 ---
 
 Квазистатика, динамика и масштабирование массы
+
+[Квазистатика, динамика и масштабирование массы - MagicDPD](https://magicdpd.ru/quasi-static-dynamic-and-mass-scaling/)

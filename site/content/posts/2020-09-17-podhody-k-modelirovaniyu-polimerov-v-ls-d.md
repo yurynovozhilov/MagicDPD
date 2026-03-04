@@ -12,3 +12,5 @@ images:
 ---
 
 Подходы к моделированию полимеров в LS-DYNA
+
+[Подходы к моделированию полимеров в LS-DYNA - MagicDPD](https://magicdpd.ru/modeling-plastics-in-ls-dyna/)

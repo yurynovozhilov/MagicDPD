@@ -20,3 +20,5 @@ images:
 Проектирование АЭС в Ansys
 #ACT #ANSYS #Civil #CivilFEM #concrete #Ingeciber #NPP #Workbench
 by Юрий Новожилов
+
+[Проектирование АЭС в Ansys - MagicDPD](https://magicdpd.ru/design-and-seismic-re-evaluation-of-nuclear-power-plants-modelled-with-ansys/)

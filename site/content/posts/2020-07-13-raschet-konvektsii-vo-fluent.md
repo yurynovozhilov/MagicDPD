@@ -15,3 +15,5 @@ images:
 Расчет конвекции во Fluent
 #ANSYS #CFD #Fluent
 by Юрий Новожилов
+
+[Расчет конвекции во Fluent - MagicDPD](https://magicdpd.ru/convection-in-fluent/)

@@ -17,3 +17,5 @@ images:
 Импорт данных изготовления композитов в LS-PrePost
 #composite #LS_DYNA #LS_PrePost #Moldex3D #Moldflow
 by Юрий Новожилов
+
+[Импорт данных изготовления композитов в LS-PrePost - MagicDPD](http://magicdpd.ru/moldex3d-and-moldflow-to-ls-prepost/)

@@ -15,3 +15,5 @@ images:
 Ударить самолетом об здание правильно
 #ALE #LS_DYNA #S_ALE
 by Юрий Новожилов
+
+[Ударить самолетом об здание правильно - MagicDPD](http://magicdpd.ru/s-ale-aircraft-impact/)

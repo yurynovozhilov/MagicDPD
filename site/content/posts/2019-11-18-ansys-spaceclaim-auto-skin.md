@@ -17,3 +17,5 @@ images:
 ANSYS SpaceClaim — Auto Skin
 #Auto_Skin #optimization #SpaceClaim #STL #Topology
 by Юрий Новожилов
+
+[ANSYS SpaceClaim - Auto Skin - MagicDPD](https://magicdpd.ru/ansys-spaceclaim-auto-skin/)

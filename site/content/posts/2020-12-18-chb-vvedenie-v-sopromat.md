@@ -13,3 +13,5 @@ images:
 ЧБ введение в сопромат
 #ретро
 by Юрий Новожилов
+
+[ЧБ введение в сопромат - MagicDPD](https://magicdpd.ru/introduction-to-elasticity-theory/)

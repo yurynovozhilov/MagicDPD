@@ -11,3 +11,5 @@ images:
 ---
 
 Краш-тест автобуса
+
+[Краш-тест автобуса - MagicDPD](https://magicdpd.ru/bus-crush/)

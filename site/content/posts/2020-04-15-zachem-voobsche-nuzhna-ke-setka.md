@@ -12,3 +12,5 @@ images:
 ---
 
 Зачем вообще нужна КЭ сетка?
+
+[Зачем вообще нужна КЭ сетка? - MagicDPD](http://magicdpd.ru/why-mesh-in-fem/)

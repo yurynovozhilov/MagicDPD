@@ -14,3 +14,5 @@ images:
 Если вы решили писать свой SPH код
 #SPH #SPHERIC
 by Юрий Новожилов
+
+[Если вы решили писать свой SPH код - MagicDPD](https://magicdpd.ru/smoothed-particle-hydrodynamics-a-developers-guide/)

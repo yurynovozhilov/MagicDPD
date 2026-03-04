@@ -13,3 +13,5 @@ images:
 В CFD для чайников — часть 4: что же такое CFD
 #CFD
 by Юрий Новожилов
+
+[В CFD для чайников - часть 4: что же такое CFD - MagicDPD](https://magicdpd.ru/cfd-from-the-basics-and-master-4/)

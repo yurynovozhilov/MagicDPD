@@ -19,3 +19,5 @@ images:
 
 
 #ANSYS, #FlexLM, #License
+
+[Изучаем работу менеджера лицензий ANSYS — MagicDPD](https://magicdpd.ru/?p=6261&lang=ru)

@@ -13,3 +13,5 @@ images:
 Обзор полностью нового ANSYS Discovery 2020R2
 #ANSYS
 by Юрий Новожилов
+
+[Обзор полностью нового ANSYS Discovery 2020R2 - MagicDPD](https://magicdpd.ru/new-ansys-discovery-2020r2/)

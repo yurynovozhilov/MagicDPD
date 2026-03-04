@@ -14,3 +14,5 @@ images:
 Подмоделирование в ANSYS
 #ANSYS #submodeling
 by Ян Поженько
+
+[Подмоделирование в ANSYS - MagicDPD](http://magicdpd.ru/%d0%bf%d0%be%d0%b4%d0%bc%d0%be%d0%b4%d0%b5%d0%bb%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b2-ansys/)

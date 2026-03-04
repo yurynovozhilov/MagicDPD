@@ -15,3 +15,5 @@ images:
 На санках с горки с EDEM
 #DEM #EDEM #simulationfriday
 by Юрий Новожилов
+
+[На санках с горки с EDEM - MagicDPD](http://magicdpd.ru/edem-holiday-race/)

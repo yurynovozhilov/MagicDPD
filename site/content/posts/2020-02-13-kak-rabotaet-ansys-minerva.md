@@ -14,3 +14,5 @@ images:
 ---
 
 Как работает ANSYS Minerva
+
+[Как работает ANSYS Minerva - MagicDPD](http://magicdpd.ru/ansys-minerva/)
