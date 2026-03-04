@@ -1,9 +1,10 @@
 #!/bin/bash
 REPO_DIR="$(dirname "$0")"
 
-echo "Fetching link previews..."
+echo "Fetching link previews in background..."
 cd "$REPO_DIR"
-python fetch_link_previews.py
+python fetch_link_previews.py > /tmp/magicdpd_link_previews.log 2>&1 &
+echo $! > /tmp/magicdpd_previews.pid
 
 echo "Starting Hugo server..."
 cd "$REPO_DIR/site"
