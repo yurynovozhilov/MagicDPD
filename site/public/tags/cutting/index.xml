@@ -2,28 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cutting on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/cutting/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/cutting/</link>
     <description>MagicDPD: Magic Driven Product Development! (Cutting)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 06 Feb 2018 18:01:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2019 17:00:18 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/cutting/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/cutting/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Поиск учеников</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-01-poisk-uchenikov/</link>
+      <pubDate>Fri, 01 Mar 2019 17:00:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-01-poisk-uchenikov/</guid>
+      <description>&lt;p&gt;Поиск учеников&lt;/p&gt;
+&lt;p&gt;Чтобы не писать каждый раз, про то, что я ищу учеников, я сделал отдельный раздел на сайте, где есть подробное описание данной темы. А пока идет набор учеников по теме резки металлов, я уже кое-что сам освоил. Что характерно, обе демонстрируемые технологии работают с Implicit решателем LS-DYNA.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jm1xeD5eKYc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jm1xeD5eKYc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ZIjVoqbznkQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ZIjVoqbznkQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ifXvI4jIc-M&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ifXvI4jIc-M&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/internship/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://magicdpd.ru/internship/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#cutting #EFG #implicit #LS_DYNA #r_adaptivity&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2mY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2mY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jm1xeD5eKYc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jm1xeD5eKYc&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=ZIjVoqbznkQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ZIjVoqbznkQ&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=ifXvI4jIc-M&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ifXvI4jIc-M&lt;/a&gt;
+&lt;a href=&#34;http://magicdpd.ru/internship/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://magicdpd.ru/internship/&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2mY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2mY&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Задачи механики на полиэдральных сетках</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-28-zadachi-mehaniki-na-poliedralnyh-setkah/</link>
+      <pubDate>Wed, 28 Feb 2018 18:00:44 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-28-zadachi-mehaniki-na-poliedralnyh-setkah/</guid>
+      <description>&lt;p&gt;Задачи механики на полиэдральных сетках
+Что бы вы сказали, если бы нашелся explicit или implicit решатель механики, способный работать с полиэдральными сетками?&lt;/p&gt;
+&lt;p&gt;У CFD кодов была давняя проблема — они были очень требовательны к качеству сетки. Hex сетки на любой геометрии не построить, а tet — дают погрешности и повышенную вычислительную нагрузку. К счастью, самые крутые CFD коды научились работать с полиэдральными сетками, которые они получают из tet сетки или строят сами.
+У механики тоже есть определенные требования к сетке, и, чем дальше мы погружаемся в нелинейные расчеты, тем выше становятся требования к качеству сетки. В explicit кодах вообще чуть ли не основной задачей расчетчика является создание качественной сетки. Где же спасение?
+Готовясь к очередной встрече, я наткнулся на очень любопытный канал «naturalneighbour» на YouTube. На нем были приведены примеры расчетов высоконелинейных быстропротекающих процессов механики, выполненные на адаптивных полиэдальных сетках!
+Есть видео с тестом Тейлора:&lt;/p&gt;
+&lt;p&gt;И есть пример с резкой металла:&lt;/p&gt;
+&lt;p&gt;Однако, все видео опубликованы аж в 2014 году, и с тех пор на канале нет никакой жизни. Найти источники видео пока не удалось.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/?p=6407&amp;amp;lang=ru&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Задачи механики на полиэдральных сетках — MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>К слову о резке металла в LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-17-k-slovu-o-rezke-metalla-v-ls-dyna/</link>
+      <pubDate>Sat, 17 Feb 2018 17:00:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-17-k-slovu-o-rezke-metalla-v-ls-dyna/</guid>
+      <description>&lt;p&gt;К слову о резке металла в LS-DYNA
+Разберем небольшой пример по моделированию процесса резки металла в EFG постановке.
+Расчет такого сложного процесса становится возможен благодаря Element-Free Galerkin (EFG) — бессеточному методу Галеркина. Очень интересной особенностью данной постановки является использование решателя с неявной (!!! *CONTROL_IMPLICIT_DYNAMICS !!!) схемой интегрирования по времени. Основная цель — видеодемонстрация влияния настроек механизма адаптации EFG модели под деформацию (динамическое перестроение сетки, которой как бы нет :-D ).&lt;/p&gt;
+&lt;p&gt;Готовая модель для самостоятельного изучения лежит в открытом доступе: http://www.dynaexamples.com/efg/metal-cutting
+Кстати, очень интересно отдельно посмотреть на работу контактного алгоритма семейства  MORTAR — специальная разработка LSTC для implicit расчетов (*CONTACT_FORMING_SURFACE_TO_SURFACE_MORTAR).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynaexamples.com/efg/metal-cutting&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynaexamples.com/efg/metal-cutting&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Моделирование резки металла бессеточным методом Галеркина</title>
-      <link>http://localhost:1313/posts/2018-02-06-modelirovanie-rezki-metalla-bessetochnym/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-06-modelirovanie-rezki-metalla-bessetochnym/</link>
       <pubDate>Tue, 06 Feb 2018 18:01:28 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-02-06-modelirovanie-rezki-metalla-bessetochnym/</guid>
-      <description>&lt;p&gt;EFG - ElementFree Galerkin Method, он же бессеточный метод Галеркина, применяется при решении задач механики, связанных с большими деформациями как, например, резка металла, экструзия, ковка и прочие подобные процессы обработки материалов.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-06-modelirovanie-rezki-metalla-bessetochnym/</guid>
+      <description>&lt;p&gt;Моделирование резки металла бессеточным методом Галеркина
+EFG - ElementFree Galerkin Method, он же бессеточный метод Галеркина, применяется при решении задач механики, связанных с большими деформациями как, например, резка металла, экструзия, ковка и прочие подобные процессы обработки материалов.&lt;/p&gt;
 &lt;p&gt;Метод позволяет аккуратно описать процессы изменения формы конструкции, учесть как трение, так и и выделение тепла. При этом метод работает как с явной, так и с неявной схемой интегрирования по времени. Подробнее о реализации данного метода в LS-DYNA можно почитать в этой презентации: http://www.dynalook.com/european-conf-2009/I-I-01.pdf&lt;/p&gt;
 &lt;p&gt;Мы же рассмотрим видеопример, где показаны основные моменты настройки именно EFG части расчета.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=BREDG6QHUKA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=BREDG6QHUKA&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;А еще по этой теме есть готовый пример от LSTC: http://www.dynaexamples.com/efg/metal-cutting
 #cutting #EFG #LS-DYNA #LSTC
+&lt;a href=&#34;https://wp.me/p9vWYY-1C4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1C4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/european-conf-2009/I-I-01.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/european-conf-2009/I-I-01.pdf&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=BREDG6QHUKA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=BREDG6QHUKA&lt;/a&gt;
+&lt;a href=&#34;http://www.dynaexamples.com/efg/metal-cutting&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynaexamples.com/efg/metal-cutting&lt;/a&gt;
 &lt;a href=&#34;https://wp.me/p9vWYY-1C4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1C4&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Резка металла</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-29-rezka-metalla/</link>
+      <pubDate>Sat, 29 Oct 2016 12:01:21 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-29-rezka-metalla/</guid>
+      <description>&lt;p&gt;Резка металла
+&lt;a href=&#34;https://www.youtube.com/watch?v=yD5E1UK5Cps&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=yD5E1UK5Cps&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;20-ти минутный обучающий ролик посвязенным моделированию процесса резки металла в #LSDYNA. Используется #SPH постановка, и модель Джонсона-Кука (Johnson-Cook)  для металла.&lt;/p&gt;
+&lt;p&gt;#cutting
+&lt;a href=&#34;https://www.youtube.com/watch?v=yD5E1UK5Cps&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=yD5E1UK5Cps&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=yD5E1UK5Cps&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Simulation of cutting by the SPH method in LS-DYNA. Video tutorial&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

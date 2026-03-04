@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spaceclaim_meshing on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/spaceclaim_meshing/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Spaceclaim_meshing)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Thu, 28 Jan 2021 13:01:12 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/spaceclaim_meshing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SpaceClaim 2021R1</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-01-28-spaceclaim-2021r1/</link>
+      <pubDate>Thu, 28 Jan 2021 13:01:12 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-01-28-spaceclaim-2021r1/</guid>
+      <description>&lt;p&gt;SpaceClaim 2021R1&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=6vUMkT28q20&amp;amp;t=2s&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=6vUMkT28q20&amp;t=2s&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Как вы уже могли догадаться по новостной ленте, стал доступен Ansys 2021R1 - первый релиз Ansys этого года. И в нем есть очень много приятных изменений в продуктах, которыми лично я пользуюсь постоянно. Начать рассказывать про эти изменения я бы хотел с SpaceClaim, главного геометрического процессора Workbench.&lt;/p&gt;
+&lt;p&gt;Наконец работает сравнение для любых моделей: и CAD, и STL (раньше был только STL) - это прям надо, когда заказчики присылают новые файлы геометрии, и непонятно, что там поменяли.&lt;/p&gt;
+&lt;p&gt;Завезли хорошую парамметризацию в эскизы: в добавок к полноценным параметрическим эскизам из прошлой версии добавили возможность связывать размеры в рамках одного такого эскиза без использования ссылок на параметры.&lt;/p&gt;
+&lt;p&gt;А еще, есть изменение, которое не показали в видео, но которое я очень ждал. В прошлой версии появилась возможность записывать историю построения с возможностью получения некого аналога дерева истории изменения геометрии (как в традиционных CAD). Теперь эта функция работает и с сеточным генератором (базирующемся на ICEM CFD). Получается, что пользователь может записать &amp;ldquo;дерево истории&amp;rdquo; создания сетки и потом менять его настройки, если сетка не соберется!&lt;/p&gt;
+&lt;p&gt;#ansys #icem-cfd #spaceclaim #spaceclaim_meshing
+&lt;a href=&#34;https://tinyurl.com/yydgh6pm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yydgh6pm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=6vUMkT28q20&amp;amp;t=2s&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys SpaceClaim | Announcing New Features&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yydgh6pm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yydgh6pm&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SpaceClaim Meshing — уже пора изучать!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-11-spaceclaim-meshing-uzhe-pora-izuchat/</link>
+      <pubDate>Thu, 11 Jul 2019 17:00:38 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-11-spaceclaim-meshing-uzhe-pora-izuchat/</guid>
+      <description>&lt;p&gt;SpaceClaim Meshing — уже пора изучать!&lt;/p&gt;
+&lt;p&gt;Если вы еще даже не слышали про то, что ANSYS вкрутил ICEM CFD на стероидах в интерфейс SpaceClaim,  то вам стоит посмотреть первое видео в этом посте. В нем эксперт LEAP Australia на конференции CONVERGE 2019 рассказывает, что это за продукт вообще.&lt;/p&gt;
+&lt;p&gt;MESco Sp. z o.o.Ну а если вы сомневаетесь и не знаете, надо ли оно вам, то посмотрите второе коротенькое видео от MESco — тут раскрывается вся красота работы блочного сеточного генератора.&lt;/p&gt;
+&lt;p&gt;Второе видео очень быстрое. Я пересматривал несколько раз, останавливал на интересных моментах, включал по кадровую перемотку. Но даже в нем показаны далеко не все фишки. Так например,  SpaceClaim Meshing может делать вытяжку сетки, также, как это делать классическая команда Pull или Blend в  SpaceClaim. Или еще он умеет делать сеточные hex переходы 2 к 1, если вы понимаете, о чем я.&lt;/p&gt;
+&lt;p&gt;#all_hex #ANSYS #ICEM_CFD #LEAP #MESco #mesh #SpaceClaim #SpaceClaim_Meshing&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Bk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Bk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Bk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Bk&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS Mechanical 2019 R2: часть 1</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-31-ansys-mechanical-2019-r2-chast-1/</link>
+      <pubDate>Fri, 31 May 2019 17:01:02 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-31-ansys-mechanical-2019-r2-chast-1/</guid>
+      <description>&lt;p&gt;ANSYS Mechanical 2019 R2: часть 1&lt;/p&gt;
+&lt;p&gt;Встречаем новый релиз ANSYS! Наконец-то ANSYS Mechanical получил новый ленточный GUI! А с ним и обновленный процесс присвоения свойств материалов. И, конечно, прямо там доступна вся база материалов от Granta. Подтянулась и кастомизация: появилось автодополнение APDL кода при работе с командными вставками и возможность быстрого создания своих кнопок в GUI.&lt;/p&gt;
+&lt;p&gt;Если говорить за физику, то теперь можно задавать несколько SMART трещин (раньше была только одна). Кроме того, из Beta вышел SpaceClaim Meshing. А основной сеточный генератор научился на лету склеивать оболочечные и балочные тела прямо в процессе построения сетки (это когда модель собрана с зазорами).&lt;/p&gt;
+&lt;p&gt;#ANSYS #Granta_Design #Mechanical #mesh #SpaceClaim_Meshing&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2xF&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2xF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2xF&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2xF&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

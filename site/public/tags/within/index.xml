@@ -2,35 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Within on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/within/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/within/</link>
     <description>MagicDPD: Magic Driven Product Development! (Within)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Mon, 27 Jun 2016 07:00:57 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/within/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/within/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>#PADTInc подготовили хороший обзор программных средств для ж</title>
-      <link>http://localhost:1313/posts/2016-06-27-padtinc-podgotovili-horoshiy-obzor-progr/</link>
+      <title>#PADTInc подготовили хороший обзор программных средств для жизни в мире аддитивных технологий.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-27-padtinc-podgotovili-horoshiy-obzor-progr/</link>
       <pubDate>Mon, 27 Jun 2016 07:00:57 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-06-27-padtinc-podgotovili-horoshiy-obzor-progr/</guid>
-      <description>&lt;p&gt;#SpaceClaim #GeomagicDesignX #Topology #Optimization #Altair #SolidThinking Inspire #Autodesk #Within #Altair #OptiStruct #Simpleware #Pan #Lattice #ANSYS&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-27-padtinc-podgotovili-horoshiy-obzor-progr/</guid>
+      <description>&lt;p&gt;Тут и работа с 3D сканерами, и подготовка геометрии, и топологическая оптимизация с генерацией балочных структур - все самые новые тренды.&lt;/p&gt;
+&lt;p&gt;#SpaceClaim #GeomagicDesignX #Topology #Optimization #Altair #SolidThinking Inspire #Autodesk #Within #Altair #OptiStruct #Simpleware #Pan #Lattice #ANSYS&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/the-additive-manufacturing-software-conundrum&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;The Additive Manufacturing Software Conundrum&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Вы наверняка слышали про электрический мотоцикл Lingt Rider </title>
-      <link>http://localhost:1313/posts/2016-05-30-vy-navernyaka-slyshali-pro-elektricheskiy-m/</link>
+      <title>Оказывается я не угадал программный продукт, при помощи которого #Airbus #APWorks сделали свой Light Rider.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-21-okazyvaetsya-ya-ne-ugadal-programmnyy-prod/</link>
+      <pubDate>Tue, 21 Jun 2016 07:00:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-21-okazyvaetsya-ya-ne-ugadal-programmnyy-prod/</guid>
+      <description>&lt;p&gt;Я то думал, что это #Autodesk #Within, что было бы логично исходя из партнерства Autodesk и APWorks, но нет. Light Rider создали при помощи топологической оптимизации от #Altair. Какой именно продукт использован непонятно: в статье говорится про #OptiStruct, но приводятся картинки из #solidThinking.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.develop3d.com/blog/2016/06/bionic-structures-to-advance-at-airbus-apworks-with-altair-assistance&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DEVELOP3D blog - Bionic structures to advance at Airbus APWorks with Altair assistance&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Продолжая тему #nTopology и #Autodesk #Within вспомним про монстра оптимизации #Altair #OptiStruct.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-03-prodolzhaya-temu-ntopology-i-autodesk-w/</link>
+      <pubDate>Fri, 03 Jun 2016 07:00:29 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-03-prodolzhaya-temu-ntopology-i-autodesk-w/</guid>
+      <description>&lt;p&gt;В 14-ой версии OptiStruct получил возможность создавать пористые конструкции на основе результатов топологической оптимизации (#lattice structures или lattice optimization).&lt;/p&gt;
+&lt;p&gt;Система работает так: проводится топологическая оптимизация и из ее результатов извлекается геометрия по изоповерхности псевдоплотности, скажем, 0.5. Далее все элементы с псевдоплотностью, скажем, от 0.5 до 0.8 заменяются пространственной сеткой из балочных элементов, толщины которых подбираются отдельно или на основе данных распределения псевдоплотности.&lt;/p&gt;
+&lt;p&gt;#Altair говорит, что пока этот подход имеет сильную сеточную зависимость. Надеюсь они ее скоро победят.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.altairhyperworks.com/product/OptiStruct/New-Features&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;OptiStruct Analysis and Optimization&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вы наверняка слышали про электрический мотоцикл Lingt Rider разработанный #APWorks - дочерней компанией #Airbus Group.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-30-vy-navernyaka-slyshali-pro-elektricheskiy-m/</link>
       <pubDate>Mon, 30 May 2016 08:02:48 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-05-30-vy-navernyaka-slyshali-pro-elektricheskiy-m/</guid>
-      <description>&lt;p&gt;Но мне намного больше интересно программное обеспечение, применяемое при проектировании подобных конструкций. В случае Lignt Rider это не топологическая оптимизация. Это подход, названный в #Autodesk &amp;ldquo;Generative design&amp;rdquo;. Такой подход к моделированию легковесных конструкций реализован в ПО Autodesk #Within и очень напоминает по духу разработки компании #nTopology.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-30-vy-navernyaka-slyshali-pro-elektricheskiy-m/</guid>
+      <description>&lt;p&gt;Этот проект - отличный пример работы аддитивных технологий.&lt;/p&gt;
+&lt;p&gt;Но мне намного больше интересно программное обеспечение, применяемое при проектировании подобных конструкций. В случае Lignt Rider это не топологическая оптимизация. Это подход, названный в #Autodesk &amp;ldquo;Generative design&amp;rdquo;. Такой подход к моделированию легковесных конструкций реализован в ПО Autodesk #Within и очень напоминает по духу разработки компании #nTopology.&lt;/p&gt;
 &lt;p&gt;Чувствую, что грядет новый виток в развитии средств создания конструкций оптимальной топологии.&lt;/p&gt;
 &lt;p&gt;#optimization #topology
 Мартиалы по теме &lt;a href=&#34;https://geektimes.ru/post/276160/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://geektimes.ru/post/276160/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.autodesk.com/products/within/overview&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Generative Design Software | Within | Autodesk&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

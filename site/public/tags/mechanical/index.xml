@@ -2,199 +2,587 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mechanical on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/mechanical/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/mechanical/</link>
     <description>MagicDPD: Magic Driven Product Development! (Mechanical)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 05 May 2022 17:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Oct 2022 20:00:02 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/mechanical/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/mechanical/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>По заявлениям разработчиков, #Endurica является лучшей в мир</title>
-      <link>http://localhost:1313/posts/2022-05-05-po-zayavleniyam-razrabotchikov-endurica-ya/</link>
+      <title>Большой учебный материал по тому, как выполнять обработку результатов расчетов #Ansys #Mechanical #APDL в среде #pyMAPDL &#43; #pyDPF</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-10-06-bolshoy-uchebnyy-material-po-tomu-kak-vy/</link>
+      <pubDate>Thu, 06 Oct 2022 20:00:02 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-10-06-bolshoy-uchebnyy-material-po-tomu-kak-vy/</guid>
+      <description>&lt;p&gt;#opensource #python &lt;a href=&#34;https://www.padtinc.com/2022/07/18/ansys-scripting-python-p1-solve-post/?utm_source=pocket_mylist&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.padtinc.com/2022/07/18/ansys-scripting-python-p1-solve-post/?utm_source=pocket_mylist&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.padtinc.com/2022/07/18/ansys-scripting-python-p1-solve-post/?utm_source=pocket_mylist&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.padtinc.com/2022/07/18/ansys-scripting-python-p1-solve-post/?utm_source=pocket_mylist&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Нашел в сети цикл уроков по #Ansys #Mechanical.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-05-11-nashel-v-seti-tsikl-urokov-po-ansys-mech/</link>
+      <pubDate>Wed, 11 May 2022 17:00:03 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-05-11-nashel-v-seti-tsikl-urokov-po-ansys-mech/</guid>
+      <description>&lt;p&gt;Больше всего мне зашел последний. В нет показано, как использовать модель #Microplane для моделирования бетонного куба и железобетонной балки. Эта реализация включает связанную пластичность-поврежденность и нелокальное поведение.&lt;/p&gt;
+&lt;p&gt;Курс читает Доктор Брок Хедегаард, я профессор гражданского строительства в Университете Миннесоты Дулут.&lt;/p&gt;
+&lt;p&gt;#APDL #concrete &lt;a href=&#34;https://youtu.be/JXbZnhGZliY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/JXbZnhGZliY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/JXbZnhGZliY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Concrete Microplane Model - FEA using ANSYS - Lesson 10&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>По заявлениям разработчиков, #Endurica является лучшей в мире системой моделирования усталостной долговечности эластомеров.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-05-05-po-zayavleniyam-razrabotchikov-endurica-ya/</link>
       <pubDate>Thu, 05 May 2022 17:00:11 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-05-05-po-zayavleniyam-razrabotchikov-endurica-ya/</guid>
-      <description>&lt;p&gt;Тут нам в помощь бесплатный вебинар по совместной работе #Ansys #Mechanical и Endurica, который будет уже 24 мая.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-05-05-po-zayavleniyam-razrabotchikov-endurica-ya/</guid>
+      <description>&lt;p&gt;И тут я вспоминаю все, что знаю про усталостную долговечность (а про нее я знаю ну не очень много) и мне кажется, что вообще мало кто занимается усталостью этого класса материалов. Но никогда не поздно узнать что-то новое.&lt;/p&gt;
+&lt;p&gt;Тут нам в помощь бесплатный вебинар по совместной работе #Ansys #Mechanical и Endurica, который будет уже 24 мая.
 #fatigue&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://youtu.be/K2MS1P1eEZI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/K2MS1P1eEZI&lt;/a&gt;
 &lt;a href=&#34;https://www.youtube.com/watch?v=4xymu-1_RvE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=4xymu-1_RvE&lt;/a&gt; &lt;a href=&#34;https://www.ansys.com/events/get-rubber-durability-right-with-endurica&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/events/get-rubber-durability-right-with-endurica&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/K2MS1P1eEZI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Endurica | Get Durability Right Before You Build And Break&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=4xymu-1_RvE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=4xymu-1_RvE&lt;/a&gt;
+&lt;a href=&#34;https://www.ansys.com/events/get-rubber-durability-right-with-endurica&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/events/get-rubber-durability-right-with-endurica&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Обычно, я занимаюсь моделированием быстропротекающих (что-то</title>
-      <link>http://localhost:1313/posts/2022-04-15-obychno-ya-zanimayus-modelirovaniem-bystr/</link>
+      <title>Обычно, я занимаюсь моделированием быстропротекающих (что-то около скорости звука в материале) или хотя бы динамических (когда инерционная составляющая важна) процессов.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-15-obychno-ya-zanimayus-modelirovaniem-bystr/</link>
       <pubDate>Fri, 15 Apr 2022 17:00:05 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-04-15-obychno-ya-zanimayus-modelirovaniem-bystr/</guid>
-      <description>&lt;p&gt;Именно про ползучесть мне и попалась обзорная презентация от Йоргена Бергстрома (Dr. Jorgen Bergstrom), разработчика модели гипервязкоупругости Бергстрома-Бойс (Bergstrom-Boyce) и основателя #PolymerFEM LLC. Проф. Бегрстром в своем видео попробует помочь нам разобраться, зачем в #Ansys #Mechanical реализовано 11 моделей ползучести, как они работают и когда их стоит применять.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-15-obychno-ya-zanimayus-modelirovaniem-bystr/</guid>
+      <description>&lt;p&gt;Но чаще в промышленности требуется расчет чего-то медленного: квазистатика, статика и ползучесть.
+Именно про ползучесть мне и попалась обзорная презентация от Йоргена Бергстрома (Dr. Jorgen Bergstrom), разработчика модели гипервязкоупругости Бергстрома-Бойс (Bergstrom-Boyce) и основателя #PolymerFEM LLC. Проф. Бегрстром в своем видео попробует помочь нам разобраться, зачем в #Ansys #Mechanical реализовано 11 моделей ползучести, как они работают и когда их стоит применять.
 #creep &lt;a href=&#34;https://youtu.be/hhOHap0GL1M&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/hhOHap0GL1M&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/hhOHap0GL1M&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys Creep Models: Which One is the Best?&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Вчера #Ansys купил себе #OnScale, и я расскажу почему это ва</title>
-      <link>http://localhost:1313/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</link>
+      <title>Вчера #Ansys купил себе #OnScale, и я расскажу почему это важно.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</link>
       <pubDate>Thu, 14 Apr 2022 17:00:07 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</guid>
       <description>&lt;p&gt;Итак, компания OnScale делала одноименную независимую платформу для  КЭ расчетов в облаке. Идея у них была очень похоже на успешный проект SimScale. Однако, SimScale использовал внутри себя #opensource коды для расчетов, а OnScale решили писать все свое. Кажется, что они просто не оценили трудоемкости написания хороших решателей, вот WebUI вышел вполне себе нормальный.&lt;/p&gt;
 &lt;p&gt;Теперь их покупает Ansys, который идет в облако всеми возможными путями. У них, как и всех конкурентов, есть облачные лицензии. У них есть облачные #HPC партнеры в лице #AWS и #Azure. Есть встроенные возможности из классических приложений посылать задачи на расчет в облако. А вот полноценного #WebUI для работы с решателями не было - всегда были какие-то средства доставки классических дестопных приложений и рабочих столов Windows/Linux систем. И тут мы видим, что OnScale становиться последним кусочком мозаики полноценного облачного решения от Ansys.&lt;/p&gt;
 &lt;p&gt;Я думаю, что в ближайшие 5 лет мы сможем увидеть новые Web версии #Fluent, #Mechanical #HFSS, которые больше не будут требовать установки дистрибутива с 5 DVD дисков, а полноценно будет работать в глобальном или корпоративном облаке.&lt;/p&gt;
 &lt;p&gt;#cloud #opensource #HPC &lt;a href=&#34;https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys to Expand Cloud Portfolio with Technology from Acquisition of OnScale&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Примеры работы нового генератора сварных швов в #Ansys #Mechanical 2022R1. Кстати, теперь такие швы можно делать и между shell и solid телами!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-03-30-primery-raboty-novogo-generatora-svarnyh/</link>
+      <pubDate>Wed, 30 Mar 2022 17:00:03 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-03-30-primery-raboty-novogo-generatora-svarnyh/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/JaXCKo9tTJ4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/JaXCKo9tTJ4&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/4lN6GVz2EDQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/4lN6GVz2EDQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/JaXCKo9tTJ4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/JaXCKo9tTJ4&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/4lN6GVz2EDQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/4lN6GVz2EDQ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделируем эффект Пельте (полупроводниковый холодильник) в #Ansys #Mechanical c #SimuTech</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-15-modeliruem-effekt-pelte-poluprovodniko/</link>
+      <pubDate>Tue, 15 Feb 2022 19:00:10 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-15-modeliruem-effekt-pelte-poluprovodniko/</guid>
+      <description>&lt;p&gt;#APDL #EM &lt;a href=&#34;https://www.youtube.com/watch?v=Lnf4EGptub8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Lnf4EGptub8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Lnf4EGptub8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Lnf4EGptub8&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Рассказ о том, как #thyssenkrupp использовали #Ansys #Mechanical для проектирования рамы очень большого карьерного экскаватора.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-01-rasskaz-o-tom-kak-thyssenkrupp-ispolz/</link>
+      <pubDate>Tue, 01 Feb 2022 17:00:21 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-01-rasskaz-o-tom-kak-thyssenkrupp-ispolz/</guid>
+      <description>&lt;p&gt;Это не какое-то бешеное исследования на передовом крае науки. Это просто пример хорошей работы инженеров #LEAP Australia
+#mining&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.finiteelementanalysis.com.au/featured/thyssenkrupp-presentation-at-ansys-fea-user-group-fea-for-balanced-machines/?utm_source=pocket_mylist&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.finiteelementanalysis.com.au/featured/thyssenkrupp-presentation-at-ansys-fea-user-group-fea-for-balanced-machines/?utm_source=pocket_mylist&lt;/a&gt; &lt;a href=&#34;https://youtu.be/LZpts-Z9A1Y&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/LZpts-Z9A1Y&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.finiteelementanalysis.com.au/featured/thyssenkrupp-presentation-at-ansys-fea-user-group-fea-for-balanced-machines/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;thyssenkrupp presentation at Ansys FEA User Group: FEA for Balanced Machines | Finite Element Analysis (FEA) Blog – LEAP Australia &amp;amp; New Zealand&lt;/a&gt;
+&lt;a href=&#34;https://www.finiteelementanalysis.com.au/featured/thyssenkrupp-presentation-at-ansys-fea-user-group-fea-for-balanced-machines/?utm_source=pocket_mylist&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.finiteelementanalysis.com.au/featured/thyssenkrupp-presentation-at-ansys-fea-user-group-fea-for-balanced-machines/?utm_source=pocket_mylist&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/LZpts-Z9A1Y&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/LZpts-Z9A1Y&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Неявная штамповка картона в Ansys Mechanical</title>
-      <link>http://localhost:1313/posts/2021-11-25-neyavnaya-shtampovka-kartona-v-ansys-mechan/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-11-25-neyavnaya-shtampovka-kartona-v-ansys-mechan/</link>
       <pubDate>Thu, 25 Nov 2021 13:02:34 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-11-25-neyavnaya-shtampovka-kartona-v-ansys-mechan/</guid>
-      <description>&lt;p&gt;Традиционно, для решения задач штамповки используются явные решетили, так как им проще работать с требуемым уровнем нелинейности. Однако тут коллеги из Швеции посчитали штамповку в неявной квазистатической постановке Ansys Mechancial 2019R1! Штамповали в расчете картонные лотки одноразовой посуды. Сетку взяли очень мелкую (потому явный решатель и не подошел). Я могу сказать только, что мне очень нравятся такие публикации, когда нетипичный инструмент оказывается намного эффективнее общепринятый в промышленности подходов.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-11-25-neyavnaya-shtampovka-kartona-v-ansys-mechan/</guid>
+      <description>&lt;p&gt;Неявная штамповка картона в Ansys Mechanical&lt;/p&gt;
+&lt;p&gt;Традиционно, для решения задач штамповки используются явные решетили, так как им проще работать с требуемым уровнем нелинейности. Однако тут коллеги из Швеции посчитали штамповку в неявной квазистатической постановке Ansys Mechancial 2019R1! Штамповали в расчете картонные лотки одноразовой посуды. Сетку взяли очень мелкую (потому явный решатель и не подошел). Я могу сказать только, что мне очень нравятся такие публикации, когда нетипичный инструмент оказывается намного эффективнее общепринятый в промышленности подходов.&lt;/p&gt;
 &lt;p&gt;Научная статья: &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/10.1002/pts.2619&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://onlinelibrary.wiley.com/doi/10.1002/pts.2619&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ansys #forming #mechanical
+&lt;a href=&#34;https://tinyurl.com/y2rc3oj3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y2rc3oj3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/10.1002/pts.2619&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Tray forming operation of paperboard: A case study using implicit finite element analysis&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/y2rc3oj3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y2rc3oj3&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Скрипты в Ansys Mechanical на Python</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-08-24-skripty-v-ansys-mechanical-na-python/</link>
+      <pubDate>Tue, 24 Aug 2021 13:02:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-08-24-skripty-v-ansys-mechanical-na-python/</guid>
+      <description>&lt;p&gt;Скрипты в Ansys Mechanical на Python&lt;/p&gt;
+&lt;p&gt;LEAP уже запилил запись своего двухдневного учебного курса по скриптовке Ansys Mechanical 2021 R2, ведь в новой версии Python получил не просто шаг вперед - его пнули с двух ног, и теперь на наем можно даже писать в APDL!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/S0Z8mOEQbEo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/S0Z8mOEQbEo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Состав учебного курса: введение в создание сценариев в Mechanical; Mechanical API; пример автоматизации различных задач в Mechanical; ключевые понятия в написании сценариев Python; пример автоматизации расчета балочной модели с экспортом результатов в CSV-файл; экспорт медиа файлов и обработка результатов; дополнительные инструменты автоматизации (Engineering Data, DesignXplorer, Data Processing Framework, Ansys Customisation Tool)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/Q0MpwVSiFGs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Q0MpwVSiFGs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #leap #mechanical #python
+&lt;a href=&#34;https://tinyurl.com/yfn2j3v5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfn2j3v5&lt;/a&gt;
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/S0Z8mOEQbEo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys Mechanical Scripting Training  - Python Basics (Day 1)&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/Q0MpwVSiFGs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Q0MpwVSiFGs&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yfn2j3v5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfn2j3v5&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Планы развития LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-08-16-plany-razvitiya-ls-dyna/</link>
+      <pubDate>Mon, 16 Aug 2021 15:01:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-08-16-plany-razvitiya-ls-dyna/</guid>
+      <description>&lt;p&gt;Планы развития LS-DYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=v_LUPZGVqdM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=v_LUPZGVqdM&lt;/a&gt;
+Запись доклада Алекса Петта (Alex Pett), главного по продуктам LS-DYNA и Motion в Ansys. Доклад был сделан этим детом на конференции Arup/Oasys и посвящен планам по развитию LS-DYNA  в экосистеме Ansys. Если коротко, то ее не обидят - главное, что бы она никого не обидела :-)&lt;/p&gt;
+&lt;p&gt;#ansys #arup #lsdyna #lstc #mechanical #oasys
+&lt;a href=&#34;https://tinyurl.com/ygg4yg58&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ygg4yg58&lt;/a&gt;
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=v_LUPZGVqdM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Keynote - LS-DYNA update and roadmap by Alex Pett, Ansys&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/ygg4yg58&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ygg4yg58&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>КЭ моделирование SARS-CoV-2 в ANSYS Mechanical</title>
-      <link>http://localhost:1313/posts/2021-07-05-ke-modelirovanie-sars-cov-2-v-ansys-mech/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-07-05-ke-modelirovanie-sars-cov-2-v-ansys-mech/</link>
       <pubDate>Mon, 05 Jul 2021 13:01:16 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-07-05-ke-modelirovanie-sars-cov-2-v-ansys-mech/</guid>
-      <description>&lt;p&gt;Сегодня у нас очень странная научная статья от коллектива ученых из Англии и Индии, держащаяся на 3-х китах: COVID-19, машинное обучение и&amp;hellip; Ansys Mechanical (!!!). Что-то они там считали про собственные частоты молекулы, что-то оптимизировали и сравнивали, и это даже зачем-то да нужно. Но я просто решил оставить данную статью на суд читателей, как очень курьезный факт.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-07-05-ke-modelirovanie-sars-cov-2-v-ansys-mech/</guid>
+      <description>&lt;p&gt;КЭ моделирование SARS-CoV-2 в ANSYS Mechanical&lt;/p&gt;
+&lt;p&gt;Сегодня у нас очень странная научная статья от коллектива ученых из Англии и Индии, держащаяся на 3-х китах: COVID-19, машинное обучение и&amp;hellip; Ansys Mechanical (!!!). Что-то они там считали про собственные частоты молекулы, что-то оптимизировали и сравнивали, и это даже зачем-то да нужно. Но я просто решил оставить данную статью на суд читателей, как очень курьезный факт.&lt;/p&gt;
 &lt;p&gt;Научная статья: &lt;a href=&#34;https://www.researchgate.net/publication/348909778_Probing_the_Stochastic_Dynamics_of_Coronaviruses_Machine_Learning_Assisted_Deep_Computational_Insights_with_Exploitable_Dimensions&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.researchgate.net/publication/348909778_Probing_the_Stochastic_Dynamics_of_Coronaviruses_Machine_Learning_Assisted_Deep_Computational_Insights_with_Exploitable_Dimensions&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ansys #covid #mechanical
+&lt;a href=&#34;https://tinyurl.com/ydv2urnu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ydv2urnu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.researchgate.net/publication/348909778_Probing_the_Stochastic_Dynamics_of_Coronaviruses_Machine_Learning_Assisted_Deep_Computational_Insights_with_Exploitable_Dimensions&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.researchgate.net/publication/348909778_Probing_the_Stochastic_Dynamics_of_Coronaviruses_Machine_Learning_Assisted_Deep_Computational_Insights_with_Exploitable_Dimensions&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/ydv2urnu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ydv2urnu&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Импорт топологии печатных плат в Ansys Mechanical и LS-DYNA</title>
-      <link>http://localhost:1313/posts/2021-05-25-import-topologii-pechatnyh-plat-v-ansys-m/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-05-25-import-topologii-pechatnyh-plat-v-ansys-m/</link>
       <pubDate>Tue, 25 May 2021 17:01:47 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-05-25-import-topologii-pechatnyh-plat-v-ansys-m/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EBpKi7Oq6dw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=EBpKi7Oq6dw&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-05-25-import-topologii-pechatnyh-plat-v-ansys-m/</guid>
+      <description>&lt;p&gt;Импорт топологии печатных плат в Ansys Mechanical и LS-DYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EBpKi7Oq6dw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=EBpKi7Oq6dw&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Демонстрация активно развиваемой функции trace mapping из Ansys Mechanical, которая пригодится при механических и тепловых расчетах печатных плат. Итак, trace mapping позволяет импортировать структуру печатной платы из ODB++. Далее эта структура передается в препроцессор, где отображается геометрической положение того или иного материала в пространстве. После того как материалу или &amp;ldquo;сущности&amp;rdquo; из ODB++ выставляются соответствие его механический эквивалент (грубо говоря - дорожка должны быть медные) препроцессор &amp;ldquo;намазывает&amp;rdquo; эти свойства на модель состоящую из слоистых оболочек. Не надо прорисовывать многие сотни, если не тысячи объектов, не надо портить геометрию и усложнять работу сеточного генератора, не надо возиться с solid моделью платы - все данные переносятся автоматом на уровне сетки. Если же сетку надо будет перестроить, то и данные из ODB++ будут автоматически применены к новым элементам. Кстати, в актуальной версии 2021R1, trace mapping работает и для Workbench LS-DYNA, а значит одна модель печатной платы может быть использована и для расчета тепла, и для расчёта прочности и для случая удара.&lt;/p&gt;
 &lt;p&gt;#ansys #em #lsdyna #mechanical #odb #tracemapping
+&lt;a href=&#34;https://tinyurl.com/ygnyywsn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ygnyywsn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EBpKi7Oq6dw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys Mechanical: Shell trace mapping&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/ygnyywsn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ygnyywsn&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Подвижный источник тепла в ANSYS Mechanical</title>
-      <link>http://localhost:1313/posts/2021-03-03-podvizhnyy-istochnik-tepla-v-ansys-mechani/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-03-podvizhnyy-istochnik-tepla-v-ansys-mechani/</link>
       <pubDate>Wed, 03 Mar 2021 18:31:57 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-03-03-podvizhnyy-istochnik-tepla-v-ansys-mechani/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nqNNjeZxVlg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nqNNjeZxVlg&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-03-podvizhnyy-istochnik-tepla-v-ansys-mechani/</guid>
+      <description>&lt;p&gt;Подвижный источник тепла в ANSYS Mechanical&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nqNNjeZxVlg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nqNNjeZxVlg&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Сегодня будет жестко, и даже немного больно. Видео пример того, как при помощи развесистой командной вставки на APDL задать в ANSYS Mechanical подвижный источник тепла. Ну а подвижный источник тепла нужен уже для моделирования сварки, наплавки или лазерной резки металла.&lt;/p&gt;
 &lt;p&gt;#additive_manufacturing #ansys #apdl #mechanical #thermal #welding
+&lt;a href=&#34;https://tinyurl.com/ybauhn3m&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ybauhn3m&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nqNNjeZxVlg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS TUTORIAL:  moving 3D Gaussian heat source with stepped cylinder shape&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/ybauhn3m&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ybauhn3m&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Моделирование пены низкой плотности в МКЭ</title>
-      <link>http://localhost:1313/posts/2021-02-03-modelirovanie-peny-nizkoy-plotnosti-v-mk/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-03-modelirovanie-peny-nizkoy-plotnosti-v-mk/</link>
       <pubDate>Wed, 03 Feb 2021 13:01:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-02-03-modelirovanie-peny-nizkoy-plotnosti-v-mk/</guid>
-      <description>&lt;p&gt;На сегодня я нашел два интересных видео, посвященных моделированию полимерной пены низкой плотности.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-03-modelirovanie-peny-nizkoy-plotnosti-v-mk/</guid>
+      <description>&lt;p&gt;Моделирование пены низкой плотности в МКЭ&lt;/p&gt;
+&lt;p&gt;На сегодня я нашел два интересных видео, посвященных моделированию полимерной пены низкой плотности.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=g8YSmFk5KSc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=g8YSmFk5KSc&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;В первом видео обсуждается, почему традиционные гиперупругие модели материалов не могут использоваться для прогнозирования поведения мягких полимерных пен. Далее в видео рассматривается математика работы специализированных подходящий моделей Ansys Ogden Foam, LS-DYNA Hill Foam, Abaqus Hyperfoam и COMSOL Storakers.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=W9e-GJHJk00&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=W9e-GJHJk00&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Во второй части видео показывается, как проводить настройку модели материалов с применением пакета PolymerFEM MCalibration.&lt;/p&gt;
 &lt;p&gt;#abaqus #ansys #comsol #foam #ls-dyna #mcalibration #mechanical #polymerfem
 &lt;a href=&#34;https://tinyurl.com/y2gu28ph&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y2gu28ph&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=g8YSmFk5KSc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Material Models for Soft Foams - Part 1 - Theory&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=W9e-GJHJk00&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=W9e-GJHJk00&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/y2gu28ph&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y2gu28ph&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ansys LevelUp — беседа с разработчиками Ansys Mechanical</title>
-      <link>http://localhost:1313/posts/2021-01-12-ansys-levelup-beseda-s-razrabotchikami/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-01-12-ansys-levelup-beseda-s-razrabotchikami/</link>
       <pubDate>Tue, 12 Jan 2021 14:50:20 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-01-12-ansys-levelup-beseda-s-razrabotchikami/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Уcталостный рост трещин в Ansys Mechanical</title>
-      <link>http://localhost:1313/posts/2020-11-10-uctalostnyy-rost-treschin-v-ansys-mechanic/</link>
-      <pubDate>Tue, 10 Nov 2020 15:29:42 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/2020-11-10-uctalostnyy-rost-treschin-v-ansys-mechanic/</guid>
-      <description>&lt;p&gt;#ANSYS #crack #Fatigue #Mechanical
-by Юрий Новожилов&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-01-12-ansys-levelup-beseda-s-razrabotchikami/</guid>
+      <description>&lt;p&gt;Ansys LevelUp — беседа с разработчиками Ansys Mechanical&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/ansys-levelup-mechanical/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys LevelUp - беседа с разработчиками Ansys Mechanical - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Постановка задачи о трехточечном изгибе сэндвич панели в ANS</title>
-      <link>http://localhost:1313/posts/2020-10-07-postanovka-zadachi-o-trehtochechnom-izgibe/</link>
+      <title>Уcталостный рост трещин в Ansys Mechanical</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-11-10-uctalostnyy-rost-treschin-v-ansys-mechanic/</link>
+      <pubDate>Tue, 10 Nov 2020 15:29:42 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-11-10-uctalostnyy-rost-treschin-v-ansys-mechanic/</guid>
+      <description>&lt;p&gt;Уcталостный рост трещин в Ansys Mechanical
+#ANSYS #crack #Fatigue #Mechanical
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/ansys-mechanical-fatigue_fracture/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Уcталостный рост трещин в Ansys Mechanical - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Постановка задачи о трехточечном изгибе сэндвич панели в ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-10-07-postanovka-zadachi-o-trehtochechnom-izgibe/</link>
       <pubDate>Wed, 07 Oct 2020 17:24:01 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-10-07-postanovka-zadachi-o-trehtochechnom-izgibe/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-10-07-postanovka-zadachi-o-trehtochechnom-izgibe/</guid>
       <description>&lt;p&gt;#ACP #ANSYS #composite #LEAP #Mechanical
 by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/ansys-acp-for-sandwich-panel/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Постановка задачи о трехточечном изгибе сэндвич панели в ANSYS - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Мой топ фишек механической части ANSYS 2020 R2</title>
-      <link>http://localhost:1313/posts/2020-07-23-moy-top-fishek-mehanicheskoy-chasti-ansys-2/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-07-23-moy-top-fishek-mehanicheskoy-chasti-ansys-2/</link>
       <pubDate>Thu, 23 Jul 2020 17:29:59 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-07-23-moy-top-fishek-mehanicheskoy-chasti-ansys-2/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-07-23-moy-top-fishek-mehanicheskoy-chasti-ansys-2/</guid>
+      <description>&lt;p&gt;Мой топ фишек механической части ANSYS 2020 R2&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/whats-new-in-mechanical-2020-r2/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Мой топ фишек механической части ANSYS 2020 R2 - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>X-FEM в APDL</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-05-12-x-fem-v-apdl/</link>
+      <pubDate>Tue, 12 May 2020 17:01:12 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-05-12-x-fem-v-apdl/</guid>
+      <description>&lt;p&gt;X-FEM в APDL&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/xfem-in-apdl/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;X-FEM в APDL - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Работа адаптивных сеток в ANSYS Mechanical</title>
-      <link>http://localhost:1313/posts/2019-12-02-rabota-adaptivnyh-setok-v-ansys-mechanic/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-12-02-rabota-adaptivnyh-setok-v-ansys-mechanic/</link>
       <pubDate>Mon, 02 Dec 2019 13:00:34 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-12-02-rabota-adaptivnyh-setok-v-ansys-mechanic/</guid>
-      <description>&lt;p&gt;#ANSYS #Mechanical #mesh #NLAD
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-12-02-rabota-adaptivnyh-setok-v-ansys-mechanic/</guid>
+      <description>&lt;p&gt;Работа адаптивных сеток в ANSYS Mechanical
+#ANSYS #Mechanical #mesh #NLAD
 by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/mesh-nonlinear-adaptivity-nlad/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Работа адаптивных сеток в ANSYS Mechanical - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BAJA SAE Chassis Analysis</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-14-baja-sae-chassis-analysis/</link>
+      <pubDate>Mon, 14 Oct 2019 17:47:32 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-14-baja-sae-chassis-analysis/</guid>
+      <description>&lt;p&gt;BAJA SAE Chassis Analysis
+#ANSYS #ANSYS_Student_Community #Mechanical #SpaceClaim
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/baja-sae-chassis-analysis/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;BAJA SAE Chassis Analysis - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Нелинейная стабилизация расчета</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-09-nelineynaya-stabilizatsiya-rascheta/</link>
+      <pubDate>Wed, 09 Oct 2019 13:00:55 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-09-nelineynaya-stabilizatsiya-rascheta/</guid>
+      <description>&lt;p&gt;Нелинейная стабилизация расчета&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/%d0%bd%d0%b5%d0%bb%d0%b8%d0%bd%d0%b5%d0%b9%d0%bd%d0%b0%d1%8f-%d1%81%d1%82%d0%b0%d0%b1%d0%b8%d0%bb%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f-%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82%d0%b0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Нелинейная стабилизация расчета - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Простейший термопрочностной расчет ANSYS Mechanical</title>
-      <link>http://localhost:1313/posts/2019-10-05-prosteyshiy-termoprochnostnoy-raschet-ansys/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-05-prosteyshiy-termoprochnostnoy-raschet-ansys/</link>
       <pubDate>Sat, 05 Oct 2019 13:00:23 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-10-05-prosteyshiy-termoprochnostnoy-raschet-ansys/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-05-prosteyshiy-termoprochnostnoy-raschet-ansys/</guid>
+      <description>&lt;p&gt;Простейший термопрочностной расчет ANSYS Mechanical&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/%d0%bf%d1%80%d0%be%d1%81%d1%82%d0%b5%d0%b9%d1%88%d0%b8%d0%b9-%d1%82%d0%b5%d1%80%d0%bc%d0%be%d0%bf%d1%80%d0%be%d1%87%d0%bd%d0%be%d1%81%d1%82%d0%bd%d0%be%d0%b9-%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82-ansys/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Простейший термопрочностной расчет ANSYS Mechanical - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS Mechanical 2019R3</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-14-ansys-mechanical-2019r3/</link>
+      <pubDate>Sat, 14 Sep 2019 13:00:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-14-ansys-mechanical-2019r3/</guid>
+      <description>&lt;p&gt;ANSYS Mechanical 2019R3
+На мой взгляд, это самый сильный релиз ANSYS этого года — просто громадное количество изменений и улучшений. Я упомяну только три самых запомнившихся мне улучшения.&lt;/p&gt;
+&lt;p&gt;Наконец нормально реализовали работу Couple-Field элементов — это не ACT, а встроенные в Workbench новые междисциплинарные системы, позволяющие задействовать из удобного GUI возможности решателя APDL по ипользованию тепловых и электромагнитных степеней сводобы.&lt;/p&gt;
+&lt;p&gt;SMART Fracture теперь может растить трещины на импортированной извне сетки. И при этом, поддерживается приложение тепловых полей и силовых нагрузок на динамические сетки (!!!).&lt;/p&gt;
+&lt;p&gt;Наконец довели до ума интеграцию ANSYS Mechanical и AQWA для получения океанических нагрузок на суда и прибрежные сооружения — судостроители должны оценить.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/ansys-mechanical-2019r3/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS Mechanical 2019R3 - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Верификационный отчет по ANSYS Mechanical в строительстве</title>
-      <link>http://localhost:1313/posts/2019-08-25-verifikatsionnyy-otchet-po-ansys-mechanica/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-25-verifikatsionnyy-otchet-po-ansys-mechanica/</link>
       <pubDate>Sun, 25 Aug 2019 13:00:24 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-08-25-verifikatsionnyy-otchet-po-ansys-mechanica/</guid>
-      <description>&lt;p&gt;Подробный отчет по верификации ANSYS Mechanical для решения задач строительной  механики, подготовленный для Российской академии архитектуры и  строительных наук (РААСН).  Монументальный документ на 600+ страниц. Феноменальный объем верификации — только одно перечисление верифицируемых возможностей занимает 2 страницы.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-25-verifikatsionnyy-otchet-po-ansys-mechanica/</guid>
+      <description>&lt;p&gt;Верификационный отчет по ANSYS Mechanical в строительстве&lt;/p&gt;
+&lt;p&gt;Подробный отчет по верификации ANSYS Mechanical для решения задач строительной  механики, подготовленный для Российской академии архитектуры и  строительных наук (РААСН).  Монументальный документ на 600+ страниц. Феноменальный объем верификации — только одно перечисление верифицируемых возможностей занимает 2 страницы.&lt;/p&gt;
 &lt;p&gt;В работе есть большое число модельных задач, взятых из верификационных материалов ANSYS, NAFEMS и созданных самостоятельно. А еще есть очень интересный 4-й том, посвященный опыту применения ANSYS в строительстве. И тут можно найти описание моделей зданий, которые бережно созданы в «черном экране смерти». Ибо без любви к своей работе такие модели сделать не получится.&lt;/p&gt;
 &lt;p&gt;Бонусом идет достойный перевод теоретических основ ANSYS и МКЭ. Ссылка на материалы: &lt;a href=&#34;http://www.raasn.ru/structure.php?st_id=materials&amp;amp;st_p=research_boards/rb_software/rb_sw_materials/verification/ANSYS/ansys&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.raasn.ru/structure.php?st_id=materials&amp;st_p=research_boards/rb_software/rb_sw_materials/verification/ANSYS/ansys&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.raasn.ru/structure.php?st_id=materials&amp;amp;st_p=research_boards/rb_software/rb_sw_materials/verification/ANSYS/ansys&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.raasn.ru/structure.php?st_id=materials&amp;st_p=research_boards/rb_software/rb_sw_materials/verification/ANSYS/ansys&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Internal Layer ACT</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-15-internal-layer-act/</link>
+      <pubDate>Thu, 15 Aug 2019 13:00:25 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-15-internal-layer-act/</guid>
+      <description>&lt;p&gt;Internal Layer ACT&lt;/p&gt;
+&lt;p&gt;Небольшое расширение для той части ANSYS Mechanical, что работает с APDL. Расширение позволяет сгенерировать именованную выборку из слоя элементов заданной толщины и задать для этого слоя свойства материала. Для генерации слоя вам достаточно выбрать поверхность, от которой этот слой будет строиться.&lt;/p&gt;
+&lt;p&gt;Ссылка на расширение: &lt;a href=&#34;https://catalog.ansys.com/product/5cb60587393ff6686c09c303/internal-layer&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://catalog.ansys.com/product/5cb60587393ff6686c09c303/internal-layer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS #Mechanical&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2DB&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2DB&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://catalog.ansys.com/product/5cb60587393ff6686c09c303/internal-layer&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://catalog.ansys.com/product/5cb60587393ff6686c09c303/internal-layer&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2DB&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2DB&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS WeldingDistortion ACT</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-13-ansys-weldingdistortion-act/</link>
+      <pubDate>Tue, 13 Aug 2019 13:00:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-13-ansys-weldingdistortion-act/</guid>
+      <description>&lt;p&gt;ANSYS WeldingDistortion ACT&lt;/p&gt;
+&lt;p&gt;Очень простое по своей идее, и, в то же время, совершенно сногсшибательное расширение для ANSYS Mechanical сделали его разработчики.&lt;/p&gt;
+&lt;p&gt;Итак, расширение WeldingDistortion позволяет вам оценить возможное коробление изделия при сварке или наплавке на него материала. Расширение добавляет вам в проект систему нестационарного расчета теплопроводности и связанную с ним стационарную задачу прочности. Весь процесс наплавки задается через пошаговый мастер настройки с контекстной справкой. Несколько видео уроков идут в составе расширения.&lt;/p&gt;
+&lt;p&gt;Ссылка для скачивания расширения: &lt;a href=&#34;https://catalog.ansys.com/product/5cc0777d393ff648c8045853/weldingdistortion&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://catalog.ansys.com/product/5cc0777d393ff648c8045853/weldingdistortion&lt;/a&gt; — пользователям без логина доступна презентация с демонстрационными видео.&lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS #Mechanical #welding&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Dp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Dp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://catalog.ansys.com/product/5cc0777d393ff648c8045853/weldingdistortion&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;WeldingDistortion&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2Dp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Dp&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CivilFEM APPs — обзор работы в вебинаре</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-03-civilfem-apps-obzor-raboty-v-vebinare/</link>
+      <pubDate>Wed, 03 Jul 2019 19:18:41 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-03-civilfem-apps-obzor-raboty-v-vebinare/</guid>
+      <description>&lt;p&gt;CivilFEM APPs — обзор работы в вебинаре&lt;/p&gt;
+&lt;p&gt;Обзор работы ACT расширения CivilFEM уже для свежего ANSYS Mechanical 2019 R2. Кому нужно считать железобетон по нормам Eurocode, ASIC, LRFD, ASIC ASD, ACI318 и ACI349 — смотрим и вникаем.&lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS #CivilFEM #Ingeciber #Mechanical #Workbench&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Ay&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Ay&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Ay&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Ay&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Submodeling на усилиях</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-06-14-submodeling-na-usiliyah/</link>
+      <pubDate>Fri, 14 Jun 2019 17:00:53 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-06-14-submodeling-na-usiliyah/</guid>
+      <description>&lt;p&gt;Submodeling на усилиях&lt;/p&gt;
+&lt;p&gt;Довольно старый, но интересный пост от Ozen на тему использования техники под моделирование не на основе интерполяции перемещений, а на основе переноса усилий с большой модели на подробную. Говорят, что может пригодиться, когда измельчение сетки влияет на жесткостные характеристики модели.&lt;/p&gt;
+&lt;p&gt;Пример командного объекта для большой модели:&lt;/p&gt;
+&lt;p&gt;Пример командного объекта для подробной модели:&lt;/p&gt;
+&lt;p&gt;Исходный пост тут: &lt;a href=&#34;https://www.ozeninc.com/force-based-submodeling/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ozeninc.com/force-based-submodeling/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS #APDL #Mechanical #Ozen #submodeling&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2za&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2za&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ozeninc.com/force-based-submodeling/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ozeninc.com/force-based-submodeling/&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2za&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2za&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS Mechanical 2019 R2: часть 2</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-06-01-ansys-mechanical-2019-r2-chast-2/</link>
+      <pubDate>Sat, 01 Jun 2019 17:00:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-06-01-ansys-mechanical-2019-r2-chast-2/</guid>
+      <description>&lt;p&gt;ANSYS Mechanical 2019 R2: часть 2&lt;/p&gt;
+&lt;p&gt;Вторая часть видео по обновлениям ANSYS Mechanical 2019 R2. Тут у нас улучшения в области аддитивного производства: развитие Additive Wizard, импорт геометрии поддержек нулевой толщины и, наконец, вышедшая из beta Level Set оптимизация топологии. А еще ANSYS продолжает наращивать свои возможности по NVH и акустике.&lt;/p&gt;
+&lt;p&gt;#ANSYS #Mechanical&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2xI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2xI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2xI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2xI&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS Mechanical 2019 R2: часть 1</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-31-ansys-mechanical-2019-r2-chast-1/</link>
+      <pubDate>Fri, 31 May 2019 17:01:02 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-31-ansys-mechanical-2019-r2-chast-1/</guid>
+      <description>&lt;p&gt;ANSYS Mechanical 2019 R2: часть 1&lt;/p&gt;
+&lt;p&gt;Встречаем новый релиз ANSYS! Наконец-то ANSYS Mechanical получил новый ленточный GUI! А с ним и обновленный процесс присвоения свойств материалов. И, конечно, прямо там доступна вся база материалов от Granta. Подтянулась и кастомизация: появилось автодополнение APDL кода при работе с командными вставками и возможность быстрого создания своих кнопок в GUI.&lt;/p&gt;
+&lt;p&gt;Если говорить за физику, то теперь можно задавать несколько SMART трещин (раньше была только одна). Кроме того, из Beta вышел SpaceClaim Meshing. А основной сеточный генератор научился на лету склеивать оболочечные и балочные тела прямо в процессе построения сетки (это когда модель собрана с зазорами).&lt;/p&gt;
+&lt;p&gt;#ANSYS #Granta_Design #Mechanical #mesh #SpaceClaim_Meshing&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2xF&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2xF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2xF&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2xF&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вебинар по FSI в ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-22-vebinar-po-fsi-v-ansys/</link>
+      <pubDate>Wed, 22 May 2019 17:00:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-22-vebinar-po-fsi-v-ansys/</guid>
+      <description>&lt;p&gt;Вебинар по FSI в ANSYS&lt;/p&gt;
+&lt;p&gt;Mallett Technology рассказывают о связке прочностных и гидродинамических решателей ANSYS. Рассматривается пример двухсторонней связки Mechanical и CFX.&lt;/p&gt;
+&lt;p&gt;#ANSYS #CFX #FSI #Mallett_Technology #Mechanical #System_Coupling&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2wx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2wx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2wx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2wx&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Нелинейные контакты в ANSYS Mechanical</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-19-nelineynye-kontakty-v-ansys-mechanical/</link>
+      <pubDate>Tue, 19 Mar 2019 17:01:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-19-nelineynye-kontakty-v-ansys-mechanical/</guid>
+      <description>&lt;p&gt;Нелинейные контакты в ANSYS Mechanical&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=O-qTAiE8Kdo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=O-qTAiE8Kdo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Специалисты Mallett Technology, партнера ANSYS с 1985 года, рассказывают об особенностях работы нелинейных контактов в ANSYS Mechanical 2019 R1. Отличное сжатое переосмысление учебного курса по контактным взаимодействиям.&lt;/p&gt;
+&lt;p&gt;#ANSYS #contact #Mallett_Technology #Mechanical&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2q3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2q3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=O-qTAiE8Kdo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=O-qTAiE8Kdo&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2q3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2q3&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2-way-FSI в ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-08-2-way-fsi-v-ansys/</link>
+      <pubDate>Fri, 08 Mar 2019 17:01:02 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-08-2-way-fsi-v-ansys/</guid>
+      <description>&lt;p&gt;2-way-FSI в ANSYS&lt;/p&gt;
+&lt;p&gt;Как говорит мой коллега, настройка 2-way-FSI в ANSYS давно уже перестала быть увлекательной игрой, а стала рутинной операцией — достойная похвала модулю System Coupling, позволяющему связать нестационарные расчеты Mechanical и Fluent в рамках одного проекта. Мы же рассмотрим две серии учебных видео по настройке такой связки: первая серия — настройка, вторая — расчет.&lt;/p&gt;
+&lt;p&gt;Но если вы действительно думаете, что FSI хоть в какой-либо современной системе расчетов — это просто, то вас ожидает увлекательный трип :-)&lt;/p&gt;
+&lt;p&gt;#ANSYS #Fluent #FSI #Mechanical #System_Coupling&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2nE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2nE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2nE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2nE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вебинар по написанию ACT</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-26-vebinar-po-napisaniyu-act/</link>
+      <pubDate>Tue, 26 Feb 2019 17:01:56 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-26-vebinar-po-napisaniyu-act/</guid>
+      <description>&lt;p&gt;Вебинар по написанию ACT&lt;/p&gt;
+&lt;p&gt;Похоже я окончательно созрел для начала разработки собственных ACT расширений. И для этой цели я провожу обзор вспомогательной литературы. Всем очень советую посмотреть этот большой вебинар от SimuTech (главный партнер ANSYS в США). На протяжении более чем часа будут рассмотрены следующие темы:&lt;/p&gt;
+&lt;p&gt;Что такое концепция ACT и зачем оно нам надо
+ANSYS AppStore — там есть много ACT
+Примеры готовых ACT
+Создание собственного расширения для Mechanical
+Работа с ACT Console и API
+Simulation Wizard
+App Builder
+ROM и Digital Twins&lt;/p&gt;
+&lt;p&gt;К сожалению, видео с вебинаром можно смотреть только на Vimeo, так что вот ссылка на него: &lt;a href=&#34;https://vimeo.com/231774159&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vimeo.com/231774159&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/231774159&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vimeo.com/231774159&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ACT #ACT_Console #ANSYS #API #App_Builder #AppStore #Mechanical #Python #SimuTech&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2mz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2mz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/231774159&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vimeo.com/231774159&lt;/a&gt;
+&lt;a href=&#34;https://vimeo.com/231774159&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vimeo.com/231774159&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2mz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2mz&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EDRMedeso Weld Strength App</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-12-edrmedeso-weld-strength-app/</link>
+      <pubDate>Tue, 12 Feb 2019 12:03:25 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-12-edrmedeso-weld-strength-app/</guid>
+      <description>&lt;p&gt;EDRMedeso Weld Strength App&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Q7Wk1nRKWGM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Q7Wk1nRKWGM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Продолжило свое развитие ACT расширение расчета прочности сварочных соединений от компании EDR Medeso. Данное раширение работает в рамках WB для решателя Mechanical.&lt;/p&gt;
+&lt;p&gt;Прошу заметить, что расширение не занимается моделированием процесса сварки. Оно помогает сгенерировать геометрию шва, задать контакты, свойства материалов и получить оценку несущей способности по нормативам.&lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS #EDRMedesо #Mechanical #welding&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2k1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2k1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Q7Wk1nRKWGM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Q7Wk1nRKWGM&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2k1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2k1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Теория разрушения в ANSYS Mechanical</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-14-teoriya-razrusheniya-v-ansys-mechanical/</link>
+      <pubDate>Fri, 14 Dec 2018 17:00:40 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-14-teoriya-razrusheniya-v-ansys-mechanical/</guid>
+      <description>&lt;p&gt;Теория разрушения в ANSYS Mechanical
+Подробный часовой вебинар, рассказывающий о расчете трещин в ANSYS Mechanical 19.2.&lt;/p&gt;
+&lt;p&gt;Если вы сидите в классическом APDL, то посмотрите данное видео обязательно - вы сразу поймете, почему из него надо уходить на нормальный интерфейс.&lt;/p&gt;
+&lt;p&gt;#ANSYS #Fracture #Mechanical
+&lt;a href=&#34;http://bit.ly/2UJp8N3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2UJp8N3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2UJp8N3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2UJp8N3&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Учебная статья: Lattice Optimization в ANSYS Mechanical</title>
-      <link>http://localhost:1313/posts/2018-12-07-uchebnaya-statya-lattice-optimization-v-a/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-07-uchebnaya-statya-lattice-optimization-v-a/</link>
       <pubDate>Fri, 07 Dec 2018 17:00:17 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-12-07-uchebnaya-statya-lattice-optimization-v-a/</guid>
-      <description>&lt;p&gt;Коллеги из Padtinc написали отличный пост, где пошагово разобран весь процесс Lattice Optimization при помомщи ANSYS Mechanical версии 19.2.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-07-uchebnaya-statya-lattice-optimization-v-a/</guid>
+      <description>&lt;p&gt;Учебная статья: Lattice Optimization в ANSYS Mechanical
+Коллеги из Padtinc написали отличный пост, где пошагово разобран весь процесс Lattice Optimization при помомщи ANSYS Mechanical версии 19.2.
 Тут разобраны все этапы:&lt;/p&gt;
 &lt;p&gt;Постановка прочностного расчета
 Настройка модуля оптимизации
@@ -204,246 +592,1265 @@ by Юрий Новожилов&lt;/p&gt;
 &lt;p&gt;How to Use Lattice Optimization in ANSYS Mechanical and ANSYS SpaceClaim 19.2&lt;/p&gt;
 &lt;p&gt;#ANSYS #LatticeStructure #Mechanical #Optimization #Padtinc #Topology
 &lt;a href=&#34;http://bit.ly/2UpSlws&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2UpSlws&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.padtinc.com/blog/the-focus/how-to-use-lattice-optimization-in-ansys-mechanical-and-ansys-spaceclaim-19-2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;How to Use Lattice Optimization in ANSYS Mechanical and ANSYS SpaceClaim 19.2&lt;/a&gt;
+&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/how-to-use-lattice-optimization-in-ansys-mechanical-and-ansys-spaceclaim-19-2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.padtinc.com/blog/the-focus/how-to-use-lattice-optimization-in-ansys-mechanical-and-ansys-spaceclaim-19-2&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2UpSlws&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2UpSlws&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Запись вебиниар по CivilFEM APPs</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-17-zapis-vebiniar-po-civilfem-apps/</link>
+      <pubDate>Sat, 17 Nov 2018 17:01:44 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-17-zapis-vebiniar-po-civilfem-apps/</guid>
+      <description>&lt;p&gt;Запись вебиниар по CivilFEM APPs
+Ingeciber без лишнего промодления выложил на своем канале запись вебинара от 14 ноября 2018 - если вы его пропустили, то вам обязательно стоит ее посмотеть.&lt;/p&gt;
+&lt;p&gt;Нам показали современную реализацию CivilFEM в виде ACT для ANSYS Workbnch. Система полностью интегрирована в ANSYS Mechanical - наконец можно забыть про классический интефейс черного экрана смерти. Ну и в качесвте вишенки на торте: CivilFEM APPs вроде как может зачитывать старые модели в новый интефейс, а значит все ваши разработки минувших лет не пропадут.&lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS #CivilFEM #Ingeciber #Mechanical #Workbench
+&lt;a href=&#34;http://bit.ly/2RXzNl6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RXzNl6&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2RXzNl6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RXzNl6&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Лучистый теплообмен в механике</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-15-luchistyy-teploobmen-v-mehanike/</link>
+      <pubDate>Thu, 15 Nov 2018 17:01:40 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-15-luchistyy-teploobmen-v-mehanike/</guid>
+      <description>&lt;p&gt;Лучистый теплообмен в механике
+Мой московский коллега в своем 20-ти минутном видеоуроке раскрывает тему моделирования лучистого теплообмена при помощи ANSYS Mechanical.&lt;/p&gt;
+&lt;p&gt;А еще такие задачи можно решать во Fluent, и даже подключать к расчетам GPU, но это уже совсем другая история.&lt;/p&gt;
+&lt;p&gt;#ANSYS #CADFEM #Mechanical
+&lt;a href=&#34;http://bit.ly/2RVf4yh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RVf4yh&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2RVf4yh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RVf4yh&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Новые возможности ANSYS по работе с материалами</title>
-      <link>http://localhost:1313/posts/2018-11-05-novye-vozmozhnosti-ansys-po-rabote-s-mate/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-05-novye-vozmozhnosti-ansys-po-rabote-s-mate/</link>
       <pubDate>Mon, 05 Nov 2018 17:01:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-11-05-novye-vozmozhnosti-ansys-po-rabote-s-mate/</guid>
-      <description>&lt;p&gt;Еще одно полезное видео от LEAP: на этот раз оно посвящено новым возможностям ANSYS в области работы с материалами. Коллеги расскажут про две новых фишки ANSYS:&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-05-novye-vozmozhnosti-ansys-po-rabote-s-mate/</guid>
+      <description>&lt;p&gt;Новые возможности ANSYS по работе с материалами
+Еще одно полезное видео от LEAP: на этот раз оно посвящено новым возможностям ANSYS в области работы с материалами. Коллеги расскажут про две новых фишки ANSYS:&lt;/p&gt;
 &lt;p&gt;Material Designer - модуль расчета прямой гомогенизации (получения эффективных свойств композита на основе испытания представительного элемента объема)
 Material Assignment Tool - новый механизм присваивания моделей материалов не на основе геометрических объектов, а через именованные выборки&lt;/p&gt;
 &lt;p&gt;Еще покажут как влияет учет драпировки на свойства изделий из текстильных композитов, но это уже хорошо известная возможность ACP.&lt;/p&gt;
 &lt;p&gt;#ACP #ANSYS #Composite #LEAP #MaterialAssignmentTool #MaterialDesigner #Mechanical
 &lt;a href=&#34;http://bit.ly/2D4uPyD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2D4uPyD&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2D4uPyD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2D4uPyD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CivilFEM APPs for WB - видео пример</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-31-civilfem-apps-for-wb-video-primer/</link>
+      <pubDate>Wed, 31 Oct 2018 17:00:33 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-31-civilfem-apps-for-wb-video-primer/</guid>
+      <description>&lt;p&gt;CivilFEM APPs for WB - видео пример
+Только нас пригласили на вебинар по данному долгожданному развитию CivilFEM, как уже стало доступно первое демонстрационное видео с работой нового интрефейса.&lt;/p&gt;
+&lt;p&gt;Ну что ж, теперь на вебинар точно надо будет прийти, а потом еще и за изучение CivilFEM взяться.&lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS #CivilFEM #Ingeciber #Mechanical
+&lt;a href=&#34;http://bit.ly/2Pw2uYB&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Pw2uYB&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2Pw2uYB&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Pw2uYB&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CivilFEM для Workbech</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-30-civilfem-dlya-workbech/</link>
+      <pubDate>Tue, 30 Oct 2018 17:01:47 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-30-civilfem-dlya-workbech/</guid>
+      <description>&lt;p&gt;CivilFEM для Workbech
+14 ноября Ingeciber на своем вебинаре покажет нечто под названием CivilFEM APPs - похоже это будет тот самый долгожданный ACT для работы со всеми возможностями CivilFEM не в черном экране смерти, а в современной системе Mechanical.
+Бесплатная регистрация на две сессии по ссылкам:
+&lt;a href=&#34;http://www.civilfem.com/civilfem-apps-for-ansys-workbench-1/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.civilfem.com/civilfem-apps-for-ansys-workbench-1/&lt;/a&gt;
+&lt;a href=&#34;http://www.civilfem.com/civilfem-apps-for-ansys-workbench-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.civilfem.com/civilfem-apps-for-ansys-workbench-2/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ACT #CivilFEM #Ingeciber #Mechanical #Workbench
+&lt;a href=&#34;http://bit.ly/2PxYlng&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PxYlng&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.civilfem.com/civilfem-apps-for-ansys-workbench-1/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.civilfem.com/civilfem-apps-for-ansys-workbench-1/&lt;/a&gt;
+&lt;a href=&#34;http://www.civilfem.com/civilfem-apps-for-ansys-workbench-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.civilfem.com/civilfem-apps-for-ansys-workbench-2/&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2PxYlng&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PxYlng&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Настройка 2-way-FSI в ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-03-nastroyka-2-way-fsi-v-ansys/</link>
+      <pubDate>Wed, 03 Oct 2018 17:00:24 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-03-nastroyka-2-way-fsi-v-ansys/</guid>
+      <description>&lt;p&gt;Настройка 2-way-FSI в ANSYS
+Серия из двух небольших видео, показывающих как настроить двусторонний FSI для нестационарной задачи.&lt;/p&gt;
+&lt;p&gt;За механику отвечает ANSYS Mechanical, за гидродинамику - ANSYS Fluent.&lt;/p&gt;
+&lt;p&gt;Все это смешиваем в среде Workbench и заставляем работать вместе через System Coupling. Технически выглядит несложно :-)&lt;/p&gt;
+&lt;p&gt;#ANSYS #CFD #Fluent #FSI #Mechanical #SystemCoupling #Workbench
+&lt;a href=&#34;http://bit.ly/2P9pU2S&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2P9pU2S&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2P9pU2S&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2P9pU2S&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Коротко о новых возможностях ANSYS Mechanical 19.2</title>
-      <link>http://localhost:1313/posts/2018-09-24-korotko-o-novyh-vozmozhnostyah-ansys-mecha/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-09-24-korotko-o-novyh-vozmozhnostyah-ansys-mecha/</link>
       <pubDate>Mon, 24 Sep 2018 17:01:05 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-09-24-korotko-o-novyh-vozmozhnostyah-ansys-mecha/</guid>
-      <description>&lt;p&gt;Собственно все показано в видео. Мне из этого всего пригодится Material Designer и возможность делать топологическую оптимизацию с прицелом на технологичность печати. Жаль, что condensed part мне в расчетах не нужны :(&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-09-24-korotko-o-novyh-vozmozhnostyah-ansys-mecha/</guid>
+      <description>&lt;p&gt;Коротко о новых возможностях ANSYS Mechanical 19.2&lt;/p&gt;
+&lt;p&gt;Собственно все показано в видео. Мне из этого всего пригодится Material Designer и возможность делать топологическую оптимизацию с прицелом на технологичность печати. Жаль, что condensed part мне в расчетах не нужны :(&lt;/p&gt;
 &lt;p&gt;#ANSYS #Mechanical
 &lt;a href=&#34;http://bit.ly/2MXvOSB&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2MXvOSB&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2MXvOSB&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2MXvOSB&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Актуальный FEM инструмент</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-23-aktualnyy-fem-instrument/</link>
+      <pubDate>Thu, 23 Aug 2018 18:00:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-23-aktualnyy-fem-instrument/</guid>
+      <description>&lt;p&gt;Актуальный FEM инструмент
+Предлагаю послушать выступление человека, который уже более четверти века использует МКЭ в своей работе. Шон Харви (Sean Harvey, &lt;a href=&#34;https://www.linkedin.com/in/seanmharvey/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.linkedin.com/in/seanmharvey/&lt;/a&gt;) очень живо и искренно рассказывает о том, почему ему так нравиться ANSYS Mechanical, как тот вырос из APDL, и как современный интефейс дополняет возможности проверенного математического ядра.&lt;/p&gt;
+&lt;p&gt;#ANSYS #APDL #Mechanical
+&lt;a href=&#34;http://bit.ly/2Lo35Wm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Lo35Wm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/seanmharvey/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.linkedin.com/in/seanmharvey/&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2Lo35Wm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Lo35Wm&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS AM - доклад</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-16-ansys-am-doklad/</link>
+      <pubDate>Thu, 16 Aug 2018 18:01:12 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-16-ansys-am-doklad/</guid>
+      <description>&lt;p&gt;ANSYS AM - доклад
+Получасовой доклад от доктора Брента Стакера (Dr. Brent Stucker), директора направления AM в компании ANSYS. Докладчик - весьма видная персона. Он был CEO компании 3DSIM, ставшей ядром ANSYS AM после поглащения. А еще, он соавтор более сотни научных статей ()&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;#3DSIM #AdditiveManufacturing #AdditivePrint #AM #ANSYS #Mechanical
+&lt;a href=&#34;http://bit.ly/2OGXLzf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OGXLzf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.researchgate.net/profile/Brent_Stucker&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Brent Stucker&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2OGXLzf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OGXLzf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS EKM - новый этап развития</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-07-ansys-ekm-novyy-etap-razvitiya/</link>
+      <pubDate>Tue, 07 Aug 2018 18:01:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-07-ansys-ekm-novyy-etap-razvitiya/</guid>
+      <description>&lt;p&gt;ANSYS EKM - новый этап развития
+Коллеги из МСК подготовили шикарное видео, в котором показали очень много всего интересного касательно EKM.&lt;/p&gt;
+&lt;p&gt;EKM (Engineering Knowledge Manager) - система класса SDM (Simulation Data Management) от ANSYS. При всех ее достоинствах, у нее до недавнего времени была одна особенность, существенно затруднявшая ее врендрение. А именно: EKM имел жесткую привязку к версии ANSYS, что заставляло обновлять все ПО организации разом. Сейчас, начиная в версии 19.1 (или как она теперь должна называться?), EKM может работать с любой версией решателей ANSYS - ему можно это объяснить.
+Уже предыдущий шаг был очень важен, но коллеги из МСК успели, кроме внедрения новой версии, подтянуть руссификацию интерфейса и подружить систему с неподдерживаемым планировщиком Slurm. Получилось очень достойно!&lt;/p&gt;
+&lt;p&gt;#ANSYS #CFX #EKM #Fluent #HPC #Mechanical #SDM #SLURM
+&lt;a href=&#34;http://bit.ly/2KvT60N&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2KvT60N&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2KvT60N&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2KvT60N&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>nTopology ACT</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-17-ntopology-act/</link>
+      <pubDate>Tue, 17 Jul 2018 18:01:36 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-17-ntopology-act/</guid>
+      <description>&lt;p&gt;nTopology ACT
+Команда Groupe Réaction Inc и nTopology - системы, позволяющей генерировать и редактировать lattice structure геометрию, запустили в магазин расширений ANSYS свое ACT. За 500 баксов оно позволяет загрузить результаты работы алгоритмов nTopology в виде файлов *.LTCX в структуру Workbench, передать их в виде КЭ сетки балочных или оболочечных элементов (ну наконец-то не надо возиться с восстановлением из STL!) в Mechanical и дальше посчитать все, что вам только в голову придёт. А еще, в качестве beta, там есть возможность задания морфинга lattice structure на уровне сетки.
+&lt;a href=&#34;https://appstore.ansys.com/shop/ACTApps_act%20apps/nTopologyLatticeCustomWorkflow_apc-actapp-403&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/shop/ACTApps_act%20apps/nTopologyLatticeCustomWorkflow_apc-actapp-403&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS #LatticeStructure #Mechanical #NTopology #STL #Workbench
+&lt;a href=&#34;http://bit.ly/2NWdFGw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NWdFGw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/shop/ACTApps_act%20apps/nTopologyLatticeCustomWorkflow_apc-actapp-403&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/shop/ACTApps_act%20apps/nTopologyLatticeCustomWorkflow_apc-actapp-403&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2NWdFGw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NWdFGw&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Custom key binding для ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-09-custom-key-binding-dlya-ansys/</link>
+      <pubDate>Mon, 09 Jul 2018 18:00:45 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-09-custom-key-binding-dlya-ansys/</guid>
+      <description>&lt;p&gt;Custom key binding для ANSYS
+Горячие клавиши в софте - это хорошо. Это позволяет существенно повысить производительность вашей работы. Это позволяет меньше отвлекаться на мышку и быстрее делать рутинные операции.
+Горячие клавиши есть во многих программных продуктах ANSYS. Ну а если их вам мало, то вы можете бесплатно скачать ACT расширение Hot Keys Customizer, которое позволит вам назначить свои сочетания клавиш на требуемые операции в приложениях интерфейса ANSYS Mechanical.&lt;/p&gt;
+&lt;p&gt;Мало того, что расширение распространяется бесплатно, так оно еще имеет в своём составе исходный код - при желании вы можете необратимо его улучшить и обогатить вашими наработками.
+&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-362&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-362&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS #Mechanical
+&lt;a href=&#34;http://bit.ly/2u8dYFZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2u8dYFZ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-362&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-362&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2u8dYFZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2u8dYFZ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EDEM ACT для ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-01-edem-act-dlya-ansys/</link>
+      <pubDate>Sun, 01 Jul 2018 18:01:38 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-01-edem-act-dlya-ansys/</guid>
+      <description>&lt;p&gt;EDEM ACT для ANSYS
+В магазине ACT расширений ANSYS наконец появилось расширение для интеграции с DEM кодом EDEM. Все бы хорошо, но $6000, Карл! И это только для механики на 1 год. И я не понял: это только за расширение, или EDEM в эту цену тоже входит?
+&lt;a href=&#34;https://appstore.ansys.com/shop/ACTApps_act%20apps/EDEMforANSYS_apc-actapp-382&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/shop/ACTApps_act%20apps/EDEMforANSYS_apc-actapp-382&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS #DEM #EDEM #Mechanical
+&lt;a href=&#34;http://bit.ly/2MCI4YV&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2MCI4YV&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/shop/ACTApps_act%20apps/EDEMforANSYS_apc-actapp-382&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/shop/ACTApps_act%20apps/EDEMforANSYS_apc-actapp-382&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2MCI4YV&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2MCI4YV&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CivilFEM 19.0 for ANSYS 19.0</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-06-27-civilfem-190-for-ansys-190/</link>
+      <pubDate>Wed, 27 Jun 2018 18:01:55 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-06-27-civilfem-190-for-ansys-190/</guid>
+      <description>&lt;p&gt;CivilFEM 19.0 for ANSYS 19.0
+Видео по установке CivilFEM под ANSYS. И тут сразу два примечательных момента:&lt;/p&gt;
+&lt;p&gt;CivilFEM вышел для версии 19.0 (опазадли всего на пол года, а не на год, как раньше)
+У CivilFEM теперь тоже есть студенческая бесплатная версия!&lt;/p&gt;
+&lt;p&gt;#ANSYS #CivilFEM #Mechanical
+&lt;a href=&#34;http://bit.ly/2tx4rb0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2tx4rb0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2tx4rb0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2tx4rb0&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Удары и дроптесты: генерация спектра отклика</title>
-      <link>http://localhost:1313/posts/2018-06-25-udary-i-droptesty-generatsiya-spektra-otk/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-06-25-udary-i-droptesty-generatsiya-spektra-otk/</link>
       <pubDate>Mon, 25 Jun 2018 18:01:48 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-06-25-udary-i-droptesty-generatsiya-spektra-otk/</guid>
-      <description>&lt;p&gt;Собственно, учебное видео по теме для пользователей ANSYS Mechanical. Видео примечательно использованием командных APDL вставок для постпроцессинга. Это магическое знание позволяет вытаскивать графические результаты в современный интерфейс из /POST1&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-06-25-udary-i-droptesty-generatsiya-spektra-otk/</guid>
+      <description>&lt;p&gt;Удары и дроптесты: генерация спектра отклика
+Собственно, учебное видео по теме для пользователей ANSYS Mechanical. Видео примечательно использованием командных APDL вставок для постпроцессинга. Это магическое знание позволяет вытаскивать графические результаты в современный интерфейс из /POST1&lt;/p&gt;
 &lt;p&gt;#ANSYS #APDL #DropTest #Mechanical #Shock
 &lt;a href=&#34;https://is.gd/kIIdgG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://is.gd/kIIdgG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://is.gd/kIIdgG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://is.gd/kIIdgG&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Вебинары по GTAM/GSAM v16 — оптимизация топологии и не тольк</title>
-      <link>http://localhost:1313/posts/2018-05-06-vebinary-po-gtamgsam-v16-optimizatsiya/</link>
+      <title>Вебинары по GTAM/GSAM v16 — оптимизация топологии и не только</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-06-vebinary-po-gtamgsam-v16-optimizatsiya/</link>
       <pubDate>Sun, 06 May 2018 18:01:18 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-05-06-vebinary-po-gtamgsam-v16-optimizatsiya/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-06-vebinary-po-gtamgsam-v16-optimizatsiya/</guid>
       <description>&lt;p&gt;На случай если вы пропустили данный вебинар, стоит пересмотреть его сейчас. Компания Vanderplaats Research &amp;amp; Development  рассказывает о своих оптимизаторах, встраиваемых в ANSYS Mechanical и существенно расширяющих его возможности. Речь в основном идет об GENESIS Structural Optimization for ANSYS Mechanical (GSAM) и GENESIS Topology Optimization for ANSYS Mechanical (GTAM). GTAM решает только задачи оптимизации топологии, тогда как GSAM умеет еще и такие штуки, как оптимизация по средством морфинга сетки, топографическая оптимизация, оптимизация толщин оболочечных моделей и оптимизация жесткости оболочечных конструкций за счет выштамповок. Скучно не будет, ведь все это может работать с учетом нелинейности на уровне геометрии и свойств материалов! И да, весь софт встраивается в Workbench по средствам ACT.
 #ACT #ANSYS #GENESIS #GSAM #GTAM #Mechanical #optimiziation #Topology #Workbench&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Pr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Pr&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Pr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Pr&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Проектирование углепластикового спортивного диска</title>
-      <link>http://localhost:1313/posts/2018-04-26-proektirovanie-ugleplastikovogo-sportivn/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-26-proektirovanie-ugleplastikovogo-sportivn/</link>
       <pubDate>Thu, 26 Apr 2018 18:01:14 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-04-26-proektirovanie-ugleplastikovogo-sportivn/</guid>
-      <description>&lt;p&gt;Небольшое, но ёмкое видео, демонстрирующее возможности ANSYS Composite PrepPost по моделированию изделий из углепластика сложной формы. Ну а дальше все, как в лучших практиках: геометрия в SpaceClaim, сетка в ANSYS Meshing, структура композита в ACP, расчет в Mechanical&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-26-proektirovanie-ugleplastikovogo-sportivn/</guid>
+      <description>&lt;p&gt;Проектирование углепластикового спортивного диска&lt;/p&gt;
+&lt;p&gt;Небольшое, но ёмкое видео, демонстрирующее возможности ANSYS Composite PrepPost по моделированию изделий из углепластика сложной формы. Ну а дальше все, как в лучших практиках: геометрия в SpaceClaim, сетка в ANSYS Meshing, структура композита в ACP, расчет в Mechanical&lt;/p&gt;
 &lt;p&gt;Кроме того, не забываем о возможностях посчитать ударные нагрузки в Explicit STR или LS-DYNA или учесть возможное коробление при спекании в ANSYS Composite Cure Simulation (ASSC).
 #ACCS #ACP #ANSYS #composite #Mechanical&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Nz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Nz&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Nz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Nz&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Моделирование трещин в ANSYS: кины и энергия</title>
-      <link>http://localhost:1313/posts/2018-04-09-modelirovanie-treschin-v-ansys-kiny-i-ene/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-09-modelirovanie-treschin-v-ansys-kiny-i-ene/</link>
       <pubDate>Mon, 09 Apr 2018 18:01:14 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-04-09-modelirovanie-treschin-v-ansys-kiny-i-ene/</guid>
-      <description>&lt;p&gt;Второе видео из серии материалов, посвященных моделированию роста трещин в ANSYS Mechanical 19. Сегодня разговор пойдет о кинах (коэффициентах интенсивности напряжений), критерии Гриффитса и критической длине трещины.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-09-modelirovanie-treschin-v-ansys-kiny-i-ene/</guid>
+      <description>&lt;p&gt;Моделирование трещин в ANSYS: кины и энергия
+Второе видео из серии материалов, посвященных моделированию роста трещин в ANSYS Mechanical 19. Сегодня разговор пойдет о кинах (коэффициентах интенсивности напряжений), критерии Гриффитса и критической длине трещины.&lt;/p&gt;
 &lt;p&gt;#ANSYS #Crack #Fracture #Mechanical
 &lt;a href=&#34;https://is.gd/kdwjsx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://is.gd/kdwjsx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://is.gd/kdwjsx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://is.gd/kdwjsx&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS CAD interface</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-05-ansys-cad-interface/</link>
+      <pubDate>Thu, 05 Apr 2018 18:01:09 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-05-ansys-cad-interface/</guid>
+      <description>&lt;p&gt;ANSYS CAD interface
+Еще до появления всеядного SpaceClaim компания ANSYS реализовала интерфейсы для работы с геометрией основных промышленых CAD форматов в рамках среды Workbench. Естественно, что эти интерфейсы продолжают свое сущесвование и не собираются никуда пропадать. Сегодняшнее видео демонстрирует работу интефейса с Creo Perametric. И тут рассматривается не только передача геометрии и свойств материалов, но и работа с параметрами, оптимизация конструкции в DesignXplorer.&lt;/p&gt;
+&lt;p&gt;#ANSYS #CAD #Creo #DesignXplorer #Mechanical #PTC
+&lt;a href=&#34;https://goo.gl/Rqjhi4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/Rqjhi4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://goo.gl/Rqjhi4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/Rqjhi4&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS Additive Suite</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-04-ansys-additive-suite/</link>
+      <pubDate>Wed, 04 Apr 2018 18:01:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-04-ansys-additive-suite/</guid>
+      <description>&lt;p&gt;ANSYS Additive Suite
+Только вчера закончилось мероприятие, на котором у меня был доклад по продуктам ANSYS для аддитивных методов производства, как в сети уже есть свежие учебные материалы по данной теме. Одно из первых видео, показывающих работу релизной версии ANSYS Additive Suite, вошедшей в состав ANSYS 19.0.2&lt;/p&gt;
+&lt;p&gt;#Additive_Manufacturing #ANSYS #Mechanical
+&lt;a href=&#34;https://goo.gl/TxJ9Gv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/TxJ9Gv&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://goo.gl/TxJ9Gv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/TxJ9Gv&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование трещин в ANSYS: основы</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-21-modelirovanie-treschin-v-ansys-osnovy/</link>
+      <pubDate>Wed, 21 Mar 2018 18:01:03 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-21-modelirovanie-treschin-v-ansys-osnovy/</guid>
+      <description>&lt;p&gt;Моделирование трещин в ANSYS: основы
+На днях я нашел серию учебных видео по моделированию процессов расслоения и трещенообразования средствами ANSYS Mechanical 19. В первом видео речь пойдет о простейшем случае расслоения биметаллической пластины, немного поговорят про сингулярности и технологию VCCT.&lt;/p&gt;
+&lt;p&gt;#ANSYS #Fracture #Mechanical
+&lt;a href=&#34;https://goo.gl/GfjesB&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/GfjesB&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://goo.gl/GfjesB&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/GfjesB&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Большой вебинар по LimitState:FORM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-13-bolshoy-vebinar-po-limitstateform/</link>
+      <pubDate>Tue, 13 Mar 2018 18:01:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-13-bolshoy-vebinar-po-limitstateform/</guid>
+      <description>&lt;p&gt;Большой вебинар по LimitState:FORM
+LimitState:FORM особое ПО, предназначенное для генерации конструкций оптимальной топологии (&lt;a href=&#34;http://limitstate3d.com/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://limitstate3d.com/)&lt;/a&gt;. Только конструкции оно генерирует сразу в виде балочной структуры, за счет чего результаты получаются очень быстро.&lt;/p&gt;
+&lt;p&gt;Разработчики называют это оптимизацией на основе Truss-Based Design, хотя на самом деле это Discontinuity layout optimization (&lt;a href=&#34;https://en.wikipedia.org/wiki/Discontinuity_layout_optimization%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://en.wikipedia.org/wiki/Discontinuity_layout_optimization)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;На прошлой неделе коллеги провели очень интересный и качественный вебинар, посвященный их технологиям и результатам.&lt;/p&gt;
+&lt;p&gt;Кроме всех очевидных преимуществ в плане скорости работы и простоты, у LimitState:FORM есть еще один козырь в рукаве. ПО может сразу проектировать конструкции с учетом их устойчивости, допустимых напряжений и перемещений. Прямо в вебинары показано, что форма конструкции меняется в зависимости от амплитуды нагрузки, чего не могут стандартные алгоритмы оптимизации топологии.
+И это только средствами самого ПО, а ведь есть еще связка с решателеми ANSYS Mechanical и средой Workbench через ACT (&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-285%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-285)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;#Additive_Manufacturing #ANSYS #Discontinuity_Layout_Optimization #DLO #Lattice #LimitState #LimitStateFORM #Mechanical #Optimization #Topology #TrussBased
+&lt;a href=&#34;https://goo.gl/HFvcJQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/HFvcJQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://limitstate3d.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://limitstate3d.com/&lt;/a&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Discontinuity_layout_optimization&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://en.wikipedia.org/wiki/Discontinuity_layout_optimization&lt;/a&gt;
+&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-285&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-285&lt;/a&gt;
+&lt;a href=&#34;https://goo.gl/HFvcJQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/HFvcJQ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Бетон в ANSYS 18.2</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-01-beton-v-ansys-182/</link>
+      <pubDate>Thu, 01 Mar 2018 18:00:25 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-01-beton-v-ansys-182/</guid>
+      <description>&lt;p&gt;Бетон в ANSYS 18.2
+Бетон — это, можно сказать, моя страсть! В ANSYS 18.2 появился целый Geomechanical Toolbox с новыми интересными моделями грунтов и бетонов. Пока я не успеваю до него дойти смотрю на чужие уроки.
+Таким образом сегодня у нас видео урок по проверке кубической (кубовой?, кубиковой???), призматической и цилиндрической прочности бетона в ANSYS Mechanical 18.2. Используется модель бетона Menetrey-Willam. Модель хороша уже тем, что имеет минимум настроек, что упрощает проверку работы.&lt;/p&gt;
+&lt;p&gt;P.S. У коллеги просность не совпала с тем, что он хотел. А у меня вощники вопросы к граничным условиям.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Что может ANSYS в аддитивных технологиях</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-27-chto-mozhet-ansys-v-additivnyh-tehnologiyah/</link>
+      <pubDate>Tue, 27 Feb 2018 18:00:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-27-chto-mozhet-ansys-v-additivnyh-tehnologiyah/</guid>
+      <description>&lt;p&gt;Что может ANSYS в аддитивных технологиях
+Аддитивные технологии сейчас переживают бурный расцвет — все хотят проектировать и производить конструкции невиданных доселе форм невиданными доселе способами.
+Если с формами все более менее понятно: алгоритмы оптимизации топологии позволяют получить оптимальные очертания геометрии автоматизированно, то с невиданными способами производства все несколько сложнее. Аддитивные технологии (читай 3D печать) остро нуждаются в моделировании физических процессов с ними связанных.
+В прошлом году для релиза 18.2 компания ANSYS выпустила бесплатное ACT расширение «Additive Manufacturing Process Modeling» (&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-318%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-318)&lt;/a&gt;, позволяющее всем желающим оценить будущие возможности своей системы. Расширение имеет статус технического демо, но в комплекте с ним уже идет обширная документация.
+А сейчас мне удалось найти в сети еще и готовый видеоурок в двух частях, показывающий пошаговую работу с расширением — видеоурок идет с весьма полезными комментариями.
+Первая часть урока — постановка задачи:&lt;/p&gt;
+&lt;p&gt;Вторая часть урока — анализ полученных результатов:&lt;/p&gt;
+&lt;p&gt;P.S. Ссылка от автора на свойства материалов, использованных в видео: http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=mq316a&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-318&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-318&lt;/a&gt;
+&lt;a href=&#34;http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=mq316a&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=mq316a&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Самое вкусное в ANSYS 19 по версии ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-03-samoe-vkusnoe-v-ansys-19-po-versii-ansys/</link>
+      <pubDate>Sat, 03 Feb 2018 17:00:41 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-03-samoe-vkusnoe-v-ansys-19-po-versii-ansys/</guid>
+      <description>&lt;p&gt;Самое вкусное в ANSYS 19 по версии ANSYS
+Компания ANSYS в своем блоге представила свой список самых интересных функций в версии 19.&lt;/p&gt;
+&lt;p&gt;В основные фишки нового релиза попали следующие пункты:&lt;/p&gt;
+&lt;p&gt;Расчет эффективной отражающей площадьи объекста (Radar Cross Section) в HFSS SBR+&lt;/p&gt;
+&lt;p&gt;Возможность проектирования графических интерфейсов для встраемого ПО&lt;/p&gt;
+&lt;p&gt;Повышенная производительность ANSYS Fluent в задачах распыления струи жидкости&lt;/p&gt;
+&lt;p&gt;Набор технологий SMART в ANSYS Mechanical (SMART = Separating, Morphing, Adaptive, Re-meshing Technology) для моделирования роста трещин&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys-blog.com/ansys-19-release/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys-blog.com/ansys-19-release/&lt;/a&gt;
+#ANSYS #Fluent #HFSS #Mechanical #SBR+ #smart
+&lt;a href=&#34;https://magicdpd.ru/?p=6141&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6141&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys-blog.com/ansys-19-release/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys-blog.com/ansys-19-release/&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=6141&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6141&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spectre и Meltdown против ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-21-spectre-i-meltdown-protiv-ansys/</link>
+      <pubDate>Sun, 21 Jan 2018 17:01:07 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-21-spectre-i-meltdown-protiv-ansys/</guid>
+      <description>&lt;p&gt;Spectre и Meltdown против ANSYS
+В начале этого года прогремели новости об обнаружении уязвимостей практически во всех процессорах x86_64 и ARM. Уязвимости получили названия Spectre и Meltdown - у них даже есть свой сайт &lt;a href=&#34;https://spectreattack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://spectreattack.com&lt;/a&gt; (а у вас есть? :-)). Я не буду вдаваться в подробности работы уязвимостей, скажу только, что с их появлением можно забыть о концепции защищенной памяти процесса, которая декларировалась уже лет 10 - это огромная дыра в безопасности!&lt;/p&gt;
+&lt;p&gt;Для исправления уязвимостей были выпущены заплатки на уровне операционных систем, которые исправляют баг, но могут очень здорово просадить производительность системы: от 5 в зависимости от типа решаемой задачи. Перед всеми нами встала дилемма: работать безопасно или работать быстро? Но вот почти никто не стал проверять, насколько проседает производительность в задачах, которые интересны нам - в CAE.&lt;/p&gt;
+&lt;p&gt;Одними из немногих, кто провел реальные тесты и опубликовал их результаты, оказался коллектив PADT Inc. Коллеги взяли задачу Ball Grid Array из стандартного набора тестов производительности для  ANSYS Mechanical 18.2  Benchmark и выполнили расчет на двухпроцессорной рабочей станции:&lt;/p&gt;
+&lt;p&gt;CPU: INTEL XEON Gold 6130 CPU x2
+RAM: 128GB DDR4-2667MHz (1Rx4) ECC REG DIMM
+OS: Windows 10 Professional
+MPI: INTEL MPI 5.0.1.3
+GPU: NVIDIA QUADRO P4000
+SSD: Samsung EVO 960 Pro NVMe M.2
+HDD: Toshiba 2TB 7200 RPM SATA 3 Drive&lt;/p&gt;
+&lt;p&gt;Результаты получились примерно следующие:&lt;/p&gt;
+&lt;p&gt;Как можно видеть, производительность на данном тесте падает не более чем на 10%, а в некоторых случаях даже растет (что вообще-то очень странно). Для случая использования высокооптимизированного решателя ANSYS Mechanical исправления уязвимостей Spectre и Meltdown оказыват малое влияние на время расчета.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/spectre-side-channel-and-meltdown-how-will-living-in-this-new-reality-affect-the-world-of-numerical-simulation&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.padtinc.com/blog/the-focus/spectre-side-channel-and-meltdown-how-will-living-in-this-new-reality-affect-the-world-of-numerical-simulation&lt;/a&gt;
+#ANSYS #HPC #Mechanical #Meltdown #padtinc #Spectre
+&lt;a href=&#34;https://magicdpd.ru/?p=6002&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6002&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://spectreattack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://spectreattack.com&lt;/a&gt;
+5.0.1.3
+&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/spectre-side-channel-and-meltdown-how-will-living-in-this-new-reality-affect-the-world-of-numerical-simulation&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.padtinc.com/blog/the-focus/spectre-side-channel-and-meltdown-how-will-living-in-this-new-reality-affect-the-world-of-numerical-simulation&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=6002&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6002&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS 19 - Mechanical Product Update</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-13-ansys-19-mechanical-product-update/</link>
+      <pubDate>Sat, 13 Jan 2018 12:01:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-13-ansys-19-mechanical-product-update/</guid>
+      <description>&lt;p&gt;ANSYS 19 - Mechanical Product Update
+Начинается пора замечательных вебинаров, предваряющих выход ANSYS R19. Вот некоторые из них:&lt;/p&gt;
+&lt;p&gt;ANSYS 19 - HFSS Product Update
+ANSYS 19 - Mechanical Product Update
+ANSYS 19 - Maxwell Product Update
+ANSYS 19 - Icepak Product Update
+Fluid Dynamics Innovations in ANSYS 19.0&lt;/p&gt;
+&lt;p&gt;#ANSYS #HFSS #Icepak #Maxwell #Mechanical #webinar #САВ
+&lt;a href=&#34;https://magicdpd.ru/?p=5921&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5921&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys.com/about-ansys/events/18-02-07-hfss-webinar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/about-ansys/events/18-02-07-hfss-webinar&lt;/a&gt;
+&lt;a href=&#34;http://www.ansys.com/about-ansys/events/18-02-08-mechanical-webinar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/about-ansys/events/18-02-08-mechanical-webinar&lt;/a&gt;
+&lt;a href=&#34;http://www.ansys.com/about-ansys/events/18-03-07-maxwell-webinar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/about-ansys/events/18-03-07-maxwell-webinar&lt;/a&gt;
+&lt;a href=&#34;http://www.ansys.com/about-ansys/events/18-03-01-icepak-webinar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/about-ansys/events/18-03-01-icepak-webinar&lt;/a&gt;
+&lt;a href=&#34;http://www.ansys.com/about-ansys/events/18-03-13-cfd-webinar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/about-ansys/events/18-03-13-cfd-webinar&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=5921&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5921&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Наглядные результаты расчетов в ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-08-naglyadnye-rezultaty-raschetov-v-ansys/</link>
+      <pubDate>Mon, 08 Jan 2018 15:36:37 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-08-naglyadnye-rezultaty-raschetov-v-ansys/</guid>
+      <description>&lt;p&gt;Наглядные результаты расчетов в ANSYS
+&lt;a href=&#34;https://twitter.com/twitter/statuses/950367265966444545&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://twitter.com/twitter/statuses/950367265966444545&lt;/a&gt;
+#ANSYS #LS-DYNA #Mechanical #RigidBodyDynamics
+&lt;a href=&#34;https://magicdpd.ru/?p=5880&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5880&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/twitter/statuses/950367265966444545&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://twitter.com/twitter/statuses/950367265966444545&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=5880&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5880&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Грунты и сеточная адаптация в ANSYS Mechanical</title>
-      <link>http://localhost:1313/posts/2018-01-02-grunty-i-setochnaya-adaptatsiya-v-ansys-mech/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-02-grunty-i-setochnaya-adaptatsiya-v-ansys-mech/</link>
       <pubDate>Tue, 02 Jan 2018 19:52:03 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-01-02-grunty-i-setochnaya-adaptatsiya-v-ansys-mech/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://twitter.com/flaxius/status/948149501684011008&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://twitter.com/flaxius/status/948149501684011008&lt;/a&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-02-grunty-i-setochnaya-adaptatsiya-v-ansys-mech/</guid>
+      <description>&lt;p&gt;Грунты и сеточная адаптация в ANSYS Mechanical
+&lt;a href=&#34;https://twitter.com/flaxius/status/948149501684011008&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://twitter.com/flaxius/status/948149501684011008&lt;/a&gt;
 #ANSYS #Mechanical #Soil
+&lt;a href=&#34;https://magicdpd.ru/?p=5745&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5745&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/flaxius/status/948149501684011008&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Richard Mitchell&lt;/a&gt;
 &lt;a href=&#34;https://magicdpd.ru/?p=5745&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5745&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Статья - размышление про то, как #ANSYS #Discovery Live помо</title>
-      <link>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</link>
+      <title>#молния!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-21-molniya-kompaniya-ansys-v-kataloge-act/</link>
+      <pubDate>Sat, 21 Oct 2017 08:52:30 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-21-molniya-kompaniya-ansys-v-kataloge-act/</guid>
+      <description>&lt;p&gt;Компания #ANSYS в каталоге #ACT расширения размесила модуль для моделироапни процессов 3D печати. Расширение пока что предназначено для демонстрации технологических возможностей кода #ANSYS #Mechanical (#MAPDL).&lt;/p&gt;
+&lt;p&gt;Однако, мы помним, что аналогичное #TechnologyPreview модуля топологической оптимизации для 17-ой версии стало стандартным модулем в 18-ой версии. Держим кулаки, что бы в 19-ой версии модуль #Additive #Manufacturing стал стабильным компонентом #Workbench.&lt;/p&gt;
+&lt;p&gt;#additivemanufacturing #topology #optimization #3dptinting #APDL&lt;/p&gt;
+&lt;p&gt;Ссылка для бесплатного скачивания для всех пользователей с действующей технической поддержкой:
+&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-318&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-318&lt;/a&gt; 🔗 ANSYS Estore&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2hV1ACe&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hV1ACe&lt;/a&gt;
+&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-318&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-318&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>На портел технической поддержки появилась заплатка к #ANSYS 18.2 - ANSYS 18.2.2. В заплатке починили баги в топологической оптимизации в #AIM, а также мелкие баги с распараллеливанием и рессорами в #Mechanical #APDL.Media</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-12-na-portel-tehnicheskoy-podderzhki-poyavilas/</link>
+      <pubDate>Thu, 12 Oct 2017 17:08:35 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-12-na-portel-tehnicheskoy-podderzhki-poyavilas/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://ift.tt/2g6HoNt&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2g6HoNt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vlsZ4T&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlsZ4T&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vlyNM5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlyNM5&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vKriOO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vKriOO&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2ye3sQG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ye3sQG&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2g6HoNt&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2g6HoNt&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#LimitState в версии 3.1 пообещали реализовать интеграцию с #ANSYS #Discovery Live для проверки получаемых в их программном обеспечении облегченных меренных конструкций.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-27-limitstate-v-versii-31-poobeschali-reali/</link>
+      <pubDate>Wed, 27 Sep 2017 17:10:41 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-27-limitstate-v-versii-31-poobeschali-reali/</guid>
+      <description>&lt;p&gt;Таки образом, если сейчас проверка конструкции осуществляется классическим решателем #ANSYS #Mechanical, то скоро она будет производится налету в Discovery. Вот будет интересно, когда кто-то полноценный код топологической оптимизации к Discovery прикрутит.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.develop3d.com/blog/2017/09/limitstateform-v3.1-adds-plugin-to-ansys-discovery-live-real-time-simulatio&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.develop3d.com/blog/2017/09/limitstateform-v3.1-adds-plugin-to-ansys-discovery-live-real-time-simulatio&lt;/a&gt; 🔗 DEVELOP3D blog - LimitState:Form v3.1 adds plugin to Ansys Discovery Live real-time simulation&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2hx9YLJ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hx9YLJ&lt;/a&gt;
+&lt;a href=&#34;http://www.develop3d.com/blog/2017/09/limitstateform-v3.1-adds-plugin-to-ansys-discovery-live-real-time-simulatio&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.develop3d.com/blog/2017/09/limitstateform-v3.1-adds-plugin-to-ansys-discovery-live-real-time-simulatio&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Статья - размышление про то, как #ANSYS #Discovery Live помогает ANSYS реализовать свободомыслий давнюю задумку: сделать всех инженеров и проектировщиков своими пользователями.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</link>
       <pubDate>Sun, 17 Sep 2017 17:04:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</guid>
       <description>&lt;p&gt;И тут ключевыми факторами успеха оказывается не только использование самого передового решателя, разработанного совместно с #NVIDIA. Не даром ANSYS очень дружен с разработчиком GPU. Об этом говорят те факты, что #Mechanical #APDL был первым коммерческим #FEM использовавшим #GPU, как и #Fluent - первым коммерческим #CFD использовавшим #GPU&lt;/p&gt;
 &lt;p&gt;Тут еще вспоминается и #SpaceClaim, который выйдя на рынок в 2005 сделал лидеров отстающими. Именно после #SpaceClaim появились такие системы, как #PTC #Creo, #Autodesk #Fusion и концепция #Siemens Synchronous Technology.&lt;/p&gt;
 &lt;p&gt;Сейчас SpaceClaim становиться геометрическим ядром для #Workbench, #AIM и #ANSYS #Discovery.&lt;/p&gt;
 &lt;p&gt;#GPGPU #CUDA
 &lt;a href=&#34;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&lt;/a&gt; 🔗 ANSYS Discovery Live Changes Everything&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Надеюсь вы не пропустили мероприятие по поводу #ANSYS #Disco</title>
-      <link>http://localhost:1313/posts/2017-09-07-nadeyus-vy-ne-propustili-meropriyatie-po/</link>
+      <title>14 сентября #EDEM устраивает вебинаров по работе их #DEM кода в связке с #ANSYS #Mechanical.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-09-14-sentyabrya-edem-ustraivaet-vebinarov-p/</link>
+      <pubDate>Sat, 09 Sep 2017 17:03:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-09-14-sentyabrya-edem-ustraivaet-vebinarov-p/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.edemsimulation.com/adding-realistic-loads-in-ansys-fea-with-bulk-material-simulation-webinar-140917&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.edemsimulation.com/adding-realistic-loads-in-ansys-fea-with-bulk-material-simulation-webinar-140917&lt;/a&gt; 🔗 Adding realistic loads in ANSYS FEA with bulk material simulation - Webinar&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2jcbmDU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2jcbmDU&lt;/a&gt;
+&lt;a href=&#34;https://www.edemsimulation.com/adding-realistic-loads-in-ansys-fea-with-bulk-material-simulation-webinar-140917&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.edemsimulation.com/adding-realistic-loads-in-ansys-fea-with-bulk-material-simulation-webinar-140917&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Надеюсь вы не пропустили мероприятие по поводу #ANSYS #Discovery - это было очень круто. Математическое моделирование в реальном времени!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-07-nadeyus-vy-ne-propustili-meropriyatie-po/</link>
       <pubDate>Thu, 07 Sep 2017 14:31:20 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-09-07-nadeyus-vy-ne-propustili-meropriyatie-po/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-07-nadeyus-vy-ne-propustili-meropriyatie-po/</guid>
       <description>&lt;p&gt;Из того, что мне больше всего понравилось - это возможность не только практически мгновенно сделать прикидочный расчет, но и экспортировать его для доводки в #AIM, #Mechanical, #Fluent и #Maxwell. Понравилось, что #ANSYS #Discovery - свежий код, который не тащит с собой кучу наследства и умеет нормально использовать #GPGPU #NVIDIA.&lt;/p&gt;
 &lt;p&gt;Что мне не понравилось: обещали интерактивное мероприятие, а на деле был набор заготовленных видео роликов.&lt;/p&gt;
 &lt;p&gt;А еще, на сайте продукта уже можно скачать техническое превью бесплатно.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ansys.com/discovery&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ansys.com/discovery&lt;/a&gt; 🔗 ANSYS Discovery Live: Instant Simulation Results&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ansys.com/discovery&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ansys.com/discovery&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#APDL жив!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-30-apdl-zhiv-mihael-tompson-michael-mik/</link>
+      <pubDate>Wed, 30 Aug 2017 17:11:37 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-30-apdl-zhiv-mihael-tompson-michael-mik/</guid>
+      <description>&lt;p&gt;Михаэль Томпсон (Michael (Mike) Thompson) из ANSYS Inc. опубликовал бесплатное #ACT расширение &amp;ldquo;APDL Editor&amp;rdquo; для #ANSYS #Mechanical. Расширение помогает вам писать APDL код командных объектов, подсказывая синтаксис команд и выводя необходимые разделы документации. Ниже иллюстрация из официальной документации по работе расширения.&lt;/p&gt;
+&lt;p&gt;Скачать по ссылке можно всем пользователям на #TECS с официального портала ANSYS App Store: &lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-292&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-292&lt;/a&gt; 🔗 ANSYS Estore&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vKriOO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vKriOO&lt;/a&gt;
+&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-292&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-292&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделировать метод послойного наплавления или 3D печать (Fused depositing modeling, #FDM) можно в любом современном КЭ пакете: все как правило реализуется через технику рождения и смерти элементов под действием температурных полей.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-11-modelirovat-metod-posloynogo-naplavleni/</link>
+      <pubDate>Fri, 11 Aug 2017 17:01:44 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-11-modelirovat-metod-posloynogo-naplavleni/</guid>
+      <description>&lt;p&gt;Однако коллеги из чешской компании  SVS FEM пошли дальше, много дальше. Они создали #ACT расширение для #ANSYS #Mechanical на основе #Python и #APDL, которое умеет читать информацию от 3D принтера по истории движения печатающей головки. В ходе расчета можно получить зависимости плотности, температуры и деформаций конструкции во времени.&lt;/p&gt;
+&lt;p&gt;Самое прикольное в работе ACT - это возможность визуализировать именно плотность (читай распределение) материала. Она получается гладкая, и ее можно экспортировать в виде #STL в #SDCM для дальнейшей работы.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qai6CIpjOHM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=qai6CIpjOHM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qai6CIpjOHM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Structural-Thermal Simulation of FDM 3D Printing Process | ANSYS Mechanical | SVS FEM&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Тепловое расширение материала в ANSYS Mechanical</title>
-      <link>http://localhost:1313/posts/2017-08-05-teplovoe-rasshirenie-materiala-v-ansys-me/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-05-teplovoe-rasshirenie-materiala-v-ansys-me/</link>
       <pubDate>Sat, 05 Aug 2017 17:00:35 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-08-05-teplovoe-rasshirenie-materiala-v-ansys-me/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/secant-or-instantaneous-cte-understanding-thermal-expansion-modeling-ansys-mechanical&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.padtinc.com/blog/the-focus/secant-or-instantaneous-cte-understanding-thermal-expansion-modeling-ansys-mechanical&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-05-teplovoe-rasshirenie-materiala-v-ansys-me/</guid>
+      <description>&lt;p&gt;Тепловое расширение материала в ANSYS Mechanical
+&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/secant-or-instantaneous-cte-understanding-thermal-expansion-modeling-ansys-mechanical&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.padtinc.com/blog/the-focus/secant-or-instantaneous-cte-understanding-thermal-expansion-modeling-ansys-mechanical&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#Ликбез от #padtinc на тему работы коэффициента теплового расширения материала в #ANSYS #Mechanical, особенно в случае, когда он зависит от температуры.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/secant-or-instantaneous-cte-understanding-thermal-expansion-modeling-ansys-mechanical&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Secant or Instantaneous CTE? Understanding Thermal Expansion Modeling ANSYS Mechanical&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Вебинар по случаю новой версии GENESIS Structural Optimizati</title>
-      <link>http://localhost:1313/posts/2017-07-09-vebinar-po-sluchayu-novoy-versii-genesis-s/</link>
+      <title>Скачиваем курсы с edX и Сoursera</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-10-skachivaem-kursy-s-edx-i-soursera/</link>
+      <pubDate>Mon, 10 Jul 2017 17:01:02 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-10-skachivaem-kursy-s-edx-i-soursera/</guid>
+      <description>&lt;p&gt;Скачиваем курсы с edX и Сoursera
+&lt;a href=&#34;https://github.com/coursera-dl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/coursera-dl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Учиться это хорошо! Платформ для обучениях в интернете много. Например #edX и #Cornell проводят отличные курсы #ANSYS #Mechanical и #Fluent (курс #CornellX  #ENGR2000X например). Но иногда хочется скачать себе весь учебный курс на компьютер, что бы иметь возможность пользоваться его материалами offline.&lt;/p&gt;
+&lt;p&gt;Эта задача уже решена в рамках проекта #opensource проекта Coursera Downloader. Проект состоит из двух очень простых утилит командной строки, написанных на #Python и ставящихся через #pip на любую операционную систему. Утилиты эти носят названия coursera-dl и edx-dl. В сумме они позволяют скачать курсы со следующих порталов:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#edX&lt;/li&gt;
+&lt;li&gt;#Stanford&lt;/li&gt;
+&lt;li&gt;University of Sydney&lt;/li&gt;
+&lt;li&gt;France Université Numérique&lt;/li&gt;
+&lt;li&gt;GW Online SEAS - George Washington University&lt;/li&gt;
+&lt;li&gt;GW Online Open - George Washington University&lt;/li&gt;
+&lt;li&gt;#Сoursera&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Скачивать возможно только курсы, доступные вашему аккаунту.
+Видео инструкция по пользованию  edx-d прилагается &lt;a href=&#34;https://www.youtube.com/watch?v=AvAS835JiTI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=AvAS835JiTI&lt;/a&gt;
+P.S.
+Так как утилиты ставят с собой другую заниженную скачивалку youtube-dl - граббер YouTube, то можете быть уверены, что даже видеозаписи курсов вы не потеряете.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/coursera-dl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Coursera Downloader&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=AvAS835JiTI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=AvAS835JiTI&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вебинар по случаю новой версии GENESIS Structural Optimization for ANSYS Mechanical</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-09-vebinar-po-sluchayu-novoy-versii-genesis-s/</link>
       <pubDate>Sun, 09 Jul 2017 09:00:14 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-07-09-vebinar-po-sluchayu-novoy-versii-genesis-s/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-09-vebinar-po-sluchayu-novoy-versii-genesis-s/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://vrand.com/node/250&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://vrand.com/node/250&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;13 июля компания Vanderplaats Research &amp;amp; Development, Inc., (VR&amp;amp;D) проведет вебинар по случаю выхода новой версии #GSAM (#GENESIS Structural #Optimization for #ANSYS #Mechanical) - системы топологической оптимизации. Данная система интегрируется с ANSYS Mechanical по средствам #ACT.&lt;/p&gt;
 &lt;p&gt;Очень хочется расспросить создателей о их наработках в области нелинейной оптимизации топологии.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://vrand.com/node/250&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;GTAM/GSAM v16.0 Webinar on July 13, 2017 11.00AM EST | Vanderplaats Research &amp;amp; Development, Inc.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Direct Metal Deposition или процесс объемной лазерной наплав</title>
-      <link>http://localhost:1313/posts/2017-05-25-direct-metal-deposition-ili-protsess-obe/</link>
+      <title>LimitState для проектирования топологии</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-29-limitstate-dlya-proektirovaniya-topologii/</link>
+      <pubDate>Mon, 29 May 2017 17:00:28 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-29-limitstate-dlya-proektirovaniya-topologii/</guid>
+      <description>&lt;p&gt;LimitState для проектирования топологии
+&lt;a href=&#34;https://youtu.be/yQI6e2iGlzE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/yQI6e2iGlzE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Британская компания #LimitState 3D анонсировала 3-й релиз своего одноименного LimitState:FORM v3.0. Интересно, что это ПО не является системой оптимизации топологии в классическом ее понимании.&lt;/p&gt;
+&lt;p&gt;Система генерирует и обсчитывает на лету ферментные конструкции, но, насколько я понял, это именно ферментные конструкции. Таким образом, вы не получаете очень сложных форм (и это может быть минусом), но вы получаете конструкции, которые можно просто и быстро проверить(и это точно плюс).&lt;/p&gt;
+&lt;p&gt;По построено на основе #ANSYS #SpaceClaim, что означает очень приятный UI и возможность экспорта геометрии изделия в любой формат. А еще в 3-ей версии ПО появилась интеграция с #ANSYS #Mechanical для более точно проверки работоспособности модели.&lt;/p&gt;
+&lt;p&gt;#topology #optimization&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/yQI6e2iGlzE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/yQI6e2iGlzE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/yQI6e2iGlzE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LimitState:FORM | Design Optimization Software&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Direct Metal Deposition или процесс объемной лазерной наплавки</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-25-direct-metal-deposition-ili-protsess-obe/</link>
       <pubDate>Thu, 25 May 2017 17:01:14 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-05-25-direct-metal-deposition-ili-protsess-obe/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-25-direct-metal-deposition-ili-protsess-obe/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=esBC0WwAX8g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=esBC0WwAX8g&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Интересный и очень сложный физический процесс, встречающийся в 3D принтерах, печатающих металлом. Как бы вы стали его моделировать: в #CFD постановке или при помощи #FEM?&lt;/p&gt;
 &lt;p&gt;CFD by #FLOW3D: &lt;a href=&#34;https://www.youtube.com/watch?v=esBC0WwAX8g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=esBC0WwAX8g&lt;/a&gt;
-CFD by #FLOW3D: &lt;a href=&#34;https://www.youtube.com/watch?v=oWfoAzQlLVo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=oWfoAzQlLVo&lt;/a&gt;
+CFD by #FLOW3D: &lt;del&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=oWfoAzQlLVo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=oWfoAzQlLVo&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20220430050625/https://www.youtube.com/watch?v=oWfoAzQlLVo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;
 FEM by #MSC #Simufact Additive: &lt;a href=&#34;https://www.youtube.com/watch?v=l9n6AheyI2E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=l9n6AheyI2E&lt;/a&gt;
 FEM by #ANSYS #Mechanical: &lt;a href=&#34;https://www.youtube.com/watch?v=H0Uara7B5to&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=H0Uara7B5to&lt;/a&gt;
-FEM by #ANSYS #Mechanical: &lt;a href=&#34;https://www.youtube.com/watch?v=74TOhQwEj80&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=74TOhQwEj80&lt;/a&gt;
+FEM by #ANSYS #Mechanical: &lt;del&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=74TOhQwEj80&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=74TOhQwEj80&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20220430050621/https://www.youtube.com/watch?v=74TOhQwEj80&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;
 FEM by #Pancomputing &lt;a href=&#34;https://www.youtube.com/watch?v=LWk43HjKjcM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=LWk43HjKjcM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=esBC0WwAX8g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Direct Metal Deposition | FLOW-3D AM&lt;/a&gt;
+&lt;del&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=oWfoAzQlLVo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=oWfoAzQlLVo&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20220430050625/https://www.youtube.com/watch?v=oWfoAzQlLVo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=l9n6AheyI2E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=l9n6AheyI2E&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=H0Uara7B5to&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=H0Uara7B5to&lt;/a&gt;
+&lt;del&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=74TOhQwEj80&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=74TOhQwEj80&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20220430050621/https://www.youtube.com/watch?v=74TOhQwEj80&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=LWk43HjKjcM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=LWk43HjKjcM&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EDEM для ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-20-edem-dlya-ansys/</link>
+      <pubDate>Thu, 20 Apr 2017 08:00:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-20-edem-dlya-ansys/</guid>
+      <description>&lt;p&gt;EDEM для ANSYS
+&lt;a href=&#34;http://www.ansys.com/de-DE/About-ANSYS/Partner-Network/Software-Partners/dem-solutions&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/de-DE/About-ANSYS/Partner-Network/Software-Partners/dem-solutions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Знаили ли вы, что у компании DEM Solutions Ltd., авторов #EDEM есть специальный плагин для интеграции с #ANSYS #Workbench - можно делать связанные расчеты механики в #Mechanical и гидродинамики во #Fluent.&lt;/p&gt;
+&lt;p&gt;#DEM #CFD #FEM
+&lt;a href=&#34;https://www.youtube.com/watch?v=-PaX-NHRYW4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=-PaX-NHRYW4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys.com/de-DE/About-ANSYS/Partner-Network/Software-Partners/dem-solutions&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DEM Solutions Ltd. - Software Partner | ANSYS&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=-PaX-NHRYW4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=-PaX-NHRYW4&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Прикладная топологическая оптимизация</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-23-prikladnaya-topologicheskaya-optimizatsiya/</link>
+      <pubDate>Thu, 23 Mar 2017 17:02:10 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-23-prikladnaya-topologicheskaya-optimizatsiya/</guid>
+      <description>&lt;p&gt;Прикладная топологическая оптимизация
+&lt;a href=&#34;https://multiphysics.ru/stati/novosti/topologicheskaia-optimizatciia-konstruktcii-v-ansys-mechanical.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://multiphysics.ru/stati/novosti/topologicheskaia-optimizatciia-konstruktcii-v-ansys-mechanical.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Коллеги, наверно многие из вас видели у меня примеры работы алгоритмов топологической оптимизации (#topology #optimization). Я неоднократно писал на эту тему. Уже на протяжении 10 лет я слежу за направлением аддитивных технологий и оптимизации топологии, решаю подобные задачи.&lt;/p&gt;
+&lt;p&gt;Сейчас я разыскиваю доброго человека и собеседника для решения задач под моим присмотром в СПб. Желательно, что бы вы уже защитили балкарскую работу, умели #ANSYS #Mechanical и #SpaceClaim. Желательно, но не обязательно.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://multiphysics.ru/stati/novosti/topologicheskaia-optimizatciia-konstruktcii-v-ansys-mechanical.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Топологическая оптимизация конструкций в ANSYS Mechanical | Инженерные расчеты&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>МКЭ для самых маленьких</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-13-mke-dlya-samyh-malenkih/</link>
+      <pubDate>Mon, 13 Mar 2017 17:02:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-13-mke-dlya-samyh-malenkih/</guid>
+      <description>&lt;p&gt;МКЭ для самых маленьких
+&lt;a href=&#34;https://www.youtube.com/watch?v=nAQ8p1VWn0I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nAQ8p1VWn0I&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Небольшой ликбез для #МКЭ на базе #ANSYS для тех, кто пропустил несколько курсов профильного образования. Сделано с толком и юмором, на базе #ANSYS #Mechanical
+&lt;a href=&#34;https://www.youtube.com/watch?v=nAQ8p1VWn0I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nAQ8p1VWn0I&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nAQ8p1VWn0I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys: Метод Конечных Элементов для &amp;ldquo;чайников&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cornell проведет еще одни курс по ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-11-cornell-provedet-esche-odni-kurs-po-ansys/</link>
+      <pubDate>Sat, 11 Feb 2017 12:02:47 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-11-cornell-provedet-esche-odni-kurs-po-ansys/</guid>
+      <description>&lt;p&gt;Cornell проведет еще одни курс по ANSYS
+&lt;del&gt;&lt;a href=&#34;http://www.ansys-blog.com/engineering-simulations-course/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/engineering-simulations-course/&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20181007163506/http://www.ansys-blog.com:80/engineering-simulations-course/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;#Cornell решил повторить успех прошлогодних курсов по #ANSYS. Уже 15 февраля начнется новая сессия обучения. Я в прошлом году проходи подобный курс, и могу сказать, что он имеет очень хорошую структуру и крайне полезен всем. Будут изучать #Mechanical для #FEM и #Fluent + #CFDPost для #CFD
+&lt;a href=&#34;https://www.youtube.com/watch?v=B8BBP8UhSnc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=B8BBP8UhSnc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&#34;http://www.ansys-blog.com/engineering-simulations-course/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FREE Cornell University Course Teaching Engineering Simulations&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20181007163506/http://www.ansys-blog.com:80/engineering-simulations-course/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=B8BBP8UhSnc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=B8BBP8UhSnc&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beam-to-Solid submodeling в ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-05-beam-to-solid-submodeling-v-ansys/</link>
+      <pubDate>Sun, 05 Feb 2017 17:00:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-05-beam-to-solid-submodeling-v-ansys/</guid>
+      <description>&lt;p&gt;Beam-to-Solid submodeling в ANSYS
+&lt;a href=&#34;https://www.youtube.com/watch?v=jkj3owGBJ_c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jkj3owGBJ_c&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Техника работы с подмоделями или сабмоделинг в #ANSYS #APDL была наверно всегда, а вот в ANSYS #Mechanical - только версии с 14-ой наверно. Сейчас же мы можем использовать подмотали вообще в при любом раскладе:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;solid-to-solid&lt;/li&gt;
+&lt;li&gt;shell-to-solid (даже для компостов благодаря #ACP)&lt;/li&gt;
+&lt;li&gt;beam-to-solid (даже так!!!).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;О том, как работать с  beam-to-solid #submodeling небольшое небное видео:
+&lt;a href=&#34;https://www.youtube.com/watch?v=jkj3owGBJ_c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jkj3owGBJ_c&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;P.S. В видео есть отдельные плюшки по #SpaceClaim&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jkj3owGBJ_c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Beam and Shell Submodeling with ANSYS Mechanical [Tutorial]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как скрестить ужа и APDL</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-26-kak-skrestit-uzha-i-apdl/</link>
+      <pubDate>Mon, 26 Dec 2016 09:10:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-26-kak-skrestit-uzha-i-apdl/</guid>
+      <description>&lt;p&gt;Как скрестить ужа и APDL
+&lt;a href=&#34;https://appstore.ansys.com/shop/ACTApps_act&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/shop/ACTApps_act&lt;/a&gt; apps/SimulationNotebook_apc-actapp-79&lt;/p&gt;
+&lt;p&gt;#ACT расширение Simulation Notebook, разработанное #Ozen Engineering Inc - это пожалуй самое удивительное расширение для #ANSYS #Mechanical и #APDL в этом году. Коллеги скрестили мощь Mechanical APDL с гибкостью и удобством #Python. При этом они использовали не простой Python, а специальное ПО #Jupiter (&lt;a href=&#34;http://jupyter.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://jupyter.org&lt;/a&gt;) (форк #IPython), позволяющее делать так называемые интерактивные научные блокноты.&lt;/p&gt;
+&lt;p&gt;В итоге мы получаем возможность прямо из интерактивного и красивого научного блокнота в браузере при помощи Python ставить задачи в APDL, делать очень крутой постпроцессинг и даже создавать автоматизированные методики!&lt;/p&gt;
+&lt;p&gt;Видео смотреть всем: &lt;a href=&#34;https://support.ansys.com/cpstaticassets/ANSYS%20Customer%20Portal/Training%20Materials/thumbs/SimulationNotebook%20demo.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://support.ansys.com/cpstaticassets/ANSYS%20Customer%20Portal/Training%20Materials/thumbs/SimulationNotebook%20demo.mp4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;P.S. ACT платное, что не удивительно для такой сложности продукта.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/shop/ACTApps_act&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/shop/ACTApps_act&lt;/a&gt;
+&lt;a href=&#34;http://jupyter.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://jupyter.org&lt;/a&gt;
+&lt;a href=&#34;https://support.ansys.com/cpstaticassets/ANSYS%20Customer%20Portal/Training%20Materials/thumbs/SimulationNotebook%20demo.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://support.ansys.com/cpstaticassets/ANSYS%20Customer%20Portal/Training%20Materials/thumbs/SimulationNotebook%20demo.mp4&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genesis Topology</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-27-genesis-topology/</link>
+      <pubDate>Sun, 27 Nov 2016 17:02:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-27-genesis-topology/</guid>
+      <description>&lt;p&gt;Genesis Topology
+&lt;a href=&#34;http://wildeanalysis.co.uk/events/webinar-introduction-gtam-topology-optimisation-ansys-mechanical-users/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://wildeanalysis.co.uk/events/webinar-introduction-gtam-topology-optimisation-ansys-mechanical-users/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Регистрация на бесплатный вебинар по #ACT #Genesis #Topology for #ANSYS #Mechanical (#GTAM) от &lt;a href=&#34;http://wildeanalysis.co.uk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://wildeanalysis.co.uk&lt;/a&gt;. Надо посмотреть.
+&lt;a href=&#34;https://www.youtube.com/watch?v=EaAwqs1bC3A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=EaAwqs1bC3A&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://wildeanalysis.co.uk/events/webinar-introduction-gtam-topology-optimisation-ansys-mechanical-users/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Webinar: An Introduction to GTAM: Topology Optimisation for ANSYS Mechanical Users - Wilde Analysis Ltd&lt;/a&gt;
+&lt;a href=&#34;http://wildeanalysis.co.uk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://wildeanalysis.co.uk&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=EaAwqs1bC3A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=EaAwqs1bC3A&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Теплый ламповый интрфейс</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-11-teplyy-lampovyy-intrfeys/</link>
+      <pubDate>Fri, 11 Nov 2016 17:01:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-11-teplyy-lampovyy-intrfeys/</guid>
+      <description>&lt;p&gt;Теплый ламповый интрфейс
+&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-107&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-107&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Когда вы готовите иллюстрации для отчета или презентации бывает жизненно необходимо выставить для вашей модели определенный ракурс, повернуть ее с точностью до градуса вокруг определенной оси. И тут на помощь нам приходит специальное #ACT для #ANSYS #Mechanical, разработанное японским партнером ANSYS, компанией CYBERNET SYSTEMS CO.,LTD (&lt;a href=&#34;http://www.cybernet.co.jp/english/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.cybernet.co.jp/english/)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Самое интересное в ACT &amp;ldquo;Pan/Zoom/Rotate&amp;rdquo; не возможности - тут ничего сложного нет. Самое интересное - это тот самый интерфейс управления видом, который коллеги бережно взяли из классического #MAPDL и заботливо перенесли в #Workbench. Любители классики оценят этот реверанс в сторону теплого, лампового интерфейса в стиле  OpenMotif.&lt;/p&gt;
+&lt;p&gt;P.S. Расширение доступно бесплатно для всех пользователей с действительной технической поддержкой.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-107&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-107&lt;/a&gt;
+&lt;a href=&#34;http://www.cybernet.co.jp/english/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.cybernet.co.jp/english/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Адаптивные сетки в для задач формовки</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-06-adaptivnye-setki-v-dlya-zadach-formovki/</link>
+      <pubDate>Sun, 06 Nov 2016 17:00:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-06-adaptivnye-setki-v-dlya-zadach-formovki/</guid>
+      <description>&lt;p&gt;Адаптивные сетки в для задач формовки
+&lt;a href=&#34;https://www.youtube.com/watch?v=B6fsb16BxEo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=B6fsb16BxEo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Адаптивная сетка может творить чудеса - в некоторых задачах вполне можно обойтись без #SPH. Очень хороший пример по работе с адаптивными сетками в #ANSYS #Mechanical для задач формовки подготовил мой коллега - всем приятного просмотра!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=B6fsb16BxEo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=B6fsb16BxEo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=B6fsb16BxEo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=B6fsb16BxEo&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Когда контакт не сходится</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-31-kogda-kontakt-ne-shoditsya/</link>
+      <pubDate>Mon, 31 Oct 2016 17:01:01 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-31-kogda-kontakt-ne-shoditsya/</guid>
+      <description>&lt;p&gt;Когда контакт не сходится
+&lt;a href=&#34;https://www.linkedin.com/pulse/tips-when-finite-element-analysis-contact-problems-wont-wolf-pe?trk=hp-feed-article-title-like&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.linkedin.com/pulse/tips-when-finite-element-analysis-contact-problems-wont-wolf-pe?trk=hp-feed-article-title-like&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Не сходится задача из-за сложного контактного взаимодействия? Не беде, просто делайте, как написано в статье - хороший перечень всех известных трюков.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/tips-when-finite-element-analysis-contact-problems-wont-wolf-pe?trk=hp-feed-article-title-like&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Tips for when Finite Element Analysis Contact Problems won&amp;rsquo;t Solve&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>True междисциплинарный проект</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-25-true-mezhdistsiplinarnyy-proekt/</link>
+      <pubDate>Tue, 25 Oct 2016 17:00:25 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-25-true-mezhdistsiplinarnyy-proekt/</guid>
+      <description>&lt;p&gt;True междисциплинарный проект
+&lt;a href=&#34;http://www.finiteelementanalysis.com.au/featured/end-to-end-system-design-with-ansys-an-electric-guitar-example/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.finiteelementanalysis.com.au/featured/end-to-end-system-design-with-ansys-an-electric-guitar-example/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Команда #LEAP #FEA Team промоделировала легендарную гитару #Stratocaster и сыграла на ней композицию &amp;ldquo;Smoke on the Water&amp;rdquo; (даже есть семпл с результатом на #SoundCloud).&lt;/p&gt;
+&lt;p&gt;Для начала ребята построили модель гитары в #ANSYS #SpaceClaim. Затем посчитали настроили ее, с учетом преднатяга струн, в #ANSYS #Mechanical. Полученную модель загнали в #ANSYS #Simplorer для моделирования всей системы с электроникой. Не забыли учесть магнитные звукосниматели в #ANSYS #Maxwell. Далее идет неуловимая игра слов и планы добавить в модель #CFD для #FSI.&lt;/p&gt;
+&lt;p&gt;P.S. А вам слабо так заморочиться?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.finiteelementanalysis.com.au/featured/end-to-end-system-design-with-ansys-an-electric-guitar-example/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;End to End System Design with ANSYS – An Electric Guitar Example | Finite Element Analysis (FEA) Blog – LEAP Australia &amp;amp; New Zealand&lt;/a&gt;
+&lt;a href=&#34;http://www.finiteelementanalysis.com.au/featured/end-to-end-system-design-with-ansys-an-electric-guitar-example/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.finiteelementanalysis.com.au/featured/end-to-end-system-design-with-ansys-an-electric-guitar-example/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Правильная легенда</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-23-pravilnaya-legenda/</link>
+      <pubDate>Sun, 23 Oct 2016 17:00:56 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-23-pravilnaya-legenda/</guid>
+      <description>&lt;p&gt;Правильная легенда
+&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/ansys-how-to-result-legend-customization-and-reuse&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.padtinc.com/blog/the-focus/ansys-how-to-result-legend-customization-and-reuse&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Качественное оформление иллюстрации для отчетов и презентаций - это признак хорошего тона. Что бы все делать правильно #padtinc создали отдельную методичку по настройке легенды, отображаемой в поле результатов. Всем пользователям #ANSYS #Mechanical настоятельно рекомендуется к изучению.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/ansys-how-to-result-legend-customization-and-reuse&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS How To: Result Legend Customization and Reuse&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ANSYS Toplogy Optimization - еще большой учебный материал</title>
-      <link>http://localhost:1313/posts/2016-10-22-ansys-toplogy-optimization-esche-bolshoy/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-22-ansys-toplogy-optimization-esche-bolshoy/</link>
       <pubDate>Sat, 22 Oct 2016 17:00:49 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-10-22-ansys-toplogy-optimization-esche-bolshoy/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.finiteelementanalysis.com.au/featured/topological-optimisation-with-ansys-17-0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.finiteelementanalysis.com.au/featured/topological-optimisation-with-ansys-17-0/&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-22-ansys-toplogy-optimization-esche-bolshoy/</guid>
+      <description>&lt;p&gt;ANSYS Toplogy Optimization - еще большой учебный материал
+&lt;a href=&#34;http://www.finiteelementanalysis.com.au/featured/topological-optimisation-with-ansys-17-0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.finiteelementanalysis.com.au/featured/topological-optimisation-with-ansys-17-0/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Большой учебный материал/статья/мастер класс по работе с #ANSYS #Toplogy #Optimization #ACT. Разобраны не только моменты, связанные с постановкой задачи в #ANSYS #Mechanical и выполнения поверочного расчета на основе #STL, но и восстановление аналитической геометрии при помощи #SpaceClaim.&lt;/p&gt;
 &lt;p&gt;Спасибо команде LEAP Australia!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.finiteelementanalysis.com.au/featured/topological-optimisation-with-ansys-17-0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Topological Optimisation with ANSYS 17.0 | Finite Element Analysis (FEA) Blog – LEAP Australia &amp;amp; New Zealand&lt;/a&gt;
+&lt;a href=&#34;http://www.finiteelementanalysis.com.au/featured/topological-optimisation-with-ansys-17-0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.finiteelementanalysis.com.au/featured/topological-optimisation-with-ansys-17-0/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Параметризация многошаговых нагрузок в ANSYS</title>
-      <link>http://localhost:1313/posts/2016-10-22-parametrizatsiya-mnogoshagovyh-nagruzok-v-a/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-22-parametrizatsiya-mnogoshagovyh-nagruzok-v-a/</link>
       <pubDate>Sat, 22 Oct 2016 12:00:18 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-10-22-parametrizatsiya-mnogoshagovyh-nagruzok-v-a/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-22-parametrizatsiya-mnogoshagovyh-nagruzok-v-a/</guid>
+      <description>&lt;p&gt;Параметризация многошаговых нагрузок в ANSYS
+&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Одной из фишек #ANSYS #Workbench является возможность тотальной параметризации всего и вся буквально в один клик. Однако, тут есть досадное упущение: когда вы используете многошаговое нагружение в #Mechanical, вы не можете параметризовать изменение нагрузки на каждом шаге нагружения.&lt;/p&gt;
 &lt;p&gt;Компания Engin Soft исправила это досадное упущение при помощи своего бесплатного #ACT MultiStep Parametric Loads (&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153)&lt;/a&gt;. Они реализовали возможность параметризовать значения граничных условий и условий нагружения на каждом шаге. Первая версия ACT работает с R17.0 и R17.1&lt;/p&gt;
 &lt;p&gt;#enginsoft&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Сегодня в Питере провели небольшой семинар на пол дня по #AN</title>
-      <link>http://localhost:1313/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</link>
+      <title>HPC от HPE</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-21-hpc-ot-hpe/</link>
+      <pubDate>Fri, 21 Oct 2016 17:00:37 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-21-hpc-ot-hpe/</guid>
+      <description>&lt;p&gt;HPC от HPE
+&lt;a href=&#34;https://www.hpe.com/h20195/v2/GetPDF.aspx/4AA4-8082ENW.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.hpe.com/h20195/v2/GetPDF.aspx/4AA4-8082ENW.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;У компании #HPE (Hewlett Packard Enterprise), последнего из титанов железного рынка, есть очень полезный документ, описывающий основные правила построения настоящей #HPC системы для расчетов в #ANSYS. Документ находится по ссылке:
+&lt;a href=&#34;https://www.hpe.com/h20195/v2/GetPDF.aspx/4AA4-8082ENW.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.hpe.com/h20195/v2/GetPDF.aspx/4AA4-8082ENW.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В документе приведены полезные прикидки конфигураций для #CFX, #Fluent и #Mechanical/#APDL, есть информация по #RSM, и все это написано довольно простым языком без воды.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.hpe.com/h20195/v2/GetPDF.aspx/4AA4-8082ENW.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.hpe.com/h20195/v2/GetPDF.aspx/4AA4-8082ENW.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование роста трещин</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-08-modelirovanie-rosta-treschin/</link>
+      <pubDate>Sat, 08 Oct 2016 17:00:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-08-modelirovanie-rosta-treschin/</guid>
+      <description>&lt;p&gt;Моделирование роста трещин
+&lt;a href=&#34;https://www.youtube.com/watch?v=FaS-VvNLM3c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=FaS-VvNLM3c&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Есть такое интересное расширение #FEM - #XFEM называется. Все как в обычном сеточном методе, только поддерживаются разрывные функции формы, что позволяет простить трещины не сквозь сетку (не убивая/удаляя элементы). И тут пальма первенства у #Abaqus. Конечно XFEM был в #LSDYNA с 2006 года, конечно он есть #ANSYS #Mechanical с 2015 года&amp;hellip; Но эти реализации чаще работают в постановках плоской теории упругости. А вот математика Abaqus позволяет использовать XFEM в 3D постановке.&lt;/p&gt;
+&lt;p&gt;Специально по теме небольшой учебный пример:
+&lt;a href=&#34;https://www.youtube.com/watch?v=FaS-VvNLM3c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=FaS-VvNLM3c&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=FaS-VvNLM3c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;XFEM 3D&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Это достойно зала славы</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-26-eto-dostoyno-zala-slavy/</link>
+      <pubDate>Mon, 26 Sep 2016 17:00:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-26-eto-dostoyno-zala-slavy/</guid>
+      <description>&lt;p&gt;Это достойно зала славы
+&lt;a href=&#34;http://www.ansys.com/Other/Hall-of-Fame/Leibniz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/Other/Hall-of-Fame/Leibniz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ганноверский университет имени Готфрида Вильгельма Лейбница (Leibniz University Hannover) сделал очень сильную заявку на победу в конкурсе #ANSYS Hall of Fame. В университете создали математическую модель левитационной плавки металла при помощи связки из #ANSYS #Mechanical, #ANSYS #Fluent и #ANSYS #CFD-Post. Получился очень крутой междисциплинарный проект.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys.com/Other/Hall-of-Fame/Leibniz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;2016 ANSYS Hall of Fame: Best in Show - Academic - Leibniz University Hannover&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FE Info ACT</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-25-fe-info-act/</link>
+      <pubDate>Sun, 25 Sep 2016 12:01:51 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-25-fe-info-act/</guid>
+      <description>&lt;p&gt;FE Info ACT
+&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/video-tips-node-and-element-ids-in-ansys-mechanical&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.padtinc.com/blog/the-focus/video-tips-node-and-element-ids-in-ansys-mechanical&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;У компании PADT Inc есть очень любопытное бесплатное #ACT &amp;ldquo;FE Info&amp;rdquo; позволяющее получать низкоуровневую информацию о #КЭ сетке модели #ANSYS #Mechanical. Возможность найти элемент или узел по номеру трудно переоценить. Например, если модель &amp;ldquo;улетела&amp;rdquo; из-за плохого закрепления, то можно быстро найти &amp;ldquo;плохие&amp;rdquo; узлы визуально, ведь решатель выпишет в лог их номера. А ведь это только один пример работы с ACT, и, при том, самый простой.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/video-tips-node-and-element-ids-in-ansys-mechanical&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Video Tips: Node and Element IDs in ANSYS Mechanical&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#ANSYS в своем блоге рассказали как скрепить их #Fluent, #Mechanical #APDL или #Workbench с #MATLAB.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-14-ansys-v-svoem-bloge-rasskazali-kak-skre/</link>
+      <pubDate>Thu, 14 Jul 2016 06:30:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-14-ansys-v-svoem-bloge-rasskazali-kak-skre/</guid>
+      <description>&lt;p&gt;В академической среде пригодиться.&lt;/p&gt;
+&lt;p&gt;P.S. Среди #ACT расширений для ANSYS уже давно есть такое, которое позволяет встраивать MATLAB в схематизму проекта в качестве движка оптимизации и параметрических исследований. &lt;a href=&#34;http://www.ansys-blog.com/how-to-make-matlab-apps-for-ansys/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/how-to-make-matlab-apps-for-ansys/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys-blog.com/how-to-make-matlab-apps-for-ansys/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys | Engineering Simulation Software&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Все в учебном курсе от #edx по #ANSYS #Mechanical и #Fleunt было хорошо, кроме одного &#34;НО&#34;. Последнем факультативном задании с #FSI и не для средних умов они почему-то взяли и вывели в качестве результатов для композитной ортотропной оболочки лопасти ветряка... эквивалентные по Мизесу напряжения!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-13-vse-v-uchebnom-kurse-ot-edx-po-ansys-m/</link>
+      <pubDate>Wed, 13 Jul 2016 16:10:51 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-13-vse-v-uchebnom-kurse-ot-edx-po-ansys-m/</guid>
+      <description>&lt;p&gt;А ведь эти напряжения подходят в качестве критериев только для 4-ой теории прочности, но никак не применимы к сложным композиционным структурам.&lt;/p&gt;
+&lt;p&gt;Не надо так!
+#composites #Cornell &lt;a href=&#34;https://www.youtube.com/watch?v=zkC7MoFTK9E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=zkC7MoFTK9E&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=zkC7MoFTK9E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CORENGR22016-V024300&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сегодня, в 16:00 по Москве, ирландский #CADFEM устраивает бесплатный часовой вебинар посвященный топологической оптимизации в #ANSYS #Mechanical.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-05-segodnya-v-1600-po-moskve-irlandskiy/</link>
+      <pubDate>Tue, 05 Jul 2016 06:30:56 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-05-segodnya-v-1600-po-moskve-irlandskiy/</guid>
+      <description>&lt;p&gt;#AM #Topology #Optimization &lt;a href=&#34;http://www.cadfemukandireland.com/event_date/ansys-topological-optimisation/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.cadfemukandireland.com/event_date/ansys-topological-optimisation/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cadfemukandireland.com/event_date/ansys-topological-optimisation/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.cadfemukandireland.com/event_date/ansys-topological-optimisation/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сегодня в Питере провели небольшой семинар на пол дня по #ANSYS 17. Небольшого семинара не получилось: зарегистрировалось под 200 человек, пришло более 150 человек. Несколько раз менять планировку залов, что бы вместить всех желающих. Свободные места для опоздавших находились с трудом (см фото с доказательствами)!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</link>
       <pubDate>Thu, 02 Jun 2016 13:58:36 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</guid>
       <description>&lt;p&gt;11 докладов по #Mechanical, #Explicit, #CFX, #Fluent, #DesignXplorer, #SpaceClaim, #HPC, #RBD, #ACP, #ACCS и конечно же #AIM!&lt;/p&gt;
 &lt;p&gt;А еще состоялся анонс проекта под рабочим названием #CADFEM #Haze!&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Статья об использовании модели Друкера-Прагера вместо модели</title>
-      <link>http://localhost:1313/posts/2016-01-20-statya-ob-ispolzovanii-modeli-drukera-p/</link>
+      <title>Вышла 16 версия #OpticStudio от компании #Zemax. Данное программное обеспечение предназначено для проектирования оптических систем. Это настоящий расчетный пакет для геометрической оптики!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-26-vyshla-16-versiya-opticstudio-ot-kompanii/</link>
+      <pubDate>Thu, 26 May 2016 07:00:46 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-26-vyshla-16-versiya-opticstudio-ot-kompanii/</guid>
+      <description>&lt;p&gt;И да, его можно прицепить к #ANSYS #Mechanical для оценки влияния монтажных усилий и тепловых режимов на работу оптической системы.&lt;/p&gt;
+&lt;p&gt;Ссылка на бесплатную пробную версию:
+&lt;a href=&#34;http://www.zemax.com/os/opticstudio/downloads/free-trial&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.zemax.com/os/opticstudio/downloads/free-trial&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сколько всего придумано для моделирования такой простой штуки, как болтовое соединение.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-21-skolko-vsego-pridumano-dlya-modelirovani/</link>
+      <pubDate>Thu, 21 Apr 2016 07:00:59 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-21-skolko-vsego-pridumano-dlya-modelirovani/</guid>
+      <description>&lt;p&gt;Методическое пособие/брошюра по этой теме подготовлена #SimuTech для всех пользователей #ANSYS #Mechanical.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Международная платформа online обучения edX анонсировала бесплатный учебный курс по численному моделированию в #ANSYS #Mechanical и #ANSYS #Fleunt.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-21-mezhdunarodnaya-platforma-online-obucheniya/</link>
+      <pubDate>Mon, 21 Mar 2016 07:40:49 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-21-mezhdunarodnaya-platforma-online-obucheniya/</guid>
+      <description>&lt;p&gt;Курс лекций будет проводится этим летом совместно с Корнелльскии университетом (англ. Cornell University, сокращённо Корне́лл) — одним из крупнейших и известнейших университетов США, входящих в элитную Лигу плюща.&lt;/p&gt;
+&lt;p&gt;По итогам бесплатного курса можно получить сертификат, правда уже за $49. Я думаю, что это не слишком большая сумма для сертификата Лиги плюща. Продолжительность курса 6 недель, загрузка 4 - 6 часов в неделю. Начало обучения 1 июня 2016.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.edx.org/course/hands-introduction-engineering-cornellx-engr2000x#&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;A Hands-on Introduction to Engineering Simulations&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Кроме штамповки, я решил тряхнуть стариной в плане работы с топологической оптимизацией.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-15-krome-shtampovki-ya-reshil-tryahnut-starin/</link>
+      <pubDate>Tue, 15 Mar 2016 07:00:55 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-15-krome-shtampovki-ya-reshil-tryahnut-starin/</guid>
+      <description>&lt;p&gt;Когда-то, на четвертом и пятом курсе, я плотно ей занимался: трогал #ANSYS #APDL и FE-DESIGN #TOSCA Structure (ныне часть #Dassault Systemes #SIMULIA) Сейчас, для 17-ой версии ANSYS вышло совершенно бесплатное #ACT расширение ANSYS #Topology #Optimization, которое вобрало в себя все лучшие наработки на рынке: контроль изготовляемости, контроль размера конструктивных элементов новой топологии, поддержка нескольких условий нагружения, экспорт новой топологии в виде геометрии для поверочного расчета. Бесплатность ACT это хорошо, но вам все равно потребуется самая простая лицензия на выполнения расчета в ANSYS #Mechanical. В общем - красота.&lt;/p&gt;
+&lt;p&gt;P.S. В составе ACT идет учебная презентация и куча готовых примеров.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://multiphysics.ru/stati/novosti/topologicheskaia-optimizatciia-konstruktcii-v-ansys-mechanical.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Топологическая оптимизация конструкций в ANSYS Mechanical | Инженерные расчеты&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Надо больше #ACT!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-14-nado-bolshe-act-esli-ranshe-rasshireniya/</link>
+      <pubDate>Mon, 14 Mar 2016 11:01:47 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-14-nado-bolshe-act-esli-ranshe-rasshireniya/</guid>
+      <description>&lt;p&gt;Если раньше расширения для #ANSYS имели вид небольших инструментов, то теперь это большие полноценные приложения. Так, на днях, выпущено расширение XFEM Initiation And Propagation 17.0 для работы с eXtended Finite Element Method (#XFEM) для моделирования роста трещин под действием квазистатических или циклических нагрузок. Ранее этот функционал ANSYS #Mechanical был доступен только в #APDL.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://support.ansys.com/AnsysCustomerPortal/en_us/Downloads/ANSYS&amp;#43;ACT&amp;#43;Application&amp;#43;Store#&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS Customer Portal Login&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Запись вебинара по новым возможностям #ANSYS #Mechanical 17 доступна для просмотра. Все за попкорном!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-13-zapis-vebinara-po-novym-vozmozhnostyam-a/</link>
+      <pubDate>Sun, 13 Mar 2016 07:00:34 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-13-zapis-vebinara-po-novym-vozmozhnostyam-a/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.cadfem-cis.ru/list/article/webex-cadfem-mechanical17/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Запись вебинара «Основные улучшения линейки ANSYS Mechanical R17.0» доступна для просмотра!— CADFEM&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Низкоуровневая работа с файлвми результатов #ANSYS #Mechanical (.RST) в C/C&#43;&#43; от компании #PADT, Inc.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-10-nizkourovnevaya-rabota-s-faylvmi-rezulta/</link>
+      <pubDate>Thu, 10 Mar 2016 07:00:39 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-10-nizkourovnevaya-rabota-s-faylvmi-rezulta/</guid>
+      <description>&lt;p&gt;Всем, кто недоволен скоростью работы постпроцессора ANSYS посвящается.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/reading-ansys-mechanical-rst-c-cpp-part1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.padtinc.com/blog/the-focus/reading-ansys-mechanical-rst-c-cpp-part1&lt;/a&gt;
+&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/reading-ansys-mechanical-rst-c-cpp-part2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.padtinc.com/blog/the-focus/reading-ansys-mechanical-rst-c-cpp-part2&lt;/a&gt;
+&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/reading-ansys-mechanical-rst-c-cpp-part3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.padtinc.com/blog/the-focus/reading-ansys-mechanical-rst-c-cpp-part3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/reading-ansys-mechanical-rst-c-cpp-part1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Reading ANSYS Mechanical Result Files (.RST) from C/C++ (Part 1)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Статья об использовании модели Друкера-Прагера вместо модели клеевого соединения. Даже эксперимент есть!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-20-statya-ob-ispolzovanii-modeli-drukera-p/</link>
       <pubDate>Wed, 20 Jan 2016 18:01:04 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-01-20-statya-ob-ispolzovanii-modeli-drukera-p/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-20-statya-ob-ispolzovanii-modeli-drukera-p/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://caeai.com/blog/what-do-soils-and-adhesives-have-common&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;What Do Soils and Adhesives Have In Common? | CAE Associates&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Корпорация Caterpillar (aka.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-17-korporatsiya-caterpillar-aka-cat-pri-po/</link>
+      <pubDate>Sun, 17 Jan 2016 12:00:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-17-korporatsiya-caterpillar-aka-cat-pri-po/</guid>
+      <description>&lt;p&gt;CAT) при помощи связки #ANSYS #Mechanical, #OpenFOAM и #CAESES сделала оптимальный гребной винт.&lt;/p&gt;
+&lt;p&gt;Мой интерес к данной новости вызвал CAESES - некий диковинный геометрический процессор, о котором я постараюсь разузнать побольше подробностей и рассказать, но позднее.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.caeses.com/industries/case-studies/powerful-workflow-for-propeller-design/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Powerful Workflow for Propeller Design › FRIENDSHIP SYSTEMS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#CADFEM CIS - магия численного моделирования для всех желающих.  #ANSYS #Fluent #CFX #Mechanical #LSDYNA #AUTODYN #HFSS #Maxwell #HPC и многое другое из #CAE.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-13-cadfem-cis-magiya-chislennogo-modelirov/</link>
+      <pubDate>Wed, 13 Jan 2016 09:24:51 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-13-cadfem-cis-magiya-chislennogo-modelirov/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>#ANSYS 17.0 уже близко! Грядет большие количество изменений </title>
-      <link>http://localhost:1313/posts/2015-11-19-ansys-170-uzhe-blizko-gryadet-bolshie-k/</link>
+      <title>Армированный бетон: квазиститика в #ANSYS #Mechanical!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-03-armirovannyy-beton-kvazistitika-v-ansy/</link>
+      <pubDate>Sun, 03 Jan 2016 12:59:54 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-03-armirovannyy-beton-kvazistitika-v-ansy/</guid>
+      <description>&lt;p&gt;Армированный бетон: квазиститика в #ANSYS #Mechanical!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=h2BApwflt3E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS Reinforced Concrete Beam (RC BEAM) - Static Structural&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как включить #HPC в #ANSYS #Mechanical, #Fluent, #CFX, #HFSS - в основных средствах численного моделирования.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-26-kak-vklyuchit-hpc-v-ansys-mechanical/</link>
+      <pubDate>Sat, 26 Dec 2015 06:00:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-26-kak-vklyuchit-hpc-v-ansys-mechanical/</guid>
+      <description>&lt;p&gt;Наглядная инструкция в картинках по ссылке.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/activating-hyperdrive-in-ansys-simulations&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Activating Hyperdrive in ANSYS Simulations&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#ANSYS #FEA #Mechanical</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-24-ansys-fea-mechanical/</link>
+      <pubDate>Tue, 24 Nov 2015 14:48:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-24-ansys-fea-mechanical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#ANSYS 17.0 уже близко!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-19-ansys-170-uzhe-blizko-gryadet-bolshie-k/</link>
       <pubDate>Thu, 19 Nov 2015 18:00:44 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-19-ansys-170-uzhe-blizko-gryadet-bolshie-k/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-19-ansys-170-uzhe-blizko-gryadet-bolshie-k/</guid>
+      <description>&lt;p&gt;Грядет большие количество изменений и нововведений, как в работе решателей, так и в лицензионной политике. О последнем уже можно почитать.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cadfem-cis.ru/about/news/single/ansys17/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Политика лицензирования ANSYS Mechanical 17.0 :: Новости :: www.cadfem-cis.ru&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pinball - инструкция по правильной настройке контактов в #ANSYS #Mechanical</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-15-pinball-instruktsiya-po-pravilnoy-nastr/</link>
+      <pubDate>Sun, 15 Nov 2015 07:00:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-15-pinball-instruktsiya-po-pravilnoy-nastr/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/be-a-pinball-wizard-with-contact-regions-in-ansys-mechanical&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Be a Pinball Wizard with Contact Regions in ANSYS Mechanical&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Расчет на циклическую прочность в #ANSYS #Mechanical</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-09-raschet-na-tsiklicheskuyu-prochnost-v-ansys/</link>
+      <pubDate>Mon, 09 Nov 2015 18:00:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-09-raschet-na-tsiklicheskuyu-prochnost-v-ansys/</guid>
+      <description>&lt;p&gt;Расчет на циклическую прочность в #ANSYS #Mechanical&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=LEHfQsu1I2Y&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Evaluate the Fatigue Failure in ANSYS Workbench | High Cycle Fatigue &amp;amp; Low Cycle Fatigue | GRS |&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Красивая презентация - хороший академический подход.</title>
-      <link>http://localhost:1313/posts/2015-10-13-krasivaya-prezentatsiya-horoshiy-akademiche/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-13-krasivaya-prezentatsiya-horoshiy-akademiche/</link>
       <pubDate>Tue, 13 Oct 2015 06:30:24 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-13-krasivaya-prezentatsiya-horoshiy-akademiche/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-13-krasivaya-prezentatsiya-horoshiy-akademiche/</guid>
+      <description>&lt;p&gt;Красивая презентация - хороший академический подход.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>EDR Medesо показали одну из возможностей своего ACT Heavy Du</title>
-      <link>http://localhost:1313/posts/2015-10-11-edr-medeso-pokazali-odnu-iz-vozmozhnostey/</link>
+      <title>EDR Medesо показали одну из возможностей своего ACT Heavy Duty Toolkit. Advanced Bolts позволяет генерировать модели болтов под отверстия, и даже анализировать нагрузки в резьбе!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-11-edr-medeso-pokazali-odnu-iz-vozmozhnostey/</link>
       <pubDate>Sun, 11 Oct 2015 18:00:15 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-11-edr-medeso-pokazali-odnu-iz-vozmozhnostey/</guid>
-      <description>&lt;p&gt;#ACT #ANSYS #Mechanical #Workbench #EDRMedesо #bolts&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-11-edr-medeso-pokazali-odnu-iz-vozmozhnostey/</guid>
+      <description>&lt;p&gt;Очень интересное ACT, однако не бесплатное.&lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS #Mechanical #Workbench #EDRMedesо #bolts&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1Q3Fv-7HUZc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=1Q3Fv-7HUZc&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Топологическая оптимизация от Virtual.PYXIS для MSC.Nastarn.</title>
-      <link>http://localhost:1313/posts/2015-10-08-topologicheskaya-optimizatsiya-ot-virtualpy/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-08-topologicheskaya-optimizatsiya-ot-virtualpy/</link>
       <pubDate>Thu, 08 Oct 2015 06:30:15 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-08-topologicheskaya-optimizatsiya-ot-virtualpy/</guid>
-      <description>&lt;p&gt;#ANSYS #Mechanical #Virtual.PYXIS #TOPO #MSC #Nastran&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-08-topologicheskaya-optimizatsiya-ot-virtualpy/</guid>
+      <description>&lt;p&gt;Топологическая оптимизация от Virtual.PYXIS для MSC.Nastarn. Забавно, что в презентации для MSC ребята из Virtual.PYXIS без зазрения совести включают анимации результатов полученные в ANSYS Mechainical (момент времени вебинара 4:17).&lt;/p&gt;
+&lt;p&gt;#ANSYS #Mechanical #Virtual.PYXIS #TOPO #MSC #Nastran&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=2HDIW73cL80&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Topology Optimization Automotive Case Study Running&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#ANSYS накрутил все, что мог в плане создания умных часов.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-22-ansys-nakrutil-vse-chto-mog-v-plane-soz/</link>
+      <pubDate>Tue, 22 Sep 2015 18:01:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-22-ansys-nakrutil-vse-chto-mog-v-plane-soz/</guid>
+      <description>&lt;p&gt;Тут и #SpaceClaim, и #HFSS, и #Mechanical, и #Explicit, и связанные расчеты с теплом. Короче, голова идет кругом.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8kacFVNb4fg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Wearable Technology - Smart Watch Simulation with ANSYS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Некто Khai Chau Nguyen ведет вполне годный канал на Youtube, где выкладывает видео уроки на разные тематики.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-11-nekto-khai-chau-nguyen-vedet-vpolne-godn/</link>
+      <pubDate>Fri, 11 Sep 2015 17:00:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-11-nekto-khai-chau-nguyen-vedet-vpolne-godn/</guid>
+      <description>&lt;p&gt;Наиболее актуальная на данный момент его работе - топологическая оптимизация купола в #ANSYS #Mechanical при помощи ACT от TOSCA Structure. Хорошая была независимая компания-разработчик FE-Design, пока не купил на корню Dassault Systèmes.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=KsWJ0qsp6mE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;TUTORIAL 8: Topology optimization of the dome structure using ANSYS Workbench&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>История успеха Nifco Inc., которым Wilde Analysis (британские партнеры ANSYS) внедрили целую пачку продуктов #ANSYS: #Fluent, #DesignXplorer, #SpaceClaim Direct Modeler и даже #Mechanical.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-08-29-istoriya-uspeha-nifco-inc-kotorym-wilde/</link>
+      <pubDate>Sat, 29 Aug 2015 07:00:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-08-29-istoriya-uspeha-nifco-inc-kotorym-wilde/</guid>
+      <description>&lt;p&gt;Говорят, что без работы остались японцы,  а цикл проектирования сократился с недель до часов. Видать хороший ликбез для Nifco Inc. устроили.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://wildeanalysis.co.uk/casestudies/driving-technological-innovation-ansys&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Driving Technological Innovation with ANSYS - Wilde Analysis&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

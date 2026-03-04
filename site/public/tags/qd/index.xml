@@ -2,25 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qd on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/qd/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/qd/</link>
     <description>MagicDPD: Magic Driven Product Development! (Qd)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 11 Mar 2018 18:01:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2019 13:00:29 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/qd/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/qd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Два урока по работе с LS-DYNA Keyword в Python библиотеке qd</title>
-      <link>http://localhost:1313/posts/2018-03-11-dva-uroka-po-rabote-s-ls-dyna-keyword-v/</link>
+      <title>LS-Reader</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-27-ls-reader/</link>
+      <pubDate>Sat, 27 Jul 2019 13:00:29 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-27-ls-reader/</guid>
+      <description>&lt;p&gt;LS-Reader&lt;/p&gt;
+&lt;p&gt;В этом году LSTC очень активно начала развивать продукты для подготовки расчетных моделей и обработки результатов. Пожалуй одним из наиболее вкусных среди них для меня становиться LS-Reader. Это не что иное, как готовое API под C, C++ и Python для обработки результатов расчетов. В комплекте есть документация, учебные примеры и тестовые наборы результатов. Таким образом, что бы заниматься разработкой своей собственно автоматической обработки результатов вам не нужна сама LS-DYNA. Получаем хорошего конкретна слегка заглохшему проекту qd — a CAE Python Library.&lt;/p&gt;
+&lt;p&gt;Найти актуальную версию LS-Reader можно совершенно бесплатно на официальном ресурсе: &lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/lsprepost/LS-Reader/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/lsprepost/LS-Reader/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#LS_Reader #LSTC #Python #qd&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Ce&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Ce&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/lsprepost/LS-Reader/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/lsprepost/LS-Reader/&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2Ce&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Ce&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Два урока по работе с LS-DYNA Keyword в Python библиотеке qd-cae</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-11-dva-uroka-po-rabote-s-ls-dyna-keyword-v/</link>
       <pubDate>Sun, 11 Mar 2018 18:01:21 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-03-11-dva-uroka-po-rabote-s-ls-dyna-keyword-v/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-11-dva-uroka-po-rabote-s-ls-dyna-keyword-v/</guid>
       <description>&lt;p&gt;Если вы следите за публикацияи MDPD, то вы занете о существовании замечатьельной бесплатной открытой Python библиотеки qd. В недавней версии в нее добавили инструменты по манипулированию Keyword файлами — моделями LS-DYNA. Сегодя у нас есть уже 2 видео урока, демонстрирующих, что может билиотека.&lt;/p&gt;
 &lt;p&gt;Репозиторий библиотеки на GitHub: &lt;a href=&#34;https://github.com/qd-cae/qd-cae-python&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/qd-cae/qd-cae-python&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#LSDYNA #Open_Source #Python #Qd
 &lt;a href=&#34;https://goo.gl/64RTLQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/64RTLQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/qd-cae/qd-cae-python&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/qd-cae/qd-cae-python&lt;/a&gt;
+&lt;a href=&#34;https://goo.gl/64RTLQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/64RTLQ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Управление .k файлами из Python</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-22-upravlenie-k-faylami-iz-python/</link>
+      <pubDate>Thu, 22 Feb 2018 18:01:02 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-22-upravlenie-k-faylami-iz-python/</guid>
+      <description>&lt;p&gt;Управление .k файлами из Python
+В версии 0.7.0 библиотеки qd для Python появилась поддержка редактирования .k — текстовых файлов моделей LS-DYNA
+Итак, сейчас библиотека позволяет как создавать новые модели, так и редактировать существующие. Реализованные возможности:&lt;/p&gt;
+&lt;p&gt;Считывание .k файла
+Поиск по идентификатору
+Поддержка форматирования
+Поддержка и обработка карт *INCLUDE
+Чтение карт, отвечающих за сетку
+Запись .k файлов&lt;/p&gt;
+&lt;p&gt;Подробное описание новых функций библиотеки можно найти тут: http://www.qd-eng.de/index.php/2018/02/19/manipulating-ls-dyna-keyfiles-in-python/&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.qd-eng.de/index.php/2018/02/19/manipulating-ls-dyna-keyfiles-in-python/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.qd-eng.de/index.php/2018/02/19/manipulating-ls-dyna-keyfiles-in-python/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QD PLUS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-12-qd-plus/</link>
+      <pubDate>Sun, 12 Mar 2017 17:01:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-12-qd-plus/</guid>
+      <description>&lt;p&gt;QD PLUS
+&lt;a href=&#34;https://github.com/qd-cae/qd-eng&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/qd-cae/qd-eng&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Представляю вашему вниманию проект #QD PLUS позволяющий выполнять постпроцессинг #LSDYNA. Проект написан на #python и доступен всем желающим на #GitHub. Также есть серия вино уроков (первый в этом посте) по работе с библиотекой проекта.&lt;/p&gt;
+&lt;p&gt;#opensource&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=w8qIzqPJ4VY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=w8qIzqPJ4VY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/qd-cae/qd-eng&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;qd-cae/qd-eng&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=w8qIzqPJ4VY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=w8qIzqPJ4VY&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

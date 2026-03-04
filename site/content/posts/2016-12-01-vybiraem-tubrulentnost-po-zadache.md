@@ -9,9 +9,15 @@ tags:
 ---
 
 Выбираем тубрулентность по задаче
-http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13743/Choosing-the-Right-Turbulence-Model-for-Your-CFD-Simulation.aspx
+~~http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13743/Choosing-the-Right-Turbulence-Model-for-Your-CFD-Simulation.aspx~~ → [Сохранённая версия](http://web.archive.org/web/20210109104350/https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13743/Choosing-the-Right-Turbulence-Model-for-Your-CFD-Simulation.aspx)
+
+*Оригинальная ссылка больше не доступна*
 
 Большой и хороший пост с кратким обзором правил выбора и ограничений моделей турбулентности в #CFD.
 
-https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13743/Choosing-the-Right-Turbulence-Model-for-Your-CFD-Simulation.aspx
-http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13743/Choosing-the-Right-Turbulence-Model-for-Your-CFD-Simulation.aspx
+~~https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13743/Choosing-the-Right-Turbulence-Model-for-Your-CFD-Simulation.aspx~~ → [Сохранённая версия](http://web.archive.org/web/20210109104350/https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13743/Choosing-the-Right-Turbulence-Model-for-Your-CFD-Simulation.aspx)
+
+*Оригинальная ссылка больше не доступна*
+~~http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13743/Choosing-the-Right-Turbulence-Model-for-Your-CFD-Simulation.aspx~~ → [Сохранённая версия](http://web.archive.org/web/20210109104350/https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13743/Choosing-the-Right-Turbulence-Model-for-Your-CFD-Simulation.aspx)
+
+*Оригинальная ссылка больше не доступна*

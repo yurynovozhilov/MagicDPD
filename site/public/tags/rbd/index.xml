@@ -2,33 +2,207 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RBD on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/rbd/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/rbd/</link>
     <description>MagicDPD: Magic Driven Product Development! (RBD)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 02 Jun 2016 13:58:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2020 10:15:33 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/rbd/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/rbd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Сегодня в Питере провели небольшой семинар на пол дня по #AN</title>
-      <link>http://localhost:1313/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</link>
+      <title>Extended Position Based Dynamics</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-10-30-extended-position-based-dynamics/</link>
+      <pubDate>Fri, 30 Oct 2020 10:15:33 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-10-30-extended-position-based-dynamics/</guid>
+      <description>&lt;p&gt;Extended Position Based Dynamics
+#NVIDIA #RBD
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/extended-position-based-dynamics/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Extended Position Based Dynamics - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>«Строительные задачи» с BECKER 3D</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-01-stroitelnye-zadachi-s-becker-3d/</link>
+      <pubDate>Sun, 01 Sep 2019 13:01:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-01-stroitelnye-zadachi-s-becker-3d/</guid>
+      <description>&lt;p&gt;«Строительные задачи» с BECKER 3D&lt;/p&gt;
+&lt;p&gt;BECKER 3D — DEM код, разработчики которого не скупятся не демонстрационные видео с примерами своих расчетов. На днях они высыпали целую кучу диво по дорожно-строитльной тематике.&lt;/p&gt;
+&lt;p&gt;#BECKER_3D #DEM #RBD&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2FL&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2FL&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2FL&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2FL&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RecurDyn StarterKit</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-28-recurdyn-starterkit/</link>
+      <pubDate>Wed, 28 Aug 2019 13:00:28 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-28-recurdyn-starterkit/</guid>
+      <description>&lt;p&gt;RecurDyn StarterKit&lt;/p&gt;
+&lt;p&gt;Вводный курс из 3-х лекций по основам RecurDyn — одного из топовых промышленных Multi-Body Dynamics (MBD) решателей.&lt;/p&gt;
+&lt;p&gt;#RBD #RecurDyn&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2EP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2EP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2EP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2EP&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Универсальный механизм</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-21-universalnyy-mehanizm/</link>
+      <pubDate>Thu, 21 Feb 2019 17:01:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-21-universalnyy-mehanizm/</guid>
+      <description>&lt;p&gt;Универсальный механизм&lt;/p&gt;
+&lt;p&gt;Универсальный Механизма (UM) — отечественный софт из Брянска для моделирования кинематики и динамики систем. Включает кучу инструментов для моделирования гусеничных машин, железнодорожных экипажей, прогнозирования усталостной долговечности в связке с ANSYS или Nastran, прогнозирования износа колес и рельс. Имеет возможность проведения оптимизации, подключения Matlab/Simulink и еще много чего вкусного. Есть даже своя решалка для сыпучих сред. Правда в 2D-постановке, но все равно круто!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.umlab.ru/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.umlab.ru/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#CAE #Fatigue #RBD #импортозамещение&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2m0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2m0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Ян Поженько&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.umlab.ru/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.umlab.ru/&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2m0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2m0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Встречаем ANSYS Motion</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-14-vstrechaem-ansys-motion/</link>
+      <pubDate>Thu, 14 Feb 2019 17:01:38 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-14-vstrechaem-ansys-motion/</guid>
+      <description>&lt;p&gt;Встречаем ANSYS Motion&lt;/p&gt;
+&lt;p&gt;Без присущего крупным компаниям шума, ANSYS в релизе 2019 R1 выкатил новый продукт под названием ANSYS Motion. Это принципиально новый решатель в привычном нам интерфейсе ANSYS Mechanical.&lt;/p&gt;
+&lt;p&gt;Данный решатель предназначен, судя по описанию, конкурировать с лучшими представителями отрасли, такими как Adams.&lt;/p&gt;
+&lt;p&gt;При этом он поддерживает работу не только с твердыми, но и с «гибкими» темами — например с зубчатыми приводными ремнями.&lt;/p&gt;
+&lt;p&gt;Более подробной информации о продукте пока нет — будем вместе изучать его возможности.&lt;/p&gt;
+&lt;p&gt;#ANSYS #Motion #RBD&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2jX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2jX&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2jX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2jX&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учебные видео от Algoryx</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-06-29-uchebnye-video-ot-algoryx/</link>
+      <pubDate>Fri, 29 Jun 2018 18:01:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-06-29-uchebnye-video-ot-algoryx/</guid>
+      <description>&lt;p&gt;Учебные видео от Algoryx
+Коллеги выложили на своем канале серию коротких видеоуроков по работе в их RBD системе Momentum. Рассмотрен широкий круг вопросов:&lt;/p&gt;
+&lt;p&gt;Загрузка расширения  Momentum в SpaceClaim и экспорт моделей
+Визулизация результатов
+Настройка коэффициентов трения
+Определение шарниров
+Скрипты на Python (куда же сейчас без этого)
+Визуализация реакций в контактах
+Моделирование кабелей и гибких систем&lt;/p&gt;
+&lt;p&gt;Всего должно быть 7 учебных видео. Если вы не видите их все, то надо перейти по ссылке в блог. И да, в коментариях на YouTubе есть ссылки на скачивание всех используемых моделей.&lt;/p&gt;
+&lt;p&gt;#Algoryx #Momentum #Python #RBD #SpaceClaim
+&lt;a href=&#34;http://bit.ly/2tRnSdY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2tRnSdY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2tRnSdY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2tRnSdY&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вышла вторая версия Algoryx Momentum</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-22-vyshla-vtoraya-versiya-algoryx-momentum/</link>
+      <pubDate>Tue, 22 May 2018 18:00:35 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-22-vyshla-vtoraya-versiya-algoryx-momentum/</guid>
+      <description>&lt;p&gt;Вышла вторая версия Algoryx Momentum&lt;/p&gt;
+&lt;p&gt;Вторая версия данного RBD кода дает возможность расширенного просмотра сил в контактах и, наконец-то, открывает возможность по скриптованию на Python. Появление Python, в свою очередь, снимает все ограничения ПО — теперь вы можете делать все что пожелаете.
+Ну и никто не отменял факт работы Algoryx на геометрическом движке SpaceClaim, который мало того, что быстрый и красивый, так еще и тоже скриптуется на Python.
+Пример работы предыдущей версии на видео&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.algoryx.se/newsmedia/algoryx-momentum-announcing-version-2-0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.algoryx.se/newsmedia/algoryx-momentum-announcing-version-2-0/&lt;/a&gt;
+#Algoryx #Momentum #Python #RBD #SpaceClaim&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Re&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Re&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.algoryx.se/newsmedia/algoryx-momentum-announcing-version-2-0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.algoryx.se/newsmedia/algoryx-momentum-announcing-version-2-0/&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-1Re&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Re&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Знакомимся с Inspire Motion</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-09-znakomimsya-s-inspire-motion/</link>
+      <pubDate>Sun, 09 Jul 2017 17:00:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-09-znakomimsya-s-inspire-motion/</guid>
+      <description>&lt;p&gt;Знакомимся с Inspire Motion
+&lt;a href=&#34;https://www.youtube.com/watch?v=yYpWsDAAmAY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=yYpWsDAAmAY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Обзор возможностей #Altair  #solidThinking #Inspire - модуль #Motion. На вид очень удобно. Надеюсь, что еще и точно.&lt;/p&gt;
+&lt;p&gt;#RBD
+&lt;a href=&#34;https://www.youtube.com/watch?v=yYpWsDAAmAY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=yYpWsDAAmAY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=yYpWsDAAmAY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Introduction to Inspire Motion&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AGX Dynamics для частиц</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-16-agx-dynamics-dlya-chastits/</link>
+      <pubDate>Fri, 16 Dec 2016 17:00:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-16-agx-dynamics-dlya-chastits/</guid>
+      <description>&lt;p&gt;AGX Dynamics для частиц
+&lt;a href=&#34;https://www.youtube.com/watch?v=7OA-54FNYVQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=7OA-54FNYVQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Algoryx - разработчик Dynamics for #SpaceClaim выкатил новые фишки своего ПО&lt;/p&gt;
+&lt;p&gt;Из решатель #AGX Dynamics, который является сердцем Dynamics for #SpaceClaim - системы для расчета твердотельной динамики (#RBD) - теперь умеет решать задачи в #DEM постановке. При этом, используется не сферические частицы (привет #LSDYNA) и их кластеры (привет #EDEM), а частицы произвольной формы (привет #Rocky). Такую постановку метода дискретных элементов разработчики окрестили #NDEM (non-smooth discrete element methods). И это все помимо возможности моделировать поведение кабелей и тросов.&lt;/p&gt;
+&lt;p&gt;#AGX Dynamics уже сейчас умеет моделировать конвейерные системы, взаимодействие с твердыми телами, слипание частиц. Разрушения частиц нет, использования #GPU тоже пока нет. Но я думаю, что все это скоро будет.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=7OA-54FNYVQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=7OA-54FNYVQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=7OA-54FNYVQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Granular simulation in AGX Dynamics - Overview&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Встречаем Adams 2017</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-06-vstrechaem-adams-2017/</link>
+      <pubDate>Tue, 06 Dec 2016 17:00:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-06-vstrechaem-adams-2017/</guid>
+      <description>&lt;p&gt;Встречаем Adams 2017
+&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13796/New-Multibody-Dynamics-Release-Focuses-on-Gear-Simulations-and-Python-Scripting.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13796/New-Multibody-Dynamics-Release-Focuses-on-Gear-Simulations-and-Python-Scripting.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Еще одни большой релиз произошел в конце 2016 года. Компания #MSC выпустила #Adams 2017 - знаменитый #RBD решатель. Основными фокусами релиза стали: новые технологии в области моделирования зубчатого зацепления, в том числе с учетом деформируемости, и внедрение #python в качестве внутреннего скриптового языка.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13796/New-Multibody-Dynamics-Release-Focuses-on-Gear-Simulations-and-Python-Scripting.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;New Multibody Dynamics Release Focuses on Gear Simulations and Python Scripting &amp;gt; ENGINEERING.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FSI XFlow/MSC Adams</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-04-fsi-xflowmsc-adams/</link>
+      <pubDate>Tue, 04 Oct 2016 17:01:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-04-fsi-xflowmsc-adams/</guid>
+      <description>&lt;p&gt;FSI XFlow/MSC Adams
+&lt;a href=&#34;https://www.youtube.com/watch?v=T3QN4VldIDQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=T3QN4VldIDQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Часовой вебинар посвященный проблемам связки #CFD кода #XFlow и #RBD решателя #Adams. Актуально для пользователей данного ПО, но мне не пригодилось. Уж очень спорный код - этот XFlow.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=T3QN4VldIDQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;XFlow/MSC Adams Advanced Co-Simulations Webinar&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сегодня в Питере провели небольшой семинар на пол дня по #ANSYS 17. Небольшого семинара не получилось: зарегистрировалось под 200 человек, пришло более 150 человек. Несколько раз менять планировку залов, что бы вместить всех желающих. Свободные места для опоздавших находились с трудом (см фото с доказательствами)!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</link>
       <pubDate>Thu, 02 Jun 2016 13:58:36 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</guid>
       <description>&lt;p&gt;11 докладов по #Mechanical, #Explicit, #CFX, #Fluent, #DesignXplorer, #SpaceClaim, #HPC, #RBD, #ACP, #ACCS и конечно же #AIM!&lt;/p&gt;
 &lt;p&gt;А еще состоялся анонс проекта под рабочим названием #CADFEM #Haze!&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Целы канал на посвященный Rigid Body Dynamics решателю ANSYS</title>
-      <link>http://localhost:1313/posts/2015-11-10-tsely-kanal-na-posvyaschennyy-rigid-body-dyn/</link>
+      <title>Целы канал на посвященный Rigid Body Dynamics решателю ANSYS.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-10-tsely-kanal-na-posvyaschennyy-rigid-body-dyn/</link>
       <pubDate>Tue, 10 Nov 2015 06:30:24 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-10-tsely-kanal-na-posvyaschennyy-rigid-body-dyn/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-10-tsely-kanal-na-posvyaschennyy-rigid-body-dyn/</guid>
+      <description>&lt;p&gt;Не Adams, но тоже много чего умеет.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UC0pmCdl2P8uscK_cWH4aq8Q&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MBD for ANSYS&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

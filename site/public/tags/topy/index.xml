@@ -2,27 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ToPy on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/topy/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/topy/</link>
     <description>MagicDPD: Magic Driven Product Development! (ToPy)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 24 Nov 2017 17:14:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Dec 2017 17:13:22 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/topy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/topy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>А что если научить машину ускорять задачи топологической опт</title>
-      <link>http://localhost:1313/posts/2017-11-24-a-chto-esli-nauchit-mashinu-uskoryat-zadach/</link>
+      <title>Оптимизация топологии под чистый изгиб при помощи #ToPy</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-23-optimizatsiya-topologii-pod-chistyy-izgib-p/</link>
+      <pubDate>Sat, 23 Dec 2017 17:13:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-23-optimizatsiya-topologii-pod-chistyy-izgib-p/</guid>
+      <description>&lt;p&gt;Оптимизация топологии под чистый изгиб при помощи #ToPy&lt;/p&gt;
+&lt;p&gt;#topology #optimization #opensource
+&lt;a href=&#34;http://www.variousconsequences.com/2017/12/topology-optimization-topy-pure-bending.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.variousconsequences.com/2017/12/topology-optimization-topy-pure-bending.html&lt;/a&gt; 🔗 Topology Optimization with ToPy: Pure Bending&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2mSwa57&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2mSwa57&lt;/a&gt;
+&lt;a href=&#34;http://www.variousconsequences.com/2017/12/topology-optimization-topy-pure-bending.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.variousconsequences.com/2017/12/topology-optimization-topy-pure-bending.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>А что если научить машину ускорять задачи топологической оптимизации?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-24-a-chto-esli-nauchit-mashinu-uskoryat-zadach/</link>
       <pubDate>Fri, 24 Nov 2017 17:14:52 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-24-a-chto-esli-nauchit-mashinu-uskoryat-zadach/</guid>
-      <description>&lt;p&gt;Статья двух русских студентов (Иван Сосновик и Иван Оселедец) посвящена рассказывает про их проект, в котором нейронной сети показывали промежуточные результаты работы алгоритма топологической оптимизации и учили ее угадывать, какой будет итоговый результат. После обучения на 10 000 произвольно сгенерированных задачах для #ToPy нейрона смогла ускорить процесс оптимизации до 20 раз в рассматриваемых примерах!&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-24-a-chto-esli-nauchit-mashinu-uskoryat-zadach/</guid>
+      <description>&lt;p&gt;И получить при этом многократное сокращение времени решения задачи?&lt;/p&gt;
+&lt;p&gt;Статья двух русских студентов (Иван Сосновик и Иван Оселедец) посвящена рассказывает про их проект, в котором нейронной сети показывали промежуточные результаты работы алгоритма топологической оптимизации и учили ее угадывать, какой будет итоговый результат. После обучения на 10 000 произвольно сгенерированных задачах для #ToPy нейрона смогла ускорить процесс оптимизации до 20 раз в рассматриваемых примерах!&lt;/p&gt;
 &lt;p&gt;Выборка для тренировки нейроне доступна на #GitHub:
 &lt;a href=&#34;http://ift.tt/2hRdoWE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hRdoWE&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Исходная научная статья лежит тут:
 &lt;a href=&#34;http://ift.tt/2A2KoWc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2A2KoWc&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#topology #optimization #python #machinelearning #opensourceMediaMedia🔗 [1709.09578] Neural networks for topology optimization&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2x6LCL4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2x6LCL4&lt;/a&gt;
+&lt;a href=&#34;https://arxiv.org/abs/1709.09578&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://arxiv.org/abs/1709.09578&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Привет всем, кто пишет свой движок топологической оптимизации от #opensource проекта #ToPy.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-22-privet-vsem-kto-pishet-svoy-dvizhok-topol/</link>
+      <pubDate>Wed, 22 Nov 2017 17:10:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-22-privet-vsem-kto-pishet-svoy-dvizhok-topol/</guid>
+      <description>&lt;p&gt;Так уж сейчас обстоят дела, что написать алгоритм линейной топологической оптимизации - это уровень обычной бакалаврской работы. И я очень рад, что, дабы остановить поток велосипедостроителей, люди выкладывают такие коды на #GitHub. Хотите сделать хорошую топологическую оптимизацию - сделайте сначала обзор литературы 😊&lt;/p&gt;
+&lt;p&gt;Кстати, ToPly не так прост, как может показаться. Он может решать как классические задачи оптимизации топологии с целью минимизации податливости при уменьшении объема, так и выполнять оптимизацию теплопроводности (вот это что-то новенькое!)&lt;/p&gt;
+&lt;p&gt;#python #toplology #optimization
+&lt;a href=&#34;https://github.com/williamhunter/topy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/williamhunter/topy&lt;/a&gt; 🔗 williamhunter/topy&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2mSwa57&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2mSwa57&lt;/a&gt;
+&lt;a href=&#34;https://github.com/williamhunter/topy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/williamhunter/topy&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

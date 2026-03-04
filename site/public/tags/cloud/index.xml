@@ -2,363 +2,930 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/cloud/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/cloud/</link>
     <description>MagicDPD: Magic Driven Product Development! (Cloud)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Mon, 18 Apr 2022 17:00:05 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Любопытная штука - #BQPhy.  Они говорят, что они - это первы</title>
-      <link>http://localhost:1313/posts/2022-04-18-lyubopytnaya-shtuka-bqphy--oni-govoryat/</link>
+      <title>Любопытная штука - #BQPhy.  Они говорят, что они - это первый в мире программный комплекс CAE Simulations-as-a-Service (Q-SaaS) с расчетами на квантовом компьютере!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-18-lyubopytnaya-shtuka-bqphy--oni-govoryat/</link>
       <pubDate>Mon, 18 Apr 2022 17:00:05 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-04-18-lyubopytnaya-shtuka-bqphy--oni-govoryat/</guid>
-      <description>&lt;p&gt;#quantimcomputing #HPC #CAE #cloud &lt;a href=&#34;https://youtu.be/VHjVXalI3bw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/VHjVXalI3bw&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-18-lyubopytnaya-shtuka-bqphy--oni-govoryat/</guid>
+      <description>&lt;p&gt;Ни какие данные о преимуществах таких вычислений, точности их алгоритмов в сравнении с традиционными кодами коллеги не приводят. Кажется, что квантовый компьютер там пока только для привлечения инвесторов.&lt;/p&gt;
+&lt;p&gt;#quantimcomputing #HPC #CAE #cloud &lt;a href=&#34;https://youtu.be/VHjVXalI3bw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/VHjVXalI3bw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/VHjVXalI3bw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/VHjVXalI3bw&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Вчера #Ansys купил себе #OnScale, и я расскажу почему это ва</title>
-      <link>http://localhost:1313/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</link>
+      <title>Вчера #Ansys купил себе #OnScale, и я расскажу почему это важно.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</link>
       <pubDate>Thu, 14 Apr 2022 17:00:07 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</guid>
       <description>&lt;p&gt;Итак, компания OnScale делала одноименную независимую платформу для  КЭ расчетов в облаке. Идея у них была очень похоже на успешный проект SimScale. Однако, SimScale использовал внутри себя #opensource коды для расчетов, а OnScale решили писать все свое. Кажется, что они просто не оценили трудоемкости написания хороших решателей, вот WebUI вышел вполне себе нормальный.&lt;/p&gt;
 &lt;p&gt;Теперь их покупает Ansys, который идет в облако всеми возможными путями. У них, как и всех конкурентов, есть облачные лицензии. У них есть облачные #HPC партнеры в лице #AWS и #Azure. Есть встроенные возможности из классических приложений посылать задачи на расчет в облако. А вот полноценного #WebUI для работы с решателями не было - всегда были какие-то средства доставки классических дестопных приложений и рабочих столов Windows/Linux систем. И тут мы видим, что OnScale становиться последним кусочком мозаики полноценного облачного решения от Ansys.&lt;/p&gt;
 &lt;p&gt;Я думаю, что в ближайшие 5 лет мы сможем увидеть новые Web версии #Fluent, #Mechanical #HFSS, которые больше не будут требовать установки дистрибутива с 5 DVD дисков, а полноценно будет работать в глобальном или корпоративном облаке.&lt;/p&gt;
 &lt;p&gt;#cloud #opensource #HPC &lt;a href=&#34;https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys to Expand Cloud Portfolio with Technology from Acquisition of OnScale&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Generative Extensions для Creo</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-01-21-generative-extensions-dlya-creo/</link>
+      <pubDate>Thu, 21 Jan 2021 13:01:21 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-01-21-generative-extensions-dlya-creo/</guid>
+      <description>&lt;p&gt;Generative Extensions для Creo&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=RReVZ37fs0w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=RReVZ37fs0w&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В 7-ой версии Creo появились новые функции для оптимизации топологии: Generative Topology Optimization (GTO) и Generative Design Extension (GDX). Первый позволяет получать гладкие (скорее всего алгоритм базируется на level-set методе оптимизации) и красивые модельки на выходе, а второй ускоряет весь процесс за счет того, что выгружает задачи для удаленных расчетов в облаке. Если честно, то все это ну вот прям очень напоминает последние наработки по топологической оптимизации в Ansys Discovery. Ну а математический движок механических расчетов Discovery так-то встроен в Creo.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Zd9seD8AgHk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Zd9seD8AgHk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=H2YgvcSEyxE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=H2YgvcSEyxE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#cloud #creo #hpc #optimization #topology
+&lt;a href=&#34;https://tinyurl.com/y5ulpttp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y5ulpttp&lt;/a&gt;
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=RReVZ37fs0w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Generative Design Extension is Introduced | Creo 7.0.2&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=Zd9seD8AgHk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Zd9seD8AgHk&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=H2YgvcSEyxE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=H2YgvcSEyxE&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/y5ulpttp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y5ulpttp&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Удаленная визуализация для геймеров</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-05-07-udalennaya-vizualizatsiya-dlya-geymerov/</link>
+      <pubDate>Thu, 07 May 2020 15:31:24 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-05-07-udalennaya-vizualizatsiya-dlya-geymerov/</guid>
+      <description>&lt;p&gt;Удаленная визуализация для геймеров&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/%d1%83%d0%b4%d0%b0%d0%bb%d0%b5%d0%bd%d0%bd%d0%b0%d1%8f-%d0%b2%d0%b8%d0%b7%d1%83%d0%b0%d0%bb%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f-%d0%b4%d0%bb%d1%8f-%d0%b3%d0%b5%d0%b9%d0%bc%d0%b5%d1%80%d0%be%d0%b2/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Удаленная визуализация для геймеров - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DynaCruncher Project</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-03-dynacruncher-project/</link>
+      <pubDate>Tue, 03 Mar 2020 13:01:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-03-dynacruncher-project/</guid>
+      <description>&lt;p&gt;DynaCruncher Project&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/dynacruncher-project/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/dynacruncher-project/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новые видео от ParaMatters</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-02-01-novye-video-ot-paramatters/</link>
+      <pubDate>Sat, 01 Feb 2020 13:00:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-02-01-novye-video-ot-paramatters/</guid>
+      <description>&lt;p&gt;Новые видео от ParaMatters&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/paramatters-new-videos/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Новые видео от ParaMatters - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Siemens купил Atlas 3D</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-12-17-siemens-kupil-atlas-3d/</link>
+      <pubDate>Tue, 17 Dec 2019 16:00:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-12-17-siemens-kupil-atlas-3d/</guid>
+      <description>&lt;p&gt;Siemens купил Atlas 3D&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/siemens-acquire-atlas-3d/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Siemens купил Atlas 3D - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Onshape продаётся PTC за $470M</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-29-onshape-prodaetsya-ptc-za-470m/</link>
+      <pubDate>Tue, 29 Oct 2019 13:00:21 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-29-onshape-prodaetsya-ptc-za-470m/</guid>
+      <description>&lt;p&gt;Onshape продаётся PTC за $470M
+#CAD #cloud #Onshape #PLM #PTC
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/onshape-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d1%91%d1%82%d1%81%d1%8f-ptc-%d0%b7%d0%b0-470m/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Onshape продаётся PTC за $470M - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Azure и облачный кластер на 20 000 ядер</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-18-azure-i-oblachnyy-klaster-na-20-000-yader/</link>
+      <pubDate>Thu, 18 Jul 2019 13:00:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-18-azure-i-oblachnyy-klaster-na-20-000-yader/</guid>
+      <description>&lt;p&gt;Azure и облачный кластер на 20 000 ядер&lt;/p&gt;
+&lt;p&gt;Коллеги из Microsoft немного поиграли мускулатурой в своих ЦОД West US 2 и East US. Недолго думая, они смогли собрать HPC кластер из 512 виртуальных машин (новая серия HC) = 22 528 физических вычислительных ядер Intel Xeon Platinum 8168 (безо всякого там Hyper Threading). При этом это действительно HPC, так как виртуалки были объединены настоящим интерконнектом 100 Gb/s InfiniBand (SR-IOV). Профит: очень быстрый кластер в облаке с хорошей масштабируемостью согласно бенчмаркам. И да, не забывайте, что Azure — главный партнер ANSYS в облаке.&lt;/p&gt;
+&lt;p&gt;Оригинальный текст:&lt;/p&gt;
+&lt;p&gt;Azure Benchmarks HC-series Across 20,000 cores for HPC&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/blog/azure-hc-series-virtual-machines-crosses-20000-cores-for-hpc-workloads/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://azure.microsoft.com/en-us/blog/azure-hc-series-virtual-machines-crosses-20000-cores-for-hpc-workloads/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Azure #cloud #HPC&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2BH&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2BH&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/blog/azure-hc-series-virtual-machines-crosses-20000-cores-for-hpc-workloads/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://azure.microsoft.com/en-us/blog/azure-hc-series-virtual-machines-crosses-20000-cores-for-hpc-workloads/&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2BH&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2BH&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Onshape на DEVELOP3D LIVE 2019</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-06-08-onshape-na-develop3d-live-2019/</link>
+      <pubDate>Sat, 08 Jun 2019 17:00:34 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-06-08-onshape-na-develop3d-live-2019/</guid>
+      <description>&lt;p&gt;Onshape на DEVELOP3D LIVE 2019&lt;/p&gt;
+&lt;p&gt;Jon Hirschtick из Onshape рассказывает о вещах, которым компания научилась за годы (точнее 7 миллионов часов использования) работы как облачная CAD платформа. На самом деле, Джон говорит очень правильные вещи: использование их облачной платформы действительно избавляет компании от огромного количества ограничений, связанных с хранением данных, синхронизацией версий и поддержкой аппаратного обеспечения. Жаль, что действительно сильных CAE систем, работающих так же как Onshape пока нет.&lt;/p&gt;
+&lt;p&gt;А еще, надо отдавать себе отчет, что такая штука как Onshape (как и любой облачный сервис) является очень удобным местом для атаки: стоит облаку перестать работать для вас по техническим или политическим причинам — весь конструкторский отдел превращается в тыкву. К сожалению, что бы пользоваться подобным сервисом без опаски, надо жить с ним в одной геополитической юрисдикции.&lt;/p&gt;
+&lt;p&gt;#cloud #Onshape&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2yc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2yc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2yc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2yc&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Высокопроизводительные вычисления в ANSYS 2019 R1</title>
-      <link>http://localhost:1313/posts/2019-05-16-vysokoproizvoditelnye-vychisleniya-v-ansy/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-16-vysokoproizvoditelnye-vychisleniya-v-ansy/</link>
       <pubDate>Thu, 16 May 2019 11:01:12 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-05-16-vysokoproizvoditelnye-vychisleniya-v-ansy/</guid>
-      <description>&lt;p&gt;Ровно через неделю (23 мая в 14:00) приходите на мой вебинар про HPC и Cloud для ANSYS. Каверзные вопросы приветствуются. Необходима бесплатная регистрация: &lt;a href=&#34;https://webinars.cadfem-cis.ru/event/hpc/registration/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://webinars.cadfem-cis.ru/event/hpc/registration/&lt;/a&gt;. Ну и вообще, у нас новая прикольная платформа для Web семинаров: &lt;a href=&#34;https://webinars.cadfem-cis.ru&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://webinars.cadfem-cis.ru&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-16-vysokoproizvoditelnye-vychisleniya-v-ansy/</guid>
+      <description>&lt;p&gt;Высокопроизводительные вычисления в ANSYS 2019 R1&lt;/p&gt;
+&lt;p&gt;Ровно через неделю (23 мая в 14:00) приходите на мой вебинар про HPC и Cloud для ANSYS. Каверзные вопросы приветствуются. Необходима бесплатная регистрация: &lt;del&gt;&lt;a href=&#34;https://webinars.cadfem-cis.ru/event/hpc/registration/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://webinars.cadfem-cis.ru/event/hpc/registration/&lt;/a&gt;.&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20190917232743/https://webinars.cadfem-cis.ru/event/hpc/registration/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt; Ну и вообще, у нас новая прикольная платформа для Web семинаров: &lt;a href=&#34;https://webinars.cadfem-cis.ru&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://webinars.cadfem-cis.ru&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ANSYS #CADFEM #cloud #eCADFEM #HPC #webinar&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2vY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2vY&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://webinars.cadfem-cis.ru/event/hpc/registration/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://webinars.cadfem-cis.ru/event/hpc/registration/&lt;/a&gt;
+&lt;a href=&#34;https://webinars.cadfem-cis.ru&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://webinars.cadfem-cis.ru&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2vY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2vY&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Облачная платформа OnScale</title>
-      <link>http://localhost:1313/posts/2019-02-10-oblachnaya-platforma-onscale/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-10-oblachnaya-platforma-onscale/</link>
       <pubDate>Sun, 10 Feb 2019 17:01:42 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-02-10-oblachnaya-platforma-onscale/</guid>
-      <description>&lt;p&gt;OnScale (не путать с OnShape и SimScale) — облачная платформа для FEM расчетов, которой удавалось долгое время уходить от нашего внимания. Интересно, что у компании есть довольно много вебинаров, и их тематика имеет уклон в моделирование электроники, распространения упругих и электромагнитных волн.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-10-oblachnaya-platforma-onscale/</guid>
+      <description>&lt;p&gt;Облачная платформа OnScale&lt;/p&gt;
+&lt;p&gt;OnScale (не путать с OnShape и SimScale) — облачная платформа для FEM расчетов, которой удавалось долгое время уходить от нашего внимания. Интересно, что у компании есть довольно много вебинаров, и их тематика имеет уклон в моделирование электроники, распространения упругих и электромагнитных волн.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MgS0ae0129I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=MgS0ae0129I&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Решатели позволяют выполнять связанные расчеты во всех основных физиках: механика, тепло-, гидрогазодинамика и электромагнетизм.&lt;/p&gt;
 &lt;p&gt;Всем желающим доступно бесплатно 10 часов в месяц вычислительного времени в облаке OnScale для решения одномерных и плоских задач.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://onscale.com/pricing/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://onscale.com/pricing/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#cloud #FEM #HPC&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-onscale&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-onscale&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MgS0ae0129I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=MgS0ae0129I&lt;/a&gt;
+&lt;a href=&#34;https://onscale.com/pricing/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://onscale.com/pricing/&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/s9vWYY-onscale&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-onscale&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Существует ли мобильное CAD/CAE?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-01-suschestvuet-li-mobilnoe-cadcae/</link>
+      <pubDate>Fri, 01 Feb 2019 17:00:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-01-suschestvuet-li-mobilnoe-cadcae/</guid>
+      <description>&lt;p&gt;Существует ли мобильное CAD/CAE?&lt;/p&gt;
+&lt;p&gt;Современные телефоны и планшеты легко могут тягаться по производительности с полноценными рабочими станциями пользователей профессионального ПО. Наверно именно поэтому вендоры ПО все чаще пытаются заигрывать с этой аудиторией. Получается по-разному: от «странно» до «кому дать денег чтобы было так же». Давайте посмотрим на разные примеры реализаций профессиональной CAD/CAE работы на мобильных операционных системах.&lt;/p&gt;
+&lt;p&gt;ANSYS совсем недавно показал, как можно получить доступ к его облачной платформе с мобильного устройства. Нет, это конечно интересный опыт, но почему бы не использовать планшет? Ведь неудобно же.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=36BdYzx2QNU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=36BdYzx2QNU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Облачный CAD ONSHAPE обладает специальными приложениями для iOS и Android. Работают они неплохо, но поверить в то, что они могут стать единственными и полноценными клиентами для работы, пока нельзя.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=kRGjcsnjtgA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=kRGjcsnjtgA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Пожалуй, лучше всех получается у компании Shapr3D. Их специализированный прямой редактор CAD отлично работает на iPad Pro (и только на нем), и я готов поверить, что это удобно.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=kMi_0HXXaTE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=kMi_0HXXaTE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS #cloud #mobile #Onshape #Shapr3D&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2iR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2iR&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=36BdYzx2QNU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS Cloud: A Quick Demonstration&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=kRGjcsnjtgA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=kRGjcsnjtgA&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=kMi_0HXXaTE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=kMi_0HXXaTE&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2iR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2iR&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pacefish от SimScale</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-14-pacefish-ot-simscale/</link>
+      <pubDate>Mon, 14 Jan 2019 17:00:25 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-14-pacefish-ot-simscale/</guid>
+      <description>&lt;p&gt;Pacefish от SimScale&lt;/p&gt;
+&lt;p&gt;Начало этого года отметилось очень интересной новостью от SimScale. Коллеги из области облачных вычислений рассказали про их новую разработу — CFD решатель Pacefish.&lt;/p&gt;
+&lt;p&gt;Данный решатель специально разработан компанией Numeric Systems GmbH для SimScale — раньше SimScale пользовались общедоступными открытыми решателями. Pacefish — это CFD решатель на основе метода решёточных уравнений Больцмана (Lattice Boltzmann methods, LBM), а значит хорошо параллелиться на GPU, не требует подготовки сетки, подходит для сложной/подвижной геометрии и быстро считает нестационарные задачи.&lt;/p&gt;
+&lt;p&gt;На головном сайте компании уже крутиться шикарное демо видео работы решателя!
+Ссылка для доступа к запись первого вебинара по теме: https://www.simscale.com/webinars-workshops/lbm-flow-solver/
+#CFD #cloud #GPU #LBM #Simscale&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2fn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2fn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.simscale.com/webinars-workshops/lbm-flow-solver/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.simscale.com/webinars-workshops/lbm-flow-solver/&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2fn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2fn&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Построение сетки с искусственным интеллектом</title>
-      <link>http://localhost:1313/posts/2018-11-18-postroenie-setki-s-iskusstvennym-intelle/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-18-postroenie-setki-s-iskusstvennym-intelle/</link>
       <pubDate>Sun, 18 Nov 2018 17:00:42 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-11-18-postroenie-setki-s-iskusstvennym-intelle/</guid>
-      <description>&lt;p&gt;Компания Zenotech, провайдер облачных CFD расчетов на своей платформе и своим решателем zCFD, объявила о том, что уже с сентября месяца этого года она совместно с AlgoLib ведет проект по улучшению качества генерируемых расчетных сеток путем применения машинного обучения. Еще одна интересная попытка сделать качественную сетку без мучений - буду надеяться, что из этого получится что-то кроме хайпа.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-18-postroenie-setki-s-iskusstvennym-intelle/</guid>
+      <description>&lt;p&gt;Построение сетки с искусственным интеллектом
+Компания Zenotech, провайдер облачных CFD расчетов на своей платформе и своим решателем zCFD, объявила о том, что уже с сентября месяца этого года она совместно с AlgoLib ведет проект по улучшению качества генерируемых расчетных сеток путем применения машинного обучения. Еще одна интересная попытка сделать качественную сетку без мучений - буду надеяться, что из этого получится что-то кроме хайпа.
 &lt;a href=&#34;https://zenotech.com/zenotech-and-algolib-collaborate-on-an-industry-first-ai-mesh/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://zenotech.com/zenotech-and-algolib-collaborate-on-an-industry-first-ai-mesh/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#AlgoLib #Cloud #HPC #Mesh #ZCFD #Zenotech
+&lt;a href=&#34;http://bit.ly/2RYTOI0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RYTOI0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zenotech.com/zenotech-and-algolib-collaborate-on-an-industry-first-ai-mesh/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://zenotech.com/zenotech-and-algolib-collaborate-on-an-industry-first-ai-mesh/&lt;/a&gt;
 &lt;a href=&#34;http://bit.ly/2RYTOI0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RYTOI0&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Распараллеливание CAD</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-06-rasparallelivanie-cad/</link>
+      <pubDate>Tue, 06 Nov 2018 17:01:33 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-06-rasparallelivanie-cad/</guid>
+      <description>&lt;p&gt;Распараллеливание CAD
+Такое громкое название дали своей заметке коллеги из Onshape. Их облачная CAD платформа научилась делать операции над сборками быстрее за счет того, что она может обрабатывать каждую деталь сборки параллельно, запуская для нее свой экземпляр геометрического ядра. Таким образом, хотя одна сложная деталь в сборке и может стать причиной тормозов, работа с большими сборками ускоряется, а это хороший шаг вперед.
+&lt;a href=&#34;https://www.onshape.com/cad-blog/has-parallelization-finally-reached-cad&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.onshape.com/cad-blog/has-parallelization-finally-reached-cad&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#CAD #Cloud #Onshape
+&lt;a href=&#34;http://bit.ly/2F4nz8J&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2F4nz8J&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.onshape.com/cad-blog/has-parallelization-finally-reached-cad&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Has Parallelization Finally Reached CAD?&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2F4nz8J&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2F4nz8J&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Моделирование пожаров - теперь в SimScale</title>
-      <link>http://localhost:1313/posts/2018-08-01-modelirovanie-pozharov-teper-v-simscal/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-01-modelirovanie-pozharov-teper-v-simscal/</link>
       <pubDate>Wed, 01 Aug 2018 18:00:26 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-08-01-modelirovanie-pozharov-teper-v-simscal/</guid>
-      <description>&lt;p&gt;Компания SimScale, пожалуй, самый активный игрок рынка облачного CAE/CFD/FEM, анонсировали планы по включению в свое портфолио возможности расчетов FDS - Fire Dynamics Simulator.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-01-modelirovanie-pozharov-teper-v-simscal/</guid>
+      <description>&lt;p&gt;Моделирование пожаров - теперь в SimScale
+Компания SimScale, пожалуй, самый активный игрок рынка облачного CAE/CFD/FEM, анонсировали планы по включению в свое портфолио возможности расчетов FDS - Fire Dynamics Simulator.&lt;/p&gt;
 &lt;p&gt;FDS позволяет выполнять расчеты динамики пожаров, получать данные по задымлению помещений и температуре в них. Данный код разработан Национальным институтом стандартов и технологий США (The National Institute of Standards and Technology) совместно с Научно-исследовательским центром VTT Финляндии (VTT Technical Research Centre of Finland). Код открытый, бесплатный. Я даже про него уже как-то писал тут: http://magicdpd.ru/4524/
 Оригинальная статья: https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/17171/Browser-Based-Fire-and-Smoke-Simulation.aspx
 Ссылка на заказ тестирования работы FDS в SimScale: https://www.simscale.com/contact-form/?title=Fire%20and%20Smoke%20Simulation%20in%20a%20Browser%0D%0A&lt;/p&gt;
 &lt;p&gt;#Cloud #FDS #NIST #OpenSource #Simscale
+&lt;a href=&#34;http://bit.ly/2KjnEm6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2KjnEm6&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/4524/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/4524/&lt;/a&gt;
+&lt;a href=&#34;http://magicdpd.ru/4524/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://magicdpd.ru/4524/&lt;/a&gt;
+&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/17171/Browser-Based-Fire-and-Smoke-Simulation.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/17171/Browser-Based-Fire-and-Smoke-Simulation.aspx&lt;/a&gt;
+&lt;a href=&#34;https://www.simscale.com/contact-form/?title=Fire%20and%20Smoke%20Simulation%20in%20a%20Browser%0D%0A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.simscale.com/contact-form/?title=Fire%20and%20Smoke%20Simulation%20in%20a%20Browser%0D%0A&lt;/a&gt;
 &lt;a href=&#34;http://bit.ly/2KjnEm6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2KjnEm6&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Виртуальная аэродинамическая труба AirShaper</title>
-      <link>http://localhost:1313/posts/2018-07-13-virtualnaya-aerodinamicheskaya-truba-airsh/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-13-virtualnaya-aerodinamicheskaya-truba-airsh/</link>
       <pubDate>Fri, 13 Jul 2018 18:00:22 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-07-13-virtualnaya-aerodinamicheskaya-truba-airsh/</guid>
-      <description>&lt;p&gt;Компания AirShaper предлагает всем желающим произвести испытания их моделей в виртуальной аэродинамической трубе. При этом стоимость расчета начинается всего от 200 евро. Интересно тут пара моментов.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-13-virtualnaya-aerodinamicheskaya-truba-airsh/</guid>
+      <description>&lt;p&gt;Виртуальная аэродинамическая труба AirShaper&lt;/p&gt;
+&lt;p&gt;Компания AirShaper предлагает всем желающим произвести испытания их моделей в виртуальной аэродинамической трубе. При этом стоимость расчета начинается всего от 200 евро. Интересно тут пара моментов.
 Для начала, AirShaper - это еще один игрок на рынке CFD в облаке. Однако это не полноценный CFD код как SimScale, а скорее узкозаточенное решение.
 Любопытно, но компанию основал бельгийский инженер-механик (Wouter Remmerie), который 6 лет мучался с всевозможными испытаниями на аэродинамических трубах.&lt;/p&gt;
 &lt;p&gt;К сожалению, на сайте сервиса нет никако информации об используемых методиках расчета, зато сам сайт выглядит живым и современным. Еще на сайте есть очень красивые отчеты о выполненых исследованиях. Например вот этот документ: https://airshaper.com/reports/aquilo.pdf&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.develop3d.com/blog/2018/06/airshaper-launches-pay-per-simulation-virtual-wind-tunnel-cfd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.develop3d.com/blog/2018/06/airshaper-launches-pay-per-simulation-virtual-wind-tunnel-cfd&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#AirShaper #CFD #Cloud
 &lt;a href=&#34;http://bit.ly/2Ndn4Z1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Ndn4Z1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://airshaper.com/reports/aquilo.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://airshaper.com/reports/aquilo.pdf&lt;/a&gt;
+&lt;a href=&#34;https://www.develop3d.com/blog/2018/06/airshaper-launches-pay-per-simulation-virtual-wind-tunnel-cfd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.develop3d.com/blog/2018/06/airshaper-launches-pay-per-simulation-virtual-wind-tunnel-cfd&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2Ndn4Z1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Ndn4Z1&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Облачные лицензии ANSYS’ Pay-Per-Use для Rescale</title>
-      <link>http://localhost:1313/posts/2018-01-25-oblachnye-litsenzii-ansys-pay-per-use-dlya/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-25-oblachnye-litsenzii-ansys-pay-per-use-dlya/</link>
       <pubDate>Thu, 25 Jan 2018 17:01:29 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-01-25-oblachnye-litsenzii-ansys-pay-per-use-dlya/</guid>
-      <description>&lt;p&gt;На протяжении года ANSYS выкатывает свою систему лицензирования по запросу. Данная схема лицензирования очень хорошо подходит для случая использования облачных вычислительных ресурсов (также по запросу).&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-25-oblachnye-litsenzii-ansys-pay-per-use-dlya/</guid>
+      <description>&lt;p&gt;Облачные лицензии ANSYS’ Pay-Per-Use для Rescale
+На протяжении года ANSYS выкатывает свою систему лицензирования по запросу. Данная схема лицензирования очень хорошо подходит для случая использования облачных вычислительных ресурсов (также по запросу).&lt;/p&gt;
 &lt;p&gt;Итак, в начале этого года ANSYS Elastic Units (AEUs) - так называются облачные лицензии на ANSYS - стали доступны для платформы ScaleX Cloud HPC Platform от Rescale. Rescale, в свою очередь является одним из лидеров облачных HPC решений.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://blog.rescale.com/ansys-rescale-offer-on-demand-ansys-software-on-scalex/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blog.rescale.com/ansys-rescale-offer-on-demand-ansys-software-on-scalex/&lt;/a&gt;
 #AEUs #ANSYS #cloud #HPC #Rescale #ScaleX
+&lt;a href=&#34;https://magicdpd.ru/?p=6080&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6080&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.rescale.com/ansys-rescale-offer-on-demand-ansys-software-on-scalex/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blog.rescale.com/ansys-rescale-offer-on-demand-ansys-software-on-scalex/&lt;/a&gt;
 &lt;a href=&#34;https://magicdpd.ru/?p=6080&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6080&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>На #SC17 #Rescale показал как выглядит работает их #HPC обла</title>
-      <link>http://localhost:1313/posts/2017-12-16-na-sc17-rescale-pokazal-kak-vyglyadit-r/</link>
-      <pubDate>Sat, 16 Dec 2017 17:18:08 +0000</pubDate>
+      <title>NVIDIA DOCKER</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-09-nvidia-docker/</link>
+      <pubDate>Tue, 09 Jan 2018 17:00:47 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-12-16-na-sc17-rescale-pokazal-kak-vyglyadit-r/</guid>
-      <description>&lt;p&gt;В целом - это просто большой и правильно настроенный вычислительный кластер. Нет ничего фантастического - есть много вдумчивой и аккуратно выполненной работы. Пожалуй все из показанного можно повторить в ЦОД вашего предприятия за две недели работы на готовом железе.&lt;/p&gt;
-&lt;p&gt;#cloud
-&lt;a href=&#34;https://www.youtube.com/watch?v=b7J&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=b7J&lt;/a&gt;…Media📼 Rescale Demos Easy HPC Cloud Management at SC17&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://ift.tt/2yJQS87&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yJQS87&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-09-nvidia-docker/</guid>
+      <description>&lt;p&gt;NVIDIA DOCKER
+NVIDIA на конференции SC17 рассказала про свое новое видение того, как надо делать удаленную визуализацию на суперкомпьютерах. И тут разговор идет не просто о DCV или VirtualGL - тут рассматривается полностью новая концепция систем для визуализации действительно больших данных.&lt;/p&gt;
+&lt;p&gt;Для этих целей NVIDIA планирует использовать пары Docker контейнеров, подготовленных для нужного вам приложения (сейчас уже есть для Praview). Серверный конетйнер будет работать напрямую с EGL API (&lt;a href=&#34;https://en.wikipedia.org/wiki/EGL_%28API%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://en.wikipedia.org/wiki/EGL_(API)&lt;/a&gt; и никаких тебе иксов), а клиентская часть - с GLX (&lt;a href=&#34;https://en.wikipedia.org/wiki/GLX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://en.wikipedia.org/wiki/GLX&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=z7nNmyKvMu4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=z7nNmyKvMu4&lt;/a&gt;
+#cloud #Docker #EGL #GLX #HPC #NVIDIA #Praview #remoteviz
+&lt;a href=&#34;https://magicdpd.ru/?p=5861&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5861&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/EGL_%28API%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://en.wikipedia.org/wiki/EGL_(API)&lt;/a&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/GLX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://en.wikipedia.org/wiki/GLX&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=z7nNmyKvMu4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=z7nNmyKvMu4&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=5861&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5861&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Молния! Вчера #ANSYS купил одного из лидеров рынка моделиров</title>
-      <link>http://localhost:1313/posts/2017-11-16-molniya-vchera-ansys-kupil-odnogo-iz-lid/</link>
+      <title>На #SC17 #Rescale показал как выглядит работает их #HPC облако со стороны пользователей-инженеров.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-16-na-sc17-rescale-pokazal-kak-vyglyadit-r/</link>
+      <pubDate>Sat, 16 Dec 2017 17:18:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-16-na-sc17-rescale-pokazal-kak-vyglyadit-r/</guid>
+      <description>&lt;p&gt;В показе принимали участие #ANSYS #Fluent, #StarCCM+ и #LSTC #LSPP для #LSDYNA.&lt;/p&gt;
+&lt;p&gt;В целом - это просто большой и правильно настроенный вычислительный кластер. Нет ничего фантастического - есть много вдумчивой и аккуратно выполненной работы. Пожалуй все из показанного можно повторить в ЦОД вашего предприятия за две недели работы на готовом железе.&lt;/p&gt;
+&lt;p&gt;#cloud
+&lt;a href=&#34;https://www.youtube.com/watch?v=b7J&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=b7J&lt;/a&gt;…Media📼 Rescale Demos Easy HPC Cloud Management at SC17&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2yJQS87&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yJQS87&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2zX5PoD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zX5PoD&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2yJezxq&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yJezxq&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2emhAvW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2emhAvW&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wmHv13&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wmHv13&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2yIXZgT&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yIXZgT&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xRPO1U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xRPO1U&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2i0hIGl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i0hIGl&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vlBJYZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlBJYZ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2y2hFPP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2y2hFPP&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=b7JjCWsFCgM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=b7JjCWsFCgM&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2AXzcMc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2AXzcMc&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2yJQS87&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yJQS87&lt;/a&gt;
+ttp://ift.tt/2yJQS87&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Молния!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-16-molniya-vchera-ansys-kupil-odnogo-iz-lid/</link>
       <pubDate>Thu, 16 Nov 2017 09:11:11 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-16-molniya-vchera-ansys-kupil-odnogo-iz-lid/</guid>
-      <description>&lt;p&gt;Основной решатель #3DSIM называется #exaSIM, и он занимается моделированием процесса послойной 3D печати.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-16-molniya-vchera-ansys-kupil-odnogo-iz-lid/</guid>
+      <description>&lt;p&gt;Вчера #ANSYS купил одного из лидеров рынка моделирования процессов аддитивного производства, компанию 3DSIM.&lt;/p&gt;
+&lt;p&gt;Основной решатель #3DSIM называется #exaSIM, и он занимается моделированием процесса послойной 3D печати.&lt;/p&gt;
 &lt;p&gt;Очень интересный момент, касающийся exaSIM, это то, что решатель нельзя скачать и установить. Система работает только в облаке, а качестве хостинга используется #AWS, а в особых случаях, его особо защищенная часть #GovCloud. Более подробный обзор ПО можно почитать тут: &lt;a href=&#34;http://ift.tt/2zO2Q2O&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zO2Q2O&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#cloud #additivemanufacturing&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0q1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=0q1&lt;/a&gt;…&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://learn.3dsim.com/ansys-acquires-additive-manufacturing-simulation-leader-3dsim/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://learn.3dsim.com/ansys-acquires-additive-manufacturing-simulation-leader-3dsim/&lt;/a&gt; 🔗 Ansys Acquires Additive Manufacturing Simulation Leader 3DSIM - 3DSIM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2j0eGPj&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2j0eGPj&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=0q1ZPZNnqzs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=0q1ZPZNnqzs&lt;/a&gt;
+&lt;a href=&#34;http://learn.3dsim.com/ansys-acquires-additive-manufacturing-simulation-leader-3dsim/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://learn.3dsim.com/ansys-acquires-additive-manufacturing-simulation-leader-3dsim/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Обзор облачного решения от #Altair - #solidThinking #Inspire</title>
-      <link>http://localhost:1313/posts/2017-10-05-obzor-oblachnogo-resheniya-ot-altair-so/</link>
+      <title>Обзор облачного решения от #Altair - #solidThinking #Inspire Unlimited, которое сейчас находится в статусе beta и доступно всем желающим бесплатно.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-05-obzor-oblachnogo-resheniya-ot-altair-so/</link>
       <pubDate>Thu, 05 Oct 2017 17:02:44 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-10-05-obzor-oblachnogo-resheniya-ot-altair-so/</guid>
-      <description>&lt;p&gt;#topology #optimization #cloud&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-05-obzor-oblachnogo-resheniya-ot-altair-so/</guid>
+      <description>&lt;p&gt;Всем кто хочет попробовать их топологическую оптимизацию стоит поторопиться.&lt;/p&gt;
+&lt;p&gt;#topology #optimization #cloud&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.develop3d.com/reviews/review-solidthinking-inspire-unlimited-beta-topology-optimisation-design&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.develop3d.com/reviews/review-solidthinking-inspire-unlimited-beta-topology-optimisation-design&lt;/a&gt; 🔗 DEVELOP3D - Review: solidThinking Inspire Unlimited - beta&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2voTLJC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2voTLJC&lt;/a&gt;
+&lt;a href=&#34;http://www.develop3d.com/reviews/review-solidthinking-inspire-unlimited-beta-topology-optimisation-design&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.develop3d.com/reviews/review-solidthinking-inspire-unlimited-beta-topology-optimisation-design&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>#Siemens #NX есть в магазине приложений #Amazon для #AWS (#A</title>
-      <link>http://localhost:1313/posts/2017-09-14-siemens-nx-est-v-magazine-prilozheniy/</link>
+      <title>#Siemens #NX есть в магазине приложений #Amazon для #AWS (#AppStream 2.0), и чувствует там себя очень жале неплохо.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-14-siemens-nx-est-v-magazine-prilozheniy/</link>
       <pubDate>Thu, 14 Sep 2017 17:08:24 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-09-14-siemens-nx-est-v-magazine-prilozheniy/</guid>
-      <description>&lt;p&gt;#CAD #Cloud
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-14-siemens-nx-est-v-magazine-prilozheniy/</guid>
+      <description>&lt;p&gt;Демонстрантке прилагается&lt;/p&gt;
+&lt;p&gt;#CAD #Cloud
 &lt;a href=&#34;https://www.youtube.com/watch?v=lOW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=lOW&lt;/a&gt;…Media📼 NX on the Cloud with Amazon AppStream 2.0&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ift.tt/2flsEdy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2flsEdy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2xnumov&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xnumov&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2flA5Bj&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2flA5Bj&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xnx8dd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xnx8dd&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2fkLPUC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2fkLPUC&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xnEVb3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xnEVb3&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2flZStj&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2flZStj&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=lOWPcFjwkCE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=lOWPcFjwkCE&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xncGcK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xncGcK&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2flsEdy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2flsEdy&lt;/a&gt;
+ttp://ift.tt/2flsEdy&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FastEngineeringAnalysis</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-04-fastengineeringanalysis/</link>
+      <pubDate>Fri, 04 Aug 2017 17:00:38 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-04-fastengineeringanalysis/</guid>
+      <description>&lt;p&gt;FastEngineeringAnalysis
+&lt;a href=&#34;https://www.fastengineeringanalysis.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.fastengineeringanalysis.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#FastEngineeringAnalysis - еще одна система для решения задач механики в браузере. Кроме традиционного #FEM с поддержкой нелинейных задач у коллег есть собственное ПО для 3D сканирования и работы с геометрией.&lt;/p&gt;
+&lt;p&gt;FastEngineeringAnalysis работает на мощностях #Microsoft #Azure. Тарификация начинается с 4-х часов использования. Обещают скорую интеграцию с #Onshape.&lt;/p&gt;
+&lt;p&gt;#cloud&lt;/p&gt;
+&lt;p&gt;P.S. Судя по демонстрационным видео на канале (&lt;a href=&#34;https://www.youtube.com/channel/UCgCxkb0Jmnt-PUdDRFZbOYA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/channel/UCgCxkb0Jmnt-PUdDRFZbOYA&lt;/a&gt;) это далеко не production ready платформа.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.fastengineeringanalysis.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.fastengineeringanalysis.com/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/channel/UCgCxkb0Jmnt-PUdDRFZbOYA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/channel/UCgCxkb0Jmnt-PUdDRFZbOYA&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Топологическая оптимизация в облаке для Onshape</title>
-      <link>http://localhost:1313/posts/2017-07-17-topologicheskaya-optimizatsiya-v-oblake-dlya/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-17-topologicheskaya-optimizatsiya-v-oblake-dlya/</link>
       <pubDate>Mon, 17 Jul 2017 09:00:51 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-07-17-topologicheskaya-optimizatsiya-v-oblake-dlya/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.onshape.com/cad-blog/partner-spotlight-generate-brings-advanced-design-topology-optimization-to-cad&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.onshape.com/cad-blog/partner-spotlight-generate-brings-advanced-design-topology-optimization-to-cad&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-17-topologicheskaya-optimizatsiya-v-oblake-dlya/</guid>
+      <description>&lt;p&gt;Топологическая оптимизация в облаке для Onshape
+&lt;a href=&#34;https://www.onshape.com/cad-blog/partner-spotlight-generate-brings-advanced-design-topology-optimization-to-cad&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.onshape.com/cad-blog/partner-spotlight-generate-brings-advanced-design-topology-optimization-to-cad&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Компания #Onshape в своем блоге рассказывает о стартапе #Generate, который занимается топологической оптимизацией в браузере/облаке. Картинки у Generate получаются ну очень красивые. А главное, это то, что вам не нужно занимать ваш компьютер ресурсоемкими задачами.&lt;/p&gt;
 &lt;p&gt;До 31 июля ползование Generate бесплатно. У нас есть две недели - время пошло!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.onshape.com/cad-blog/partner-spotlight-generate-brings-advanced-design-topology-optimization-to-cad&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;PARTNER SPOTLIGHT: Generate Brings Advanced Design &amp;amp; Topology Optimization to CAD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dassault Systèmes движется в свое облако</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-16-dassault-syst%C3%A8mes-dvizhetsya-v-svoe-oblako/</link>
+      <pubDate>Sun, 16 Jul 2017 17:01:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-16-dassault-syst%C3%A8mes-dvizhetsya-v-svoe-oblako/</guid>
+      <description>&lt;p&gt;Dassault Systèmes движется в свое облако
+&lt;a href=&#34;http://www.develop3d.com/blog/dassault-systemes-cloud-tools-3dexperience-Outscale-acquisition&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.develop3d.com/blog/dassault-systemes-cloud-tools-3dexperience-Outscale-acquisition&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Компания #Dassault Systèmes анонсировала покупку французского игрока на рынке облачного #HPC - компанию #Outscale. Видать будут строить свое инженерное облако в рамках их среды #3DExperience&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.develop3d.com/blog/dassault-systemes-cloud-tools-3dexperience-Outscale-acquisition&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DEVELOP3D blog - Dassault Systèmes liked the company running its Cloud tools so much that it bought it&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Канадское CFD облако</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-09-kanadskoe-cfd-oblako/</link>
+      <pubDate>Thu, 09 Mar 2017 17:02:49 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-09-kanadskoe-cfd-oblako/</guid>
+      <description>&lt;p&gt;Канадское CFD облако
+&lt;a href=&#34;http://blog.envenio.ca/freesolvertrial&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://blog.envenio.ca/freesolvertrial&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Envenio предлагает бесплатно попробовать свой собственный #CFD решатель #EXN/Aero в облаке. Решатель, как говорят, оптимизирован для работы на гибридных CPU/GPU кластерах, решает DES/LES со скоростью RANS и не боится задач на 100М+ ячеек. Наши люди уже его проверяют.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.envenio.ca/freesolvertrial&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;EXN/Aero Cloud HPC CFD Solver&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Что бы не было сквозняка</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-08-chto-by-ne-bylo-skvoznyaka/</link>
+      <pubDate>Wed, 08 Mar 2017 17:02:42 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-08-chto-by-ne-bylo-skvoznyaka/</guid>
+      <description>&lt;p&gt;Что бы не было сквозняка
+&lt;a href=&#34;https://www.simscale.com/projects/Ali_Arafat/hvac_webinar_-_session_3/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.simscale.com/projects/Ali_Arafat/hvac_webinar_-_session_3/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#SimScale подготовил пример по расчету теплового режима жилой комнаты. Зимой такое конечно актуальнее, но и весной пригодится. #CFD #Cloud&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.simscale.com/projects/Ali_Arafat/hvac_webinar_-_session_3/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&amp;lsquo;AC-Ventilation Webinar Session3-Heating of a room&amp;rsquo; project by Ali_Arafat on SimScale - LEARNING_TEACHING&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Работа с листовым металлом в Onshape</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-22-rabota-s-listovym-metallom-v-onshape/</link>
+      <pubDate>Wed, 22 Feb 2017 17:01:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-22-rabota-s-listovym-metallom-v-onshape/</guid>
+      <description>&lt;p&gt;Работа с листовым металлом в Onshape
+&lt;a href=&#34;https://www.onshape.com/cad-blog/unfolding-onshape-sheet-metal&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.onshape.com/cad-blog/unfolding-onshape-sheet-metal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Мой давний любимиц, облачный #CAD сервис #Onshape анонсировал скорый релиз модуля для работы с листовым металлом. Подробности по работе модуля &amp;ldquo;sheet metal model&amp;rdquo; по ссылке в конце поста или на видео: &lt;a href=&#34;https://www.onshape.com/onshape-sheet-metal-preview&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.onshape.com/onshape-sheet-metal-preview&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.onshape.com/cad-blog/unfolding-onshape-sheet-metal&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Unfolding Onshape Sheet Metal&lt;/a&gt;
+&lt;a href=&#34;https://www.onshape.com/onshape-sheet-metal-preview&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.onshape.com/onshape-sheet-metal-preview&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CAEplex - opensource in cloud</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-01-19-caeplex-opensource-in-cloud/</link>
+      <pubDate>Thu, 19 Jan 2017 17:02:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-01-19-caeplex-opensource-in-cloud/</guid>
+      <description>&lt;p&gt;CAEplex - opensource in cloud
+&lt;a href=&#34;http://www.3dcadworld.com/seamplex-releases-caeplex-web-front-end-for-open-source-engineering-modeling-codes-on-the-cloud/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.3dcadworld.com/seamplex-releases-caeplex-web-front-end-for-open-source-engineering-modeling-codes-on-the-cloud/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Сервис #CAEplex от компании #Seamplex подхватывает инициативу #SimScale по построению #cloud на основе #opensource и красивого web интерфейса. Базируется сервис на неком #Fino (FINite element method, &lt;a href=&#34;https://bitbucket.org/wasora/fino%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://bitbucket.org/wasora/fino)&lt;/a&gt;. Получается совсем не так зубасто как у SimScale.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.3dcadworld.com/seamplex-releases-caeplex-web-front-end-for-open-source-engineering-modeling-codes-on-the-cloud/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;3D CAD software&lt;/a&gt;
+&lt;a href=&#34;https://bitbucket.org/wasora/fino&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://bitbucket.org/wasora/fino&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-DYNAcloud</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-28-ls-dynacloud/</link>
+      <pubDate>Wed, 28 Dec 2016 17:02:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-28-ls-dynacloud/</guid>
+      <description>&lt;p&gt;LS-DYNAcloud
+&lt;a href=&#34;http://www.ls-dynacloud.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ls-dynacloud.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Знали ли вы, что у #LSTC есть собственное облако, для выполнения расчетов в #LSDYNA? Аппаратная часть облака размазана по 3-м крупным #cloud игрокам: CPU24/7, #Gompute и #Rescale, а поддержкой занимается сам #LSTC и #DYNAmore. Только введите ваш номер кредитки :-) #HPC&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ls-dynacloud.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ls-dynacloud.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>С днем рождения, Onshape</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-14-s-dnem-rozhdeniya-onshape/</link>
+      <pubDate>Wed, 14 Dec 2016 17:00:10 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-14-s-dnem-rozhdeniya-onshape/</guid>
+      <description>&lt;p&gt;С днем рождения, Onshape
+&lt;a href=&#34;https://www.onshape.com/cad-blog/happy-first-birthday-onshape&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.onshape.com/cad-blog/happy-first-birthday-onshape&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Сегодня, ровно год назад, состоялся первый коммерческий релиз облачного #CAD #Onshape. Сейчас уже кажется, что он был с нами всегда, а ему всего-то годик. Отличный пост с вкусной статистикой по первому году прилагается.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.onshape.com/cad-blog/happy-first-birthday-onshape&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Happy First Birthday, Onshape!&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PDM в облаке</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-11-pdm-v-oblake/</link>
+      <pubDate>Sun, 11 Dec 2016 12:02:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-11-pdm-v-oblake/</guid>
+      <description>&lt;p&gt;PDM в облаке
+&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13863/Autodesk-Launches-PDM-in-the-Cloud-to-Bolster-PLM-Solution-Finally.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13863/Autodesk-Launches-PDM-in-the-Cloud-to-Bolster-PLM-Solution-Finally.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Большая статья с аналитикой по поводу того, что #Autodesk запустила #PDM систему в облаке - #Fusion Lifecyle. Единственное, что немного меня настораживает, так это отсутсвие упоминания #CAE - все разговоры только про #CAD.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13863/Autodesk-Launches-PDM-in-the-Cloud-to-Bolster-PLM-Solution-Finally.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Autodesk Launches PDM-in-the-Cloud to Bolster PLM Solution – Finally &amp;gt; ENGINEERING.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Слошинг</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-24-sloshing/</link>
+      <pubDate>Thu, 24 Nov 2016 17:03:06 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-24-sloshing/</guid>
+      <description>&lt;p&gt;Слошинг
+&lt;a href=&#34;https://www.simscale.com/projects/Ali_Arafat/sloshing_of_fluid_in_a_moving_fuel-tank/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.simscale.com/projects/Ali_Arafat/sloshing_of_fluid_in_a_moving_fuel-tank/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Прото небольшой готовый пример по расчету слошинга в #SimScale - изучаем и наслаждаемся.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.simscale.com/projects/Ali_Arafat/sloshing_of_fluid_in_a_moving_fuel-tank/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.simscale.com/projects/Ali_Arafat/sloshing_of_fluid_in_a_moving_fuel-tank/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.simscale.com/projects/Ali_Arafat/sloshing_of_fluid_in_a_moving_fuel-tank/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&amp;lsquo;CFD Simulation  of Fuel Tank Sloshing &amp;rsquo; project by Ali_Arafat on SimScale&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wolfram On-Demand</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-20-wolfram-on-demand/</link>
+      <pubDate>Sun, 20 Nov 2016 17:02:09 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-20-wolfram-on-demand/</guid>
+      <description>&lt;p&gt;Wolfram On-Demand
+&lt;a href=&#34;https://blog.rescale.com/mathematica-on-the-cloud/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blog.rescale.com/mathematica-on-the-cloud/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Wolfram анонсировал запуск облачных лицензий на #Mathematica в облаке #Rescale. Теперь для сложных аналитических расчетов моно использовать этот #HPC #Cloud&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.rescale.com/mathematica-on-the-cloud/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blog.rescale.com/mathematica-on-the-cloud/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Планирование 3D печати</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-24-planirovanie-3d-pechati/</link>
+      <pubDate>Mon, 24 Oct 2016 17:01:15 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-24-planirovanie-3d-pechati/</guid>
+      <description>&lt;p&gt;Планирование 3D печати
+&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13250/Cloud-Based-Simulation-Tool-for-Additive-Manufacturing.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13250/Cloud-Based-Simulation-Tool-for-Additive-Manufacturing.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#3DSIM запустили в облаке свое решение, позволяющая моделировать процесс аддитивного изготовления деталей (#AM, Additive Manufacturing) под названием #exaSIM (&lt;a href=&#34;http://3dsim.com/product/exasim/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://3dsim.com/product/exasim/)&lt;/a&gt;. Софт предназначен для учета возможной дисторисии конструкций при ее печати. #Cloud&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13250/Cloud-Based-Simulation-Tool-for-Additive-Manufacturing.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Cloud-Based Simulation Tool for Additive Manufacturing&lt;/a&gt;
+&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13250/Cloud-Based-Simulation-Tool-for-Additive-Manufacturing.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13250/Cloud-Based-Simulation-Tool-for-Additive-Manufacturing.aspx&lt;/a&gt;
+&lt;a href=&#34;http://3dsim.com/product/exasim/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://3dsim.com/product/exasim/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Несколько слов про доставку инженерной графики</title>
-      <link>http://localhost:1313/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</link>
       <pubDate>Thu, 29 Sep 2016 17:00:58 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</guid>
+      <description>&lt;p&gt;Несколько слов про доставку инженерной графики
+&lt;a href=&#34;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#Microsoft продолжает хвастаться новыми возможностями по работе с #GPU, которые она реализует в #Windows #Server 2016. Нас ожидает поддержка нужного #OpenGL 4.4+ как в сценариях с #RDSH, так и при построении #VDI. При этом, в качестве средства доставки будет выступать привычный и понятный #RDP, а видеопоток будет полностью аппаратно кодироваться и декодироваться на GPU сервера и клиента. Аналогичные возможности ожидаются в #Azure #Cloud.&lt;/p&gt;
 &lt;p&gt;Неужели скоро все инженеры получат достойные системы доставки инженерной графики практически за так?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;New MS Mechanics video with the latest updates to RDS for Windows Server 2016&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PBS Cloud Manager</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-18-pbs-cloud-manager/</link>
+      <pubDate>Sun, 18 Sep 2016 17:01:02 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-18-pbs-cloud-manager/</guid>
+      <description>&lt;p&gt;PBS Cloud Manager
+&lt;a href=&#34;http://web2.altairhyperworks.com/pbs-cloud-manager-webinar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://web2.altairhyperworks.com/pbs-cloud-manager-webinar&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Компания #Altair приглашает всех на вебиран по их новому продукту. #PBS #Cloud Manager предназначен для быстрого и эффективного развертывания #HPC систем на базе публичных облаков. Тема очень интересная, и возможно мы увидим становление еще одного игрока на рынке облачного HPC.&lt;/p&gt;
+&lt;p&gt;Вебинар состоится 21 сентября&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://web2.altairhyperworks.com/pbs-cloud-manager-webinar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://web2.altairhyperworks.com/pbs-cloud-manager-webinar&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SimScale получил интеграцию с Autodesk Fusion 360</title>
-      <link>http://localhost:1313/posts/2016-09-03-simscale-poluchil-integratsiyu-s-autodesk-f/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-03-simscale-poluchil-integratsiyu-s-autodesk-f/</link>
       <pubDate>Sat, 03 Sep 2016 06:30:10 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-09-03-simscale-poluchil-integratsiyu-s-autodesk-f/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://insidehpc.com/2016/08/simscale-announces-integration-for-autodesk-fusion-360/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://insidehpc.com/2016/08/simscale-announces-integration-for-autodesk-fusion-360/&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-03-simscale-poluchil-integratsiyu-s-autodesk-f/</guid>
+      <description>&lt;p&gt;SimScale получил интеграцию с Autodesk Fusion 360
+&lt;a href=&#34;http://insidehpc.com/2016/08/simscale-announces-integration-for-autodesk-fusion-360/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://insidehpc.com/2016/08/simscale-announces-integration-for-autodesk-fusion-360/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Облачный #CAE подружился с одним из лидеров #CAD отрасли.&lt;/p&gt;
 &lt;p&gt;Вообще #SimScale очень активно ведет себя на рынке: до #Autodesk была дружба с #SolidWorks - теперь надо подружиться с CATIA.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://insidehpc.com/2016/08/simscale-announces-integration-for-autodesk-fusion-360/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SimScale Integrates with Autodesk Fusion 360&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PyFR для решения прикладных задач CFD</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-30-pyfr-dlya-resheniya-prikladnyh-zadach-cfd/</link>
+      <pubDate>Tue, 30 Aug 2016 06:30:30 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-30-pyfr-dlya-resheniya-prikladnyh-zadach-cfd/</guid>
+      <description>&lt;p&gt;PyFR для решения прикладных задач CFD
+&lt;a href=&#34;http://phys.org/news/2016-08-industry.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://phys.org/news/2016-08-industry.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Я уже как-то писал про #PyFR: #Python-фреймворк с открытым исходным кодом, предназначенный для решения #CFD задачи. Так мне на глаза попался один из недавних примеров его использования, причем сразу на суперкомпьютерах.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://phys.org/news/2016-08-industry.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Streamlining accelerated computing for industry&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Запущена тестовая эксплуатация GPU в Azure</title>
-      <link>http://localhost:1313/posts/2016-08-18-zapuschena-testovaya-ekspluatatsiya-gpu-v-azu/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-18-zapuschena-testovaya-ekspluatatsiya-gpu-v-azu/</link>
       <pubDate>Thu, 18 Aug 2016 06:30:46 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-08-18-zapuschena-testovaya-ekspluatatsiya-gpu-v-azu/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-18-zapuschena-testovaya-ekspluatatsiya-gpu-v-azu/</guid>
+      <description>&lt;p&gt;Запущена тестовая эксплуатация GPU в Azure
+&lt;a href=&#34;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Тестовая демонстрация работы #GPU #NVIDIA инстансов в облаке #Azure началась в зоне South Central US. При этом, как говорят сами MS, они используют технологию прямого проброса устройстви (Discrete Device Assignment, #DDA), заложенную в ожидаемый #Windows #Server 2016 Hyper-V.&lt;/p&gt;
 &lt;p&gt;Итак, в облаке Azure теперь есть все для построения виртуального #HPC кластера!&lt;/p&gt;
 &lt;p&gt;#cloud #tesla #k80 #m60 #hyperv #teradici&lt;/p&gt;
 &lt;p&gt;Небольшое интевью по поводу события от #Channel9
 &lt;a href=&#34;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Leveraging NVIDIA GPUs in Azure (Channel 9)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Расчеты композитов в облаке</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-14-raschety-kompozitov-v-oblake/</link>
+      <pubDate>Sun, 14 Aug 2016 12:02:55 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-14-raschety-kompozitov-v-oblake/</guid>
+      <description>&lt;p&gt;Расчеты композитов в облаке
+&lt;a href=&#34;http://www.deskeng.com/de/design-composites-in-the-cloud/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.deskeng.com/de/design-composites-in-the-cloud/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Компания CompoSIDE Ltd. производит вполне себе взрослы обношенный продукт #CompoSIDE v2.8.2 - облачный сервис, который позволяет проектировать изделия из композиционных материалов и, при этом, работает прямо в браузере. Естественно, ваш браузер ничего считать не станет - просто само ПО работает в облаке и имеет Web UI.&lt;/p&gt;
+&lt;p&gt;#composite #cloud&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.deskeng.com/de/design-composites-in-the-cloud/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.deskeng.com/de/design-composites-in-the-cloud/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.deskeng.com/de/design-composites-in-the-cloud/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Design Composites in the Cloud&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Новый Bright Cluster Manager уже доступен для закачки</title>
-      <link>http://localhost:1313/posts/2016-08-11-novyy-bright-cluster-manager-uzhe-dostupe/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-11-novyy-bright-cluster-manager-uzhe-dostupe/</link>
       <pubDate>Thu, 11 Aug 2016 06:30:55 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-08-11-novyy-bright-cluster-manager-uzhe-dostupe/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.brightcomputing.com/blog/the-new-release-of-bright-cluster-manager-is-now-shipping&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.brightcomputing.com/blog/the-new-release-of-bright-cluster-manager-is-now-shipping&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-11-novyy-bright-cluster-manager-uzhe-dostupe/</guid>
+      <description>&lt;p&gt;Новый Bright Cluster Manager уже доступен для закачки
+&lt;a href=&#34;http://www.brightcomputing.com/blog/the-new-release-of-bright-cluster-manager-is-now-shipping&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.brightcomputing.com/blog/the-new-release-of-bright-cluster-manager-is-now-shipping&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Лидер рынка независимых (от вендоров железа) систем управления #HPC кластерами Bright Cluster Manager (#BCM) от голландской компании Bright Comuting обновился до версии 7.3.&lt;/p&gt;
 &lt;p&gt;В новой версии расширена поддержка Amazon Web Services (#AWS) для автоматического разворачивания кластера в облаке, улучшена поддержка технологий контейнеризации #Docker. Еще есть куча всяких улучшений для коллеги, занимающихся #BigData.&lt;/p&gt;
 &lt;p&gt;Всем обязательно советую сходить по ссылке и посмотреть небольшой демонстрационный видео ролик о том, как должен выглядеть правильный кластер-менеджер.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.brightcomputing.com/blog/the-new-release-of-bright-cluster-manager-is-now-shipping&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;The new release of Bright Cluster Manager is now shipping!&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Молния: открыта очередь на тестирование GPU NVIDIA в облаке </title>
-      <link>http://localhost:1313/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</link>
+      <title>Solid Professor научит CAD</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-10-solid-professor-nauchit-cad/</link>
+      <pubDate>Wed, 10 Aug 2016 06:30:10 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-10-solid-professor-nauchit-cad/</guid>
+      <description>&lt;p&gt;Solid Professor научит CAD
+&lt;a href=&#34;http://www.solidprofessor.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.solidprofessor.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Аменриканский портал #SolidProfessor занимается удаленным обучение пользователей. При этом все сконфигурировано таким образом, что будущим студентам даже ставить ничего не надо - все через браузер, все удаленно. Сейчас есть курсы по #CAD и #CAM: #SOLIDWORKS, #Onshape, #SketchUp, #CAMWorks, #Mastercam, #3ds Max, #AutoCAD, #Civil3D, #Fusion360, #Inventor, #Navisworks, #Revit&lt;/p&gt;
+&lt;p&gt;Очень хочется, что бы туда добавилось еще и #CAE.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://solidprofessor.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Home&lt;/a&gt;
+&lt;a href=&#34;http://www.solidprofessor.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.solidprofessor.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Молния: открыта очередь на тестирование GPU NVIDIA в облаке AZURE</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</link>
       <pubDate>Fri, 05 Aug 2016 12:30:08 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://gpu.azure.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://gpu.azure.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Вчера компания #Microsoft выдала очередной анонс запуска #GPU инстансов в #Azure. Примерно год назад компания уже писала о своих планах в блоке, но видимо разработка идет не так гладко, как хотелось бы. Сейчас, вместе с анонсом компания разместила страницу регистрации на тестирование нового продукта. Лично я уже заказал сете на тест машинку с 2-мя #NVIDIA #Tesla #K80, 224 Гб RAM и 1.5 Тб SSD.&lt;/p&gt;
 &lt;p&gt;Еще Microsoft говори о партнерстве с компанией #Teradici для использования технологии #PCoIP доставляющей удаленные рабочие столы со сложной графикой. Это немного странно для меня. Во-первых Teradici - это решение заклятого конкурента #VMWare. Во-вторых, где обещанный ранее #DDS и новый #RemoteFX с поддержкой #OpenGL 4+ (заявлено для #Windows #Server 2016)? Неужели MS отказывает использовать свои серверные операционные систем и технологии в своем же облаке?&lt;/p&gt;
 &lt;p&gt;#VDI #Cloud #HPC
 &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gpu.azure.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Virtual machine sizes overview - Azure Virtual Machines&lt;/a&gt;
+&lt;a href=&#34;http://gpu.azure.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://gpu.azure.com/&lt;/a&gt;
+&lt;a href=&#34;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Готовая инстукция по запуску #OpenFOAM на мощностях #Amazon </title>
-      <link>http://localhost:1313/posts/2016-07-28-gotovaya-instuktsiya-po-zapusku-openfoam-n/</link>
+      <title>Найдутся все метизы</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-04-naydutsya-vse-metizy/</link>
+      <pubDate>Thu, 04 Aug 2016 06:30:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-04-naydutsya-vse-metizy/</guid>
+      <description>&lt;p&gt;Найдутся все метизы
+&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12741/Go-Explore-Autodesk-Reinvents-Search.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12741/Go-Explore-Autodesk-Reinvents-Search.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Компания #Autodesk рассказал о своем новом продукте Design Graph, который они разрабатывали на протяжении нескольких лет. #DesignGraph позволяет осуществлять поиск #CAD моделей по базе #A360.&lt;/p&gt;
+&lt;p&gt;Если вы думаете, что это еще один поисковик по метаданным, то вы ошибаетесь. Autodesk заявляет, что внутри системы заложено распознавание образов на базе самообучающейся системы (привет machine learning). Таким образом, если вы попросите Design Graph найти все CAD модели стульев, то система действительно попытается найти все модели похожие на стулья.&lt;/p&gt;
+&lt;p&gt;Уж не знаю, насколько это хорошо, но явно интересный шаг вперед и еще одна реализация технологий визуального поиска.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12741/Go-Explore-Autodesk-Reinvents-Search.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Go Explore: Autodesk Reinvents Search &amp;gt; ENGINEERING.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Полноценное #HPC в облаке</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-01-polnotsennoe-hpc-v-oblake/</link>
+      <pubDate>Mon, 01 Aug 2016 07:03:57 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-01-polnotsennoe-hpc-v-oblake/</guid>
+      <description>&lt;p&gt;Полноценное #HPC в облаке
+&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12777/ANSYS-CFD-Sees-Scalability-to-1024-Cores-on-Microsoft-Azure.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12777/ANSYS-CFD-Sees-Scalability-to-1024-Cores-on-Microsoft-Azure.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Инфоповод по сообщению во множестве блогов: #ANSYS #CFD распараллелился почти линейно на 1024 ядра в облаке #Azure. Новость эта несет в себе сразу две морали.&lt;/p&gt;
+&lt;p&gt;Первая мораль: ANSYS начинает рассматривать Azure как дополнение к #AWS - и это очень хорошо. Конкуренция облаков - это всегда хорошо для пользователя.&lt;/p&gt;
+&lt;p&gt;Вторая мораль: если дать CFD коду нормальный интерконнект, то он полетит даже в облаке. Как я уже много раз говорил, у Microsoft в Azure есть полноценный #Infiniband с поддержкой #RDMA. Infiniband = HPC, а значит можно очень хорошо посчитать.&lt;/p&gt;
+&lt;p&gt;А еще я очень жду, когда же у AWS тоже будет интреконнект.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12777/ANSYS-CFD-Sees-Scalability-to-1024-Cores-on-Microsoft-Azure.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS CFD Sees Scalability to 1024 Cores on Microsoft Azure&lt;/a&gt;
+&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12777/ANSYS-CFD-Sees-Scalability-to-1024-Cores-on-Microsoft-Azure.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12777/ANSYS-CFD-Sees-Scalability-to-1024-Cores-on-Microsoft-Azure.aspx&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Готовая инстукция по запуску #OpenFOAM на мощностях #Amazon Web Services (aka #AWS).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-28-gotovaya-instuktsiya-po-zapusku-openfoam-n/</link>
       <pubDate>Thu, 28 Jul 2016 06:30:04 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-07-28-gotovaya-instuktsiya-po-zapusku-openfoam-n/</guid>
-      <description>&lt;p&gt;#HPC #Cloud
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-28-gotovaya-instuktsiya-po-zapusku-openfoam-n/</guid>
+      <description>&lt;p&gt;Делаем все по шагам и получаем #CFD в облаке.&lt;/p&gt;
+&lt;p&gt;#HPC #Cloud
 &lt;a href=&#34;http://lnk.al/1WXy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1WXy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lnk.al/1WXy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CFD Direct From the Cloud: OpenFOAM Computing on AWS&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Обачный #CAD #Onshape начал поддержку #STL с очень правильны</title>
-      <link>http://localhost:1313/posts/2016-07-25-obachnyy-cad-onshape-nachal-podderzhku-s/</link>
+      <title>Обачный #CAD #Onshape начал поддержку #STL с очень правильных шагов.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-25-obachnyy-cad-onshape-nachal-podderzhku-s/</link>
       <pubDate>Mon, 25 Jul 2016 06:30:02 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-07-25-obachnyy-cad-onshape-nachal-podderzhku-s/</guid>
-      <description>&lt;p&gt;#cloud
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-25-obachnyy-cad-onshape-nachal-podderzhku-s/</guid>
+      <description>&lt;p&gt;Они воспользовались технологиями #Polygonica - той самой супер разарботки, на основе которой сделан #STL движок #ANSYS #SpaceClaim. Ну вы уже догадываетесь - ничего круче по работе с STL чем технологии Polygonica сейчас навено и нет на рынке.&lt;/p&gt;
+&lt;p&gt;#cloud
 &lt;a href=&#34;http://lnk.al/1U4L&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1U4L&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lnk.al/1U4L&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Polygonica used by Geometric for Onshape STL Workbench&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Совсем недавно #NIMBIX (один из самых крутых владельцев обла</title>
-      <link>http://localhost:1313/posts/2016-07-24-sovsem-nedavno-nimbix-odin-iz-samyh-kr/</link>
+      <title>Совсем недавно #NIMBIX (один из самых крутых владельцев облачных ресурсво для численного моделирования физических процессов) объявил, что в их облаке со знакомым все фанатам Железного человека названием #JARVICE повился #MATLAB.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-24-sovsem-nedavno-nimbix-odin-iz-samyh-kr/</link>
       <pubDate>Sun, 24 Jul 2016 13:00:03 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-07-24-sovsem-nedavno-nimbix-odin-iz-samyh-kr/</guid>
-      <description>&lt;p&gt;#HPC #Cloud
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-24-sovsem-nedavno-nimbix-odin-iz-samyh-kr/</guid>
+      <description>&lt;p&gt;Теперь по запросу можно использовать его на всей предоставляемой мощи, включая #GPU.
+#HPC #Cloud
 &lt;a href=&#34;http://lnk.al/1U4g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1U4g&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lnk.al/1U4g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MATLAB is now available on demand on JARVICE!&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Билл Ницберг (Bill Nitzberg), CEO подразделения #PBS Works к</title>
-      <link>http://localhost:1313/posts/2016-07-04-bill-nitsberg-bill-nitzberg-ceo-podraz/</link>
+      <title>Билл Ницберг (Bill Nitzberg), CEO подразделения #PBS Works компании #Altair, рассказывает про новости с #ISC 2016.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-04-bill-nitsberg-bill-nitzberg-ceo-podraz/</link>
       <pubDate>Mon, 04 Jul 2016 12:02:21 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-07-04-bill-nitsberg-bill-nitzberg-ceo-podraz/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-04-bill-nitsberg-bill-nitzberg-ceo-podraz/</guid>
       <description>&lt;p&gt;Гвоздь программы - это, естественно, открытие кода #PBS Pro. В первый же день после ананаса уже появились люди вне компании, вносящие изменения в код.&lt;/p&gt;
 &lt;p&gt;Кроме того есть еще пара новостных поводов.&lt;/p&gt;
 &lt;p&gt;PBS #Simulator позволяет на основе истории загрузки вашего кластера оптимизировать его архитектуру (например показывает какие типы узлов стоит закупить)&lt;/p&gt;
 &lt;p&gt;PBS #Cloud #Manager - система позволяющая автоматически рааричивать вычислительные кластеры на базе публичных облаков #Amazon #AWS и #Microsoft #Azure. &lt;a href=&#34;https://www.youtube.com/watch?v=nbrkpNsD4rk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nbrkpNsD4rk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nbrkpNsD4rk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;PBS Pro from Altair Goes Open Source at ISC 2016&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Большой вебинар по работе #XFlow в облаке #Rescale. Рассказы</title>
-      <link>http://localhost:1313/posts/2016-06-19-bolshoy-vebinar-po-rabote-xflow-v-oblak/</link>
+      <title>Большой вебинар по работе #XFlow в облаке #Rescale.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-19-bolshoy-vebinar-po-rabote-xflow-v-oblak/</link>
       <pubDate>Sun, 19 Jun 2016 07:20:11 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-06-19-bolshoy-vebinar-po-rabote-xflow-v-oblak/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-19-bolshoy-vebinar-po-rabote-xflow-v-oblak/</guid>
+      <description>&lt;p&gt;Рассказывают о масштабируемости #CFD кода и показывают полный рабочий процесс при расчете модели в облаке.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ceYK8Oo30pI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Accelerate XFlow Analysis on Rescale&amp;rsquo;s Cloud Simulation Platform&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>#ANSYS делает шикарный подарок для студентов! Если с раньше </title>
-      <link>http://localhost:1313/posts/2016-06-09-ansys-delaet-shikarnyy-podarok-dlya-stude/</link>
+      <title>Это не хентай - это презентация #ANSYS #Enterprise #Cloud на японском!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-09-eto-ne-hentay-eto-prezentatsiya-ansys/</link>
+      <pubDate>Thu, 09 Jun 2016 08:38:51 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-09-eto-ne-hentay-eto-prezentatsiya-ansys/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=yR9Vplo9Ukk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS Enterprise Cloud デモ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#ANSYS делает шикарный подарок для студентов!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-09-ansys-delaet-shikarnyy-podarok-dlya-stude/</link>
       <pubDate>Thu, 09 Jun 2016 07:01:58 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-06-09-ansys-delaet-shikarnyy-podarok-dlya-stude/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-09-ansys-delaet-shikarnyy-podarok-dlya-stude/</guid>
+      <description>&lt;p&gt;Если с раньше с ANSYS Student вам не надо было платить за лицензии, то теперь вам даже не надо покупать компьютер! Так для слушателей курса Корнуэльского университета на платформе #edX доступен бесплатный доступ к ANSYS Student в облаке #Azure по средствам #Frame&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&#34;http://www.ansys-blog.com/ansys-enterprise-cloud-free-student-access/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS Student in a Browser Powered by Frame and Microsoft Azure&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20181013120205/http://www.ansys-blog.com:80/ansys-enterprise-cloud-free-student-access/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>И в догону ко вчерашней новости про #SimForDesign - вебинар </title>
-      <link>http://localhost:1313/posts/2016-05-24-i-v-dogonu-ko-vcherashney-novosti-pro-sim/</link>
+      <title>И в догону ко вчерашней новости про #SimForDesign - вебинар от #OnShape (облачный #CAD) посвященной их совместной работе.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-24-i-v-dogonu-ko-vcherashney-novosti-pro-sim/</link>
       <pubDate>Tue, 24 May 2016 07:00:28 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-05-24-i-v-dogonu-ko-vcherashney-novosti-pro-sim/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-24-i-v-dogonu-ko-vcherashney-novosti-pro-sim/</guid>
       <description>&lt;p&gt;#cloud #FEA #&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=wzxNh6n2l5I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Onshape + SimForDesign&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Еще только на прошлой неделе #NVIDIA #Tesla на процессорах #</title>
-      <link>http://localhost:1313/posts/2016-05-23-esche-tolko-na-proshloy-nedele-nvidia-te/</link>
+      <title>Еще только на прошлой неделе #NVIDIA #Tesla на процессорах #Maxwell приехали в Россию, а за рубежом #IBM стала первым облачным провайдером, у которого уже есть эти #GPGPU. #SoftLayer рулит!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-23-esche-tolko-na-proshloy-nedele-nvidia-te/</link>
       <pubDate>Mon, 23 May 2016 11:00:24 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-05-23-esche-tolko-na-proshloy-nedele-nvidia-te/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-23-esche-tolko-na-proshloy-nedele-nvidia-te/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://insidehpc.com/2016/05/ibm-cloud-first-to-offer-latest-nvidia-grid-with-tesla-m60-gpu-speeding-up-virtual-desktop-applications/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Nvidia M60 GPU to Speed Virtual Desktops on IBM Cloud&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Я как-то умудрился пропустить облачный сервис для #CAE расче</title>
-      <link>http://localhost:1313/posts/2016-05-23-ya-kak-to-umudrilsya-propustit-oblachnyy-s/</link>
+      <title>Я как-то умудрился пропустить облачный сервис для #CAE расчетов от команды #Fidesys.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-23-ya-kak-to-umudrilsya-propustit-oblachnyy-s/</link>
       <pubDate>Mon, 23 May 2016 07:00:27 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-05-23-ya-kak-to-umudrilsya-propustit-oblachnyy-s/</guid>
-      <description>&lt;p&gt;Первый отечественный настоящий #cloud!&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-23-ya-kak-to-umudrilsya-propustit-oblachnyy-s/</guid>
+      <description>&lt;p&gt;Однако теперь вижу, что он есть, и, судя по скриншотам, он даже не страшный. Проект называется #SimForDesign&lt;/p&gt;
+&lt;p&gt;Первый отечественный настоящий #cloud!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sim4design.com/en/index&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Sim Streamlined For Design: structural simulation and analysis in the cloud&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>#OnShape запустили бесплатный тариф для всех студентов. При </title>
-      <link>http://localhost:1313/posts/2016-04-08-onshape-zapustili-besplatnyy-tarif-dlya/</link>
+      <title>#GrabCAD - ресурс собирающий 3D и #CAD модели всего чего угодно анонсировал очень интересный проект GrabCAD Print.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-21-grabcad-resurs-sobirayuschiy-3d-i-cad-m/</link>
+      <pubDate>Sat, 21 May 2016 07:00:54 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-21-grabcad-resurs-sobirayuschiy-3d-i-cad-m/</guid>
+      <description>&lt;p&gt;В рамках проекта предлагается печать любых моделей из каталога сайта по вашему заказу. Этакий аналог #ФабЛаб от питерского политеха, только с привкусом #cloud и более.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.grabcad.com/blog/2016/05/17/announcing-grabcad-print/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Announcing GrabCAD Print - GrabCAD Blog&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сегодня, в 16:00 пройдет вебинар #CONSELF #Cloud Simulation посвященный применению #CFD расчетов к городской застройке.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-12-segodnya-v-1600-proydet-vebinar-consel/</link>
+      <pubDate>Thu, 12 May 2016 11:03:01 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-12-segodnya-v-1600-proydet-vebinar-consel/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=RbLClfionhM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CFD BUILDINGS - Flows in urban contexts - ENG&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#OnShape запустили бесплатный тариф для всех студентов.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-08-onshape-zapustili-besplatnyy-tarif-dlya/</link>
       <pubDate>Fri, 08 Apr 2016 15:01:22 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-04-08-onshape-zapustili-besplatnyy-tarif-dlya/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.onshape.com/cad-blog/introducing-the-onshape-education-plan&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.onshape.com/cad-blog/introducing-the-onshape-education-plan&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-08-onshape-zapustili-besplatnyy-tarif-dlya/</guid>
+      <description>&lt;p&gt;При этом, студентам предоставляется безлистное место в облаке.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.onshape.com/cad-blog/introducing-the-onshape-education-plan&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.onshape.com/cad-blog/introducing-the-onshape-education-plan&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.onshape.com/cad-blog/introducing-the-onshape-education-plan&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Introducing The Onshape Education Plan&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Встречаем Akselos - программное обеспечения для решения зада</title>
-      <link>http://localhost:1313/posts/2016-03-20-vstrechaem-akselos-programmnoe-obespeche/</link>
+      <title>Встречаем Akselos - программное обеспечения для решения задач механики деформируемого твердого тела при помощи метода конечных элементов с приведенным базисом (Reduced Basis Finite Element Method, RB-FEM).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-20-vstrechaem-akselos-programmnoe-obespeche/</link>
       <pubDate>Sun, 20 Mar 2016 07:00:54 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-03-20-vstrechaem-akselos-programmnoe-obespeche/</guid>
-      <description>&lt;p&gt;Еще фишки ПО:&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-20-vstrechaem-akselos-programmnoe-obespeche/</guid>
+      <description>&lt;p&gt;RB-FEM - это основная фишка решателя, эксклюзивно разработанная в #MIT. Она позволяет, по заявлениям разработчиков, сократить время расчета в тысячи раз по сравнению с классическими методом конечных элементов. Кроме того, становится возможным без проблем решать задачи с размерностью более 100 MDOF.&lt;/p&gt;
+&lt;p&gt;Еще фишки ПО:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;работа с неподготовленной геометрией&lt;/li&gt;
 &lt;li&gt;моделирования роста трещин&lt;/li&gt;
@@ -367,250 +934,327 @@
 &lt;li&gt;и т.д.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Некоторые брошюры по RB-FEM во вложении.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.akselos.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Akselos - Simulation Technology&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Блок человека по фону просчитавшего внешнюю аэродинамику зна</title>
-      <link>http://localhost:1313/posts/2016-03-19-blok-cheloveka-po-fonu-proschitavshego-vnesh/</link>
+      <title>Блок человека по фону просчитавшего внешнюю аэродинамику знаменитого Foed Mustang Selby GT350R при помощи #OpenFOAM, а затем и #SimScale. Сетка хороша!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-19-blok-cheloveka-po-fonu-proschitavshego-vnesh/</link>
       <pubDate>Sat, 19 Mar 2016 07:01:24 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-03-19-blok-cheloveka-po-fonu-proschitavshego-vnesh/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-19-blok-cheloveka-po-fonu-proschitavshego-vnesh/</guid>
       <description>&lt;p&gt;Есть ссылка на форк проекта в #SimScale&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://theansweris27.com/shelby-gt350r-mustang-cfd-simulations/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Shelby GT350R Mustang CFD simulations - The Answer is 27&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>#SimScale совместно с #CAESES проводят бесплатную серию ворк</title>
-      <link>http://localhost:1313/posts/2016-03-12-simscale-sovmestno-s-caeses-provodyat-b/</link>
+      <title>#SimScale совместно с #CAESES проводят бесплатную серию воркшопов по моделированию аэродинамики болида Формула-1. Начало 17 марта - торопитесь зарегистрироваться!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-12-simscale-sovmestno-s-caeses-provodyat-b/</link>
       <pubDate>Sat, 12 Mar 2016 12:31:45 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-03-12-simscale-sovmestno-s-caeses-provodyat-b/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-12-simscale-sovmestno-s-caeses-provodyat-b/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.simscale.com/simscale-community/f1-workshop/?utm_source=l&amp;amp;utm_medium=g&amp;amp;utm_campaign=F1_LIn_g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;F1 Workshop - SimScale&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Новость дня: для наших старых друзей, компании #NICE #Softwa</title>
-      <link>http://localhost:1313/posts/2016-02-12-novost-dnya-dlya-nashih-staryh-druzey-ko/</link>
+      <title>#Cloud #CAD #Onshape для #iOS: просто заглядение!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-16-cloud-cad-onshape-dlya-ios-prosto-za/</link>
+      <pubDate>Tue, 16 Feb 2016 18:00:02 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-16-cloud-cad-onshape-dlya-ios-prosto-za/</guid>
+      <description>&lt;p&gt;#Cloud #CAD #Onshape для #iOS: просто заглядение!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.onshape.com/cad-blog/whats-new-mobile-02-02-16&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;What’s New in Onshape Mobile (02/02/16)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новость дня: для наших старых друзей, компании #NICE #Software начинается новая эпоха.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-12-novost-dnya-dlya-nashih-staryh-druzey-ko/</link>
       <pubDate>Fri, 12 Feb 2016 17:36:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-02-12-novost-dnya-dlya-nashih-staryh-druzey-ko/</guid>
-      <description>&lt;p&gt;Это очень хорошая поддержка для небольшой итальянской компании менее чем из 100 человек.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-12-novost-dnya-dlya-nashih-staryh-druzey-ko/</guid>
+      <description>&lt;p&gt;Сегодня их компания была куплена, и не кем-то, а самими #Amazon Web Services (#AWS).&lt;/p&gt;
+&lt;p&gt;Это очень хорошая поддержка для небольшой итальянской компании менее чем из 100 человек.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.nice-software.com/news/-/blogs/nice-to-join-forces-with-amazon-web-services&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;NICE to join forces with Amazon Web Services - News &amp;amp; Events - NICE&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Суровый маркетинг облаков от #Numbix: взять старый iMac с OS</title>
-      <link>http://localhost:1313/posts/2015-12-24-surovyy-marketing-oblakov-ot-numbix-vz/</link>
+      <title>И еще одна новость прошедших каникул: компания #ESI, знаменитая своими нелинейными решателями и специализирующаяся на моделировании технологических процессов обработки материалов запустила свое облако (это ужен не смешно).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-14-i-esche-odna-novost-proshedshih-kanikul-ko/</link>
+      <pubDate>Thu, 14 Jan 2016 06:30:07 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-14-i-esche-odna-novost-proshedshih-kanikul-ko/</guid>
+      <description>&lt;p&gt;ESI #Cloud, как и многоногие другие подобные решения, базируется на мощностях #Amazon #AWS. Кроме своих собственных наработок в решении задач, ESI также предлагает #OpenFOAM в качестве решения для #CFD. Удаленная визуализация и #HPC прилагаются.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.esi-group.com/company/press/news-releases/cae-now-available-demand-esi-cloud&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CAE Now Available On Demand with ESI Cloud&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Суровый маркетинг облаков от #Numbix: взять старый iMac с OS X, вклеит в интерфейс скриншот от клиента TigerVNC запущенного под Windows 8.х который подключен к удаленному серверу с CentOS.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-24-surovyy-marketing-oblakov-ot-numbix-vz/</link>
       <pubDate>Thu, 24 Dec 2015 06:00:21 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-12-24-surovyy-marketing-oblakov-ot-numbix-vz/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-24-surovyy-marketing-oblakov-ot-numbix-vz/</guid>
+      <description>&lt;p&gt;И это все еще и продается наверно. Кривой #HPC маркетинг.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Наконец #SIMSOLID вышел из стадии beta. И вышел он сразу в м</title>
-      <link>http://localhost:1313/posts/2015-12-16-nakonets-simsolid-vyshel-iz-stadii-beta/</link>
+      <title>Наконец #SIMSOLID вышел из стадии beta.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-16-nakonets-simsolid-vyshel-iz-stadii-beta/</link>
       <pubDate>Wed, 16 Dec 2015 18:00:33 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-12-16-nakonets-simsolid-vyshel-iz-stadii-beta/</guid>
-      <description>&lt;p&gt;Напомню, что SIMSOLID позиционирует себя как неявный решатель механики, для которого вам нет необходимости думать о #КЭ сетке. Якобы у них какой-то бессточный алгоритм. Ну посмотрим - посмотрим.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-16-nakonets-simsolid-vyshel-iz-stadii-beta/</guid>
+      <description>&lt;p&gt;И вышел он сразу в магазин при облачном CAD&amp;rsquo;е #Onshape.&lt;/p&gt;
+&lt;p&gt;Напомню, что SIMSOLID позиционирует себя как неявный решатель механики, для которого вам нет необходимости думать о #КЭ сетке. Якобы у них какой-то бессточный алгоритм. Ну посмотрим - посмотрим.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://simsolid.com/2015/12/onshape-app-store/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SIMSOLID is in the Onshape App Store&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Trampo обещает в своем рекламном видео, что #CFD специалисты</title>
-      <link>http://localhost:1313/posts/2015-12-14-trampo-obeschaet-v-svoem-reklamnom-video/</link>
+      <title>У #SimScale и #Onshape теперь есть специальное объединяющее приложение!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-15-u-simscale-i-onshape-teper-est-spetsi/</link>
+      <pubDate>Tue, 15 Dec 2015 18:00:56 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-15-u-simscale-i-onshape-teper-est-spetsi/</guid>
+      <description>&lt;p&gt;#Cloud - объединяйся!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.simscale.com/blog/2015/12/introducing-simscale-connector-app-for-onshape/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Introducing SimScale Connector App for Onshape - SimScale Blog&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trampo обещает в своем рекламном видео, что #CFD специалисты теперь начнут приходить домой вовремя!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-14-trampo-obeschaet-v-svoem-reklamnom-video/</link>
       <pubDate>Mon, 14 Dec 2015 06:01:31 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-12-14-trampo-obeschaet-v-svoem-reklamnom-video/</guid>
-      <description>&lt;p&gt;+1 в облаке 😊&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-14-trampo-obeschaet-v-svoem-reklamnom-video/</guid>
+      <description>&lt;p&gt;А все это потому, что #Trampo дает вам возможность пользоваться решателями CD-adapco в облаке.
++1 в облаке 😊&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://trampocfd.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Welcome to Trampo&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Что бы вы сказали, если бы я предложил вам хороший #FEM или </title>
-      <link>http://localhost:1313/posts/2015-12-11-chto-by-vy-skazali-esli-by-ya-predlozhil-v/</link>
+      <title>Что бы вы сказали, если бы я предложил вам хороший #FEM или #CFD софт бесплатно?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-11-chto-by-vy-skazali-esli-by-ya-predlozhil-v/</link>
       <pubDate>Fri, 11 Dec 2015 14:56:22 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-12-11-chto-by-vy-skazali-esli-by-ya-predlozhil-v/</guid>
-      <description>&lt;p&gt;Компания #Simscale сделал очень сильный ход. Теперь вы можете бесплатно воспользоваться их сервисом инженерных расчетов в облаке. Вам становится доступно 500 Гб дискового пространства и квота на 3000 процессорных часов в год. Вы имеет право на техническую поддержку (даже по телефону!). Единственное ограничение - все ваши проекты должны быть опубликованы на портале компании.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-11-chto-by-vy-skazali-esli-by-ya-predlozhil-v/</guid>
+      <description>&lt;p&gt;А если бы я дал вам к нему в придачу наглядные учебные примеры? И большой-при-большой правильно настроенный и удобный #HPC кластер с системой удаленной визуализации? Наверно, вы бы не отказались.
+Компания #Simscale сделал очень сильный ход. Теперь вы можете бесплатно воспользоваться их сервисом инженерных расчетов в облаке. Вам становится доступно 500 Гб дискового пространства и квота на 3000 процессорных часов в год. Вы имеет право на техническую поддержку (даже по телефону!). Единственное ограничение - все ваши проекты должны быть опубликованы на портале компании.
 А вот за приватный репозиторий для проектов придется заплатить.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/11121/SimScale-Brings-the-Price-of-Computer-Aided-Engineering-Down-to-Zero.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt; SimScale Brings the Price of Computer-Aided Engineering Down to Zero &amp;gt; ENGINEERING.com &lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Всем строителям облаков, и тем, кто в них хочет переехать чи</title>
-      <link>http://localhost:1313/posts/2015-11-14-vsem-stroitelyam-oblakov-i-tem-kto-v-ni/</link>
+      <title>Всем строителям облаков, и тем, кто в них хочет переехать читать обязательно.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-14-vsem-stroitelyam-oblakov-i-tem-kto-v-ni/</link>
       <pubDate>Sat, 14 Nov 2015 18:00:21 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-14-vsem-stroitelyam-oblakov-i-tem-kto-v-ni/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>А теперь более подробно о проекте #Autodesk &#34;Project Leopard</title>
-      <link>http://localhost:1313/posts/2015-11-13-a-teper-bolee-podrobno-o-proekte-autod/</link>
-      <pubDate>Fri, 13 Nov 2015 18:00:05 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/2015-11-13-a-teper-bolee-podrobno-o-proekte-autod/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ничего особенного не случилось, проста #Autodesk тоже хочет </title>
-      <link>http://localhost:1313/posts/2015-11-12-nichego-osobennogo-ne-sluchilos-prosta/</link>
-      <pubDate>Thu, 12 Nov 2015 18:30:29 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/2015-11-12-nichego-osobennogo-ne-sluchilos-prosta/</guid>
-      <description>&lt;p&gt;Итак +1 в браузере!&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-14-vsem-stroitelyam-oblakov-i-tem-kto-v-ni/</guid>
+      <description>&lt;p&gt;Большой ликбез по виртуализации для #CAD и #CAE.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.develop3d.com/workstations/beginners-guide-to-workstation-virtualisation-CAD-3D-CAM-CAE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DEVELOP3D - A beginner’s guide to workstation virtualisation&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>#OnShape теперь отдельно публикует обновления своего мобильн</title>
-      <link>http://localhost:1313/posts/2015-11-11-onshape-teper-otdelno-publikuet-obnov/</link>
+      <title>А теперь более подробно о проекте #Autodesk &#34;Project Leopard&#34;.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-13-a-teper-bolee-podrobno-o-proekte-autod/</link>
+      <pubDate>Fri, 13 Nov 2015 18:00:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-13-a-teper-bolee-podrobno-o-proekte-autod/</guid>
+      <description>&lt;p&gt;Очень интересно написано про сравнение аудитории с OnShape.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://inthefold.autodesk.com/in_the_fold/2015/03/setting-the-record-straight.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Setting the Record Straight&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ничего особенного не случилось, проста #Autodesk тоже хочет в облако.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-12-nichego-osobennogo-ne-sluchilos-prosta/</link>
+      <pubDate>Thu, 12 Nov 2015 18:30:29 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-12-nichego-osobennogo-ne-sluchilos-prosta/</guid>
+      <description>&lt;p&gt;Видимо, идея #OnShape не так уж и наивна. На днях Autodesk начал закрытое бета тестирование свое &amp;ldquo;Project Leopard&amp;rdquo; в рамках которого система Fusion 360 будет доступна прямо в браузере.&lt;/p&gt;
+&lt;p&gt;Итак +1 в браузере!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#OnShape теперь отдельно публикует обновления своего мобильного приложения.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-11-onshape-teper-otdelno-publikuet-obnov/</link>
       <pubDate>Wed, 11 Nov 2015 18:01:20 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-11-onshape-teper-otdelno-publikuet-obnov/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-11-onshape-teper-otdelno-publikuet-obnov/</guid>
+      <description>&lt;p&gt;Дожили: #CAD на #iPad&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.onshape.com/cad-blog/whats-new-mobile-11-9-2015&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;What’s New In Onshape Mobile (11/9/2015)&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Компания #Numbix - явно компания с юмором. Их обновленное об</title>
-      <link>http://localhost:1313/posts/2015-11-11-kompaniya-numbix-yavno-kompaniya-s-yumoro/</link>
+      <title>Компания #Numbix - явно компания с юмором.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-11-kompaniya-numbix-yavno-kompaniya-s-yumoro/</link>
       <pubDate>Wed, 11 Nov 2015 06:30:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-11-kompaniya-numbix-yavno-kompaniya-s-yumoro/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-11-kompaniya-numbix-yavno-kompaniya-s-yumoro/</guid>
+      <description>&lt;p&gt;Их обновленное облако для #HPC расчетов, в том числе и в #ANSYS, носит гордое имя JARVICE 2.0 (привет всем фанатам Железного человека). Что приятно, у #JARVICE есть нормальная удаленная визуализация.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.nimbix.net/blog/2015/11/10/nimbix-upgrades-high-performance-computing-jarvice-2-platform/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Nimbix Improves High-Performance Computing With New JARVICE 2.0 Platform&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>На конференции AWS re:Invent ANSYS расскзал об архитектуре с</title>
-      <link>http://localhost:1313/posts/2015-11-09-na-konferentsii-aws-reinvent-ansys-rassk/</link>
+      <title>На конференции AWS re:Invent ANSYS расскзал об архитектуре своего облачного решения ANSYS Enterprise Cloud в AWS.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-09-na-konferentsii-aws-reinvent-ansys-rassk/</link>
       <pubDate>Mon, 09 Nov 2015 06:30:19 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-09-na-konferentsii-aws-reinvent-ansys-rassk/</guid>
-      <description>&lt;p&gt;Однако проблемы, на которые я всегда обращаю внимание, остались открытыми:&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-09-na-konferentsii-aws-reinvent-ansys-rassk/</guid>
+      <description>&lt;p&gt;Всю магию по созданию виртуального кластера для них делает Cycle Computing. Графикой естественно завидует NICE Software. Управление конфигурациями через Chef. Метаданные пишутся в базу Amazon RDS (наверно они приделали к ней аналог ANSYS EKM).&lt;/p&gt;
+&lt;p&gt;Однако проблемы, на которые я всегда обращаю внимание, остались открытыми:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;нет RDMA - большой кластер тормозит даже для CFD&lt;/li&gt;
 &lt;li&gt;очень кривая организация виртуальных рабочих станций для постпроцессинга из-за ограничений на объем оперативной памяти.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Есть и замечательные, доселе невиданные возможности: вы получаете готовый к расчетами HPC кластер менее чем за 3 (три!!!) часа, и вы можете изменять его размер по запросу. Обычно проектирование и пуск кластера занимает месяцы :)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0EPnnKqs5TM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;AWS re:Invent 2015 | (CMP202) Engineering Simulation and Analysis in the Cloud&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>В честь воскресного вечера позволю себе очень любопытный офф</title>
-      <link>http://localhost:1313/posts/2015-11-08-v-chest-voskresnogo-vechera-pozvolyu-sebe/</link>
+      <title>В честь воскресного вечера позволю себе очень любопытный оффтопик. На днях мне попалась очень интересная презентация от Walt Disney Animation Studios, рассказывающая об их опыте использование AWS для рендеринга анимации. Диснеевские спецы собирают виртуальные катера порядка 50 000 ядер!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-08-v-chest-voskresnogo-vechera-pozvolyu-sebe/</link>
       <pubDate>Sun, 08 Nov 2015 18:00:27 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-08-v-chest-voskresnogo-vechera-pozvolyu-sebe/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-08-v-chest-voskresnogo-vechera-pozvolyu-sebe/</guid>
+      <description>&lt;p&gt;!!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.slideshare.net/AmazonWebServices/cmp404-cloud-rendering-at-walt-disney-animation-studios&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;(CMP404) Cloud Rendering at Walt Disney Animation Studios&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>#SimScale смог набрать уже 50 000 пользователей с даты своег</title>
-      <link>http://localhost:1313/posts/2015-11-05-simscale-smog-nabrat-uzhe-50-000-polzo/</link>
+      <title>#SimScale смог набрать уже 50 000 пользователей с даты своего основания в 2012 году. Причем крайние 10 000 были набраны за последние 9 месяцев!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-05-simscale-smog-nabrat-uzhe-50-000-polzo/</link>
       <pubDate>Thu, 05 Nov 2015 18:00:22 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-05-simscale-smog-nabrat-uzhe-50-000-polzo/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-05-simscale-smog-nabrat-uzhe-50-000-polzo/</guid>
+      <description>&lt;p&gt;А ведь в команде разработчиков всего 35 человек!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.simscale.com/blog/2015/10/simscale-reaches-50000-users/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SimScale Reaches 50000 Users and Growing&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Еще одни пример расчетов в облаке/браузере. На сей раз встре</title>
-      <link>http://localhost:1313/posts/2015-11-01-esche-odni-primer-raschetov-v-oblakebrauze/</link>
+      <title>Еще одни пример расчетов в облаке/браузере.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-01-esche-odni-primer-raschetov-v-oblakebrauze/</link>
       <pubDate>Sun, 01 Nov 2015 18:00:21 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-01-esche-odni-primer-raschetov-v-oblakebrauze/</guid>
-      <description>&lt;p&gt;#cloud
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-01-esche-odni-primer-raschetov-v-oblakebrauze/</guid>
+      <description>&lt;p&gt;На сей раз встречаем команду #simulationHub - у них есть #CFD и бесплатная пробная подписка.&lt;/p&gt;
+&lt;p&gt;#cloud
 Осторожно - жесткий индийский английский!!!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.simulationhub.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;simulationHub | Cloud based CFD simulation app for designers &lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Ребята из команды CFD Engine, которая специализируется на ра</title>
-      <link>http://localhost:1313/posts/2015-10-31-rebyata-iz-komandy-cfd-engine-kotoraya-sp/</link>
+      <title>Ребята из команды CFD Engine, которая специализируется на расчетах в соответствующей области, рассуждают на тему создания Uber-подобных сервисов для выполнения расчетов.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-31-rebyata-iz-komandy-cfd-engine-kotoraya-sp/</link>
       <pubDate>Sat, 31 Oct 2015 18:00:54 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-31-rebyata-iz-komandy-cfd-engine-kotoraya-sp/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-31-rebyata-iz-komandy-cfd-engine-kotoraya-sp/</guid>
+      <description>&lt;p&gt;Скажем так - я уже слышал такую идею. Есть много очень интересных проблем на пути ее реализации.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cfdengine.com/blog/uber-for-cfd/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Uber for CFD? | CFD Engine&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>NX Nastran тоже ударился в облака. Скоро будет проще сказать</title>
-      <link>http://localhost:1313/posts/2015-10-17-nx-nastran-tozhe-udarilsya-v-oblaka-skoro/</link>
+      <title>NX Nastran тоже ударился в облака. Скоро будет проще сказать, кого из CAE вендоров там нет. Siemens PLM для своего облако выдрали Rescale. Насколько мне известно, Rescale не умеет делать удаленную визуализацию. И в презентации про нее тоже ни слова. Только про вычислительные мощности. А как же обработать результаты?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-17-nx-nastran-tozhe-udarilsya-v-oblaka-skoro/</link>
       <pubDate>Sat, 17 Oct 2015 07:01:49 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-17-nx-nastran-tozhe-udarilsya-v-oblaka-skoro/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-17-nx-nastran-tozhe-udarilsya-v-oblaka-skoro/</guid>
+      <description>&lt;p&gt;Все домой качать?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=LxPdS1g_KLs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;NX Nastran Cloud Solutions: SaaS or BYOL&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Это не совсем про расчеты, но это то, чем мы все скоро будем</title>
-      <link>http://localhost:1313/posts/2015-10-11-eto-ne-sovsem-pro-raschety-no-eto-to-che/</link>
+      <title>Это не совсем про расчеты, но это то, чем мы все скоро будем пользоваться.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-11-eto-ne-sovsem-pro-raschety-no-eto-to-che/</link>
       <pubDate>Sun, 11 Oct 2015 06:30:15 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-11-eto-ne-sovsem-pro-raschety-no-eto-to-che/</guid>
-      <description>&lt;p&gt;Лично я не могу дождаться, когда инстансы N-типа будут доступны нам - очень хочется проверить задержки при удаленной визуализации через DCV.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-11-eto-ne-sovsem-pro-raschety-no-eto-to-che/</guid>
+      <description>&lt;p&gt;Спецы рассказывают, о работе NVIDIA Tesla K80 и Quadro M60 в облако Azure. Более того, у Microsoft наконец-то появилась технология проброски физического железа в виртуальную среду под названием DDA (Discrete Devices Assignment). А если учесть, что в основе Azure находятся технологии Hyper-V, то скоро нас ждет еще и очень сильная конкурентная борьба с VMware.&lt;/p&gt;
+&lt;p&gt;Лично я не могу дождаться, когда инстансы N-типа будут доступны нам - очень хочется проверить задержки при удаленной визуализации через DCV.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/documentation/videos/azurecon-2015-applications-that-scale-using-gpu-compute/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Applications that scale using GPU Compute&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Похоже, что у Onshape появился очень сильный конкурент. Букв</title>
-      <link>http://localhost:1313/posts/2015-10-06-pohozhe-chto-u-onshape-poyavilsya-ochen-sil/</link>
+      <title>Похоже, что у Onshape появился очень сильный конкурент.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-06-pohozhe-chto-u-onshape-poyavilsya-ochen-sil/</link>
       <pubDate>Tue, 06 Oct 2015 06:30:06 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-06-pohozhe-chto-u-onshape-poyavilsya-ochen-sil/</guid>
-      <description>&lt;p&gt;И вот тут начинается самое интересное. С одной стороны мы имеем Onshape, который изначально проектировался как CAD для работы в браузере. Он не умеет это делать хорошо, но вот функционал CAD в нем еще слабоват. С другой стороны у нас SolidWorks, который еще не CATIA, но уже пакет из высшей лиги. Но он не очень то заточен для работы в браузере.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-06-pohozhe-chto-u-onshape-poyavilsya-ochen-sil/</guid>
+      <description>&lt;p&gt;Буквально несколько дней назад показали Dassault Systèmes показали SolidWorks Online Edition. SolidWorks будет доставлять к вам в любой современный браузер как HTML5 приложение благодаря технологиям Frame Platform.&lt;/p&gt;
+&lt;p&gt;И вот тут начинается самое интересное. С одной стороны мы имеем Onshape, который изначально проектировался как CAD для работы в браузере. Он не умеет это делать хорошо, но вот функционал CAD в нем еще слабоват. С другой стороны у нас SolidWorks, который еще не CATIA, но уже пакет из высшей лиги. Но он не очень то заточен для работы в браузере.&lt;/p&gt;
 &lt;p&gt;Кто победит: удобство интереса или мощность и обилие возможностей?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.fra.me/post/129643213426/powering-solidworks-from-the-cloud&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Powering SOLIDWORKS from the cloud&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Со всей этой рутинной я чуть пропустил абсолютно сногсшибате</title>
-      <link>http://localhost:1313/posts/2015-10-05-so-vsey-etoy-rutinnoy-ya-chut-propustil-a/</link>
+      <title>Со всей этой рутинной я чуть пропустил абсолютно сногсшибательную новость!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-05-so-vsey-etoy-rutinnoy-ya-chut-propustil-a/</link>
       <pubDate>Mon, 05 Oct 2015 06:30:16 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-05-so-vsey-etoy-rutinnoy-ya-chut-propustil-a/</guid>
-      <description>&lt;p&gt;Теперь же мы можем наблюдать очень интересную направленность Azure в HPC направление. Тут и честный Infiniband (чего нет даже у Amazon AWS), и несколько HPC планировщиков, в числе которых есть лидер рынка Altair PBS Pro, и, наконец, недостающее звено - гибридные вычисления и поддержка удаленной визуализации!!! Мне кажется, что сейчас Azure дал крепкую затрещину AWS.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-05-so-vsey-etoy-rutinnoy-ya-chut-propustil-a/</guid>
+      <description>&lt;p&gt;NVIDIA анонсировала планы по использованию ее графических процессоров и процессоров общего назначения в облаке Microsoft Azure. То, что раз или поздно это произойдет стало понятно в тот момент, когда MS реализовали нормальную поддержку vGPU в Hyper-V для Server 2016.&lt;/p&gt;
+&lt;p&gt;Теперь же мы можем наблюдать очень интересную направленность Azure в HPC направление. Тут и честный Infiniband (чего нет даже у Amazon AWS), и несколько HPC планировщиков, в числе которых есть лидер рынка Altair PBS Pro, и, наконец, недостающее звено - гибридные вычисления и поддержка удаленной визуализации!!! Мне кажется, что сейчас Azure дал крепкую затрещину AWS.&lt;/p&gt;
 &lt;p&gt;#Azure #AWS #Cloud #HPC #NVIDIA
 &lt;a href=&#34;http://nvidianews.nvidia.com/news/nvidia-gpus-to-accelerate-microsoft-azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://nvidianews.nvidia.com/news/nvidia-gpus-to-accelerate-microsoft-azure&lt;/a&gt;
 &lt;a href=&#34;http://www.nvidia.ru/object/nvidia-grid-microsoft-azure-29-sep-2015-ru.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.nvidia.ru/object/nvidia-grid-microsoft-azure-29-sep-2015-ru.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://nvidianews.nvidia.com/news/nvidia-gpus-to-accelerate-microsoft-azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;NVIDIA GPUs to Accelerate Microsoft Azure &lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Издание HPCWire начало голосование за лучшие HPC 2015 года. </title>
-      <link>http://localhost:1313/posts/2015-09-30-izdanie-hpcwire-nachalo-golosovanie-za-lu/</link>
+      <title>Издание HPCWire начало голосование за лучшие HPC 2015 года.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-30-izdanie-hpcwire-nachalo-golosovanie-za-lu/</link>
       <pubDate>Wed, 30 Sep 2015 06:30:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-09-30-izdanie-hpcwire-nachalo-golosovanie-za-lu/</guid>
-      <description>&lt;p&gt;Голосование будет проходить до 9 Октября 23:59 по тихоокеанскому времени.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-30-izdanie-hpcwire-nachalo-golosovanie-za-lu/</guid>
+      <description>&lt;p&gt;Среди множества дисциплин засветились следующие важные для нас игроки: NICE Software, ANSYS Cloud, ANSYS Fluent, Abaqus, Altair HyperWorks, Star-CD и многое другое.&lt;/p&gt;
+&lt;p&gt;Голосование будет проходить до 9 Октября 23:59 по тихоокеанскому времени.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.hpcwire.com/2015-hpcwire-readers-choice-awards/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;2015 Annual HPCwire Readers&amp;rsquo; Choice Awards - HPCwire&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Похоже Onshape действительно готовится к выходу на профессио</title>
-      <link>http://localhost:1313/posts/2015-09-15-pohozhe-onshape-deystvitelno-gotovitsya-k/</link>
+      <title>Похоже Onshape действительно готовится к выходу на профессиональный рынок CAD.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-15-pohozhe-onshape-deystvitelno-gotovitsya-k/</link>
       <pubDate>Tue, 15 Sep 2015 17:00:36 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-09-15-pohozhe-onshape-deystvitelno-gotovitsya-k/</guid>
-      <description>&lt;p&gt;Видео с подробной инструкцией прилагается к статье.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-15-pohozhe-onshape-deystvitelno-gotovitsya-k/</guid>
+      <description>&lt;p&gt;Следом за недавним большим обновлением и реализацией возможности подготовки чертежей, компания теперь позволяет создавать аккаунты для компаний.&lt;/p&gt;
+&lt;p&gt;Видео с подробной инструкцией прилагается к статье.&lt;/p&gt;
 &lt;p&gt;#CAD #Onshape #cloud&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.onshape.com/cad-blog/introducing-onshape-companies&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.onshape.com/cad-blog/introducing-onshape-companies&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>На прошедшей неделе Rescale, создатель одной из крупнейших о</title>
-      <link>http://localhost:1313/posts/2015-08-29-na-proshedshey-nedele-rescale-sozdatel-o/</link>
+      <title>На прошедшей неделе Rescale, создатель одной из крупнейших облачных #HPC платформ для #CAE и один из ключевых партнеров #ANSYS в области облачных вычислений на рынке США официально пришла в Европу.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-08-29-na-proshedshey-nedele-rescale-sozdatel-o/</link>
       <pubDate>Sat, 29 Aug 2015 17:00:38 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-08-29-na-proshedshey-nedele-rescale-sozdatel-o/</guid>
-      <description>&lt;p&gt;Надо отметить, что из игроков на рынке HPC #Cloud в Европе до сего момента уже присутствовали такие компании как ClusterVision, #CADFEM GmbH, CPU 24/7, Gompute. Возможности по HPC также предоставляет и Azure, но там нет изначальной заточки под CAE использование.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-08-29-na-proshedshey-nedele-rescale-sozdatel-o/</guid>
+      <description>&lt;p&gt;Для пользователей это означает существенное снижение задержек при работе с вычислительным облаком, так как оборудование теперь будет размещаться и в Европе.
+Надо отметить, что из игроков на рынке HPC #Cloud в Европе до сего момента уже присутствовали такие компании как ClusterVision, #CADFEM GmbH, CPU 24/7, Gompute. Возможности по HPC также предоставляет и Azure, но там нет изначальной заточки под CAE использование.
 Посмотрим как опыт гораздо более жесткого развитого HPC рынка США поможет #Rescale работать в Старом свете.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://insidehpc.com/2015/08/rescale-launches-cloud-hpc-platform-in-europe/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Rescale Launches Cloud HPC Platform in Europe&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

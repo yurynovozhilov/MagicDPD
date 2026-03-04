@@ -1,35 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Polycube on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/polycube/</link>
-    <description>MagicDPD: Magic Driven Product Development! (Polycube)</description>
+    <title>PolyCube on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/polycube/</link>
+    <description>MagicDPD: Magic Driven Product Development! (PolyCube)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 20 Jan 2022 17:00:12 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/polycube/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/polycube/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>CE-PolyCube: Cut-enhanced PolyCube-Maps for Feature-aware Al</title>
-      <link>http://localhost:1313/posts/2022-01-20-ce-polycube-cut-enhanced-polycube-maps/</link>
+      <title>CE-PolyCube: Cut-enhanced PolyCube-Maps for Feature-aware All-Hex Meshing</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-20-ce-polycube-cut-enhanced-polycube-maps/</link>
       <pubDate>Thu, 20 Jan 2022 17:00:12 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-01-20-ce-polycube-cut-enhanced-polycube-maps/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-20-ce-polycube-cut-enhanced-polycube-maps/</guid>
       <description>&lt;p&gt;Методы генерации сетки, основанные на объемных картах PolyCube-Map, предлагают автоматическую генерацию #ALLHEX сеток для замкнутых трехмерных многогранных объёмов, однако качество получаемой сетки ограничено особенностями геометрии. В представленной работе предлагается ряд улучшений к PolyCube-Maps. Основная идея проста и интуитивно понятна: исходный объем периодически декомпозируют на подобаемы (или добавляют линии раздела на слишком протяженных поверхностях), что приводит к улучшению получаемой сетки и лучшему описанию геометрии.&lt;/p&gt;
 &lt;p&gt;Что мне больше всего нравится в данном проекте, так это опубликованные исходники кода, рассчитанные на работу в 64-х битных версиях Windows&lt;/p&gt;
 &lt;p&gt;#PolyCube #mesh #opensource &lt;a href=&#34;https://github.com/msraig/CE-PolyCube&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/msraig/CE-PolyCube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/msraig/CE-PolyCube&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;GitHub - msraig/CE-PolyCube: Source code of SIGGRAPH 2020 paper: Cut-enhanced PolyCube-Maps for Feature-aware All-Hex Meshing&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>HexGen и Hex2Spline: ALLHEX и IGA сетки для LS-DYNA</title>
-      <link>http://localhost:1313/posts/2021-09-17-hexgen-i-hex2spline-allhex-i-iga-setki/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-17-hexgen-i-hex2spline-allhex-i-iga-setki/</link>
       <pubDate>Fri, 17 Sep 2021 13:01:45 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-09-17-hexgen-i-hex2spline-allhex-i-iga-setki/</guid>
-      <description>&lt;p&gt;Коллеги, на мой взгляд, сегодня просто огненный контент. Представляю вам два открытых набора консольных утилит, HexGen и Hex2Spline, разработанные группой профессора Юнцзе Джессики Чжан (Yongjie Jessica Zhang) в Университете Карнеги-Меллон (Carnegie Mellon University). Что бы лучше понимать, эта группа очень тесно связана со всем, что сейчас делается в области IGA для LS-DYNA и Corefrom.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-17-hexgen-i-hex2spline-allhex-i-iga-setki/</guid>
+      <description>&lt;p&gt;HexGen и Hex2Spline: ALLHEX и IGA сетки для LS-DYNA&lt;/p&gt;
+&lt;p&gt;Коллеги, на мой взгляд, сегодня просто огненный контент. Представляю вам два открытых набора консольных утилит, HexGen и Hex2Spline, разработанные группой профессора Юнцзе Джессики Чжан (Yongjie Jessica Zhang) в Университете Карнеги-Меллон (Carnegie Mellon University). Что бы лучше понимать, эта группа очень тесно связана со всем, что сейчас делается в области IGA для LS-DYNA и Corefrom.&lt;/p&gt;
 &lt;p&gt;Рассматриваемый комплект утилит позволяет на основе произвольной геометрии строить ALL-HEX неструктурированную сетку при помощи реализации алгоритма поликуба - это делает HexGen. А уже на основе полученной сетки Hex2Spline строить модель для IGA расчета, извлекая данные сплайнов Безье и записывая их в формат BEXT, напрямую читаемый LS-DYNA и визуализируемый в LS-PrePost.&lt;/p&gt;
 &lt;p&gt;Что особенно приятно, так это степень проработки вопроса. В репозитории проекта вы найдете не только все сходные коды утилит и собранные бинарники по Windows - вы найдете подробные инструкции по пересборке утилит. Естественно, в репозитории есть и тренировочные примеры с итогами правильной работы софта. А еще есть сопроводительная научная статья, в которой вы найдете подробные инструкции как пользоваться всеми утилитами и как настраивать их работу для разных геометрических моделей.&lt;/p&gt;
 &lt;p&gt;Научная статья: &lt;a href=&#34;https://arxiv.org/abs/2011.14213&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://arxiv.org/abs/2011.14213&lt;/a&gt;&lt;/p&gt;
@@ -37,6 +39,60 @@
 &lt;p&gt;Страничка группы профессора Джессики Чжан в Университете Карнеги-Меллон:  &lt;a href=&#34;https://www.meche.engineering.cmu.edu/directory/bios/zhang-yongjie.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.meche.engineering.cmu.edu/directory/bios/zhang-yongjie.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#all-hex #ansys #bext #iga #ls-dyna #ls-prepost #open_source #polycube
 &lt;a href=&#34;https://tinyurl.com/ydnqewkz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ydnqewkz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2011.14213&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;HexGen and Hex2Spline: Polycube-based Hexahedral Mesh Generation&amp;hellip;&lt;/a&gt;
+&lt;a href=&#34;https://github.com/yu-yuxuan/HexGen_Hex2Spline&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/yu-yuxuan/HexGen_Hex2Spline&lt;/a&gt;
+&lt;a href=&#34;https://www.meche.engineering.cmu.edu/directory/bios/zhang-yongjie.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.meche.engineering.cmu.edu/directory/bios/zhang-yongjie.html&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/ydnqewkz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ydnqewkz&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сеточный генератор PolyCut</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-28-setochnyy-generator-polycut/</link>
+      <pubDate>Fri, 28 Dec 2018 17:01:35 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-28-setochnyy-generator-polycut/</guid>
+      <description>&lt;p&gt;Сеточный генератор PolyCut&lt;/p&gt;
+&lt;p&gt;В 2013 году группа ученых из Университета Британской Колумбии впервые опубликовала статью об разработанном ими алгоритме PolyCut, способном автоматически гененировать all-hex сетки на произвольной геометрии. PolyCut работал на основе метода PolyCube, когда геометрия автоматически представляется в виде набора параллелепипедов, для которых уже можно построить блочно-структурированную топологию.&lt;/p&gt;
+&lt;p&gt;Результаты исследователей были очень хороши, но подобных статей в год выходит несколько штук - взгляните хотя бы на данные ресурса HexaLab.net. К сожалению, дальше наукоемких статей дело обычно не заходит. Но не в этом случае.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/Ju0C70-EkE4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Ju0C70-EkE4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В этом году коллектив авторов на своем сайте разместил ссылку на пробную верию их кода и подготовил лицензионное соглашение, подразумевающее возможность коммерческого использования!&lt;/p&gt;
+&lt;p&gt;Я думаю, что с таким качеством результатов коллеги не должны прогореть. Я же наконец увидел шанс получить автоматический all-hex генератор сетки для моих explicit проектов.&lt;/p&gt;
+&lt;p&gt;На сайте разработчиков вы сможете найти все научные статьи, подробную презентацию по работе кода, тестовые примеры и, конечно, сам код. http://www.cs.ubc.ca/labs/imager/tr/2013/polycut/&lt;/p&gt;
+&lt;p&gt;P.S. Дедушка Мороз, пусть одна большая CAE компания на букву &amp;ldquo;A&amp;rdquo; купит команду данного кода, и в грядущем году мы увидим PolyCut где-то рядом с MultiZone и Cartesian в меню выбора метода генерации сетки.&lt;/p&gt;
+&lt;p&gt;#AllHex #Mesh #PolyCube #PolyCut
+&lt;a href=&#34;http://bit.ly/2Q8Aw1k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Q8Aw1k&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.hexalab.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.hexalab.net/&lt;/a&gt;
+&lt;a href=&#34;http://hexalab.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://hexalab.net/&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/Ju0C70-EkE4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Ju0C70-EkE4&lt;/a&gt;
+&lt;a href=&#34;http://www.cs.ubc.ca/labs/imager/tr/2013/polycut/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.cs.ubc.ca/labs/imager/tr/2013/polycut/&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2Q8Aw1k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Q8Aw1k&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bolt 2.0 для создания сетки</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-06-bolt-20-dlya-sozdaniya-setki/</link>
+      <pubDate>Sun, 06 Aug 2017 17:00:56 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-06-bolt-20-dlya-sozdaniya-setki/</guid>
+      <description>&lt;p&gt;Bolt 2.0 для создания сетки
+&lt;a href=&#34;https://youtu.be/Dqt0rtjffIc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Dqt0rtjffIc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#csimsoft в своем сеточном генераторе #Bolt 2.0 добилась автоматической генерации полностью гексаэдральной сетки для любой геометрии. All-hex mesh - это просто мечта инженера расчетчика, особенно для #explicit! Судя по описанию, сеточный генератор опитается на алгоритм #PolyCube - одна из певых, если не единственная завершенная и готовая реализация этого перспективного алгоритма генерации сетки.&lt;/p&gt;
+&lt;p&gt;Сеточный генератор умеет писать и читать сетки для:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#ANSYS Mechanical&lt;/li&gt;
+&lt;li&gt;#ANSYS Fluent&lt;/li&gt;
+&lt;li&gt;#Abaqus&lt;/li&gt;
+&lt;li&gt;#LSDYNA&lt;/li&gt;
+&lt;li&gt;#OpenFOAM&lt;/li&gt;
+&lt;li&gt;#Patran&lt;/li&gt;
+&lt;li&gt;#Nastran&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;А еще Bolt умеет сроить сетку параллельно :-)&lt;/p&gt;
+&lt;p&gt;Пожалуй надо брать триал на 15 дней и пробовать.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/Dqt0rtjffIc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Dqt0rtjffIc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/Dqt0rtjffIc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Introduction to Meshing with Bolt&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

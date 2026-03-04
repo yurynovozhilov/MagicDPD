@@ -1,24 +1,108 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ICEM on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/icem/</link>
-    <description>MagicDPD: Magic Driven Product Development! (ICEM)</description>
+    <title>Icem on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/icem/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Icem)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2015 17:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jan 2021 13:01:12 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/icem/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/icem/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Транслируем сетку Plymouth Neon 1996 года выпуска из LS-DYNA</title>
-      <link>http://localhost:1313/posts/2015-09-17-transliruem-setku-plymouth-neon-1996-god/</link>
+      <title>SpaceClaim 2021R1</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-01-28-spaceclaim-2021r1/</link>
+      <pubDate>Thu, 28 Jan 2021 13:01:12 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-01-28-spaceclaim-2021r1/</guid>
+      <description>&lt;p&gt;SpaceClaim 2021R1&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=6vUMkT28q20&amp;amp;t=2s&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=6vUMkT28q20&amp;t=2s&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Как вы уже могли догадаться по новостной ленте, стал доступен Ansys 2021R1 - первый релиз Ansys этого года. И в нем есть очень много приятных изменений в продуктах, которыми лично я пользуюсь постоянно. Начать рассказывать про эти изменения я бы хотел с SpaceClaim, главного геометрического процессора Workbench.&lt;/p&gt;
+&lt;p&gt;Наконец работает сравнение для любых моделей: и CAD, и STL (раньше был только STL) - это прям надо, когда заказчики присылают новые файлы геометрии, и непонятно, что там поменяли.&lt;/p&gt;
+&lt;p&gt;Завезли хорошую парамметризацию в эскизы: в добавок к полноценным параметрическим эскизам из прошлой версии добавили возможность связывать размеры в рамках одного такого эскиза без использования ссылок на параметры.&lt;/p&gt;
+&lt;p&gt;А еще, есть изменение, которое не показали в видео, но которое я очень ждал. В прошлой версии появилась возможность записывать историю построения с возможностью получения некого аналога дерева истории изменения геометрии (как в традиционных CAD). Теперь эта функция работает и с сеточным генератором (базирующемся на ICEM CFD). Получается, что пользователь может записать &amp;ldquo;дерево истории&amp;rdquo; создания сетки и потом менять его настройки, если сетка не соберется!&lt;/p&gt;
+&lt;p&gt;#ansys #icem-cfd #spaceclaim #spaceclaim_meshing
+&lt;a href=&#34;https://tinyurl.com/yydgh6pm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yydgh6pm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=6vUMkT28q20&amp;amp;t=2s&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys SpaceClaim | Announcing New Features&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yydgh6pm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yydgh6pm&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Немного про баги</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-23-nemnogo-pro-bagi/</link>
+      <pubDate>Sun, 23 Apr 2017 17:55:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-23-nemnogo-pro-bagi/</guid>
+      <description>&lt;p&gt;Немного про баги&lt;/p&gt;
+&lt;p&gt;#ANSYS #ICEM-CFD не восместим с &amp;hellip; #PuntoSwitcher!!! Как они вообще умудрились пересечься в рамках #Windows 10?!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учимся строить блочную сетку</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-16-uchimsya-stroit-blochnuyu-setku/</link>
+      <pubDate>Sun, 16 Apr 2017 08:01:55 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-16-uchimsya-stroit-blochnuyu-setku/</guid>
+      <description>&lt;p&gt;Учимся строить блочную сетку
+&lt;a href=&#34;https://www.youtube.com/watch?v=joTej2spPVo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=joTej2spPVo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Похоже я начинаю перерастать #ANSYS #Meshing - пора задуматься об великом и ужеасном #ICEM CFD. Его интрфейс сделан хищниками для чужих, но его возможности подкупают: больше всего сейчас мне нужна его блочно-структурированная сетка.&lt;/p&gt;
+&lt;p&gt;Давайте вместе попробуем в нем разобраться. Для начала серия усебных видео. &lt;a href=&#34;https://www.youtube.com/watch?v=joTej2spPVo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=joTej2spPVo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=egtU249oejM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=egtU249oejM&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=RHqrCYhXPd4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=RHqrCYhXPd4&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=m0AEh8yXgJ8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=m0AEh8yXgJ8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=joTej2spPVo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Icem CFD Mesh body 3d&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=egtU249oejM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=egtU249oejM&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=RHqrCYhXPd4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=RHqrCYhXPd4&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=m0AEh8yXgJ8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=m0AEh8yXgJ8&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Block Mesher в LS-PrePost</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-02-block-mesher-v-ls-prepost/</link>
+      <pubDate>Sun, 02 Apr 2017 12:03:37 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-02-block-mesher-v-ls-prepost/</guid>
+      <description>&lt;p&gt;Block Mesher в LS-PrePost
+&lt;a href=&#34;https://www.youtube.com/watch?v=EYT8LuqfSyg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=EYT8LuqfSyg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Пока все спорят о том, как лучше строить сетки в #ANSYS #Meshing или #ICEM CFD, #Altair #HyperMesh, #BetaCAE #ANSA или чем еще сильно платном, ребята из #LSTC продолжают пилить бесплатный препост #LSPP для #LSDYNA. Сегодня я нашел серию уроков по построению сложных и высококачественных сеток для #Explicit расчетов.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EYT8LuqfSyg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=EYT8LuqfSyg&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=irQEEIL6A-M&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=irQEEIL6A-M&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=jMgzHfe3_RU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jMgzHfe3_RU&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=loksXAJk8wo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=loksXAJk8wo&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=ELjRGYZz6Zk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ELjRGYZz6Zk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EYT8LuqfSyg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LS-PrePost BlockM: Bullet Hexahedron meshing with&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=irQEEIL6A-M&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=irQEEIL6A-M&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=jMgzHfe3_RU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jMgzHfe3_RU&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=loksXAJk8wo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=loksXAJk8wo&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=ELjRGYZz6Zk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ELjRGYZz6Zk&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Жирная сетка от #CADFEM CIS в #ICEM CFD</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-13-zhirnaya-setka-ot-cadfem-cis-v-icem-cfd/</link>
+      <pubDate>Wed, 13 Jan 2016 11:23:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-13-zhirnaya-setka-ot-cadfem-cis-v-icem-cfd/</guid>
+      <description>&lt;p&gt;Жирная сетка от #CADFEM CIS в #ICEM CFD&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Транслируем сетку Plymouth Neon 1996 года выпуска из LS-DYNA Keyword в ANSYS FE Modeler через ICEM CFD.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-17-transliruem-setku-plymouth-neon-1996-god/</link>
       <pubDate>Thu, 17 Sep 2015 17:00:50 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-09-17-transliruem-setku-plymouth-neon-1996-god/</guid>
-      <description>&lt;p&gt;#ANSYS #lsdyna #femodeler #ICEMCFD #ICEM&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-17-transliruem-setku-plymouth-neon-1996-god/</guid>
+      <description>&lt;p&gt;Такие дела.&lt;/p&gt;
+&lt;p&gt;#ANSYS #lsdyna #femodeler #ICEMCFD #ICEM&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.topcrunch.org/benchmark_details.sfe?query=3&amp;amp;id=139&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.topcrunch.org/benchmark_details.sfe?query=3&amp;id=139&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.topcrunch.org/benchmark_details.sfe?query=3&amp;amp;id=139&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Top Crunch: track the aggregate performance trends of high performance computer systems and engineering software&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

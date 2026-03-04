@@ -2,33 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FDM on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/fdm/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/fdm/</link>
     <description>MagicDPD: Magic Driven Product Development! (FDM)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 13 Jan 2022 17:00:13 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/fdm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/fdm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Компания #Spentys занимается разработкой современного ПО для</title>
-      <link>http://localhost:1313/posts/2022-01-13-kompaniya-spentys-zanimaetsya-razrabotkoy/</link>
+      <title>Компания #Spentys занимается разработкой современного ПО для проектирования и производства ортезов, и то, что они делают выглядеть очень круто и востребовано.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-13-kompaniya-spentys-zanimaetsya-razrabotkoy/</link>
       <pubDate>Thu, 13 Jan 2022 17:00:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-01-13-kompaniya-spentys-zanimaetsya-razrabotkoy/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-13-kompaniya-spentys-zanimaetsya-razrabotkoy/</guid>
       <description>&lt;p&gt;У компании есть комплекс из 3D сканера для iPAD, собственное приложение для сканирования и удаленная служба из медиков, которые проектируют ортез по скану вашей поломанной конечности. Созданный таким образом ортез печататься на обычном #FDM принтере. Понятно, что получаемое изделие сильно удобнее чем классический или даже полимерный гипс.&lt;/p&gt;
 &lt;p&gt;#additivemanufacturing #3dprinting #medical &lt;a href=&#34;https://www.youtube.com/watch?v=C051VD67Spg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=C051VD67Spg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=C051VD67Spg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=C051VD67Spg&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Большая статья - ликбез, рассказывающая про то, что такое метод конечных элементов (#МКЭ, #FEM) и почему его не надо путать с методом конечных разностей (#FDM).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-02-bolshaya-statya-likbez-rasskazyvayuschaya/</link>
+      <pubDate>Sat, 02 Sep 2017 17:06:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-02-bolshaya-statya-likbez-rasskazyvayuschaya/</guid>
+      <description>&lt;p&gt;Полезно не только наживать на кнопки, но и немного помнить про методы решения систем уравнений.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://feaforall.com/difference-between-fem-and-fdm/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://feaforall.com/difference-between-fem-and-fdm/&lt;/a&gt; 🔗 What’s the difference between FEM and FDM? - FEA for All&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2wHGYaz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wHGYaz&lt;/a&gt;
+&lt;a href=&#34;http://feaforall.com/difference-between-fem-and-fdm/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://feaforall.com/difference-between-fem-and-fdm/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделировать метод послойного наплавления или 3D печать (Fused depositing modeling, #FDM) можно в любом современном КЭ пакете: все как правило реализуется через технику рождения и смерти элементов под действием температурных полей.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-11-modelirovat-metod-posloynogo-naplavleni/</link>
+      <pubDate>Fri, 11 Aug 2017 17:01:44 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-11-modelirovat-metod-posloynogo-naplavleni/</guid>
+      <description>&lt;p&gt;Однако коллеги из чешской компании  SVS FEM пошли дальше, много дальше. Они создали #ACT расширение для #ANSYS #Mechanical на основе #Python и #APDL, которое умеет читать информацию от 3D принтера по истории движения печатающей головки. В ходе расчета можно получить зависимости плотности, температуры и деформаций конструкции во времени.&lt;/p&gt;
+&lt;p&gt;Самое прикольное в работе ACT - это возможность визуализировать именно плотность (читай распределение) материала. Она получается гладкая, и ее можно экспортировать в виде #STL в #SDCM для дальнейшей работы.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qai6CIpjOHM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=qai6CIpjOHM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qai6CIpjOHM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Structural-Thermal Simulation of FDM 3D Printing Process | ANSYS Mechanical | SVS FEM&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>#FEM - Finite element method</title>
-      <link>http://localhost:1313/posts/2015-10-30-fem-finite-element-method/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-30-fem-finite-element-method/</link>
       <pubDate>Fri, 30 Oct 2015 06:30:09 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-30-fem-finite-element-method/</guid>
-      <description>&lt;p&gt;#FDM - Finite difference method
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-30-fem-finite-element-method/</guid>
+      <description>&lt;p&gt;#FEM - Finite element method
+#FDM - Finite difference method
 #DDA - Discontinuous deformation analysis
 #NMM - Numerical manifold method
 #DEM - Discrete element method

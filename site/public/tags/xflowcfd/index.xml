@@ -2,25 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>XFlowCFD on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/xflowcfd/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/xflowcfd/</link>
     <description>MagicDPD: Magic Driven Product Development! (XFlowCFD)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Mon, 11 Apr 2016 07:01:00 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/xflowcfd/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/xflowcfd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>#MPS (Moving Particle Simulation) - бессеточный метод для ре</title>
-      <link>http://localhost:1313/posts/2016-04-11-mps-moving-particle-simulation-bess/</link>
+      <title>#MPS (Moving Particle Simulation) - бессеточный метод для решения задач взаимодействия жидкости и твердого тела похоже учел все недостатки своих конкурентов и исправил их разом.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-11-mps-moving-particle-simulation-bess/</link>
       <pubDate>Mon, 11 Apr 2016 07:01:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-04-11-mps-moving-particle-simulation-bess/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-11-mps-moving-particle-simulation-bess/</guid>
       <description>&lt;p&gt;Прежде всего, этот метод, чем-то похожий на #SPH, имеет как явную, так и неявную схемы интегрирования по времени. Далее, он позволяет учитывать поверхностное натяжение и обладает #LES моделью турбулентности, чего нет в классическом #SPH. Ну и на сладкое - метод ускоряется на #GPU #NVIDIA в 5-9 раз (прямо как #DEM), при этом может использовать несколько графических карт.&lt;/p&gt;
 &lt;p&gt;Метод реализован в независимомо CFD пакете #Particleworks японской компании #Prometech.&lt;/p&gt;
 &lt;p&gt;На мой взгляд, это может быть по круче чем #XFlowCFD с их решеточным методом Больцмана.&lt;/p&gt;
 &lt;p&gt;Базовая теория по работе метода прилагается.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.prometechsoftware.com/particleworks.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;particleworks highlights&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Люди страдают с #XFlowCFD на #Rescaleinc</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-21-lyudi-stradayut-s-xflowcfd-na-rescaleinc/</link>
+      <pubDate>Mon, 21 Dec 2015 14:57:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-21-lyudi-stradayut-s-xflowcfd-na-rescaleinc/</guid>
+      <description>&lt;p&gt;Люди страдают с #XFlowCFD на #Rescaleinc&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mobile.twitter.com/TENTECHLLC/status/677934212347879424&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

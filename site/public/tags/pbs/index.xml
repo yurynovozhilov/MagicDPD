@@ -2,47 +2,198 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PBS on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/pbs/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/pbs/</link>
     <description>MagicDPD: Magic Driven Product Development! (PBS)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 01 Sep 2016 06:30:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jan 2022 13:00:59 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/pbs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/pbs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Централизованное управление GPU вашего датацентра</title>
-      <link>http://localhost:1313/posts/2016-09-01-tsentralizovannoe-upravlenie-gpu-vashego-d/</link>
-      <pubDate>Thu, 01 Sep 2016 06:30:07 +0000</pubDate>
+      <title>#NVIDIA продолжает свое движение в сторону становления настоящим #HPC гигантом. Вчера стало известно о том, что NVIDIA купила компанию Bright Computing, известную своим программным обеспечением Bright Cluster Manager (#BCM). BCM являться пожалуй единственным законченным набором инструментов, который позволяет почти без боли и консоли разворачивать настоящие суперкомпьютеры с правильно настроенными из коробки планировщиками #PBS, #LSF, #Slurm, параллельными файловыми системами и прочими необходимыми надстройками. При этом, все делается через удобный WEB-UI. Была даже бесплатная версия для кластеров до 8 узлов. Страшно сказать: у BCM даже была своя собственная система доставки драйверов для #Infiniband (Mellanox, кстати, тоже поглощён NVIDIA) с дополнительным уровнем тестирования на совместимость и стабильность!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-11-nvidia-prodolzhaet-svoe-dvizhenie-v-storo/</link>
+      <pubDate>Tue, 11 Jan 2022 13:00:59 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-09-01-tsentralizovannoe-upravlenie-gpu-vashego-d/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://devblogs.nvidia.com/parallelforall/nvidia-data-center-gpu-manager-cluster-administration/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://devblogs.nvidia.com/parallelforall/nvidia-data-center-gpu-manager-cluster-administration/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;#NVIDIA объявила о выходе Data Center GPU Manager (#DCGM) предназанвенного для централизованного мониторинга и управления #GPU и #GPGPU вашего датацентра или кластера (у кого что). ПО имеет интерфейсы к основным игрокам #HPC рынка: Bright Custer Manager (#BCM), #Altair #PBS Works и #IBM Spectrum #LSF и позволяет производить низкоуровневую диагностику аппаратной части, конфигурирование драйверов и прочие низкоуровневые фишки.&lt;/p&gt;
-&lt;p&gt;Nvidia DCGM 1.0 Release Candidate доступен для скачивания по регистрации (&lt;a href=&#34;https://developer.nvidia.com/data-center-gpu-manager-dcgm-access%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://developer.nvidia.com/data-center-gpu-manager-dcgm-access)&lt;/a&gt;. О том, будет ли данное ПО бесплано, или потребуется приобретение лицензий пока не сообщается, но что-то мне подсказывает, что с учетом последних действий NVIDIA нам всем придется раскошелиться.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-11-nvidia-prodolzhaet-svoe-dvizhenie-v-storo/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://blogs.nvidia.com/blog/2022/01/10/bright-computing-hpc/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blogs.nvidia.com/blog/2022/01/10/bright-computing-hpc/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blogs.nvidia.com/blog/2022/01/10/bright-computing-hpc/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blogs.nvidia.com/blog/2022/01/10/bright-computing-hpc/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Билл Ницберг (Bill Nitzberg), CEO подразделения #PBS Works к</title>
-      <link>http://localhost:1313/posts/2016-07-04-bill-nitsberg-bill-nitzberg-ceo-podraz/</link>
+      <title>Altair покупает Univa</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-09-21-altair-pokupaet-univa/</link>
+      <pubDate>Mon, 21 Sep 2020 16:33:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-09-21-altair-pokupaet-univa/</guid>
+      <description>&lt;p&gt;Altair покупает Univa&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/altair-acquires-univa/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Overview of Univa Grid Engine&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как надо уметь готовить ANSYS EKM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-03-kak-nado-umet-gotovit-ansys-ekm/</link>
+      <pubDate>Thu, 03 Oct 2019 13:00:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-03-kak-nado-umet-gotovit-ansys-ekm/</guid>
+      <description>&lt;p&gt;Как надо уметь готовить ANSYS EKM&lt;/p&gt;
+&lt;p&gt;Монументальная работа по настройке ANSYS EKM от Александра Николаевича Чернова. Порой я думаю, что EKM его боится, и сам подсказывает, как лучше сделать. Потому что мой коллега уже перевел интерфейс на русский, настроил взаимодействие с базами данных и контроллером домена и подключил это к расчетному кластеру. Такой EKM — это полноценное локальное облако для расчетов и управления их результатами.&lt;/p&gt;
+&lt;p&gt;#ANSYS #APDL #CADFEM #CFX #EKM #Fluent #HPC #PBS
+&lt;a href=&#34;https://bit.ly/2o8Xei5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://bit.ly/2o8Xei5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://bit.ly/2o8Xei5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Как надо уметь готовить ANSYS EKM - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#TotalCAE хвастают тем, что написали слой интеграции между SLURM и #ANSYS #RSM.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-22-totalcae-hvastayut-tem-chto-napisali-slo/</link>
+      <pubDate>Sun, 22 Oct 2017 17:14:25 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-22-totalcae-hvastayut-tem-chto-napisali-slo/</guid>
+      <description>&lt;p&gt;Напомню, ANSYS RSM позволяет без проблем ставить задачи ANSYS на таких высокопроизводительных системах, как #PBS, #LSF, #GridEngine, #Torque, #MOAB и даже Windows HPC Cluster, но не SLURM.&lt;/p&gt;
+&lt;p&gt;TotalCAE взяли и написали свой собственный слой интеграции. Это прикольно, но проще было взять стандартный транслятор SLURM-PBS.&lt;/p&gt;
+&lt;p&gt;#HPC&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.totalcae.com/learn/slurm-ansys-remote-solver-manager-rsm/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.totalcae.com/learn/slurm-ansys-remote-solver-manager-rsm/&lt;/a&gt; 🔗 SLURM with ANSYS Remote Solver Manager (RSM) - TotalCAE Blog&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2zt3EbO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zt3EbO&lt;/a&gt;
+&lt;a href=&#34;https://www.totalcae.com/learn/slurm-ansys-remote-solver-manager-rsm/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.totalcae.com/learn/slurm-ansys-remote-solver-manager-rsm/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как подружить ANSYS 18 и кластер</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-28-kak-podruzhit-ansys-18-i-klaster/</link>
+      <pubDate>Tue, 28 Mar 2017 17:02:47 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-28-kak-podruzhit-ansys-18-i-klaster/</guid>
+      <description>&lt;p&gt;Как подружить ANSYS 18 и кластер
+&lt;a href=&#34;https://quantumhpc.com/en/blog/how-to-configure-ansys-rsm-v18-with-a-pbs-pro-cluster&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://quantumhpc.com/en/blog/how-to-configure-ansys-rsm-v18-with-a-pbs-pro-cluster&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Отличная статья/комикс о том, как настроить взаимодействие #ANSYS 18 и кластерного #HPC планировщика очереди задач (#workload manager/#scheduler) #Altair #PBS Pro через новый ANSYS #RSM. Все дело в том, что RSM, утилита взаимодействия решателей ANSYS с вычислительными ресурсам, в 18-ой версии сильно изменилась. Хотя, на мой взгляд, это здорово пошло ей на пользу.&lt;/p&gt;
+&lt;p&gt;Хоть статья и написана про PBS Pro, но настройка #IBM #LSF, MS HPC Cluster, Grid Engine будет проходить точно также - все настройки унифицированы.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.quantumhpc.com/en/blog/how-to-configure-ansys-rsm-v18-with-a-pbs-pro-cluster&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;How to configure ANSYS RSM v18 with a PBS Pro cluster | HPC Cloud Computing&lt;/a&gt;
+&lt;a href=&#34;https://quantumhpc.com/en/blog/how-to-configure-ansys-rsm-v18-with-a-pbs-pro-cluster&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://quantumhpc.com/en/blog/how-to-configure-ansys-rsm-v18-with-a-pbs-pro-cluster&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PBS Cloud Manager</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-18-pbs-cloud-manager/</link>
+      <pubDate>Sun, 18 Sep 2016 17:01:02 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-18-pbs-cloud-manager/</guid>
+      <description>&lt;p&gt;PBS Cloud Manager
+&lt;a href=&#34;http://web2.altairhyperworks.com/pbs-cloud-manager-webinar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://web2.altairhyperworks.com/pbs-cloud-manager-webinar&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Компания #Altair приглашает всех на вебиран по их новому продукту. #PBS #Cloud Manager предназначен для быстрого и эффективного развертывания #HPC систем на базе публичных облаков. Тема очень интересная, и возможно мы увидим становление еще одного игрока на рынке облачного HPC.&lt;/p&gt;
+&lt;p&gt;Вебинар состоится 21 сентября&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://web2.altairhyperworks.com/pbs-cloud-manager-webinar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://web2.altairhyperworks.com/pbs-cloud-manager-webinar&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Централизованное управление GPU вашего датацентра</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-01-tsentralizovannoe-upravlenie-gpu-vashego-d/</link>
+      <pubDate>Thu, 01 Sep 2016 06:30:07 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-01-tsentralizovannoe-upravlenie-gpu-vashego-d/</guid>
+      <description>&lt;p&gt;Централизованное управление GPU вашего датацентра
+&lt;a href=&#34;https://devblogs.nvidia.com/parallelforall/nvidia-data-center-gpu-manager-cluster-administration/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://devblogs.nvidia.com/parallelforall/nvidia-data-center-gpu-manager-cluster-administration/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#NVIDIA объявила о выходе Data Center GPU Manager (#DCGM) предназанвенного для централизованного мониторинга и управления #GPU и #GPGPU вашего датацентра или кластера (у кого что). ПО имеет интерфейсы к основным игрокам #HPC рынка: Bright Custer Manager (#BCM), #Altair #PBS Works и #IBM Spectrum #LSF и позволяет производить низкоуровневую диагностику аппаратной части, конфигурирование драйверов и прочие низкоуровневые фишки.&lt;/p&gt;
+&lt;p&gt;Nvidia DCGM 1.0 Release Candidate доступен для скачивания по регистрации (&lt;a href=&#34;https://developer.nvidia.com/data-center-gpu-manager-dcgm-access%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://developer.nvidia.com/data-center-gpu-manager-dcgm-access)&lt;/a&gt;. О том, будет ли данное ПО бесплано, или потребуется приобретение лицензий пока не сообщается, но что-то мне подсказывает, что с учетом последних действий NVIDIA нам всем придется раскошелиться.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://devblogs.nvidia.com/parallelforall/nvidia-data-center-gpu-manager-cluster-administration/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;NVIDIA Data Center GPU Manager Simplifies Cluster Administration&lt;/a&gt;
+&lt;a href=&#34;https://developer.nvidia.com/data-center-gpu-manager-dcgm-access&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://developer.nvidia.com/data-center-gpu-manager-dcgm-access&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Билл Ницберг (Bill Nitzberg), CEO подразделения #PBS Works компании #Altair, рассказывает про новости с #ISC 2016.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-04-bill-nitsberg-bill-nitzberg-ceo-podraz/</link>
       <pubDate>Mon, 04 Jul 2016 12:02:21 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-07-04-bill-nitsberg-bill-nitzberg-ceo-podraz/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-04-bill-nitsberg-bill-nitzberg-ceo-podraz/</guid>
       <description>&lt;p&gt;Гвоздь программы - это, естественно, открытие кода #PBS Pro. В первый же день после ананаса уже появились люди вне компании, вносящие изменения в код.&lt;/p&gt;
 &lt;p&gt;Кроме того есть еще пара новостных поводов.&lt;/p&gt;
 &lt;p&gt;PBS #Simulator позволяет на основе истории загрузки вашего кластера оптимизировать его архитектуру (например показывает какие типы узлов стоит закупить)&lt;/p&gt;
 &lt;p&gt;PBS #Cloud #Manager - система позволяющая автоматически рааричивать вычислительные кластеры на базе публичных облаков #Amazon #AWS и #Microsoft #Azure. &lt;a href=&#34;https://www.youtube.com/watch?v=nbrkpNsD4rk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nbrkpNsD4rk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nbrkpNsD4rk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;PBS Pro from Altair Goes Open Source at ISC 2016&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Nor-Tech, один из крупнейших в США системных интеграторов сп</title>
-      <link>http://localhost:1313/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</link>
+      <title>Свершилось!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-22-svershilos-vchera-stala-dostupna-otkryta/</link>
+      <pubDate>Wed, 22 Jun 2016 11:02:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-22-svershilos-vchera-stala-dostupna-otkryta/</guid>
+      <description>&lt;p&gt;Вчера стала доступна открытая версия #Altair #PBS Pro. Вместе с открытием исходных текстов стала доступна и бесплатная версия. Все идем на &lt;a href=&#34;https://www.pbspro.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.pbspro.org&lt;/a&gt; за #HPC.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://innovationintelligence.com/open-source-licensing-altairs-pbs-professional-now-available/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Open Source Licensing for Altair&amp;rsquo;s PBS Professional Now Available! - Altair Innovation Intelligence&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#Altair сказал - Altair сделал.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-16-altair-skazal-altair-sdelal-na-sayte/</link>
+      <pubDate>Thu, 16 Jun 2016 07:00:06 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-16-altair-skazal-altair-sdelal-na-sayte/</guid>
+      <description>&lt;p&gt;На сайте появилась информация о том, что в середине 2016 года будут открыты коды #PBS Pro, и каждый желающий сможет собрать себе этот Workload Manager бесплатно.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.pbsworks.com/opensource/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;PBS Professional Open Source&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вот так, в одном проекте удалось совместить все лучшие практики #HPC: тут и #infiniband, и #tesla для ускорения расчетов, и #SSD для локального кэширования данных. На системное ПО тоже не поскупились: #Altair #PBS Pro, #NICE #DCV и #EnginFrame, #HP #CMU. Вот такой вот best practice вживую!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-18-vot-tak-v-odnom-proekte-udalos-sovmest/</link>
+      <pubDate>Wed, 18 May 2016 07:03:34 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-18-vot-tak-v-odnom-proekte-udalos-sovmest/</guid>
+      <description>&lt;p&gt;Мы это сделали!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://multiphysics.ru/stati/proekty/proektirovanie-vychislitelnogo-klastera-bgtu-voenmekh-im-d-f-ustinova.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Проектирование вычислительного кластера БГТУ «ВОЕНМЕХ» им. Д.Ф.Устинова | Инженерные расчеты&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Интересные новости происходят между праздниками. Команда #Altair #PBS Pro открывает исходные коды своего планировщика в рамках инициативы #OpenHPC. Итак, один из самых зубастых менеджеров очереди задач кластера разработанных когда-то в NASA c 14-ой версии станет open sourse!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-05-interesnye-novosti-proishodyat-mezhdu-praz/</link>
+      <pubDate>Thu, 05 May 2016 11:08:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-05-interesnye-novosti-proishodyat-mezhdu-praz/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://insidehpc.com/2016/05/an-open-letter-to-the-hpc-community/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;An Open Letter to the HPC Community&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#Altair продолжает наращивать свое партнерство с #Microsoft.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-29-altair-prodolzhaet-naraschivat-svoe-partn/</link>
+      <pubDate>Mon, 29 Feb 2016 08:25:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-29-altair-prodolzhaet-naraschivat-svoe-partn/</guid>
+      <description>&lt;p&gt;#Altair продолжает наращивать свое партнерство с #Microsoft. Очередным этапом стал запуска решателя #RADDIOSS (явная динамика) на мощностях #Azure для выполнения #HPC расчетов. Надо отметить, что до этого шага Altair и Microsoft начали дружить в рамках Altair #PBS Pro - одного лидеров среди систем планирования очереди задач. И вот теперь RADDIOSS покажет всем, что такое #Infiniband в публичном облаке (а ведь он есть только у Microsoft Azure).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/blog/availability-of-altair-radioss-rdma-on-microsoft-azure/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Altair® RADIOSS® now supported on Microsoft Azure&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Один из самых зубастых планировщиков (aka Workload Manager) - #Altair #PBS Pro открывает свой код!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-28-odin-iz-samyh-zubastyh-planirovschikov-ak/</link>
+      <pubDate>Sat, 28 Nov 2015 07:00:51 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-28-odin-iz-samyh-zubastyh-planirovschikov-ak/</guid>
+      <description>&lt;p&gt;Вот это #HPC бомба. Ждем бесплатных сборок 😊&lt;/p&gt;
+&lt;p&gt;Еще в видео есть немого рекламы яблочного решения Altair для решения инженерных задач.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=njnViLkwjhk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;PBS Pro Goes Open Source&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nor-Tech, один из крупнейших в США системных интеграторов специализирующихся на #HPC, запустил демонстрационных кластер, на котором вы можете свободно проверить, что конкретно вам даст настоящий высокопроизводительный ресурс.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</link>
       <pubDate>Mon, 23 Nov 2015 06:00:37 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</guid>
-      <description>&lt;p&gt;CAE:&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</guid>
+      <description>&lt;p&gt;Уже сейчас на классе доступны следующие программные продукты:&lt;/p&gt;
+&lt;p&gt;CAE:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;ANSYS: ANSYS Fluent – CFD,&lt;/li&gt;
 &lt;li&gt;ANSYS: Mechanical – FEA,&lt;/li&gt;
@@ -72,6 +223,7 @@
 &lt;li&gt;Altair PBS Pro, Compute Manager &amp;amp; Display Manager и другеи продукты&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Жаль, что у нас пока нет таких же бравых системных интеграторов.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.nor-tech.com/solutions/hpc/demo-cluster/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Try our free demo cluster&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

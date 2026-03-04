@@ -2,32 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PBM on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/pbm/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/pbm/</link>
     <description>MagicDPD: Magic Driven Product Development! (PBM)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 23 Nov 2015 13:01:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Dec 2016 10:01:26 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/pbm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/pbm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>IMPETUS Afea Solver от одноименной компании #IMPETUS Afea - </title>
-      <link>http://localhost:1313/posts/2015-11-23-impetus-afea-solver-ot-odnoimennoy-kompa/</link>
+      <title>Новогодний феерверк</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-30-novogodniy-feerverk/</link>
+      <pubDate>Fri, 30 Dec 2016 10:01:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-30-novogodniy-feerverk/</guid>
+      <description>&lt;p&gt;Новогодний феерверк
+&lt;a href=&#34;https://vk.com/doc11568_440462041&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/doc11568_440462041&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Коллеги, сегодня у нас последний рабочий день перед приятной новогодней суетой и долгожданными каникулами. Специально для вас я подготовил небольшой подарок.&lt;/p&gt;
+&lt;p&gt;Как я уже неоднократно писал, одной из фишек моей любимой #LSDYNA является очень эффективный метод расчета воздействия ударной волны от взрыва Particle Blast Method (#PBM). Он основан на Corpuscular Particle Method (#CPM &lt;a href=&#34;http://www.dynalook.com/13th-international-ls-dyna-conference/blast/particle-blast-method-pbm-for-the-simulation-of-blast-loading%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/13th-international-ls-dyna-conference/blast/particle-blast-method-pbm-for-the-simulation-of-blast-loading)&lt;/a&gt;, широко применяемом при расчете подушек безопасности. PBM на сегодняшний момент является самым быстрым способом расчета воздействия ударной волны на конструкцию - он сопоставим по скорости расчета, разве что с эмпирическим приложением нагрузки по методикам #ConWep, и в тони раз быстрее #ALE расчет.&lt;/p&gt;
+&lt;p&gt;Насколько мне известно, сейчас в интернете нет ни одного готового примера расчета взрыва . По крайней мере, за неделю поиска, я ничего не нашел. Так что я подготовил самый простой пример для выполнения подобного расчета.&lt;/p&gt;
+&lt;p&gt;P.S. Ссылка на подарок прилагается. Даешь максимальный репост!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/qOUo3JLNUao&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/qOUo3JLNUao&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vk.com/doc11568_440462041&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/doc11568_440462041&lt;/a&gt;
+&lt;a href=&#34;http://www.dynalook.com/13th-international-ls-dyna-conference/blast/particle-blast-method-pbm-for-the-simulation-of-blast-loading&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/13th-international-ls-dyna-conference/blast/particle-blast-method-pbm-for-the-simulation-of-blast-loading&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/qOUo3JLNUao&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/qOUo3JLNUao&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#IMPETUS Afea Solver оказался никаким не решателем.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-23-impetus-afea-solver-okazalsya-nikakim-ne/</link>
+      <pubDate>Mon, 23 Nov 2015 18:00:53 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-23-impetus-afea-solver-okazalsya-nikakim-ne/</guid>
+      <description>&lt;p&gt;Ребята просто написали LS-PrePost с человеческим лицом, а обманывать не хорошо. Тем более, что LS-DYNA использует элементы второго порядка и ускорение на GPU только для неявной схемы. Да и технология Particle Blast #PBM пока уникальна для LS-DYNA.&lt;/p&gt;
+&lt;p&gt;За остальным смотрим обучающее видео, которое раскрывает все тайны.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ILbfmkMUzGA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Impetus Tutorials: Workflow&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IMPETUS Afea Solver от одноименной компании #IMPETUS Afea - это решатель с явной схемой интегрирования по времени. При этом заявляется работа с SPH и DEM, дружественные интерфейс (!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-23-impetus-afea-solver-ot-odnoimennoy-kompa/</link>
       <pubDate>Mon, 23 Nov 2015 13:01:39 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-23-impetus-afea-solver-ot-odnoimennoy-kompa/</guid>
-      <description>&lt;p&gt;Мне так даже показалось, что у них есть аналог Particle Blast #PBM из LS-DYNA.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-23-impetus-afea-solver-ot-odnoimennoy-kompa/</guid>
+      <description>&lt;p&gt;!!) и ускорение на GPU NVIDIA (!!!) и элементы высокого порядка (а это зачем им для явного метода?!)&lt;/p&gt;
+&lt;p&gt;Мне так даже показалось, что у них есть аналог Particle Blast #PBM из LS-DYNA.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.impetus-afea.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;IMPETUS Afea&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>#FEM - Finite element method</title>
-      <link>http://localhost:1313/posts/2015-10-30-fem-finite-element-method/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-30-fem-finite-element-method/</link>
       <pubDate>Fri, 30 Oct 2015 06:30:09 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-30-fem-finite-element-method/</guid>
-      <description>&lt;p&gt;#FDM - Finite difference method
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-30-fem-finite-element-method/</guid>
+      <description>&lt;p&gt;#FEM - Finite element method
+#FDM - Finite difference method
 #DDA - Discontinuous deformation analysis
 #NMM - Numerical manifold method
 #DEM - Discrete element method
@@ -38,13 +72,16 @@
     </item>
     
     <item>
-      <title>Сравнительно новая, но многообещающая методика расчета возде</title>
-      <link>http://localhost:1313/posts/2015-10-07-sravnitelno-novaya-no-mnogoobeschayuschaya-me/</link>
+      <title>Сравнительно новая, но многообещающая методика расчета воздействия взрыв на объекты на основе метода взрыва частиц (particle blast method, PBM).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-07-sravnitelno-novaya-no-mnogoobeschayuschaya-me/</link>
       <pubDate>Wed, 07 Oct 2015 06:30:16 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-07-sravnitelno-novaya-no-mnogoobeschayuschaya-me/</guid>
-      <description>&lt;p&gt;В связке с DEM метод PBM может быть использован для моделирования осколочного воздействия.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-07-sravnitelno-novaya-no-mnogoobeschayuschaya-me/</guid>
+      <description>&lt;p&gt;Данный подход является расширением метода корпускулярный частиц (corpuscular particle method, CPM) изначально был реализованного в LS-DYNA для моделирования подушек безопастности. Метод работает в лагранжевой домене, что существенно упрощает постановку задачи.&lt;/p&gt;
+&lt;p&gt;В связке с DEM метод PBM может быть использован для моделирования осколочного воздействия.&lt;/p&gt;
 &lt;p&gt;В статье PBM показывает себя более эффективным, с вычислительной точки зрения. Кроме того, есть существенные преимущества по точности в сравнении с классическим моделированию взрыва в эйлеровом домене.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=87WoUVN-_1Q&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Particle_blast for mine blast simulation in LS-DYNA&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=_fibrw5JW4E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Blast fragmentation of a mortar cylinder using LS-DYNA&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

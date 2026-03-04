@@ -2,24 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cubit on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/cubit/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/cubit/</link>
     <description>MagicDPD: Magic Driven Product Development! (Cubit)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 13 Apr 2022 17:00:14 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/cubit/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/cubit/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Я уже писал про интересный открытый междисциплинарный решате</title>
-      <link>http://localhost:1313/posts/2022-04-13-ya-uzhe-pisal-pro-interesnyy-otkrytyy-mezhd/</link>
+      <title>Я уже писал про интересный открытый междисциплинарный решатель &#34;Лось&#34; (#MOOSE или Multiphysics Object-Oriented Simulation Environment).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-13-ya-uzhe-pisal-pro-interesnyy-otkrytyy-mezhd/</link>
       <pubDate>Wed, 13 Apr 2022 17:00:14 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-04-13-ya-uzhe-pisal-pro-interesnyy-otkrytyy-mezhd/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-13-ya-uzhe-pisal-pro-interesnyy-otkrytyy-mezhd/</guid>
       <description>&lt;p&gt;Так вот, в нем теперь есть поддержка #IGA, и это все стало возможным благодаря совместному проекту с командой  #Coreform #Cubit.&lt;/p&gt;
 &lt;p&gt;Для тех, кто еще не знает, что такое IGA, то данный подход подразумевает использование одной и той же гладкой сплайновой основы для определения геометрии и моделирования. Это дает более точные результаты, особенно на сравнительно грубых сетках: геометрия оказывается точно описанной при любом качестве сетки, оболочечные элементы могут сгибаться не только в узлах, а иногда нам требуется меньше степеней свободы для получения точного результата расчета. А еще там есть моя мечта - техника погружденных Solid IGA элементов, которая может навсегда решить проблемы с генерацией сложных сеток.&lt;/p&gt;
 &lt;p&gt;#opensource &lt;a href=&#34;https://youtu.be/UmS-pAuBnEU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/UmS-pAuBnEU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/UmS-pAuBnEU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Improving MOOSE workflows through Coreform Cubit&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coreform покупает csimsoft</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-31-coreform-pokupaet-csimsoft/</link>
+      <pubDate>Thu, 31 Oct 2019 17:03:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-31-coreform-pokupaet-csimsoft/</guid>
+      <description>&lt;p&gt;Coreform покупает csimsoft&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/coreform-acquires-csimsoft/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Coreform покупает csimsoft - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Начинаем изучать MoFEM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-30-nachinaem-izuchat-mofem/</link>
+      <pubDate>Fri, 30 Aug 2019 13:00:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-30-nachinaem-izuchat-mofem/</guid>
+      <description>&lt;p&gt;Начинаем изучать MoFEM&lt;/p&gt;
+&lt;p&gt;Давайте попробуем посмотреть, что нам предлагает открытый FEM код от Университета Глазго под названием MoFEM. Судя по твиттеру (&lt;a href=&#34;https://twitter.com/mofemjoseph%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://twitter.com/mofemjoseph)&lt;/a&gt;, они занимаются чем-то очень перспективным — например, отлично моделируют динамику роста трещин.&lt;/p&gt;
+&lt;p&gt;Accuracy is a necessity, but for industrial applications, robustness is essential. Sometimes cracks do twist, bend, but we can still represent them on coarse meshes. @mofemjoseph new release is closer and closer 😀 pic.twitter.com/SolWDVu8Lv— Lukasz Kaczmarczyk (@LukaszKaczmarcz) August 5, 2019&lt;/p&gt;
+&lt;p&gt;А начнем мы с видеоурока, посвященного решению простейших линейных задач механики. Для подготовки задачи и обработки результатов используется связка CUBIT и ParaView.&lt;/p&gt;
+&lt;p&gt;#crack #CUBIT #fracture #MoFEM #Open_Source #Paraview&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2EZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2EZ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/mofemjoseph&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MoFEM / @mofem@fosstodon.org (@mofemjoseph) on X&lt;/a&gt;
+ic.twitter.com/SolWDVu8Lv—
+ttps://wp.me/p9vWYY-2EZ&lt;/p&gt;
 </description>
     </item>
     

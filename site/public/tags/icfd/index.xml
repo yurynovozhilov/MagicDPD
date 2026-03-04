@@ -2,96 +2,260 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ICFD on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/icfd/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/icfd/</link>
     <description>MagicDPD: Magic Driven Product Development! (ICFD)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 24 Feb 2022 17:00:10 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/icfd/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/icfd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Недавно я писал про модель сердца, которую сделали на день с</title>
-      <link>http://localhost:1313/posts/2022-02-24-nedavno-ya-pisal-pro-model-serdtsa-kotor/</link>
+      <title>Недавно я писал про модель сердца, которую сделали на день святого Валентина. Я решил поискать, кто ее разработал. И тут я нашел сайт группы #TAFSM (Team for Advanced Flow Simulation and Modeling), и я не смог пройти мимо него!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-24-nedavno-ya-pisal-pro-model-serdtsa-kotor/</link>
       <pubDate>Thu, 24 Feb 2022 17:00:10 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-02-24-nedavno-ya-pisal-pro-model-serdtsa-kotor/</guid>
-      <description>&lt;p&gt;#SPH #ALE #ICFD #CFD #ANSYS &lt;a href=&#34;https://www.tafsm.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.tafsm.org&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-24-nedavno-ya-pisal-pro-model-serdtsa-kotor/</guid>
+      <description>&lt;p&gt;Коллеги решают задачи сложного FSI с подвижными, зачастую тонкими и сильно деформируемыми телами. Их расчеты предельно детализированы, а по статьям и сборника &amp;ldquo;Frontiers in Computational Fluid-Structure Interaction and Flow Simulation&amp;rdquo; (&lt;a href=&#34;https://doi.org/10.1007/978-&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://doi.org/10.1007/978-&lt;/a&gt; 3- 319- 96469- 0) можно учиться самому лучшему. Ну и то, что коллеге любят считать #FSI в #LSDYNA - это отдельный повод для моей любви.
+#SPH #ALE #ICFD #CFD #ANSYS &lt;a href=&#34;https://www.tafsm.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.tafsm.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.tafsm.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.tafsm.org/&lt;/a&gt;
+&lt;a href=&#34;https://doi.org/10.1007/978-&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://doi.org/10.1007/978-&lt;/a&gt;
+&lt;a href=&#34;https://www.tafsm.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.tafsm.org&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Ко Дню святого Валентина инженеры из Университета Райса и Ун</title>
-      <link>http://localhost:1313/posts/2022-02-21-ko-dnyu-svyatogo-valentina-inzhenery-iz-uni/</link>
+      <title>Ко Дню святого Валентина инженеры из Университета Райса и Университета Васада представили реалистичную картину того, как кровь проходит через работающую систему желудочек-клапан-аорта внутри бьющегося сердца. Неплохой #FSI!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-21-ko-dnyu-svyatogo-valentina-inzhenery-iz-uni/</link>
       <pubDate>Mon, 21 Feb 2022 17:00:42 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-02-21-ko-dnyu-svyatogo-valentina-inzhenery-iz-uni/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-21-ko-dnyu-svyatogo-valentina-inzhenery-iz-uni/</guid>
       <description>&lt;p&gt;Я пока не нашел, в чем был посчитана эта конкретная модель, но уж больно сильно она напоминает ранее публикованные &amp;ldquo;части&amp;rdquo; сердца, полностью считавшиеся в #LSDYNA (#Implicit + #ICFD) в статье DOI: 10.1007/s10237-017-0959-6 &lt;a href=&#34;https://www.youtube.com/watch?v=l9NlTV72InQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=l9NlTV72InQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=l9NlTV72InQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=l9NlTV72InQ&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Новые возможности решателя LS-DYNA R13: часть II</title>
-      <link>http://localhost:1313/posts/2021-11-22-novye-vozmozhnosti-reshatelya-ls-dyna-r13/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-11-22-novye-vozmozhnosti-reshatelya-ls-dyna-r13/</link>
       <pubDate>Mon, 22 Nov 2021 14:02:34 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-11-22-novye-vozmozhnosti-reshatelya-ls-dyna-r13/</guid>
-      <description>&lt;p&gt;Коллеги, на этой неделе, в среду перед обедом я приглашаю вас посмотреть живой вебинар новым возможностям LS-DYNA R13. Это будет заключительное мероприятие посвященное именно новым возможностям данного решателя. В ходе часового (а может и дольше) доклада вы узнаете про следующие темы:&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-11-22-novye-vozmozhnosti-reshatelya-ls-dyna-r13/</guid>
+      <description>&lt;p&gt;Новые возможности решателя LS-DYNA R13: часть II&lt;/p&gt;
+&lt;p&gt;Коллеги, на этой неделе, в среду перед обедом я приглашаю вас посмотреть живой вебинар новым возможностям LS-DYNA R13. Это будет заключительное мероприятие посвященное именно новым возможностям данного решателя. В ходе часового (а может и дольше) доклада вы узнаете про следующие темы:&lt;/p&gt;
 &lt;p&gt;Работа с контактом, задачи штамповки и формовки.Акустика, вибрация, NVH и новый решатель для расчета ультразвуковых волн.Новый монолитный электромагнитный BEM-FEM решатель и работа с постоянными магнитами.Новые возможности (S-)ALE и его связка с тепловым решателем.Развитие неявного решателя ICFD для несжимаемых течений.Новые возможности явного решателя CESE для сжимаемых реагирующих многофазных течений.&lt;/p&gt;
 &lt;p&gt;Конечно, самая горячая тема тут на мой вкус будет в акустике и в CESE, но это только на мой вкус. Я уверен, что каждый найдет что-то по своим интересам.&lt;/p&gt;
 &lt;p&gt;Если вы хотите попасть на вебинар, то вам обязательно (!!!) надо пройти бесплатную регистрацию и не в последний момент: &lt;a href=&#34;https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13-chast-ii/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13-chast-ii/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ale #bem #cadfem #icfd #sael
 &lt;a href=&#34;https://tinyurl.com/yfxn6xfv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfxn6xfv&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13-chast-ii/?utm_source=sg&amp;amp;utm_medium=email&amp;amp;utm_campaign=web-24-11-21&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Новые возможности решателя LS-DYNA R13: часть II&lt;/a&gt;
+&lt;a href=&#34;https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13-chast-ii/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13-chast-ii/&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yfxn6xfv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfxn6xfv&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Моделирование приводнения возвращаемого аппарата в FlowVisio</title>
-      <link>http://localhost:1313/posts/2020-05-06-modelirovanie-privodneniya-vozvraschaemogo/</link>
+      <title>Почему бы и нет</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-10-04-pochemu-by-i-net/</link>
+      <pubDate>Mon, 04 Oct 2021 13:01:33 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-10-04-pochemu-by-i-net/</guid>
+      <description>&lt;p&gt;Почему бы и нет&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=b9RzrIaRcvY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=b9RzrIaRcvY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #cfd #freesurface #fsi #icfd #lsdyna
+&lt;a href=&#34;https://tinyurl.com/yjxu9qzc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yjxu9qzc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=b9RzrIaRcvY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;A Capybara swimming and dragged down by the current, the Fluid-Structure Interaction version.&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yjxu9qzc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yjxu9qzc&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование приводнения возвращаемого аппарата в FlowVision</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-05-06-modelirovanie-privodneniya-vozvraschaemogo/</link>
       <pubDate>Wed, 06 May 2020 13:00:12 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-05-06-modelirovanie-privodneniya-vozvraschaemogo/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-05-06-modelirovanie-privodneniya-vozvraschaemogo/</guid>
       <description>&lt;p&gt;#CFD #FlowVision
 by Ян Поженько&lt;/p&gt;
 &lt;p&gt;LS-DYNA ICFD для расчета маски&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/%d0%bc%d0%be%d0%b4%d0%b5%d0%bb%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d0%bf%d1%80%d0%b8%d0%b2%d0%be%d0%b4%d0%bd%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b2%d0%be%d0%b7%d0%b2%d1%80%d0%b0%d1%89%d0%b0%d0%b5/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Моделирование приводнения возвращаемого аппарата в FlowVision - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Краштесты аккумуляторов в LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-01-15-krashtesty-akkumulyatorov-v-ls-dyna/</link>
+      <pubDate>Wed, 15 Jan 2020 13:01:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-01-15-krashtesty-akkumulyatorov-v-ls-dyna/</guid>
+      <description>&lt;p&gt;Краштесты аккумуляторов в LS-DYNA
+Как вы могли заметить, аккумуляторы окружают нас со всех сторон: от беспроводных наушников и телефонов до автомобилей. И все эти аккумуляторы могут потенциально очень плохо себя вести при повреждении. LSTC уже несколько лет разрабатывает методику и инструменты для расчетов краштестов аккумуляторов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=xU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.youtube.com/watch?v=xU&lt;/a&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Для этого в коде реализована расчетная схема, позволяющая организовать сильно связанный расчет сразу четырех (!!!) физик: прочность, тепло, электромагнетизм и химия. Кроме того, все это может быть дополнительно сопряжено с пятой физикой (но уже в более &amp;ldquo;мягком&amp;rdquo; режиме) - CFD для расчета сопряженного тепломассообмена, а в будущем и для магнитореологических жидкостей.&lt;/p&gt;
+&lt;p&gt;Решая такую сложную междисциплинарную задачу, специалисты по пассивной безопасности могут оценивать вероятность ущерба, наносимого батарее при ударных воздействиях, внешнем и внутреннем коротком замыкании и дальнейший разогрев/деградацию/разрушении объекта.
+#battery@magicdpd, #ICFD@magicdpd, #LSDYNA@magicdpd, #LSDYNA_EM@magicdpd, #thermal@magicdpd&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/battery-crash-simulations-in-ls-dyna/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Краштесты аккумуляторов в LS-DYNA - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>LS-DYNA для 2-way-FSI c учетом пористости ткани</title>
-      <link>http://localhost:1313/posts/2019-12-21-ls-dyna-dlya-2-way-fsi-c-uchetom-poristost/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-12-21-ls-dyna-dlya-2-way-fsi-c-uchetom-poristost/</link>
       <pubDate>Sat, 21 Dec 2019 13:00:31 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-12-21-ls-dyna-dlya-2-way-fsi-c-uchetom-poristost/</guid>
-      <description>&lt;p&gt;#FSI #ICFD #LS_DYNA #Parachute #simulationfriday
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-12-21-ls-dyna-dlya-2-way-fsi-c-uchetom-poristost/</guid>
+      <description>&lt;p&gt;LS-DYNA для 2-way-FSI c учетом пористости ткани
+#FSI #ICFD #LS_DYNA #Parachute #simulationfriday
 by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/ls-dyna-icfd-fsi-3d-porous-parachute-fsi-modeling/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LS-DYNA для 2-way-FSI c учетом пористости ткани - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ICFD sloshing</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-11-12-icfd-sloshing/</link>
+      <pubDate>Tue, 12 Nov 2019 18:10:50 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-11-12-icfd-sloshing/</guid>
+      <description>&lt;p&gt;ICFD sloshing&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/icfd-sloshing/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ICFD sloshing - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование FSI для парашюта</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-09-25-modelirovanie-fsi-dlya-parashyuta/</link>
+      <pubDate>Tue, 25 Sep 2018 17:00:24 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-09-25-modelirovanie-fsi-dlya-parashyuta/</guid>
+      <description>&lt;p&gt;Моделирование FSI для парашюта&lt;/p&gt;
+&lt;p&gt;Для моделирования парашюта вам потребуется настроить FSI между прочностным и CFD решателем LS-DYNA, и не забыть учесть пористость ткани.&lt;/p&gt;
+&lt;p&gt;#FSI #ICFD #LSDYNA #САВ
+&lt;a href=&#34;http://bit.ly/2OQ3cwg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OQ3cwg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2OQ3cwg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OQ3cwg&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Цунами FSI</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-31-tsunami-fsi/</link>
+      <pubDate>Tue, 31 Jul 2018 18:02:03 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-31-tsunami-fsi/</guid>
+      <description>&lt;p&gt;Цунами FSI
+Пример моделирования волны цунами в LS-DYNA ICFD. Волна на свободной поверхности задается картой  *ICFD_BOUNDARY_FSWAVE.&lt;/p&gt;
+&lt;p&gt;И, конечно, вот ссылка на учебный пример от LSTC по работе с данным генератором волн: https://www.dynaexamples.com/icfd/beta_examples/wave_gen&lt;/p&gt;
+&lt;p&gt;#CFD #FSI #ICFD #LSDYNA #LSTC #Tsunami
+&lt;a href=&#34;http://bit.ly/2v5AEXP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2v5AEXP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dynaexamples.com/icfd/beta_examples/wave_gen&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynaexamples.com/icfd/beta_examples/wave_gen&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2v5AEXP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2v5AEXP&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Уравнение Мурнагана для моделирования жидкостей в SPH</title>
-      <link>http://localhost:1313/posts/2018-07-26-uravnenie-murnagana-dlya-modelirovaniya-zhi/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-26-uravnenie-murnagana-dlya-modelirovaniya-zhi/</link>
       <pubDate>Thu, 26 Jul 2018 18:00:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-07-26-uravnenie-murnagana-dlya-modelirovaniya-zhi/</guid>
-      <description>&lt;p&gt;В LS-DYNA R10 появилось новое уравнение состояния для моделирования жидкостей. Если раньше приходилось мучаться с уравнением состояния Грюнайзена, то теперь есть специальное уравнение состояния Мурнагана для слабосжимаемых жидкостей. У LSTC есть не только статья, рассказывающая о том, как работает данное уравнение, но и целый рабочий пример, скалиброванный на эксперименте и дающий достоверные результаты!&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-26-uravnenie-murnagana-dlya-modelirovaniya-zhi/</guid>
+      <description>&lt;p&gt;Уравнение Мурнагана для моделирования жидкостей в SPH
+В LS-DYNA R10 появилось новое уравнение состояния для моделирования жидкостей. Если раньше приходилось мучаться с уравнением состояния Грюнайзена, то теперь есть специальное уравнение состояния Мурнагана для слабосжимаемых жидкостей. У LSTC есть не только статья, рассказывающая о том, как работает данное уравнение, но и целый рабочий пример, скалиброванный на эксперименте и дающий достоверные результаты!&lt;/p&gt;
 &lt;p&gt;Таким образом, мы имеем EOS_MURNAGHAN, которое сопрягается с MAT_NULL и работает только для SECTION_SPH. Остается только задать вязкость жидкости через CONTROL_BULK_VISCOSITY и все готово. Полученное решение хорошо согласуется с экспериментами и расчетами в CFD решателе LS-DYNA ICFD.&lt;/p&gt;
 &lt;p&gt;Статья: https://www.dynalook.com/15th-international-ls-dyna-conference/sph/fluid-flow-modeling-with-sph-in-ls-dyna-r
 Тестовый пример: https://www.dynaexamples.com/sph/intermediate-examples/wavestructure&lt;/p&gt;
 &lt;p&gt;#CFD #FSI #ICFD #LSDYNA #MURNAGHAN #SPH
 &lt;a href=&#34;http://bit.ly/2K2RMSG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2K2RMSG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dynalook.com/15th-international-ls-dyna-conference/sph/fluid-flow-modeling-with-sph-in-ls-dyna-r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/15th-international-ls-dyna-conference/sph/fluid-flow-modeling-with-sph-in-ls-dyna-r&lt;/a&gt;
+&lt;a href=&#34;https://www.dynaexamples.com/sph/intermediate-examples/wavestructure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynaexamples.com/sph/intermediate-examples/wavestructure&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2K2RMSG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2K2RMSG&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>#DYNAMore выпустили отличнейший учебный курс по #LSDYNA для </title>
-      <link>http://localhost:1313/posts/2017-11-07-dynamore-vypustili-otlichneyshiy-uchebnyy/</link>
+      <title>Материалы 15-ой конференции LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-06-26-materialy-15-oy-konferentsii-ls-dyna/</link>
+      <pubDate>Tue, 26 Jun 2018 18:02:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-06-26-materialy-15-oy-konferentsii-ls-dyna/</guid>
+      <description>&lt;p&gt;Материалы 15-ой конференции LS-DYNA
+Стали доступны материалы конференции, проведенной две недели назад  в Детройте, США. Это значит, что в свободный доступ попал большой массив (182 штуки) свежайших статей от ведущих разработчиков и пользователей LS-DYNA. Спасибо LSTC за такую щедрую политику распространения информации. Если надо объяснять, то не надо объяснять.
+Что я уже успел отметить для себя при беглом просмотре части материалов (все будет позднее подробно рассказано в паблике):&lt;/p&gt;
+&lt;p&gt;S-ALE домен научился двигаться за центром тяжести себя самого
+Подробное описание MLS-SPH формулировки, стабильной на растяжение и кручение
+Вычислительно эффективные IGA-элементы
+Обзор работы основных моделей бетонов для SPH
+Аналог *CONSTRAINED_LAGRANGE_IN_SOLID для SPG
+Расчеты динамики парашютов с использованием как ALE-FSI, так и ICFD-FSI&lt;/p&gt;
+&lt;p&gt;Программа конференции: https://www.dynamore.de/en/downloads/flyer/2018/int.-ls-dyna-conference-2018-agenda
+Материалы для изучения: https://www.dynalook.com/copy_of_11th-european-ls-dyna-conference
+P.S. URL для материалов какой-то очень кривой на вид, но он рабочий. На крайний случай, всегда можно увидеть все матералы на сайте dynalook.com&lt;/p&gt;
+&lt;p&gt;#Concrete #FSI #ICFD #IGA #LSDYNA #LSTC #MLS #SALE #SPG #SPH
+&lt;a href=&#34;http://bit.ly/2MkPZtG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2MkPZtG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dynamore.de/en/downloads/flyer/2018/int.-ls-dyna-conference-2018-agenda&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.de/en/downloads/flyer/2018/int.-ls-dyna-conference-2018-agenda&lt;/a&gt;
+&lt;a href=&#34;https://www.dynalook.com/copy_of_11th-european-ls-dyna-conference&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/copy_of_11th-european-ls-dyna-conference&lt;/a&gt;
+dynalook.com
+&lt;a href=&#34;http://bit.ly/2MkPZtG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2MkPZtG&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Большой и очень подробный видео урок про то как можно оптимизировать аэродинамику задней части автомобиля в #LSDYNA используя решатель #ICFD.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-15-bolshoy-i-ochen-podrobnyy-video-urok-pro/</link>
+      <pubDate>Fri, 15 Dec 2017 17:13:39 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-15-bolshoy-i-ochen-podrobnyy-video-urok-pro/</guid>
+      <description>&lt;p&gt;Интересные фишки урока - #ANSA используется для морфина сетки. Надо отметить, что та сетка, что вы видите - это не расчетная сетка. Расчетная сетка генерируется решателем на лету. Та сетка, что вы видите - это просто такое представление геометрии для решателя. Это же объясняет отсутствие призматических слоев у границ домена. По сути работая с сеткой в #ANSA тут задают параметризацию формы геометрии как #SpaceClaim.&lt;/p&gt;
+&lt;p&gt;А вот начиная со времени 10:12 начинается настройка параметрического проекта в LS-Opt - бесплатного (!!!) оптимизатора от #LSTC. Очень полезно тем, кто хочет познакомиться с оптимизацией. Бесплатен #LSOPT для тех, у кого есть LS-DYNA 😊&lt;/p&gt;
+&lt;p&gt;И да, если у вас есть весь описаный в уроке софт, то вот ссылка на архив пролета от авторов видео урока: &lt;a href=&#34;http://ift.tt/2AB0pjs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2AB0pjs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5h0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=5h0&lt;/a&gt;…MediaMediaMedia📼 Shape optimization for CFD analysis using LS-Opt +…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2ABXw28&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ABXw28&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vlBJYZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlBJYZ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zoi3XR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zoi3XR&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2yfJ8Lg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yfJ8Lg&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2yfJ8Lg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yfJ8Lg&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vVLrF3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vVLrF3&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xRPO1U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xRPO1U&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2ycnLef&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ycnLef&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2BrWdGu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2BrWdGu&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=5h0fU_ee2jI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=5h0fU_ee2jI&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2BrWeKy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2BrWeKy&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2Azpjjy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2Azpjjy&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2BrWgSG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2BrWgSG&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2ABXw28&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ABXw28&lt;/a&gt;
+tp://ift.tt/2ABXw28&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Данное видео призвано продемонстрировать работу динамических сеток для #CFD решателя #LSDYNA #ICFD.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-02-dannoe-video-prizvano-prodemonstrirovat/</link>
+      <pubDate>Sat, 02 Dec 2017 17:06:12 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-02-dannoe-video-prizvano-prodemonstrirovat/</guid>
+      <description>&lt;p&gt;Всем, кому надо, срочно читать документацию на карту *MESH_SIZE_SHAPE&lt;/p&gt;
+&lt;p&gt;Для остальных небольшой ЛикБез: в LS-DYNA есть собственный CFD код (вернее их даже несколько). Этот код считает строго на тетраэдральных сетках. Сетки для него генерировать не надо - они создаются решателем на лету, в процессе расчета. Короче, шах и мат любители блочно-структурированной топологии.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=XsU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=XsU&lt;/a&gt;…Media📼 LS-DYNA CFD: Mesh size shape keyword example&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2zXxXw4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zXxXw4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2v2FNSC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2v2FNSC&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vlBJYZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlBJYZ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zoi3XR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zoi3XR&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=XsUy2h7zPiM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=XsUy2h7zPiM&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2AP4OmD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2AP4OmD&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zXxXw4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zXxXw4&lt;/a&gt;
+ttp://ift.tt/2zXxXw4&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#DYNAMore выпустили отличнейший учебный курс по #LSDYNA для всех и бесплатно!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-07-dynamore-vypustili-otlichneyshiy-uchebnyy/</link>
       <pubDate>Tue, 07 Nov 2017 17:10:20 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-07-dynamore-vypustili-otlichneyshiy-uchebnyy/</guid>
-      <description>&lt;ol start=&#34;0&#34;&gt;
-&lt;li&gt;Введение в #LSDYNA и #LSPP&lt;/li&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-07-dynamore-vypustili-otlichneyshiy-uchebnyy/</guid>
+      <description>&lt;p&gt;Курс состоит из 10 уроков:
+0. Введение в #LSDYNA и #LSPP&lt;/p&gt;
+&lt;ol&gt;
 &lt;li&gt;Основы МКЭ&lt;/li&gt;
 &lt;li&gt;Решение задачи растяжении болта в #explicit и #implicit постановке&lt;/li&gt;
 &lt;li&gt;Краш анализ в простейшем виде&lt;/li&gt;
@@ -105,16 +269,173 @@ by Юрий Новожилов&lt;/p&gt;
 &lt;p&gt;Вот как надо делать учетные курсы!&lt;/p&gt;
 &lt;p&gt;#ICFD #LSOPT
 &lt;a href=&#34;http://www.dynasupport.com/tutorial/introduction-ls-dyna-ls-prepost-for-explicit-and-implicit-analysis&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynasupport.com/tutorial/introduction-ls-dyna-ls-prepost-for-explicit-and-implicit-analysis&lt;/a&gt; 🔗 Introduction LS-DYNA/LS-PrePost for explicit and implicit analysis — LS-DYNA Support&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2zoi1PJ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zoi1PJ&lt;/a&gt;
+&lt;a href=&#34;http://www.dynasupport.com/tutorial/introduction-ls-dyna-ls-prepost-for-explicit-and-implicit-analysis&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynasupport.com/tutorial/introduction-ls-dyna-ls-prepost-for-explicit-and-implicit-analysis&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-DYNA R10 - теперь официально</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-02-ls-dyna-r10-teper-ofitsialno/</link>
+      <pubDate>Wed, 02 Aug 2017 09:00:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-02-ls-dyna-r10-teper-ofitsialno/</guid>
+      <description>&lt;p&gt;LS-DYNA R10 - теперь официально
+&lt;a href=&#34;http://www.dynasupport.com/news/ls-dyna-r10.0.0-r10.118302-released&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynasupport.com/news/ls-dyna-r10.0.0-r10.118302-released&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#LSDYNA R10 теперь официально доступна. Есть и первый release note, который мы можем прочитать вместе. Вот, что я отметил из интересного для себя:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Возможность на лету скармливать HEX #ALE сетку #SALE решателю&lt;/li&gt;
+&lt;li&gt;Куча вкусностей для PARTICLE_BLAST&lt;/li&gt;
+&lt;li&gt;CONTACT_AUTOMATIC_SURFACE_TO_SURFACE_MORTAR_TIED_WELD для моделирования сварки по критерию нагрева и касания&lt;/li&gt;
+&lt;li&gt;При расчет пружинения учет износ поверхности - геометрия модифицируется решателем с учетом изношенности автоматически.&lt;/li&gt;
+&lt;li&gt;CONSTRAINED_BEAM_IN_SOLID теперь работает для случаев динамической сеточной адаптации solid сетки, умеет делать армирование в tshell элементах.&lt;/li&gt;
+&lt;li&gt;CONTROL_FORMING_SHELL_TO_TSHELL - конвертация shell (оболочек) в tshell (толстые оболочки) налету при штамповке и глубокой вытяжке&lt;/li&gt;
+&lt;li&gt;Учет износа и эрозии при взаимодействии #DEM с сеточными телами.&lt;/li&gt;
+&lt;li&gt;Адаптативное сеткоперестроение для PART_STACKED_ELEMENTS (моделирование композитов)&lt;/li&gt;
+&lt;li&gt;Куча новшеств в #ICFD: простой рестарт, учет демпфирования, стационарная постановка, Windkessel boundary conditions&lt;/li&gt;
+&lt;li&gt;Двухсторонний #FSI ICFD-DEM&lt;/li&gt;
+&lt;li&gt;Доработки материала MAT_CONCRETE_EC2&lt;/li&gt;
+&lt;li&gt;Опция AFTERBURN для EOS_JWL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Еще есть много всего для CASE и химического решателя, но ими я пока не пользовался, так что комментировать не могу.&lt;/p&gt;
+&lt;p&gt;Решатели лежат тут:
+&lt;a href=&#34;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&lt;/a&gt;
+&lt;a href=&#34;http://ftp.lstc.com/user/mpp-dyna/R10.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/mpp-dyna/R10.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Лицензии ANSYS LS-DYNA для 18.1 вполне хватает для запуска решателя.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dynasupport.com/news/ls-dyna-r10.0.0-r10.118302-released&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LS-DYNA R10.0.0 (R10.118302) released&lt;/a&gt;
+&lt;a href=&#34;http://www.dynasupport.com/news/ls-dyna-r10.0.0-r10.118302-released&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynasupport.com/news/ls-dyna-r10.0.0-r10.118302-released&lt;/a&gt;
+&lt;a href=&#34;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&lt;/a&gt;
+&lt;a href=&#34;http://ftp.lstc.com/user/mpp-dyna/R10.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/mpp-dyna/R10.0/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сопряженный теплообмен для CFD</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-12-sopryazhennyy-teploobmen-dlya-cfd/</link>
+      <pubDate>Fri, 12 May 2017 17:01:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-12-sopryazhennyy-teploobmen-dlya-cfd/</guid>
+      <description>&lt;p&gt;Сопряженный теплообмен для CFD
+&lt;a href=&#34;https://www.youtube.com/watch?v=YEaJXa-lkSk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=YEaJXa-lkSk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Очередной вебинар от #LSTC по тематике работы их #CFD решателя. На этот раз рассматривается решение задачи сопряженного теплообмена.&lt;/p&gt;
+&lt;p&gt;#ICFD #LSDYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=YEaJXa-lkSk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=YEaJXa-lkSk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=YEaJXa-lkSk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ICFD conjugate heat transfer&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CFD сетки для LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-06-cfd-setki-dlya-ls-dyna/</link>
+      <pubDate>Thu, 06 Apr 2017 17:01:25 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-06-cfd-setki-dlya-ls-dyna/</guid>
+      <description>&lt;p&gt;CFD сетки для LS-DYNA
+&lt;a href=&#34;https://www.youtube.com/watch?v=HgRQ6HBZK2k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=HgRQ6HBZK2k&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Очередной #CFD учебный материал от #LSTC по работе с #ICFD решателем для #LSDYNA. Рассказывают про особенности построения сетки, и конечно про ее динамическое перестроение, когда надо.&lt;/p&gt;
+&lt;p&gt;#Mesh&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=HgRQ6HBZK2k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=HgRQ6HBZK2k&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=HgRQ6HBZK2k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ICFD mesh controls in LS-DYNA&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Тонкости FSI для LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-01-tonkosti-fsi-dlya-ls-dyna/</link>
+      <pubDate>Sat, 01 Apr 2017 12:02:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-01-tonkosti-fsi-dlya-ls-dyna/</guid>
+      <description>&lt;p&gt;Тонкости FSI для LS-DYNA
+&lt;a href=&#34;https://www.youtube.com/watch?v=CckL8tG2BkI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=CckL8tG2BkI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Новая лекция от #LSTC по тонкостям настройки #FSI для #LSDYNA. В лекции подробно разбирается совместная работа #Implicit и #ICFD решателя, алгоритм передачи данных. В конце есть ссылки на учебные примеры.&lt;/p&gt;
+&lt;p&gt;#CFD
+&lt;a href=&#34;https://www.youtube.com/watch?v=CckL8tG2BkI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=CckL8tG2BkI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=CckL8tG2BkI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Difference between weak and strong coupling in FSI simulations in LS-DYNA&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3D FSI в LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-16-3d-fsi-v-ls-dyna/</link>
+      <pubDate>Thu, 16 Mar 2017 17:03:35 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-16-3d-fsi-v-ls-dyna/</guid>
+      <description>&lt;p&gt;3D FSI в LS-DYNA
+&lt;a href=&#34;https://www.youtube.com/watch?v=eLI4p5Ifcds&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=eLI4p5Ifcds&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Учебный пример/вебинар #LSTC по постановке #FSI в #LSDYNA для трехмерного случая. Изучаем #ICFD и #Implicit.
+#CFD
+&lt;a href=&#34;https://www.youtube.com/watch?v=eLI4p5Ifcds&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=eLI4p5Ifcds&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=eLI4p5Ifcds&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;How to set up a 3D FSI case in LS-DYNA&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Еще раз об FSI в LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-04-esche-raz-ob-fsi-v-ls-dyna/</link>
+      <pubDate>Sat, 04 Mar 2017 17:00:25 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-04-esche-raz-ob-fsi-v-ls-dyna/</guid>
+      <description>&lt;p&gt;Еще раз об FSI в LS-DYNA
+&lt;a href=&#34;https://www.youtube.com/watch?v=IClEUvlftcE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=IClEUvlftcE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Еще одно 10 минутное обучающее видео, рассказывающее о том, как поставить #FSI задачу в #LSDYNA #ICFD + #LSDYNA #Implicit - UI не очень, зато робастность работы решателей на высоте!
+#CFD&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=IClEUvlftcE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=IClEUvlftcE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=IClEUvlftcE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FSI Simulation in LS DYNA&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3D CFD в LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-20-3d-cfd-v-ls-dyna/</link>
+      <pubDate>Mon, 20 Feb 2017 17:03:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-20-3d-cfd-v-ls-dyna/</guid>
+      <description>&lt;p&gt;3D CFD в LS-DYNA
+&lt;a href=&#34;https://www.youtube.com/watch?v=egJ2dsekUHQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=egJ2dsekUHQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#LSTC опубликовали видео урок по работе со встроенным #ICFD решателем #LSDYNA. Он отличается способностью работать на чудовищно кривых сетках, которые он сам строит и динамически перестраивает на лету.
+#CFD&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=egJ2dsekUHQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=egJ2dsekUHQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=egJ2dsekUHQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;How to set up a 3D CFD case in LS-DYNA&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2D FSI в LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-12-2d-fsi-v-ls-dyna/</link>
+      <pubDate>Sun, 12 Feb 2017 17:00:46 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-12-2d-fsi-v-ls-dyna/</guid>
+      <description>&lt;p&gt;2D FSI в LS-DYNA
+&lt;a href=&#34;https://www.youtube.com/watch?v=jB36LWzJW7I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jB36LWzJW7I&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#LSTC не на шутку взялись за наполнение своего канала видеоуроков. Так, вслед за примером по работе с #ICFD решателем из состава кода #LSDYNA, они подготовили видео по постановке #FSI расчета. Пока видео доступно только для 2D постановки, но скоро должно появиться с 3D.&lt;/p&gt;
+&lt;p&gt;#CFD
+&lt;a href=&#34;https://www.youtube.com/watch?v=jB36LWzJW7I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jB36LWzJW7I&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jB36LWzJW7I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ICFD how to set up a 2D FSI case&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Обучающее видео по ICFD в LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-01-21-obuchayuschee-video-po-icfd-v-ls-dyna/</link>
+      <pubDate>Sat, 21 Jan 2017 17:02:07 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-01-21-obuchayuschee-video-po-icfd-v-ls-dyna/</guid>
+      <description>&lt;p&gt;Обучающее видео по ICFD в LS-DYNA
+&lt;a href=&#34;https://www.youtube.com/watch?v=_8p929ke3gU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=_8p929ke3gU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#LSTC внезапно опубликовали на своем канале сорокаминутное обучающее видео по постановке и решению плоской #CFD задачи при помощи #ICFD решателя #LSDYNA. Очень полезно для новичков.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=_8p929ke3gU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=_8p929ke3gU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=_8p929ke3gU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ICFD video how to set up a 2D CFD case in LS-DYNA&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Материалы вебинара по новым возможностям LS-DYNA R9</title>
-      <link>http://localhost:1313/posts/2016-12-18-materialy-vebinara-po-novym-vozmozhnostyam/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-18-materialy-vebinara-po-novym-vozmozhnostyam/</link>
       <pubDate>Sun, 18 Dec 2016 17:00:20 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-12-18-materialy-vebinara-po-novym-vozmozhnostyam/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.dynamore.se/en/news/meet-dynamore/resources/papers/webinar-ls-dyna-r9-presentations&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.se/en/news/meet-dynamore/resources/papers/webinar-ls-dyna-r9-presentations&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-18-materialy-vebinara-po-novym-vozmozhnostyam/</guid>
+      <description>&lt;p&gt;Материалы вебинара по новым возможностям LS-DYNA R9
+&lt;a href=&#34;https://www.dynamore.se/en/news/meet-dynamore/resources/papers/webinar-ls-dyna-r9-presentations&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.se/en/news/meet-dynamore/resources/papers/webinar-ls-dyna-r9-presentations&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Шведское подразделение #DYNAmore любезно выложило слайды с прошедшего вебинара по новым возможностям #LSDYNA R9. Для меня это просто праздник какой-то, ибо внутри есть много очень крутых фишек.&lt;/p&gt;
 &lt;p&gt;Вот что больше всего понравилось мне:&lt;/p&gt;
 &lt;ul&gt;
@@ -128,73 +449,258 @@ by Юрий Новожилов&lt;/p&gt;
 &lt;li&gt;Бессеточный (!!!) метод обогощенных конечных элементов (Meshfree Enriched FEM, #MEFEM) специально для моделирования резин (*SECTION_SOLID, ELFORM=43).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;P.S. Ну надо было только такое придумать - бессеточный метод конечных элементов :-)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dynamore.se/en/news/meet-dynamore/resources/papers/webinar-ls-dyna-r9-presentations&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;WEBinar: LS-DYNA R9 - Presentations —&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Генератор турбулентности</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-17-generator-turbulentnosti/</link>
+      <pubDate>Sat, 17 Dec 2016 17:03:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-17-generator-turbulentnosti/</guid>
+      <description>&lt;p&gt;Генератор турбулентности
+&lt;a href=&#34;https://www.youtube.com/watch?v=fmUfyEhh7dQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=fmUfyEhh7dQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#LSDYNA #ICFD (incompressible #CFD) в R9 обзавелась возможностью генерировать турбулентность, чем и хвастается #LSTC. Всем матерым и уважаемым CFD кодам молчать!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=fmUfyEhh7dQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=fmUfyEhh7dQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=fmUfyEhh7dQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LS-DYNA CFD: Synthetic Turbulence Generation at Inlets. LES Flow around a tall building.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Примеры по Incompressible Computational Fluid Dynamics</title>
-      <link>http://localhost:1313/posts/2016-11-17-primery-po-incompressible-computational/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-17-primery-po-incompressible-computational/</link>
       <pubDate>Thu, 17 Nov 2016 17:01:44 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-11-17-primery-po-incompressible-computational/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.dynaexamples.com/icfd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynaexamples.com/icfd&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-17-primery-po-incompressible-computational/</guid>
+      <description>&lt;p&gt;Примеры по Incompressible Computational Fluid Dynamics
+&lt;a href=&#34;http://www.dynaexamples.com/icfd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynaexamples.com/icfd&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#DYNAmore создали целую отдельную страницу на своем ресурсе &lt;a href=&#34;https://www.dynaexamples.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.dynaexamples.com&lt;/a&gt;, посвященную решению #CFD задач с использованием #LSDYNA #ICFD. Очень полезно для новичков.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dynaexamples.com/icfd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ICFD&lt;/a&gt;
+&lt;a href=&#34;http://www.dynaexamples.com/icfd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynaexamples.com/icfd&lt;/a&gt;
+&lt;a href=&#34;https://www.dynaexamples.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.dynaexamples.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Свежая презентация по развитию LS-PrePost 4.3 от #LSTC - нав</title>
-      <link>http://localhost:1313/posts/2016-07-15-svezhaya-prezentatsiya-po-razvitiyu-ls-prepos/</link>
-      <pubDate>Fri, 15 Jul 2016 13:00:48 +0000</pubDate>
+      <title>Моделирование пропитки композитов</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-03-modelirovanie-propitki-kompozitov/</link>
+      <pubDate>Thu, 03 Nov 2016 17:00:45 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-07-15-svezhaya-prezentatsiya-po-razvitiyu-ls-prepos/</guid>
-      <description>&lt;ul&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-03-modelirovanie-propitki-kompozitov/</guid>
+      <description>&lt;p&gt;Моделирование пропитки композитов
+&lt;a href=&#34;https://www.youtube.com/watch?v=SpIXOfVEBvE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=SpIXOfVEBvE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#RTM - это когда моделируется процесс пропитки композитов связующими смолами (Resin Transfer Molding). Ребята из #LSTC показали как посчитать это в #CFD модуле #LSDYNA через фильтрацию в пористых средах. Несимметричный результат - следствие анизотропной пористости.&lt;/p&gt;
+&lt;p&gt;#ICFD #composite
+&lt;a href=&#34;https://www.youtube.com/watch?v=SpIXOfVEBvE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=SpIXOfVEBvE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=SpIXOfVEBvE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LS-DYNA CFD : Resin Transfer Molding Application (RTM)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DEM &#43; CFD</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-28-dem-&#43;-cfd/</link>
+      <pubDate>Wed, 28 Sep 2016 17:01:06 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-28-dem-&#43;-cfd/</guid>
+      <description>&lt;p&gt;DEM + CFD
+&lt;a href=&#34;https://www.youtube.com/watch?v=UwJ-V4u0PAI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=UwJ-V4u0PAI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#LSDYNA R9: #DEM to #CFD #FSI&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UwJ-V4u0PAI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=UwJ-V4u0PAI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UwJ-V4u0PAI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LS-DYNA CFD : Drivaer Benchmark plus DEM particles, study of snow deposition on vehicle&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-DYNA R9</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-04-ls-dyna-r9/</link>
+      <pubDate>Sun, 04 Sep 2016 06:30:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-04-ls-dyna-r9/</guid>
+      <description>&lt;p&gt;LS-DYNA R9
+&lt;a href=&#34;http://www.dynasupport.com/news/ls-dyna-r9.0.1-r9.109912-released&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynasupport.com/news/ls-dyna-r9.0.1-r9.109912-released&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#LSTC не спит и все быстрее выпускает матерные версии #LSDYNA. Так, 30-ого августа, вышла LS-DYNA R9.0.1.&lt;/p&gt;
+&lt;p&gt;Прочитав весь список изменения мне понравились такие фишки:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ALE_STRUCTURED_MESH - продолжение развития структурированного #ALE решателя&lt;/li&gt;
+&lt;li&gt;#CESE решатель не заброшен, ребята проболтают пилить #CFD код с учетом сжимаемости&lt;/li&gt;
+&lt;li&gt;CONTACT_AUTOMATIC_SURFACE_TO_SURFACE_TIED_WELD - контактный алгоритм упрощающий моделирование сварки&lt;/li&gt;
+&lt;li&gt;CONSTRAINED_LAGRANGE_IN_SOLID_EDGE - тот же CONSTRAINED_LAGRANGE_IN_SOLID, но в 2D&lt;/li&gt;
+&lt;li&gt;DEFINE_DE_INJECTION теперь умеет генерировать #DEM с нормальным распределением  их радиусов в заданном диапазоне&lt;/li&gt;
+&lt;li&gt;BOUNDARY_DE_NON_REFLECTING - неотражающие граничные условия в DEM (не знаю пока зачем, но звучит здорово)&lt;/li&gt;
+&lt;li&gt;DEFINE_DE_MASSFLOW_PLANE для расчета расхода частиц через плоскость&lt;/li&gt;
+&lt;li&gt;ICFD_BOUNDARY_FSWAVE - #ICFD решатель научился генерировать волны в задачах со свободной поверхностью (ну наконец-то!)&lt;/li&gt;
+&lt;li&gt;ICFD_CONTROL_DEM_COUPLING - наконец-то появился #FSI между ICFD и DEM (привет связке #Fluent + #Rocky)&lt;/li&gt;
+&lt;li&gt;ELEMENT_SOLID_NURBS_PATCH - #NURBS solid элементы для #implicit и #explicit решателя!&lt;/li&gt;
+&lt;li&gt;MAT_GENERALIZED_PHASE_CHANGE - новый навороченный материал для моделирования фазовых переходов&lt;/li&gt;
+&lt;li&gt;MAT_ADHESIVE_CURING_VISCOELASTIC - моделирование процесса полимеризации терморезистивных смол (привет #ANSYS #ACCS)&lt;/li&gt;
+&lt;li&gt;MAT_ADD_GENERALIZED_DAMAGE - добавление анизатропной разрушаемости существующим миоделям материалов (пока только для shell)&lt;/li&gt;
+&lt;li&gt;Пластическое разрушение для #XFEM (eXtended Finite Element Method)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Хороший релиз получился :-)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynasupport.com/news/ls-dyna-r9.0.1-r9.109912-released&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LS-DYNA R9.0.1 (R9.109912) released  — LS-DYNA Support&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Свежая презентация по развитию LS-PrePost 4.3 от #LSTC - наверно лучшего (а еще и совершенно бесплатного) перпоста для LS-DYNA.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-15-svezhaya-prezentatsiya-po-razvitiyu-ls-prepos/</link>
+      <pubDate>Fri, 15 Jul 2016 13:00:53 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-15-svezhaya-prezentatsiya-po-razvitiyu-ls-prepos/</guid>
+      <description>&lt;p&gt;Мне больше всего понравились 3 фишки:&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;Специальный модуль для настроки задач акустики решаемых методом граничных элементов ( #BEM )&lt;/li&gt;
 &lt;li&gt;Разработка нового интерфейса для работы с #CFD решателм ( #ICFD и #CASE )&lt;/li&gt;
 &lt;li&gt;Сборка нерегулятной простаноственной КЭ сетки из облака точек&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;#LSDYNA #LSPP
-&lt;a href=&#34;https://vk.com/doc11568_437666321&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/doc11568_437666321&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;http://lnk.al/1Gyt&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1Gyt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lnk.al/1Gyt&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1Gyt&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>А вот это уже полезно: генерация волн через граничные условия для зада со свободной поверхностью в #LSDYNA #ICFD</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-11-a-vot-eto-uzhe-polezno-generatsiya-voln-che/</link>
+      <pubDate>Sat, 11 Jun 2016 07:01:36 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-11-a-vot-eto-uzhe-polezno-generatsiya-voln-che/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=v5tr9JwGHw8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LS-DYNA CFD: wave generation in FSI+Free-Surface flow&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Не болтай ерундой!</title>
-      <link>http://localhost:1313/posts/2016-06-10-ne-boltay-erundoy/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-10-ne-boltay-erundoy/</link>
       <pubDate>Fri, 10 Jun 2016 11:02:27 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-06-10-ne-boltay-erundoy/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-10-ne-boltay-erundoy/</guid>
+      <description>&lt;p&gt;Не болтай ерундой!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=dgIIuRZcuAQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LSDYNA CFD : Fluid Elastic Body Interaction Problem&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Еще одни выходные - еще один этап самообучения по теме #CFD </title>
-      <link>http://localhost:1313/posts/2016-04-26-esche-odni-vyhodnye-esche-odin-etap-samoob/</link>
+      <title>Еще одни выходные - еще один этап самообучения по теме #CFD в LS-DYNA.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-26-esche-odni-vyhodnye-esche-odin-etap-samoob/</link>
       <pubDate>Tue, 26 Apr 2016 08:00:41 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-04-26-esche-odni-vyhodnye-esche-odin-etap-samoob/</guid>
-      <description>&lt;p&gt;В бассейне со свободной поверхностью задается колебательное движение одной стенки. Стенка принимается недеформируемой, а жидкость - несжимаемой. При этом, так как сетка у меня все равно очень плохая, то на всех границах домена ставлю скольжение. Колебания стенки рассчитываются неявным решателем, что бы не мельчить шаг по времени.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-26-esche-odni-vyhodnye-esche-odin-etap-samoob/</guid>
+      <description>&lt;p&gt;На этот раз я решали простейшую задачу #FSI моделирующую работы некого волнопродуктора.&lt;/p&gt;
+&lt;p&gt;В бассейне со свободной поверхностью задается колебательное движение одной стенки. Стенка принимается недеформируемой, а жидкость - несжимаемой. При этом, так как сетка у меня все равно очень плохая, то на всех границах домена ставлю скольжение. Колебания стенки рассчитываются неявным решателем, что бы не мельчить шаг по времени.&lt;/p&gt;
 &lt;p&gt;P.S. Такой простой настройки FSI я еще не видел 😊&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=w5ddrjcVbnM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Wave maker in LS-DYNA ICFD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Я наконец смог посчитать #CFD задачу со свободной поверхностью в #LSDYNA #ICFD.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-19-ya-nakonets-smog-poschitat-cfd-zadachu-so/</link>
+      <pubDate>Tue, 19 Apr 2016 07:02:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-19-ya-nakonets-smog-poschitat-cfd-zadachu-so/</guid>
+      <description>&lt;p&gt;Использовал слегка модифицированную постановку Sunao Tokura из стати &amp;ldquo;Validation of Fluid Analysis Capabilities in LS-DYNA Based on Experimental Result&amp;rdquo;. Получилось неплохо. Есть несколько тонкостей:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;на задачах со свободной поверхностью пристеночные слои глючат&lt;/li&gt;
+&lt;li&gt;граничные условия прилипания в такой задаче тоже не очень адекватны для грубой сетки&lt;/li&gt;
+&lt;li&gt;расчет идет быстро и стабильно, заметно быстрее чем ALE&lt;/li&gt;
+&lt;li&gt;второй фазой может быть только вакуум - никакой поддержки полноценной многофазности пока нет&lt;/li&gt;
+&lt;li&gt;кажется, что решатель не очень любит регулярную треугольную сетку на стенках домена.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;И да, вам потребуется LS-DYNA #MPP, если хотите использовать более 1 ядра на расчет. Для этого пригодится такая командная строка (я использовал LS-DYNA R8.1:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;%AWP_ROOT170%\commonfiles\MPI\Platform\9.1.3.1\winx64\bin\mpirun.exe&amp;rdquo; -v -np 4 mppdyna.exe i=water_column_collapse_main.k&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=VI7Gd3Zo5iU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Water Column Collapse in LS-DYNA ICFD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Я давно хотел освоить #CFD, но дальше получения отличной оценки по данному предмету в институте как-то не шло. #ANSYS #Fluent оказался для меня слишком сложен и неустойчив, #ANSYS Flux, который так долго обещали инсайдеры, так и не вышел.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-04-ya-davno-hotel-osvoit-cfd-no-dalshe-po/</link>
+      <pubDate>Mon, 04 Apr 2016 07:01:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-04-ya-davno-hotel-osvoit-cfd-no-dalshe-po/</guid>
+      <description>&lt;p&gt;ANSYS #AIM все время огорчает нехваткой очевидный функций. Так что на этих выходных я начал самообучение LS-DYNA #ICFD.&lt;/p&gt;
+&lt;p&gt;Спешу поделиться первыми успехами.&lt;/p&gt;
+&lt;p&gt;LS-DYNA ICFD это решатель с неявной схемой обладающий следующими фишками:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;потрясающая сеточка устойчивость&lt;/li&gt;
+&lt;li&gt;FSI, связь с DEM, SPH и Termal&lt;/li&gt;
+&lt;li&gt;автоматическая генерация сетки&lt;/li&gt;
+&lt;li&gt;адаптивное перестроение сетки&lt;/li&gt;
+&lt;li&gt;все расчеты делает один код, а не связка кодов от разных разработчиков&lt;/li&gt;
+&lt;li&gt;достаточно лицензии на LS-DYNA&lt;/li&gt;
+&lt;li&gt;свободные поверхности&lt;/li&gt;
+&lt;li&gt;двухфайзные течения&lt;/li&gt;
+&lt;li&gt;неньютоновские жидкости&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=w_PnXPRGdKE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Kármán vortex street in LS-DYNA ICFD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Связанный расчет в LS-DYNA: #DEM и #ICFD.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-04-svyazannyy-raschet-v-ls-dyna-dem-i-icfd/</link>
+      <pubDate>Fri, 04 Mar 2016 11:27:39 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-04-svyazannyy-raschet-v-ls-dyna-dem-i-icfd/</guid>
+      <description>&lt;p&gt;Дискретные частицы захватываются потоком и взаимодействуют с объектом.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=IP7G0pVCSIU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ICFD coupled with DEM (LS-DYNA)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Этого-то мне и не хватало: обучающее видео на тему решения задачи гидродинамики в допущении несжимаемости потока при помощи LS-DYNA Incompressible CFD (#ICFD).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-18-etogo-to-mne-i-ne-hvatalo-obuchayuschee-vid/</link>
+      <pubDate>Mon, 18 Jan 2016 06:30:10 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-18-etogo-to-mne-i-ne-hvatalo-obuchayuschee-vid/</guid>
+      <description>&lt;p&gt;На этот раз нас научат пользовать LS-PerPost 4.3 для постпроцессинга.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=wyyZgLPK1Ss&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ICFD Post treatment with LSPP4.3&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>А вот и первая часть видео урока по #ICFD в LS-DYNA. #lsdyna</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-31-a-vot-i-pervaya-chast-video-uroka-po-icf/</link>
+      <pubDate>Thu, 31 Dec 2015 06:15:50 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-31-a-vot-i-pervaya-chast-video-uroka-po-icf/</guid>
+      <description>&lt;p&gt;А вот и первая часть видео урока по #ICFD в LS-DYNA. #lsdyna&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Раскрытие парашюта - очень сложный FSI.</title>
-      <link>http://localhost:1313/posts/2015-12-28-raskrytie-parashyuta-ochen-slozhnyy-fsi/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-28-raskrytie-parashyuta-ochen-slozhnyy-fsi/</link>
       <pubDate>Mon, 28 Dec 2015 06:30:23 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-12-28-raskrytie-parashyuta-ochen-slozhnyy-fsi/</guid>
-      <description>&lt;p&gt;А какой код/связка кодов еще может смоделировать такой процесс?&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-28-raskrytie-parashyuta-ochen-slozhnyy-fsi/</guid>
+      <description>&lt;p&gt;Раскрытие парашюта - очень сложный FSI.&lt;/p&gt;
+&lt;p&gt;А какой код/связка кодов еще может смоделировать такой процесс?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=rsnhDExHa3I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;opening of parachute&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Киплинг решателя аэродинамики несжимаемых жидкостей и метода</title>
-      <link>http://localhost:1313/posts/2015-10-29-kipling-reshatelya-aerodinamiki-neszhimaemy/</link>
+      <title>Видео урок разбирающий работу #ICFD (Incompressible Computational Fluid Dynamics) решателя в LS-DYNA.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-20-video-urok-razbirayuschiy-rabotu-icfd-inc/</link>
+      <pubDate>Sun, 20 Dec 2015 18:00:29 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-20-video-urok-razbirayuschiy-rabotu-icfd-inc/</guid>
+      <description>&lt;p&gt;Тут и #FSI и односторонней или двусторонней связкой, и адаптивное сеткоперестроение, и связка как с #eplicit, так и с #implicit решателем дайны. Короче - полный #CFD.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ixW-nf5phV0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FSI problem set up with ICFD-LS-DYNA&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Киплинг решателя аэродинамики несжимаемых жидкостей и метода дискретных частиц в LS-DYNA R9 (тизер :-)).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-29-kipling-reshatelya-aerodinamiki-neszhimaemy/</link>
       <pubDate>Thu, 29 Oct 2015 18:00:35 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-29-kipling-reshatelya-aerodinamiki-neszhimaemy/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-29-kipling-reshatelya-aerodinamiki-neszhimaemy/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=J0RWMsyJCJU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ICFD and DEM coupling&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

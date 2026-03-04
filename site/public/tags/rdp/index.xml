@@ -2,24 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RDP on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/rdp/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/rdp/</link>
     <description>MagicDPD: Magic Driven Product Development! (RDP)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 29 Sep 2016 17:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2020 13:00:15 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/rdp/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/rdp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Удаленная работа с инженерной графикой</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-04-20-udalennaya-rabota-s-inzhenernoy-grafikoy/</link>
+      <pubDate>Mon, 20 Apr 2020 13:00:15 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-04-20-udalennaya-rabota-s-inzhenernoy-grafikoy/</guid>
+      <description>&lt;p&gt;Удаленная работа с инженерной графикой
+#HPC #OpenGL #RDP #RemoteFX #remoteviz
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/%d1%83%d0%b4%d0%b0%d0%bb%d0%b5%d0%bd%d0%bd%d0%b0%d1%8f-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0-%d1%81-%d0%b8%d0%bd%d0%b6%d0%b5%d0%bd%d0%b5%d1%80%d0%bd%d0%be%d0%b9-%d0%b3%d1%80%d0%b0%d1%84%d0%b8%d0%ba/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Удаленная работа с инженерной графикой - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Работа с CAE на удаленке</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-04-06-rabota-s-cae-na-udalenke/</link>
+      <pubDate>Mon, 06 Apr 2020 09:00:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-04-06-rabota-s-cae-na-udalenke/</guid>
+      <description>&lt;p&gt;Работа с CAE на удаленке&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/remote-cae-work-simples-best-practice/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Работа с CAE на удаленке - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Несколько слов про доставку инженерной графики</title>
-      <link>http://localhost:1313/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</link>
       <pubDate>Thu, 29 Sep 2016 17:00:58 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</guid>
+      <description>&lt;p&gt;Несколько слов про доставку инженерной графики
+&lt;a href=&#34;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#Microsoft продолжает хвастаться новыми возможностями по работе с #GPU, которые она реализует в #Windows #Server 2016. Нас ожидает поддержка нужного #OpenGL 4.4+ как в сценариях с #RDSH, так и при построении #VDI. При этом, в качестве средства доставки будет выступать привычный и понятный #RDP, а видеопоток будет полностью аппаратно кодироваться и декодироваться на GPU сервера и клиента. Аналогичные возможности ожидаются в #Azure #Cloud.&lt;/p&gt;
 &lt;p&gt;Неужели скоро все инженеры получат достойные системы доставки инженерной графики практически за так?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;New MS Mechanics video with the latest updates to RDS for Windows Server 2016&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MS RDP и OpenGL</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-16-ms-rdp-i-opengl/</link>
+      <pubDate>Fri, 16 Sep 2016 17:00:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-16-ms-rdp-i-opengl/</guid>
+      <description>&lt;p&gt;MS RDP и OpenGL
+&lt;a href=&#34;http://www.nvidia.com/download/driverResults.aspx/79105/en-us&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.nvidia.com/download/driverResults.aspx/79105/en-us&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;На днях один из моих коллег пожаловался мне, что у него через #RDP совершенно не тормозит работа с тяжелой моделью в #ANSYS. Я всегда держал в голове, что через RDP всегда получается плохо работать с #OpenGL. Каково же было мое удивление, когда я увидел по данным тестов поддержку OpenGL 4.4! И никаких тормозов!&lt;/p&gt;
+&lt;p&gt;Секрет оказался прост: оказывается для профессиональный видеокарт #NVIDIA давно (начиная с версии драйвера 341.05) включила поддержку OpenGL 4+ при работе через RDP. A #Windows 10 обеспечил сжатие потока хорошим видеокодеком.&lt;/p&gt;
+&lt;p&gt;Так что всем бегом за профессиональными видеокартами.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.nvidia.com/download/driverResults.aspx/79105/en-us&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.nvidia.com/download/driverResults.aspx/79105/en-us&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.nvidia.com/download/driverResults.aspx/79105/en-us&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;NVIDIA DRIVERS Quadro Desktop/Quadro Notebook Driver Release 340 WHQL&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

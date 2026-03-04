@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ExaFLOW on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/exaflow/</link>
+    <description>MagicDPD: Magic Driven Product Development! (ExaFLOW)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sat, 24 Jun 2017 17:01:00 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/exaflow/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Отказоустойчивый решатель</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-24-otkazoustoychivyy-reshatel/</link>
+      <pubDate>Sat, 24 Jun 2017 17:01:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-24-otkazoustoychivyy-reshatel/</guid>
+      <description>&lt;p&gt;Отказоустойчивый решатель
+&lt;a href=&#34;http://www.nektar.info&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.nektar.info&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Одной из проблем очень больших вычислительных систем являются из постоянные сбои. По статистике, у суперкомпьютеров из TOP 10 кажды день только по физическим причинам выходит из строя хотя бы один вычислительных узел. То уж говорить про системы, о которых мечтают ученые, когда говорят про #Exascale. Решатели, которые будут работать на них, должны обладать способностью эффективно обрабатывать падения части #MPI процессов без остановки расчета.&lt;/p&gt;
+&lt;p&gt;Команда #ExaFLOW в рамках проекта #Nektar++ (&lt;a href=&#34;http://www.nektar.info&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.nektar.info&lt;/a&gt;) смогла реализовать расширение для MPI, позволяющее в реальном времени эффективно обрабатывать такие сбои. Расширение носит имя User-Level Failure Mitigation (#ULFM).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nektar.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.nektar.info/&lt;/a&gt;
+&lt;a href=&#34;http://www.nektar.info&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.nektar.info&lt;/a&gt;
+&lt;a href=&#34;http://www.nektar.info&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.nektar.info&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

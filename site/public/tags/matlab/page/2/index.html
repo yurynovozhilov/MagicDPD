@@ -1,0 +1,1098 @@
+<!DOCTYPE html>
+
+
+<html lang="ru" data-theme="">
+<head>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>Matlab - MagicDPD: Magic Driven Product Development!</title>
+
+<meta name="description" content="Архив постов MagicDPD">
+
+
+
+
+
+<link rel="alternate" type="application/rss+xml" href="https://yurynovozhilov.github.io/MagicDPD/tags/matlab/index.xml" title="MagicDPD: Magic Driven Product Development!" />
+<link rel="icon" type="image/x-icon" href="https://yurynovozhilov.github.io/MagicDPD/favicon.ico">
+<link rel="apple-touch-icon-precomposed" href="https://yurynovozhilov.github.io/MagicDPD/favicon.png">
+
+
+
+
+    
+
+
+
+<style>
+  body {
+    visibility: hidden;
+    opacity: 0;
+  }
+</style>
+
+<noscript>
+  <style>
+    body {
+      visibility: visible;
+      opacity: 1;
+    }
+  </style>
+</noscript>
+
+
+
+
+    
+
+
+
+
+
+    
+    
+        
+    
+    
+
+    
+        <link rel="stylesheet" href="https://yurynovozhilov.github.io/MagicDPD/css/style.min.426c72691252fbafa70bd174646dc1b453a992641a8f942139874f9cadd6ae76.css" integrity="sha256-QmxyaRJS&#43;6&#43;nC9F0ZG3BtFOpkmQaj5QhOYdPnK3WrnY=">
+    
+
+
+
+
+
+    
+
+    
+
+
+
+
+
+    
+    
+        
+    
+    
+
+    
+        <script src="https://yurynovozhilov.github.io/MagicDPD/js/script.min.74bf1a3fcf1af396efa4acf3e660e876b61a2153ab9cbe1893ac24ea6d4f94ee.js" type="text/javascript" charset="utf-8" integrity="sha256-dL8aP88a85bvpKzz5mDodrYaIVOrnL4Yk6wk6m1PlO4="></script>
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+    
+        
+    
+    
+
+    
+        <script src="https://yurynovozhilov.github.io/MagicDPD/js/script.min.5a7c1b70ee40040794dd87e4a25dc23e9d426e9f08ac2611316cb9543eda45b4.js" type="text/javascript" charset="utf-8" integrity="sha256-WnwbcO5ABAeU3Yfkol3CPp1Cbp8IrCYRMWy5VD7aRbQ="></script>
+    
+
+
+
+
+    
+
+
+
+
+
+    
+    
+        
+    
+    
+
+    
+        <script src="https://yurynovozhilov.github.io/MagicDPD/js/script.min.d1092953d75d0389e869f1fd063a45b5aa76d05341ed48f7a1cacfd0db11d681.js" type="text/javascript" charset="utf-8" integrity="sha256-0QkpU9ddA4noafH9BjpFtap20FNB7Uj3ocrP0NsR1oE="></script>
+    
+
+
+
+
+
+
+
+
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Перейти к основному контенту</a>
+    <div class="container">
+        <header class="common-header"> 
+            
+                <div class="header-top">
+    <div class="header-top-left">
+        <h1 class="site-title">
+    <a href="/MagicDPD">MagicDPD: Magic Driven Product Development!</a>
+</h1>
+        <ul class="social-icons">
+
+
+    
+        <li>
+            <a href="https://t.me/MagicDPD" title="Telegram" rel="me">
+            <span class="inline-svg" >
+
+
+
+
+    
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm121.8 169.9l-40.7 191.8c-3 13.6-11.1 16.9-22.4 10.5l-62-45.7-29.9 28.8c-3.3 3.3-6.1 6.1-12.5 6.1l4.4-63.1 114.9-103.8c5-4.4-1.1-6.9-7.7-2.5l-142 89.4-61.2-19.1c-13.3-4.2-13.6-13.3 2.8-19.7l239.1-92.2c11.1-4 20.8 2.7 17.2 19.5z"/></svg>
+
+</span>
+
+            </a>
+        </li>
+    
+
+
+
+    <li>
+            <a href="https://yurynovozhilov.github.io/MagicDPD/index.xml" title="RSS" rel="me">
+            <span class="inline-svg" >
+
+
+
+
+    
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M128.081 415.959c0 35.369-28.672 64.041-64.041 64.041S0 451.328 0 415.959s28.672-64.041 64.041-64.041 64.04 28.673 64.04 64.041zm175.66 47.25c-8.354-154.6-132.185-278.587-286.95-286.95C7.656 175.765 0 183.105 0 192.253v48.069c0 8.415 6.49 15.472 14.887 16.018 111.832 7.284 201.473 96.702 208.772 208.772.547 8.397 7.604 14.887 16.018 14.887h48.069c9.149.001 16.489-7.655 15.995-16.79zm144.249.288C439.596 229.677 251.465 40.445 16.503 32.01 7.473 31.686 0 38.981 0 48.016v48.068c0 8.625 6.835 15.645 15.453 15.999 191.179 7.839 344.627 161.316 352.465 352.465.353 8.618 7.373 15.453 15.999 15.453h48.068c9.034-.001 16.329-7.474 16.005-16.504z"/></svg>
+
+</span>
+
+            </a>
+        </li>
+    
+
+</ul>
+    </div>
+    <div class="header-top-right">
+        
+
+    
+
+
+
+
+    <div class="theme-switcher">
+        <span class="inline-svg" >
+
+
+
+
+    
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 290 290">
+<path fill="currentColor" d="M142.959,0C64.131,0,0,64.132,0,142.96c0,78.828,64.131,142.959,142.959,142.959c78.828,0,142.96-64.131,142.96-142.959  C285.919,64.132,221.787,0,142.959,0z M142.959,260.919V142.96V25c65.043,0,117.96,52.917,117.96,117.96  C260.919,208.003,208.002,260.919,142.959,260.919z"/>
+</svg>
+
+</span>
+
+    </div>
+
+
+<script>
+const STORAGE_KEY = 'user-color-scheme'
+const defaultTheme = "auto"
+
+let currentTheme
+let switchButton
+let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+const autoChangeScheme = e => {
+    currentTheme = e.matches ? 'dark' : 'light'
+    document.documentElement.setAttribute('data-theme', currentTheme)
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    switchButton = document.querySelector('.theme-switcher')
+    currentTheme = detectCurrentScheme()
+    if (currentTheme == 'dark') {
+        document.documentElement.setAttribute('data-theme', 'dark')
+    }
+    if (currentTheme == 'auto') {
+        autoChangeScheme(autoDefinedScheme);
+        autoDefinedScheme.addListener(autoChangeScheme);
+    }
+
+    if (switchButton) {
+        switchButton.addEventListener('click', switchTheme, false)
+    }
+  
+    showContent()
+})
+
+function detectCurrentScheme() {
+    if (localStorage !== null && localStorage.getItem(STORAGE_KEY)) {
+        return localStorage.getItem(STORAGE_KEY)
+    } 
+    if (defaultTheme) {
+        return defaultTheme
+    } 
+    if (!window.matchMedia) {
+        return 'light'
+    } 
+    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        return 'dark'
+    }
+    return 'light'
+}
+
+function switchTheme(e) {
+    if (currentTheme == 'dark') {
+        if (localStorage !== null)
+            localStorage.setItem(STORAGE_KEY, 'light')
+        document.documentElement.setAttribute('data-theme', 'light')
+        currentTheme = 'light'
+    } else {
+        if (localStorage !== null)
+            localStorage.setItem(STORAGE_KEY, 'dark')
+        document.documentElement.setAttribute('data-theme', 'dark')
+        currentTheme = 'dark'
+    }
+}
+
+function showContent() {
+    document.body.style.visibility = 'visible';
+    document.body.style.opacity = 1;
+}
+</script>
+
+  
+    </div>
+</div>
+
+
+    <nav>
+        
+        
+        <a class="" href="https://yurynovozhilov.github.io/MagicDPD/" title="Главная">Главная</a>
+        
+        <a class="" href="https://yurynovozhilov.github.io/MagicDPD/archive/" title="Архив постов">Архив</a>
+        
+        <a class="" href="https://yurynovozhilov.github.io/MagicDPD/about/" title="О проекте">О проекте</a>
+        
+    </nav>
+
+
+
+
+
+            
+        </header>
+        <main id="main" tabindex="-1"> 
+            
+    <h1>Тег: Matlab</h1>
+    <div class="post-info">
+        <a href="/MagicDPD/tags/">К списку тегов</a>
+    </div>
+    
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2017-11-28-statya-instruktsiya-o-tom-kak-reshit-zada/">Статья-инструкция о том, как решить задачу парметрической оптимизации конструкции используя решатели #FEATool, сеточные генератор #Gmsh и #Matlab</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>#optimization #opensource</p>
+<p><a href="https://www.featool.com/tutorial/2017/11/13/CAD-Import-and-Parametric-Stress-Displacement-Simulation.html" target="_blank" rel="noopener noreferrer">https://www.featool.com/tutorial/2017/11/13/CAD-Import-and-Parametric-Stress-Displacement-Simulation.html</a> 🔗 Parametric FEATool Multiphysics FEM Studies with Gmsh and CAD File Import</p>
+<p><a href="http://ift.tt/2yt2ZXH" target="_blank" rel="noopener noreferrer">http://ift.tt/2yt2ZXH</a>
+<a href="https://www.featool.com/tutorial/2017/11/13/CAD-Import-and-Parametric-Stress-Displacement-Simulation.html" target="_blank" rel="noopener noreferrer">https://www.featool.com/tutorial/2017/11/13/CAD-Import-and-Parametric-Stress-Displacement-Simulation.html</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2017-11-28-statya-instruktsiya-o-tom-kak-reshit-zada/"><time datetime="2017-11-28">28.11.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-28-statya-instruktsiya-o-tom-kak-reshit-zada/">https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-28-statya-instruktsiya-o-tom-kak-reshit-zada/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/gmsh/">#GMSH</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/optimization/">#Optimization</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/featool/">#FEATool</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/matlab/">#Matlab</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/opensource/">#OpenSource</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2017-11-18-quickersim-cfd-toolbox-for-matlab-http/">#QuickerSim CFD Toolbox for MATLAB (<a href="http://ift.tt/2yJRJJf" target="_blank" rel="noopener noreferrer">http://ift.tt/2yJRJJf</a>) - набор инструментов для выполнения #CFD расчетов средствами #MATLAB.</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Стоит не дорого (для учебных целей - вообще бесплатно). На мой взгляд - это отличный инструмент для проведения лабораторных занятий в вузах.</p>
+<p><a href="https://youtu.be/kfCsSIxprFgMediaMedia" target="_blank" rel="noopener noreferrer">https://youtu.be/kfCsSIxprFgMediaMedia</a>🔗 Home - QuickerSim</p>
+<p><a href="http://ift.tt/2zfa56B" target="_blank" rel="noopener noreferrer">http://ift.tt/2zfa56B</a>
+<a href="https://youtu.be/kfCsSIxprFg" target="_blank" rel="noopener noreferrer">https://youtu.be/kfCsSIxprFg</a>
+<a href="https://quickersim.com/cfdtoolbox/" target="_blank" rel="noopener noreferrer">https://quickersim.com/cfdtoolbox/</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2017-11-18-quickersim-cfd-toolbox-for-matlab-http/"><time datetime="2017-11-18">18.11.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-18-quickersim-cfd-toolbox-for-matlab-http/">https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-18-quickersim-cfd-toolbox-for-matlab-http/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/quickersim/">#QuickerSim</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/matlab/">#Matlab</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/cfd/">#Cfd</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2017-10-11-ochen-mnogo-vebinarov-po-raschetu-ustalos/">Очень много вебинаров по расчету усталостей прочности в #Matlab</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>#FatigueMedia🔗 Fatigue Analysis Webinars</p>
+<p><a href="http://ift.tt/2i5bPYk" target="_blank" rel="noopener noreferrer">http://ift.tt/2i5bPYk</a></p>
+<p><a href="http://ift.tt/2i5c3Pa" target="_blank" rel="noopener noreferrer">http://ift.tt/2i5c3Pa</a>
+<a href="http://ift.tt/2gwaq9N" target="_blank" rel="noopener noreferrer">http://ift.tt/2gwaq9N</a>
+<a href="http://ift.tt/2i5bPri" target="_blank" rel="noopener noreferrer">http://ift.tt/2i5bPri</a>
+<a href="http://ift.tt/2gvKz1B" target="_blank" rel="noopener noreferrer">http://ift.tt/2gvKz1B</a>
+ttp://ift.tt/2i5bPYk</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2017-10-11-ochen-mnogo-vebinarov-po-raschetu-ustalos/"><time datetime="2017-10-11">11.10.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-11-ochen-mnogo-vebinarov-po-raschetu-ustalos/">https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-11-ochen-mnogo-vebinarov-po-raschetu-ustalos/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/matlab/">#Matlab</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/fatiguemedia/">#FatigueMedia</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2017-06-21-python-fem-i-mnogodistsiplinarnye-raschety/">Python FEM и многодисциплинарные расчеты  в FEniCS и FEATool</a></h1>
+        </header>
+        
+    </div>
+<a class="link-preview__card" href="https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html" target="_blank" rel="noopener noreferrer">
+  
+  <span class="link-preview__body">
+    <span class="link-preview__title">https://www.featool.com/tutorial/2017/06/16/Python-Multiphysics-and-FEA-Simulations-with-FEniCS-and-FEATool/</span>
+    
+    <span class="link-preview__host">www.featool.com</span>
+  </span>
+</a>
+
+
+        <div class="content post-summary p-summary">
+            <p>Python FEM и многодисциплинарные расчеты  в FEniCS и FEATool
+<a href="https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html" target="_blank" rel="noopener noreferrer">https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html</a></p>
+<p>#FEATool, который позволяет решать задачи методом конечных элементов (#МКЭ) на базе #Matlab, начали взаимодействовать с проектом #FEniCS, который также занимается решением задач в МКЭ припомни #Python и C++. Теперь FEniCS дочтен прямо в GUI FEATool.</p>
+<p>Говорят, что FEniCS протестирован для работы со СЛАУ размерности 100 миллионов уравнений, а также может работать на 512 CPUs, используя как #MPI, так и #OpenMP. А это существенно больше того, что сейчас может решать FEATool.</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2017-06-21-python-fem-i-mnogodistsiplinarnye-raschety/"><time datetime="2017-06-21">21.06.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-21-python-fem-i-mnogodistsiplinarnye-raschety/">https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-21-python-fem-i-mnogodistsiplinarnye-raschety/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/mpi/">#MPI</a></li>
+                
+                    
+                    <li><a href="">#МКЭ</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/fenics/">#FEniCS</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/openmp/">#OpenMP</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/python/">#Python</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/featool/">#FEATool</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/matlab/">#Matlab</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2017-03-07-raschet-ustalosti-pochti-besplatno/">Расчет усталости (почти) бесплатно</a></h1>
+        </header>
+        
+    </div>
+<a class="link-preview__card" href="http://fatiguetoolbox.org/" target="_blank" rel="noopener noreferrer">
+  
+  <span class="link-preview__body">
+    <span class="link-preview__title">Redirecting...</span>
+    
+    <span class="link-preview__host">fatiguetoolbox.org</span>
+  </span>
+</a>
+
+
+        <div class="content post-summary p-summary">
+            <p>Расчет усталости (почти) бесплатно
+<a href="http://fatiguetoolbox.org/" target="_blank" rel="noopener noreferrer">http://fatiguetoolbox.org/</a></p>
+<p>#Fatlab -  бесплатный софт для расчета усталостной прочности и долговечности с открытым исходным кодом. Написан на основе #Matlab, а модели получает из #ANSYS.</p>
+<p><a href="http://fatiguetoolbox.org/" target="_blank" rel="noopener noreferrer">http://fatiguetoolbox.org/</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2017-03-07-raschet-ustalosti-pochti-besplatno/"><time datetime="2017-03-07">07.03.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-07-raschet-ustalosti-pochti-besplatno/">https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-07-raschet-ustalosti-pochti-besplatno/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/matlab/">#Matlab</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/fatlab/">#Fatlab</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/opensource/">#OpenSource</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2017-03-05-scilab-kuplen/">Scilab куплен</a></h1>
+        </header>
+        
+    </div>
+<a class="link-preview__card" href="http://www.scilab.org/scilab/about" target="_blank" rel="noopener noreferrer">
+  
+  <span class="link-preview__body">
+    <span class="link-preview__title">About | Scilab</span>
+    
+    <span class="link-preview__host">www.scilab.org</span>
+  </span>
+</a>
+
+
+        <div class="content post-summary p-summary">
+            <p>Scilab куплен
+<a href="https://www.esi-group.com/company/investors/news/acquisition-scilab-enterprises-publisher-scilab-open-source-analytical-computational-software" target="_blank" rel="noopener noreferrer">https://www.esi-group.com/company/investors/news/acquisition-scilab-enterprises-publisher-scilab-open-source-analytical-computational-software</a></p>
+<p>На днях #ESI Group анонсировал поглощение компании Scilab Enterprises SAS  - разработчик #Scilab. Для тех, кто не в курсе, Scilab (<a href="http://www.scilab.org/scilab/about" target="_blank" rel="noopener noreferrer">http://www.scilab.org/scilab/about</a>) - это бесплатный аналог #Matlab с открытым исходным кодом. У ПО есть сборки под все операционные системы. А аналогом Matlab его называют за умение в большинстве случаев интерпретировать код, созданный для Matlab.</p>
+<p><a href="https://www.esi-group.com/company/investors/news/acquisition-scilab-enterprises-publisher-scilab-open-source-analytical-computational-software" target="_blank" rel="noopener noreferrer">Acquisition of Scilab Enterprises, publisher of Scilab open source analytical computational software</a>
+<a href="http://www.scilab.org/scilab/about" target="_blank" rel="noopener noreferrer">http://www.scilab.org/scilab/about</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2017-03-05-scilab-kuplen/"><time datetime="2017-03-05">05.03.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-05-scilab-kuplen/">https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-05-scilab-kuplen/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/matlab/">#Matlab</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/scilab/">#Scilab</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/esi/">#ESI</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2017-03-03-upravlyaya-fluent/">Управляя Fluent</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Управляя Fluent
+<a href="http://www.ansys-blog.com/ansys-fluent-matlab-example/" target="_blank" rel="noopener noreferrer">http://www.ansys-blog.com/ansys-fluent-matlab-example/</a></p>
+<p>#ANSYS #Fluent - убер решатель #CFD, но иногда и им надо управлять. В своем блоге ANSYS приводит пример кода для внешнего управления по средствам #Matlab! Интересно, чем им #Python не угодил?!</p>
+<p><a href="http://www.ansys-blog.com/ansys-fluent-matlab-example/" target="_blank" rel="noopener noreferrer">The (Technical) Kindness of ANSYS Fluent aaS, a Matlab Example</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2017-03-03-upravlyaya-fluent/"><time datetime="2017-03-03">03.03.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-03-upravlyaya-fluent/">https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-03-upravlyaya-fluent/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/cfd/">#Cfd</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/python/">#Python</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/matlab/">#Matlab</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/fluent/">#Fluent</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2016-12-24-nemnogo-analiticheskih-vykladok-v-scipy/">Немного аналитических выкладок в SciPy</a></h1>
+        </header>
+        
+    </div>
+<a class="link-preview__card" href="https://scipy-lectures.org/" target="_blank" rel="noopener noreferrer">
+  
+  <span class="link-preview__body">
+    <span class="link-preview__title">Scipy Lecture Notes — Scipy lecture notes</span>
+    
+    <span class="link-preview__host">scipy-lectures.org</span>
+  </span>
+</a>
+
+
+        <div class="content post-summary p-summary">
+            <p>Немного аналитических выкладок в SciPy
+<a href="http://www.scipy-lectures.org/" target="_blank" rel="noopener noreferrer">http://www.scipy-lectures.org/</a></p>
+<p>У могучего и популярного языка программирования #Python уже давно существует фреймворк #SciPy позволяющий бесплатно делать очень многое для научных расчетов, для чего раньше использовали дорогие и громоздкие #Matlab, #Mathematica или #Maple.</p>
+<p>Но как любой продукт того класса, SciPy надо изучать, а для этого нужно хорошее учебное пособие. Для изучения SciPy мне приглянулся сайт-учебныик <a href="http://www.scipy-lectures.org" target="_blank" rel="noopener noreferrer">http://www.scipy-lectures.org</a></p>
+<p>На сайте расскажут про такие модули/библиотека, как:</p>
+<ul>
+<li>#NumPy</li>
+<li>#Matplotlib</li>
+<li>#CPython</li>
+<li>#SymPy</li>
+<li>#Mayavi</li>
+<li>и многое другое.</li>
+</ul>
+<p>P.S. Весь сайт можно скачать в виде PDF, есть учебные пример, есть репозиторий на #GitHub</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2016-12-24-nemnogo-analiticheskih-vykladok-v-scipy/"><time datetime="2016-12-24">24.12.2016</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-24-nemnogo-analiticheskih-vykladok-v-scipy/">https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-24-nemnogo-analiticheskih-vykladok-v-scipy/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/numpy/">#NumPy</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/scipy/">#SciPy</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/github/">#Github</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/python/">#Python</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/mayavi/">#Mayavi</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/mathematica/">#Mathematica</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/matlab/">#Matlab</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/cpython/">#CPython</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/matplotlib/">#Matplotlib</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/maple/">#Maple</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/sympy/">#SymPy</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2016-11-21-cfd-ot-featool/">CFD от FEATool</a></h1>
+        </header>
+        
+    </div>
+<a class="link-preview__card" href="https://www.featool.com/tutorial/2016/11/14/Easy-Matlab-CFD-FeatFlow-external-CFD-solver-with-FEATool-integration" target="_blank" rel="noopener noreferrer">
+  
+  <span class="link-preview__thumb-wrap">
+    <img class="link-preview__thumb" src="https://www.featool.com/images/featool-openfoam-interface-edit-dictionaries.jpg" loading="lazy" alt="">
+  </span>
+  
+  <span class="link-preview__body">
+    <span class="link-preview__title">Easy to Use OpenFOAM GUI and CFD Solver Integration with FEATool Multiphysics</span>
+    
+    <span class="link-preview__description">The FEATool Multiphysics simulation toolbox features a fully integrated GUI for OpenFOAM, making setting up and running CFD simulations easy and convenient.</span>
+    
+    <span class="link-preview__host">www.featool.com</span>
+  </span>
+</a>
+
+
+        <div class="content post-summary p-summary">
+            <p>CFD от FEATool
+<a href="https://www.featool.com/tutorial/2016/11/14/Easy-Matlab-CFD-FeatFlow-external-CFD-solver-with-FEATool-integration" target="_blank" rel="noopener noreferrer">https://www.featool.com/tutorial/2016/11/14/Easy-Matlab-CFD-FeatFlow-external-CFD-solver-with-FEATool-integration</a></p>
+<p>#FEATool - #КЭ код работающий в рамках #Matlab получил интеграцию с #CFD кодом #FeatFlow. Последний является КЭ кодом для решения CFD в несжимаемой постановке. Говорят, что благодаря использованию библиотеки #UMFPACK от Matlab решатель FeatFlow работает не хуже #ANSYS #CFX и #OpenFOAM.</p>
+<p><a href="https://youtu.be/VSZ6o-eTlU0" target="_blank" rel="noopener noreferrer">https://youtu.be/VSZ6o-eTlU0</a></p>
+<p><a href="https://www.featool.com/tutorial/2016/11/14/Easy-Matlab-CFD-FeatFlow-external-CFD-solver-with-FEATool-integration" target="_blank" rel="noopener noreferrer">FeatFlow - Fast External CFD Solver Integration with FEATool</a>
+<a href="https://youtu.be/VSZ6o-eTlU0" target="_blank" rel="noopener noreferrer">https://youtu.be/VSZ6o-eTlU0</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2016-11-21-cfd-ot-featool/"><time datetime="2016-11-21">21.11.2016</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-21-cfd-ot-featool/">https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-21-cfd-ot-featool/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/cfd/">#Cfd</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+                    
+                    <li><a href="">#КЭ</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/featflow/">#FeatFlow</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/cfx/">#CFX</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/umfpack/">#UMFPACK</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/featool/">#FEATool</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/matlab/">#Matlab</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/openfoam/">#OPENFoam</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2016-11-12-calfem-ne-putat-s-cadfem/">CALFEM - не путать с CADFEM</a></h1>
+        </header>
+        
+    </div>
+<a class="link-preview__card" href="https://github.com/CALFEM" target="_blank" rel="noopener noreferrer">
+  
+  <span class="link-preview__thumb-wrap">
+    <img class="link-preview__thumb" src="https://avatars.githubusercontent.com/u/15145552?s=280&amp;v=4" loading="lazy" alt="">
+  </span>
+  
+  <span class="link-preview__body">
+    <span class="link-preview__title">CALFEM</span>
+    
+    <span class="link-preview__description">CALFEM has 7 repositories available. Follow their code on GitHub.</span>
+    
+    <span class="link-preview__host">github.com</span>
+  </span>
+</a>
+
+
+        <div class="content post-summary p-summary">
+            <p>CALFEM - не путать с CADFEM
+<a href="https://github.com/CALFEM" target="_blank" rel="noopener noreferrer">https://github.com/CALFEM</a></p>
+<p>#CALFEM (Computer Aided Learning of the Finite Element Method) - набор инструментов с открытым исходным текстом для изучения работы #МКЭ. CALFEM разработан в университете города Лунд (Lund), Швеция (Sweden) и может быт скачан с #GitHub. Имеются реализации для #Matlab, #Python, и C#.</p>
+<p>#opensource
+<a href="https://github.com/CALFEM" target="_blank" rel="noopener noreferrer">https://github.com/CALFEM</a></p>
+<p><a href="https://github.com/CALFEM" target="_blank" rel="noopener noreferrer">CALFEM</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2016-11-12-calfem-ne-putat-s-cadfem/"><time datetime="2016-11-12">12.11.2016</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-12-calfem-ne-putat-s-cadfem/">https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-12-calfem-ne-putat-s-cadfem/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="">#МКЭ</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/github/">#Github</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/python/">#Python</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/calfem/">#CALFEM</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/matlab/">#Matlab</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/opensource/">#OpenSource</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+    
+    
+    
+    <div class="pagination">
+        <div class="left pagination-item ">
+            
+                <a href="/MagicDPD/tags/matlab/">к новым записям</a>
+            
+        </div>
+        <div class="right pagination-item ">
+            
+                <a href="/MagicDPD/tags/matlab/page/3/">к старым записям</a>
+            
+        </div>
+    </div>
+
+
+
+
+        </main>
+        
+            <footer class="common-footer">
+    
+    
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+            <p>© GlukRazor, 2026<br>
+            Движок <a target="_blank" rel="noopener noreferrer" href="https://gohugo.io/">Hugo</a>, тема <a target="_blank" rel="noopener noreferrer" href="https://github.com/mitrichius/hugo-theme-anubis">Anubis</a>.<br>
+            
+            </p>  
+        </div> 
+    </div>
+
+    <p class="h-card vcard">
+
+    <a href=https://yurynovozhilov.github.io/MagicDPD/ class="p-name u-url url fn" rel="me">GlukRazor</a> 
+
+    
+
+    
+</p> 
+</footer>
+
+        
+    </div>
+</body>
+</html>

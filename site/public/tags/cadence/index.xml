@@ -2,26 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cadence on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/cadence/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/cadence/</link>
     <description>MagicDPD: Magic Driven Product Development! (Cadence)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Tue, 14 Dec 2021 13:01:44 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/cadence/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/cadence/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Адаптивные сетки для высокоскоростных течений</title>
-      <link>http://localhost:1313/posts/2021-12-14-adaptivnye-setki-dlya-vysokoskorostnyh-te/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-12-14-adaptivnye-setki-dlya-vysokoskorostnyh-te/</link>
       <pubDate>Tue, 14 Dec 2021 13:01:44 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-12-14-adaptivnye-setki-dlya-vysokoskorostnyh-te/</guid>
-      <description>&lt;p&gt;Я люблю смотреть на решения, связанные с адаптивными сетками. Приятно понимать, что вычислительная система может попытаться исправить ошибки дискретизации пространства или использовать дискретизацию более оптимально. Сегодня мне попалась публикация от Cadence, которые с лета этого года пилят такое для CFD. Пилят они это вместе с MIT (Массачусетский технологический институт) и UTK (Университете Теннесси в Ноксвилле) в рамках проекта “Rapid and Robust Analysis of High-Speed Environments Using Inviscid Output-Based Adaptive-Mesh Solvers.”&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-12-14-adaptivnye-setki-dlya-vysokoskorostnyh-te/</guid>
+      <description>&lt;p&gt;Адаптивные сетки для высокоскоростных течений&lt;/p&gt;
+&lt;p&gt;Я люблю смотреть на решения, связанные с адаптивными сетками. Приятно понимать, что вычислительная система может попытаться исправить ошибки дискретизации пространства или использовать дискретизацию более оптимально. Сегодня мне попалась публикация от Cadence, которые с лета этого года пилят такое для CFD. Пилят они это вместе с MIT (Массачусетский технологический институт) и UTK (Университете Теннесси в Ноксвилле) в рамках проекта “Rapid and Robust Analysis of High-Speed Environments Using Inviscid Output-Based Adaptive-Mesh Solvers.”&lt;/p&gt;
 &lt;p&gt;Концепция исследования предполагает использование разработанного в MIT решателя течений SANS, который сочетает в себе конечные элементы высокого порядка с адаптацией на основе выходных данных. Процесс адаптации итеративно изменяет сетку для минимизации численных ошибок в инженерных величинах, представляющих интерес, таких как подъемная сила, сопротивление и теплопередача. Для каждой сетки оцениваются численные ошибки, и выполняется оптимизация для минимизации этих ошибок в зависимости от масштаба сетки. Результат этой оптимизации затем используется сеточным генератором Pointwise Meshing для следующей итерации по оптимизации сетки.&lt;/p&gt;
 &lt;p&gt;На мой взгляд, результаты выглядят достаточно интересными. Я привык к тому, что первоначальная сетка должна достаточно хорошо описывать геометрию для получения решения, и данническая сетка срабатывает именно при искажении исходной сетки. Однако тут мы видим, что благодаря включению в расчетный процесс полноценного сеточного генератора, который обладает информацией о B-Rep геометрии тела, мы можем уточнять сетку и действительно повышать точность описания геометрии.&lt;/p&gt;
 &lt;p&gt;#cadence #cfd #mesh #pointwise #sans
 &lt;a href=&#34;https://tinyurl.com/y2hovsos&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y2hovsos&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://tinyurl.com/y2hovsos&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y2hovsos&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cadence покупает Pointwise</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-04-27-cadence-pokupaet-pointwise/</link>
+      <pubDate>Tue, 27 Apr 2021 13:21:02 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-04-27-cadence-pokupaet-pointwise/</guid>
+      <description>&lt;p&gt;Cadence покупает Pointwise&lt;/p&gt;
+&lt;p&gt;Cadence, специализирующиеся на расчетах электроники и задачах радиофизики совсем недавно покупали себе Numeca для CFD расчетов. Но, видимо, этого им показалось мало, и они прикупили себе еще и Pointwise, разработчика одноименного сеточного генератора, специализирующегося на сетках CFD. Официальная новость для акционеров: &lt;a href=&#34;https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2021/cadence-acquires-pointwise-to-expand-system-analysis-offerings-a.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2021/cadence-acquires-pointwise-to-expand-system-analysis-offerings-a.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/Sgh0rG9OtcA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Sgh0rG9OtcA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Надеюсь, что эта новость никак не отразится на очень популярном и интересном блоге Another Fine Mesh &lt;a href=&#34;https://blog.pointwise.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blog.pointwise.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#cadence #pointwise
+&lt;a href=&#34;https://tinyurl.com/yevafray&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yevafray&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2021/cadence-acquires-pointwise-to-expand-system-analysis-offerings-a.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Cadence Acquires Pointwise to Expand System Analysis Offerings Addressing CFD Meshing for Aerospace Applications&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/Sgh0rG9OtcA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Sgh0rG9OtcA&lt;/a&gt;
+&lt;a href=&#34;https://blog.pointwise.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blog.pointwise.com/&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yevafray&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yevafray&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cadence покупает NUMECA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-01-25-cadence-pokupaet-numeca/</link>
+      <pubDate>Mon, 25 Jan 2021 13:31:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-01-25-cadence-pokupaet-numeca/</guid>
+      <description>&lt;p&gt;Cadence покупает NUMECA&lt;/p&gt;
+&lt;p&gt;Главная новость прошлой недели: компания Cadence Design Systems, специализирующаяся на проектировании электроники, заявила о том, что она договорилась о покупке NUMECA International. NUMECA International, в свою очередь, является одним из крупнейших игроков на рынке CFD. Сумма покупки оценивается в $1.6 миллиарда (это составляет 2хLSTC, или 0.8хCD-adapco). И это, на моей памяти, первое такое поглощение, когда компания с портфолио по EM и тепловым расчетам (без прочностных решателей) сразу вкладывается в CFD. Обычно все отталкиваются от МКЭ для прочности. Источник новости:  www.marketwatch.com/press-release/cadence-to-acquire-numeca-to-expand-system-analysis-capabilities-with-computational-fluid-dynamics-2021-01-20&lt;/p&gt;
+&lt;p&gt;#cadence #cfd #numeca
+&lt;a href=&#34;https://tinyurl.com/yyo9ysqb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yyo9ysqb&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.marketwatch.com/press-release/cadence-to-acquire-numeca-to-expand-system-analysis-capabilities-with-computational-fluid-dynamics-2021-01-20?tesla=y&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Cadence to Acquire NUMECA to Expand System Analysis Capabilities With Computational Fluid Dynamics&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yyo9ysqb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yyo9ysqb&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -2,22 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FiPy on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/fipy/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/fipy/</link>
     <description>MagicDPD: Magic Driven Product Development! (FiPy)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 11 Dec 2015 06:30:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jul 2017 17:01:09 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/fipy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/fipy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>FiPy - библиотека-фреймворк для #Python, которая поможет вам</title>
-      <link>http://localhost:1313/posts/2015-12-11-fipy-biblioteka-freymvork-dlya-python/</link>
+      <title>Open Source для инженера</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-19-open-source-dlya-inzhenera/</link>
+      <pubDate>Wed, 19 Jul 2017 17:01:09 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-19-open-source-dlya-inzhenera/</guid>
+      <description>&lt;p&gt;Open Source для инженера
+&lt;a href=&#34;http://s.arboreus.com/2008/03/free-software-for-solving-pdes.html?m=1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://s.arboreus.com/2008/03/free-software-for-solving-pdes.html?m=1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Старая статья с обзором #OpenSource программного обеспечения для промышленного и научного математического моделирования. Материал старый, но на русском - многим так читать приятнее.
+Тут есть все:
+#Elmer
+#Impact
+#Code_Aster
+#FiPy
+#OpenFOAM
+и многие другие!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://s.arboreus.com/2008/03/free-software-for-solving-pdes.html?m=1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Обзор свободных программ для численных расчётов&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FiPy - библиотека-фреймворк для #Python, которая поможет вам решить ваши дифференциальные уравнения в частных производных.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-11-fipy-biblioteka-freymvork-dlya-python/</link>
       <pubDate>Fri, 11 Dec 2015 06:30:12 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-12-11-fipy-biblioteka-freymvork-dlya-python/</guid>
-      <description>&lt;p&gt;Всем быстро писать свои решатели!&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-11-fipy-biblioteka-freymvork-dlya-python/</guid>
+      <description>&lt;p&gt;Поддерживается проект огромным количеством именитых организаций подразделений Национального института стандартов и технологий США (NIST). Обладает хорошей документацией и примерами, в имеет зависимости в виде NumPy, PySparse и sfePy.&lt;/p&gt;
+&lt;p&gt;Всем быстро писать свои решатели!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://hpfem.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;hp-FEM Group&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -30,11 +30,15 @@ CFD кластер на Android
 
 
 
-Ссылки на научные статьи тут: https://www.adriantheengineer.co.uk/single-post/2019/04/22/Article-Trilogy-Interactive-Simulation-on-Mobile-Devices
+Ссылки на научные статьи тут: ~~https://www.adriantheengineer.co.uk/single-post/2019/04/22/Article-Trilogy-Interactive-Simulation-on-Mobile-Devices~~ → [Сохранённая версия](http://web.archive.org/web/20200927235314/https://www.adriantheengineer.co.uk/single-post/2019/04/22/Article-Trilogy-Interactive-Simulation-on-Mobile-Devices)
+
+*Оригинальная ссылка больше не доступна*
 
 #Android #CFD #HPC #LBM
 
 https://wp.me/p9vWYY-2uS
 
-https://www.adriantheengineer.co.uk/single-post/2019/04/22/Article-Trilogy-Interactive-Simulation-on-Mobile-Devices
+~~https://www.adriantheengineer.co.uk/single-post/2019/04/22/Article-Trilogy-Interactive-Simulation-on-Mobile-Devices~~ → [Сохранённая версия](http://web.archive.org/web/20200927235314/https://www.adriantheengineer.co.uk/single-post/2019/04/22/Article-Trilogy-Interactive-Simulation-on-Mobile-Devices)
+
+*Оригинальная ссылка больше не доступна*
 https://wp.me/p9vWYY-2uS

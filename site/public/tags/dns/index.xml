@@ -2,25 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DNS on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/dns/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/dns/</link>
     <description>MagicDPD: Magic Driven Product Development! (DNS)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Tue, 22 Mar 2022 17:00:08 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/dns/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/dns/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>#PyFR - это фреймворк на базе #Python с открытым исходным ко</title>
-      <link>http://localhost:1313/posts/2022-03-22-pyfr-eto-freymvork-na-baze-python-s/</link>
+      <title>#PyFR - это фреймворк на базе #Python с открытым исходным кодом для решения задач типа адвекции-диффузии на потоковых архитектурах с использованием подхода Flux Reconstruction Хуинха (Huynh), что бы это не значило.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-03-22-pyfr-eto-freymvork-na-baze-python-s/</link>
       <pubDate>Tue, 22 Mar 2022 17:00:08 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-03-22-pyfr-eto-freymvork-na-baze-python-s/</guid>
-      <description>&lt;p&gt;И тут коллеги публикуют true статью про #DNS моделирование аэродинамики лопастей вертолета-дрона для Марса!&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-03-22-pyfr-eto-freymvork-na-baze-python-s/</guid>
+      <description>&lt;p&gt;И тут, вроде как принято думать, что Python - это не для HPC и тяжелых математических расчетов.&lt;/p&gt;
+&lt;p&gt;И тут коллеги публикуют true статью про #DNS моделирование аэродинамики лопастей вертолета-дрона для Марса!&lt;/p&gt;
 &lt;p&gt;#opensource #CFD&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Direct Numerical Simulation of Flow over a Triangular Airfoil Under Martian Conditions&amp;rdquo; https://doi.org/10.2514/1.J061454&lt;/p&gt;
 &lt;p&gt;Еще читать можно тут: https://www.imperial.ac.uk/news/234879/unique-virtual-wind-tunnel-could-help/ &lt;a href=&#34;https://twitter.com/i/status/1505861975691173896&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://twitter.com/i/status/1505861975691173896&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.2514/1.J061454&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Direct Numerical Simulation of Flow over a Triangular Airfoil Under Martian Conditions | AIAA Journal&lt;/a&gt;
+&lt;a href=&#34;https://www.imperial.ac.uk/news/234879/unique-virtual-wind-tunnel-could-help/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.imperial.ac.uk/news/234879/unique-virtual-wind-tunnel-could-help/&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/i/status/1505861975691173896&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://twitter.com/i/status/1505861975691173896&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>True CFD из Питера!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-29-true-cfd-iz-pitera/</link>
+      <pubDate>Sat, 29 Oct 2016 17:00:34 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-29-true-cfd-iz-pitera/</guid>
+      <description>&lt;p&gt;True CFD из Питера!
+&lt;a href=&#34;http://www.spbstu.ru/media/news/nauka_i_innovatsii/andrey-garbaruk-about-trends-supercomputer-development/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.spbstu.ru/media/news/nauka_i_innovatsii/andrey-garbaruk-about-trends-supercomputer-development/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В свое время мне посчастливилось работать в смежной с Андреем Викторовичем Гарабаруком лаборатории, и я до сих пор горжусь знакомством с ним и с питерской лабораторией НТС (#NTS, Numerical Turbulence Simulation) из #СПбГПУ. Мне было очень приятно узнать, что доклад Андрея Викторовича &amp;ldquo;Опыт прямого численного моделирования турбулентности на суперкомпьютерах&amp;rdquo; был признан лучшим на конференции &amp;ldquo;Суперкомпьютерные дни в России&amp;rdquo; (Russian Supercomputing Days). Я был на этом докладе, и могу сказать, что рассказ о прямом моделировании турбулентности (aka #DNS) сделанный без формул и занудства - это что-то! У коллег уже несколько десятилетий разрабатывается свой код - NTS CFD Code - который легко может уделать и #Fluent и #StarCCM. Чего только стоят их 19 000 000 000 (миллиардов) ячеек в модели!&lt;/p&gt;
+&lt;p&gt;От души поздравляю Андрея Викторовича и лабораторию NTS!
+#cfd #legendpeople #HPC&lt;/p&gt;
+&lt;p&gt;Для заинтересованных - тезисы к докладу: &lt;a href=&#34;http://russianscdays.org/files/pdf16/357.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://russianscdays.org/files/pdf16/357.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.spbstu.ru/media/news/nauka_i_innovatsii/andrey-garbaruk-about-trends-supercomputer-development/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Андрей Гарбарук – о трендах развития суперкомпьютерной отрасли&lt;/a&gt;
+&lt;a href=&#34;http://russianscdays.org/files/pdf16/357.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://russianscdays.org/files/pdf16/357.pdf&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

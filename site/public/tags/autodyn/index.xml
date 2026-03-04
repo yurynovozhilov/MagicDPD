@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Autodyn on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/autodyn/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/autodyn/</link>
     <description>MagicDPD: Magic Driven Product Development! (Autodyn)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 23 Sep 2021 15:01:35 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/autodyn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/autodyn/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Сравнение работы кодов моделирования детонации ВВ</title>
-      <link>http://localhost:1313/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</link>
       <pubDate>Thu, 23 Sep 2021 15:01:35 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</guid>
-      <description>&lt;p&gt;Разработчики blastFoam, открытого CFD кода на базе openFoam, специализирующегося на задачах детонации ВВ и распространении ударных волны в воздухе, опубликовали любопытное сравнение. Они смоделировали детонацию сферического заряда тротила в воздухе в бесконечном домене - довольно простая постановка с хорошо известными аналитическими решениями.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</guid>
+      <description>&lt;p&gt;Сравнение работы кодов моделирования детонации ВВ&lt;/p&gt;
+&lt;p&gt;Разработчики blastFoam, открытого CFD кода на базе openFoam, специализирующегося на задачах детонации ВВ и распространении ударных волны в воздухе, опубликовали любопытное сравнение. Они смоделировали детонацию сферического заряда тротила в воздухе в бесконечном домене - довольно простая постановка с хорошо известными аналитическими решениями.&lt;/p&gt;
 &lt;p&gt;Моделирование они выполнили в:&lt;/p&gt;
 &lt;p&gt;Ansys Autodyn - код, разработанный когда-то, поглощённой компанией Century Dynamics - заточен под решение задач ОПКAnsys LS-DYNA - код, разработанный, поглощённой компанией LSTC - заточен под решение сильно связанных высоконелинейных задачEUROPLEXUS - или EpX, полуоткрытьй код для моделирования быстропротекающих процессов от французской промышленности, работает на основе моделей, подготовленных для Code_Aster.  CHT - код для моделирования быстропротекающих процессов от Сандийских национальных лабораторийblastFoam, который я уже представил&lt;/p&gt;
 &lt;p&gt;Во всех кодах использовалось уравнение состояния JWL. На мой взгляд, справились все коды примерно одинаково, и, не зная особенностей постановки задачи, времени, затраченного на решение, трудно выбрать лидера.&lt;/p&gt;
@@ -25,16 +26,53 @@
 &lt;p&gt;Ссылка на оригинальный пост: &lt;a href=&#34;https://www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ansys #autodyn #blast #blastfoam #cht #europlexus #ls-dyna #open_source #openfoam #sandia
 &lt;a href=&#34;https://tinyurl.com/yzxkzr4r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzxkzr4r&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/?trackingId=Uq%2B3MZmoMgkb3xIYeAHk9A%3D%3D&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;blastFoam | Comparison of explosive airblast calculators&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yzxkzr4r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzxkzr4r&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование детонации ВВ</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-21-modelirovanie-detonatsii-vv/</link>
+      <pubDate>Tue, 21 Sep 2021 13:01:58 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-21-modelirovanie-detonatsii-vv/</guid>
+      <description>&lt;p&gt;Моделирование детонации ВВ&lt;/p&gt;
+&lt;p&gt;Ozen Engineering расказывают, как промоделировать детонацию в Ansys Autodyn и Explicit STR применяя МКЭ в эйлеровой постановке и уравнения состояния JWL&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UngmYKKDWuU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=UngmYKKDWuU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=n0bQh17NAO4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=n0bQh17NAO4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #autodyn #blast #explicit #explicit_str
+&lt;a href=&#34;https://tinyurl.com/yhmfnser&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yhmfnser&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UngmYKKDWuU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Autodyn 3d explosion simulations in Traditional GUI&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=n0bQh17NAO4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=n0bQh17NAO4&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yhmfnser&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yhmfnser&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#34;Сдуваем&#34; пламя в Autodyn</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-26-sduvaem-plamya-v-autodyn/</link>
+      <pubDate>Sun, 26 Aug 2018 18:01:55 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-26-sduvaem-plamya-v-autodyn/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Сдуваем&amp;rdquo; пламя в Autodyn
+В ANSYS Autodyn смоделировали эффект сбивания пламени при помощи ударной волны от взрыва.&lt;/p&gt;
+&lt;p&gt;Simulation Proves Fighting Fire with Fiery Explosions Is Possible&lt;/p&gt;
+&lt;p&gt;#ANSYS #Autodyn #Blast #Explicit
+&lt;a href=&#34;http://bit.ly/2BPUYSQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2BPUYSQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys-blog.com/simulation-proves-fighting-fire-fiery-explosions-possible/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys | Engineering Simulation Software&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2BPUYSQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2BPUYSQ&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Как корректно остановить решатель на ходу</title>
-      <link>http://localhost:1313/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</link>
       <pubDate>Tue, 03 Jul 2018 18:02:50 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</guid>
-      <description>&lt;p&gt;Есть очень часто встречающаяся задача - запуск решателя в консольном/пакетном режиме для выполнения расчета на рабочей станции или кластере. С этой задачей сталкиваются многие опытные инженеры. Как запускать консольные расчеты хорошо описано в документации, много рассказано на форумах.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</guid>
+      <description>&lt;p&gt;Как корректно остановить решатель на ходу
+Есть очень часто встречающаяся задача - запуск решателя в консольном/пакетном режиме для выполнения расчета на рабочей станции или кластере. С этой задачей сталкиваются многие опытные инженеры. Как запускать консольные расчеты хорошо описано в документации, много рассказано на форумах.
 Однако мало кто знает, что практически любой решатель, работающий в фоне, можно корректно остановить с запуском точки рестарта/чекпоинта. Как правило, необходимо создать особый файл в особом месте. Когда решатель его обнаружит, он сам все поймет. Особый файл будет удалён сразу после его обработки. Давайте посмотрим, как это сделать для основных решателей ANSYS.
 Mechanical/APDL:
 В рабочей директории решателя надо создать файл с именем jobname.abt, где jobname - имя проекта. Файл должен содержать только одно слово: nonlinear
@@ -56,41 +94,184 @@ ANSYS Workbench
 Если вы пользуетесь ANSYS RSM, то там для всех поддерживаемых решателей уже есть стандартная кнопка Interrupt, которая делает всю вышеописанную магию за вас. Настраивайте RSM и наслаждайтесь :-)&lt;/p&gt;
 &lt;p&gt;#AEDT #ANSYS #Autodyn #CFX #Checkpont #Fluent #HPC #Longread #LSDYNA #Restart #RSM #Workbench
 &lt;a href=&#34;http://bit.ly/2u3rrhp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2u3rrhp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2u3rrhp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2u3rrhp&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Совершенствование конструкции защитных экранов Уипла</title>
-      <link>http://localhost:1313/posts/2018-05-26-sovershenstvovanie-konstruktsii-zaschitnyh-e/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-26-sovershenstvovanie-konstruktsii-zaschitnyh-e/</link>
       <pubDate>Sat, 26 May 2018 18:00:54 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-05-26-sovershenstvovanie-konstruktsii-zaschitnyh-e/</guid>
-      <description>&lt;p&gt;Новая публикация от моего коллеги Александра Черняева, который долгое время занимался защитой космических объектов от ударов микрометеоритов. Аккуратно, внутри много экспериментальных данных и расчетов в AUTODYN.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-26-sovershenstvovanie-konstruktsii-zaschitnyh-e/</guid>
+      <description>&lt;p&gt;Совершенствование конструкции защитных экранов Уипла&lt;/p&gt;
+&lt;p&gt;Новая публикация от моего коллеги Александра Черняева, который долгое время занимался защитой космических объектов от ударов микрометеоритов. Аккуратно, внутри много экспериментальных данных и расчетов в AUTODYN.
 &lt;a href=&#34;https://vk.com/wall13004811_950&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/wall13004811_950&lt;/a&gt;
 #ANSYS #Autodyn #SPH&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1RE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1RE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vk.com/wall13004811_950&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/wall13004811_950&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-1RE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1RE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Описание библиотеки материалов AUTODYN</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-18-opisanie-biblioteki-materialov-autodyn/</link>
+      <pubDate>Sun, 18 Feb 2018 18:01:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-18-opisanie-biblioteki-materialov-autodyn/</guid>
+      <description>&lt;p&gt;Описание библиотеки материалов AUTODYN
+На днях я искал теорию по одной хорошей модели материала для explicit расчетов и нашел настоящий клад для начинающих!&lt;/p&gt;
+&lt;p&gt;Мне попалась статья Дениса Александровича Чемезова, в которой он сделал обзор и перевод на русский 267 моделей материалов из библиотеки Explict Material, входящей в поставку ANSYS Workbench. Данные материалы предназначены для работы с Explicit STR, AUTODYN и Workbench LS-DYNA (не полная совместимость). Библиотека взята за 2014 год, но свойства материалов, к счастью, не устаревают!
+Ссылка на оригинальную статью: &lt;a href=&#34;http://oaji.net/articles/2014/679-1410013567.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://oaji.net/articles/2014/679-1410013567.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://oaji.net/articles/2014/679-1410013567.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://oaji.net/articles/2014/679-1410013567.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#ANSYS #Autodyn позполяет изучить процессы, протекающие внутри патрона .416 Barrett в момент удара по капсулю, а потом еще и посмотреть на динамику пули в нарезном стволе.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-29-ansys-autodyn-pozpolyaet-izuchit-protses/</link>
+      <pubDate>Tue, 29 Aug 2017 17:11:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-29-ansys-autodyn-pozpolyaet-izuchit-protses/</guid>
+      <description>&lt;p&gt;И все это моделируется в одном расчете - вот такой вот #explicit #FSI.&lt;/p&gt;
+&lt;p&gt;Видео подготовлено в постпроцессоре #CEI #Ensight, который сейчас уже стал частью #ANSYS.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=n0n&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=n0n&lt;/a&gt;…Media📼 416 Barrett with ANSYS Autodyn&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2x1uFoY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2x1uFoY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2x194wK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2x194wK&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vBgpQ1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vBgpQ1&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wHTKG5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wHTKG5&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vBQEPw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vBQEPw&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2x18xem&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2x18xem&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=n0npDzBetMI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=n0npDzBetMI&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vBL3sw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vBL3sw&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2x1uFoY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2x1uFoY&lt;/a&gt;
+ttp://ift.tt/2x1uFoY&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Все инструменты для правильного расчета разрушения конструкций - #LSDYNA, #AUTODYN, #Abaqus, #Radioss - это конечно очень здорово. Но что делать, если вам просто нужна красивая картинка?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-13-vse-instrumenty-dlya-pravilnogo-rascheta/</link>
+      <pubDate>Sun, 13 Aug 2017 17:03:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-13-vse-instrumenty-dlya-pravilnogo-rascheta/</guid>
+      <description>&lt;p&gt;Ведь спецэффектов в современных фильмах вам не нужны точные математические модели, вам нужна правдоподобность и быстрота визуализации  (Computer-generated imagery, #CGI).
+В этом случае следует обратить внимание на #cebas #volumeBreaker - специализированный плагин для 3Ds MAX, предназначенный именно для визуализации процессов разрушения. Судя по внешнему виду плагин реализует разрушение на базе сеток Вороного (можно гуглить Voronoi Meshes или читать вику: &lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Диаграмма_Вороного)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/MiMxtCwOUq4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/MiMxtCwOUq4&lt;/a&gt; &lt;a href=&#34;http://www.cebas.com/?pid=productinfo&amp;amp;prd_id=77&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.cebas.com/?pid=productinfo&amp;prd_id=77&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B3%D0%BE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B3%D0%BE&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Диаграмма_Вороного
+&lt;a href=&#34;https://youtu.be/MiMxtCwOUq4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/MiMxtCwOUq4&lt;/a&gt;
+&lt;a href=&#34;http://www.cebas.com/?pid=productinfo&amp;amp;prd_id=77&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.cebas.com/?pid=productinfo&amp;prd_id=77&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Code_Aster - мощная штука</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-25-code-aster-moschnaya-shtuka/</link>
+      <pubDate>Tue, 25 Jul 2017 17:00:07 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-25-code-aster-moschnaya-shtuka/</guid>
+      <description>&lt;p&gt;Code_Aster - мощная штука
+&lt;a href=&#34;http://cfd.mace.manchester.ac.uk/twiki/pub/Aster/WebHome/Code_Aster_capabilities.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://cfd.mace.manchester.ac.uk/twiki/pub/Aster/WebHome/Code_Aster_capabilities.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Code_Aster - пожалуй самый крупный #opensource #FEM код очень крут. Я тут решил поискать, что он может, и нашел очень неплохой материал от университета города Манчестер: &lt;a href=&#34;http://cfd.mace.manchester.ac.uk/twiki/pub/Aster/WebHome/Code_Aster_capabilities.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://cfd.mace.manchester.ac.uk/twiki/pub/Aster/WebHome/Code_Aster_capabilities.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Самое интересное, что Code_Aster даже немного умеет #explicit: &lt;a href=&#34;https://www.code-aster.org/UPLOAD/DOC/Formations/05-nonlinear-dynamics.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.code-aster.org/UPLOAD/DOC/Formations/05-nonlinear-dynamics.pdf&lt;/a&gt; - конечное не #AUTODYN или #LSDYNA, но хоть что-то&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://cfd.mace.manchester.ac.uk/twiki/pub/Aster/WebHome/Code_Aster_capabilities.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://cfd.mace.manchester.ac.uk/twiki/pub/Aster/WebHome/Code_Aster_capabilities.pdf&lt;/a&gt;
+&lt;a href=&#34;https://www.code-aster.org/UPLOAD/DOC/Formations/05-nonlinear-dynamics.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.code-aster.org/UPLOAD/DOC/Formations/05-nonlinear-dynamics.pdf&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Реализации модели RHT (RTH) в LS-DYNA и AUTODYN</title>
-      <link>http://localhost:1313/posts/2017-06-05-realizatsii-modeli-rht-rth-v-ls-dyna-i/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-05-realizatsii-modeli-rht-rth-v-ls-dyna-i/</link>
       <pubDate>Mon, 05 Jun 2017 17:01:28 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-06-05-realizatsii-modeli-rht-rth-v-ls-dyna-i/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/11th-european-ls-dyna-conference/concrete-penetration/comparison-of-the-rht-concrete-material-model-in-ls-dyna-and-ansys-autodyn/view&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/11th-european-ls-dyna-conference/concrete-penetration/comparison-of-the-rht-concrete-material-model-in-ls-dyna-and-ansys-autodyn/view&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-05-realizatsii-modeli-rht-rth-v-ls-dyna-i/</guid>
+      <description>&lt;p&gt;Реализации модели RHT (RTH) в LS-DYNA и AUTODYN
+&lt;a href=&#34;http://www.dynalook.com/11th-european-ls-dyna-conference/concrete-penetration/comparison-of-the-rht-concrete-material-model-in-ls-dyna-and-ansys-autodyn/view&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/11th-european-ls-dyna-conference/concrete-penetration/comparison-of-the-rht-concrete-material-model-in-ls-dyna-and-ansys-autodyn/view&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Модель материала для предсказания поведения высокопрочного и сверх высокопрочного бетона #RHT или #RTH является пожалуй одной из самых известных моделей в своей области. Она названа по инициалам ученых, разработавших ее: Riedel, Hiermaier и Thoma.&lt;/p&gt;
 &lt;p&gt;Данная модель реализована как в #LSTC #LSDYNA (*MAT_272), так и в #ANYS #AUTODYN (и в ANSYS #Explicit STR заодно ). Только если в LSD есть еще с десяток моделей-конкурентов, до в AD других моделей бетона нет.&lt;/p&gt;
 &lt;p&gt;Коллеги из немецкой организации #GRS (Gesellschaft für Anlagen- und Reaktorsicherheit (GRS) gGmbH, &lt;a href=&#34;http://www.grs.de/en&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.grs.de/en&lt;/a&gt;) в своей работе провели сравнительный анализ реализаций модели. Получились очень любопытные выводы. Обе реализации сеточнозависимы по показателю разрушения, в AUTODYN еще и некорректно считает трещенообразование при растягивающих нагрузках.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/11th-european-ls-dyna-conference/concrete-penetration/comparison-of-the-rht-concrete-material-model-in-ls-dyna-and-ansys-autodyn/view&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/11th-european-ls-dyna-conference/concrete-penetration/comparison-of-the-rht-concrete-material-model-in-ls-dyna-and-ansys-autodyn/view&lt;/a&gt;
+&lt;a href=&#34;http://www.grs.de/en&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.grs.de/en&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Подборка видео выходного дня, которая лучше котиков. Ну ведь</title>
-      <link>http://localhost:1313/posts/2015-10-10-podborka-video-vyhodnogo-dnya-kotoraya-lu/</link>
+      <title>Наши люди в композитах</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-13-nashi-lyudi-v-kompozitah/</link>
+      <pubDate>Thu, 13 Oct 2016 09:01:12 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-13-nashi-lyudi-v-kompozitah/</guid>
+      <description>&lt;p&gt;Наши люди в композитах
+&lt;a href=&#34;http://coen.boisestate.edu/mbe/resources/inspire-me/101716-dr-aleksandr-cherniaev/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://coen.boisestate.edu/mbe/resources/inspire-me/101716-dr-aleksandr-cherniaev/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Я уже публиковал новость, что у нашего доброго друга и бывшего коллеги Александра Черняева 17-ого октября будет семинар  посвященный защите спутников от удара частицами орбитального мусора. Конечно некоторые из нас могут прийти на бесплатное мероприятие прям в Boise, Idaho, USA, но не все. Так вот, Александр сказа, что скорее всего по ссылке будет доступна online трансляция мероприятия.&lt;/p&gt;
+&lt;p&gt;Регистрация тут: &lt;a href=&#34;http://coen.boisestate.edu/mbe/resources/inspire-me/101716-dr-aleksandr-cherniaev/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://coen.boisestate.edu/mbe/resources/inspire-me/101716-dr-aleksandr-cherniaev/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Спойлер: Александр любит #ANSYS #AUTODYN и #ACP&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://coen.boisestate.edu/mbe/resources/inspire-me/101716-dr-aleksandr-cherniaev/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://coen.boisestate.edu/mbe/resources/inspire-me/101716-dr-aleksandr-cherniaev/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Демонстрационные примеры MSC.Dytran</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-19-demonstratsionnye-primery-mscdytran/</link>
+      <pubDate>Fri, 19 Aug 2016 06:30:58 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-19-demonstratsionnye-primery-mscdytran/</guid>
+      <description>&lt;p&gt;Демонстрационные примеры MSC.Dytran
+&lt;a href=&#34;https://www.youtube.com/playlist?list=PLI39KM_btemwhrhyEBRh8BZ-bGJ3kdWh3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/playlist?list=PLI39KM_btemwhrhyEBRh8BZ-bGJ3kdWh3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#MSC (MacNeal-Schwendler Corporation) обновила свой канал на YouTube плейлистом посвященным возможностям решателя #Dytran.&lt;/p&gt;
+&lt;p&gt;Решатель MSC.Dytran разработан как код с явной схемой интегрирования по времени и вполне может конкурировать с такими монстрами как #ANSYS #AUTODYN и #LSTC #LSDYNA. Сплошной #Explicit :-)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLI39KM_btemwhrhyEBRh8BZ-bGJ3kdWh3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/playlist?list=PLI39KM_btemwhrhyEBRh8BZ-bGJ3kdWh3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLI39KM_btemwhrhyEBRh8BZ-bGJ3kdWh3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/playlist?list=PLI39KM_btemwhrhyEBRh8BZ-bGJ3kdWh3&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Explicit FEM для проектирования турбин</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-06-explicit-fem-dlya-proektirovaniya-turbin/</link>
+      <pubDate>Sat, 06 Aug 2016 06:30:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-06-explicit-fem-dlya-proektirovaniya-turbin/</guid>
+      <description>&lt;p&gt;Explicit FEM для проектирования турбин
+&lt;a href=&#34;http://www.enginelabs.com/news/cummins-models-turbine-wheel-explosions-to-test-housing-containment/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.enginelabs.com/news/cummins-models-turbine-wheel-explosions-to-test-housing-containment/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Компания #Cummins опубликовала очень интересный отчет о том, что может произойти с турбиной двигателя внутреннего сгорания если на скорости 300 000 оборотов в минуту что-то пойдет не так.&lt;/p&gt;
+&lt;p&gt;Расчет в #ANSYS #Explicit STR и #AUTODYN очень хорошо совпали с экспериментами и показали, что плохо будет этой турбине.&lt;/p&gt;
+&lt;p&gt;#FEM #Turbo&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/7Y01Ed4Sg3U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/7Y01Ed4Sg3U&lt;/a&gt;
+&lt;a href=&#34;http://www.enginelabs.com/news/cummins-models-turbine-wheel-explosions-to-test-housing-containment/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.enginelabs.com/news/cummins-models-turbine-wheel-explosions-to-test-housing-containment/&lt;/a&gt;
+&lt;a href=&#34;https://cumminsturbotechnologies.com/sites/default/files/UpFiles/Explicit%20Dynamic%20Finite%20Element%20Simulation%20of%20Turbocharger%20Containment%20and%20Wheel%20Burst.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://cumminsturbotechnologies.com/sites/default/files/UpFiles/Explicit%20Dynamic%20Finite%20Element%20Simulation%20of%20Turbocharger%20Containment%20and%20Wheel%20Burst.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.enginelabs.com/news/cummins-models-turbine-wheel-explosions-to-test-housing-containment/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Cummins Models Turbine Wheel Explosions&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/7Y01Ed4Sg3U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/7Y01Ed4Sg3U&lt;/a&gt;
+&lt;a href=&#34;https://cumminsturbotechnologies.com/sites/default/files/UpFiles/Explicit%20Dynamic%20Finite%20Element%20Simulation%20of%20Turbocharger%20Containment%20and%20Wheel%20Burst.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://cumminsturbotechnologies.com/sites/default/files/UpFiles/Explicit%20Dynamic%20Finite%20Element%20Simulation%20of%20Turbocharger%20Containment%20and%20Wheel%20Burst.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#ANSYS #AUTODYN</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-15-ansys-autodyn/</link>
+      <pubDate>Mon, 15 Feb 2016 15:59:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-15-ansys-autodyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#CADFEM CIS - магия численного моделирования для всех желающих.  #ANSYS #Fluent #CFX #Mechanical #LSDYNA #AUTODYN #HFSS #Maxwell #HPC и многое другое из #CAE.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-13-cadfem-cis-magiya-chislennogo-modelirov/</link>
+      <pubDate>Wed, 13 Jan 2016 09:24:51 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-13-cadfem-cis-magiya-chislennogo-modelirov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Подборка видео выходного дня, которая лучше котиков. Ну ведь правда кумулятивный эффект лучше котиков?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-10-podborka-video-vyhodnogo-dnya-kotoraya-lu/</link>
       <pubDate>Sat, 10 Oct 2015 09:05:08 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-10-podborka-video-vyhodnogo-dnya-kotoraya-lu/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-10-podborka-video-vyhodnogo-dnya-kotoraya-lu/</guid>
       <description>&lt;p&gt;Процессы моделируют в эйлеровом домене или методом сглаженных частиц. Решатели очень разные. Тут есть и Autodyn, и LS-DYNA, и Dytran и еще что-то неопознанное.&lt;/p&gt;
 &lt;p&gt;#Autodyn #lsdyna #Dytran #Explicit #SPH #ALE&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Кумулятивный_эффект&lt;/p&gt;

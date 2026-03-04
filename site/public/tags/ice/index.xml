@@ -2,26 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ice on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/ice/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/ice/</link>
     <description>MagicDPD: Magic Driven Product Development! (Ice)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 19 Jan 2022 17:00:09 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/ice/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/ice/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Сегодня я бы хотел рассказать вам об исследовании процесса р</title>
-      <link>http://localhost:1313/posts/2022-01-19-segodnya-ya-by-hotel-rasskazat-vam-ob-iss/</link>
+      <title>Сегодня я бы хотел рассказать вам об исследовании процесса разрушения ледника.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-19-segodnya-ya-by-hotel-rasskazat-vam-ob-iss/</link>
       <pubDate>Wed, 19 Jan 2022 17:00:09 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-01-19-segodnya-ya-by-hotel-rasskazat-vam-ob-iss/</guid>
-      <description>&lt;p&gt;Джошуа моделирует процесс разрушения айсберга,  сползающего в океан, создав код, учитывающий физические механизмы фрагментации льда и процесс взаимодействия жидкости и твердого тела. Весь расчет проводится с применением метода материальной точки (#MPM, Material Point Method), что позволяет достаточной просто и стабильно моделировать требуемые механические эффекты. Основные принципы работы MPM кратко, но внятно рассказаны в докладе по итогам работы.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-19-segodnya-ya-by-hotel-rasskazat-vam-ob-iss/</guid>
+      <description>&lt;p&gt;Исследование данного процесса - это очередной проект Джошуа Вольпера  (Joshuah Wolper) из Пенсильванского университета. Его работы уже мелькали у меня (например задач о выпечке хлеба :-)).
+Джошуа моделирует процесс разрушения айсберга,  сползающего в океан, создав код, учитывающий физические механизмы фрагментации льда и процесс взаимодействия жидкости и твердого тела. Весь расчет проводится с применением метода материальной точки (#MPM, Material Point Method), что позволяет достаточной просто и стабильно моделировать требуемые механические эффекты. Основные принципы работы MPM кратко, но внятно рассказаны в докладе по итогам работы.
 Работа хорошо структурирована, а все изложение строиться на последовательности валидационных и верификационных примеров.
 Короче говоря, сплошное наслаждение для ума.
 #meshless #ice #fragmentation #FSI
 &lt;a href=&#34;https://youtu.be/7IC_ehdH7ZM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/7IC_ehdH7ZM&lt;/a&gt; &lt;a href=&#34;https://joshuahwolper.com/glacier&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://joshuahwolper.com/glacier&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/7IC_ehdH7ZM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;A Glacier-Ocean Interaction Model for Tsunami Genesis Due to Iceberg Calving [Nature Comms. E &amp;amp; E]&lt;/a&gt;
+&lt;a href=&#34;https://joshuahwolper.com/glacier&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://joshuahwolper.com/glacier&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

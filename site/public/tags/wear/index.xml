@@ -2,26 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wear on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/wear/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/wear/</link>
     <description>MagicDPD: Magic Driven Product Development! (Wear)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 17 Jun 2021 13:01:41 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/wear/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/wear/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Полномасштабное моделирование и проверка износа ковша горной</title>
-      <link>http://localhost:1313/posts/2021-06-17-polnomasshtabnoe-modelirovanie-i-proverka/</link>
+      <title>Полномасштабное моделирование и проверка износа ковша горной канатной лопаты</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-06-17-polnomasshtabnoe-modelirovanie-i-proverka/</link>
       <pubDate>Thu, 17 Jun 2021 13:01:41 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-06-17-polnomasshtabnoe-modelirovanie-i-proverka/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-06-17-polnomasshtabnoe-modelirovanie-i-proverka/</guid>
       <description>&lt;p&gt;Публикация по итогам кандидатской работы из Швеции. Коллеги смоделировали износ ковша горной канатной лопаты. Истирание происходило из-за взаимодействия со смесью DEM и Rigid тел произвольной формы. Все это считалось в моей любимой LS-DYNA.  Отличный расчет с экспериментальным подтверждением.&lt;/p&gt;
 &lt;p&gt;Ссылка на научную публикацию: &lt;a href=&#34;https://www.mdpi.com/2075-163X/11/6/623&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.mdpi.com/2075-163X/11/6/623&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Ссылка на LinkedIn пост с анимацией процесса: &lt;a href=&#34;https://www.linkedin.com/posts/andreas-svanberg-0b727786_dem-simulations-boliden-activity-6809103345618345985-0xik&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.linkedin.com/posts/andreas-svanberg-0b727786_dem-simulations-boliden-activity-6809103345618345985-0xik&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ansys #dem #ls-dyna #wear
 &lt;a href=&#34;https://tinyurl.com/yhugt89f&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yhugt89f&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mdpi.com/2075-163X/11/6/623&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Full-Scale Simulation and Validation of Wear for a Mining Rope Shovel Bucket&lt;/a&gt;
+&lt;a href=&#34;https://www.linkedin.com/posts/andreas-svanberg-0b727786_dem-simulations-boliden-activity-6809103345618345985-0xik&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.linkedin.com/posts/andreas-svanberg-0b727786_dem-simulations-boliden-activity-6809103345618345985-0xik&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yhugt89f&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yhugt89f&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование износа буровой коронки</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-15-modelirovanie-iznosa-burovoy-koronki/</link>
+      <pubDate>Thu, 15 Jun 2017 17:01:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-15-modelirovanie-iznosa-burovoy-koronki/</guid>
+      <description>&lt;p&gt;Моделирование износа буровой коронки
+&lt;a href=&#34;https://www.edemsimulation.com/blog/predicting-drill-wear-using-discrete-element-method/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.edemsimulation.com/blog/predicting-drill-wear-using-discrete-element-method/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#EDEM показали, как при помощи #DEM и правильной постановки истерания материала (#wear simulation) можно смоделировать износ коронки бура. Получается не очень сложный по постановке, но очень эффектный результат. Остается самая малость - правильно подобрать коэффициенты для этого самого истерания.
+&lt;a href=&#34;https://vimeo.com/220791840&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vimeo.com/220791840&lt;/a&gt;
+&lt;a href=&#34;https://vimeo.com/220791806&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vimeo.com/220791806&lt;/a&gt;
+&lt;a href=&#34;https://vimeo.com/220791955&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vimeo.com/220791955&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.edemsimulation.com/blog/predicting-drill-wear-using-discrete-element-method/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.edemsimulation.com/blog/predicting-drill-wear-using-discrete-element-method/&lt;/a&gt;
+&lt;a href=&#34;https://vimeo.com/220791840&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vimeo.com/220791840&lt;/a&gt;
+&lt;a href=&#34;https://vimeo.com/220791806&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vimeo.com/220791806&lt;/a&gt;
+&lt;a href=&#34;https://vimeo.com/220791955&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vimeo.com/220791955&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

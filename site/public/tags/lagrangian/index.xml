@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lagrangian on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/lagrangian/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/lagrangian/</link>
     <description>MagicDPD: Magic Driven Product Development! (Lagrangian)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 08 Feb 2019 04:36:58 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/lagrangian/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/lagrangian/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Работают ли бессрочные методы?</title>
-      <link>http://localhost:1313/posts/2019-02-08-rabotayut-li-bessrochnye-metody/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-08-rabotayut-li-bessrochnye-metody/</link>
       <pubDate>Fri, 08 Feb 2019 04:36:58 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-02-08-rabotayut-li-bessrochnye-metody/</guid>
-      <description>&lt;p&gt;Работают ли бессрочные методы?
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-08-rabotayut-li-bessrochnye-metody/</guid>
+      <description>&lt;p&gt;Работают ли бессрочные методы?&lt;/p&gt;
+&lt;p&gt;Работают ли бессрочные методы?
 Небольшая статья с очередной конференции по #LSDYNA. В статье рассказывается о сравнении расчета с применением сеточных и бессрочных методов с экспериментом — разрывом металлического образца.
 Постановки:&lt;/p&gt;
 &lt;ul&gt;
@@ -32,6 +33,31 @@
 &lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ALE #EFG #FEM #Lagrangian #LS_DYNA #SPG #SPH&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-4867&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-4867&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/s9vWYY-4867&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-4867&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Работают ли бессрочные методы?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-02-rabotayut-li-bessrochnye-metody/</link>
+      <pubDate>Sun, 02 Oct 2016 12:00:54 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-02-rabotayut-li-bessrochnye-metody/</guid>
+      <description>&lt;p&gt;Работают ли бессрочные методы?
+&lt;a href=&#34;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Небольшая статья с очередной конференции по #LSDYNA. В статье рассказывается о сравнении расчета с применением сеточных и бессрочных методов с экспериментом - разрывом металлического образца.
+Постановки:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#FEM #Lagrangian&lt;/li&gt;
+&lt;li&gt;#FEM #ALE&lt;/li&gt;
+&lt;li&gt;#SPH&lt;/li&gt;
+&lt;li&gt;#EFG&lt;/li&gt;
+&lt;li&gt;#SPG&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Точную кривую не описал не один из методов. Точная форма получилась только у ALE. Хуже всех, естественно выступил SPH, с его численной нестабильностью при работе на растяжение. На мой вкус EFG дал самую хорошую кривую, но с формой беда.&lt;/p&gt;
+&lt;p&gt;Прям захотелось повторить численный эксперимент.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

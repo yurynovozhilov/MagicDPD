@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Europlexus on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/europlexus/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/europlexus/</link>
     <description>MagicDPD: Magic Driven Product Development! (Europlexus)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 23 Sep 2021 15:01:35 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/europlexus/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/europlexus/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Сравнение работы кодов моделирования детонации ВВ</title>
-      <link>http://localhost:1313/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</link>
       <pubDate>Thu, 23 Sep 2021 15:01:35 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</guid>
-      <description>&lt;p&gt;Разработчики blastFoam, открытого CFD кода на базе openFoam, специализирующегося на задачах детонации ВВ и распространении ударных волны в воздухе, опубликовали любопытное сравнение. Они смоделировали детонацию сферического заряда тротила в воздухе в бесконечном домене - довольно простая постановка с хорошо известными аналитическими решениями.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</guid>
+      <description>&lt;p&gt;Сравнение работы кодов моделирования детонации ВВ&lt;/p&gt;
+&lt;p&gt;Разработчики blastFoam, открытого CFD кода на базе openFoam, специализирующегося на задачах детонации ВВ и распространении ударных волны в воздухе, опубликовали любопытное сравнение. Они смоделировали детонацию сферического заряда тротила в воздухе в бесконечном домене - довольно простая постановка с хорошо известными аналитическими решениями.&lt;/p&gt;
 &lt;p&gt;Моделирование они выполнили в:&lt;/p&gt;
 &lt;p&gt;Ansys Autodyn - код, разработанный когда-то, поглощённой компанией Century Dynamics - заточен под решение задач ОПКAnsys LS-DYNA - код, разработанный, поглощённой компанией LSTC - заточен под решение сильно связанных высоконелинейных задачEUROPLEXUS - или EpX, полуоткрытьй код для моделирования быстропротекающих процессов от французской промышленности, работает на основе моделей, подготовленных для Code_Aster.  CHT - код для моделирования быстропротекающих процессов от Сандийских национальных лабораторийblastFoam, который я уже представил&lt;/p&gt;
 &lt;p&gt;Во всех кодах использовалось уравнение состояния JWL. На мой взгляд, справились все коды примерно одинаково, и, не зная особенностей постановки задачи, времени, затраченного на решение, трудно выбрать лидера.&lt;/p&gt;
@@ -25,6 +26,27 @@
 &lt;p&gt;Ссылка на оригинальный пост: &lt;a href=&#34;https://www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ansys #autodyn #blast #blastfoam #cht #europlexus #ls-dyna #open_source #openfoam #sandia
 &lt;a href=&#34;https://tinyurl.com/yzxkzr4r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzxkzr4r&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/?trackingId=Uq%2B3MZmoMgkb3xIYeAHk9A%3D%3D&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;blastFoam | Comparison of explosive airblast calculators&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yzxkzr4r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzxkzr4r&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EUROPLEXUS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-16-europlexus/</link>
+      <pubDate>Fri, 16 Nov 2018 17:01:02 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-16-europlexus/</guid>
+      <description>&lt;p&gt;EUROPLEXUS
+Если верить описанию разработчиков, то EUROPLEXUS - это код, специализирующийся на решении быстропротекающих нестационарных FSI процессов. Примерами таких процессов являются взрывы в воздушной и водной среде. Разрабатывается код содружеством европейских университетов, используется там же.&lt;/p&gt;
+&lt;p&gt;Вообще, мне советовали на него взглянуть, как на европейский клон LS-DYNA, но похоже у кода дела плохи, как и мертвый основной сайт.
+С другой стороны, это бесплатное ПО, которое межет считать задачи явной динамики. А как бонус - оно можен напрямую получать модели из Code_Aster/
+&lt;a href=&#34;http://europlexus.jrc.ec.europa.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://europlexus.jrc.ec.europa.eu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#CodeAster #EUROPLEXUS #Explicit #FSI
+&lt;a href=&#34;http://bit.ly/2PZOHKo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PZOHKo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://europlexus.jrc.ec.europa.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://europlexus.jrc.ec.europa.eu/&lt;/a&gt;
+&lt;a href=&#34;http://europlexus.jrc.ec.europa.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://europlexus.jrc.ec.europa.eu/&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2PZOHKo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PZOHKo&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -2,36 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SCDM on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/scdm/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/scdm/</link>
     <description>MagicDPD: Magic Driven Product Development! (SCDM)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 21 Aug 2016 06:30:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jun 2017 13:11:40 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/scdm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/scdm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Восстановление аналитической геометрии по STL в SpaceClaim</title>
-      <link>http://localhost:1313/posts/2016-08-21-vosstanovlenie-analiticheskoy-geometrii-p/</link>
-      <pubDate>Sun, 21 Aug 2016 06:30:25 +0000</pubDate>
+      <title>Сделай свою кнопку в SpaceClaim</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-20-sdelay-svoyu-knopku-v-spaceclaim/</link>
+      <pubDate>Tue, 20 Jun 2017 13:11:40 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-08-21-vosstanovlenie-analiticheskoy-geometrii-p/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.spaceclaim.com/en/Solutions/ReverseEngineering.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.spaceclaim.com/en/Solutions/ReverseEngineering.aspx&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Похоже, что у #ANSYS #SpaceClaim Direct Modeller (#SCDM) есть ответ технологиям #PolyNURBS, заложеным в #solidThinking. Надо только уметь ими пользоваться: функционал по богаче, да настроек по более.&lt;/p&gt;
-&lt;p&gt;А мне прямо сейчас ох как надо восстановить нормальную геометрию на основе #STL резуьтатов топологической оптимизации.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-20-sdelay-svoyu-knopku-v-spaceclaim/</guid>
+      <description>&lt;p&gt;Сделай свою кнопку в SpaceClaim
+&lt;a href=&#34;http://www.ansys-blog.com/interactive-script-defined-tools/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/interactive-script-defined-tools/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Чуть не проглядел очень очень интересную новую функцию в #ANSYS #SpaceClaim 18.1 (#SCDM). Теперь у нас есть возможность не только записывать и воспроизводить #python скрипты/журналы. Теперь мы можем публиковать эти скрипты в виде готовых инструментов и кнопок прямо в GUI!!! Это прям как #ACT без мороки с написанием #ACT.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys-blog.com/interactive-script-defined-tools/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Interactive Script-defined Tools Change the Game in Modeling&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новые возможности SpaceClaim 18.1</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-09-novye-vozmozhnosti-spaceclaim-181/</link>
+      <pubDate>Fri, 09 Jun 2017 17:01:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-09-novye-vozmozhnosti-spaceclaim-181/</guid>
+      <description>&lt;p&gt;Новые возможности SpaceClaim 18.1
+&lt;a href=&#34;https://www.youtube.com/watch?v=c8BXU7FPFN0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=c8BXU7FPFN0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS #SpaceClaim (#SCDM) в версии 18.1 получил еще немного интересных новых возможностей. Например мне очень понравился новый механизм управления выборками фасетов при работе с #STL.&lt;/p&gt;
+&lt;p&gt;P.S. Забавно, но похоже ANSYS сам начинает путаться в нумерации своих приложений: SCDM не 2017.1, а 18.1 (версии дам сохранились только для электромагнитного софта).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=c8BXU7FPFN0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=c8BXU7FPFN0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=c8BXU7FPFN0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS SpaceClaim 2017.1 Enhancements&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Реверсинжиниринг в SpaceeClaim</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-02-reversinzhiniring-v-spaceeclaim/</link>
+      <pubDate>Sun, 02 Apr 2017 17:00:50 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-02-reversinzhiniring-v-spaceeclaim/</guid>
+      <description>&lt;p&gt;Реверсинжиниринг в SpaceeClaim
+&lt;a href=&#34;https://www.youtube.com/watch?v=sk55qdEj_T4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=sk55qdEj_T4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Свежий учебный пример по восстановлению геометрии на основе #STL формата в самом свежем #ANSYS #SCDM (aka #SpaceClaim). Коллеги из #CAE Associates Inc постарались.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=sk55qdEj_T4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=sk55qdEj_T4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=sk55qdEj_T4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS SpaceClaim Reverse Engineering | CAE Associates&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Работа с большими сборками в SpaceClaim</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-30-rabota-s-bolshimi-sborkami-v-spaceclaim/</link>
+      <pubDate>Thu, 30 Mar 2017 08:37:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-30-rabota-s-bolshimi-sborkami-v-spaceclaim/</guid>
+      <description>&lt;p&gt;Работа с большими сборками в SpaceClaim
+&lt;a href=&#34;https://www.youtube.com/watch?v=o95pjExmhMo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=o95pjExmhMo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS #SCDM (aka #SpaceClaim) имеет весьма внушительный функционал по работе с большими сборками. Вот несколько видео уроков, которые покажут, как без боли работать с моделями состоящими из нескольких тысячам деталей.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=o95pjExmhMo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=o95pjExmhMo&lt;/a&gt;
+&lt;a href=&#34;https://vimeo.com/177550413&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vimeo.com/177550413&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=o95pjExmhMo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SpaceClaim Working with Large Assemblies&lt;/a&gt;
+&lt;a href=&#34;https://vimeo.com/177550413&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vimeo.com/177550413&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Восстановление аналитической геометрии по STL в SpaceClaim: часть 2</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-21-vosstanovlenie-analiticheskoy-geometrii-p/</link>
+      <pubDate>Sun, 21 Aug 2016 12:01:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-21-vosstanovlenie-analiticheskoy-geometrii-p/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=VEUvYM2qFRc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=VEUvYM2qFRc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;А теперь более образовательный пост на тему работы с #NURBS в #ANSYS #SpaceClaim Direct Modeller (#SCDM): несколько небольших мастерклассов по восстановлению аналитических поверхностей на основе #STL моделей.&lt;/p&gt;
+&lt;p&gt;P.S. Вот, что бывает, когда нужно решить интересную и новую задачу - три поста про SCDM в ряд!
+#ReverseEngineering
+&lt;a href=&#34;https://www.youtube.com/watch?v=VEUvYM2qFRc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=VEUvYM2qFRc&lt;/a&gt;
+&lt;a href=&#34;http://storage.ansys.com/video/release-highlights/spaceclaim-rev-eng.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://storage.ansys.com/video/release-highlights/spaceclaim-rev-eng.mp4&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=2j6N5A6T3Kw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=2j6N5A6T3Kw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=VEUvYM2qFRc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS SpaceClaim 2016 Reverse Engineering&lt;/a&gt;
+&lt;a href=&#34;http://storage.ansys.com/video/release-highlights/spaceclaim-rev-eng.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://storage.ansys.com/video/release-highlights/spaceclaim-rev-eng.mp4&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=2j6N5A6T3Kw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=2j6N5A6T3Kw&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Вебинар ANSYS SpaceClaim 2016.2: работа с STL</title>
-      <link>http://localhost:1313/posts/2016-08-20-vebinar-ansys-spaceclaim-20162-rabota/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-20-vebinar-ansys-spaceclaim-20162-rabota/</link>
       <pubDate>Sat, 20 Aug 2016 12:01:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-08-20-vebinar-ansys-spaceclaim-20162-rabota/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://attendee.gotowebinar.com/rt/1891354989561575940&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://attendee.gotowebinar.com/rt/1891354989561575940&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-20-vebinar-ansys-spaceclaim-20162-rabota/</guid>
+      <description>&lt;p&gt;Вебинар ANSYS SpaceClaim 2016.2: работа с STL
+&lt;a href=&#34;https://attendee.gotowebinar.com/rt/1891354989561575940&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://attendee.gotowebinar.com/rt/1891354989561575940&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Регичтация на обзорный вебинар по работе с #STL моделями в #ASYS #SpaceClaim Direct Modeler (#SCDM). Дополнително расскажту про такие темы, как PMI export, Associative scripting, STL shelling with face removal и т.п.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://attendee.gotowebinar.com/rt/1891354989561575940&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://attendee.gotowebinar.com/rt/1891354989561575940&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://attendee.gotowebinar.com/rt/1891354989561575940&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS SpaceClaim 2016.2 Release Webinar&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

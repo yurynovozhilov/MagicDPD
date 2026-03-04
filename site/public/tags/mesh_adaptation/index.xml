@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mesh_adaptation on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/mesh_adaptation/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Mesh_adaptation)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 27 Feb 2019 17:00:20 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/mesh_adaptation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Адаптивные сетки в MSC Marc</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-27-adaptivnye-setki-v-msc-marc/</link>
+      <pubDate>Wed, 27 Feb 2019 17:00:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-27-adaptivnye-setki-v-msc-marc/</guid>
+      <description>&lt;p&gt;Адаптивные сетки в MSC Marc&lt;/p&gt;
+&lt;p&gt;Не очень свежий, но очень большой вебинар по работе адаптивных сеток в Marc. У данного решателя в области автоматической сеточной адаптации всегда был очень большой задел. Особенно впечатляет их локальная сеточная адаптация с «висящими узлами» — такого, насколько я знаю, для объемных элементов не умеет делать больше никто другой.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jI8jDrrT3Ns&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jI8jDrrT3Ns&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Marc #mesh #mesh_adaptation #MSC&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2mu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2mu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jI8jDrrT3Ns&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jI8jDrrT3Ns&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2mu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2mu&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Глубокая вытяжка - урок</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-30-glubokaya-vytyazhka-urok/</link>
+      <pubDate>Tue, 30 Jan 2018 17:00:33 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-30-glubokaya-vytyazhka-urok/</guid>
+      <description>&lt;p&gt;Глубокая вытяжка - урок
+Не полный, но очень полезный видео урок по моделированию процесса глубокой вытяжки в LS-DYNA. Полный стоит денег :(&lt;/p&gt;
+&lt;p&gt;Рассматриваемые особенности моделирования процесса:&lt;/p&gt;
+&lt;p&gt;Моделирования процесса в explicit постановке с автоматическим измельчением сетки
+Расчет обратного пружинения в implicit постановке с автоматическим загрублением сетки
+Создание 3D модели на основе результатов расчета оболочечной модели (а что, так можно было?!) и экспорт ее в CAD в виде IGES (уличная магия!).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OXc85azosr0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=OXc85azosr0&lt;/a&gt;
+#deepdrawing #forming #LS-DYNA #LS-PrePost #mesh_adaptation #springback
+&lt;a href=&#34;https://magicdpd.ru/?p=6108&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6108&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OXc85azosr0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=OXc85azosr0&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=6108&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6108&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

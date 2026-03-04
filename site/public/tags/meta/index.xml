@@ -2,24 +2,132 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meta on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/meta/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/meta/</link>
     <description>MagicDPD: Magic Driven Product Development! (Meta)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 05 May 2018 18:01:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2019 13:01:15 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/meta/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>BetaCAE Meta для постпроцессинга задач пассивной безопасност</title>
-      <link>http://localhost:1313/posts/2018-05-05-betacae-meta-dlya-postprotsessinga-zadach-p/</link>
+      <title>Porsche vs Bugatti — LEGO LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-11-porsche-vs-bugatti-lego-ls-dyna/</link>
+      <pubDate>Fri, 11 Oct 2019 13:01:15 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-11-porsche-vs-bugatti-lego-ls-dyna/</guid>
+      <description>&lt;p&gt;Porsche vs Bugatti — LEGO LS-DYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/porsche-vs-bugatti-lego-ls-dyna/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/porsche-vs-bugatti-lego-ls-dyna/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Volvo говорит про LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-18-volvo-govorit-pro-ls-dyna/</link>
+      <pubDate>Wed, 18 Sep 2019 11:47:06 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-18-volvo-govorit-pro-ls-dyna/</guid>
+      <description>&lt;p&gt;Volvo говорит про LS-DYNA
+Очень крутой технический доклад #Volvo на 7-ой конференции «BEFORE REALITY CONFERENCE», проводимой компанией #BETA #CAE. Конечно Volvo читает в моей любимой #LSDYNA. А вот модели она готовит в #ANSA, на которую они накрутили много собственной автоматизации. Анализ результатов за #Meta.&lt;/p&gt;
+&lt;p&gt;Мне больше всего понравился рассказ про рабочий процесс, выработанный на Volvo — ведь они строят полные модели автомобилей для расчетов! И строят их почти автоматически.&lt;/p&gt;
+&lt;p&gt;А еще, подробная модель автомобиля у них состоит всего из 10-15 миллионов элементов — это не очень много, а значит инженеры очень грамотно строят сетку и используют кучу упрощений без потери точности.&lt;/p&gt;
+&lt;p&gt;И конечно есть пара слайдов про #HPC: 34 800 процессорных ядер! И им не хватает 😊&lt;/p&gt;
+&lt;p&gt;Comprehensive Safety CAE for the all-new Volvo S90/V90/V90CC&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/embed/kfYjxiZaESI?__ref=vk.api&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Comprehensive Safety CAE for the all-new Volvo S90/V90/V90CC&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>20й релиз софта от BetaCAE</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-20-20y-reliz-softa-ot-betacae/</link>
+      <pubDate>Sat, 20 Jul 2019 13:01:06 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-20-20y-reliz-softa-ot-betacae/</guid>
+      <description>&lt;p&gt;20й релиз софта от BetaCAE&lt;/p&gt;
+&lt;p&gt;BetaCAE показала очень насыщенные видео с новыми функциями своей софтовой коллекции. Глядя на это, становится понятно, почему их так любят в автомобильной промышленности. Однако «магии» я не увидел, да и для solid сеток ничего не показали, как, впрочем, и обычно.&lt;/p&gt;
+&lt;p&gt;#ANSA #BetaCAE #Epilysis #Meta #Retomo&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2BY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2BY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2BY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2BY&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>19-ый релиз от BETA CAE</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-26-19-yy-reliz-ot-beta-cae/</link>
+      <pubDate>Fri, 26 Oct 2018 17:00:52 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-26-19-yy-reliz-ot-beta-cae/</guid>
+      <description>&lt;p&gt;19-ый релиз от BETA CAE
+Разработчики в 3-х видео показали новые возможности своего обновленного набора софта, состоящего из ANSA (препроцессор и сеточный генератор), META (постпроцессор) и EPILYSIS (собственный решатель, но он пока очень юн).&lt;/p&gt;
+&lt;p&gt;#ANSA #BetaCAE #Epilysis #Meta
+&lt;a href=&#34;http://bit.ly/2D7p1p6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2D7p1p6&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2D7p1p6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2D7p1p6&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BetaCAE Meta для постпроцессинга задач пассивной безопасности</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-05-betacae-meta-dlya-postprotsessinga-zadach-p/</link>
       <pubDate>Sat, 05 May 2018 18:01:25 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-05-05-betacae-meta-dlya-postprotsessinga-zadach-p/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-05-betacae-meta-dlya-postprotsessinga-zadach-p/</guid>
       <description>&lt;p&gt;Meta практически является стандартом де-факто для обработки результатов расчетов краштестов. Данный постпроцессор отлично зарекомендовал себя, но реклама лишней не бывает. На видео представлена работа Meta с результатами краштеста Volvo XC60 нового поколения. Но только в видео очень лукаво говорят, что расчет сделан в Meta — на самом деле Volvo все краштесты счиатет в LS-DYNA, о чем регулярно докладывает на соответствующих конференциях.
 #BetaCAE #Crush #LS-DYNA #Meta #Volvo&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Pn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Pn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Pn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Pn&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Очень крутой технический доклад #Volvo на 7-ой конференции &#34;BEFORE REALITY CONFERENCE&#34;, проводимой компанией #BETA #CAE.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-19-ochen-krutoy-tehnicheskiy-doklad-volvo-n/</link>
+      <pubDate>Thu, 19 Oct 2017 17:12:40 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-19-ochen-krutoy-tehnicheskiy-doklad-volvo-n/</guid>
+      <description>&lt;p&gt;Конечно Volvo читает в моей любимой #LSDYNA. А вот модели она готовит в #ANSA, на которую они накрутили много собственной автоматизации. Анализ результатов за #Meta.&lt;/p&gt;
+&lt;p&gt;Мне больше всего понравился рассказ про рабочий процесс, выработанный на Volvo - ведь они строят полные модели автомобилей для расчетов! И строят их почти автоматически.&lt;/p&gt;
+&lt;p&gt;А еще, подробная модель автомобиля у них состоит всего из 10-15 миллионов элементов - это не очень много, а значит инженеры очень грамотно строят сетку и используют кучу упрощений без потери точности.&lt;/p&gt;
+&lt;p&gt;И конечно есть пара слайдов про #HPC: 34 800 процессорных ядер! И им не хватает 😊
+&lt;a href=&#34;https://youtu.be/kfYjxiZaESIMedia&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/kfYjxiZaESIMedia&lt;/a&gt;📼 Comprehensive Safety CAE for the all-new Volvo S90…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2gw0MXQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2gw0MXQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2gw0LmK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2gw0LmK&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2yEni7L&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yEni7L&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vdfLMH&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vdfLMH&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vlBJYZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlBJYZ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2yfJ8Lg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yfJ8Lg&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xkU8aW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xkU8aW&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2emhAvW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2emhAvW&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/kfYjxiZaESI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/kfYjxiZaESI&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2yEniVj&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yEniVj&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2gw0MXQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2gw0MXQ&lt;/a&gt;
+tp://ift.tt/2gw0MXQ&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#BetaCAE выпустила 18 релиз своей платформы, состоящей из препроцессора #ANSA, постпроцессора #Meta, системы управления данными расчетов #SPDRM (Simulation, Process, Data &amp; Resources Management), разрабатываемого с прошлого релиза собственного прочностного кода #Epilysis и двух новых продуктов: #Retomo - средства создания геометрии на основе данных МТР и #Komvos отвечающего за направление Simulation Data Management.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-21-betacae-vypustila-18-reliz-svoey-platfo/</link>
+      <pubDate>Thu, 21 Sep 2017 17:03:47 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-21-betacae-vypustila-18-reliz-svoey-platfo/</guid>
+      <description>&lt;p&gt;Подробности в видео записи презентации и по ссылке
+&lt;a href=&#34;https://youtu.be/2EEX3lcboQ4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/2EEX3lcboQ4&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xkKo0lMediaMedia&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xkKo0lMediaMedia&lt;/a&gt;📼 Latest Developments &amp;amp; New Products in BETA’s produ…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2ygfGEO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ygfGEO&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2xkOUMw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xkOUMw&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2yfJ8Lg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yfJ8Lg&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xkU8aW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xkU8aW&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2yg6cJF&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yg6cJF&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xjMU6R&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xjMU6R&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2ygy7cL&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ygy7cL&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xk82dt&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xk82dt&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/2EEX3lcboQ4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/2EEX3lcboQ4&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2ygGNzD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ygGNzD&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2ygn8jp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ygn8jp&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xklbmA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xklbmA&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2ygfGEO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ygfGEO&lt;/a&gt;
+ttp://ift.tt/2ygfGEO&lt;/p&gt;
 </description>
     </item>
     

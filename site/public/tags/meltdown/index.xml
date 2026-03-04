@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meltdown on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/meltdown/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Meltdown)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sun, 21 Jan 2018 17:01:07 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/meltdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spectre и Meltdown против ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-21-spectre-i-meltdown-protiv-ansys/</link>
+      <pubDate>Sun, 21 Jan 2018 17:01:07 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-21-spectre-i-meltdown-protiv-ansys/</guid>
+      <description>&lt;p&gt;Spectre и Meltdown против ANSYS
+В начале этого года прогремели новости об обнаружении уязвимостей практически во всех процессорах x86_64 и ARM. Уязвимости получили названия Spectre и Meltdown - у них даже есть свой сайт &lt;a href=&#34;https://spectreattack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://spectreattack.com&lt;/a&gt; (а у вас есть? :-)). Я не буду вдаваться в подробности работы уязвимостей, скажу только, что с их появлением можно забыть о концепции защищенной памяти процесса, которая декларировалась уже лет 10 - это огромная дыра в безопасности!&lt;/p&gt;
+&lt;p&gt;Для исправления уязвимостей были выпущены заплатки на уровне операционных систем, которые исправляют баг, но могут очень здорово просадить производительность системы: от 5 в зависимости от типа решаемой задачи. Перед всеми нами встала дилемма: работать безопасно или работать быстро? Но вот почти никто не стал проверять, насколько проседает производительность в задачах, которые интересны нам - в CAE.&lt;/p&gt;
+&lt;p&gt;Одними из немногих, кто провел реальные тесты и опубликовал их результаты, оказался коллектив PADT Inc. Коллеги взяли задачу Ball Grid Array из стандартного набора тестов производительности для  ANSYS Mechanical 18.2  Benchmark и выполнили расчет на двухпроцессорной рабочей станции:&lt;/p&gt;
+&lt;p&gt;CPU: INTEL XEON Gold 6130 CPU x2
+RAM: 128GB DDR4-2667MHz (1Rx4) ECC REG DIMM
+OS: Windows 10 Professional
+MPI: INTEL MPI 5.0.1.3
+GPU: NVIDIA QUADRO P4000
+SSD: Samsung EVO 960 Pro NVMe M.2
+HDD: Toshiba 2TB 7200 RPM SATA 3 Drive&lt;/p&gt;
+&lt;p&gt;Результаты получились примерно следующие:&lt;/p&gt;
+&lt;p&gt;Как можно видеть, производительность на данном тесте падает не более чем на 10%, а в некоторых случаях даже растет (что вообще-то очень странно). Для случая использования высокооптимизированного решателя ANSYS Mechanical исправления уязвимостей Spectre и Meltdown оказыват малое влияние на время расчета.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/spectre-side-channel-and-meltdown-how-will-living-in-this-new-reality-affect-the-world-of-numerical-simulation&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.padtinc.com/blog/the-focus/spectre-side-channel-and-meltdown-how-will-living-in-this-new-reality-affect-the-world-of-numerical-simulation&lt;/a&gt;
+#ANSYS #HPC #Mechanical #Meltdown #padtinc #Spectre
+&lt;a href=&#34;https://magicdpd.ru/?p=6002&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6002&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://spectreattack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://spectreattack.com&lt;/a&gt;
+5.0.1.3
+&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/spectre-side-channel-and-meltdown-how-will-living-in-this-new-reality-affect-the-world-of-numerical-simulation&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.padtinc.com/blog/the-focus/spectre-side-channel-and-meltdown-how-will-living-in-this-new-reality-affect-the-world-of-numerical-simulation&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=6002&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6002&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

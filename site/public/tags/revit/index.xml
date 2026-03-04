@@ -2,24 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Revit on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/revit/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/revit/</link>
     <description>MagicDPD: Magic Driven Product Development! (Revit)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Tue, 01 Oct 2019 13:00:54 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/revit/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/revit/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>SOFiSTiK Reinforcement Generation — генерируем арматуру быст</title>
-      <link>http://localhost:1313/posts/2019-10-01-sofistik-reinforcement-generation-gene/</link>
+      <title>SOFiSTiK Reinforcement Generation — генерируем арматуру быстро</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-01-sofistik-reinforcement-generation-gene/</link>
       <pubDate>Tue, 01 Oct 2019 13:00:54 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-10-01-sofistik-reinforcement-generation-gene/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-01-sofistik-reinforcement-generation-gene/</guid>
       <description>&lt;p&gt;SOFiSTiK Reinforcement Generation создан для того, чтобы удобно и быстро генерировать геометрию арматуры в железобетонных строительных конструкциях.&lt;/p&gt;
 &lt;p&gt;Несмотря на то, что сейчас систему показывают как работающую только для Autodesk Revit, знающие люди говорят, что на самом деле у нее внутри есть свой собственный скриптовый язык, и ее можно заставить генерировать такую арматуру для произвольного IFC и как вам надо.&lt;/p&gt;
 &lt;p&gt;А вы еще знаете софт, который умеет генерировать массивы арматуры?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/sofistik-reinforcement-generation/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SOFiSTiK Reinforcement Generation - генерируем арматуру быстро - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Знакомимся с DIANA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-19-znakomimsya-s-diana/</link>
+      <pubDate>Mon, 19 Nov 2018 07:00:56 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-19-znakomimsya-s-diana/</guid>
+      <description>&lt;p&gt;Знакомимся с DIANA
+Мои читатели рассказали мне, что есть такая штука, как DIANA, и я решил обратить на нее внимание. Итак, DIANA (DIaplacement ANAlyser, &lt;a href=&#34;https://dianafea.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://dianafea.com&lt;/a&gt;) - КЭ код общего назначения, разработанный специально для решения задач гражданского строительства, нефтянки и геомеханики. Код ведет ведет свою историю с 1972 года, когда его разработкой занялись в Нидерландах TNO Building and Construction Research (&lt;a href=&#34;https://www.tno.nl/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.tno.nl/en/&lt;/a&gt;) на базе закрытого кода COLOS 70-х годов разработки. Так что DIANA - тертый калач, постарше NASTRAN и ANSYS.
+А для начала знакомства с кодом стоит посмотреть часовой вебинар, посвященной вышедшей недавно версии DIANA 10.2&lt;/p&gt;
+&lt;p&gt;Посмотрев данную запись, хочу отметить, что коллеги из Нидерландов не стояли на месте. У системы вполне себе приятный графический интерфейс, напоминающий ANSYS Mechanical, есть свой, вполне вменяемый сеточный генератор.
+А специалисты по BIM не пройдут мимо такого жирного плюса, как возможность напрямую читать данные из AUTODESK Revit и формата IFC.
+Ну и, конечно, всегда очень приятно иметь автоматическую верстку отчетов в HTML, rtf, OpenOffice, markdown (!!!) и LaTex (!!! !!! !!!).&lt;/p&gt;
+&lt;p&gt;#Autodesk #Civil #DIANA #IFC #Revit
+&lt;a href=&#34;http://bit.ly/2RZezTS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RZezTS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dianafea.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Home - DIANA&lt;/a&gt;
+&lt;a href=&#34;https://www.tno.nl/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.tno.nl/en/&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2RZezTS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RZezTS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Solid Professor научит CAD</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-10-solid-professor-nauchit-cad/</link>
+      <pubDate>Wed, 10 Aug 2016 06:30:10 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-10-solid-professor-nauchit-cad/</guid>
+      <description>&lt;p&gt;Solid Professor научит CAD
+&lt;a href=&#34;http://www.solidprofessor.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.solidprofessor.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Аменриканский портал #SolidProfessor занимается удаленным обучение пользователей. При этом все сконфигурировано таким образом, что будущим студентам даже ставить ничего не надо - все через браузер, все удаленно. Сейчас есть курсы по #CAD и #CAM: #SOLIDWORKS, #Onshape, #SketchUp, #CAMWorks, #Mastercam, #3ds Max, #AutoCAD, #Civil3D, #Fusion360, #Inventor, #Navisworks, #Revit&lt;/p&gt;
+&lt;p&gt;Очень хочется, что бы туда добавилось еще и #CAE.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://solidprofessor.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Home&lt;/a&gt;
+&lt;a href=&#34;http://www.solidprofessor.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.solidprofessor.com/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

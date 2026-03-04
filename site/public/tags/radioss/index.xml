@@ -1,60 +1,311 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>RADIOSS on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/radioss/</link>
-    <description>MagicDPD: Magic Driven Product Development! (RADIOSS)</description>
+    <title>Radioss on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/radioss/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Radioss)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 15 Sep 2022 18:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Oct 2022 18:00:10 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/radioss/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/radioss/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Продолжаем тему #OpenRadioss: видео инструкция по сборке и з</title>
-      <link>http://localhost:1313/posts/2022-09-15-prodolzhaem-temu-openradioss-video-inst/</link>
+      <title>Модель материала MF GenYld &#43; CrachFEM разработанная #MATFEM GmbH выглядит очень интересно.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-10-17-model-materiala-mf-genyld-&#43;-crachfem-ra/</link>
+      <pubDate>Mon, 17 Oct 2022 18:00:10 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-10-17-model-materiala-mf-genyld-&#43;-crachfem-ra/</guid>
+      <description>&lt;p&gt;Это специальная модель-конструктор, которая собирается из кусочков и позволяет учитывать именно необходимые вам механические особенности материала при явном расчете в #LSDYNA, #Abaqus, #Radioss и #PAMCrash/#PAMStamp. Кроме всей возможной математики модель оснащена специальной утилитой, которая позволяет визуализировать заданные механические законы в виде различных кривых. Это позволяет быстро и наглядно понять, при задании каких параметров допущены ошибки. &lt;a href=&#34;https://www.matfem.de/en/crachfem.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.matfem.de/en/crachfem.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.matfem.de/en/crachfem.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.matfem.de/en/crachfem.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Продолжаем тему #OpenRadioss: видео инструкция по сборке и запуску #opensource кода под #Ubuntu</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-15-prodolzhaem-temu-openradioss-video-inst/</link>
       <pubDate>Thu, 15 Sep 2022 18:00:04 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-09-15-prodolzhaem-temu-openradioss-video-inst/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-15-prodolzhaem-temu-openradioss-video-inst/</guid>
       <description>&lt;p&gt;#Altair #Radioss &lt;a href=&#34;https://www.youtube.com/watch?v=He2CsOxNpfQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=He2CsOxNpfQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=He2CsOxNpfQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=He2CsOxNpfQ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вчера компания #Altair объявила об открытии исходны кодов ее явного прочностного решателя #Radioss.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-09-vchera-kompaniya-altair-obyavila-ob-otkry/</link>
+      <pubDate>Fri, 09 Sep 2022 18:00:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-09-vchera-kompaniya-altair-obyavila-ob-otkry/</guid>
+      <description>&lt;p&gt;Данный решатель, как и многие подобные проекты, создавался на основе исходных кодов #DYNA3D. Коллеги так хорошо срисовывали, что в решателю напрямую можно скармливать базовые модели #Ansys #LSDYNA.&lt;/p&gt;
+&lt;p&gt;Короче, Altair сделали большой #opensource сообществу и всем тем, кто не может купить решатель или не нуждается в технической поддержке. Я же думаю, что данный код не пользуется особой коммерческой популярностью. Altair просто пытается отдать его на сопровождение сообществу, а не убивать его разработку совсем. &lt;a href=&#34;https://www.openradioss.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.openradioss.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.openradioss.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.openradioss.org/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Humanetics - если судить по доле рынка, крупнейший производитель антропоморфных тестовых устройств, широко известных как манекены для краш-тестов.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-16-humanetics-esli-sudit-po-dole-rynka/</link>
+      <pubDate>Wed, 16 Feb 2022 17:00:07 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-16-humanetics-esli-sudit-po-dole-rynka/</guid>
+      <description>&lt;p&gt;И у них конечно же есть свои модели этих манекенов для расчетов пассивной безопасности в кодах #ANSYS #LSDYNA, #PAMCRASH, #RADIOSS и #ABAQUS. &lt;a href=&#34;https://humanetics.humaneticsgroup.com/products/virtual-models&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://humanetics.humaneticsgroup.com/products/virtual-models&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://humanetics.humaneticsgroup.com/products/virtual-models&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Virtual Models&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project PIPER</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-08-03-project-piper/</link>
+      <pubDate>Mon, 03 Aug 2020 13:00:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-08-03-project-piper/</guid>
+      <description>&lt;p&gt;Project PIPER&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/project-piper/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Project PIPER - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-DYNA vs RADIOSS (Toyota Yaris)</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-01-26-ls-dyna-vs-radioss-toyota-yaris/</link>
+      <pubDate>Sun, 26 Jan 2020 13:00:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-01-26-ls-dyna-vs-radioss-toyota-yaris/</guid>
+      <description>&lt;p&gt;LS-DYNA vs RADIOSS (Toyota Yaris)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/ls-dyna-vs-radioss-toyota-yaris/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LS-DYNA vs RADIOSS (Toyota Yaris) - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Влияние DYNA на CAE коды</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-11-22-vliyanie-dyna-na-cae-kody/</link>
+      <pubDate>Fri, 22 Nov 2019 13:32:51 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-11-22-vliyanie-dyna-na-cae-kody/</guid>
+      <description>&lt;p&gt;Влияние DYNA на CAE коды&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/survey-to-determine-the-value-of-dyna/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Влияние DYNA на CAE коды - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Let&#39;s simulate badminton</title>
-      <link>http://localhost:1313/posts/2018-02-10-lets-simulate-badminton/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-10-lets-simulate-badminton/</link>
       <pubDate>Sat, 10 Feb 2018 18:01:40 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-02-10-lets-simulate-badminton/</guid>
-      <description>&lt;p&gt;Altair team tresents nice technical demo on badminton racquet dinamics.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-10-lets-simulate-badminton/</guid>
+      <description>&lt;p&gt;Let&amp;rsquo;s simulate badminton
+Altair team tresents nice technical demo on badminton racquet dinamics.&lt;/p&gt;
 &lt;img class=&#34;alignnone size-medium wp-image-6228&#34; src=&#34;https://magicdpd.ru/wp-content/uploads/2018/02/badminton-300x240.gif&#34; alt=&#34;&#34; width=&#34;300&#34; height=&#34;240&#34; /&gt;
 &lt;p&gt;The simulation was done with good and mature solver RADIOSS - explicit code from Altair. This case is nothing special from simulation point. But post-processing is really cool. With help of solidThinking Evolve engineers was able to render photorealistic process animation.&lt;/p&gt;
 &lt;p&gt;You could find original post here: &lt;a href=&#34;http://innovationintelligence.com/simulation-badminton-racquet/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://innovationintelligence.com/simulation-badminton-racquet/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I provide link to solidThinking Evolve page also: &lt;a href=&#34;https://solidthinking.com/ProductOverview.aspx?item=Evolve%20Overview&amp;amp;amp;category=Products&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://solidthinking.com/ProductOverview.aspx?item=Evolve%20Overview&amp;amp;category=Products&lt;/a&gt;
 #Altair #Evolve #explicit #RADIOSS #solidThinking
+&lt;a href=&#34;https://wp.me/p9vWYY-1Di&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Di&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/wp-content/uploads/2018/02/badminton-300x240.gif&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/wp-content/uploads/2018/02/badminton-300x240.gif&lt;/a&gt;
+&lt;a href=&#34;http://innovationintelligence.com/simulation-badminton-racquet/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://innovationintelligence.com/simulation-badminton-racquet/&lt;/a&gt;
+&lt;a href=&#34;https://solidthinking.com/ProductOverview.aspx?item=Evolve%20Overview&amp;amp;amp;category=Products&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://solidthinking.com/ProductOverview.aspx?item=Evolve%20Overview&amp;amp;category=Products&lt;/a&gt;
 &lt;a href=&#34;https://wp.me/p9vWYY-1Di&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Di&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Фотореалистичный рендеринг результатов расчетов</title>
-      <link>http://localhost:1313/posts/2017-05-01-fotorealistichnyy-rendering-rezultatov-r/</link>
-      <pubDate>Mon, 01 May 2017 17:00:28 +0000</pubDate>
+      <title>Посчитаем бадминтон</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-10-poschitaem-badminton/</link>
+      <pubDate>Sat, 10 Feb 2018 18:01:19 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-05-01-fotorealistichnyy-rendering-rezultatov-r/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://innovationintelligence.com/slingshot-topples-cans-simulated-radioss-visualized-rendered-evolve/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://innovationintelligence.com/slingshot-topples-cans-simulated-radioss-visualized-rendered-evolve/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Среди софта, дружественного платформе #Altair, есть очень любопытная система - #solidThinking #Evolve. Эта штуковина не только занимается концептуальным дизайном на основе #NURBS поверхностей, но и позволяет осуществлять рендеринг сцен с анимацией на основе расчетных данных. В качестве примера последнего есть  видео, созданное по данным расчета в #explicit коде #Altair #RADIOSS.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://youtu.be/1rRRd0BfPAc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/1rRRd0BfPAc&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-10-poschitaem-badminton/</guid>
+      <description>&lt;p&gt;Посчитаем бадминтон
+Отличное техническое демо от Altair по моделированию динамики взаимодействия валанчика и ракетки для бадминтона&lt;/p&gt;
+&lt;img src=&#34;https://magicdpd.ru/wp-content/uploads/2018/02/badminton-300x240.gif&#34; class=&#34;alignnone size-medium wp-image-6228&#34; width=&#34;300&#34; height=&#34;240&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;Расчет выполнен при помощи старого доброго RADIOSS - explicit решателя Altair. В расчете нет ничего сверхъестественного, а вот постпроцессинг не совсем обычный. Благодаря solidThinking Evolve cделана фотореалистичная анимация результатов, что выглядит весьма эффектно.&lt;/p&gt;
+&lt;p&gt;Ссылка на оригинальный материал: http://innovationintelligence.com/simulation-badminton-racquet/&lt;/p&gt;
+&lt;p&gt;Ссылка на solidThinking Evolve: &lt;a href=&#34;https://solidthinking.com/ProductOverview.aspx?item=Evolve%20Overview&amp;amp;amp;category=Products&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://solidthinking.com/ProductOverview.aspx?item=Evolve%20Overview&amp;amp;category=Products&lt;/a&gt;
+#Altair #Evolve #explicit #RADIOSS #solidThinking
+&lt;a href=&#34;https://wp.me/p9vWYY-1Co&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Co&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/wp-content/uploads/2018/02/badminton-300x240.gif&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/wp-content/uploads/2018/02/badminton-300x240.gif&lt;/a&gt;
+&lt;a href=&#34;http://innovationintelligence.com/simulation-badminton-racquet/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://innovationintelligence.com/simulation-badminton-racquet/&lt;/a&gt;
+&lt;a href=&#34;https://solidthinking.com/ProductOverview.aspx?item=Evolve%20Overview&amp;amp;amp;category=Products&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://solidthinking.com/ProductOverview.aspx?item=Evolve%20Overview&amp;amp;category=Products&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-1Co&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Co&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Все инструменты для правильного расчета разрушения конструкций - #LSDYNA, #AUTODYN, #Abaqus, #Radioss - это конечно очень здорово. Но что делать, если вам просто нужна красивая картинка?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-13-vse-instrumenty-dlya-pravilnogo-rascheta/</link>
+      <pubDate>Sun, 13 Aug 2017 17:03:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-13-vse-instrumenty-dlya-pravilnogo-rascheta/</guid>
+      <description>&lt;p&gt;Ведь спецэффектов в современных фильмах вам не нужны точные математические модели, вам нужна правдоподобность и быстрота визуализации  (Computer-generated imagery, #CGI).
+В этом случае следует обратить внимание на #cebas #volumeBreaker - специализированный плагин для 3Ds MAX, предназначенный именно для визуализации процессов разрушения. Судя по внешнему виду плагин реализует разрушение на базе сеток Вороного (можно гуглить Voronoi Meshes или читать вику: &lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Диаграмма_Вороного)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/MiMxtCwOUq4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/MiMxtCwOUq4&lt;/a&gt; &lt;a href=&#34;http://www.cebas.com/?pid=productinfo&amp;amp;prd_id=77&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.cebas.com/?pid=productinfo&amp;prd_id=77&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B3%D0%BE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B3%D0%BE&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Диаграмма_Вороного
+&lt;a href=&#34;https://youtu.be/MiMxtCwOUq4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/MiMxtCwOUq4&lt;/a&gt;
+&lt;a href=&#34;http://www.cebas.com/?pid=productinfo&amp;amp;prd_id=77&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.cebas.com/?pid=productinfo&amp;prd_id=77&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Altair с новой версией своего решателя явной динамики RADIOS</title>
-      <link>http://localhost:1313/posts/2015-10-03-altair-s-novoy-versiey-svoego-reshatelya-ya/</link>
+      <title>Все познается в сравнении</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-15-vse-poznaetsya-v-sravnenii/</link>
+      <pubDate>Mon, 15 May 2017 17:00:33 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-15-vse-poznaetsya-v-sravnenii/</guid>
+      <description>&lt;p&gt;Все познается в сравнении
+&lt;a href=&#34;https://www.youtube.com/watch?v=wwQq7Mwwf1A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=wwQq7Mwwf1A&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Очень красивое сравнительное видео результатами моделирования краштеста. Слева #LSTC #LSDYNA, справа #Altair #RADIOSS. Оба очень старых и очень крутых #explicit кода.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=wwQq7Mwwf1A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=wwQq7Mwwf1A&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=wwQq7Mwwf1A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LS DYNA and RADIOSS Crash Simulation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Фотореалистичный рендеринг результатов расчетов</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-01-fotorealistichnyy-rendering-rezultatov-r/</link>
+      <pubDate>Mon, 01 May 2017 17:00:28 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-01-fotorealistichnyy-rendering-rezultatov-r/</guid>
+      <description>&lt;p&gt;Фотореалистичный рендеринг результатов расчетов
+&lt;del&gt;&lt;a href=&#34;http://innovationintelligence.com/slingshot-topples-cans-simulated-radioss-visualized-rendered-evolve/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://innovationintelligence.com/slingshot-topples-cans-simulated-radioss-visualized-rendered-evolve/&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20191117175012/https://innovationintelligence.com/slingshot-topples-cans-simulated-radioss-visualized-rendered-evolve/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Среди софта, дружественного платформе #Altair, есть очень любопытная система - #solidThinking #Evolve. Эта штуковина не только занимается концептуальным дизайном на основе #NURBS поверхностей, но и позволяет осуществлять рендеринг сцен с анимацией на основе расчетных данных. В качестве примера последнего есть  видео, созданное по данным расчета в #explicit коде #Altair #RADIOSS.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/1rRRd0BfPAc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/1rRRd0BfPAc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&#34;http://innovationintelligence.com/slingshot-topples-cans-simulated-radioss-visualized-rendered-evolve/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Slingshot Topples Cans: Simulated in RADIOSS, Visualized and Rendered in Evolve - Altair Innovation Intelligence&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20191117175012/https://innovationintelligence.com/slingshot-topples-cans-simulated-radioss-visualized-rendered-evolve/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;
+&lt;a href=&#34;https://youtu.be/1rRRd0BfPAc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/1rRRd0BfPAc&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Университет Altair - учим Radioss</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-24-universitet-altair-uchim-radioss/</link>
+      <pubDate>Fri, 24 Mar 2017 17:01:33 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-24-universitet-altair-uchim-radioss/</guid>
+      <description>&lt;p&gt;Университет Altair - учим Radioss
+&lt;a href=&#34;https://www.youtube.com/watch?v=CxM52wP3_ew&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=CxM52wP3_ew&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Altair в проекте #University выложил серию больших лекций по решению задач в в их #explicit коде #Radioss. Вся подготовка идет в недавно вышедшем приросте #HyperMesh 2017.&lt;/p&gt;
+&lt;p&gt;Я думаю, что посе такой серии уроков вы легко сможете освоить данное ПО.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=CxM52wP3_ew&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=CxM52wP3_ew&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=-HdECgBC_lM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=-HdECgBC_lM&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=ayK9V4JDdYY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ayK9V4JDdYY&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=mLGwVwYSmt4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=mLGwVwYSmt4&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=kCSRFss6GDE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=kCSRFss6GDE&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=1BnhOzRVkEQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=1BnhOzRVkEQ&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=9jVzvmWjErc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=9jVzvmWjErc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=CxM52wP3_ew&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Chapter 1 MeshCriteria Mat&amp;amp;Prop Updation&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=-HdECgBC_lM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=-HdECgBC_lM&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=ayK9V4JDdYY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ayK9V4JDdYY&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=mLGwVwYSmt4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=mLGwVwYSmt4&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=kCSRFss6GDE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=kCSRFss6GDE&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=1BnhOzRVkEQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=1BnhOzRVkEQ&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=9jVzvmWjErc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=9jVzvmWjErc&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Игрушечный краштест</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-01-11-igrushechnyy-krashtest/</link>
+      <pubDate>Wed, 11 Jan 2017 17:02:28 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-01-11-igrushechnyy-krashtest/</guid>
+      <description>&lt;p&gt;Игрушечный краштест
+&lt;a href=&#34;http://innovationintelligence.com/vehicle-crash-simulation-toy-blocks/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://innovationintelligence.com/vehicle-crash-simulation-toy-blocks/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;На новогодних праздниках Magnus Lindvall из #Altair играл со своим сыном в #LEGO и #RADIOSS и доигрался до постановки краштеста для LEGO машинок. Всего сутки и красивое видео готово.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=IWmM7WJ94dk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=IWmM7WJ94dk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://innovationintelligence.com/vehicle-crash-simulation-toy-blocks/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Vehicle Crash Test Simulation with Toys - Altair Innovation Intelligence&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=IWmM7WJ94dk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=IWmM7WJ94dk&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пора учить португальский</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-07-pora-uchit-portugalskiy/</link>
+      <pubDate>Mon, 07 Nov 2016 17:00:58 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-07-pora-uchit-portugalskiy/</guid>
+      <description>&lt;p&gt;Пора учить португальский
+&lt;a href=&#34;https://www.youtube.com/watch?v=jewFlGu2bbM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jewFlGu2bbM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Altair #RADIOSS (&lt;a href=&#34;https://www.youtube.com/watch?v=jewFlGu2bbM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jewFlGu2bbM&lt;/a&gt;) - пожалуй один из самых недооценены, и, в то же врем, один из самых мощных решателей явной динамики. По материалам, что мне попадались, я бы поставил его в один ряд с #LSDYNA и #Abaqus. А тут мне попался почти что идеальный материал. Представляю вам лекцию на 7:30 (семь с половиной) часов, посвященную этому продукту в версии 2016 года. Есть правда одно но: презентация идет на английском, а вот лектор говорит по португальски :-D
+#explicit&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=FwuI2lJtjOY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=FwuI2lJtjOY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jewFlGu2bbM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jewFlGu2bbM&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=FwuI2lJtjOY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=FwuI2lJtjOY&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Краштесты от Altair</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-26-krashtesty-ot-altair/</link>
+      <pubDate>Wed, 26 Oct 2016 17:00:48 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-26-krashtesty-ot-altair/</guid>
+      <description>&lt;p&gt;Краштесты от Altair
+&lt;a href=&#34;https://www.youtube.com/watch?v=8YVMNf8CeSo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=8YVMNf8CeSo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Один из самых больших и уважаемых #Explicit решателей, #Altair #RADIOSS, обычно незаслуженно обделается вниманием. А тут ему посвящен целый 2-х часовой вебинар!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8YVMNf8CeSo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=8YVMNf8CeSo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8YVMNf8CeSo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Crash Analysis with RADIOSS - Direct Learning Webinar Series 2016&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учебник от Altair University</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-15-uchebnik-ot-altair-university/</link>
+      <pubDate>Mon, 15 Aug 2016 06:30:10 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-15-uchebnik-ot-altair-university/</guid>
+      <description>&lt;p&gt;Учебник от Altair University
+&lt;a href=&#34;http://www.altairuniversity.com/free-ebooks-2/free-ebook-practical-aspects-of-finite-element-simulation-a-study-guide/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.altairuniversity.com/free-ebooks-2/free-ebook-practical-aspects-of-finite-element-simulation-a-study-guide/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Altair в рамках учебной инициативы Altair University предлагает вгсе желающим скачать учебник/методическое пособие &amp;ldquo;Practical Aspects of Finite Element Simulation (a Study Guide)&amp;rdquo;. Я уже уже получил свой экземпляр - книга большая и хорошо написанная, содержит много интересного материала по #FEM как для явных, так и для неявных решателей. Конечно все написано вокруг ПО Altair, но теоретическая часть пригодится всем.&lt;/p&gt;
+&lt;p&gt;Краткое содержание 503 страниц издания:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;CAE-Driven Design Process&lt;/li&gt;
+&lt;li&gt;Analysis Types&lt;/li&gt;
+&lt;li&gt;Introduction To Finite Element Analysis&lt;/li&gt;
+&lt;li&gt;What Is Needed To Run A Finite Element Analysis?&lt;/li&gt;
+&lt;li&gt;Strategic Planning&lt;/li&gt;
+&lt;li&gt;Common Mistakes And Errors&lt;/li&gt;
+&lt;li&gt;Consistent Units&lt;/li&gt;
+&lt;li&gt;Geometry In HyperMesh&lt;/li&gt;
+&lt;li&gt;Introduction To Meshing&lt;/li&gt;
+&lt;li&gt;1D Meshing With HyperMesh&lt;/li&gt;
+&lt;li&gt;2D Meshing With HyperMesh&lt;/li&gt;
+&lt;li&gt;3D Meshing with HyperMesh&lt;/li&gt;
+&lt;li&gt;Element Quality And Checks&lt;/li&gt;
+&lt;li&gt;Linear Elastic Material Information&lt;/li&gt;
+&lt;li&gt;Boundary Conditions And Loads&lt;/li&gt;
+&lt;li&gt;Linear Static Analysis&lt;/li&gt;
+&lt;li&gt;Modal Analysis&lt;/li&gt;
+&lt;li&gt;Linear Buckling Analysis&lt;/li&gt;
+&lt;li&gt;Nonlinear Analysis&lt;/li&gt;
+&lt;li&gt;Post-Processing&lt;/li&gt;
+&lt;li&gt;Getting Started With HyperWorks&lt;/li&gt;
+&lt;li&gt;Preparing For An Interview&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;https://altairuniversity.com/free-ebooks-2/free-ebook-practical-aspects-of-finite-element-simulation-a-study-guide/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Free eBook: Practical Aspects of Finite Element Simulation (a Study Guide) - Altair University&lt;/a&gt;
+&lt;a href=&#34;http://www.altairuniversity.com/free-ebooks-2/free-ebook-practical-aspects-of-finite-element-simulation-a-study-guide/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.altairuniversity.com/free-ebooks-2/free-ebook-practical-aspects-of-finite-element-simulation-a-study-guide/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Старый - добрый #Altair #Radioss тоже умеет спускать корабли на воду.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-07-staryy-dobryy-altair-radioss-tozhe-um/</link>
+      <pubDate>Thu, 07 Apr 2016 07:02:24 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-07-staryy-dobryy-altair-radioss-tozhe-um/</guid>
+      <description>&lt;p&gt;Хотя #SPH в этой модели грубоват.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=3hXExtbchIo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ship launch - SPH method&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Altair с новой версией своего решателя явной динамики RADIOSS 14 и Cray с хорошей системой XC40 приглашают всех на ведена посвященный их новым результатам п области HPC. Дело в том, что этим компаниям удалось эффективно распараллелить краштест модель на примерно 100 миллионов элементов на 16 тысяч ядер. Неплохой показатель!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-03-altair-s-novoy-versiey-svoego-reshatelya-ya/</link>
       <pubDate>Sat, 03 Oct 2015 18:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-03-altair-s-novoy-versiey-svoego-reshatelya-ya/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-03-altair-s-novoy-versiey-svoego-reshatelya-ya/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://innovationintelligence.com/new-results-in-crash-testing-with-cray-and-altair-radioss-14/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;New Results in Crash Testing with Cray and Altair RADIOSS 14 - Altair Innovation Intelligence&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -30,7 +30,11 @@ tags:
 
 Верификационные примеры для кода прилагаются: http://ift.tt/2CmJ6GY
 
-https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/ 🔗 New zCFD release for affordable CFD at scale | Zenotech Ltd
+~~https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/~~ → [Сохранённая версия](http://web.archive.org/web/20230929135949/https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/)
+
+*Оригинальная ссылка больше не доступна* 🔗 New zCFD release for affordable CFD at scale | Zenotech Ltd
 
 http://ift.tt/2ClqhnK
-https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/
+~~https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/~~ → [Сохранённая версия](http://web.archive.org/web/20230929135949/https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/)
+
+*Оригинальная ссылка больше не доступна*

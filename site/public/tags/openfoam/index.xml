@@ -1,46 +1,101 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OpenFoam on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/openfoam/</link>
-    <description>MagicDPD: Magic Driven Product Development! (OpenFoam)</description>
+    <title>OPENFoam on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/openfoam/</link>
+    <description>MagicDPD: Magic Driven Product Development! (OPENFoam)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 07 Apr 2022 17:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jun 2022 21:07:30 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/openfoam/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/openfoam/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>#МАГАТЭ расскажет, как использовать #CFD коды для расчетов #</title>
-      <link>http://localhost:1313/posts/2022-04-07-magate-rasskazhet-kak-ispolzovat-cfd/</link>
-      <pubDate>Thu, 07 Apr 2022 17:00:14 +0000</pubDate>
+      <title>Прямое численное моделирование взаимодействия капли с тонкой пристенной пленкой той же жидкости.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-06-22-pryamoe-chislennoe-modelirovanie-vzaimodey/</link>
+      <pubDate>Wed, 22 Jun 2022 21:07:30 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-04-07-magate-rasskazhet-kak-ispolzovat-cfd/</guid>
-      <description>&lt;p&gt;В данной публикации представлены результаты координируемого МАГАТЭ исследовательского проекта (CRP) по применению кодов вычислительной гидродинамики (CFD) для проектирования атомных электростанций. Основная цель заключалась в сравнении CFD-кодов, вариантов моделей и методов с экспериментальными данными CFD в условиях однофазного потока. В данной публикации обобщены текущие возможности и способы применения CFD-кодов, а также их текущий уровень квалификации в отношении требований к проектированию атомных электростанций. Она не претендует на всеобъемлющий характер, а сосредоточена на международном опыте практического применения этих инструментов при проектировании компонентов и систем атомных электростанций. Руководство в данной публикации основано на материалах, предоставленных международными экспертами атомной промышленности, непосредственно участвующими в вопросах проектирования атомных электростанций, применения CFD, а также в соответствующих экспериментах и валидации, выделенных в ходе CRP.&lt;/p&gt;
-&lt;p&gt;Чаще всего упоминаются наши любимые коды: #Ansys #Fluent и #CFX, #Siemens #StarCCM+, #OpenFOAM &lt;a href=&#34;https://www.iaea.org/publications/14718/summary-review-on-the-application-of-computational-fluid-dynamics-in-nuclear-power-plant-design&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.iaea.org/publications/14718/summary-review-on-the-application-of-computational-fluid-dynamics-in-nuclear-power-plant-design&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-06-22-pryamoe-chislennoe-modelirovanie-vzaimodey/</guid>
+      <description>&lt;p&gt;Результаты моделирования, полученные с помощью #phaseFieldFoam, решателя для захвата диффузной границы раздела фаз в #OpenFOAM (FOAM-extend 4.0 и 4.1). Расчеты выполнены исследовательской группой Computational Multiphase Flow в Техническом университете Дармштадта. Группа разрабатывает методы моделирования для автоматизированного прогнозирования процессов переноса в многофазных потоках.
+#CFD OpenSource &lt;a href=&#34;https://www.youtube.com/watch?v=wIEVJx6TD98&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=wIEVJx6TD98&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=wIEVJx6TD98&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=wIEVJx6TD98&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>EOF-Library - это библиотека с открытым исходным кодом для с</title>
-      <link>http://localhost:1313/posts/2022-02-10-eof-library-eto-biblioteka-s-otkrytym/</link>
+      <title>Консалтинговая компания в области #CFD расчетов #WolfDynamics на своем канале выложила огромный (87 видео!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-06-15-konsaltingovaya-kompaniya-v-oblasti-cfd-r/</link>
+      <pubDate>Wed, 15 Jun 2022 21:16:40 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-06-15-konsaltingovaya-kompaniya-v-oblasti-cfd-r/</guid>
+      <description>&lt;p&gt;!!) плейлист с их полным четным курсом по #OpenFOAM 9.&lt;/p&gt;
+&lt;p&gt;#opensource &lt;a href=&#34;https://www.youtube.com/watch?v=uNpMFl4IJ-w&amp;amp;list=PLoI86R1JVvv8JHTymlAmDChejiwm846Wl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=uNpMFl4IJ-w&amp;list=PLoI86R1JVvv8JHTymlAmDChejiwm846Wl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=uNpMFl4IJ-w&amp;amp;list=PLoI86R1JVvv8JHTymlAmDChejiwm846Wl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=uNpMFl4IJ-w&amp;list=PLoI86R1JVvv8JHTymlAmDChejiwm846Wl&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оказывается, что код #ViperBlast, про который я неоднократно писал, умеет рассчитывать детонацию не только конденсированных ВВ, но и решать задачи газовой детонации/дефраграции!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-05-31-okazyvaetsya-chto-kod-viperblast-pro-ko/</link>
+      <pubDate>Tue, 31 May 2022 18:00:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-05-31-okazyvaetsya-chto-kod-viperblast-pro-ko/</guid>
+      <description>&lt;p&gt;Сегодня даю ссылку на статью, где его сравнивают с #OpenFOAM, к которому подключили библиотеку #ddtFoam (расчет детонация, дефраграции и перехода).&lt;/p&gt;
+&lt;p&gt;#CFD #opensource #blast &lt;a href=&#34;https://doi.org/10.1016/j.psep.2021.12.032&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://doi.org/10.1016/j.psep.2021.12.032&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.psep.2021.12.032&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://doi.org/10.1016/j.psep.2021.12.032&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#МАГАТЭ расскажет, как использовать #CFD коды для расчетов #АЭС в 2022 году!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-07-magate-rasskazhet-kak-ispolzovat-cfd/</link>
+      <pubDate>Thu, 07 Apr 2022 17:00:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-07-magate-rasskazhet-kak-ispolzovat-cfd/</guid>
+      <description>&lt;p&gt;В данной публикации представлены результаты координируемого МАГАТЭ исследовательского проекта (CRP) по применению кодов вычислительной гидродинамики (CFD) для проектирования атомных электростанций. Основная цель заключалась в сравнении CFD-кодов, вариантов моделей и методов с экспериментальными данными CFD в условиях однофазного потока. В данной публикации обобщены текущие возможности и способы применения CFD-кодов, а также их текущий уровень квалификации в отношении требований к проектированию атомных электростанций. Она не претендует на всеобъемлющий характер, а сосредоточена на международном опыте практического применения этих инструментов при проектировании компонентов и систем атомных электростанций. Руководство в данной публикации основано на материалах, предоставленных международными экспертами атомной промышленности, непосредственно участвующими в вопросах проектирования атомных электростанций, применения CFD, а также в соответствующих экспериментах и валидации, выделенных в ходе CRP.&lt;/p&gt;
+&lt;p&gt;Чаще всего упоминаются наши любимые коды: #Ansys #Fluent и #CFX, #Siemens #StarCCM+, #OpenFOAM &lt;a href=&#34;https://www.iaea.org/publications/14718/summary-review-on-the-application-of-computational-fluid-dynamics-in-nuclear-power-plant-design&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.iaea.org/publications/14718/summary-review-on-the-application-of-computational-fluid-dynamics-in-nuclear-power-plant-design&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.iaea.org/publications/14718/summary-review-on-the-application-of-computational-fluid-dynamics-in-nuclear-power-plant-design&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Summary Review on the Application of Computational Fluid Dynamics in Nuclear Power Plant Design&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EOF-Library - это библиотека с открытым исходным кодом для связки открытых решетелей Elmer FEM (МКЭ) и OpenFOAM (CFD).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-10-eof-library-eto-biblioteka-s-otkrytym/</link>
       <pubDate>Thu, 10 Feb 2022 17:00:23 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-02-10-eof-library-eto-biblioteka-s-otkrytym/</guid>
-      <description>&lt;p&gt;Сайт проекта: https://eof-library.org/
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-10-eof-library-eto-biblioteka-s-otkrytym/</guid>
+      <description>&lt;p&gt;Сочетание всех этих систем позволяет получить очень мощное программное обеспечение для мультифизического моделирования. Говорят, что EOF-Library даже способен замахнуться на моделирование левитационной плавки металлов. Однако, как и в любом открытом проекте, вам надо быть готовым нырнуть в #Fortan, #C и другие языки низкого уровня для отладки проектов.&lt;/p&gt;
+&lt;p&gt;Сайт проекта: https://eof-library.org/
 Репозиторий проекта: https://github.com/jvencels/EOF-Library&lt;/p&gt;
 &lt;p&gt;#CFD #opensource #EOFLibrary #Elmet #OpenFOAM #CFD #FEM &lt;a href=&#34;https://youtu.be/Z3gD4BRl7sY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Z3gD4BRl7sY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://eof-library.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Multiphysics modelling software - Elmer + OpenFOAM - EOF-Library&lt;/a&gt;
+&lt;a href=&#34;https://github.com/jvencels/EOF-Library&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/jvencels/EOF-Library&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/Z3gD4BRl7sY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Z3gD4BRl7sY&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenFOAM на Android</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-27-openfoam-na-android/</link>
+      <pubDate>Thu, 27 Jan 2022 17:00:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-27-openfoam-na-android/</guid>
+      <description>&lt;p&gt;OpenFOAM на Android
+В Технологическом университете Вишвесвараи взяли, и запустили известный открытый #CFD код на Samsung SM- M315F/DS с установленным Android 11/One UI 3.1. Все инструкции и тестовые примеры по ссылке.
+#opensource #OpenFOAM &lt;a href=&#34;https://cfd.fossee.in/case-study-project/case-study-run/208&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://cfd.fossee.in/case-study-project/case-study-run/208&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cfd.fossee.in/case-study-project/case-study-run/208&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://cfd.fossee.in/case-study-project/case-study-run/208&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Сравнение работы кодов моделирования детонации ВВ</title>
-      <link>http://localhost:1313/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</link>
       <pubDate>Thu, 23 Sep 2021 15:01:35 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</guid>
-      <description>&lt;p&gt;Разработчики blastFoam, открытого CFD кода на базе openFoam, специализирующегося на задачах детонации ВВ и распространении ударных волны в воздухе, опубликовали любопытное сравнение. Они смоделировали детонацию сферического заряда тротила в воздухе в бесконечном домене - довольно простая постановка с хорошо известными аналитическими решениями.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</guid>
+      <description>&lt;p&gt;Сравнение работы кодов моделирования детонации ВВ&lt;/p&gt;
+&lt;p&gt;Разработчики blastFoam, открытого CFD кода на базе openFoam, специализирующегося на задачах детонации ВВ и распространении ударных волны в воздухе, опубликовали любопытное сравнение. Они смоделировали детонацию сферического заряда тротила в воздухе в бесконечном домене - довольно простая постановка с хорошо известными аналитическими решениями.&lt;/p&gt;
 &lt;p&gt;Моделирование они выполнили в:&lt;/p&gt;
 &lt;p&gt;Ansys Autodyn - код, разработанный когда-то, поглощённой компанией Century Dynamics - заточен под решение задач ОПКAnsys LS-DYNA - код, разработанный, поглощённой компанией LSTC - заточен под решение сильно связанных высоконелинейных задачEUROPLEXUS - или EpX, полуоткрытьй код для моделирования быстропротекающих процессов от французской промышленности, работает на основе моделей, подготовленных для Code_Aster.  CHT - код для моделирования быстропротекающих процессов от Сандийских национальных лабораторийblastFoam, который я уже представил&lt;/p&gt;
 &lt;p&gt;Во всех кодах использовалось уравнение состояния JWL. На мой взгляд, справились все коды примерно одинаково, и, не зная особенностей постановки задачи, времени, затраченного на решение, трудно выбрать лидера.&lt;/p&gt;
@@ -48,127 +103,635 @@
 &lt;p&gt;Ссылка на оригинальный пост: &lt;a href=&#34;https://www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ansys #autodyn #blast #blastfoam #cht #europlexus #ls-dyna #open_source #openfoam #sandia
 &lt;a href=&#34;https://tinyurl.com/yzxkzr4r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzxkzr4r&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/?trackingId=Uq%2B3MZmoMgkb3xIYeAHk9A%3D%3D&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;blastFoam | Comparison of explosive airblast calculators&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yzxkzr4r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzxkzr4r&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Дефлаграционно-детонационный переход</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-06-16-deflagratsionno-detonatsionnyy-perehod/</link>
+      <pubDate>Wed, 16 Jun 2021 16:01:38 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-06-16-deflagratsionno-detonatsionnyy-perehod/</guid>
+      <description>&lt;p&gt;Дефлаграционно-детонационный переход&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/n_pm2Du2DNk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/n_pm2Du2DNk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Математическое моделирование эксперимента, проведенного в Национальной лаборатории Лоуренса Ливермора (Lawrence Livermore National Laboratory, LLNL): горючая водородно-воздушная смесь в закрытом прямоугольном канале L = 5,4 м, W = 300 мм и H = 60 мм, с плоскими пластинчатыми препятствиями толщиной 12 мм, расположенными на расстоянии 300 мм. Расчет выполнен в blastFoam - свободном решателе с открытым исходным кодом для многокомпонентных сжимаемых потоков, основанном на модели пяти уравнений, применяемый для решения задач детонации фугасных взрывчатых веществ, взрывобезопасности и воздушного взрыва.&lt;/p&gt;
+&lt;p&gt;#blastfoam #llnl #open_source #openfoam
+&lt;a href=&#34;https://tinyurl.com/yev6zzra&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yev6zzra&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/n_pm2Du2DNk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;blastFoam | Deflagration to Detonation (DDT) Simulation&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yev6zzra&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yev6zzra&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Огромный семинар по blastFoam3.0</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-05-19-ogromnyy-seminar-po-blastfoam30/</link>
+      <pubDate>Tue, 19 May 2020 13:00:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-05-19-ogromnyy-seminar-po-blastfoam30/</guid>
+      <description>&lt;p&gt;Огромный семинар по blastFoam3.0&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/blastfoam-3-workshop/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Огромный семинар по blastFoam3.0 - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вебинар ENGYS по работе helyxHexMesh</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-01-22-vebinar-engys-po-rabote-helyxhexmesh/</link>
+      <pubDate>Wed, 22 Jan 2020 13:01:28 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-01-22-vebinar-engys-po-rabote-helyxhexmesh/</guid>
+      <description>&lt;p&gt;Вебинар ENGYS по работе helyxHexMesh&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/helyxhexmesh-by-engys-webinar/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Вебинар ENGYS по работе helyxHexMesh - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>olaFlow CFD Suite</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-01-13-olaflow-cfd-suite/</link>
+      <pubDate>Mon, 13 Jan 2020 13:00:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-01-13-olaflow-cfd-suite/</guid>
+      <description>&lt;p&gt;olaFlow CFD Suite
+#CFD #offshore #OlaFlow #Open_Source #OpenFOAM
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/olaflow-cfd-suite/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;olaFlow CFD Suite - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CFD расчет выстрела</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-12-27-cfd-raschet-vystrela/</link>
+      <pubDate>Fri, 27 Dec 2019 13:00:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-12-27-cfd-raschet-vystrela/</guid>
+      <description>&lt;p&gt;CFD расчет выстрела
+#CFD #OpenFOAM #simulationfriday
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/cfd-simulation-of-a-bullet-fired/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CFD расчет выстрела - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Химерные сетки в  OpenFOAM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-11-05-himernye-setki-v-openfoam/</link>
+      <pubDate>Tue, 05 Nov 2019 13:00:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-11-05-himernye-setki-v-openfoam/</guid>
+      <description>&lt;p&gt;Химерные сетки в  OpenFOAM
+#CFD #Open_Source #OpenFOAM #Overset_Mesh #Wolf_Dynamics
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/overset-meshes-in-openfoam/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Химерные сетки в OpenFOAM - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сброс спасательного катера</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-24-sbros-spasatelnogo-katera/</link>
+      <pubDate>Wed, 24 Jul 2019 13:02:49 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-24-sbros-spasatelnogo-katera/</guid>
+      <description>&lt;p&gt;Сброс спасательного катера&lt;/p&gt;
+&lt;p&gt;Расчет выполнен средствами Engys HELYX, основанном на кодовой базе OpenFOAM&lt;/p&gt;
+&lt;p&gt;#CFD #FSI #HELYX #OpenFOAM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2C7&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2C7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2C7&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2C7&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Самый-самый CFD решатель</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-19-samyy-samyy-cfd-reshatel/</link>
+      <pubDate>Fri, 19 Apr 2019 17:00:33 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-19-samyy-samyy-cfd-reshatel/</guid>
+      <description>&lt;p&gt;Самый-самый CFD решатель&lt;/p&gt;
+&lt;p&gt;Итак, сайт Resolved Analytics занимается тем, что собирает отзывы пользователей о их CFD инструментах. У них есть очень горячий материал по сравнению популярности основных CFD кодов (&lt;a href=&#34;https://www.resolvedanalytics.com/theflux/comparing-cfd-software%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.resolvedanalytics.com/theflux/comparing-cfd-software)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Итак, тройка лидеров ясна: Fluent, Star-CCM+ и OpenFOAM. Но вот отрыв Fluent меня немного смущает.&lt;/p&gt;
+&lt;p&gt;#CFD #Fluent #OpenFOAM #StarCCM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2tX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2tX&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.resolvedanalytics.com/theflux/comparing-cfd-software&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.resolvedanalytics.com/theflux/comparing-cfd-software&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2tX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2tX&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Про MpCCI подробнее</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-21-pro-mpcci-podrobnee/</link>
+      <pubDate>Wed, 21 Nov 2018 17:01:36 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-21-pro-mpcci-podrobnee/</guid>
+      <description>&lt;p&gt;Про MpCCI подробнее
+MpCCI - система, позволяющая связывать работы нескольких расчетных кодов в разных областях физики, для решения сложных междисциплинарных задач.&lt;/p&gt;
+&lt;p&gt;В новом вебинаре коллеги не только рассказывают об архитектуре ПО, но показывают примеры работы: связка Abaqus и различных CFD кодов (Fluent, OpenFOAM, STAR-CCM+).&lt;/p&gt;
+&lt;p&gt;#ABAQUS #Fluent #FSI #MpCCI #OpenFOAM #STARCCM
+&lt;a href=&#34;http://bit.ly/2Qa5A52&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Qa5A52&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2Qa5A52&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Qa5A52&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Как заставить OpenFOAM считать механику в явной постановке</title>
-      <link>http://localhost:1313/posts/2018-10-20-kak-zastavit-openfoam-schitat-mehaniku/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-20-kak-zastavit-openfoam-schitat-mehaniku/</link>
       <pubDate>Sat, 20 Oct 2018 17:00:35 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-10-20-kak-zastavit-openfoam-schitat-mehaniku/</guid>
-      <description>&lt;p&gt;Джибран Хайдер (Jibran Haider) опубликовал на GitHub результаты своей работы - проект по созданию explicit решателя механики на базе математики OpenFOAM.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-20-kak-zastavit-openfoam-schitat-mehaniku/</guid>
+      <description>&lt;p&gt;Как заставить OpenFOAM считать механику в явной постановке
+Джибран Хайдер (Jibran Haider) опубликовал на GitHub результаты своей работы - проект по созданию explicit решателя механики на базе математики OpenFOAM.&lt;/p&gt;
 &lt;p&gt;Прикольное и необычное использование этого знаменитого открытого кода, который ранее в основном использовался для задач CFD.&lt;/p&gt;
 &lt;p&gt;Естественно, все с окрытым кодом и бесплатно.&lt;/p&gt;
 &lt;p&gt;#Explicit #GitHub #OpenCour #OpenFOAM
 &lt;a href=&#34;http://bit.ly/2CWHxQP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2CWHxQP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2CWHxQP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2CWHxQP&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Проект ExaAM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-09-26-proekt-exaam/</link>
+      <pubDate>Wed, 26 Sep 2018 17:00:39 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-09-26-proekt-exaam/</guid>
+      <description>&lt;p&gt;Проект ExaAM
+Сегодня у нас доклад Джона Тёрнера (John Turner, https://www.ornl.gov/staff-profile/john-turner) с прошедшей в Детройте конференции &amp;ldquo;HPC User Forum&amp;rdquo;. Джон является сотрудником Oak Ridge National Laboratory (ORNL, Окриджская национальная лаборатория). В своем докладе он рассказывает о проекте ExaAM, который посвящен использованию вычислительных мощностей класса  Exascale для моделирования процессов аддитивного производства из металла.&lt;/p&gt;
+&lt;p&gt;Кроме хорошо поставленной речи докладчика, презентация сопровождается наглядными и интересными слайдами с видео реальных процессов. А еще в ходе доклада рассказывается, что при печати существует очень много параметров, влияющих на свойства материала, и что влияние их всех надо тщательно изучать. И отдельное спасибо за ссылки на публичные тестовые задачи.
+&lt;a href=&#34;https://www.additivemanufacturing.media/blog/post/how-exascale-computing-will-enable-born-qualified-am-parts&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.additivemanufacturing.media/blog/post/how-exascale-computing-will-enable-born-qualified-am-parts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#AdditiveManufacturing #ALE3D #Diablo #ExaAM #ExaCA #ExaConstit #ExaMPM #ExaPF #Exascale #HPC #LiDO #LIGGHTS #OpenFOAM #Plato #TruchasPBF
+&lt;a href=&#34;http://bit.ly/2OZbW3a&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OZbW3a&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ornl.gov/staff-profile/john-turner&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ornl.gov/staff-profile/john-turner&lt;/a&gt;
+&lt;a href=&#34;https://www.additivemanufacturing.media/blog/post/how-exascale-computing-will-enable-born-qualified-am-parts&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.additivemanufacturing.media/blog/post/how-exascale-computing-will-enable-born-qualified-am-parts&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2OZbW3a&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OZbW3a&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FEATool Multiphysics 1.8 теперь дружит с OpenFOAM</title>
-      <link>http://localhost:1313/posts/2018-05-25-featool-multiphysics-18-teper-druzhit-s/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-25-featool-multiphysics-18-teper-druzhit-s/</link>
       <pubDate>Fri, 25 May 2018 18:00:56 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-05-25-featool-multiphysics-18-teper-druzhit-s/</guid>
-      <description>&lt;p&gt;Пакет для КЭ нанализа на FEATool Multiphysics — это открытый и бесплатный код, работающий опверх MATLAB. Теперь он адаптировался еще и под открытый и бесплатный GNU Octave.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-25-featool-multiphysics-18-teper-druzhit-s/</guid>
+      <description>&lt;p&gt;FEATool Multiphysics 1.8 теперь дружит с OpenFOAM&lt;/p&gt;
+&lt;p&gt;Пакет для КЭ нанализа на FEATool Multiphysics — это открытый и бесплатный код, работающий опверх MATLAB. Теперь он адаптировался еще и под открытый и бесплатный GNU Octave.
 Кроме того, основной фишкой нового релиза стала интеграция OpenFOAM и даже создание GUI для этого дела. Теперь прямо из интерфейса FEATool можно готовить и ставить задачи не только для их собстенного КЭ решателя, но и для OpenFOAM, и для FEniCS.&lt;/p&gt;
 &lt;p&gt;Ну и до кучи, в ПО докинули новый функционал по работе с STL геометрией, получившей всеобщую популятность на волне развития аддитивных технологий.
 &lt;a href=&#34;https://www.featool.com/news/2018/05/17/FEATool-v1p8-with-OpenFOAM-Matlab-CFD-Solver-Interface.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/news/2018/05/17/FEATool-v1p8-with-OpenFOAM-Matlab-CFD-Solver-Interface.html&lt;/a&gt;
 #FEATool #FEniCS #MATLAB #Octave #Open Source #OpenFOAM #STL&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Ry&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Ry&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.featool.com/news/2018/05/17/FEATool-v1p8-with-OpenFOAM-Matlab-CFD-Solver-Interface.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FEATool 1.8 - OpenFOAM MATLAB CFD Solver and GUI Interface&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-1Ry&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Ry&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#OPENFoam #blastFOAM #blast</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-17-openfoam-blastfoam-blast/</link>
+      <pubDate>Sun, 17 Dec 2017 17:03:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-17-openfoam-blastfoam-blast/</guid>
+      <description>&lt;p&gt;#OPENFoam #blastFOAM #blast
+&lt;a href=&#34;https://www.youtube.com/watch?v=ZwW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ZwW&lt;/a&gt;…Media📼 blastFOAM: Airblast Validation Study Outputs&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2Cr9Y53&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2Cr9Y53&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2CsPEk2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2CsPEk2&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2Bp8dWE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2Bp8dWE&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2i5tcEP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i5tcEP&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=ZwWddtSzWPc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ZwWddtSzWPc&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2BpFLnX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2BpFLnX&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2Cr9Y53&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2Cr9Y53&lt;/a&gt;
+ttp://ift.tt/2Cr9Y53&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#ONELAB (Open Numerical Engineering LABoratory) - готовый бесплатный кросс платформенный набор инженерного софта с открытым исходным кодом для работы с #КЭ решателями и сеточным генератором #Gmsh.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-20-onelab-open-numerical-engineering-labo/</link>
+      <pubDate>Mon, 20 Nov 2017 17:05:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-20-onelab-open-numerical-engineering-labo/</guid>
+      <description>&lt;p&gt;В комплекте есть собственный решатель #GetDP. Заявлена поддержка #OpenFOAM и #Elmer&lt;/p&gt;
+&lt;p&gt;Все это хозяйство есть под Windows, Linux, macOS, iOS (!!!) и Android (!!!).&lt;/p&gt;
+&lt;p&gt;В комплекте есть куча учебных примеров для всех областей физики.
+#opensource&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&#34;http://onelab.info/wiki/ONELAB&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://onelab.info/wiki/ONELAB&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20241116020316/http://www.onelab.info/wiki/ONELAB&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt; 🔗 ONELAB - ONELAB&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2jHnEoG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2jHnEoG&lt;/a&gt;
+&lt;del&gt;&lt;a href=&#34;http://onelab.info/wiki/ONELAB&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://onelab.info/wiki/ONELAB&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20241116020316/http://www.onelab.info/wiki/ONELAB&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Компания #MantiumFlow предлагает пределно упростить инструментыя для выполнения #CFD расчетов.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-01-kompaniya-mantiumflow-predlagaet-predeln/</link>
+      <pubDate>Fri, 01 Sep 2017 17:11:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-01-kompaniya-mantiumflow-predlagaet-predeln/</guid>
+      <description>&lt;p&gt;Они берут #OpenFOAM решатель, и в своей оболочке позволяют сделать расчет на основе готового шаблона за &amp;ldquo;6 кликов&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Я думаю, что если ваш расчетный случай действительно ложиться на один из шаблонов - то вам сильно повезло. Иначе - добро пожаловать в блеск и нищету #OpenSource :)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mantiumflow.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://mantiumflow.com&lt;/a&gt;MediaMediaMedia🔗 MantiumFlow a GUI for OpenFOAM, download demo and tutorials&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2eqi4AQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2eqi4AQ&lt;/a&gt;
+&lt;a href=&#34;https://mantiumflow.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://mantiumflow.com/&lt;/a&gt;
+&lt;a href=&#34;https://mantiumflow.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://mantiumflow.com/&lt;/a&gt;
+&lt;a href=&#34;https://mantiumflow.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://mantiumflow.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bolt 2.0 для создания сетки</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-06-bolt-20-dlya-sozdaniya-setki/</link>
+      <pubDate>Sun, 06 Aug 2017 17:00:56 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-06-bolt-20-dlya-sozdaniya-setki/</guid>
+      <description>&lt;p&gt;Bolt 2.0 для создания сетки
+&lt;a href=&#34;https://youtu.be/Dqt0rtjffIc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Dqt0rtjffIc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#csimsoft в своем сеточном генераторе #Bolt 2.0 добилась автоматической генерации полностью гексаэдральной сетки для любой геометрии. All-hex mesh - это просто мечта инженера расчетчика, особенно для #explicit! Судя по описанию, сеточный генератор опитается на алгоритм #PolyCube - одна из певых, если не единственная завершенная и готовая реализация этого перспективного алгоритма генерации сетки.&lt;/p&gt;
+&lt;p&gt;Сеточный генератор умеет писать и читать сетки для:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#ANSYS Mechanical&lt;/li&gt;
+&lt;li&gt;#ANSYS Fluent&lt;/li&gt;
+&lt;li&gt;#Abaqus&lt;/li&gt;
+&lt;li&gt;#LSDYNA&lt;/li&gt;
+&lt;li&gt;#OpenFOAM&lt;/li&gt;
+&lt;li&gt;#Patran&lt;/li&gt;
+&lt;li&gt;#Nastran&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;А еще Bolt умеет сроить сетку параллельно :-)&lt;/p&gt;
+&lt;p&gt;Пожалуй надо брать триал на 15 дней и пробовать.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/Dqt0rtjffIc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Dqt0rtjffIc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/Dqt0rtjffIc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Introduction to Meshing with Bolt&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вышел OpenFOAM 5.0</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-02-vyshel-openfoam-50/</link>
+      <pubDate>Wed, 02 Aug 2017 17:01:47 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-02-vyshel-openfoam-50/</guid>
+      <description>&lt;p&gt;Вышел OpenFOAM 5.0
+&lt;a href=&#34;https://openfoam.org/version/5-0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://openfoam.org/version/5-0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Вышел 5-ый мажорный релиз #OpenFOAM - #opensource #CFD и не только. В новом релизе появилось множество новых функций. Особенно авторы отмечают три фишки:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Моделирование волн на свободной поверхности (&lt;a href=&#34;https://cfd.direct/openfoam/free-software/waves/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://cfd.direct/openfoam/free-software/waves/&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Работа с параллельным вводом/выводом (&lt;a href=&#34;https://openfoam.org/news/parallel-io/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://openfoam.org/news/parallel-io/&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Барицентрическое отслеживание движения (Barycentric Tracking) - принципиально новый механизм отслеживания движения частей модели (&lt;a href=&#34;https://cfd.direct/openfoam/free-software/barycentric-tracking/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://cfd.direct/openfoam/free-software/barycentric-tracking/&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/_f4hqQ1yHTc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/_f4hqQ1yHTc&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/tTgHVGagNqE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/tTgHVGagNqE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://openfoam.org/version/5-0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;OpenFOAM 5.0&lt;/a&gt;
+&lt;a href=&#34;https://cfd.direct/openfoam/free-software/waves/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://cfd.direct/openfoam/free-software/waves/&lt;/a&gt;
+&lt;a href=&#34;https://openfoam.org/news/parallel-io/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://openfoam.org/news/parallel-io/&lt;/a&gt;
+&lt;a href=&#34;https://cfd.direct/openfoam/free-software/barycentric-tracking/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://cfd.direct/openfoam/free-software/barycentric-tracking/&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/_f4hqQ1yHTc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/_f4hqQ1yHTc&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/tTgHVGagNqE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/tTgHVGagNqE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Source для инженера</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-19-open-source-dlya-inzhenera/</link>
+      <pubDate>Wed, 19 Jul 2017 17:01:09 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-19-open-source-dlya-inzhenera/</guid>
+      <description>&lt;p&gt;Open Source для инженера
+&lt;a href=&#34;http://s.arboreus.com/2008/03/free-software-for-solving-pdes.html?m=1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://s.arboreus.com/2008/03/free-software-for-solving-pdes.html?m=1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Старая статья с обзором #OpenSource программного обеспечения для промышленного и научного математического моделирования. Материал старый, но на русском - многим так читать приятнее.
+Тут есть все:
+#Elmer
+#Impact
+#Code_Aster
+#FiPy
+#OpenFOAM
+и многие другие!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://s.arboreus.com/2008/03/free-software-for-solving-pdes.html?m=1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Обзор свободных программ для численных расчётов&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учебные материалы OpenFOAM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-05-uchebnye-materialy-openfoam/</link>
+      <pubDate>Wed, 05 Jul 2017 17:01:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-05-uchebnye-materialy-openfoam/</guid>
+      <description>&lt;p&gt;Учебные материалы OpenFOAM
+&lt;a href=&#34;https://youtu.be/5U7jZ48vOZ4?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/5U7jZ48vOZ4?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Команда CFD Support выложила учебный курс по #OpenFOAM в рамках препоста #Salome. Учебный курс пока в пяти частях.&lt;/p&gt;
+&lt;p&gt;#CFD #OpenSource&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/5U7jZ48vOZ4?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/5U7jZ48vOZ4?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/5YaQx3VoGNo?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/5YaQx3VoGNo?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/6yhtVbC_hko?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/6yhtVbC_hko?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/tl2iOcpFMr0?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/tl2iOcpFMr0?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/R_1BWTvxt5Q?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/R_1BWTvxt5Q?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/5U7jZ48vOZ4?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Salome CFD Preprocessing Training Valve Tutorial Video Part 1&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/5YaQx3VoGNo?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/5YaQx3VoGNo?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/6yhtVbC_hko?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/6yhtVbC_hko?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/tl2iOcpFMr0?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/tl2iOcpFMr0?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/R_1BWTvxt5Q?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/R_1BWTvxt5Q?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>blastFOAM на базе OpenFOAM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-30-blastfoam-na-baze-openfoam/</link>
+      <pubDate>Tue, 30 May 2017 17:00:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-30-blastfoam-na-baze-openfoam/</guid>
+      <description>&lt;p&gt;blastFOAM на базе OpenFOAM
+&lt;a href=&#34;https://mobile.twitter.com/twitter/status/855430759951323137&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://mobile.twitter.com/twitter/status/855430759951323137&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Очень интересный код, про который почти не никаких данных - #blastFOAM. Судя по всему, это сборка #opensource #CFD кода #OpenFOAM для решения задач распространения ударных волн в жидкостях и газах. Если у кого есть больше информации - буду признателен за нее. Пока у меня только пара твитов по теме от #Protection #Engineering&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mobile.twitter.com/twitter/status/855430759951323137&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;PEC&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Расчет каталитического конвертор в simFlow</title>
-      <link>http://localhost:1313/posts/2017-05-02-raschet-kataliticheskogo-konvertor-v-simfl/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-02-raschet-kataliticheskogo-konvertor-v-simfl/</link>
       <pubDate>Tue, 02 May 2017 17:00:54 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-05-02-raschet-kataliticheskogo-konvertor-v-simfl/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=LYyJUYqfe5Y&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=LYyJUYqfe5Y&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-02-raschet-kataliticheskogo-konvertor-v-simfl/</guid>
+      <description>&lt;p&gt;Расчет каталитического конвертор в simFlow
+&lt;a href=&#34;https://www.youtube.com/watch?v=LYyJUYqfe5Y&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=LYyJUYqfe5Y&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#simFlow является одним из самых популярных и удобных GUI для #OpenFOAM. Коллеги подготовили пример #CFD расчета каталитического конвертора при помощи данного софта. Внимание, у софта есть как коммерческая, так и бесплатная версия :-)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=LYyJUYqfe5Y&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=LYyJUYqfe5Y&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=LYyJUYqfe5Y&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Catalytic Converter | CFD Simulation Tutorial | SimFlow CFD Software&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Краткая история OpenFOAM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-13-kratkaya-istoriya-openfoam/</link>
+      <pubDate>Mon, 13 Feb 2017 17:03:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-13-kratkaya-istoriya-openfoam/</guid>
+      <description>&lt;p&gt;Краткая история OpenFOAM
+&lt;a href=&#34;https://www.youtube.com/watch?v=kg79KMGxRAE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=kg79KMGxRAE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Краткая история становления и развития #opensource #CFD кода #OpenFOAM. Я вот и не знал, что он одно время принадлежал #SGI, и что именно #ESI выкупил его.
+&lt;a href=&#34;https://www.youtube.com/watch?v=kg79KMGxRAE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=kg79KMGxRAE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=kg79KMGxRAE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;OpenFOAM History&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CFD от FEATool</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-21-cfd-ot-featool/</link>
+      <pubDate>Mon, 21 Nov 2016 17:01:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-21-cfd-ot-featool/</guid>
+      <description>&lt;p&gt;CFD от FEATool
+&lt;a href=&#34;https://www.featool.com/tutorial/2016/11/14/Easy-Matlab-CFD-FeatFlow-external-CFD-solver-with-FEATool-integration&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/tutorial/2016/11/14/Easy-Matlab-CFD-FeatFlow-external-CFD-solver-with-FEATool-integration&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#FEATool - #КЭ код работающий в рамках #Matlab получил интеграцию с #CFD кодом #FeatFlow. Последний является КЭ кодом для решения CFD в несжимаемой постановке. Говорят, что благодаря использованию библиотеки #UMFPACK от Matlab решатель FeatFlow работает не хуже #ANSYS #CFX и #OpenFOAM.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/VSZ6o-eTlU0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/VSZ6o-eTlU0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.featool.com/tutorial/2016/11/14/Easy-Matlab-CFD-FeatFlow-external-CFD-solver-with-FEATool-integration&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FeatFlow - Fast External CFD Solver Integration with FEATool&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/VSZ6o-eTlU0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/VSZ6o-eTlU0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Аэродинамическая труба</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-13-aerodinamicheskaya-truba/</link>
+      <pubDate>Thu, 13 Oct 2016 17:00:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-13-aerodinamicheskaya-truba/</guid>
+      <description>&lt;p&gt;Аэродинамическая труба
+&lt;a href=&#34;https://www.youtube.com/watch?v=Oc7tVyHke3E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Oc7tVyHke3E&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Разбор кейса, в котором при помощи #ANSA ставят #CFD задачу в #OpenFOAM. Задача заключается в повторении экспериментов с машиной, сильно похожей на #BMW в аэродинамической трубе. Для полного удовлетворения #BetaCAE для построцессинга работает #μETA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Oc7tVyHke3E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Oc7tVyHke3E&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Oc7tVyHke3E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CFD case study of the DrivAer model with ANSA and OpenFOAM&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Готовая инстукция по запуску #OpenFOAM на мощностях #Amazon Web Services (aka #AWS).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-28-gotovaya-instuktsiya-po-zapusku-openfoam-n/</link>
+      <pubDate>Thu, 28 Jul 2016 06:30:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-28-gotovaya-instuktsiya-po-zapusku-openfoam-n/</guid>
+      <description>&lt;p&gt;Делаем все по шагам и получаем #CFD в облаке.&lt;/p&gt;
+&lt;p&gt;#HPC #Cloud
+&lt;a href=&#34;http://lnk.al/1WXy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1WXy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lnk.al/1WXy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CFD Direct From the Cloud: OpenFOAM Computing on AWS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#CFD Support распространяют в качестве учебного присера задачу о внешней аэродинамике Ahmed Body в #OpenFOAM.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-23-cfd-support-rasprostranyayut-v-kachestve-u/</link>
+      <pubDate>Sat, 23 Jul 2016 08:00:01 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-23-cfd-support-rasprostranyayut-v-kachestve-u/</guid>
+      <description>&lt;p&gt;Тело Ахмеда в первый раз было представлено в 1984 году в статье S.R. Ahmed, G. Ramm, Some Salient Features of the Time-Averaged Ground Vehicle Wake, SAE-Paper 840300. С тех пор оно является одной из рефернсных задач внешней аэродинамики.&lt;/p&gt;
+&lt;p&gt;Подробнее про паостновку задачи можно прочитать тут: &lt;a href=&#34;http://lnk.al/1QA1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1QA1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#AhmedBody #opensource
+&lt;a href=&#34;http://lnk.al/1QA2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1QA2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lnk.al/1QA1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1QA1&lt;/a&gt;
+&lt;a href=&#34;http://lnk.al/1QA2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1QA2&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Задавались ли вы когда-нибудь вопросом, почему днище катеров имеет продольные насечки на подобии лыж или ребер?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-15-zadavalis-li-vy-kogda-nibud-voprosom/</link>
+      <pubDate>Fri, 15 Jul 2016 06:31:07 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-15-zadavalis-li-vy-kogda-nibud-voprosom/</guid>
+      <description>&lt;p&gt;Эти ребра на самом деле называются #брызгоотражатели (spray rails в англоязычной терминологии), а об их назначении подробно рассказали инженеры #TotalSim снабдив рассказ примерами #CFD расчетов в #OpenFOAM. &lt;a href=&#34;http://www.totalsimulation.co.uk/wp/spray-rails/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.totalsimulation.co.uk/wp/spray-rails/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.totalsimulation.co.uk/wp/spray-rails/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Spray Rails - Computational Fluid Dynamics | CFD | TotalSim&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вышел #OpenFOAM 4 и принес кучу интересных функций.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-09-vyshel-openfoam-4-i-prines-kuchu-interesn/</link>
+      <pubDate>Sat, 09 Jul 2016 08:04:55 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-09-vyshel-openfoam-4-i-prines-kuchu-interesn/</guid>
+      <description>&lt;p&gt;Например, теперь у него есть динамическая сеточная адаптация гексаэдральных сеток, причем как в сторону измельчения, так и в сторону загрубления сетки.&lt;/p&gt;
+&lt;p&gt;#cfd #mesh #opensource &lt;a href=&#34;http://www.openfoam.com/version-v1606&amp;#43;/meshing.php#meshing-snappyhexmesh-refinement-unrefinement&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.openfoam.com/version-v1606+/meshing.php#meshing-snappyhexmesh-refinement-unrefinement&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.openfoam.com/version-v1606&amp;#43;/meshing.php&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;OpenFOAM® v1606+: New Meshing Functionality&lt;/a&gt;
+&lt;a href=&#34;http://www.openfoam.com/version-v1606&amp;#43;/meshing.php#meshing-snappyhexmesh-refinement-unrefinement&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.openfoam.com/version-v1606+/meshing.php#meshing-snappyhexmesh-refinement-unrefinement&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Скачать бесплатно, без sms!</title>
-      <link>http://localhost:1313/posts/2016-05-27-skachat-besplatno-bez-sms/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-27-skachat-besplatno-bez-sms/</link>
       <pubDate>Fri, 27 May 2016 07:00:55 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-05-27-skachat-besplatno-bez-sms/</guid>
-      <description>&lt;p&gt;Компания #CFD support, Ltd представила готовую сборку #OpenFOAM  3.0 для Windows. Странно, что продукт имеет версию 16.06 - можно немного запутаться.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-27-skachat-besplatno-bez-sms/</guid>
+      <description>&lt;p&gt;Скачать бесплатно, без sms!&lt;/p&gt;
+&lt;p&gt;Компания #CFD support, Ltd представила готовую сборку #OpenFOAM  3.0 для Windows. Странно, что продукт имеет версию 16.06 - можно немного запутаться.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cfdsupport.com/openfoam-for-windows.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;OpenFOAM® for Windows&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вебинар посвященный возможности использовать #CAESES (у которого есть практически не порезанная бесплатная версия) как красивый и удобный GUI для #OpenFOAM (который все любят за бесплатность и открытость).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-04-vebinar-posvyaschennyy-vozmozhnosti-ispolzo/</link>
+      <pubDate>Wed, 04 May 2016 07:00:24 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-04-vebinar-posvyaschennyy-vozmozhnosti-ispolzo/</guid>
+      <description>&lt;p&gt;У кого есть много времени на самостоятельную поддержку, и мело денег на лицензии - welcome!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.caeses.com/news/2016/caeses-as-a-gui-for-openfoam-webinar-recording-available/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CAESES as a GUI for OpenFOAM: Webinar Recording Available › FRIENDSHIP SYSTEMS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Блок человека по фону просчитавшего внешнюю аэродинамику знаменитого Foed Mustang Selby GT350R при помощи #OpenFOAM, а затем и #SimScale. Сетка хороша!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-19-blok-cheloveka-po-fonu-proschitavshego-vnesh/</link>
+      <pubDate>Sat, 19 Mar 2016 07:01:24 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-19-blok-cheloveka-po-fonu-proschitavshego-vnesh/</guid>
+      <description>&lt;p&gt;Есть ссылка на форк проекта в #SimScale&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://theansweris27.com/shelby-gt350r-mustang-cfd-simulations/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Shelby GT350R Mustang CFD simulations - The Answer is 27&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Компания CFD support, Ltd предлагает всем желающим сборки открытого #CFD кода #OpenFOAM под Windows, что давольно редкое явление.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-12-kompaniya-cfd-support-ltd-predlagaet-vse/</link>
+      <pubDate>Fri, 12 Feb 2016 18:01:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-12-kompaniya-cfd-support-ltd-predlagaet-vse/</guid>
+      <description>&lt;p&gt;Если вы не готовы собирать этот пакет из исходных текстов, то добро пожаловать по ссылке.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cfdsupport.com/openfoam-for-windows.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;OpenFOAM® for Windows&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>На старт, внимание, марш!</title>
-      <link>http://localhost:1313/posts/2016-02-09-na-start-vnimanie-marsh/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-09-na-start-vnimanie-marsh/</link>
       <pubDate>Tue, 09 Feb 2016 13:02:54 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-02-09-na-start-vnimanie-marsh/</guid>
-      <description>&lt;p&gt;Пример расчета давления, теплового потока и поверхностного трения вызываемого стартом ракеты. Расчет выполняется в #OpenFOAM и самописном коде MISTRAL. Блочная структурированная сетка готовится с помощью #GridPro.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-09-na-start-vnimanie-marsh/</guid>
+      <description>&lt;p&gt;На старт, внимание, марш!&lt;/p&gt;
+&lt;p&gt;Пример расчета давления, теплового потока и поверхностного трения вызываемого стартом ракеты. Расчет выполняется в #OpenFOAM и самописном коде MISTRAL. Блочная структурированная сетка готовится с помощью #GridPro.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/unsteady-cfd-future-rocket-flame-trench-vincent-rivola?trk=hp-feed-article-title-like&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.linkedin.com/pulse/unsteady-cfd-future-rocket-flame-trench-vincent-rivola?trk=hp-feed-article-title-like&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/0B3O1Gm1zJX__Mm5TZEI0RENLbVk/view&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;vid.mp4&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Отличный пример вертикального приложения для расчета аэродин</title>
-      <link>http://localhost:1313/posts/2015-10-10-otlichnyy-primer-vertikalnogo-prilozheniya/</link>
+      <title>Еще один бесплатный GUI для #OpenFOAM. Что бы такое количество бесплатного кода для механики кто-нибудь написал!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-02-esche-odin-besplatnyy-gui-dlya-openfoam-ch/</link>
+      <pubDate>Tue, 02 Feb 2016 07:00:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-02-esche-odin-besplatnyy-gui-dlya-openfoam-ch/</guid>
+      <description>&lt;p&gt;#CFD&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sim-flow.com/cfd-software/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CFD Software - simFlow CFD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Корпорация Caterpillar (aka.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-17-korporatsiya-caterpillar-aka-cat-pri-po/</link>
+      <pubDate>Sun, 17 Jan 2016 12:00:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-17-korporatsiya-caterpillar-aka-cat-pri-po/</guid>
+      <description>&lt;p&gt;CAT) при помощи связки #ANSYS #Mechanical, #OpenFOAM и #CAESES сделала оптимальный гребной винт.&lt;/p&gt;
+&lt;p&gt;Мой интерес к данной новости вызвал CAESES - некий диковинный геометрический процессор, о котором я постараюсь разузнать побольше подробностей и рассказать, но позднее.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.caeses.com/industries/case-studies/powerful-workflow-for-propeller-design/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Powerful Workflow for Propeller Design › FRIENDSHIP SYSTEMS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>И еще одна новость прошедших каникул: компания #ESI, знаменитая своими нелинейными решателями и специализирующаяся на моделировании технологических процессов обработки материалов запустила свое облако (это ужен не смешно).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-14-i-esche-odna-novost-proshedshih-kanikul-ko/</link>
+      <pubDate>Thu, 14 Jan 2016 06:30:07 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-14-i-esche-odna-novost-proshedshih-kanikul-ko/</guid>
+      <description>&lt;p&gt;ESI #Cloud, как и многоногие другие подобные решения, базируется на мощностях #Amazon #AWS. Кроме своих собственных наработок в решении задач, ESI также предлагает #OpenFOAM в качестве решения для #CFD. Удаленная визуализация и #HPC прилагаются.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.esi-group.com/company/press/news-releases/cae-now-available-demand-esi-cloud&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CAE Now Available On Demand with ESI Cloud&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#OpenFoam водопад для медитации</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-19-openfoam-vodopad-dlya-meditatsii/</link>
+      <pubDate>Sat, 19 Dec 2015 07:30:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-19-openfoam-vodopad-dlya-meditatsii/</guid>
+      <description>&lt;p&gt;#OpenFoam водопад для медитации&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=tefvljk9UNc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SimFlow - OpenFoam Baraj Simülasyonu&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>На прошедшей неделе произошел очень мажорный релиз знаменитого открытого решения #OpenFoam.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-10-na-proshedshey-nedele-proizoshel-ochen-mazho/</link>
+      <pubDate>Tue, 10 Nov 2015 18:00:56 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-10-na-proshedshey-nedele-proizoshel-ochen-mazho/</guid>
+      <description>&lt;p&gt;Теперь всем доступен OpenFoam 3.0.0. Говорят, что с предыдущего релиза в декабре 2014-ого в кодовую базу было внесено более 800 изменения.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.openfoam.org/version3.0.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.openfoam.org/version3.0.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.openfoam.org/version3.0.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;OpenFOAM Foundation releases OpenFOAM® 3.0.0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Отличный пример вертикального приложения для расчета аэродинамики транспортных средств под названием ELEMENTS от компании Engys.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-10-otlichnyy-primer-vertikalnogo-prilozheniya/</link>
       <pubDate>Sat, 10 Oct 2015 18:00:11 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-10-otlichnyy-primer-vertikalnogo-prilozheniya/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-10-otlichnyy-primer-vertikalnogo-prilozheniya/</guid>
+      <description>&lt;p&gt;Система разработана на основе HELYX, а он, в свою очередь, представляет сильно доработанный OpenFOAM.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=fslxivaDj2o&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ELEMENTS in action - CFD suite for vehicle design applications based on HELYX®&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>OpenSource это хорошо! Главное уметь его готовить. Мне очень</title>
-      <link>http://localhost:1313/posts/2015-09-28-opensource-eto-horosho-glavnoe-umet-ego/</link>
+      <title>OpenSource это хорошо!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-28-opensource-eto-horosho-glavnoe-umet-ego/</link>
       <pubDate>Mon, 28 Sep 2015 06:30:14 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-09-28-opensource-eto-horosho-glavnoe-umet-ego/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-28-opensource-eto-horosho-glavnoe-umet-ego/</guid>
+      <description>&lt;p&gt;Главное уметь его готовить. Мне очень нравится подходи SimScale. Они не занимаются конструированием велосипедов - они развивают известные проекты с открытым кодом.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.simscale.com/blog/2015/09/open-source-a-philosophy-behind-simscale/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Open Source: A Philosophy behind SimScale&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>SimScale в очередной раз показывает, что OpenFOAM внутри не </title>
-      <link>http://localhost:1313/posts/2015-09-26-simscale-v-ocherednoy-raz-pokazyvaet-chto/</link>
+      <title>SimScale в очередной раз показывает, что OpenFOAM внутри не врет при моделировании запорной арматуры.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-26-simscale-v-ocherednoy-raz-pokazyvaet-chto/</link>
       <pubDate>Sat, 26 Sep 2015 06:30:05 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-09-26-simscale-v-ocherednoy-raz-pokazyvaet-chto/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-26-simscale-v-ocherednoy-raz-pokazyvaet-chto/</guid>
       <description>&lt;p&gt;#SImScale #OpenFOAM&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://blog.simscale.com/blog/2015/09/3-valve-simulations-that-you-&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blog.simscale.com/blog/2015/09/3-valve-simulations-that-you-&lt;/a&gt;
 should-not-miss/&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.simscale.com/blog/2015/09/3-valve-simulations-that-you-should-not-miss/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;3 Valve Simulations that You Should Not Miss&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Не успели мы изучить аббревиатуру DEM (метод дискретного эле</title>
-      <link>http://localhost:1313/posts/2015-09-24-ne-uspeli-my-izuchit-abbreviaturu-dem-m/</link>
+      <title>Не успели мы изучить аббревиатуру DEM (метод дискретного элемента,Discrete Element Method), и даже восхвалили Rocky за работу с DEM имеющими форму, как я нашел на просторах сети достойный метод - конкурент.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-24-ne-uspeli-my-izuchit-abbreviaturu-dem-m/</link>
       <pubDate>Thu, 24 Sep 2015 18:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-09-24-ne-uspeli-my-izuchit-abbreviaturu-dem-m/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-24-ne-uspeli-my-izuchit-abbreviaturu-dem-m/</guid>
       <description>&lt;p&gt;Встречайте, Polyhedral Element Method (PEM), который умеет HELYX от компании Engys. Самое интересно, что HELYX основан на кодовой базе OpenFOAM и, вроде как, является открытым кодом.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=DA3N53kUVhg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Solid Body Motion with HELYX® PEM&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Вот как надо оформлять консалтинг: британская компания Total</title>
-      <link>http://localhost:1313/posts/2015-09-14-vot-kak-nado-oformlyat-konsalting-brita/</link>
+      <title>Вот как надо оформлять консалтинг: британская компания TotalSim, специализирующаяся на расчетах в области CFD, промоделировала глиссирование небольшого катера при помощи OpenFOAM, а потом еще и сделала неплохую визуализацию в Bender.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-14-vot-kak-nado-oformlyat-konsalting-brita/</link>
       <pubDate>Mon, 14 Sep 2015 07:00:09 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-09-14-vot-kak-nado-oformlyat-konsalting-brita/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-14-vot-kak-nado-oformlyat-konsalting-brita/</guid>
+      <description>&lt;p&gt;Надо бы попробовать Blender к чему-нибудь моему прикрутить.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OH0l5CkY_aY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CFD simulation of a planing hull in OpenFOAM&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Если очень хочется, то можно посчитать все на бесплатном соф</title>
-      <link>http://localhost:1313/posts/2015-08-23-esli-ochen-hochetsya-to-mozhno-poschitat-v/</link>
+      <title>Если очень хочется, то можно посчитать все на бесплатном софте.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-08-23-esli-ochen-hochetsya-to-mozhno-poschitat-v/</link>
       <pubDate>Sun, 23 Aug 2015 17:00:04 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-08-23-esli-ochen-hochetsya-to-mozhno-poschitat-v/</guid>
-      <description>&lt;p&gt;Пример того, как можно минимизировать затраты на софт: на Ubunut проводится расчет обтекания подводной средствами #OpenFoam. Геометрию готовят в #freeCAD, результаты строят в #ParaView. Верификацию и валидацию расчетных методик проводит конечный пользователь.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-08-23-esli-ochen-hochetsya-to-mozhno-poschitat-v/</guid>
+      <description>&lt;p&gt;Правда, вам надо быть очень хорошим специалистом.
+Пример того, как можно минимизировать затраты на софт: на Ubunut проводится расчет обтекания подводной средствами #OpenFoam. Геометрию готовят в #freeCAD, результаты строят в #ParaView. Верификацию и валидацию расчетных методик проводит конечный пользователь.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=uV84p_GTUPU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;External flow CFD analysis tutorial with OpenFOam - Submerged kilo-class submarine&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

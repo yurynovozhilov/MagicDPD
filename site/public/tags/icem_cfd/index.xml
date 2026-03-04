@@ -2,24 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ICEM_CFD on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/icem_cfd/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/icem_cfd/</link>
     <description>MagicDPD: Magic Driven Product Development! (ICEM_CFD)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 01 Aug 2019 13:01:18 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/icem_cfd/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/icem_cfd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Магия блочно-структурированных сеток в ICEM CFD</title>
-      <link>http://localhost:1313/posts/2019-08-01-magiya-blochno-strukturirovannyh-setok-v-i/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-01-magiya-blochno-strukturirovannyh-setok-v-i/</link>
       <pubDate>Thu, 01 Aug 2019 13:01:18 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-08-01-magiya-blochno-strukturirovannyh-setok-v-i/</guid>
-      <description>&lt;p&gt;ICEM CFD — великий и ужасный сеточный генератора  от ANSYS. И его еще пока рано списывать со счетов, если вам нужны  блочные сетки. В представленных видео разобраны примеры построения  плоских и объёмных блоков, создание сетки для тел вращения. Если не  обращать внимания на некоторые специфические особенности интерфейса, то  все не так уж и страшно.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-01-magiya-blochno-strukturirovannyh-setok-v-i/</guid>
+      <description>&lt;p&gt;Магия блочно-структурированных сеток в ICEM CFD&lt;/p&gt;
+&lt;p&gt;ICEM CFD — великий и ужасный сеточный генератора  от ANSYS. И его еще пока рано списывать со счетов, если вам нужны  блочные сетки. В представленных видео разобраны примеры построения  плоских и объёмных блоков, создание сетки для тел вращения. Если не  обращать внимания на некоторые специфические особенности интерфейса, то  все не так уж и страшно.&lt;/p&gt;
 &lt;p&gt;#ANSYS #ICEM_CFD #mesh&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2CA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2CA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2CA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2CA&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SpaceClaim Meshing — уже пора изучать!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-11-spaceclaim-meshing-uzhe-pora-izuchat/</link>
+      <pubDate>Thu, 11 Jul 2019 17:00:38 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-11-spaceclaim-meshing-uzhe-pora-izuchat/</guid>
+      <description>&lt;p&gt;SpaceClaim Meshing — уже пора изучать!&lt;/p&gt;
+&lt;p&gt;Если вы еще даже не слышали про то, что ANSYS вкрутил ICEM CFD на стероидах в интерфейс SpaceClaim,  то вам стоит посмотреть первое видео в этом посте. В нем эксперт LEAP Australia на конференции CONVERGE 2019 рассказывает, что это за продукт вообще.&lt;/p&gt;
+&lt;p&gt;MESco Sp. z o.o.Ну а если вы сомневаетесь и не знаете, надо ли оно вам, то посмотрите второе коротенькое видео от MESco — тут раскрывается вся красота работы блочного сеточного генератора.&lt;/p&gt;
+&lt;p&gt;Второе видео очень быстрое. Я пересматривал несколько раз, останавливал на интересных моментах, включал по кадровую перемотку. Но даже в нем показаны далеко не все фишки. Так например,  SpaceClaim Meshing может делать вытяжку сетки, также, как это делать классическая команда Pull или Blend в  SpaceClaim. Или еще он умеет делать сеточные hex переходы 2 к 1, если вы понимаете, о чем я.&lt;/p&gt;
+&lt;p&gt;#all_hex #ANSYS #ICEM_CFD #LEAP #MESco #mesh #SpaceClaim #SpaceClaim_Meshing&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Bk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Bk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Bk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Bk&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование сердца</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-18-modelirovanie-serdtsa/</link>
+      <pubDate>Mon, 18 Feb 2019 17:00:41 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-18-modelirovanie-serdtsa/</guid>
+      <description>&lt;p&gt;Моделирование сердца&lt;/p&gt;
+&lt;p&gt;Удивительные достижения Линчёпингского университета были отмечены в зале славы ANSYS в этом году. Когда я первый раз смотрел их презентацию, я даже не поверил, что такое возможно.&lt;/p&gt;
+&lt;p&gt;Судя по описанию проекта, эксперты вуза взяли большую выборку данных МРТ сердца и на основе нее построили историю изменения его внутреннего объема.&lt;/p&gt;
+&lt;p&gt;После этого, на такую анимированную модель был натравлен ICEM CFD, который занимался перестроением сетки в домене, у которого, по сути, все границы были динамическими. Поверх полученной сетки работал решатель CFX, результаты которого обрабатывались в постпроцессоре Ensight.&lt;/p&gt;
+&lt;p&gt;В итоге врачи получили достоверную картину потоков крови в сердце, и это фантастически круто! Особенное изумление вызывает точность совпадения расчетов, и результаты измерений на МРТ.&lt;/p&gt;
+&lt;p&gt;Ссылка на материал: &lt;a href=&#34;https://www.ansys.com/other/hall-of-fame/archive/2019/linkoping&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/other/hall-of-fame/archive/2019/linkoping&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS #CFD #CFX #Ensight #Hall_of_Fame #ICEM_CFD&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2lu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2lu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys.com/other/hall-of-fame/archive/2019/linkoping&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/other/hall-of-fame/archive/2019/linkoping&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2lu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2lu&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

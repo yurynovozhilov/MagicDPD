@@ -2,49 +2,215 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Infiniband on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/infiniband/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/infiniband/</link>
     <description>MagicDPD: Magic Driven Product Development! (Infiniband)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 27 Nov 2017 17:08:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jan 2022 13:00:59 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/infiniband/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/infiniband/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Ускорение #ANSYS #Fluent при помощи #GPGU #NVIDIA возможно, </title>
-      <link>http://localhost:1313/posts/2017-11-27-uskorenie-ansys-fluent-pri-pomoschi-gpg/</link>
+      <title>#NVIDIA продолжает свое движение в сторону становления настоящим #HPC гигантом. Вчера стало известно о том, что NVIDIA купила компанию Bright Computing, известную своим программным обеспечением Bright Cluster Manager (#BCM). BCM являться пожалуй единственным законченным набором инструментов, который позволяет почти без боли и консоли разворачивать настоящие суперкомпьютеры с правильно настроенными из коробки планировщиками #PBS, #LSF, #Slurm, параллельными файловыми системами и прочими необходимыми надстройками. При этом, все делается через удобный WEB-UI. Была даже бесплатная версия для кластеров до 8 узлов. Страшно сказать: у BCM даже была своя собственная система доставки драйверов для #Infiniband (Mellanox, кстати, тоже поглощён NVIDIA) с дополнительным уровнем тестирования на совместимость и стабильность!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-11-nvidia-prodolzhaet-svoe-dvizhenie-v-storo/</link>
+      <pubDate>Tue, 11 Jan 2022 13:00:59 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-11-nvidia-prodolzhaet-svoe-dvizhenie-v-storo/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://blogs.nvidia.com/blog/2022/01/10/bright-computing-hpc/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blogs.nvidia.com/blog/2022/01/10/bright-computing-hpc/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blogs.nvidia.com/blog/2022/01/10/bright-computing-hpc/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blogs.nvidia.com/blog/2022/01/10/bright-computing-hpc/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Infiniband NDR</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-11-24-infiniband-ndr/</link>
+      <pubDate>Tue, 24 Nov 2020 16:38:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-11-24-infiniband-ndr/</guid>
+      <description>&lt;p&gt;Infiniband NDR
+#HPC #Infiniband #NDR #NVIDIA
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/infiniband-ndr/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Infiniband NDR - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Война интерконнектов: продолжение</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-14-voyna-interkonnektov-prodolzhenie/</link>
+      <pubDate>Sun, 14 Jan 2018 12:01:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-14-voyna-interkonnektov-prodolzhenie/</guid>
+      <description>&lt;p&gt;Война интерконнектов: продолжение
+Компания Intel категорически не согласилась с результатами сравнения ее HPC интерконнекта OmniPath и Mellanox Infiniband. Более того, Intel решил показать результаты своих измерений, и они получились очень занимательными.&lt;/p&gt;
+&lt;p&gt;В статье, ссылка на которую приведена в конце поста, есть куча графиков, где присутствуют три колонки результатов: &amp;ldquo;Mellanox Infiniband&amp;rdquo;, &amp;ldquo;Intel OPA - результаты Mellanox&amp;rdquo; и &amp;ldquo;Intel OPA - результаты Intel&amp;rdquo;. Как ни странно, Intel померил свой интерконнект так, что он полностью сравнялся с Infiniband EDR.&lt;/p&gt;
+&lt;p&gt;В измерениях участвовали ANSYS Fluent и LS-DYNA. Классический Infiniband оказался все же немного впереди, но по моим ощущениям, разрыв должен быть 20% - как раз средний результат двух измерений.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/amp/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/amp/&lt;/a&gt;
+#Fluent #HPC #Infiniband #LS-DYNA #OPA
+&lt;a href=&#34;https://magicdpd.ru/?p=5925&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5925&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/amp/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/amp/&lt;/a&gt;
+&lt;a href=&#34;https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/amp/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/amp/&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=5925&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5925&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#Mellanox анонсировали HDR #Infiniband - это аж 200 Гбит/с.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-10-mellanox-anonsirovali-hdr-infiniband/</link>
+      <pubDate>Sun, 10 Dec 2017 17:05:07 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-10-mellanox-anonsirovali-hdr-infiniband/</guid>
+      <description>&lt;p&gt;Хотите кластер считающий в #ANSYS быстро и без проблем - смотрите в сторону Infiniband 😊&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=AuS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=AuS&lt;/a&gt;…Media📼 Mellanox Takes HPC Interconnects to the Next Level…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2AS1si1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2AS1si1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2zoZXZe&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zoZXZe&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2mMIlk1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2mMIlk1&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=AuSjYKRa4Tk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=AuSjYKRa4Tk&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2BqW7zb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2BqW7zb&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2AS1si1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2AS1si1&lt;/a&gt;
+tp://ift.tt/2AS1si1&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ускорение #ANSYS #Fluent при помощи #GPGU #NVIDIA возможно, и даже очень полезно!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-27-uskorenie-ansys-fluent-pri-pomoschi-gpg/</link>
       <pubDate>Mon, 27 Nov 2017 17:08:07 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-27-uskorenie-ansys-fluent-pri-pomoschi-gpg/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-27-uskorenie-ansys-fluent-pri-pomoschi-gpg/</guid>
       <description>&lt;p&gt;Как показывают тесты NVIDIA, на одном и том-же пуле лицензии главный #CFD решатель ANSYS может ускориться почти в 4 раза за счет подключения нескольких #Tesla P100. И сейчас мы говорим не про супер компьютер, а про обычный сервер на 32 ядра.&lt;/p&gt;
 &lt;p&gt;Что бы добиться такого же ускорения просто на процессорах вам потребуется уже 4 сервера соединенных по #Infiniband, коммутатор Infiniband, управляющий софт для получившегося кластера и дополнительные лицензий ANSYS на #HPC.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ift.tt/2ACZNhd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ACZNhd&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Хотите собрать сбалансированный вычислительный сервер под расчеты в ANSYS - читайте документацию 😊MediaMedia💾 ANSYS18.2_tech.pdf🔗 Ansys Fluent GPU Acceleration | NVIDIA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;https://www.nvidia.com/en-us/data-center/gpu-accelerated-applications/ansys-fluent/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.nvidia.com/en-us/data-center/gpu-accelerated-applications/ansys-fluent/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>#Mellanox, находясь в лидерах рынка #HPC интерконнекта, не о</title>
-      <link>http://localhost:1313/posts/2017-11-21-mellanox-nahodyas-v-liderah-rynka-hpc/</link>
+      <title>#Mellanox, находясь в лидерах рынка #HPC интерконнекта, не останавливается, и продолжает придумывать новые технологии для снижения задержек и повышения быстродействия.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-21-mellanox-nahodyas-v-liderah-rynka-hpc/</link>
       <pubDate>Tue, 21 Nov 2017 15:10:18 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-21-mellanox-nahodyas-v-liderah-rynka-hpc/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-21-mellanox-nahodyas-v-liderah-rynka-hpc/</guid>
       <description>&lt;p&gt;Строите кластер для #ANSYS - закладывайте в его основу Mellanox Infiniband.&lt;/p&gt;
 &lt;p&gt;#Infiniband #SocketDirect&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://youtu.be/gzilN_cuhMkMedia&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/gzilN_cuhMkMedia&lt;/a&gt;📼 Eye on Mellanox socket direct&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ift.tt/2zmVfuV&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zmVfuV&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2zoZXZe&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zoZXZe&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2emhAvW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2emhAvW&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2mMIlk1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2mMIlk1&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zphkZL&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zphkZL&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/gzilN_cuhMk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/gzilN_cuhMk&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2mMInZb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2mMInZb&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zmVfuV&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zmVfuV&lt;/a&gt;
+ttp://ift.tt/2zmVfuV&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Deploying HPC Cluster with Mellanox InfiniBand Interconnect </title>
-      <link>http://localhost:1313/posts/2017-01-18-deploying-hpc-cluster-with-mellanox-infi/</link>
+      <title>Приятные поздравления</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-09-priyatnye-pozdravleniya/</link>
+      <pubDate>Fri, 09 Jun 2017 09:15:33 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-09-priyatnye-pozdravleniya/</guid>
+      <description>&lt;p&gt;Приятные поздравления
+&lt;a href=&#34;https://www.cadfem-cis.ru/list/article/yuranox/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/list/article/yuranox/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Наконец дошли руки до подтверждения квалификации пом #HPC и #Mellanox #Infiniband&lt;/p&gt;
+&lt;p&gt;А за поздравления - большое спасибо!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cadfem-cis.ru/list/article/yuranox/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/list/article/yuranox/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deploying HPC Cluster with Mellanox InfiniBand Interconnect Solutions</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-01-18-deploying-hpc-cluster-with-mellanox-infi/</link>
       <pubDate>Wed, 18 Jan 2017 17:02:06 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-01-18-deploying-hpc-cluster-with-mellanox-infi/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-01-18-deploying-hpc-cluster-with-mellanox-infi/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://vk.com/doc11568_441185555&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/doc11568_441185555&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;В очередной раз убедился, что нет лучше пособия по отладке true #HPC кластеров чем эта небольшая брошюрка от #Mellanox. #Infiniband рули, а ссылка на документ чуть ниже в посте.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vk.com/doc11568_441185555&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/doc11568_441185555&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Когда MPI заболел</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-27-kogda-mpi-zabolel/</link>
+      <pubDate>Sun, 27 Nov 2016 12:00:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-27-kogda-mpi-zabolel/</guid>
+      <description>&lt;p&gt;Когда MPI заболел
+&lt;a href=&#34;https://software.intel.com/en-us/node/561777&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://software.intel.com/en-us/node/561777&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;На днях мне довелось собирать кластер из &amp;ldquo;того, что было&amp;rdquo; на коленке: без планировщика, без серверной операционки, без #Infiniband. Так вот, во время отладки работы #Intel #MPI я наткнулся на очень интересную статью на портале поддержки Intel: &amp;ldquo;Examples of MPI Failures&amp;rdquo;. В статье разобраны 7 ситуаций, когда Intel MPI не MPI и как его починить. #HPC на коленке заработало&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://software.intel.com/en-us/node/561777&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Examples of MPI Failures | Intel® Software&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Интерконнект на 20 Гбит</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-18-interkonnekt-na-20-gbit/</link>
+      <pubDate>Fri, 18 Nov 2016 17:01:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-18-interkonnekt-na-20-gbit/</guid>
+      <description>&lt;p&gt;Интерконнект на 20 Гбит
+&lt;a href=&#34;https://www.youtube.com/watch?v=bSLhvTbOT_g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=bSLhvTbOT_g&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Интерконнект на 200 Гбит
+На прошедшей неделе компания #Mellanox анонсировала выпуск нового поколения их #HPC интерконнекта #Infiniband - IB HDR. Infiniband дефакто является стандартом для суперкомпьютеров - более 70% всех систем такого класса собраны с использованием IB. Теперь же он может работать на скоростях 200 Гбит/с с задержками менее 90 нано секунд.
+&lt;a href=&#34;https://www.youtube.com/watch?v=bSLhvTbOT_g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=bSLhvTbOT_g&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=bSLhvTbOT_g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Mellanox Announces 200Gb/s HDR InfiniBand Solutions&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Полноценное #HPC в облаке</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-01-polnotsennoe-hpc-v-oblake/</link>
+      <pubDate>Mon, 01 Aug 2016 07:03:57 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-01-polnotsennoe-hpc-v-oblake/</guid>
+      <description>&lt;p&gt;Полноценное #HPC в облаке
+&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12777/ANSYS-CFD-Sees-Scalability-to-1024-Cores-on-Microsoft-Azure.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12777/ANSYS-CFD-Sees-Scalability-to-1024-Cores-on-Microsoft-Azure.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Инфоповод по сообщению во множестве блогов: #ANSYS #CFD распараллелился почти линейно на 1024 ядра в облаке #Azure. Новость эта несет в себе сразу две морали.&lt;/p&gt;
+&lt;p&gt;Первая мораль: ANSYS начинает рассматривать Azure как дополнение к #AWS - и это очень хорошо. Конкуренция облаков - это всегда хорошо для пользователя.&lt;/p&gt;
+&lt;p&gt;Вторая мораль: если дать CFD коду нормальный интерконнект, то он полетит даже в облаке. Как я уже много раз говорил, у Microsoft в Azure есть полноценный #Infiniband с поддержкой #RDMA. Infiniband = HPC, а значит можно очень хорошо посчитать.&lt;/p&gt;
+&lt;p&gt;А еще я очень жду, когда же у AWS тоже будет интреконнект.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12777/ANSYS-CFD-Sees-Scalability-to-1024-Cores-on-Microsoft-Azure.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS CFD Sees Scalability to 1024 Cores on Microsoft Azure&lt;/a&gt;
+&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12777/ANSYS-CFD-Sees-Scalability-to-1024-Cores-on-Microsoft-Azure.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12777/ANSYS-CFD-Sees-Scalability-to-1024-Cores-on-Microsoft-Azure.aspx&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вот так, в одном проекте удалось совместить все лучшие практики #HPC: тут и #infiniband, и #tesla для ускорения расчетов, и #SSD для локального кэширования данных. На системное ПО тоже не поскупились: #Altair #PBS Pro, #NICE #DCV и #EnginFrame, #HP #CMU. Вот такой вот best practice вживую!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-18-vot-tak-v-odnom-proekte-udalos-sovmest/</link>
+      <pubDate>Wed, 18 May 2016 07:03:34 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-18-vot-tak-v-odnom-proekte-udalos-sovmest/</guid>
+      <description>&lt;p&gt;Мы это сделали!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://multiphysics.ru/stati/proekty/proektirovanie-vychislitelnogo-klastera-bgtu-voenmekh-im-d-f-ustinova.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Проектирование вычислительного кластера БГТУ «ВОЕНМЕХ» им. Д.Ф.Устинова | Инженерные расчеты&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#Altair продолжает наращивать свое партнерство с #Microsoft.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-29-altair-prodolzhaet-naraschivat-svoe-partn/</link>
+      <pubDate>Mon, 29 Feb 2016 08:25:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-29-altair-prodolzhaet-naraschivat-svoe-partn/</guid>
+      <description>&lt;p&gt;#Altair продолжает наращивать свое партнерство с #Microsoft. Очередным этапом стал запуска решателя #RADDIOSS (явная динамика) на мощностях #Azure для выполнения #HPC расчетов. Надо отметить, что до этого шага Altair и Microsoft начали дружить в рамках Altair #PBS Pro - одного лидеров среди систем планирования очереди задач. И вот теперь RADDIOSS покажет всем, что такое #Infiniband в публичном облаке (а ведь он есть только у Microsoft Azure).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/blog/availability-of-altair-radioss-rdma-on-microsoft-azure/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Altair® RADIOSS® now supported on Microsoft Azure&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#Mellanox, израильский производитель самого правильно #Infiniband для #HPC, вчера анонсировал новое поколение коммутаторов для EDR Infiniband. Мы наконец попадаем в эру сетей с пропускной способностью 100 Гигабит в секунду!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-13-mellanox-izrailskiy-proizvoditel-sam/</link>
+      <pubDate>Fri, 13 Nov 2015 06:30:55 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-13-mellanox-izrailskiy-proizvoditel-sam/</guid>
+      <description>&lt;p&gt;Но это еще не все! Подробности в прилагаемом вбинаре.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.mellanox.com/page/press_release_item?id=1627&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Mellanox Technologies&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

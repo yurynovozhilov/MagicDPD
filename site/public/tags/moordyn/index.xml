@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MoorDyn on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/moordyn/</link>
+    <description>MagicDPD: Magic Driven Product Development! (MoorDyn)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 12 Jan 2018 17:01:44 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/moordyn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Динамика плавающих тел</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-12-dinamika-plavayuschih-tel/</link>
+      <pubDate>Fri, 12 Jan 2018 17:01:44 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-12-dinamika-plavayuschih-tel/</guid>
+      <description>&lt;p&gt;Динамика плавающих тел
+Вашему вниманию предлагается примеры расчета движения тела на поверхности жидкости. Тело прикреплено швартовыми ко дну и в таком состоянии на него действует волнение.&lt;/p&gt;
+&lt;p&gt;Расчет выполнен в паре кодов DualSPHysics и MoorDyn. В этой связке DualSPHysics, SPH код разработанный NVIDIA Research Center, отвечает за динамику жидкости и FSI, а MoorDyn моделирует поведение швартовых.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=YUSxGXPkYvE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=YUSxGXPkYvE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/ToEsV0FDs0I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/ToEsV0FDs0I&lt;/a&gt;
+#DualSPHysics #FSI #GPU #MoorDyn #NVIDIA #offshore #Open Source #SPH
+&lt;a href=&#34;https://magicdpd.ru/?p=5914&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5914&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=YUSxGXPkYvE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=YUSxGXPkYvE&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/ToEsV0FDs0I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/ToEsV0FDs0I&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=5914&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5914&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

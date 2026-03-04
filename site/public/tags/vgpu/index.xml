@@ -2,41 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>VGPU on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/vgpu/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/vgpu/</link>
     <description>MagicDPD: Magic Driven Product Development! (VGPU)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 01 Jun 2016 07:01:18 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/vgpu/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/vgpu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Большой доклад по системам визуализации от специалистов #Cit</title>
-      <link>http://localhost:1313/posts/2016-06-01-bolshoy-doklad-po-sistemam-vizualizatsii/</link>
+      <title>Большой доклад по системам визуализации от специалистов #Citrix с прошедшей конференции #Synergy 2016. Очень интересно послушать историю развития.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-01-bolshoy-doklad-po-sistemam-vizualizatsii/</link>
       <pubDate>Wed, 01 Jun 2016 07:01:18 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-06-01-bolshoy-doklad-po-sistemam-vizualizatsii/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-01-bolshoy-doklad-po-sistemam-vizualizatsii/</guid>
+      <description>&lt;p&gt;Полезно узнать про их новый видео кодек.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MRiQpFoRXxI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Citrix Synergy 2016 - SYN208 - Power HDX 3D applications while increasing virtualization&amp;hellip;&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>В честь воскресного вечера позволю себе очень любопытный офф</title>
-      <link>http://localhost:1313/posts/2015-11-08-v-chest-voskresnogo-vechera-pozvolyu-sebe/</link>
+      <title>Новость по железу: #NVIDIA начинает массово выкатывать на рынок новые профессиональные решения на базе #Maxwell.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-19-novost-po-zhelezu-nvidia-nachinaet-mass/</link>
+      <pubDate>Thu, 19 May 2016 07:00:53 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-19-novost-po-zhelezu-nvidia-nachinaet-mass/</guid>
+      <description>&lt;p&gt;Теперь у них есть #Tesla M60/M6 которая может быть как визуализатором, так и числодробилкой - это хорошо. Однако, теперь для использования #vGPU требуется приобретать лицензии от NVIDIA - это не хорошо. Подробно о новой технологии хорошо написано в блоке Poppelgaard. Вчера мои друзья уже получили первый экземпляр Tesla M60. Скоро можно будет узнать подробности.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.poppelgaard.com/nvidia-grid-2-0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Poppelgaard – blog about Remote Graphics (Citrix, VMware, Microsoft)  » NVIDIA GRID 2.0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>В честь воскресного вечера позволю себе очень любопытный оффтопик. На днях мне попалась очень интересная презентация от Walt Disney Animation Studios, рассказывающая об их опыте использование AWS для рендеринга анимации. Диснеевские спецы собирают виртуальные катера порядка 50 000 ядер!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-08-v-chest-voskresnogo-vechera-pozvolyu-sebe/</link>
       <pubDate>Sun, 08 Nov 2015 18:00:27 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-08-v-chest-voskresnogo-vechera-pozvolyu-sebe/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-08-v-chest-voskresnogo-vechera-pozvolyu-sebe/</guid>
+      <description>&lt;p&gt;!!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.slideshare.net/AmazonWebServices/cmp404-cloud-rendering-at-walt-disney-animation-studios&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;(CMP404) Cloud Rendering at Walt Disney Animation Studios&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Отличный ликбез по теме доставки приложений и рабочих столов</title>
-      <link>http://localhost:1313/posts/2015-10-12-otlichnyy-likbez-po-teme-dostavki-prilozhe/</link>
+      <title>Отличный ликбез по теме доставки приложений и рабочих столов с удаленных серверов.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-12-otlichnyy-likbez-po-teme-dostavki-prilozhe/</link>
       <pubDate>Mon, 12 Oct 2015 18:01:12 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-12-otlichnyy-likbez-po-teme-dostavki-prilozhe/</guid>
-      <description>&lt;p&gt;Если собираетесь проектировать расчетный классе для предприятия - данный документ обязателен к изучению!&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-12-otlichnyy-likbez-po-teme-dostavki-prilozhe/</guid>
+      <description>&lt;p&gt;Досконально разобраны все подводные ками, обозрении практически все ханологии (забыли только две: старый-злой VirtualGL и находящийся в зачаточном состоянии Spice Space).&lt;/p&gt;
+&lt;p&gt;Если собираетесь проектировать расчетный классе для предприятия - данный документ обязателен к изучению!&lt;/p&gt;
 &lt;p&gt;Более свежие версии документа доступны на сайте самих Team RGE (&lt;a href=&#34;https://www.teamrge.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.teamrge.com&lt;/a&gt;) после бесплатной регистрации.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.teamrge.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Team Remote Graphics Experts – TeamRGE&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

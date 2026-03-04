@@ -1,0 +1,991 @@
+<!DOCTYPE html>
+
+
+<html lang="ru" data-theme="">
+<head>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>CivilFEM - MagicDPD: Magic Driven Product Development!</title>
+
+<meta name="description" content="Архив постов MagicDPD">
+
+
+
+
+
+<link rel="alternate" type="application/rss+xml" href="https://yurynovozhilov.github.io/MagicDPD/tags/civilfem/index.xml" title="MagicDPD: Magic Driven Product Development!" />
+<link rel="icon" type="image/x-icon" href="https://yurynovozhilov.github.io/MagicDPD/favicon.ico">
+<link rel="apple-touch-icon-precomposed" href="https://yurynovozhilov.github.io/MagicDPD/favicon.png">
+
+
+
+
+    
+
+
+
+<style>
+  body {
+    visibility: hidden;
+    opacity: 0;
+  }
+</style>
+
+<noscript>
+  <style>
+    body {
+      visibility: visible;
+      opacity: 1;
+    }
+  </style>
+</noscript>
+
+
+
+
+    
+
+
+
+
+
+    
+    
+        
+    
+    
+
+    
+        <link rel="stylesheet" href="https://yurynovozhilov.github.io/MagicDPD/css/style.min.426c72691252fbafa70bd174646dc1b453a992641a8f942139874f9cadd6ae76.css" integrity="sha256-QmxyaRJS&#43;6&#43;nC9F0ZG3BtFOpkmQaj5QhOYdPnK3WrnY=">
+    
+
+
+
+
+
+    
+
+    
+
+
+
+
+
+    
+    
+        
+    
+    
+
+    
+        <script src="https://yurynovozhilov.github.io/MagicDPD/js/script.min.74bf1a3fcf1af396efa4acf3e660e876b61a2153ab9cbe1893ac24ea6d4f94ee.js" type="text/javascript" charset="utf-8" integrity="sha256-dL8aP88a85bvpKzz5mDodrYaIVOrnL4Yk6wk6m1PlO4="></script>
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+    
+        
+    
+    
+
+    
+        <script src="https://yurynovozhilov.github.io/MagicDPD/js/script.min.5a7c1b70ee40040794dd87e4a25dc23e9d426e9f08ac2611316cb9543eda45b4.js" type="text/javascript" charset="utf-8" integrity="sha256-WnwbcO5ABAeU3Yfkol3CPp1Cbp8IrCYRMWy5VD7aRbQ="></script>
+    
+
+
+
+
+    
+
+
+
+
+
+    
+    
+        
+    
+    
+
+    
+        <script src="https://yurynovozhilov.github.io/MagicDPD/js/script.min.d1092953d75d0389e869f1fd063a45b5aa76d05341ed48f7a1cacfd0db11d681.js" type="text/javascript" charset="utf-8" integrity="sha256-0QkpU9ddA4noafH9BjpFtap20FNB7Uj3ocrP0NsR1oE="></script>
+    
+
+
+
+
+
+
+
+
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Перейти к основному контенту</a>
+    <div class="container">
+        <header class="common-header"> 
+            
+                <div class="header-top">
+    <div class="header-top-left">
+        <h1 class="site-title">
+    <a href="/MagicDPD">MagicDPD: Magic Driven Product Development!</a>
+</h1>
+        <ul class="social-icons">
+
+
+    
+        <li>
+            <a href="https://t.me/MagicDPD" title="Telegram" rel="me">
+            <span class="inline-svg" >
+
+
+
+
+    
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm121.8 169.9l-40.7 191.8c-3 13.6-11.1 16.9-22.4 10.5l-62-45.7-29.9 28.8c-3.3 3.3-6.1 6.1-12.5 6.1l4.4-63.1 114.9-103.8c5-4.4-1.1-6.9-7.7-2.5l-142 89.4-61.2-19.1c-13.3-4.2-13.6-13.3 2.8-19.7l239.1-92.2c11.1-4 20.8 2.7 17.2 19.5z"/></svg>
+
+</span>
+
+            </a>
+        </li>
+    
+
+
+
+    <li>
+            <a href="https://yurynovozhilov.github.io/MagicDPD/index.xml" title="RSS" rel="me">
+            <span class="inline-svg" >
+
+
+
+
+    
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M128.081 415.959c0 35.369-28.672 64.041-64.041 64.041S0 451.328 0 415.959s28.672-64.041 64.041-64.041 64.04 28.673 64.04 64.041zm175.66 47.25c-8.354-154.6-132.185-278.587-286.95-286.95C7.656 175.765 0 183.105 0 192.253v48.069c0 8.415 6.49 15.472 14.887 16.018 111.832 7.284 201.473 96.702 208.772 208.772.547 8.397 7.604 14.887 16.018 14.887h48.069c9.149.001 16.489-7.655 15.995-16.79zm144.249.288C439.596 229.677 251.465 40.445 16.503 32.01 7.473 31.686 0 38.981 0 48.016v48.068c0 8.625 6.835 15.645 15.453 15.999 191.179 7.839 344.627 161.316 352.465 352.465.353 8.618 7.373 15.453 15.999 15.453h48.068c9.034-.001 16.329-7.474 16.005-16.504z"/></svg>
+
+</span>
+
+            </a>
+        </li>
+    
+
+</ul>
+    </div>
+    <div class="header-top-right">
+        
+
+    
+
+
+
+
+    <div class="theme-switcher">
+        <span class="inline-svg" >
+
+
+
+
+    
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 290 290">
+<path fill="currentColor" d="M142.959,0C64.131,0,0,64.132,0,142.96c0,78.828,64.131,142.959,142.959,142.959c78.828,0,142.96-64.131,142.96-142.959  C285.919,64.132,221.787,0,142.959,0z M142.959,260.919V142.96V25c65.043,0,117.96,52.917,117.96,117.96  C260.919,208.003,208.002,260.919,142.959,260.919z"/>
+</svg>
+
+</span>
+
+    </div>
+
+
+<script>
+const STORAGE_KEY = 'user-color-scheme'
+const defaultTheme = "auto"
+
+let currentTheme
+let switchButton
+let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+const autoChangeScheme = e => {
+    currentTheme = e.matches ? 'dark' : 'light'
+    document.documentElement.setAttribute('data-theme', currentTheme)
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    switchButton = document.querySelector('.theme-switcher')
+    currentTheme = detectCurrentScheme()
+    if (currentTheme == 'dark') {
+        document.documentElement.setAttribute('data-theme', 'dark')
+    }
+    if (currentTheme == 'auto') {
+        autoChangeScheme(autoDefinedScheme);
+        autoDefinedScheme.addListener(autoChangeScheme);
+    }
+
+    if (switchButton) {
+        switchButton.addEventListener('click', switchTheme, false)
+    }
+  
+    showContent()
+})
+
+function detectCurrentScheme() {
+    if (localStorage !== null && localStorage.getItem(STORAGE_KEY)) {
+        return localStorage.getItem(STORAGE_KEY)
+    } 
+    if (defaultTheme) {
+        return defaultTheme
+    } 
+    if (!window.matchMedia) {
+        return 'light'
+    } 
+    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        return 'dark'
+    }
+    return 'light'
+}
+
+function switchTheme(e) {
+    if (currentTheme == 'dark') {
+        if (localStorage !== null)
+            localStorage.setItem(STORAGE_KEY, 'light')
+        document.documentElement.setAttribute('data-theme', 'light')
+        currentTheme = 'light'
+    } else {
+        if (localStorage !== null)
+            localStorage.setItem(STORAGE_KEY, 'dark')
+        document.documentElement.setAttribute('data-theme', 'dark')
+        currentTheme = 'dark'
+    }
+}
+
+function showContent() {
+    document.body.style.visibility = 'visible';
+    document.body.style.opacity = 1;
+}
+</script>
+
+  
+    </div>
+</div>
+
+
+    <nav>
+        
+        
+        <a class="" href="https://yurynovozhilov.github.io/MagicDPD/" title="Главная">Главная</a>
+        
+        <a class="" href="https://yurynovozhilov.github.io/MagicDPD/archive/" title="Архив постов">Архив</a>
+        
+        <a class="" href="https://yurynovozhilov.github.io/MagicDPD/about/" title="О проекте">О проекте</a>
+        
+    </nav>
+
+
+
+
+
+            
+        </header>
+        <main id="main" tabindex="-1"> 
+            
+    <h1>Тег: CivilFEM</h1>
+    <div class="post-info">
+        <a href="/MagicDPD/tags/">К списку тегов</a>
+    </div>
+    
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2019-03-13-civilfem-apps-for-ansys-workbench-dostup/">CivilFEM APPs for ANSYS Workbench доступен в каталоге ACT</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>CivilFEM APPs for ANSYS Workbench доступен в каталоге ACT</p>
+<p>Версия CivilFEM для Workbench теперь доступна в официальном каталоге ACT расширений ANSYS. Программа поделена сразу на два отдельных модуля: «Eurocode Check &amp; Design» и «AISC/ACI Check &amp; Design» — по запросу «CivilFEM» найти эти расширения почему-то нельзя.</p>
+<p>Eurocode Check &amp; Design: <a href="https://catalog.ansys.com/product/5c800590393ff66ca0d507aa/eurocode-check-des" target="_blank" rel="noopener noreferrer">https://catalog.ansys.com/product/5c800590393ff66ca0d507aa/eurocode-check-des</a></p>
+<p>AISC/ACI Check &amp; Design: <a href="https://catalog.ansys.com/product/5c80073a393ff66ca0d507b2/aisc-aci-check-des" target="_blank" rel="noopener noreferrer">https://catalog.ansys.com/product/5c80073a393ff66ca0d507b2/aisc-aci-check-des</a></p>
+<p>#ACT #ANSYS #CivilFEM #Ingeciber</p>
+<p><a href="https://wp.me/p9vWYY-2pj" target="_blank" rel="noopener noreferrer">https://wp.me/p9vWYY-2pj</a></p>
+<p><a href="https://catalog.ansys.com/product/5c800590393ff66ca0d507aa/eurocode-check-des" target="_blank" rel="noopener noreferrer">https://catalog.ansys.com/product/5c800590393ff66ca0d507aa/eurocode-check-des</a>
+<a href="https://catalog.ansys.com/product/5c80073a393ff66ca0d507b2/aisc-aci-check-des" target="_blank" rel="noopener noreferrer">https://catalog.ansys.com/product/5c80073a393ff66ca0d507b2/aisc-aci-check-des</a>
+<a href="https://wp.me/p9vWYY-2pj" target="_blank" rel="noopener noreferrer">https://wp.me/p9vWYY-2pj</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2019-03-13-civilfem-apps-for-ansys-workbench-dostup/"><time datetime="2019-03-13">13.03.2019</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-13-civilfem-apps-for-ansys-workbench-dostup/">https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-13-civilfem-apps-for-ansys-workbench-dostup/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/civilfem/">#CivilFEM</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/act/">#ACT</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ingeciber/">#Ingeciber</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2018-11-17-zapis-vebiniar-po-civilfem-apps/">Запись вебиниар по CivilFEM APPs</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Запись вебиниар по CivilFEM APPs
+Ingeciber без лишнего промодления выложил на своем канале запись вебинара от 14 ноября 2018 - если вы его пропустили, то вам обязательно стоит ее посмотеть.</p>
+<p>Нам показали современную реализацию CivilFEM в виде ACT для ANSYS Workbnch. Система полностью интегрирована в ANSYS Mechanical - наконец можно забыть про классический интефейс черного экрана смерти. Ну и в качесвте вишенки на торте: CivilFEM APPs вроде как может зачитывать старые модели в новый интефейс, а значит все ваши разработки минувших лет не пропадут.</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2018-11-17-zapis-vebiniar-po-civilfem-apps/"><time datetime="2018-11-17">17.11.2018</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-17-zapis-vebiniar-po-civilfem-apps/">https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-17-zapis-vebiniar-po-civilfem-apps/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/civilfem/">#CivilFEM</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/mechanical/">#Mechanical</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/workbench/">#Workbench</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ingeciber/">#Ingeciber</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/act/">#ACT</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2018-10-31-civilfem-apps-for-wb-video-primer/">CivilFEM APPs for WB - видео пример</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>CivilFEM APPs for WB - видео пример
+Только нас пригласили на вебинар по данному долгожданному развитию CivilFEM, как уже стало доступно первое демонстрационное видео с работой нового интрефейса.</p>
+<p>Ну что ж, теперь на вебинар точно надо будет прийти, а потом еще и за изучение CivilFEM взяться.</p>
+<p>#ACT #ANSYS #CivilFEM #Ingeciber #Mechanical
+<a href="http://bit.ly/2Pw2uYB" target="_blank" rel="noopener noreferrer">http://bit.ly/2Pw2uYB</a></p>
+<p><a href="http://bit.ly/2Pw2uYB" target="_blank" rel="noopener noreferrer">http://bit.ly/2Pw2uYB</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2018-10-31-civilfem-apps-for-wb-video-primer/"><time datetime="2018-10-31">31.10.2018</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-31-civilfem-apps-for-wb-video-primer/">https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-31-civilfem-apps-for-wb-video-primer/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/civilfem/">#CivilFEM</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/mechanical/">#Mechanical</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ingeciber/">#Ingeciber</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/act/">#ACT</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2018-10-30-civilfem-dlya-workbech/">CivilFEM для Workbech</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>CivilFEM для Workbech
+14 ноября Ingeciber на своем вебинаре покажет нечто под названием CivilFEM APPs - похоже это будет тот самый долгожданный ACT для работы со всеми возможностями CivilFEM не в черном экране смерти, а в современной системе Mechanical.
+Бесплатная регистрация на две сессии по ссылкам:
+<a href="http://www.civilfem.com/civilfem-apps-for-ansys-workbench-1/" target="_blank" rel="noopener noreferrer">http://www.civilfem.com/civilfem-apps-for-ansys-workbench-1/</a>
+<a href="http://www.civilfem.com/civilfem-apps-for-ansys-workbench-2/" target="_blank" rel="noopener noreferrer">http://www.civilfem.com/civilfem-apps-for-ansys-workbench-2/</a></p>
+<p>#ACT #CivilFEM #Ingeciber #Mechanical #Workbench
+<a href="http://bit.ly/2PxYlng" target="_blank" rel="noopener noreferrer">http://bit.ly/2PxYlng</a></p>
+<p><a href="http://www.civilfem.com/civilfem-apps-for-ansys-workbench-1/" target="_blank" rel="noopener noreferrer">http://www.civilfem.com/civilfem-apps-for-ansys-workbench-1/</a>
+<a href="http://www.civilfem.com/civilfem-apps-for-ansys-workbench-2/" target="_blank" rel="noopener noreferrer">http://www.civilfem.com/civilfem-apps-for-ansys-workbench-2/</a>
+<a href="http://bit.ly/2PxYlng" target="_blank" rel="noopener noreferrer">http://bit.ly/2PxYlng</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2018-10-30-civilfem-dlya-workbech/"><time datetime="2018-10-30">30.10.2018</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-30-civilfem-dlya-workbech/">https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-30-civilfem-dlya-workbech/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/civilfem/">#CivilFEM</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/mechanical/">#Mechanical</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/workbench/">#Workbench</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ingeciber/">#Ingeciber</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/act/">#ACT</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2018-08-02-zapis-vebinara-civifem-dlya-ansys-191/">Запись вебинара CiviFEM для ANSYS 19.1</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Запись вебинара CiviFEM для ANSYS 19.1
+Коллеги из Ingeciber взяли и выложили в публичный доступ запись своего часового доклада - все бы так.</p>
+<p>Я просмотрел его кусочками и могу отметить 2 момента.</p>
+<p>Вебинар скорее рассказывает про то, чем вообще полезен CiviFEM, чем про то, что нового в нем вышло. По крайней мере, так оно выглядит для человека, который не работает с инструментом постоянно.
+2. Ingeciber анонсировал скорый выход CivilFEM для Workbench (!!!). Это значит, коллеги наконец выпустят ACT расширение к современному интефейсу ANSYS Mechanical, a про MAPDL Prep7 можно будет забыть, как про страшный сон.</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2018-08-02-zapis-vebinara-civifem-dlya-ansys-191/"><time datetime="2018-08-02">02.08.2018</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-02-zapis-vebinara-civifem-dlya-ansys-191/">https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-02-zapis-vebinara-civifem-dlya-ansys-191/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/civilfem/">#CivilFEM</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/concrete/">#Concrete</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/workbench/">#Workbench</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ingeciber/">#Ingeciber</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/act/">#ACT</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2018-07-25-civilfem-dlya-ansys-191/">CivilFEM для ANSYS 19.1</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>CivilFEM для ANSYS 19.1
+Совсем недавно стал доступен CivilFEM для ANSYS 19.0, и вот: нас уже приглашают на вебинары, посвящённые выходу CivilFEM для ANSYS 19.1. Похоже, разработчики из Ingeciber всерьез решили не отставать от скорости развития расчетной платформы ANSYS.
+2 вебинара состоятся 31 июля и займут около 45 минут вашего времени. Ссылки на бесплатную регистрацию:</p>
+<p><a href="http://www.civilfem.com/civilfem-for-ansys-191-software-overview/" target="_blank" rel="noopener noreferrer">http://www.civilfem.com/civilfem-for-ansys-191-software-overview/</a>
+<a href="http://www.civilfem.com/civilfem-for-ansys-191-software-overview-2/" target="_blank" rel="noopener noreferrer">http://www.civilfem.com/civilfem-for-ansys-191-software-overview-2/</a></p>
+<p>#ANSYS #CivilFEM #Ingeciber
+<a href="http://bit.ly/2Ojb9dB" target="_blank" rel="noopener noreferrer">http://bit.ly/2Ojb9dB</a></p>
+<p><a href="http://www.civilfem.com/civilfem-for-ansys-191-software-overview/" target="_blank" rel="noopener noreferrer">http://www.civilfem.com/civilfem-for-ansys-191-software-overview/</a>
+<a href="http://www.civilfem.com/civilfem-for-ansys-191-software-overview-2/" target="_blank" rel="noopener noreferrer">http://www.civilfem.com/civilfem-for-ansys-191-software-overview-2/</a>
+<a href="http://bit.ly/2Ojb9dB" target="_blank" rel="noopener noreferrer">http://bit.ly/2Ojb9dB</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2018-07-25-civilfem-dlya-ansys-191/"><time datetime="2018-07-25">25.07.2018</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-25-civilfem-dlya-ansys-191/">https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-25-civilfem-dlya-ansys-191/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/civilfem/">#CivilFEM</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ingeciber/">#Ingeciber</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2018-07-10-ofitsialnyy-reliz-civilfem-for-ansys-19/">Официальный релиз CivilFEM for ANSYS 19.0</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Официальный релиз CivilFEM for ANSYS 19.0
+Отчасти эта новость уже проскакивала пару недель назад. Однако тогда это была скорее догадка, а теперь - точное утверждение: &ldquo;CivilFEM for ANSYS 19.0 вышел и готов к использованию&rdquo;.
+Вообще CivilFEM - это международно признаваемый стандарт в области расчетов для гражданского строительства и атомной энергетики. Он выполняет расчеты по международным нормам, подбирает арматуру, имеет собственную библиотеку моделей материалов и формулировок конечных элементов. Подробности можно почитать тут. Единственная моя претензия к данному коду - он работает только в старом интерфейсе ANSYS APDL /Prep7 - они никак не соберутся сделать нормальное ACT.
+А вот и неполный список клиентов по всему миру.</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2018-07-10-ofitsialnyy-reliz-civilfem-for-ansys-19/"><time datetime="2018-07-10">10.07.2018</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-10-ofitsialnyy-reliz-civilfem-for-ansys-19/">https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-10-ofitsialnyy-reliz-civilfem-for-ansys-19/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/apdl/">#Apdl</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/civilfem/">#CivilFEM</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2018-06-27-civilfem-190-for-ansys-190/">CivilFEM 19.0 for ANSYS 19.0</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>CivilFEM 19.0 for ANSYS 19.0
+Видео по установке CivilFEM под ANSYS. И тут сразу два примечательных момента:</p>
+<p>CivilFEM вышел для версии 19.0 (опазадли всего на пол года, а не на год, как раньше)
+У CivilFEM теперь тоже есть студенческая бесплатная версия!</p>
+<p>#ANSYS #CivilFEM #Mechanical
+<a href="http://bit.ly/2tx4rb0" target="_blank" rel="noopener noreferrer">http://bit.ly/2tx4rb0</a></p>
+<p><a href="http://bit.ly/2tx4rb0" target="_blank" rel="noopener noreferrer">http://bit.ly/2tx4rb0</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2018-06-27-civilfem-190-for-ansys-190/"><time datetime="2018-06-27">27.06.2018</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2018-06-27-civilfem-190-for-ansys-190/">https://yurynovozhilov.github.io/MagicDPD/posts/2018-06-27-civilfem-190-for-ansys-190/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/civilfem/">#CivilFEM</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/mechanical/">#Mechanical</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2018-01-20-civilfem-dlya-ansys-182/">CivilFEM для ANSYS 18.2</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>CivilFEM для ANSYS 18.2
+Не прошло и года, как наконец появился CivilFEM для ANSYS 18.2 (весь год была поддержка только 18.1).</p>
+<p>Это очень своевременно (сарказм) - ведь до выхода ANSYS 19.0 осталось совсем немного. Однако строителям без CivilFEM пока никуда.</p>
+<p><a href="http://www.civilfem.com/new-version-of-civilfem-for-ansys-18-2-add-on/" target="_blank" rel="noopener noreferrer">http://www.civilfem.com/new-version-of-civilfem-for-ansys-18-2-add-on/</a>
+#ANSYS #CivilFEM
+<a href="https://magicdpd.ru/?p=5963" target="_blank" rel="noopener noreferrer">https://magicdpd.ru/?p=5963</a></p>
+<p><a href="http://www.civilfem.com/new-version-of-civilfem-for-ansys-18-2-add-on/" target="_blank" rel="noopener noreferrer">http://www.civilfem.com/new-version-of-civilfem-for-ansys-18-2-add-on/</a>
+<a href="https://magicdpd.ru/?p=5963" target="_blank" rel="noopener noreferrer">https://magicdpd.ru/?p=5963</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2018-01-20-civilfem-dlya-ansys-182/"><time datetime="2018-01-20">20.01.2018</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-20-civilfem-dlya-ansys-182/">https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-20-civilfem-dlya-ansys-182/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/civilfem/">#CivilFEM</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2017-09-26-uzhe-zavtra-sostoitsya-besplatnyy-vebinar/">Уже завтра состоится бесплатный вебинар по моделированию преднапряженного бетона в #CivilFEM 2017 (это который не под #ANSYS, а под #MSC).</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>#Concrete
+<a href="http://www.civilfem.com/advanced-presstressed-concrete-in-civilfem-2017-2/" target="_blank" rel="noopener noreferrer">http://www.civilfem.com/advanced-presstressed-concrete-in-civilfem-2017-2/</a> 🔗 Advanced Presstressed Concrete in CivilFEM 2017 | CivilFEM</p>
+<p><a href="http://ift.tt/2xKRcav" target="_blank" rel="noopener noreferrer">http://ift.tt/2xKRcav</a>
+<a href="http://www.civilfem.com/advanced-presstressed-concrete-in-civilfem-2017-2/" target="_blank" rel="noopener noreferrer">http://www.civilfem.com/advanced-presstressed-concrete-in-civilfem-2017-2/</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2017-09-26-uzhe-zavtra-sostoitsya-besplatnyy-vebinar/"><time datetime="2017-09-26">26.09.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-26-uzhe-zavtra-sostoitsya-besplatnyy-vebinar/">https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-26-uzhe-zavtra-sostoitsya-besplatnyy-vebinar/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/concrete/">#Concrete</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/civilfem/">#CivilFEM</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/msc/">#MSC</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+    
+    
+    
+    <div class="pagination">
+        <div class="left pagination-item ">
+            
+                <a href="/MagicDPD/tags/civilfem/">к новым записям</a>
+            
+        </div>
+        <div class="right pagination-item ">
+            
+                <a href="/MagicDPD/tags/civilfem/page/3/">к старым записям</a>
+            
+        </div>
+    </div>
+
+
+
+
+        </main>
+        
+            <footer class="common-footer">
+    
+    
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+            <p>© GlukRazor, 2026<br>
+            Движок <a target="_blank" rel="noopener noreferrer" href="https://gohugo.io/">Hugo</a>, тема <a target="_blank" rel="noopener noreferrer" href="https://github.com/mitrichius/hugo-theme-anubis">Anubis</a>.<br>
+            
+            </p>  
+        </div> 
+    </div>
+
+    <p class="h-card vcard">
+
+    <a href=https://yurynovozhilov.github.io/MagicDPD/ class="p-name u-url url fn" rel="me">GlukRazor</a> 
+
+    
+
+    
+</p> 
+</footer>
+
+        
+    </div>
+</body>
+</html>

@@ -1,23 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cht on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/cht/</link>
-    <description>MagicDPD: Magic Driven Product Development! (Cht)</description>
+    <title>CHT on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/cht/</link>
+    <description>MagicDPD: Magic Driven Product Development! (CHT)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 23 Sep 2021 15:01:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Nov 2021 13:03:27 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/cht/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/cht/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>CHT</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-11-17-cht/</link>
+      <pubDate>Wed, 17 Nov 2021 13:03:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-11-17-cht/</guid>
+      <description>&lt;p&gt;CHT&lt;/p&gt;
+&lt;p&gt;CTH - это &amp;ldquo;многофазный&amp;rdquo; решатель для МКЭ в эйлеровой формулировке, разработанный в Сандийской национальной лаборатории. Далее, парам моментов, которые привлекли мое внимание в данном коде.&lt;/p&gt;
+&lt;p&gt;SESAME Multi-Phase Equation of State - CTH имеет несколько уравнений состояния (УРС) материалов. Среди них я выделяю УРС SESAME, которое может моделировать фазовые переходы твердое тело, жидкость, пар, жидкость-пар, твердое тело-жидкость и твердое тело-твердое тело. Такого я в комических кодах не припоминаю.&lt;/p&gt;
+&lt;p&gt;В CTH все должно быть хорошо с задачами горения и детонации (как идеальной, так и не идеальной). Есть такие модели как программируемое горение, Ли-Тарвер,  Джонса-Уилкинса-Ли, Forestfire и собственные модели Сандии.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sandia.gov/cth/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.sandia.gov/cth/&lt;/a&gt;
+#cht #hpc #sandia #sesame
+&lt;a href=&#34;https://tinyurl.com/ye33soao&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ye33soao&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sandia.gov/cth/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Scalable Shock Physics&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/ye33soao&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ye33soao&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Сравнение работы кодов моделирования детонации ВВ</title>
-      <link>http://localhost:1313/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</link>
       <pubDate>Thu, 23 Sep 2021 15:01:35 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</guid>
-      <description>&lt;p&gt;Разработчики blastFoam, открытого CFD кода на базе openFoam, специализирующегося на задачах детонации ВВ и распространении ударных волны в воздухе, опубликовали любопытное сравнение. Они смоделировали детонацию сферического заряда тротила в воздухе в бесконечном домене - довольно простая постановка с хорошо известными аналитическими решениями.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</guid>
+      <description>&lt;p&gt;Сравнение работы кодов моделирования детонации ВВ&lt;/p&gt;
+&lt;p&gt;Разработчики blastFoam, открытого CFD кода на базе openFoam, специализирующегося на задачах детонации ВВ и распространении ударных волны в воздухе, опубликовали любопытное сравнение. Они смоделировали детонацию сферического заряда тротила в воздухе в бесконечном домене - довольно простая постановка с хорошо известными аналитическими решениями.&lt;/p&gt;
 &lt;p&gt;Моделирование они выполнили в:&lt;/p&gt;
 &lt;p&gt;Ansys Autodyn - код, разработанный когда-то, поглощённой компанией Century Dynamics - заточен под решение задач ОПКAnsys LS-DYNA - код, разработанный, поглощённой компанией LSTC - заточен под решение сильно связанных высоконелинейных задачEUROPLEXUS - или EpX, полуоткрытьй код для моделирования быстропротекающих процессов от французской промышленности, работает на основе моделей, подготовленных для Code_Aster.  CHT - код для моделирования быстропротекающих процессов от Сандийских национальных лабораторийblastFoam, который я уже представил&lt;/p&gt;
 &lt;p&gt;Во всех кодах использовалось уравнение состояния JWL. На мой взгляд, справились все коды примерно одинаково, и, не зная особенностей постановки задачи, времени, затраченного на решение, трудно выбрать лидера.&lt;/p&gt;
@@ -25,6 +44,19 @@
 &lt;p&gt;Ссылка на оригинальный пост: &lt;a href=&#34;https://www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ansys #autodyn #blast #blastfoam #cht #europlexus #ls-dyna #open_source #openfoam #sandia
 &lt;a href=&#34;https://tinyurl.com/yzxkzr4r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzxkzr4r&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/?trackingId=Uq%2B3MZmoMgkb3xIYeAHk9A%3D%3D&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;blastFoam | Comparison of explosive airblast calculators&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yzxkzr4r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzxkzr4r&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>От влекой Сандийской Национальной Лаборатории (#Sandia National Laboratories), средство моделирования механики быстропротекающих процессов CTH Shock Physics. #CHT написана а суровом Fortran и С, и вы ее точно ни за какие деньги не купите, так как код создан только и исключительно для американских военных.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-04-ot-vlekoy-sandiyskoy-natsionalnoy-labora/</link>
+      <pubDate>Thu, 04 Feb 2016 07:00:37 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-04-ot-vlekoy-sandiyskoy-natsionalnoy-labora/</guid>
+      <description>&lt;p&gt;Умеет считать все, что может быть промоделировано в эйлеровой постановке метода конечных элементов. При этом запускает на всем: на Windows, на Linux и на Unix (включая OS X).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.sandia.gov/CTH/Capabilities-leftnav-level1_js.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Sandia National Laboratories: CTH Shock Physics: Capabilities&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

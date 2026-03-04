@@ -2,37 +2,130 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coreform on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/coreform/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/coreform/</link>
     <description>MagicDPD: Magic Driven Product Development! (Coreform)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 13 Apr 2022 17:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jul 2022 18:54:26 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/coreform/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/coreform/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Я уже писал про интересный открытый междисциплинарный решате</title>
-      <link>http://localhost:1313/posts/2022-04-13-ya-uzhe-pisal-pro-interesnyy-otkrytyy-mezhd/</link>
+      <title>Вебинар #Coreform посвященный математическим и геометрическим описаниям, которые обеспечивают работу #IGA. Настоятельно рекомендуется всем, кому становится тесно в традиционных сеточных подходах к решению прочностных задач. https://www.youtube.com/watch?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-07-05-vebinar-coreform-posvyaschennyy-matematiche/</link>
+      <pubDate>Tue, 05 Jul 2022 18:54:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-07-05-vebinar-coreform-posvyaschennyy-matematiche/</guid>
+      <description>&lt;p&gt;v=IomjLZE2-LM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=IomjLZE2-LM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=IomjLZE2-LM&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Я уже писал про интересный открытый междисциплинарный решатель &#34;Лось&#34; (#MOOSE или Multiphysics Object-Oriented Simulation Environment).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-13-ya-uzhe-pisal-pro-interesnyy-otkrytyy-mezhd/</link>
       <pubDate>Wed, 13 Apr 2022 17:00:14 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-04-13-ya-uzhe-pisal-pro-interesnyy-otkrytyy-mezhd/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-13-ya-uzhe-pisal-pro-interesnyy-otkrytyy-mezhd/</guid>
       <description>&lt;p&gt;Так вот, в нем теперь есть поддержка #IGA, и это все стало возможным благодаря совместному проекту с командой  #Coreform #Cubit.&lt;/p&gt;
 &lt;p&gt;Для тех, кто еще не знает, что такое IGA, то данный подход подразумевает использование одной и той же гладкой сплайновой основы для определения геометрии и моделирования. Это дает более точные результаты, особенно на сравнительно грубых сетках: геометрия оказывается точно описанной при любом качестве сетки, оболочечные элементы могут сгибаться не только в узлах, а иногда нам требуется меньше степеней свободы для получения точного результата расчета. А еще там есть моя мечта - техника погружденных Solid IGA элементов, которая может навсегда решить проблемы с генерацией сложных сеток.&lt;/p&gt;
 &lt;p&gt;#opensource &lt;a href=&#34;https://youtu.be/UmS-pAuBnEU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/UmS-pAuBnEU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/UmS-pAuBnEU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Improving MOOSE workflows through Coreform Cubit&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coreform Cubit 2021.11</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-12-01-coreform-cubit-202111/</link>
+      <pubDate>Wed, 01 Dec 2021 15:37:35 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-12-01-coreform-cubit-202111/</guid>
+      <description>&lt;p&gt;Coreform Cubit 2021.11&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/1vXOdro4kho&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/1vXOdro4kho&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Рассказывают про новый релиз сеточного генератора Coreform. Мало того, что он сейчас похоже, что единственный промышленный сеточный генератор для SOLID IGA, так он теперь еще может генерировать lattice structure модели.&lt;/p&gt;
+&lt;p&gt;#coreform #iga #lattice_structure #mesh
+&lt;a href=&#34;https://tinyurl.com/yytsgmfb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yytsgmfb&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/1vXOdro4kho&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;IGA model preparation in Coreform Cubit Webinar (November 18, 2021)&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yytsgmfb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yytsgmfb&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Лекция по IGA от Томаса Хьюза</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-22-lektsiya-po-iga-ot-tomasa-hyuza/</link>
+      <pubDate>Wed, 22 Sep 2021 13:01:58 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-22-lektsiya-po-iga-ot-tomasa-hyuza/</guid>
+      <description>&lt;p&gt;Лекция по IGA от Томаса Хьюза&lt;/p&gt;
+&lt;p&gt;Томас Дж. Р. Хьюз, является ведущим исследователем в области автоматизированного проектирования и его интеграции с автоматизированным проектированием. Он также является пионером в разработке метода конечных элементов для решения нелинейных задач. Я даже нашел про него небольшую видео-визитку в сети.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=kG_hfu-AXXA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=kG_hfu-AXXA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Однако сегодня он интересен нам как создатель метода изогеметрического анализа или IGA (IsoGeometric Analisys). Я считаю, что IGA - это будущее всего МКЭ, когда нам важно посчитать прочность конструкции вплоть до разрушения материала (дальше нужны бессеточные методы). В сети нашлась лекция Томаса Хьюза, в которой он рассказывает о текущем состоянии IGA. Всем рекомендую послушать этого замечательного ученого и оратора.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/vbKWBsX34hw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/vbKWBsX34hw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;P.S. В LS-DYNA уже есть IGA лет 5 как, для явного и неявного решателя - можно пробовать.&lt;/p&gt;
+&lt;p&gt;#ansys #coreform #iga #legendpeople #ls-dyna #true_science
+&lt;a href=&#34;https://tinyurl.com/ygy7m98j&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ygy7m98j&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=kG_hfu-AXXA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Thomas J.R. Hughes, ASME Medal, 2018&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/vbKWBsX34hw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/vbKWBsX34hw&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/ygy7m98j&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ygy7m98j&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Coreform IGA: оценка прочности с Solid IGA</title>
-      <link>http://localhost:1313/posts/2021-05-19-coreform-iga-otsenka-prochnosti-s-solid-i/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-05-19-coreform-iga-otsenka-prochnosti-s-solid-i/</link>
       <pubDate>Wed, 19 May 2021 13:01:45 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-05-19-coreform-iga-otsenka-prochnosti-s-solid-i/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=y8SS50utWlQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=y8SS50utWlQ&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-05-19-coreform-iga-otsenka-prochnosti-s-solid-i/</guid>
+      <description>&lt;p&gt;Coreform IGA: оценка прочности с Solid IGA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=y8SS50utWlQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=y8SS50utWlQ&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Coreform - еще один большой игрок на поле изогеометрических расчетов, и это их вебинар с примером работы Coreform IGA для полноценного расчета solid геометрии данный методом. Получается что-то на подобии метода погруженной границы, но главное, что &amp;ldquo;сетка&amp;rdquo; больше не доставляет боли.&lt;/p&gt;
 &lt;p&gt;#coreform #iga
 &lt;a href=&#34;https://tinyurl.com/yhbonguj&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yhbonguj&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=y8SS50utWlQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Coreform IGA: Predicting the onset of failure with IGA&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yhbonguj&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yhbonguj&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Про IGA по русски</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-17-pro-iga-po-russki/</link>
+      <pubDate>Wed, 17 Mar 2021 13:02:33 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-17-pro-iga-po-russki/</guid>
+      <description>&lt;p&gt;Про IGA по русски&lt;/p&gt;
+&lt;p&gt;Наконец нашел статью про IGA на русском. Данный метод сейчас очень активно развивается в таких кодах, как CoreForm IGA и LS-DYNA, так как позволяет получить более точные результаты чем традиционный МКЭ. Оригинальное резюме статьи далее.&lt;/p&gt;
+&lt;p&gt;В статье рассмотрена модификация метода конечных элементов, так называемый изо-геометрический метод, использующая в качестве базисных функций рациональные B-сплайны (NURBS). Новый подход должен предотвратить аппроксимацию геометрии рассчитываемого тела и обеспечить гладкость базисных функций на границе конечных элементов. В статье выполнен краткий обзор рациональных B-сплайнов, описаны их основные свойства, выполнен обзор существующих на сегодняшний день программных продуктов, в которых описанный метод реализован в той или иной степени. В тексте приведены примеры расчета простых твердых тел в программе FEAP (Finite Element Analysis Program) для сопоставления результатов, полученных стандартным и модифицированным методами. В изо-геометрическом методе расчета геометрия тела остается точной независимо от размера расчетной сетки, что повышает точность решения контактных задач и анализа композитных тел. Знакопостоянность рациональных B-сплайнов повышает качество получаемых полей искомых переменных. Геометрия для расчета может быть получена напрямую из графических редакторов CAD без изменения, что является необходимым шагом по направлению к внедрению технологий BIM в проектировании. Преимущества описанного метода делают его выгодной альтернативой при расчете тел с криволинейными очертаниями.&lt;/p&gt;
+&lt;p&gt;Ссылка на статью: &lt;a href=&#34;https://unistroy.spbstu.ru/userfiles/files/2019/9%2884%29/84__1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://unistroy.spbstu.ru/userfiles/files/2019/9(84)/84__1.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#coreform #iga #ls-dyna
+&lt;a href=&#34;https://tinyurl.com/ydqqy5mn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ydqqy5mn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://unistroy.spbstu.ru/userfiles/files/2019/9%2884%29/84__1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://unistroy.spbstu.ru/userfiles/files/2019/9(84)/84__1.pdf&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/ydqqy5mn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ydqqy5mn&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coreform покупает csimsoft</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-31-coreform-pokupaet-csimsoft/</link>
+      <pubDate>Thu, 31 Oct 2019 17:03:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-31-coreform-pokupaet-csimsoft/</guid>
+      <description>&lt;p&gt;Coreform покупает csimsoft&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/coreform-acquires-csimsoft/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Coreform покупает csimsoft - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Изогеометрический анализ от Coreform</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-06-06-izogeometricheskiy-analiz-ot-coreform/</link>
+      <pubDate>Thu, 06 Jun 2019 17:00:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-06-06-izogeometricheskiy-analiz-ot-coreform/</guid>
+      <description>&lt;p&gt;Изогеометрический анализ от Coreform&lt;/p&gt;
+&lt;p&gt;Занимательное выступление Coreform на мероприятии DEVELOP3D Live 2019. Коллеги немного пафосно рассказывают про то, как изогеометрические решатели сейчас всех победят. Изогеометрические (IGA, Iso-Geometric Analisys) — это которые используют не классическую сетку, а сразу NURBS поверхности, взятые из CAD модели. Но не все так просто, как рассказывают коллеги. IGA — штука не новая, этому направлению моделирования уже второй десяток лет, есть оно напримр и в моей любимой LS-DYNA. Но пока ему далеко до традиционного FEM. Действительно, результаты при таком расчете оказываются очень гладкими и красивыми, но не обошлось без засад. И первая засада, это необходимость переписывать модели материалов под работу с новым способом дискретизации. Например в LS-DYNA за все это время переписали моделей 5 из почти 300. Далее, на самом деле IGA намного более ресурсоемкая штука. Даже на презентации это было косвенно отмечено: x500 ускорение при x50 меньшей модели — это x10 больше вычислений на один элемент. И если для «обычных задач» можно обойтись малым числом элементов, то для задач, связанных с пассивной безопастностью и разрушением, сетки FEM и IGA должны быть сопоставимы.&lt;/p&gt;
+&lt;p&gt;#coreform #DEVELOP3D #IGA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2y3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2y3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2y3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Изогеометрический анализ от Coreform - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

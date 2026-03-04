@@ -2,22 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prometech on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/prometech/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/prometech/</link>
     <description>MagicDPD: Magic Driven Product Development! (Prometech)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 21 Dec 2018 17:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2020 16:14:59 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/prometech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/prometech/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Оптимизация бокала для вина</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-11-09-optimizatsiya-bokala-dlya-vina/</link>
+      <pubDate>Mon, 09 Nov 2020 16:14:59 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-11-09-optimizatsiya-bokala-dlya-vina/</guid>
+      <description>&lt;p&gt;Оптимизация бокала для вина
+#CFD #MPM #Particleworks #Prometech
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/how-to-improve-your-design-by-liquid-flow-simulation/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Оптимизация бокала для вина - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Обзор интеграции Particleworks в ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-02-18-obzor-integratsii-particleworks-v-ansys/</link>
+      <pubDate>Tue, 18 Feb 2020 13:00:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-02-18-obzor-integratsii-particleworks-v-ansys/</guid>
+      <description>&lt;p&gt;Обзор интеграции Particleworks в ANSYS
+#ANSYS #Particleworks #Prometech
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/particleworks-ansys-fsi/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Обзор интеграции Particleworks в ANSYS - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS x Particleworks</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-01-27-ansys-x-particleworks/</link>
+      <pubDate>Mon, 27 Jan 2020 13:00:24 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-01-27-ansys-x-particleworks/</guid>
+      <description>&lt;p&gt;ANSYS x Particleworks&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/ansys-x-particleworks/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS x Particleworks - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>ANSYS подружится с Prometech Software, Inc.</title>
-      <link>http://localhost:1313/posts/2018-12-21-ansys-podruzhitsya-s-prometech-software-i/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-21-ansys-podruzhitsya-s-prometech-software-i/</link>
       <pubDate>Fri, 21 Dec 2018 17:01:50 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-12-21-ansys-podruzhitsya-s-prometech-software-i/</guid>
-      <description>&lt;p&gt;В прошедший понедельник на своей конференции японская компания Prometech Software, Inc. объявила о дружбе с ANSYS. Давайте разберемся, почему это очень круто.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-21-ansys-podruzhitsya-s-prometech-software-i/</guid>
+      <description>&lt;p&gt;ANSYS подружится с Prometech Software, Inc.&lt;/p&gt;
+&lt;p&gt;В прошедший понедельник на своей конференции японская компания Prometech Software, Inc. объявила о дружбе с ANSYS. Давайте разберемся, почему это очень круто.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://youtu.be/WDFSzgjWR_4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/WDFSzgjWR_4&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Прежде всего, стоит вспомнить, что Prometech - это разработчик Particleworks, одного из самых умных бессеточных CFD решателей. Решатель бессеточный - работает на основе своего метода частиц MPS (Moving Particle Simulation) Method.&lt;/p&gt;
 &lt;p&gt;Работа решателя на основе метода частиц позволяет решать динамические задачи с подвижными (и сильно подвижными :-)) границами, FSI и описывать прочие динамические процессы - например, задачи смазки зубчатых передач, слошинш, аквапланирование.&lt;/p&gt;
@@ -25,19 +63,23 @@
 &lt;p&gt;&lt;a href=&#34;https://www.prometech.co.jp/newsroom_ja/prometech-and-ansys-announce-a-collaboration-to-provide-broader-multiphysics-solution.html?lang=ja&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.prometech.co.jp/newsroom_ja/prometech-and-ansys-announce-a-collaboration-to-provide-broader-multiphysics-solution.html?lang=ja&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ANSYS #CFD #FSI #GPU #Meshless #MPS #Particleworks #Prometech
 &lt;a href=&#34;http://bit.ly/2V1xxeO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2V1xxeO&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/WDFSzgjWR_4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Particleworks Introduction 2018.09&lt;/a&gt;
+&lt;a href=&#34;https://www.prometech.co.jp/newsroom_ja/prometech-and-ansys-announce-a-collaboration-to-provide-broader-multiphysics-solution.html?lang=ja&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.prometech.co.jp/newsroom_ja/prometech-and-ansys-announce-a-collaboration-to-provide-broader-multiphysics-solution.html?lang=ja&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2V1xxeO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2V1xxeO&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>#MPS (Moving Particle Simulation) - бессеточный метод для ре</title>
-      <link>http://localhost:1313/posts/2016-04-11-mps-moving-particle-simulation-bess/</link>
+      <title>#MPS (Moving Particle Simulation) - бессеточный метод для решения задач взаимодействия жидкости и твердого тела похоже учел все недостатки своих конкурентов и исправил их разом.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-11-mps-moving-particle-simulation-bess/</link>
       <pubDate>Mon, 11 Apr 2016 07:01:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-04-11-mps-moving-particle-simulation-bess/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-11-mps-moving-particle-simulation-bess/</guid>
       <description>&lt;p&gt;Прежде всего, этот метод, чем-то похожий на #SPH, имеет как явную, так и неявную схемы интегрирования по времени. Далее, он позволяет учитывать поверхностное натяжение и обладает #LES моделью турбулентности, чего нет в классическом #SPH. Ну и на сладкое - метод ускоряется на #GPU #NVIDIA в 5-9 раз (прямо как #DEM), при этом может использовать несколько графических карт.&lt;/p&gt;
 &lt;p&gt;Метод реализован в независимомо CFD пакете #Particleworks японской компании #Prometech.&lt;/p&gt;
 &lt;p&gt;На мой взгляд, это может быть по круче чем #XFlowCFD с их решеточным методом Больцмана.&lt;/p&gt;
 &lt;p&gt;Базовая теория по работе метода прилагается.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.prometechsoftware.com/particleworks.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;particleworks highlights&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

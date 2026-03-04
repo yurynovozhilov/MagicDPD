@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ANSYS_Explicit_STR on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/ansys_explicit_str/</link>
+    <description>MagicDPD: Magic Driven Product Development! (ANSYS_Explicit_STR)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sun, 18 Feb 2018 18:01:04 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys_explicit_str/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Описание библиотеки материалов AUTODYN</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-18-opisanie-biblioteki-materialov-autodyn/</link>
+      <pubDate>Sun, 18 Feb 2018 18:01:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-18-opisanie-biblioteki-materialov-autodyn/</guid>
+      <description>&lt;p&gt;Описание библиотеки материалов AUTODYN
+На днях я искал теорию по одной хорошей модели материала для explicit расчетов и нашел настоящий клад для начинающих!&lt;/p&gt;
+&lt;p&gt;Мне попалась статья Дениса Александровича Чемезова, в которой он сделал обзор и перевод на русский 267 моделей материалов из библиотеки Explict Material, входящей в поставку ANSYS Workbench. Данные материалы предназначены для работы с Explicit STR, AUTODYN и Workbench LS-DYNA (не полная совместимость). Библиотека взята за 2014 год, но свойства материалов, к счастью, не устаревают!
+Ссылка на оригинальную статью: &lt;a href=&#34;http://oaji.net/articles/2014/679-1410013567.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://oaji.net/articles/2014/679-1410013567.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://oaji.net/articles/2014/679-1410013567.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://oaji.net/articles/2014/679-1410013567.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

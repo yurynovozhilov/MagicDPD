@@ -20,5 +20,7 @@ Kangaroo — это свободный интерактивный движок �
 pic.twitter.com/swhLmWX72m— Daniel Piker (@KangarooPhysics) September 17, 2019
 
 https://twitter.com/KangarooPhysics
-https://t.co/swhLmWX72m
+~~https://t.co/swhLmWX72m~~ → [Сохранённая версия](http://web.archive.org/web/20230628210051/https://t.co/swhLmWX72m)
+
+*Оригинальная ссылка больше не доступна*
 https://twitter.com/KangarooPhysics/status/1173944569219751938?ref_src=twsrc%5Etfw

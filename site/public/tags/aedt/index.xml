@@ -2,22 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AEDT on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/aedt/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/aedt/</link>
     <description>MagicDPD: Magic Driven Product Development! (AEDT)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 03 Jul 2018 18:02:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2019 12:00:15 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/aedt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/aedt/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Как улучшить работу антены</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-15-kak-uluchshit-rabotu-anteny/</link>
+      <pubDate>Fri, 15 Mar 2019 12:00:15 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-15-kak-uluchshit-rabotu-anteny/</guid>
+      <description>&lt;p&gt;Как улучшить работу антены&lt;/p&gt;
+&lt;p&gt;Часовой вебинар по ANSYS EM от Singularity Engineering LLC по теме чиленного моделирования для задач радиофизики.&lt;/p&gt;
+&lt;p&gt;#AEDT #ANSYS #EM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2pX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2pX&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2pX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2pX&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Как корректно остановить решатель на ходу</title>
-      <link>http://localhost:1313/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</link>
       <pubDate>Tue, 03 Jul 2018 18:02:50 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</guid>
-      <description>&lt;p&gt;Есть очень часто встречающаяся задача - запуск решателя в консольном/пакетном режиме для выполнения расчета на рабочей станции или кластере. С этой задачей сталкиваются многие опытные инженеры. Как запускать консольные расчеты хорошо описано в документации, много рассказано на форумах.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</guid>
+      <description>&lt;p&gt;Как корректно остановить решатель на ходу
+Есть очень часто встречающаяся задача - запуск решателя в консольном/пакетном режиме для выполнения расчета на рабочей станции или кластере. С этой задачей сталкиваются многие опытные инженеры. Как запускать консольные расчеты хорошо описано в документации, много рассказано на форумах.
 Однако мало кто знает, что практически любой решатель, работающий в фоне, можно корректно остановить с запуском точки рестарта/чекпоинта. Как правило, необходимо создать особый файл в особом месте. Когда решатель его обнаружит, он сам все поймет. Особый файл будет удалён сразу после его обработки. Давайте посмотрим, как это сделать для основных решателей ANSYS.
 Mechanical/APDL:
 В рабочей директории решателя надо создать файл с именем jobname.abt, где jobname - имя проекта. Файл должен содержать только одно слово: nonlinear
@@ -39,6 +54,7 @@ ANSYS Workbench
 Если вы пользуетесь ANSYS RSM, то там для всех поддерживаемых решателей уже есть стандартная кнопка Interrupt, которая делает всю вышеописанную магию за вас. Настраивайте RSM и наслаждайтесь :-)&lt;/p&gt;
 &lt;p&gt;#AEDT #ANSYS #Autodyn #CFX #Checkpont #Fluent #HPC #Longread #LSDYNA #Restart #RSM #Workbench
 &lt;a href=&#34;http://bit.ly/2u3rrhp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2u3rrhp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2u3rrhp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2u3rrhp&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

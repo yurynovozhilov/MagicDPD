@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Batch_connections on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/batch_connections/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Batch_connections)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 17 May 2021 13:01:38 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/batch_connections/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ansys Batch Connections</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-05-17-ansys-batch-connections/</link>
+      <pubDate>Mon, 17 May 2021 13:01:38 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-05-17-ansys-batch-connections/</guid>
+      <description>&lt;p&gt;Ansys Batch Connections&lt;/p&gt;
+&lt;p&gt;Где-то год назад Ansys выкатил функцию Batch Connections и про нее почему-то мало кто знает до сих пор, хотя она очень полезна и важна.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=tWgSf6TUdfc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=tWgSf6TUdfc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Итак, Batch Connections позволяет собирать сетки на больших и сложных оболочечных моделях, состоящих из большого числа поверхностей. В классическом построении сетки, вам необходимо построить Shared Topology склейку геометрии в единое целое, и потом уже строить сетку на одном ядре процессора. Batch Connections предлагает не склеивать геометрию, а отдать раскленную модель сеточному генератору. Тот сам сначала построить сетку на всех оболочечных телах параллельно многопоточно, а потом сделает сшивку по узлам, дотянув их по месту. Получается быстрее, проще и стабильнее - всем, кто работает с shell геометрией изучать обязательно!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=zxytjWbYEho&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=zxytjWbYEho&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1lJJo19fvug&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=1lJJo19fvug&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=etEBANwvRxY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=etEBANwvRxY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=etEBANwvRxY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=etEBANwvRxY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=duYS7jTslhI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=duYS7jTslhI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=QoDdM0Z5_Cg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=QoDdM0Z5_Cg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #batch_connections #meshing
+&lt;a href=&#34;https://tinyurl.com/ygzw3232&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ygzw3232&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=tWgSf6TUdfc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys Batch Connections: Introduction to Batch Connections (1 of 6)&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=zxytjWbYEho&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=zxytjWbYEho&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=1lJJo19fvug&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=1lJJo19fvug&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=etEBANwvRxY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=etEBANwvRxY&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=etEBANwvRxY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=etEBANwvRxY&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=duYS7jTslhI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=duYS7jTslhI&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=QoDdM0Z5_Cg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=QoDdM0Z5_Cg&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/ygzw3232&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ygzw3232&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

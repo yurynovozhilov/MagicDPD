@@ -2,22 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FluidX3D on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/fluidx3d/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/fluidx3d/</link>
     <description>MagicDPD: Magic Driven Product Development! (FluidX3D)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 12 Apr 2023 18:00:01 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/fluidx3d/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/fluidx3d/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Как говорят разработчики, у них самое быстрое и наиболее эфф</title>
-      <link>http://localhost:1313/posts/2023-04-12-kak-govoryat-razrabotchiki-u-nih-samoe-by/</link>
+      <title>Как говорят разработчики, у них самое быстрое и наиболее эффективное с точки зрения использования памяти программное обеспечение для #CFD в постановке решетчатых уравнений Больцмана, работающее на всех #GPU через #OpenCL.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2023-04-12-kak-govoryat-razrabotchiki-u-nih-samoe-by/</link>
       <pubDate>Wed, 12 Apr 2023 18:00:01 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2023-04-12-kak-govoryat-razrabotchiki-u-nih-samoe-by/</guid>
-      <description>&lt;p&gt;#LBM #FluidX3D #opensource &lt;a href=&#34;https://github.com/ProjectPhysX/FluidX3D&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/ProjectPhysX/FluidX3D&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2023-04-12-kak-govoryat-razrabotchiki-u-nih-samoe-by/</guid>
+      <description>&lt;p&gt;А еще оно открытое и бесплатное. Интересно, как там с физикой дела.&lt;/p&gt;
+&lt;p&gt;#LBM #FluidX3D #opensource &lt;a href=&#34;https://github.com/ProjectPhysX/FluidX3D&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/ProjectPhysX/FluidX3D&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ProjectPhysX/FluidX3D&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/ProjectPhysX/FluidX3D&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#FluidX3D - это программное обеспечение для #CFD моделирования методом решетчатых уравнений Больцмана #LBM.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-07-04-fluidx3d-eto-programmnoe-obespechenie/</link>
+      <pubDate>Mon, 04 Jul 2022 16:22:01 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-07-04-fluidx3d-eto-programmnoe-obespechenie/</guid>
+      <description>&lt;p&gt;Решение идет &amp;ldquo;в реальном времени&amp;rdquo; благодаря использованию мощностей #GPU через #OpenCL.&lt;/p&gt;
+&lt;p&gt;В качестве примера работы кода автор предлагает расчет внешней аэродинамики Боинга 747 на числах Рейнольдса Re=50k.  Разрешение модели 912×1824×456, 100k временных шагов, время вычисления+рендеринга 6.5 часов #Nvidia #A100 40GB GPU. &lt;a href=&#34;https://www.youtube.com/watch?v=zp6tgdN9EBY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=zp6tgdN9EBY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=zp6tgdN9EBY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=zp6tgdN9EBY&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

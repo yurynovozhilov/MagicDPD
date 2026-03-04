@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LatticeStructure on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/latticestructure/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/latticestructure/</link>
     <description>MagicDPD: Magic Driven Product Development! (LatticeStructure)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 07 Dec 2018 17:00:17 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/latticestructure/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/latticestructure/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Учебная статья: Lattice Optimization в ANSYS Mechanical</title>
-      <link>http://localhost:1313/posts/2018-12-07-uchebnaya-statya-lattice-optimization-v-a/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-07-uchebnaya-statya-lattice-optimization-v-a/</link>
       <pubDate>Fri, 07 Dec 2018 17:00:17 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-12-07-uchebnaya-statya-lattice-optimization-v-a/</guid>
-      <description>&lt;p&gt;Коллеги из Padtinc написали отличный пост, где пошагово разобран весь процесс Lattice Optimization при помомщи ANSYS Mechanical версии 19.2.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-07-uchebnaya-statya-lattice-optimization-v-a/</guid>
+      <description>&lt;p&gt;Учебная статья: Lattice Optimization в ANSYS Mechanical
+Коллеги из Padtinc написали отличный пост, где пошагово разобран весь процесс Lattice Optimization при помомщи ANSYS Mechanical версии 19.2.
 Тут разобраны все этапы:&lt;/p&gt;
 &lt;p&gt;Постановка прочностного расчета
 Настройка модуля оптимизации
@@ -27,6 +28,71 @@
 &lt;p&gt;How to Use Lattice Optimization in ANSYS Mechanical and ANSYS SpaceClaim 19.2&lt;/p&gt;
 &lt;p&gt;#ANSYS #LatticeStructure #Mechanical #Optimization #Padtinc #Topology
 &lt;a href=&#34;http://bit.ly/2UpSlws&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2UpSlws&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.padtinc.com/blog/the-focus/how-to-use-lattice-optimization-in-ansys-mechanical-and-ansys-spaceclaim-19-2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;How to Use Lattice Optimization in ANSYS Mechanical and ANSYS SpaceClaim 19.2&lt;/a&gt;
+&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/how-to-use-lattice-optimization-in-ansys-mechanical-and-ansys-spaceclaim-19-2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.padtinc.com/blog/the-focus/how-to-use-lattice-optimization-in-ansys-mechanical-and-ansys-spaceclaim-19-2&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2UpSlws&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2UpSlws&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS Material Designer</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-26-ansys-material-designer/</link>
+      <pubDate>Mon, 26 Nov 2018 17:00:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-26-ansys-material-designer/</guid>
+      <description>&lt;p&gt;ANSYS Material Designer
+Данная утилита очень здорово дополняет и без того обширные возможности платформы ANSYS по моделированию композитов. ANSYS Material Designer решает задачу подборки рецептуры композиционного материала и получения его эффективных свойств на основе прямой КЭ гомогенизации представительного элемента объема.&lt;/p&gt;
+&lt;p&gt;Что особенно приятно, так это то, что ANSYS одними только композитами не ограничился. Система умеет выдавать эффективные свойства и для ячеистых/сетчатых конструкций (lattice structure), а уже спроектировать конструкцию с lattice structure позволит система оптимизации топологии, идущая в любой механической лицензии на ПО.&lt;/p&gt;
+&lt;p&gt;#AdditiveManufacturing #ANSYS #Composite #Homogenization #LatticeStructure #MaterialDesigner #Optimization #Topology
+&lt;a href=&#34;http://bit.ly/2TLXlLx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2TLXlLx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2TLXlLx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2TLXlLx&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS Lattice Optimisation</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-03-ansys-lattice-optimisation/</link>
+      <pubDate>Sat, 03 Nov 2018 17:00:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-03-ansys-lattice-optimisation/</guid>
+      <description>&lt;p&gt;ANSYS Lattice Optimisation
+Очень емкое видео, показывающее как при помощи модуля оптимизации топологии в ANSYS можно создавать решетчатые структуры (lattice structure).&lt;/p&gt;
+&lt;p&gt;На входе схема нагружения и расчетный домен, на выходе решетчатая структура в нужном вам геометрическом формате или STL.&lt;/p&gt;
+&lt;p&gt;#ANSYS #LatticeStructure #LEAP #Optimization #SpaceClaim #Topology
+&lt;a href=&#34;http://bit.ly/2PCv9eD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PCv9eD&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2PCv9eD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PCv9eD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Autodesk Netfabb 2019</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-05-autodesk-netfabb-2019/</link>
+      <pubDate>Sun, 05 Aug 2018 18:01:29 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-05-autodesk-netfabb-2019/</guid>
+      <description>&lt;p&gt;Autodesk Netfabb 2019
+Обновился главный продукт Autodesk в области аддитивных технологий. В Netfabb 2019 добавились продвинутые функции по работе в lattice structure. Это очень здорово выглядит, но пока все направление lattice structure как-то не особо находит себе применение.
+&lt;a href=&#34;http://blogs.autodesk.com/netfabb/2018/07/19/whats-new-in-autodesk-netfabb-2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://blogs.autodesk.com/netfabb/2018/07/19/whats-new-in-autodesk-netfabb-2019/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#AdditiveManufacturing #Autodesk #LatticeStructure #Netfabb
+&lt;a href=&#34;http://bit.ly/2OLh4Zd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OLh4Zd&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://blogs.autodesk.com/netfabb/2018/07/19/whats-new-in-autodesk-netfabb-2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://blogs.autodesk.com/netfabb/2018/07/19/whats-new-in-autodesk-netfabb-2019/&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2OLh4Zd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OLh4Zd&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>nTopology ACT</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-17-ntopology-act/</link>
+      <pubDate>Tue, 17 Jul 2018 18:01:36 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-17-ntopology-act/</guid>
+      <description>&lt;p&gt;nTopology ACT
+Команда Groupe Réaction Inc и nTopology - системы, позволяющей генерировать и редактировать lattice structure геометрию, запустили в магазин расширений ANSYS свое ACT. За 500 баксов оно позволяет загрузить результаты работы алгоритмов nTopology в виде файлов *.LTCX в структуру Workbench, передать их в виде КЭ сетки балочных или оболочечных элементов (ну наконец-то не надо возиться с восстановлением из STL!) в Mechanical и дальше посчитать все, что вам только в голову придёт. А еще, в качестве beta, там есть возможность задания морфинга lattice structure на уровне сетки.
+&lt;a href=&#34;https://appstore.ansys.com/shop/ACTApps_act%20apps/nTopologyLatticeCustomWorkflow_apc-actapp-403&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/shop/ACTApps_act%20apps/nTopologyLatticeCustomWorkflow_apc-actapp-403&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS #LatticeStructure #Mechanical #NTopology #STL #Workbench
+&lt;a href=&#34;http://bit.ly/2NWdFGw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NWdFGw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/shop/ACTApps_act%20apps/nTopologyLatticeCustomWorkflow_apc-actapp-403&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/shop/ACTApps_act%20apps/nTopologyLatticeCustomWorkflow_apc-actapp-403&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2NWdFGw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NWdFGw&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

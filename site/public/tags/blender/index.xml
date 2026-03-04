@@ -2,43 +2,127 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blender on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/blender/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/blender/</link>
     <description>MagicDPD: Magic Driven Product Development! (Blender)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 17 Feb 2020 13:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Feb 2022 17:00:04 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/blender/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/blender/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Фотореалистичный рендеринг результатов расчетов в Blender</title>
-      <link>http://localhost:1313/posts/2020-02-17-fotorealistichnyy-rendering-rezultatov-r/</link>
-      <pubDate>Mon, 17 Feb 2020 13:00:13 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/2020-02-17-fotorealistichnyy-rendering-rezultatov-r/</guid>
-      <description></description>
-    </item>
     
     <item>
-      <title>Использование #SPH для полноценных гидродинамических расчето</title>
-      <link>http://localhost:1313/posts/2017-09-08-ispolzovanie-sph-dlya-polnotsennyh-gidro/</link>
-      <pubDate>Fri, 08 Sep 2017 17:08:26 +0000</pubDate>
+      <title>Bullet Constraints Builder</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-08-bullet-constraints-builder/</link>
+      <pubDate>Tue, 08 Feb 2022 17:00:04 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-09-08-ispolzovanie-sph-dlya-polnotsennyh-gidro/</guid>
-      <description>&lt;p&gt;Коллеги из #LSTC посчитали простенькую #FSI задачу в #LSDYNA, а потом при помощи #Paraview (бесплатно) реконструировали свободную поверхность и сделали красивый рендер в #VisualSPHysic (бесплатно, #opensource) для #Blender (бесплатно, #opensource).&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=HHb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=HHb&lt;/a&gt;…Media📼 LS-DYNA SPH: Flexible impeller pump simulation, Bl…&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://ift.tt/2xRdHGW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xRdHGW&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-08-bullet-constraints-builder/</guid>
+      <description>&lt;p&gt;Bullet Constraints Builder
+Финский Университет прикладных наук Лауреа принимает участие в финансируемом ЕС проекте под названием Inachus. Проект в целом рассматривает меры по улучшению первого реагирования в случае катастрофических событий, таких как землетрясения, взрывы и т.д.&lt;/p&gt;
+&lt;p&gt;Особой частью этого проекта является моделирование последствий катастрофических событий сооружений гражданского строительства. В рамках трехлетнего проекта Laurea исследует применение метода дискретных элементов #DEM для виртуального моделирования разрушающихся строительных конструкций. Подход DEM будет сравниваться с методом конечных элементов #FEM и методом прикладных элементов #AEM.&lt;/p&gt;
+&lt;p&gt;В рамках проекта разрабатывается движок - дополнение #Bullet в #Blender.  Дополнение позволит приписывать реалистичные прочностные свойства моделям.&lt;/p&gt;
+&lt;p&gt;#Kostack Studio &lt;a href=&#34;https://www.youtube.com/watch?v=eh3qUmNxC6E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=eh3qUmNxC6E&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=eh3qUmNxC6E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Blender Demolition - Case Study: World Trade Center (slowed down)&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Вот как надо оформлять консалтинг: британская компания Total</title>
-      <link>http://localhost:1313/posts/2015-09-14-vot-kak-nado-oformlyat-konsalting-brita/</link>
+      <title>Фотореалистичный рендеринг результатов расчетов в Blender</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-02-17-fotorealistichnyy-rendering-rezultatov-r/</link>
+      <pubDate>Mon, 17 Feb 2020 13:00:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-02-17-fotorealistichnyy-rendering-rezultatov-r/</guid>
+      <description>&lt;p&gt;Фотореалистичный рендеринг результатов расчетов в Blender&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/render-realistic-fea-simulations-in-blender/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Фотореалистичный рендеринг результатов расчетов в Blender - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Падение астероида в океан</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-06-padenie-asteroida-v-okean/</link>
+      <pubDate>Thu, 06 Dec 2018 17:01:39 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-06-padenie-asteroida-v-okean/</guid>
+      <description>&lt;p&gt;Падение астероида в океан
+Спецы из  Los Alamos при помощи вычислительного кода RAGE провели очень любопытный математический эксперимент. Они выполнили сравнительный анализ падения целого или фрагметированного в атмосфере астероида в океан.&lt;/p&gt;
+&lt;p&gt;Получились очень интересные данные и красивая визулизация. Материалы по теме:&lt;/p&gt;
+&lt;p&gt;Статья по мотивам исследования: https://sciviscontest2018.org/wp-content/uploads/sites/19/2017/09/DeepWaterImpactEnsembleDataSet_Revision1.pdf
+Описание кода RAGE: https://arxiv.org/abs/0804.1394&lt;/p&gt;
+&lt;p&gt;#Blender #HPC #Paraview #RAGE #XRage #САВ
+&lt;a href=&#34;http://bit.ly/2UlsUvX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2UlsUvX&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sciviscontest2018.org/wp-content/uploads/sites/19/2017/09/DeepWaterImpactEnsembleDataSet_Revision1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://sciviscontest2018.org/wp-content/uploads/sites/19/2017/09/DeepWaterImpactEnsembleDataSet_Revision1.pdf&lt;/a&gt;
+&lt;a href=&#34;https://arxiv.org/abs/0804.1394&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://arxiv.org/abs/0804.1394&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2UlsUvX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2UlsUvX&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Еще одно занимательное/залипательное видео на тему работы связки #LSDYNA #SPH -&gt; #Paraview -&gt; #Blender #VisualSPHysicsMedia📼 LS-DYNA SPH: Cohesive soil modeling, Blender visua…</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-11-esche-odno-zanimatelnoezalipatelnoe-vid/</link>
+      <pubDate>Wed, 11 Oct 2017 17:03:32 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-11-esche-odno-zanimatelnoezalipatelnoe-vid/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://ift.tt/2xzib4x&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xzib4x&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2wQeysc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wQeysc&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vlBJYZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlBJYZ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wPpnLb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wPpnLb&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xRSwEx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xRSwEx&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xzhZ5f&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xzhZ5f&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2ygHGLr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ygHGLr&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xzib4x&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xzib4x&lt;/a&gt;
+ttp://ift.tt/2xzib4x&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Использование #SPH для полноценных гидродинамических расчетов - это весьма спорная методика.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-08-ispolzovanie-sph-dlya-polnotsennyh-gidro/</link>
+      <pubDate>Fri, 08 Sep 2017 17:08:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-08-ispolzovanie-sph-dlya-polnotsennyh-gidro/</guid>
+      <description>&lt;p&gt;Однако тут видео пример не про это.&lt;/p&gt;
+&lt;p&gt;Коллеги из #LSTC посчитали простенькую #FSI задачу в #LSDYNA, а потом при помощи #Paraview (бесплатно) реконструировали свободную поверхность и сделали красивый рендер в #VisualSPHysic (бесплатно, #opensource) для #Blender (бесплатно, #opensource).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=HHb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=HHb&lt;/a&gt;…Media📼 LS-DYNA SPH: Flexible impeller pump simulation, Bl…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2xRdHGW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xRdHGW&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2wQeysc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wQeysc&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xRPO1U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xRPO1U&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wHTKG5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wHTKG5&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vlBJYZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlBJYZ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wPpnLb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wPpnLb&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xRCnyP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xRCnyP&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wPpoid&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wPpoid&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xRSwEx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xRSwEx&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wPpoid&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wPpoid&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=HHbZfzxeXGE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=HHbZfzxeXGE&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wP0yPo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wP0yPo&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xRdHGW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xRdHGW&lt;/a&gt;
+ttp://ift.tt/2xRdHGW&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DEM для создания эффектов</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-05-dem-dlya-sozdaniya-effektov/</link>
+      <pubDate>Wed, 05 Oct 2016 17:01:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-05-dem-dlya-sozdaniya-effektov/</guid>
+      <description>&lt;p&gt;DEM для создания эффектов
+&lt;a href=&#34;https://www.youtube.com/watch?v=_5QkPnPDcfc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=_5QkPnPDcfc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Оказывается, что для #Blender — свободного, профессионального пакета для создания трёхмерной компьютерной графики существует специальный модуль Molecular (&lt;a href=&#34;https://github.com/Pyroevil/Blender-Molecular-Script%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/Pyroevil/Blender-Molecular-Script)&lt;/a&gt;, для выполнения расчетов методами #DEM. Интересно, если можно прикрутить DEM к Blender, то можно ли прикрутить Blender в качестве постпроцессора для научных расчетов? Было бы очень полезно!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=_5QkPnPDcfc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Molecular addon beta teaser&lt;/a&gt;
+&lt;a href=&#34;https://github.com/Pyroevil/Blender-Molecular-Script&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/Pyroevil/Blender-Molecular-Script&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вот как надо оформлять консалтинг: британская компания TotalSim, специализирующаяся на расчетах в области CFD, промоделировала глиссирование небольшого катера при помощи OpenFOAM, а потом еще и сделала неплохую визуализацию в Bender.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-14-vot-kak-nado-oformlyat-konsalting-brita/</link>
       <pubDate>Mon, 14 Sep 2015 07:00:09 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-09-14-vot-kak-nado-oformlyat-konsalting-brita/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-14-vot-kak-nado-oformlyat-konsalting-brita/</guid>
+      <description>&lt;p&gt;Надо бы попробовать Blender к чему-нибудь моему прикрутить.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OH0l5CkY_aY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CFD simulation of a planing hull in OpenFOAM&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

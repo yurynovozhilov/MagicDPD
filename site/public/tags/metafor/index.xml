@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Metafor on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/metafor/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Metafor)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 02 Feb 2018 17:01:17 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/metafor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Знакомимся с METAFOR</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-02-znakomimsya-s-metafor/</link>
+      <pubDate>Fri, 02 Feb 2018 17:01:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-02-znakomimsya-s-metafor/</guid>
+      <description>&lt;p&gt;Знакомимся с METAFOR
+Сегодня у нас в меню Metafor - бесплатный решатель с открытым исходным кодом от Льежского университета (University of Liège).&lt;/p&gt;
+&lt;p&gt;Заявляется, что Metafor умеет много всего нужного для решения нелинейных задач механики:&lt;/p&gt;
+&lt;p&gt;2D/3D элементы с поддержкой больших деформаций&lt;/p&gt;
+&lt;p&gt;Implicit/explicit интегрирование по времени&lt;/p&gt;
+&lt;p&gt;Связка с тепловым решателем, элементы с механическими и тепловыми степенями свободы одновременно&lt;/p&gt;
+&lt;p&gt;Контакты с трением&lt;/p&gt;
+&lt;p&gt;Arbitrary Lagrangian Eulerian - наш любимый ALE&lt;/p&gt;
+&lt;p&gt;Динамические сетки&lt;/p&gt;
+&lt;p&gt;SPH
+И много еще чего полезного&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Весь это функционал отлично подходит для решения типичных explicit задач: обработка металлов давлением, нелинейная потеря устойчивости, FSI, пассивная безопасность транспорта, слошинг&lt;/p&gt;
+&lt;p&gt;Кроме того, у решателя есть свой канал на YouTube, где можно посмотреть на решаемые задачи.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ifBsRh_j6AI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ifBsRh_j6AI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nqxrvpCB6uU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nqxrvpCB6uU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=FU1FXO4C-1w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=FU1FXO4C-1w&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1rEJP7A6J6k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=1rEJP7A6J6k&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Вот сайт рашателя: &lt;a href=&#34;http://metafor.ltas.ulg.ac.be/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://metafor.ltas.ulg.ac.be/&lt;/a&gt;, а те, кто хотят попробовать проходят по этой ссылке: http://metafor.ltas.ulg.ac.be/dokuwiki/doc/user/start - документация и инструкции по установке, настройке и решению простейших задач.
+#ALE #Metafor #Open Source #SPH
+&lt;a href=&#34;https://magicdpd.ru/?p=6152&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6152&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ulg.ac.be/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ulg.ac.be/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=ifBsRh_j6AI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ifBsRh_j6AI&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=nqxrvpCB6uU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nqxrvpCB6uU&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=FU1FXO4C-1w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=FU1FXO4C-1w&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=1rEJP7A6J6k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=1rEJP7A6J6k&lt;/a&gt;
+&lt;a href=&#34;http://metafor.ltas.ulg.ac.be/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://metafor.ltas.ulg.ac.be/&lt;/a&gt;
+&lt;a href=&#34;http://metafor.ltas.ulg.ac.be/dokuwiki/doc/user/start&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://metafor.ltas.ulg.ac.be/dokuwiki/doc/user/start&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=6152&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6152&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

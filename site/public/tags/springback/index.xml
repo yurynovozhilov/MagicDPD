@@ -2,31 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Springback on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/springback/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/springback/</link>
     <description>MagicDPD: Magic Driven Product Development! (Springback)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 24 Mar 2016 12:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2018 17:00:33 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/springback/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/springback/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Видео урок по гибке/формовке металла в #ABAQUS с учетом пруж</title>
-      <link>http://localhost:1313/posts/2016-03-24-video-urok-po-gibkeformovke-metalla-v/</link>
-      <pubDate>Thu, 24 Mar 2016 12:00:31 +0000</pubDate>
+      <title>Глубокая вытяжка - урок</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-30-glubokaya-vytyazhka-urok/</link>
+      <pubDate>Tue, 30 Jan 2018 17:00:33 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-03-24-video-urok-po-gibkeformovke-metalla-v/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-30-glubokaya-vytyazhka-urok/</guid>
+      <description>&lt;p&gt;Глубокая вытяжка - урок
+Не полный, но очень полезный видео урок по моделированию процесса глубокой вытяжки в LS-DYNA. Полный стоит денег :(&lt;/p&gt;
+&lt;p&gt;Рассматриваемые особенности моделирования процесса:&lt;/p&gt;
+&lt;p&gt;Моделирования процесса в explicit постановке с автоматическим измельчением сетки
+Расчет обратного пружинения в implicit постановке с автоматическим загрублением сетки
+Создание 3D модели на основе результатов расчета оболочечной модели (а что, так можно было?!) и экспорт ее в CAD в виде IGES (уличная магия!).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OXc85azosr0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=OXc85azosr0&lt;/a&gt;
+#deepdrawing #forming #LS-DYNA #LS-PrePost #mesh_adaptation #springback
+&lt;a href=&#34;https://magicdpd.ru/?p=6108&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6108&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OXc85azosr0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=OXc85azosr0&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=6108&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6108&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Последнюю неделю я изучал штамповку, глубокую вытяжку и обра</title>
-      <link>http://localhost:1313/posts/2016-03-12-poslednyuyu-nedelyu-ya-izuchal-shtampovku-glu/</link>
+      <title>Видео урок по гибке/формовке металла в #ABAQUS с учетом пружинения.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-24-video-urok-po-gibkeformovke-metalla-v/</link>
+      <pubDate>Thu, 24 Mar 2016 12:00:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-24-video-urok-po-gibkeformovke-metalla-v/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=zNvkmzXAdqI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Manufacturing Simulation- Sheet metal Bending -Abaqus CAE-Implicit-Standard&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Последнюю неделю я изучал штамповку, глубокую вытяжку и обратное пружинение.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-12-poslednyuyu-nedelyu-ya-izuchal-shtampovku-glu/</link>
       <pubDate>Sat, 12 Mar 2016 09:05:57 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-03-12-poslednyuyu-nedelyu-ya-izuchal-shtampovku-glu/</guid>
-      <description>&lt;p&gt;P.S. Так как модель генерируется при помощи ACT, то она довольно грязная синтаксически, в ней есть много лишних карт. Зато она параметрическая w рамках Workbench (и по настройкам сетки, и по геометрическим размерам и по нагрузкам)!!!&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-12-poslednyuyu-nedelyu-ya-izuchal-shtampovku-glu/</guid>
+      <description>&lt;p&gt;Нашел очень много познавательных материалов, и, по итогам, сделал небольшой пример при помощи моего любимого #ACT #Workbech LS-DYNA. На сайте поддержки и примеров #LSTC я не нашел готовых материалов по глубокой вытяжки с бесшовным расчетом обратного пружиненная по неявной схеме, так что прилагаю настроенную мной модель в архиве.&lt;/p&gt;
+&lt;p&gt;P.S. Так как модель генерируется при помощи ACT, то она довольно грязная синтаксически, в ней есть много лишних карт. Зато она параметрическая w рамках Workbench (и по настройкам сетки, и по геометрическим размерам и по нагрузкам)!!!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=pSghB4R4gF0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Deep Drawing with Seamless Implicit Springback&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

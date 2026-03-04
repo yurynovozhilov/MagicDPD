@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GPGU on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/gpgu/</link>
+    <description>MagicDPD: Magic Driven Product Development! (GPGU)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 27 Nov 2017 17:08:07 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/gpgu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ускорение #ANSYS #Fluent при помощи #GPGU #NVIDIA возможно, и даже очень полезно!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-27-uskorenie-ansys-fluent-pri-pomoschi-gpg/</link>
+      <pubDate>Mon, 27 Nov 2017 17:08:07 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-27-uskorenie-ansys-fluent-pri-pomoschi-gpg/</guid>
+      <description>&lt;p&gt;Как показывают тесты NVIDIA, на одном и том-же пуле лицензии главный #CFD решатель ANSYS может ускориться почти в 4 раза за счет подключения нескольких #Tesla P100. И сейчас мы говорим не про супер компьютер, а про обычный сервер на 32 ядра.&lt;/p&gt;
+&lt;p&gt;Что бы добиться такого же ускорения просто на процессорах вам потребуется уже 4 сервера соединенных по #Infiniband, коммутатор Infiniband, управляющий софт для получившегося кластера и дополнительные лицензий ANSYS на #HPC.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2ACZNhd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ACZNhd&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Хотите собрать сбалансированный вычислительный сервер под расчеты в ANSYS - читайте документацию 😊MediaMedia💾 ANSYS18.2_tech.pdf🔗 Ansys Fluent GPU Acceleration | NVIDIA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;https://www.nvidia.com/en-us/data-center/gpu-accelerated-applications/ansys-fluent/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.nvidia.com/en-us/data-center/gpu-accelerated-applications/ansys-fluent/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

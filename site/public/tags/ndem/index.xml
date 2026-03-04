@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NDEM on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/ndem/</link>
+    <description>MagicDPD: Magic Driven Product Development! (NDEM)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sat, 15 Apr 2017 08:00:38 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/ndem/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Расчет дробления DEM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-15-raschet-drobleniya-dem/</link>
+      <pubDate>Sat, 15 Apr 2017 08:00:38 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-15-raschet-drobleniya-dem/</guid>
+      <description>&lt;p&gt;Расчет дробления DEM
+&lt;a href=&#34;http://umit.math.umu.se/project/granureg/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://umit.math.umu.se/project/granureg/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Пример тестового расчета дробления #NDEM  (nonsmooth discrete element method) выполненный в #AGX Dynamics и #Voro++ специалистами UMIT Research Lab. У них, между прочим, очень интересный сайт (&lt;a href=&#34;http://umit.math.umu.se/project/granureg/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://umit.math.umu.se/project/granureg/&lt;/a&gt;) с еще одним #DEM кодом #GranuX.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=vAyMeuLii2g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=vAyMeuLii2g&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=lSHx1UI_hnA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=lSHx1UI_hnA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://umit.math.umu.se/project/granureg/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://umit.math.umu.se/project/granureg/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=vAyMeuLii2g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=vAyMeuLii2g&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=lSHx1UI_hnA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=lSHx1UI_hnA&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AGX Dynamics для частиц</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-16-agx-dynamics-dlya-chastits/</link>
+      <pubDate>Fri, 16 Dec 2016 17:00:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-16-agx-dynamics-dlya-chastits/</guid>
+      <description>&lt;p&gt;AGX Dynamics для частиц
+&lt;a href=&#34;https://www.youtube.com/watch?v=7OA-54FNYVQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=7OA-54FNYVQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Algoryx - разработчик Dynamics for #SpaceClaim выкатил новые фишки своего ПО&lt;/p&gt;
+&lt;p&gt;Из решатель #AGX Dynamics, который является сердцем Dynamics for #SpaceClaim - системы для расчета твердотельной динамики (#RBD) - теперь умеет решать задачи в #DEM постановке. При этом, используется не сферические частицы (привет #LSDYNA) и их кластеры (привет #EDEM), а частицы произвольной формы (привет #Rocky). Такую постановку метода дискретных элементов разработчики окрестили #NDEM (non-smooth discrete element methods). И это все помимо возможности моделировать поведение кабелей и тросов.&lt;/p&gt;
+&lt;p&gt;#AGX Dynamics уже сейчас умеет моделировать конвейерные системы, взаимодействие с твердыми телами, слипание частиц. Разрушения частиц нет, использования #GPU тоже пока нет. Но я думаю, что все это скоро будет.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=7OA-54FNYVQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=7OA-54FNYVQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=7OA-54FNYVQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Granular simulation in AGX Dynamics - Overview&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

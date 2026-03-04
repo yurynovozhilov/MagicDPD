@@ -2,36 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Optics on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/optics/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/optics/</link>
     <description>MagicDPD: Magic Driven Product Development! (Optics)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 26 Sep 2019 13:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Sep 2021 13:01:28 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/optics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/optics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Ansys приобретает Zemax</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-09-ansys-priobretaet-zemax/</link>
+      <pubDate>Thu, 09 Sep 2021 13:01:28 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-09-ansys-priobretaet-zemax/</guid>
+      <description>&lt;p&gt;Ansys приобретает Zemax&lt;/p&gt;
+&lt;p&gt;Ansys пошел в геометрическую оптику! 30 августа 2021 года было объявлено о заключении окончательного соглашения о приобретении компании Zemax, LLC, лидера в области моделирования высокопроизводительных оптических систем формирования изображений.  Программное обеспечение Zemax для проектирования оптических систем более 30 лет помогает компаниям быстрее получить качественные результаты, оптимизируя рабочий процесс и коммуникацию между оптическими, механическими и производственными инженерами. Основными инструментами разрабатываемыми Zemax являются OpticStudio, OpticsBuilder и OpticsViewer.&lt;/p&gt;
+&lt;p&gt;OpticStudio – является стандартом для проектирования оптических, осветительных и лазерных систем в университетах по всему миру и в ведущих компаниях оптической промышленности.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=2W5yvsi9f7Q&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=2W5yvsi9f7Q&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Основной задачей OpticsBuilder являете преобразование созданных в OpticStudio проектов, включающих данные о положении и геометрии линз и источников света, параметры материалов и источников излучения, в CAD формат. Ну а OpticsViewer позволяет просматривать получаемые проекты на производстве. Источник: &lt;a href=&#34;https://cadfem-cis.ru/list/article/ansys-priobretaet-razrabotchika-po-dlja-opticheskogo-modelirovanija-zemax/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://cadfem-cis.ru/list/article/ansys-priobretaet-razrabotchika-po-dlja-opticheskogo-modelirovanija-zemax/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #optics #zemax
+&lt;a href=&#34;https://tinyurl.com/yz8hb5nw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yz8hb5nw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=2W5yvsi9f7Q&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Zemax OpticStudio - Everything you need to design optical systems!&lt;/a&gt;
+&lt;a href=&#34;https://cadfem-cis.ru/list/article/ansys-priobretaet-razrabotchika-po-dlja-opticheskogo-modelirovanija-zemax/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://cadfem-cis.ru/list/article/ansys-priobretaet-razrabotchika-po-dlja-opticheskogo-modelirovanija-zemax/&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yz8hb5nw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yz8hb5nw&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>ANSYS SPEOS Live — моделирование оптики в реальном времени</title>
-      <link>http://localhost:1313/posts/2019-09-26-ansys-speos-live-modelirovanie-optiki/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-26-ansys-speos-live-modelirovanie-optiki/</link>
       <pubDate>Thu, 26 Sep 2019 13:00:23 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-09-26-ansys-speos-live-modelirovanie-optiki/</guid>
-      <description>&lt;p&gt;ANSYS SPEOS — это у нас софт для расчета оптики. Про него есть несколько видеоуроков — смотрите хештеги в данном паблике. А у SPEOS есть еще такая фишка, как ANSYS SPEOS Live. Это уже система, позволяющая делать рендеринг в реальном времени на видеокартах NVIDIA и на основе точных математических и физических законов. И про нее есть отличное техническое демо от ARRK в блоге ANSYS: &lt;a href=&#34;https://www.ansys.com/blog/optimize-optical-designs-using-real-time-simulation&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/blog/optimize-optical-designs-using-real-time-simulation&lt;/a&gt; — там еще и видеодемонстрация есть.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-26-ansys-speos-live-modelirovanie-optiki/</guid>
+      <description>&lt;p&gt;ANSYS SPEOS Live — моделирование оптики в реальном времени
+ANSYS SPEOS — это у нас софт для расчета оптики. Про него есть несколько видеоуроков — смотрите хештеги в данном паблике. А у SPEOS есть еще такая фишка, как ANSYS SPEOS Live. Это уже система, позволяющая делать рендеринг в реальном времени на видеокартах NVIDIA и на основе точных математических и физических законов. И про нее есть отличное техническое демо от ARRK в блоге ANSYS: &lt;a href=&#34;https://www.ansys.com/blog/optimize-optical-designs-using-real-time-simulation&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/blog/optimize-optical-designs-using-real-time-simulation&lt;/a&gt; — там еще и видеодемонстрация есть.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys.com/blog/optimize-optical-designs-using-real-time-simulation&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/blog/optimize-optical-designs-using-real-time-simulation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS SPEOS — что ты такое</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-27-ansys-speos-chto-ty-takoe/</link>
+      <pubDate>Tue, 27 Aug 2019 13:00:33 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-27-ansys-speos-chto-ty-takoe/</guid>
+      <description>&lt;p&gt;ANSYS SPEOS — что ты такое&lt;/p&gt;
+&lt;p&gt;Первое, на моей памяти, видео с демонстрацией работы ANSYS SPEOS (спасибо Singularity Engineering LLC). Система расчета оптики SPEOS досталась ANSYS с покупкой компании Optis еще в прошлом году. Она вcтраивается как в большинство CAD систем, так и в родной SpaceClaim, и находит себе применение в очень большом классе задач (подробнее тут на русском &lt;a href=&#34;https://www.cadfem-cis.ru/products/ansys/systems/speos/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/products/ansys/systems/speos/&lt;/a&gt;, а тут на английском: &lt;a href=&#34;https://www.ansys.com/products/optical/ansys-speos&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/products/optical/ansys-speos&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;#ANSYS #Optics #SpaceClaim #SPEOS&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2EL&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2EL&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cadfem-cis.ru/products/ansys/systems/speos/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/products/ansys/systems/speos/&lt;/a&gt;
+&lt;a href=&#34;https://www.ansys.com/products/optical/ansys-speos&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/products/optical/ansys-speos&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2EL&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2EL&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>RayLab - расчеты геометрической оптики в iOS</title>
-      <link>http://localhost:1313/posts/2018-12-29-raylab-raschety-geometricheskoy-optiki-v/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-29-raylab-raschety-geometricheskoy-optiki-v/</link>
       <pubDate>Sat, 29 Dec 2018 17:00:29 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-12-29-raylab-raschety-geometricheskoy-optiki-v/</guid>
-      <description>&lt;p&gt;Очередное серьезное CAE приложение для iPhone/iPad позволяющее выполнять расчеты геометрической оптики. Впервые 7 дней сипоьзования - бесплатно. В составе есть много готовых примеров расчетов.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-29-raylab-raschety-geometricheskoy-optiki-v/</guid>
+      <description>&lt;p&gt;RayLab - расчеты геометрической оптики в iOS&lt;/p&gt;
+&lt;p&gt;Очередное серьезное CAE приложение для iPhone/iPad позволяющее выполнять расчеты геометрической оптики. Впервые 7 дней сипоьзования - бесплатно. В составе есть много готовых примеров расчетов.&lt;/p&gt;
 &lt;p&gt;О том, что приложение - не игрушка говорит и наличие расшиенного каталога производетелей оптических стекол и работа в связке с Zemax.&lt;/p&gt;
 &lt;p&gt;Ссылка на само приложение: https://itunes.apple.com/ru/app/raylab/id710190065?mt=8&lt;/p&gt;
 &lt;p&gt;#IOS #Optics #RayLab #Zemax
 &lt;a href=&#34;http://bit.ly/2QexhG0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2QexhG0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/ru/app/raylab/id710190065?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;‎RayLab&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2QexhG0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2QexhG0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Зачем ANSYS купил OPTIS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-04-zachem-ansys-kupil-optis/</link>
+      <pubDate>Fri, 04 May 2018 18:00:30 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-04-zachem-ansys-kupil-optis/</guid>
+      <description>&lt;p&gt;Зачем ANSYS купил OPTIS&lt;/p&gt;
+&lt;p&gt;В начале этого года ANSYS приобрел одного из лидеров рынка расчетов оптики — компанию Optis. И сделал он это, как кажется, не только для расчетов геометрической оптики. По всей видимости ANSYS тоже хочет кусок пирога под названием self driving car и еще computer vision. Ну что ж, пожелаем им удачи, а нам&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;скидок.
+#ANSYS #Computer vizion #Optics #Self driving car&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Pi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Pi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Pi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Pi&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Я и не знал, что #Comsol умеет считать геометрическую оптику (решатель Ray #Optics Module). А тем временем, в новой версии решателя появилась возможность рассчитывать прохождение лучей через домен даже без построения в на нем сетки!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-28-ya-i-ne-znal-chto-comsol-umeet-schitat-g/</link>
+      <pubDate>Tue, 28 Jun 2016 07:01:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-28-ya-i-ne-znal-chto-comsol-umeet-schitat-g/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.comsol.com/blogs/use-the-ray-tracing-algorithm-in-comsol-multiphysics-5-2a/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Use the Ray Tracing Algorithm in COMSOL Multiphysics® 5.2a&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

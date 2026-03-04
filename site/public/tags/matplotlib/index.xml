@@ -2,23 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matplotlib on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/matplotlib/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/matplotlib/</link>
     <description>MagicDPD: Magic Driven Product Development! (Matplotlib)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 10 Jun 2022 18:00:01 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/matplotlib/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/matplotlib/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Любите ли вы делать визуализацию научных и инженерных данных</title>
-      <link>http://localhost:1313/posts/2022-06-10-lyubite-li-vy-delat-vizualizatsiyu-nauchnyh/</link>
+      <title>Любите ли вы делать визуализацию научных и инженерных данных красивой и понятной?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-06-10-lyubite-li-vy-delat-vizualizatsiyu-nauchnyh/</link>
       <pubDate>Fri, 10 Jun 2022 18:00:01 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-06-10-lyubite-li-vy-delat-vizualizatsiyu-nauchnyh/</guid>
-      <description>&lt;p&gt;Предлагаю вашему вниманию книгу &amp;ldquo;Scientific Visualization: Python + Matplotlib,&amp;rdquo; которая доступна в рамках open access. А приятным дополнением книге является репозиторий ее автора на GitHub, где можно посмотреть все примеры.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-06-10-lyubite-li-vy-delat-vizualizatsiyu-nauchnyh/</guid>
+      <description>&lt;p&gt;Тогда вам пригодится моя сегодняшняя находка.&lt;/p&gt;
+&lt;p&gt;Предлагаю вашему вниманию книгу &amp;ldquo;Scientific Visualization: Python + Matplotlib,&amp;rdquo; которая доступна в рамках open access. А приятным дополнением книге является репозиторий ее автора на GitHub, где можно посмотреть все примеры.&lt;/p&gt;
 &lt;p&gt;#opensource #python #Matplotlib &lt;a href=&#34;https://github.com/rougier/scientific-visualization-book&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/rougier/scientific-visualization-book&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/rougier/scientific-visualization-book&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/rougier/scientific-visualization-book&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Немного аналитических выкладок в SciPy</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-24-nemnogo-analiticheskih-vykladok-v-scipy/</link>
+      <pubDate>Sat, 24 Dec 2016 17:01:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-24-nemnogo-analiticheskih-vykladok-v-scipy/</guid>
+      <description>&lt;p&gt;Немного аналитических выкладок в SciPy
+&lt;a href=&#34;http://www.scipy-lectures.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.scipy-lectures.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;У могучего и популярного языка программирования #Python уже давно существует фреймворк #SciPy позволяющий бесплатно делать очень многое для научных расчетов, для чего раньше использовали дорогие и громоздкие #Matlab, #Mathematica или #Maple.&lt;/p&gt;
+&lt;p&gt;Но как любой продукт того класса, SciPy надо изучать, а для этого нужно хорошее учебное пособие. Для изучения SciPy мне приглянулся сайт-учебныик &lt;a href=&#34;http://www.scipy-lectures.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.scipy-lectures.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;На сайте расскажут про такие модули/библиотека, как:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#NumPy&lt;/li&gt;
+&lt;li&gt;#Matplotlib&lt;/li&gt;
+&lt;li&gt;#CPython&lt;/li&gt;
+&lt;li&gt;#SymPy&lt;/li&gt;
+&lt;li&gt;#Mayavi&lt;/li&gt;
+&lt;li&gt;и многое другое.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;P.S. Весь сайт можно скачать в виде PDF, есть учебные пример, есть репозиторий на #GitHub&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://scipy-lectures.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://scipy-lectures.org/&lt;/a&gt;
+&lt;a href=&#34;http://www.scipy-lectures.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.scipy-lectures.org/&lt;/a&gt;
+&lt;a href=&#34;http://www.scipy-lectures.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.scipy-lectures.org&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

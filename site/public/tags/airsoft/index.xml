@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Airsoft on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/airsoft/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Airsoft)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sun, 19 Nov 2017 08:30:14 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/airsoft/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#science #solidworks #cae #ansys #airsoft #combat_union #airsoft_gear</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-19-science-solidworks-cae-ansys-airsof/</link>
+      <pubDate>Sun, 19 Nov 2017 08:30:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-19-science-solidworks-cae-ansys-airsof/</guid>
+      <description>&lt;p&gt;Газодинамический расчет работы ЦПГ. Часть I&lt;/p&gt;
+&lt;p&gt;Целью данного поста является освещение широкому кругу читателей вопросов работы ЦПГ AEG с точки зрения газодинамики. На примере отдельного расчетного случая (стендовый образец предоставлен Combat Union Страйкбольная мастерская ), с дульной энергией ~3Дж (2.97 Дж).&lt;/p&gt;
+&lt;p&gt;Для начала рассмотрим энергетическую установку - пружину (Рис. 1). Пружина, согласно паспортным данным завода-изготовителя, с сжатии &amp;ldquo;состояние покоя - максимальное сжатие в гирбоксе&amp;rdquo; запасает в себе 12.6 Дж. Из этого значения следует отнять энергию, запасенную в пружине, сжатой до состояния покоя в гирбоксе (речь идет о усилии, прилагаемом при установке пружины в гирбокс, а значит о работе и затраченной энергии).
+С учетом потерь на трение со стенками цилиндра и связанными тепловыми потерями - используемая энергия - 8,2 Дж. Это наши 100%, из которых на выходе получаем 3 Дж. Вывод №1: КПД страйкбольного привода не превышает 40%. (в большинстве случаев).&lt;/p&gt;
+&lt;p&gt;Поршень, срываясь со своей нулевой позиции, начинает ускорятся. Применяя достаточно простые уравнения Ньютоновской механики и закон Гука, получаем максимальное ускорение и скорость поршня, а так же функцию &amp;ldquo;скорость-пройденный путь&amp;rdquo; и функцию &amp;ldquo;скорость-время&amp;rdquo; (Рис. 2)&lt;/p&gt;
+&lt;p&gt;В ходе численного моделирования (с применением пакетов вычислительной газодинамики, ANSYS Fluent) было получено нестационарное (переменное по времени) распределение всех ключевых термодинамических параметров. (Рис. 3-5)&lt;/p&gt;
+&lt;p&gt;На рис. 5, показывающем сечение сопла головы цилиндра (стандартное решение) видно, что зона, в которой интенсивность турбулентности (показатель пульсации/неоднородности потока) меньше 5% составляет 2,341 мм2. Эта площадь, приведенная к общей площади канала сопла (15,904 мм2), является достаточным показателем степени однородности потока&lt;/p&gt;
+&lt;p&gt;Выводы:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;КПД AEG не превышет, в большинстве случаев, 40% (больше - лучше)&lt;/li&gt;
+&lt;li&gt;Коэффициент однородности потока, составляет 0,147 (больше - лучше)MediaMediaMediaMediaMedia&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2hCxljR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hCxljR&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2zPXmX8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zPXmX8&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2hCh0vu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hCh0vu&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zPXnua&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zPXnua&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2hlBRTr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hlBRTr&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zRlqsK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zRlqsK&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2hCsYoI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hCsYoI&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zPXoye&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zPXoye&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2hCnVVm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hCnVVm&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zPXpCi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zPXpCi&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2hDOgTf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hDOgTf&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zPXqGm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zPXqGm&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2hCh1Q4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hCh1Q4&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zRluJ0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zRluJ0&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2hCxljR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hCxljR&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

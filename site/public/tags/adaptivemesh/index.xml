@@ -2,23 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adaptivemesh on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/adaptivemesh/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/adaptivemesh/</link>
     <description>MagicDPD: Magic Driven Product Development! (Adaptivemesh)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 27 Nov 2015 18:00:05 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/adaptivemesh/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/adaptivemesh/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Читал лекции по штамповке и освоил одни старый трюк. Адаптив</title>
-      <link>http://localhost:1313/posts/2015-11-27-chital-lektsii-po-shtampovke-i-osvoil-odni/</link>
+      <title>Читал лекции по штамповке и освоил одни старый трюк.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-27-chital-lektsii-po-shtampovke-i-osvoil-odni/</link>
       <pubDate>Fri, 27 Nov 2015 18:00:05 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-27-chital-lektsii-po-shtampovke-i-osvoil-odni/</guid>
-      <description>&lt;p&gt;Настройка адаптивной сетки для оболочек работает прямо из GUI от Workbech LS-DYNA ACT!&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-27-chital-lektsii-po-shtampovke-i-osvoil-odni/</guid>
+      <description>&lt;p&gt;Адаптивная сетка для оболочечных элементов есть в LS-DYNA с незапамятных времен. И работает функция хорошо: треугольные элементы переводит в треугольные, а четырехугольные - в четырехугольные соответственно. Однако не стоит забывать, что для работы такой фишки вам потребуется правильная настройка динамического выделения памяти.&lt;/p&gt;
+&lt;p&gt;Настройка адаптивной сетки для оболочек работает прямо из GUI от Workbech LS-DYNA ACT!&lt;/p&gt;
 &lt;p&gt;#LSDYNA #adaptivemesh #mesh #ACT.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=mREpp3I0N-U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Pipe buckling under axial load with adaptive meshing&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -2,92 +2,158 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peridynamics on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/peridynamics/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/peridynamics/</link>
     <description>MagicDPD: Magic Driven Product Development! (Peridynamics)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 13 Oct 2021 13:02:22 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/peridynamics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/peridynamics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Возможности решателей Ansys в области теории разрушения</title>
-      <link>http://localhost:1313/posts/2021-10-13-vozmozhnosti-reshateley-ansys-v-oblasti-te/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-10-13-vozmozhnosti-reshateley-ansys-v-oblasti-te/</link>
       <pubDate>Wed, 13 Oct 2021 13:02:22 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-10-13-vozmozhnosti-reshateley-ansys-v-oblasti-te/</guid>
-      <description>&lt;p&gt;Коллеги, почему-то даже у меня, когда речь заходит о моделировании роста трещин, не всегда первым вспоминается Ansys Mechanical. Для того, что бы устранить такие ошибки в восприятии я подготовил ликбез вебинар, в котором собрал обзор всех технологий механических решателей Ansys в области моделирования линейного и нелинейного разрушения.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-10-13-vozmozhnosti-reshateley-ansys-v-oblasti-te/</guid>
+      <description>&lt;p&gt;Возможности решателей Ansys в области теории разрушения&lt;/p&gt;
+&lt;p&gt;Коллеги, почему-то даже у меня, когда речь заходит о моделировании роста трещин, не всегда первым вспоминается Ansys Mechanical. Для того, что бы устранить такие ошибки в восприятии я подготовил ликбез вебинар, в котором собрал обзор всех технологий механических решателей Ansys в области моделирования линейного и нелинейного разрушения.&lt;/p&gt;
 &lt;p&gt;Вебинар я постарался сделать максимально отвязанным от конкретных версий ПО, и если у вас версия Ansys не старее 3-х лет, то вам будет особенно интересно. Ну и не обошлось без моей любимой LS-DYNA, которая тоже может в рост трещин, но уже за рамками линейной теории разрушения.&lt;/p&gt;
 &lt;p&gt;Таким образом, слушателей будет ожидать порядка 70 подготовленный мной с нуля слайдов с материалами, и проработанная структура доклада, что позволит организовать интересное повествование и не порвать мозг формулами.&lt;/p&gt;
 &lt;p&gt;Ссылка не регистрацию (надо учесть, что за пару часов до мероприятия регистрация на него закроется): &lt;a href=&#34;https://cadfem-cis.ru/event/vozmozhnosti-reshatelej-ansys-pri-reshenii-zadach-teorii-razrushenija/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://cadfem-cis.ru/event/vozmozhnosti-reshatelej-ansys-pri-reshenii-zadach-teorii-razrushenija/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ansys #apdl #cadfem #czm #fracture #lsdyna #peridynamics #smart_fracture #spg #vcct #xfem
 &lt;a href=&#34;https://tinyurl.com/yjh5v85t&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yjh5v85t&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cadfem-cis.ru/event/vozmozhnosti-reshatelej-ansys-pri-reshenii-zadach-teorii-razrushenija/?utm_source=sg&amp;amp;utm_medium=email&amp;amp;utm_campaign=web-15-10-21&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Возможности решателей Ansys при решении задач теории разрушения&lt;/a&gt;
+&lt;a href=&#34;https://cadfem-cis.ru/event/vozmozhnosti-reshatelej-ansys-pri-reshenii-zadach-teorii-razrushenija/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://cadfem-cis.ru/event/vozmozhnosti-reshatelej-ansys-pri-reshenii-zadach-teorii-razrushenija/&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yjh5v85t&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yjh5v85t&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Нелокальность в перидинамике</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-10-20-nelokalnost-v-peridinamike/</link>
+      <pubDate>Tue, 20 Oct 2020 15:22:36 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-10-20-nelokalnost-v-peridinamike/</guid>
+      <description>&lt;p&gt;Нелокальность в перидинамике
+#nonlocal #peridynamics
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/nonlocality-in-peridynamics/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Нелокальность в перидинамике - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Что такое перидинамика</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-08-07-chto-takoe-peridinamika/</link>
+      <pubDate>Fri, 07 Aug 2020 13:00:32 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-08-07-chto-takoe-peridinamika/</guid>
+      <description>&lt;p&gt;Что такое перидинамика&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/what-is-peridynamics/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Что такое перидинамика - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Хрупкое разрушение</title>
-      <link>http://localhost:1313/posts/2019-02-08-hrupkoe-razrushenie/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-08-hrupkoe-razrushenie/</link>
       <pubDate>Fri, 08 Feb 2019 04:38:07 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-02-08-hrupkoe-razrushenie/</guid>
-      <description>&lt;p&gt;Тут у меня коллеги интересовались моделированием хрупкого разрушения материалов в #LSDYNA. Самым передовым и многообещающим методом расчета такого разрушения и трещенообразования является перидинамика (&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Перидинамика)
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-08-hrupkoe-razrushenie/</guid>
+      <description>&lt;p&gt;Хрупкое разрушение&lt;/p&gt;
+&lt;p&gt;Тут у меня коллеги интересовались моделированием хрупкого разрушения материалов в #LSDYNA. Самым передовым и многообещающим методом расчета такого разрушения и трещенообразования является перидинамика (&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Перидинамика)
 Так вот, я поскреб по сусекам, посмотрел, что у меня есть в волшебном хранилище знаний, и нашел отличную ссылку на репозиторий господина Cheng-Tang Wu (одного из главных разработчиков #LSTC в этом направлении), где он выкладываем свой учебный курс по бессрочным методам (корме перидинамики есть еще #EFG и #SPG).
 Внимание, в составе данного учебного курса есть работающие примеры со всем перечисленными бессрочными методами расчета разрушения!
 #meshless #peridynamics #AdaptiveEFG
 P.S. Насколько я понял, ключевые карты SECTION_SOLID_PERI и MAT_ELASTIC_PERI пока реализованы только в beta версиях решателя поколения R10.
 &lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Index of /anonymous/outgoing/whu/Class&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Перидинамика
+&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Вернемся к перидинамике. Уже сейчас заинтересованные пользов</title>
-      <link>http://localhost:1313/posts/2019-02-08-vernemsya-k-peridinamike-uzhe-seychas-zain/</link>
+      <title>Вернемся к перидинамике.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-08-vernemsya-k-peridinamike-uzhe-seychas-zain/</link>
       <pubDate>Fri, 08 Feb 2019 04:35:29 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-02-08-vernemsya-k-peridinamike-uzhe-seychas-zain/</guid>
-      <description>&lt;p&gt;А еще там будет много вкусностей про Smoothed Particle Galerkin (#SPG) для пластического разрушения.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-08-vernemsya-k-peridinamike-uzhe-seychas-zain/</guid>
+      <description>&lt;p&gt;Уже сейчас заинтересованные пользователи могут запросить у #LSTC новейшую beta версию LS-DYNA способную работать в данной постановке механики сплошной среды. Очень хочется опробовать данный метод для хрупкого разрушения.
+А еще там будет много вкусностей про Smoothed Particle Galerkin (#SPG) для пластического разрушения.
 #peridynamics #lsdyna&lt;/p&gt;
 &lt;p&gt;Файл Recent Development of Advanced FEM and Meshfree Methods in LS-DYNA for Solid and Structural Analyses.pdf
 Файл Implementation of Peridynamic Theory to LS-DYNA for Prediction of Crack Propagation in a Composite Lamina.pdf&lt;/p&gt;
 &lt;p&gt;#LS_DYNA #LSTC #peridynamics #SPG&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-5356&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-5356&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-5356&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-5356&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Тут у меня коллеги интересовались моделированием хрупкого ра</title>
-      <link>http://localhost:1313/posts/2017-11-09-tut-u-menya-kollegi-interesovalis-modeli/</link>
+      <title>Что новенького</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-09-19-chto-novenkogo/</link>
+      <pubDate>Wed, 19 Sep 2018 17:02:09 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-09-19-chto-novenkogo/</guid>
+      <description>&lt;p&gt;Что новенького
+Коллеги, я наконец вернулся из отпуска и даже справился с завалом на рабочем месте. Для возобновления публикаций у меня есть очень вкусный материал, который конечно стал для меня главным событием за последние 3 недели.
+Итак, по ссылке в конце поста вы сможете скачать презентацию от LSTC и ARUP не только по всем новым возможностям LS-DYNA R10, но и по грядущим разработкам R11. Внимание, презентация на 155 слайдов с кучей видео и анимации имеет объем почти 900 Мб (!!!). Но оно того стоит:&lt;/p&gt;
+&lt;p&gt;Моделирование электрической стимуляции сердца
+SPH сварка трением с перемешиванием
+Новые возможности LS-PrePost 4.6 для CFD
+Обновление возможностей в расчете неявной динамики со сложными контактами
+Изогеометрический анализ
+Бессеточные методы расчета хрупкого и пластического разрушения
+Нелинейная теория роста трещин
+Моделирование композитов с учетом взаимодействия всех волокон в матрице
+Оптимизация LS-Opt 6 в связке с ANSA
+Аддитивные технологии&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/jason/Slides/2018_LSTC_Keynote_20.pptx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/jason/Slides/2018_LSTC_Keynote_20.pptx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ARUP #Composite #LSDYNA #LSOPT #LSPrePost #LSTC #Peridynamics #SPH
+&lt;a href=&#34;http://bit.ly/2NmqMnQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NmqMnQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/jason/Slides/2018_LSTC_Keynote_20.pptx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/jason/Slides/2018_LSTC_Keynote_20.pptx&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2NmqMnQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NmqMnQ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Тут у меня коллеги интересовались моделированием хрупкого разрушения материалов в #LSDYNA.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-09-tut-u-menya-kollegi-interesovalis-modeli/</link>
       <pubDate>Thu, 09 Nov 2017 17:09:22 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-09-tut-u-menya-kollegi-interesovalis-modeli/</guid>
-      <description>&lt;p&gt;Так вот, я поскреб по сусекам, посмотрел, что у меня есть в волшебном хранилище знаний, и нашел отличную ссылку на репозиторий господина Cheng-Tang Wu (одного из главных разработчиков #LSTC в этом направлении), где он выкладываем свой учебный курс по бессрочным методам (корме перидинамики есть еще #EFG и #SPG).&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-09-tut-u-menya-kollegi-interesovalis-modeli/</guid>
+      <description>&lt;p&gt;Самым передовым и многообещающим методом расчета такого разрушения и трещенообразования является перидинамика (&lt;a href=&#34;http://ift.tt/2zu9ye7&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zu9ye7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Так вот, я поскреб по сусекам, посмотрел, что у меня есть в волшебном хранилище знаний, и нашел отличную ссылку на репозиторий господина Cheng-Tang Wu (одного из главных разработчиков #LSTC в этом направлении), где он выкладываем свой учебный курс по бессрочным методам (корме перидинамики есть еще #EFG и #SPG).&lt;/p&gt;
 &lt;p&gt;Внимание, в составе данного учебного курса есть работающие примеры со всем перечисленными бессрочными методами расчета разрушения!&lt;/p&gt;
 &lt;p&gt;#meshless #peridynamics #AdaptiveEFG&lt;/p&gt;
 &lt;p&gt;P.S. Насколько я понял, ключевые карты SECTION_SOLID_PERI и MAT_ELASTIC_PERI пока реализованы только в beta версиях решателя поколения R10.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&lt;/a&gt; 🔗 Index of /anonymous/outgoing/whu/Class&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vlBJYZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlBJYZ&lt;/a&gt;
+&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Вернемся к перидинамике. Уже сейчас заинтересованные пользов</title>
-      <link>http://localhost:1313/posts/2015-12-13-vernemsya-k-peridinamike-uzhe-seychas-zain/</link>
+      <title>Вернемся к перидинамике.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-13-vernemsya-k-peridinamike-uzhe-seychas-zain/</link>
       <pubDate>Sun, 13 Dec 2015 18:01:09 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-12-13-vernemsya-k-peridinamike-uzhe-seychas-zain/</guid>
-      <description>&lt;p&gt;А еще там будет много вкусностей про Smoothed Particle Galerkin (#SPG) для пластического разрушения.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-13-vernemsya-k-peridinamike-uzhe-seychas-zain/</guid>
+      <description>&lt;p&gt;Уже сейчас заинтересованные пользователи могут запросить у #LSTC новейшую beta версию LS-DYNA способную работать в данной постановке механики сплошной среды. Очень хочется опробовать данный метод для хрупкого разрушения.&lt;/p&gt;
+&lt;p&gt;А еще там будет много вкусностей про Smoothed Particle Galerkin (#SPG) для пластического разрушения.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Новое слово в моем словаре: перидинамика или peridynamics. К</title>
-      <link>http://localhost:1313/posts/2015-12-12-novoe-slovo-v-moem-slovare-peridinamika/</link>
+      <title>Новое слово в моем словаре: перидинамика или peridynamics.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-12-novoe-slovo-v-moem-slovare-peridinamika/</link>
       <pubDate>Sat, 12 Dec 2015 18:01:12 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-12-12-novoe-slovo-v-moem-slovare-peridinamika/</guid>
-      <description>&lt;p&gt;Зачем мне это слово и кто мне его рассказал вы узнаете завтра 😊&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-12-novoe-slovo-v-moem-slovare-peridinamika/</guid>
+      <description>&lt;p&gt;Как говорит вика, это формулировка механики сплошных сред которая ориентированна на неоднородную деформацию, а именно на трещины.&lt;/p&gt;
+&lt;p&gt;Зачем мне это слово и кто мне его рассказал вы узнаете завтра 😊&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Peridynamics&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Peridynamics - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

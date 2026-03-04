@@ -2,24 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CASCON on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/cascon/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/cascon/</link>
     <description>MagicDPD: Magic Driven Product Development! (CASCON)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 16 Oct 2018 06:04:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Feb 2021 13:16:00 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/cascon/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/cascon/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Статический преднатяг в LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-19-staticheskiy-prednatyag-v-ls-dyna/</link>
+      <pubDate>Fri, 19 Feb 2021 13:16:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-19-staticheskiy-prednatyag-v-ls-dyna/</guid>
+      <description>&lt;p&gt;Статический преднатяг в LS-DYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=22p5WfoZNCg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=22p5WfoZNCg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Стал доступен мой небольшой мастре-класс по работе динамической релаксации в LS-DYNA. Если вам нужно учитывать гравитационные нагрузки или, например, задавать вращение с начальной угловой скоростью, то вам сюда.&lt;/p&gt;
+&lt;p&gt;#ansys #cadfem #cascon #lsdyna
+&lt;a href=&#34;https://tinyurl.com/y9c6m83o&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y9c6m83o&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=22p5WfoZNCg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Методы задания статического преднагружения в LS-DYNA&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/y9c6m83o&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y9c6m83o&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-DYNA мастер класс: S-ALE тест Тейлора</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-01-ls-dyna-master-klass-s-ale-test-teylora/</link>
+      <pubDate>Mon, 01 Feb 2021 17:54:45 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-01-ls-dyna-master-klass-s-ale-test-teylora/</guid>
+      <description>&lt;p&gt;LS-DYNA мастер класс: S-ALE тест Тейлора&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=S7IYFWuFyOg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=S7IYFWuFyOg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Коллеги, стала публично доступна запись моего мастер класса по работе S-ALE решателя в LS-DYNA, специально подготовленного для прошедшей конференции CASCON от CADFEM. В ходе мастер класса рассматривается моделирование теста Тейлора (высокоскоростной удар упруго-пластического стержня в малодеформируемую мишень) в 12-ой версии решателя с использованием S-ALE. Подробно разбираются все передовые функции решателя: автоматическая генерация структурированной стеки, обрезка расчетного домена до нужной формы, морфинг и движение эйлеровой сетки, настройка FSI интерфейса, визуализация результатов. Если вам нужно считать FSI в LS-DYNA, то этот мастер класс станет достойным базовым примером.&lt;/p&gt;
+&lt;p&gt;#ansys #ansys_lst #cadfem #cascon #fsi #ls #ls-dyna #ls-prepost #s-ale #taylor
+&lt;a href=&#34;https://tinyurl.com/y4hlvvee&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y4hlvvee&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=S7IYFWuFyOg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Тест Тейлора в рамках S-ALE постановки для LS-DYNA R12&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/y4hlvvee&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y4hlvvee&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Завтра CASCON Online</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-11-30-zavtra-cascon-online/</link>
+      <pubDate>Mon, 30 Nov 2020 13:08:09 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-11-30-zavtra-cascon-online/</guid>
+      <description>&lt;p&gt;Завтра CASCON Online&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/cascon-online-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Завтра CASCON Online - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CASCON XVI</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-24-cascon-xvi/</link>
+      <pubDate>Tue, 24 Sep 2019 13:08:35 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-24-cascon-xvi/</guid>
+      <description>&lt;p&gt;CASCON XVI
+Коллеги, я тут закрутился, а до нашей главной конференции уже меньше месяца! Согласно добрым традициям, за 3 дня вы сможете послушать пленарные и технические доклады, а также посетить мастер-классы и демозону.&lt;/p&gt;
+&lt;p&gt;Для участников с докладом скидка 50%. Так что все идем на сайт конференции и регистрируемся: &lt;a href=&#34;https://ansysconference.ru/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ansysconference.ru/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ну а для тех, кто почему-то еще сомневается, есть фотографии с прошлогоднего мероприятия: &lt;a href=&#34;https://ansysconference.ru/gallery/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ansysconference.ru/gallery/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ansysconference.ru/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ansysconference.ru/&lt;/a&gt;
+&lt;a href=&#34;https://ansysconference.ru/gallery/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ansysconference.ru/gallery/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Немного трансляции с CASCON</title>
-      <link>http://localhost:1313/posts/2018-10-16-nemnogo-translyatsii-s-cascon/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-16-nemnogo-translyatsii-s-cascon/</link>
       <pubDate>Tue, 16 Oct 2018 06:04:38 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-10-16-nemnogo-translyatsii-s-cascon/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/Ps34dQNIweM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Ps34dQNIweM&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-16-nemnogo-translyatsii-s-cascon/</guid>
+      <description>&lt;p&gt;Немного трансляции с CASCON
+&lt;a href=&#34;https://youtu.be/Ps34dQNIweM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Ps34dQNIweM&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ACUM #CASCON
 &lt;a href=&#34;http://bit.ly/2Ad1Ois&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Ad1Ois&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/Ps34dQNIweM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;#ACUM2018 - конференция CADFEM/ANSYS&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2Ad1Ois&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Ad1Ois&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>40 минут до начала</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-16-40-minut-do-nachala/</link>
+      <pubDate>Tue, 16 Oct 2018 05:19:51 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-16-40-minut-do-nachala/</guid>
+      <description>&lt;p&gt;40 минут до начала&lt;/p&gt;
+&lt;p&gt;#ACUM #CASCON
+&lt;a href=&#34;http://bit.ly/2AdfOZM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2AdfOZM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2AdfOZM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2AdfOZM&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

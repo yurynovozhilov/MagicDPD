@@ -2,37 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sloshing on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/sloshing/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/sloshing/</link>
     <description>MagicDPD: Magic Driven Product Development! (Sloshing)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Mon, 05 Apr 2021 13:01:44 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/sloshing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/sloshing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Моделирвоание слошинга при вертикальных колебаниях</title>
-      <link>http://localhost:1313/posts/2021-04-05-modelirvoanie-sloshinga-pri-vertikalnyh/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-04-05-modelirvoanie-sloshinga-pri-vertikalnyh/</link>
       <pubDate>Mon, 05 Apr 2021 13:01:44 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-04-05-modelirvoanie-sloshinga-pri-vertikalnyh/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/wHM1pl77HPA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/wHM1pl77HPA&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-04-05-modelirvoanie-sloshinga-pri-vertikalnyh/</guid>
+      <description>&lt;p&gt;Моделирвоание слошинга при вертикальных колебаниях&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/wHM1pl77HPA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/wHM1pl77HPA&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Четвертый доклад с первого виртуального семинара от UK Fluids Network по жидкостям SPH SIG. Джо Де Курси (Joe De Courcy) из Университета Бристоля (The University of Bristol) рассказывает о работе, проделанной вместе с его коллегой Лучианом Константином (Lucian Constantin), чтобы смоделировать поведение жидкостей при вертикальных колебаниях с помощью SPH.&lt;/p&gt;
 &lt;p&gt;#sloshing #sph
+&lt;a href=&#34;https://tinyurl.com/ygocan2l&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ygocan2l&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/wHM1pl77HPA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Virtual Seminar 1: Vertically Sloshing Systems using SPH&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/ygocan2l&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ygocan2l&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>SPHERIC Sloshing Wave Impact Test</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-01-26-spheric-sloshing-wave-impact-test/</link>
+      <pubDate>Tue, 26 Jan 2021 13:31:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-01-26-spheric-sloshing-wave-impact-test/</guid>
+      <description>&lt;p&gt;SPHERIC Sloshing Wave Impact Test&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=9Mcqo1S1M_E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=9Mcqo1S1M_E&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Пример того, как LAMMPS USER-SMD от Сандийских лабораторий моделирует поведение жидкости в качающемся баке. Данные для верификации кода по эксперименту публично доступны по ссылке: &lt;a href=&#34;https://spheric-sph.org/tests/test-10&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://spheric-sph.org/tests/test-10&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#fsi #lammps #sloshing #sph #spheric
+&lt;a href=&#34;https://tinyurl.com/yyerdbzg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yyerdbzg&lt;/a&gt;
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=9Mcqo1S1M_E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SPHERIC Sloshing Wave Impact Test 10 by LAMMPS USER-SMD&lt;/a&gt;
+&lt;a href=&#34;https://spheric-sph.org/tests/test-10&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://spheric-sph.org/tests/test-10&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yyerdbzg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yyerdbzg&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SPH для моделирования брызг</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-09-25-sph-dlya-modelirovaniya-bryzg/</link>
+      <pubDate>Fri, 25 Sep 2020 07:02:34 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-09-25-sph-dlya-modelirovaniya-bryzg/</guid>
+      <description>&lt;p&gt;SPH для моделирования брызг
+#LS_DYNA #Sloshing #SPH
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/modeling-splashing-and-sloshing-in-ls-dyna-using-sph/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SPH для моделирования брызг - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ICFD sloshing</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-11-12-icfd-sloshing/</link>
+      <pubDate>Tue, 12 Nov 2019 18:10:50 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-11-12-icfd-sloshing/</guid>
+      <description>&lt;p&gt;ICFD sloshing&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/icfd-sloshing/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ICFD sloshing - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>SPH моделирование слошинга и разбрызгивания</title>
-      <link>http://localhost:1313/posts/2019-03-26-sph-modelirovanie-sloshinga-i-razbryzgiva/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-26-sph-modelirovanie-sloshinga-i-razbryzgiva/</link>
       <pubDate>Tue, 26 Mar 2019 17:01:17 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-03-26-sph-modelirovanie-sloshinga-i-razbryzgiva/</guid>
-      <description>&lt;p&gt;20 минут содержательного разговора о теории и практике применения SPH в LS-DYNA для задач слошинга и образования брызг. В ходе вебинара расскажут про особенности математики SPH, покажут основные карты, задающие работу решателя, и не забудут об тонких настройках.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-26-sph-modelirovanie-sloshinga-i-razbryzgiva/</guid>
+      <description>&lt;p&gt;SPH моделирование слошинга и разбрызгивания&lt;/p&gt;
+&lt;p&gt;20 минут содержательного разговора о теории и практике применения SPH в LS-DYNA для задач слошинга и образования брызг. В ходе вебинара расскажут про особенности математики SPH, покажут основные карты, задающие работу решателя, и не забудут об тонких настройках.&lt;/p&gt;
 &lt;p&gt;#LS_DYNA #Sloshing #SPH #Splashing&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2rg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2rg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2rg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2rg&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SPH в LS-DYNA: прорыв платины и слошинг</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-20-sph-v-ls-dyna-proryv-platiny-i-sloshing/</link>
+      <pubDate>Tue, 20 Mar 2018 18:01:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-20-sph-v-ls-dyna-proryv-platiny-i-sloshing/</guid>
+      <description>&lt;p&gt;SPH в LS-DYNA: прорыв платины и слошинг
+Продолжая разговор о SHP методе, стоит отметить, что он реализован в большинстве механических expicit кодов. Вот совсем свежие расчетные кейсы по работе данного метода для моделирования жидкости в LS-DYNA от TENSOR ROMANIA (&lt;a href=&#34;http://www.tensor.ro&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.tensor.ro&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;#FSI #LSDYNA #Sloshing #SPH
+&lt;a href=&#34;https://goo.gl/vWgkvE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/vWgkvE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.tensor.ro&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.tensor.ro&lt;/a&gt;
+&lt;a href=&#34;https://goo.gl/vWgkvE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/vWgkvE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ALE для Abaqus</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-11-ale-dlya-abaqus/</link>
+      <pubDate>Sat, 11 Mar 2017 12:03:56 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-11-ale-dlya-abaqus/</guid>
+      <description>&lt;p&gt;ALE для Abaqus
+&lt;a href=&#34;https://www.youtube.com/watch?v=J9f_fmgMHfY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=J9f_fmgMHfY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ой мамочки: видео урок по распорке #ALE #FSI в #Abaqus. Я-то думал, что у Abaqus все хорошо с GUI и UI, но он застрял где-то на уровне #LSPP и #ANSYS 10.&lt;/p&gt;
+&lt;p&gt;P.S. #ALE (Arbitrary Lagrange Euler) для Abaqus называется #CEL (Coupled Eulerian Lagrangian) (CEL)
+#Sloshing
+&lt;a href=&#34;https://www.youtube.com/watch?v=J9f_fmgMHfY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=J9f_fmgMHfY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=J9f_fmgMHfY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Abaqus Coupled Eulerian Lagrangian (CEL) Modelling Tutorial: Example- Water Sloshing in Tank&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Слошинг</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-24-sloshing/</link>
+      <pubDate>Thu, 24 Nov 2016 17:03:06 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-24-sloshing/</guid>
+      <description>&lt;p&gt;Слошинг
+&lt;a href=&#34;https://www.simscale.com/projects/Ali_Arafat/sloshing_of_fluid_in_a_moving_fuel-tank/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.simscale.com/projects/Ali_Arafat/sloshing_of_fluid_in_a_moving_fuel-tank/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Прото небольшой готовый пример по расчету слошинга в #SimScale - изучаем и наслаждаемся.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.simscale.com/projects/Ali_Arafat/sloshing_of_fluid_in_a_moving_fuel-tank/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.simscale.com/projects/Ali_Arafat/sloshing_of_fluid_in_a_moving_fuel-tank/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.simscale.com/projects/Ali_Arafat/sloshing_of_fluid_in_a_moving_fuel-tank/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&amp;lsquo;CFD Simulation  of Fuel Tank Sloshing &amp;rsquo; project by Ali_Arafat on SimScale&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

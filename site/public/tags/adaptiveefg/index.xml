@@ -2,42 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AdaptiveEFG on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/adaptiveefg/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/adaptiveefg/</link>
     <description>MagicDPD: Magic Driven Product Development! (AdaptiveEFG)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 08 Feb 2019 04:38:07 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/adaptiveefg/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/adaptiveefg/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Хрупкое разрушение</title>
-      <link>http://localhost:1313/posts/2019-02-08-hrupkoe-razrushenie/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-08-hrupkoe-razrushenie/</link>
       <pubDate>Fri, 08 Feb 2019 04:38:07 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-02-08-hrupkoe-razrushenie/</guid>
-      <description>&lt;p&gt;Тут у меня коллеги интересовались моделированием хрупкого разрушения материалов в #LSDYNA. Самым передовым и многообещающим методом расчета такого разрушения и трещенообразования является перидинамика (&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Перидинамика)
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-08-hrupkoe-razrushenie/</guid>
+      <description>&lt;p&gt;Хрупкое разрушение&lt;/p&gt;
+&lt;p&gt;Тут у меня коллеги интересовались моделированием хрупкого разрушения материалов в #LSDYNA. Самым передовым и многообещающим методом расчета такого разрушения и трещенообразования является перидинамика (&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Перидинамика)
 Так вот, я поскреб по сусекам, посмотрел, что у меня есть в волшебном хранилище знаний, и нашел отличную ссылку на репозиторий господина Cheng-Tang Wu (одного из главных разработчиков #LSTC в этом направлении), где он выкладываем свой учебный курс по бессрочным методам (корме перидинамики есть еще #EFG и #SPG).
 Внимание, в составе данного учебного курса есть работающие примеры со всем перечисленными бессрочными методами расчета разрушения!
 #meshless #peridynamics #AdaptiveEFG
 P.S. Насколько я понял, ключевые карты SECTION_SOLID_PERI и MAT_ELASTIC_PERI пока реализованы только в beta версиях решателя поколения R10.
 &lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Index of /anonymous/outgoing/whu/Class&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Перидинамика
+&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Тут у меня коллеги интересовались моделированием хрупкого ра</title>
-      <link>http://localhost:1313/posts/2017-11-09-tut-u-menya-kollegi-interesovalis-modeli/</link>
+      <title>К слову о резке металла в LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-17-k-slovu-o-rezke-metalla-v-ls-dyna/</link>
+      <pubDate>Sat, 17 Feb 2018 17:00:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-17-k-slovu-o-rezke-metalla-v-ls-dyna/</guid>
+      <description>&lt;p&gt;К слову о резке металла в LS-DYNA
+Разберем небольшой пример по моделированию процесса резки металла в EFG постановке.
+Расчет такого сложного процесса становится возможен благодаря Element-Free Galerkin (EFG) — бессеточному методу Галеркина. Очень интересной особенностью данной постановки является использование решателя с неявной (!!! *CONTROL_IMPLICIT_DYNAMICS !!!) схемой интегрирования по времени. Основная цель — видеодемонстрация влияния настроек механизма адаптации EFG модели под деформацию (динамическое перестроение сетки, которой как бы нет :-D ).&lt;/p&gt;
+&lt;p&gt;Готовая модель для самостоятельного изучения лежит в открытом доступе: http://www.dynaexamples.com/efg/metal-cutting
+Кстати, очень интересно отдельно посмотреть на работу контактного алгоритма семейства  MORTAR — специальная разработка LSTC для implicit расчетов (*CONTACT_FORMING_SURFACE_TO_SURFACE_MORTAR).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynaexamples.com/efg/metal-cutting&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynaexamples.com/efg/metal-cutting&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Тут у меня коллеги интересовались моделированием хрупкого разрушения материалов в #LSDYNA.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-09-tut-u-menya-kollegi-interesovalis-modeli/</link>
       <pubDate>Thu, 09 Nov 2017 17:09:22 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-09-tut-u-menya-kollegi-interesovalis-modeli/</guid>
-      <description>&lt;p&gt;Так вот, я поскреб по сусекам, посмотрел, что у меня есть в волшебном хранилище знаний, и нашел отличную ссылку на репозиторий господина Cheng-Tang Wu (одного из главных разработчиков #LSTC в этом направлении), где он выкладываем свой учебный курс по бессрочным методам (корме перидинамики есть еще #EFG и #SPG).&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-09-tut-u-menya-kollegi-interesovalis-modeli/</guid>
+      <description>&lt;p&gt;Самым передовым и многообещающим методом расчета такого разрушения и трещенообразования является перидинамика (&lt;a href=&#34;http://ift.tt/2zu9ye7&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zu9ye7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Так вот, я поскреб по сусекам, посмотрел, что у меня есть в волшебном хранилище знаний, и нашел отличную ссылку на репозиторий господина Cheng-Tang Wu (одного из главных разработчиков #LSTC в этом направлении), где он выкладываем свой учебный курс по бессрочным методам (корме перидинамики есть еще #EFG и #SPG).&lt;/p&gt;
 &lt;p&gt;Внимание, в составе данного учебного курса есть работающие примеры со всем перечисленными бессрочными методами расчета разрушения!&lt;/p&gt;
 &lt;p&gt;#meshless #peridynamics #AdaptiveEFG&lt;/p&gt;
 &lt;p&gt;P.S. Насколько я понял, ключевые карты SECTION_SOLID_PERI и MAT_ELASTIC_PERI пока реализованы только в beta версиях решателя поколения R10.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&lt;/a&gt; 🔗 Index of /anonymous/outgoing/whu/Class&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vlBJYZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlBJYZ&lt;/a&gt;
+&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

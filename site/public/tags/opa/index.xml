@@ -2,24 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OPA on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/opa/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/opa/</link>
     <description>MagicDPD: Magic Driven Product Development! (OPA)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 24 Dec 2017 17:11:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jan 2018 12:01:04 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/opa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/opa/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Сейчас на рынке #HPC интерконнектов идет тихая война между #</title>
-      <link>http://localhost:1313/posts/2017-12-24-seychas-na-rynke-hpc-interkonnektov-idet/</link>
+      <title>Война интерконнектов: продолжение</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-14-voyna-interkonnektov-prodolzhenie/</link>
+      <pubDate>Sun, 14 Jan 2018 12:01:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-14-voyna-interkonnektov-prodolzhenie/</guid>
+      <description>&lt;p&gt;Война интерконнектов: продолжение
+Компания Intel категорически не согласилась с результатами сравнения ее HPC интерконнекта OmniPath и Mellanox Infiniband. Более того, Intel решил показать результаты своих измерений, и они получились очень занимательными.&lt;/p&gt;
+&lt;p&gt;В статье, ссылка на которую приведена в конце поста, есть куча графиков, где присутствуют три колонки результатов: &amp;ldquo;Mellanox Infiniband&amp;rdquo;, &amp;ldquo;Intel OPA - результаты Mellanox&amp;rdquo; и &amp;ldquo;Intel OPA - результаты Intel&amp;rdquo;. Как ни странно, Intel померил свой интерконнект так, что он полностью сравнялся с Infiniband EDR.&lt;/p&gt;
+&lt;p&gt;В измерениях участвовали ANSYS Fluent и LS-DYNA. Классический Infiniband оказался все же немного впереди, но по моим ощущениям, разрыв должен быть 20% - как раз средний результат двух измерений.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/amp/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/amp/&lt;/a&gt;
+#Fluent #HPC #Infiniband #LS-DYNA #OPA
+&lt;a href=&#34;https://magicdpd.ru/?p=5925&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5925&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/amp/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/amp/&lt;/a&gt;
+&lt;a href=&#34;https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/amp/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/amp/&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=5925&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5925&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сейчас на рынке #HPC интерконнектов идет тихая война между #Mellanox и #Intel.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-24-seychas-na-rynke-hpc-interkonnektov-idet/</link>
       <pubDate>Sun, 24 Dec 2017 17:11:49 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-12-24-seychas-na-rynke-hpc-interkonnektov-idet/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-24-seychas-na-rynke-hpc-interkonnektov-idet/</guid>
       <description>&lt;p&gt;Хотя на мой вкус, Mellanox так далеко впереди, что за ним уже никому не угнаться. Посудите сами: у них полностью аппаратная работа с данными, не нагружающая CPU, у них уже есть 200 Гбит и, что самое важное, их поддерживают все решатели (ну хотя бы все решатели #ANSYS). А вот Intel #OPA может только #ANSYS #Fluent и #ANSYS #CFX.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ift.tt/2l7xnl8MediaMediaMedia&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2l7xnl8MediaMediaMedia&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ift.tt/2kQNVyg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2kQNVyg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2emhAvW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2emhAvW&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zoZXZe&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zoZXZe&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2embhsb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2embhsb&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2l7xltw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2l7xltw&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wmHv13&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wmHv13&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2j6d2vn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2j6d2vn&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2DITPts&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2DITPts&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2DKZ3Vy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2DKZ3Vy&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2pp9x9Y&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2pp9x9Y&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2l7xqNQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2l7xqNQ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2kQNVyg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2kQNVyg&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

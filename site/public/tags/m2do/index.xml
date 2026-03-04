@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M2DO on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/m2do/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/m2do/</link>
     <description>MagicDPD: Magic Driven Product Development! (M2DO)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 10 Jan 2019 17:01:23 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/m2do/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/m2do/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OpenLSTO - открытый код оптимизации топологии</title>
-      <link>http://localhost:1313/posts/2019-01-10-openlsto-otkrytyy-kod-optimizatsii-topo/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-10-openlsto-otkrytyy-kod-optimizatsii-topo/</link>
       <pubDate>Thu, 10 Jan 2019 17:01:23 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-01-10-openlsto-otkrytyy-kod-optimizatsii-topo/</guid>
-      <description>&lt;p&gt;Летом 2018 года команда M2DO (Multiscale Multiphysics Design Optimization Laboratory) Калифорнийского университета Сан-Диего представила новый код для решения задач топологической оптимизации OpenLSTO. &lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-10-openlsto-otkrytyy-kod-optimizatsii-topo/</guid>
+      <description>&lt;p&gt;OpenLSTO - открытый код оптимизации топологии&lt;/p&gt;
+&lt;p&gt;Летом 2018 года команда M2DO (Multiscale Multiphysics Design Optimization Laboratory) Калифорнийского университета Сан-Диего представила новый код для решения задач топологической оптимизации OpenLSTO. &lt;/p&gt;
 &lt;p&gt;Результаты 3D оптимизации&lt;/p&gt;
 &lt;p&gt;Название кода расшифровывается как  «open-source software for level set based structural topology optimization», что может быть переведено на русский язык как «программное обеспечение с открытым исходным кодом для топологической оптимизации с использованием метода фиксации уровня».&lt;/p&gt;
 &lt;p&gt;Взаимосвязь между функцией фиксации уровня (снизу) и получаемым контуром (сверху)&lt;/p&gt;
@@ -28,6 +29,11 @@
 Репозиторий GitHub: https://github.com/M2DOLab/OpenLSTO
 Документация с учебными примерами: http://m2do.ucsd.edu/static/pdf/OpenLSTO-Tutorial-v1.0.pdf&lt;/p&gt;
 &lt;p&gt;#LevelSetMethod #M2DO #OpenSource #OpenLSTO #Optimization #Topology
+&lt;a href=&#34;http://bit.ly/2VLn1bU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2VLn1bU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://habr.com/post/332692/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Бинарная сегментация изображений методом фиксации уровня (Level set method)&lt;/a&gt;
+&lt;a href=&#34;http://m2do.ucsd.edu/software/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://m2do.ucsd.edu/software/&lt;/a&gt;
+&lt;a href=&#34;https://github.com/M2DOLab/OpenLSTO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/M2DOLab/OpenLSTO&lt;/a&gt;
+&lt;a href=&#34;http://m2do.ucsd.edu/static/pdf/OpenLSTO-Tutorial-v1.0.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://m2do.ucsd.edu/static/pdf/OpenLSTO-Tutorial-v1.0.pdf&lt;/a&gt;
 &lt;a href=&#34;http://bit.ly/2VLn1bU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2VLn1bU&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

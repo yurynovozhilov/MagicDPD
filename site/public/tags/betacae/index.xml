@@ -2,69 +2,200 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Betacae on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/betacae/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/betacae/</link>
     <description>MagicDPD: Magic Driven Product Development! (Betacae)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Tue, 06 Dec 2022 19:00:01 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/betacae/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/betacae/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Сегодня, 6 декабря 2022 года, компания #Ansys объявила о под</title>
-      <link>http://localhost:1313/posts/2022-12-06-segodnya-6-dekabrya-2022-goda-kompaniya/</link>
+      <title>Сегодня, 6 декабря 2022 года, компания #Ansys объявила о подписании соглашения по поглощению #DYNAmore!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-12-06-segodnya-6-dekabrya-2022-goda-kompaniya/</link>
       <pubDate>Tue, 06 Dec 2022 19:00:01 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-12-06-segodnya-6-dekabrya-2022-goda-kompaniya/</guid>
-      <description>&lt;p&gt;DYNAmore поставляет и поддерживает #LSDYNA (отраслевой стандарт для краштестов) для всех ключевых автомобильных компаний европы, что генерирует внушительный поток денег.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-12-06-segodnya-6-dekabrya-2022-goda-kompaniya/</guid>
+      <description>&lt;p&gt;В официальном пресс-релизе компания DYNAmore позиционируется как ключ к мировой автомобильной индустрии, и это не далеко от истины.&lt;/p&gt;
+&lt;p&gt;DYNAmore поставляет и поддерживает #LSDYNA (отраслевой стандарт для краштестов) для всех ключевых автомобильных компаний европы, что генерирует внушительный поток денег.&lt;/p&gt;
 &lt;p&gt;Однако, стоит отметить, что DYNAmore по умолчанию сидит не на инфраструктуре Ansys - они предпочитают специализированные решения от #BetaCAE (#ANSA, например), #Oasys (#PRIMER, например) и даже #Hexagon (#DIGIMAT, например). А еще у DYNAmore есть и свои разработки, иногда конкурирующие с Ansys: DYNAFORM (привет Ansys Forming), связка LoCo+CAViT+Status.E (привет #Minerva и #EKM), #FEMZIP и куча разных утилит по мельче.&lt;/p&gt;
 &lt;p&gt;Так что инженеров DYNAmore в ближайшие годы ждет интересный процесс борьбы за привычные инструменты и погружения в мир #Workbench. &lt;a href=&#34;https://www.ansys.com/news-center/press-releases/12-6-22-ansys-and-automotive-simulation-leader-dynamore-sign-definitive-acquisition-agreement&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/news-center/press-releases/12-6-22-ansys-and-automotive-simulation-leader-dynamore-sign-definitive-acquisition-agreement&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys.com/news-center/press-releases/12-6-22-ansys-and-automotive-simulation-leader-dynamore-sign-definitive-acquisition-agreement&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys and Automotive Simulation Leader DYNAmore Sign Definitive Acquisition Agreement&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#BetaCAE Systems объявили о том, что теперь в #ANSA добавлен (естественно за отдельную платную лицензию) #SPH решатель их собственно разработки.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-05-24-betacae-systems-obyavili-o-tom-chto-tep/</link>
+      <pubDate>Tue, 24 May 2022 18:00:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-05-24-betacae-systems-obyavili-o-tom-chto-tep/</guid>
+      <description>&lt;p&gt;Решатель предназначен для моделирования #FSI процессов. Основные примеры применения от разработчика: наполнение топливного бака, слошинг и аквапланирование. Заявлено, что SPH код работает на #GPU, что позволяет получать результаты &amp;ldquo;почтив реальном времени.&amp;rdquo; &lt;a href=&#34;https://youtu.be/0W6tv3gLuYw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/0W6tv3gLuYw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/0W6tv3gLuYw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Smoothed Particle Hydrodynamics (SPH) in ANSA&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Оптимизация топологии для ортотропных материалов</title>
-      <link>http://localhost:1313/posts/2020-03-25-optimizatsiya-topologii-dlya-ortotropnyh-ma/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-25-optimizatsiya-topologii-dlya-ortotropnyh-ma/</link>
       <pubDate>Wed, 25 Mar 2020 13:50:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-03-25-optimizatsiya-topologii-dlya-ortotropnyh-ma/</guid>
-      <description>&lt;p&gt;#BetaCAE #composite #Epilysis #optimization #Topology
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-25-optimizatsiya-topologii-dlya-ortotropnyh-ma/</guid>
+      <description>&lt;p&gt;Оптимизация топологии для ортотропных материалов
+#BetaCAE #composite #Epilysis #optimization #Topology
 by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/topology-optimization-and-material-orientation-on-orthotropic-materials/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Оптимизация топологии для ортотропных материалов - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>BetaCAE Meta для постпроцессинга задач пассивной безопасност</title>
-      <link>http://localhost:1313/posts/2018-05-05-betacae-meta-dlya-postprotsessinga-zadach-p/</link>
+      <title>20й релиз софта от BetaCAE</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-20-20y-reliz-softa-ot-betacae/</link>
+      <pubDate>Sat, 20 Jul 2019 13:01:06 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-20-20y-reliz-softa-ot-betacae/</guid>
+      <description>&lt;p&gt;20й релиз софта от BetaCAE&lt;/p&gt;
+&lt;p&gt;BetaCAE показала очень насыщенные видео с новыми функциями своей софтовой коллекции. Глядя на это, становится понятно, почему их так любят в автомобильной промышленности. Однако «магии» я не увидел, да и для solid сеток ничего не показали, как, впрочем, и обычно.&lt;/p&gt;
+&lt;p&gt;#ANSA #BetaCAE #Epilysis #Meta #Retomo&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2BY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2BY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2BY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2BY&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>19-ый релиз от BETA CAE</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-26-19-yy-reliz-ot-beta-cae/</link>
+      <pubDate>Fri, 26 Oct 2018 17:00:52 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-26-19-yy-reliz-ot-beta-cae/</guid>
+      <description>&lt;p&gt;19-ый релиз от BETA CAE
+Разработчики в 3-х видео показали новые возможности своего обновленного набора софта, состоящего из ANSA (препроцессор и сеточный генератор), META (постпроцессор) и EPILYSIS (собственный решатель, но он пока очень юн).&lt;/p&gt;
+&lt;p&gt;#ANSA #BetaCAE #Epilysis #Meta
+&lt;a href=&#34;http://bit.ly/2D7p1p6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2D7p1p6&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2D7p1p6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2D7p1p6&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BetaCAE Meta для постпроцессинга задач пассивной безопасности</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-05-betacae-meta-dlya-postprotsessinga-zadach-p/</link>
       <pubDate>Sat, 05 May 2018 18:01:25 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-05-05-betacae-meta-dlya-postprotsessinga-zadach-p/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-05-betacae-meta-dlya-postprotsessinga-zadach-p/</guid>
       <description>&lt;p&gt;Meta практически является стандартом де-факто для обработки результатов расчетов краштестов. Данный постпроцессор отлично зарекомендовал себя, но реклама лишней не бывает. На видео представлена работа Meta с результатами краштеста Volvo XC60 нового поколения. Но только в видео очень лукаво говорят, что расчет сделан в Meta — на самом деле Volvo все краштесты счиатет в LS-DYNA, о чем регулярно докладывает на соответствующих конференциях.
 #BetaCAE #Crush #LS-DYNA #Meta #Volvo&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Pn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Pn&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Pn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Pn&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Для всех поклонникам перпостов греческой компании BETA CAE е</title>
-      <link>http://localhost:1313/posts/2016-07-26-dlya-vseh-poklonnikam-perpostov-grecheskoy/</link>
+      <title>#BetaCAE показала BETA Web - возможность удаленного подключения заинтересованных в &#34;поглядеть на то, что у вас получается&#34;.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-03-betacae-pokazala-beta-web-vozmozhnost/</link>
+      <pubDate>Fri, 03 Nov 2017 17:16:53 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-03-betacae-pokazala-beta-web-vozmozhnost/</guid>
+      <description>&lt;p&gt;По сути, система дает доступ по WEB в вашей модели. Таким образом заинтересованные люди без установки ПО и задания его особенностей могут на любом компьютере посмотреть нет ли ошибок в модели и в каком она сейчас статусе. Примерно что-то такое год назад появилось у #ANSYS #SpaceClaim, но не для сеточной модели, а для геометрической.&lt;/p&gt;
+&lt;p&gt;#betaweb
+&lt;a href=&#34;https://www.youtube.com/watch?v=dRX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=dRX&lt;/a&gt;…Media📼 Connect with your partners through the BETA Web in…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2hDa1D7&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hDa1D7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2xkOUMw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xkOUMw&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vVLrF3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vVLrF3&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2hCFe9n&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hCFe9n&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=dRXzQCKruJk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=dRXzQCKruJk&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2A3iI04&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2A3iI04&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2hDa1D7&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hDa1D7&lt;/a&gt;
+ttp://ift.tt/2hDa1D7&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#BetaCAE выпустила 18 релиз своей платформы, состоящей из препроцессора #ANSA, постпроцессора #Meta, системы управления данными расчетов #SPDRM (Simulation, Process, Data &amp; Resources Management), разрабатываемого с прошлого релиза собственного прочностного кода #Epilysis и двух новых продуктов: #Retomo - средства создания геометрии на основе данных МТР и #Komvos отвечающего за направление Simulation Data Management.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-21-betacae-vypustila-18-reliz-svoey-platfo/</link>
+      <pubDate>Thu, 21 Sep 2017 17:03:47 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-21-betacae-vypustila-18-reliz-svoey-platfo/</guid>
+      <description>&lt;p&gt;Подробности в видео записи презентации и по ссылке
+&lt;a href=&#34;https://youtu.be/2EEX3lcboQ4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/2EEX3lcboQ4&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xkKo0lMediaMedia&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xkKo0lMediaMedia&lt;/a&gt;📼 Latest Developments &amp;amp; New Products in BETA’s produ…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2ygfGEO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ygfGEO&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2xkOUMw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xkOUMw&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2yfJ8Lg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yfJ8Lg&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xkU8aW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xkU8aW&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2yg6cJF&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yg6cJF&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xjMU6R&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xjMU6R&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2ygy7cL&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ygy7cL&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xk82dt&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xk82dt&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/2EEX3lcboQ4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/2EEX3lcboQ4&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2ygGNzD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ygGNzD&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2ygn8jp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ygn8jp&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xklbmA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xklbmA&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2ygfGEO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ygfGEO&lt;/a&gt;
+ttp://ift.tt/2ygfGEO&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Block Mesher в LS-PrePost</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-02-block-mesher-v-ls-prepost/</link>
+      <pubDate>Sun, 02 Apr 2017 12:03:37 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-02-block-mesher-v-ls-prepost/</guid>
+      <description>&lt;p&gt;Block Mesher в LS-PrePost
+&lt;a href=&#34;https://www.youtube.com/watch?v=EYT8LuqfSyg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=EYT8LuqfSyg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Пока все спорят о том, как лучше строить сетки в #ANSYS #Meshing или #ICEM CFD, #Altair #HyperMesh, #BetaCAE #ANSA или чем еще сильно платном, ребята из #LSTC продолжают пилить бесплатный препост #LSPP для #LSDYNA. Сегодня я нашел серию уроков по построению сложных и высококачественных сеток для #Explicit расчетов.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EYT8LuqfSyg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=EYT8LuqfSyg&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=irQEEIL6A-M&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=irQEEIL6A-M&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=jMgzHfe3_RU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jMgzHfe3_RU&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=loksXAJk8wo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=loksXAJk8wo&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=ELjRGYZz6Zk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ELjRGYZz6Zk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EYT8LuqfSyg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LS-PrePost BlockM: Bullet Hexahedron meshing with&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=irQEEIL6A-M&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=irQEEIL6A-M&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=jMgzHfe3_RU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jMgzHfe3_RU&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=loksXAJk8wo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=loksXAJk8wo&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=ELjRGYZz6Zk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ELjRGYZz6Zk&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Аэродинамическая труба</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-13-aerodinamicheskaya-truba/</link>
+      <pubDate>Thu, 13 Oct 2016 17:00:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-13-aerodinamicheskaya-truba/</guid>
+      <description>&lt;p&gt;Аэродинамическая труба
+&lt;a href=&#34;https://www.youtube.com/watch?v=Oc7tVyHke3E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Oc7tVyHke3E&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Разбор кейса, в котором при помощи #ANSA ставят #CFD задачу в #OpenFOAM. Задача заключается в повторении экспериментов с машиной, сильно похожей на #BMW в аэродинамической трубе. Для полного удовлетворения #BetaCAE для построцессинга работает #μETA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Oc7tVyHke3E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Oc7tVyHke3E&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Oc7tVyHke3E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CFD case study of the DrivAer model with ANSA and OpenFOAM&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Для всех поклонникам перпостов греческой компании BETA CAE есть хорошая новость: скоро выйдет 17-ая версия набора #ANSA / #Eπilysis / #µETA.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-26-dlya-vseh-poklonnikam-perpostov-grecheskoy/</link>
       <pubDate>Tue, 26 Jul 2016 06:30:05 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-07-26-dlya-vseh-poklonnikam-perpostov-grecheskoy/</guid>
-      <description>&lt;p&gt;Подробности по ссылке: &lt;a href=&#34;http://lnk.al/1U53&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1U53&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-26-dlya-vseh-poklonnikam-perpostov-grecheskoy/</guid>
+      <description>&lt;p&gt;Данный набор многие считают стандартом дефакто для расчетов автомобильной промышленности в целом и карштестов в частности.&lt;/p&gt;
+&lt;p&gt;Подробности по ссылке: &lt;a href=&#34;http://lnk.al/1U53&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1U53&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lnk.al/1U53&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Release Announcement BETA CAE Systems suite v17.0.0&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>На лицо ужасные,</title>
-      <link>http://localhost:1313/posts/2016-01-15-na-litso-uzhasnye/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-15-na-litso-uzhasnye/</link>
       <pubDate>Fri, 15 Jan 2016 17:01:12 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-01-15-na-litso-uzhasnye/</guid>
-      <description>&lt;p&gt;Добрые внутри.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-15-na-litso-uzhasnye/</guid>
+      <description>&lt;p&gt;На лицо ужасные,
+Добрые внутри.&lt;/p&gt;
 &lt;p&gt;BETA CAE Systems выложила ряд обзорных видео по их системе управления инженерными знаниями SPDRM. Для работы с LS-DYNA это еще не самый страшный интерфейс. Пользователи #ANSYS #EKM могут испытать шок и кровотечение из глаз.&lt;/p&gt;
 &lt;p&gt;Интересно, в уважаемой греческой компании кто-нибудь задумывался об ущемлении чувства прекрасного конечных пользователей?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.beta-cae.com/spdrm.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;BETA CAE Systems S.A. - SPDRM &lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

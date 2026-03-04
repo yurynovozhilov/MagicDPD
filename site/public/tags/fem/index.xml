@@ -1,117 +1,285 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FEM on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/fem/</link>
-    <description>MagicDPD: Magic Driven Product Development! (FEM)</description>
+    <title>Fem on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/fem/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Fem)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Tue, 20 Sep 2022 18:00:07 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/fem/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/fem/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Сегодня посмотрим на курс лекций &#34;Введение в методы конечных</title>
-      <link>http://localhost:1313/posts/2022-09-20-segodnya-posmotrim-na-kurs-lektsiy-vveden/</link>
+      <title>Сегодня посмотрим на курс лекций &#34;Введение в методы конечных элементов&#34;, который читает Кришна Гарикипати (Krishna Garikipati), профессор механики и математики из Мичиганского университета (University of Michigan).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-20-segodnya-posmotrim-na-kurs-lektsiy-vveden/</link>
       <pubDate>Tue, 20 Sep 2022 18:00:07 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-09-20-segodnya-posmotrim-na-kurs-lektsiy-vveden/</guid>
-      <description>&lt;p&gt;#FEM &lt;a href=&#34;https://open.umich.edu/find/open-educational-resources/engineering/introduction-finite-element-methods#materials&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://open.umich.edu/find/open-educational-resources/engineering/introduction-finite-element-methods#materials&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-20-segodnya-posmotrim-na-kurs-lektsiy-vveden/</guid>
+      <description>&lt;p&gt;Курс опубликован в рамках программы Open.Michigan для всех желающих, а продолжительность учебных видео составляет около 50 часов.&lt;/p&gt;
+&lt;p&gt;#FEM &lt;a href=&#34;https://open.umich.edu/find/open-educational-resources/engineering/introduction-finite-element-methods#materials&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://open.umich.edu/find/open-educational-resources/engineering/introduction-finite-element-methods#materials&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://open.umich.edu/find/open-educational-resources/engineering/introduction-finite-element-methods#materials&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://open.umich.edu/find/open-educational-resources/engineering/introduction-finite-element-methods#materials&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Сегодня я бы хотел высказать пару мыслей про #opensource про</title>
-      <link>http://localhost:1313/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</link>
+      <title>Сегодня я бы хотел высказать пару мыслей про #opensource проект #pyAnsys.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</link>
       <pubDate>Wed, 14 Sep 2022 18:00:17 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</guid>
-      <description>&lt;p&gt;Итак, #Python внутри экосистемы #Ansys есть очень давно, так почему все вдруг начала говорить про #pyAnsys? Дело в том, что раньше python выступал только в роли некого внутреннего инструмента помощи в постановки задачи. Вы запускали продукты Ansys, и в них уже могли что-то автоматизировать на python.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</guid>
+      <description>&lt;p&gt;Многие мои друзья, с которыми мы обсуждали данный проект, изначально неправильно поняли, что это, и не придали ему должного значения.&lt;/p&gt;
+&lt;p&gt;Итак, #Python внутри экосистемы #Ansys есть очень давно, так почему все вдруг начала говорить про #pyAnsys? Дело в том, что раньше python выступал только в роли некого внутреннего инструмента помощи в постановки задачи. Вы запускали продукты Ansys, и в них уже могли что-то автоматизировать на python.&lt;/p&gt;
 &lt;p&gt;pyAnsys полностью меняет концепцию. У каждого модуля появляется свой #API, который вы можете использовать в вашей #python программе. Ansys тут выступает как вспомогательный инструмент.&lt;/p&gt;
 &lt;p&gt;Например, #pyMAPDL позволяет полностью поставить #FEM задачу и запустить решатель MAPDL, который вообще может быть помещен в #docker контейнер. Обработка данных теперь может производиться единым #pyDPF фреймвоком. Данные между решателями теперь могут передаваться как вы придумаете - ведь у всех них есть свой открытый API! И да, никто не ограничивает вас в возможности совместной работы продуктов Ansys и не Ansys. В стандартных примерах вы сейчас можете найти инструкции для работы с #Gmsh.&lt;/p&gt;
 &lt;p&gt;Я бы сказал, что #pyAnsys - это основа для переосмысления Workbench. Сейчас все связи между модулями #Workbench жестко определенны разработчиками. С pyAnsys вас больше нет таких ограничений, а что еще нужно вам для проведения новых увлекательных расчетов? &lt;a href=&#34;https://docs.pyansys.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://docs.pyansys.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.pyansys.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://docs.pyansys.com/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Сегодня давайте вспомним тему написания собственного КЭ реша</title>
-      <link>http://localhost:1313/posts/2022-09-13-segodnya-davayte-vspomnim-temu-napisaniya/</link>
+      <title>Сегодня давайте вспомним тему написания собственного КЭ решателя, но более подробно.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-13-segodnya-davayte-vspomnim-temu-napisaniya/</link>
       <pubDate>Tue, 13 Sep 2022 18:00:10 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-09-13-segodnya-davayte-vspomnim-temu-napisaniya/</guid>
-      <description>&lt;p&gt;#opensource #FEM &lt;a href=&#34;https://www.youtube.com/watch?v=8GWLgK9Llv0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=8GWLgK9Llv0&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-13-segodnya-davayte-vspomnim-temu-napisaniya/</guid>
+      <description>&lt;p&gt;На этот раз добавим работу с внешними моделями и обработку результатов - получим уже 200 строчек кода на #Python&lt;/p&gt;
+&lt;p&gt;#opensource #FEM &lt;a href=&#34;https://www.youtube.com/watch?v=8GWLgK9Llv0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=8GWLgK9Llv0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8GWLgK9Llv0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=8GWLgK9Llv0&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Новость специально для пользователей Windows. Теперь у знаме</title>
-      <link>http://localhost:1313/posts/2022-06-24-novost-spetsialno-dlya-polzovateley-win/</link>
+      <title>Сегодня у нас очень простая тема.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-07-21-segodnya-u-nas-ochen-prostaya-tema-segodn/</link>
+      <pubDate>Thu, 21 Jul 2022 18:36:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-07-21-segodnya-u-nas-ochen-prostaya-tema-segodn/</guid>
+      <description>&lt;p&gt;Сегодня у нас пример того, как можно решить задача с помощью #FEM используя около сотни строк #Python кода.
+#opensource &lt;a href=&#34;https://polymerfem.com/full-finite-element-solver-in-100-lines-of-python/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://polymerfem.com/full-finite-element-solver-in-100-lines-of-python/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://polymerfem.com/full-finite-element-solver-in-100-lines-of-python/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://polymerfem.com/full-finite-element-solver-in-100-lines-of-python/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новость специально для пользователей Windows.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-06-24-novost-spetsialno-dlya-polzovateley-win/</link>
       <pubDate>Fri, 24 Jun 2022 19:06:41 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-06-24-novost-spetsialno-dlya-polzovateley-win/</guid>
-      <description>&lt;p&gt;#opensource #FEM &lt;a href=&#34;https://code-aster-windows.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://code-aster-windows.com&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-06-24-novost-spetsialno-dlya-polzovateley-win/</guid>
+      <description>&lt;p&gt;Теперь у знаменитого открытого прочностного кода #Code_Aster появился выделенный сайт для пользователей этой замечательной ОС.
+#opensource #FEM &lt;a href=&#34;https://code-aster-windows.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://code-aster-windows.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://code-aster-windows.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://code-aster-windows.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>EOF-Library - это библиотека с открытым исходным кодом для с</title>
-      <link>http://localhost:1313/posts/2022-02-10-eof-library-eto-biblioteka-s-otkrytym/</link>
+      <title>Свежий разбор #FEM #SOLID элементов для #Ansys #LSDYNA R13 - включены объяснения по самым новым формулировкам (-18) и самым нетривиальным подходам (64 узла на хекс) https://youtu.be/KZDfTKBS7bY</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-06-16-svezhiy-razbor-fem-solid-elementov-dlya/</link>
+      <pubDate>Thu, 16 Jun 2022 20:17:54 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-06-16-svezhiy-razbor-fem-solid-elementov-dlya/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/KZDfTKBS7bY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DYNAmore Exress: Solid Element Formulations in LS-DYNA&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EOF-Library - это библиотека с открытым исходным кодом для связки открытых решетелей Elmer FEM (МКЭ) и OpenFOAM (CFD).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-10-eof-library-eto-biblioteka-s-otkrytym/</link>
       <pubDate>Thu, 10 Feb 2022 17:00:23 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-02-10-eof-library-eto-biblioteka-s-otkrytym/</guid>
-      <description>&lt;p&gt;Сайт проекта: https://eof-library.org/
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-10-eof-library-eto-biblioteka-s-otkrytym/</guid>
+      <description>&lt;p&gt;Сочетание всех этих систем позволяет получить очень мощное программное обеспечение для мультифизического моделирования. Говорят, что EOF-Library даже способен замахнуться на моделирование левитационной плавки металлов. Однако, как и в любом открытом проекте, вам надо быть готовым нырнуть в #Fortan, #C и другие языки низкого уровня для отладки проектов.&lt;/p&gt;
+&lt;p&gt;Сайт проекта: https://eof-library.org/
 Репозиторий проекта: https://github.com/jvencels/EOF-Library&lt;/p&gt;
 &lt;p&gt;#CFD #opensource #EOFLibrary #Elmet #OpenFOAM #CFD #FEM &lt;a href=&#34;https://youtu.be/Z3gD4BRl7sY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Z3gD4BRl7sY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://eof-library.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Multiphysics modelling software - Elmer + OpenFOAM - EOF-Library&lt;/a&gt;
+&lt;a href=&#34;https://github.com/jvencels/EOF-Library&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/jvencels/EOF-Library&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/Z3gD4BRl7sY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Z3gD4BRl7sY&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Учебный курс &#34;Finite Element Analysis of Solids and Fluids&#34; </title>
-      <link>http://localhost:1313/posts/2022-01-25-uchebnyy-kurs-finite-element-analysis-of/</link>
+      <title>Bullet Constraints Builder</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-08-bullet-constraints-builder/</link>
+      <pubDate>Tue, 08 Feb 2022 17:00:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-08-bullet-constraints-builder/</guid>
+      <description>&lt;p&gt;Bullet Constraints Builder
+Финский Университет прикладных наук Лауреа принимает участие в финансируемом ЕС проекте под названием Inachus. Проект в целом рассматривает меры по улучшению первого реагирования в случае катастрофических событий, таких как землетрясения, взрывы и т.д.&lt;/p&gt;
+&lt;p&gt;Особой частью этого проекта является моделирование последствий катастрофических событий сооружений гражданского строительства. В рамках трехлетнего проекта Laurea исследует применение метода дискретных элементов #DEM для виртуального моделирования разрушающихся строительных конструкций. Подход DEM будет сравниваться с методом конечных элементов #FEM и методом прикладных элементов #AEM.&lt;/p&gt;
+&lt;p&gt;В рамках проекта разрабатывается движок - дополнение #Bullet в #Blender.  Дополнение позволит приписывать реалистичные прочностные свойства моделям.&lt;/p&gt;
+&lt;p&gt;#Kostack Studio &lt;a href=&#34;https://www.youtube.com/watch?v=eh3qUmNxC6E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=eh3qUmNxC6E&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=eh3qUmNxC6E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Blender Demolition - Case Study: World Trade Center (slowed down)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>У #Cadance в блоге вышел неплохой пост, сравнивающий работу метода конечных элементов (#FEM), метода конечных разностей во временной области (#FDTD) и метода моментов (#MoM) для решения задач радиофизики и высокочастотного электромагнетизма.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-31-u-cadance-v-bloge-vyshel-neplohoy-post/</link>
+      <pubDate>Mon, 31 Jan 2022 17:00:01 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-31-u-cadance-v-bloge-vyshel-neplohoy-post/</guid>
+      <description>&lt;p&gt;#EM &lt;a href=&#34;https://resources.system-analysis.cadence.com/blog/msa2021-fdtd-vs-fem-vs-mom-what-are-they-and-how-are-they-different?utm_source=pocket_mylist&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://resources.system-analysis.cadence.com/blog/msa2021-fdtd-vs-fem-vs-mom-what-are-they-and-how-are-they-different?utm_source=pocket_mylist&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://resources.system-analysis.cadence.com/blog/msa2021-fdtd-vs-fem-vs-mom-what-are-they-and-how-are-they-different&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FDTD vs. FEM vs. MoM: What Are They and How Are They Different?&lt;/a&gt;
+&lt;a href=&#34;https://resources.system-analysis.cadence.com/blog/msa2021-fdtd-vs-fem-vs-mom-what-are-they-and-how-are-they-different?utm_source=pocket_mylist&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://resources.system-analysis.cadence.com/blog/msa2021-fdtd-vs-fem-vs-mom-what-are-they-and-how-are-they-different?utm_source=pocket_mylist&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учебный курс &#34;Finite Element Analysis of Solids and Fluids&#34; в рамках платформы #OPENMITCURCEWARE может послушать каждый, кто жаждет знаний.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-25-uchebnyy-kurs-finite-element-analysis-of/</link>
       <pubDate>Tue, 25 Jan 2022 17:00:16 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-01-25-uchebnyy-kurs-finite-element-analysis-of/</guid>
-      <description>&lt;p&gt;#legendpeopel #FEM #CAE&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-25-uchebnyy-kurs-finite-element-analysis-of/</guid>
+      <description>&lt;p&gt;Курс читается на базе кода #ADINA профессором Клаусом-Юргеном Бате (Klaus-Jürgen Bathe), которые ее и разработал.
+#legendpeopel #FEM #CAE&lt;/p&gt;
 &lt;p&gt;1 часть курса: https://ocw.mit.edu/courses/mechanical-engineering/2-092-finite-element-analysis-of-solids-and-fluids-i-fall-2009
 2 часть курса: https://ocw.mit.edu/courses/mechanical-engineering/2-094-finite-element-analysis-of-solids-and-fluids-ii-spring-2011&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ocw.mit.edu/courses/mechanical-engineering/2-092-finite-element-analysis-of-solids-and-fluids-i-fall-2009&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Finite Element Analysis of Solids and Fluids I | Mechanical Engineering | MIT OpenCourseWare&lt;/a&gt;
+&lt;a href=&#34;https://ocw.mit.edu/courses/mechanical-engineering/2-094-finite-element-analysis-of-solids-and-fluids-ii-spring-2011&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ocw.mit.edu/courses/mechanical-engineering/2-094-finite-element-analysis-of-solids-and-fluids-ii-spring-2011&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Свойства материалов при комнатных, повышенных и криогенных т</title>
-      <link>http://localhost:1313/posts/2020-06-02-svoystva-materialov-pri-komnatnyh-povysh/</link>
+      <title>Задача о разрушении кукурузы!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-21-zadacha-o-razrushenii-kukuruzy-prosto-otk/</link>
+      <pubDate>Fri, 21 Jan 2022 13:01:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-21-zadacha-o-razrushenii-kukuruzy-prosto-otk/</guid>
+      <description>&lt;p&gt;Просто открытая разработка домашнего #FEM решателя, работающего на #CUDA, но вот тестовая задача хороша: смятие и выжимание стебля кукурузы! #simulationfriday #nvidia #opensource &lt;a href=&#34;https://github.com/kovadam19/MicroCrop&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/kovadam19/MicroCrop&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/kovadam19/MicroCrop&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;GitHub - kovadam19/MicroCrop: Advanced Anisotropic Mass-Spring System&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Большой часовой вебинар от #DYNAmore, посвященный расчетным возможностям #EM решателя #Ansys #LSDYNA, способного работать в #FEM, #BEM постановках, а также в недавно появившейся монолитной FEM-BEM постановке. Вебинар освещает все возможности по расчетам, включая появившиеся фишки #R13. Рассказ сопровождается разбором множества очень актуальных примеров. https://www.youtube.com/watch?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-12-bolshoy-chasovoy-vebinar-ot-dynamore-po/</link>
+      <pubDate>Wed, 12 Jan 2022 13:00:24 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-12-bolshoy-chasovoy-vebinar-ot-dynamore-po/</guid>
+      <description>&lt;p&gt;v=B5yPI89yYAQ&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=B5yPI89yYAQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=B5yPI89yYAQ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как работает МКЭ</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-12-09-kak-rabotaet-mke/</link>
+      <pubDate>Wed, 09 Dec 2020 13:00:21 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-12-09-kak-rabotaet-mke/</guid>
+      <description>&lt;p&gt;Как работает МКЭ
+#FEM
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/fem-start/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Как работает МКЭ - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>МКЭ от Ильи Карпова</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-07-21-mke-ot-ili-karpova/</link>
+      <pubDate>Tue, 21 Jul 2020 14:48:38 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-07-21-mke-ot-ili-karpova/</guid>
+      <description>&lt;p&gt;МКЭ от Ильи Карпова
+#FEM #theory
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/seshu-fem/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;МКЭ от Ильи Карпова - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Свойства материалов при комнатных, повышенных и криогенных температурах</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-06-02-svoystva-materialov-pri-komnatnyh-povysh/</link>
       <pubDate>Tue, 02 Jun 2020 13:00:37 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-06-02-svoystva-materialov-pri-komnatnyh-povysh/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-06-02-svoystva-materialov-pri-komnatnyh-povysh/</guid>
       <description>&lt;p&gt;#ANSYS #CFD #FEM #material #properties
 by Ян Поженько&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/%d1%81%d0%b2%d0%be%d0%b9%d1%81%d1%82%d0%b2%d0%b0-%d0%bc%d0%b0%d1%82%d0%b5%d1%80%d0%b8%d0%b0%d0%bb%d0%be%d0%b2-%d0%bf%d1%80%d0%b8-%d0%ba%d0%be%d0%bc%d0%bd%d0%b0%d1%82%d0%bd%d1%8b%d1%85-%d0%bf%d0%be/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Свойства материалов при комнатных, повышенных и криогенных температурах - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Зачем вообще нужна КЭ сетка?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-04-15-zachem-voobsche-nuzhna-ke-setka/</link>
+      <pubDate>Wed, 15 Apr 2020 13:39:24 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-04-15-zachem-voobsche-nuzhna-ke-setka/</guid>
+      <description>&lt;p&gt;Зачем вообще нужна КЭ сетка?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/why-mesh-in-fem/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Зачем вообще нужна КЭ сетка? - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учемся писать МКЭ код</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-27-uchemsya-pisat-mke-kod/</link>
+      <pubDate>Fri, 27 Mar 2020 13:00:39 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-27-uchemsya-pisat-mke-kod/</guid>
+      <description>&lt;p&gt;Учемся писать МКЭ код
+#C #Coursera #FEM
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/fem-code-c/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Учемся писать МКЭ код - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Лекции MIT по МКЭ</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-20-lektsii-mit-po-mke/</link>
+      <pubDate>Fri, 20 Mar 2020 12:00:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-20-lektsii-mit-po-mke/</guid>
+      <description>&lt;p&gt;Лекции MIT по МКЭ
+#ADINA #FEM #legendpeople
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/finite-element-procedures-for-solids-and-structures-by-mit/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/finite-element-procedures-for-solids-and-structures-by-mit/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Подробно про функции формы для МКЭ</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-02-21-podrobno-pro-funktsii-formy-dlya-mke/</link>
+      <pubDate>Fri, 21 Feb 2020 13:49:07 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-02-21-podrobno-pro-funktsii-formy-dlya-mke/</guid>
+      <description>&lt;p&gt;Подробно про функции формы для МКЭ
+#FEM #mesh #theory
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/fem-shape-function/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Подробно про функции формы для МКЭ - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Облачная платформа OnScale</title>
-      <link>http://localhost:1313/posts/2019-02-10-oblachnaya-platforma-onscale/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-10-oblachnaya-platforma-onscale/</link>
       <pubDate>Sun, 10 Feb 2019 17:01:42 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-02-10-oblachnaya-platforma-onscale/</guid>
-      <description>&lt;p&gt;OnScale (не путать с OnShape и SimScale) — облачная платформа для FEM расчетов, которой удавалось долгое время уходить от нашего внимания. Интересно, что у компании есть довольно много вебинаров, и их тематика имеет уклон в моделирование электроники, распространения упругих и электромагнитных волн.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-10-oblachnaya-platforma-onscale/</guid>
+      <description>&lt;p&gt;Облачная платформа OnScale&lt;/p&gt;
+&lt;p&gt;OnScale (не путать с OnShape и SimScale) — облачная платформа для FEM расчетов, которой удавалось долгое время уходить от нашего внимания. Интересно, что у компании есть довольно много вебинаров, и их тематика имеет уклон в моделирование электроники, распространения упругих и электромагнитных волн.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MgS0ae0129I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=MgS0ae0129I&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Решатели позволяют выполнять связанные расчеты во всех основных физиках: механика, тепло-, гидрогазодинамика и электромагнетизм.&lt;/p&gt;
 &lt;p&gt;Всем желающим доступно бесплатно 10 часов в месяц вычислительного времени в облаке OnScale для решения одномерных и плоских задач.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://onscale.com/pricing/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://onscale.com/pricing/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#cloud #FEM #HPC&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-onscale&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-onscale&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MgS0ae0129I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=MgS0ae0129I&lt;/a&gt;
+&lt;a href=&#34;https://onscale.com/pricing/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://onscale.com/pricing/&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/s9vWYY-onscale&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-onscale&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Просмотрщик результатов расчетов iChrome CAE Viewer</title>
-      <link>http://localhost:1313/posts/2019-02-08-prosmotrschik-rezultatov-raschetov-ichrome/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-08-prosmotrschik-rezultatov-raschetov-ichrome/</link>
       <pubDate>Fri, 08 Feb 2019 12:01:14 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-02-08-prosmotrschik-rezultatov-raschetov-ichrome/</guid>
-      <description>&lt;p&gt;Бесплатный просмотрщик CAE результатов и моделей. Работает с форматами NASTRAN, ABAQUS и ANSYS. Позволяет визуализировать FEM и CFD результаты.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-08-prosmotrschik-rezultatov-raschetov-ichrome/</guid>
+      <description>&lt;p&gt;Просмотрщик результатов расчетов iChrome CAE Viewer&lt;/p&gt;
+&lt;p&gt;Бесплатный просмотрщик CAE результатов и моделей. Работает с форматами NASTRAN, ABAQUS и ANSYS. Позволяет визуализировать FEM и CFD результаты.
 CAE Viewer доступен только для 64-битных архитектур Windows.
 Мы немного потестили для FEM. Загружаешь сетку, результаты, все. Интуитивно понятный интерфейс внутри.
 Техподдержка не предоставляется, но на вопросы обещают ответить при первой возможности.
@@ -119,16 +287,18 @@ CAE Viewer&lt;/p&gt;
 &lt;p&gt;#CAE #CFD #FEM #result #viewer&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2fN&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2fN&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;by Ян Поженько&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2fN&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2fN&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Работают ли бессрочные методы?</title>
-      <link>http://localhost:1313/posts/2019-02-08-rabotayut-li-bessrochnye-metody/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-08-rabotayut-li-bessrochnye-metody/</link>
       <pubDate>Fri, 08 Feb 2019 04:36:58 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-02-08-rabotayut-li-bessrochnye-metody/</guid>
-      <description>&lt;p&gt;Работают ли бессрочные методы?
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-08-rabotayut-li-bessrochnye-metody/</guid>
+      <description>&lt;p&gt;Работают ли бессрочные методы?&lt;/p&gt;
+&lt;p&gt;Работают ли бессрочные методы?
 Небольшая статья с очередной конференции по #LSDYNA. В статье рассказывается о сравнении расчета с применением сеточных и бессрочных методов с экспериментом — разрывом металлического образца.
 Постановки:&lt;/p&gt;
 &lt;ul&gt;
@@ -143,143 +313,550 @@ CAE Viewer&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ALE #EFG #FEM #Lagrangian #LS_DYNA #SPG #SPH&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-4867&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-4867&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/s9vWYY-4867&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-4867&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Курс по методу конечных элементов для проблем физики от Мичи</title>
-      <link>http://localhost:1313/posts/2017-12-20-kurs-po-metodu-konechnyh-elementov-dlya-pr/</link>
+      <title>Платформа FetchCFD</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-06-platforma-fetchcfd/</link>
+      <pubDate>Sat, 06 Jan 2018 17:02:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-06-platforma-fetchcfd/</guid>
+      <description>&lt;p&gt;Платформа FetchCFD
+Платформа FetchCFD позволяет пользователям публиковать и обмениваться своими CAD, FEM, CFD моделями и сетками совершенно бесплатно.&lt;/p&gt;
+&lt;p&gt;У палтформы есть свой канал с видео, где можно посмотреть на качесвто моделей сообщества: &lt;a href=&#34;https://www.youtube.com/channel/UCLoKxLVcIAVsyKIqSkePhNQ/videos&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/channel/UCLoKxLVcIAVsyKIqSkePhNQ/videos&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://fetchcfd.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://fetchcfd.com/&lt;/a&gt;
+#CAD #CFD #FEM #FetchCFD
+&lt;a href=&#34;https://magicdpd.ru/?p=5829&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5829&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCLoKxLVcIAVsyKIqSkePhNQ/videos&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/channel/UCLoKxLVcIAVsyKIqSkePhNQ/videos&lt;/a&gt;
+&lt;a href=&#34;https://fetchcfd.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://fetchcfd.com/&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=5829&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5829&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Изогеометрический анализ (#IGA, isogeometric analysis) - это один из перспективных методов выполнения расчетов для случаев, когда не происходит разрушения материала .</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-25-izogeometricheskiy-analiz-iga-isogeome/</link>
+      <pubDate>Mon, 25 Dec 2017 17:11:21 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-25-izogeometricheskiy-analiz-iga-isogeome/</guid>
+      <description>&lt;p&gt;Преимущества данного метода перед традиционным #FEM подробно пописаны а прилагаемой статье.&lt;/p&gt;
+&lt;p&gt;Если кратко, то благодаря использованию особых функций форм и гладкой аппроксимации геометрия решение задачи также получается более гладким, хотя это сказывается на ресурсоемкости задачи.&lt;/p&gt;
+&lt;p&gt;И да, конечно же этот метод уже реализован в LS-DYNA (смотри *ELEMENT_SOLID_NURBS_PATCH + *SECTION_SOLID ELFORM=201), а специфические сетки умеет строить бесплатный LSPP (смотри FEM&amp;gt;Element and Mesh&amp;gt;NURBS 3D Editing). Метод применим как для #explicit, так и для #implicit расчетов и даже для поиска собственных частот.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2DcECzoMediaMedia&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2DcECzoMediaMedia&lt;/a&gt;💾 03_Montanari_University_of_Oxford.pdf&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2DbfSrp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2DbfSrp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2wHGYaz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wHGYaz&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vBgpQ1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vBgpQ1&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zoReD2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zoReD2&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2C1oh1f&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2C1oh1f&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2C2h6G0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2C2h6G0&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2D8SBqb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2D8SBqb&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2C1oiCl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2C1oiCl&lt;/a&gt;
+ttp://ift.tt/2DbfSrp&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Курс по методу конечных элементов для проблем физики от Мичиганского университета (University of Michigan).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-20-kurs-po-metodu-konechnyh-elementov-dlya-pr/</link>
       <pubDate>Wed, 20 Dec 2017 17:15:30 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-12-20-kurs-po-metodu-konechnyh-elementov-dlya-pr/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-20-kurs-po-metodu-konechnyh-elementov-dlya-pr/</guid>
       <description>&lt;p&gt;Обещают научить писать #МКЭ код за 45 часов лекций.&lt;/p&gt;
 &lt;p&gt;Для прохождения курса понадобятся знания линейной алгебры и математическое, физическое или инженерное образование. Еще просят хоть какие-то знания про программированию.&lt;/p&gt;
 &lt;p&gt;#CAE #FEM #FEA
 &lt;a href=&#34;https://www.coursera.org/learn/finite-element-method&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.coursera.org/learn/finite-element-method&lt;/a&gt; 🔗 The Finite Element Method for Problems in Physics | Coursera&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2jTR3cd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2jTR3cd&lt;/a&gt;
+&lt;a href=&#34;https://www.coursera.org/learn/finite-element-method&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.coursera.org/learn/finite-element-method&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Очень интересный зверь попался мне на глаза - X2 FIREBIRD от</title>
-      <link>http://localhost:1313/posts/2017-10-30-ochen-interesnyy-zver-popalsya-mne-na-gl/</link>
+      <title>Пример связанной работы #DEM, #CFD и #FEM решателя в #LSDYNA. #IСАВ #FSI</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-17-primer-svyazannoy-raboty-dem-cfd-i-fe/</link>
+      <pubDate>Fri, 17 Nov 2017 17:06:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-17-primer-svyazannoy-raboty-dem-cfd-i-fe/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jAN&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jAN&lt;/a&gt;…Media📼 CFD Simulation Coupled to DEM for a Rotating Mecha…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2jAWcbX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2jAWcbX&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2w8Jaqb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2w8Jaqb&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2v2FNSC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2v2FNSC&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wHGYaz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wHGYaz&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vlBJYZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlBJYZ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2hFFV53&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hFFV53&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wHTKG5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wHTKG5&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=jANFupj02Dc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jANFupj02Dc&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2hIWMUp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hIWMUp&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2jAWcbX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2jAWcbX&lt;/a&gt;
+ttp://ift.tt/2jAWcbX&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Очень интересный зверь попался мне на глаза - X2 FIREBIRD от компании #Xplicit Computing</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-30-ochen-interesnyy-zver-popalsya-mne-na-gl/</link>
       <pubDate>Mon, 30 Oct 2017 17:08:42 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-10-30-ochen-interesnyy-zver-popalsya-mne-na-gl/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-30-ochen-interesnyy-zver-popalsya-mne-na-gl/</guid>
       <description>&lt;p&gt;Насколько мне удалось понять из описания на сайте компании, X2 FIREBIRD это платформа для совместной работы команды CAE инженеров + решатели #FEM и #CFD + инструменты для полготовки #CAD + инструменты для визуализации результатов. В общем - стандартный набор с упором на эффектный интерфейс и совместную работу нескольких человек.&lt;/p&gt;
 &lt;p&gt;Напрягает правда то, что пока непонятно, насколько хороши решатели в сравнении с классическими мастодонтами рынка CAE. И да, пока у коллеги есть только очень эффектный сайт и только beta версия кода.&lt;/p&gt;
 &lt;p&gt;#X2FIREBIRD #XplicitComputing&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=IpB&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=IpB&lt;/a&gt;…&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.xplicitcomputing.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.xplicitcomputing.com/&lt;/a&gt; 🔗 Xplicit Computing | Team-Based Computer Aided Engineering Made Easy&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2zS6NSK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zS6NSK&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=IpBxO-BrnwQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=IpBxO-BrnwQ&lt;/a&gt;
+&lt;a href=&#34;https://www.xplicitcomputing.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.xplicitcomputing.com/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Статья - размышление про то, как #ANSYS #Discovery Live помо</title>
-      <link>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</link>
+      <title>Статья - размышление про то, как #ANSYS #Discovery Live помогает ANSYS реализовать свободомыслий давнюю задумку: сделать всех инженеров и проектировщиков своими пользователями.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</link>
       <pubDate>Sun, 17 Sep 2017 17:04:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</guid>
       <description>&lt;p&gt;И тут ключевыми факторами успеха оказывается не только использование самого передового решателя, разработанного совместно с #NVIDIA. Не даром ANSYS очень дружен с разработчиком GPU. Об этом говорят те факты, что #Mechanical #APDL был первым коммерческим #FEM использовавшим #GPU, как и #Fluent - первым коммерческим #CFD использовавшим #GPU&lt;/p&gt;
 &lt;p&gt;Тут еще вспоминается и #SpaceClaim, который выйдя на рынок в 2005 сделал лидеров отстающими. Именно после #SpaceClaim появились такие системы, как #PTC #Creo, #Autodesk #Fusion и концепция #Siemens Synchronous Technology.&lt;/p&gt;
 &lt;p&gt;Сейчас SpaceClaim становиться геометрическим ядром для #Workbench, #AIM и #ANSYS #Discovery.&lt;/p&gt;
 &lt;p&gt;#GPGPU #CUDA
 &lt;a href=&#34;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&lt;/a&gt; 🔗 ANSYS Discovery Live Changes Everything&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Компания AMD не выпускала годных процессоров лет 6, но в это</title>
-      <link>http://localhost:1313/posts/2017-08-31-kompaniya-amd-ne-vypuskala-godnyh-protsess/</link>
+      <title>Большая статья - ликбез, рассказывающая про то, что такое метод конечных элементов (#МКЭ, #FEM) и почему его не надо путать с методом конечных разностей (#FDM).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-02-bolshaya-statya-likbez-rasskazyvayuschaya/</link>
+      <pubDate>Sat, 02 Sep 2017 17:06:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-02-bolshaya-statya-likbez-rasskazyvayuschaya/</guid>
+      <description>&lt;p&gt;Полезно не только наживать на кнопки, но и немного помнить про методы решения систем уравнений.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://feaforall.com/difference-between-fem-and-fdm/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://feaforall.com/difference-between-fem-and-fdm/&lt;/a&gt; 🔗 What’s the difference between FEM and FDM? - FEA for All&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2wHGYaz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wHGYaz&lt;/a&gt;
+&lt;a href=&#34;http://feaforall.com/difference-between-fem-and-fdm/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://feaforall.com/difference-between-fem-and-fdm/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Компания AMD не выпускала годных процессоров лет 6, но в этом году она заявила о себе с новой архитектурой, которая должна составить конкуренцию Intel.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-31-kompaniya-amd-ne-vypuskala-godnyh-protsess/</link>
       <pubDate>Thu, 31 Aug 2017 18:42:15 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-08-31-kompaniya-amd-ne-vypuskala-godnyh-protsess/</guid>
-      <description>&lt;p&gt;Самые вменяемые данные для 16-ти ядерных процессоров #AMD #Ryzen #Threadripper 1950X есть у Toms&amp;rsquo;s Hardware. Сравнение AMD идет с 10 ядерным флагманом #Intel #Core #i9-7900X. Из их тестов нас интересуют #Rodinia - #CFD и #CalculiX - #FEM&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-31-kompaniya-amd-ne-vypuskala-godnyh-protsess/</guid>
+      <description>&lt;p&gt;Сам я пока бенчмарков сделать не успел, но провел небольшой обзор #HPC литературы.&lt;/p&gt;
+&lt;p&gt;Самые вменяемые данные для 16-ти ядерных процессоров #AMD #Ryzen #Threadripper 1950X есть у Toms&amp;rsquo;s Hardware. Сравнение AMD идет с 10 ядерным флагманом #Intel #Core #i9-7900X. Из их тестов нас интересуют #Rodinia - #CFD и #CalculiX - #FEM&lt;/p&gt;
 &lt;p&gt;Можно видеть, что по производительности на ядро в плане FEM процессоры AMD сливают почти в 2 раза, а в области CFD наблюдается паритет. На цены железа я не смотрю - цены на лицензии коммерческого #CAE перекрывают стоимость аппаратной платформы в разы. Пока первый вывод - брать AMD рано.&lt;/p&gt;
 &lt;p&gt;#tomshardware
 &lt;a href=&#34;http://www.tomshardware.com/reviews/amd-ryzen-threadripper-1950x-cpu,5167-12.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.tomshardware.com/reviews/amd-ryzen-threadripper-1950x-cpu,5167-12.html&lt;/a&gt; 🔗 Ryzen Threadripper: Scientific &amp;amp; Engineering Computations, &amp;amp; HPC Performance&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2emhAvW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2emhAvW&lt;/a&gt;
+&lt;a href=&#34;http://www.tomshardware.com/reviews/amd-ryzen-threadripper-1950x-cpu,5167-12.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.tomshardware.com/reviews/amd-ryzen-threadripper-1950x-cpu,5167-12.html&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Моделирование аортального клапана, двусторонний #FSI: #ABAQU</title>
-      <link>http://localhost:1313/posts/2017-08-26-modelirovanie-aortalnogo-klapana-dvust/</link>
+      <title>Моделирование аортального клапана, двусторонний #FSI: #ABAQUS &#43; #FlowVision</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-26-modelirovanie-aortalnogo-klapana-dvust/</link>
       <pubDate>Sat, 26 Aug 2017 17:11:26 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-08-26-modelirovanie-aortalnogo-klapana-dvust/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-26-modelirovanie-aortalnogo-klapana-dvust/</guid>
       <description>&lt;p&gt;#CFD #FEM
 &lt;a href=&#34;https://www.youtube.com/watch?v=jZE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jZE&lt;/a&gt;…Media📼 Two way FSI FlowVision &amp;amp; Abaqus - Artificial Aorti…&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ift.tt/2wHLqpO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wHLqpO&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2wHTKG5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wHTKG5&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xBL1l5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xBL1l5&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wHrvqW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wHrvqW&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2v2FNSC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2v2FNSC&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wHGYaz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wHGYaz&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=jZE506eW8Tg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jZE506eW8Tg&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xCcnHX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xCcnHX&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wHLqpO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wHLqpO&lt;/a&gt;
+ttp://ift.tt/2wHLqpO&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Direct Metal Deposition или процесс объемной лазерной наплав</title>
-      <link>http://localhost:1313/posts/2017-05-25-direct-metal-deposition-ili-protsess-obe/</link>
+      <title>FastEngineeringAnalysis</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-04-fastengineeringanalysis/</link>
+      <pubDate>Fri, 04 Aug 2017 17:00:38 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-04-fastengineeringanalysis/</guid>
+      <description>&lt;p&gt;FastEngineeringAnalysis
+&lt;a href=&#34;https://www.fastengineeringanalysis.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.fastengineeringanalysis.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#FastEngineeringAnalysis - еще одна система для решения задач механики в браузере. Кроме традиционного #FEM с поддержкой нелинейных задач у коллег есть собственное ПО для 3D сканирования и работы с геометрией.&lt;/p&gt;
+&lt;p&gt;FastEngineeringAnalysis работает на мощностях #Microsoft #Azure. Тарификация начинается с 4-х часов использования. Обещают скорую интеграцию с #Onshape.&lt;/p&gt;
+&lt;p&gt;#cloud&lt;/p&gt;
+&lt;p&gt;P.S. Судя по демонстрационным видео на канале (&lt;a href=&#34;https://www.youtube.com/channel/UCgCxkb0Jmnt-PUdDRFZbOYA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/channel/UCgCxkb0Jmnt-PUdDRFZbOYA&lt;/a&gt;) это далеко не production ready платформа.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.fastengineeringanalysis.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.fastengineeringanalysis.com/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/channel/UCgCxkb0Jmnt-PUdDRFZbOYA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/channel/UCgCxkb0Jmnt-PUdDRFZbOYA&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Нелинейные контакты в SIMSOLID</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-03-nelineynye-kontakty-v-simsolid/</link>
+      <pubDate>Thu, 03 Aug 2017 17:01:35 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-03-nelineynye-kontakty-v-simsolid/</guid>
+      <description>&lt;p&gt;Нелинейные контакты в SIMSOLID
+&lt;a href=&#34;https://www.simsolid.com/2017/07/new-simsolid-separating-contact-with-friction/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.simsolid.com/2017/07/new-simsolid-separating-contact-with-friction/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#SIMSOLID презентовал новый тип контактного взаимодействия. Теперь можно считать нелинейные контакты с размыканием и трением. Тут пользователи #ANSYS и #NASTRAN усмехнуться, так как они считали такие задачи лет 30-40 назад. Однако, не стоит забывать, что SIMSOLID раз в 10 младше традиционных #FEM, да и сетки у него &amp;ldquo;нет&amp;rdquo; - кстати интересно, как у него будет с &amp;ldquo;сеточной&amp;rdquo; сходимостью в контакте?&lt;/p&gt;
+&lt;p&gt;P.S. На демонстрационном видео показано, как работает нагрузка типа Bolt Pretention, и вот тут у меня появляется зависть. Ведь преднатяг болтов можно задать не только через осевое усилие, но и через момент затяжки, что особенно часто просят клиенты.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/Mq4aAEPsJ3A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Mq4aAEPsJ3A&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.simsolid.com/2017/07/new-simsolid-separating-contact-with-friction/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;New SIMSOLID separating contact with friction&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/Mq4aAEPsJ3A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Mq4aAEPsJ3A&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Code_Aster - мощная штука</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-25-code-aster-moschnaya-shtuka/</link>
+      <pubDate>Tue, 25 Jul 2017 17:00:07 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-25-code-aster-moschnaya-shtuka/</guid>
+      <description>&lt;p&gt;Code_Aster - мощная штука
+&lt;a href=&#34;http://cfd.mace.manchester.ac.uk/twiki/pub/Aster/WebHome/Code_Aster_capabilities.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://cfd.mace.manchester.ac.uk/twiki/pub/Aster/WebHome/Code_Aster_capabilities.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Code_Aster - пожалуй самый крупный #opensource #FEM код очень крут. Я тут решил поискать, что он может, и нашел очень неплохой материал от университета города Манчестер: &lt;a href=&#34;http://cfd.mace.manchester.ac.uk/twiki/pub/Aster/WebHome/Code_Aster_capabilities.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://cfd.mace.manchester.ac.uk/twiki/pub/Aster/WebHome/Code_Aster_capabilities.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Самое интересное, что Code_Aster даже немного умеет #explicit: &lt;a href=&#34;https://www.code-aster.org/UPLOAD/DOC/Formations/05-nonlinear-dynamics.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.code-aster.org/UPLOAD/DOC/Formations/05-nonlinear-dynamics.pdf&lt;/a&gt; - конечное не #AUTODYN или #LSDYNA, но хоть что-то&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://cfd.mace.manchester.ac.uk/twiki/pub/Aster/WebHome/Code_Aster_capabilities.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://cfd.mace.manchester.ac.uk/twiki/pub/Aster/WebHome/Code_Aster_capabilities.pdf&lt;/a&gt;
+&lt;a href=&#34;https://www.code-aster.org/UPLOAD/DOC/Formations/05-nonlinear-dynamics.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.code-aster.org/UPLOAD/DOC/Formations/05-nonlinear-dynamics.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Что делать с большими перемещениями?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-25-chto-delat-s-bolshimi-peremescheniyami/</link>
+      <pubDate>Sun, 25 Jun 2017 17:00:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-25-chto-delat-s-bolshimi-peremescheniyami/</guid>
+      <description>&lt;p&gt;Что делать с большими перемещениями?
+&lt;a href=&#34;https://enterfea.com/ignore-geometric-nonlinearity/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://enterfea.com/ignore-geometric-nonlinearity/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Решая задачи механики вы можете столкнуться с необходимостью выйти за рамки концепции малых перемещений/деформаций. Эта удобная концепция позволяет вводить множество упрощений, однако, стоит вам только забыть про нее, как вы можете оказаться наказаны.&lt;/p&gt;
+&lt;p&gt;Даже для линейных моделей материалов, даже без контактов, ваша модель может оказаться нелинейной, так как она корректно работает только с учетом больших перемещений. Как же понять, в какой постановке решать задачу? Как правильно определить правомерность допущение о малости перемещений? Об этом целая статься по ссылке ниже.&lt;/p&gt;
+&lt;p&gt;Я же просто посоветую вам всегда себя проверять. #FEM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://enterfea.com/ignore-geometric-nonlinearity/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Linear FEA - when it is safe to ignore geometrical nonlinearity?&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EFEA для решения задач аккустики</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-10-efea-dlya-resheniya-zadach-akkustiki/</link>
+      <pubDate>Sat, 10 Jun 2017 17:00:10 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-10-efea-dlya-resheniya-zadach-akkustiki/</guid>
+      <description>&lt;p&gt;EFEA для решения задач аккустики
+&lt;a href=&#34;http://innovationintelligence.com/increasing-computational-efficiency-with-the-efea-method/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://innovationintelligence.com/increasing-computational-efficiency-with-the-efea-method/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Итак, сегодня у нас новая аббривеатура #EFEA - Energy Finite Element Analysis. Это новый подход, разработанный #MES (Michigan Engineering Services, LLC) специально для решения задач акустики для средне и высокочастотных диапазонов. Говорят, что эффективность у них по лучше, чем у обычного #FEM.&lt;/p&gt;
+&lt;p&gt;#Altair получил очередного партнера в свой альянс.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://innovationintelligence.com/increasing-computational-efficiency-with-the-efea-method/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Increasing Computational Efficiency with the EFEA Method - Altair Innovation Intelligence&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Direct Metal Deposition или процесс объемной лазерной наплавки</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-25-direct-metal-deposition-ili-protsess-obe/</link>
       <pubDate>Thu, 25 May 2017 17:01:14 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-05-25-direct-metal-deposition-ili-protsess-obe/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-25-direct-metal-deposition-ili-protsess-obe/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=esBC0WwAX8g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=esBC0WwAX8g&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Интересный и очень сложный физический процесс, встречающийся в 3D принтерах, печатающих металлом. Как бы вы стали его моделировать: в #CFD постановке или при помощи #FEM?&lt;/p&gt;
 &lt;p&gt;CFD by #FLOW3D: &lt;a href=&#34;https://www.youtube.com/watch?v=esBC0WwAX8g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=esBC0WwAX8g&lt;/a&gt;
-CFD by #FLOW3D: &lt;a href=&#34;https://www.youtube.com/watch?v=oWfoAzQlLVo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=oWfoAzQlLVo&lt;/a&gt;
+CFD by #FLOW3D: &lt;del&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=oWfoAzQlLVo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=oWfoAzQlLVo&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20220430050625/https://www.youtube.com/watch?v=oWfoAzQlLVo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;
 FEM by #MSC #Simufact Additive: &lt;a href=&#34;https://www.youtube.com/watch?v=l9n6AheyI2E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=l9n6AheyI2E&lt;/a&gt;
 FEM by #ANSYS #Mechanical: &lt;a href=&#34;https://www.youtube.com/watch?v=H0Uara7B5to&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=H0Uara7B5to&lt;/a&gt;
-FEM by #ANSYS #Mechanical: &lt;a href=&#34;https://www.youtube.com/watch?v=74TOhQwEj80&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=74TOhQwEj80&lt;/a&gt;
+FEM by #ANSYS #Mechanical: &lt;del&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=74TOhQwEj80&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=74TOhQwEj80&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20220430050621/https://www.youtube.com/watch?v=74TOhQwEj80&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;
 FEM by #Pancomputing &lt;a href=&#34;https://www.youtube.com/watch?v=LWk43HjKjcM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=LWk43HjKjcM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=esBC0WwAX8g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Direct Metal Deposition | FLOW-3D AM&lt;/a&gt;
+&lt;del&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=oWfoAzQlLVo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=oWfoAzQlLVo&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20220430050625/https://www.youtube.com/watch?v=oWfoAzQlLVo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=l9n6AheyI2E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=l9n6AheyI2E&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=H0Uara7B5to&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=H0Uara7B5to&lt;/a&gt;
+&lt;del&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=74TOhQwEj80&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=74TOhQwEj80&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20220430050621/https://www.youtube.com/watch?v=74TOhQwEj80&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=LWk43HjKjcM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=LWk43HjKjcM&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EDEM для ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-20-edem-dlya-ansys/</link>
+      <pubDate>Thu, 20 Apr 2017 08:00:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-20-edem-dlya-ansys/</guid>
+      <description>&lt;p&gt;EDEM для ANSYS
+&lt;a href=&#34;http://www.ansys.com/de-DE/About-ANSYS/Partner-Network/Software-Partners/dem-solutions&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/de-DE/About-ANSYS/Partner-Network/Software-Partners/dem-solutions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Знаили ли вы, что у компании DEM Solutions Ltd., авторов #EDEM есть специальный плагин для интеграции с #ANSYS #Workbench - можно делать связанные расчеты механики в #Mechanical и гидродинамики во #Fluent.&lt;/p&gt;
+&lt;p&gt;#DEM #CFD #FEM
+&lt;a href=&#34;https://www.youtube.com/watch?v=-PaX-NHRYW4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=-PaX-NHRYW4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys.com/de-DE/About-ANSYS/Partner-Network/Software-Partners/dem-solutions&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DEM Solutions Ltd. - Software Partner | ANSYS&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=-PaX-NHRYW4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=-PaX-NHRYW4&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cornell проведет еще одни курс по ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-11-cornell-provedet-esche-odni-kurs-po-ansys/</link>
+      <pubDate>Sat, 11 Feb 2017 12:02:47 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-11-cornell-provedet-esche-odni-kurs-po-ansys/</guid>
+      <description>&lt;p&gt;Cornell проведет еще одни курс по ANSYS
+&lt;del&gt;&lt;a href=&#34;http://www.ansys-blog.com/engineering-simulations-course/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/engineering-simulations-course/&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20181007163506/http://www.ansys-blog.com:80/engineering-simulations-course/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;#Cornell решил повторить успех прошлогодних курсов по #ANSYS. Уже 15 февраля начнется новая сессия обучения. Я в прошлом году проходи подобный курс, и могу сказать, что он имеет очень хорошую структуру и крайне полезен всем. Будут изучать #Mechanical для #FEM и #Fluent + #CFDPost для #CFD
+&lt;a href=&#34;https://www.youtube.com/watch?v=B8BBP8UhSnc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=B8BBP8UhSnc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&#34;http://www.ansys-blog.com/engineering-simulations-course/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FREE Cornell University Course Teaching Engineering Simulations&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20181007163506/http://www.ansys-blog.com:80/engineering-simulations-course/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=B8BBP8UhSnc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=B8BBP8UhSnc&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Тонскости моделирования зубчатого зацепления</title>
-      <link>http://localhost:1313/posts/2016-12-11-tonskosti-modelirovaniya-zubchatogo-zatsepl/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-11-tonskosti-modelirovaniya-zubchatogo-zatsepl/</link>
       <pubDate>Sun, 11 Dec 2016 17:01:27 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-12-11-tonskosti-modelirovaniya-zubchatogo-zatsepl/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.comsol.com/blogs/how-to-evaluate-gear-mesh-stiffness-in-a-multibody-dynamics-model/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.comsol.com/blogs/how-to-evaluate-gear-mesh-stiffness-in-a-multibody-dynamics-model/&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-11-tonskosti-modelirovaniya-zubchatogo-zatsepl/</guid>
+      <description>&lt;p&gt;Тонскости моделирования зубчатого зацепления
+&lt;a href=&#34;https://www.comsol.com/blogs/how-to-evaluate-gear-mesh-stiffness-in-a-multibody-dynamics-model/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.comsol.com/blogs/how-to-evaluate-gear-mesh-stiffness-in-a-multibody-dynamics-model/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#COMSOL в своем блоге подробно разобрал как моделировать зубчатое зацепление, на что влияет использование подхода с деформируемыми и не деформируемыми телами и насколько важна хорошая сетка. Материал полезен не только пользователям COMSOL, но и любого другого #FEM кода.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.comsol.com/blogs/how-to-evaluate-gear-mesh-stiffness-in-a-multibody-dynamics-model&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;How to Evaluate Gear Mesh Stiffness in a Multibody Dynamics Model&lt;/a&gt;
+&lt;a href=&#34;https://www.comsol.com/blogs/how-to-evaluate-gear-mesh-stiffness-in-a-multibody-dynamics-model/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.comsol.com/blogs/how-to-evaluate-gear-mesh-stiffness-in-a-multibody-dynamics-model/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Редкий #FSI расчет парашюта при помощи связки #XFlow и #Nast</title>
-      <link>http://localhost:1313/posts/2016-07-09-redkiy-fsi-raschet-parashyuta-pri-pomoschi-s/</link>
+      <title>Когда контакт не сходится</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-31-kogda-kontakt-ne-shoditsya/</link>
+      <pubDate>Mon, 31 Oct 2016 17:01:01 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-31-kogda-kontakt-ne-shoditsya/</guid>
+      <description>&lt;p&gt;Когда контакт не сходится
+&lt;a href=&#34;https://www.linkedin.com/pulse/tips-when-finite-element-analysis-contact-problems-wont-wolf-pe?trk=hp-feed-article-title-like&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.linkedin.com/pulse/tips-when-finite-element-analysis-contact-problems-wont-wolf-pe?trk=hp-feed-article-title-like&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Не сходится задача из-за сложного контактного взаимодействия? Не беде, просто делайте, как написано в статье - хороший перечень всех известных трюков.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/tips-when-finite-element-analysis-contact-problems-wont-wolf-pe?trk=hp-feed-article-title-like&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Tips for when Finite Element Analysis Contact Problems won&amp;rsquo;t Solve&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование роста трещин</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-08-modelirovanie-rosta-treschin/</link>
+      <pubDate>Sat, 08 Oct 2016 17:00:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-08-modelirovanie-rosta-treschin/</guid>
+      <description>&lt;p&gt;Моделирование роста трещин
+&lt;a href=&#34;https://www.youtube.com/watch?v=FaS-VvNLM3c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=FaS-VvNLM3c&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Есть такое интересное расширение #FEM - #XFEM называется. Все как в обычном сеточном методе, только поддерживаются разрывные функции формы, что позволяет простить трещины не сквозь сетку (не убивая/удаляя элементы). И тут пальма первенства у #Abaqus. Конечно XFEM был в #LSDYNA с 2006 года, конечно он есть #ANSYS #Mechanical с 2015 года&amp;hellip; Но эти реализации чаще работают в постановках плоской теории упругости. А вот математика Abaqus позволяет использовать XFEM в 3D постановке.&lt;/p&gt;
+&lt;p&gt;Специально по теме небольшой учебный пример:
+&lt;a href=&#34;https://www.youtube.com/watch?v=FaS-VvNLM3c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=FaS-VvNLM3c&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=FaS-VvNLM3c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;XFEM 3D&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ESI VA One 2016</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-02-esi-va-one-2016/</link>
+      <pubDate>Sun, 02 Oct 2016 17:00:48 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-02-esi-va-one-2016/</guid>
+      <description>&lt;p&gt;ESI VA One 2016
+&lt;a href=&#34;http://www.esi-group.com/company/press/news-releases/esi-group-announces-va-one-2016&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.esi-group.com/company/press/news-releases/esi-group-announces-va-one-2016&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ESI VA One 2016 - это специализированный модуль для решения задач акустики. При этом он умеет не только #FEM, но еще и #BEM, и загадочный метод Statistical Energy Analysis (#SEA)&lt;/p&gt;
+&lt;p&gt;Короче много плюшек по акустике&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.esi-group.com/company/press/news-releases/esi-group-announces-va-one-2016&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ESI Group Announces VA One 2016&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Работают ли бессрочные методы?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-02-rabotayut-li-bessrochnye-metody/</link>
+      <pubDate>Sun, 02 Oct 2016 12:00:54 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-02-rabotayut-li-bessrochnye-metody/</guid>
+      <description>&lt;p&gt;Работают ли бессрочные методы?
+&lt;a href=&#34;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Небольшая статья с очередной конференции по #LSDYNA. В статье рассказывается о сравнении расчета с применением сеточных и бессрочных методов с экспериментом - разрывом металлического образца.
+Постановки:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#FEM #Lagrangian&lt;/li&gt;
+&lt;li&gt;#FEM #ALE&lt;/li&gt;
+&lt;li&gt;#SPH&lt;/li&gt;
+&lt;li&gt;#EFG&lt;/li&gt;
+&lt;li&gt;#SPG&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Точную кривую не описал не один из методов. Точная форма получилась только у ALE. Хуже всех, естественно выступил SPH, с его численной нестабильностью при работе на растяжение. На мой вкус EFG дал самую хорошую кривую, но с формой беда.&lt;/p&gt;
+&lt;p&gt;Прям захотелось повторить численный эксперимент.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Адгезия или декогезия?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-03-adgeziya-ili-dekogeziya/</link>
+      <pubDate>Sat, 03 Sep 2016 12:00:15 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-03-adgeziya-ili-dekogeziya/</guid>
+      <description>&lt;p&gt;Адгезия или декогезия?
+&lt;a href=&#34;https://www.comsol.com/blogs/how-to-model-adhesion-and-decohesion-in-comsol-multiphysics/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.comsol.com/blogs/how-to-model-adhesion-and-decohesion-in-comsol-multiphysics/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Как промоделировать процесс прилипания или отклеивая частей конструкции? Не всякий контактный алгоритм такое позволяет, не всякий специальный конечный элемент для этот подходит. #Comsol расскажет как это делать с точки зрения техники и математических моделей.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.comsol.com/blogs/how-to-model-adhesion-and-decohesion-in-comsol-multiphysics&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;How to Model Adhesion and Decohesion in COMSOL Multiphysics&lt;/a&gt;
+&lt;a href=&#34;https://www.comsol.com/blogs/how-to-model-adhesion-and-decohesion-in-comsol-multiphysics/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.comsol.com/blogs/how-to-model-adhesion-and-decohesion-in-comsol-multiphysics/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Что хорошего в Marc 2016</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-28-chto-horoshego-v-marc-2016/</link>
+      <pubDate>Sun, 28 Aug 2016 06:30:28 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-28-chto-horoshego-v-marc-2016/</guid>
+      <description>&lt;p&gt;Что хорошего в Marc 2016
+&lt;a href=&#34;https://www.youtube.com/watch?v=80SewUKhaQU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=80SewUKhaQU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Запись часового вебинара от компании #MSC посещенного их главному решателю для высоко нелинейной механики #Mark 2016&lt;/p&gt;
+&lt;p&gt;Новые фишки:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Улучшение математических моделей гиперупругих материалов,&lt;/li&gt;
+&lt;li&gt;Новые модели математические модели для описания пластического течения, поврежденности и фазового перехода,&lt;/li&gt;
+&lt;li&gt;Увеличение производительности контактных алгоритмов&lt;/li&gt;
+&lt;li&gt;Ассоциативная работа с геометрией: все граничные условия и настройки сетки прикладываются к геометрии и автоматически переносятся в КЭ модель..&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;#FEM
+&lt;a href=&#34;https://www.youtube.com/watch?v=80SewUKhaQU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=80SewUKhaQU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=80SewUKhaQU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Introducing Marc 2016&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учебник от Altair University</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-15-uchebnik-ot-altair-university/</link>
+      <pubDate>Mon, 15 Aug 2016 06:30:10 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-15-uchebnik-ot-altair-university/</guid>
+      <description>&lt;p&gt;Учебник от Altair University
+&lt;a href=&#34;http://www.altairuniversity.com/free-ebooks-2/free-ebook-practical-aspects-of-finite-element-simulation-a-study-guide/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.altairuniversity.com/free-ebooks-2/free-ebook-practical-aspects-of-finite-element-simulation-a-study-guide/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Altair в рамках учебной инициативы Altair University предлагает вгсе желающим скачать учебник/методическое пособие &amp;ldquo;Practical Aspects of Finite Element Simulation (a Study Guide)&amp;rdquo;. Я уже уже получил свой экземпляр - книга большая и хорошо написанная, содержит много интересного материала по #FEM как для явных, так и для неявных решателей. Конечно все написано вокруг ПО Altair, но теоретическая часть пригодится всем.&lt;/p&gt;
+&lt;p&gt;Краткое содержание 503 страниц издания:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;CAE-Driven Design Process&lt;/li&gt;
+&lt;li&gt;Analysis Types&lt;/li&gt;
+&lt;li&gt;Introduction To Finite Element Analysis&lt;/li&gt;
+&lt;li&gt;What Is Needed To Run A Finite Element Analysis?&lt;/li&gt;
+&lt;li&gt;Strategic Planning&lt;/li&gt;
+&lt;li&gt;Common Mistakes And Errors&lt;/li&gt;
+&lt;li&gt;Consistent Units&lt;/li&gt;
+&lt;li&gt;Geometry In HyperMesh&lt;/li&gt;
+&lt;li&gt;Introduction To Meshing&lt;/li&gt;
+&lt;li&gt;1D Meshing With HyperMesh&lt;/li&gt;
+&lt;li&gt;2D Meshing With HyperMesh&lt;/li&gt;
+&lt;li&gt;3D Meshing with HyperMesh&lt;/li&gt;
+&lt;li&gt;Element Quality And Checks&lt;/li&gt;
+&lt;li&gt;Linear Elastic Material Information&lt;/li&gt;
+&lt;li&gt;Boundary Conditions And Loads&lt;/li&gt;
+&lt;li&gt;Linear Static Analysis&lt;/li&gt;
+&lt;li&gt;Modal Analysis&lt;/li&gt;
+&lt;li&gt;Linear Buckling Analysis&lt;/li&gt;
+&lt;li&gt;Nonlinear Analysis&lt;/li&gt;
+&lt;li&gt;Post-Processing&lt;/li&gt;
+&lt;li&gt;Getting Started With HyperWorks&lt;/li&gt;
+&lt;li&gt;Preparing For An Interview&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;https://altairuniversity.com/free-ebooks-2/free-ebook-practical-aspects-of-finite-element-simulation-a-study-guide/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Free eBook: Practical Aspects of Finite Element Simulation (a Study Guide) - Altair University&lt;/a&gt;
+&lt;a href=&#34;http://www.altairuniversity.com/free-ebooks-2/free-ebook-practical-aspects-of-finite-element-simulation-a-study-guide/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.altairuniversity.com/free-ebooks-2/free-ebook-practical-aspects-of-finite-element-simulation-a-study-guide/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Explicit FEM для проектирования турбин</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-06-explicit-fem-dlya-proektirovaniya-turbin/</link>
+      <pubDate>Sat, 06 Aug 2016 06:30:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-06-explicit-fem-dlya-proektirovaniya-turbin/</guid>
+      <description>&lt;p&gt;Explicit FEM для проектирования турбин
+&lt;a href=&#34;http://www.enginelabs.com/news/cummins-models-turbine-wheel-explosions-to-test-housing-containment/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.enginelabs.com/news/cummins-models-turbine-wheel-explosions-to-test-housing-containment/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Компания #Cummins опубликовала очень интересный отчет о том, что может произойти с турбиной двигателя внутреннего сгорания если на скорости 300 000 оборотов в минуту что-то пойдет не так.&lt;/p&gt;
+&lt;p&gt;Расчет в #ANSYS #Explicit STR и #AUTODYN очень хорошо совпали с экспериментами и показали, что плохо будет этой турбине.&lt;/p&gt;
+&lt;p&gt;#FEM #Turbo&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/7Y01Ed4Sg3U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/7Y01Ed4Sg3U&lt;/a&gt;
+&lt;a href=&#34;http://www.enginelabs.com/news/cummins-models-turbine-wheel-explosions-to-test-housing-containment/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.enginelabs.com/news/cummins-models-turbine-wheel-explosions-to-test-housing-containment/&lt;/a&gt;
+&lt;a href=&#34;https://cumminsturbotechnologies.com/sites/default/files/UpFiles/Explicit%20Dynamic%20Finite%20Element%20Simulation%20of%20Turbocharger%20Containment%20and%20Wheel%20Burst.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://cumminsturbotechnologies.com/sites/default/files/UpFiles/Explicit%20Dynamic%20Finite%20Element%20Simulation%20of%20Turbocharger%20Containment%20and%20Wheel%20Burst.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.enginelabs.com/news/cummins-models-turbine-wheel-explosions-to-test-housing-containment/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Cummins Models Turbine Wheel Explosions&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/7Y01Ed4Sg3U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/7Y01Ed4Sg3U&lt;/a&gt;
+&lt;a href=&#34;https://cumminsturbotechnologies.com/sites/default/files/UpFiles/Explicit%20Dynamic%20Finite%20Element%20Simulation%20of%20Turbocharger%20Containment%20and%20Wheel%20Burst.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://cumminsturbotechnologies.com/sites/default/files/UpFiles/Explicit%20Dynamic%20Finite%20Element%20Simulation%20of%20Turbocharger%20Containment%20and%20Wheel%20Burst.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Заметка на портале #Autodesk о том, как идентифицировать параметры когезивного слоя для композитов на основе реальный и численных экспериметнов. #FEM для тех кто по проще.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-22-zametka-na-portale-autodesk-o-tom-kak/</link>
+      <pubDate>Fri, 22 Jul 2016 06:30:03 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-22-zametka-na-portale-autodesk-o-tom-kak/</guid>
+      <description>&lt;p&gt;#composite #cohesive #czm&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lnk.al/1QyP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1QyP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lnk.al/1QyP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1QyP&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Редкий #FSI расчет парашюта при помощи связки #XFlow и #Nastran от #MSC - говорят все хорошо сошлось с экспериментами NASA :-)</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-09-redkiy-fsi-raschet-parashyuta-pri-pomoschi-s/</link>
       <pubDate>Sat, 09 Jul 2016 18:03:03 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-07-09-redkiy-fsi-raschet-parashyuta-pri-pomoschi-s/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-09-redkiy-fsi-raschet-parashyuta-pri-pomoschi-s/</guid>
       <description>&lt;p&gt;Двусторонний FSI осуществляется по средствам открытого кода #OpenFSI (&lt;a href=&#34;http://openfsi.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://openfsi.org/&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;#opensource #CFD #FEM &lt;a href=&#34;https://www.youtube.com/watch?v=bc5xDVDw4f0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=bc5xDVDw4f0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://openfsi.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://openfsi.org/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=bc5xDVDw4f0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=bc5xDVDw4f0&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Великий и ужастный #CalculiX #GraphiX - открытый решатель ме</title>
-      <link>http://localhost:1313/posts/2016-03-31-velikiy-i-uzhastnyy-calculix-graphix/</link>
+      <title>Основы работа метода конечных элементов в блоге #SimScale.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-25-osnovy-rabota-metoda-konechnyh-elementov/</link>
+      <pubDate>Sat, 25 Jun 2016 07:00:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-25-osnovy-rabota-metoda-konechnyh-elementov/</guid>
+      <description>&lt;p&gt;Пригодится для тех, кто проспал лекции в институте. #FEM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://forum.simscale.com/t/the-finite-element-method-fundamentals-introduction-1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;The Finite Element Method - Fundamentals - Introduction [1]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Великий и ужастный #CalculiX #GraphiX - открытый решатель механики.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-31-velikiy-i-uzhastnyy-calculix-graphix/</link>
       <pubDate>Thu, 31 Mar 2016 07:00:29 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-03-31-velikiy-i-uzhastnyy-calculix-graphix/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.dhondt.de/INST_CGX_2_8_MAC_02_10_2015.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dhondt.de/INST_CGX_2_8_MAC_02_10_2015.pdf&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-31-velikiy-i-uzhastnyy-calculix-graphix/</guid>
+      <description>&lt;p&gt;А по ссылке инструкция для сборки под #Mac OS X
+&lt;a href=&#34;http://www.dhondt.de/INST_CGX_2_8_MAC_02_10_2015.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dhondt.de/INST_CGX_2_8_MAC_02_10_2015.pdf&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Расчетный модуль #ccx ставится пакетным менеджером #Homebrew вообще в одну команду:&lt;/p&gt;
 &lt;p&gt;brew install homebrew/science/calculix-ccx&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Международная платформа online обучения edX анонсировала бес</title>
-      <link>http://localhost:1313/posts/2016-03-21-mezhdunarodnaya-platforma-online-obucheniya/</link>
+      <title>Международная платформа online обучения edX анонсировала бесплатный учебный курс по численному моделированию в #ANSYS #Mechanical и #ANSYS #Fleunt.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-21-mezhdunarodnaya-platforma-online-obucheniya/</link>
       <pubDate>Mon, 21 Mar 2016 07:40:49 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-03-21-mezhdunarodnaya-platforma-online-obucheniya/</guid>
-      <description>&lt;p&gt;По итогам бесплатного курса можно получить сертификат, правда уже за $49. Я думаю, что это не слишком большая сумма для сертификата Лиги плюща. Продолжительность курса 6 недель, загрузка 4 - 6 часов в неделю. Начало обучения 1 июня 2016.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-21-mezhdunarodnaya-platforma-online-obucheniya/</guid>
+      <description>&lt;p&gt;Курс лекций будет проводится этим летом совместно с Корнелльскии университетом (англ. Cornell University, сокращённо Корне́лл) — одним из крупнейших и известнейших университетов США, входящих в элитную Лигу плюща.&lt;/p&gt;
+&lt;p&gt;По итогам бесплатного курса можно получить сертификат, правда уже за $49. Я думаю, что это не слишком большая сумма для сертификата Лиги плюща. Продолжительность курса 6 недель, загрузка 4 - 6 часов в неделю. Начало обучения 1 июня 2016.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.edx.org/course/hands-introduction-engineering-cornellx-engr2000x#&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;A Hands-on Introduction to Engineering Simulations&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Встречаем Akselos - программное обеспечения для решения зада</title>
-      <link>http://localhost:1313/posts/2016-03-20-vstrechaem-akselos-programmnoe-obespeche/</link>
+      <title>Встречаем Akselos - программное обеспечения для решения задач механики деформируемого твердого тела при помощи метода конечных элементов с приведенным базисом (Reduced Basis Finite Element Method, RB-FEM).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-20-vstrechaem-akselos-programmnoe-obespeche/</link>
       <pubDate>Sun, 20 Mar 2016 07:00:54 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-03-20-vstrechaem-akselos-programmnoe-obespeche/</guid>
-      <description>&lt;p&gt;Еще фишки ПО:&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-20-vstrechaem-akselos-programmnoe-obespeche/</guid>
+      <description>&lt;p&gt;RB-FEM - это основная фишка решателя, эксклюзивно разработанная в #MIT. Она позволяет, по заявлениям разработчиков, сократить время расчета в тысячи раз по сравнению с классическими методом конечных элементов. Кроме того, становится возможным без проблем решать задачи с размерностью более 100 MDOF.&lt;/p&gt;
+&lt;p&gt;Еще фишки ПО:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;работа с неподготовленной геометрией&lt;/li&gt;
 &lt;li&gt;моделирования роста трещин&lt;/li&gt;
@@ -288,140 +865,206 @@ FEM by #Pancomputing &lt;a href=&#34;https://www.youtube.com/watch?v=LWk43HjKjcM
 &lt;li&gt;и т.д.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Некоторые брошюры по RB-FEM во вложении.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.akselos.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Akselos - Simulation Technology&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>#SIMSOLID опубликовали пару тестов из документа описывающего</title>
-      <link>http://localhost:1313/posts/2015-12-23-simsolid-opublikovali-paru-testov-iz-do/</link>
+      <title>#SIMSOLID опубликовали пару тестов из документа описывающего все верификационные тесты, пройденные данным программным продуктом.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-23-simsolid-opublikovali-paru-testov-iz-do/</link>
       <pubDate>Wed, 23 Dec 2015 06:00:38 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-12-23-simsolid-opublikovali-paru-testov-iz-do/</guid>
-      <description>&lt;ul&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-23-simsolid-opublikovali-paru-testov-iz-do/</guid>
+      <description>&lt;p&gt;В частности, у документе рассказывается каким таким таинственным &amp;ldquo;бессеточным&amp;rdquo; методом конечных элементов пользуется решатель: говорится про некую ту самую теорию &amp;ldquo;внешней аппроксимации&amp;rdquo; (The theory of external approximations), которая является обобщением метода конечных элементов. У данной теории следующие основные преимущества:&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;абсолютно произвольная форма &amp;ldquo;конечного элемента&amp;rdquo;,&lt;/li&gt;
 &lt;li&gt;базисные функции формы могут быть также произвольными и независящими от геометрии объема.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Надеюсь я все правильно понял. К сожалению, полная документация доступна только зарегистрированным пользователям, а я пока не хочу тратить 30-ти дневный триал.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://simsolid.com/2015/12/simsolid-validation-manual/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SIMSOLID Validation Manual&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Напряженный Дарт Вейдер в #SIMULIA. В главных ролях #TOSCA и</title>
-      <link>http://localhost:1313/posts/2015-12-17-napryazhennyy-dart-veyder-v-simulia-v-gl/</link>
+      <title>Напряженный Дарт Вейдер в #SIMULIA.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-17-napryazhennyy-dart-veyder-v-simulia-v-gl/</link>
       <pubDate>Thu, 17 Dec 2015 07:01:46 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-12-17-napryazhennyy-dart-veyder-v-simulia-v-gl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Наконец #SIMSOLID вышел из стадии beta. И вышел он сразу в м</title>
-      <link>http://localhost:1313/posts/2015-12-16-nakonets-simsolid-vyshel-iz-stadii-beta/</link>
-      <pubDate>Wed, 16 Dec 2015 18:00:33 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/2015-12-16-nakonets-simsolid-vyshel-iz-stadii-beta/</guid>
-      <description>&lt;p&gt;Напомню, что SIMSOLID позиционирует себя как неявный решатель механики, для которого вам нет необходимости думать о #КЭ сетке. Якобы у них какой-то бессточный алгоритм. Ну посмотрим - посмотрим.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-17-napryazhennyy-dart-veyder-v-simulia-v-gl/</guid>
+      <description>&lt;p&gt;В главных ролях #TOSCA и #Abaqus.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=XvCBi7Ud_RM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Star Wars SIMULIA&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Давненько я не выкладывал результатов моих маленьких экспери</title>
-      <link>http://localhost:1313/posts/2015-11-25-davnenko-ya-ne-vykladyval-rezultatov-mo/</link>
+      <title>Наконец #SIMSOLID вышел из стадии beta.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-16-nakonets-simsolid-vyshel-iz-stadii-beta/</link>
+      <pubDate>Wed, 16 Dec 2015 18:00:33 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-16-nakonets-simsolid-vyshel-iz-stadii-beta/</guid>
+      <description>&lt;p&gt;И вышел он сразу в магазин при облачном CAD&amp;rsquo;е #Onshape.&lt;/p&gt;
+&lt;p&gt;Напомню, что SIMSOLID позиционирует себя как неявный решатель механики, для которого вам нет необходимости думать о #КЭ сетке. Якобы у них какой-то бессточный алгоритм. Ну посмотрим - посмотрим.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://simsolid.com/2015/12/onshape-app-store/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SIMSOLID is in the Onshape App Store&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Что бы вы сказали, если бы я предложил вам хороший #FEM или #CFD софт бесплатно?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-11-chto-by-vy-skazali-esli-by-ya-predlozhil-v/</link>
+      <pubDate>Fri, 11 Dec 2015 14:56:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-11-chto-by-vy-skazali-esli-by-ya-predlozhil-v/</guid>
+      <description>&lt;p&gt;А если бы я дал вам к нему в придачу наглядные учебные примеры? И большой-при-большой правильно настроенный и удобный #HPC кластер с системой удаленной визуализации? Наверно, вы бы не отказались.
+Компания #Simscale сделал очень сильный ход. Теперь вы можете бесплатно воспользоваться их сервисом инженерных расчетов в облаке. Вам становится доступно 500 Гб дискового пространства и квота на 3000 процессорных часов в год. Вы имеет право на техническую поддержку (даже по телефону!). Единственное ограничение - все ваши проекты должны быть опубликованы на портале компании.
+А вот за приватный репозиторий для проектов придется заплатить.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/11121/SimScale-Brings-the-Price-of-Computer-Aided-Engineering-Down-to-Zero.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt; SimScale Brings the Price of Computer-Aided Engineering Down to Zero &amp;gt; ENGINEERING.com &lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как правильно заметили #SimScale, в этом году исполнилось 75 лет методу конечных элементов (#МКЭ, Finite Element Method, #FEM).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-08-kak-pravilno-zametili-simscale-v-etom/</link>
+      <pubDate>Tue, 08 Dec 2015 18:00:12 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-08-kak-pravilno-zametili-simscale-v-etom/</guid>
+      <description>&lt;p&gt;Основополагающими работами для данного метода стали публикации Александра Хренникова “Solution of problems of elasticity by the framework method” в журнале Journal of applied mechanics и Ричарда Куранта “Variational methods for the solution of problems of equilibrium and vibrations” в Bulletin of the American Mathematical Society. Вот так вот.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.simscale.com/blog/2015/11/75-years-of-the-finite-element-method-fem/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;75 Years of the Finite Element Method (FEM)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Давненько я не выкладывал результатов моих маленьких экспериментов.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-25-davnenko-ya-ne-vykladyval-rezultatov-mo/</link>
       <pubDate>Wed, 25 Nov 2015 18:00:05 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-25-davnenko-ya-ne-vykladyval-rezultatov-mo/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-25-davnenko-ya-ne-vykladyval-rezultatov-mo/</guid>
+      <description>&lt;p&gt;На днях довел до ума задачу о деформации ведущего пояска снаряда в осесимметричной постановке. И конечно, мой любимый #ANSYS #Workbench LS-DYNA #ACT&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=BlHuTTNhQvc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Projectile leading band in LS-DYNA&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Вышел #COMSOL 5.2, вынес много всего нового:</title>
-      <link>http://localhost:1313/posts/2015-11-17-vyshel-comsol-52-vynes-mnogo-vsego-nov/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-17-vyshel-comsol-52-vynes-mnogo-vsego-nov/</link>
       <pubDate>Tue, 17 Nov 2015 18:30:16 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-17-vyshel-comsol-52-vynes-mnogo-vsego-nov/</guid>
-      <description>&lt;p&gt;Новые возможности Application Builder и COMSOL Server, блочная сетка, сеточные сборки и много некоторые нововведения для решателей.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-17-vyshel-comsol-52-vynes-mnogo-vsego-nov/</guid>
+      <description>&lt;p&gt;Вышел #COMSOL 5.2, вынес много всего нового:
+Новые возможности Application Builder и COMSOL Server, блочная сетка, сеточные сборки и много некоторые нововведения для решателей.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.comsol.com/blogs/new-release-comsol-multiphysics-version-5-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;New Release: COMSOL Multiphysics® Version 5.2&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Компания  NuScale Power, LLC (http://www.nuscalepower.com/),</title>
-      <link>http://localhost:1313/posts/2015-11-06-kompaniya-nuscale-power-llc-httpwww/</link>
+      <title>Компания  NuScale Power, LLC (http://www.nuscalepower.com/), компания занимающаяся малыми модульными атомными реакторами (small modular reactor, SMR), подписала стратегическое соглашение с ANSYS.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-06-kompaniya-nuscale-power-llc-httpwww/</link>
       <pubDate>Fri, 06 Nov 2015 06:30:23 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-06-kompaniya-nuscale-power-llc-httpwww/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>#SimScale смог набрать уже 50 000 пользователей с даты своег</title>
-      <link>http://localhost:1313/posts/2015-11-05-simscale-smog-nabrat-uzhe-50-000-polzo/</link>
-      <pubDate>Thu, 05 Nov 2015 18:00:22 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/2015-11-05-simscale-smog-nabrat-uzhe-50-000-polzo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>#ANSYS для моделирования систем целиком. Начинаем с механики</title>
-      <link>http://localhost:1313/posts/2015-11-04-ansys-dlya-modelirovaniya-sistem-tselikom/</link>
-      <pubDate>Wed, 04 Nov 2015 18:00:44 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/2015-11-04-ansys-dlya-modelirovaniya-sistem-tselikom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Оставь мысли об удобстве и продуманности всякий сюда входящи</title>
-      <link>http://localhost:1313/posts/2015-11-03-ostav-mysli-ob-udobstve-i-produmannosti/</link>
-      <pubDate>Tue, 03 Nov 2015 18:01:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/2015-11-03-ostav-mysli-ob-udobstve-i-produmannosti/</guid>
-      <description>&lt;p&gt;Небольшой каталог с большинством всех открытых бесплатных программных продуктов для численного моделирования. Там даже нанеся открытый код для механики с явной схемой интегрирования.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-06-kompaniya-nuscale-power-llc-httpwww/</guid>
+      <description>&lt;p&gt;В рамках данного соглашения компании будут взаимодействовать по расчетам механики и гидродинамики, а также в области HPC.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://investors.ansys.com/press-releases/2015/05-Nov-15-123056227.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;NuScale Power Leverages ANSYS In Design Of Nuclear Power Plants&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Поведение железобетонных конструкций под действием циклическ</title>
-      <link>http://localhost:1313/posts/2015-10-27-povedenie-zhelezobetonnyh-konstruktsiy-pod/</link>
+      <title>#SimScale смог набрать уже 50 000 пользователей с даты своего основания в 2012 году. Причем крайние 10 000 были набраны за последние 9 месяцев!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-05-simscale-smog-nabrat-uzhe-50-000-polzo/</link>
+      <pubDate>Thu, 05 Nov 2015 18:00:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-05-simscale-smog-nabrat-uzhe-50-000-polzo/</guid>
+      <description>&lt;p&gt;А ведь в команде разработчиков всего 35 человек!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.simscale.com/blog/2015/10/simscale-reaches-50000-users/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SimScale Reaches 50000 Users and Growing&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#ANSYS для моделирования систем целиком.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-04-ansys-dlya-modelirovaniya-sistem-tselikom/</link>
+      <pubDate>Wed, 04 Nov 2015 18:00:44 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-04-ansys-dlya-modelirovaniya-sistem-tselikom/</guid>
+      <description>&lt;p&gt;Начинаем с механики и гидродинмики и заканчиваем ПО для урпавления. Выглядит красиво.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=068Jkvx6Cn8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Cummins Genset Development and ANSYS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оставь мысли об удобстве и продуманности всякий сюда входящий!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-03-ostav-mysli-ob-udobstve-i-produmannosti/</link>
+      <pubDate>Tue, 03 Nov 2015 18:01:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-03-ostav-mysli-ob-udobstve-i-produmannosti/</guid>
+      <description>&lt;p&gt;Небольшой каталог с большинством всех открытых бесплатных программных продуктов для численного моделирования. Там даже нанеся открытый код для механики с явной схемой интегрирования.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://wiki.developspace.net/Open_Source_Engineering_Tools&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Open Source Engineering Tools - DevelopSpace&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#FEM - Finite element method</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-30-fem-finite-element-method/</link>
+      <pubDate>Fri, 30 Oct 2015 06:30:09 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-30-fem-finite-element-method/</guid>
+      <description>&lt;p&gt;#FEM - Finite element method
+#FDM - Finite difference method
+#DDA - Discontinuous deformation analysis
+#NMM - Numerical manifold method
+#DEM - Discrete element method
+#PBM - Particle Blast Method
+#BPM - Bonded Particle Model&lt;/p&gt;
+&lt;p&gt;Ну почему все так любят аббревиатуры из трех букв?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Поведение железобетонных конструкций под действием циклического нагруженная. Даже с экспериментом совпали!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-27-povedenie-zhelezobetonnyh-konstruktsiy-pod/</link>
       <pubDate>Tue, 27 Oct 2015 18:01:18 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-27-povedenie-zhelezobetonnyh-konstruktsiy-pod/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-27-povedenie-zhelezobetonnyh-konstruktsiy-pod/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-TD5DWH8DxM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Simulation of Concrete Shear Wall Under Cyclic Lateral Loading&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=SKwNv7flusk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Simulation of Bridge Column Under Seismic Loads&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Красивая презентация - хороший академический подход.</title>
-      <link>http://localhost:1313/posts/2015-10-13-krasivaya-prezentatsiya-horoshiy-akademiche/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-13-krasivaya-prezentatsiya-horoshiy-akademiche/</link>
       <pubDate>Tue, 13 Oct 2015 06:30:24 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-13-krasivaya-prezentatsiya-horoshiy-akademiche/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-13-krasivaya-prezentatsiya-horoshiy-akademiche/</guid>
+      <description>&lt;p&gt;Красивая презентация - хороший академический подход.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Настоящая лекция на тему моделирования акустики в нестациона</title>
-      <link>http://localhost:1313/posts/2015-10-12-nastoyaschaya-lektsiya-na-temu-modelirovaniya-a/</link>
+      <title>Настоящая лекция на тему моделирования акустики в нестационарной постановке. Тут расчеты во временном или в частотном диапазоне, явные и неявные схемы, твердотельная динамика и многое другое!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-12-nastoyaschaya-lektsiya-na-temu-modelirovaniya-a/</link>
       <pubDate>Mon, 12 Oct 2015 06:30:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-12-nastoyaschaya-lektsiya-na-temu-modelirovaniya-a/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-12-nastoyaschaya-lektsiya-na-temu-modelirovaniya-a/</guid>
+      <description>&lt;p&gt;Для полного удовольствия не хватает только метода граничных элементов.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=TDy11Z-ZgK0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Time-Domain Solutions for Simulating Transient Acoustics&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Мой матрас явно не моделировали так, как этот. Это ж надо бы</title>
-      <link>http://localhost:1313/posts/2015-10-02-moy-matras-yavno-ne-modelirovali-tak-kak/</link>
+      <title>Мой матрас явно не моделировали так, как этот.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-02-moy-matras-yavno-ne-modelirovali-tak-kak/</link>
       <pubDate>Fri, 02 Oct 2015 18:00:19 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-02-moy-matras-yavno-ne-modelirovali-tak-kak/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-02-moy-matras-yavno-ne-modelirovali-tak-kak/</guid>
+      <description>&lt;p&gt;Это ж надо было догадаться, считать матрас методом конечных элементов в таком зубре, как MAC Marc. Плюс, к этому всему делу прикрутили визуализация от EnSight. Получилось красиво и наглядно.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.medicaldesignandoutsourcing.com/msc-simulation-technology-combines-with-ensight-3d-visualization-to-solve-bedsore-mystery/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MSC simulation technology combines with EnSight 3D visualization to solve bedsore mystery&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Вчера состоялся новый релиз LS-DYNA под версией 8.0.0 R8.953</title>
-      <link>http://localhost:1313/posts/2015-10-01-vchera-sostoyalsya-novyy-reliz-ls-dyna-pod/</link>
+      <title>Вчера состоялся новый релиз LS-DYNA под версией 8.0.0 R8.95309.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-01-vchera-sostoyalsya-novyy-reliz-ls-dyna-pod/</link>
       <pubDate>Thu, 01 Oct 2015 06:30:24 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-01-vchera-sostoyalsya-novyy-reliz-ls-dyna-pod/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-01-vchera-sostoyalsya-novyy-reliz-ls-dyna-pod/</guid>
       <description>&lt;p&gt;Из принципиально нового:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;*SET_POROUS_ALE для пористости тел в ALE постановке&lt;/li&gt;
@@ -437,27 +1080,43 @@ FEM by #Pancomputing &lt;a href=&#34;https://www.youtube.com/watch?v=LWk43HjKjcM
 &lt;li&gt;несколько новых моделей материалов для EM и CFD.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Ребята из LSTC даром время не теряли 😊&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynasupport.com/news/ls-dyna-r8.0.0-r8.95309-released&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LS-DYNA R8.0.0 (R8.95309) released — LS-DYNA Support&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Тема этого поста очень проста: &#34;A Polyhedral Finite-Element </title>
-      <link>http://localhost:1313/posts/2015-09-29-tema-etogo-posta-ochen-prosta-a-polyhe/</link>
+      <title>Тема этого поста очень проста: &#34;A Polyhedral Finite-Element Formulation using Harmonic Shape Functions with Applications to the Modeling of Multi-Physics Fracture Processes&#34;.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-29-tema-etogo-posta-ochen-prosta-a-polyhe/</link>
       <pubDate>Tue, 29 Sep 2015 06:30:01 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-09-29-tema-etogo-posta-ochen-prosta-a-polyhe/</guid>
-      <description>&lt;p&gt;#FEM #Fracture&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-29-tema-etogo-posta-ochen-prosta-a-polyhe/</guid>
+      <description>&lt;p&gt;Докладывает некто Joe Bishop из Сандийских национальных лабораторий (Sandia National Laboratories, SNL).&lt;/p&gt;
+&lt;p&gt;#FEM #Fracture&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.inf.usi.ch/hormann/nsfworkshop/presentations/Bishop.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.inf.usi.ch/hormann/nsfworkshop/presentations/Bishop.pdf&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Я верил, что и такое извращение тоже есть! Это как бы метод </title>
-      <link>http://localhost:1313/posts/2015-09-25-ya-veril-chto-i-takoe-izvraschenie-tozhe-est/</link>
+      <title>Я верил, что и такое извращение тоже есть!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-25-ya-veril-chto-i-takoe-izvraschenie-tozhe-est/</link>
       <pubDate>Fri, 25 Sep 2015 18:00:39 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-09-25-ya-veril-chto-i-takoe-izvraschenie-tozhe-est/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-25-ya-veril-chto-i-takoe-izvraschenie-tozhe-est/</guid>
+      <description>&lt;p&gt;Это как бы метод конечных элементов, но только элементы в нем полиэдральные.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://dilbert.engr.ucdavis.edu/~suku/polyfem/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Polygonal Finite Element Methods&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>У #SimScale есть апдейт.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-09-u-simscale-est-apdeyt-uluchsheniya-kosnu/</link>
+      <pubDate>Wed, 09 Sep 2015 09:40:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-09-u-simscale-est-apdeyt-uluchsheniya-kosnu/</guid>
+      <description>&lt;p&gt;Улучшения коснулись моделирования свободной поверхности и массо-переноса (да простят меня гидродинамики за незнание терминологии) для #CFD. Для #FEM части добавилась новая категория расчетов с меткой  “advanced”, где можно найти всевозможные гранитные условия, настройки контактов и работу с физическими нелинейностями).&lt;/p&gt;
+&lt;p&gt;Но самое главное, на мой взгляд, это добавление еще одной верификационный задачи (задача о поворотной заслонке), показывающей состоятельность и точность работы решателей. Именно подобные верификационный задачи позволят в будущем идти на серьезный #CAE рынок.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.simscale.com/blog/2015/09/simscale-platform-update-082015/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SimScale Platform Update 08/2015 - SimScale Blog&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -2,22 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GRID on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/grid/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/grid/</link>
     <description>MagicDPD: Magic Driven Product Development! (GRID)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Sun, 11 Oct 2015 06:30:15 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/grid/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/grid/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Это не совсем про расчеты, но это то, чем мы все скоро будем</title>
-      <link>http://localhost:1313/posts/2015-10-11-eto-ne-sovsem-pro-raschety-no-eto-to-che/</link>
+      <title>Это не совсем про расчеты, но это то, чем мы все скоро будем пользоваться.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-11-eto-ne-sovsem-pro-raschety-no-eto-to-che/</link>
       <pubDate>Sun, 11 Oct 2015 06:30:15 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-11-eto-ne-sovsem-pro-raschety-no-eto-to-che/</guid>
-      <description>&lt;p&gt;Лично я не могу дождаться, когда инстансы N-типа будут доступны нам - очень хочется проверить задержки при удаленной визуализации через DCV.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-11-eto-ne-sovsem-pro-raschety-no-eto-to-che/</guid>
+      <description>&lt;p&gt;Спецы рассказывают, о работе NVIDIA Tesla K80 и Quadro M60 в облако Azure. Более того, у Microsoft наконец-то появилась технология проброски физического железа в виртуальную среду под названием DDA (Discrete Devices Assignment). А если учесть, что в основе Azure находятся технологии Hyper-V, то скоро нас ждет еще и очень сильная конкурентная борьба с VMware.&lt;/p&gt;
+&lt;p&gt;Лично я не могу дождаться, когда инстансы N-типа будут доступны нам - очень хочется проверить задержки при удаленной визуализации через DCV.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/documentation/videos/azurecon-2015-applications-that-scale-using-gpu-compute/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Applications that scale using GPU Compute&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

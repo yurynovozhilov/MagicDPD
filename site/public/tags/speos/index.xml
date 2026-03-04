@@ -2,22 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SPEOS on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/speos/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/speos/</link>
     <description>MagicDPD: Magic Driven Product Development! (SPEOS)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 26 Sep 2019 13:00:23 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/speos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/speos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ANSYS SPEOS Live — моделирование оптики в реальном времени</title>
-      <link>http://localhost:1313/posts/2019-09-26-ansys-speos-live-modelirovanie-optiki/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-26-ansys-speos-live-modelirovanie-optiki/</link>
       <pubDate>Thu, 26 Sep 2019 13:00:23 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-09-26-ansys-speos-live-modelirovanie-optiki/</guid>
-      <description>&lt;p&gt;ANSYS SPEOS — это у нас софт для расчета оптики. Про него есть несколько видеоуроков — смотрите хештеги в данном паблике. А у SPEOS есть еще такая фишка, как ANSYS SPEOS Live. Это уже система, позволяющая делать рендеринг в реальном времени на видеокартах NVIDIA и на основе точных математических и физических законов. И про нее есть отличное техническое демо от ARRK в блоге ANSYS: &lt;a href=&#34;https://www.ansys.com/blog/optimize-optical-designs-using-real-time-simulation&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/blog/optimize-optical-designs-using-real-time-simulation&lt;/a&gt; — там еще и видеодемонстрация есть.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-26-ansys-speos-live-modelirovanie-optiki/</guid>
+      <description>&lt;p&gt;ANSYS SPEOS Live — моделирование оптики в реальном времени
+ANSYS SPEOS — это у нас софт для расчета оптики. Про него есть несколько видеоуроков — смотрите хештеги в данном паблике. А у SPEOS есть еще такая фишка, как ANSYS SPEOS Live. Это уже система, позволяющая делать рендеринг в реальном времени на видеокартах NVIDIA и на основе точных математических и физических законов. И про нее есть отличное техническое демо от ARRK в блоге ANSYS: &lt;a href=&#34;https://www.ansys.com/blog/optimize-optical-designs-using-real-time-simulation&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/blog/optimize-optical-designs-using-real-time-simulation&lt;/a&gt; — там еще и видеодемонстрация есть.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys.com/blog/optimize-optical-designs-using-real-time-simulation&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/blog/optimize-optical-designs-using-real-time-simulation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS SPEOS — что ты такое</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-27-ansys-speos-chto-ty-takoe/</link>
+      <pubDate>Tue, 27 Aug 2019 13:00:33 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-27-ansys-speos-chto-ty-takoe/</guid>
+      <description>&lt;p&gt;ANSYS SPEOS — что ты такое&lt;/p&gt;
+&lt;p&gt;Первое, на моей памяти, видео с демонстрацией работы ANSYS SPEOS (спасибо Singularity Engineering LLC). Система расчета оптики SPEOS досталась ANSYS с покупкой компании Optis еще в прошлом году. Она вcтраивается как в большинство CAD систем, так и в родной SpaceClaim, и находит себе применение в очень большом классе задач (подробнее тут на русском &lt;a href=&#34;https://www.cadfem-cis.ru/products/ansys/systems/speos/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/products/ansys/systems/speos/&lt;/a&gt;, а тут на английском: &lt;a href=&#34;https://www.ansys.com/products/optical/ansys-speos&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/products/optical/ansys-speos&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;#ANSYS #Optics #SpaceClaim #SPEOS&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2EL&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2EL&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cadfem-cis.ru/products/ansys/systems/speos/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/products/ansys/systems/speos/&lt;/a&gt;
+&lt;a href=&#34;https://www.ansys.com/products/optical/ansys-speos&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/products/optical/ansys-speos&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2EL&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2EL&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вышел ANSYS 19.2</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-09-20-vyshel-ansys-192/</link>
+      <pubDate>Thu, 20 Sep 2018 17:01:47 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-09-20-vyshel-ansys-192/</guid>
+      <description>&lt;p&gt;Вышел ANSYS 19.2
+Главная новость осени для меня - выход новой версии ANSYS. И в третьей версии ANSYS за этот год накопилось очень много всего вкусного. Если в рамках одного поста, то вот те 5 фишек нового релиза, которые зацепили лично меня.&lt;/p&gt;
+&lt;p&gt;Новый сеточный &amp;ldquo;метод&amp;rdquo; для CFD, который получил название Mosaic, позволяющий сшивать Cartesian и Plyhedra сетки, не забывая о пристеночных слоях. Красиво, умно, эффективно.&lt;/p&gt;
+&lt;p&gt;Целый отдельный набор софта, отвечающего за оптику: ANSYS SPEOS (все, что связано с распространением света) и ANSYS VRXPERIENCE (все что нужно для моделирования работы сенсоров машинного зрения).&lt;/p&gt;
+&lt;p&gt;Долгожданный мной первый релиз ANSYS Additive Science, который позволяет получать информацию о микроструктуре изделий, получаемых при помощи аддитивных технологий. Теперь вы знаете о том, какие у материала локальные механические свойства, какова пористость и вообще, как на это все влияет траектория движения и мощности лазера вашего принтера по металлу.&lt;/p&gt;
+&lt;p&gt;ANSYS Material Designer - новое приложение в интефейсе SCDM, предназначенное для получения эффективных свойств композитных материалов и решетчатых конструкций на основе анализа их представительного элемента объема.&lt;/p&gt;
+&lt;p&gt;ANSYS SCDM Meshing - интеграция возможностей сеточного генератора на основе блочной топологии ICEM CFD в современный и удобный интерфейс ANSYS SpaceClaim (пока что beta).
+Подробности пока читаем на официальном сайте (&lt;a href=&#34;https://www.ansys.com/products/release-highlights%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/products/release-highlights)&lt;/a&gt;, а потом будем обсуждать тут.&lt;/p&gt;
+&lt;p&gt;#AdditiveManufacturing #AdditiveScience #ANSYS #MaterialDesigner #Mosaic #SpaceClaim #SpaceClaimMeshing #SPEOS #VRXPERIENCE
+&lt;a href=&#34;http://bit.ly/2Nu8HnI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Nu8HnI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys.com/products/release-highlights&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys 2025 R2 Release Highlights | Ansys Latest Release&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2Nu8HnI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Nu8HnI&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS купил OPTIS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-25-ansys-kupil-optis/</link>
+      <pubDate>Sun, 25 Mar 2018 18:01:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-25-ansys-kupil-optis/</guid>
+      <description>&lt;p&gt;ANSYS купил OPTIS
+Когда раньше меня спрашивали на совещаниях что можно посчитать в ANSYS, я отвечал (в шутку), что все, однако есть некоторые затруднения в области геометрической оптики.&lt;/p&gt;
+&lt;p&gt;На прошедшей неделе компания ANSYS приобрела лидера в области расчетов геометрической оптики, распространения света и человеческого зрения, компанию OPTIS. Ну что же, минус одна шутка.&lt;/p&gt;
+&lt;p&gt;Основной продукт компании OPTIS носит название SPEOS, который также интегрируется в CATIA V5, NX, Creo и SOLIDWORKS. С основными задачами данного софта можно познакомиться на официальном видео.&lt;/p&gt;
+&lt;p&gt;Для компании, занимающейся визуализацией качество видео, мягко говоря, сомнительное.
+Ссылка на официальное заявление для прессы: https://www.ansys.com/about-ansys/news-center/03-22-18-ansys&lt;/p&gt;
+&lt;p&gt;#ANSYS #OPTIS #SPEOS
+&lt;a href=&#34;https://goo.gl/EsV5Bz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/EsV5Bz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.optis-world.com/OPTIS-revealed/Development-partners/PLM-Software/Dassault-Syst%C3%A8mes&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.optis-world.com/OPTIS-revealed/Development-partners/PLM-Software/Dassault-Syst%C3%A8mes&lt;/a&gt;
+&lt;a href=&#34;https://www.optis-world.com/OPTIS-revealed/Development-partners/PLM-Software/Siemens&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.optis-world.com/OPTIS-revealed/Development-partners/PLM-Software/Siemens&lt;/a&gt;
+&lt;a href=&#34;https://www.optis-world.com/OPTIS-revealed/Development-partners/PLM-Software/Parametric-Technology-Corporation&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.optis-world.com/OPTIS-revealed/Development-partners/PLM-Software/Parametric-Technology-Corporation&lt;/a&gt;
+&lt;a href=&#34;https://www.optis-world.com/OPTIS-revealed/Development-partners/PLM-Software/Dassault-Syst%C3%A8mes&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.optis-world.com/OPTIS-revealed/Development-partners/PLM-Software/Dassault-Syst%C3%A8mes&lt;/a&gt;
+&lt;a href=&#34;https://www.ansys.com/about-ansys/news-center/03-22-18-ansys&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/about-ansys/news-center/03-22-18-ansys&lt;/a&gt;
+&lt;a href=&#34;https://goo.gl/EsV5Bz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/EsV5Bz&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -2,34 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DIGIMAT on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/digimat/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/digimat/</link>
     <description>MagicDPD: Magic Driven Product Development! (DIGIMAT)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Tue, 06 Dec 2022 19:00:01 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/digimat/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/digimat/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Сегодня, 6 декабря 2022 года, компания #Ansys объявила о под</title>
-      <link>http://localhost:1313/posts/2022-12-06-segodnya-6-dekabrya-2022-goda-kompaniya/</link>
+      <title>Сегодня, 6 декабря 2022 года, компания #Ansys объявила о подписании соглашения по поглощению #DYNAmore!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-12-06-segodnya-6-dekabrya-2022-goda-kompaniya/</link>
       <pubDate>Tue, 06 Dec 2022 19:00:01 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-12-06-segodnya-6-dekabrya-2022-goda-kompaniya/</guid>
-      <description>&lt;p&gt;DYNAmore поставляет и поддерживает #LSDYNA (отраслевой стандарт для краштестов) для всех ключевых автомобильных компаний европы, что генерирует внушительный поток денег.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-12-06-segodnya-6-dekabrya-2022-goda-kompaniya/</guid>
+      <description>&lt;p&gt;В официальном пресс-релизе компания DYNAmore позиционируется как ключ к мировой автомобильной индустрии, и это не далеко от истины.&lt;/p&gt;
+&lt;p&gt;DYNAmore поставляет и поддерживает #LSDYNA (отраслевой стандарт для краштестов) для всех ключевых автомобильных компаний европы, что генерирует внушительный поток денег.&lt;/p&gt;
 &lt;p&gt;Однако, стоит отметить, что DYNAmore по умолчанию сидит не на инфраструктуре Ansys - они предпочитают специализированные решения от #BetaCAE (#ANSA, например), #Oasys (#PRIMER, например) и даже #Hexagon (#DIGIMAT, например). А еще у DYNAmore есть и свои разработки, иногда конкурирующие с Ansys: DYNAFORM (привет Ansys Forming), связка LoCo+CAViT+Status.E (привет #Minerva и #EKM), #FEMZIP и куча разных утилит по мельче.&lt;/p&gt;
 &lt;p&gt;Так что инженеров DYNAmore в ближайшие годы ждет интересный процесс борьбы за привычные инструменты и погружения в мир #Workbench. &lt;a href=&#34;https://www.ansys.com/news-center/press-releases/12-6-22-ansys-and-automotive-simulation-leader-dynamore-sign-definitive-acquisition-agreement&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/news-center/press-releases/12-6-22-ansys-and-automotive-simulation-leader-dynamore-sign-definitive-acquisition-agreement&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys.com/news-center/press-releases/12-6-22-ansys-and-automotive-simulation-leader-dynamore-sign-definitive-acquisition-agreement&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys and Automotive Simulation Leader DYNAmore Sign Definitive Acquisition Agreement&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Комания #MultiMechanics объявила об интеграции своего продук</title>
-      <link>http://localhost:1313/posts/2016-05-02-komaniya-multimechanics-obyavila-ob-inte/</link>
+      <title>AniForm - штамповка композитов</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-12-27-aniform-shtampovka-kompozitov/</link>
+      <pubDate>Mon, 27 Dec 2021 13:01:30 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-12-27-aniform-shtampovka-kompozitov/</guid>
+      <description>&lt;p&gt;AniForm - штамповка композитов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/07GAWmAvDKE?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/07GAWmAvDKE?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Делая обзор литературы по одному из проектов наткнулся на интересный инструмент по моделированию штамповки композитных изделий. AniForm позволят рассчитывать штамповку с учетом взаимного влияния мультиаксиальных тканей различной структуры плетения, а также учитывать полимеризацию связующего при нагреве. При этом у AniForm есть интерфейсы для экспорта получаемой структуры изделий в Ansys Composite PrepPost, e-Xstream’s Digimat, Abaqus CAE и Moldex3D + LS-DYNA для прямой генерации карты материала *MAT_249/*MAT_REINFORCED_THERMOPLASTIC.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/-_nbLgicSe8?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/-_nbLgicSe8?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#abaqus #acp #ansys #composite #digimat #forming #lsdyna
+&lt;a href=&#34;https://tinyurl.com/y6s22ms2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y6s22ms2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/07GAWmAvDKE?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;AniForm General: First-time-right process implementation&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/-_nbLgicSe8?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/-_nbLgicSe8?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/y6s22ms2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y6s22ms2&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Комания #MultiMechanics объявила об интеграции своего продукта #MultiMech в среду #ANSYS.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-02-komaniya-multimechanics-obyavila-ob-inte/</link>
       <pubDate>Mon, 02 May 2016 17:53:50 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-05-02-komaniya-multimechanics-obyavila-ob-inte/</guid>
-      <description>&lt;p&gt;По описанию и демонстрационным роликам MultiMech позволяет делать гомогенизацию и гетерогенизацию для композитов, учитывать направления волокон на основе данных о технологии заливки связующего и делать еще много чего другого полезного. Чем-то он мне напомнил #DIGIMAT.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-02-komaniya-multimechanics-obyavila-ob-inte/</guid>
+      <description>&lt;p&gt;Из описания можно сделать вывод, что #ACT будет доступен в ближайшем месяце на портале поддержки ANSYS.&lt;/p&gt;
+&lt;p&gt;По описанию и демонстрационным роликам MultiMech позволяет делать гомогенизацию и гетерогенизацию для композитов, учитывать направления волокон на основе данных о технологии заливки связующего и делать еще много чего другого полезного. Чем-то он мне напомнил #DIGIMAT.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://info.multimechanics.com/ansys-news&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MultiMech for Ansys News&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Старые-добрые времена, когда #ANSYS дружил с #DIGIMAT</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-28-starye-dobrye-vremena-kogda-ansys-druzh/</link>
+      <pubDate>Thu, 28 Apr 2016 04:10:49 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-28-starye-dobrye-vremena-kogda-ansys-druzh/</guid>
+      <description>&lt;p&gt;Старые-добрые времена, когда #ANSYS дружил с #DIGIMAT&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>28 января в 2 часа дня по Москве #MSC покажет новый #Digimat 2016. Для этого они проведут ведена (ссылка чуть ниже).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-19-28-yanvarya-v-2-chasa-dnya-po-moskve-msc-po/</link>
+      <pubDate>Tue, 19 Jan 2016 06:30:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-19-28-yanvarya-v-2-chasa-dnya-po-moskve-msc-po/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://goo.gl/JfQJeU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MSC Software Corporation. WebEx Enterprise Site&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

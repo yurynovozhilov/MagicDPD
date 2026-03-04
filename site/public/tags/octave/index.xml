@@ -2,27 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Octave on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/octave/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/octave/</link>
     <description>MagicDPD: Magic Driven Product Development! (Octave)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 25 May 2018 18:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2020 13:00:21 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/octave/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/octave/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Madona: Run MATLAB/Octave code</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-19-madona-run-matlaboctave-code/</link>
+      <pubDate>Thu, 19 Mar 2020 13:00:21 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-19-madona-run-matlaboctave-code/</guid>
+      <description>&lt;p&gt;Madona: Run MATLAB/Octave code
+#iOS #MATLAB #Octave
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/madona-run-matlab-octave-code/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Madona: Run MATLAB/Octave code - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>FEATool Multiphysics 1.8 теперь дружит с OpenFOAM</title>
-      <link>http://localhost:1313/posts/2018-05-25-featool-multiphysics-18-teper-druzhit-s/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-25-featool-multiphysics-18-teper-druzhit-s/</link>
       <pubDate>Fri, 25 May 2018 18:00:56 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-05-25-featool-multiphysics-18-teper-druzhit-s/</guid>
-      <description>&lt;p&gt;Пакет для КЭ нанализа на FEATool Multiphysics — это открытый и бесплатный код, работающий опверх MATLAB. Теперь он адаптировался еще и под открытый и бесплатный GNU Octave.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-25-featool-multiphysics-18-teper-druzhit-s/</guid>
+      <description>&lt;p&gt;FEATool Multiphysics 1.8 теперь дружит с OpenFOAM&lt;/p&gt;
+&lt;p&gt;Пакет для КЭ нанализа на FEATool Multiphysics — это открытый и бесплатный код, работающий опверх MATLAB. Теперь он адаптировался еще и под открытый и бесплатный GNU Octave.
 Кроме того, основной фишкой нового релиза стала интеграция OpenFOAM и даже создание GUI для этого дела. Теперь прямо из интерфейса FEATool можно готовить и ставить задачи не только для их собстенного КЭ решателя, но и для OpenFOAM, и для FEniCS.&lt;/p&gt;
 &lt;p&gt;Ну и до кучи, в ПО докинули новый функционал по работе с STL геометрией, получившей всеобщую популятность на волне развития аддитивных технологий.
 &lt;a href=&#34;https://www.featool.com/news/2018/05/17/FEATool-v1p8-with-OpenFOAM-Matlab-CFD-Solver-Interface.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/news/2018/05/17/FEATool-v1p8-with-OpenFOAM-Matlab-CFD-Solver-Interface.html&lt;/a&gt;
 #FEATool #FEniCS #MATLAB #Octave #Open Source #OpenFOAM #STL&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Ry&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Ry&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.featool.com/news/2018/05/17/FEATool-v1p8-with-OpenFOAM-Matlab-CFD-Solver-Interface.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FEATool 1.8 - OpenFOAM MATLAB CFD Solver and GUI Interface&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-1Ry&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Ry&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Топологическая оптимизация в FEATool</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-21-topologicheskaya-optimizatsiya-v-featool/</link>
+      <pubDate>Wed, 21 Feb 2018 18:01:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-21-topologicheskaya-optimizatsiya-v-featool/</guid>
+      <description>&lt;p&gt;Топологическая оптимизация в FEATool
+В связке FEATool Multiphysics + Matlab или Octave оказывается доступна оптимизация топологии.
+Шинтаро Ямасаки (Shintaro Yamasaki) из университета Осаки (Osaka University) подготовил учебный пример по тому, как можно решить задачу оптимизации топологии. К сожалению, статья описывающая постановку платная: https://link.springer.com/article/10.1007%2Fs00158-010-0562-2, однако ссылка на сам m-script, выполняющий тестовый пример в FEATool, публично доступна: http://www.featool.com/download/optexec.m&lt;/p&gt;
+&lt;p&gt;По материалам: &lt;a href=&#34;http://www.featool.com/tutorial/2018/02/20/Topology-Optimization-Modeling-Example.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.featool.com/tutorial/2018/02/20/Topology-Optimization-Modeling-Example.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/article/10.1007%2Fs00158-010-0562-2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://link.springer.com/article/10.1007%2Fs00158-010-0562-2&lt;/a&gt;
+&lt;a href=&#34;http://www.featool.com/download/optexec.m&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.featool.com/download/optexec.m&lt;/a&gt;
+&lt;a href=&#34;http://www.featool.com/tutorial/2018/02/20/Topology-Optimization-Modeling-Example.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.featool.com/tutorial/2018/02/20/Topology-Optimization-Modeling-Example.html&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

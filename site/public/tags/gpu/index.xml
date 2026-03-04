@@ -1,37 +1,274 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GPU on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/gpu/</link>
-    <description>MagicDPD: Magic Driven Product Development! (GPU)</description>
+    <title>Gpu on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/gpu/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Gpu)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 12 Apr 2019 17:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Apr 2023 18:00:01 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/gpu/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/gpu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Как говорят разработчики, у них самое быстрое и наиболее эффективное с точки зрения использования памяти программное обеспечение для #CFD в постановке решетчатых уравнений Больцмана, работающее на всех #GPU через #OpenCL.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2023-04-12-kak-govoryat-razrabotchiki-u-nih-samoe-by/</link>
+      <pubDate>Wed, 12 Apr 2023 18:00:01 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2023-04-12-kak-govoryat-razrabotchiki-u-nih-samoe-by/</guid>
+      <description>&lt;p&gt;А еще оно открытое и бесплатное. Интересно, как там с физикой дела.&lt;/p&gt;
+&lt;p&gt;#LBM #FluidX3D #opensource &lt;a href=&#34;https://github.com/ProjectPhysX/FluidX3D&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/ProjectPhysX/FluidX3D&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ProjectPhysX/FluidX3D&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/ProjectPhysX/FluidX3D&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#FluidX3D - это программное обеспечение для #CFD моделирования методом решетчатых уравнений Больцмана #LBM.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-07-04-fluidx3d-eto-programmnoe-obespechenie/</link>
+      <pubDate>Mon, 04 Jul 2022 16:22:01 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-07-04-fluidx3d-eto-programmnoe-obespechenie/</guid>
+      <description>&lt;p&gt;Решение идет &amp;ldquo;в реальном времени&amp;rdquo; благодаря использованию мощностей #GPU через #OpenCL.&lt;/p&gt;
+&lt;p&gt;В качестве примера работы кода автор предлагает расчет внешней аэродинамики Боинга 747 на числах Рейнольдса Re=50k.  Разрешение модели 912×1824×456, 100k временных шагов, время вычисления+рендеринга 6.5 часов #Nvidia #A100 40GB GPU. &lt;a href=&#34;https://www.youtube.com/watch?v=zp6tgdN9EBY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=zp6tgdN9EBY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=zp6tgdN9EBY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=zp6tgdN9EBY&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#BetaCAE Systems объявили о том, что теперь в #ANSA добавлен (естественно за отдельную платную лицензию) #SPH решатель их собственно разработки.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-05-24-betacae-systems-obyavili-o-tom-chto-tep/</link>
+      <pubDate>Tue, 24 May 2022 18:00:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-05-24-betacae-systems-obyavili-o-tom-chto-tep/</guid>
+      <description>&lt;p&gt;Решатель предназначен для моделирования #FSI процессов. Основные примеры применения от разработчика: наполнение топливного бака, слошинг и аквапланирование. Заявлено, что SPH код работает на #GPU, что позволяет получать результаты &amp;ldquo;почтив реальном времени.&amp;rdquo; &lt;a href=&#34;https://youtu.be/0W6tv3gLuYw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/0W6tv3gLuYw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/0W6tv3gLuYw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Smoothed Particle Hydrodynamics (SPH) in ANSA&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>А вот новость этого года про использование #GPU для #CFD расчетов в #Fluent. В версии #Ansys 2022 R1 завезли beta версию, как я называю &#34;второго поколения&#34; CFD-GPU решателя, который получил название &#34;Ansys Multi-GPU Solver&#34;. Данный решатель пока работает не для вех бесчисленных классов задач, решаемых Fluent. Но, вот для задач внешней аэродинамики, производительность решателя просто взлетает в космос!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-22-a-vot-novost-etogo-goda-pro-ispolzovan/</link>
+      <pubDate>Fri, 22 Apr 2022 17:00:10 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-22-a-vot-novost-etogo-goda-pro-ispolzovan/</guid>
+      <description>&lt;p&gt;Одна карта #NVIDIA #A100 дает производительность, соизмеримую с 272 процессорными ядрами #Intel #Xeon #Gold 6242!&lt;/p&gt;
+&lt;p&gt;Новый решатель позволяет одновременно:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;снизить стоимость используемого железа до 7 раз&lt;/li&gt;
+&lt;li&gt;снизить потребление электроэнергии вычислительной системой до 4 раза&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;А если учесть, что решатели Ansys традиционно лицензируется так, что стоимость задействования 1 процессорного ядра эквивалентна стоимости задействования 1 карты NVIDIA A100, то цена требуемых для #HPC расчетов лицензий с новым &amp;ldquo;Ansys Multi-GPU Solver&amp;rdquo; оказывается если не в сотни, то в десятки раз ниже! &lt;a href=&#34;https://www.ansys.com/blog/unleashing-the-power-of-multiple-gpus-for-cfd-simulations&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/blog/unleashing-the-power-of-multiple-gpus-for-cfd-simulations&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys.com/blog/unleashing-the-power-of-multiple-gpus-for-cfd-simulations&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Unleashing the Power of Multiple GPUs for CFD Simulations&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Для меня стало большой новостью, что только в этом году компания #Siemens таки смогла завести поддержку #GPU от #NVIDIA в свой флагманский #CFD решатель #Simcenter #STARCCM&#43; 2022.1. Стоит отметить, что у основного конкурента - #Ansys #Fluent поддержка GPU появилась чуть ли не 5 лет назад. Так что я как-то в замешательстве, как так получилось?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-21-dlya-menya-stalo-bolshoy-novostyu-chto-tol/</link>
+      <pubDate>Thu, 21 Apr 2022 17:00:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-21-dlya-menya-stalo-bolshoy-novostyu-chto-tol/</guid>
+      <description>&lt;p&gt;#HPC &lt;a href=&#34;https://www.plm.automation.siemens.com/global/ru/our-story/newsroom/simcenter-star-ccm-cfd-gpu-nvidia/105875&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.plm.automation.siemens.com/global/ru/our-story/newsroom/simcenter-star-ccm-cfd-gpu-nvidia/105875&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.plm.automation.siemens.com/global/ru/our-story/newsroom/simcenter-star-ccm-cfd-gpu-nvidia/105875&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.plm.automation.siemens.com/global/ru/our-story/newsroom/simcenter-star-ccm-cfd-gpu-nvidia/105875&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Matlab &#43; GPU</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-06-10-matlab-&#43;-gpu/</link>
+      <pubDate>Thu, 10 Jun 2021 16:01:48 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-06-10-matlab-&#43;-gpu/</guid>
+      <description>&lt;p&gt;Matlab + GPU&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=F2z5iP9EcnI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=F2z5iP9EcnI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#gpu #matlab #nvidia
+&lt;a href=&#34;https://tinyurl.com/yeemewcg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yeemewcg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=F2z5iP9EcnI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;GPU Computing in MATLAB&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yeemewcg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yeemewcg&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project Chrono</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-12-project-chrono/</link>
+      <pubDate>Fri, 12 Mar 2021 13:01:28 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-12-project-chrono/</guid>
+      <description>&lt;p&gt;Project Chrono&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/185824185&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vimeo.com/185824185&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Chrono - это открытый фреймворк математического моделирования физических процессов на C++. Библиотеки фреймворк позволяют решать такие задачи, как твердотельная кинематика, CFD и FEM моделирование и различные бессеточные методы/методы частиц. Разработкой кода занимается Висконсинский центр прикладных вычислений (Wisconsin Applied Computing Center, WACC) Университета штата Висконсин-Мэдисон (University of Wisconsin-Madison). Кроме того, доступна работа с фреймворком из Python благодаря PyChrono. Кроме того, все это еще может стыковаться с TensorFlow для накопления статистики и машинного обучения.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/FzF_W1-R5Eg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/FzF_W1-R5Eg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Вообще, так как задача создания хорошего сеточного оказывается сложнее, чем задача написания решателя, то, по моим наблюдениям, большинство современных исследовательских исходных кодов выбирают именно бессеточный путь. При этом, просадку производительности, по сравнению с сеточными методами, они решают активным использованием GPU. В целом, такой подход выглядит очень эффектным и эффективным, но не для классических задач прочности и гидро-аэро динамики.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/pd_vmqW67lA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/pd_vmqW67lA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Сайт проетка: &lt;a href=&#34;https://projectchrono.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://projectchrono.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-ENZxnEj-io&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=-ENZxnEj-io&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ogia_qyFufI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ogia_qyFufI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#gpu #open_source #projectchrono #pychrono
+&lt;a href=&#34;https://tinyurl.com/ydqtbqdu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ydqtbqdu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/185824185&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Chrono::Vehicle HMMWV with nonlinear FEA tires negotiating an obstacle on deformable, granular terrain&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/FzF_W1-R5Eg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/FzF_W1-R5Eg&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/pd_vmqW67lA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/pd_vmqW67lA&lt;/a&gt;
+&lt;a href=&#34;https://projectchrono.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://projectchrono.org/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=-ENZxnEj-io&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=-ENZxnEj-io&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=ogia_qyFufI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ogia_qyFufI&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/ydqtbqdu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ydqtbqdu&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impetus Afea для реверсивной прокатки?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-10-19-impetus-afea-dlya-reversivnoy-prokatki/</link>
+      <pubDate>Mon, 19 Oct 2020 13:40:40 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-10-19-impetus-afea-dlya-reversivnoy-prokatki/</guid>
+      <description>&lt;p&gt;!
+#Afea #explicit #GPU #IMPETUS #rolling
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/impetus-afea-hot-rolling/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Impetus Afea для реверсивной прокатки?! - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DualSPHysics v5</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-31-dualsphysics-v5/</link>
+      <pubDate>Tue, 31 Mar 2020 13:00:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-31-dualsphysics-v5/</guid>
+      <description>&lt;p&gt;DualSPHysics v5
+#DualSPHysics #GPU #Open_Source #SPH
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/dualsphysics-v5/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DualSPHysics v5 - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Красивые взрывы</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-23-krasivye-vzryvy/</link>
+      <pubDate>Mon, 23 Mar 2020 13:00:49 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-23-krasivye-vzryvy/</guid>
+      <description>&lt;p&gt;Красивые взрывы
+#blast #CFD #GPU #Viper_Blast
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/beautiful-explosions/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Красивые взрывы - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSC Apex Generative Design</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-02-06-msc-apex-generative-design/</link>
+      <pubDate>Thu, 06 Feb 2020 20:05:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-02-06-msc-apex-generative-design/</guid>
+      <description>&lt;p&gt;MSC Apex Generative Design&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/msc-apex-generative-design/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MSC Apex Generative Design - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GENESIS - CFD код от GE</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-02-genesis-cfd-kod-ot-ge/</link>
+      <pubDate>Wed, 02 Oct 2019 13:00:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-02-genesis-cfd-kod-ot-ge/</guid>
+      <description>&lt;p&gt;GENESIS - CFD код от GE&lt;/p&gt;
+&lt;p&gt;Вычислительный код GENESIS разрабатывается GE на базе существующей научной разработки hp-adaptive Multi-physics Simulation Code (hpMusic), так что правильнее его называть hpMusic/GENESIS.&lt;/p&gt;
+&lt;p&gt;Код, по заявлениям разработчиков, очень интересный.Это не традиционный метод конечных объемов, а некий собственный «flux reconstruction method», который представляет собой некую смесь лагранжева и эйлерова подхода к описанию среды. Если я правильно понял его суть, то каждый вихрь в этом методе считается в эйлеровой постановке, а вот перемещение эйлерова домена с вихрем по пространству — уже в лагранжевой. Говорят, что такая схема позволяет очень хорошо разложить задачу на большой массив GPU и минимизировать затраты на связь между доменами. Больше информации тут: &lt;a href=&#34;https://www.olcf.ornl.gov/2019/09/12/gpus-power-ge-code-at-olcf-hackathons/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.olcf.ornl.gov/2019/09/12/gpus-power-ge-code-at-olcf-hackathons/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#CFD #GE #GENESIS #GPU #HPC #HpMusic #NVIDIA
+&lt;a href=&#34;https://bit.ly/2mYKCcQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://bit.ly/2mYKCcQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.olcf.ornl.gov/2019/09/12/gpus-power-ge-code-at-olcf-hackathons/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;GPUs Power GE Code at OLCF Hackathons&lt;/a&gt;
+&lt;a href=&#34;https://bit.ly/2mYKCcQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://bit.ly/2mYKCcQ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Viper::Blast — ударные волны на GPU</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-20-viperblast-udarnye-volny-na-gpu/</link>
+      <pubDate>Sat, 20 Apr 2019 17:00:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-20-viperblast-udarnye-volny-na-gpu/</guid>
+      <description>&lt;p&gt;Viper::Blast — ударные волны на GPU&lt;/p&gt;
+&lt;p&gt;Про проект Viper::Blast я уже когда-то писал — это код, моделирующий распространение ударных волн с применением вычислений на GPU. Судя по данному ролику, GPU позволяют ускорить расчет без малого в 38 раз для тестового примера. Очень неплохо, но как система поведёт себя с более сложной геометрией неизвестно.&lt;/p&gt;
+&lt;p&gt;#blast #GPU #Viper_Blast&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2u1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2u1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2u1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2u1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Оптимизация топологии в ANSYS на GPU — легко!</title>
-      <link>http://localhost:1313/posts/2019-04-12-optimizatsiya-topologii-v-ansys-na-gpu-l/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-12-optimizatsiya-topologii-v-ansys-na-gpu-l/</link>
       <pubDate>Fri, 12 Apr 2019 17:00:26 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-04-12-optimizatsiya-topologii-v-ansys-na-gpu-l/</guid>
-      <description>&lt;p&gt;Это решение напрашивалось уже давно. Задачи оптимизации топологии обычно очень ресурсоемки — ведь на каждой итерации вам предстоит рассчитать энергию деформации всего расчетного домена, который существенно больше итоговой конструкции. Как ускорить данный процесс?&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-12-optimizatsiya-topologii-v-ansys-na-gpu-l/</guid>
+      <description>&lt;p&gt;Оптимизация топологии в ANSYS на GPU — легко!&lt;/p&gt;
+&lt;p&gt;Это решение напрашивалось уже давно. Задачи оптимизации топологии обычно очень ресурсоемки — ведь на каждой итерации вам предстоит рассчитать энергию деформации всего расчетного домена, который существенно больше итоговой конструкции. Как ускорить данный процесс?&lt;/p&gt;
 &lt;p&gt;А что, если натравить на решение задачи самый быстрый КЭ решетель на рынке — ANSYS Discovery Live? Ведь он может решать линейные задачи на GPU за считанные секунды!&lt;/p&gt;
 &lt;p&gt;Итак, мы получаем оптимизацию топологии в Discovery Live, которая считает быстрее, чем у других строится анимация по готовым результатам. При этом мы еще получаем сразу гладкий STL файл, благодаря использованию самого передового Level-Set метода. Ну и для проверочного расчета тоже никуда идти не надо: Live c радостью сделает его для вас на основе STL всего за пару секунд.&lt;/p&gt;
 &lt;p&gt;#ANSYS #Discovery #GPU #level_set_method #Live #optimization #Topology&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2tz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2tz&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2tz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2tz&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Динамика гибких волокон в Rocky DEM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-15-dinamika-gibkih-volokon-v-rocky-dem/</link>
+      <pubDate>Fri, 15 Feb 2019 17:00:55 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-15-dinamika-gibkih-volokon-v-rocky-dem/</guid>
+      <description>&lt;p&gt;Динамика гибких волокон в Rocky DEM&lt;/p&gt;
+&lt;p&gt;Если вы не в курсе, то Rocky DEM давно уже перерос простой DEM. Если раньше он щеголял моделированием хрупкого разрушения частиц произвольной формы, то теперь у него есть упругие частицы в shell и beam представлении. И все это по- прежнему отлично работает на GPU. Красота — глаз не оторвать.&lt;/p&gt;
+&lt;p&gt;#GPU #Rocky&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2jw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2jw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2jw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2jw&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pacefish от SimScale</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-14-pacefish-ot-simscale/</link>
+      <pubDate>Mon, 14 Jan 2019 17:00:25 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-14-pacefish-ot-simscale/</guid>
+      <description>&lt;p&gt;Pacefish от SimScale&lt;/p&gt;
+&lt;p&gt;Начало этого года отметилось очень интересной новостью от SimScale. Коллеги из области облачных вычислений рассказали про их новую разработу — CFD решатель Pacefish.&lt;/p&gt;
+&lt;p&gt;Данный решатель специально разработан компанией Numeric Systems GmbH для SimScale — раньше SimScale пользовались общедоступными открытыми решателями. Pacefish — это CFD решатель на основе метода решёточных уравнений Больцмана (Lattice Boltzmann methods, LBM), а значит хорошо параллелиться на GPU, не требует подготовки сетки, подходит для сложной/подвижной геометрии и быстро считает нестационарные задачи.&lt;/p&gt;
+&lt;p&gt;На головном сайте компании уже крутиться шикарное демо видео работы решателя!
+Ссылка для доступа к запись первого вебинара по теме: https://www.simscale.com/webinars-workshops/lbm-flow-solver/
+#CFD #cloud #GPU #LBM #Simscale&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2fn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2fn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.simscale.com/webinars-workshops/lbm-flow-solver/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.simscale.com/webinars-workshops/lbm-flow-solver/&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2fn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2fn&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creo Simulation Live - free beta/trial</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-25-creo-simulation-live-free-betatrial/</link>
+      <pubDate>Tue, 25 Dec 2018 17:01:21 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-25-creo-simulation-live-free-betatrial/</guid>
+      <description>&lt;p&gt;Creo Simulation Live - free beta/trial&lt;/p&gt;
+&lt;p&gt;Результатом дружбы ANSYS и PTC стал замечательный продукт Creo Simulation Live: физический движок от ANSYS Discovery Live встроеный в геометрическое ядро PTC Creo.&lt;/p&gt;
+&lt;p&gt;Таким образом, конструкторы получают возможность проводить расчеты в реальном времени без подготовки сеточных моделей и внесения упрощений. Просто добавте GPU NVIDIA.&lt;/p&gt;
+&lt;p&gt;В видео есть ссылка на скачивание предварительной бесплатной вермиии и расширенное демо видео работы.&lt;/p&gt;
+&lt;p&gt;#ANSYS #CAD #Creo #Discovery #GPU #Live #NVIDIA #PTC
+&lt;a href=&#34;http://bit.ly/2V9EPgE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2V9EPgE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2V9EPgE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2V9EPgE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>ANSYS подружится с Prometech Software, Inc.</title>
-      <link>http://localhost:1313/posts/2018-12-21-ansys-podruzhitsya-s-prometech-software-i/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-21-ansys-podruzhitsya-s-prometech-software-i/</link>
       <pubDate>Fri, 21 Dec 2018 17:01:50 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-12-21-ansys-podruzhitsya-s-prometech-software-i/</guid>
-      <description>&lt;p&gt;В прошедший понедельник на своей конференции японская компания Prometech Software, Inc. объявила о дружбе с ANSYS. Давайте разберемся, почему это очень круто.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-21-ansys-podruzhitsya-s-prometech-software-i/</guid>
+      <description>&lt;p&gt;ANSYS подружится с Prometech Software, Inc.&lt;/p&gt;
+&lt;p&gt;В прошедший понедельник на своей конференции японская компания Prometech Software, Inc. объявила о дружбе с ANSYS. Давайте разберемся, почему это очень круто.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://youtu.be/WDFSzgjWR_4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/WDFSzgjWR_4&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Прежде всего, стоит вспомнить, что Prometech - это разработчик Particleworks, одного из самых умных бессеточных CFD решателей. Решатель бессеточный - работает на основе своего метода частиц MPS (Moving Particle Simulation) Method.&lt;/p&gt;
 &lt;p&gt;Работа решателя на основе метода частиц позволяет решать динамические задачи с подвижными (и сильно подвижными :-)) границами, FSI и описывать прочие динамические процессы - например, задачи смазки зубчатых передач, слошинш, аквапланирование.&lt;/p&gt;
@@ -39,15 +276,94 @@
 &lt;p&gt;&lt;a href=&#34;https://www.prometech.co.jp/newsroom_ja/prometech-and-ansys-announce-a-collaboration-to-provide-broader-multiphysics-solution.html?lang=ja&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.prometech.co.jp/newsroom_ja/prometech-and-ansys-announce-a-collaboration-to-provide-broader-multiphysics-solution.html?lang=ja&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ANSYS #CFD #FSI #GPU #Meshless #MPS #Particleworks #Prometech
 &lt;a href=&#34;http://bit.ly/2V1xxeO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2V1xxeO&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/WDFSzgjWR_4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Particleworks Introduction 2018.09&lt;/a&gt;
+&lt;a href=&#34;https://www.prometech.co.jp/newsroom_ja/prometech-and-ansys-announce-a-collaboration-to-provide-broader-multiphysics-solution.html?lang=ja&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.prometech.co.jp/newsroom_ja/prometech-and-ansys-announce-a-collaboration-to-provide-broader-multiphysics-solution.html?lang=ja&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2V1xxeO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2V1xxeO&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Live Parts от Desktop Metal - оптимизация топологии конструк</title>
-      <link>http://localhost:1313/posts/2018-03-10-live-parts-ot-desktop-metal-optimizatsi/</link>
+      <title>VIPER::BLAST</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-17-viperblast/</link>
+      <pubDate>Fri, 17 Aug 2018 18:00:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-17-viperblast/</guid>
+      <description>&lt;p&gt;VIPER::BLAST
+В сети появилась информация про новый CFD решатель VIPER::BLAST, специально разработанный для моделирования распространения ударных волн. В качестве главной фишки решателя декларируется высокое быстродействие благодаря активному использованию GPU NVIDIA в расчетах.&lt;/p&gt;
+&lt;p&gt;Сайт проекта есть, но пока он пуст: &lt;a href=&#34;https://www.viper-blast.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.viper-blast.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Blast #CFD #GPU #VIPERBLAST
+&lt;a href=&#34;http://bit.ly/2PkpaIK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PkpaIK&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.viper-blast.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Home | Viper::Blast&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2PkpaIK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PkpaIK&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Локализация профессионального софта</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-12-lokalizatsiya-professionalnogo-softa/</link>
+      <pubDate>Thu, 12 Jul 2018 18:00:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-12-lokalizatsiya-professionalnogo-softa/</guid>
+      <description>&lt;p&gt;Локализация профессионального софта
+Я очень часто слышу нарекания, почему ANSYS не переводят на русский язык. Это же так классно - всем инженерам сразу станет проще им пользоваться, жизнь обретет новые краски, расчеты начнут сходиться. Хотели - получите. ANSYS Discovery Live, предназначенный для констрУкторов и умеющий считать задачи механики, гидрогазодинамики и теплопроводности/теплообмена в реальном времени на GPU имеет локализованный интерфейс. Но вот только с чего вы взяли, что переводчики правильно переведут инженерные термины?&lt;/p&gt;
+&lt;p&gt;Направо пойдешь - верным будешь, налево пойдешь - быстро будет :-)
+Коллеги, если ваша профессия и ваш инструмент требуют от вас знание иностранного языка, то не придумывайте себе отмазок, и начинайте уже его учить. Вам же потом пригодится.&lt;/p&gt;
+&lt;p&gt;#ANSYS #Discovery #GPU
+&lt;a href=&#34;http://bit.ly/2ug2ksG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2ug2ksG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2ug2ksG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2ug2ksG&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Свежие видео по Discovery Live</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-23-svezhie-video-po-discovery-live/</link>
+      <pubDate>Wed, 23 May 2018 18:03:51 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-23-svezhie-video-po-discovery-live/</guid>
+      <description>&lt;p&gt;Свежие видео по Discovery Live&lt;/p&gt;
+&lt;p&gt;#ANSYS #Discovery #GPU #NVIDIA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Ro&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Ro&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Ro&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Ro&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Altair покупает FluiDyna</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-20-altair-pokupaet-fluidyna/</link>
+      <pubDate>Sun, 20 May 2018 18:01:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-20-altair-pokupaet-fluidyna/</guid>
+      <description>&lt;p&gt;Altair покупает FluiDyna&lt;/p&gt;
+&lt;p&gt;Altair объявил о покупке компании German Computation Fluid Dynamics, разработчика кодов FluiDyna ultraFluidX и FluiDyna nanoFluidX. Данные CFD коды уже давно входят в список партнерского ПО для Altair, а их разработчики получают соответствующие инвестиции.
+CFD решатели примечательны тем, что являются бессеточными. ultraFluidX — это решеточные уравнения Больцмана, а nanoFluidX — очень умный SPH. Соответсвенно, оба кода заточены на моделирование процессов с большим количеством подвижных границ и FSI. Также оба кода отлично подходят для работы на GPU NVIDIA.
+&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16931/Altair-Acquires-GPU-Accelerated-CFD-Company.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16931/Altair-Acquires-GPU-Accelerated-CFD-Company.aspx&lt;/a&gt;
+#Altair #Boltzmann #CFD #FluiDyna #FSI #GPU #LBM #nanoFluidX #NVIDIA #SPH #ultraFluidX&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1QY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1QY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16931/Altair-Acquires-GPU-Accelerated-CFD-Company.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Altair Acquires GPU-Accelerated CFD Company&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-1QY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1QY&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Реализация RAID алгоритмов на GPU</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-06-realizatsiya-raid-algoritmov-na-gpu/</link>
+      <pubDate>Fri, 06 Apr 2018 18:01:07 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-06-realizatsiya-raid-algoritmov-na-gpu/</guid>
+      <description>&lt;p&gt;Реализация RAID алгоритмов на GPU
+Пост на тему HPC — компания Nyriad демонстрирует работу их решения по реализации алгоримов RAID на базе GPU. Показывают отличное шоу.&lt;/p&gt;
+&lt;p&gt;#GPU #HPC #NVIDIA #Nyriad #RAID
+&lt;a href=&#34;https://goo.gl/DxwUSU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/DxwUSU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://goo.gl/DxwUSU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/DxwUSU&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Live Parts от Desktop Metal - оптимизация топологии конструкции в реальном времени!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-10-live-parts-ot-desktop-metal-optimizatsi/</link>
       <pubDate>Sat, 10 Mar 2018 18:02:17 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-03-10-live-parts-ot-desktop-metal-optimizatsi/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-10-live-parts-ot-desktop-metal-optimizatsi/</guid>
       <description>&lt;p&gt;Desktop Metal Lab (&lt;a href=&#34;https://labs.desktopmetal.com/liveparts/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://labs.desktopmetal.com/liveparts/&lt;/a&gt;) показали технологию оптимизации формы конструкции в реальном времени!&lt;/p&gt;
 &lt;p&gt;source&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;type&amp;rdquo;:&amp;ldquo;video&amp;rdquo;,&amp;ldquo;tracklist&amp;rdquo;:true,&amp;ldquo;tracknumbers&amp;rdquo;:true,&amp;ldquo;images&amp;rdquo;:true,&amp;ldquo;artists&amp;rdquo;:true,&amp;ldquo;tracks&amp;rdquo;:[&amp;ldquo;src&amp;rdquo;:&amp;ldquo;https://magicdpd.ru/wp-content/uploads/2018/03/source.mp4&amp;rdquo;,&amp;ldquo;type&amp;rdquo;:&amp;ldquo;video/mp4&amp;rdquo;,&amp;ldquo;title&amp;rdquo;:&amp;ldquo;source&amp;rdquo;,&amp;ldquo;caption&amp;rdquo;:&amp;quot;&amp;quot;,&amp;ldquo;description&amp;rdquo;:&amp;quot;&amp;quot;,&amp;ldquo;meta&amp;rdquo;:[],&amp;ldquo;dimensions&amp;rdquo;:&amp;ldquo;original&amp;rdquo;:&amp;ldquo;width&amp;rdquo;:1280,&amp;ldquo;height&amp;rdquo;:720,&amp;ldquo;resized&amp;rdquo;:&amp;ldquo;width&amp;rdquo;:618,&amp;ldquo;height&amp;rdquo;:348,&amp;ldquo;image&amp;rdquo;:&amp;ldquo;src&amp;rdquo;:&amp;ldquo;http://magicdpd.ru/wp-includes/images/media/video.png&amp;rdquo;,&amp;ldquo;width&amp;rdquo;:48,&amp;ldquo;height&amp;rdquo;:64,&amp;ldquo;thumb&amp;rdquo;:&amp;ldquo;src&amp;rdquo;:&amp;ldquo;http://magicdpd.ru/wp-includes/images/media/video.png&amp;rdquo;,&amp;ldquo;width&amp;rdquo;:48,&amp;ldquo;height&amp;rdquo;:64]&lt;/p&gt;
@@ -57,15 +373,64 @@ Live Parts доступна в рамках технологического д�
 P.S. Получилась система, как если бы ANSYS научил свой Discovery Live делать топологическую оптимизаию.&lt;/p&gt;
 &lt;p&gt;#Desktop_Metal #GPU #Optimization #SolidWorks #Topology
 &lt;a href=&#34;https://goo.gl/Bfi1Ua&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/Bfi1Ua&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://labs.desktopmetal.com/liveparts/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://labs.desktopmetal.com/liveparts/&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/wp-content/uploads/2018/03/source.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/wp-content/uploads/2018/03/source.mp4&lt;/a&gt;
+&lt;a href=&#34;http://www.develop3d.com/blog/2018/02/desktop-metal-launch-live-parts&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.develop3d.com/blog/2018/02/desktop-metal-launch-live-parts&lt;/a&gt;
+&lt;a href=&#34;https://goo.gl/Bfi1Ua&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/Bfi1Ua&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>#zCFD - #CFD код от #Zenotech для расчета сжимаемых течений,</title>
-      <link>http://localhost:1313/posts/2017-12-29-zcfd-cfd-kod-ot-zenotech-dlya-raschet/</link>
+      <title>Динамика плавающих тел</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-12-dinamika-plavayuschih-tel/</link>
+      <pubDate>Fri, 12 Jan 2018 17:01:44 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-12-dinamika-plavayuschih-tel/</guid>
+      <description>&lt;p&gt;Динамика плавающих тел
+Вашему вниманию предлагается примеры расчета движения тела на поверхности жидкости. Тело прикреплено швартовыми ко дну и в таком состоянии на него действует волнение.&lt;/p&gt;
+&lt;p&gt;Расчет выполнен в паре кодов DualSPHysics и MoorDyn. В этой связке DualSPHysics, SPH код разработанный NVIDIA Research Center, отвечает за динамику жидкости и FSI, а MoorDyn моделирует поведение швартовых.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=YUSxGXPkYvE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=YUSxGXPkYvE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/ToEsV0FDs0I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/ToEsV0FDs0I&lt;/a&gt;
+#DualSPHysics #FSI #GPU #MoorDyn #NVIDIA #offshore #Open Source #SPH
+&lt;a href=&#34;https://magicdpd.ru/?p=5914&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5914&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=YUSxGXPkYvE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=YUSxGXPkYvE&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/ToEsV0FDs0I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/ToEsV0FDs0I&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=5914&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5914&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DualSPHysics - для тех кому надо красиво</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-11-dualsphysics-dlya-teh-komu-nado-krasivo/</link>
+      <pubDate>Thu, 11 Jan 2018 12:40:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-11-dualsphysics-dlya-teh-komu-nado-krasivo/</guid>
+      <description>&lt;p&gt;DualSPHysics - для тех кому надо красиво&lt;/p&gt;
+&lt;p&gt;В основах современной 3D анимации зачастую закладывать, пусть и упрощенные, но физические расчеты. Примером таких анимационных инструментов может выступить #DualSPHysics. Данное ПО с открытым исходным кодом позволяет визуализировать сводную поверхности жидкости на основе #SPH метода.&lt;/p&gt;
+&lt;p&gt;При этом, есть даже неплохое сравнение с экспериментом, и возможность считать на #GPU!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=B8mP9E75D08&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=B8mP9E75D08&lt;/a&gt;
+&lt;a href=&#34;http://www.dual.sphysics.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dual.sphysics.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;DualSPHysics: GPU and OpenMP based Smoothed Particle Hydrodynamics
+&lt;a href=&#34;http://www.dual.sphysics.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dual.sphysics.org/&lt;/a&gt;
+DualSPHysics: A combined CUDA and OpenMP implementation of the Smoothed Particle Hydrodynamics method based on the advanced SPHysics code.&lt;/p&gt;
+&lt;p&gt;More than 1000 Million particles simulated with DualSPHysics (SPH on Multi-GPU)&lt;/p&gt;
+&lt;p&gt;#DualSPHysics #GPU #SPH
+&lt;a href=&#34;https://magicdpd.ru/?p=4938&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=4938&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=B8mP9E75D08&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=B8mP9E75D08&lt;/a&gt;
+&lt;a href=&#34;http://www.dual.sphysics.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dual.sphysics.org&lt;/a&gt;
+&lt;a href=&#34;http://www.dual.sphysics.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dual.sphysics.org/&lt;/a&gt;
+&lt;a href=&#34;http://www.dual.sphysics.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dual.sphysics.org/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/embed/B8mP9E75D08?__ref=vk.api&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/embed/B8mP9E75D08?__ref=vk.api&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=4938&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=4938&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#zCFD - #CFD код от #Zenotech для расчета сжимаемых течений, который обещает сразу кучу всего нового, и многое из это - бесплатно.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-29-zcfd-cfd-kod-ot-zenotech-dlya-raschet/</link>
       <pubDate>Fri, 29 Dec 2017 17:14:11 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-12-29-zcfd-cfd-kod-ot-zenotech-dlya-raschet/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-29-zcfd-cfd-kod-ot-zenotech-dlya-raschet/</guid>
       <description>&lt;p&gt;Итак, ключевые особенности ПО:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;эффективность - обычно присутствует у любого, уважающего себя кода&lt;/li&gt;
@@ -75,98 +440,332 @@ P.S. Получилась система, как если бы ANSYS научи�
 &lt;/ul&gt;
 &lt;p&gt;Теперь насчет бесплатности - полифункциональную версию для работы на машине с общей памятью можно скачать с сайта совершенно бесплатно!&lt;/p&gt;
 &lt;p&gt;Верификационные примеры для кода прилагаются: &lt;a href=&#34;http://ift.tt/2CmJ6GY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2CmJ6GY&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&lt;/a&gt; 🔗 New zCFD release for affordable CFD at scale | Zenotech Ltd&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&#34;https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20230929135949/https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt; 🔗 New zCFD release for affordable CFD at scale | Zenotech Ltd&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2ClqhnK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ClqhnK&lt;/a&gt;
+&lt;del&gt;&lt;a href=&#34;https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20230929135949/https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Статья - размышление про то, как #ANSYS #Discovery Live помо</title>
-      <link>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</link>
+      <title>Новость от больших: #Dassault Systèmes приобретает #Exa #Corporation - каннадского разработчика одноименного семейства #CFD кодов (#EXA #PowerFLOW что-то там) с очень высокой производительностью, особенно на #GPU.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-29-novost-ot-bolshih-dassault-syst%C3%A8mes-p/</link>
+      <pubDate>Fri, 29 Sep 2017 17:13:56 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-29-novost-ot-bolshih-dassault-syst%C3%A8mes-p/</guid>
+      <description>&lt;p&gt;Сумма сделка оценивается в $400m&lt;/p&gt;
+&lt;p&gt;Ну что ж, теперь в платформе Dassault есть нормальная гидрогазодинамика.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2xPLO5gMedia&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xPLO5gMedia&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2fX7Ito&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2fX7Ito&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2fWRKiX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2fWRKiX&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xPLXWl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xPLXWl&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2fXv02B&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2fXv02B&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2v2FNSC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2v2FNSC&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2fXv16F&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2fXv16F&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2jzS6k6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2jzS6k6&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xLv9PX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xLv9PX&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2fWRNv9&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2fWRNv9&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2fX7Ito&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2fX7Ito&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Статья - размышление про то, как #ANSYS #Discovery Live помогает ANSYS реализовать свободомыслий давнюю задумку: сделать всех инженеров и проектировщиков своими пользователями.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</link>
       <pubDate>Sun, 17 Sep 2017 17:04:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</guid>
       <description>&lt;p&gt;И тут ключевыми факторами успеха оказывается не только использование самого передового решателя, разработанного совместно с #NVIDIA. Не даром ANSYS очень дружен с разработчиком GPU. Об этом говорят те факты, что #Mechanical #APDL был первым коммерческим #FEM использовавшим #GPU, как и #Fluent - первым коммерческим #CFD использовавшим #GPU&lt;/p&gt;
 &lt;p&gt;Тут еще вспоминается и #SpaceClaim, который выйдя на рынок в 2005 сделал лидеров отстающими. Именно после #SpaceClaim появились такие системы, как #PTC #Creo, #Autodesk #Fusion и концепция #Siemens Synchronous Technology.&lt;/p&gt;
 &lt;p&gt;Сейчас SpaceClaim становиться геометрическим ядром для #Workbench, #AIM и #ANSYS #Discovery.&lt;/p&gt;
 &lt;p&gt;#GPGPU #CUDA
 &lt;a href=&#34;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&lt;/a&gt; 🔗 ANSYS Discovery Live Changes Everything&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenSBLI</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-11-opensbli/</link>
+      <pubDate>Sun, 11 Jun 2017 17:00:37 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-11-opensbli/</guid>
+      <description>&lt;p&gt;OpenSBLI
+&lt;a href=&#34;https://opensbli.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://opensbli.github.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Сегодня в меню у нас #python фреймворк разработанный для моделирования процесса взаимодействия скачка уплотнения с пограничным слоем (#SBLI, Shock-Boundary Layer Interactions) в рамках решения уравнения Навье-Стокса с учетом сжимаемости течения. Фреймворк генерирует на выходе код на языке Си, который уже выполняет расчеты. При этом, получаемый код может быть оптимизирован для исполнения на  #GPU с #CUDA или #OpenCL, а также он знает про технологии #MPI и #OpenMP.&lt;/p&gt;
+&lt;p&gt;Гремучая смесь для тех, кто знает, что делает.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Ob4NKZgUK3U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Ob4NKZgUK3U&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://opensbli.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://opensbli.github.io/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=Ob4NKZgUK3U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Ob4NKZgUK3U&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Наши успехи в DEM на GPU</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-13-nashi-uspehi-v-dem-na-gpu/</link>
+      <pubDate>Sat, 13 May 2017 17:01:06 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-13-nashi-uspehi-v-dem-na-gpu/</guid>
+      <description>&lt;p&gt;Наши успехи в DEM на GPU
+&lt;a href=&#34;http://www.nvidia.ru/object/rocky-dem-ru.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.nvidia.ru/object/rocky-dem-ru.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Мы тут #Rocky #DEM 4 тестировали (alpha-версию), и нашу статью даже сама #NVIDIA у себя на сайте разместила. Вообще очень интересно получилось, что несколько #GPU могут очень хорошо ускорить расчет или увеличить максимальную размерность задачи.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nvidia.ru/object/rocky-dem-ru.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.nvidia.ru/object/rocky-dem-ru.html&lt;/a&gt;
+&lt;a href=&#34;http://www.nvidia.ru/object/rocky-dem-ru.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.nvidia.ru/object/rocky-dem-ru.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GPU для сыпучих сред</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-17-gpu-dlya-sypuchih-sred/</link>
+      <pubDate>Mon, 17 Apr 2017 08:01:49 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-17-gpu-dlya-sypuchih-sred/</guid>
+      <description>&lt;p&gt;GPU для сыпучих сред
+&lt;a href=&#34;https://www.cadfem-cis.ru/list/article/rocky-nvidia-gpu/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/list/article/rocky-nvidia-gpu/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Мы тут #Rocky #DEM тестировали на новых #GPGPU от #NVIDIA - получилось любопытно. Основных мысли три:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;DEM просто создан для #GPU, особенно Rocky&lt;/li&gt;
+&lt;li&gt;Новые GPU на базе архитектуры #Pscal в разы уделывают #Kepler&lt;/li&gt;
+&lt;li&gt;И да, у нас была внутренняя alpha версия Rocky, на которой удалось проверить работу с несколькими GPU - все работает и хорошо!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=93qJovCA6pI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=93qJovCA6pI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cadfem-cis.ru/list/article/rocky-nvidia-gpu/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Численные расчеты сыпучих сред на GPU&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=93qJovCA6pI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=93qJovCA6pI&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CFD для миссии на Марс</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-18-cfd-dlya-missii-na-mars/</link>
+      <pubDate>Sat, 18 Feb 2017 12:00:12 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-18-cfd-dlya-missii-na-mars/</guid>
+      <description>&lt;p&gt;CFD для миссии на Марс
+&lt;a href=&#34;https://www.youtube.com/watch?v=vYA0f6R5KAI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=vYA0f6R5KAI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Компания #SpaceX имеет в своих планах полет на Марс в обозримом будущем. Будучи крайне прогрессивной организацией, они, естественно, придают огромное значение математическому моделированию физических процессов. В предлагаемом вебинаре они рассказывают о проблемах #CFD расчетом двигателей для космических кораблей, о том как важно учитывать химические реакции, какие подходы использовать при создании сетки&amp;hellip; и конечно про свой код, который считает все это на #GPU для пущего #HPC.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=vYA0f6R5KAI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=vYA0f6R5KAI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=vYA0f6R5KAI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;GPUs to Mars: Full-Scale Simulation of SpaceX&amp;rsquo;s Mars Rocket Engine&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Семинар проРоки!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-01-28-seminar-proroki/</link>
+      <pubDate>Sat, 28 Jan 2017 17:00:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-01-28-seminar-proroki/</guid>
+      <description>&lt;p&gt;Семинар проРоки!
+&lt;a href=&#34;https://www.cadfem-cis.ru/list/article/rocky-seminar-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/list/article/rocky-seminar-2017/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;28 февраля 2017 года в здании главного корпуса Санкт-Петербургского горного университета будет проходить важный и интересный семинар «Применение современных компьютерных технологий численного моделирования для решения задач минерально-сырьевого сектора».&lt;/p&gt;
+&lt;p&gt;Основные топики: #DEM, #Rocky, #Chemkin, #ANSYS, #CFD, #GPU, #NVIDIA&lt;/p&gt;
+&lt;p&gt;P.S. А какие есть интригующие названия докладов: &amp;ldquo;Численное моделирование и экспериментальное исследование работы щековой дробилки со сложным качанием щек 2ЩДС100X200&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cadfem-cis.ru/list/article/rocky-seminar-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/list/article/rocky-seminar-2017/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AGX Dynamics для частиц</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-16-agx-dynamics-dlya-chastits/</link>
+      <pubDate>Fri, 16 Dec 2016 17:00:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-16-agx-dynamics-dlya-chastits/</guid>
+      <description>&lt;p&gt;AGX Dynamics для частиц
+&lt;a href=&#34;https://www.youtube.com/watch?v=7OA-54FNYVQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=7OA-54FNYVQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Algoryx - разработчик Dynamics for #SpaceClaim выкатил новые фишки своего ПО&lt;/p&gt;
+&lt;p&gt;Из решатель #AGX Dynamics, который является сердцем Dynamics for #SpaceClaim - системы для расчета твердотельной динамики (#RBD) - теперь умеет решать задачи в #DEM постановке. При этом, используется не сферические частицы (привет #LSDYNA) и их кластеры (привет #EDEM), а частицы произвольной формы (привет #Rocky). Такую постановку метода дискретных элементов разработчики окрестили #NDEM (non-smooth discrete element methods). И это все помимо возможности моделировать поведение кабелей и тросов.&lt;/p&gt;
+&lt;p&gt;#AGX Dynamics уже сейчас умеет моделировать конвейерные системы, взаимодействие с твердыми телами, слипание частиц. Разрушения частиц нет, использования #GPU тоже пока нет. Но я думаю, что все это скоро будет.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=7OA-54FNYVQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=7OA-54FNYVQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=7OA-54FNYVQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Granular simulation in AGX Dynamics - Overview&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Numeca на GPU</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-12-numeca-na-gpu/</link>
+      <pubDate>Mon, 12 Dec 2016 17:01:54 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-12-numeca-na-gpu/</guid>
+      <description>&lt;p&gt;Numeca на GPU
+&lt;a href=&#34;http://developer.download.nvidia.com/compute/OpenACC-Toolkit/docs/Numeca_OpenACC.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://developer.download.nvidia.com/compute/OpenACC-Toolkit/docs/Numeca_OpenACC.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Numeca, славная своими #CFD подходами к моделированию турбомашин, реализовала #GPU ускорение на камнях от, естественно, #NVIDIA с использование набора инструментов #OpenACC. По этому поводу вышла небольшая брошюрка с полезной информацией.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://developer.download.nvidia.com/compute/OpenACC-Toolkit/docs/Numeca_OpenACC.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://developer.download.nvidia.com/compute/OpenACC-Toolkit/docs/Numeca_OpenACC.pdf&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Несколько слов про доставку инженерной графики</title>
-      <link>http://localhost:1313/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</link>
       <pubDate>Thu, 29 Sep 2016 17:00:58 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</guid>
+      <description>&lt;p&gt;Несколько слов про доставку инженерной графики
+&lt;a href=&#34;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#Microsoft продолжает хвастаться новыми возможностями по работе с #GPU, которые она реализует в #Windows #Server 2016. Нас ожидает поддержка нужного #OpenGL 4.4+ как в сценариях с #RDSH, так и при построении #VDI. При этом, в качестве средства доставки будет выступать привычный и понятный #RDP, а видеопоток будет полностью аппаратно кодироваться и декодироваться на GPU сервера и клиента. Аналогичные возможности ожидаются в #Azure #Cloud.&lt;/p&gt;
 &lt;p&gt;Неужели скоро все инженеры получат достойные системы доставки инженерной графики практически за так?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;New MS Mechanics video with the latest updates to RDS for Windows Server 2016&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Централизованное управление GPU вашего датацентра</title>
-      <link>http://localhost:1313/posts/2016-09-01-tsentralizovannoe-upravlenie-gpu-vashego-d/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-01-tsentralizovannoe-upravlenie-gpu-vashego-d/</link>
       <pubDate>Thu, 01 Sep 2016 06:30:07 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-09-01-tsentralizovannoe-upravlenie-gpu-vashego-d/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://devblogs.nvidia.com/parallelforall/nvidia-data-center-gpu-manager-cluster-administration/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://devblogs.nvidia.com/parallelforall/nvidia-data-center-gpu-manager-cluster-administration/&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-01-tsentralizovannoe-upravlenie-gpu-vashego-d/</guid>
+      <description>&lt;p&gt;Централизованное управление GPU вашего датацентра
+&lt;a href=&#34;https://devblogs.nvidia.com/parallelforall/nvidia-data-center-gpu-manager-cluster-administration/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://devblogs.nvidia.com/parallelforall/nvidia-data-center-gpu-manager-cluster-administration/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#NVIDIA объявила о выходе Data Center GPU Manager (#DCGM) предназанвенного для централизованного мониторинга и управления #GPU и #GPGPU вашего датацентра или кластера (у кого что). ПО имеет интерфейсы к основным игрокам #HPC рынка: Bright Custer Manager (#BCM), #Altair #PBS Works и #IBM Spectrum #LSF и позволяет производить низкоуровневую диагностику аппаратной части, конфигурирование драйверов и прочие низкоуровневые фишки.&lt;/p&gt;
 &lt;p&gt;Nvidia DCGM 1.0 Release Candidate доступен для скачивания по регистрации (&lt;a href=&#34;https://developer.nvidia.com/data-center-gpu-manager-dcgm-access%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://developer.nvidia.com/data-center-gpu-manager-dcgm-access)&lt;/a&gt;. О том, будет ли данное ПО бесплано, или потребуется приобретение лицензий пока не сообщается, но что-то мне подсказывает, что с учетом последних действий NVIDIA нам всем придется раскошелиться.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://devblogs.nvidia.com/parallelforall/nvidia-data-center-gpu-manager-cluster-administration/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;NVIDIA Data Center GPU Manager Simplifies Cluster Administration&lt;/a&gt;
+&lt;a href=&#34;https://developer.nvidia.com/data-center-gpu-manager-dcgm-access&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://developer.nvidia.com/data-center-gpu-manager-dcgm-access&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EDEM 2017</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-25-edem-2017/</link>
+      <pubDate>Thu, 25 Aug 2016 06:30:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-25-edem-2017/</guid>
+      <description>&lt;p&gt;EDEM 2017
+&lt;del&gt;&lt;a href=&#34;http://www.edemsimulation.com/blog/simulate-faster-new-edem-gpu-solver/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.edemsimulation.com/blog/simulate-faster-new-edem-gpu-solver/&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20170705034649/https://www.edemsimulation.com/blog/simulate-faster-new-edem-gpu-solver/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Август выдался особенно удачный на новые релизы. #EDEM, один из лидирующих пакетов для моделирования сыпучих сред в #DEM постановке, вышел в новом релизе. Основное нововведение EDEM 2017 - это долгожданная поддержка #GPU, которая наконец появилась в след за #Rocky (не прошло и 2-х дет :-)).&lt;/p&gt;
+&lt;p&gt;Примечательно, что вместо поддержки #CUDA, разработчики выбрали более универсальный стандарт #OpenCL, что позволит им использовать GPU и математические сопроцессоры не только от #NVIDIA, но и от #AMD и #Intel (#Phi). Обещается ускорение до 10 раз в сравнение с обычными #CPU.&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&#34;http://www.edemsimulation.com/blog/simulate-faster-new-edem-gpu-solver/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Simulate faster with the new EDEM GPU solver&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20170705034649/https://www.edemsimulation.com/blog/simulate-faster-new-edem-gpu-solver/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Запущена тестовая эксплуатация GPU в Azure</title>
-      <link>http://localhost:1313/posts/2016-08-18-zapuschena-testovaya-ekspluatatsiya-gpu-v-azu/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-18-zapuschena-testovaya-ekspluatatsiya-gpu-v-azu/</link>
       <pubDate>Thu, 18 Aug 2016 06:30:46 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-08-18-zapuschena-testovaya-ekspluatatsiya-gpu-v-azu/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-18-zapuschena-testovaya-ekspluatatsiya-gpu-v-azu/</guid>
+      <description>&lt;p&gt;Запущена тестовая эксплуатация GPU в Azure
+&lt;a href=&#34;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Тестовая демонстрация работы #GPU #NVIDIA инстансов в облаке #Azure началась в зоне South Central US. При этом, как говорят сами MS, они используют технологию прямого проброса устройстви (Discrete Device Assignment, #DDA), заложенную в ожидаемый #Windows #Server 2016 Hyper-V.&lt;/p&gt;
 &lt;p&gt;Итак, в облаке Azure теперь есть все для построения виртуального #HPC кластера!&lt;/p&gt;
 &lt;p&gt;#cloud #tesla #k80 #m60 #hyperv #teradici&lt;/p&gt;
 &lt;p&gt;Небольшое интевью по поводу события от #Channel9
 &lt;a href=&#34;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Leveraging NVIDIA GPUs in Azure (Channel 9)&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Молния: открыта очередь на тестирование GPU NVIDIA в облаке </title>
-      <link>http://localhost:1313/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</link>
+      <title>Молния: открыта очередь на тестирование GPU NVIDIA в облаке AZURE</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</link>
       <pubDate>Fri, 05 Aug 2016 12:30:08 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://gpu.azure.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://gpu.azure.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Вчера компания #Microsoft выдала очередной анонс запуска #GPU инстансов в #Azure. Примерно год назад компания уже писала о своих планах в блоке, но видимо разработка идет не так гладко, как хотелось бы. Сейчас, вместе с анонсом компания разместила страницу регистрации на тестирование нового продукта. Лично я уже заказал сете на тест машинку с 2-мя #NVIDIA #Tesla #K80, 224 Гб RAM и 1.5 Тб SSD.&lt;/p&gt;
 &lt;p&gt;Еще Microsoft говори о партнерстве с компанией #Teradici для использования технологии #PCoIP доставляющей удаленные рабочие столы со сложной графикой. Это немного странно для меня. Во-первых Teradici - это решение заклятого конкурента #VMWare. Во-вторых, где обещанный ранее #DDS и новый #RemoteFX с поддержкой #OpenGL 4+ (заявлено для #Windows #Server 2016)? Неужели MS отказывает использовать свои серверные операционные систем и технологии в своем же облаке?&lt;/p&gt;
 &lt;p&gt;#VDI #Cloud #HPC
 &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gpu.azure.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Virtual machine sizes overview - Azure Virtual Machines&lt;/a&gt;
+&lt;a href=&#34;http://gpu.azure.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://gpu.azure.com/&lt;/a&gt;
+&lt;a href=&#34;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DualSPHysics - для тех кому надо красиво</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-31-dualsphysics-dlya-teh-komu-nado-krasivo/</link>
+      <pubDate>Sun, 31 Jul 2016 12:00:12 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-31-dualsphysics-dlya-teh-komu-nado-krasivo/</guid>
+      <description>&lt;p&gt;DualSPHysics - для тех кому надо красиво
+&lt;a href=&#34;http://www.dual.sphysics.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dual.sphysics.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В основах современной 3D анимации зачастую закладывать, пусть и упрощенные, но физические расчеты. Примером таких анимационных инструментов может выступить #DualSPHysics. Данное ПО с открытым исходным кодом позволяет визуализировать сводную поверхности жидкости на основе #SPH метода.&lt;/p&gt;
+&lt;p&gt;При этом, есть даже неплохое сравнение с экспериментом, и возможность считать на #GPU!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=B8mP9E75D08&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=B8mP9E75D08&lt;/a&gt;
+&lt;a href=&#34;http://www.dual.sphysics.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dual.sphysics.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dual.sphysics.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://dual.sphysics.org/&lt;/a&gt;
+&lt;a href=&#34;http://www.dual.sphysics.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dual.sphysics.org/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=B8mP9E75D08&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=B8mP9E75D08&lt;/a&gt;
+&lt;a href=&#34;http://www.dual.sphysics.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dual.sphysics.org&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AMD Radeon Pro SSG - графическая карта с 1TB SSD</title>
-      <link>http://localhost:1313/posts/2016-07-28-amd-radeon-pro-ssg-graficheskaya-karta-s/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-28-amd-radeon-pro-ssg-graficheskaya-karta-s/</link>
       <pubDate>Thu, 28 Jul 2016 20:44:57 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-07-28-amd-radeon-pro-ssg-graficheskaya-karta-s/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://semiaccurate.com/2016/07/25/amd-puts-massive-ssds-gpus-calls-ssg/?sf31777054=1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://semiaccurate.com/2016/07/25/amd-puts-massive-ssds-gpus-calls-ssg/?sf31777054=1&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-28-amd-radeon-pro-ssg-graficheskaya-karta-s/</guid>
+      <description>&lt;p&gt;AMD Radeon Pro SSG - графическая карта с 1TB SSD
+&lt;a href=&#34;https://semiaccurate.com/2016/07/25/amd-puts-massive-ssds-gpus-calls-ssg/?sf31777054=1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://semiaccurate.com/2016/07/25/amd-puts-massive-ssds-gpus-calls-ssg/?sf31777054=1&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#AMD анонсировала новую топовую профессиональную видеокарту. Ее изюминка - наличие сразу двух разъемов для M.2 для установки #SSD в качестве дополнительного буфера хранения обрабатываемой информации. И это на случай, если вам не хватит 32 Гб памяти, что и так есть на борту этого #GPU. Жаль, что GPU от AMD практически не поддерживаются #CAE софтом.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://semiaccurate.com/2016/07/25/amd-puts-massive-ssds-gpus-calls-ssg/?sf31777054=1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;AMD puts massive SSDs on GPUs and calls it SSG - SemiAccurate&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>#MPS (Moving Particle Simulation) - бессеточный метод для ре</title>
-      <link>http://localhost:1313/posts/2016-04-11-mps-moving-particle-simulation-bess/</link>
+      <title>Совсем недавно #NIMBIX (один из самых крутых владельцев облачных ресурсво для численного моделирования физических процессов) объявил, что в их облаке со знакомым все фанатам Железного человека названием #JARVICE повился #MATLAB.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-24-sovsem-nedavno-nimbix-odin-iz-samyh-kr/</link>
+      <pubDate>Sun, 24 Jul 2016 13:00:03 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-24-sovsem-nedavno-nimbix-odin-iz-samyh-kr/</guid>
+      <description>&lt;p&gt;Теперь по запросу можно использовать его на всей предоставляемой мощи, включая #GPU.
+#HPC #Cloud
+&lt;a href=&#34;http://lnk.al/1U4g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1U4g&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lnk.al/1U4g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MATLAB is now available on demand on JARVICE!&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Мы немного изучили работу #DEM кода #Rocky на #GPU #NVIDIA и подготовили материал.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-06-my-nemnogo-izuchili-rabotu-dem-koda-roc/</link>
+      <pubDate>Wed, 06 Jul 2016 06:31:49 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-06-my-nemnogo-izuchili-rabotu-dem-koda-roc/</guid>
+      <description>&lt;p&gt;Получились интересные данные. Спасибо нашим друзьям из компании #Forsite за тестовый стенды.&lt;/p&gt;
+&lt;p&gt;Так как Rocky использует вычисления на GPU с одинарной точностью, то вот тут-то архитектура NVIDIA #Maxwell показала себя настоящим лидером.&lt;/p&gt;
+&lt;p&gt;Материал можно также посмотреть виде презентации: http://www.slideshare.net/YuryNovozhilov/a-63711653 &lt;a href=&#34;http://multiphysics.ru/stati/novosti/issledovanie-uvelicheniia-proizvoditelnosti-vychislitelnykh-algoritmov-programmy-rocky-dem-pri-perenose-rasparallelennogo-raschetnogo-mekhanizma-s-cpu-na-gpu.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://multiphysics.ru/stati/novosti/issledovanie-uvelicheniia-proizvoditelnosti-vychislitelnykh-algoritmov-programmy-rocky-dem-pri-perenose-rasparallelennogo-raschetnogo-mekhanizma-s-cpu-na-gpu.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.slideshare.net/YuryNovozhilov/a-63711653&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Aппаратное обеспечения для решения задач механики сыпучих сред&lt;/a&gt;
+&lt;a href=&#34;http://www.slideshare.net/YuryNovozhilov/a-63711653&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.slideshare.net/YuryNovozhilov/a-63711653&lt;/a&gt;
+&lt;a href=&#34;http://multiphysics.ru/stati/novosti/issledovanie-uvelicheniia-proizvoditelnosti-vychislitelnykh-algoritmov-programmy-rocky-dem-pri-perenose-rasparallelennogo-raschetnogo-mekhanizma-s-cpu-na-gpu.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://multiphysics.ru/stati/novosti/issledovanie-uvelicheniia-proizvoditelnosti-vychislitelnykh-algoritmov-programmy-rocky-dem-pri-perenose-rasparallelennogo-raschetnogo-mekhanizma-s-cpu-na-gpu.htm&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#FluiDyna - #CFD код платформы #Altair наконец научился использовать #GPU #NVIDIA для ускорения расчетов.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-03-fluidyna-cfd-kod-platformy-altair-n/</link>
+      <pubDate>Tue, 03 May 2016 07:01:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-03-fluidyna-cfd-kod-platformy-altair-n/</guid>
+      <description>&lt;p&gt;Добро поджалось в клуб, а то #ANSYS #Fluent в нем уже 2-3 года как скучает.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/11952/FluiDyna-Achieves-Elite-Solution-Provider-Status-for-Accelerated-Computing-with-NVIDIA.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FluiDyna Achieves Elite Solution Provider Status for Accelerated Computing with NVIDIA &amp;gt; ENGINEERING.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#MPS (Moving Particle Simulation) - бессеточный метод для решения задач взаимодействия жидкости и твердого тела похоже учел все недостатки своих конкурентов и исправил их разом.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-11-mps-moving-particle-simulation-bess/</link>
       <pubDate>Mon, 11 Apr 2016 07:01:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-04-11-mps-moving-particle-simulation-bess/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-11-mps-moving-particle-simulation-bess/</guid>
       <description>&lt;p&gt;Прежде всего, этот метод, чем-то похожий на #SPH, имеет как явную, так и неявную схемы интегрирования по времени. Далее, он позволяет учитывать поверхностное натяжение и обладает #LES моделью турбулентности, чего нет в классическом #SPH. Ну и на сладкое - метод ускоряется на #GPU #NVIDIA в 5-9 раз (прямо как #DEM), при этом может использовать несколько графических карт.&lt;/p&gt;
 &lt;p&gt;Метод реализован в независимомо CFD пакете #Particleworks японской компании #Prometech.&lt;/p&gt;
 &lt;p&gt;На мой взгляд, это может быть по круче чем #XFlowCFD с их решеточным методом Больцмана.&lt;/p&gt;
 &lt;p&gt;Базовая теория по работе метода прилагается.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.prometechsoftware.com/particleworks.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;particleworks highlights&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Если кто пользует #ANSYS #Polyflow - сотф для моделирования литья пластмасс - то вот вам новость.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-03-esli-kto-polzuet-ansys-polyflow-sot/</link>
+      <pubDate>Thu, 03 Mar 2016 11:55:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-03-esli-kto-polzuet-ansys-polyflow-sot/</guid>
+      <description>&lt;p&gt;Polyflow тоже умеет ускоряться на #GPU #NVIDIA, так как у него решатель на базе #Fluent внутри.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cadfem-cis.ru/list/article/ansys-polyflow-gpu-nvidia/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Поддержка ускорения вычислений на GPU в ANSYS Polyflow— CADFEM&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

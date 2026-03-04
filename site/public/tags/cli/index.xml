@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CLI on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/cli/</link>
+    <description>MagicDPD: Magic Driven Product Development! (CLI)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 24 Aug 2016 06:30:29 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/cli/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Автоматизация в LS-PrePost</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-24-avtomatizatsiya-v-ls-prepost/</link>
+      <pubDate>Wed, 24 Aug 2016 06:30:29 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-24-avtomatizatsiya-v-ls-prepost/</guid>
+      <description>&lt;p&gt;Автоматизация в LS-PrePost
+&lt;a href=&#34;http://www.lstc.com/lspp/content/other/command/command.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lstc.com/lspp/content/other/command/command.shtml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Полное отсутствие #GUI у чудовищно мощного решателя LS-DYNA может быть здорово компенсировано возможностями бесплатного пер/пост процессора LS-PrePost от #LSTC. Данный инструмент конечно немного устарел по интерфейсу, зато только он может справиться с сотнями гигабайт данных результатов практически на лету. Кроме того, у него есть возможность создания скриптов автоматизации на основе своего собственного #CLI. Документацию по CLI найти сложно, так что я сейчас сложу все ссылки на нее в данном посте. Кроме того, не забывайте смотреть на интерактивную запись сессии.&lt;/p&gt;
+&lt;p&gt;Начальная документация: &lt;a href=&#34;http://www.lstc.com/lspp/content/other/command/command.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lstc.com/lspp/content/other/command/command.shtml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Кроме того, ссылка на старое учебное пособие (LS-PrePost 3.2), где в 9-ом примере были разобраны тонкости работы CLI:
+&lt;a href=&#34;https://vk.com/doc11568_437790483&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/doc11568_437790483&lt;/a&gt; (см. стр. 220-228)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.lstc.com/lspp/content/other/command/command.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lstc.com/lspp/content/other/command/command.shtml&lt;/a&gt;
+&lt;a href=&#34;https://vk.com/doc11568_437790483&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/doc11568_437790483&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

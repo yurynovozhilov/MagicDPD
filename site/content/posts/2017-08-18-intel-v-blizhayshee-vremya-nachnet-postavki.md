@@ -23,6 +23,8 @@ images:
 #HPC http://www.ansys-blog.com/boost-ansys-performance-intel-technologies/#more-18699
 
 [Intel® Xeon® Scalable Processors Product Specifications](https://ark.intel.com/products/series/125191/Intel-Xeon-Scalable-Processors)
-http://ark.intel.com/products/series/125191/Intel-Xeon-Scalable-Processors
+~~http://ark.intel.com/products/series/125191/Intel-Xeon-Scalable-Processors~~ → [Сохранённая версия](http://web.archive.org/web/20181223181135/https://ark.intel.com/products/series/125191/Intel-Xeon-Scalable-Processors)
+
+*Оригинальная ссылка больше не доступна*
 https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/18/ANSYS18.1_tech.pdf
 http://www.ansys-blog.com/boost-ansys-performance-intel-technologies/#more-18699

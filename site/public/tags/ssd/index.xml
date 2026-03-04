@@ -2,23 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SSD on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/ssd/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/ssd/</link>
     <description>MagicDPD: Magic Driven Product Development! (SSD)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 28 Jul 2016 20:44:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2019 08:35:00 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/ssd/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/ssd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>SSD как RAM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-25-ssd-kak-ram/</link>
+      <pubDate>Mon, 25 Mar 2019 08:35:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-25-ssd-kak-ram/</guid>
+      <description>&lt;p&gt;SSD как RAM&lt;/p&gt;
+&lt;p&gt;Еще один видеоролик из серии HPC порно. ScaleMP может заставить SSD NVMe диски Western Digital Ultrastar DC ME200 работать в качестве расширения для оперативной памяти сервера. Надо конечно отдавать себе отчет, что даже очень быстрый диск будет медленнее, чем честная оперативная память, но тут каждый сам должен думать, какие деньги есть, и какие задачи надо решать.&lt;/p&gt;
+&lt;p&gt;WD клянется, что их решение тормозит всего на 15%.&lt;/p&gt;
+&lt;p&gt;Подробности работы технологии тут: &lt;a href=&#34;https://www.servethehome.com/western-digital-ultrastar-dc-me200-scalemp/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.servethehome.com/western-digital-ultrastar-dc-me200-scalemp/&lt;/a&gt;, на русском тут: &lt;a href=&#34;https://overclockers.ru/hardnews/show/94416/western-digital-anonsirovala-seriju-ssd-dlya-rasshireniya-operativnoj-pamyati&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://overclockers.ru/hardnews/show/94416/western-digital-anonsirovala-seriju-ssd-dlya-rasshireniya-operativnoj-pamyati&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#NVMe #ScaleMP #SSD #Western_Digital&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2r9&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2r9&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.servethehome.com/western-digital-ultrastar-dc-me200-scalemp/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.servethehome.com/western-digital-ultrastar-dc-me200-scalemp/&lt;/a&gt;
+&lt;a href=&#34;https://overclockers.ru/hardnews/show/94416/western-digital-anonsirovala-seriju-ssd-dlya-rasshireniya-operativnoj-pamyati&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://overclockers.ru/hardnews/show/94416/western-digital-anonsirovala-seriju-ssd-dlya-rasshireniya-operativnoj-pamyati&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2r9&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2r9&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Резервное копирование геометрии в SCDM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-20-rezervnoe-kopirovanie-geometrii-v-scdm/</link>
+      <pubDate>Sun, 20 Jan 2019 17:01:12 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-20-rezervnoe-kopirovanie-geometrii-v-scdm/</guid>
+      <description>&lt;p&gt;Резервное копирование геометрии в SCDM&lt;/p&gt;
+&lt;p&gt;Наверно каждый из вас сталкивался с мучительной болью от того, что труды вашего дня пропадают потому что программное обеспечение вдруг зависло, произошел скачок напряжения или еще что-то. А вы просто забыли сохраниться. Может такое произойти и при работе с геометрией в ANSYS SpaceClaim.&lt;/p&gt;
+&lt;p&gt;Однако там, как и в любом нормальном ПО, есть средство борьбы с подобными ситуациями. Оно находится в меню SpaceClaim Options &amp;gt; Support Files &amp;gt; Recovery Assistant и позволяет задавать периодичность резервного копирования и время хранения резервных копий проекта. Очень советую посмотреть на эти настройки. А чтобы автоматическое сохранение проходило быстро, можно натравить его на директорию на SSD.
+Ну а кто не пользуется резервными копиями — сам себе злой Буратино.&lt;/p&gt;
+&lt;p&gt;#ANSYS #SpaceClaim #SSD&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2hf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2hf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2hf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2hf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>AMD Radeon Pro SSG - графическая карта с 1TB SSD</title>
-      <link>http://localhost:1313/posts/2016-07-28-amd-radeon-pro-ssg-graficheskaya-karta-s/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-28-amd-radeon-pro-ssg-graficheskaya-karta-s/</link>
       <pubDate>Thu, 28 Jul 2016 20:44:57 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-07-28-amd-radeon-pro-ssg-graficheskaya-karta-s/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://semiaccurate.com/2016/07/25/amd-puts-massive-ssds-gpus-calls-ssg/?sf31777054=1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://semiaccurate.com/2016/07/25/amd-puts-massive-ssds-gpus-calls-ssg/?sf31777054=1&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-28-amd-radeon-pro-ssg-graficheskaya-karta-s/</guid>
+      <description>&lt;p&gt;AMD Radeon Pro SSG - графическая карта с 1TB SSD
+&lt;a href=&#34;https://semiaccurate.com/2016/07/25/amd-puts-massive-ssds-gpus-calls-ssg/?sf31777054=1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://semiaccurate.com/2016/07/25/amd-puts-massive-ssds-gpus-calls-ssg/?sf31777054=1&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#AMD анонсировала новую топовую профессиональную видеокарту. Ее изюминка - наличие сразу двух разъемов для M.2 для установки #SSD в качестве дополнительного буфера хранения обрабатываемой информации. И это на случай, если вам не хватит 32 Гб памяти, что и так есть на борту этого #GPU. Жаль, что GPU от AMD практически не поддерживаются #CAE софтом.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://semiaccurate.com/2016/07/25/amd-puts-massive-ssds-gpus-calls-ssg/?sf31777054=1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;AMD puts massive SSDs on GPUs and calls it SSG - SemiAccurate&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вот так, в одном проекте удалось совместить все лучшие практики #HPC: тут и #infiniband, и #tesla для ускорения расчетов, и #SSD для локального кэширования данных. На системное ПО тоже не поскупились: #Altair #PBS Pro, #NICE #DCV и #EnginFrame, #HP #CMU. Вот такой вот best practice вживую!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-18-vot-tak-v-odnom-proekte-udalos-sovmest/</link>
+      <pubDate>Wed, 18 May 2016 07:03:34 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-18-vot-tak-v-odnom-proekte-udalos-sovmest/</guid>
+      <description>&lt;p&gt;Мы это сделали!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://multiphysics.ru/stati/proekty/proektirovanie-vychislitelnogo-klastera-bgtu-voenmekh-im-d-f-ustinova.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Проектирование вычислительного кластера БГТУ «ВОЕНМЕХ» им. Д.Ф.Устинова | Инженерные расчеты&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

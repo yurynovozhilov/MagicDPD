@@ -2,110 +2,379 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AIM on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/aim/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/aim/</link>
     <description>MagicDPD: Magic Driven Product Development! (AIM)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 27 Nov 2019 16:00:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2020 15:36:11 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/aim/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/aim/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>ANSYS AIM — как швейцарский нож</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-26-ansys-aim-kak-shveytsarskiy-nozh/</link>
+      <pubDate>Thu, 26 Mar 2020 15:36:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-26-ansys-aim-kak-shveytsarskiy-nozh/</guid>
+      <description>&lt;p&gt;ANSYS AIM — как швейцарский нож
+#AIM #ANSYS
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/ansys-aim-swiss-army-knife/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS AIM - как швейцарский нож - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Нестационарные задачи теплопроводности в ANSYS AIM</title>
-      <link>http://localhost:1313/posts/2019-11-27-nestatsionarnye-zadachi-teploprovodnosti-v/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-11-27-nestatsionarnye-zadachi-teploprovodnosti-v/</link>
       <pubDate>Wed, 27 Nov 2019 16:00:44 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-11-27-nestatsionarnye-zadachi-teploprovodnosti-v/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-11-27-nestatsionarnye-zadachi-teploprovodnosti-v/</guid>
+      <description>&lt;p&gt;Нестационарные задачи теплопроводности в ANSYS AIM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/%d0%bd%d0%b5%d1%81%d1%82%d0%b0%d1%86%d0%b8%d0%be%d0%bd%d0%b0%d1%80%d0%bd%d1%8b%d0%b5-%d0%b7%d0%b0%d0%b4%d0%b0%d1%87%d0%b8-%d1%82%d0%b5%d0%bf%d0%bb%d0%be%d0%bf%d1%80%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Нестационарные задачи теплопроводности в ANSYS AIM - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Расчет коэффициента теплоотдачи радиатора в AIM</title>
-      <link>http://localhost:1313/posts/2019-03-17-raschet-koeffitsienta-teplootdachi-radiator/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-17-raschet-koeffitsienta-teplootdachi-radiator/</link>
       <pubDate>Sun, 17 Mar 2019 12:00:45 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-03-17-raschet-koeffitsienta-teplootdachi-radiator/</guid>
-      <description>&lt;p&gt;В видео разобрано решение сравнительно простой аэродинамической задачи при помощи ANSYS AIM. Данная CAE система все еще является редкостью, хотя может решать задачи механики, гидродинамики, теплопроводности и электромагнетизма, а вдобавок еще обладает и встроенным модулем параметрических исследований и оптимизации.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-17-raschet-koeffitsienta-teplootdachi-radiator/</guid>
+      <description>&lt;p&gt;Расчет коэффициента теплоотдачи радиатора в AIM&lt;/p&gt;
+&lt;p&gt;В видео разобрано решение сравнительно простой аэродинамической задачи при помощи ANSYS AIM. Данная CAE система все еще является редкостью, хотя может решать задачи механики, гидродинамики, теплопроводности и электромагнетизма, а вдобавок еще обладает и встроенным модулем параметрических исследований и оптимизации.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=X8gDQltR5UY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=X8gDQltR5UY&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Все это благодаря встроенным в единый интерфейс решателям APDL, Fluent, Maxwell, сеточному генератору Meshing, оптимизатору DesignXplorer и геометрическому процессору SpaceClaim. Вот сколько всего полезного в одной «простой» системе.&lt;/p&gt;
 &lt;p&gt;#AIM #ANSYS #CFD&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2qd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2qd&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=X8gDQltR5UY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=X8gDQltR5UY&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2qd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2qd&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование вакуумной формовки</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-05-modelirovanie-vakuumnoy-formovki/</link>
+      <pubDate>Tue, 05 Mar 2019 17:01:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-05-modelirovanie-vakuumnoy-formovki/</guid>
+      <description>&lt;p&gt;Моделирование вакуумной формовки&lt;/p&gt;
+&lt;p&gt;Есть пример от Wilde Analysis как такое делается в ANSYS AIM 19.2 — там внутри зашит Polyflow&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&#34;https://player.vimeo.com/video/296632632&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://player.vimeo.com/video/296632632&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20220430051308/https://player.vimeo.com/video/296632632&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;А есть стандартный учебный пример по ANSYS Polyflow версии аж 16.0. Правда тут процесс идет немного наизнанку, в отличие от вакуумной формовки. Зато для такой схемы расчета можно настроить и связку в Mechanical.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=zrlK6sHGoQs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=zrlK6sHGoQs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=LQp4HyAVpMY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=LQp4HyAVpMY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ну и на закуску, всемогущая LS-DYNA и большой дисер на соответствующую тему: &lt;a href=&#34;https://pdfs.semanticscholar.org/b893/97cb9904b3c94e3f701af0e4a4f640a5306a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://pdfs.semanticscholar.org/b893/97cb9904b3c94e3f701af0e4a4f640a5306a.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;А какой инструмент выбрали бы вы?&lt;/p&gt;
+&lt;p&gt;#AIM #ANSYS #forming #LS_DYNA #Ployflow #WildeAnalysis&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2ng&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2ng&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&#34;https://player.vimeo.com/video/296632632&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://player.vimeo.com/video/296632632&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20220430051308/https://player.vimeo.com/video/296632632&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=zrlK6sHGoQs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=zrlK6sHGoQs&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=LQp4HyAVpMY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=LQp4HyAVpMY&lt;/a&gt;
+&lt;a href=&#34;https://pdfs.semanticscholar.org/b893/97cb9904b3c94e3f701af0e4a4f640a5306a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://pdfs.semanticscholar.org/b893/97cb9904b3c94e3f701af0e4a4f640a5306a.pdf&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2ng&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2ng&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Электромагнитные расчеты в ANSYS Discovery AIM</title>
-      <link>http://localhost:1313/posts/2018-05-03-elektromagnitnye-raschety-v-ansys-discove/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-03-elektromagnitnye-raschety-v-ansys-discove/</link>
       <pubDate>Thu, 03 May 2018 18:00:56 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-05-03-elektromagnitnye-raschety-v-ansys-discove/</guid>
-      <description>&lt;p&gt;AIM стал флагманом новой линейки продуктов Discovery. И не стоит забывать, что внутри AIM работают проверенные десятилетиями решатели ANSYS.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-03-elektromagnitnye-raschety-v-ansys-discove/</guid>
+      <description>&lt;p&gt;Электромагнитные расчеты в ANSYS Discovery AIM&lt;/p&gt;
+&lt;p&gt;AIM стал флагманом новой линейки продуктов Discovery. И не стоит забывать, что внутри AIM работают проверенные десятилетиями решатели ANSYS.
 В демонстрационном видео показывают электромагнитные расчеты — пример того, как из EMAG (электромагнитного решателя в составе APDL) можно выжать еще много чего, если дать ему удобный и современный интерфейс.
 #AIM #ANSYS #APDL #Discovery #EM #EMAG&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1O8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1O8&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1O8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1O8&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Статья - размышление про то, как #ANSYS #Discovery Live помо</title>
-      <link>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</link>
+      <title>ANSYS Discovery AIM 19</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-20-ansys-discovery-aim-19/</link>
+      <pubDate>Tue, 20 Feb 2018 18:01:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-20-ansys-discovery-aim-19/</guid>
+      <description>&lt;p&gt;ANSYS Discovery AIM 19
+ANSYS AIM с 19-ого релиза входит в состав семейства продуктов Discovery. Сам программный комплекс развивается очень стремительно — новые возможности появляются в каждой минорной версии. На своем канале ANSYS рассказал про нововведения в версии 19.
+&lt;a href=&#34;https://www.youtube.com/watch?v=ThW58RG1Kjw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ThW58RG1Kjw&lt;/a&gt;
+Дайджест нововедений, отмеченных в видео:&lt;/p&gt;
+&lt;p&gt;Визуализация процесса топологической оптимизации и возможность ее остановки, когда результат «на глаз» уже хорош
+Поддержка элементов с сосредоточенными параметрами — пружины
+Импорт моделей из Discovery Live
+Экспорт в Mechanical и Fluent (хотя это уже вроде было)
+Пористые изотропные или ортотропные среды для CFD расчетов
+Связка тепла и электромагнитной составляющей решателя
+Поддержка секущих плоскостей и эпюр (наконец-то)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ThW58RG1Kjw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ThW58RG1Kjw&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вот чего нахватало в #ANSYS #AIM при всем его развитии в версии 18.2, так - это линейного расчета потери устойчивости.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-31-vot-chego-nahvatalo-v-ansys-aim-pri-vse/</link>
+      <pubDate>Tue, 31 Oct 2017 17:12:56 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-31-vot-chego-nahvatalo-v-ansys-aim-pri-vse/</guid>
+      <description>&lt;p&gt;Этот досадный недостаток недавно исправили при помощи одноименного #ACT расширения. Что особенно приятно: расширение идет с открытом исходным кодом, и на нем можно по тренироваться писать расширения для AIM.&lt;/p&gt;
+&lt;p&gt;#buckling #opensource
+&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-294&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-294&lt;/a&gt; 🔗 ANSYS Estore&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-294&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-294&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#LSTC LS-PrePost (#LSPP) очень странный продукт. Это бесплатный пер/постпроцессор, который, на первый взгляд, стране как ядерная война. По красоте он может соперничать с ANSYS MAPDL &#34;Classiс&#34;. Человек, привыкший к работе в #ANSYS #Workbench или #AIM скорее всего убежит из этого пре/постпроцессора. А зря!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-14-lstc-ls-prepost-lspp-ochen-strannyy/</link>
+      <pubDate>Sat, 14 Oct 2017 17:11:15 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-14-lstc-ls-prepost-lspp-ochen-strannyy/</guid>
+      <description>&lt;p&gt;Ведь LSPP обладает рядом особенностей, за которые со временем вы его полюбите (типа &amp;ldquo;Стокгольмский синдром&amp;rdquo;):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;чудовищная скорость работы как с исходной базой, так и с результатами любого размера&lt;/li&gt;
+&lt;li&gt;кроссплатформенность (Linux, Windows, macOS)&lt;/li&gt;
+&lt;li&gt;полная бесплатность&lt;/li&gt;
+&lt;li&gt;полная поддержка всех настроек #LSDYNA (этим вообще никто из сторонних кодов похвастаться не может)&lt;/li&gt;
+&lt;li&gt;поддержка (!!!) да - да - да: хоть LSPP и написан на фортране в перемешку с Си, он все еще активно развивается!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=JBK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=JBK&lt;/a&gt;…Media📼 LS DYNA Tutorial: Model Editing&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2kPHYEv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2kPHYEv&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2xRPO1U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xRPO1U&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2v28PC1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2v28PC1&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vlsZ4T&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlsZ4T&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vlBJYZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlBJYZ&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=JBKhEupfmiI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=JBKhEupfmiI&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xGoF6z&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xGoF6z&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2kPHYEv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2kPHYEv&lt;/a&gt;
+ttp://ift.tt/2kPHYEv&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>На портел технической поддержки появилась заплатка к #ANSYS 18.2 - ANSYS 18.2.2. В заплатке починили баги в топологической оптимизации в #AIM, а также мелкие баги с распараллеливанием и рессорами в #Mechanical #APDL.Media</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-12-na-portel-tehnicheskoy-podderzhki-poyavilas/</link>
+      <pubDate>Thu, 12 Oct 2017 17:08:35 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-12-na-portel-tehnicheskoy-podderzhki-poyavilas/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://ift.tt/2g6HoNt&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2g6HoNt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vlsZ4T&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlsZ4T&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vlyNM5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlyNM5&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vKriOO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vKriOO&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2ye3sQG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ye3sQG&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2g6HoNt&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2g6HoNt&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Статья - размышление про то, как #ANSYS #Discovery Live помогает ANSYS реализовать свободомыслий давнюю задумку: сделать всех инженеров и проектировщиков своими пользователями.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</link>
       <pubDate>Sun, 17 Sep 2017 17:04:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</guid>
       <description>&lt;p&gt;И тут ключевыми факторами успеха оказывается не только использование самого передового решателя, разработанного совместно с #NVIDIA. Не даром ANSYS очень дружен с разработчиком GPU. Об этом говорят те факты, что #Mechanical #APDL был первым коммерческим #FEM использовавшим #GPU, как и #Fluent - первым коммерческим #CFD использовавшим #GPU&lt;/p&gt;
 &lt;p&gt;Тут еще вспоминается и #SpaceClaim, который выйдя на рынок в 2005 сделал лидеров отстающими. Именно после #SpaceClaim появились такие системы, как #PTC #Creo, #Autodesk #Fusion и концепция #Siemens Synchronous Technology.&lt;/p&gt;
 &lt;p&gt;Сейчас SpaceClaim становиться геометрическим ядром для #Workbench, #AIM и #ANSYS #Discovery.&lt;/p&gt;
 &lt;p&gt;#GPGPU #CUDA
 &lt;a href=&#34;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&lt;/a&gt; 🔗 ANSYS Discovery Live Changes Everything&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Надеюсь вы не пропустили мероприятие по поводу #ANSYS #Disco</title>
-      <link>http://localhost:1313/posts/2017-09-07-nadeyus-vy-ne-propustili-meropriyatie-po/</link>
+      <title>Надеюсь вы не пропустили мероприятие по поводу #ANSYS #Discovery - это было очень круто. Математическое моделирование в реальном времени!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-07-nadeyus-vy-ne-propustili-meropriyatie-po/</link>
       <pubDate>Thu, 07 Sep 2017 14:31:20 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-09-07-nadeyus-vy-ne-propustili-meropriyatie-po/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-07-nadeyus-vy-ne-propustili-meropriyatie-po/</guid>
       <description>&lt;p&gt;Из того, что мне больше всего понравилось - это возможность не только практически мгновенно сделать прикидочный расчет, но и экспортировать его для доводки в #AIM, #Mechanical, #Fluent и #Maxwell. Понравилось, что #ANSYS #Discovery - свежий код, который не тащит с собой кучу наследства и умеет нормально использовать #GPGPU #NVIDIA.&lt;/p&gt;
 &lt;p&gt;Что мне не понравилось: обещали интерактивное мероприятие, а на деле был набор заготовленных видео роликов.&lt;/p&gt;
 &lt;p&gt;А еще, на сайте продукта уже можно скачать техническое превью бесплатно.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ansys.com/discovery&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ansys.com/discovery&lt;/a&gt; 🔗 ANSYS Discovery Live: Instant Simulation Results&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ansys.com/discovery&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ansys.com/discovery&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS Student 18</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-27-ansys-student-18/</link>
+      <pubDate>Tue, 27 Jun 2017 17:00:45 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-27-ansys-student-18/</guid>
+      <description>&lt;p&gt;ANSYS Student 18
+&lt;a href=&#34;http://www.ansys-blog.com/free-download-ansys-student-product/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/free-download-ansys-student-product/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Хотите изучать #ANSYS - получите бесплатную годовую студенческую лицензию. Лицензия под честное слово, и если вам не хватило года, то вы можете ее продлить сколько угодно раз!&lt;/p&gt;
+&lt;p&gt;Вы помет пробовать не только ставший мейнстримхм #Workbench, но и современный #ANSYS #AIM #Student 18.&lt;/p&gt;
+&lt;p&gt;В изучении вам помогут:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;учебные курсы #Cornell на #EdX &lt;a href=&#34;https://www.edx.org/course/hands-introduction-engineering-cornellx-engr2000x-0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.edx.org/course/hands-introduction-engineering-cornellx-engr2000x-0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ANSYS Academic Support: &lt;a href=&#34;http://www.ansys.com/products/academic/support-resources&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/products/academic/support-resources&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Вы можете, можете, можете&amp;hellip; надо только поставить цель!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys-blog.com/free-download-ansys-student-product/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Free Download – New ANSYS Student Product Downloads Released&lt;/a&gt;
+&lt;a href=&#34;https://www.edx.org/course/hands-introduction-engineering-cornellx-engr2000x-0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.edx.org/course/hands-introduction-engineering-cornellx-engr2000x-0&lt;/a&gt;
+&lt;a href=&#34;http://www.ansys.com/products/academic/support-resources&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/products/academic/support-resources&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Линейная статика в ANSYS AIM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-10-lineynaya-statika-v-ansys-aim/</link>
+      <pubDate>Wed, 10 May 2017 17:01:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-10-lineynaya-statika-v-ansys-aim/</guid>
+      <description>&lt;p&gt;Линейная статика в ANSYS AIM
+&lt;a href=&#34;https://www.youtube.com/watch?v=c07NgTE9DiE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=c07NgTE9DiE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Нашел в сети любопытного человека. Cyprien Rusu записывает учебные деонтологию по ANSYS, причем сразу на нескольких языках. Вот например учебное видео по освоению линейной статики в #ANSYS #AIM на английском, китайском, французском и японском :-)
+&lt;a href=&#34;https://www.youtube.com/watch?v=c07NgTE9DiE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=c07NgTE9DiE&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=oJakDz4H_YU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=oJakDz4H_YU&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=1xlc92NLYtA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=1xlc92NLYtA&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=pY7Zn3DKACM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=pY7Zn3DKACM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=c07NgTE9DiE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;[Ansys AIM 18 Tutorial] Linear static analysis of a pressured pipe&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=oJakDz4H_YU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=oJakDz4H_YU&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=1xlc92NLYtA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=1xlc92NLYtA&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=pY7Zn3DKACM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=pY7Zn3DKACM&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ANSYS App Builder</title>
-      <link>http://localhost:1313/posts/2017-02-03-ansys-app-builder/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-03-ansys-app-builder/</link>
       <pubDate>Fri, 03 Feb 2017 17:03:01 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-02-03-ansys-app-builder/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=xYJPgdOdD3k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xYJPgdOdD3k&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-03-ansys-app-builder/</guid>
+      <description>&lt;p&gt;ANSYS App Builder
+&lt;a href=&#34;https://www.youtube.com/watch?v=xYJPgdOdD3k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xYJPgdOdD3k&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;В #ANSYS 18 появилось такое приложение, как ANSYS App Builder, и, на мой взгляд, это самое крутое нововведение в R18!&lt;/p&gt;
 &lt;p&gt;ANSYS App Builder позволяет создавать #ACT для #Workbench и #AIM прямо в #GUI! Он умеет не только записывать все ваши действия при работе с проектом, но и низкоуровненов редактировать записанный #python журнал и XML описание интефейса.&lt;/p&gt;
 &lt;p&gt;Те из нас, кто пробовали писать свои ACT, поймут, какой пропыв в упращении нашего нелегкого ремесла нас ожидает!
 &lt;a href=&#34;https://www.youtube.com/watch?v=xYJPgdOdD3k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xYJPgdOdD3k&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=xYJPgdOdD3k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys in Action - Ansys App Builder&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Сегодня в Питере провели небольшой семинар на пол дня по #AN</title>
-      <link>http://localhost:1313/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</link>
+      <title>AIM для студентов</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-24-aim-dlya-studentov/</link>
+      <pubDate>Sat, 24 Sep 2016 12:01:39 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-24-aim-dlya-studentov/</guid>
+      <description>&lt;p&gt;AIM для студентов
+&lt;a href=&#34;https://www.youtube.com/watch?v=OTkEdYZjKwU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=OTkEdYZjKwU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ANSYS AIM, который умеет в одном интерфейсе посчитать механику, гидродинамику и электромагнетизм, получил студенческую версию. Самое интересное, что ограничения у #ANSYS #AIM #Student по размерности задачи существенно ниже, чем у  ANSYS Student (можно решать задачи с существенно большей размерностью):
+#FEA: 100k элементов у AIM Student против 32k у ANSYS Student
+#CFD: 1m ячеек у AIM Student против 512k у ANSYS Student&lt;/p&gt;
+&lt;p&gt;Где взять и как установить бесплатный ANSYS AIM Student описано в видео по ссылке: &lt;a href=&#34;https://www.youtube.com/watch?v=OTkEdYZjKwU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=OTkEdYZjKwU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OTkEdYZjKwU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Installing ANSYS AIM Student Product 17.1 on Windows&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сегодня в Питере провели небольшой семинар на пол дня по #ANSYS 17. Небольшого семинара не получилось: зарегистрировалось под 200 человек, пришло более 150 человек. Несколько раз менять планировку залов, что бы вместить всех желающих. Свободные места для опоздавших находились с трудом (см фото с доказательствами)!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</link>
       <pubDate>Thu, 02 Jun 2016 13:58:36 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</guid>
       <description>&lt;p&gt;11 докладов по #Mechanical, #Explicit, #CFX, #Fluent, #DesignXplorer, #SpaceClaim, #HPC, #RBD, #ACP, #ACCS и конечно же #AIM!&lt;/p&gt;
 &lt;p&gt;А еще состоялся анонс проекта под рабочим названием #CADFEM #Haze!&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>О том как в ANSYS AIM мост трактора считали, или привыкаем к</title>
-      <link>http://localhost:1313/posts/2015-09-17-o-tom-kak-v-ansys-aim-most-traktora-schit/</link>
+      <title>Я давно хотел освоить #CFD, но дальше получения отличной оценки по данному предмету в институте как-то не шло. #ANSYS #Fluent оказался для меня слишком сложен и неустойчив, #ANSYS Flux, который так долго обещали инсайдеры, так и не вышел.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-04-ya-davno-hotel-osvoit-cfd-no-dalshe-po/</link>
+      <pubDate>Mon, 04 Apr 2016 07:01:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-04-ya-davno-hotel-osvoit-cfd-no-dalshe-po/</guid>
+      <description>&lt;p&gt;ANSYS #AIM все время огорчает нехваткой очевидный функций. Так что на этих выходных я начал самообучение LS-DYNA #ICFD.&lt;/p&gt;
+&lt;p&gt;Спешу поделиться первыми успехами.&lt;/p&gt;
+&lt;p&gt;LS-DYNA ICFD это решатель с неявной схемой обладающий следующими фишками:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;потрясающая сеточка устойчивость&lt;/li&gt;
+&lt;li&gt;FSI, связь с DEM, SPH и Termal&lt;/li&gt;
+&lt;li&gt;автоматическая генерация сетки&lt;/li&gt;
+&lt;li&gt;адаптивное перестроение сетки&lt;/li&gt;
+&lt;li&gt;все расчеты делает один код, а не связка кодов от разных разработчиков&lt;/li&gt;
+&lt;li&gt;достаточно лицензии на LS-DYNA&lt;/li&gt;
+&lt;li&gt;свободные поверхности&lt;/li&gt;
+&lt;li&gt;двухфайзные течения&lt;/li&gt;
+&lt;li&gt;неньютоновские жидкости&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=w_PnXPRGdKE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Kármán vortex street in LS-DYNA ICFD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#ANSYS #AIM вебинар от #CADFEM CIS в 14:00 01.04.2016</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-01-ansys-aim-vebinar-ot-cadfem-cis-v-14/</link>
+      <pubDate>Fri, 01 Apr 2016 10:54:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-01-ansys-aim-vebinar-ot-cadfem-cis-v-14/</guid>
+      <description>&lt;p&gt;#ANSYS #AIM вебинар от #CADFEM CIS в 14:00 01.04.2016
+Ссылка для желающих: &lt;a href=&#34;https://clck.ru/9p7d4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://clck.ru/9p7d4&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Декаденс в квадрате от #ANSYS - но будущее ведь за #AIM?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-30-dekadens-v-kvadrate-ot-ansys-no-budusch/</link>
+      <pubDate>Wed, 30 Mar 2016 14:27:34 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-30-dekadens-v-kvadrate-ot-ansys-no-budusch/</guid>
+      <description>&lt;p&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Говорят, что за #ANSYS #AIM будущее.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-05-govoryat-chto-za-ansys-aim-buduschee-nu/</link>
+      <pubDate>Sat, 05 Mar 2016 20:57:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-05-govoryat-chto-za-ansys-aim-buduschee-nu/</guid>
+      <description>&lt;p&gt;Ну что ж, посмотрим.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ThdNt2i1Qms&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS AIM Overview&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Теперь #ANSYS через сервис #Framу (https://fra.me/) предоставляет демонстрационный 2-х часовой доступ к новому междисциплинарному  решателю ANSYS #AIM.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-04-teper-ansys-cherez-servis-framu-https/</link>
+      <pubDate>Fri, 04 Mar 2016 13:09:48 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-04-teper-ansys-cherez-servis-framu-https/</guid>
+      <description>&lt;p&gt;Доступ можно получить неограниченное количество раз 😊&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cadfem-cis.ru/list/article/ansys-aim-try-it-now/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS AIM: Попробуйте прямо сейчас!— CADFEM&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ставим простейшие задачи гидродинамики в #ANSYS #AIM вместе с #CFD.NINJA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-22-stavim-prosteyshie-zadachi-gidrodinamiki-v/</link>
+      <pubDate>Tue, 22 Dec 2015 18:00:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-22-stavim-prosteyshie-zadachi-gidrodinamiki-v/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://CFD.NINJA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CFD.NINJA | Computational Fluid Dynamics&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>О том как в ANSYS AIM мост трактора считали, или привыкаем к новому интерфейсу.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-17-o-tom-kak-v-ansys-aim-most-traktora-schit/</link>
       <pubDate>Thu, 17 Sep 2015 07:00:27 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-09-17-o-tom-kak-v-ansys-aim-most-traktora-schit/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-17-o-tom-kak-v-ansys-aim-most-traktora-schit/</guid>
+      <description>&lt;p&gt;У меня уже перестал глаз дергаться.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=eImjtGlOMF8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS AIM Tractor Axle Demo&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

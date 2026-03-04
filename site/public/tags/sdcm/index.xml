@@ -2,23 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SDCM on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/sdcm/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/sdcm/</link>
     <description>MagicDPD: Magic Driven Product Development! (SDCM)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 11 Aug 2017 17:01:44 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/sdcm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/sdcm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Моделировать метод послойного наплавления или 3D печать (Fus</title>
-      <link>http://localhost:1313/posts/2017-08-11-modelirovat-metod-posloynogo-naplavleni/</link>
+      <title>Моделировать метод послойного наплавления или 3D печать (Fused depositing modeling, #FDM) можно в любом современном КЭ пакете: все как правило реализуется через технику рождения и смерти элементов под действием температурных полей.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-11-modelirovat-metod-posloynogo-naplavleni/</link>
       <pubDate>Fri, 11 Aug 2017 17:01:44 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-08-11-modelirovat-metod-posloynogo-naplavleni/</guid>
-      <description>&lt;p&gt;Самое прикольное в работе ACT - это возможность визуализировать именно плотность (читай распределение) материала. Она получается гладкая, и ее можно экспортировать в виде #STL в #SDCM для дальнейшей работы.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-11-modelirovat-metod-posloynogo-naplavleni/</guid>
+      <description>&lt;p&gt;Однако коллеги из чешской компании  SVS FEM пошли дальше, много дальше. Они создали #ACT расширение для #ANSYS #Mechanical на основе #Python и #APDL, которое умеет читать информацию от 3D принтера по истории движения печатающей головки. В ходе расчета можно получить зависимости плотности, температуры и деформаций конструкции во времени.&lt;/p&gt;
+&lt;p&gt;Самое прикольное в работе ACT - это возможность визуализировать именно плотность (читай распределение) материала. Она получается гладкая, и ее можно экспортировать в виде #STL в #SDCM для дальнейшей работы.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qai6CIpjOHM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=qai6CIpjOHM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qai6CIpjOHM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Structural-Thermal Simulation of FDM 3D Printing Process | ANSYS Mechanical | SVS FEM&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

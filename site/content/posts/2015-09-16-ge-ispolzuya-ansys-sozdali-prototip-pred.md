@@ -13,6 +13,12 @@ tags:
 
 #ANSYS #MAXWELL
 
-http://www.gereports.com/post/128854239195/breaking-new-ground-digital-twin-helps
+~~http://www.gereports.com/post/128854239195/breaking-new-ground-digital-twin-helps~~ → [Сохранённая версия](http://web.archive.org/web/20170503171802/http://www.gereports.com/post/128854239195/breaking-new-ground-digital-twin-helps/)
 
-[Breaking New Ground: Digital Twin Helps Engineers Design Megawatt-Sized Circuit Breakers](http://www.gereports.com/post/128854239195/breaking-new-ground-digital-twin-helps)
+*Оригинальная ссылка больше не доступна*
+
+~~[Breaking New Ground: Digital Twin Helps Engineers Design Megawatt-Sized Circuit Breakers](http://www.gereports.com/post/128854239195/breaking-new-ground-digital-twin-helps)~~ → [Сохранённая версия](http://web.archive.org/web/20170503171802/~~http://www.gereports.com/post/128854239195/breaking-new-ground-digital-twin-helps~~ → [Сохранённая версия](http://web.archive.org/web/20170503171802/http://www.gereports.com/post/128854239195/breaking-new-ground-digital-twin-helps/)
+
+*Оригинальная ссылка больше не доступна*/)
+
+*Оригинальная ссылка больше не доступна*

@@ -2,72 +2,420 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nastran on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/nastran/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/nastran/</link>
     <description>MagicDPD: Magic Driven Product Development! (Nastran)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 01 Feb 2018 17:01:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2022 17:00:07 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/nastran/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/nastran/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>А знаете ли вы, что исходный код знаменитого #NASTRAN (#NASA Structural Analysis System) и сейчас лежит в свободном доступе в официальном репозитории NASA на #GitHub</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-20-a-znaete-li-vy-chto-ishodnyy-kod-znameni/</link>
+      <pubDate>Wed, 20 Apr 2022 17:00:07 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-20-a-znaete-li-vy-chto-ishodnyy-kod-znameni/</guid>
+      <description>&lt;p&gt;#opensource &lt;a href=&#34;https://github.com/nasa/NASTRAN-95&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/nasa/NASTRAN-95&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/nasa/NASTRAN-95&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/nasa/NASTRAN-95&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSC Nastran 2020</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-06-14-msc-nastran-2020/</link>
+      <pubDate>Sun, 14 Jun 2020 13:00:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-06-14-msc-nastran-2020/</guid>
+      <description>&lt;p&gt;MSC Nastran 2020
+#MSC #NASTRAN
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/msc-nastran-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MSC Nastran 2020 - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Тренды поисковых запросов по FEM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-10-trendy-poiskovyh-zaprosov-po-fem/</link>
+      <pubDate>Sun, 10 Feb 2019 16:17:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-10-trendy-poiskovyh-zaprosov-po-fem/</guid>
+      <description>&lt;p&gt;Тренды поисковых запросов по FEM&lt;/p&gt;
+&lt;p&gt;Интересный твит по статистике поисковых запросов главных механических решателей за 8 лет : ANSYS, Abaqus, Nastran, LS-DYNA и SAMCEF
+twitter.com/gdtech_be/status/1029620024124862464&lt;/p&gt;
+&lt;p&gt;#ABAQUS #ANSYS #LS_DYNA #NASTRAN #SAMCEF&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2kQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2kQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/gdtech_be/status/1029620024124862464&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;GDTech Belgium&lt;/a&gt;
+twitter.com/gdtech_be/status/1029620024124862464
+&lt;a href=&#34;https://wp.me/p9vWYY-2kQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2kQ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>eLamX²</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-04-elamx/</link>
+      <pubDate>Sat, 04 Aug 2018 18:01:02 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-04-elamx/</guid>
+      <description>&lt;p&gt;eLamX²
+Эта бесплатная кроссплатформенная разработка кафедры авиастроения Технического университета Дрездена позволит существенно упростить будни инженеров, занимающихся расчетами композиционных конструкций.&lt;/p&gt;
+&lt;p&gt;При беглом осмотре ПО видно, что оно умеет конструировать мультиаксиальные ткани, рассчитывать эффективные свойства пакетов, проверять устойчивость укладок, считать НДС и даже отображает основные критерии-индикаторы начала разрушения (first ply failure criterion).
+eLamX² в виде препоста сопрягается с LS-DYNA, ANSYS Mechanical, Nastran и Abaqus. Получается что-то вроде ANSYS Composite PrepPost, времен, когда его еще не купил ANSYS, и он был в разработке швейцарской фирмы EVAN.&lt;/p&gt;
+&lt;p&gt;Кстати, судя по скриншотам, у eLamX² есть довольно большая встроенная база материалов.
+&lt;a href=&#34;https://tu-dresden.de/ing/maschinenwesen/ilr/lft/elamx2/elamx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tu-dresden.de/ing/maschinenwesen/ilr/lft/elamx2/elamx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ABAQUS #ANSYS #Composite #ELamX #LSDYNA #NASTRAN
+&lt;a href=&#34;http://bit.ly/2OJjJ5F&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OJjJ5F&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://tu-dresden.de/ing/maschinenwesen/ilr/lft/elamx2/elamx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;eLamX²&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2OJjJ5F&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OJjJ5F&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>История современного КЭ</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-24-istoriya-sovremennogo-ke/</link>
+      <pubDate>Thu, 24 May 2018 18:00:48 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-24-istoriya-sovremennogo-ke/</guid>
+      <description>&lt;p&gt;История современного КЭ&lt;/p&gt;
+&lt;p&gt;В школе я очень не любил историю — мне было не очень интересно, и я совершенно не мог запомнить даты. Но в последнее время история стала мне очень интересна. Только это не история завоеваний, а история становления современного CAE софта. Я с большим удовольствием ищу и изучаю материалы про то, как это было, когда компьютеры были большими. Коллеги из Multimechanics сделали небольшой, но интересный обзор начала вычислительной механики. Если коротко:
+1968 — MCS/Nastran (MacNeal и Schwendler)
+1970 — ANSYS (Dr. John Swanson)
+1971 — MARC (Dr. Dave Hibbitt)
+1977 — AutoCAD (Mike Riddle и John Walker)
+1978 — Abaqus (Dr. Hibbitt)
+1978 — DYNA3D (Dr. John Hallquist)
+1985 — Altair HyperMesh
+1991 — NEi Nastran
+&lt;a href=&#34;http://blog.multimechanics.com/a-brief-history-of-finite-element-analysis-part-i&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://blog.multimechanics.com/a-brief-history-of-finite-element-analysis-part-i&lt;/a&gt;
+&lt;a href=&#34;http://blog.multimechanics.com/a-brief-history-of-finite-element-analysis-part-ii&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://blog.multimechanics.com/a-brief-history-of-finite-element-analysis-part-ii&lt;/a&gt;
+#Altair #ANSYS #AutoCAD #DYNA3D #HyperMesh #LS-DYNA #Marc #MSC #MultiMechanics #NASTRAN #NEI&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Ru&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Ru&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.multimechanics.com/a-brief-history-of-finite-element-analysis-part-i&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;A Brief History of Finite Element Analysis - Part I&lt;/a&gt;
+&lt;a href=&#34;http://blog.multimechanics.com/a-brief-history-of-finite-element-analysis-part-ii&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://blog.multimechanics.com/a-brief-history-of-finite-element-analysis-part-ii&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-1Ru&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Ru&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Изучаем Femap и NX Nastran</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-11-izuchaem-femap-i-nx-nastran/</link>
+      <pubDate>Sun, 11 Feb 2018 18:01:24 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-11-izuchaem-femap-i-nx-nastran/</guid>
+      <description>&lt;p&gt;Изучаем Femap и NX Nastran
+Коллеги из CADIS подготовили cерию обучающих вебинаров по NX и Femap&lt;/p&gt;
+&lt;p&gt;Будут следующие темы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Работа с балочными моделями в Femap с NX Nastran&lt;/li&gt;
+&lt;li&gt;Модальный анализ в Femap с NX Nastran&lt;/li&gt;
+&lt;li&gt;Гармонический анализ в Femap с NX Nastran&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;За подробностями сюда: &lt;a href=&#34;https://vk.com/@fea.femap-my-nachinaem-fevralskuu-seriu-vebinarov-o-feamp-with-nx-nast&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/@fea.femap-my-nachinaem-fevralskuu-seriu-vebinarov-o-feamp-with-nx-nast&lt;/a&gt;
+#CADIS #FEMAP #NASTRAN #NX
+&lt;a href=&#34;https://wp.me/p9vWYY-1CK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1CK&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vk.com/@fea.femap-my-nachinaem-fevralskuu-seriu-vebinarov-o-feamp-with-nx-nast&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/@fea.femap-my-nachinaem-fevralskuu-seriu-vebinarov-o-feamp-with-nx-nast&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-1CK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1CK&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Femap and NX Nastran webinars</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-11-femap-and-nx-nastran-webinars/</link>
+      <pubDate>Sun, 11 Feb 2018 07:01:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-11-femap-and-nx-nastran-webinars/</guid>
+      <description>&lt;p&gt;Femap and NX Nastran webinars
+Colleges from CADIS prepare training webinar series NX and Femap usage (RUS lang only)&lt;/p&gt;
+&lt;p&gt;You could listen to next topics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Work with beam models in Femap with NX Nastran&lt;/li&gt;
+&lt;li&gt;Modal analysis in Femap with NX Nastran&lt;/li&gt;
+&lt;li&gt;Harmonica analysis in Femap with NX Nastran&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Original page link: &lt;a href=&#34;https://vk.com/@fea.femap-my-nachinaem-fevralskuu-seriu-vebinarov-o-feamp-with-nx-nast&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/@fea.femap-my-nachinaem-fevralskuu-seriu-vebinarov-o-feamp-with-nx-nast&lt;/a&gt;
+#CADIS #FEMAP #NASTRAN #NX #tutorial
+&lt;a href=&#34;https://wp.me/p9vWYY-1Dl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Dl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vk.com/@fea.femap-my-nachinaem-fevralskuu-seriu-vebinarov-o-feamp-with-nx-nast&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/@fea.femap-my-nachinaem-fevralskuu-seriu-vebinarov-o-feamp-with-nx-nast&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-1Dl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Dl&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Ушел из жизни Ричард МакНил, один из отцов MSC и Nastran</title>
-      <link>http://localhost:1313/posts/2018-02-01-ushel-iz-zhizni-richard-maknil-odin-iz-otts/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-01-ushel-iz-zhizni-richard-maknil-odin-iz-otts/</link>
       <pubDate>Thu, 01 Feb 2018 17:01:21 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-02-01-ushel-iz-zhizni-richard-maknil-odin-iz-otts/</guid>
-      <description>&lt;p&gt;Доктор Ричард МакНил (Dr. Richard H. MacNeal), один из отцов MSC Software и MSC Nastran, скончался 29 января 2018 года в возрасте 94 лет. На протяжении 54 лет своей жизни он занимался развитием индустрии CAE.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-01-ushel-iz-zhizni-richard-maknil-odin-iz-otts/</guid>
+      <description>&lt;p&gt;Ушел из жизни Ричард МакНил, один из отцов MSC и Nastran&lt;/p&gt;
+&lt;p&gt;Доктор Ричард МакНил (Dr. Richard H. MacNeal), один из отцов MSC Software и MSC Nastran, скончался 29 января 2018 года в возрасте 94 лет. На протяжении 54 лет своей жизни он занимался развитием индустрии CAE.&lt;/p&gt;
 &lt;p&gt;[caption id=&amp;ldquo;attachment_6167&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;847&amp;rdquo;] Роберт Швендлер (слева) и Ричард МакНил (справа) работают над космической программой в 1960-х[/caption]&lt;/p&gt;
 &lt;p&gt;В 1963 году Ричард МакНил и Роберт Швендлер (Robert Schwendler) основали компанию MacNeal-Schwendler Corporation (MSC). Под руководством МакНила в MSC разработали их первый инструмент для решения задач механики SADSAM (Structural Analysis by Digital Simulation of Analog Methods). В 1965 году МакНил начал участвовать в программе по созданию решателя задач механики для NASA. Код предназначенный для решения задач, возникавших в ходе планирования первого полета человека на Луну, получил название Nastran (NASA STRucture ANalysis). В 1971 году компания MSC Software выпустила коммерческую версию Nastran, получившую название MSC.Nastran.&lt;/p&gt;
 &lt;p&gt;Согласно оценкам NASA, к 2003 году использование Nastran позволило сэкономить более 10 миллиардов долларов!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.mscsoftware.com/news/remembering-dr-richard-macneal-co-founder-msc-software-and-msc-nastran&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.mscsoftware.com/news/remembering-dr-richard-macneal-co-founder-msc-software-and-msc-nastran&lt;/a&gt;
 #CAE #legendpeople #MSC #NASA #NASTRAN
 &lt;a href=&#34;https://magicdpd.ru/?p=6160&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6160&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.mscsoftware.com/news/remembering-dr-richard-macneal-co-founder-msc-software-and-msc-nastran&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.mscsoftware.com/news/remembering-dr-richard-macneal-co-founder-msc-software-and-msc-nastran&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=6160&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6160&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Оказывается #atom умеет работать не только с синтаксисом #LS</title>
-      <link>http://localhost:1313/posts/2017-11-18-okazyvaetsya-atom-umeet-rabotat-ne-tol/</link>
+      <title>Оказывается #atom умеет работать не только с синтаксисом #LSDYNA, а тут есть все столпы #CAE:</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-18-okazyvaetsya-atom-umeet-rabotat-ne-tol/</link>
       <pubDate>Sat, 18 Nov 2017 17:15:25 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-18-okazyvaetsya-atom-umeet-rabotat-ne-tol/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-18-okazyvaetsya-atom-umeet-rabotat-ne-tol/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;#ANSYS #APDL &lt;a href=&#34;http://ift.tt/2AaBre6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2AaBre6&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;#NASTRAN &lt;a href=&#34;http://ift.tt/2zLVvDc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zLVvDc&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;#Abaqus &lt;a href=&#34;https://atom.io/packages/language-ansys&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://atom.io/packages/language-ansys&lt;/a&gt; 🔗 language-ansys&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2Ablt3I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2Ablt3I&lt;/a&gt;
+&lt;a href=&#34;https://atom.io/packages/language-ansys&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://atom.io/packages/language-ansys&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Покупка CD-adapco обошлась Siemens меньше чем в 1 Instagram </title>
-      <link>http://localhost:1313/posts/2016-01-26-pokupka-cd-adapco-oboshlas-siemens-mensh/</link>
+      <title>Bolt 2.0 для создания сетки</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-06-bolt-20-dlya-sozdaniya-setki/</link>
+      <pubDate>Sun, 06 Aug 2017 17:00:56 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-06-bolt-20-dlya-sozdaniya-setki/</guid>
+      <description>&lt;p&gt;Bolt 2.0 для создания сетки
+&lt;a href=&#34;https://youtu.be/Dqt0rtjffIc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Dqt0rtjffIc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#csimsoft в своем сеточном генераторе #Bolt 2.0 добилась автоматической генерации полностью гексаэдральной сетки для любой геометрии. All-hex mesh - это просто мечта инженера расчетчика, особенно для #explicit! Судя по описанию, сеточный генератор опитается на алгоритм #PolyCube - одна из певых, если не единственная завершенная и готовая реализация этого перспективного алгоритма генерации сетки.&lt;/p&gt;
+&lt;p&gt;Сеточный генератор умеет писать и читать сетки для:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#ANSYS Mechanical&lt;/li&gt;
+&lt;li&gt;#ANSYS Fluent&lt;/li&gt;
+&lt;li&gt;#Abaqus&lt;/li&gt;
+&lt;li&gt;#LSDYNA&lt;/li&gt;
+&lt;li&gt;#OpenFOAM&lt;/li&gt;
+&lt;li&gt;#Patran&lt;/li&gt;
+&lt;li&gt;#Nastran&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;А еще Bolt умеет сроить сетку параллельно :-)&lt;/p&gt;
+&lt;p&gt;Пожалуй надо брать триал на 15 дней и пробовать.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/Dqt0rtjffIc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Dqt0rtjffIc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/Dqt0rtjffIc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Introduction to Meshing with Bolt&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Нелинейные контакты в SIMSOLID</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-03-nelineynye-kontakty-v-simsolid/</link>
+      <pubDate>Thu, 03 Aug 2017 17:01:35 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-03-nelineynye-kontakty-v-simsolid/</guid>
+      <description>&lt;p&gt;Нелинейные контакты в SIMSOLID
+&lt;a href=&#34;https://www.simsolid.com/2017/07/new-simsolid-separating-contact-with-friction/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.simsolid.com/2017/07/new-simsolid-separating-contact-with-friction/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#SIMSOLID презентовал новый тип контактного взаимодействия. Теперь можно считать нелинейные контакты с размыканием и трением. Тут пользователи #ANSYS и #NASTRAN усмехнуться, так как они считали такие задачи лет 30-40 назад. Однако, не стоит забывать, что SIMSOLID раз в 10 младше традиционных #FEM, да и сетки у него &amp;ldquo;нет&amp;rdquo; - кстати интересно, как у него будет с &amp;ldquo;сеточной&amp;rdquo; сходимостью в контакте?&lt;/p&gt;
+&lt;p&gt;P.S. На демонстрационном видео показано, как работает нагрузка типа Bolt Pretention, и вот тут у меня появляется зависть. Ведь преднатяг болтов можно задать не только через осевое усилие, но и через момент затяжки, что особенно часто просят клиенты.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/Mq4aAEPsJ3A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Mq4aAEPsJ3A&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.simsolid.com/2017/07/new-simsolid-separating-contact-with-friction/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;New SIMSOLID separating contact with friction&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/Mq4aAEPsJ3A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Mq4aAEPsJ3A&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSC пиарится</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-03-msc-piaritsya/</link>
+      <pubDate>Mon, 03 Apr 2017 17:02:21 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-03-msc-piaritsya/</guid>
+      <description>&lt;p&gt;MSC пиарится
+&lt;a href=&#34;https://www.youtube.com/watch?v=AlCom4rW61w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=AlCom4rW61w&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Компания #MSC опубликовала ролик с рекламой их основных кодов. Основной послы - мы считали для космических программ. И ведь не поспоришь - именно MSC разарботали один из первых КЭ кодов для #NASA, получивший название #NASTRAN.
+#Adams #Marc
+&lt;a href=&#34;https://www.youtube.com/watch?v=AlCom4rW61w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=AlCom4rW61w&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=AlCom4rW61w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MSC Software Overview&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>XFlow - Nastran FSI</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-14-xflow-nastran-fsi/</link>
+      <pubDate>Tue, 14 Feb 2017 17:02:55 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-14-xflow-nastran-fsi/</guid>
+      <description>&lt;p&gt;XFlow - Nastran FSI
+&lt;a href=&#34;https://www.youtube.com/watch?v=Qretsy5KuNE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Qretsy5KuNE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Часовой(!!!) вебинар на тему постановки #FSI для кодов #MSC #Nastran и #XFlow. В вебинаре много полезных данных об особенностях работы и преимуществах бессеточного #CFD кода XFlow. Об недостатках никто не говорил :-)&lt;/p&gt;
+&lt;p&gt;А еще в конце полностью разобрали постановку простейшего учебного примера для начинающих и заинтересованных.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Qretsy5KuNE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Qretsy5KuNE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Qretsy5KuNE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;XFlow/MSC Nastran Advanced FSI Co-Simulations Webinar&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Аналитика на тему будущего MSC</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-05-analitika-na-temu-buduschego-msc/</link>
+      <pubDate>Sun, 05 Feb 2017 12:02:09 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-05-analitika-na-temu-buduschego-msc/</guid>
+      <description>&lt;p&gt;Аналитика на тему будущего MSC
+&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/14246/MSC-Acquisition-Points-Towards-Simulating-Manufacturing-and-3D-Printing.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/14246/MSC-Acquisition-Points-Towards-Simulating-Manufacturing-and-3D-Printing.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;После новости о покупке компании #MSC компанией #Hexagon AB - разработчика оригинального кода  #NASTRAN - всех очень сильно интересует дальнейшее будущее компании. Свой взгляд на это публиковали в статье коллеги из &lt;a href=&#34;https://www.egnineering.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.egnineering.com&lt;/a&gt;. Говорят, что всем это подайте только на пользу.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/14246/MSC-Acquisition-Points-Towards-Simulating-Manufacturing-and-3D-Printing.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MSC Acquisition Points Towards Simulating Manufacturing and 3D Printing &amp;gt; ENGINEERING.com&lt;/a&gt;
+&lt;a href=&#34;https://www.egnineering.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.egnineering.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSC будет куплена компанией Hexagon</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-03-msc-budet-kuplena-kompaniey-hexagon/</link>
+      <pubDate>Fri, 03 Feb 2017 08:32:56 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-03-msc-budet-kuplena-kompaniey-hexagon/</guid>
+      <description>&lt;p&gt;MSC будет куплена компанией Hexagon
+&lt;a href=&#34;http://www.develop3d.com/blog/2017/02/hexagon-to-acquire-msc-simulation-analysis&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.develop3d.com/blog/2017/02/hexagon-to-acquire-msc-simulation-analysis&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Большая новость о покупке большого #CAE игрока. Компания #Hexagon объявила о договоренности с #MSC на приобретение последней за  $834 миллионов.&lt;/p&gt;
+&lt;p&gt;За несколько лет компания Hexagon уже приобрела несколько крупных технических фирм: #Vero (&lt;a href=&#34;http://www.verosoftware.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.verosoftware.com&lt;/a&gt; - разработчик #CAD и #CAM), Forming Technology Inc (#FTI) (&lt;a href=&#34;http://www.forming.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.forming.com&lt;/a&gt; - программное обеспечение для штамповки и формовки на основе собственных полуимперических алгоритмов и с возможностью подключения #LSDYNA), Intergraph (&lt;a href=&#34;http://www.intergraph.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.intergraph.com&lt;/a&gt; -  геоинформационные системы), и Aicon 3D Systems (&lt;a href=&#34;http://aicon3d.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://aicon3d.com&lt;/a&gt; - разработка ПО для 3D сканирования).&lt;/p&gt;
+&lt;p&gt;Таким образом у Hexagon теперь есть все коды от MSC: #Nastran, #Patran, #Adams, #Marc, #Easy5&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.develop3d.com/blog/2017/02/hexagon-to-acquire-msc-simulation-analysis&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DEVELOP3D blog - Hexagon to acquire MSC Software for $834 million&lt;/a&gt;
+&lt;a href=&#34;http://www.verosoftware.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.verosoftware.com&lt;/a&gt;
+&lt;a href=&#34;http://www.forming.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.forming.com&lt;/a&gt;
+&lt;a href=&#34;http://www.intergraph.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.intergraph.com&lt;/a&gt;
+&lt;a href=&#34;http://aicon3d.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://aicon3d.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Численные методы в медицине</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-01-30-chislennye-metody-v-meditsine/</link>
+      <pubDate>Mon, 30 Jan 2017 17:00:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-01-30-chislennye-metody-v-meditsine/</guid>
+      <description>&lt;p&gt;Численные методы в медицине
+&lt;a href=&#34;https://www.youtube.com/watch?v=AZ-pEi9PpZQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=AZ-pEi9PpZQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Численно моделирование и решение задач медицины/биомеханики - это всегда захватывающий процесс. Например вот небольшой ролик про то, как #MSC решают задачу починки больных позвоночников при помощи #Adams и #Nastran&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=AZ-pEi9PpZQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=AZ-pEi9PpZQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=AZ-pEi9PpZQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MSC Software- Spine Research Institute Customer Testimonial Using Adams and MSC Nastran&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Простейшая задача в NASTRAN</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-21-prosteyshaya-zadacha-v-nastran/</link>
+      <pubDate>Wed, 21 Dec 2016 17:03:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-21-prosteyshaya-zadacha-v-nastran/</guid>
+      <description>&lt;p&gt;Простейшая задача в NASTRAN
+&lt;a href=&#34;https://youtu.be/ENavI3KGCao&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/ENavI3KGCao&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Учебный пример по изгибу балки при помощи #NASTRAN. Постановка задачи в #PATRAN в исполнении специалистов #MSC.&lt;/p&gt;
+&lt;p&gt;P.S. А я еще думал, что у #ANSYS интересом устаревший и не современный, а тут прям что-то уровня LS-PrePost появилось.
+&lt;a href=&#34;https://youtu.be/ENavI3KGCao&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/ENavI3KGCao&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/ENavI3KGCao&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MSC Nastran, Patran Tutorial - Bending Stresses of a Loaded Beam&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OptiStruct как замена NASTRAN</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-19-optistruct-kak-zamena-nastran/</link>
+      <pubDate>Mon, 19 Dec 2016 17:01:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-19-optistruct-kak-zamena-nastran/</guid>
+      <description>&lt;p&gt;OptiStruct как замена NASTRAN
+&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13866/OptiStruct-for-Structural-Analysis-Not-Just-for-Optimizations-Anymore.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13866/OptiStruct-for-Structural-Analysis-Not-Just-for-Optimizations-Anymore.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Забавный факт: начавшись около 20 лет назад #OptiStruct (ныне продута #Altair) как продута для оптимизации, так хотел быть совместим с #NASTRAN, что за годы своего становления научился читать и выполнять 90% его команд. Более того, он научился решать задачи не только оптимизации, но и практически все задачи линейной и нелинейной статики и динамики.&lt;/p&gt;
+&lt;p&gt;О том, как это произошло, рассказывается по ссылке ниже.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13866/OptiStruct-for-Structural-Analysis-Not-Just-for-Optimizations-Anymore.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;OptiStruct for Structural Analysis: Not Just for Optimizations Anymore&lt;/a&gt;
+&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13866/OptiStruct-for-Structural-Analysis-Not-Just-for-Optimizations-Anymore.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13866/OptiStruct-for-Structural-Analysis-Not-Just-for-Optimizations-Anymore.aspx&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Удобный блокнот</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-30-udobnyy-bloknot/</link>
+      <pubDate>Fri, 30 Sep 2016 17:00:21 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-30-udobnyy-bloknot/</guid>
+      <description>&lt;p&gt;Удобный блокнот
+&lt;a href=&#34;https://vk.com/wall-97265142_215&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/wall-97265142_215&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Я уже писал, что #SublimeText умеет подсвечивать синтаксис #ANSYS #APDL и #LSDYNA KEYWORD (&lt;a href=&#34;https://vk.com/wall-97265142_215%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/wall-97265142_215)&lt;/a&gt;. Оказалось, это не все: в стандартном репозитории для SublimeText присутствует пакет подсветки синтаксиса #Abaqus, а если очень надо, но на #GitHub есть плагин для подсветки #NASTRAN (&lt;a href=&#34;https://github.com/bguest/NASTRAN-Textmate-Bundle%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/bguest/NASTRAN-Textmate-Bundle)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Таким образом SublimeText умеет посвечивать синтаксис всех 4-х самых больших система для КЭ расчетов.&lt;/p&gt;
+&lt;p&gt;P.S. Учебные видео по работе с SublimeText доступны по ссылке: &lt;a href=&#34;https://www.youtube.com/playlist?list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/playlist?list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vk.com/wall-97265142_215&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MagicDPD - про ANSYS, LS-DYNA и другое CAE&lt;/a&gt;
+&lt;a href=&#34;https://github.com/bguest/NASTRAN-Textmate-Bundle&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/bguest/NASTRAN-Textmate-Bundle&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/playlist?list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/playlist?list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Редкий #FSI расчет парашюта при помощи связки #XFlow и #Nastran от #MSC - говорят все хорошо сошлось с экспериментами NASA :-)</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-09-redkiy-fsi-raschet-parashyuta-pri-pomoschi-s/</link>
+      <pubDate>Sat, 09 Jul 2016 18:03:03 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-09-redkiy-fsi-raschet-parashyuta-pri-pomoschi-s/</guid>
+      <description>&lt;p&gt;Двусторонний FSI осуществляется по средствам открытого кода #OpenFSI (&lt;a href=&#34;http://openfsi.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://openfsi.org/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;#opensource #CFD #FEM &lt;a href=&#34;https://www.youtube.com/watch?v=bc5xDVDw4f0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=bc5xDVDw4f0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://openfsi.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://openfsi.org/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=bc5xDVDw4f0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=bc5xDVDw4f0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Статус поддержки решателей #ABAQUS, #NASTRAN и #ANSYS в самой свежей версии #FEMAP</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-25-status-podderzhki-reshateley-abaqus-nas/</link>
+      <pubDate>Mon, 25 Apr 2016 12:01:52 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-25-status-podderzhki-reshateley-abaqus-nas/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=VRprvXT8m4w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FEMAP V11.3: Solver Support&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Нашел на просторах сети большущий (более часа!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-11-nashel-na-prostorah-seti-bolshuschiy-bolee/</link>
+      <pubDate>Fri, 11 Mar 2016 07:00:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-11-nashel-na-prostorah-seti-bolshuschiy-bolee/</guid>
+      <description>&lt;p&gt;) семинар по работе с композитами в #Femap. В качестве решателя, для которого ставятся задачи выступает #NX #NASTRAN. Семинар ведут специалисты Predictive Engineering - спецы в NX, LS-DYNA и Femap.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=s03pDV-a75U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Predictive Engineering - Composite Laminate Modeling Seminar - November 20, 2014&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Покупка CD-adapco обошлась Siemens меньше чем в 1 Instagram (aka 1 миллиард долларов США). Вот так сейчас ценятся инженерные знания, чёртовы хипстеры!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-26-pokupka-cd-adapco-oboshlas-siemens-mensh/</link>
       <pubDate>Tue, 26 Jan 2016 07:45:44 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-01-26-pokupka-cd-adapco-oboshlas-siemens-mensh/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-26-pokupka-cd-adapco-oboshlas-siemens-mensh/</guid>
       <description>&lt;p&gt;Siemens прикупил себе CD-adapco. Напомню, что у Siemens сейчас есть #Nastran - старый и проверенный код для неявной механики. Причем он интегрирован с ранее приобретенной очень крутой #CAD системой #Unigraphic, которую с трудом догоняли такие звери как #Catia и Pro/E. Кроме того, #Siemens приобрел себе Samsef - французский код для механики, который лучше всех считает композиты. Teamcenter - вообще самый крутой на рынке PLM/PDM.&lt;/p&gt;
 &lt;p&gt;Добавим к этому портфолио #StarCCM+ - единственного серьезного конкурента #Fluent, и получим очень сильную связку.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cfdreview.com/article.pl?sid=16/01/26/0141256&amp;amp;rss=1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CFD Review | Siemens to Acquire CD-adapco&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>#SimSolid провел простейшее сравнение с механическими решате</title>
-      <link>http://localhost:1313/posts/2015-12-29-simsolid-provel-prosteyshee-sravnenie-s/</link>
+      <title>#SimSolid провел простейшее сравнение с механическими решателями основанными на МКЭ.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-29-simsolid-provel-prosteyshee-sravnenie-s/</link>
       <pubDate>Tue, 29 Dec 2015 18:00:58 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-12-29-simsolid-provel-prosteyshee-sravnenie-s/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-29-simsolid-provel-prosteyshee-sravnenie-s/</guid>
+      <description>&lt;p&gt;В качестве представитель от #МКЭ был выбран NX/Nastran с препроцессорами #FEMAP или #Autodesk. Совпасть удалось, но за кадром осталась информация о потреблении памяти и скорости расчета решателя.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://simsolid.com/2015/12/comparing-simsolid-with-a-fea-benchmark&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Comparing SIMSOLID with a FEA Benchmark&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Nor-Tech, один из крупнейших в США системных интеграторов сп</title>
-      <link>http://localhost:1313/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</link>
+      <title>#MSC добавили в #Adams решатель #Nastran и получили Adams #Maxflex.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-21-msc-dobavili-v-adams-reshatel-nastran/</link>
+      <pubDate>Mon, 21 Dec 2015 18:00:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-21-msc-dobavili-v-adams-reshatel-nastran/</guid>
+      <description>&lt;p&gt;Примерно таким же путем пойдет ANSYS в 17 версии Mechanical.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=dwdm29HJBs4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Adams Maxflex&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nor-Tech, один из крупнейших в США системных интеграторов специализирующихся на #HPC, запустил демонстрационных кластер, на котором вы можете свободно проверить, что конкретно вам даст настоящий высокопроизводительный ресурс.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</link>
       <pubDate>Mon, 23 Nov 2015 06:00:37 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</guid>
-      <description>&lt;p&gt;CAE:&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</guid>
+      <description>&lt;p&gt;Уже сейчас на классе доступны следующие программные продукты:&lt;/p&gt;
+&lt;p&gt;CAE:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;ANSYS: ANSYS Fluent – CFD,&lt;/li&gt;
 &lt;li&gt;ANSYS: Mechanical – FEA,&lt;/li&gt;
@@ -97,34 +445,41 @@
 &lt;li&gt;Altair PBS Pro, Compute Manager &amp;amp; Display Manager и другеи продукты&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Жаль, что у нас пока нет таких же бравых системных интеграторов.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.nor-tech.com/solutions/hpc/demo-cluster/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Try our free demo cluster&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>NX Nastran тоже ударился в облака. Скоро будет проще сказать</title>
-      <link>http://localhost:1313/posts/2015-10-17-nx-nastran-tozhe-udarilsya-v-oblaka-skoro/</link>
+      <title>NX Nastran тоже ударился в облака. Скоро будет проще сказать, кого из CAE вендоров там нет. Siemens PLM для своего облако выдрали Rescale. Насколько мне известно, Rescale не умеет делать удаленную визуализацию. И в презентации про нее тоже ни слова. Только про вычислительные мощности. А как же обработать результаты?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-17-nx-nastran-tozhe-udarilsya-v-oblaka-skoro/</link>
       <pubDate>Sat, 17 Oct 2015 07:01:49 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-17-nx-nastran-tozhe-udarilsya-v-oblaka-skoro/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-17-nx-nastran-tozhe-udarilsya-v-oblaka-skoro/</guid>
+      <description>&lt;p&gt;Все домой качать?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=LxPdS1g_KLs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;NX Nastran Cloud Solutions: SaaS or BYOL&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Настоящая лекция на тему моделирования акустики в нестациона</title>
-      <link>http://localhost:1313/posts/2015-10-12-nastoyaschaya-lektsiya-na-temu-modelirovaniya-a/</link>
+      <title>Настоящая лекция на тему моделирования акустики в нестационарной постановке. Тут расчеты во временном или в частотном диапазоне, явные и неявные схемы, твердотельная динамика и многое другое!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-12-nastoyaschaya-lektsiya-na-temu-modelirovaniya-a/</link>
       <pubDate>Mon, 12 Oct 2015 06:30:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-12-nastoyaschaya-lektsiya-na-temu-modelirovaniya-a/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-12-nastoyaschaya-lektsiya-na-temu-modelirovaniya-a/</guid>
+      <description>&lt;p&gt;Для полного удовольствия не хватает только метода граничных элементов.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=TDy11Z-ZgK0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Time-Domain Solutions for Simulating Transient Acoustics&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Топологическая оптимизация от Virtual.PYXIS для MSC.Nastarn.</title>
-      <link>http://localhost:1313/posts/2015-10-08-topologicheskaya-optimizatsiya-ot-virtualpy/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-08-topologicheskaya-optimizatsiya-ot-virtualpy/</link>
       <pubDate>Thu, 08 Oct 2015 06:30:15 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-08-topologicheskaya-optimizatsiya-ot-virtualpy/</guid>
-      <description>&lt;p&gt;#ANSYS #Mechanical #Virtual.PYXIS #TOPO #MSC #Nastran&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-08-topologicheskaya-optimizatsiya-ot-virtualpy/</guid>
+      <description>&lt;p&gt;Топологическая оптимизация от Virtual.PYXIS для MSC.Nastarn. Забавно, что в презентации для MSC ребята из Virtual.PYXIS без зазрения совести включают анимации результатов полученные в ANSYS Mechainical (момент времени вебинара 4:17).&lt;/p&gt;
+&lt;p&gt;#ANSYS #Mechanical #Virtual.PYXIS #TOPO #MSC #Nastran&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=2HDIW73cL80&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Topology Optimization Automotive Case Study Running&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

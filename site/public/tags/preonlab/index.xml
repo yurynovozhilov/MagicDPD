@@ -2,35 +2,104 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Preonlab on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/preonlab/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/preonlab/</link>
     <description>MagicDPD: Magic Driven Product Development! (Preonlab)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 08 Feb 2021 09:41:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jun 2022 20:39:36 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/preonlab/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/preonlab/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Неявный решатель SPH с учетом сжимаемости для моделирования </title>
-      <link>http://localhost:1313/posts/2021-02-08-neyavnyy-reshatel-sph-s-uchetom-szhimaemost/</link>
+      <title>В  релиз #PreonLab 5.2 завезли многофазные течения для #SPH.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-06-07-v--reliz-preonlab-52-zavezli-mnogofazn/</link>
+      <pubDate>Tue, 07 Jun 2022 20:39:36 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-06-07-v--reliz-preonlab-52-zavezli-mnogofazn/</guid>
+      <description>&lt;p&gt;В  релиз #PreonLab 5.2 завезли многофазные течения для #SPH. Выглядит красиво. #CFD &lt;a href=&#34;https://youtu.be/S9K2LY8o3qE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/S9K2LY8o3qE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/S9K2LY8o3qE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/S9K2LY8o3qE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Неявный решатель SPH с учетом сжимаемости для моделирования снега</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-08-neyavnyy-reshatel-sph-s-uchetom-szhimaemost/</link>
       <pubDate>Mon, 08 Feb 2021 09:41:40 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-02-08-neyavnyy-reshatel-sph-s-uchetom-szhimaemost/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-08-neyavnyy-reshatel-sph-s-uchetom-szhimaemost/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=JSNE_PIG1UQ&amp;amp;feature=share&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=JSNE_PIG1UQ&amp;feature=share&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Обзор публикации &amp;ldquo;An Implicit Compressible SPH Solver for Snow Simulation&amp;rdquo; коллег из FIFTY2 Technology GmbH - разработчиков PreonLab. Статья опубликована в рамках конференции  SIGGRAPH. Что тут сказать: выглядит круто, однако конференция SIGGRAPH - это конференция по визуализации. Соответсвенно, никакой верификации или валидации данного метода для реальных расчетов снега вы не найдете. Просто красивые картинки и мультики, а жаль.&lt;/p&gt;
 &lt;p&gt;#fifty2 #preonlab #siggraph #snow #sph
+&lt;a href=&#34;https://tinyurl.com/yxezqybu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yxezqybu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtube.com/watch?v=JSNE_PIG1UQ&amp;amp;feature=share&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;7 Years of Progress In Snow Simulation! ❄️&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=JSNE_PIG1UQ&amp;amp;feature=share&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=JSNE_PIG1UQ&amp;feature=share&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/yxezqybu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yxezqybu&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PreonLab 4.1 получил адаптивность для метода частиц</title>
-      <link>http://localhost:1313/posts/2020-02-05-preonlab-41-poluchil-adaptivnost-dlya-me/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-02-05-preonlab-41-poluchil-adaptivnost-dlya-me/</link>
       <pubDate>Wed, 05 Feb 2020 13:00:33 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-02-05-preonlab-41-poluchil-adaptivnost-dlya-me/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-02-05-preonlab-41-poluchil-adaptivnost-dlya-me/</guid>
+      <description>&lt;p&gt;PreonLab 4.1 получил адаптивность для метода частиц&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/preonlab-4-1-local-refinement/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;PreonLab 4.1 получил адаптивность для метода частиц - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PreonLab 4.0</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-10-preonlab-40/</link>
+      <pubDate>Thu, 10 Oct 2019 13:00:58 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-10-preonlab-40/</guid>
+      <description>&lt;p&gt;PreonLab 4.0&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/preonlab-4-0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;PreonLab 4.0 - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Проезд брода в PreonLab 3.3</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-09-proezd-broda-v-preonlab-33/</link>
+      <pubDate>Tue, 09 Jul 2019 17:01:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-09-proezd-broda-v-preonlab-33/</guid>
+      <description>&lt;p&gt;Проезд брода в PreonLab 3.3&lt;/p&gt;
+&lt;p&gt;Ничего особенного, просто красивые результаты расчета в  PreonLab 3.3 — 96 ядер, 13 часов.&lt;/p&gt;
+&lt;p&gt;#FSI #preonlab&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Bg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Bg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Bg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Bg&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Бессеточный CFD решатель PreonLab</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-06-bessetochnyy-cfd-reshatel-preonlab/</link>
+      <pubDate>Wed, 06 Feb 2019 17:00:48 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-06-bessetochnyy-cfd-reshatel-preonlab/</guid>
+      <description>&lt;p&gt;Бессеточный CFD решатель PreonLab&lt;/p&gt;
+&lt;p&gt;Похоже, сеточные методы уже всем поднадоели. PreonLab — очередной бессеточный CFD решатель, разработанный немецкой компанией FIFTY2 Technology GmbH.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/3WjJYI8vkK4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/3WjJYI8vkK4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;К ключевым особенностям разработчики относят расширенные возможности визуализации результатов. И действительно, получаемые видео больше напоминают профессиональные рендер-сцены, чем результаты расчетов.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/CEerYI-BAgE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/CEerYI-BAgE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Еще одно интересное решение: движение твердых тел (читай границ расчетного домена) задается по принципу ключевых положений (key-frame animaniton).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=VCswHNhWTmE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=VCswHNhWTmE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;К сожалению, сходу не удалось найти описание математики, которая стоит за всеми этими красивыми расчетами.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=osFWUdn0TmQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=osFWUdn0TmQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Сайт разработчика: &lt;a href=&#34;https://www.fifty2.eu/preonlab/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.fifty2.eu/preonlab/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#CFD #meshless #preonlab&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2jc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2jc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/3WjJYI8vkK4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/3WjJYI8vkK4&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/CEerYI-BAgE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/CEerYI-BAgE&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=VCswHNhWTmE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=VCswHNhWTmE&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=osFWUdn0TmQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=osFWUdn0TmQ&lt;/a&gt;
+&lt;a href=&#34;https://www.fifty2.eu/preonlab/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.fifty2.eu/preonlab/&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2jc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2jc&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

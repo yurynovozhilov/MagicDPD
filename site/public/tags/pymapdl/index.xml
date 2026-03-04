@@ -2,25 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PyMAPDL on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/pymapdl/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/pymapdl/</link>
     <description>MagicDPD: Magic Driven Product Development! (PyMAPDL)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 14 Sep 2022 18:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Oct 2022 20:00:02 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/pymapdl/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/pymapdl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Сегодня я бы хотел высказать пару мыслей про #opensource про</title>
-      <link>http://localhost:1313/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</link>
+      <title>Большой учебный материал по тому, как выполнять обработку результатов расчетов #Ansys #Mechanical #APDL в среде #pyMAPDL &#43; #pyDPF</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-10-06-bolshoy-uchebnyy-material-po-tomu-kak-vy/</link>
+      <pubDate>Thu, 06 Oct 2022 20:00:02 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-10-06-bolshoy-uchebnyy-material-po-tomu-kak-vy/</guid>
+      <description>&lt;p&gt;#opensource #python &lt;a href=&#34;https://www.padtinc.com/2022/07/18/ansys-scripting-python-p1-solve-post/?utm_source=pocket_mylist&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.padtinc.com/2022/07/18/ansys-scripting-python-p1-solve-post/?utm_source=pocket_mylist&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.padtinc.com/2022/07/18/ansys-scripting-python-p1-solve-post/?utm_source=pocket_mylist&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.padtinc.com/2022/07/18/ansys-scripting-python-p1-solve-post/?utm_source=pocket_mylist&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сегодня я бы хотел высказать пару мыслей про #opensource проект #pyAnsys.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</link>
       <pubDate>Wed, 14 Sep 2022 18:00:17 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</guid>
-      <description>&lt;p&gt;Итак, #Python внутри экосистемы #Ansys есть очень давно, так почему все вдруг начала говорить про #pyAnsys? Дело в том, что раньше python выступал только в роли некого внутреннего инструмента помощи в постановки задачи. Вы запускали продукты Ansys, и в них уже могли что-то автоматизировать на python.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</guid>
+      <description>&lt;p&gt;Многие мои друзья, с которыми мы обсуждали данный проект, изначально неправильно поняли, что это, и не придали ему должного значения.&lt;/p&gt;
+&lt;p&gt;Итак, #Python внутри экосистемы #Ansys есть очень давно, так почему все вдруг начала говорить про #pyAnsys? Дело в том, что раньше python выступал только в роли некого внутреннего инструмента помощи в постановки задачи. Вы запускали продукты Ansys, и в них уже могли что-то автоматизировать на python.&lt;/p&gt;
 &lt;p&gt;pyAnsys полностью меняет концепцию. У каждого модуля появляется свой #API, который вы можете использовать в вашей #python программе. Ansys тут выступает как вспомогательный инструмент.&lt;/p&gt;
 &lt;p&gt;Например, #pyMAPDL позволяет полностью поставить #FEM задачу и запустить решатель MAPDL, который вообще может быть помещен в #docker контейнер. Обработка данных теперь может производиться единым #pyDPF фреймвоком. Данные между решателями теперь могут передаваться как вы придумаете - ведь у всех них есть свой открытый API! И да, никто не ограничивает вас в возможности совместной работы продуктов Ansys и не Ansys. В стандартных примерах вы сейчас можете найти инструкции для работы с #Gmsh.&lt;/p&gt;
 &lt;p&gt;Я бы сказал, что #pyAnsys - это основа для переосмысления Workbench. Сейчас все связи между модулями #Workbench жестко определенны разработчиками. С pyAnsys вас больше нет таких ограничений, а что еще нужно вам для проведения новых увлекательных расчетов? &lt;a href=&#34;https://docs.pyansys.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://docs.pyansys.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.pyansys.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://docs.pyansys.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Возможно вы слышали, что Ansys недавно выпустил #opensource библиотеку #pyAnsys, которая позволят использовать продукты и решетили #Ansys прямо из среды #Python.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-04-vozmozhno-vy-slyshali-chto-ansys-nedavno-v/</link>
+      <pubDate>Mon, 04 Apr 2022 17:00:29 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-04-vozmozhno-vy-slyshali-chto-ansys-nedavno-v/</guid>
+      <description>&lt;p&gt;Прямо сейчас доступны седеющие пакеты #PyMAPDL, #PyAEDT, PyDPF-Core, PyDPF-Post, Legacy PyMAPDL Reader и #Granta MI BoM Analytics: Pythonic.&lt;/p&gt;
+&lt;p&gt;Это еще не новость. Новость в том, что в поддержку данного функционала начали пилить официальную серию учебных вебинаров. И пилит их не кто-нибудь, а живая легенда механических расчетов Ansys, Пьер Тиффри (Pierre Thieffry). У Пьера почти 25 лет опыта работы и он один из самых высокопоставленных и влиятельных технических экспертов компании.  А еще, он умеет делать просто потрясающие технические доклады - сам был на паре его лекций в живую, и то было по круче, чем презентация перово iPhone.&lt;/p&gt;
+&lt;p&gt;Короче, Pierre Thieffry - один из моих кумиров от мира прикладного МКЭ, так что не пропустите начало его серии вебинаров 27 апреля!&lt;/p&gt;
+&lt;p&gt;#legendpeople &lt;a href=&#34;https://www.ansys.com/events/scripting-hacks-automating-repetitive-tasks-in-ansys-mechanical&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/events/scripting-hacks-automating-repetitive-tasks-in-ansys-mechanical&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys.com/events/scripting-hacks-automating-repetitive-tasks-in-ansys-mechanical&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Scripting Hacks: Automating Repetitive Tasks in Ansys Mechanical  | Ansys&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

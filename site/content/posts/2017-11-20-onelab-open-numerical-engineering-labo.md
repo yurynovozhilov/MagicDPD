@@ -21,7 +21,11 @@ tags:
 В комплекте есть куча учебных примеров для всех областей физики.
 #opensource
 
-http://onelab.info/wiki/ONELAB 🔗 ONELAB - ONELAB
+~~http://onelab.info/wiki/ONELAB~~ → [Сохранённая версия](http://web.archive.org/web/20241116020316/http://www.onelab.info/wiki/ONELAB)
+
+*Оригинальная ссылка больше не доступна* 🔗 ONELAB - ONELAB
 
 http://ift.tt/2jHnEoG
-http://onelab.info/wiki/ONELAB
+~~http://onelab.info/wiki/ONELAB~~ → [Сохранённая версия](http://web.archive.org/web/20241116020316/http://www.onelab.info/wiki/ONELAB)
+
+*Оригинальная ссылка больше не доступна*

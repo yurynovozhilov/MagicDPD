@@ -2,22 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FluiDyna on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/fluidyna/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/fluidyna/</link>
     <description>MagicDPD: Magic Driven Product Development! (FluiDyna)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 06 Oct 2015 18:01:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 May 2018 18:01:05 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/fluidyna/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/fluidyna/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>У Altair теперь есть много CFD - почти столько же, сколько и</title>
-      <link>http://localhost:1313/posts/2015-10-06-u-altair-teper-est-mnogo-cfd-pochti-s/</link>
+      <title>Altair покупает FluiDyna</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-20-altair-pokupaet-fluidyna/</link>
+      <pubDate>Sun, 20 May 2018 18:01:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-20-altair-pokupaet-fluidyna/</guid>
+      <description>&lt;p&gt;Altair покупает FluiDyna&lt;/p&gt;
+&lt;p&gt;Altair объявил о покупке компании German Computation Fluid Dynamics, разработчика кодов FluiDyna ultraFluidX и FluiDyna nanoFluidX. Данные CFD коды уже давно входят в список партнерского ПО для Altair, а их разработчики получают соответствующие инвестиции.
+CFD решатели примечательны тем, что являются бессеточными. ultraFluidX — это решеточные уравнения Больцмана, а nanoFluidX — очень умный SPH. Соответсвенно, оба кода заточены на моделирование процессов с большим количеством подвижных границ и FSI. Также оба кода отлично подходят для работы на GPU NVIDIA.
+&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16931/Altair-Acquires-GPU-Accelerated-CFD-Company.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16931/Altair-Acquires-GPU-Accelerated-CFD-Company.aspx&lt;/a&gt;
+#Altair #Boltzmann #CFD #FluiDyna #FSI #GPU #LBM #nanoFluidX #NVIDIA #SPH #ultraFluidX&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1QY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1QY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16931/Altair-Acquires-GPU-Accelerated-CFD-Company.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Altair Acquires GPU-Accelerated CFD Company&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-1QY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1QY&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#FluiDyna - #CFD код платформы #Altair наконец научился использовать #GPU #NVIDIA для ускорения расчетов.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-03-fluidyna-cfd-kod-platformy-altair-n/</link>
+      <pubDate>Tue, 03 May 2016 07:01:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-03-fluidyna-cfd-kod-platformy-altair-n/</guid>
+      <description>&lt;p&gt;Добро поджалось в клуб, а то #ANSYS #Fluent в нем уже 2-3 года как скучает.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/11952/FluiDyna-Achieves-Elite-Solution-Provider-Status-for-Accelerated-Computing-with-NVIDIA.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FluiDyna Achieves Elite Solution Provider Status for Accelerated Computing with NVIDIA &amp;gt; ENGINEERING.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>nanoFluidX - это очень интересный решатель.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-14-nanofluidx-eto-ochen-interesnyy-reshate/</link>
+      <pubDate>Sun, 14 Feb 2016 07:00:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-14-nanofluidx-eto-ochen-interesnyy-reshate/</guid>
+      <description>&lt;p&gt;Он разработан компанией #FluiDyna GmbH, входящей в состав #Altair Partner Alliance (#APA). #nanoFluidX предназначен для моделирования смазки механизмов трансмиссии и подвижных механизмов. При этом у данного ПО есть две интересные особенности. Во-первых, решение идет в #SPH постановке, что позволяет учитывать движение всех частей механизмов. Во-вторых, код ускоряется при помощи GPU, что является очень редким достижением для явного гидрогазодинамического кода в этой постановке.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://innovationintelligence.com/nanofluidx-gpu-powered-sph-code-for-powertrain-oiling-simulations/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;nanoFluidX: GPU-Powered SPH Code for Powertrain Oiling Simulations - Altair Innovation Intelligence&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>У Altair теперь есть много CFD - почти столько же, сколько и у ANSYS.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-06-u-altair-teper-est-mnogo-cfd-pochti-s/</link>
       <pubDate>Tue, 06 Oct 2015 18:01:43 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-06-u-altair-teper-est-mnogo-cfd-pochti-s/</guid>
-      <description>&lt;p&gt;Интересно наблюдать, как Altair собирает свой Workbench.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-06-u-altair-teper-est-mnogo-cfd-pochti-s/</guid>
+      <description>&lt;p&gt;К Altair Partner Alliance (APA) в недалеком прошлом присоединились FluiDyna и Click2Cast. FluiDyna имеет две решателя, оба их которых дружат с GPU. Click2Cast интегрировался в среду топологической оптимизации.&lt;/p&gt;
+&lt;p&gt;Интересно наблюдать, как Altair собирает свой Workbench.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/10751/Overview-of-Altairs-CFD-Capabilities-Now-with-FluiDyna-and-Casting-Simulations.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt; Overview of Altair’s CFD Capabilities Now with FluiDyna and Casting Simulations &amp;gt; ENGINEERING.com &lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

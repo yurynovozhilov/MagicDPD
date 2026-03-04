@@ -2,45 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MPS on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/mps/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/mps/</link>
     <description>MagicDPD: Magic Driven Product Development! (MPS)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 25 May 2022 18:00:08 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/mps/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/mps/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Южнокорейская компания #Metariver Technology Co., Ltd показа</title>
-      <link>http://localhost:1313/posts/2022-05-25-yuzhnokoreyskaya-kompaniya-metariver-techno/</link>
+      <title>Южнокорейская компания #Metariver Technology Co., Ltd показала интересное.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-05-25-yuzhnokoreyskaya-kompaniya-metariver-techno/</link>
       <pubDate>Wed, 25 May 2022 18:00:08 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-05-25-yuzhnokoreyskaya-kompaniya-metariver-techno/</guid>
-      <description>&lt;p&gt;Теперь же Metariver взяли и выкатили поддержку #MPS (Moving Particle Semi-Implicit Method), что, при правильно реализации, позволит выполнять #CFD расчеты намного точнее чем традиционный #SPH.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-05-25-yuzhnokoreyskaya-kompaniya-metariver-techno/</guid>
+      <description>&lt;p&gt;Прежде всего эта компания известна разработкой своего  решателя #Samadii-DEM. Данный #DEM код везде показывает свою отличительную фишку - учет влияния магнитных полей на движение частиц. Это было интересно.&lt;/p&gt;
+&lt;p&gt;Теперь же Metariver взяли и выкатили поддержку #MPS (Moving Particle Semi-Implicit Method), что, при правильно реализации, позволит выполнять #CFD расчеты намного точнее чем традиционный #SPH.&lt;/p&gt;
 &lt;p&gt;#meshless&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/eXCe5LgOTH0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/eXCe5LgOTH0&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/6-rN7ABWbkM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/6-rN7ABWbkM&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://youtu.be/eXCe5LgOTH0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/eXCe5LgOTH0&lt;/a&gt;
 &lt;a href=&#34;https://youtu.be/6-rN7ABWbkM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/6-rN7ABWbkM&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Люблю повеселиться, особенно поесть. А вы знали, что 05.02.2</title>
-      <link>http://localhost:1313/posts/2022-02-11-lyublyu-poveselitsya-osobenno-poest-a-v/</link>
+      <title>Люблю повеселиться, особенно поесть. А вы знали, что 05.02.2022 - официальный Всемирный день #Nutella!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-11-lyublyu-poveselitsya-osobenno-poest-a-v/</link>
       <pubDate>Fri, 11 Feb 2022 17:00:08 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-02-11-lyublyu-poveselitsya-osobenno-poest-a-v/</guid>
-      <description>&lt;p&gt;Основная идея расчета в том, что крем из ореховой нуги обладает нелинейной вязкостью и уплотняется при сдвиге. Такая физика поведения материала является довольно сложной для классических бессеточных кодов на основе #SPH. Однако, Particleworks использует #MPS (Moving Particle Simulation) подход, позволяющий реализовывать более сложные модели вязкости, подходящие для описания данной физики. &lt;a href=&#34;https://youtu.be/zfwh9d-xTaQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/zfwh9d-xTaQ&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-11-lyublyu-poveselitsya-osobenno-poest-a-v/</guid>
+      <description>&lt;p&gt;В честь этого наши коллеги из #Enginsoft показали как в бессеточном #CFD решателе #Particleworks можно промоделировать процесс наполнения баночки Nutella на заводе.&lt;/p&gt;
+&lt;p&gt;Основная идея расчета в том, что крем из ореховой нуги обладает нелинейной вязкостью и уплотняется при сдвиге. Такая физика поведения материала является довольно сложной для классических бессеточных кодов на основе #SPH. Однако, Particleworks использует #MPS (Moving Particle Simulation) подход, позволяющий реализовывать более сложные модели вязкости, подходящие для описания данной физики. &lt;a href=&#34;https://youtu.be/zfwh9d-xTaQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/zfwh9d-xTaQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/zfwh9d-xTaQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/zfwh9d-xTaQ&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ANSYS подружится с Prometech Software, Inc.</title>
-      <link>http://localhost:1313/posts/2018-12-21-ansys-podruzhitsya-s-prometech-software-i/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-21-ansys-podruzhitsya-s-prometech-software-i/</link>
       <pubDate>Fri, 21 Dec 2018 17:01:50 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-12-21-ansys-podruzhitsya-s-prometech-software-i/</guid>
-      <description>&lt;p&gt;В прошедший понедельник на своей конференции японская компания Prometech Software, Inc. объявила о дружбе с ANSYS. Давайте разберемся, почему это очень круто.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-21-ansys-podruzhitsya-s-prometech-software-i/</guid>
+      <description>&lt;p&gt;ANSYS подружится с Prometech Software, Inc.&lt;/p&gt;
+&lt;p&gt;В прошедший понедельник на своей конференции японская компания Prometech Software, Inc. объявила о дружбе с ANSYS. Давайте разберемся, почему это очень круто.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://youtu.be/WDFSzgjWR_4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/WDFSzgjWR_4&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Прежде всего, стоит вспомнить, что Prometech - это разработчик Particleworks, одного из самых умных бессеточных CFD решателей. Решатель бессеточный - работает на основе своего метода частиц MPS (Moving Particle Simulation) Method.&lt;/p&gt;
 &lt;p&gt;Работа решателя на основе метода частиц позволяет решать динамические задачи с подвижными (и сильно подвижными :-)) границами, FSI и описывать прочие динамические процессы - например, задачи смазки зубчатых передач, слошинш, аквапланирование.&lt;/p&gt;
@@ -48,6 +54,23 @@
 &lt;p&gt;&lt;a href=&#34;https://www.prometech.co.jp/newsroom_ja/prometech-and-ansys-announce-a-collaboration-to-provide-broader-multiphysics-solution.html?lang=ja&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.prometech.co.jp/newsroom_ja/prometech-and-ansys-announce-a-collaboration-to-provide-broader-multiphysics-solution.html?lang=ja&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ANSYS #CFD #FSI #GPU #Meshless #MPS #Particleworks #Prometech
 &lt;a href=&#34;http://bit.ly/2V1xxeO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2V1xxeO&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/WDFSzgjWR_4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Particleworks Introduction 2018.09&lt;/a&gt;
+&lt;a href=&#34;https://www.prometech.co.jp/newsroom_ja/prometech-and-ansys-announce-a-collaboration-to-provide-broader-multiphysics-solution.html?lang=ja&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.prometech.co.jp/newsroom_ja/prometech-and-ansys-announce-a-collaboration-to-provide-broader-multiphysics-solution.html?lang=ja&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2V1xxeO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2V1xxeO&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#MPS (Moving Particle Simulation) - бессеточный метод для решения задач взаимодействия жидкости и твердого тела похоже учел все недостатки своих конкурентов и исправил их разом.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-11-mps-moving-particle-simulation-bess/</link>
+      <pubDate>Mon, 11 Apr 2016 07:01:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-11-mps-moving-particle-simulation-bess/</guid>
+      <description>&lt;p&gt;Прежде всего, этот метод, чем-то похожий на #SPH, имеет как явную, так и неявную схемы интегрирования по времени. Далее, он позволяет учитывать поверхностное натяжение и обладает #LES моделью турбулентности, чего нет в классическом #SPH. Ну и на сладкое - метод ускоряется на #GPU #NVIDIA в 5-9 раз (прямо как #DEM), при этом может использовать несколько графических карт.&lt;/p&gt;
+&lt;p&gt;Метод реализован в независимомо CFD пакете #Particleworks японской компании #Prometech.&lt;/p&gt;
+&lt;p&gt;На мой взгляд, это может быть по круче чем #XFlowCFD с их решеточным методом Больцмана.&lt;/p&gt;
+&lt;p&gt;Базовая теория по работе метода прилагается.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.prometechsoftware.com/particleworks.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;particleworks highlights&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

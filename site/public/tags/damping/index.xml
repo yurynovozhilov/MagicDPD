@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Damping on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/damping/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Damping)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 02 Apr 2019 12:00:16 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/damping/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Учет демпфирования в механике</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-02-uchet-dempfirovaniya-v-mehanike/</link>
+      <pubDate>Tue, 02 Apr 2019 12:00:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-02-uchet-dempfirovaniya-v-mehanike/</guid>
+      <description>&lt;p&gt;Учет демпфирования в механике&lt;/p&gt;
+&lt;p&gt;Статья из блога Comsol рассказывает об учете демпфирования при моделировании механических систем. Рассмотрено влияние демпфирования на системы с 1 и 2 степенями свободы, приведены примеры значений демпфирования для конструкционных материалов. Неплохо, но мало.&lt;/p&gt;
+&lt;p&gt;Исходный материал: &lt;a href=&#34;https://www.comsol.com/blogs/damping-in-structural-dynamics-theory-and-sources/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.comsol.com/blogs/damping-in-structural-dynamics-theory-and-sources/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Comsol #damping&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2s8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2s8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.comsol.com/blogs/damping-in-structural-dynamics-theory-and-sources/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.comsol.com/blogs/damping-in-structural-dynamics-theory-and-sources/&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2s8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2s8&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Демпфирование в LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-02-dempfirovanie-v-ls-dyna/</link>
+      <pubDate>Tue, 02 Oct 2018 17:00:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-02-dempfirovanie-v-ls-dyna/</guid>
+      <description>&lt;p&gt;Демпфирование в LS-DYNA
+Правильный учет демпфирования - один из залогов успешного моделирования динамических процессов. В 2018 году LSTC выпустили краткую пояснительную записку о том, как сейчас обстоят дела с учетом демпфирования в LS-DYNA. Оказывается, в R10 кроме традиционного Релеевского демпфирования по массе и жесткости (alpha и beta), стало хорошо работать постоянное демпфирование для заданной полосы частот.&lt;/p&gt;
+&lt;p&gt;А ведь еще в R9 им пользоваться не рекомендовалось из-за больших погрешностей (неравномерного демпфирования в полосе частот). Однако сейчас, похоже, это будет вполне себе рабочий метод.&lt;/p&gt;
+&lt;p&gt;Единственное, надо помнить, что демпфирование влияет на скорость счета.
+Подробная пояснительная записка доступна по ссылке:
+&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/support/PAPERS/DAMPING_FREQUENCY_RANGE_support_note_Feb2018.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/support/PAPERS/DAMPING_FREQUENCY_RANGE_support_note_Feb2018.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Damping #LSDYNA #LSTC
+&lt;a href=&#34;http://bit.ly/2QpEG5M&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2QpEG5M&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/support/PAPERS/DAMPING_FREQUENCY_RANGE_support_note_Feb2018.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/support/PAPERS/DAMPING_FREQUENCY_RANGE_support_note_Feb2018.pdf&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2QpEG5M&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2QpEG5M&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

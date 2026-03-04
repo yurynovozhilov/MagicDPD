@@ -2,22 +2,78 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PamCrash on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/pamcrash/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/pamcrash/</link>
     <description>MagicDPD: Magic Driven Product Development! (PamCrash)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 20 Jun 2016 07:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Oct 2022 18:00:10 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/pamcrash/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/pamcrash/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>У #LSDYNA и #ESI Pam-Crash явно разные взгляды на то, с како</title>
-      <link>http://localhost:1313/posts/2016-06-20-u-lsdyna-i-esi-pam-crash-yavno-raznye-v/</link>
+      <title>Модель материала MF GenYld &#43; CrachFEM разработанная #MATFEM GmbH выглядит очень интересно.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-10-17-model-materiala-mf-genyld-&#43;-crachfem-ra/</link>
+      <pubDate>Mon, 17 Oct 2022 18:00:10 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-10-17-model-materiala-mf-genyld-&#43;-crachfem-ra/</guid>
+      <description>&lt;p&gt;Это специальная модель-конструктор, которая собирается из кусочков и позволяет учитывать именно необходимые вам механические особенности материала при явном расчете в #LSDYNA, #Abaqus, #Radioss и #PAMCrash/#PAMStamp. Кроме всей возможной математики модель оснащена специальной утилитой, которая позволяет визуализировать заданные механические законы в виде различных кривых. Это позволяет быстро и наглядно понять, при задании каких параметров допущены ошибки. &lt;a href=&#34;https://www.matfem.de/en/crachfem.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.matfem.de/en/crachfem.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.matfem.de/en/crachfem.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.matfem.de/en/crachfem.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Humanetics - если судить по доле рынка, крупнейший производитель антропоморфных тестовых устройств, широко известных как манекены для краш-тестов.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-16-humanetics-esli-sudit-po-dole-rynka/</link>
+      <pubDate>Wed, 16 Feb 2022 17:00:07 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-16-humanetics-esli-sudit-po-dole-rynka/</guid>
+      <description>&lt;p&gt;И у них конечно же есть свои модели этих манекенов для расчетов пассивной безопасности в кодах #ANSYS #LSDYNA, #PAMCRASH, #RADIOSS и #ABAQUS. &lt;a href=&#34;https://humanetics.humaneticsgroup.com/products/virtual-models&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://humanetics.humaneticsgroup.com/products/virtual-models&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://humanetics.humaneticsgroup.com/products/virtual-models&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Virtual Models&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project PIPER</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-08-03-project-piper/</link>
+      <pubDate>Mon, 03 Aug 2020 13:00:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-08-03-project-piper/</guid>
+      <description>&lt;p&gt;Project PIPER&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/project-piper/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Project PIPER - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Влияние DYNA на CAE коды</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-11-22-vliyanie-dyna-na-cae-kody/</link>
+      <pubDate>Fri, 22 Nov 2019 13:32:51 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-11-22-vliyanie-dyna-na-cae-kody/</guid>
+      <description>&lt;p&gt;Влияние DYNA на CAE коды&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/survey-to-determine-the-value-of-dyna/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Влияние DYNA на CAE коды - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Самый первый виртуальный краш тест</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-19-samyy-pervyy-virtualnyy-krash-test/</link>
+      <pubDate>Sat, 19 Oct 2019 13:00:47 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-19-samyy-pervyy-virtualnyy-krash-test/</guid>
+      <description>&lt;p&gt;Самый первый виртуальный краш тест&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/first-crash-test-ever/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Самый первый виртуальный краш тест - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>У #LSDYNA и #ESI Pam-Crash явно разные взгляды на то, с какой стороны надо ломать трубу. Мне вот кажется, что физичнее, когда больше деформаций у подвижной границы, т.е. я за #LSD. А вы?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-20-u-lsdyna-i-esi-pam-crash-yavno-raznye-v/</link>
       <pubDate>Mon, 20 Jun 2016 07:00:16 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-06-20-u-lsdyna-i-esi-pam-crash-yavno-raznye-v/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-20-u-lsdyna-i-esi-pam-crash-yavno-raznye-v/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=L5tg3wUwPSA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Aluminium Crash box LS-Dyna &amp;amp; Pam-Crash&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

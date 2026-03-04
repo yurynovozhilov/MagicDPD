@@ -1,0 +1,983 @@
+<!DOCTYPE html>
+
+
+<html lang="ru" data-theme="">
+<head>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>Open_Source - MagicDPD: Magic Driven Product Development!</title>
+
+<meta name="description" content="Архив постов MagicDPD">
+
+
+
+
+
+<link rel="alternate" type="application/rss+xml" href="https://yurynovozhilov.github.io/MagicDPD/tags/open_source/index.xml" title="MagicDPD: Magic Driven Product Development!" />
+<link rel="icon" type="image/x-icon" href="https://yurynovozhilov.github.io/MagicDPD/favicon.ico">
+<link rel="apple-touch-icon-precomposed" href="https://yurynovozhilov.github.io/MagicDPD/favicon.png">
+
+
+
+
+    
+
+
+
+<style>
+  body {
+    visibility: hidden;
+    opacity: 0;
+  }
+</style>
+
+<noscript>
+  <style>
+    body {
+      visibility: visible;
+      opacity: 1;
+    }
+  </style>
+</noscript>
+
+
+
+
+    
+
+
+
+
+
+    
+    
+        
+    
+    
+
+    
+        <link rel="stylesheet" href="https://yurynovozhilov.github.io/MagicDPD/css/style.min.426c72691252fbafa70bd174646dc1b453a992641a8f942139874f9cadd6ae76.css" integrity="sha256-QmxyaRJS&#43;6&#43;nC9F0ZG3BtFOpkmQaj5QhOYdPnK3WrnY=">
+    
+
+
+
+
+
+    
+
+    
+
+
+
+
+
+    
+    
+        
+    
+    
+
+    
+        <script src="https://yurynovozhilov.github.io/MagicDPD/js/script.min.74bf1a3fcf1af396efa4acf3e660e876b61a2153ab9cbe1893ac24ea6d4f94ee.js" type="text/javascript" charset="utf-8" integrity="sha256-dL8aP88a85bvpKzz5mDodrYaIVOrnL4Yk6wk6m1PlO4="></script>
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+    
+        
+    
+    
+
+    
+        <script src="https://yurynovozhilov.github.io/MagicDPD/js/script.min.5a7c1b70ee40040794dd87e4a25dc23e9d426e9f08ac2611316cb9543eda45b4.js" type="text/javascript" charset="utf-8" integrity="sha256-WnwbcO5ABAeU3Yfkol3CPp1Cbp8IrCYRMWy5VD7aRbQ="></script>
+    
+
+
+
+
+    
+
+
+
+
+
+    
+    
+        
+    
+    
+
+    
+        <script src="https://yurynovozhilov.github.io/MagicDPD/js/script.min.d1092953d75d0389e869f1fd063a45b5aa76d05341ed48f7a1cacfd0db11d681.js" type="text/javascript" charset="utf-8" integrity="sha256-0QkpU9ddA4noafH9BjpFtap20FNB7Uj3ocrP0NsR1oE="></script>
+    
+
+
+
+
+
+
+
+
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Перейти к основному контенту</a>
+    <div class="container">
+        <header class="common-header"> 
+            
+                <div class="header-top">
+    <div class="header-top-left">
+        <h1 class="site-title">
+    <a href="/MagicDPD">MagicDPD: Magic Driven Product Development!</a>
+</h1>
+        <ul class="social-icons">
+
+
+    
+        <li>
+            <a href="https://t.me/MagicDPD" title="Telegram" rel="me">
+            <span class="inline-svg" >
+
+
+
+
+    
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm121.8 169.9l-40.7 191.8c-3 13.6-11.1 16.9-22.4 10.5l-62-45.7-29.9 28.8c-3.3 3.3-6.1 6.1-12.5 6.1l4.4-63.1 114.9-103.8c5-4.4-1.1-6.9-7.7-2.5l-142 89.4-61.2-19.1c-13.3-4.2-13.6-13.3 2.8-19.7l239.1-92.2c11.1-4 20.8 2.7 17.2 19.5z"/></svg>
+
+</span>
+
+            </a>
+        </li>
+    
+
+
+
+    <li>
+            <a href="https://yurynovozhilov.github.io/MagicDPD/index.xml" title="RSS" rel="me">
+            <span class="inline-svg" >
+
+
+
+
+    
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M128.081 415.959c0 35.369-28.672 64.041-64.041 64.041S0 451.328 0 415.959s28.672-64.041 64.041-64.041 64.04 28.673 64.04 64.041zm175.66 47.25c-8.354-154.6-132.185-278.587-286.95-286.95C7.656 175.765 0 183.105 0 192.253v48.069c0 8.415 6.49 15.472 14.887 16.018 111.832 7.284 201.473 96.702 208.772 208.772.547 8.397 7.604 14.887 16.018 14.887h48.069c9.149.001 16.489-7.655 15.995-16.79zm144.249.288C439.596 229.677 251.465 40.445 16.503 32.01 7.473 31.686 0 38.981 0 48.016v48.068c0 8.625 6.835 15.645 15.453 15.999 191.179 7.839 344.627 161.316 352.465 352.465.353 8.618 7.373 15.453 15.999 15.453h48.068c9.034-.001 16.329-7.474 16.005-16.504z"/></svg>
+
+</span>
+
+            </a>
+        </li>
+    
+
+</ul>
+    </div>
+    <div class="header-top-right">
+        
+
+    
+
+
+
+
+    <div class="theme-switcher">
+        <span class="inline-svg" >
+
+
+
+
+    
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 290 290">
+<path fill="currentColor" d="M142.959,0C64.131,0,0,64.132,0,142.96c0,78.828,64.131,142.959,142.959,142.959c78.828,0,142.96-64.131,142.96-142.959  C285.919,64.132,221.787,0,142.959,0z M142.959,260.919V142.96V25c65.043,0,117.96,52.917,117.96,117.96  C260.919,208.003,208.002,260.919,142.959,260.919z"/>
+</svg>
+
+</span>
+
+    </div>
+
+
+<script>
+const STORAGE_KEY = 'user-color-scheme'
+const defaultTheme = "auto"
+
+let currentTheme
+let switchButton
+let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+const autoChangeScheme = e => {
+    currentTheme = e.matches ? 'dark' : 'light'
+    document.documentElement.setAttribute('data-theme', currentTheme)
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    switchButton = document.querySelector('.theme-switcher')
+    currentTheme = detectCurrentScheme()
+    if (currentTheme == 'dark') {
+        document.documentElement.setAttribute('data-theme', 'dark')
+    }
+    if (currentTheme == 'auto') {
+        autoChangeScheme(autoDefinedScheme);
+        autoDefinedScheme.addListener(autoChangeScheme);
+    }
+
+    if (switchButton) {
+        switchButton.addEventListener('click', switchTheme, false)
+    }
+  
+    showContent()
+})
+
+function detectCurrentScheme() {
+    if (localStorage !== null && localStorage.getItem(STORAGE_KEY)) {
+        return localStorage.getItem(STORAGE_KEY)
+    } 
+    if (defaultTheme) {
+        return defaultTheme
+    } 
+    if (!window.matchMedia) {
+        return 'light'
+    } 
+    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        return 'dark'
+    }
+    return 'light'
+}
+
+function switchTheme(e) {
+    if (currentTheme == 'dark') {
+        if (localStorage !== null)
+            localStorage.setItem(STORAGE_KEY, 'light')
+        document.documentElement.setAttribute('data-theme', 'light')
+        currentTheme = 'light'
+    } else {
+        if (localStorage !== null)
+            localStorage.setItem(STORAGE_KEY, 'dark')
+        document.documentElement.setAttribute('data-theme', 'dark')
+        currentTheme = 'dark'
+    }
+}
+
+function showContent() {
+    document.body.style.visibility = 'visible';
+    document.body.style.opacity = 1;
+}
+</script>
+
+  
+    </div>
+</div>
+
+
+    <nav>
+        
+        
+        <a class="" href="https://yurynovozhilov.github.io/MagicDPD/" title="Главная">Главная</a>
+        
+        <a class="" href="https://yurynovozhilov.github.io/MagicDPD/archive/" title="Архив постов">Архив</a>
+        
+        <a class="" href="https://yurynovozhilov.github.io/MagicDPD/about/" title="О проекте">О проекте</a>
+        
+    </nav>
+
+
+
+
+
+            
+        </header>
+        <main id="main" tabindex="-1"> 
+            
+    <h1>Тег: Open_Source</h1>
+    <div class="post-info">
+        <a href="/MagicDPD/tags/">К списку тегов</a>
+    </div>
+    
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2021-03-04-moose-neprostoy-los/">MOOSE - непростой лось</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>MOOSE - непростой лось</p>
+<p><a href="https://www.youtube.com/watch?v=6shfkm3fnLY" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=6shfkm3fnLY</a></p>
+<p>MOOSE (Multiphysics Object-Oriented Simulation Environment, Объектно-ориентированная междисциплинарная среда моделирования, <a href="https://mooseframework.inl.gov" target="_blank" rel="noopener noreferrer">https://mooseframework.inl.gov</a>) представляет собой &ldquo;конечный элементный&rdquo; фреймворк к открытым исходным кодом, главным образом, разработанных Национальной лабораторией штата Айдахо (Idaho National Laboratory). По заявлениям разработчиков, MOOSE обеспечивает высокоуровневый интерфейс для работы с некоторыми из наиболее сложных нелинейных решателей  на планете. Все детали взаимодействия инженера с MOOSE продуманы до мелочей, начиная с процесса установки и заканчивая запуском расчета на современных суперкомпьютерах. Официальное видео о данном коде всего одно, но это запись семинара почти на 12 (ДВЕНАДЦАТЬ!!!) часов.</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2021-03-04-moose-neprostoy-los/"><time datetime="2021-03-04">04.03.2021</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-04-moose-neprostoy-los/">https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-04-moose-neprostoy-los/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">MagicDPD</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/moose/">#Moose</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/open_source/">#Open_Source</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2021-03-01-sverhzvukovoe-obtekanie-tsilindra/">Сверхзвуковое обтекание цилиндра</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Сверхзвуковое обтекание цилиндра</p>
+<p><a href="https://youtu.be/pPP26zelb0M" target="_blank" rel="noopener noreferrer">https://youtu.be/pPP26zelb0M</a></p>
+<p>Не знаю как у вас, а у меня к вечеру понедельника остались силы только на залипание на это видео. Тут у нас всего 2.4 миллиона степеней свободы и число Маха = 3 - выглядит очень красиво. Расчет выполнен с применением открытой свободной C++ библиотеки <a href="https://www.dealii.org" target="_blank" rel="noopener noreferrer">https://www.dealii.org</a>. Ну а репозиторий проекта тут: <a href="https://github.com/conservation-laws/ryujin" target="_blank" rel="noopener noreferrer">https://github.com/conservation-laws/ryujin</a></p>
+<p>#cfd #dealii #open_source
+<a href="https://tinyurl.com/y9l4crxb" target="_blank" rel="noopener noreferrer">https://tinyurl.com/y9l4crxb</a></p>
+<p><a href="https://youtu.be/pPP26zelb0M" target="_blank" rel="noopener noreferrer">https://youtu.be/pPP26zelb0M</a>
+<a href="https://www.dealii.org/" target="_blank" rel="noopener noreferrer">https://www.dealii.org/</a>
+<a href="https://github.com/conservation-laws/ryujin" target="_blank" rel="noopener noreferrer">https://github.com/conservation-laws/ryujin</a>
+<a href="https://tinyurl.com/y9l4crxb" target="_blank" rel="noopener noreferrer">https://tinyurl.com/y9l4crxb</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2021-03-01-sverhzvukovoe-obtekanie-tsilindra/"><time datetime="2021-03-01">01.03.2021</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-01-sverhzvukovoe-obtekanie-tsilindra/">https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-01-sverhzvukovoe-obtekanie-tsilindra/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">MagicDPD</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/cfd/">#Cfd</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/dealii/">#Dealii</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/open_source/">#Open_Source</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2021-02-26-manim-kak-sdelat-vashu-nauchnuyu-prezent/">manim - как сделать вашу научную презентацию захватывающей</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>manim - как сделать вашу научную презентацию захватывающей</p>
+<p>Многие гики от науки знают, что в сети есть отличный сайт от MIT 3blue1brown.com занимающейся популяризацией науки. Их канал на YouTube ломится от огромного числа видео роликов, деланных с большим вкусом и умением. Вот, например, видео про ряды Фурье.</p>
+<p><a href="https://www.youtube.com/watch?v=r6sGWTCMz2k" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=r6sGWTCMz2k</a></p>
+<p>Хотите делать такие же классные видео по результатам ваших исследований? Нет проблем: у коллег из 3Blue1Brown есть репозиторий на GitHub, где выложены исходные коды их движка создания анимированной научной инфографики manim. Все, что вам нужно, этот Python, FFmpeg и LaTeX. Ну а далее - читайте инструкции по ссылке на репозиторий github.com/3b1b/manim</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2021-02-26-manim-kak-sdelat-vashu-nauchnuyu-prezent/"><time datetime="2021-02-26">26.02.2021</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-26-manim-kak-sdelat-vashu-nauchnuyu-prezent/">https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-26-manim-kak-sdelat-vashu-nauchnuyu-prezent/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">MagicDPD</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/latex/">#LaTeX</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/python/">#Python</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/open_source/">#Open_Source</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/3blue1brown/">#3blue1brown</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ffmpeg/">#Ffmpeg</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2021-02-12-opensim-modelirovanie-oporno-dvigatel/">OpenSim - моделирование опорно-двигательного аппарата</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>OpenSim - моделирование опорно-двигательного аппарата</p>
+<p><a href="https://www.youtube.com/watch?v=0e6vQV_ioCI" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=0e6vQV_ioCI</a></p>
+<p>OpenSim - это свободное программное обеспечение, используемое учеными всего мира для моделирования людей и животных и понимания того, как они двигаются. Например, данное ПО позволяет хирургам-ортопедам моделировать влиянием проводимых ими операций для детей с ДЦП.</p>
+<p><a href="https://www.youtube.com/watch?v=WSsVlwDS-vY" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=WSsVlwDS-vY</a></p>
+<p><a href="https://www.youtube.com/watch?v=CPx0JzxIBKc" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=CPx0JzxIBKc</a></p>
+<p>Сайт проекта <a href="http://opensim.stanford.edu" target="_blank" rel="noopener noreferrer">http://opensim.stanford.edu</a> - ПО собрано под Windows и macOS</p>
+<p><a href="https://youtu.be/ME0VHfCtIM0" target="_blank" rel="noopener noreferrer">https://youtu.be/ME0VHfCtIM0</a></p>
+<p>#biomed #open_source #opensim
+<a href="https://tinyurl.com/yx9hkymv" target="_blank" rel="noopener noreferrer">https://tinyurl.com/yx9hkymv</a>
+by Юрий Новожилов</p>
+<p><a href="https://www.youtube.com/watch?v=0e6vQV_ioCI" target="_blank" rel="noopener noreferrer">Webinar: Interfacing Musculoskeletal &amp; Finite Element Models to Study Bone Structure &amp; Adaptation</a>
+<a href="https://www.youtube.com/watch?v=WSsVlwDS-vY" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=WSsVlwDS-vY</a>
+<a href="https://www.youtube.com/watch?v=CPx0JzxIBKc" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=CPx0JzxIBKc</a>
+<a href="http://opensim.stanford.edu/" target="_blank" rel="noopener noreferrer">http://opensim.stanford.edu/</a>
+<a href="https://youtu.be/ME0VHfCtIM0" target="_blank" rel="noopener noreferrer">https://youtu.be/ME0VHfCtIM0</a>
+<a href="https://tinyurl.com/yx9hkymv" target="_blank" rel="noopener noreferrer">https://tinyurl.com/yx9hkymv</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2021-02-12-opensim-modelirovanie-oporno-dvigatel/"><time datetime="2021-02-12">12.02.2021</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-12-opensim-modelirovanie-oporno-dvigatel/">https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-12-opensim-modelirovanie-oporno-dvigatel/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">MagicDPD</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/opensim/">#Opensim</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/open_source/">#Open_Source</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/biomed/">#Biomed</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2021-02-02-openlb-open-source-lattice-boltzmann-c/">OpenLB - Open Source Lattice Boltzmann Code</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>OpenLB - Open Source Lattice Boltzmann Code
+<a href="https://www.youtube.com/watch?v=1hgP7vXmfPw" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=1hgP7vXmfPw</a></p>
+<p>OpenLB - это открытая реализация CFD решателя на основе метода решёточных уравнений Больцмана. Реализация написана на C++, и6 по заявлениям авторов, снабжена хорошими комментариями. Сайт проекта <a href="https://www.openlb.net" target="_blank" rel="noopener noreferrer">www.openlb.net</a></p>
+<p><a href="https://www.youtube.com/watch?v=rEHNU8f0lW4" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=rEHNU8f0lW4</a></p>
+<p><a href="https://www.youtube.com/watch?v=y454jlGk5b4" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=y454jlGk5b4</a></p>
+<p>#cfd #lattice_boltzmann #lbm #open_source #openlb
+<a href="https://tinyurl.com/y5np6cch" target="_blank" rel="noopener noreferrer">https://tinyurl.com/y5np6cch</a></p>
+<p><a href="https://www.youtube.com/watch?v=1hgP7vXmfPw" target="_blank" rel="noopener noreferrer">Turbulent Fluid Flows with LBM - Taylor Green Vortex 3D - Simulation in Process Engineering</a>
+<a href="http://www.openlb.net/" target="_blank" rel="noopener noreferrer">http://www.openlb.net/</a>
+<a href="https://www.youtube.com/watch?v=rEHNU8f0lW4" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=rEHNU8f0lW4</a>
+<a href="https://www.youtube.com/watch?v=y454jlGk5b4" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=y454jlGk5b4</a>
+<a href="https://tinyurl.com/y5np6cch" target="_blank" rel="noopener noreferrer">https://tinyurl.com/y5np6cch</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2021-02-02-openlb-open-source-lattice-boltzmann-c/"><time datetime="2021-02-02">02.02.2021</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-02-openlb-open-source-lattice-boltzmann-c/">https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-02-openlb-open-source-lattice-boltzmann-c/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">MagicDPD</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/lbm/">#LBM</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/openlb/">#Openlb</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/cfd/">#Cfd</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/lattice_boltzmann/">#Lattice_boltzmann</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/open_source/">#Open_Source</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2020-12-29-ib2d-i-metod-pogruzhennyh-granits/">IB2d и метод погруженных границ</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>IB2d и метод погруженных границ</p>
+<p><a href="https://magicdpd.ru/ib2d-%d0%b8-%d0%bc%d0%b5%d1%82%d0%be%d0%b4-%d0%bf%d0%be%d0%b3%d1%80%d1%83%d0%b6%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d0%b3%d1%80%d0%b0%d0%bd%d0%b8%d1%86/" target="_blank" rel="noopener noreferrer">IB2d и метод погруженных границ - MagicDPD</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2020-12-29-ib2d-i-metod-pogruzhennyh-granits/"><time datetime="2020-12-29">29.12.2020</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2020-12-29-ib2d-i-metod-pogruzhennyh-granits/">https://yurynovozhilov.github.io/MagicDPD/posts/2020-12-29-ib2d-i-metod-pogruzhennyh-granits/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/immersed_boundary_method/">#Immersed_boundary_method</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ib2d/">#IB2d</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/matlab/">#Matlab</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/python/">#Python</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/fsi/">#Fsi</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/open_source/">#Open_Source</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2020-11-23-sudodem/">SudoDEM</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>SudoDEM
+#DEM #Open_Source #sudodem
+by Юрий Новожилов</p>
+<p><a href="https://magicdpd.ru/sudodem/" target="_blank" rel="noopener noreferrer">SudoDEM - MagicDPD</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2020-11-23-sudodem/"><time datetime="2020-11-23">23.11.2020</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2020-11-23-sudodem/">https://yurynovozhilov.github.io/MagicDPD/posts/2020-11-23-sudodem/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/open_source/">#Open_Source</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/dem/">#Dem</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/sudodem/">#Sudodem</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2020-11-06-freecad-reinforcement-workbench/">FreeCAD Reinforcement Workbench</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>FreeCAD Reinforcement Workbench
+#FreeCAD #Open_Source #reinforcement
+by Юрий Новожилов</p>
+<p><a href="https://magicdpd.ru/freecad-reinforcement-workbench/" target="_blank" rel="noopener noreferrer">FreeCAD Reinforcement Workbench - MagicDPD</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2020-11-06-freecad-reinforcement-workbench/"><time datetime="2020-11-06">06.11.2020</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2020-11-06-freecad-reinforcement-workbench/">https://yurynovozhilov.github.io/MagicDPD/posts/2020-11-06-freecad-reinforcement-workbench/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/open_source/">#Open_Source</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/freecad/">#FreeCAD</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/reinforcement/">#Reinforcement</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2020-09-18-prezentatsiya-loopycuts/">Презентация LoopyCuts</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Презентация LoopyCuts</p>
+<p><a href="https://magicdpd.ru/loopycuts-presentation/" target="_blank" rel="noopener noreferrer">Презентация LoopyCuts - MagicDPD</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2020-09-18-prezentatsiya-loopycuts/"><time datetime="2020-09-18">18.09.2020</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2020-09-18-prezentatsiya-loopycuts/">https://yurynovozhilov.github.io/MagicDPD/posts/2020-09-18-prezentatsiya-loopycuts/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/siggraph/">#Siggraph</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/mesh/">#Mesh</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/loopycuts/">#Loopycuts</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/all_hex/">#All_hex</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/open_source/">#Open_Source</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2020-08-13-loopy-cuts-pravilnyy-hex-dominant-set/">Loopy Cuts — правильный Hex-Dominant сеточный генератор</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Loopy Cuts — правильный Hex-Dominant сеточный генератор</p>
+<p><a href="https://magicdpd.ru/loopy-cuts/" target="_blank" rel="noopener noreferrer">https://magicdpd.ru/loopy-cuts/</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2020-08-13-loopy-cuts-pravilnyy-hex-dominant-set/"><time datetime="2020-08-13">13.08.2020</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2020-08-13-loopy-cuts-pravilnyy-hex-dominant-set/">https://yurynovozhilov.github.io/MagicDPD/posts/2020-08-13-loopy-cuts-pravilnyy-hex-dominant-set/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/polycut/">#PolyCut</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/mesh/">#Mesh</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/loopycuts/">#Loopycuts</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/octree/">#Octree</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/all_hex/">#All_hex</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/open_source/">#Open_Source</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+    
+    
+    
+    <div class="pagination">
+        <div class="left pagination-item ">
+            
+                <a href="/MagicDPD/tags/open_source/">к новым записям</a>
+            
+        </div>
+        <div class="right pagination-item ">
+            
+                <a href="/MagicDPD/tags/open_source/page/3/">к старым записям</a>
+            
+        </div>
+    </div>
+
+
+
+
+        </main>
+        
+            <footer class="common-footer">
+    
+    
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+            <p>© GlukRazor, 2026<br>
+            Движок <a target="_blank" rel="noopener noreferrer" href="https://gohugo.io/">Hugo</a>, тема <a target="_blank" rel="noopener noreferrer" href="https://github.com/mitrichius/hugo-theme-anubis">Anubis</a>.<br>
+            
+            </p>  
+        </div> 
+    </div>
+
+    <p class="h-card vcard">
+
+    <a href=https://yurynovozhilov.github.io/MagicDPD/ class="p-name u-url url fn" rel="me">GlukRazor</a> 
+
+    
+
+    
+</p> 
+</footer>
+
+        
+    </div>
+</body>
+</html>

@@ -1,0 +1,1062 @@
+<!DOCTYPE html>
+
+
+<html lang="ru" data-theme="">
+<head>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>Hpc - MagicDPD: Magic Driven Product Development!</title>
+
+<meta name="description" content="Архив постов MagicDPD">
+
+
+
+
+
+<link rel="alternate" type="application/rss+xml" href="https://yurynovozhilov.github.io/MagicDPD/tags/hpc/index.xml" title="MagicDPD: Magic Driven Product Development!" />
+<link rel="icon" type="image/x-icon" href="https://yurynovozhilov.github.io/MagicDPD/favicon.ico">
+<link rel="apple-touch-icon-precomposed" href="https://yurynovozhilov.github.io/MagicDPD/favicon.png">
+
+
+
+
+    
+
+
+
+<style>
+  body {
+    visibility: hidden;
+    opacity: 0;
+  }
+</style>
+
+<noscript>
+  <style>
+    body {
+      visibility: visible;
+      opacity: 1;
+    }
+  </style>
+</noscript>
+
+
+
+
+    
+
+
+
+
+
+    
+    
+        
+    
+    
+
+    
+        <link rel="stylesheet" href="https://yurynovozhilov.github.io/MagicDPD/css/style.min.426c72691252fbafa70bd174646dc1b453a992641a8f942139874f9cadd6ae76.css" integrity="sha256-QmxyaRJS&#43;6&#43;nC9F0ZG3BtFOpkmQaj5QhOYdPnK3WrnY=">
+    
+
+
+
+
+
+    
+
+    
+
+
+
+
+
+    
+    
+        
+    
+    
+
+    
+        <script src="https://yurynovozhilov.github.io/MagicDPD/js/script.min.74bf1a3fcf1af396efa4acf3e660e876b61a2153ab9cbe1893ac24ea6d4f94ee.js" type="text/javascript" charset="utf-8" integrity="sha256-dL8aP88a85bvpKzz5mDodrYaIVOrnL4Yk6wk6m1PlO4="></script>
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+    
+        
+    
+    
+
+    
+        <script src="https://yurynovozhilov.github.io/MagicDPD/js/script.min.5a7c1b70ee40040794dd87e4a25dc23e9d426e9f08ac2611316cb9543eda45b4.js" type="text/javascript" charset="utf-8" integrity="sha256-WnwbcO5ABAeU3Yfkol3CPp1Cbp8IrCYRMWy5VD7aRbQ="></script>
+    
+
+
+
+
+    
+
+
+
+
+
+    
+    
+        
+    
+    
+
+    
+        <script src="https://yurynovozhilov.github.io/MagicDPD/js/script.min.d1092953d75d0389e869f1fd063a45b5aa76d05341ed48f7a1cacfd0db11d681.js" type="text/javascript" charset="utf-8" integrity="sha256-0QkpU9ddA4noafH9BjpFtap20FNB7Uj3ocrP0NsR1oE="></script>
+    
+
+
+
+
+
+
+
+
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Перейти к основному контенту</a>
+    <div class="container">
+        <header class="common-header"> 
+            
+                <div class="header-top">
+    <div class="header-top-left">
+        <h1 class="site-title">
+    <a href="/MagicDPD">MagicDPD: Magic Driven Product Development!</a>
+</h1>
+        <ul class="social-icons">
+
+
+    
+        <li>
+            <a href="https://t.me/MagicDPD" title="Telegram" rel="me">
+            <span class="inline-svg" >
+
+
+
+
+    
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm121.8 169.9l-40.7 191.8c-3 13.6-11.1 16.9-22.4 10.5l-62-45.7-29.9 28.8c-3.3 3.3-6.1 6.1-12.5 6.1l4.4-63.1 114.9-103.8c5-4.4-1.1-6.9-7.7-2.5l-142 89.4-61.2-19.1c-13.3-4.2-13.6-13.3 2.8-19.7l239.1-92.2c11.1-4 20.8 2.7 17.2 19.5z"/></svg>
+
+</span>
+
+            </a>
+        </li>
+    
+
+
+
+    <li>
+            <a href="https://yurynovozhilov.github.io/MagicDPD/index.xml" title="RSS" rel="me">
+            <span class="inline-svg" >
+
+
+
+
+    
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M128.081 415.959c0 35.369-28.672 64.041-64.041 64.041S0 451.328 0 415.959s28.672-64.041 64.041-64.041 64.04 28.673 64.04 64.041zm175.66 47.25c-8.354-154.6-132.185-278.587-286.95-286.95C7.656 175.765 0 183.105 0 192.253v48.069c0 8.415 6.49 15.472 14.887 16.018 111.832 7.284 201.473 96.702 208.772 208.772.547 8.397 7.604 14.887 16.018 14.887h48.069c9.149.001 16.489-7.655 15.995-16.79zm144.249.288C439.596 229.677 251.465 40.445 16.503 32.01 7.473 31.686 0 38.981 0 48.016v48.068c0 8.625 6.835 15.645 15.453 15.999 191.179 7.839 344.627 161.316 352.465 352.465.353 8.618 7.373 15.453 15.999 15.453h48.068c9.034-.001 16.329-7.474 16.005-16.504z"/></svg>
+
+</span>
+
+            </a>
+        </li>
+    
+
+</ul>
+    </div>
+    <div class="header-top-right">
+        
+
+    
+
+
+
+
+    <div class="theme-switcher">
+        <span class="inline-svg" >
+
+
+
+
+    
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 290 290">
+<path fill="currentColor" d="M142.959,0C64.131,0,0,64.132,0,142.96c0,78.828,64.131,142.959,142.959,142.959c78.828,0,142.96-64.131,142.96-142.959  C285.919,64.132,221.787,0,142.959,0z M142.959,260.919V142.96V25c65.043,0,117.96,52.917,117.96,117.96  C260.919,208.003,208.002,260.919,142.959,260.919z"/>
+</svg>
+
+</span>
+
+    </div>
+
+
+<script>
+const STORAGE_KEY = 'user-color-scheme'
+const defaultTheme = "auto"
+
+let currentTheme
+let switchButton
+let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+const autoChangeScheme = e => {
+    currentTheme = e.matches ? 'dark' : 'light'
+    document.documentElement.setAttribute('data-theme', currentTheme)
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    switchButton = document.querySelector('.theme-switcher')
+    currentTheme = detectCurrentScheme()
+    if (currentTheme == 'dark') {
+        document.documentElement.setAttribute('data-theme', 'dark')
+    }
+    if (currentTheme == 'auto') {
+        autoChangeScheme(autoDefinedScheme);
+        autoDefinedScheme.addListener(autoChangeScheme);
+    }
+
+    if (switchButton) {
+        switchButton.addEventListener('click', switchTheme, false)
+    }
+  
+    showContent()
+})
+
+function detectCurrentScheme() {
+    if (localStorage !== null && localStorage.getItem(STORAGE_KEY)) {
+        return localStorage.getItem(STORAGE_KEY)
+    } 
+    if (defaultTheme) {
+        return defaultTheme
+    } 
+    if (!window.matchMedia) {
+        return 'light'
+    } 
+    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        return 'dark'
+    }
+    return 'light'
+}
+
+function switchTheme(e) {
+    if (currentTheme == 'dark') {
+        if (localStorage !== null)
+            localStorage.setItem(STORAGE_KEY, 'light')
+        document.documentElement.setAttribute('data-theme', 'light')
+        currentTheme = 'light'
+    } else {
+        if (localStorage !== null)
+            localStorage.setItem(STORAGE_KEY, 'dark')
+        document.documentElement.setAttribute('data-theme', 'dark')
+        currentTheme = 'dark'
+    }
+}
+
+function showContent() {
+    document.body.style.visibility = 'visible';
+    document.body.style.opacity = 1;
+}
+</script>
+
+  
+    </div>
+</div>
+
+
+    <nav>
+        
+        
+        <a class="" href="https://yurynovozhilov.github.io/MagicDPD/" title="Главная">Главная</a>
+        
+        <a class="" href="https://yurynovozhilov.github.io/MagicDPD/archive/" title="Архив постов">Архив</a>
+        
+        <a class="" href="https://yurynovozhilov.github.io/MagicDPD/about/" title="О проекте">О проекте</a>
+        
+    </nav>
+
+
+
+
+
+            
+        </header>
+        <main id="main" tabindex="-1"> 
+            
+    <h1>Тег: Hpc</h1>
+    <div class="post-info">
+        <a href="/MagicDPD/tags/">К списку тегов</a>
+    </div>
+    
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2017-11-13-hpc-v-mire-caemedia-primenenie-superk/">#HPC в мирe #CAEMedia📼 Применение суперкомпьютеров в современном мире - В…</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p><a href="http://ift.tt/2hwIBC3" target="_blank" rel="noopener noreferrer">http://ift.tt/2hwIBC3</a></p>
+<p><a href="http://ift.tt/2emhAvW" target="_blank" rel="noopener noreferrer">http://ift.tt/2emhAvW</a>
+<a href="http://ift.tt/2vdfLMH" target="_blank" rel="noopener noreferrer">http://ift.tt/2vdfLMH</a>
+<a href="http://ift.tt/2jlIEB8" target="_blank" rel="noopener noreferrer">http://ift.tt/2jlIEB8</a>
+<a href="http://ift.tt/2hwIBC3" target="_blank" rel="noopener noreferrer">http://ift.tt/2hwIBC3</a>
+ttp://ift.tt/2hwIBC3</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2017-11-13-hpc-v-mire-caemedia-primenenie-superk/"><time datetime="2017-11-13">13.11.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-13-hpc-v-mire-caemedia-primenenie-superk/">https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-13-hpc-v-mire-caemedia-primenenie-superk/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/caemedia/">#CAEMedia</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/hpc/">#Hpc</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2017-11-08-segonya-sostoyalsya-bolshoy-i-ochen-ozhidaem/">Сегоня состоялся большой и очень ожидаемый мной релиз у моих друзей из #NICE Software.</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Эта небольшая но очень крутая итальянская компания (ныне часть #HPC подразделения #AWS) выпустила обновленную версию своего продукта #DCV (Desktop Cloud Visualization) - пожалуй самого эффективного средства доставки сложной инженерной графики на рынке.</p>
+<p>Ключевые фишки DCV:</p>
+<ul>
+<li>Возможность совместной работы нескольких человек на одном рабочем столе</li>
+<li>Полностью аппаратное кодирование/декодирование видео потока в H.264</li>
+<li>Поддержка NVIDIA vGPU</li>
+<li>Работках как в физической, так и в виртуальной среде.</li>
+<li>Возможность работы в режиме сжатия без потерь</li>
+<li>Автоматический/ручной выбор степени сжатия потока</li>
+<li>Пробросаться смарт-карт</li>
+<li>Автоматическая подстройка разрешения под клиента</li>
+<li>Как обычный так и HTML5 клиент</li>
+<li>Поддержка Gnome 3 для RHEL 7</li>
+<li>Поддержка Windows 10 и Server 2016</li>
+</ul>
+<p>Ну и конечно от себя хочу сказать, что DCV очень прост в установке, настроек и внедрении: поставил и работает. Не надо никаких серверов proxy, авторизации и балансировки нагрузки. Нет завязки на контроллер домена или систему авторизации.</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2017-11-08-segonya-sostoyalsya-bolshoy-i-ochen-ozhidaem/"><time datetime="2017-11-08">08.11.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-08-segonya-sostoyalsya-bolshoy-i-ochen-ozhidaem/">https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-08-segonya-sostoyalsya-bolshoy-i-ochen-ozhidaem/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/dcv/">#DCV</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/hpc/">#Hpc</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/nice/">#NICE</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/hpcmediamedia/">#HPCMediaMedia</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/aws/">#AWS</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2017-11-06-v-ramkah-proekta-razrabotki-python-bibl/">В рамках проекта разработки #python библиотеки qd-cae-python, которая сейма в основном затачивается под работу с #LSDYNA, реализована возможность расширенной работы со стандартными файлами бинарных результатов d3plot - например их конвертация в формат HDF5. Данный формат имеет ряд преимуществ - возможность параллельной обработки на #HPC системах (и это тоже реализовано в библиотеке).</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>#HDF5</p>
+<p><a href="http://www.qd-eng.de/index.php/2017/11/02/convert-a-d3plot-to-hdf5/" target="_blank" rel="noopener noreferrer">http://www.qd-eng.de/index.php/2017/11/02/convert-a-d3plot-to-hdf5/</a> 🔗 Convert a D3plot to HDF5 – qd-eng</p>
+<p><a href="http://ift.tt/2hfnNyJ" target="_blank" rel="noopener noreferrer">http://ift.tt/2hfnNyJ</a>
+<a href="http://www.qd-eng.de/index.php/2017/11/02/convert-a-d3plot-to-hdf5/" target="_blank" rel="noopener noreferrer">http://www.qd-eng.de/index.php/2017/11/02/convert-a-d3plot-to-hdf5/</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2017-11-06-v-ramkah-proekta-razrabotki-python-bibl/"><time datetime="2017-11-06">06.11.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-06-v-ramkah-proekta-razrabotki-python-bibl/">https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-06-v-ramkah-proekta-razrabotki-python-bibl/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/python/">#Python</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/hdf5/">#HDF5</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/hpc/">#Hpc</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/lsdyna/">#Lsdyna</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2017-11-03-bolshe-yader-ansys-hpc-acum-by-cadfe/">Больше ядер!</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>#ANSYS #HPC #ACUM by #CADFEMMedia</p>
+<p><a href="http://ift.tt/2A4OolA" target="_blank" rel="noopener noreferrer">http://ift.tt/2A4OolA</a></p>
+<p><a href="http://ift.tt/2emhAvW" target="_blank" rel="noopener noreferrer">http://ift.tt/2emhAvW</a>
+<a href="http://ift.tt/2vk2wVv" target="_blank" rel="noopener noreferrer">http://ift.tt/2vk2wVv</a>
+<a href="http://ift.tt/2i9AuaT" target="_blank" rel="noopener noreferrer">http://ift.tt/2i9AuaT</a>
+<a href="http://ift.tt/2vFXgAG" target="_blank" rel="noopener noreferrer">http://ift.tt/2vFXgAG</a>
+<a href="http://ift.tt/2zhBgg3" target="_blank" rel="noopener noreferrer">http://ift.tt/2zhBgg3</a>
+<a href="http://ift.tt/2A4OolA" target="_blank" rel="noopener noreferrer">http://ift.tt/2A4OolA</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2017-11-03-bolshe-yader-ansys-hpc-acum-by-cadfe/"><time datetime="2017-11-03">03.11.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-03-bolshe-yader-ansys-hpc-acum-by-cadfe/">https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-03-bolshe-yader-ansys-hpc-acum-by-cadfe/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/acum/">#Acum</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/cadfemmedia/">#CADFEMMedia</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/hpc/">#Hpc</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2017-10-22-totalcae-hvastayut-tem-chto-napisali-slo/">#TotalCAE хвастают тем, что написали слой интеграции между SLURM и #ANSYS #RSM.</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Напомню, ANSYS RSM позволяет без проблем ставить задачи ANSYS на таких высокопроизводительных системах, как #PBS, #LSF, #GridEngine, #Torque, #MOAB и даже Windows HPC Cluster, но не SLURM.</p>
+<p>TotalCAE взяли и написали свой собственный слой интеграции. Это прикольно, но проще было взять стандартный транслятор SLURM-PBS.</p>
+<p>#HPC</p>
+<p><a href="https://www.totalcae.com/learn/slurm-ansys-remote-solver-manager-rsm/" target="_blank" rel="noopener noreferrer">https://www.totalcae.com/learn/slurm-ansys-remote-solver-manager-rsm/</a> 🔗 SLURM with ANSYS Remote Solver Manager (RSM) - TotalCAE Blog</p>
+<p><a href="http://ift.tt/2zt3EbO" target="_blank" rel="noopener noreferrer">http://ift.tt/2zt3EbO</a>
+<a href="https://www.totalcae.com/learn/slurm-ansys-remote-solver-manager-rsm/" target="_blank" rel="noopener noreferrer">https://www.totalcae.com/learn/slurm-ansys-remote-solver-manager-rsm/</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2017-10-22-totalcae-hvastayut-tem-chto-napisali-slo/"><time datetime="2017-10-22">22.10.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-22-totalcae-hvastayut-tem-chto-napisali-slo/">https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-22-totalcae-hvastayut-tem-chto-napisali-slo/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/moab/">#MOAB</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/totalcae/">#TotalCAE</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/gridengine/">#GridEngine</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/hpc/">#Hpc</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/lsf/">#LSF</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/pbs/">#PBS</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/rsm/">#RSM</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/torque/">#Torque</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2017-10-19-ochen-krutoy-tehnicheskiy-doklad-volvo-n/">Очень крутой технический доклад #Volvo на 7-ой конференции &ldquo;BEFORE REALITY CONFERENCE&rdquo;, проводимой компанией #BETA #CAE.</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Конечно Volvo читает в моей любимой #LSDYNA. А вот модели она готовит в #ANSA, на которую они накрутили много собственной автоматизации. Анализ результатов за #Meta.</p>
+<p>Мне больше всего понравился рассказ про рабочий процесс, выработанный на Volvo - ведь они строят полные модели автомобилей для расчетов! И строят их почти автоматически.</p>
+<p>А еще, подробная модель автомобиля у них состоит всего из 10-15 миллионов элементов - это не очень много, а значит инженеры очень грамотно строят сетку и используют кучу упрощений без потери точности.</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2017-10-19-ochen-krutoy-tehnicheskiy-doklad-volvo-n/"><time datetime="2017-10-19">19.10.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-19-ochen-krutoy-tehnicheskiy-doklad-volvo-n/">https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-19-ochen-krutoy-tehnicheskiy-doklad-volvo-n/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/hpc/">#Hpc</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/lsdyna/">#Lsdyna</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansa/">#ANSA</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/cae/">#CAE</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/volvo/">#Volvo</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/meta/">#Meta</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/beta/">#Beta</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2017-09-25-dolozhilsya-na-httpifttt2htf57m-pro/">Доложился на <a href="http://ift.tt/2htF57m" target="_blank" rel="noopener noreferrer">http://ift.tt/2htF57m</a> про #ANSYS на отечественном #HPC интерконнекте #Ангара от #НИЦЭВТMedia</a></h1>
+        </header>
+        
+    </div>
+<a class="link-preview__card" href="http://ift.tt/2htF57m" target="_blank" rel="noopener noreferrer">
+  
+  <span class="link-preview__body">
+    <span class="link-preview__title">О конференции | Суперкомпьютерные дни в России</span>
+    
+    <span class="link-preview__host">ift.tt</span>
+  </span>
+</a>
+
+
+        <div class="content post-summary p-summary">
+            <p><a href="http://ift.tt/2jVyyXk" target="_blank" rel="noopener noreferrer">http://ift.tt/2jVyyXk</a></p>
+<p><a href="http://ift.tt/2htF57m" target="_blank" rel="noopener noreferrer">http://ift.tt/2htF57m</a>
+<a href="http://ift.tt/2vk2wVv" target="_blank" rel="noopener noreferrer">http://ift.tt/2vk2wVv</a>
+<a href="http://ift.tt/2emhAvW" target="_blank" rel="noopener noreferrer">http://ift.tt/2emhAvW</a>
+<a href="http://ift.tt/2y3mJox" target="_blank" rel="noopener noreferrer">http://ift.tt/2y3mJox</a>
+<a href="http://ift.tt/2jWWl9t" target="_blank" rel="noopener noreferrer">http://ift.tt/2jWWl9t</a>
+<a href="http://ift.tt/2y3mKsB" target="_blank" rel="noopener noreferrer">http://ift.tt/2y3mKsB</a>
+<a href="http://ift.tt/2jVyyXk" target="_blank" rel="noopener noreferrer">http://ift.tt/2jVyyXk</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2017-09-25-dolozhilsya-na-httpifttt2htf57m-pro/"><time datetime="2017-09-25">25.09.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-25-dolozhilsya-na-httpifttt2htf57m-pro/">https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-25-dolozhilsya-na-httpifttt2htf57m-pro/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="">#НИЦЭВТMedia</a></li>
+                
+                    
+                    <li><a href="">#Ангара</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/hpc/">#Hpc</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2017-09-19-v-novoy-platforme-intel-xeon-scalable-po/">В новой платформе Intel Xeon Scalable появился встроенный 10 GigE, причем iWARP - это низколатентный вариант сети.</a></h1>
+        </header>
+        
+    </div>
+<a class="link-preview__card" href="https://geektimes.ru/company/intel/blog/292747/" target="_blank" rel="noopener noreferrer">
+  
+  <span class="link-preview__thumb-wrap">
+    <img class="link-preview__thumb" src="https://habr.com/share/publication/370791/9b6bf11c348f82cf9322f18019214d46/" loading="lazy" alt="">
+  </span>
+  
+  <span class="link-preview__body">
+    <span class="link-preview__title">Что такое Intel Xeon Scalable?</span>
+    
+    <span class="link-preview__description">Обновление модельного ряда процессоров Intel Xeon в этом году стало самым значительным событием на рынке серверных платформ Intel начиная с 2011 года – тогда были выпущены так привычные нам линейки...</span>
+    
+    <span class="link-preview__host">geektimes.ru</span>
+  </span>
+</a>
+
+
+        <div class="content post-summary p-summary">
+            <p>Главное, что он подходит для построения #HPC начального уровня.</p>
+<p><a href="https://geektimes.ru/company/intel/blog/292747/" target="_blank" rel="noopener noreferrer">https://geektimes.ru/company/intel/blog/292747/</a> 🔗 Что такое Intel Xeon Scalable?</p>
+<p><a href="http://ift.tt/2w0uPxq" target="_blank" rel="noopener noreferrer">Что такое Intel Xeon Scalable?</a>
+<a href="https://geektimes.ru/company/intel/blog/292747/" target="_blank" rel="noopener noreferrer">https://geektimes.ru/company/intel/blog/292747/</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2017-09-19-v-novoy-platforme-intel-xeon-scalable-po/"><time datetime="2017-09-19">19.09.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-19-v-novoy-platforme-intel-xeon-scalable-po/">https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-19-v-novoy-platforme-intel-xeon-scalable-po/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/hpc/">#Hpc</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2017-09-18-na-sleduyuschey-nedele-na-konferentsii-sup/">На следующей неделе, на конференции &ldquo;Суперкомпьютерные дни в России&rdquo;, буду рассказывать про то, как мы с НИЦЭВТ заставили #ANSYS работать на отечественном #HPC интерконнекте Ангара - приходите на индустриальную секцию.</a></h1>
+        </header>
+        
+    </div>
+<a class="link-preview__card" href="http://ift.tt/2emhAvW" target="_blank" rel="noopener noreferrer">
+  
+  <span class="link-preview__body">
+    <span class="link-preview__title">VK.com | VK</span>
+    
+    <span class="link-preview__host">ift.tt</span>
+  </span>
+</a>
+
+
+        <div class="content post-summary p-summary">
+            <p><a href="http://www.russianscdays.org/agenda/Industrial17" target="_blank" rel="noopener noreferrer">http://www.russianscdays.org/agenda/Industrial17</a> 🔗 Индустриальная секция | Russian Supercomputing Days</p>
+<p><a href="http://ift.tt/2emhAvW" target="_blank" rel="noopener noreferrer">http://ift.tt/2emhAvW</a>
+<a href="http://www.russianscdays.org/agenda/Industrial17" target="_blank" rel="noopener noreferrer">http://www.russianscdays.org/agenda/Industrial17</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2017-09-18-na-sleduyuschey-nedele-na-konferentsii-sup/"><time datetime="2017-09-18">18.09.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-18-na-sleduyuschey-nedele-na-konferentsii-sup/">https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-18-na-sleduyuschey-nedele-na-konferentsii-sup/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/hpc/">#Hpc</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2017-08-31-kompaniya-amd-ne-vypuskala-godnyh-protsess/">Компания AMD не выпускала годных процессоров лет 6, но в этом году она заявила о себе с новой архитектурой, которая должна составить конкуренцию Intel.</a></h1>
+        </header>
+        
+    </div>
+<a class="link-preview__card" href="http://ift.tt/2emhAvW" target="_blank" rel="noopener noreferrer">
+  
+  <span class="link-preview__body">
+    <span class="link-preview__title">VK.com | VK</span>
+    
+    <span class="link-preview__host">ift.tt</span>
+  </span>
+</a>
+
+
+        <div class="content post-summary p-summary">
+            <p>Сам я пока бенчмарков сделать не успел, но провел небольшой обзор #HPC литературы.</p>
+<p>Самые вменяемые данные для 16-ти ядерных процессоров #AMD #Ryzen #Threadripper 1950X есть у Toms&rsquo;s Hardware. Сравнение AMD идет с 10 ядерным флагманом #Intel #Core #i9-7900X. Из их тестов нас интересуют #Rodinia - #CFD и #CalculiX - #FEM</p>
+<p>Можно видеть, что по производительности на ядро в плане FEM процессоры AMD сливают почти в 2 раза, а в области CFD наблюдается паритет. На цены железа я не смотрю - цены на лицензии коммерческого #CAE перекрывают стоимость аппаратной платформы в разы. Пока первый вывод - брать AMD рано.</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2017-08-31-kompaniya-amd-ne-vypuskala-godnyh-protsess/"><time datetime="2017-08-31">31.08.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-31-kompaniya-amd-ne-vypuskala-godnyh-protsess/">https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-31-kompaniya-amd-ne-vypuskala-godnyh-protsess/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/intel/">#Intel</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/cfd/">#Cfd</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/cae/">#CAE</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/threadripper/">#Threadripper</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/hpc/">#Hpc</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ryzen/">#Ryzen</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/tomshardware/">#Tomshardware</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/amd/">#AMD</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/i9/">#I9</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/fem/">#Fem</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/rodinia/">#Rodinia</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/calculix/">#CalculiX</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/core/">#Core</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+    
+    
+    
+    <div class="pagination">
+        <div class="left pagination-item ">
+            
+                <a href="/MagicDPD/tags/hpc/page/7/">к новым записям</a>
+            
+        </div>
+        <div class="right pagination-item ">
+            
+                <a href="/MagicDPD/tags/hpc/page/9/">к старым записям</a>
+            
+        </div>
+    </div>
+
+
+
+
+        </main>
+        
+            <footer class="common-footer">
+    
+    
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+            <p>© GlukRazor, 2026<br>
+            Движок <a target="_blank" rel="noopener noreferrer" href="https://gohugo.io/">Hugo</a>, тема <a target="_blank" rel="noopener noreferrer" href="https://github.com/mitrichius/hugo-theme-anubis">Anubis</a>.<br>
+            
+            </p>  
+        </div> 
+    </div>
+
+    <p class="h-card vcard">
+
+    <a href=https://yurynovozhilov.github.io/MagicDPD/ class="p-name u-url url fn" rel="me">GlukRazor</a> 
+
+    
+
+    
+</p> 
+</footer>
+
+        
+    </div>
+</body>
+</html>

@@ -2,62 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blast on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/blast/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/blast/</link>
     <description>MagicDPD: Magic Driven Product Development! (Blast)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Tue, 31 May 2022 18:00:08 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/blast/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/blast/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Оказывается, что код #ViperBlast, про который я неоднократно</title>
-      <link>http://localhost:1313/posts/2022-05-31-okazyvaetsya-chto-kod-viperblast-pro-ko/</link>
+      <title>Оказывается, что код #ViperBlast, про который я неоднократно писал, умеет рассчитывать детонацию не только конденсированных ВВ, но и решать задачи газовой детонации/дефраграции!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-05-31-okazyvaetsya-chto-kod-viperblast-pro-ko/</link>
       <pubDate>Tue, 31 May 2022 18:00:08 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-05-31-okazyvaetsya-chto-kod-viperblast-pro-ko/</guid>
-      <description>&lt;p&gt;#CFD #opensource #blast &lt;a href=&#34;https://doi.org/10.1016/j.psep.2021.12.032&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://doi.org/10.1016/j.psep.2021.12.032&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-05-31-okazyvaetsya-chto-kod-viperblast-pro-ko/</guid>
+      <description>&lt;p&gt;Сегодня даю ссылку на статью, где его сравнивают с #OpenFOAM, к которому подключили библиотеку #ddtFoam (расчет детонация, дефраграции и перехода).&lt;/p&gt;
+&lt;p&gt;#CFD #opensource #blast &lt;a href=&#34;https://doi.org/10.1016/j.psep.2021.12.032&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://doi.org/10.1016/j.psep.2021.12.032&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.psep.2021.12.032&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://doi.org/10.1016/j.psep.2021.12.032&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FLACS-CFD для задач промешенной безопасности</title>
-      <link>http://localhost:1313/posts/2021-12-02-flacs-cfd-dlya-zadach-promeshennoy-bezopasn/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-12-02-flacs-cfd-dlya-zadach-promeshennoy-bezopasn/</link>
       <pubDate>Thu, 02 Dec 2021 13:56:05 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-12-02-flacs-cfd-dlya-zadach-promeshennoy-bezopasn/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=THAiVZSDJDI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=THAiVZSDJDI&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-12-02-flacs-cfd-dlya-zadach-promeshennoy-bezopasn/</guid>
+      <description>&lt;p&gt;FLACS-CFD для задач промешенной безопасности&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=THAiVZSDJDI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=THAiVZSDJDI&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Внезапно, FLACS-CFD - это набор инструментов для трехмерной вычислительной гидродинамики с более чем 40 летней историей разработки. Основная область применения кода, это моделирование различных техногенных происшествий: взрывы и пожары на морских и береговых сооружениях, оптимизация газовых детекторов, расчеты рассеивания токсичных веществ, взрывы пыли, моделирование пожаров и пожаров, количественная оценка риска, расследование аварий/инцидентов.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://youtu.be/ob4rLIDQ_ss&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/ob4rLIDQ_ss&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Официальный сайт кода: www.gexcon.com/products-services/flacs-software/
 #blast #flacs-cfd
 &lt;a href=&#34;https://tinyurl.com/yyn7oz89&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yyn7oz89&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=THAiVZSDJDI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Dust Explosion Modelling (FLACS-DustEx)&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/ob4rLIDQ_ss&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/ob4rLIDQ_ss&lt;/a&gt;
+&lt;a href=&#34;https://www.gexcon.com/products-services/flacs-software/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.gexcon.com/products-services/flacs-software/&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yyn7oz89&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yyn7oz89&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Визуализация в стиле шлирен-метода и теневого фонового метод</title>
-      <link>http://localhost:1313/posts/2021-11-03-vizualizatsiya-v-stile-shliren-metoda-i-ten/</link>
+      <title>Визуализация в стиле шлирен-метода и теневого фонового метода в Paraview</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-11-03-vizualizatsiya-v-stile-shliren-metoda-i-ten/</link>
       <pubDate>Wed, 03 Nov 2021 13:07:15 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-11-03-vizualizatsiya-v-stile-shliren-metoda-i-ten/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-11-03-vizualizatsiya-v-stile-shliren-metoda-i-ten/</guid>
       <description>&lt;p&gt;Есть много экспериментов в ходе которых необходима визуализация неоднородность в жидкости или газе. Например, вы хотите посмотреть на ударные полны при сверхзвуковом обтекании или при детонации ВВ. Тога вам на помощь приходит Шлирен-метод (Schlieren photography) и теневой фоновый метода (Shadowgraph).&lt;/p&gt;
 &lt;p&gt;Оба этих метода позволяют получить наглядные черно-белые изображения неоднородностей среды. Но как же быть, если мы выполняем не физический эксперимент, а математическое моделирование? Как получить такую привычную визуализацию и провести наглядное сравнение с данными экспериментаторов?&lt;/p&gt;
 &lt;p&gt;Нам на помощь приходит Paraview, для которого я сегодня нашел инструкцию по реализации процесса визуализации в обоих &amp;ldquo;стилях&amp;rdquo;. Я надеюсь, что в следующих своих работах, связанных с ударными волнами, я уже буду публиковать результаты в таком виде.&lt;/p&gt;
 &lt;p&gt;Ссылка на инструкию по визуализации: curiosityfluids.com/2019/04/28/creating-synthetic-schlieren-and-shadowgraph-images-in-paraview/amp/
 #blast #explicit #paraview
 &lt;a href=&#34;https://tinyurl.com/yze2ssgw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yze2ssgw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://curiosityfluids.com/2019/04/28/creating-synthetic-schlieren-and-shadowgraph-images-in-paraview/amp/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Creating synthetic Schlieren and Shadowgraph images in Paraview&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yze2ssgw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yze2ssgw&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Сравнение работы кодов моделирования детонации ВВ</title>
-      <link>http://localhost:1313/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</link>
       <pubDate>Thu, 23 Sep 2021 15:01:35 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</guid>
-      <description>&lt;p&gt;Разработчики blastFoam, открытого CFD кода на базе openFoam, специализирующегося на задачах детонации ВВ и распространении ударных волны в воздухе, опубликовали любопытное сравнение. Они смоделировали детонацию сферического заряда тротила в воздухе в бесконечном домене - довольно простая постановка с хорошо известными аналитическими решениями.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</guid>
+      <description>&lt;p&gt;Сравнение работы кодов моделирования детонации ВВ&lt;/p&gt;
+&lt;p&gt;Разработчики blastFoam, открытого CFD кода на базе openFoam, специализирующегося на задачах детонации ВВ и распространении ударных волны в воздухе, опубликовали любопытное сравнение. Они смоделировали детонацию сферического заряда тротила в воздухе в бесконечном домене - довольно простая постановка с хорошо известными аналитическими решениями.&lt;/p&gt;
 &lt;p&gt;Моделирование они выполнили в:&lt;/p&gt;
 &lt;p&gt;Ansys Autodyn - код, разработанный когда-то, поглощённой компанией Century Dynamics - заточен под решение задач ОПКAnsys LS-DYNA - код, разработанный, поглощённой компанией LSTC - заточен под решение сильно связанных высоконелинейных задачEUROPLEXUS - или EpX, полуоткрытьй код для моделирования быстропротекающих процессов от французской промышленности, работает на основе моделей, подготовленных для Code_Aster.  CHT - код для моделирования быстропротекающих процессов от Сандийских национальных лабораторийblastFoam, который я уже представил&lt;/p&gt;
 &lt;p&gt;Во всех кодах использовалось уравнение состояния JWL. На мой взгляд, справились все коды примерно одинаково, и, не зная особенностей постановки задачи, времени, затраченного на решение, трудно выбрать лидера.&lt;/p&gt;
@@ -65,94 +75,284 @@
 &lt;p&gt;Ссылка на оригинальный пост: &lt;a href=&#34;https://www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ansys #autodyn #blast #blastfoam #cht #europlexus #ls-dyna #open_source #openfoam #sandia
 &lt;a href=&#34;https://tinyurl.com/yzxkzr4r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzxkzr4r&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/?trackingId=Uq%2B3MZmoMgkb3xIYeAHk9A%3D%3D&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;blastFoam | Comparison of explosive airblast calculators&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yzxkzr4r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzxkzr4r&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование детонации ВВ</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-21-modelirovanie-detonatsii-vv/</link>
+      <pubDate>Tue, 21 Sep 2021 13:01:58 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-21-modelirovanie-detonatsii-vv/</guid>
+      <description>&lt;p&gt;Моделирование детонации ВВ&lt;/p&gt;
+&lt;p&gt;Ozen Engineering расказывают, как промоделировать детонацию в Ansys Autodyn и Explicit STR применяя МКЭ в эйлеровой постановке и уравнения состояния JWL&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UngmYKKDWuU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=UngmYKKDWuU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=n0bQh17NAO4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=n0bQh17NAO4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #autodyn #blast #explicit #explicit_str
+&lt;a href=&#34;https://tinyurl.com/yhmfnser&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yhmfnser&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UngmYKKDWuU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Autodyn 3d explosion simulations in Traditional GUI&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=n0bQh17NAO4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=n0bQh17NAO4&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yhmfnser&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yhmfnser&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование детонации сферического ВВ</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-05-27-modelirovanie-detonatsii-sfericheskogo-vv/</link>
+      <pubDate>Thu, 27 May 2021 17:33:15 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-05-27-modelirovanie-detonatsii-sfericheskogo-vv/</guid>
+      <description>&lt;p&gt;Моделирование детонации сферического ВВ&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=uOm6a70tKgA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=uOm6a70tKgA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Примеры залипательных и красивых видео про воздушные ударные волны. На видео хорошо видно образование первой и второй  ударной волны, распространяющейся от точки детонации.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=vh5Cyg43Rpo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=vh5Cyg43Rpo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#blast #blastfoam #he #open_source
+&lt;a href=&#34;https://tinyurl.com/yeyf6v2n&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yeyf6v2n&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=uOm6a70tKgA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Explosive Modeling: Airblast Anatomy | Pete and RePete&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=vh5Cyg43Rpo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=vh5Cyg43Rpo&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yeyf6v2n&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yeyf6v2n&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Небольшой обзор эмпирических оценок воздействия взрывов</title>
-      <link>http://localhost:1313/posts/2020-09-29-nebolshoy-obzor-empiricheskih-otsenok-vozd/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-09-29-nebolshoy-obzor-empiricheskih-otsenok-vozd/</link>
       <pubDate>Tue, 29 Sep 2020 17:00:23 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-09-29-nebolshoy-obzor-empiricheskih-otsenok-vozd/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-09-29-nebolshoy-obzor-empiricheskih-otsenok-vozd/</guid>
+      <description>&lt;p&gt;Небольшой обзор эмпирических оценок воздействия взрывов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/analytical-and-empirical-estimations-for-incident-blast-pressure/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Небольшой обзор эмпирических оценок воздействия взрывов - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Царь-Бомба</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-09-16-tsar-bomba/</link>
+      <pubDate>Wed, 16 Sep 2020 13:00:41 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-09-16-tsar-bomba/</guid>
+      <description>&lt;p&gt;Царь-Бомба&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/thermonuclear-bomb/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Царь-Бомба - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Свободный доступ к материалам конференции FRAGBLAST</title>
-      <link>http://localhost:1313/posts/2020-07-09-svobodnyy-dostup-k-materialam-konferentsi/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-07-09-svobodnyy-dostup-k-materialam-konferentsi/</link>
       <pubDate>Thu, 09 Jul 2020 13:02:59 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-07-09-svobodnyy-dostup-k-materialam-konferentsi/</guid>
-      <description>&lt;p&gt;#blast #fracture
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-07-09-svobodnyy-dostup-k-materialam-konferentsi/</guid>
+      <description>&lt;p&gt;Свободный доступ к материалам конференции FRAGBLAST
+#blast #fracture
 by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/fragblast/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Свободный доступ к материалам конференции FRAGBLAST - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Огромный семинар по blastFoam3.0</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-05-19-ogromnyy-seminar-po-blastfoam30/</link>
+      <pubDate>Tue, 19 May 2020 13:00:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-05-19-ogromnyy-seminar-po-blastfoam30/</guid>
+      <description>&lt;p&gt;Огромный семинар по blastFoam3.0&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/blastfoam-3-workshop/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Огромный семинар по blastFoam3.0 - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Вебинар «Методики моделирования взрывов в Ansys LS-DYNA»</title>
-      <link>http://localhost:1313/posts/2020-04-24-vebinar-metodiki-modelirovaniya-vzryvov/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-04-24-vebinar-metodiki-modelirovaniya-vzryvov/</link>
       <pubDate>Fri, 24 Apr 2020 15:27:20 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-04-24-vebinar-metodiki-modelirovaniya-vzryvov/</guid>
-      <description>&lt;p&gt;#ALE #blast #CESE #ConWep #FSI #LS_DYNA #ParticleBlast #S_ALE #SPH
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-04-24-vebinar-metodiki-modelirovaniya-vzryvov/</guid>
+      <description>&lt;p&gt;Вебинар «Методики моделирования взрывов в Ansys LS-DYNA»
+#ALE #blast #CESE #ConWep #FSI #LS_DYNA #ParticleBlast #S_ALE #SPH
 by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/%d0%b2%d0%b5%d0%b1%d0%b8%d0%bd%d0%b0%d1%80-%d0%bc%d0%b5%d1%82%d0%be%d0%b4%d0%b8%d0%ba%d0%b8-%d0%bc%d0%be%d0%b4%d0%b5%d0%bb%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f-%d0%b2%d0%b7%d1%80%d1%8b/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Вебинар &amp;ldquo;Методики моделирования взрывов в Ansys LS-DYNA&amp;rdquo; - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Красивые взрывы</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-23-krasivye-vzryvy/</link>
+      <pubDate>Mon, 23 Mar 2020 13:00:49 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-23-krasivye-vzryvy/</guid>
+      <description>&lt;p&gt;Красивые взрывы
+#blast #CFD #GPU #Viper_Blast
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/beautiful-explosions/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Красивые взрывы - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Synthetik Applied Technologies и ее blastFoam</title>
-      <link>http://localhost:1313/posts/2019-12-24-synthetik-applied-technologies-i-ee-blas/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-12-24-synthetik-applied-technologies-i-ee-blas/</link>
       <pubDate>Tue, 24 Dec 2019 13:00:16 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-12-24-synthetik-applied-technologies-i-ee-blas/</guid>
-      <description>&lt;p&gt;#blast #blastFOAM #CFD
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-12-24-synthetik-applied-technologies-i-ee-blas/</guid>
+      <description>&lt;p&gt;Synthetik Applied Technologies и ее blastFoam
+#blast #blastFOAM #CFD
 by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/synthetik-applied-technologies-blastfoam/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Synthetik Applied Technologies и ее blastFoam - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Viper::Blast и 400 кг взрывчатки</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-11-23-viperblast-i-400-kg-vzryvchatki/</link>
+      <pubDate>Sat, 23 Nov 2019 16:01:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-11-23-viperblast-i-400-kg-vzryvchatki/</guid>
+      <description>&lt;p&gt;Viper::Blast и 400 кг взрывчатки&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/viperblast-%d0%b8-400-%d0%ba%d0%b3-%d0%b2%d0%b7%d1%80%d1%8b%d0%b2%d1%87%d0%b0%d1%82%d0%ba%d0%b8/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Viper::Blast и 400 кг взрывчатки - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>https://www.youtube.com/watch?v=8GmMjVtFT8A</title>
-      <link>http://localhost:1313/posts/2019-10-04-httpswwwyoutubecomwatchv8gmmjvtf/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-04-httpswwwyoutubecomwatchv8gmmjvtf/</link>
       <pubDate>Fri, 04 Oct 2019 13:05:40 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-10-04-httpswwwyoutubecomwatchv8gmmjvtf/</guid>
-      <description>&lt;p&gt;Бомбануло&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-04-httpswwwyoutubecomwatchv8gmmjvtf/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8GmMjVtFT8A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=8GmMjVtFT8A&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Бомбануло&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8GmMjVtFT8A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ガス爆発による構造体破壊の数値シミュレーション&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Обучение моделированию взрывов в LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-06-04-obuchenie-modelirovaniyu-vzryvov-v-ls-dyna/</link>
+      <pubDate>Tue, 04 Jun 2019 17:00:52 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-06-04-obuchenie-modelirovaniyu-vzryvov-v-ls-dyna/</guid>
+      <description>&lt;p&gt;Обучение моделированию взрывов в LS-DYNA&lt;/p&gt;
+&lt;p&gt;С 3 по 5 февраля следующего года группа специалистов по LS-DYNA из Cловении проведёт трехдневный курс по моделированию взрывов в LS-DYNA. Один из лекторов — Jovan Trajkovski, известный популяризатор LS-DYNA с канала «Trajkovski feasolution» (&lt;a href=&#34;http://feasolution.blogspot.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://feasolution.blogspot.com&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;В рамках курса вас научат моделировать взрывы эмпирически, через MM-ALE и SPH, расскажут теоретические основы. Стоимость курса €570 без НДС, но с питанием в ходе курсов. Регистрация на курс закрывается 31 октября 2019 года.&lt;/p&gt;
+&lt;p&gt;#blast #LS_DYNA #Trajkovski&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2y7&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2y7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://feasolution.blogspot.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://feasolution.blogspot.com&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2y7&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2y7&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Viper::Blast — ударные волны на GPU</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-20-viperblast-udarnye-volny-na-gpu/</link>
+      <pubDate>Sat, 20 Apr 2019 17:00:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-20-viperblast-udarnye-volny-na-gpu/</guid>
+      <description>&lt;p&gt;Viper::Blast — ударные волны на GPU&lt;/p&gt;
+&lt;p&gt;Про проект Viper::Blast я уже когда-то писал — это код, моделирующий распространение ударных волн с применением вычислений на GPU. Судя по данному ролику, GPU позволяют ускорить расчет без малого в 38 раз для тестового примера. Очень неплохо, но как система поведёт себя с более сложной геометрией неизвестно.&lt;/p&gt;
+&lt;p&gt;#blast #GPU #Viper_Blast&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2u1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2u1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2u1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2u1&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Нагрузка от взрыва — учебное видео LS-DYNA</title>
-      <link>http://localhost:1313/posts/2019-01-17-nagruzka-ot-vzryva-uchebnoe-video-ls-dy/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-17-nagruzka-ot-vzryva-uchebnoe-video-ls-dy/</link>
       <pubDate>Thu, 17 Jan 2019 17:00:18 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-01-17-nagruzka-ot-vzryva-uchebnoe-video-ls-dy/</guid>
-      <description>&lt;p&gt;Неплохой учебный пример, заточенный на приложение нагрузки через &lt;em&gt;LOADBLAST&lt;/em&gt;. Приятно, что коллега не просто показывает красивые картинки, а сверяется со статьей из рецензируемого журнала.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-17-nagruzka-ot-vzryva-uchebnoe-video-ls-dy/</guid>
+      <description>&lt;p&gt;Нагрузка от взрыва — учебное видео LS-DYNA&lt;/p&gt;
+&lt;p&gt;Неплохой учебный пример, заточенный на приложение нагрузки через &lt;em&gt;LOADBLAST&lt;/em&gt;. Приятно, что коллега не просто показывает красивые картинки, а сверяется со статьей из рецензируемого журнала.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=aDTQXOYYmAg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=aDTQXOYYmAg&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Весь пример полностью выполнен в LS-PrePost.&lt;/p&gt;
 &lt;p&gt;#blast #LS_DYNA&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2fz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2fz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=aDTQXOYYmAg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=aDTQXOYYmAg&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2fz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2fz&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ищу ученика</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-08-ischu-uchenika/</link>
+      <pubDate>Mon, 08 Oct 2018 17:00:24 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-08-ischu-uchenika/</guid>
+      <description>&lt;p&gt;Ищу ученика
+Да, я снова его ищу, ибо хороших учеников много не бывает. Хотите побыть Тони Старком?&lt;/p&gt;
+&lt;p&gt;Как вы знаете, я люблю все решать в LS-DYNA. Она очень хорошо может моделировать взрывы. Тут есть:&lt;/p&gt;
+&lt;p&gt;Моделирование взрывов на основе стандартного и расширенного уравнения состояния JWL, JWLB, ST
+Химический решатель для расчета детонации или дефлаграции в газовой смеси (когда нет известного уравнения состояния)
+Широчайшие возможности для выбора методов дискретизации пространства: МКЭ в лагранжевой и эйлеровой постановках, SPH, метод взрыва частиц, моделирующий стохастическое движение молекул газа, эмпирические методики, сопрягающиеся с чем угодно, и, наконец, полноценный CFD решатель, учитывающий сжимаемость среды.
+Сопряжение нагрузок от взрыва с чем угодно, даже с балочными элементами и DEM.&lt;/p&gt;
+&lt;p&gt;Поробнее об этом в моей презентации на SlideShare: https://www.slideshare.net/YuryNovozhilov/ansys-lsdyna-85968234
+Требования к кандидатам стандартные:&lt;/p&gt;
+&lt;p&gt;Вы должны хотеть знаний, бегать за ними с блеском в глазах
+Вы должны быть из Питера
+Профильное образование&lt;/p&gt;
+&lt;p&gt;Всем заинтересовавшимся писать сюда: &lt;a href=&#34;https://t.me/GlukRazor&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://t.me/GlukRazor&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Blast #LSDYNA
+&lt;a href=&#34;http://bit.ly/2pKRBDL&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2pKRBDL&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.slideshare.net/YuryNovozhilov/ansys-lsdyna-85968234&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Методики моделирования взрывов в ANSYS LS-DYNA&lt;/a&gt;
+&lt;a href=&#34;https://t.me/GlukRazor&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://t.me/GlukRazor&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2pKRBDL&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2pKRBDL&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#34;Сдуваем&#34; пламя в Autodyn</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-26-sduvaem-plamya-v-autodyn/</link>
+      <pubDate>Sun, 26 Aug 2018 18:01:55 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-26-sduvaem-plamya-v-autodyn/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Сдуваем&amp;rdquo; пламя в Autodyn
+В ANSYS Autodyn смоделировали эффект сбивания пламени при помощи ударной волны от взрыва.&lt;/p&gt;
+&lt;p&gt;Simulation Proves Fighting Fire with Fiery Explosions Is Possible&lt;/p&gt;
+&lt;p&gt;#ANSYS #Autodyn #Blast #Explicit
+&lt;a href=&#34;http://bit.ly/2BPUYSQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2BPUYSQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys-blog.com/simulation-proves-fighting-fire-fiery-explosions-possible/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys | Engineering Simulation Software&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2BPUYSQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2BPUYSQ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VIPER::BLAST</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-17-viperblast/</link>
+      <pubDate>Fri, 17 Aug 2018 18:00:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-17-viperblast/</guid>
+      <description>&lt;p&gt;VIPER::BLAST
+В сети появилась информация про новый CFD решатель VIPER::BLAST, специально разработанный для моделирования распространения ударных волн. В качестве главной фишки решателя декларируется высокое быстродействие благодаря активному использованию GPU NVIDIA в расчетах.&lt;/p&gt;
+&lt;p&gt;Сайт проекта есть, но пока он пуст: &lt;a href=&#34;https://www.viper-blast.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.viper-blast.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Blast #CFD #GPU #VIPERBLAST
+&lt;a href=&#34;http://bit.ly/2PkpaIK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PkpaIK&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.viper-blast.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Home | Viper::Blast&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2PkpaIK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PkpaIK&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Расчет воздействия ударной волны по ConWep</title>
-      <link>http://localhost:1313/posts/2018-06-28-raschet-vozdeystviya-udarnoy-volny-po-conw/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-06-28-raschet-vozdeystviya-udarnoy-volny-po-conw/</link>
       <pubDate>Thu, 28 Jun 2018 18:01:30 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-06-28-raschet-vozdeystviya-udarnoy-volny-po-conw/</guid>
-      <description>&lt;p&gt;Пример расчета от компании Predictive Engineering. Как обычно качественное оформление и красивая задача.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-06-28-raschet-vozdeystviya-udarnoy-volny-po-conw/</guid>
+      <description>&lt;p&gt;Расчет воздействия ударной волны по ConWep
+Пример расчета от компании Predictive Engineering. Как обычно качественное оформление и красивая задача.&lt;/p&gt;
 &lt;p&gt;#Blast #ConWep #LSDYNA #PredictiveEngineering
 &lt;a href=&#34;http://bit.ly/2MxFCmG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2MxFCmG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2MxFCmG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2MxFCmG&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Расчет подрыва ЖБ плиты с учетом фрагментации</title>
-      <link>http://localhost:1313/posts/2018-02-07-raschet-podryva-zhb-plity-s-uchetom-fragmen/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-07-raschet-podryva-zhb-plity-s-uchetom-fragmen/</link>
       <pubDate>Wed, 07 Feb 2018 18:00:53 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-02-07-raschet-podryva-zhb-plity-s-uchetom-fragmen/</guid>
-      <description>&lt;p&gt;Очень красивый пример от LSTC, демонстрирующий работу LS-DYNA в области расчета взрывов и переноса нагрузок от них на конструкции. Разберем три составляющих успеха данного расчета.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-07-raschet-podryva-zhb-plity-s-uchetom-fragmen/</guid>
+      <description>&lt;p&gt;Расчет подрыва ЖБ плиты с учетом фрагментации
+Очень красивый пример от LSTC, демонстрирующий работу LS-DYNA в области расчета взрывов и переноса нагрузок от них на конструкции. Разберем три составляющих успеха данного расчета.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Имеем бетонную плиту, армированную стальными стержнями (естественно beam арматура внедряется в solid бетон при помощи специальных уравнений связи типа *CONSTRAINED_BEAM_IN_SOLID).&lt;/li&gt;
 &lt;li&gt;Дальше, на этой плите расположен заряд в оболочке из shell элементов. Заряд ВВ моделируется в постановке Particle Blast Method (PBM) - не надо заморачиваться с генерацией SPH или переходом в эйлеров домен. PBM решает быстро и точно!&lt;/li&gt;
@@ -160,52 +360,118 @@ by Юрий Новожилов&lt;/p&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=QHbO6tRPI3c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=QHbO6tRPI3c&lt;/a&gt;
 #blast #concrete #CONSTRAINED_BEAM_IN_SOLID #DEFINE_ADAPTIVE_SOLID_TO_SPH #fracture #fragmentation #LS-DYNA #LSTC #ParticleBlast #reinforcement #SPH
+&lt;a href=&#34;https://wp.me/p9vWYY-1BK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1BK&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=QHbO6tRPI3c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=QHbO6tRPI3c&lt;/a&gt;
 &lt;a href=&#34;https://wp.me/p9vWYY-1BK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1BK&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Видео урок с пошаговым разбором работы карты *LOAD_BLAST_ENH</title>
-      <link>http://localhost:1313/posts/2017-11-29-video-urok-s-poshagovym-razborom-raboty-k/</link>
+      <title>Запоздалые поздравления с Новым годом</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-10-zapozdalye-pozdravleniya-s-novym-godom/</link>
+      <pubDate>Wed, 10 Jan 2018 17:00:51 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-10-zapozdalye-pozdravleniya-s-novym-godom/</guid>
+      <description>&lt;p&gt;Запоздалые поздравления с Новым годом
+Инженеры PEC поздравляют всех с Новым годом при помощи модели салюта в LS-DYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/pec_tx/status/946765945959313408&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://twitter.com/pec_tx/status/946765945959313408&lt;/a&gt;
+#blast #LS-DYNA #PEC
+&lt;a href=&#34;https://magicdpd.ru/?p=5897&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5897&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/pec_tx/status/946765945959313408&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://twitter.com/pec_tx/status/946765945959313408&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=5897&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5897&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#OPENFoam #blastFOAM #blast</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-17-openfoam-blastfoam-blast/</link>
+      <pubDate>Sun, 17 Dec 2017 17:03:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-17-openfoam-blastfoam-blast/</guid>
+      <description>&lt;p&gt;#OPENFoam #blastFOAM #blast
+&lt;a href=&#34;https://www.youtube.com/watch?v=ZwW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ZwW&lt;/a&gt;…Media📼 blastFOAM: Airblast Validation Study Outputs&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2Cr9Y53&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2Cr9Y53&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2CsPEk2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2CsPEk2&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2Bp8dWE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2Bp8dWE&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2i5tcEP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i5tcEP&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=ZwWddtSzWPc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ZwWddtSzWPc&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2BpFLnX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2BpFLnX&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2Cr9Y53&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2Cr9Y53&lt;/a&gt;
+ttp://ift.tt/2Cr9Y53&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Видео урок с пошаговым разбором работы карты *LOAD_BLAST_ENHANCED.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-29-video-urok-s-poshagovym-razborom-raboty-k/</link>
       <pubDate>Wed, 29 Nov 2017 17:18:14 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-29-video-urok-s-poshagovym-razborom-raboty-k/</guid>
-      <description>&lt;p&gt;#LSDYNA #Blast #concrete&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-29-video-urok-s-poshagovym-razborom-raboty-k/</guid>
+      <description>&lt;p&gt;Данная карта позволяет генерировать нагрузку от воздействия взрыва сферического заряда в воздухе. Карта работает по методике, схожей с #ConWep, но более совершенной - специально разработанной специалистами #LSTC. Как можно увидеть из урока, считать воздействия взрыва на подкрепленные бетонные конструкции не очень сложная задача, но это пока вам не досталась реальная задача.&lt;/p&gt;
+&lt;p&gt;#LSDYNA #Blast #concrete&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=dD1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=dD1&lt;/a&gt;…Media📼 LS-DYNA Tutorial | Blast Loading Analysis on Shelt…&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ift.tt/2zNwmsr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zNwmsr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2i5tbAL&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i5tbAL&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xRPO1U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xRPO1U&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vlBJYZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlBJYZ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zpLI1B&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zpLI1B&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2kBXMdY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2kBXMdY&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=dD1VSYpGqXA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=dD1VSYpGqXA&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2AIa8In&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2AIa8In&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zNwmsr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zNwmsr&lt;/a&gt;
+ttp://ift.tt/2zNwmsr&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Наука должна быть крутой! Очень эпичное видео об изучении уд</title>
-      <link>http://localhost:1313/posts/2017-11-19-nauka-dolzhna-byt-krutoy-ochen-epichnoe/</link>
+      <title>Наука должна быть крутой!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-19-nauka-dolzhna-byt-krutoy-ochen-epichnoe/</link>
       <pubDate>Sun, 19 Nov 2017 17:15:05 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-19-nauka-dolzhna-byt-krutoy-ochen-epichnoe/</guid>
-      <description>&lt;p&gt;#blast
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-19-nauka-dolzhna-byt-krutoy-ochen-epichnoe/</guid>
+      <description>&lt;p&gt;Очень эпичное видео об изучении ударных волн от #Sandia National Labs. Тут и эксперимент с не тривиальной обработкой данных (Шлирен-метод), и расчет с красивой визуализацией.&lt;/p&gt;
+&lt;p&gt;#blast
 &lt;a href=&#34;https://www.youtube.com/watch?v=Ckh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Ckh&lt;/a&gt;…Media📼 Sandia Blast Tube - Engineered Explosive Shockwave…&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ift.tt/2zTUXbW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zTUXbW&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2j8n5zZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2j8n5zZ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2i5tcEP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i5tcEP&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=CkhCiSneJJg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=CkhCiSneJJg&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2j8n6E3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2j8n6E3&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zTUXbW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zTUXbW&lt;/a&gt;
+ttp://ift.tt/2zTUXbW&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Видео урок по моделированию воздействия ударной волны на тел</title>
-      <link>http://localhost:1313/posts/2017-11-11-video-urok-po-modelirovaniyu-vozdeystviya/</link>
+      <title>Видео урок по моделированию воздействия ударной волны на тело человека.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-11-video-urok-po-modelirovaniyu-vozdeystviya/</link>
       <pubDate>Sat, 11 Nov 2017 17:04:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-11-video-urok-po-modelirovaniyu-vozdeystviya/</guid>
-      <description>&lt;p&gt;#LSDYNA #JWL #blast&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-11-video-urok-po-modelirovaniyu-vozdeystviya/</guid>
+      <description>&lt;p&gt;Коллеги из #LSTC взяли имеющуюся у них модель тела человека, а вот взрывчатку смоделировали не в традиционной #ALE постановке, а в #SPH.&lt;/p&gt;
+&lt;p&gt;#LSDYNA #JWL #blast&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=gwH&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=gwH&lt;/a&gt;…Media📼 LS-DYNA tutorial | SPH method for Simulating Blast…&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ift.tt/2ABHrJW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ABHrJW&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2xRPO1U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xRPO1U&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2gD26os&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2gD26os&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wQeysc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wQeysc&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vlBJYZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlBJYZ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2yu31Pl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yu31Pl&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2i5tcEP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i5tcEP&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=gwHJNFJBAu8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=gwHJNFJBAu8&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2ysxBIS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ysxBIS&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2ABHrJW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ABHrJW&lt;/a&gt;
+ttp://ift.tt/2ABHrJW&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Старая, но очень полезная методичка от #LSTС о том, как прав</title>
-      <link>http://localhost:1313/posts/2017-10-25-staraya-no-ochen-poleznaya-metodichka-ot/</link>
+      <title>Старая, но очень полезная методичка от #LSTС о том, как правильно прикладывать давление ударной волны при помощи эмпирической модели LOAD_BLAST(_ENHANCED).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-25-staraya-no-ochen-poleznaya-metodichka-ot/</link>
       <pubDate>Wed, 25 Oct 2017 17:10:17 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-10-25-staraya-no-ochen-poleznaya-metodichka-ot/</guid>
-      <description>&lt;ul&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-25-staraya-no-ochen-poleznaya-metodichka-ot/</guid>
+      <description>&lt;p&gt;Это очень полезное граничное условие работает сильно лучше, чем традиционный #ConWep и имеет кучу дополнительных опций и возможностей:&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;учет нескольких зарядов&lt;/li&gt;
 &lt;li&gt;учет эрозии элементов мишени&lt;/li&gt;
 &lt;li&gt;учет подвижности заряда&lt;/li&gt;
@@ -217,16 +483,25 @@ by Юрий Новожилов&lt;/p&gt;
 P.S. На последнем слайде есть живая ссылка на все рассмотренные модели - можно многому научиться.&lt;/p&gt;
 &lt;p&gt;#LSDYNA #blast #ALEMedia💾 ucsd.pdf&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ift.tt/2izEeGr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2izEeGr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2gEkv3T&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2gEkv3T&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2i5tbAL&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i5tbAL&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vlBJYZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlBJYZ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2i5tcEP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i5tcEP&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2gD26os&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2gD26os&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2i4DPYu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i4DPYu&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2gBA8JF&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2gBA8JF&lt;/a&gt;
+ttp://ift.tt/2izEeGr&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Хотите считать #explicit - учитесь! Вот стандартные тестовые</title>
-      <link>http://localhost:1313/posts/2017-10-20-hotite-schitat-explicit-uchites-vot/</link>
+      <title>Хотите считать #explicit - учитесь!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-20-hotite-schitat-explicit-uchites-vot/</link>
       <pubDate>Fri, 20 Oct 2017 17:07:33 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-10-20-hotite-schitat-explicit-uchites-vot/</guid>
-      <description>&lt;ul&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-20-hotite-schitat-explicit-uchites-vot/</guid>
+      <description>&lt;p&gt;Вот стандартные тестовые задачи для настоящих #explicit кодов:&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;Тест Тейлора (#Taylor Anvil Test)&lt;/li&gt;
 &lt;li&gt;Распространение ударной воны в воздухе (Free Air #Blast)&lt;/li&gt;
 &lt;li&gt;Разрезной стержень Гопкинсона - Кольского (Split Hopkinson Pressure Bar, #SHPB)&lt;/li&gt;
@@ -235,58 +510,115 @@ P.S. На последнем слайде есть живая ссылка на 
 &lt;p&gt;Научные статьи и учебное видео для #LSPP во вложении.&lt;/p&gt;
 &lt;p&gt;#LSDYNA #ABAQUS #CTH #ALEGRA #ALE3D #RADIOSSMedia📼 Taylor bar test💾 A method for selecting software for dynamic event…💾 A method for selecting software for dynamic event…&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ift.tt/2zDmjm1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zDmjm1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vBgpQ1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vBgpQ1&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zpLI1B&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zpLI1B&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zEmYDK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zEmYDK&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2i0hIGl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i0hIGl&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vlBJYZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlBJYZ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xBL1l5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xBL1l5&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zqlNHf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zqlNHf&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zDlzgJ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zDlzgJ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zqlPyR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zqlPyR&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zDmihX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zDmihX&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zqhDiu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zqhDiu&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zDmjm1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zDmjm1&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zpFsHw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zpFsHw&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zDyUG1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zDyUG1&lt;/a&gt;
+p://ift.tt/2zDmjm1&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Интересную тему подсказали мне коллеги - штамповка взрывом. </title>
-      <link>http://localhost:1313/posts/2016-07-18-interesnuyu-temu-podskazali-mne-kollegi/</link>
+      <title>blastFOAM на базе OpenFOAM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-30-blastfoam-na-baze-openfoam/</link>
+      <pubDate>Tue, 30 May 2017 17:00:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-30-blastfoam-na-baze-openfoam/</guid>
+      <description>&lt;p&gt;blastFOAM на базе OpenFOAM
+&lt;a href=&#34;https://mobile.twitter.com/twitter/status/855430759951323137&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://mobile.twitter.com/twitter/status/855430759951323137&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Очень интересный код, про который почти не никаких данных - #blastFOAM. Судя по всему, это сборка #opensource #CFD кода #OpenFOAM для решения задач распространения ударных волн в жидкостях и газах. Если у кого есть больше информации - буду признателен за нее. Пока у меня только пара твитов по теме от #Protection #Engineering&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mobile.twitter.com/twitter/status/855430759951323137&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;PEC&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование взрыва в SPH постановке</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-24-modelirovanie-vzryva-v-sph-postanovke/</link>
+      <pubDate>Sat, 24 Dec 2016 12:01:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-24-modelirovanie-vzryva-v-sph-postanovke/</guid>
+      <description>&lt;p&gt;Моделирование взрыва в SPH постановке
+&lt;a href=&#34;https://www.youtube.com/watch?v=0Q-5dAiPcwE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=0Q-5dAiPcwE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Канал Trajkovski feasolution опубликовал видео с результатами очень интересной работы. Коллеги занимались подбором оптимальной формы взрывозащитного днища броневика. Обычно днище таких автомобилей делают V- или U-образным для отражения/отклонения ударной волны и осколков.&lt;/p&gt;
+&lt;p&gt;А как лучше? Какой радиус буквы U брать или угол буквы V лучше? На эти вопросы помогла ответить #LSDYNA. Примечательно, что расчет выполнялся в #SPH постановке, которая раньше подробно разбиралась на канале (есть видео уроки). Так же под видео есть ссылки на научные статьи по данному исследованию.&lt;/p&gt;
+&lt;p&gt;#blast&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0Q-5dAiPcwE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=0Q-5dAiPcwE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0Q-5dAiPcwE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Blast response of centrally and eccentrically loaded flat-, U-, and V-shaped armored plates&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Интересную тему подсказали мне коллеги - штамповка взрывом.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-18-interesnuyu-temu-podskazali-mne-kollegi/</link>
       <pubDate>Mon, 18 Jul 2016 06:30:04 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-07-18-interesnuyu-temu-podskazali-mne-kollegi/</guid>
-      <description>&lt;p&gt;Так как задача поставлена в ANSYS Workbech LS-DYNA ACT 17.0, то входной файл получился немного грязный, зато есть параметрический проект.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-18-interesnuyu-temu-podskazali-mne-kollegi/</guid>
+      <description>&lt;p&gt;Примером такого процесса является Explosion Bulge Test. В ходи данного испытания ударная волна от подрыва сферического зарада распространяется через жидкости или газ до детали. Я решил набросать пример такого расчета в LS-DYNA, а заодно нашел статью с решением подобных задач.&lt;/p&gt;
+&lt;p&gt;Так как задача поставлена в ANSYS Workbech LS-DYNA ACT 17.0, то входной файл получился немного грязный, зато есть параметрический проект.&lt;/p&gt;
 &lt;p&gt;video &lt;a href=&#34;https://www.youtube.com/watch?v=ZplZXHB4knk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ZplZXHB4knk&lt;/a&gt;
 input.k &lt;a href=&#34;http://lnk.al/1ILR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILR&lt;/a&gt;
 ebt.wbpz &lt;a href=&#34;http://lnk.al/1ILQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILQ&lt;/a&gt;
 статья &lt;a href=&#34;http://lnk.al/1ILS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ZplZXHB4knk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Explosion Bulge Test in LS-DYNA ALE-MM&lt;/a&gt;
+&lt;a href=&#34;http://lnk.al/1ILR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILR&lt;/a&gt;
+&lt;a href=&#34;http://lnk.al/1ILQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILQ&lt;/a&gt;
+&lt;a href=&#34;http://lnk.al/1ILS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILS&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Создатели модели бетона #KCC для #LSDYNA еще и эксперименты </title>
-      <link>http://localhost:1313/posts/2016-05-23-sozdateli-modeli-betona-kcc-dlya-lsdyna/</link>
+      <title>Создатели модели бетона #KCC для #LSDYNA еще и эксперименты хорошие ставят.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-23-sozdateli-modeli-betona-kcc-dlya-lsdyna/</link>
       <pubDate>Mon, 23 May 2016 12:48:43 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-05-23-sozdateli-modeli-betona-kcc-dlya-lsdyna/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-23-sozdateli-modeli-betona-kcc-dlya-lsdyna/</guid>
+      <description>&lt;p&gt;На этот раз они бахнули взрывозащитную стену.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0kKmvzjshGc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;K&amp;amp;C: Test of Blast Resistant Curtain Wall System&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>ООО «Газпром ВНИИГАЗ» тоже выбирает ANSYS и LS-DYNA. Хороший</title>
-      <link>http://localhost:1313/posts/2016-01-21-ooo-gazprom-vniigaz-tozhe-vybiraet-ansy/</link>
+      <title>ООО «Газпром ВНИИГАЗ» тоже выбирает ANSYS и LS-DYNA.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-21-ooo-gazprom-vniigaz-tozhe-vybiraet-ansy/</link>
       <pubDate>Thu, 21 Jan 2016 06:30:19 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-01-21-ooo-gazprom-vniigaz-tozhe-vybiraet-ansy/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-21-ooo-gazprom-vniigaz-tozhe-vybiraet-ansy/</guid>
+      <description>&lt;p&gt;Хороший пример их статьи.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Просто удраная волна в LS-DYNA вышла погулять</title>
-      <link>http://localhost:1313/posts/2015-11-08-prosto-udranaya-volna-v-ls-dyna-vyshla-pog/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-08-prosto-udranaya-volna-v-ls-dyna-vyshla-pog/</link>
       <pubDate>Sun, 08 Nov 2015 07:00:06 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-08-prosto-udranaya-volna-v-ls-dyna-vyshla-pog/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-08-prosto-udranaya-volna-v-ls-dyna-vyshla-pog/</guid>
+      <description>&lt;p&gt;Просто удраная волна в LS-DYNA вышла погулять&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=QDtF8O7bVIg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;bast wave LS-DYNA&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Сравнительно новая, но многообещающая методика расчета возде</title>
-      <link>http://localhost:1313/posts/2015-10-07-sravnitelno-novaya-no-mnogoobeschayuschaya-me/</link>
+      <title>Сравнительно новая, но многообещающая методика расчета воздействия взрыв на объекты на основе метода взрыва частиц (particle blast method, PBM).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-07-sravnitelno-novaya-no-mnogoobeschayuschaya-me/</link>
       <pubDate>Wed, 07 Oct 2015 06:30:16 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-07-sravnitelno-novaya-no-mnogoobeschayuschaya-me/</guid>
-      <description>&lt;p&gt;В связке с DEM метод PBM может быть использован для моделирования осколочного воздействия.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-07-sravnitelno-novaya-no-mnogoobeschayuschaya-me/</guid>
+      <description>&lt;p&gt;Данный подход является расширением метода корпускулярный частиц (corpuscular particle method, CPM) изначально был реализованного в LS-DYNA для моделирования подушек безопастности. Метод работает в лагранжевой домене, что существенно упрощает постановку задачи.&lt;/p&gt;
+&lt;p&gt;В связке с DEM метод PBM может быть использован для моделирования осколочного воздействия.&lt;/p&gt;
 &lt;p&gt;В статье PBM показывает себя более эффективным, с вычислительной точки зрения. Кроме того, есть существенные преимущества по точности в сравнении с классическим моделированию взрыва в эйлеровом домене.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=87WoUVN-_1Q&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Particle_blast for mine blast simulation in LS-DYNA&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=_fibrw5JW4E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Blast fragmentation of a mortar cylinder using LS-DYNA&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

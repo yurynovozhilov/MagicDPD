@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ASPH on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/asph/</link>
+    <description>MagicDPD: Magic Driven Product Development! (ASPH)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 28 Sep 2022 18:00:05 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/asph/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#LLNL опубликовали новое научное исследование для #DART, в ходе которого они рассказали, как определять механические свойства астероидов по итогам испытанный на удар.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-28-llnl-opublikovali-novoe-nauchnoe-issledo/</link>
+      <pubDate>Wed, 28 Sep 2022 18:00:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-28-llnl-opublikovali-novoe-nauchnoe-issledo/</guid>
+      <description>&lt;p&gt;Моделирование проводилось в их коде собственной разработки #Spheral, работающем на основе адаптивного метода гидродинамики сглаженных частиц (Adaptive Smoothed Particle Hydrodynamics, #ASPH)&lt;/p&gt;
+&lt;p&gt;Научная статья: &lt;a href=&#34;https://arxiv.org/abs/2209.11876&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://arxiv.org/abs/2209.11876&lt;/a&gt; &lt;a href=&#34;https://youtu.be/VfXjFkA5mwI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/VfXjFkA5mwI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2209.11876&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://arxiv.org/abs/2209.11876&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/VfXjFkA5mwI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/VfXjFkA5mwI&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SPH в LS-DYNA - обзорный доклад DYNAmore</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-19-sph-v-ls-dyna-obzornyy-doklad-dynamore/</link>
+      <pubDate>Fri, 19 Mar 2021 13:01:41 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-19-sph-v-ls-dyna-obzornyy-doklad-dynamore/</guid>
+      <description>&lt;p&gt;SPH в LS-DYNA - обзорный доклад DYNAmore&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=pwdoZfi9OBA&amp;amp;t=1624s&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=pwdoZfi9OBA&amp;t=1624s&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Обзорный интересный доклад о применении гидродинамики сглаженных частиц в LS-DYNA. Есть слайды про основные формулировки, реализованных в решателе: несколько вариантов эйлеровой формулировки, лагранжева постановка, SPH с адаптивным (деформируемым) ядром (ASPH, Adaptive SPH), SPH с неявной схемой интегрирования (ISPH) и устойчивый к растяжению SPH со сглаживанием методом наименьших квадратов в скользящем окне (MLS, Moving least-squares).&lt;/p&gt;
+&lt;p&gt;#asph #dynamore #isph #ls-dyna #mls #sph
+&lt;a href=&#34;https://tinyurl.com/yg2pg8ls&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yg2pg8ls&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=pwdoZfi9OBA&amp;amp;t=1624s&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DYNAmore Express: Beyond FEA - Smoothed Particle Hydrodynamics (SPH)&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yg2pg8ls&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yg2pg8ls&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,35 +1,109 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DEM on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/dem/</link>
-    <description>MagicDPD: Magic Driven Product Development! (DEM)</description>
+    <title>Dem on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/dem/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Dem)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 16 Sep 2021 18:31:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 May 2022 18:00:08 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/dem/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/dem/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Южнокорейская компания #Metariver Technology Co., Ltd показала интересное.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-05-25-yuzhnokoreyskaya-kompaniya-metariver-techno/</link>
+      <pubDate>Wed, 25 May 2022 18:00:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-05-25-yuzhnokoreyskaya-kompaniya-metariver-techno/</guid>
+      <description>&lt;p&gt;Прежде всего эта компания известна разработкой своего  решателя #Samadii-DEM. Данный #DEM код везде показывает свою отличительную фишку - учет влияния магнитных полей на движение частиц. Это было интересно.&lt;/p&gt;
+&lt;p&gt;Теперь же Metariver взяли и выкатили поддержку #MPS (Moving Particle Semi-Implicit Method), что, при правильно реализации, позволит выполнять #CFD расчеты намного точнее чем традиционный #SPH.&lt;/p&gt;
+&lt;p&gt;#meshless&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/eXCe5LgOTH0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/eXCe5LgOTH0&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/6-rN7ABWbkM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/6-rN7ABWbkM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/eXCe5LgOTH0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/eXCe5LgOTH0&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/6-rN7ABWbkM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/6-rN7ABWbkM&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bullet Constraints Builder</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-08-bullet-constraints-builder/</link>
+      <pubDate>Tue, 08 Feb 2022 17:00:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-08-bullet-constraints-builder/</guid>
+      <description>&lt;p&gt;Bullet Constraints Builder
+Финский Университет прикладных наук Лауреа принимает участие в финансируемом ЕС проекте под названием Inachus. Проект в целом рассматривает меры по улучшению первого реагирования в случае катастрофических событий, таких как землетрясения, взрывы и т.д.&lt;/p&gt;
+&lt;p&gt;Особой частью этого проекта является моделирование последствий катастрофических событий сооружений гражданского строительства. В рамках трехлетнего проекта Laurea исследует применение метода дискретных элементов #DEM для виртуального моделирования разрушающихся строительных конструкций. Подход DEM будет сравниваться с методом конечных элементов #FEM и методом прикладных элементов #AEM.&lt;/p&gt;
+&lt;p&gt;В рамках проекта разрабатывается движок - дополнение #Bullet в #Blender.  Дополнение позволит приписывать реалистичные прочностные свойства моделям.&lt;/p&gt;
+&lt;p&gt;#Kostack Studio &lt;a href=&#34;https://www.youtube.com/watch?v=eh3qUmNxC6E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=eh3qUmNxC6E&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=eh3qUmNxC6E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Blender Demolition - Case Study: World Trade Center (slowed down)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Algoryx Momentum для сыпучего</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-12-03-algoryx-momentum-dlya-sypuchego/</link>
+      <pubDate>Fri, 03 Dec 2021 15:01:10 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-12-03-algoryx-momentum-dlya-sypuchego/</guid>
+      <description>&lt;p&gt;Algoryx Momentum для сыпучего&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/NnPA6V_iA6I?list=PLjNYiWVbHKRxD1cQRw79IpGTysRGQSLx5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/NnPA6V_iA6I?list=PLjNYiWVbHKRxD1cQRw79IpGTysRGQSLx5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#algoryx #dem #momentum
+&lt;a href=&#34;https://tinyurl.com/yxfggqhw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yxfggqhw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/NnPA6V_iA6I?list=PLjNYiWVbHKRxD1cQRw79IpGTysRGQSLx5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Algoryx Momentum - Design, test and show mechanical function&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yxfggqhw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yxfggqhw&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dawn-AM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-11-26-dawn-am/</link>
+      <pubDate>Fri, 26 Nov 2021 15:18:29 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-11-26-dawn-am/</guid>
+      <description>&lt;p&gt;Dawn-AM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=AEkmhqu7lYQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=AEkmhqu7lYQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Любопытный код от исследовательской группы Технического университета Эйндховена, изучающей механические свойства сложных инженерных материалов, таких как композиты, армированные волокнами, и 3D-печатные материалы для легких автомобильных и аэрокосмических применений.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Xrj2uXI-Fa0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Xrj2uXI-Fa0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;У них есть свой прочностной код Dawn, и его вариация для аддитивки - Dawn-AM. Код моделирует процесс послойного плавления металлов в SLM машинах через склеивание DEM частиц. Идея не плохая, но вот только частицы, кажется, надо использовать на несколько порядков более мелкие.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ARqhJ6XYYU4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ARqhJ6XYYU4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=C_rB6wt55qs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=C_rB6wt55qs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Сайт группы: &lt;a href=&#34;https://www.tue.nl/en/research/research-groups/mechanics-of-materials/group-remmers/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.tue.nl/en/research/research-groups/mechanics-of-materials/group-remmers/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#additive_manufacturing #dawn #dem
+&lt;a href=&#34;https://tinyurl.com/y4vqchp7&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y4vqchp7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=AEkmhqu7lYQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Discrete Element Simulation of a Powderbed Based Additive Manufacturing Process&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=Xrj2uXI-Fa0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Xrj2uXI-Fa0&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=ARqhJ6XYYU4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ARqhJ6XYYU4&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=C_rB6wt55qs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=C_rB6wt55qs&lt;/a&gt;
+&lt;a href=&#34;https://www.tue.nl/en/research/research-groups/mechanics-of-materials/group-remmers/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.tue.nl/en/research/research-groups/mechanics-of-materials/group-remmers/&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/y4vqchp7&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y4vqchp7&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Метод связанных частиц в механике горных пород</title>
-      <link>http://localhost:1313/posts/2021-09-16-metod-svyazannyh-chastits-v-mehanike-gornyh/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-16-metod-svyazannyh-chastits-v-mehanike-gornyh/</link>
       <pubDate>Thu, 16 Sep 2021 18:31:23 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-09-16-metod-svyazannyh-chastits-v-mehanike-gornyh/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=AgssizDIRDk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=AgssizDIRDk&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-16-metod-svyazannyh-chastits-v-mehanike-gornyh/</guid>
+      <description>&lt;p&gt;Метод связанных частиц в механике горных пород&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=AgssizDIRDk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=AgssizDIRDk&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Вебинар доктора Дэвида Потионди (Dr. David Potyondy) содержит обзор возможностей и потенциальных путей развития метода связанных частиц элементов (Bonded-Particle Modeling, BPM). Рассказ идет с прицелом на использование метода области механики горных пород. Презентация сделана в рамках виртуального семинара для Научно-исследовательской группы по многомасштабной механике (Multiscale Mechanics Research Group) в Университете Твенте (University of Twente) в Энсхеде, Нидерланды (Enschede, Netherlands).&lt;/p&gt;
 &lt;p&gt;#bpm #dem #itasca #mining #spg
+&lt;a href=&#34;https://tinyurl.com/yz57fs36&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yz57fs36&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=AgssizDIRDk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Webinar: The Bonded-Particle Model as a Tool for Rock Mechanics Research and Application&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/yz57fs36&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yz57fs36&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Новые DEM подходы к моделированю хрупкого разрушения трещено</title>
-      <link>http://localhost:1313/posts/2021-09-06-novye-dem-podhody-k-modelirovanyu-hrupkog/</link>
+      <title>Новые DEM подходы к моделированю хрупкого разрушения трещеноватых материалов</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-06-novye-dem-podhody-k-modelirovanyu-hrupkog/</link>
       <pubDate>Mon, 06 Sep 2021 13:04:28 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-09-06-novye-dem-podhody-k-modelirovanyu-hrupkog/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-06-novye-dem-podhody-k-modelirovanyu-hrupkog/</guid>
       <description>&lt;p&gt;Используя математическое моделирование, можно получить представление о процессе разрушения хрупких неоднородных материалов без необходимости проведения дорогостоящих, сложных или даже невозможных экспериментов. Хрупкие и гетерогенные материалы, такие как горные породы, обычно демонстрируют большой разброс экспериментальных данных, поэтому существует необходимость в стохастической модели, которая могла бы имитировать такое поведение. В данной работе предлагается и оценивается новый численный подход, основанный на методе связанных дискретных элементов (Bonded Discrete Element Method), для моделирования неоднородных хрупких материалов. Модель имеет два основных источника данных о структуре материала.&lt;/p&gt;
 &lt;p&gt;Во-первых, зерна строятся как эллипсоидальные подмножества сферических дискретных элементов. Размеры и формы этих эллипсоидных подмножеств рандомизированы, что вносит неоднородность в форму зерен Во-вторых, микромеханические параметры составляющих частиц зерен задаются распределением Вейбулла. Модель была применена к Бразильскому тесту, где зарождение, распространение и ветвление трещин были исследованы для различных наборов прочностей, зернистости и неоднородностей бетонного образца. Было обнаружено, что зарождение и распространение трещин сильно зависит от уровня неоднородности и прочности бетона.&lt;/p&gt;
 &lt;p&gt;В частности, было обнаружено, что количество трещин, начинающихся от контакта с нагрузкой, преобладает в случаях с более высокой прочностью бетона и низкой неоднородностью, в то время как для случаев с более низкой прочностью бетона и высокой неоднородностью была обнаружена более серьезная зигзагообразная форма трещин. В целом, было установлено, что предложенная модель способна отражать типичные явления, связанные с хрупкими гетерогенными материалами, например, непредсказуемость прочности при растяжении и свойств трещин.&lt;/p&gt;
@@ -37,84 +111,529 @@
 &lt;p&gt;Оригинальная статья: &lt;a href=&#34;https://link.springer.com/article/10.1007/s40571-021-00434-w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://link.springer.com/article/10.1007/s40571-021-00434-w&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#concrete #dem #fracture
 &lt;a href=&#34;https://tinyurl.com/yzl6s3v7&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzl6s3v7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/article/10.1007/s40571-021-00434-w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;A statistical DEM approach for modelling heterogeneous brittle materials&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yzl6s3v7&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzl6s3v7&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Полномасштабное моделирование и проверка износа ковша горной</title>
-      <link>http://localhost:1313/posts/2021-06-17-polnomasshtabnoe-modelirovanie-i-proverka/</link>
+      <title>Полномасштабное моделирование и проверка износа ковша горной канатной лопаты</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-06-17-polnomasshtabnoe-modelirovanie-i-proverka/</link>
       <pubDate>Thu, 17 Jun 2021 13:01:41 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-06-17-polnomasshtabnoe-modelirovanie-i-proverka/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-06-17-polnomasshtabnoe-modelirovanie-i-proverka/</guid>
       <description>&lt;p&gt;Публикация по итогам кандидатской работы из Швеции. Коллеги смоделировали износ ковша горной канатной лопаты. Истирание происходило из-за взаимодействия со смесью DEM и Rigid тел произвольной формы. Все это считалось в моей любимой LS-DYNA.  Отличный расчет с экспериментальным подтверждением.&lt;/p&gt;
 &lt;p&gt;Ссылка на научную публикацию: &lt;a href=&#34;https://www.mdpi.com/2075-163X/11/6/623&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.mdpi.com/2075-163X/11/6/623&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Ссылка на LinkedIn пост с анимацией процесса: &lt;a href=&#34;https://www.linkedin.com/posts/andreas-svanberg-0b727786_dem-simulations-boliden-activity-6809103345618345985-0xik&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.linkedin.com/posts/andreas-svanberg-0b727786_dem-simulations-boliden-activity-6809103345618345985-0xik&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ansys #dem #ls-dyna #wear
 &lt;a href=&#34;https://tinyurl.com/yhugt89f&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yhugt89f&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mdpi.com/2075-163X/11/6/623&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Full-Scale Simulation and Validation of Wear for a Mining Rope Shovel Bucket&lt;/a&gt;
+&lt;a href=&#34;https://www.linkedin.com/posts/andreas-svanberg-0b727786_dem-simulations-boliden-activity-6809103345618345985-0xik&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.linkedin.com/posts/andreas-svanberg-0b727786_dem-simulations-boliden-activity-6809103345618345985-0xik&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yhugt89f&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yhugt89f&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Полномасштабное моделирование работ карьерного экскаватора в</title>
-      <link>http://localhost:1313/posts/2020-11-04-polnomasshtabnoe-modelirovanie-rabot-kar/</link>
+      <title>DEM для газонокосилок</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-01-20-dem-dlya-gazonokosilok/</link>
+      <pubDate>Wed, 20 Jan 2021 13:01:56 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-01-20-dem-dlya-gazonokosilok/</guid>
+      <description>&lt;p&gt;DEM для газонокосилок&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=YTLOXbANQ48&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=YTLOXbANQ48&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Очередной заход Rocky DEM в ту область, где, казалось бы, нет никаких дискретных частиц. Но почему бы нам не представить траву как частицы-волокна? И мы получаем моделирование работы газонокосилки (с учетом CFD).&lt;/p&gt;
+&lt;p&gt;#dem #fsi #rocky
+&lt;a href=&#34;https://tinyurl.com/yyj3zpjf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yyj3zpjf&lt;/a&gt;
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=YTLOXbANQ48&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Riding lawnmower simulation with CFD-DEM coupling&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yyj3zpjf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yyj3zpjf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-DYNA DEM и выстрел из дробовика</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-12-30-ls-dyna-dem-i-vystrel-iz-drobovika/</link>
+      <pubDate>Wed, 30 Dec 2020 13:00:15 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-12-30-ls-dyna-dem-i-vystrel-iz-drobovika/</guid>
+      <description>&lt;p&gt;LS-DYNA DEM и выстрел из дробовика&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/ls-dyna-dem-shoutgun/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LS-DYNA DEM и выстрел из дробовика - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SudoDEM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-11-23-sudodem/</link>
+      <pubDate>Mon, 23 Nov 2020 15:23:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-11-23-sudodem/</guid>
+      <description>&lt;p&gt;SudoDEM
+#DEM #Open_Source #sudodem
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/sudodem/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SudoDEM - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Полномасштабное моделирование работ карьерного экскаватора в комбинированной FE-DEM постановке</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-11-04-polnomasshtabnoe-modelirovanie-rabot-kar/</link>
       <pubDate>Wed, 04 Nov 2020 13:00:33 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-11-04-polnomasshtabnoe-modelirovanie-rabot-kar/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-11-04-polnomasshtabnoe-modelirovanie-rabot-kar/</guid>
       <description>&lt;p&gt;#DEM #LS_DYNA #LS_PrePost
 by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/full-scale-modeling-of-mining-excavator-works-in-combined-fe-dem-staging/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Полномасштабное моделирование работ карьерного экскаватора в комбинированной FE-DEM постановке - Mag&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Расчет «тераформирования» в реальном времени благодаря гибри</title>
-      <link>http://localhost:1313/posts/2020-11-02-raschet-teraformirovaniya-v-realnom-vre/</link>
+      <title>Расчет «тераформирования» в реальном времени благодаря гибридной DEM постановке</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-11-02-raschet-teraformirovaniya-v-realnom-vre/</link>
       <pubDate>Mon, 02 Nov 2020 12:59:36 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-11-02-raschet-teraformirovaniya-v-realnom-vre/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-11-02-raschet-teraformirovaniya-v-realnom-vre/</guid>
       <description>&lt;p&gt;#AGX_Dynamics #Algoryx #ANSYS #DEM #SpaceClaim
 by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/terrain-dynamics-for-real-time-earthmoving-simulation/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Расчет &amp;ldquo;тераформирования&amp;rdquo; в реальном времени благодаря гибридной DEM постановке - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Newton DEM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-09-22-newton-dem/</link>
+      <pubDate>Tue, 22 Sep 2020 13:00:56 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-09-22-newton-dem/</guid>
+      <description>&lt;p&gt;Newton DEM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/newton-dem/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Newton DEM - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделируем ковер в Rocky DEM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-09-14-modeliruem-kover-v-rocky-dem/</link>
+      <pubDate>Mon, 14 Sep 2020 15:18:03 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-09-14-modeliruem-kover-v-rocky-dem/</guid>
+      <description>&lt;p&gt;Моделируем ковер в Rocky DEM
+#CFD #DEM #ESSS #FSI #Rocky
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/rocky-dem-carpet/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Моделируем ковер в Rocky DEM - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SimPARTIX от Фраунгоферовского института механики материалов</title>
-      <link>http://localhost:1313/posts/2020-03-10-simpartix-ot-fraungoferovskogo-instituta/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-10-simpartix-ot-fraungoferovskogo-instituta/</link>
       <pubDate>Tue, 10 Mar 2020 14:51:51 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-03-10-simpartix-ot-fraungoferovskogo-instituta/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-10-simpartix-ot-fraungoferovskogo-instituta/</guid>
+      <description>&lt;p&gt;SimPARTIX от Фраунгоферовского института механики материалов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/simpartix-by-fraunhoferiwm/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SimPARTIX от Фраунгоферовского института механики материалов - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование пресс-подборщика сена</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-04-modelirovanie-press-podborschika-sena/</link>
+      <pubDate>Wed, 04 Mar 2020 13:00:41 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-04-modelirovanie-press-podborschika-sena/</guid>
+      <description>&lt;p&gt;Моделирование пресс-подборщика сена&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/hay-baler-machine-simulation/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Моделирование пресс-подборщика сена - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Большие мальчики — большие игрушки</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-02-28-bolshie-malchiki-bolshie-igrushki/</link>
+      <pubDate>Fri, 28 Feb 2020 13:00:34 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-02-28-bolshie-malchiki-bolshie-igrushki/</guid>
+      <description>&lt;p&gt;Большие мальчики — большие игрушки&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/big-boys-big-toys/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Большие мальчики - большие игрушки - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>На санках с горки с EDEM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-12-25-na-sankah-s-gorki-s-edem/</link>
+      <pubDate>Wed, 25 Dec 2019 13:00:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-12-25-na-sankah-s-gorki-s-edem/</guid>
+      <description>&lt;p&gt;На санках с горки с EDEM
+#DEM #EDEM #simulationfriday
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/edem-holiday-race/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;На санках с горки с EDEM - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rocky DEM и жатва</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-12-12-rocky-dem-i-zhatva/</link>
+      <pubDate>Thu, 12 Dec 2019 13:00:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-12-12-rocky-dem-i-zhatva/</guid>
+      <description>&lt;p&gt;Rocky DEM и жатва&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/harvester-simulation-using-rocky-dem/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Rocky DEM и жатва - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Резка скальных пород</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-12-11-rezka-skalnyh-porod/</link>
+      <pubDate>Wed, 11 Dec 2019 13:02:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-12-11-rezka-skalnyh-porod/</guid>
+      <description>&lt;p&gt;Резка скальных пород&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/rock-cutting-process-simulation/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Резка скальных пород - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Altair покупает EDEM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-11-13-altair-pokupaet-edem/</link>
+      <pubDate>Wed, 13 Nov 2019 13:00:29 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-11-13-altair-pokupaet-edem/</guid>
+      <description>&lt;p&gt;Altair покупает EDEM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/altair-edem-acquisition/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Altair покупает EDEM - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>«Строительные задачи» с BECKER 3D</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-01-stroitelnye-zadachi-s-becker-3d/</link>
+      <pubDate>Sun, 01 Sep 2019 13:01:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-01-stroitelnye-zadachi-s-becker-3d/</guid>
+      <description>&lt;p&gt;«Строительные задачи» с BECKER 3D&lt;/p&gt;
+&lt;p&gt;BECKER 3D — DEM код, разработчики которого не скупятся не демонстрационные видео с примерами своих расчетов. На днях они высыпали целую кучу диво по дорожно-строитльной тематике.&lt;/p&gt;
+&lt;p&gt;#BECKER_3D #DEM #RBD&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2FL&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2FL&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2FL&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2FL&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DEM Offroad покатушки</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-17-dem-offroad-pokatushki/</link>
+      <pubDate>Sat, 17 Aug 2019 13:00:21 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-17-dem-offroad-pokatushki/</guid>
+      <description>&lt;p&gt;DEM Offroad покатушки&lt;/p&gt;
+&lt;p&gt;Серия видео с демонстрацией расчетов  Advanced Science and Automation Corporation поведения военных внедорожников на различных типах покрытия.&lt;/p&gt;
+&lt;p&gt;#ascience #DEM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2DW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2DW&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2DW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2DW&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MUSEN Simulations</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-23-musen-simulations/</link>
+      <pubDate>Tue, 23 Jul 2019 13:00:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-23-musen-simulations/</guid>
+      <description>&lt;p&gt;MUSEN Simulations&lt;/p&gt;
+&lt;p&gt;MUSEN Simulations — разработка профессора Максима Доста (Asst.-Prof. Maksym Dosta, &lt;a href=&#34;https://www.tuhh.de/spe/institute/staff/prof-maksym-dosta.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.tuhh.de/spe/institute/staff/prof-maksym-dosta.html&lt;/a&gt;) из Гамбургского технологического университета (TUHH). DEM код позволяет проводить очень интересные исследования разрушения тел.&lt;/p&gt;
+&lt;p&gt;#DEM #musen&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2C4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2C4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.tuhh.de/spe/institute/staff/prof-maksym-dosta.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.tuhh.de/spe/institute/staff/prof-maksym-dosta.html&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2C4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2C4&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пашем в Rocky DEM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-06-05-pashem-v-rocky-dem/</link>
+      <pubDate>Wed, 05 Jun 2019 17:00:28 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-06-05-pashem-v-rocky-dem/</guid>
+      <description>&lt;p&gt;Пашем в Rocky DEM&lt;/p&gt;
+&lt;p&gt;Пока «обычные» DEM коды показывают пример с шариками, Rocky DEM играет по-серьезному. Тут у нас моделирование процесса возделывания почвы: частицы сложной формы (возможно и с учетом упругих свойств частиц), твердотельный решатель для моделирования обрабатывающего инструмента.&lt;/p&gt;
+&lt;p&gt;#DEM #Rocky&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2xC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2xC&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2xC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2xC&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование работы дорожной техники</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-18-modelirovanie-raboty-dorozhnoy-tehniki/</link>
+      <pubDate>Sat, 18 May 2019 17:00:15 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-18-modelirovanie-raboty-dorozhnoy-tehniki/</guid>
+      <description>&lt;p&gt;Моделирование работы дорожной техники&lt;/p&gt;
+&lt;p&gt;Пример от EDEM и Xuzhou Construction Machinery Group (XCMG) показывающий возможность DEM постановки по моделированию работы дорожной техники: износ ковшей/ножей, усилия на оснастке, перемещение массивов грунта.&lt;/p&gt;
+&lt;p&gt;#DEM #EDEM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2wb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2wb&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2wb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2wb&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rocky DEM для горняков</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-22-rocky-dem-dlya-gornyakov/</link>
+      <pubDate>Mon, 22 Apr 2019 17:01:58 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-22-rocky-dem-dlya-gornyakov/</guid>
+      <description>&lt;p&gt;Rocky DEM для горняков&lt;/p&gt;
+&lt;p&gt;Запись вебинара «Практические аспекты применения Rocky DEM для моделирования оборудования горной промышленности» от 16.04.2019 (на русском языке)&lt;/p&gt;
+&lt;p&gt;#CADFEM #DEM #Rocky&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2ub&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2ub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2ub&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2ub&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Резка твердой породы в DEM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-18-rezka-tverdoy-porody-v-dem/</link>
+      <pubDate>Thu, 18 Apr 2019 17:01:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-18-rezka-tverdoy-porody-v-dem/</guid>
+      <description>&lt;p&gt;Резка твердой породы в DEM&lt;/p&gt;
+&lt;p&gt;Пример работы кода PFC2D шестой версии: моделирование резки горной породы с различными механическими свойствами.&lt;/p&gt;
+&lt;p&gt;Подробнее о возможностях кода на сайте разработчика: &lt;a href=&#34;https://www.itascacg.com/software/pfc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.itascacg.com/software/pfc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#DEM #Itasca #PFC2D&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2tU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2tU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.itascacg.com/software/pfc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.itascacg.com/software/pfc&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2tU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2tU&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Визуализация сил, действующих на грунт при движении техники</title>
-      <link>http://localhost:1313/posts/2019-03-25-vizualizatsiya-sil-deystvuyuschih-na-grunt-p/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-25-vizualizatsiya-sil-deystvuyuschih-na-grunt-p/</link>
       <pubDate>Mon, 25 Mar 2019 12:00:17 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-03-25-vizualizatsiya-sil-deystvuyuschih-na-grunt-p/</guid>
-      <description>&lt;p&gt;Очень интересная визуализация, выполненная самописным DEM кодом от UMIT Research Lab. Ну а к силам прилагаются и более привычные результаты.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-25-vizualizatsiya-sil-deystvuyuschih-na-grunt-p/</guid>
+      <description>&lt;p&gt;Визуализация сил, действующих на грунт при движении техники&lt;/p&gt;
+&lt;p&gt;Очень интересная визуализация, выполненная самописным DEM кодом от UMIT Research Lab. Ну а к силам прилагаются и более привычные результаты.&lt;/p&gt;
 &lt;p&gt;#DEM #UMIT_Research_Lab&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2rx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2rx&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2rx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2rx&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Оптимизация для задач динамики сыпучих сред</title>
-      <link>http://localhost:1313/posts/2018-07-07-optimizatsiya-dlya-zadach-dinamiki-sypuchih-s/</link>
-      <pubDate>Sat, 07 Jul 2018 18:00:44 +0000</pubDate>
+      <title>Актуальные возможности Rocky DEM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-09-aktualnye-vozmozhnosti-rocky-dem/</link>
+      <pubDate>Sat, 09 Mar 2019 12:00:42 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-07-07-optimizatsiya-dlya-zadach-dinamiki-sypuchih-s/</guid>
-      <description>&lt;p&gt;Большой вебинар от Dynardo GmbH по работе Rocky DEM в связке с их знаменитым оптимизатором optiSLang. Коллеги разбирают основные возможности софта и показывают, как строить оптимизационные проекты.&lt;/p&gt;
-&lt;p&gt;#DEM #Dynardo #Optimization #OptiSLang #Rocky
-&lt;a href=&#34;http://bit.ly/2u1Y5AW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2u1Y5AW&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-09-aktualnye-vozmozhnosti-rocky-dem/</guid>
+      <description>&lt;p&gt;Актуальные возможности Rocky DEM&lt;/p&gt;
+&lt;p&gt;Если изучать считать в Rocky, то весь мир вопкруг превшащается в набор DEM. Судите сами:&lt;/p&gt;
+&lt;p&gt;Частицы любой формы, «частицы» оболочки, волокна, ткани&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;1-way-FSI с ANSYS Fluent для моделирования шерсти в пылесосе «циклон»&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Трамбовка «сена»&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Шнек комбайна при уборке злаков&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Механизм подачи бревен на пилораме&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Упругая стека для отлова медведей :-)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;#DEM #Rocky&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2oS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2oS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2oS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2oS&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Компания Metariver Technology co., ltd (http://www.metariver</title>
-      <link>http://localhost:1313/posts/2017-11-26-kompaniya-metariver-technology-co-ltd/</link>
+      <title>Сельскохозяйственные расчеты</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-13-selskohozyaystvennye-raschety/</link>
+      <pubDate>Tue, 13 Nov 2018 17:00:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-13-selskohozyaystvennye-raschety/</guid>
+      <description>&lt;p&gt;Сельскохозяйственные расчеты
+На раз вскапываем поле&lt;/p&gt;
+&lt;p&gt;На два - уже сортируем урожай картошки&lt;/p&gt;
+&lt;p&gt;#DEM #Rocky
+&lt;a href=&#34;http://bit.ly/2RTvdV8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RTvdV8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2RTvdV8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RTvdV8&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-body motion в Rocky DEM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-28-multi-body-motion-v-rocky-dem/</link>
+      <pubDate>Sun, 28 Oct 2018 17:00:47 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-28-multi-body-motion-v-rocky-dem/</guid>
+      <description>&lt;p&gt;Multi-body motion в Rocky DEM
+Наконец кто-то смог показать демо по работе Rocky с твердотельными моделями. На мой взгляд, давно было надо такое посчитать.&lt;/p&gt;
+&lt;p&gt;На видео пример использования DEM для моделирования несущей способности слабых грунтов при проектировании вездеходного транспорта.&lt;/p&gt;
+&lt;p&gt;#DEM #Rocky
+&lt;a href=&#34;http://bit.ly/2EOlcXn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2EOlcXn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2EOlcXn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2EOlcXn&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BECKER 3D и их система ThreeParticle</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-19-becker-3d-i-ih-sistema-threeparticle/</link>
+      <pubDate>Fri, 19 Oct 2018 17:02:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-19-becker-3d-i-ih-sistema-threeparticle/</guid>
+      <description>&lt;p&gt;BECKER 3D и их система ThreeParticle
+Компания BECKER 3D GmbH (&lt;a href=&#34;https://www.becker3d.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.becker3d.com/&lt;/a&gt;) - еще один разработчик систем для расчетов сыпучих сред в DEM постановке.&lt;/p&gt;
+&lt;p&gt;Разрабатываемая ими система, носящая название ThreeParticle, может работать с частицами любой формы и даже учитывать их деформации. Однако, разрушения как Rocky DEM я в описании не увидел. Есть модели износа и даже есть возможность учета теплопроводности.&lt;/p&gt;
+&lt;p&gt;Коллеги также постоянно приговаривают, что для получения максимальной производительности используется машинное обучение, и тут не очень понятно, где оно нам может пригодится.&lt;/p&gt;
+&lt;p&gt;#BECKER3D #DEM #Rocky #ThreeParticle
+&lt;a href=&#34;http://bit.ly/2q2m6Fm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2q2m6Fm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.becker3d.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Discrete Element Method (DEM) Simulation Software with MBD, FEM and SPH&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2q2m6Fm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2q2m6Fm&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-DYNA DES</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-09-21-ls-dyna-des/</link>
+      <pubDate>Fri, 21 Sep 2018 17:01:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-09-21-ls-dyna-des/</guid>
+      <description>&lt;p&gt;LS-DYNA DES
+Видео от LSTC, знакомящее зрителей с работой DES (Discret Element Sphere) решателя, предназначенного для моделирования сыпучих сред. Фактически под DES скрывается обычный сферический DEM, но только с учетом прочих интересных возможностей LS-DYNA.&lt;/p&gt;
+&lt;p&gt;Данный материал не только знакомит с основами метода, но и даёт подробные инструкции о том, какие карты и как надо настраивать, чтобы провести расчет.&lt;/p&gt;
+&lt;p&gt;#DEM #DES #LSDYNA #LSTC
+&lt;a href=&#34;http://bit.ly/2xpua7t&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2xpua7t&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2xpua7t&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2xpua7t&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IMPC-2018</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-24-impc-2018/</link>
+      <pubDate>Fri, 24 Aug 2018 18:00:24 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-24-impc-2018/</guid>
+      <description>&lt;p&gt;IMPC-2018
+В середине сентября в Москве пройдет большая международная конференция / выставка посявещенная технологиям моделирования в области горного дела. На ней будут наши коллеги, занимающиеся сыпучими средами и Rocky DEM.
+Заходите к нам на чай :-)
+&lt;a href=&#34;https://www.cadfem-cis.ru/list/article/impc2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/list/article/impc2018/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#CADFEM #DEM #Mining #Rocky
+&lt;a href=&#34;http://bit.ly/2NeBsRo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NeBsRo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cadfem-cis.ru/list/article/impc2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/list/article/impc2018/&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2NeBsRo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NeBsRo&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оптимизация для задач динамики сыпучих сред</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-07-optimizatsiya-dlya-zadach-dinamiki-sypuchih-s/</link>
+      <pubDate>Sat, 07 Jul 2018 18:00:44 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-07-optimizatsiya-dlya-zadach-dinamiki-sypuchih-s/</guid>
+      <description>&lt;p&gt;Оптимизация для задач динамики сыпучих сред
+Большой вебинар от Dynardo GmbH по работе Rocky DEM в связке с их знаменитым оптимизатором optiSLang. Коллеги разбирают основные возможности софта и показывают, как строить оптимизационные проекты.&lt;/p&gt;
+&lt;p&gt;#DEM #Dynardo #Optimization #OptiSLang #Rocky
+&lt;a href=&#34;http://bit.ly/2u1Y5AW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2u1Y5AW&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2u1Y5AW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2u1Y5AW&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EDEM ACT для ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-01-edem-act-dlya-ansys/</link>
+      <pubDate>Sun, 01 Jul 2018 18:01:38 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-01-edem-act-dlya-ansys/</guid>
+      <description>&lt;p&gt;EDEM ACT для ANSYS
+В магазине ACT расширений ANSYS наконец появилось расширение для интеграции с DEM кодом EDEM. Все бы хорошо, но $6000, Карл! И это только для механики на 1 год. И я не понял: это только за расширение, или EDEM в эту цену тоже входит?
+&lt;a href=&#34;https://appstore.ansys.com/shop/ACTApps_act%20apps/EDEMforANSYS_apc-actapp-382&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/shop/ACTApps_act%20apps/EDEMforANSYS_apc-actapp-382&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS #DEM #EDEM #Mechanical
+&lt;a href=&#34;http://bit.ly/2MCI4YV&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2MCI4YV&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/shop/ACTApps_act%20apps/EDEMforANSYS_apc-actapp-382&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/shop/ACTApps_act%20apps/EDEMforANSYS_apc-actapp-382&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2MCI4YV&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2MCI4YV&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование гидроабразивной резки</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-02-modelirovanie-gidroabrazivnoy-rezki/</link>
+      <pubDate>Wed, 02 May 2018 17:47:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-02-modelirovanie-gidroabrazivnoy-rezki/</guid>
+      <description>&lt;p&gt;Моделирование гидроабразивной резки&lt;/p&gt;
+&lt;p&gt;В чем бы нам это посчитать? Конечно в LS-DYNA
+m.youtube.com/watch
+#DEM #FSI #LS-DYNA #LSTC&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1NZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1NZ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://m.youtube.com/watch?v=kgrrS6uy4EE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Modeling the Abrasive Water jet Cutting in the LS-DYNA. Video tutorial (incomplete)&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-1NZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1NZ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование шаровой засыпки в LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-10-modelirovanie-sharovoy-zasypki-v-ls-dyna/</link>
+      <pubDate>Tue, 10 Apr 2018 18:01:07 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-10-modelirovanie-sharovoy-zasypki-v-ls-dyna/</guid>
+      <description>&lt;p&gt;Моделирование шаровой засыпки в LS-DYNA
+Неплохие результаты расчетов в DEM постановке опубликовал на днях Дмитрий Бирин. Считали, как водится, в LS-DYNA&lt;/p&gt;
+&lt;p&gt;#DEM #LSDYNA
+&lt;a href=&#34;https://is.gd/WfIZN2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://is.gd/WfIZN2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://is.gd/WfIZN2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://is.gd/WfIZN2&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Переход от VOF к DPM во Fluent 19.0</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-02-perehod-ot-vof-k-dpm-vo-fluent-190/</link>
+      <pubDate>Fri, 02 Mar 2018 09:41:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-02-perehod-ot-vof-k-dpm-vo-fluent-190/</guid>
+      <description>&lt;p&gt;Переход от VOF к DPM во Fluent 19.0
+Очередная крутая функция ANSYS Fluent 19.0 — теперь для расчета распыления.&lt;/p&gt;
+&lt;p&gt;В версии  19 главный CFD код от ANSYS получил интересную возможность.&lt;/p&gt;
+&lt;p&gt;Теперь для более точного и быстрого расчета распыла он может переводить кали, которые получаются в VOF модели в DPM частицы — читай считать их как DEM. Таким образом решатель больше не ограничен снизу размером сетки как ограничителем объема капель.&lt;/p&gt;
+&lt;p&gt;ANSYS Fluent 19 Speeds CFD Spray Simulations&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys-blog.com/fluent-19-speeds-cfd-spray-simulations/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys-blog.com/fluent-19-speeds-cfd-spray-simulations/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#EDEM совместно с Дальневосточным университетом путей сообщения показал, что при помощи #DEM можно считать не только сыпучие среды.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-13-edem-sovmestno-s-dalnevostochnym-univer/</link>
+      <pubDate>Wed, 13 Dec 2017 18:12:42 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-13-edem-sovmestno-s-dalnevostochnym-univer/</guid>
+      <description>&lt;p&gt;На видео приведены примеры расчетов полиуретановых геосеток.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2AAMNZH&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2AAMNZH&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2ymVuku&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ymVuku&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2AzPcDT&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2AzPcDT&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2ynvTYxMedia&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ynvTYxMedia&lt;/a&gt;📼 Rupture of Geogrid (DEM Simulation)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2ymYPQw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ymYPQw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2jcbmDU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2jcbmDU&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2w8Jaqb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2w8Jaqb&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2ynNPC9&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ynNPC9&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2ymVuku&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ymVuku&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2AzPcDT&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2AzPcDT&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2ynvTYx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ynvTYx&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2AC3hk9&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2AC3hk9&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2ymYPQw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ymYPQw&lt;/a&gt;
+ttp://ift.tt/2ymYPQw&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Компания Metariver Technology co., ltd (http://www.metariver.kr) специлизируется на создани #CAE софта #samadii максмально использующего возможности библиотеки #CUDA и графический чипов #NVIDIA.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-26-kompaniya-metariver-technology-co-ltd/</link>
       <pubDate>Sun, 26 Nov 2017 17:09:23 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-26-kompaniya-metariver-technology-co-ltd/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-26-kompaniya-metariver-technology-co-ltd/</guid>
       <description>&lt;p&gt;Сейчас у них есть:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;samadii/sciv (Statistical Contact in Vacuum) - моделирование процессов в вакуумных приборах методом Monte Carlo&lt;/li&gt;
@@ -126,47 +645,382 @@ by Юрий Новожилов&lt;/p&gt;
 &lt;p&gt;#HPC
 &lt;a href=&#34;https://youtu.be/xXG3JbT0AQkMediaMediaMediaMedia&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/xXG3JbT0AQkMediaMediaMediaMedia&lt;/a&gt;📼 samadii, Metariver Technology&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ift.tt/2i8z0RZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i8z0RZ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.metariver.kr/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.metariver.kr/&lt;/a&gt;
+&lt;a href=&#34;http://www.metariver.kr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.metariver.kr&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vdfLMH&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vdfLMH&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2k1zPg6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2k1zPg6&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wlSEjf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wlSEjf&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wLNTgc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wLNTgc&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2w8Jaqb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2w8Jaqb&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2v2FNSC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2v2FNSC&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xHbRIl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xHbRIl&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2emhAvW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2emhAvW&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/xXG3JbT0AQk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/xXG3JbT0AQk&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2i75L2f&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i75L2f&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2k1A8HM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2k1A8HM&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2i8fQvv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i8fQvv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2k1JqmW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2k1JqmW&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2i8z0RZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i8z0RZ&lt;/a&gt;
+ttp://ift.tt/2i8z0RZ&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Увидел свет обновленный #EDEM 2018. Из наиболее заметных нов</title>
-      <link>http://localhost:1313/posts/2017-10-17-uvidel-svet-obnovlennyy-edem-2018-iz-n/</link>
+      <title>Пример связанной работы #DEM, #CFD и #FEM решателя в #LSDYNA. #IСАВ #FSI</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-17-primer-svyazannoy-raboty-dem-cfd-i-fe/</link>
+      <pubDate>Fri, 17 Nov 2017 17:06:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-17-primer-svyazannoy-raboty-dem-cfd-i-fe/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jAN&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jAN&lt;/a&gt;…Media📼 CFD Simulation Coupled to DEM for a Rotating Mecha…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2jAWcbX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2jAWcbX&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2w8Jaqb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2w8Jaqb&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2v2FNSC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2v2FNSC&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wHGYaz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wHGYaz&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vlBJYZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlBJYZ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2hFFV53&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hFFV53&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wHTKG5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wHTKG5&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=jANFupj02Dc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jANFupj02Dc&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2hIWMUp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hIWMUp&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2jAWcbX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2jAWcbX&lt;/a&gt;
+ttp://ift.tt/2jAWcbX&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Увидел свет обновленный #EDEM 2018. Из наиболее заметных нововведений: возможность интегрироваться с #Abaqus и #RecurDyn - это в добавление к существовавшей связке с #ANSYS, #MSC и #Siemens.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-17-uvidel-svet-obnovlennyy-edem-2018-iz-n/</link>
       <pubDate>Tue, 17 Oct 2017 17:19:15 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-10-17-uvidel-svet-obnovlennyy-edem-2018-iz-n/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-17-uvidel-svet-obnovlennyy-edem-2018-iz-n/</guid>
       <description>&lt;p&gt;#DEM&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.cfdreview.com/article.pl?sid=17/10/04/159246&amp;amp;rss=1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.cfdreview.com/article.pl?sid=17/10/04/159246&amp;rss=1&lt;/a&gt; 🔗 CFD Review | EDEM 2018 Focuses on Productivity Enhancements&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2jcbmDU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2jcbmDU&lt;/a&gt;
+&lt;a href=&#34;http://www.cfdreview.com/article.pl?sid=17/10/04/159246&amp;amp;rss=1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.cfdreview.com/article.pl?sid=17/10/04/159246&amp;rss=1&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>История того, как #EDEM помог Министерству образования и нау</title>
-      <link>http://localhost:1313/posts/2017-08-19-istoriya-togo-kak-edem-pomog-ministerst/</link>
+      <title>Андрей улыбается, потому что он знает - нет ничего лучше для майнинга, чем #NVIDIA #GeForce 1080Ti. А майнинг в случае Андрей - это, прям по словарю, добыча. По предварительным оценкам #ESSS #Rocky #DEM ускорился а 57 раз (Карл!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-03-andrey-ulybaetsya-potomu-chto-on-znaet/</link>
+      <pubDate>Tue, 03 Oct 2017 15:14:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-03-andrey-ulybaetsya-potomu-chto-on-znaet/</guid>
+      <description>&lt;p&gt;!!) #HPCMedia&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2xOzL8P&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xOzL8P&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2wLNTgc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wLNTgc&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xOoSE1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xOoSE1&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2fOkNZk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2fOkNZk&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xOzJ0H&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xOzJ0H&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2w8Jaqb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2w8Jaqb&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2emhAvW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2emhAvW&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2fNYfYy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2fNYfYy&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xOzL8P&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xOzL8P&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>14 сентября #EDEM устраивает вебинаров по работе их #DEM кода в связке с #ANSYS #Mechanical.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-09-14-sentyabrya-edem-ustraivaet-vebinarov-p/</link>
+      <pubDate>Sat, 09 Sep 2017 17:03:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-09-14-sentyabrya-edem-ustraivaet-vebinarov-p/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.edemsimulation.com/adding-realistic-loads-in-ansys-fea-with-bulk-material-simulation-webinar-140917&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.edemsimulation.com/adding-realistic-loads-in-ansys-fea-with-bulk-material-simulation-webinar-140917&lt;/a&gt; 🔗 Adding realistic loads in ANSYS FEA with bulk material simulation - Webinar&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2jcbmDU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2jcbmDU&lt;/a&gt;
+&lt;a href=&#34;https://www.edemsimulation.com/adding-realistic-loads-in-ansys-fea-with-bulk-material-simulation-webinar-140917&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.edemsimulation.com/adding-realistic-loads-in-ansys-fea-with-bulk-material-simulation-webinar-140917&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#Algoryx #AGX #Dynamics демонстрируют реализацию реалистичного метода разрушения объектов на основе сеток Воронова.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-03-algoryx-agx-dynamics-demonstriruyut-re/</link>
+      <pubDate>Sun, 03 Sep 2017 17:06:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-03-algoryx-agx-dynamics-demonstriruyut-re/</guid>
+      <description>&lt;p&gt;Такой подход довольно часто встречается при #DEM моделировании.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=PPE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=PPE&lt;/a&gt;…Media📼 Real time fracture simulation&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2xHqtIA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xHqtIA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2xnp4qs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xnp4qs&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2w828gj&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2w828gj&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2x39Fi8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2x39Fi8&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2w8Jaqb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2w8Jaqb&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=PPEtbHMryqo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=PPEtbHMryqo&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2x39L9u&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2x39L9u&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xHqtIA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xHqtIA&lt;/a&gt;
+ttp://ift.tt/2xHqtIA&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новые возможности #AGX Dynamics от #Algoryx по моделированию грунтов. Очень интересная связка с переходом грунта из континуальный постановки в некое подобие #DEM и обратно. Или это просто фишка постпроцессора с восстановлением гладкой свободной поверхности?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-27-novye-vozmozhnosti-agx-dynamics-ot-algo/</link>
+      <pubDate>Sun, 27 Aug 2017 08:00:39 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-27-novye-vozmozhnosti-agx-dynamics-ot-algo/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/CyzBgfUwQ58Media&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/CyzBgfUwQ58Media&lt;/a&gt;📼 Simulation of Bulldozer blade and deformable terra…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2w8IsZV&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2w8IsZV&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2w828gj&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2w828gj&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xnp4qs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xnp4qs&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2w8Jaqb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2w8Jaqb&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/CyzBgfUwQ58&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/CyzBgfUwQ58&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xnu8LO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xnu8LO&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2w8IsZV&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2w8IsZV&lt;/a&gt;
+ttp://ift.tt/2w8IsZV&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>История того, как #EDEM помог Министерству образования и науки Российской Федерации в проектировании шнекохода.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-19-istoriya-togo-kak-edem-pomog-ministerst/</link>
       <pubDate>Sat, 19 Aug 2017 17:02:10 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-08-19-istoriya-togo-kak-edem-pomog-ministerst/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-19-istoriya-togo-kak-edem-pomog-ministerst/</guid>
       <description>&lt;p&gt;#DEM &lt;a href=&#34;https://www.edemsimulation.com/spotlight/study-influence-offroad-vehicles-bottom-body-parts-resistance-movement-deep-snow/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.edemsimulation.com/spotlight/study-influence-offroad-vehicles-bottom-body-parts-resistance-movement-deep-snow/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.edemsimulation.com/spotlight/study-influence-offroad-vehicles-bottom-body-parts-resistance-movement-deep-snow/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;A Study of the Influence of an Off-road Vehicle&amp;rsquo;s Bottom Body Parts for the Resistance to Movement in Deep Snow&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-DYNA R10 - теперь официально</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-02-ls-dyna-r10-teper-ofitsialno/</link>
+      <pubDate>Wed, 02 Aug 2017 09:00:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-02-ls-dyna-r10-teper-ofitsialno/</guid>
+      <description>&lt;p&gt;LS-DYNA R10 - теперь официально
+&lt;a href=&#34;http://www.dynasupport.com/news/ls-dyna-r10.0.0-r10.118302-released&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynasupport.com/news/ls-dyna-r10.0.0-r10.118302-released&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#LSDYNA R10 теперь официально доступна. Есть и первый release note, который мы можем прочитать вместе. Вот, что я отметил из интересного для себя:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Возможность на лету скармливать HEX #ALE сетку #SALE решателю&lt;/li&gt;
+&lt;li&gt;Куча вкусностей для PARTICLE_BLAST&lt;/li&gt;
+&lt;li&gt;CONTACT_AUTOMATIC_SURFACE_TO_SURFACE_MORTAR_TIED_WELD для моделирования сварки по критерию нагрева и касания&lt;/li&gt;
+&lt;li&gt;При расчет пружинения учет износ поверхности - геометрия модифицируется решателем с учетом изношенности автоматически.&lt;/li&gt;
+&lt;li&gt;CONSTRAINED_BEAM_IN_SOLID теперь работает для случаев динамической сеточной адаптации solid сетки, умеет делать армирование в tshell элементах.&lt;/li&gt;
+&lt;li&gt;CONTROL_FORMING_SHELL_TO_TSHELL - конвертация shell (оболочек) в tshell (толстые оболочки) налету при штамповке и глубокой вытяжке&lt;/li&gt;
+&lt;li&gt;Учет износа и эрозии при взаимодействии #DEM с сеточными телами.&lt;/li&gt;
+&lt;li&gt;Адаптативное сеткоперестроение для PART_STACKED_ELEMENTS (моделирование композитов)&lt;/li&gt;
+&lt;li&gt;Куча новшеств в #ICFD: простой рестарт, учет демпфирования, стационарная постановка, Windkessel boundary conditions&lt;/li&gt;
+&lt;li&gt;Двухсторонний #FSI ICFD-DEM&lt;/li&gt;
+&lt;li&gt;Доработки материала MAT_CONCRETE_EC2&lt;/li&gt;
+&lt;li&gt;Опция AFTERBURN для EOS_JWL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Еще есть много всего для CASE и химического решателя, но ими я пока не пользовался, так что комментировать не могу.&lt;/p&gt;
+&lt;p&gt;Решатели лежат тут:
+&lt;a href=&#34;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&lt;/a&gt;
+&lt;a href=&#34;http://ftp.lstc.com/user/mpp-dyna/R10.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/mpp-dyna/R10.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Лицензии ANSYS LS-DYNA для 18.1 вполне хватает для запуска решателя.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dynasupport.com/news/ls-dyna-r10.0.0-r10.118302-released&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LS-DYNA R10.0.0 (R10.118302) released&lt;/a&gt;
+&lt;a href=&#34;http://www.dynasupport.com/news/ls-dyna-r10.0.0-r10.118302-released&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynasupport.com/news/ls-dyna-r10.0.0-r10.118302-released&lt;/a&gt;
+&lt;a href=&#34;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&lt;/a&gt;
+&lt;a href=&#34;http://ftp.lstc.com/user/mpp-dyna/R10.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/mpp-dyna/R10.0/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Влияние движения почвы на трубопроводы</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-24-vliyanie-dvizheniya-pochvy-na-truboprovody/</link>
+      <pubDate>Mon, 24 Jul 2017 17:00:46 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-24-vliyanie-dvizheniya-pochvy-na-truboprovody/</guid>
+      <description>&lt;p&gt;Влияние движения почвы на трубопроводы
+&lt;a href=&#34;https://pipelinesinternational.com/2017/03/09/bmt-predicts-geotechnical-pipeline-hazards/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://pipelinesinternational.com/2017/03/09/bmt-predicts-geotechnical-pipeline-hazards/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Команды BMT Fleet Technology Ltd (#BMT) при поддержке Pipeline Research Council International (#PRCI) научились при помощи #DEM и #SPH в #LSDYNA предказывать поведение подземных трубопроводов - влияние движения почвы на их непременно деформированное состояние. Помнится, мы такое тоже делали, но хватило эйлерова домена.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pipelinesinternational.com/2017/03/09/bmt-predicts-geotechnical-pipeline-hazards/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;BMT predicts geotechnical pipeline hazards&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>http://mdx2.plm.automation.siemens.com/blog/david-mann/star-</title>
-      <link>http://localhost:1313/posts/2017-07-02-httpmdx2plmautomationsiemenscomb/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-02-httpmdx2plmautomationsiemenscomb/</link>
       <pubDate>Sun, 02 Jul 2017 17:00:18 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-07-02-httpmdx2plmautomationsiemenscomb/</guid>
-      <description>&lt;p&gt;В STAR-CCM+ v12.04 в качестве демонстрации возможностей добавили возможность считать в #DEM постановке не сферические частицы по честному. По честному - это значит не как кластер из слепленных сферических частиц. До сего момента возможность использовать Polyhedral DEM была фишкой предыдущего релиза #ESSS #Rocky - в новом есть более интересные фокусы.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-02-httpmdx2plmautomationsiemenscomb/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://mdx2.plm.automation.siemens.com/blog/david-mann/star-ccm-v1204-preview-model-realistic-particle-shapes-polyhedral-dem-particles&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://mdx2.plm.automation.siemens.com/blog/david-mann/star-ccm-v1204-preview-model-realistic-particle-shapes-polyhedral-dem-particles&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В STAR-CCM+ v12.04 в качестве демонстрации возможностей добавили возможность считать в #DEM постановке не сферические частицы по честному. По честному - это значит не как кластер из слепленных сферических частиц. До сего момента возможность использовать Polyhedral DEM была фишкой предыдущего релиза #ESSS #Rocky - в новом есть более интересные фокусы.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://mdx2.plm.automation.siemens.com/blog/david-mann/star-ccm-v1204-preview-model-realistic-particle-shapes-polyhedral-dem-particles&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://mdx2.plm.automation.siemens.com/blog/david-mann/star-ccm-v1204-preview-model-realistic-particle-shapes-polyhedral-dem-particles&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Измеряем тормозной путь танка</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-28-izmeryaem-tormoznoy-put-tanka/</link>
+      <pubDate>Wed, 28 Jun 2017 17:00:35 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-28-izmeryaem-tormoznoy-put-tanka/</guid>
+      <description>&lt;p&gt;Измеряем тормозной путь танка
+&lt;a href=&#34;https://www.youtube.com/watch?v=GCAvPFp9P20&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=GCAvPFp9P20&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Сейчас все любят играть в #танки. А мы возьмем, и будет считать танки - моделировать процесс торможения гусеничной техники на примере американской M113. Расчет предоставлени Advanced Science and Automation Corp, и получен с помощью их кода DYNAMIC INTERACTIONS SIMULATOR (#DIS) в #DEM постановке.&lt;/p&gt;
+&lt;p&gt;#ascience&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=GCAvPFp9P20&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=GCAvPFp9P20&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=WRa1xY6OAJE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=WRa1xY6OAJE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=GCAvPFp9P20&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SoftSoilBrake Slope0&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=WRa1xY6OAJE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=WRa1xY6OAJE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование износа буровой коронки</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-15-modelirovanie-iznosa-burovoy-koronki/</link>
+      <pubDate>Thu, 15 Jun 2017 17:01:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-15-modelirovanie-iznosa-burovoy-koronki/</guid>
+      <description>&lt;p&gt;Моделирование износа буровой коронки
+&lt;a href=&#34;https://www.edemsimulation.com/blog/predicting-drill-wear-using-discrete-element-method/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.edemsimulation.com/blog/predicting-drill-wear-using-discrete-element-method/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#EDEM показали, как при помощи #DEM и правильной постановки истерания материала (#wear simulation) можно смоделировать износ коронки бура. Получается не очень сложный по постановке, но очень эффектный результат. Остается самая малость - правильно подобрать коэффициенты для этого самого истерания.
+&lt;a href=&#34;https://vimeo.com/220791840&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vimeo.com/220791840&lt;/a&gt;
+&lt;a href=&#34;https://vimeo.com/220791806&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vimeo.com/220791806&lt;/a&gt;
+&lt;a href=&#34;https://vimeo.com/220791955&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vimeo.com/220791955&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.edemsimulation.com/blog/predicting-drill-wear-using-discrete-element-method/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.edemsimulation.com/blog/predicting-drill-wear-using-discrete-element-method/&lt;/a&gt;
+&lt;a href=&#34;https://vimeo.com/220791840&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vimeo.com/220791840&lt;/a&gt;
+&lt;a href=&#34;https://vimeo.com/220791806&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vimeo.com/220791806&lt;/a&gt;
+&lt;a href=&#34;https://vimeo.com/220791955&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vimeo.com/220791955&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Наши успехи в DEM на GPU</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-13-nashi-uspehi-v-dem-na-gpu/</link>
+      <pubDate>Sat, 13 May 2017 17:01:06 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-13-nashi-uspehi-v-dem-na-gpu/</guid>
+      <description>&lt;p&gt;Наши успехи в DEM на GPU
+&lt;a href=&#34;http://www.nvidia.ru/object/rocky-dem-ru.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.nvidia.ru/object/rocky-dem-ru.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Мы тут #Rocky #DEM 4 тестировали (alpha-версию), и нашу статью даже сама #NVIDIA у себя на сайте разместила. Вообще очень интересно получилось, что несколько #GPU могут очень хорошо ускорить расчет или увеличить максимальную размерность задачи.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nvidia.ru/object/rocky-dem-ru.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.nvidia.ru/object/rocky-dem-ru.html&lt;/a&gt;
+&lt;a href=&#34;http://www.nvidia.ru/object/rocky-dem-ru.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.nvidia.ru/object/rocky-dem-ru.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EDEM для ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-20-edem-dlya-ansys/</link>
+      <pubDate>Thu, 20 Apr 2017 08:00:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-20-edem-dlya-ansys/</guid>
+      <description>&lt;p&gt;EDEM для ANSYS
+&lt;a href=&#34;http://www.ansys.com/de-DE/About-ANSYS/Partner-Network/Software-Partners/dem-solutions&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/de-DE/About-ANSYS/Partner-Network/Software-Partners/dem-solutions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Знаили ли вы, что у компании DEM Solutions Ltd., авторов #EDEM есть специальный плагин для интеграции с #ANSYS #Workbench - можно делать связанные расчеты механики в #Mechanical и гидродинамики во #Fluent.&lt;/p&gt;
+&lt;p&gt;#DEM #CFD #FEM
+&lt;a href=&#34;https://www.youtube.com/watch?v=-PaX-NHRYW4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=-PaX-NHRYW4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys.com/de-DE/About-ANSYS/Partner-Network/Software-Partners/dem-solutions&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DEM Solutions Ltd. - Software Partner | ANSYS&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=-PaX-NHRYW4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=-PaX-NHRYW4&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GPU для сыпучих сред</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-17-gpu-dlya-sypuchih-sred/</link>
+      <pubDate>Mon, 17 Apr 2017 08:01:49 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-17-gpu-dlya-sypuchih-sred/</guid>
+      <description>&lt;p&gt;GPU для сыпучих сред
+&lt;a href=&#34;https://www.cadfem-cis.ru/list/article/rocky-nvidia-gpu/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/list/article/rocky-nvidia-gpu/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Мы тут #Rocky #DEM тестировали на новых #GPGPU от #NVIDIA - получилось любопытно. Основных мысли три:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;DEM просто создан для #GPU, особенно Rocky&lt;/li&gt;
+&lt;li&gt;Новые GPU на базе архитектуры #Pscal в разы уделывают #Kepler&lt;/li&gt;
+&lt;li&gt;И да, у нас была внутренняя alpha версия Rocky, на которой удалось проверить работу с несколькими GPU - все работает и хорошо!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=93qJovCA6pI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=93qJovCA6pI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cadfem-cis.ru/list/article/rocky-nvidia-gpu/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Численные расчеты сыпучих сред на GPU&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=93qJovCA6pI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=93qJovCA6pI&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Расчет дробления DEM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-15-raschet-drobleniya-dem/</link>
+      <pubDate>Sat, 15 Apr 2017 08:00:38 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-15-raschet-drobleniya-dem/</guid>
+      <description>&lt;p&gt;Расчет дробления DEM
+&lt;a href=&#34;http://umit.math.umu.se/project/granureg/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://umit.math.umu.se/project/granureg/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Пример тестового расчета дробления #NDEM  (nonsmooth discrete element method) выполненный в #AGX Dynamics и #Voro++ специалистами UMIT Research Lab. У них, между прочим, очень интересный сайт (&lt;a href=&#34;http://umit.math.umu.se/project/granureg/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://umit.math.umu.se/project/granureg/&lt;/a&gt;) с еще одним #DEM кодом #GranuX.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=vAyMeuLii2g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=vAyMeuLii2g&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=lSHx1UI_hnA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=lSHx1UI_hnA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://umit.math.umu.se/project/granureg/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://umit.math.umu.se/project/granureg/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=vAyMeuLii2g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=vAyMeuLii2g&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=lSHx1UI_hnA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=lSHx1UI_hnA&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Стрижем траву</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-07-strizhem-travu/</link>
+      <pubDate>Fri, 07 Apr 2017 17:00:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-07-strizhem-travu/</guid>
+      <description>&lt;p&gt;Стрижем траву
+&lt;a href=&#34;https://t.co/2ixUZ7Rm93&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://t.co/2ixUZ7Rm93&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В рубрике #SimulationFriday расчет подстригаемого газона в #DEM постановке при помощи #ThreeParticle&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/BECKER_3D_GmbH/status/850310329909129216&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://twitter.com/BECKER_3D_GmbH/status/850310329909129216&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://t.co/2ixUZ7Rm93&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;BECKER 3D GmbH&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/BECKER_3D_GmbH/status/850310329909129216&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://twitter.com/BECKER_3D_GmbH/status/850310329909129216&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DEM-CFD</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-22-dem-cfd/</link>
+      <pubDate>Wed, 22 Mar 2017 17:03:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-22-dem-cfd/</guid>
+      <description>&lt;p&gt;DEM-CFD
+&lt;a href=&#34;http://www.rocky-dem.ru/about/news/view/artcl/webinar-march2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.rocky-dem.ru/about/news/view/artcl/webinar-march2017/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Очаровательная Lucilla Almeida собирается бесплатно рассказать о возможностях связки #Rocky для #DEM и #ANSYS #Fluent для #CFD. Получается очень любопытный #FSI. Ссылки для регистрации в описании. Регистрируемся на вебинар 29 или 30 марта.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.rocky-dem.ru/about/news/view/artcl/webinar-march2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.rocky-dem.ru/about/news/view/artcl/webinar-march2017/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DEM для Abaqus</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-28-dem-dlya-abaqus/</link>
+      <pubDate>Tue, 28 Feb 2017 17:01:01 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-28-dem-dlya-abaqus/</guid>
+      <description>&lt;p&gt;DEM для Abaqus
+&lt;a href=&#34;https://www.youtube.com/watch?v=UuIq2Hh4rZ8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=UuIq2Hh4rZ8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ну и дела: #DEM оказывается есть не только в специализированных кода - он проник в один из самых авторитетных решателей - #Abaqus. Видео урок об этом прилагается. Качество UI и и удобство работы по сравнению с #Rocky сомнительное&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UuIq2Hh4rZ8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=UuIq2Hh4rZ8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UuIq2Hh4rZ8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Abaqus: Discrete Element Method (Introductory Video)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование грунтов в SPH</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-27-modelirovanie-gruntov-v-sph/</link>
+      <pubDate>Mon, 27 Feb 2017 17:00:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-27-modelirovanie-gruntov-v-sph/</guid>
+      <description>&lt;p&gt;Моделирование грунтов в SPH
+&lt;a href=&#34;https://www.youtube.com/watch?v=GvShD3nnM2c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=GvShD3nnM2c&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Отличный пример того, как можно не сходить с ума по новомодному #DEM, а взять старый добрый #SPH и промоделировать поведение грунта в #LSDYNA
+&lt;a href=&#34;https://www.youtube.com/watch?v=GvShD3nnM2c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=GvShD3nnM2c&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=GvShD3nnM2c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LS-DYNA SPH : Earth-moving simulation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Семинар проРоки!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-01-28-seminar-proroki/</link>
+      <pubDate>Sat, 28 Jan 2017 17:00:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-01-28-seminar-proroki/</guid>
+      <description>&lt;p&gt;Семинар проРоки!
+&lt;a href=&#34;https://www.cadfem-cis.ru/list/article/rocky-seminar-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/list/article/rocky-seminar-2017/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;28 февраля 2017 года в здании главного корпуса Санкт-Петербургского горного университета будет проходить важный и интересный семинар «Применение современных компьютерных технологий численного моделирования для решения задач минерально-сырьевого сектора».&lt;/p&gt;
+&lt;p&gt;Основные топики: #DEM, #Rocky, #Chemkin, #ANSYS, #CFD, #GPU, #NVIDIA&lt;/p&gt;
+&lt;p&gt;P.S. А какие есть интригующие названия докладов: &amp;ldquo;Численное моделирование и экспериментальное исследование работы щековой дробилки со сложным качанием щек 2ЩДС100X200&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cadfem-cis.ru/list/article/rocky-seminar-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/list/article/rocky-seminar-2017/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Материалы вебинара по новым возможностям LS-DYNA R9</title>
-      <link>http://localhost:1313/posts/2016-12-18-materialy-vebinara-po-novym-vozmozhnostyam/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-18-materialy-vebinara-po-novym-vozmozhnostyam/</link>
       <pubDate>Sun, 18 Dec 2016 17:00:20 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-12-18-materialy-vebinara-po-novym-vozmozhnostyam/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.dynamore.se/en/news/meet-dynamore/resources/papers/webinar-ls-dyna-r9-presentations&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.se/en/news/meet-dynamore/resources/papers/webinar-ls-dyna-r9-presentations&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-18-materialy-vebinara-po-novym-vozmozhnostyam/</guid>
+      <description>&lt;p&gt;Материалы вебинара по новым возможностям LS-DYNA R9
+&lt;a href=&#34;https://www.dynamore.se/en/news/meet-dynamore/resources/papers/webinar-ls-dyna-r9-presentations&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.se/en/news/meet-dynamore/resources/papers/webinar-ls-dyna-r9-presentations&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Шведское подразделение #DYNAmore любезно выложило слайды с прошедшего вебинара по новым возможностям #LSDYNA R9. Для меня это просто праздник какой-то, ибо внутри есть много очень крутых фишек.&lt;/p&gt;
 &lt;p&gt;Вот что больше всего понравилось мне:&lt;/p&gt;
 &lt;ul&gt;
@@ -180,75 +1034,454 @@ by Юрий Новожилов&lt;/p&gt;
 &lt;li&gt;Бессеточный (!!!) метод обогощенных конечных элементов (Meshfree Enriched FEM, #MEFEM) специально для моделирования резин (*SECTION_SOLID, ELFORM=43).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;P.S. Ну надо было только такое придумать - бессеточный метод конечных элементов :-)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dynamore.se/en/news/meet-dynamore/resources/papers/webinar-ls-dyna-r9-presentations&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;WEBinar: LS-DYNA R9 - Presentations —&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>А вы знали, что у #EDEM есть специальный API для реализации </title>
-      <link>http://localhost:1313/posts/2016-04-23-a-vy-znali-chto-u-edem-est-spetsialnyy/</link>
+      <title>AGX Dynamics для частиц</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-16-agx-dynamics-dlya-chastits/</link>
+      <pubDate>Fri, 16 Dec 2016 17:00:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-16-agx-dynamics-dlya-chastits/</guid>
+      <description>&lt;p&gt;AGX Dynamics для частиц
+&lt;a href=&#34;https://www.youtube.com/watch?v=7OA-54FNYVQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=7OA-54FNYVQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Algoryx - разработчик Dynamics for #SpaceClaim выкатил новые фишки своего ПО&lt;/p&gt;
+&lt;p&gt;Из решатель #AGX Dynamics, который является сердцем Dynamics for #SpaceClaim - системы для расчета твердотельной динамики (#RBD) - теперь умеет решать задачи в #DEM постановке. При этом, используется не сферические частицы (привет #LSDYNA) и их кластеры (привет #EDEM), а частицы произвольной формы (привет #Rocky). Такую постановку метода дискретных элементов разработчики окрестили #NDEM (non-smooth discrete element methods). И это все помимо возможности моделировать поведение кабелей и тросов.&lt;/p&gt;
+&lt;p&gt;#AGX Dynamics уже сейчас умеет моделировать конвейерные системы, взаимодействие с твердыми телами, слипание частиц. Разрушения частиц нет, использования #GPU тоже пока нет. Но я думаю, что все это скоро будет.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=7OA-54FNYVQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=7OA-54FNYVQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=7OA-54FNYVQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Granular simulation in AGX Dynamics - Overview&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Дробить гранит науки</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-13-drobit-granit-nauki/</link>
+      <pubDate>Tue, 13 Dec 2016 07:00:57 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-13-drobit-granit-nauki/</guid>
+      <description>&lt;p&gt;Дробить гранит науки
+&lt;a href=&#34;http://www.cadfem-cis.ru/list/article/webinar-rocky-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.cadfem-cis.ru/list/article/webinar-rocky-2016/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Коллеги организовывают бесплатный вербена по решению задач дробления в #Rocky #DEM 15 декабря - спешите зарегистрироваться. Вебинар бесплатный, но на английском!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cadfem-cis.ru/list/article/webinar-rocky-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.cadfem-cis.ru/list/article/webinar-rocky-2016/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Экскаватор посчитать?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-06-ekskavator-poschitat/</link>
+      <pubDate>Sun, 06 Nov 2016 12:02:39 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-06-ekskavator-poschitat/</guid>
+      <description>&lt;p&gt;Экскаватор посчитать?
+&lt;a href=&#34;https://www.youtube.com/watch?v=tJj5q7KXDs8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=tJj5q7KXDs8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Не могу не порте мимо шикарной модели &amp;ldquo;колесного&amp;rdquo; экскаватора в #LSDYNA с применением #DEM постановки. 20 часов, 12 ядер CPU и все готово.
+&lt;a href=&#34;https://www.youtube.com/watch?v=tJj5q7KXDs8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=tJj5q7KXDs8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=tJj5q7KXDs8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Bucket wheel excavator with LS-DYNA&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DEM для создания эффектов</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-05-dem-dlya-sozdaniya-effektov/</link>
+      <pubDate>Wed, 05 Oct 2016 17:01:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-05-dem-dlya-sozdaniya-effektov/</guid>
+      <description>&lt;p&gt;DEM для создания эффектов
+&lt;a href=&#34;https://www.youtube.com/watch?v=_5QkPnPDcfc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=_5QkPnPDcfc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Оказывается, что для #Blender — свободного, профессионального пакета для создания трёхмерной компьютерной графики существует специальный модуль Molecular (&lt;a href=&#34;https://github.com/Pyroevil/Blender-Molecular-Script%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/Pyroevil/Blender-Molecular-Script)&lt;/a&gt;, для выполнения расчетов методами #DEM. Интересно, если можно прикрутить DEM к Blender, то можно ли прикрутить Blender в качестве постпроцессора для научных расчетов? Было бы очень полезно!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=_5QkPnPDcfc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Molecular addon beta teaser&lt;/a&gt;
+&lt;a href=&#34;https://github.com/Pyroevil/Blender-Molecular-Script&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/Pyroevil/Blender-Molecular-Script&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CFDEM®COUPLING</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-01-cfdem-coupling/</link>
+      <pubDate>Sat, 01 Oct 2016 17:01:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-01-cfdem-coupling/</guid>
+      <description>&lt;p&gt;CFDEM®COUPLING
+&lt;a href=&#34;http://www.dcs-computing.com/cfd-dem-model-particle-melting&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dcs-computing.com/cfd-dem-model-particle-melting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Фреймворк с открытым исходным кодом CFDEM®COUPLING - это просто супер штука, если вы решаете наукоемкие задачи. Например плавление сыпучего материала в #DEM постановке, с переходом в #CFD постановку.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dcs-computing.com/cfd-dem-model-particle-melting&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dcs-computing.com/cfd-dem-model-particle-melting&lt;/a&gt;
+&lt;a href=&#34;http://www.dcs-computing.com/cfd-dem-model-particle-melting&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dcs-computing.com/cfd-dem-model-particle-melting&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DEM &#43; CFD</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-28-dem-&#43;-cfd/</link>
+      <pubDate>Wed, 28 Sep 2016 17:01:06 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-28-dem-&#43;-cfd/</guid>
+      <description>&lt;p&gt;DEM + CFD
+&lt;a href=&#34;https://www.youtube.com/watch?v=UwJ-V4u0PAI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=UwJ-V4u0PAI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#LSDYNA R9: #DEM to #CFD #FSI&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UwJ-V4u0PAI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=UwJ-V4u0PAI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UwJ-V4u0PAI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LS-DYNA CFD : Drivaer Benchmark plus DEM particles, study of snow deposition on vehicle&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ПроРоки</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-18-proroki/</link>
+      <pubDate>Sun, 18 Sep 2016 12:00:15 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-18-proroki/</guid>
+      <description>&lt;p&gt;ПроРоки
+&lt;a href=&#34;http://www.cadfem-cis.ru/list/article/seminar-rocky-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.cadfem-cis.ru/list/article/seminar-rocky-2016/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Всем желающим наверно еще не поздно пройти регистрацию для участия в семинаре про #Rocky #DEM, который устроит #CADFEM CIS 29 сентября в Санкт-Петербурге. На семинаре, как у больших, будет особый гость Александр Потапов - ведущего разработчика Rockу DEM, Inc. США. Возможно он расскажет о новых фишках, которые ожидаются в грядущей матерной версии.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cadfem-cis.ru/list/article/seminar-rocky-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.cadfem-cis.ru/list/article/seminar-rocky-2016/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-DYNA R9</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-04-ls-dyna-r9/</link>
+      <pubDate>Sun, 04 Sep 2016 06:30:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-04-ls-dyna-r9/</guid>
+      <description>&lt;p&gt;LS-DYNA R9
+&lt;a href=&#34;http://www.dynasupport.com/news/ls-dyna-r9.0.1-r9.109912-released&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynasupport.com/news/ls-dyna-r9.0.1-r9.109912-released&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#LSTC не спит и все быстрее выпускает матерные версии #LSDYNA. Так, 30-ого августа, вышла LS-DYNA R9.0.1.&lt;/p&gt;
+&lt;p&gt;Прочитав весь список изменения мне понравились такие фишки:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ALE_STRUCTURED_MESH - продолжение развития структурированного #ALE решателя&lt;/li&gt;
+&lt;li&gt;#CESE решатель не заброшен, ребята проболтают пилить #CFD код с учетом сжимаемости&lt;/li&gt;
+&lt;li&gt;CONTACT_AUTOMATIC_SURFACE_TO_SURFACE_TIED_WELD - контактный алгоритм упрощающий моделирование сварки&lt;/li&gt;
+&lt;li&gt;CONSTRAINED_LAGRANGE_IN_SOLID_EDGE - тот же CONSTRAINED_LAGRANGE_IN_SOLID, но в 2D&lt;/li&gt;
+&lt;li&gt;DEFINE_DE_INJECTION теперь умеет генерировать #DEM с нормальным распределением  их радиусов в заданном диапазоне&lt;/li&gt;
+&lt;li&gt;BOUNDARY_DE_NON_REFLECTING - неотражающие граничные условия в DEM (не знаю пока зачем, но звучит здорово)&lt;/li&gt;
+&lt;li&gt;DEFINE_DE_MASSFLOW_PLANE для расчета расхода частиц через плоскость&lt;/li&gt;
+&lt;li&gt;ICFD_BOUNDARY_FSWAVE - #ICFD решатель научился генерировать волны в задачах со свободной поверхностью (ну наконец-то!)&lt;/li&gt;
+&lt;li&gt;ICFD_CONTROL_DEM_COUPLING - наконец-то появился #FSI между ICFD и DEM (привет связке #Fluent + #Rocky)&lt;/li&gt;
+&lt;li&gt;ELEMENT_SOLID_NURBS_PATCH - #NURBS solid элементы для #implicit и #explicit решателя!&lt;/li&gt;
+&lt;li&gt;MAT_GENERALIZED_PHASE_CHANGE - новый навороченный материал для моделирования фазовых переходов&lt;/li&gt;
+&lt;li&gt;MAT_ADHESIVE_CURING_VISCOELASTIC - моделирование процесса полимеризации терморезистивных смол (привет #ANSYS #ACCS)&lt;/li&gt;
+&lt;li&gt;MAT_ADD_GENERALIZED_DAMAGE - добавление анизатропной разрушаемости существующим миоделям материалов (пока только для shell)&lt;/li&gt;
+&lt;li&gt;Пластическое разрушение для #XFEM (eXtended Finite Element Method)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Хороший релиз получился :-)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynasupport.com/news/ls-dyna-r9.0.1-r9.109912-released&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LS-DYNA R9.0.1 (R9.109912) released  — LS-DYNA Support&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EDEM 2017</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-25-edem-2017/</link>
+      <pubDate>Thu, 25 Aug 2016 06:30:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-25-edem-2017/</guid>
+      <description>&lt;p&gt;EDEM 2017
+&lt;del&gt;&lt;a href=&#34;http://www.edemsimulation.com/blog/simulate-faster-new-edem-gpu-solver/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.edemsimulation.com/blog/simulate-faster-new-edem-gpu-solver/&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20170705034649/https://www.edemsimulation.com/blog/simulate-faster-new-edem-gpu-solver/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Август выдался особенно удачный на новые релизы. #EDEM, один из лидирующих пакетов для моделирования сыпучих сред в #DEM постановке, вышел в новом релизе. Основное нововведение EDEM 2017 - это долгожданная поддержка #GPU, которая наконец появилась в след за #Rocky (не прошло и 2-х дет :-)).&lt;/p&gt;
+&lt;p&gt;Примечательно, что вместо поддержки #CUDA, разработчики выбрали более универсальный стандарт #OpenCL, что позволит им использовать GPU и математические сопроцессоры не только от #NVIDIA, но и от #AMD и #Intel (#Phi). Обещается ускорение до 10 раз в сравнение с обычными #CPU.&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&#34;http://www.edemsimulation.com/blog/simulate-faster-new-edem-gpu-solver/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Simulate faster with the new EDEM GPU solver&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20170705034649/https://www.edemsimulation.com/blog/simulate-faster-new-edem-gpu-solver/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Конец первого рабочего дня после отпуска... отсыпьте мен каких-нибудь таблеток, ну как #EDEM показывает со своими #DEM. https://www.youtube.com/watch?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-11-konets-pervogo-rabochego-dnya-posle-otpuska/</link>
+      <pubDate>Mon, 11 Jul 2016 15:02:34 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-11-konets-pervogo-rabochego-dnya-posle-otpuska/</guid>
+      <description>&lt;p&gt;v=KGeHsB-UdHI&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=KGeHsB-UdHI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;EDEM Simulation of Tablet Coating &amp;amp; Mixing&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Мы немного изучили работу #DEM кода #Rocky на #GPU #NVIDIA и подготовили материал.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-06-my-nemnogo-izuchili-rabotu-dem-koda-roc/</link>
+      <pubDate>Wed, 06 Jul 2016 06:31:49 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-06-my-nemnogo-izuchili-rabotu-dem-koda-roc/</guid>
+      <description>&lt;p&gt;Получились интересные данные. Спасибо нашим друзьям из компании #Forsite за тестовый стенды.&lt;/p&gt;
+&lt;p&gt;Так как Rocky использует вычисления на GPU с одинарной точностью, то вот тут-то архитектура NVIDIA #Maxwell показала себя настоящим лидером.&lt;/p&gt;
+&lt;p&gt;Материал можно также посмотреть виде презентации: http://www.slideshare.net/YuryNovozhilov/a-63711653 &lt;a href=&#34;http://multiphysics.ru/stati/novosti/issledovanie-uvelicheniia-proizvoditelnosti-vychislitelnykh-algoritmov-programmy-rocky-dem-pri-perenose-rasparallelennogo-raschetnogo-mekhanizma-s-cpu-na-gpu.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://multiphysics.ru/stati/novosti/issledovanie-uvelicheniia-proizvoditelnosti-vychislitelnykh-algoritmov-programmy-rocky-dem-pri-perenose-rasparallelennogo-raschetnogo-mekhanizma-s-cpu-na-gpu.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.slideshare.net/YuryNovozhilov/a-63711653&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Aппаратное обеспечения для решения задач механики сыпучих сред&lt;/a&gt;
+&lt;a href=&#34;http://www.slideshare.net/YuryNovozhilov/a-63711653&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.slideshare.net/YuryNovozhilov/a-63711653&lt;/a&gt;
+&lt;a href=&#34;http://multiphysics.ru/stati/novosti/issledovanie-uvelicheniia-proizvoditelnosti-vychislitelnykh-algoritmov-programmy-rocky-dem-pri-perenose-rasparallelennogo-raschetnogo-mekhanizma-s-cpu-na-gpu.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://multiphysics.ru/stati/novosti/issledovanie-uvelicheniia-proizvoditelnosti-vychislitelnykh-algoritmov-programmy-rocky-dem-pri-perenose-rasparallelennogo-raschetnogo-mekhanizma-s-cpu-na-gpu.htm&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#DYNAmore подготовил отличную презентацию, описывающую новые возможности LS-DYNA R8.1. Много интересного по #ParticleBlst, #DEM и #Implicit.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-26-dynamore-podgotovil-otlichnuyu-prezentatsi/</link>
+      <pubDate>Sun, 26 Jun 2016 07:00:40 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-26-dynamore-podgotovil-otlichnuyu-prezentatsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#34;А где же грязь?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-14-a-gde-zhe-gryaz-tak-mozhno-perevesti/</link>
+      <pubDate>Tue, 14 Jun 2016 07:00:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-14-a-gde-zhe-gryaz-tak-mozhno-perevesti/</guid>
+      <description>&lt;p&gt;&amp;quot; - так можно перевести заметку в блоге #MSC. В данной заметке MSC рассказывает о возможности связывать #Adams, заслуженную систему твердотельной динамики/кинематики, и #EDEM, одного из лидеров среди расчетных средств моделирования сыпучих сред и грунтов методом дискретных элементов (#DEM). Интересная связка получается.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://simulatemore.mscsoftware.com/wheres-the-dirt-use-realistic-material-loads-in-adams/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Where’s the Dirt? – Use Realistic Material Loads in Adams&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>И #Abaqus тоже умеет #DEM?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-05-i-abaqus-tozhe-umeet-dem/</link>
+      <pubDate>Sun, 05 Jun 2016 07:00:36 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-05-i-abaqus-tozhe-umeet-dem/</guid>
+      <description>&lt;p&gt;И #Abaqus тоже умеет #DEM?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=w7Ia6scbf8U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Abaqus Explicit - DropTest with DEM&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Коллеги из #CATRA GmbH - основной реселлер кода #XPS (eXtended Particle Simulation), предназначенного для #DEM вычислений.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-10-kollegi-iz-catra-gmbh-osnovnoy-resell/</link>
+      <pubDate>Tue, 10 May 2016 06:36:37 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-10-kollegi-iz-catra-gmbh-osnovnoy-resell/</guid>
+      <description>&lt;p&gt;На прошлой недели они показали, как XPS молотит 40 000 000 частиц на #NVIDIA #GeForce GTX Titan X. 10 секунда процесса - 6 дней расчетов.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Похоже #SimScale всерьез взялись за #DEM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-29-pohozhe-simscale-vserez-vzyalis-za-dem/</link>
+      <pubDate>Fri, 29 Apr 2016 11:01:12 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-29-pohozhe-simscale-vserez-vzyalis-za-dem/</guid>
+      <description>&lt;p&gt;Похоже #SimScale всерьез взялись за #DEM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=9AIEIhmc-C8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Particle Analysis in an Hourglass with SimScale&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>А вы знали, что у #EDEM есть специальный API для реализации собственных контактны алгоритмов?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-23-a-vy-znali-chto-u-edem-est-spetsialnyy/</link>
       <pubDate>Sat, 23 Apr 2016 08:57:40 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-04-23-a-vy-znali-chto-u-edem-est-spetsialnyy/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-23-a-vy-znali-chto-u-edem-est-spetsialnyy/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://twitter.com/edemsimulation/status/720926501881978880&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;EDEM Simulation on Twitter&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Говорят, что это вибрационный питатель.</title>
-      <link>http://localhost:1313/posts/2016-04-20-govoryat-chto-eto-vibratsionnyy-pitatel/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-20-govoryat-chto-eto-vibratsionnyy-pitatel/</link>
       <pubDate>Wed, 20 Apr 2016 07:00:50 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-04-20-govoryat-chto-eto-vibratsionnyy-pitatel/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-20-govoryat-chto-eto-vibratsionnyy-pitatel/</guid>
+      <description>&lt;p&gt;Говорят, что это вибрационный питатель.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=gnnW8OJHjyk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Rocky DEM - Concave Shape - Feeder Bowl&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>#MPS (Moving Particle Simulation) - бессеточный метод для ре</title>
-      <link>http://localhost:1313/posts/2016-04-11-mps-moving-particle-simulation-bess/</link>
+      <title>#MPS (Moving Particle Simulation) - бессеточный метод для решения задач взаимодействия жидкости и твердого тела похоже учел все недостатки своих конкурентов и исправил их разом.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-11-mps-moving-particle-simulation-bess/</link>
       <pubDate>Mon, 11 Apr 2016 07:01:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-04-11-mps-moving-particle-simulation-bess/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-11-mps-moving-particle-simulation-bess/</guid>
       <description>&lt;p&gt;Прежде всего, этот метод, чем-то похожий на #SPH, имеет как явную, так и неявную схемы интегрирования по времени. Далее, он позволяет учитывать поверхностное натяжение и обладает #LES моделью турбулентности, чего нет в классическом #SPH. Ну и на сладкое - метод ускоряется на #GPU #NVIDIA в 5-9 раз (прямо как #DEM), при этом может использовать несколько графических карт.&lt;/p&gt;
 &lt;p&gt;Метод реализован в независимомо CFD пакете #Particleworks японской компании #Prometech.&lt;/p&gt;
 &lt;p&gt;На мой взгляд, это может быть по круче чем #XFlowCFD с их решеточным методом Больцмана.&lt;/p&gt;
 &lt;p&gt;Базовая теория по работе метода прилагается.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.prometechsoftware.com/particleworks.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;particleworks highlights&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ben Labo опять порабощал красивым видео.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-03-ben-labo-opyat-poraboschal-krasivym-video/</link>
+      <pubDate>Sun, 03 Apr 2016 07:01:12 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-03-ben-labo-opyat-poraboschal-krasivym-video/</guid>
+      <description>&lt;p&gt;На этот раз это #DEM водопад или сель - кому как виднее. 15 миллионов частиц - 30 часов расчета на 12-ти ядерном сервере.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=QRHfgBPeMJM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Waterfall with LS-DYNA&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Space Shuttle и сухой #DEM бассейн. Как же я ему завидую!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-27-space-shuttle-i-suhoy-dem-basseyn-kak/</link>
+      <pubDate>Sun, 27 Mar 2016 07:00:29 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-27-space-shuttle-i-suhoy-dem-basseyn-kak/</guid>
+      <description>&lt;p&gt;Space Shuttle и сухой #DEM бассейн. Как же я ему завидую!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Wr5B01NmgfU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;space shuttle landing - LS-DYNA discrete method (DEM)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пашем #DEM в #EDEM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-18-pashem-dem-v-edem/</link>
+      <pubDate>Fri, 18 Mar 2016 15:52:37 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-18-pashem-dem-v-edem/</guid>
+      <description>&lt;p&gt;Пашем #DEM в #EDEM
+&lt;a href=&#34;https://twitter.com/demsolutions/status/710778996749963264&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://twitter.com/demsolutions/status/710778996749963264&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/demsolutions/status/710778996749963264&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;EDEM Software on Twitter&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#DEM идет-шагает по планете.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-17-dem-idet-shagaet-po-planete-para-primer/</link>
+      <pubDate>Thu, 17 Mar 2016 12:02:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-17-dem-idet-shagaet-po-planete-para-primer/</guid>
+      <description>&lt;p&gt;Пара примеров Discrete Element Method в LS-DYNA, для того, что бы #Rocky не расслаблялся.&lt;/p&gt;
+&lt;p&gt;Как говорит автор, на решение задачи ушли сутки на 6-ти ядерном процессоре с частотой 4 ГГц. В расчете участвовали около 300 000 частиц.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=zna2Qq8FH0E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Dry sand falling from container with LS-DYNA&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=n-eIOduAez0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Water falling from a container with DEM - LS-DYNA&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>А вы знали, что можно связать #CFD расчет в #ANSYS #Fluent и #DEM из #Rocky?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-11-a-vy-znali-chto-mozhno-svyazat-cfd-rasche/</link>
+      <pubDate>Fri, 11 Mar 2016 15:00:49 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-11-a-vy-znali-chto-mozhno-svyazat-cfd-rasche/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.rocky-dem.com/blog/2015/12/02/tighter-rocky-and-ansys-integration-enables-stronger-coupling-and-faster-analysis/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Tighter Rocky and ANSYS integration enables stronger coupling and faster analysis -&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>В Горном было здорово!</title>
-      <link>http://localhost:1313/posts/2016-03-09-v-gornom-bylo-zdorovo/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-09-v-gornom-bylo-zdorovo/</link>
       <pubDate>Wed, 09 Mar 2016 09:19:10 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-03-09-v-gornom-bylo-zdorovo/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-09-v-gornom-bylo-zdorovo/</guid>
+      <description>&lt;p&gt;В Горном было здорово!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.rocky-dem.ru/about/news/view/artcl/seminar-po-chislen/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Семинар по численному моделированию задач минерально-сырьевого кластера • Новости • www.rocky-dem.ru&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование конвейерных систем в #Rocky  при помощи #DEM.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-05-modelirovanie-konveyernyh-sistem-v-rock/</link>
+      <pubDate>Sat, 05 Mar 2016 07:00:44 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-05-modelirovanie-konveyernyh-sistem-v-rock/</guid>
+      <description>&lt;p&gt;Моделирование конвейерных систем в #Rocky  при помощи #DEM.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=cZTfOvy3Duw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ROCKY DEM – Shiftable Chute Discharging onto a Conveyor Belt&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Связанный расчет в LS-DYNA: #DEM и #ICFD.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-04-svyazannyy-raschet-v-ls-dyna-dem-i-icfd/</link>
+      <pubDate>Fri, 04 Mar 2016 11:27:39 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-04-svyazannyy-raschet-v-ls-dyna-dem-i-icfd/</guid>
+      <description>&lt;p&gt;Дискретные частицы захватываются потоком и взаимодействуют с объектом.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=IP7G0pVCSIU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ICFD coupled with DEM (LS-DYNA)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Завтра в Горном университете буду рад видеть вас всех.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-25-zavtra-v-gornom-universitete-budu-rad-vi/</link>
+      <pubDate>Thu, 25 Feb 2016 14:02:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-25-zavtra-v-gornom-universitete-budu-rad-vi/</guid>
+      <description>&lt;p&gt;Ловите меня на конференции - у меня утром доклад по #Rocky #DEM совместно с #Forsite и #NVIDIA.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.rocky-dem.ru/about/news/view/artcl/rocky-seminar/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt; Приглашаем принять участие в нашем семинаре в Горном университете • Новости • www.rocky-dem.ru&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>У #StarCCM&#43; появилась возможность моделировать #DEM цилиндрической формы.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-17-u-starccm&#43;-poyavilas-vozmozhnost-modeli/</link>
+      <pubDate>Wed, 17 Feb 2016 07:00:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-17-u-starccm&#43;-poyavilas-vozmozhnost-modeli/</guid>
+      <description>&lt;p&gt;Это очень здорово, однако надо помнить, что такой подход существенно медленнее чем сферические #DEM.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cd-adapco.com/blog/david-mann/star-ccm-v1102-preview-roll-dem-cylindrical-particles&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;STAR-CCM+ v11.02 Preview: On a Roll with DEM Cylindrical Particles | CD-adapco&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Мы проведем семинар по вопросам на засыпку уже сорок!</title>
-      <link>http://localhost:1313/posts/2016-02-15-my-provedem-seminar-po-voprosam-na-zasyp/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-15-my-provedem-seminar-po-voprosam-na-zasyp/</link>
       <pubDate>Mon, 15 Feb 2016 18:00:28 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-02-15-my-provedem-seminar-po-voprosam-na-zasyp/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-15-my-provedem-seminar-po-voprosam-na-zasyp/</guid>
+      <description>&lt;p&gt;Мы проведем семинар по вопросам на засыпку уже сорок!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cadfem-cis.ru/list/article/rocky-seminar/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;26 февраля в Санкт-Петербурге пройдет семинар по ANSYS и ROCKY— CADFEM&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>#ProjectChrono - набор открытых инструментов для решения зад</title>
-      <link>http://localhost:1313/posts/2015-12-17-projectchrono-nabor-otkrytyh-instrume/</link>
+      <title>Утром хорошо просыпается только #DEM, особенно если он придуман в недрах шведской UMIT Research Lab</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-29-utrom-horosho-prosypaetsya-tolko-dem-os/</link>
+      <pubDate>Tue, 29 Dec 2015 06:30:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-29-utrom-horosho-prosypaetsya-tolko-dem-os/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=HPb-TNT2YNQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=HPb-TNT2YNQ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Центробежный сепаратор промоделирован в #SimScale.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-26-tsentrobezhnyy-separator-promodelirovan-v/</link>
+      <pubDate>Sat, 26 Dec 2015 18:00:38 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-26-tsentrobezhnyy-separator-promodelirovan-v/</guid>
+      <description>&lt;p&gt;Есть и #DEM и #CFD.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=WG4ON1GseXo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SimScale - Particle Simulation of a Cyclone Separator&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#ProjectChrono - набор открытых инструментов для решения задач механики.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-17-projectchrono-nabor-otkrytyh-instrume/</link>
       <pubDate>Thu, 17 Dec 2015 18:00:38 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-12-17-projectchrono-nabor-otkrytyh-instrume/</guid>
-      <description>&lt;p&gt;На сайте много примеров решения зада в постановке #DEM&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-17-projectchrono-nabor-otkrytyh-instrume/</guid>
+      <description>&lt;p&gt;Основное расчетное ядро написано на C++ и имеет возможность взаимодействовать с #Pyhon. Кроме того, есть модуль связки с #SolidWorks.&lt;/p&gt;
+&lt;p&gt;На сайте много примеров решения зада в постановке #DEM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=P-1VZoBnD_c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Tire 02&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учебный пример на тему #DEM в LS-DYNA.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-26-uchebnyy-primer-na-temu-dem-v-ls-dyna-u/</link>
+      <pubDate>Thu, 26 Nov 2015 06:00:25 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-26-uchebnyy-primer-na-temu-dem-v-ls-dyna-u/</guid>
+      <description>&lt;p&gt;Учимся перемешивать твердые частицы в стакане.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=7S1gU6fibik&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Учебный пример смешивания DEM частиц в LS-DYNA&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Почти зыбучие пески!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-14-pochti-zybuchie-peski-dem-ot-advanced-sc/</link>
+      <pubDate>Sat, 14 Nov 2015 07:00:39 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-14-pochti-zybuchie-peski-dem-ot-advanced-sc/</guid>
+      <description>&lt;p&gt;#dem от Advanced Science and Automation Corporation&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ss49g925b_Q&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Sand Penetroplate Experiment&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>#FEM - Finite element method</title>
-      <link>http://localhost:1313/posts/2015-10-30-fem-finite-element-method/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-30-fem-finite-element-method/</link>
       <pubDate>Fri, 30 Oct 2015 06:30:09 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-30-fem-finite-element-method/</guid>
-      <description>&lt;p&gt;#FDM - Finite difference method
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-30-fem-finite-element-method/</guid>
+      <description>&lt;p&gt;#FEM - Finite element method
+#FDM - Finite difference method
 #DDA - Discontinuous deformation analysis
 #NMM - Numerical manifold method
 #DEM - Discrete element method
@@ -259,40 +1492,91 @@ by Юрий Новожилов&lt;/p&gt;
     </item>
     
     <item>
-      <title>Киплинг решателя аэродинамики несжимаемых жидкостей и метода</title>
-      <link>http://localhost:1313/posts/2015-10-29-kipling-reshatelya-aerodinamiki-neszhimaemy/</link>
+      <title>Киплинг решателя аэродинамики несжимаемых жидкостей и метода дискретных частиц в LS-DYNA R9 (тизер :-)).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-29-kipling-reshatelya-aerodinamiki-neszhimaemy/</link>
       <pubDate>Thu, 29 Oct 2015 18:00:35 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-29-kipling-reshatelya-aerodinamiki-neszhimaemy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Я тут заметил, что на сайте с примерами задач для дайны доба</title>
-      <link>http://localhost:1313/posts/2015-10-09-ya-tut-zametil-chto-na-sayte-s-primerami/</link>
-      <pubDate>Fri, 09 Oct 2015 18:00:04 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/2015-10-09-ya-tut-zametil-chto-na-sayte-s-primerami/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Сравнительно новая, но многообещающая методика расчета возде</title>
-      <link>http://localhost:1313/posts/2015-10-07-sravnitelno-novaya-no-mnogoobeschayuschaya-me/</link>
-      <pubDate>Wed, 07 Oct 2015 06:30:16 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/2015-10-07-sravnitelno-novaya-no-mnogoobeschayuschaya-me/</guid>
-      <description>&lt;p&gt;В связке с DEM метод PBM может быть использован для моделирования осколочного воздействия.&lt;/p&gt;
-&lt;p&gt;В статье PBM показывает себя более эффективным, с вычислительной точки зрения. Кроме того, есть существенные преимущества по точности в сравнении с классическим моделированию взрыва в эйлеровом домене.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-29-kipling-reshatelya-aerodinamiki-neszhimaemy/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=J0RWMsyJCJU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ICFD and DEM coupling&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Вчера состоялся новый релиз LS-DYNA под версией 8.0.0 R8.953</title>
-      <link>http://localhost:1313/posts/2015-10-01-vchera-sostoyalsya-novyy-reliz-ls-dyna-pod/</link>
+      <title>Моделирование грунтов в #DEM при проектировании вездеходов - это главная фишка Advanced Science and Automation Corp.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-29-modelirovanie-gruntov-v-dem-pri-proekti/</link>
+      <pubDate>Thu, 29 Oct 2015 06:30:49 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-29-modelirovanie-gruntov-v-dem-pri-proekti/</guid>
+      <description>&lt;p&gt;Ходячий робот - вообще зачет!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-L_QvRZver4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Walking vehicle on soft soil&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=IwPYkvV1_0A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;High-speed traced vehicle on soft soil&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Дайте мне таблеток без #DEM!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-24-dayte-mne-tabletok-bez-dem-algoryx-re/</link>
+      <pubDate>Sat, 24 Oct 2015 18:00:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-24-dayte-mne-tabletok-bez-dem-algoryx-re/</guid>
+      <description>&lt;p&gt;#Algoryx решит эту проблему при помощи своего Dynamics for SpaceClaim #DfSC&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=iwnlcyby1cw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;How to invent a pill dispenser&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Утром хорошо просыпается не только сахар.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-23-utrom-horosho-prosypaetsya-ne-tolko-sahar/</link>
+      <pubDate>Fri, 23 Oct 2015 06:30:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-23-utrom-horosho-prosypaetsya-ne-tolko-sahar/</guid>
+      <description>&lt;p&gt;Свежие расчеты в #Rocky методами #DEM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Pi_B_WYh5XI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Моделирование загрузки/выгрузки кузова самосвала сыпучим материалом в ROCKY&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=4WLGfssyeuM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Моделирование загрузки адсорбера цеолитом в ROCKY&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=t0cl_vSwcNE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Забор материала ковшами скребкового конвейера в ROCKY&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>И еще один #DEM код Particle Flow Code  - теперь с червячками для моделирования композитов.  #PFC</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-22-i-esche-odin-dem-kod-particle-flow-code/</link>
+      <pubDate>Thu, 22 Oct 2015 03:59:35 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-22-i-esche-odin-dem-kod-particle-flow-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Я тут заметил, что на сайте с примерами задач для дайны добавлена задача с примером работы с DEM постановке.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-09-ya-tut-zametil-chto-na-sayte-s-primerami/</link>
+      <pubDate>Fri, 09 Oct 2015 18:00:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-09-ya-tut-zametil-chto-na-sayte-s-primerami/</guid>
+      <description>&lt;p&gt;Хотя пример 2013 года выпуска. Надо бы в этом примере по разбираться на досуге.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynaexamples.com/dem/injection-analysis&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Injection Analysis — LS-DYNA Examples&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сравнительно новая, но многообещающая методика расчета воздействия взрыв на объекты на основе метода взрыва частиц (particle blast method, PBM).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-07-sravnitelno-novaya-no-mnogoobeschayuschaya-me/</link>
+      <pubDate>Wed, 07 Oct 2015 06:30:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-07-sravnitelno-novaya-no-mnogoobeschayuschaya-me/</guid>
+      <description>&lt;p&gt;Данный подход является расширением метода корпускулярный частиц (corpuscular particle method, CPM) изначально был реализованного в LS-DYNA для моделирования подушек безопастности. Метод работает в лагранжевой домене, что существенно упрощает постановку задачи.&lt;/p&gt;
+&lt;p&gt;В связке с DEM метод PBM может быть использован для моделирования осколочного воздействия.&lt;/p&gt;
+&lt;p&gt;В статье PBM показывает себя более эффективным, с вычислительной точки зрения. Кроме того, есть существенные преимущества по точности в сравнении с классическим моделированию взрыва в эйлеровом домене.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=87WoUVN-_1Q&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Particle_blast for mine blast simulation in LS-DYNA&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=_fibrw5JW4E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Blast fragmentation of a mortar cylinder using LS-DYNA&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вчера состоялся новый релиз LS-DYNA под версией 8.0.0 R8.95309.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-01-vchera-sostoyalsya-novyy-reliz-ls-dyna-pod/</link>
       <pubDate>Thu, 01 Oct 2015 06:30:24 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-01-vchera-sostoyalsya-novyy-reliz-ls-dyna-pod/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-01-vchera-sostoyalsya-novyy-reliz-ls-dyna-pod/</guid>
       <description>&lt;p&gt;Из принципиально нового:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;*SET_POROUS_ALE для пористости тел в ALE постановке&lt;/li&gt;
@@ -308,16 +1592,28 @@ by Юрий Новожилов&lt;/p&gt;
 &lt;li&gt;несколько новых моделей материалов для EM и CFD.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Ребята из LSTC даром время не теряли 😊&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynasupport.com/news/ls-dyna-r8.0.0-r8.95309-released&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LS-DYNA R8.0.0 (R8.95309) released — LS-DYNA Support&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Не успели мы изучить аббревиатуру DEM (метод дискретного эле</title>
-      <link>http://localhost:1313/posts/2015-09-24-ne-uspeli-my-izuchit-abbreviaturu-dem-m/</link>
+      <title>Не успели мы изучить аббревиатуру DEM (метод дискретного элемента,Discrete Element Method), и даже восхвалили Rocky за работу с DEM имеющими форму, как я нашел на просторах сети достойный метод - конкурент.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-24-ne-uspeli-my-izuchit-abbreviaturu-dem-m/</link>
       <pubDate>Thu, 24 Sep 2015 18:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-09-24-ne-uspeli-my-izuchit-abbreviaturu-dem-m/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-24-ne-uspeli-my-izuchit-abbreviaturu-dem-m/</guid>
       <description>&lt;p&gt;Встречайте, Polyhedral Element Method (PEM), который умеет HELYX от компании Engys. Самое интересно, что HELYX основан на кодовой базе OpenFOAM и, вроде как, является открытым кодом.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=DA3N53kUVhg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Solid Body Motion with HELYX® PEM&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#ROCKY отлично демострирует свою возможность моделировать #DEM с учетом формы и разрушаемость частиц на примере как-то хитрой мельницы (да поправят меня знатоки).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-08-rocky-otlichno-demostriruet-svoyu-vozmozhn/</link>
+      <pubDate>Tue, 08 Sep 2015 07:00:09 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-08-rocky-otlichno-demostriruet-svoyu-vozmozhn/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=D_MztYSAvVM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ROCKY DEM - Crusher Particle Breakage Simulation&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -2,22 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RSM on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/rsm/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/rsm/</link>
     <description>MagicDPD: Magic Driven Product Development! (RSM)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 11 Jul 2018 18:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2019 13:01:33 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/rsm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/rsm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Все, что надо знать про настройку RSM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-12-19-vse-chto-nado-znat-pro-nastroyku-rsm/</link>
+      <pubDate>Thu, 19 Dec 2019 13:01:33 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-12-19-vse-chto-nado-znat-pro-nastroyku-rsm/</guid>
+      <description>&lt;p&gt;Все, что надо знать про настройку RSM
+#ANSYS #ARC #HPC #RSM
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/setup-ansys-rsm-with-arc/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Все, что надо знать про настройку RSM - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Настройка использования лицензий при работе RSM</title>
-      <link>http://localhost:1313/posts/2018-07-11-nastroyka-ispolzovaniya-litsenziy-pri-rab/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-11-nastroyka-ispolzovaniya-litsenziy-pri-rab/</link>
       <pubDate>Wed, 11 Jul 2018 18:00:57 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-07-11-nastroyka-ispolzovaniya-litsenziy-pri-rab/</guid>
-      <description>&lt;p&gt;ANSYS RSM (Remote Solve Manager) - отличное средство по выполнению расчетов как на кластерах, так и на соседних рабочих станциях коллег, которые ушли в отпуск. Однако его надо уметь готовить.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-11-nastroyka-ispolzovaniya-litsenziy-pri-rab/</guid>
+      <description>&lt;p&gt;Настройка использования лицензий при работе RSM
+ANSYS RSM (Remote Solve Manager) - отличное средство по выполнению расчетов как на кластерах, так и на соседних рабочих станциях коллег, которые ушли в отпуск. Однако его надо уметь готовить.
 Иногда при отсутствии тонкой настройки может сложиться впечатление, что система &amp;ldquo;поджирает&amp;rdquo; лицензии на Mechanical. На самом деле, при выполнении фонового расчета в Mechanical по умолчанию RSM берет сразу 2 лицензии:&lt;/p&gt;
 &lt;p&gt;одна лицензия используется для проверки корректности постановки задачи в проекте (в логе сервера лицензий отображается как mech_struct)
 еще одна уходит непосредственно на расчет (в логе сервера лицензий отображается как  ans_solve)&lt;/p&gt;
@@ -29,16 +43,18 @@ Design Point Run Only - аналогично предыдущему, но тол
 &lt;p&gt;Таким образом, переключив настройки системы на Always или Design Point Run Only, мы немного усмиряем аппетит Mechanical за счет небольшого падения производительности.&lt;/p&gt;
 &lt;p&gt;#HPC #Longread #Mechancial #RSM
 &lt;a href=&#34;http://bit.ly/2NJa1j3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NJa1j3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2NJa1j3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NJa1j3&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Как корректно остановить решатель на ходу</title>
-      <link>http://localhost:1313/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</link>
       <pubDate>Tue, 03 Jul 2018 18:02:50 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</guid>
-      <description>&lt;p&gt;Есть очень часто встречающаяся задача - запуск решателя в консольном/пакетном режиме для выполнения расчета на рабочей станции или кластере. С этой задачей сталкиваются многие опытные инженеры. Как запускать консольные расчеты хорошо описано в документации, много рассказано на форумах.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</guid>
+      <description>&lt;p&gt;Как корректно остановить решатель на ходу
+Есть очень часто встречающаяся задача - запуск решателя в консольном/пакетном режиме для выполнения расчета на рабочей станции или кластере. С этой задачей сталкиваются многие опытные инженеры. Как запускать консольные расчеты хорошо описано в документации, много рассказано на форумах.
 Однако мало кто знает, что практически любой решатель, работающий в фоне, можно корректно остановить с запуском точки рестарта/чекпоинта. Как правило, необходимо создать особый файл в особом месте. Когда решатель его обнаружит, он сам все поймет. Особый файл будет удалён сразу после его обработки. Давайте посмотрим, как это сделать для основных решателей ANSYS.
 Mechanical/APDL:
 В рабочей директории решателя надо создать файл с именем jobname.abt, где jobname - имя проекта. Файл должен содержать только одно слово: nonlinear
@@ -60,44 +76,179 @@ ANSYS Workbench
 Если вы пользуетесь ANSYS RSM, то там для всех поддерживаемых решателей уже есть стандартная кнопка Interrupt, которая делает всю вышеописанную магию за вас. Настраивайте RSM и наслаждайтесь :-)&lt;/p&gt;
 &lt;p&gt;#AEDT #ANSYS #Autodyn #CFX #Checkpont #Fluent #HPC #Longread #LSDYNA #Restart #RSM #Workbench
 &lt;a href=&#34;http://bit.ly/2u3rrhp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2u3rrhp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2u3rrhp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2u3rrhp&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Наш свежий видео урок по взаимодействию #ANSYS #Workbench и </title>
-      <link>http://localhost:1313/posts/2017-12-19-nash-svezhiy-video-urok-po-vzaimodeystviyu/</link>
+      <title>Наш свежий видео урок по взаимодействию #ANSYS #Workbench и #ANSYS #EKM от коллег из МСК.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-19-nash-svezhiy-video-urok-po-vzaimodeystviyu/</link>
       <pubDate>Tue, 19 Dec 2017 17:00:53 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-12-19-nash-svezhiy-video-urok-po-vzaimodeystviyu/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-19-nash-svezhiy-video-urok-po-vzaimodeystviyu/</guid>
       <description>&lt;p&gt;Скажу так: EKM в 18-ой версии это прям годна штука. Я его уже поставил и почти до конца настроил. С коллегами мы к нему даже Let&amp;rsquo;s Encrypt сертификаты прикрутить смогли! Скоро сам смогу рассказать о впечатлениях от использования в бою.&lt;/p&gt;
 &lt;p&gt;#SDM #HPC #RSM&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jIw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jIw&lt;/a&gt;…Media📼 VL1726 — Взаимодействие среды ANSYS Workbench с се…&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ift.tt/2D1QZ25&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2D1QZ25&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2v28PC1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2v28PC1&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2AZYOUu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2AZYOUu&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2D7KOtF&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2D7KOtF&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2emhAvW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2emhAvW&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zugYgi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zugYgi&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=jIw3tE8FkMw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jIw3tE8FkMw&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2AZYSUe&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2AZYSUe&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2D1QZ25&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2D1QZ25&lt;/a&gt;
+ttp://ift.tt/2D1QZ25&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#TotalCAE хвастают тем, что написали слой интеграции между SLURM и #ANSYS #RSM.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-22-totalcae-hvastayut-tem-chto-napisali-slo/</link>
+      <pubDate>Sun, 22 Oct 2017 17:14:25 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-22-totalcae-hvastayut-tem-chto-napisali-slo/</guid>
+      <description>&lt;p&gt;Напомню, ANSYS RSM позволяет без проблем ставить задачи ANSYS на таких высокопроизводительных системах, как #PBS, #LSF, #GridEngine, #Torque, #MOAB и даже Windows HPC Cluster, но не SLURM.&lt;/p&gt;
+&lt;p&gt;TotalCAE взяли и написали свой собственный слой интеграции. Это прикольно, но проще было взять стандартный транслятор SLURM-PBS.&lt;/p&gt;
+&lt;p&gt;#HPC&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.totalcae.com/learn/slurm-ansys-remote-solver-manager-rsm/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.totalcae.com/learn/slurm-ansys-remote-solver-manager-rsm/&lt;/a&gt; 🔗 SLURM with ANSYS Remote Solver Manager (RSM) - TotalCAE Blog&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2zt3EbO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zt3EbO&lt;/a&gt;
+&lt;a href=&#34;https://www.totalcae.com/learn/slurm-ansys-remote-solver-manager-rsm/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.totalcae.com/learn/slurm-ansys-remote-solver-manager-rsm/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как подружить ANSYS 18 и кластер</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-28-kak-podruzhit-ansys-18-i-klaster/</link>
+      <pubDate>Tue, 28 Mar 2017 17:02:47 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-28-kak-podruzhit-ansys-18-i-klaster/</guid>
+      <description>&lt;p&gt;Как подружить ANSYS 18 и кластер
+&lt;a href=&#34;https://quantumhpc.com/en/blog/how-to-configure-ansys-rsm-v18-with-a-pbs-pro-cluster&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://quantumhpc.com/en/blog/how-to-configure-ansys-rsm-v18-with-a-pbs-pro-cluster&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Отличная статья/комикс о том, как настроить взаимодействие #ANSYS 18 и кластерного #HPC планировщика очереди задач (#workload manager/#scheduler) #Altair #PBS Pro через новый ANSYS #RSM. Все дело в том, что RSM, утилита взаимодействия решателей ANSYS с вычислительными ресурсам, в 18-ой версии сильно изменилась. Хотя, на мой взгляд, это здорово пошло ей на пользу.&lt;/p&gt;
+&lt;p&gt;Хоть статья и написана про PBS Pro, но настройка #IBM #LSF, MS HPC Cluster, Grid Engine будет проходить точно также - все настройки унифицированы.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.quantumhpc.com/en/blog/how-to-configure-ansys-rsm-v18-with-a-pbs-pro-cluster&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;How to configure ANSYS RSM v18 with a PBS Pro cluster | HPC Cloud Computing&lt;/a&gt;
+&lt;a href=&#34;https://quantumhpc.com/en/blog/how-to-configure-ansys-rsm-v18-with-a-pbs-pro-cluster&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://quantumhpc.com/en/blog/how-to-configure-ansys-rsm-v18-with-a-pbs-pro-cluster&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WB LS-DYNA ACT 18.0</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-10-wb-ls-dyna-act-180/</link>
+      <pubDate>Fri, 10 Mar 2017 09:00:54 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-10-wb-ls-dyna-act-180/</guid>
+      <description>&lt;p&gt;WB LS-DYNA ACT 18.0
+&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-222&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-222&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS выложил новую версию #Workbench #LSDYNA #ACT для релиза 18.0&lt;/p&gt;
+&lt;p&gt;Сначала бочка меда:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Опция переключения Deformable To Rigid доступна из GUI&lt;/li&gt;
+&lt;li&gt;LS-DYNA Named Selections Manager теперь позволяет в явном виде задавать какой ID будет у Named Selections при трансляции его в соответсвующую абстракцию LS-DYNA. Эта функция очень полезна и снимает кучу головной боле при работе с Keyword Snippet.&lt;/li&gt;
+&lt;li&gt;Супер недокументированная функция: похоже, что WB LS-DYNA ACT научилась работать с #RSM! И не только с RSM для постановки задач на самого себя в фон в очередь, но и с #ARC и прочими #HPC кластерами. Но это еще надо проверять.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Потом ложка дегтя:
+Во-первых, ACT отсутствует в списке доступных для 18-ой версии и находится только поиском.
+Во-вторых, ANSYS обещал, что в 18-ой версии они сделают это ACT устанавливающимся по нормальному, а не через отдельный инсталятор - слово не сдержали.
+В-третьих, в документации к ACT сказано, что опять ничего нового нет и только багфикс - ан нет, появились новые функции, хотя и без документации.
+В-четвертых, из коробки так и не работает ALE - приходится вручную определять правильные настройки *CONTROL_ALE&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-222&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-222&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Еще один способ упростить расчеты LS-DYNA</title>
-      <link>http://localhost:1313/posts/2017-02-21-esche-odin-sposob-uprostit-raschety-ls-dyn/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-21-esche-odin-sposob-uprostit-raschety-ls-dyn/</link>
       <pubDate>Tue, 21 Feb 2017 17:03:20 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-02-21-esche-odin-sposob-uprostit-raschety-ls-dyn/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.lsdyna-tutorials.com/k-runner&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lsdyna-tutorials.com/k-runner&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-21-esche-odin-sposob-uprostit-raschety-ls-dyn/</guid>
+      <description>&lt;p&gt;Еще один способ упростить расчеты LS-DYNA
+&lt;a href=&#34;http://www.lsdyna-tutorials.com/k-runner&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lsdyna-tutorials.com/k-runner&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;На сайте &lt;a href=&#34;http://www.lsdyna-tutorials.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lsdyna-tutorials.com/&lt;/a&gt; появился еще один интересный ланчер для расчетов в #LSDYNA. Он позволяет построить настоящую расчетную сеть с клиентами и серверами приложений - прямо как #ANSYS #RSM. Я бы такой развернул на работе, правда, боюсь, что эта штука окажется платной.
 #HPC&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=TraTYWyLf0s&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=TraTYWyLf0s&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lsdyna-tutorials.com/k-runner&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lsdyna-tutorials.com/k-runner&lt;/a&gt;
+&lt;a href=&#34;http://www.lsdyna-tutorials.com/k-runner&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lsdyna-tutorials.com/k-runner&lt;/a&gt;
+&lt;a href=&#34;http://www.lsdyna-tutorials.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lsdyna-tutorials.com/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=TraTYWyLf0s&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=TraTYWyLf0s&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Мои старые-добрые знакомые, Сигма Технология, на днях объяви</title>
-      <link>http://localhost:1313/posts/2016-04-15-moi-starye-dobrye-znakomye-sigma-tehnol/</link>
+      <title>ANSYS RSM 18.0 для Windows HPC</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-16-ansys-rsm-180-dlya-windows-hpc/</link>
+      <pubDate>Thu, 16 Feb 2017 17:00:59 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-16-ansys-rsm-180-dlya-windows-hpc/</guid>
+      <description>&lt;p&gt;ANSYS RSM 18.0 для Windows HPC
+&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/how-to-ansys-18-rsm-client-setup-on-windows-2012-r2-hpc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.padtinc.com/blog/the-focus/how-to-ansys-18-rsm-client-setup-on-windows-2012-r2-hpc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS #RSM 18 принципиально отличается от всех предыдущих версий RSM. Теперь он легче связывается в кластерными менеджерами очереди задач или сам может быть таким менеджером, благодаря ANSYS RSM Cluster (#ARC).&lt;/p&gt;
+&lt;p&gt;#PADT Inc подготовили небольшую брошюру по настройке и работе RSM совместно с кластером на базе #Windows #Server 2012 R2 и Microsoft #HPC #Cluster Pack.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/how-to-ansys-18-rsm-client-setup-on-windows-2012-r2-hpc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;How-To: ANSYS 18 RSM CLIENT SETUP on Windows 2012 R2 HPC&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как делать HPC для ANSYS 18</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-09-kak-delat-hpc-dlya-ansys-18/</link>
+      <pubDate>Thu, 09 Feb 2017 17:02:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-09-kak-delat-hpc-dlya-ansys-18/</guid>
+      <description>&lt;p&gt;Как делать HPC для ANSYS 18
+&lt;a href=&#34;https://www.cadfem-cis.ru/products/ansys/ansys-update/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/products/ansys/ansys-update/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Коллеги, рад поделиться ссылкой на опубликованный недавно материал, по тематике #HPC для #ANSYS и построения правильно IT инфраструктуры для расчетов.&lt;/p&gt;
+&lt;p&gt;Вот в этом документе вы найдете очень много интересного и нового, чего иногда даже нет и в официальной документации - &lt;a href=&#34;https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/18/ANSYS18_tech.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/18/ANSYS18_tech.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Главные фишки релиза 18.0 с точки зрения HPC:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;поддержка #CentOS 7&lt;/li&gt;
+&lt;li&gt;cобственный встроенный бесплатный кластерный планировщик (aka workload manager, aka scheduler) для Windows и Linux - ANSYS #RSM Cluster (aka #ARC)&lt;/li&gt;
+&lt;li&gt;ANSYS #CFD теперь считает на 4-х ядрах из коробки&lt;/li&gt;
+&lt;li&gt;ANSYS #Explicit STR теперь считает на 2-х ядрах из коробки&lt;/li&gt;
+&lt;li&gt;ANSYS #Maxwell теперь умеет использовать #GPGPU #NVIDIA&lt;/li&gt;
+&lt;li&gt;Первый ANSYS HPC Pack это 10, а не 8 ядре&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cadfem-cis.ru/products/ansys/ansys-update/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Обновления ANSYS 19 – CADFEM&lt;/a&gt;
+&lt;a href=&#34;https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/18/ANSYS18_tech.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/18/ANSYS18_tech.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HPC от HPE</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-21-hpc-ot-hpe/</link>
+      <pubDate>Fri, 21 Oct 2016 17:00:37 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-21-hpc-ot-hpe/</guid>
+      <description>&lt;p&gt;HPC от HPE
+&lt;a href=&#34;https://www.hpe.com/h20195/v2/GetPDF.aspx/4AA4-8082ENW.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.hpe.com/h20195/v2/GetPDF.aspx/4AA4-8082ENW.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;У компании #HPE (Hewlett Packard Enterprise), последнего из титанов железного рынка, есть очень полезный документ, описывающий основные правила построения настоящей #HPC системы для расчетов в #ANSYS. Документ находится по ссылке:
+&lt;a href=&#34;https://www.hpe.com/h20195/v2/GetPDF.aspx/4AA4-8082ENW.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.hpe.com/h20195/v2/GetPDF.aspx/4AA4-8082ENW.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В документе приведены полезные прикидки конфигураций для #CFX, #Fluent и #Mechanical/#APDL, есть информация по #RSM, и все это написано довольно простым языком без воды.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.hpe.com/h20195/v2/GetPDF.aspx/4AA4-8082ENW.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.hpe.com/h20195/v2/GetPDF.aspx/4AA4-8082ENW.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Мои старые-добрые знакомые, Сигма Технология, на днях объявил об очень важном релизе новой версии их замечательного оптимизатора IOSO NM.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-15-moi-starye-dobrye-znakomye-sigma-tehnol/</link>
       <pubDate>Fri, 15 Apr 2016 07:01:37 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-04-15-moi-starye-dobrye-znakomye-sigma-tehnol/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-15-moi-starye-dobrye-znakomye-sigma-tehnol/</guid>
       <description>&lt;p&gt;Итак, версии 3.3 появились такая долгожданная прямая интеграция с #ANSYS #Workbench через #ACT. Теперь IOSO есть в схематизме проекта, а значит он совместим с ANSYS #RSM и может использовать специальные лицензии для параметрических исследований и оптимизации ANSYS HPC Parametric Pack.
 Кроме ANSYS Сигма технологии уважили и другие продукты - появилась интеграция с  Concepts NREC Turboopt II, FLOW-3D,  SolidWorks, FlowVision.&lt;/p&gt;
 &lt;p&gt;Я с IOSO знаком уже лет 7, и могу сказать, что это очень серьезная штука, во многом уделывающая всех иностранных конкурентов.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.iosotech.com/product.htm#Third-party&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Sigma Technology. Products.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Еще раз про #ACT расширения платформы  #ANSYS.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-12-esche-raz-pro-act-rasshireniya-platformy/</link>
+      <pubDate>Fri, 12 Feb 2016 07:00:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-12-esche-raz-pro-act-rasshireniya-platformy/</guid>
+      <description>&lt;p&gt;Мне больше всего понравилось расширение, которое использует #RSM для выполнения удаленного промежуточного расчета.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=M3tUIrLcFm0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS ACT Global Update ANSYS 17&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -2,47 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LSOPT on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/lsopt/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/lsopt/</link>
     <description>MagicDPD: Magic Driven Product Development! (LSOPT)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Sat, 05 Mar 2022 17:18:23 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/lsopt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/lsopt/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Оптимизация топологии с помощью LS-TaSC и параметрическая оп</title>
-      <link>http://localhost:1313/posts/2022-03-05-optimizatsiya-topologii-s-pomoschyu-ls-tasc/</link>
+      <title>Оптимизация топологии с помощью LS-TaSC и параметрическая оптимизация с помощью LS-OPT</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-03-05-optimizatsiya-topologii-s-pomoschyu-ls-tasc/</link>
       <pubDate>Sat, 05 Mar 2022 17:18:23 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-03-05-optimizatsiya-topologii-s-pomoschyu-ls-tasc/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-03-05-optimizatsiya-topologii-s-pomoschyu-ls-tasc/</guid>
       <description>&lt;p&gt;#topology #optimization #LSOPT #LSTaSC #DYNAmore #Ansys &lt;a href=&#34;https://www.youtube.com/watch?v=62CQoY0eOfk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=62CQoY0eOfk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=62CQoY0eOfk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=62CQoY0eOfk&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Большой и очень подробный видео урок про то как можно оптими</title>
-      <link>http://localhost:1313/posts/2017-12-15-bolshoy-i-ochen-podrobnyy-video-urok-pro/</link>
+      <title>Вебинар по #LSOPT от его разработчиков.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-18-vebinar-po-lsopt-ot-ego-razrabotchikov/</link>
+      <pubDate>Fri, 18 Feb 2022 17:00:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-18-vebinar-po-lsopt-ot-ego-razrabotchikov/</guid>
+      <description>&lt;p&gt;LS-OPT является одной из самых сильных систем оптимизации, робастного проектирования и решения задач идентификации параметров. И про это на презентации конечно же расскажут. Но, что самое интересное для меня, на презентации еще расскажут про будущее продукта в инфрастуктуре #Ansys: новая схема именования релизов, обновления в лицензионной политике, обмен технологиями с #optiSLang и будущее моделей пониженного порядка для #LSDYNA&lt;/p&gt;
+&lt;p&gt;#optimization &lt;a href=&#34;https://www.youtube.com/watch?v=axoCIksS0zo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=axoCIksS0zo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=axoCIksS0zo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DYNAmore Express: LS-OPT - Status and Outlook&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Что новенького</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-09-19-chto-novenkogo/</link>
+      <pubDate>Wed, 19 Sep 2018 17:02:09 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-09-19-chto-novenkogo/</guid>
+      <description>&lt;p&gt;Что новенького
+Коллеги, я наконец вернулся из отпуска и даже справился с завалом на рабочем месте. Для возобновления публикаций у меня есть очень вкусный материал, который конечно стал для меня главным событием за последние 3 недели.
+Итак, по ссылке в конце поста вы сможете скачать презентацию от LSTC и ARUP не только по всем новым возможностям LS-DYNA R10, но и по грядущим разработкам R11. Внимание, презентация на 155 слайдов с кучей видео и анимации имеет объем почти 900 Мб (!!!). Но оно того стоит:&lt;/p&gt;
+&lt;p&gt;Моделирование электрической стимуляции сердца
+SPH сварка трением с перемешиванием
+Новые возможности LS-PrePost 4.6 для CFD
+Обновление возможностей в расчете неявной динамики со сложными контактами
+Изогеометрический анализ
+Бессеточные методы расчета хрупкого и пластического разрушения
+Нелинейная теория роста трещин
+Моделирование композитов с учетом взаимодействия всех волокон в матрице
+Оптимизация LS-Opt 6 в связке с ANSA
+Аддитивные технологии&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/jason/Slides/2018_LSTC_Keynote_20.pptx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/jason/Slides/2018_LSTC_Keynote_20.pptx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ARUP #Composite #LSDYNA #LSOPT #LSPrePost #LSTC #Peridynamics #SPH
+&lt;a href=&#34;http://bit.ly/2NmqMnQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NmqMnQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/jason/Slides/2018_LSTC_Keynote_20.pptx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/jason/Slides/2018_LSTC_Keynote_20.pptx&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2NmqMnQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NmqMnQ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Большой и очень подробный видео урок про то как можно оптимизировать аэродинамику задней части автомобиля в #LSDYNA используя решатель #ICFD.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-15-bolshoy-i-ochen-podrobnyy-video-urok-pro/</link>
       <pubDate>Fri, 15 Dec 2017 17:13:39 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-12-15-bolshoy-i-ochen-podrobnyy-video-urok-pro/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-15-bolshoy-i-ochen-podrobnyy-video-urok-pro/</guid>
       <description>&lt;p&gt;Интересные фишки урока - #ANSA используется для морфина сетки. Надо отметить, что та сетка, что вы видите - это не расчетная сетка. Расчетная сетка генерируется решателем на лету. Та сетка, что вы видите - это просто такое представление геометрии для решателя. Это же объясняет отсутствие призматических слоев у границ домена. По сути работая с сеткой в #ANSA тут задают параметризацию формы геометрии как #SpaceClaim.&lt;/p&gt;
 &lt;p&gt;А вот начиная со времени 10:12 начинается настройка параметрического проекта в LS-Opt - бесплатного (!!!) оптимизатора от #LSTC. Очень полезно тем, кто хочет познакомиться с оптимизацией. Бесплатен #LSOPT для тех, у кого есть LS-DYNA 😊&lt;/p&gt;
 &lt;p&gt;И да, если у вас есть весь описаный в уроке софт, то вот ссылка на архив пролета от авторов видео урока: &lt;a href=&#34;http://ift.tt/2AB0pjs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2AB0pjs&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5h0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=5h0&lt;/a&gt;…MediaMediaMedia📼 Shape optimization for CFD analysis using LS-Opt +…&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ift.tt/2ABXw28&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ABXw28&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vlBJYZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlBJYZ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zoi3XR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zoi3XR&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2yfJ8Lg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yfJ8Lg&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2yfJ8Lg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yfJ8Lg&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vVLrF3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vVLrF3&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xRPO1U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xRPO1U&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2ycnLef&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ycnLef&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2BrWdGu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2BrWdGu&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=5h0fU_ee2jI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=5h0fU_ee2jI&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2BrWeKy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2BrWeKy&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2Azpjjy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2Azpjjy&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2BrWgSG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2BrWgSG&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2ABXw28&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ABXw28&lt;/a&gt;
+tp://ift.tt/2ABXw28&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>#DYNAMore выпустили отличнейший учебный курс по #LSDYNA для </title>
-      <link>http://localhost:1313/posts/2017-11-07-dynamore-vypustili-otlichneyshiy-uchebnyy/</link>
+      <title>#DYNAMore выпустили отличнейший учебный курс по #LSDYNA для всех и бесплатно!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-07-dynamore-vypustili-otlichneyshiy-uchebnyy/</link>
       <pubDate>Tue, 07 Nov 2017 17:10:20 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-07-dynamore-vypustili-otlichneyshiy-uchebnyy/</guid>
-      <description>&lt;ol start=&#34;0&#34;&gt;
-&lt;li&gt;Введение в #LSDYNA и #LSPP&lt;/li&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-07-dynamore-vypustili-otlichneyshiy-uchebnyy/</guid>
+      <description>&lt;p&gt;Курс состоит из 10 уроков:
+0. Введение в #LSDYNA и #LSPP&lt;/p&gt;
+&lt;ol&gt;
 &lt;li&gt;Основы МКЭ&lt;/li&gt;
 &lt;li&gt;Решение задачи растяжении болта в #explicit и #implicit постановке&lt;/li&gt;
 &lt;li&gt;Краш анализ в простейшем виде&lt;/li&gt;
@@ -56,6 +111,22 @@
 &lt;p&gt;Вот как надо делать учетные курсы!&lt;/p&gt;
 &lt;p&gt;#ICFD #LSOPT
 &lt;a href=&#34;http://www.dynasupport.com/tutorial/introduction-ls-dyna-ls-prepost-for-explicit-and-implicit-analysis&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynasupport.com/tutorial/introduction-ls-dyna-ls-prepost-for-explicit-and-implicit-analysis&lt;/a&gt; 🔗 Introduction LS-DYNA/LS-PrePost for explicit and implicit analysis — LS-DYNA Support&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2zoi1PJ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zoi1PJ&lt;/a&gt;
+&lt;a href=&#34;http://www.dynasupport.com/tutorial/introduction-ls-dyna-ls-prepost-for-explicit-and-implicit-analysis&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynasupport.com/tutorial/introduction-ls-dyna-ls-prepost-for-explicit-and-implicit-analysis&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Параметрическая оптимизация от LSTC</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-01-parametricheskaya-optimizatsiya-ot-lstc/</link>
+      <pubDate>Wed, 01 Mar 2017 17:02:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-01-parametricheskaya-optimizatsiya-ot-lstc/</guid>
+      <description>&lt;p&gt;Параметрическая оптимизация от LSTC
+&lt;a href=&#34;https://youtu.be/mOWoqcKtTt4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/mOWoqcKtTt4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#LSTC делает не только нежно любимую мной #LSDYNA, но и решения для оптимизации (как параметрический, так и топологической). Вот видео урок по работе с #LSOPT - разбор решения задачи об идентификации свойств модели.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/mOWoqcKtTt4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/mOWoqcKtTt4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/mOWoqcKtTt4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Parameter Identification test&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

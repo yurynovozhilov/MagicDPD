@@ -15,4 +15,6 @@ tags:
 
 Не впечатлило - либо статья унылая, либо сам продукт унылый. Никаких тебе технических инноваций, никаких хитрых моделей. #ANSYS #ACP рулит ИМХО 😊
 
-[ Composite Simulation in CAD Improves Analysis Productivity > ENGINEERING.com ](http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/10514/Composite-Simulation-in-CAD-Improves-Analysis-Productivity.aspx)
+~~[ Composite Simulation in CAD Improves Analysis Productivity > ENGINEERING.com ](http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/10514/Composite-Simulation-in-CAD-Improves-Analysis-Productivity.aspx)~~ → [Сохранённая версия](http://web.archive.org/web/20200815030556/https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/10514/Composite-Simulation-in-CAD-Improves-Analysis-Productivity.aspx)
+
+*Оригинальная ссылка больше не доступна*

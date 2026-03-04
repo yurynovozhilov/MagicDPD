@@ -2,49 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OpenGL on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/opengl/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/opengl/</link>
     <description>MagicDPD: Magic Driven Product Development! (OpenGL)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 29 Sep 2016 17:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2020 15:31:24 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/opengl/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/opengl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Несколько слов про доставку инженерной графики</title>
-      <link>http://localhost:1313/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</link>
-      <pubDate>Thu, 29 Sep 2016 17:00:58 +0000</pubDate>
+      <title>Удаленная визуализация для геймеров</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-05-07-udalennaya-vizualizatsiya-dlya-geymerov/</link>
+      <pubDate>Thu, 07 May 2020 15:31:24 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;#Microsoft продолжает хвастаться новыми возможностями по работе с #GPU, которые она реализует в #Windows #Server 2016. Нас ожидает поддержка нужного #OpenGL 4.4+ как в сценариях с #RDSH, так и при построении #VDI. При этом, в качестве средства доставки будет выступать привычный и понятный #RDP, а видеопоток будет полностью аппаратно кодироваться и декодироваться на GPU сервера и клиента. Аналогичные возможности ожидаются в #Azure #Cloud.&lt;/p&gt;
-&lt;p&gt;Неужели скоро все инженеры получат достойные системы доставки инженерной графики практически за так?&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-05-07-udalennaya-vizualizatsiya-dlya-geymerov/</guid>
+      <description>&lt;p&gt;Удаленная визуализация для геймеров&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/%d1%83%d0%b4%d0%b0%d0%bb%d0%b5%d0%bd%d0%bd%d0%b0%d1%8f-%d0%b2%d0%b8%d0%b7%d1%83%d0%b0%d0%bb%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f-%d0%b4%d0%bb%d1%8f-%d0%b3%d0%b5%d0%b9%d0%bc%d0%b5%d1%80%d0%be%d0%b2/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Удаленная визуализация для геймеров - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Молния: открыта очередь на тестирование GPU NVIDIA в облаке </title>
-      <link>http://localhost:1313/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</link>
+      <title>Удаленная работа с инженерной графикой</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-04-20-udalennaya-rabota-s-inzhenernoy-grafikoy/</link>
+      <pubDate>Mon, 20 Apr 2020 13:00:15 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-04-20-udalennaya-rabota-s-inzhenernoy-grafikoy/</guid>
+      <description>&lt;p&gt;Удаленная работа с инженерной графикой
+#HPC #OpenGL #RDP #RemoteFX #remoteviz
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/%d1%83%d0%b4%d0%b0%d0%bb%d0%b5%d0%bd%d0%bd%d0%b0%d1%8f-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0-%d1%81-%d0%b8%d0%bd%d0%b6%d0%b5%d0%bd%d0%b5%d1%80%d0%bd%d0%be%d0%b9-%d0%b3%d1%80%d0%b0%d1%84%d0%b8%d0%ba/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Удаленная работа с инженерной графикой - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Несколько слов про доставку инженерной графики</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</link>
+      <pubDate>Thu, 29 Sep 2016 17:00:58 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</guid>
+      <description>&lt;p&gt;Несколько слов про доставку инженерной графики
+&lt;a href=&#34;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Microsoft продолжает хвастаться новыми возможностями по работе с #GPU, которые она реализует в #Windows #Server 2016. Нас ожидает поддержка нужного #OpenGL 4.4+ как в сценариях с #RDSH, так и при построении #VDI. При этом, в качестве средства доставки будет выступать привычный и понятный #RDP, а видеопоток будет полностью аппаратно кодироваться и декодироваться на GPU сервера и клиента. Аналогичные возможности ожидаются в #Azure #Cloud.&lt;/p&gt;
+&lt;p&gt;Неужели скоро все инженеры получат достойные системы доставки инженерной графики практически за так?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;New MS Mechanics video with the latest updates to RDS for Windows Server 2016&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MS RDP и OpenGL</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-16-ms-rdp-i-opengl/</link>
+      <pubDate>Fri, 16 Sep 2016 17:00:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-16-ms-rdp-i-opengl/</guid>
+      <description>&lt;p&gt;MS RDP и OpenGL
+&lt;a href=&#34;http://www.nvidia.com/download/driverResults.aspx/79105/en-us&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.nvidia.com/download/driverResults.aspx/79105/en-us&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;На днях один из моих коллег пожаловался мне, что у него через #RDP совершенно не тормозит работа с тяжелой моделью в #ANSYS. Я всегда держал в голове, что через RDP всегда получается плохо работать с #OpenGL. Каково же было мое удивление, когда я увидел по данным тестов поддержку OpenGL 4.4! И никаких тормозов!&lt;/p&gt;
+&lt;p&gt;Секрет оказался прост: оказывается для профессиональный видеокарт #NVIDIA давно (начиная с версии драйвера 341.05) включила поддержку OpenGL 4+ при работе через RDP. A #Windows 10 обеспечил сжатие потока хорошим видеокодеком.&lt;/p&gt;
+&lt;p&gt;Так что всем бегом за профессиональными видеокартами.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.nvidia.com/download/driverResults.aspx/79105/en-us&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.nvidia.com/download/driverResults.aspx/79105/en-us&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.nvidia.com/download/driverResults.aspx/79105/en-us&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;NVIDIA DRIVERS Quadro Desktop/Quadro Notebook Driver Release 340 WHQL&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HPE прикупила себе SGI</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-13-hpe-prikupila-sebe-sgi/</link>
+      <pubDate>Sat, 13 Aug 2016 06:30:40 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-13-hpe-prikupila-sebe-sgi/</guid>
+      <description>&lt;p&gt;HPE прикупила себе SGI
+&lt;a href=&#34;https://www.hpcwire.com/2016/08/11/hpe-gobbles-sgi-larger-slice-11b-hpc-pie/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.hpcwire.com/2016/08/11/hpe-gobbles-sgi-larger-slice-11b-hpc-pie/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Компания #HPE (которая Hewlett Packard Enterprise) на днях анонсировала сделку по приобретению легендарной #SGI (которая Silicon Graphics Inc., воспетая Виктором Пелевиным в «Generation „П“»).&lt;/p&gt;
+&lt;p&gt;Напомню, что SGI, несмотря на несколько кризисов за время своей жизни, сделала огромный вклад в 3D графику и стандарт #OpenGL. На счету компании также разработка собственного коннекта #NUMAlink, позволяющего сделать из кластера машину с общей памятью на аппаратном уровне и высокопроизводительная файловая система #XFS.&lt;/p&gt;
+&lt;p&gt;Мы стали свидетелями конца еще одной легенды мира #HPC.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.hpcwire.com/2016/08/11/hpe-gobbles-sgi-larger-slice-11b-hpc-pie/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;HPE Gobbles SGI for Larger Slice of $11B HPC Pie&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Молния: открыта очередь на тестирование GPU NVIDIA в облаке AZURE</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</link>
       <pubDate>Fri, 05 Aug 2016 12:30:08 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://gpu.azure.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://gpu.azure.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Вчера компания #Microsoft выдала очередной анонс запуска #GPU инстансов в #Azure. Примерно год назад компания уже писала о своих планах в блоке, но видимо разработка идет не так гладко, как хотелось бы. Сейчас, вместе с анонсом компания разместила страницу регистрации на тестирование нового продукта. Лично я уже заказал сете на тест машинку с 2-мя #NVIDIA #Tesla #K80, 224 Гб RAM и 1.5 Тб SSD.&lt;/p&gt;
 &lt;p&gt;Еще Microsoft говори о партнерстве с компанией #Teradici для использования технологии #PCoIP доставляющей удаленные рабочие столы со сложной графикой. Это немного странно для меня. Во-первых Teradici - это решение заклятого конкурента #VMWare. Во-вторых, где обещанный ранее #DDS и новый #RemoteFX с поддержкой #OpenGL 4+ (заявлено для #Windows #Server 2016)? Неужели MS отказывает использовать свои серверные операционные систем и технологии в своем же облаке?&lt;/p&gt;
 &lt;p&gt;#VDI #Cloud #HPC
 &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gpu.azure.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Virtual machine sizes overview - Azure Virtual Machines&lt;/a&gt;
+&lt;a href=&#34;http://gpu.azure.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://gpu.azure.com/&lt;/a&gt;
+&lt;a href=&#34;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Отличный ликбез по теме доставки приложений и рабочих столов</title>
-      <link>http://localhost:1313/posts/2015-10-12-otlichnyy-likbez-po-teme-dostavki-prilozhe/</link>
+      <title>Отличный ликбез по теме доставки приложений и рабочих столов с удаленных серверов.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-12-otlichnyy-likbez-po-teme-dostavki-prilozhe/</link>
       <pubDate>Mon, 12 Oct 2015 18:01:12 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-12-otlichnyy-likbez-po-teme-dostavki-prilozhe/</guid>
-      <description>&lt;p&gt;Если собираетесь проектировать расчетный классе для предприятия - данный документ обязателен к изучению!&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-12-otlichnyy-likbez-po-teme-dostavki-prilozhe/</guid>
+      <description>&lt;p&gt;Досконально разобраны все подводные ками, обозрении практически все ханологии (забыли только две: старый-злой VirtualGL и находящийся в зачаточном состоянии Spice Space).&lt;/p&gt;
+&lt;p&gt;Если собираетесь проектировать расчетный классе для предприятия - данный документ обязателен к изучению!&lt;/p&gt;
 &lt;p&gt;Более свежие версии документа доступны на сайте самих Team RGE (&lt;a href=&#34;https://www.teamrge.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.teamrge.com&lt;/a&gt;) после бесплатной регистрации.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.teamrge.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Team Remote Graphics Experts – TeamRGE&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

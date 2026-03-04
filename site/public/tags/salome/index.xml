@@ -2,34 +2,124 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Salome on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/salome/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/salome/</link>
     <description>MagicDPD: Magic Driven Product Development! (Salome)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 17 Mar 2022 17:00:12 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/salome/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/salome/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>В современном мире открытых свободных КЭ кодов для решения п</title>
-      <link>http://localhost:1313/posts/2022-03-17-v-sovremennom-mire-otkrytyh-svobodnyh-ke/</link>
+      <title>В современном мире открытых свободных КЭ кодов для решения прочностных задач вы можете найти очень много интересных продуктов.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-03-17-v-sovremennom-mire-otkrytyh-svobodnyh-ke/</link>
       <pubDate>Thu, 17 Mar 2022 17:00:12 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-03-17-v-sovremennom-mire-otkrytyh-svobodnyh-ke/</guid>
-      <description>&lt;p&gt;#opensource #mesh #salome #HEXABLOCK &lt;a href=&#34;https://www.youtube.com/watch?v=aFwOo37VGag&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=aFwOo37VGag&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-03-17-v-sovremennom-mire-otkrytyh-svobodnyh-ke/</guid>
+      <description>&lt;p&gt;Однако большинство из них будет опираться на платформу Salome для пер/постпроцессинга. Ну а самое сложное в любой CAE - это создание хорошего сеточного генератора, которого я пока не находил среди открытых кодов. Однако оказалось, что в Salome есть не только TET сетки - Salome может еще и HEX благодаря системе HEXABLOCK генерации блочной структурированной топологии. Судя по видео, что нашлось в сети после недолгих поисков, удобство работы находится где-то между LS-PrePost BlockM и Ansys ICEM CFD.&lt;/p&gt;
+&lt;p&gt;#opensource #mesh #salome #HEXABLOCK &lt;a href=&#34;https://www.youtube.com/watch?v=aFwOo37VGag&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=aFwOo37VGag&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=aFwOo37VGag&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=aFwOo37VGag&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Хотите считать, но нет денег на софт? Тогда смотрите на #ope</title>
-      <link>http://localhost:1313/posts/2017-11-30-hotite-schitat-no-net-deneg-na-soft-to/</link>
+      <title>Коллеги подогнали свежее видео с канала FEA for ALL о том, как можно в #Salome с #Python и такой-то матерью сгенерировать сложный объект, вроде массива бетона с включениями.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-09-kollegi-podognali-svezhee-video-s-kanala/</link>
+      <pubDate>Sun, 09 Jan 2022 07:00:57 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-09-kollegi-podognali-svezhee-video-s-kanala/</guid>
+      <description>&lt;p&gt;В целом, на основе того кода, что мелькает в видео, можно сгенерировать объекты и не только суровом #opensource&lt;/p&gt;
+&lt;p&gt;#concrete #fracture &lt;a href=&#34;https://youtu.be/MwHQIvgH5xU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/MwHQIvgH5xU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/MwHQIvgH5xU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/MwHQIvgH5xU&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>salome_cfd 2019</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-03-salome-cfd-2019/</link>
+      <pubDate>Tue, 03 Sep 2019 13:00:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-03-salome-cfd-2019/</guid>
+      <description>&lt;p&gt;salome_cfd 2019&lt;/p&gt;
+&lt;p&gt;Трейлер конференции пользователей CFD решателя с открытым кодом Code_Saturne и препроцессора Salome. Выглядит очень впечатляюще. Огранизаторы: &lt;a href=&#34;https://www.code-saturne.org/cms/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.code-saturne.org/cms/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#CFD #Code_Saturn #Open_Source #Salome&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2F2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2F2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.code-saturne.org/cms/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.code-saturne.org/cms/&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2F2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2F2&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Инструкция к Salome от IBM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-25-instruktsiya-k-salome-ot-ibm/</link>
+      <pubDate>Thu, 25 Apr 2019 17:00:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-25-instruktsiya-k-salome-ot-ibm/</guid>
+      <description>&lt;p&gt;Инструкция к Salome от IBM&lt;/p&gt;
+&lt;p&gt;Старая русскоязычная документация к открытому препосту Salome Meca лежит в библиотеке IBM. Хозяину на заметку &lt;a href=&#34;https://www.ibm.com/developerworks/ru/library/l-salome_01/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ibm.com/developerworks/ru/library/l-salome_01/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#IBM #Open_Source #Salome&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2un&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2un&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ibm.com/developerworks/ru/library/l-salome_01/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ibm.com/developerworks/ru/library/l-salome_01/index.html&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2un&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2un&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Хотите считать, но нет денег на софт?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-30-hotite-schitat-no-net-deneg-na-soft-to/</link>
       <pubDate>Thu, 30 Nov 2017 17:17:01 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-30-hotite-schitat-no-net-deneg-na-soft-to/</guid>
-      <description>&lt;p&gt;#Salome
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-30-hotite-schitat-no-net-deneg-na-soft-to/</guid>
+      <description>&lt;p&gt;Тогда смотрите на #opensource - вот например информация по установке #Salome-Meca 2017 прямо на ваш любимы Windows.&lt;/p&gt;
+&lt;p&gt;#Salome
 &lt;a href=&#34;https://youtu.be/PHLCcQhkNboMedia&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/PHLCcQhkNboMedia&lt;/a&gt;📼 How to install Salome-Meca 2017 on Windows?&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ift.tt/2isblw7&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2isblw7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2wPpoid&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wPpoid&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2isgm85&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2isgm85&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2isgm85&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2isgm85&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/PHLCcQhkNbo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/PHLCcQhkNbo&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2AspkJ7&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2AspkJ7&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2isblw7&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2isblw7&lt;/a&gt;
+ttp://ift.tt/2isblw7&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учебные материалы OpenFOAM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-05-uchebnye-materialy-openfoam/</link>
+      <pubDate>Wed, 05 Jul 2017 17:01:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-05-uchebnye-materialy-openfoam/</guid>
+      <description>&lt;p&gt;Учебные материалы OpenFOAM
+&lt;a href=&#34;https://youtu.be/5U7jZ48vOZ4?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/5U7jZ48vOZ4?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Команда CFD Support выложила учебный курс по #OpenFOAM в рамках препоста #Salome. Учебный курс пока в пяти частях.&lt;/p&gt;
+&lt;p&gt;#CFD #OpenSource&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/5U7jZ48vOZ4?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/5U7jZ48vOZ4?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/5YaQx3VoGNo?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/5YaQx3VoGNo?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/6yhtVbC_hko?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/6yhtVbC_hko?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/tl2iOcpFMr0?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/tl2iOcpFMr0?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/R_1BWTvxt5Q?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/R_1BWTvxt5Q?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/5U7jZ48vOZ4?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Salome CFD Preprocessing Training Valve Tutorial Video Part 1&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/5YaQx3VoGNo?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/5YaQx3VoGNo?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/6yhtVbC_hko?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/6yhtVbC_hko?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/tl2iOcpFMr0?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/tl2iOcpFMr0?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/R_1BWTvxt5Q?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/R_1BWTvxt5Q?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Изучаем оперсорс</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-04-izuchaem-opersors/</link>
+      <pubDate>Fri, 04 Nov 2016 17:00:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-04-izuchaem-opersors/</guid>
+      <description>&lt;p&gt;Изучаем оперсорс
+&lt;a href=&#34;http://laduga.ru/salome/index.shtml#tutorials&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://laduga.ru/salome/index.shtml#tutorials&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Компания #Ладуга, специализирующася на расчетах в автомобильной промышленности, на своем сайте сделала очень недурную подборку учебных пособий (часть из которых эксклюзивна) по работе с #CAE с открытым исходным кодом. Суда попали такие системы, как Salome, Code-Aster и Code-Saturne - привет от #CAELinux
+#Salome, #CodeAster, #CodeSaturne, #opensource&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.laduga.ru/salome/index.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SALOME, CODE-ASTER, CODE-SATURNE&lt;/a&gt;
+&lt;a href=&#34;http://laduga.ru/salome/index.shtml#tutorials&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://laduga.ru/salome/index.shtml#tutorials&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

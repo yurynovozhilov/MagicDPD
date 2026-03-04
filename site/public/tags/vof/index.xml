@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VOF on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/vof/</link>
+    <description>MagicDPD: Magic Driven Product Development! (VOF)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 07 Jan 2022 16:00:39 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/vof/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>11 января 2022 года в 18:00 по Москве #DRD Technology Corporation проведет вебинар по моделированию смазки зубчатых передач.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-07-11-yanvarya-2022-goda-v-1800-po-moskve-d/</link>
+      <pubDate>Fri, 07 Jan 2022 16:00:39 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-07-11-yanvarya-2022-goda-v-1800-po-moskve-d/</guid>
+      <description>&lt;p&gt;В ходе обзора будут сравниваться два основных подхода: #CFD #VOF (#Ansys #Fluent) и #SPH (#Ansys #LSDYNA).
+Стоит иметь в виду, что DRD Technology Corporation занимается консалтингом и внедрением инструментов математического моделирования Ansys c 1989 года.
+Я думаю, что быстрее будет LS-DYNA, а точнее - Fluent. &lt;a href=&#34;https://www.youtube.com/watch?v=9MWXCk7gBXo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=9MWXCk7gBXo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=9MWXCk7gBXo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=9MWXCk7gBXo&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Переход от VOF к DPM во Fluent 19.0</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-02-perehod-ot-vof-k-dpm-vo-fluent-190/</link>
+      <pubDate>Fri, 02 Mar 2018 09:41:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-02-perehod-ot-vof-k-dpm-vo-fluent-190/</guid>
+      <description>&lt;p&gt;Переход от VOF к DPM во Fluent 19.0
+Очередная крутая функция ANSYS Fluent 19.0 — теперь для расчета распыления.&lt;/p&gt;
+&lt;p&gt;В версии  19 главный CFD код от ANSYS получил интересную возможность.&lt;/p&gt;
+&lt;p&gt;Теперь для более точного и быстрого расчета распыла он может переводить кали, которые получаются в VOF модели в DPM частицы — читай считать их как DEM. Таким образом решатель больше не ограничен снизу размером сетки как ограничителем объема капель.&lt;/p&gt;
+&lt;p&gt;ANSYS Fluent 19 Speeds CFD Spray Simulations&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys-blog.com/fluent-19-speeds-cfd-spray-simulations/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys-blog.com/fluent-19-speeds-cfd-spray-simulations/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

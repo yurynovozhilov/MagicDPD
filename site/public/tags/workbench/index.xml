@@ -2,61 +2,214 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workbench on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/workbench/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/workbench/</link>
     <description>MagicDPD: Magic Driven Product Development! (Workbench)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Tue, 06 Dec 2022 19:00:01 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/workbench/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/workbench/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Сегодня, 6 декабря 2022 года, компания #Ansys объявила о под</title>
-      <link>http://localhost:1313/posts/2022-12-06-segodnya-6-dekabrya-2022-goda-kompaniya/</link>
+      <title>Сегодня, 6 декабря 2022 года, компания #Ansys объявила о подписании соглашения по поглощению #DYNAmore!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-12-06-segodnya-6-dekabrya-2022-goda-kompaniya/</link>
       <pubDate>Tue, 06 Dec 2022 19:00:01 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-12-06-segodnya-6-dekabrya-2022-goda-kompaniya/</guid>
-      <description>&lt;p&gt;DYNAmore поставляет и поддерживает #LSDYNA (отраслевой стандарт для краштестов) для всех ключевых автомобильных компаний европы, что генерирует внушительный поток денег.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-12-06-segodnya-6-dekabrya-2022-goda-kompaniya/</guid>
+      <description>&lt;p&gt;В официальном пресс-релизе компания DYNAmore позиционируется как ключ к мировой автомобильной индустрии, и это не далеко от истины.&lt;/p&gt;
+&lt;p&gt;DYNAmore поставляет и поддерживает #LSDYNA (отраслевой стандарт для краштестов) для всех ключевых автомобильных компаний европы, что генерирует внушительный поток денег.&lt;/p&gt;
 &lt;p&gt;Однако, стоит отметить, что DYNAmore по умолчанию сидит не на инфраструктуре Ansys - они предпочитают специализированные решения от #BetaCAE (#ANSA, например), #Oasys (#PRIMER, например) и даже #Hexagon (#DIGIMAT, например). А еще у DYNAmore есть и свои разработки, иногда конкурирующие с Ansys: DYNAFORM (привет Ansys Forming), связка LoCo+CAViT+Status.E (привет #Minerva и #EKM), #FEMZIP и куча разных утилит по мельче.&lt;/p&gt;
 &lt;p&gt;Так что инженеров DYNAmore в ближайшие годы ждет интересный процесс борьбы за привычные инструменты и погружения в мир #Workbench. &lt;a href=&#34;https://www.ansys.com/news-center/press-releases/12-6-22-ansys-and-automotive-simulation-leader-dynamore-sign-definitive-acquisition-agreement&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/news-center/press-releases/12-6-22-ansys-and-automotive-simulation-leader-dynamore-sign-definitive-acquisition-agreement&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys.com/news-center/press-releases/12-6-22-ansys-and-automotive-simulation-leader-dynamore-sign-definitive-acquisition-agreement&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys and Automotive Simulation Leader DYNAmore Sign Definitive Acquisition Agreement&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Сегодня я бы хотел высказать пару мыслей про #opensource про</title>
-      <link>http://localhost:1313/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</link>
+      <title>Сегодня я бы хотел высказать пару мыслей про #opensource проект #pyAnsys.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</link>
       <pubDate>Wed, 14 Sep 2022 18:00:17 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</guid>
-      <description>&lt;p&gt;Итак, #Python внутри экосистемы #Ansys есть очень давно, так почему все вдруг начала говорить про #pyAnsys? Дело в том, что раньше python выступал только в роли некого внутреннего инструмента помощи в постановки задачи. Вы запускали продукты Ansys, и в них уже могли что-то автоматизировать на python.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</guid>
+      <description>&lt;p&gt;Многие мои друзья, с которыми мы обсуждали данный проект, изначально неправильно поняли, что это, и не придали ему должного значения.&lt;/p&gt;
+&lt;p&gt;Итак, #Python внутри экосистемы #Ansys есть очень давно, так почему все вдруг начала говорить про #pyAnsys? Дело в том, что раньше python выступал только в роли некого внутреннего инструмента помощи в постановки задачи. Вы запускали продукты Ansys, и в них уже могли что-то автоматизировать на python.&lt;/p&gt;
 &lt;p&gt;pyAnsys полностью меняет концепцию. У каждого модуля появляется свой #API, который вы можете использовать в вашей #python программе. Ansys тут выступает как вспомогательный инструмент.&lt;/p&gt;
 &lt;p&gt;Например, #pyMAPDL позволяет полностью поставить #FEM задачу и запустить решатель MAPDL, который вообще может быть помещен в #docker контейнер. Обработка данных теперь может производиться единым #pyDPF фреймвоком. Данные между решателями теперь могут передаваться как вы придумаете - ведь у всех них есть свой открытый API! И да, никто не ограничивает вас в возможности совместной работы продуктов Ansys и не Ansys. В стандартных примерах вы сейчас можете найти инструкции для работы с #Gmsh.&lt;/p&gt;
 &lt;p&gt;Я бы сказал, что #pyAnsys - это основа для переосмысления Workbench. Сейчас все связи между модулями #Workbench жестко определенны разработчиками. С pyAnsys вас больше нет таких ограничений, а что еще нужно вам для проведения новых увлекательных расчетов? &lt;a href=&#34;https://docs.pyansys.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://docs.pyansys.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.pyansys.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://docs.pyansys.com/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>MpCCI - связка любых расчетных кодов для междисциплинарных р</title>
-      <link>http://localhost:1313/posts/2018-11-07-mpcci-svyazka-lyubyh-raschetnyh-kodov-dlya/</link>
+      <title>Проектирование АЭС в Ansys</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-24-proektirovanie-aes-v-ansys/</link>
+      <pubDate>Tue, 24 Mar 2020 15:22:58 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-24-proektirovanie-aes-v-ansys/</guid>
+      <description>&lt;p&gt;Проектирование АЭС в Ansys
+#ACT #ANSYS #Civil #CivilFEM #concrete #Ingeciber #NPP #Workbench
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/design-and-seismic-re-evaluation-of-nuclear-power-plants-modelled-with-ansys/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Проектирование АЭС в Ansys - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-DYNA Structured-ALE ACT</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-04-ls-dyna-structured-ale-act/</link>
+      <pubDate>Thu, 04 Jul 2019 17:00:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-04-ls-dyna-structured-ale-act/</guid>
+      <description>&lt;p&gt;LS-DYNA Structured-ALE ACT&lt;/p&gt;
+&lt;p&gt;Не успели в ANSYS 19.2 открыть API для написания ACT расширений к WB LS-DYNA (которая сама по себе является ACT расширением), как им уже успели воспользоваться. Встречайте, расширение для работы с S-ALE решателем: &lt;a href=&#34;https://catalog.ansys.com/product/5c769050393ff6be9837bb9f/ls-dyna-structured&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://catalog.ansys.com/product/5c769050393ff6be9837bb9f/ls-dyna-structured&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В целом, штука позволяет значительно упростить подобные расчеты. Жаль только, что пост процессинга она делать не умеет — вам придется идти в LS-PrePost.&lt;/p&gt;
+&lt;p&gt;В комплекте два учебных примера: Тест Тейлора и удар птицы в крыло самолёта.&lt;/p&gt;
+&lt;p&gt;#ACT #ALE #ANSYS #LS_DYNA #S_ALE #Workbench&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2qv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2qv&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://catalog.ansys.com/product/5c769050393ff6be9837bb9f/ls-dyna-structured&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://catalog.ansys.com/product/5c769050393ff6be9837bb9f/ls-dyna-structured&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2qv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2qv&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CivilFEM APPs — обзор работы в вебинаре</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-03-civilfem-apps-obzor-raboty-v-vebinare/</link>
+      <pubDate>Wed, 03 Jul 2019 19:18:41 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-03-civilfem-apps-obzor-raboty-v-vebinare/</guid>
+      <description>&lt;p&gt;CivilFEM APPs — обзор работы в вебинаре&lt;/p&gt;
+&lt;p&gt;Обзор работы ACT расширения CivilFEM уже для свежего ANSYS Mechanical 2019 R2. Кому нужно считать железобетон по нормам Eurocode, ASIC, LRFD, ASIC ASD, ACI318 и ACI349 — смотрим и вникаем.&lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS #CivilFEM #Ingeciber #Mechanical #Workbench&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Ay&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Ay&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Ay&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Ay&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSC изобрел ANSYS Workbench</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-09-msc-izobrel-ansys-workbench/</link>
+      <pubDate>Sat, 09 Mar 2019 17:01:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-09-msc-izobrel-ansys-workbench/</guid>
+      <description>&lt;p&gt;MSC изобрел ANSYS Workbench&lt;/p&gt;
+&lt;p&gt;Не могу писать данную новость без сарказма. Все больше CAE компаний очень неповоротливы. Но у ANSYS лет 10 назад получилось реализовать идею, за которую ее тогда все ругали, а теперь все пытаются повторить. Это была идея многодисциплинарной расчетной платформы Workbench. ANSYS Workbench берет на себя все заботы о передаче информации между любыми решателями, работающими в рамках его  проекта, а у ANSYS есть действительно любые решатели.&lt;/p&gt;
+&lt;p&gt;Так вот, MSC на днях представила аналогичное решение: CoSim. Ну что тут сказать: много красивых  гифок и картинок (&lt;a href=&#34;https://www.mscsoftware.com/product/co-simulation%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.mscsoftware.com/product/co-simulation)&lt;/a&gt;, но решателей мало: нет ни радиофизики, ни силового электромазнетизма, нет химии и литья пластмасс, нет систем охлаждения электроники, нет турбомашиностроения, нет параметризации для всеобщей  оптимизации, нет вариантов выбора сеточных генераторов… Да и название при плохом владении английским получается неблагозвучное.&lt;/p&gt;
+&lt;p&gt;#ANSYS #CoSim #MSC #Workbench&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2nJ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2nJ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mscsoftware.com/product/co-simulation&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.mscsoftware.com/product/co-simulation&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2nJ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2nJ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Набор на курсы optiSLang E-learning</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-18-nabor-na-kursy-optislang-e-learning/</link>
+      <pubDate>Fri, 18 Jan 2019 17:00:42 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-18-nabor-na-kursy-optislang-e-learning/</guid>
+      <description>&lt;p&gt;Набор на курсы optiSLang E-learning&lt;/p&gt;
+&lt;p&gt;Компания Dynardo объявила набор на учебные курсы optiSLang E-learning. На этих дистанционных учебных курсах вы сможете изучить работу с одной из самых навороченных систем оптимизации/параметрических исследований/робастного проектирования/анализа чувствительности на рынке.&lt;/p&gt;
+&lt;p&gt;optiSLang не только тесно интегрируется в среду ANSYS Workbench, но может работать отдельно с любым исполняемым кодом.&lt;/p&gt;
+&lt;p&gt;Я уже зарегистрировался на обучение, чего и вам желаю. Самым вкусным для меня станет 5-й модуль обучения. В нем рассматривается уникальная особенность optiSLang по калибровке моделей материалов на экспермент и расширенной работе curve fitting.&lt;/p&gt;
+&lt;p&gt;Ссылка на страницу регистрации: https://www.dynardo.de/en/getting-started/e-learning/optislang-e-learning.html&lt;/p&gt;
+&lt;p&gt;#ANSYS #Dynardo #optimization #optiSLang #Workbench&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2fZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2fZ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dynardo.de/en/getting-started/e-learning/optislang-e-learning.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynardo.de/en/getting-started/e-learning/optislang-e-learning.html&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2fZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2fZ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Запись вебиниар по CivilFEM APPs</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-17-zapis-vebiniar-po-civilfem-apps/</link>
+      <pubDate>Sat, 17 Nov 2018 17:01:44 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-17-zapis-vebiniar-po-civilfem-apps/</guid>
+      <description>&lt;p&gt;Запись вебиниар по CivilFEM APPs
+Ingeciber без лишнего промодления выложил на своем канале запись вебинара от 14 ноября 2018 - если вы его пропустили, то вам обязательно стоит ее посмотеть.&lt;/p&gt;
+&lt;p&gt;Нам показали современную реализацию CivilFEM в виде ACT для ANSYS Workbnch. Система полностью интегрирована в ANSYS Mechanical - наконец можно забыть про классический интефейс черного экрана смерти. Ну и в качесвте вишенки на торте: CivilFEM APPs вроде как может зачитывать старые модели в новый интефейс, а значит все ваши разработки минувших лет не пропадут.&lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS #CivilFEM #Ingeciber #Mechanical #Workbench
+&lt;a href=&#34;http://bit.ly/2RXzNl6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RXzNl6&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2RXzNl6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RXzNl6&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MpCCI - связка любых расчетных кодов для междисциплинарных расчетов</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-07-mpcci-svyazka-lyubyh-raschetnyh-kodov-dlya/</link>
       <pubDate>Wed, 07 Nov 2018 17:01:29 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-11-07-mpcci-svyazka-lyubyh-raschetnyh-kodov-dlya/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-07-mpcci-svyazka-lyubyh-raschetnyh-kodov-dlya/</guid>
       <description>&lt;p&gt;Презентация от великого и ужасного общества Fraunhofer по их системе связки любых кодов для выполнения междисциплинарных расчетов. Система поволяет не только дружить ужам и ежам (ANSYS, Abaqus, OpenFOAM, JMAG и прочие), но и осуществляет интерполяцию результатов между разными сетками.&lt;/p&gt;
 &lt;p&gt;Очень полезная штука, если у вас нет ANSYS Workbench и его встроенного System Coupling  :-)
 Сайт программного продукта: https://www.mpcci.de&lt;/p&gt;
 &lt;p&gt;#Fraunhofer #MpCCI #Workbench
 &lt;a href=&#34;http://bit.ly/2PHF2rG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PHF2rG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mpcci.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.mpcci.de/&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2PHF2rG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PHF2rG&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CivilFEM для Workbech</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-30-civilfem-dlya-workbech/</link>
+      <pubDate>Tue, 30 Oct 2018 17:01:47 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-30-civilfem-dlya-workbech/</guid>
+      <description>&lt;p&gt;CivilFEM для Workbech
+14 ноября Ingeciber на своем вебинаре покажет нечто под названием CivilFEM APPs - похоже это будет тот самый долгожданный ACT для работы со всеми возможностями CivilFEM не в черном экране смерти, а в современной системе Mechanical.
+Бесплатная регистрация на две сессии по ссылкам:
+&lt;a href=&#34;http://www.civilfem.com/civilfem-apps-for-ansys-workbench-1/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.civilfem.com/civilfem-apps-for-ansys-workbench-1/&lt;/a&gt;
+&lt;a href=&#34;http://www.civilfem.com/civilfem-apps-for-ansys-workbench-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.civilfem.com/civilfem-apps-for-ansys-workbench-2/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ACT #CivilFEM #Ingeciber #Mechanical #Workbench
+&lt;a href=&#34;http://bit.ly/2PxYlng&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PxYlng&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.civilfem.com/civilfem-apps-for-ansys-workbench-1/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.civilfem.com/civilfem-apps-for-ansys-workbench-1/&lt;/a&gt;
+&lt;a href=&#34;http://www.civilfem.com/civilfem-apps-for-ansys-workbench-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.civilfem.com/civilfem-apps-for-ansys-workbench-2/&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2PxYlng&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PxYlng&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Настройка 2-way-FSI в ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-03-nastroyka-2-way-fsi-v-ansys/</link>
+      <pubDate>Wed, 03 Oct 2018 17:00:24 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-03-nastroyka-2-way-fsi-v-ansys/</guid>
+      <description>&lt;p&gt;Настройка 2-way-FSI в ANSYS
+Серия из двух небольших видео, показывающих как настроить двусторонний FSI для нестационарной задачи.&lt;/p&gt;
+&lt;p&gt;За механику отвечает ANSYS Mechanical, за гидродинамику - ANSYS Fluent.&lt;/p&gt;
+&lt;p&gt;Все это смешиваем в среде Workbench и заставляем работать вместе через System Coupling. Технически выглядит несложно :-)&lt;/p&gt;
+&lt;p&gt;#ANSYS #CFD #Fluent #FSI #Mechanical #SystemCoupling #Workbench
+&lt;a href=&#34;http://bit.ly/2P9pU2S&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2P9pU2S&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2P9pU2S&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2P9pU2S&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS Workflow Designer</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-18-ansys-workflow-designer/</link>
+      <pubDate>Sat, 18 Aug 2018 18:00:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-18-ansys-workflow-designer/</guid>
+      <description>&lt;p&gt;ANSYS Workflow Designer
+Очень полезный учебный пост в блоге ANSYS посвящен вышедшему из статуса beta в версии 19.1 приложению ANSYS Workflow Designer. ANSYS Workflow Designer позволяет вам, не покидая графический интефейс Workbench, и, не используя языков программирования, интегрировать сторонний код в схематику проекта ANSYS Workbench. В блоге есть видеопример для простейшего скрипта, однако даже в этом примере показано взаимодействие не только с механизмом параметризации, но даже со встроенным движком оптимизации DesignXplorer. Ну и в конце, все ваши труды могут быть собраны в ACT расширение.
+Для меня это прям очень нужная возможность - давно хотел попробовать прикрутить один сторонний постпроцессор в WB.
+&lt;a href=&#34;https://www.ansys-blog.com/integrate-third-party-apps-ansys-workbench-without-creating-frankensteins-monster/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys-blog.com/integrate-third-party-apps-ansys-workbench-without-creating-frankensteins-monster/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS #Workbench #WorkflowDesigner
+&lt;a href=&#34;http://bit.ly/2L6Il5d&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2L6Il5d&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys-blog.com/integrate-third-party-apps-ansys-workbench-without-creating-frankensteins-monster/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Integrate Third Party Apps into ANSYS Workbench without Creating Frankenstein’s Monster&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2L6Il5d&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2L6Il5d&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Включаем Implicit решатель в Workbench LS-DYNA</title>
-      <link>http://localhost:1313/posts/2018-08-14-vklyuchaem-implicit-reshatel-v-workbench-l/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-14-vklyuchaem-implicit-reshatel-v-workbench-l/</link>
       <pubDate>Tue, 14 Aug 2018 18:01:23 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-08-14-vklyuchaem-implicit-reshatel-v-workbench-l/</guid>
-      <description>&lt;p&gt;Если очень надо, то можно и Workbench LS-DYNA  заставить работать в Implicit режиме. При этом выводятся очень симпатичные невязки. Хотя графики на первых порах были бы приятнее.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-14-vklyuchaem-implicit-reshatel-v-workbench-l/</guid>
+      <description>&lt;p&gt;Включаем Implicit решатель в Workbench LS-DYNA
+Если очень надо, то можно и Workbench LS-DYNA  заставить работать в Implicit режиме. При этом выводятся очень симпатичные невязки. Хотя графики на первых порах были бы приятнее.
 Далее код командного объекта, что включает хороший нелинейный расчет. Будьте очень аккуратны при копировании: даже несмотря на freeformat стиль записи, есть вероятность, что web форматирование может повредить командный блок. Лучше сначала проверьте его в LS-PrePost. Командный объект подготвлен на основе материалов ARUP, найденных в сети в 2017 году.&lt;/p&gt;
 &lt;p&gt;*CONTROL_ACCURACY
 $
@@ -129,16 +282,86 @@ $
 ,1&lt;/p&gt;
 &lt;p&gt;#ACT #ANSYS #ARUP #Implicit #Longread #LSDYNA #SommandSnipet #Workbench
 &lt;a href=&#34;http://bit.ly/2OwQJgD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OwQJgD&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2OwQJgD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OwQJgD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Запись вебинара CiviFEM для ANSYS 19.1</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-02-zapis-vebinara-civifem-dlya-ansys-191/</link>
+      <pubDate>Thu, 02 Aug 2018 18:00:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-02-zapis-vebinara-civifem-dlya-ansys-191/</guid>
+      <description>&lt;p&gt;Запись вебинара CiviFEM для ANSYS 19.1
+Коллеги из Ingeciber взяли и выложили в публичный доступ запись своего часового доклада - все бы так.&lt;/p&gt;
+&lt;p&gt;Я просмотрел его кусочками и могу отметить 2 момента.&lt;/p&gt;
+&lt;p&gt;Вебинар скорее рассказывает про то, чем вообще полезен CiviFEM, чем про то, что нового в нем вышло. По крайней мере, так оно выглядит для человека, который не работает с инструментом постоянно.
+2. Ingeciber анонсировал скорый выход CivilFEM для Workbench (!!!). Это значит, коллеги наконец выпустят ACT расширение к современному интефейсу ANSYS Mechanical, a про MAPDL Prep7 можно будет забыть, как про страшный сон.&lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS #CivilFEM #Concrete #Ingeciber #Workbench
+&lt;a href=&#34;http://bit.ly/2KkygkZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2KkygkZ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2KkygkZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2KkygkZ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Обзор Siemens SolidEdge 2019</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-18-obzor-siemens-solidedge-2019/</link>
+      <pubDate>Wed, 18 Jul 2018 18:01:09 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-18-obzor-siemens-solidedge-2019/</guid>
+      <description>&lt;p&gt;Обзор Siemens SolidEdge 2019
+Большой и хороший материал от Develop3D с обзором возможностей обновленной версии SolidEdge. В целом видно, что данный продукт нацелен на ту же нишу, что и SpaceClaim, и на бумаге они очень похожи. Но лично меня напрягает один принципиальный момент. Судя по статье, SolidEdge не встраивается в расчетную инфраструктуру - расчетная инфраструктура встраивается в него. Если хотите что-то промоделировать, то вам нужно принести плагин для этого в SolidEdge.
+На мой взгляд, притягивать расчетные возможности в CAD подобный интерфейс - это очень плохая практика. Она возможно и упрощает жизнь самым начинающим, но сильно портит ее опытным пользователям.
+И тут путь ANSYS и его среды ведения проекта Workbench мне кажется намного более правильным. Не надо пихать все возможности в один модуль, как плагины. Разнесите работу с геометрией, создание сетки, постановку расчета, решение задачи и, наконец, анализ результатов по разным модулям, и обеспечьте их совместную работу в рамках одного проекта. Так будет проще учиться, так будет проще разрабатывать код, так будет удобнее классным специалистам. Ведь несколько специализированных инструментов для профи всегда лучше одного &amp;ldquo;мультитула&amp;rdquo;.
+А вы как думаете?
+&lt;a href=&#34;https://www.develop3d.com/reviews/review-siemens-solid-edge-2019-engineering-design-simulation&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.develop3d.com/reviews/review-siemens-solid-edge-2019-engineering-design-simulation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS #Siemens #SolidEdge #Workbench
+&lt;a href=&#34;http://bit.ly/2uwGzoJ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2uwGzoJ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.develop3d.com/reviews/review-siemens-solid-edge-2019-engineering-design-simulation&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DEVELOP3D - Review: Siemens Solid Edge 2019&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2uwGzoJ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2uwGzoJ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>nTopology ACT</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-17-ntopology-act/</link>
+      <pubDate>Tue, 17 Jul 2018 18:01:36 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-17-ntopology-act/</guid>
+      <description>&lt;p&gt;nTopology ACT
+Команда Groupe Réaction Inc и nTopology - системы, позволяющей генерировать и редактировать lattice structure геометрию, запустили в магазин расширений ANSYS свое ACT. За 500 баксов оно позволяет загрузить результаты работы алгоритмов nTopology в виде файлов *.LTCX в структуру Workbench, передать их в виде КЭ сетки балочных или оболочечных элементов (ну наконец-то не надо возиться с восстановлением из STL!) в Mechanical и дальше посчитать все, что вам только в голову придёт. А еще, в качестве beta, там есть возможность задания морфинга lattice structure на уровне сетки.
+&lt;a href=&#34;https://appstore.ansys.com/shop/ACTApps_act%20apps/nTopologyLatticeCustomWorkflow_apc-actapp-403&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/shop/ACTApps_act%20apps/nTopologyLatticeCustomWorkflow_apc-actapp-403&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS #LatticeStructure #Mechanical #NTopology #STL #Workbench
+&lt;a href=&#34;http://bit.ly/2NWdFGw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NWdFGw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/shop/ACTApps_act%20apps/nTopologyLatticeCustomWorkflow_apc-actapp-403&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/shop/ACTApps_act%20apps/nTopologyLatticeCustomWorkflow_apc-actapp-403&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2NWdFGw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NWdFGw&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вебинар по Signal Processing от Dynardo</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-14-vebinar-po-signal-processing-ot-dynardo/</link>
+      <pubDate>Sat, 14 Jul 2018 18:00:35 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-14-vebinar-po-signal-processing-ot-dynardo/</guid>
+      <description>&lt;p&gt;Вебинар по Signal Processing от Dynardo
+Очередной большой вебинар от Dynardo посвящён очень востребованной мной фишке, которую я никак не найду время внедрить. В их системе optiSLang есть такая штука, как Signal Processing. Он может цепляться к расчетным системам ANSYS Workbench, напрямую к LS-DYNA или вообще к любым текстовым файлам.
+Signal Processing позволяет извлекать из текстовых файлов результатов не просто единичные значения, а кривые зависимостей. После этого можно заставить систему провести настройку модели так, чтобы кривая, получаемая в расчете, совпала с заданной точностью с целевой кривой. В английском этот процесс обозначается термином curve fitting.&lt;/p&gt;
+&lt;p&gt;Таким образом Signal Processing становится если не незаменимой, то очень востребованной функцией в задачах калибровки моделей материалов или решении нестационарных задач.&lt;/p&gt;
+&lt;p&gt;#ANSYS #CurveFitting #Dynardo #LSDYNA #Optimization #OptiSLang #SignalProcessing #Workbench
+&lt;a href=&#34;http://bit.ly/2NaSjUw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NaSjUw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2NaSjUw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NaSjUw&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Как корректно остановить решатель на ходу</title>
-      <link>http://localhost:1313/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</link>
       <pubDate>Tue, 03 Jul 2018 18:02:50 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</guid>
-      <description>&lt;p&gt;Есть очень часто встречающаяся задача - запуск решателя в консольном/пакетном режиме для выполнения расчета на рабочей станции или кластере. С этой задачей сталкиваются многие опытные инженеры. Как запускать консольные расчеты хорошо описано в документации, много рассказано на форумах.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</guid>
+      <description>&lt;p&gt;Как корректно остановить решатель на ходу
+Есть очень часто встречающаяся задача - запуск решателя в консольном/пакетном режиме для выполнения расчета на рабочей станции или кластере. С этой задачей сталкиваются многие опытные инженеры. Как запускать консольные расчеты хорошо описано в документации, много рассказано на форумах.
 Однако мало кто знает, что практически любой решатель, работающий в фоне, можно корректно остановить с запуском точки рестарта/чекпоинта. Как правило, необходимо создать особый файл в особом месте. Когда решатель его обнаружит, он сам все поймет. Особый файл будет удалён сразу после его обработки. Давайте посмотрим, как это сделать для основных решателей ANSYS.
 Mechanical/APDL:
 В рабочей директории решателя надо создать файл с именем jobname.abt, где jobname - имя проекта. Файл должен содержать только одно слово: nonlinear
@@ -160,28 +383,90 @@ ANSYS Workbench
 Если вы пользуетесь ANSYS RSM, то там для всех поддерживаемых решателей уже есть стандартная кнопка Interrupt, которая делает всю вышеописанную магию за вас. Настраивайте RSM и наслаждайтесь :-)&lt;/p&gt;
 &lt;p&gt;#AEDT #ANSYS #Autodyn #CFX #Checkpont #Fluent #HPC #Longread #LSDYNA #Restart #RSM #Workbench
 &lt;a href=&#34;http://bit.ly/2u3rrhp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2u3rrhp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2u3rrhp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2u3rrhp&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Вебинары по GTAM/GSAM v16 — оптимизация топологии и не тольк</title>
-      <link>http://localhost:1313/posts/2018-05-06-vebinary-po-gtamgsam-v16-optimizatsiya/</link>
+      <title>Вебинары по GTAM/GSAM v16 — оптимизация топологии и не только</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-06-vebinary-po-gtamgsam-v16-optimizatsiya/</link>
       <pubDate>Sun, 06 May 2018 18:01:18 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-05-06-vebinary-po-gtamgsam-v16-optimizatsiya/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-06-vebinary-po-gtamgsam-v16-optimizatsiya/</guid>
       <description>&lt;p&gt;На случай если вы пропустили данный вебинар, стоит пересмотреть его сейчас. Компания Vanderplaats Research &amp;amp; Development  рассказывает о своих оптимизаторах, встраиваемых в ANSYS Mechanical и существенно расширяющих его возможности. Речь в основном идет об GENESIS Structural Optimization for ANSYS Mechanical (GSAM) и GENESIS Topology Optimization for ANSYS Mechanical (GTAM). GTAM решает только задачи оптимизации топологии, тогда как GSAM умеет еще и такие штуки, как оптимизация по средством морфинга сетки, топографическая оптимизация, оптимизация толщин оболочечных моделей и оптимизация жесткости оболочечных конструкций за счет выштамповок. Скучно не будет, ведь все это может работать с учетом нелинейности на уровне геометрии и свойств материалов! И да, весь софт встраивается в Workbench по средствам ACT.
 #ACT #ANSYS #GENESIS #GSAM #GTAM #Mechanical #optimiziation #Topology #Workbench&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Pr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Pr&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Pr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Pr&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Среди большого набора #ACT расширений для #ANSYS сегодня я н</title>
-      <link>http://localhost:1313/posts/2017-11-14-sredi-bolshogo-nabora-act-rasshireniy-dl/</link>
+      <title>Оптимизация формы через CAESES для ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-13-optimizatsiya-formy-cherez-caeses-dlya-ansys/</link>
+      <pubDate>Tue, 13 Feb 2018 18:02:32 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-13-optimizatsiya-formy-cherez-caeses-dlya-ansys/</guid>
+      <description>&lt;p&gt;Оптимизация формы через CAESES для ANSYS
+Сегодня мы посмотрим, как встроить CAESES в схематику проекта ANSYS Workbench&lt;/p&gt;
+&lt;img class=&#34;aligncenter wp-image-6256 size-large&#34; src=&#34;https://magicdpd.ru/wp-content/uploads/2018/02/geometry_scripting_GUI-1024x532-1024x532.png&#34; alt=&#34;&#34; width=&#34;850&#34; height=&#34;442&#34; /&gt;
+&lt;p&gt;CAESES, от CAE System Empowering Simulation, представляет собой особый геометрический движок, специально созданный для параметризации CAD геометрии под задачи оптимизации формы.&lt;/p&gt;
+&lt;img class=&#34;aligncenter wp-image-6252 size-full&#34; src=&#34;https://magicdpd.ru/wp-content/uploads/2018/02/ANSYS_CAESES_ADD_ON.png&#34; alt=&#34;&#34; width=&#34;858&#34; height=&#34;304&#34; /&gt;
+&lt;p&gt;У CAESES есть специальное ACT расширение, которое позволяет встраиваться в проект Workbench в  качестве поставщика геометрии, связываться по параметрам.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.caeses.com/blog/2018/shape-optimization-in-ansys-with-caeses/&#34;&gt;&lt;a href=&#34;https://www.caeses.com/blog/2018/shape-optimization-in-ansys-with-caeses/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.caeses.com/blog/2018/shape-optimization-in-ansys-with-caeses/&lt;/a&gt;&lt;/a&gt;
+#ACT #ANSYS #CAESES #optimization #Workbench
+&lt;a href=&#34;https://wp.me/p9vWYY-1CE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1CE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/wp-content/uploads/2018/02/geometry_scripting_GUI-1024x532-1024x532.png&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/wp-content/uploads/2018/02/geometry_scripting_GUI-1024x532-1024x532.png&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/wp-content/uploads/2018/02/ANSYS_CAESES_ADD_ON.png&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/wp-content/uploads/2018/02/ANSYS_CAESES_ADD_ON.png&lt;/a&gt;
+&lt;a href=&#34;https://www.caeses.com/blog/2018/shape-optimization-in-ansys-with-caeses/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.caeses.com/blog/2018/shape-optimization-in-ansys-with-caeses/&lt;/a&gt;
+&lt;a href=&#34;https://www.caeses.com/blog/2018/shape-optimization-in-ansys-with-caeses/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.caeses.com/blog/2018/shape-optimization-in-ansys-with-caeses/&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-1CE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1CE&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Наш свежий видео урок по взаимодействию #ANSYS #Workbench и #ANSYS #EKM от коллег из МСК.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-19-nash-svezhiy-video-urok-po-vzaimodeystviyu/</link>
+      <pubDate>Tue, 19 Dec 2017 17:00:53 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-19-nash-svezhiy-video-urok-po-vzaimodeystviyu/</guid>
+      <description>&lt;p&gt;Скажу так: EKM в 18-ой версии это прям годна штука. Я его уже поставил и почти до конца настроил. С коллегами мы к нему даже Let&amp;rsquo;s Encrypt сертификаты прикрутить смогли! Скоро сам смогу рассказать о впечатлениях от использования в бою.&lt;/p&gt;
+&lt;p&gt;#SDM #HPC #RSM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jIw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jIw&lt;/a&gt;…Media📼 VL1726 — Взаимодействие среды ANSYS Workbench с се…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2D1QZ25&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2D1QZ25&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2v28PC1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2v28PC1&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2AZYOUu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2AZYOUu&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2D7KOtF&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2D7KOtF&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2emhAvW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2emhAvW&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zugYgi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zugYgi&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=jIw3tE8FkMw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jIw3tE8FkMw&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2AZYSUe&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2AZYSUe&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2D1QZ25&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2D1QZ25&lt;/a&gt;
+ttp://ift.tt/2D1QZ25&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Коллеги из Tor-Egineering написали статью по мотивам очень старой публикации #padtinc про то, как управляться #ANSYS #Workbench через #Excel при помощи #Python.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-25-kollegi-iz-tor-egineering-napisali-stat/</link>
+      <pubDate>Sat, 25 Nov 2017 17:09:51 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-25-kollegi-iz-tor-egineering-napisali-stat/</guid>
+      <description>&lt;p&gt;В новой публикации исправлены недочеты и обновлены данные. Рабочие примеры прилагаются.&lt;/p&gt;
+&lt;p&gt;#TorEgineering&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://tor-eng.com/2017/04/ansys-workbench-excel-python/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://tor-eng.com/2017/04/ansys-workbench-excel-python/&lt;/a&gt; 🔗 ANSYS Workbench with Excel and Python | Tor Engineering&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vVUTKe&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vVUTKe&lt;/a&gt;
+&lt;a href=&#34;http://tor-eng.com/2017/04/ansys-workbench-excel-python/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://tor-eng.com/2017/04/ansys-workbench-excel-python/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Среди большого набора #ACT расширений для #ANSYS сегодня я нашел кое-что очень полезное для людей занимающихся композитами.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-14-sredi-bolshogo-nabora-act-rasshireniy-dl/</link>
       <pubDate>Tue, 14 Nov 2017 17:11:05 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-14-sredi-bolshogo-nabora-act-rasshireniy-dl/</guid>
-      <description>&lt;ul&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-14-sredi-bolshogo-nabora-act-rasshireniy-dl/</guid>
+      <description>&lt;p&gt;Расширение &amp;ldquo;Multiscale Analysis System&amp;rdquo; от #Сybernet Systems умеет:&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;генерировать геометрию представительных элемент объема композита или ячеек периодичности&lt;/li&gt;
 &lt;li&gt;выполнять прямую КЭ гомогенизации для представительного элемента&lt;/li&gt;
 &lt;li&gt;записывать полученные таким образом эффективные свойства композита прямо в библиотеку материалов проекта #Workbench&lt;/li&gt;
@@ -193,106 +478,428 @@ ANSYS Workbench
 &lt;p&gt;P.S. В дистрибутиве с дополнением есть 3 видео урока!&lt;/p&gt;
 &lt;p&gt;#composite #Homogenization #композиты
 &lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-302&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-302&lt;/a&gt; 🔗 ANSYS Estore&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vlt08X&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlt08X&lt;/a&gt;
+&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-302&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-302&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>#молния! Компания #ANSYS в каталоге #ACT расширения размесил</title>
-      <link>http://localhost:1313/posts/2017-10-21-molniya-kompaniya-ansys-v-kataloge-act/</link>
+      <title>#молния!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-21-molniya-kompaniya-ansys-v-kataloge-act/</link>
       <pubDate>Sat, 21 Oct 2017 08:52:30 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-10-21-molniya-kompaniya-ansys-v-kataloge-act/</guid>
-      <description>&lt;p&gt;Однако, мы помним, что аналогичное #TechnologyPreview модуля топологической оптимизации для 17-ой версии стало стандартным модулем в 18-ой версии. Держим кулаки, что бы в 19-ой версии модуль #Additive #Manufacturing стал стабильным компонентом #Workbench.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-21-molniya-kompaniya-ansys-v-kataloge-act/</guid>
+      <description>&lt;p&gt;Компания #ANSYS в каталоге #ACT расширения размесила модуль для моделироапни процессов 3D печати. Расширение пока что предназначено для демонстрации технологических возможностей кода #ANSYS #Mechanical (#MAPDL).&lt;/p&gt;
+&lt;p&gt;Однако, мы помним, что аналогичное #TechnologyPreview модуля топологической оптимизации для 17-ой версии стало стандартным модулем в 18-ой версии. Держим кулаки, что бы в 19-ой версии модуль #Additive #Manufacturing стал стабильным компонентом #Workbench.&lt;/p&gt;
 &lt;p&gt;#additivemanufacturing #topology #optimization #3dptinting #APDL&lt;/p&gt;
 &lt;p&gt;Ссылка для бесплатного скачивания для всех пользователей с действующей технической поддержкой:
 &lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-318&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-318&lt;/a&gt; 🔗 ANSYS Estore&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2hV1ACe&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hV1ACe&lt;/a&gt;
+&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-318&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-318&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Программное обеспечение True-Load в связке с ANSYS Workbench</title>
-      <link>http://localhost:1313/posts/2017-09-21-programmnoe-obespechenie-true-load-v-svyaz/</link>
+      <title>#LSTC LS-PrePost (#LSPP) очень странный продукт. Это бесплатный пер/постпроцессор, который, на первый взгляд, стране как ядерная война. По красоте он может соперничать с ANSYS MAPDL &#34;Classiс&#34;. Человек, привыкший к работе в #ANSYS #Workbench или #AIM скорее всего убежит из этого пре/постпроцессора. А зря!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-14-lstc-ls-prepost-lspp-ochen-strannyy/</link>
+      <pubDate>Sat, 14 Oct 2017 17:11:15 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-14-lstc-ls-prepost-lspp-ochen-strannyy/</guid>
+      <description>&lt;p&gt;Ведь LSPP обладает рядом особенностей, за которые со временем вы его полюбите (типа &amp;ldquo;Стокгольмский синдром&amp;rdquo;):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;чудовищная скорость работы как с исходной базой, так и с результатами любого размера&lt;/li&gt;
+&lt;li&gt;кроссплатформенность (Linux, Windows, macOS)&lt;/li&gt;
+&lt;li&gt;полная бесплатность&lt;/li&gt;
+&lt;li&gt;полная поддержка всех настроек #LSDYNA (этим вообще никто из сторонних кодов похвастаться не может)&lt;/li&gt;
+&lt;li&gt;поддержка (!!!) да - да - да: хоть LSPP и написан на фортране в перемешку с Си, он все еще активно развивается!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=JBK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=JBK&lt;/a&gt;…Media📼 LS DYNA Tutorial: Model Editing&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2kPHYEv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2kPHYEv&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2xRPO1U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xRPO1U&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2v28PC1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2v28PC1&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vlsZ4T&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlsZ4T&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vlBJYZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlBJYZ&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=JBKhEupfmiI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=JBKhEupfmiI&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xGoF6z&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xGoF6z&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2kPHYEv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2kPHYEv&lt;/a&gt;
+ttp://ift.tt/2kPHYEv&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Внезапно заметил в #ANSYS #Workbench 18.2 при включенных beta опциях новую недокументированную фишку - #ACT Workflow Designer. Есть идеи, как она будет работать, когда будет работать?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-05-vnezapno-zametil-v-ansys-workbench-18/</link>
+      <pubDate>Thu, 05 Oct 2017 08:07:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-05-vnezapno-zametil-v-ansys-workbench-18/</guid>
+      <description>&lt;p&gt;MediaMedia&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2xiOyEu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xiOyEu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2v28PC1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2v28PC1&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vlt08X&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlt08X&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2gd0FgC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2gd0FgC&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2y2u32W&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2y2u32W&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xiOyEu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xiOyEu&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Программное обеспечение True-Load в связке с ANSYS Workbench позволяет решать сложные задачи по обработке экспериментальных значений нагрузок</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-21-programmnoe-obespechenie-true-load-v-svyaz/</link>
       <pubDate>Thu, 21 Sep 2017 16:43:42 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-09-21-programmnoe-obespechenie-true-load-v-svyaz/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://goo.gl/anVknw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/anVknw&lt;/a&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-21-programmnoe-obespechenie-true-load-v-svyaz/</guid>
+      <description>&lt;p&gt;&lt;del&gt;&lt;a href=&#34;https://goo.gl/anVknw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/anVknw&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20250310110222/https://goo.gl/aNvknW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;
 В настоящий момент с интеграцией True-Load в интерфейс #ANSYS #Workbench, использование True-Load стало интуитивно понятным для пользователей Workbench. Элементы программного обеспечения True-Load доступны прямо в среде Workbench и могут быть добавлены в дерево построения при производстве расчётов. Инженеры получили мощный и гибкий инструмент для проектирования транспортных машин исходя из реальных уровней напряжений, с которыми эти машины столкнутся в процессе эксплуатации.
 #ansys #TrueLoadMedia&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ift.tt/2xxZQs4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xxZQs4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&#34;https://goo.gl/anVknw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Программное обеспечение True-Load в связке с ANSYS Workbench позволяет решать сложные задачи по обработке экспериментальных значений нагрузок - ANSYS&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20250310110222/https://goo.gl/aNvknW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;
+&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2v28PC1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2v28PC1&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2hlBRTr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hlBRTr&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2hj1bNg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hj1bNg&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2hlBTe1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hlBTe1&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xxZQs4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xxZQs4&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Статья - размышление про то, как #ANSYS #Discovery Live помо</title>
-      <link>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</link>
+      <title>Статья - размышление про то, как #ANSYS #Discovery Live помогает ANSYS реализовать свободомыслий давнюю задумку: сделать всех инженеров и проектировщиков своими пользователями.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</link>
       <pubDate>Sun, 17 Sep 2017 17:04:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</guid>
       <description>&lt;p&gt;И тут ключевыми факторами успеха оказывается не только использование самого передового решателя, разработанного совместно с #NVIDIA. Не даром ANSYS очень дружен с разработчиком GPU. Об этом говорят те факты, что #Mechanical #APDL был первым коммерческим #FEM использовавшим #GPU, как и #Fluent - первым коммерческим #CFD использовавшим #GPU&lt;/p&gt;
 &lt;p&gt;Тут еще вспоминается и #SpaceClaim, который выйдя на рынок в 2005 сделал лидеров отстающими. Именно после #SpaceClaim появились такие системы, как #PTC #Creo, #Autodesk #Fusion и концепция #Siemens Synchronous Technology.&lt;/p&gt;
 &lt;p&gt;Сейчас SpaceClaim становиться геометрическим ядром для #Workbench, #AIM и #ANSYS #Discovery.&lt;/p&gt;
 &lt;p&gt;#GPGPU #CUDA
 &lt;a href=&#34;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&lt;/a&gt; 🔗 ANSYS Discovery Live Changes Everything&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Если вы еще не пользуете #Python скрипты в #ANSYS #SpaceClaim, то вы многое упускаете.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-13-esli-vy-esche-ne-polzuete-python-skripty/</link>
+      <pubDate>Wed, 13 Sep 2017 18:48:28 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-13-esli-vy-esche-ne-polzuete-python-skripty/</guid>
+      <description>&lt;p&gt;В видео показана фича, позволяющая связать Python код с именами параметров (Parameters) и именованных выборок (Named Selections) в рамках среды #Workbench - этого навыка мне прямо очень нахватало.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Av&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Av&lt;/a&gt;_…Media📼 How to use scripting features in ANSYS SpaceClaim…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2wqp877&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wqp877&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2x23TfF&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2x23TfF&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vVLrF3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vVLrF3&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2v28PC1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2v28PC1&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=Av_1Jo1IjkI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Av_1Jo1IjkI&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2x26run&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2x26run&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wqp877&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wqp877&lt;/a&gt;
+ttp://ift.tt/2wqp877&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trelis Connect для ANSYS Workbench</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-07-trelis-connect-dlya-ansys-workbench/</link>
+      <pubDate>Mon, 07 Aug 2017 17:00:35 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-07-trelis-connect-dlya-ansys-workbench/</guid>
+      <description>&lt;p&gt;Trelis Connect для ANSYS Workbench
+&lt;a href=&#34;https://youtu.be/jrywAFlr1ac&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/jrywAFlr1ac&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Продолжая тему #csimsoft - там не только #Bolt 2.0 крут, там еще есть много чего интересного. Например #Trelis Connect позволяет замечательные сетки из #Bolt передавать прямо в среду #ANSYS #Workbench без лишних заморочек.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/jrywAFlr1ac&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/jrywAFlr1ac&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/jrywAFlr1ac&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Trelis Connect™ for ANSYS® Workbench™&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS Student 18</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-27-ansys-student-18/</link>
+      <pubDate>Tue, 27 Jun 2017 17:00:45 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-27-ansys-student-18/</guid>
+      <description>&lt;p&gt;ANSYS Student 18
+&lt;a href=&#34;http://www.ansys-blog.com/free-download-ansys-student-product/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/free-download-ansys-student-product/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Хотите изучать #ANSYS - получите бесплатную годовую студенческую лицензию. Лицензия под честное слово, и если вам не хватило года, то вы можете ее продлить сколько угодно раз!&lt;/p&gt;
+&lt;p&gt;Вы помет пробовать не только ставший мейнстримхм #Workbench, но и современный #ANSYS #AIM #Student 18.&lt;/p&gt;
+&lt;p&gt;В изучении вам помогут:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;учебные курсы #Cornell на #EdX &lt;a href=&#34;https://www.edx.org/course/hands-introduction-engineering-cornellx-engr2000x-0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.edx.org/course/hands-introduction-engineering-cornellx-engr2000x-0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ANSYS Academic Support: &lt;a href=&#34;http://www.ansys.com/products/academic/support-resources&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/products/academic/support-resources&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Вы можете, можете, можете&amp;hellip; надо только поставить цель!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys-blog.com/free-download-ansys-student-product/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Free Download – New ANSYS Student Product Downloads Released&lt;/a&gt;
+&lt;a href=&#34;https://www.edx.org/course/hands-introduction-engineering-cornellx-engr2000x-0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.edx.org/course/hands-introduction-engineering-cornellx-engr2000x-0&lt;/a&gt;
+&lt;a href=&#34;http://www.ansys.com/products/academic/support-resources&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/products/academic/support-resources&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EDEM для ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-20-edem-dlya-ansys/</link>
+      <pubDate>Thu, 20 Apr 2017 08:00:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-20-edem-dlya-ansys/</guid>
+      <description>&lt;p&gt;EDEM для ANSYS
+&lt;a href=&#34;http://www.ansys.com/de-DE/About-ANSYS/Partner-Network/Software-Partners/dem-solutions&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/de-DE/About-ANSYS/Partner-Network/Software-Partners/dem-solutions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Знаили ли вы, что у компании DEM Solutions Ltd., авторов #EDEM есть специальный плагин для интеграции с #ANSYS #Workbench - можно делать связанные расчеты механики в #Mechanical и гидродинамики во #Fluent.&lt;/p&gt;
+&lt;p&gt;#DEM #CFD #FEM
+&lt;a href=&#34;https://www.youtube.com/watch?v=-PaX-NHRYW4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=-PaX-NHRYW4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys.com/de-DE/About-ANSYS/Partner-Network/Software-Partners/dem-solutions&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DEM Solutions Ltd. - Software Partner | ANSYS&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=-PaX-NHRYW4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=-PaX-NHRYW4&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Измеряем производительность WB</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-26-izmeryaem-proizvoditelnost-wb/</link>
+      <pubDate>Sun, 26 Mar 2017 12:00:10 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-26-izmeryaem-proizvoditelnost-wb/</guid>
+      <description>&lt;p&gt;Измеряем производительность WB&lt;/p&gt;
+&lt;p&gt;На прошлой неделе мы с коллегами раскопали очень классную штуку. В #ANSYS #Workbench есть галочка, позволяющая включить расширенное логирование времени  выполнения опе&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Data в ANSYS Workbench</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-17-external-data-v-ansys-workbench/</link>
+      <pubDate>Fri, 17 Mar 2017 17:02:39 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-17-external-data-v-ansys-workbench/</guid>
+      <description>&lt;p&gt;External Data в ANSYS Workbench
+&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/using-external-data-in-ansys-mechanical-to-tabular-loads-with-multiple-variables&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.padtinc.com/blog/the-focus/using-external-data-in-ansys-mechanical-to-tabular-loads-with-multiple-variables&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Модуль External Data позволяет очень здорово интерполировать внешне рассчитанные поля и нагрузки для использования их в моделях #ANSYS #Workbench. C появлением #Field #Variables этот инструмент становится еще более значим. Учимся его использовать по материалам #padtinc.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/using-external-data-in-ansys-mechanical-to-tabular-loads-with-multiple-variables&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Using External Data in ANSYS Mechanical to Tabular Loads with Multiple Variables&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WB LS-DYNA ACT 18.0</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-10-wb-ls-dyna-act-180/</link>
+      <pubDate>Fri, 10 Mar 2017 09:00:54 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-10-wb-ls-dyna-act-180/</guid>
+      <description>&lt;p&gt;WB LS-DYNA ACT 18.0
+&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-222&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-222&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS выложил новую версию #Workbench #LSDYNA #ACT для релиза 18.0&lt;/p&gt;
+&lt;p&gt;Сначала бочка меда:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Опция переключения Deformable To Rigid доступна из GUI&lt;/li&gt;
+&lt;li&gt;LS-DYNA Named Selections Manager теперь позволяет в явном виде задавать какой ID будет у Named Selections при трансляции его в соответсвующую абстракцию LS-DYNA. Эта функция очень полезна и снимает кучу головной боле при работе с Keyword Snippet.&lt;/li&gt;
+&lt;li&gt;Супер недокументированная функция: похоже, что WB LS-DYNA ACT научилась работать с #RSM! И не только с RSM для постановки задач на самого себя в фон в очередь, но и с #ARC и прочими #HPC кластерами. Но это еще надо проверять.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Потом ложка дегтя:
+Во-первых, ACT отсутствует в списке доступных для 18-ой версии и находится только поиском.
+Во-вторых, ANSYS обещал, что в 18-ой версии они сделают это ACT устанавливающимся по нормальному, а не через отдельный инсталятор - слово не сдержали.
+В-третьих, в документации к ACT сказано, что опять ничего нового нет и только багфикс - ан нет, появились новые функции, хотя и без документации.
+В-четвертых, из коробки так и не работает ALE - приходится вручную определять правильные настройки *CONTROL_ALE&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-222&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-222&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ANSYS App Builder</title>
-      <link>http://localhost:1313/posts/2017-02-03-ansys-app-builder/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-03-ansys-app-builder/</link>
       <pubDate>Fri, 03 Feb 2017 17:03:01 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-02-03-ansys-app-builder/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=xYJPgdOdD3k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xYJPgdOdD3k&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-03-ansys-app-builder/</guid>
+      <description>&lt;p&gt;ANSYS App Builder
+&lt;a href=&#34;https://www.youtube.com/watch?v=xYJPgdOdD3k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xYJPgdOdD3k&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;В #ANSYS 18 появилось такое приложение, как ANSYS App Builder, и, на мой взгляд, это самое крутое нововведение в R18!&lt;/p&gt;
 &lt;p&gt;ANSYS App Builder позволяет создавать #ACT для #Workbench и #AIM прямо в #GUI! Он умеет не только записывать все ваши действия при работе с проектом, но и низкоуровненов редактировать записанный #python журнал и XML описание интефейса.&lt;/p&gt;
 &lt;p&gt;Те из нас, кто пробовали писать свои ACT, поймут, какой пропыв в упращении нашего нелегкого ремесла нас ожидает!
 &lt;a href=&#34;https://www.youtube.com/watch?v=xYJPgdOdD3k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xYJPgdOdD3k&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=xYJPgdOdD3k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys in Action - Ansys App Builder&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Морской бой на MAPDL</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-22-morskoy-boy-na-mapdl/</link>
+      <pubDate>Thu, 22 Dec 2016 17:02:06 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-22-morskoy-boy-na-mapdl/</guid>
+      <description>&lt;p&gt;Морской бой на MAPDL
+&lt;a href=&#34;https://www.youtube.com/watch?v=uuayOVr7PfA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=uuayOVr7PfA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Наверно чешские партнеры #ANSYS, компания SVS FEM s.r.o., решили, что пора уже заканчивать работать, и надо начинать отдыхать. Так они написала морской бой на #APDL. Игра даже имеет свои GUI надстройки. #Workbench проект прилагается по ссылке под виде.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=uuayOVr7PfA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=uuayOVr7PfA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=uuayOVr7PfA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;BattleShip in ANSYS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Теплый ламповый интрфейс</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-11-teplyy-lampovyy-intrfeys/</link>
+      <pubDate>Fri, 11 Nov 2016 17:01:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-11-teplyy-lampovyy-intrfeys/</guid>
+      <description>&lt;p&gt;Теплый ламповый интрфейс
+&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-107&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-107&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Когда вы готовите иллюстрации для отчета или презентации бывает жизненно необходимо выставить для вашей модели определенный ракурс, повернуть ее с точностью до градуса вокруг определенной оси. И тут на помощь нам приходит специальное #ACT для #ANSYS #Mechanical, разработанное японским партнером ANSYS, компанией CYBERNET SYSTEMS CO.,LTD (&lt;a href=&#34;http://www.cybernet.co.jp/english/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.cybernet.co.jp/english/)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Самое интересное в ACT &amp;ldquo;Pan/Zoom/Rotate&amp;rdquo; не возможности - тут ничего сложного нет. Самое интересное - это тот самый интерфейс управления видом, который коллеги бережно взяли из классического #MAPDL и заботливо перенесли в #Workbench. Любители классики оценят этот реверанс в сторону теплого, лампового интерфейса в стиле  OpenMotif.&lt;/p&gt;
+&lt;p&gt;P.S. Расширение доступно бесплатно для всех пользователей с действительной технической поддержкой.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-107&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-107&lt;/a&gt;
+&lt;a href=&#34;http://www.cybernet.co.jp/english/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.cybernet.co.jp/english/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>LS-DYNA для как генератор обоев рабочего стола</title>
-      <link>http://localhost:1313/posts/2016-11-07-ls-dyna-dlya-kak-generator-oboev-rabochego/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-07-ls-dyna-dlya-kak-generator-oboev-rabochego/</link>
       <pubDate>Mon, 07 Nov 2016 10:02:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-11-07-ls-dyna-dlya-kak-generator-oboev-rabochego/</guid>
-      <description>&lt;p&gt;Это не баг при визуализации результатов расчетов #ANSYS #Workbench #LSDYNA #ACT - это фича по созданию психоделических обоев для рабочего стола 😄&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-07-ls-dyna-dlya-kak-generator-oboev-rabochego/</guid>
+      <description>&lt;p&gt;LS-DYNA для как генератор обоев рабочего стола&lt;/p&gt;
+&lt;p&gt;Это не баг при визуализации результатов расчетов #ANSYS #Workbench #LSDYNA #ACT - это фича по созданию психоделических обоев для рабочего стола 😄&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Параметризация многошаговых нагрузок в ANSYS</title>
-      <link>http://localhost:1313/posts/2016-10-22-parametrizatsiya-mnogoshagovyh-nagruzok-v-a/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-22-parametrizatsiya-mnogoshagovyh-nagruzok-v-a/</link>
       <pubDate>Sat, 22 Oct 2016 12:00:18 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-10-22-parametrizatsiya-mnogoshagovyh-nagruzok-v-a/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-22-parametrizatsiya-mnogoshagovyh-nagruzok-v-a/</guid>
+      <description>&lt;p&gt;Параметризация многошаговых нагрузок в ANSYS
+&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Одной из фишек #ANSYS #Workbench является возможность тотальной параметризации всего и вся буквально в один клик. Однако, тут есть досадное упущение: когда вы используете многошаговое нагружение в #Mechanical, вы не можете параметризовать изменение нагрузки на каждом шаге нагружения.&lt;/p&gt;
 &lt;p&gt;Компания Engin Soft исправила это досадное упущение при помощи своего бесплатного #ACT MultiStep Parametric Loads (&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153)&lt;/a&gt;. Они реализовали возможность параметризовать значения граничных условий и условий нагружения на каждом шаге. Первая версия ACT работает с R17.0 и R17.1&lt;/p&gt;
 &lt;p&gt;#enginsoft&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Мои старые-добрые знакомые, Сигма Технология, на днях объяви</title>
-      <link>http://localhost:1313/posts/2016-04-15-moi-starye-dobrye-znakomye-sigma-tehnol/</link>
-      <pubDate>Fri, 15 Apr 2016 07:01:37 +0000</pubDate>
+      <title>LS-DYNA ACT</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-25-ls-dyna-act/</link>
+      <pubDate>Sun, 25 Sep 2016 17:00:34 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-04-15-moi-starye-dobrye-znakomye-sigma-tehnol/</guid>
-      <description>&lt;p&gt;Итак, версии 3.3 появились такая долгожданная прямая интеграция с #ANSYS #Workbench через #ACT. Теперь IOSO есть в схематизме проекта, а значит он совместим с ANSYS #RSM и может использовать специальные лицензии для параметрических исследований и оптимизации ANSYS HPC Parametric Pack.
-Кроме ANSYS Сигма технологии уважили и другие продукты - появилась интеграция с  Concepts NREC Turboopt II, FLOW-3D,  SolidWorks, FlowVision.&lt;/p&gt;
-&lt;p&gt;Я с IOSO знаком уже лет 7, и могу сказать, что это очень серьезная штука, во многом уделывающая всех иностранных конкурентов.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-25-ls-dyna-act/</guid>
+      <description>&lt;p&gt;LS-DYNA ACT
+&lt;a href=&#34;https://support.ansys.com/portal/site/AnsysCustomerPortal/menuitem.ad09c1ca704220ba44762e10639c97a0/?vgnextoid=d00648ed2ce3c310VgnVCM1000004201c90aRCRD&amp;amp;vgnextfmt=default#&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://support.ansys.com/portal/site/AnsysCustomerPortal/menuitem.ad09c1ca704220ba44762e10639c97a0/?vgnextoid=d00648ed2ce3c310VgnVCM1000004201c90aRCRD&amp;vgnextfmt=default#&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Продолжая тему #ACT хочу поделиться двумя новостями и моими мыслями по их поводу:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Наконец вышла #ANSYS #Workbench LS-DYNA ACT 17.1 и 17.2!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Никаких существенных изменений внутри - только минорные исправления ошибок
+= Это конечно какой-то позор: сделать такие сильные шаги с ACT для R15 и R16, а потом потерять целый год развития продукта с версией R17.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://support.ansys.com/portal/site/AnsysCustomerPortal/menuitem.ad09c1ca704220ba44762e10639c97a0/?vgnextoid=d00648ed2ce3c310VgnVCM1000004201c90aRCRD&amp;amp;vgnextfmt=default&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://support.ansys.com/portal/site/AnsysCustomerPortal/menuitem.ad09c1ca704220ba44762e10639c97a0/?vgnextoid=d00648ed2ce3c310VgnVCM1000004201c90aRCRD&amp;vgnextfmt=default&lt;/a&gt;
+&lt;a href=&#34;https://support.ansys.com/portal/site/AnsysCustomerPortal/menuitem.ad09c1ca704220ba44762e10639c97a0/?vgnextoid=d00648ed2ce3c310VgnVCM1000004201c90aRCRD&amp;amp;vgnextfmt=default#&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://support.ansys.com/portal/site/AnsysCustomerPortal/menuitem.ad09c1ca704220ba44762e10639c97a0/?vgnextoid=d00648ed2ce3c310VgnVCM1000004201c90aRCRD&amp;vgnextfmt=default#&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>EDR Medesо показали одну из возможностей своего ACT Heavy Du</title>
-      <link>http://localhost:1313/posts/2015-10-11-edr-medeso-pokazali-odnu-iz-vozmozhnostey/</link>
+      <title>#ANSYS в своем блоге рассказали как скрепить их #Fluent, #Mechanical #APDL или #Workbench с #MATLAB.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-14-ansys-v-svoem-bloge-rasskazali-kak-skre/</link>
+      <pubDate>Thu, 14 Jul 2016 06:30:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-14-ansys-v-svoem-bloge-rasskazali-kak-skre/</guid>
+      <description>&lt;p&gt;В академической среде пригодиться.&lt;/p&gt;
+&lt;p&gt;P.S. Среди #ACT расширений для ANSYS уже давно есть такое, которое позволяет встраивать MATLAB в схематизму проекта в качестве движка оптимизации и параметрических исследований. &lt;a href=&#34;http://www.ansys-blog.com/how-to-make-matlab-apps-for-ansys/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/how-to-make-matlab-apps-for-ansys/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys-blog.com/how-to-make-matlab-apps-for-ansys/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys | Engineering Simulation Software&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Всегда хотел что-нибудь взорвать.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-24-vsegda-hotel-chto-nibud-vzorvat-tak-cht/</link>
+      <pubDate>Fri, 24 Jun 2016 07:00:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-24-vsegda-hotel-chto-nibud-vzorvat-tak-cht/</guid>
+      <description>&lt;p&gt;Так что я сделал простейший проект моделирующий подрыв сферического боеприпаса в вакууме.  Проект #ANSYS #Workbench #LSDYNA #ACT 17 прилагается. Использован #ALE MM решатель с минимальными настройками.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Увы и ах: #ANSYS #Workbench #LSDYNA #ACT 17.0 наконец появился, но не принес никаких изменений в функционал - только минорный багфикс.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-14-uvy-i-ah-ansys-workbench-lsdyna-act/</link>
+      <pubDate>Tue, 14 Jun 2016 15:10:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-14-uvy-i-ah-ansys-workbench-lsdyna-act/</guid>
+      <description>&lt;p&gt;Однако мои друзья обещали, что в следующей версии будет просто куча всего нового. Остается только надеяться.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://support.ansys.com/AnsysCustomerPortal/en_us/Downloads/ANSYS&amp;#43;ACT&amp;#43;Application&amp;#43;Store#&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS Customer Portal Login&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Мои старые-добрые знакомые, Сигма Технология, на днях объявил об очень важном релизе новой версии их замечательного оптимизатора IOSO NM.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-15-moi-starye-dobrye-znakomye-sigma-tehnol/</link>
+      <pubDate>Fri, 15 Apr 2016 07:01:37 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-15-moi-starye-dobrye-znakomye-sigma-tehnol/</guid>
+      <description>&lt;p&gt;Итак, версии 3.3 появились такая долгожданная прямая интеграция с #ANSYS #Workbench через #ACT. Теперь IOSO есть в схематизме проекта, а значит он совместим с ANSYS #RSM и может использовать специальные лицензии для параметрических исследований и оптимизации ANSYS HPC Parametric Pack.
+Кроме ANSYS Сигма технологии уважили и другие продукты - появилась интеграция с  Concepts NREC Turboopt II, FLOW-3D,  SolidWorks, FlowVision.&lt;/p&gt;
+&lt;p&gt;Я с IOSO знаком уже лет 7, и могу сказать, что это очень серьезная штука, во многом уделывающая всех иностранных конкурентов.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.iosotech.com/product.htm#Third-party&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Sigma Technology. Products.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#ANSYS #Workbench намекает мне, что схема проекта выбрана неудачно.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-24-ansys-workbench-namekaet-mne-chto-shem/</link>
+      <pubDate>Thu, 24 Mar 2016 10:36:45 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-24-ansys-workbench-namekaet-mne-chto-shem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Это вам не в #ANSYS #Workbench лабать - это #импортозамещение</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-13-eto-vam-ne-v-ansys-workbench-labat/</link>
+      <pubDate>Wed, 13 Jan 2016 11:25:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-13-eto-vam-ne-v-ansys-workbench-labat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Это вам не в #Workbench лабать!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-03-eto-vam-ne-v-workbench-labat/</link>
+      <pubDate>Thu, 03 Dec 2015 07:55:50 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-03-eto-vam-ne-v-workbench-labat/</guid>
+      <description>&lt;p&gt;Это вам не в #Workbench лабать!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Запись семинар по оптимизации моделей #ANSYS #Maxwell при помощи #Dynardo #optiSLang (который которые ласково называют оптишлангом).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-29-zapis-seminar-po-optimizatsii-modeley-a/</link>
+      <pubDate>Sun, 29 Nov 2015 07:00:24 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-29-zapis-seminar-po-optimizatsii-modeley-a/</guid>
+      <description>&lt;p&gt;Работают как напрямую, так и через #Workbench. На мой взгляд вышло немного скучноват-то, хотя разобрали все по косточкам.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=zIVtZjom5GU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Webinar optiSLang and ANSYS Maxwell 2015 11 17&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Давненько я не выкладывал результатов моих маленьких экспериментов.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-25-davnenko-ya-ne-vykladyval-rezultatov-mo/</link>
+      <pubDate>Wed, 25 Nov 2015 18:00:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-25-davnenko-ya-ne-vykladyval-rezultatov-mo/</guid>
+      <description>&lt;p&gt;На днях довел до ума задачу о деформации ведущего пояска снаряда в осесимметричной постановке. И конечно, мой любимый #ANSYS #Workbench LS-DYNA #ACT&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=BlHuTTNhQvc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Projectile leading band in LS-DYNA&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EDR Medesо показали одну из возможностей своего ACT Heavy Duty Toolkit. Advanced Bolts позволяет генерировать модели болтов под отверстия, и даже анализировать нагрузки в резьбе!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-11-edr-medeso-pokazali-odnu-iz-vozmozhnostey/</link>
       <pubDate>Sun, 11 Oct 2015 18:00:15 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-11-edr-medeso-pokazali-odnu-iz-vozmozhnostey/</guid>
-      <description>&lt;p&gt;#ACT #ANSYS #Mechanical #Workbench #EDRMedesо #bolts&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-11-edr-medeso-pokazali-odnu-iz-vozmozhnostey/</guid>
+      <description>&lt;p&gt;Очень интересное ACT, однако не бесплатное.&lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS #Mechanical #Workbench #EDRMedesо #bolts&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1Q3Fv-7HUZc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=1Q3Fv-7HUZc&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

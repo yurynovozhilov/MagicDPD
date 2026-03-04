@@ -14,6 +14,10 @@ images:
 
 Я нашел канал, который фокусируется на предоставлении всей необходимой информации в 10-минутных видео, не тратя драгоценное время на рисунки, расчеты в реальном времени или даже концепции из предварительных курсов, фактически не пропуская их: вы всегда можете приостановить анимацию, чтобы "изучить" менее важные процессы.
 
-https://www.youtube.com/LessBoringLectures
+~~https://www.youtube.com/LessBoringLectures~~ → [Сохранённая версия](http://web.archive.org/web/20240315130423/https://www.youtube.com/LessBoringLectures)
 
-https://www.youtube.com/LessBoringLectures
+*Оригинальная ссылка больше не доступна*
+
+~~https://www.youtube.com/LessBoringLectures~~ → [Сохранённая версия](http://web.archive.org/web/20240315130423/https://www.youtube.com/LessBoringLectures)
+
+*Оригинальная ссылка больше не доступна*

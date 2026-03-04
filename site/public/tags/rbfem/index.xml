@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RBFEM on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/rbfem/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/rbfem/</link>
     <description>MagicDPD: Magic Driven Product Development! (RBFEM)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Sun, 20 Mar 2016 07:00:54 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/rbfem/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/rbfem/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Встречаем Akselos - программное обеспечения для решения зада</title>
-      <link>http://localhost:1313/posts/2016-03-20-vstrechaem-akselos-programmnoe-obespeche/</link>
+      <title>Встречаем Akselos - программное обеспечения для решения задач механики деформируемого твердого тела при помощи метода конечных элементов с приведенным базисом (Reduced Basis Finite Element Method, RB-FEM).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-20-vstrechaem-akselos-programmnoe-obespeche/</link>
       <pubDate>Sun, 20 Mar 2016 07:00:54 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-03-20-vstrechaem-akselos-programmnoe-obespeche/</guid>
-      <description>&lt;p&gt;Еще фишки ПО:&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-20-vstrechaem-akselos-programmnoe-obespeche/</guid>
+      <description>&lt;p&gt;RB-FEM - это основная фишка решателя, эксклюзивно разработанная в #MIT. Она позволяет, по заявлениям разработчиков, сократить время расчета в тысячи раз по сравнению с классическими методом конечных элементов. Кроме того, становится возможным без проблем решать задачи с размерностью более 100 MDOF.&lt;/p&gt;
+&lt;p&gt;Еще фишки ПО:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;работа с неподготовленной геометрией&lt;/li&gt;
 &lt;li&gt;моделирования роста трещин&lt;/li&gt;
@@ -26,6 +27,7 @@
 &lt;li&gt;и т.д.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Некоторые брошюры по RB-FEM во вложении.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.akselos.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Akselos - Simulation Technology&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

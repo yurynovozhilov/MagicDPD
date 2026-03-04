@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HpMusic on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/hpmusic/</link>
+    <description>MagicDPD: Magic Driven Product Development! (HpMusic)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 02 Oct 2019 13:00:16 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/hpmusic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GENESIS - CFD код от GE</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-02-genesis-cfd-kod-ot-ge/</link>
+      <pubDate>Wed, 02 Oct 2019 13:00:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-02-genesis-cfd-kod-ot-ge/</guid>
+      <description>&lt;p&gt;GENESIS - CFD код от GE&lt;/p&gt;
+&lt;p&gt;Вычислительный код GENESIS разрабатывается GE на базе существующей научной разработки hp-adaptive Multi-physics Simulation Code (hpMusic), так что правильнее его называть hpMusic/GENESIS.&lt;/p&gt;
+&lt;p&gt;Код, по заявлениям разработчиков, очень интересный.Это не традиционный метод конечных объемов, а некий собственный «flux reconstruction method», который представляет собой некую смесь лагранжева и эйлерова подхода к описанию среды. Если я правильно понял его суть, то каждый вихрь в этом методе считается в эйлеровой постановке, а вот перемещение эйлерова домена с вихрем по пространству — уже в лагранжевой. Говорят, что такая схема позволяет очень хорошо разложить задачу на большой массив GPU и минимизировать затраты на связь между доменами. Больше информации тут: &lt;a href=&#34;https://www.olcf.ornl.gov/2019/09/12/gpus-power-ge-code-at-olcf-hackathons/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.olcf.ornl.gov/2019/09/12/gpus-power-ge-code-at-olcf-hackathons/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#CFD #GE #GENESIS #GPU #HPC #HpMusic #NVIDIA
+&lt;a href=&#34;https://bit.ly/2mYKCcQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://bit.ly/2mYKCcQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.olcf.ornl.gov/2019/09/12/gpus-power-ge-code-at-olcf-hackathons/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;GPUs Power GE Code at OLCF Hackathons&lt;/a&gt;
+&lt;a href=&#34;https://bit.ly/2mYKCcQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://bit.ly/2mYKCcQ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

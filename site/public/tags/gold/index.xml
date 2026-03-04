@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gold on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/gold/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/gold/</link>
     <description>MagicDPD: Magic Driven Product Development! (Gold)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 22 Apr 2022 17:00:10 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/gold/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/gold/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>А вот новость этого года про использование #GPU для #CFD рас</title>
-      <link>http://localhost:1313/posts/2022-04-22-a-vot-novost-etogo-goda-pro-ispolzovan/</link>
+      <title>А вот новость этого года про использование #GPU для #CFD расчетов в #Fluent. В версии #Ansys 2022 R1 завезли beta версию, как я называю &#34;второго поколения&#34; CFD-GPU решателя, который получил название &#34;Ansys Multi-GPU Solver&#34;. Данный решатель пока работает не для вех бесчисленных классов задач, решаемых Fluent. Но, вот для задач внешней аэродинамики, производительность решателя просто взлетает в космос!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-22-a-vot-novost-etogo-goda-pro-ispolzovan/</link>
       <pubDate>Fri, 22 Apr 2022 17:00:10 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-04-22-a-vot-novost-etogo-goda-pro-ispolzovan/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-22-a-vot-novost-etogo-goda-pro-ispolzovan/</guid>
       <description>&lt;p&gt;Одна карта #NVIDIA #A100 дает производительность, соизмеримую с 272 процессорными ядрами #Intel #Xeon #Gold 6242!&lt;/p&gt;
 &lt;p&gt;Новый решатель позволяет одновременно:&lt;/p&gt;
 &lt;ul&gt;
@@ -24,6 +24,7 @@
 &lt;li&gt;снизить потребление электроэнергии вычислительной системой до 4 раза&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;А если учесть, что решатели Ansys традиционно лицензируется так, что стоимость задействования 1 процессорного ядра эквивалентна стоимости задействования 1 карты NVIDIA A100, то цена требуемых для #HPC расчетов лицензий с новым &amp;ldquo;Ansys Multi-GPU Solver&amp;rdquo; оказывается если не в сотни, то в десятки раз ниже! &lt;a href=&#34;https://www.ansys.com/blog/unleashing-the-power-of-multiple-gpus-for-cfd-simulations&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/blog/unleashing-the-power-of-multiple-gpus-for-cfd-simulations&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys.com/blog/unleashing-the-power-of-multiple-gpus-for-cfd-simulations&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Unleashing the Power of Multiple GPUs for CFD Simulations&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

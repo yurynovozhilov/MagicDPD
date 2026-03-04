@@ -1,92 +1,469 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SpaceClaim on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/spaceclaim/</link>
-    <description>MagicDPD: Magic Driven Product Development! (SpaceClaim)</description>
+    <title>Spaceclaim on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/spaceclaim/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Spaceclaim)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 02 Nov 2020 12:59:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jan 2021 13:01:12 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/spaceclaim/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/spaceclaim/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Расчет «тераформирования» в реальном времени благодаря гибри</title>
-      <link>http://localhost:1313/posts/2020-11-02-raschet-teraformirovaniya-v-realnom-vre/</link>
+      <title>SpaceClaim 2021R1</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-01-28-spaceclaim-2021r1/</link>
+      <pubDate>Thu, 28 Jan 2021 13:01:12 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-01-28-spaceclaim-2021r1/</guid>
+      <description>&lt;p&gt;SpaceClaim 2021R1&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=6vUMkT28q20&amp;amp;t=2s&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=6vUMkT28q20&amp;t=2s&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Как вы уже могли догадаться по новостной ленте, стал доступен Ansys 2021R1 - первый релиз Ansys этого года. И в нем есть очень много приятных изменений в продуктах, которыми лично я пользуюсь постоянно. Начать рассказывать про эти изменения я бы хотел с SpaceClaim, главного геометрического процессора Workbench.&lt;/p&gt;
+&lt;p&gt;Наконец работает сравнение для любых моделей: и CAD, и STL (раньше был только STL) - это прям надо, когда заказчики присылают новые файлы геометрии, и непонятно, что там поменяли.&lt;/p&gt;
+&lt;p&gt;Завезли хорошую парамметризацию в эскизы: в добавок к полноценным параметрическим эскизам из прошлой версии добавили возможность связывать размеры в рамках одного такого эскиза без использования ссылок на параметры.&lt;/p&gt;
+&lt;p&gt;А еще, есть изменение, которое не показали в видео, но которое я очень ждал. В прошлой версии появилась возможность записывать историю построения с возможностью получения некого аналога дерева истории изменения геометрии (как в традиционных CAD). Теперь эта функция работает и с сеточным генератором (базирующемся на ICEM CFD). Получается, что пользователь может записать &amp;ldquo;дерево истории&amp;rdquo; создания сетки и потом менять его настройки, если сетка не соберется!&lt;/p&gt;
+&lt;p&gt;#ansys #icem-cfd #spaceclaim #spaceclaim_meshing
+&lt;a href=&#34;https://tinyurl.com/yydgh6pm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yydgh6pm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=6vUMkT28q20&amp;amp;t=2s&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys SpaceClaim | Announcing New Features&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yydgh6pm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yydgh6pm&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Расчет «тераформирования» в реальном времени благодаря гибридной DEM постановке</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-11-02-raschet-teraformirovaniya-v-realnom-vre/</link>
       <pubDate>Mon, 02 Nov 2020 12:59:36 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-11-02-raschet-teraformirovaniya-v-realnom-vre/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-11-02-raschet-teraformirovaniya-v-realnom-vre/</guid>
       <description>&lt;p&gt;#AGX_Dynamics #Algoryx #ANSYS #DEM #SpaceClaim
 by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/terrain-dynamics-for-real-time-earthmoving-simulation/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Расчет &amp;ldquo;тераформирования&amp;rdquo; в реальном времени благодаря гибридной DEM постановке - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Обзор/тренинг по SpaceClaim 2020R2 от LEAP</title>
-      <link>http://localhost:1313/posts/2020-09-11-obzortrening-po-spaceclaim-2020r2-ot-le/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-09-11-obzortrening-po-spaceclaim-2020r2-ot-le/</link>
       <pubDate>Fri, 11 Sep 2020 13:00:27 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-09-11-obzortrening-po-spaceclaim-2020r2-ot-le/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-09-11-obzortrening-po-spaceclaim-2020r2-ot-le/</guid>
+      <description>&lt;p&gt;Обзор/тренинг по SpaceClaim 2020R2 от LEAP&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/spaceclaim-2020r2-leap-overview/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Обзор/тренинг по SpaceClaim 2020R2 от LEAP - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новое в SpaceClaim 2020R2</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-09-03-novoe-v-spaceclaim-2020r2/</link>
+      <pubDate>Thu, 03 Sep 2020 13:00:24 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-09-03-novoe-v-spaceclaim-2020r2/</guid>
+      <description>&lt;p&gt;Новое в SpaceClaim 2020R2
+#SpaceClaim
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/%d0%bd%d0%be%d0%b2%d0%be%d0%b5-%d0%b2-spaceclaim-2020r2/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Новое в SpaceClaim 2020R2 - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Если вы еще не умеет Share Topology в SpaceClaim</title>
-      <link>http://localhost:1313/posts/2020-06-12-esli-vy-esche-ne-umeet-share-topology-v-sp/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-06-12-esli-vy-esche-ne-umeet-share-topology-v-sp/</link>
       <pubDate>Fri, 12 Jun 2020 13:00:18 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-06-12-esli-vy-esche-ne-umeet-share-topology-v-sp/</guid>
-      <description>&lt;p&gt;#ANSYS #SpaceClaim
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-06-12-esli-vy-esche-ne-umeet-share-topology-v-sp/</guid>
+      <description>&lt;p&gt;Если вы еще не умеет Share Topology в SpaceClaim
+#ANSYS #SpaceClaim
 by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/share-topology-in-spaceclaim/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Если вы еще не умеет Share Topology в SpaceClaim - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS SpaceClaim — Auto Skin</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-11-18-ansys-spaceclaim-auto-skin/</link>
+      <pubDate>Mon, 18 Nov 2019 13:51:51 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-11-18-ansys-spaceclaim-auto-skin/</guid>
+      <description>&lt;p&gt;ANSYS SpaceClaim — Auto Skin
+#Auto_Skin #optimization #SpaceClaim #STL #Topology
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/ansys-spaceclaim-auto-skin/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS SpaceClaim - Auto Skin - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BAJA SAE Chassis Analysis</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-14-baja-sae-chassis-analysis/</link>
+      <pubDate>Mon, 14 Oct 2019 17:47:32 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-14-baja-sae-chassis-analysis/</guid>
+      <description>&lt;p&gt;BAJA SAE Chassis Analysis
+#ANSYS #ANSYS_Student_Community #Mechanical #SpaceClaim
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/baja-sae-chassis-analysis/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;BAJA SAE Chassis Analysis - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Расчет радиатора</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-14-raschet-radiatora/</link>
+      <pubDate>Mon, 14 Oct 2019 13:00:25 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-14-raschet-radiatora/</guid>
+      <description>&lt;p&gt;Расчет радиатора&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82-%d1%80%d0%b0%d0%b4%d0%b8%d0%b0%d1%82%d0%be%d1%80%d0%b0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Расчет радиатора - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Течение в Y-образном воздуховоде</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-07-techenie-v-y-obraznom-vozduhovode/</link>
+      <pubDate>Mon, 07 Oct 2019 13:00:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-07-techenie-v-y-obraznom-vozduhovode/</guid>
+      <description>&lt;p&gt;Течение в Y-образном воздуховоде&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/fluid-flow-through-a-y-duct/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Течение в Y-образном воздуховоде - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Параметризация и автоматизация в SpaceClaim</title>
-      <link>http://localhost:1313/posts/2019-09-19-parametrizatsiya-i-avtomatizatsiya-v-spacecl/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-19-parametrizatsiya-i-avtomatizatsiya-v-spacecl/</link>
       <pubDate>Thu, 19 Sep 2019 13:00:28 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-09-19-parametrizatsiya-i-avtomatizatsiya-v-spacecl/</guid>
-      <description>&lt;p&gt;Mallett Technology подготовили обучающий вебинар по очень важной и очень плохо изученной теме — автоматизация работы SpaceClaim при помощи python-скриптов. Коллеги показывают как записывать журнал проекта, как создавать переменные и именованные выборки, которые потом будут видны в рамках Workbench.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-19-parametrizatsiya-i-avtomatizatsiya-v-spacecl/</guid>
+      <description>&lt;p&gt;Параметризация и автоматизация в SpaceClaim
+Mallett Technology подготовили обучающий вебинар по очень важной и очень плохо изученной теме — автоматизация работы SpaceClaim при помощи python-скриптов. Коллеги показывают как записывать журнал проекта, как создавать переменные и именованные выборки, которые потом будут видны в рамках Workbench.&lt;/p&gt;
 &lt;p&gt;А ведь это далеко не все функции по автоматизации SpaceClaim. Так, в новых версиях, вы можете параметризовать процесс построения как в классических CAD, создавая последовательность проигрываемых действий без привлечения средств пользовательского программирования. А для часто используемых действий можно добавлять свои кнопки в интерфейс. И для всего этого есть отдельный однодневный учебный курс.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/use-spaceclaim-scripting-to-parameterize/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Параметризация и автоматизация в SpaceClaim - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS SPEOS — что ты такое</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-27-ansys-speos-chto-ty-takoe/</link>
+      <pubDate>Tue, 27 Aug 2019 13:00:33 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-27-ansys-speos-chto-ty-takoe/</guid>
+      <description>&lt;p&gt;ANSYS SPEOS — что ты такое&lt;/p&gt;
+&lt;p&gt;Первое, на моей памяти, видео с демонстрацией работы ANSYS SPEOS (спасибо Singularity Engineering LLC). Система расчета оптики SPEOS досталась ANSYS с покупкой компании Optis еще в прошлом году. Она вcтраивается как в большинство CAD систем, так и в родной SpaceClaim, и находит себе применение в очень большом классе задач (подробнее тут на русском &lt;a href=&#34;https://www.cadfem-cis.ru/products/ansys/systems/speos/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/products/ansys/systems/speos/&lt;/a&gt;, а тут на английском: &lt;a href=&#34;https://www.ansys.com/products/optical/ansys-speos&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/products/optical/ansys-speos&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;#ANSYS #Optics #SpaceClaim #SPEOS&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2EL&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2EL&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cadfem-cis.ru/products/ansys/systems/speos/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/products/ansys/systems/speos/&lt;/a&gt;
+&lt;a href=&#34;https://www.ansys.com/products/optical/ansys-speos&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/products/optical/ansys-speos&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2EL&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2EL&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SpaceClaim Meshing — уже пора изучать!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-11-spaceclaim-meshing-uzhe-pora-izuchat/</link>
+      <pubDate>Thu, 11 Jul 2019 17:00:38 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-11-spaceclaim-meshing-uzhe-pora-izuchat/</guid>
+      <description>&lt;p&gt;SpaceClaim Meshing — уже пора изучать!&lt;/p&gt;
+&lt;p&gt;Если вы еще даже не слышали про то, что ANSYS вкрутил ICEM CFD на стероидах в интерфейс SpaceClaim,  то вам стоит посмотреть первое видео в этом посте. В нем эксперт LEAP Australia на конференции CONVERGE 2019 рассказывает, что это за продукт вообще.&lt;/p&gt;
+&lt;p&gt;MESco Sp. z o.o.Ну а если вы сомневаетесь и не знаете, надо ли оно вам, то посмотрите второе коротенькое видео от MESco — тут раскрывается вся красота работы блочного сеточного генератора.&lt;/p&gt;
+&lt;p&gt;Второе видео очень быстрое. Я пересматривал несколько раз, останавливал на интересных моментах, включал по кадровую перемотку. Но даже в нем показаны далеко не все фишки. Так например,  SpaceClaim Meshing может делать вытяжку сетки, также, как это делать классическая команда Pull или Blend в  SpaceClaim. Или еще он умеет делать сеточные hex переходы 2 к 1, если вы понимаете, о чем я.&lt;/p&gt;
+&lt;p&gt;#all_hex #ANSYS #ICEM_CFD #LEAP #MESco #mesh #SpaceClaim #SpaceClaim_Meshing&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Bk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Bk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Bk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Bk&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оцифровка чертежей в SpaceClaim</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-17-otsifrovka-chertezhey-v-spaceclaim/</link>
+      <pubDate>Sun, 17 Mar 2019 17:00:57 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-17-otsifrovka-chertezhey-v-spaceclaim/</guid>
+      <description>&lt;p&gt;Оцифровка чертежей в SpaceClaim&lt;/p&gt;
+&lt;p&gt;В моем любимом ANSYS SpaceClaim Direct Modeler есть куча интересных функций для тех, кто хочет странного. Например, он может оцифровать чертеж, который пришел к вам в виде растрового изображения (читай jpeg или png).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=00UogXp3W9g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=00UogXp3W9g&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В версии 2019R1 функция Vectorize Image, осуществляющая магические преобразования, находится на ленте Tools в разделе Reverse Engineering.&lt;/p&gt;
+&lt;p&gt;#Reverse_Engineering #SpaceClaim&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2pJ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2pJ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=00UogXp3W9g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=00UogXp3W9g&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2pJ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2pJ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Фотореалистичные результаты расчетов</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-03-fotorealistichnye-rezultaty-raschetov/</link>
+      <pubDate>Sun, 03 Mar 2019 10:55:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-03-fotorealistichnye-rezultaty-raschetov/</guid>
+      <description>&lt;p&gt;Фотореалистичные результаты расчетов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=scigk4vVbF4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=scigk4vVbF4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Пример того, как KeyShot Pro (встроенный в ANSYS SpaceClaim) может красиво отрендерить результаты твердотельного расчета Algoryx Momentum (так же встроенного в ANSYS SpaceClaim). Жаль только, что нельзя такие рендеры делать по итогам расчетов механики и гидродинамики.&lt;/p&gt;
+&lt;p&gt;#Algoryx #KeyShot #Momentum #SpaceClaim&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2n6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2n6&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=scigk4vVbF4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=scigk4vVbF4&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2n6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2n6&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Вебинар по ANSYS SpaceClaim от Mallett Technology</title>
-      <link>http://localhost:1313/posts/2019-01-23-vebinar-po-ansys-spaceclaim-ot-mallett-t/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-23-vebinar-po-ansys-spaceclaim-ot-mallett-t/</link>
       <pubDate>Wed, 23 Jan 2019 18:34:14 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-01-23-vebinar-po-ansys-spaceclaim-ot-mallett-t/</guid>
-      <description>&lt;p&gt;Mallett Technology продолжают серию больших и информативных вебинаров по ключевым модулям ANSYS. В данном видео они расскажут про основное геометрическое ядро платформы — ANSYS SpaceClaim&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-23-vebinar-po-ansys-spaceclaim-ot-mallett-t/</guid>
+      <description>&lt;p&gt;Вебинар по ANSYS SpaceClaim от Mallett Technology&lt;/p&gt;
+&lt;p&gt;Mallett Technology продолжают серию больших и информативных вебинаров по ключевым модулям ANSYS. В данном видео они расскажут про основное геометрическое ядро платформы — ANSYS SpaceClaim&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qvJbgEO41Ek&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=qvJbgEO41Ek&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Очень неплохой материал, для тех, кто начинает знакомится со SpaceClaim&lt;/p&gt;
 &lt;p&gt;#ANSYS #Mallett_Technology #SpaceClaim&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2hC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2hC&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qvJbgEO41Ek&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=qvJbgEO41Ek&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2hC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2hC&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Большой и очень подробный видео урок про то как можно оптими</title>
-      <link>http://localhost:1313/posts/2017-12-15-bolshoy-i-ochen-podrobnyy-video-urok-pro/</link>
+      <title>Резервное копирование геометрии в SCDM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-20-rezervnoe-kopirovanie-geometrii-v-scdm/</link>
+      <pubDate>Sun, 20 Jan 2019 17:01:12 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-20-rezervnoe-kopirovanie-geometrii-v-scdm/</guid>
+      <description>&lt;p&gt;Резервное копирование геометрии в SCDM&lt;/p&gt;
+&lt;p&gt;Наверно каждый из вас сталкивался с мучительной болью от того, что труды вашего дня пропадают потому что программное обеспечение вдруг зависло, произошел скачок напряжения или еще что-то. А вы просто забыли сохраниться. Может такое произойти и при работе с геометрией в ANSYS SpaceClaim.&lt;/p&gt;
+&lt;p&gt;Однако там, как и в любом нормальном ПО, есть средство борьбы с подобными ситуациями. Оно находится в меню SpaceClaim Options &amp;gt; Support Files &amp;gt; Recovery Assistant и позволяет задавать периодичность резервного копирования и время хранения резервных копий проекта. Очень советую посмотреть на эти настройки. А чтобы автоматическое сохранение проходило быстро, можно натравить его на директорию на SSD.
+Ну а кто не пользуется резервными копиями — сам себе злой Буратино.&lt;/p&gt;
+&lt;p&gt;#ANSYS #SpaceClaim #SSD&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2hf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2hf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2hf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2hf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shrink-wrapping для упрощения STL</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-11-shrink-wrapping-dlya-uproscheniya-stl/</link>
+      <pubDate>Tue, 11 Dec 2018 17:00:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-11-shrink-wrapping-dlya-uproscheniya-stl/</guid>
+      <description>&lt;p&gt;Shrink-wrapping для упрощения STL
+Небольшое демо от Polygonica по работе Shrink-wrapping для существенного снижения полигональности STL моделей.&lt;/p&gt;
+&lt;p&gt;Напомню, что движок Polygonica используется в SpaceClaim, и там опция Shrinkwrap одна из самых востребованных при работе с STL.&lt;/p&gt;
+&lt;p&gt;#Polygonica #SpaceClaim #STL
+&lt;a href=&#34;http://bit.ly/2PxTD4E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PxTD4E&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2PxTD4E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PxTD4E&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS Lattice Optimisation</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-03-ansys-lattice-optimisation/</link>
+      <pubDate>Sat, 03 Nov 2018 17:00:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-03-ansys-lattice-optimisation/</guid>
+      <description>&lt;p&gt;ANSYS Lattice Optimisation
+Очень емкое видео, показывающее как при помощи модуля оптимизации топологии в ANSYS можно создавать решетчатые структуры (lattice structure).&lt;/p&gt;
+&lt;p&gt;На входе схема нагружения и расчетный домен, на выходе решетчатая структура в нужном вам геометрическом формате или STL.&lt;/p&gt;
+&lt;p&gt;#ANSYS #LatticeStructure #LEAP #Optimization #SpaceClaim #Topology
+&lt;a href=&#34;http://bit.ly/2PCv9eD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PCv9eD&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2PCv9eD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PCv9eD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вышел ANSYS 19.2</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-09-20-vyshel-ansys-192/</link>
+      <pubDate>Thu, 20 Sep 2018 17:01:47 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-09-20-vyshel-ansys-192/</guid>
+      <description>&lt;p&gt;Вышел ANSYS 19.2
+Главная новость осени для меня - выход новой версии ANSYS. И в третьей версии ANSYS за этот год накопилось очень много всего вкусного. Если в рамках одного поста, то вот те 5 фишек нового релиза, которые зацепили лично меня.&lt;/p&gt;
+&lt;p&gt;Новый сеточный &amp;ldquo;метод&amp;rdquo; для CFD, который получил название Mosaic, позволяющий сшивать Cartesian и Plyhedra сетки, не забывая о пристеночных слоях. Красиво, умно, эффективно.&lt;/p&gt;
+&lt;p&gt;Целый отдельный набор софта, отвечающего за оптику: ANSYS SPEOS (все, что связано с распространением света) и ANSYS VRXPERIENCE (все что нужно для моделирования работы сенсоров машинного зрения).&lt;/p&gt;
+&lt;p&gt;Долгожданный мной первый релиз ANSYS Additive Science, который позволяет получать информацию о микроструктуре изделий, получаемых при помощи аддитивных технологий. Теперь вы знаете о том, какие у материала локальные механические свойства, какова пористость и вообще, как на это все влияет траектория движения и мощности лазера вашего принтера по металлу.&lt;/p&gt;
+&lt;p&gt;ANSYS Material Designer - новое приложение в интефейсе SCDM, предназначенное для получения эффективных свойств композитных материалов и решетчатых конструкций на основе анализа их представительного элемента объема.&lt;/p&gt;
+&lt;p&gt;ANSYS SCDM Meshing - интеграция возможностей сеточного генератора на основе блочной топологии ICEM CFD в современный и удобный интерфейс ANSYS SpaceClaim (пока что beta).
+Подробности пока читаем на официальном сайте (&lt;a href=&#34;https://www.ansys.com/products/release-highlights%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/products/release-highlights)&lt;/a&gt;, а потом будем обсуждать тут.&lt;/p&gt;
+&lt;p&gt;#AdditiveManufacturing #AdditiveScience #ANSYS #MaterialDesigner #Mosaic #SpaceClaim #SpaceClaimMeshing #SPEOS #VRXPERIENCE
+&lt;a href=&#34;http://bit.ly/2Nu8HnI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Nu8HnI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys.com/products/release-highlights&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys 2025 R2 Release Highlights | Ansys Latest Release&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2Nu8HnI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Nu8HnI&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учебные видео от Algoryx</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-06-29-uchebnye-video-ot-algoryx/</link>
+      <pubDate>Fri, 29 Jun 2018 18:01:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-06-29-uchebnye-video-ot-algoryx/</guid>
+      <description>&lt;p&gt;Учебные видео от Algoryx
+Коллеги выложили на своем канале серию коротких видеоуроков по работе в их RBD системе Momentum. Рассмотрен широкий круг вопросов:&lt;/p&gt;
+&lt;p&gt;Загрузка расширения  Momentum в SpaceClaim и экспорт моделей
+Визулизация результатов
+Настройка коэффициентов трения
+Определение шарниров
+Скрипты на Python (куда же сейчас без этого)
+Визуализация реакций в контактах
+Моделирование кабелей и гибких систем&lt;/p&gt;
+&lt;p&gt;Всего должно быть 7 учебных видео. Если вы не видите их все, то надо перейти по ссылке в блог. И да, в коментариях на YouTubе есть ссылки на скачивание всех используемых моделей.&lt;/p&gt;
+&lt;p&gt;#Algoryx #Momentum #Python #RBD #SpaceClaim
+&lt;a href=&#34;http://bit.ly/2tRnSdY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2tRnSdY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2tRnSdY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2tRnSdY&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вышла вторая версия Algoryx Momentum</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-22-vyshla-vtoraya-versiya-algoryx-momentum/</link>
+      <pubDate>Tue, 22 May 2018 18:00:35 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-22-vyshla-vtoraya-versiya-algoryx-momentum/</guid>
+      <description>&lt;p&gt;Вышла вторая версия Algoryx Momentum&lt;/p&gt;
+&lt;p&gt;Вторая версия данного RBD кода дает возможность расширенного просмотра сил в контактах и, наконец-то, открывает возможность по скриптованию на Python. Появление Python, в свою очередь, снимает все ограничения ПО — теперь вы можете делать все что пожелаете.
+Ну и никто не отменял факт работы Algoryx на геометрическом движке SpaceClaim, который мало того, что быстрый и красивый, так еще и тоже скриптуется на Python.
+Пример работы предыдущей версии на видео&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.algoryx.se/newsmedia/algoryx-momentum-announcing-version-2-0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.algoryx.se/newsmedia/algoryx-momentum-announcing-version-2-0/&lt;/a&gt;
+#Algoryx #Momentum #Python #RBD #SpaceClaim&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Re&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Re&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.algoryx.se/newsmedia/algoryx-momentum-announcing-version-2-0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.algoryx.se/newsmedia/algoryx-momentum-announcing-version-2-0/&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-1Re&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Re&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Управление жестами в SpaceClaim</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-17-upravlenie-zhestami-v-spaceclaim/</link>
+      <pubDate>Thu, 17 May 2018 18:01:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-17-upravlenie-zhestami-v-spaceclaim/</guid>
+      <description>&lt;p&gt;Управление жестами в SpaceClaim&lt;/p&gt;
+&lt;p&gt;В свое время (лет 10-15 назад) была очень популярна тема с управлением компьютером при помощи жестов. Нет, не тех жестов, которые сейчас нам позволяют делать современные сенсорные экраны. Тогда речь шла о возможности рисовать некие символы на экране мышкой для вызова тех или иных действий.&lt;/p&gt;
+&lt;p&gt;Так вот, оказывается такая штука до сих пор есть внутри SpaceClaim. Я не говорю, что это удобно. Скорее данная функция позволит вам повеселиться на рабочем месте. У меня жест измерения занял минут 10. Вся документация доступна в виде брошюры на одну страницу сразу после нажатия F1.
+Тренеруем мелкую моторику, боримся с тунельным синдромом!
+#ANSYS #SpaceClaim&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1QG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1QG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1QG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1QG&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Аналитически кривые в SpaceClaim</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-16-analiticheski-krivye-v-spaceclaim/</link>
+      <pubDate>Mon, 16 Apr 2018 08:30:28 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-16-analiticheski-krivye-v-spaceclaim/</guid>
+      <description>&lt;p&gt;Аналитически кривые в SpaceClaim
+Хотел построить параболу, но что-то пошло не так…&lt;/p&gt;
+&lt;p&gt;#ANSYS #Simulationfriday #SpaceClaim
+&lt;a href=&#34;https://is.gd/Nt2A2l&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://is.gd/Nt2A2l&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://is.gd/Nt2A2l&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://is.gd/Nt2A2l&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Форум ANSYS 19</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-29-forum-ansys-19/</link>
+      <pubDate>Thu, 29 Mar 2018 18:47:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-29-forum-ansys-19/</guid>
+      <description>&lt;p&gt;Форум ANSYS 19
+В последнюю неделю у меня совсем нет времени писать хорошие посты. А причиной тому служит усиленная подготовка нашего мероприятия — «Форума ANSYS 19». Буду выступать в Питере по полной программе — будут привычные доклады по HPC и композитам. А еще будуте и кое-что новое, а именно горячие презентация о SpaceClaim, Discovery Live, Topology Optimization и грядущим продуктам Additive Manufacturing.
+Самое время зарегистрироватсья на наше мероприятие, пока еще можно — участие бесплатное!
+&lt;a href=&#34;http://forum.cadfem-cis.ru&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://forum.cadfem-cis.ru&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ACP #Additive_Manufacturing #ANSYS #CADFEM #Composites #Discovery #HPC #Optimization #SpaceClaim #Topology
+&lt;a href=&#34;https://goo.gl/NnwTjC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/NnwTjC&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://forum.cadfem-cis.ru/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://forum.cadfem-cis.ru/&lt;/a&gt;
+&lt;a href=&#34;https://goo.gl/NnwTjC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/NnwTjC&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS R19 официально</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-29-ansys-r19-ofitsialno/</link>
+      <pubDate>Mon, 29 Jan 2018 17:00:56 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-29-ansys-r19-ofitsialno/</guid>
+      <description>&lt;p&gt;ANSYS R19 официально
+Итак, свершилось! ANSYS R19 стал доступен, о чем нам сообщает официальный сайт компании CADFEM CIS&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cadfem-cis.ru/products/ansys/ansys-update/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/products/ansys/ansys-update/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;На мой вкус, R19 вышел очень сильным, особенно, если сравнивать с R18. Вот мои любимые нововведения (в тех местах, где я что-то понимаю):&lt;/p&gt;
+&lt;p&gt;Mechanical:&lt;/p&gt;
+&lt;p&gt;XFEM и динамические сетки получили новый виток развития - это просто чума!
+Topology Optimizataion сдвинулась с мертвой точки: учет преднапряженного состояния и объемных нагрузок, куча интересных beta-возможностей&lt;/p&gt;
+&lt;p&gt;Meshing&lt;/p&gt;
+&lt;p&gt;Cartesian сетки вышли из beta
+Новые Cartesian-подобные сетки внутри Fluent Meshing&lt;/p&gt;
+&lt;p&gt;HPC&lt;/p&gt;
+&lt;p&gt;Любой решатель, принадлежащий ANSYS, из коробки будет считать на 4-х процессорных ядрах!&lt;/p&gt;
+&lt;p&gt;СFD:&lt;/p&gt;
+&lt;p&gt;EnSight - welcome!&lt;/p&gt;
+&lt;p&gt;SpaceClaim&lt;/p&gt;
+&lt;p&gt;Faset Data теперь включен в стандартную лицензию&lt;/p&gt;
+&lt;p&gt;WB LS-DYNA&lt;/p&gt;
+&lt;p&gt;Она теперь умеет читать .k файлы через External Model (!!!)
+Куча новых материалов доступна через Engineering Data&lt;/p&gt;
+&lt;p&gt;Всем заинтересованным я очень рекомендую внимательно прочитать две брошюры по данному релизу:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;ANSYS 19.0 — Обновления и изменения&amp;rdquo; https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/19/ANSYS19.0_update.pdf
+&amp;ldquo;ANSYS 19.0 — Технические требования к программно-аппаратным комплексам и лицензионная политика в области HPC&amp;rdquo; https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/19/ANSYS19.0_tech.pdf&lt;/p&gt;
+&lt;p&gt;#ANSYS #Cartesian #CFD #HPC #Mechaincal #Meshing #optimization #SpaceClaim #Topology #WB LS-DYNA #XFEM
+&lt;a href=&#34;https://magicdpd.ru/?p=6128&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6128&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cadfem-cis.ru/products/ansys/ansys-update/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/products/ansys/ansys-update/&lt;/a&gt;
+&lt;a href=&#34;https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/19/ANSYS19.0_update.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/19/ANSYS19.0_update.pdf&lt;/a&gt;
+&lt;a href=&#34;https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/19/ANSYS19.0_tech.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/19/ANSYS19.0_tech.pdf&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=6128&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6128&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Работа с STL в SpaceClaim</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-08-rabota-s-stl-v-spaceclaim/</link>
+      <pubDate>Mon, 08 Jan 2018 09:00:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-08-rabota-s-stl-v-spaceclaim/</guid>
+      <description>&lt;p&gt;Работа с STL в SpaceClaim
+ANSYS SpaceClaim Direct Modeller, теперь входящий в линейку Discovery, благодаря встроеному движку от Poligonica является одним из самых мощных средств редактирования STL. Вот небольшая демонстрация функционала и принципов работы.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=aJIDzC9F5E0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=aJIDzC9F5E0&lt;/a&gt;
+#ANSYS #Discovery #Poligonica #SpaceClaim #STL
+&lt;a href=&#34;https://magicdpd.ru/?p=5873&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5873&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=aJIDzC9F5E0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=aJIDzC9F5E0&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=5873&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5873&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Большой и очень подробный видео урок про то как можно оптимизировать аэродинамику задней части автомобиля в #LSDYNA используя решатель #ICFD.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-15-bolshoy-i-ochen-podrobnyy-video-urok-pro/</link>
       <pubDate>Fri, 15 Dec 2017 17:13:39 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-12-15-bolshoy-i-ochen-podrobnyy-video-urok-pro/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-15-bolshoy-i-ochen-podrobnyy-video-urok-pro/</guid>
       <description>&lt;p&gt;Интересные фишки урока - #ANSA используется для морфина сетки. Надо отметить, что та сетка, что вы видите - это не расчетная сетка. Расчетная сетка генерируется решателем на лету. Та сетка, что вы видите - это просто такое представление геометрии для решателя. Это же объясняет отсутствие призматических слоев у границ домена. По сути работая с сеткой в #ANSA тут задают параметризацию формы геометрии как #SpaceClaim.&lt;/p&gt;
 &lt;p&gt;А вот начиная со времени 10:12 начинается настройка параметрического проекта в LS-Opt - бесплатного (!!!) оптимизатора от #LSTC. Очень полезно тем, кто хочет познакомиться с оптимизацией. Бесплатен #LSOPT для тех, у кого есть LS-DYNA 😊&lt;/p&gt;
 &lt;p&gt;И да, если у вас есть весь описаный в уроке софт, то вот ссылка на архив пролета от авторов видео урока: &lt;a href=&#34;http://ift.tt/2AB0pjs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2AB0pjs&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5h0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=5h0&lt;/a&gt;…MediaMediaMedia📼 Shape optimization for CFD analysis using LS-Opt +…&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ift.tt/2ABXw28&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ABXw28&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vlBJYZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlBJYZ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zoi3XR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zoi3XR&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2yfJ8Lg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yfJ8Lg&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2yfJ8Lg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yfJ8Lg&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vVLrF3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vVLrF3&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xRPO1U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xRPO1U&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2ycnLef&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ycnLef&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2BrWdGu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2BrWdGu&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=5h0fU_ee2jI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=5h0fU_ee2jI&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2BrWeKy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2BrWeKy&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2Azpjjy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2Azpjjy&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2BrWgSG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2BrWgSG&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2ABXw28&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ABXw28&lt;/a&gt;
+tp://ift.tt/2ABXw28&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Коллеги, я продолжаю поиск учеников для того, чтобы делиться</title>
-      <link>http://localhost:1313/posts/2017-12-14-kollegi-ya-prodolzhayu-poisk-uchenikov-dlya/</link>
+      <title>Коллеги, я продолжаю поиск учеников для того, чтобы делиться своими знаниями и решать интересные и сложные задачи.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-14-kollegi-ya-prodolzhayu-poisk-uchenikov-dlya/</link>
       <pubDate>Thu, 14 Dec 2017 10:02:34 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-12-14-kollegi-ya-prodolzhayu-poisk-uchenikov-dlya/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-14-kollegi-ya-prodolzhayu-poisk-uchenikov-dlya/</guid>
       <description>&lt;p&gt;Задачи я решаю преимущественно в #LSDYNA, и это потребует обязательного знания #МКЭ, #ANSYS Mechanical, #SpaceClaim, #Meshing, #LSPP. Знание сложного инженерного ПО - это хорошо, но без хорошего базового образования и понимания физики процесса никуда не деться. Таким образом вам потребуются знания таких дисциплин, как теоретическая механика, математическая физика, теория упругости и что-нибудь из численных методов.&lt;/p&gt;
 &lt;p&gt;Каким я вижу своих учеников:&lt;/p&gt;
 &lt;ul&gt;
@@ -101,147 +478,649 @@ by Юрий Новожилов&lt;/p&gt;
 &lt;p&gt;Что надо сделать, чтобы начать? Надо найти способ связаться со мной. Предпочтительный способ: &lt;a href=&#34;https://t.me/GlukRazor&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://t.me/GlukRazor&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;И да, я редко прошу, но для этого поста просто необходим максимальный репост.MediaMediaMediaMedia&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ift.tt/2j2Iv1R&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2j2Iv1R&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2jTR3cd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2jTR3cd&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vlBJYZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlBJYZ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vVLrF3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vVLrF3&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2fWmbWF&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2fWmbWF&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2i0hIGl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i0hIGl&lt;/a&gt;
+&lt;a href=&#34;https://t.me/GlukRazor&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://t.me/GlukRazor&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2j3tKfr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2j3tKfr&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2jTj6c2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2jTj6c2&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2j0K7Jz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2j0K7Jz&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2jTR6EV&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2jTR6EV&lt;/a&gt;
+ttp://ift.tt/2j2Iv1R&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>#BetaCAE показала BETA Web - возможность удаленного подключе</title>
-      <link>http://localhost:1313/posts/2017-11-03-betacae-pokazala-beta-web-vozmozhnost/</link>
+      <title>#BetaCAE показала BETA Web - возможность удаленного подключения заинтересованных в &#34;поглядеть на то, что у вас получается&#34;.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-03-betacae-pokazala-beta-web-vozmozhnost/</link>
       <pubDate>Fri, 03 Nov 2017 17:16:53 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-03-betacae-pokazala-beta-web-vozmozhnost/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-03-betacae-pokazala-beta-web-vozmozhnost/</guid>
       <description>&lt;p&gt;По сути, система дает доступ по WEB в вашей модели. Таким образом заинтересованные люди без установки ПО и задания его особенностей могут на любом компьютере посмотреть нет ли ошибок в модели и в каком она сейчас статусе. Примерно что-то такое год назад появилось у #ANSYS #SpaceClaim, но не для сеточной модели, а для геометрической.&lt;/p&gt;
 &lt;p&gt;#betaweb
 &lt;a href=&#34;https://www.youtube.com/watch?v=dRX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=dRX&lt;/a&gt;…Media📼 Connect with your partners through the BETA Web in…&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ift.tt/2hDa1D7&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hDa1D7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2xkOUMw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xkOUMw&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vVLrF3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vVLrF3&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2hCFe9n&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hCFe9n&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=dRXzQCKruJk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=dRXzQCKruJk&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2A3iI04&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2A3iI04&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2hDa1D7&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hDa1D7&lt;/a&gt;
+ttp://ift.tt/2hDa1D7&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Статья - размышление про то, как #ANSYS #Discovery Live помо</title>
-      <link>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</link>
+      <title>#Algoryx показывают, как быстро исправить геометрию #SpaceClaim.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-26-algoryx-pokazyvayut-kak-bystro-ispravit/</link>
+      <pubDate>Thu, 26 Oct 2017 17:00:46 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-26-algoryx-pokazyvayut-kak-bystro-ispravit/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=VZE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=VZE&lt;/a&gt;…Media📼 When your design goes to hell&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2yQHiSJ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yQHiSJ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2xnp4qs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xnp4qs&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vVLrF3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vVLrF3&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=VZE2NN5CRC0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=VZE2NN5CRC0&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2ySEFBH&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ySEFBH&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2yQHiSJ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yQHiSJ&lt;/a&gt;
+ttp://ift.tt/2yQHiSJ&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Статья - размышление про то, как #ANSYS #Discovery Live помогает ANSYS реализовать свободомыслий давнюю задумку: сделать всех инженеров и проектировщиков своими пользователями.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</link>
       <pubDate>Sun, 17 Sep 2017 17:04:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</guid>
       <description>&lt;p&gt;И тут ключевыми факторами успеха оказывается не только использование самого передового решателя, разработанного совместно с #NVIDIA. Не даром ANSYS очень дружен с разработчиком GPU. Об этом говорят те факты, что #Mechanical #APDL был первым коммерческим #FEM использовавшим #GPU, как и #Fluent - первым коммерческим #CFD использовавшим #GPU&lt;/p&gt;
 &lt;p&gt;Тут еще вспоминается и #SpaceClaim, который выйдя на рынок в 2005 сделал лидеров отстающими. Именно после #SpaceClaim появились такие системы, как #PTC #Creo, #Autodesk #Fusion и концепция #Siemens Synchronous Technology.&lt;/p&gt;
 &lt;p&gt;Сейчас SpaceClaim становиться геометрическим ядром для #Workbench, #AIM и #ANSYS #Discovery.&lt;/p&gt;
 &lt;p&gt;#GPGPU #CUDA
 &lt;a href=&#34;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&lt;/a&gt; 🔗 ANSYS Discovery Live Changes Everything&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Представляю вам #Theorem Solutions - разработчика Publish 3D</title>
-      <link>http://localhost:1313/posts/2017-08-22-predstavlyayu-vam-theorem-solutions-raz/</link>
+      <title>Если вы еще не пользуете #Python скрипты в #ANSYS #SpaceClaim, то вы многое упускаете.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-13-esli-vy-esche-ne-polzuete-python-skripty/</link>
+      <pubDate>Wed, 13 Sep 2017 18:48:28 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-13-esli-vy-esche-ne-polzuete-python-skripty/</guid>
+      <description>&lt;p&gt;В видео показана фича, позволяющая связать Python код с именами параметров (Parameters) и именованных выборок (Named Selections) в рамках среды #Workbench - этого навыка мне прямо очень нахватало.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Av&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Av&lt;/a&gt;_…Media📼 How to use scripting features in ANSYS SpaceClaim…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2wqp877&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wqp877&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2x23TfF&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2x23TfF&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vVLrF3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vVLrF3&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2v28PC1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2v28PC1&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=Av_1Jo1IjkI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Av_1Jo1IjkI&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2x26run&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2x26run&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wqp877&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wqp877&lt;/a&gt;
+ttp://ift.tt/2wqp877&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Прикол: в наследство от #SpaceClaim #ANSYS #Discovery Live получил поддержку кучи языков - в том числе и русского.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-12-prikol-v-nasledstvo-ot-spaceclaim-ans/</link>
+      <pubDate>Tue, 12 Sep 2017 09:40:24 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-12-prikol-v-nasledstvo-ot-spaceclaim-ans/</guid>
+      <description>&lt;p&gt;Не знаю, останется ли это в финальной версии, но сейчас часть контролов переведены, а часть нет.&lt;/p&gt;
+&lt;p&gt;Хотя я, по привычке, все равно переключу на английский.Media&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2w46Eyh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2w46Eyh&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vVLrF3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vVLrF3&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wLNQRy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wLNQRy&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wU6Mjn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wU6Mjn&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2w46Eyh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2w46Eyh&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Представляю вам #Theorem Solutions - разработчика Publish 3D.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-22-predstavlyayu-vam-theorem-solutions-raz/</link>
       <pubDate>Tue, 22 Aug 2017 19:48:58 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-08-22-predstavlyayu-vam-theorem-solutions-raz/</guid>
-      <description>&lt;p&gt;При этом, насколько я понимаю, так как такой формат сертифицирован #Adobe, то для просмотра 3D PDF вам не нужно устанавливать никаких дополнительных плагинов!&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-22-predstavlyayu-vam-theorem-solutions-raz/</guid>
+      <description>&lt;p&gt;Данное программное обеспечение позволяет встраивать CAD модели прямо в PDF файлы, создавая так навиваемый 3D PDF.&lt;/p&gt;
+&lt;p&gt;При этом, насколько я понимаю, так как такой формат сертифицирован #Adobe, то для просмотра 3D PDF вам не нужно устанавливать никаких дополнительных плагинов!&lt;/p&gt;
 &lt;p&gt;Видео обзор работы ПО: https://youtu.be/50b4IMzbWE0&lt;/p&gt;
 &lt;p&gt;Кстати, #ANSYS #SpaceClaim воспринимает 3D PDF как полноценный CAD формат 😊&lt;/p&gt;
 &lt;p&gt;#3DPDF #Publish3D
 #magicdpd 🔗 vk.com/wall-97265142_3073&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/50b4IMzbWE0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/50b4IMzbWE0&lt;/a&gt;
+.com/wall-97265142_3073&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>7 сентября #ANSYS обещает показать нам что-то такое, от чего</title>
-      <link>http://localhost:1313/posts/2017-08-12-7-sentyabrya-ansys-obeschaet-pokazat-nam-ch/</link>
+      <title>Если у вас нет #SpaceClaim, а задачи обратного проектирования вам решать надо, то можно попробовать #XTract3D от #polyga.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-15-esli-u-vas-net-spaceclaim-a-zadachi-obr/</link>
+      <pubDate>Tue, 15 Aug 2017 17:01:07 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-15-esli-u-vas-net-spaceclaim-a-zadachi-obr/</guid>
+      <description>&lt;p&gt;Данный плагин встраивается в #SolidWorks и позволяет восстанавливать CAD геометрию на основе STL.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/u29tMlPP9y8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/u29tMlPP9y8&lt;/a&gt; &lt;a href=&#34;https://www.polyga.com/xtract3d/video-tour/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.polyga.com/xtract3d/video-tour/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/u29tMlPP9y8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;XTract3D Video Tour&lt;/a&gt;
+&lt;a href=&#34;https://www.polyga.com/xtract3d/video-tour/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.polyga.com/xtract3d/video-tour/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>7 сентября #ANSYS обещает показать нам что-то такое, от чего мы все впадем в неминуемое счастье.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-12-7-sentyabrya-ansys-obeschaet-pokazat-nam-ch/</link>
       <pubDate>Sat, 12 Aug 2017 17:01:29 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-08-12-7-sentyabrya-ansys-obeschaet-pokazat-nam-ch/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-12-7-sentyabrya-ansys-obeschaet-pokazat-nam-ch/</guid>
       <description>&lt;p&gt;Судя по роликам и скриншотам, это будет инструмент на движке  #SpaceClaim, позволяющий выполнять концептуальное моделирование с проверкой расчетом на лету. Если верить видео, то теперь, при изменении радиуса скрепления в изделии вам не надо жале Solve нажимать - оно само все просчитает и покажет. Вериться трудом, но посмотреть можно. Ключевое слово всего мероприятия #discovery - возможно это даже название нового продукта.&lt;/p&gt;
 &lt;p&gt;Ссылка на регистрацию на мероприятие присутствует.&lt;/p&gt;
 &lt;p&gt;Какие есть еще теории? &lt;a href=&#34;http://www.ansys.com/products/3d-design/discovery-live-registration&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/products/3d-design/discovery-live-registration&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys.com/products/3d-design/discovery-live-registration&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Discovery Live: Registration&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сделай свою кнопку в SpaceClaim</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-20-sdelay-svoyu-knopku-v-spaceclaim/</link>
+      <pubDate>Tue, 20 Jun 2017 13:11:40 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-20-sdelay-svoyu-knopku-v-spaceclaim/</guid>
+      <description>&lt;p&gt;Сделай свою кнопку в SpaceClaim
+&lt;a href=&#34;http://www.ansys-blog.com/interactive-script-defined-tools/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/interactive-script-defined-tools/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Чуть не проглядел очень очень интересную новую функцию в #ANSYS #SpaceClaim 18.1 (#SCDM). Теперь у нас есть возможность не только записывать и воспроизводить #python скрипты/журналы. Теперь мы можем публиковать эти скрипты в виде готовых инструментов и кнопок прямо в GUI!!! Это прям как #ACT без мороки с написанием #ACT.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys-blog.com/interactive-script-defined-tools/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Interactive Script-defined Tools Change the Game in Modeling&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новые возможности SpaceClaim 18.1</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-09-novye-vozmozhnosti-spaceclaim-181/</link>
+      <pubDate>Fri, 09 Jun 2017 17:01:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-09-novye-vozmozhnosti-spaceclaim-181/</guid>
+      <description>&lt;p&gt;Новые возможности SpaceClaim 18.1
+&lt;a href=&#34;https://www.youtube.com/watch?v=c8BXU7FPFN0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=c8BXU7FPFN0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS #SpaceClaim (#SCDM) в версии 18.1 получил еще немного интересных новых возможностей. Например мне очень понравился новый механизм управления выборками фасетов при работе с #STL.&lt;/p&gt;
+&lt;p&gt;P.S. Забавно, но похоже ANSYS сам начинает путаться в нумерации своих приложений: SCDM не 2017.1, а 18.1 (версии дам сохранились только для электромагнитного софта).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=c8BXU7FPFN0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=c8BXU7FPFN0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=c8BXU7FPFN0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS SpaceClaim 2017.1 Enhancements&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LimitState для проектирования топологии</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-29-limitstate-dlya-proektirovaniya-topologii/</link>
+      <pubDate>Mon, 29 May 2017 17:00:28 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-29-limitstate-dlya-proektirovaniya-topologii/</guid>
+      <description>&lt;p&gt;LimitState для проектирования топологии
+&lt;a href=&#34;https://youtu.be/yQI6e2iGlzE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/yQI6e2iGlzE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Британская компания #LimitState 3D анонсировала 3-й релиз своего одноименного LimitState:FORM v3.0. Интересно, что это ПО не является системой оптимизации топологии в классическом ее понимании.&lt;/p&gt;
+&lt;p&gt;Система генерирует и обсчитывает на лету ферментные конструкции, но, насколько я понял, это именно ферментные конструкции. Таким образом, вы не получаете очень сложных форм (и это может быть минусом), но вы получаете конструкции, которые можно просто и быстро проверить(и это точно плюс).&lt;/p&gt;
+&lt;p&gt;По построено на основе #ANSYS #SpaceClaim, что означает очень приятный UI и возможность экспорта геометрии изделия в любой формат. А еще в 3-ей версии ПО появилась интеграция с #ANSYS #Mechanical для более точно проверки работоспособности модели.&lt;/p&gt;
+&lt;p&gt;#topology #optimization&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/yQI6e2iGlzE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/yQI6e2iGlzE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/yQI6e2iGlzE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LimitState:FORM | Design Optimization Software&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Констатируем факты - 18.0 уже не не самый свежий релиз ANSYS</title>
-      <link>http://localhost:1313/posts/2017-05-18-konstatiruem-fakty-180-uzhe-ne-ne-samy/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-18-konstatiruem-fakty-180-uzhe-ne-ne-samy/</link>
       <pubDate>Thu, 18 May 2017 17:01:05 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-05-18-konstatiruem-fakty-180-uzhe-ne-ne-samy/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.prnewswire.com/news-releases/ansys-181-expands-pervasive-engineering-simulation-300457825.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.prnewswire.com/news-releases/ansys-181-expands-pervasive-engineering-simulation-300457825.html&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-18-konstatiruem-fakty-180-uzhe-ne-ne-samy/</guid>
+      <description>&lt;p&gt;Констатируем факты - 18.0 уже не не самый свежий релиз ANSYS
+&lt;a href=&#34;http://www.prnewswire.com/news-releases/ansys-181-expands-pervasive-engineering-simulation-300457825.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.prnewswire.com/news-releases/ansys-181-expands-pervasive-engineering-simulation-300457825.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;В понедельник #ANSYS выкатил очередную большую версию своего ПО - R18.1. Нововведения есть и их много. Особенно порадовала топологическая оптимизация и #SpaceClaim.&lt;/p&gt;
 &lt;p&gt;Однако для меня этот релиз сделала пожалуй одна мелкая и приятная новая возможность: F11 для полноэкранного режима в ANSYS Mechanical :-). Прямо как-то ностальгия по временам, когда экраны были маленькие и браузеры по этой клавише пытались спрятать весь свой интерфейс.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.prnewswire.com/news-releases/ansys-181-expands-pervasive-engineering-simulation-300457825.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS 18.1 Expands Pervasive Engineering Simulation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Реверсинжиниринг в SpaceeClaim</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-02-reversinzhiniring-v-spaceeclaim/</link>
+      <pubDate>Sun, 02 Apr 2017 17:00:50 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-02-reversinzhiniring-v-spaceeclaim/</guid>
+      <description>&lt;p&gt;Реверсинжиниринг в SpaceeClaim
+&lt;a href=&#34;https://www.youtube.com/watch?v=sk55qdEj_T4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=sk55qdEj_T4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Свежий учебный пример по восстановлению геометрии на основе #STL формата в самом свежем #ANSYS #SCDM (aka #SpaceClaim). Коллеги из #CAE Associates Inc постарались.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=sk55qdEj_T4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=sk55qdEj_T4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=sk55qdEj_T4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS SpaceClaim Reverse Engineering | CAE Associates&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Работа с большими сборками в SpaceClaim</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-30-rabota-s-bolshimi-sborkami-v-spaceclaim/</link>
+      <pubDate>Thu, 30 Mar 2017 08:37:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-30-rabota-s-bolshimi-sborkami-v-spaceclaim/</guid>
+      <description>&lt;p&gt;Работа с большими сборками в SpaceClaim
+&lt;a href=&#34;https://www.youtube.com/watch?v=o95pjExmhMo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=o95pjExmhMo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS #SCDM (aka #SpaceClaim) имеет весьма внушительный функционал по работе с большими сборками. Вот несколько видео уроков, которые покажут, как без боли работать с моделями состоящими из нескольких тысячам деталей.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=o95pjExmhMo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=o95pjExmhMo&lt;/a&gt;
+&lt;a href=&#34;https://vimeo.com/177550413&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vimeo.com/177550413&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=o95pjExmhMo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SpaceClaim Working with Large Assemblies&lt;/a&gt;
+&lt;a href=&#34;https://vimeo.com/177550413&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vimeo.com/177550413&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Прикладная топологическая оптимизация</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-23-prikladnaya-topologicheskaya-optimizatsiya/</link>
+      <pubDate>Thu, 23 Mar 2017 17:02:10 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-23-prikladnaya-topologicheskaya-optimizatsiya/</guid>
+      <description>&lt;p&gt;Прикладная топологическая оптимизация
+&lt;a href=&#34;https://multiphysics.ru/stati/novosti/topologicheskaia-optimizatciia-konstruktcii-v-ansys-mechanical.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://multiphysics.ru/stati/novosti/topologicheskaia-optimizatciia-konstruktcii-v-ansys-mechanical.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Коллеги, наверно многие из вас видели у меня примеры работы алгоритмов топологической оптимизации (#topology #optimization). Я неоднократно писал на эту тему. Уже на протяжении 10 лет я слежу за направлением аддитивных технологий и оптимизации топологии, решаю подобные задачи.&lt;/p&gt;
+&lt;p&gt;Сейчас я разыскиваю доброго человека и собеседника для решения задач под моим присмотром в СПб. Желательно, что бы вы уже защитили балкарскую работу, умели #ANSYS #Mechanical и #SpaceClaim. Желательно, но не обязательно.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://multiphysics.ru/stati/novosti/topologicheskaia-optimizatciia-konstruktcii-v-ansys-mechanical.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Топологическая оптимизация конструкций в ANSYS Mechanical | Инженерные расчеты&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python для SpaceClaim</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-02-python-dlya-spaceclaim/</link>
+      <pubDate>Thu, 02 Mar 2017 17:00:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-02-python-dlya-spaceclaim/</guid>
+      <description>&lt;p&gt;Python для SpaceClaim
+&lt;a href=&#34;http://www.ansys-blog.com/spaceclaim-geometry-scripting/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/spaceclaim-geometry-scripting/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Да, у #ANSYS #SpaceClaim нет дерева истории работы с геометрией! Но зато, он умеет писать журналы всего, что вы делаете на #Python. Примеры кода для SCDM по ссылке в тексте статьи.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys-blog.com/spaceclaim-geometry-scripting/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Geometry Scripting in ANSYS SpaceClaim for Rapid Model Changes&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beam-to-Solid submodeling в ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-05-beam-to-solid-submodeling-v-ansys/</link>
+      <pubDate>Sun, 05 Feb 2017 17:00:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-05-beam-to-solid-submodeling-v-ansys/</guid>
+      <description>&lt;p&gt;Beam-to-Solid submodeling в ANSYS
+&lt;a href=&#34;https://www.youtube.com/watch?v=jkj3owGBJ_c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jkj3owGBJ_c&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Техника работы с подмоделями или сабмоделинг в #ANSYS #APDL была наверно всегда, а вот в ANSYS #Mechanical - только версии с 14-ой наверно. Сейчас же мы можем использовать подмотали вообще в при любом раскладе:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;solid-to-solid&lt;/li&gt;
+&lt;li&gt;shell-to-solid (даже для компостов благодаря #ACP)&lt;/li&gt;
+&lt;li&gt;beam-to-solid (даже так!!!).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;О том, как работать с  beam-to-solid #submodeling небольшое небное видео:
+&lt;a href=&#34;https://www.youtube.com/watch?v=jkj3owGBJ_c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jkj3owGBJ_c&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;P.S. В видео есть отдельные плюшки по #SpaceClaim&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jkj3owGBJ_c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Beam and Shell Submodeling with ANSYS Mechanical [Tutorial]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вышел KeyShot 6.3</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-18-vyshel-keyshot-63/</link>
+      <pubDate>Sun, 18 Dec 2016 12:02:29 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-18-vyshel-keyshot-63/</guid>
+      <description>&lt;p&gt;Вышел KeyShot 6.3
+&lt;a href=&#34;https://www.keyshot.com/press/luxion-releases-keyshot-6-3/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.keyshot.com/press/luxion-releases-keyshot-6-3/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Компания #Luxion объявила о выходе #KeyShot 6.3 - системе фотореалистичного рендеринга для #CAD. Как говорят сами разработчики, KeyShot 6.3 - это первая система способная расчитывать трассировку лучей и глобальное освещение в реальном времени для 3D рендеринга и анимации.&lt;/p&gt;
+&lt;p&gt;В новой версии появилась поддержка следующих систем:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#Autodesk #Alias 2017, #Inventor 2017, #Maya 2017&lt;/li&gt;
+&lt;li&gt;#Siemens #NX 11, #SolidEdge ST9&lt;/li&gt;
+&lt;li&gt;#Dassault System #SoldWorks 2017&lt;/li&gt;
+&lt;li&gt;#PTC #Creo 4 (через Creo Parametric’s Advanced Rendering Extension aka #ARX)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;А в составе #ANSYS вы можете встретить KeyShot с бесплатной базовой лицензией внутри #SpaceClaim.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.keyshot.com/press/luxion-releases-keyshot-6-3/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.keyshot.com/press/luxion-releases-keyshot-6-3/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Состоялся второй релиз Shapr3D</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-17-sostoyalsya-vtoroy-reliz-shapr3d/</link>
+      <pubDate>Sat, 17 Dec 2016 12:03:42 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-17-sostoyalsya-vtoroy-reliz-shapr3d/</guid>
+      <description>&lt;p&gt;Состоялся второй релиз Shapr3D
+&lt;a href=&#34;https://www.youtube.com/watch?v=RT3W25T_wGg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=RT3W25T_wGg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Shapr3D - в своем роде уникальный проект. Это #CAD работающий на #iPad Pro и только на нем, и только с волшебным стилусом. Но вы только посмотрите, как он работает. Это уже не классический CAD - это практически полноценная система прямого моделирования. Конечно не #SpaceClaim, но видно, на кого смотрели создатели, когда писали свой продукт.&lt;/p&gt;
+&lt;p&gt;А теперь только задумайтесь: вы получаете почти SpaceClaim, который работает прямо на вашем планшете, а не на мощной рабочей станции, и стоит всего 99 баксов в год за профессиональную версию (есть и бесплатная). Разве не мечта для быстрого создания концептуальных моделей на коленке (в прямом смысле слова).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=RT3W25T_wGg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=RT3W25T_wGg&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=OFsbZikomSA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=OFsbZikomSA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=RT3W25T_wGg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Shapr3D 2.0 is here&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=OFsbZikomSA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=OFsbZikomSA&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AGX Dynamics для частиц</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-16-agx-dynamics-dlya-chastits/</link>
+      <pubDate>Fri, 16 Dec 2016 17:00:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-16-agx-dynamics-dlya-chastits/</guid>
+      <description>&lt;p&gt;AGX Dynamics для частиц
+&lt;a href=&#34;https://www.youtube.com/watch?v=7OA-54FNYVQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=7OA-54FNYVQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Algoryx - разработчик Dynamics for #SpaceClaim выкатил новые фишки своего ПО&lt;/p&gt;
+&lt;p&gt;Из решатель #AGX Dynamics, который является сердцем Dynamics for #SpaceClaim - системы для расчета твердотельной динамики (#RBD) - теперь умеет решать задачи в #DEM постановке. При этом, используется не сферические частицы (привет #LSDYNA) и их кластеры (привет #EDEM), а частицы произвольной формы (привет #Rocky). Такую постановку метода дискретных элементов разработчики окрестили #NDEM (non-smooth discrete element methods). И это все помимо возможности моделировать поведение кабелей и тросов.&lt;/p&gt;
+&lt;p&gt;#AGX Dynamics уже сейчас умеет моделировать конвейерные системы, взаимодействие с твердыми телами, слипание частиц. Разрушения частиц нет, использования #GPU тоже пока нет. Но я думаю, что все это скоро будет.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=7OA-54FNYVQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=7OA-54FNYVQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=7OA-54FNYVQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Granular simulation in AGX Dynamics - Overview&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>True междисциплинарный проект</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-25-true-mezhdistsiplinarnyy-proekt/</link>
+      <pubDate>Tue, 25 Oct 2016 17:00:25 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-25-true-mezhdistsiplinarnyy-proekt/</guid>
+      <description>&lt;p&gt;True междисциплинарный проект
+&lt;a href=&#34;http://www.finiteelementanalysis.com.au/featured/end-to-end-system-design-with-ansys-an-electric-guitar-example/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.finiteelementanalysis.com.au/featured/end-to-end-system-design-with-ansys-an-electric-guitar-example/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Команда #LEAP #FEA Team промоделировала легендарную гитару #Stratocaster и сыграла на ней композицию &amp;ldquo;Smoke on the Water&amp;rdquo; (даже есть семпл с результатом на #SoundCloud).&lt;/p&gt;
+&lt;p&gt;Для начала ребята построили модель гитары в #ANSYS #SpaceClaim. Затем посчитали настроили ее, с учетом преднатяга струн, в #ANSYS #Mechanical. Полученную модель загнали в #ANSYS #Simplorer для моделирования всей системы с электроникой. Не забыли учесть магнитные звукосниматели в #ANSYS #Maxwell. Далее идет неуловимая игра слов и планы добавить в модель #CFD для #FSI.&lt;/p&gt;
+&lt;p&gt;P.S. А вам слабо так заморочиться?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.finiteelementanalysis.com.au/featured/end-to-end-system-design-with-ansys-an-electric-guitar-example/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;End to End System Design with ANSYS – An Electric Guitar Example | Finite Element Analysis (FEA) Blog – LEAP Australia &amp;amp; New Zealand&lt;/a&gt;
+&lt;a href=&#34;http://www.finiteelementanalysis.com.au/featured/end-to-end-system-design-with-ansys-an-electric-guitar-example/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.finiteelementanalysis.com.au/featured/end-to-end-system-design-with-ansys-an-electric-guitar-example/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ANSYS Toplogy Optimization - еще большой учебный материал</title>
-      <link>http://localhost:1313/posts/2016-10-22-ansys-toplogy-optimization-esche-bolshoy/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-22-ansys-toplogy-optimization-esche-bolshoy/</link>
       <pubDate>Sat, 22 Oct 2016 17:00:49 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-10-22-ansys-toplogy-optimization-esche-bolshoy/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.finiteelementanalysis.com.au/featured/topological-optimisation-with-ansys-17-0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.finiteelementanalysis.com.au/featured/topological-optimisation-with-ansys-17-0/&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-22-ansys-toplogy-optimization-esche-bolshoy/</guid>
+      <description>&lt;p&gt;ANSYS Toplogy Optimization - еще большой учебный материал
+&lt;a href=&#34;http://www.finiteelementanalysis.com.au/featured/topological-optimisation-with-ansys-17-0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.finiteelementanalysis.com.au/featured/topological-optimisation-with-ansys-17-0/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Большой учебный материал/статья/мастер класс по работе с #ANSYS #Toplogy #Optimization #ACT. Разобраны не только моменты, связанные с постановкой задачи в #ANSYS #Mechanical и выполнения поверочного расчета на основе #STL, но и восстановление аналитической геометрии при помощи #SpaceClaim.&lt;/p&gt;
 &lt;p&gt;Спасибо команде LEAP Australia!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.finiteelementanalysis.com.au/featured/topological-optimisation-with-ansys-17-0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Topological Optimisation with ANSYS 17.0 | Finite Element Analysis (FEA) Blog – LEAP Australia &amp;amp; New Zealand&lt;/a&gt;
+&lt;a href=&#34;http://www.finiteelementanalysis.com.au/featured/topological-optimisation-with-ansys-17-0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.finiteelementanalysis.com.au/featured/topological-optimisation-with-ansys-17-0/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Восстановление аналитической геометрии по STL в SpaceClaim</title>
-      <link>http://localhost:1313/posts/2016-08-21-vosstanovlenie-analiticheskoy-geometrii-p/</link>
-      <pubDate>Sun, 21 Aug 2016 06:30:25 +0000</pubDate>
+      <title>Восстановление аналитической геометрии по STL в SpaceClaim: часть 2</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-21-vosstanovlenie-analiticheskoy-geometrii-p/</link>
+      <pubDate>Sun, 21 Aug 2016 12:01:26 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-08-21-vosstanovlenie-analiticheskoy-geometrii-p/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.spaceclaim.com/en/Solutions/ReverseEngineering.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.spaceclaim.com/en/Solutions/ReverseEngineering.aspx&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Похоже, что у #ANSYS #SpaceClaim Direct Modeller (#SCDM) есть ответ технологиям #PolyNURBS, заложеным в #solidThinking. Надо только уметь ими пользоваться: функционал по богаче, да настроек по более.&lt;/p&gt;
-&lt;p&gt;А мне прямо сейчас ох как надо восстановить нормальную геометрию на основе #STL резуьтатов топологической оптимизации.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-21-vosstanovlenie-analiticheskoy-geometrii-p/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=VEUvYM2qFRc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=VEUvYM2qFRc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;А теперь более образовательный пост на тему работы с #NURBS в #ANSYS #SpaceClaim Direct Modeller (#SCDM): несколько небольших мастерклассов по восстановлению аналитических поверхностей на основе #STL моделей.&lt;/p&gt;
+&lt;p&gt;P.S. Вот, что бывает, когда нужно решить интересную и новую задачу - три поста про SCDM в ряд!
+#ReverseEngineering
+&lt;a href=&#34;https://www.youtube.com/watch?v=VEUvYM2qFRc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=VEUvYM2qFRc&lt;/a&gt;
+&lt;a href=&#34;http://storage.ansys.com/video/release-highlights/spaceclaim-rev-eng.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://storage.ansys.com/video/release-highlights/spaceclaim-rev-eng.mp4&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=2j6N5A6T3Kw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=2j6N5A6T3Kw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=VEUvYM2qFRc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS SpaceClaim 2016 Reverse Engineering&lt;/a&gt;
+&lt;a href=&#34;http://storage.ansys.com/video/release-highlights/spaceclaim-rev-eng.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://storage.ansys.com/video/release-highlights/spaceclaim-rev-eng.mp4&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=2j6N5A6T3Kw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=2j6N5A6T3Kw&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Вебинар ANSYS SpaceClaim 2016.2: работа с STL</title>
-      <link>http://localhost:1313/posts/2016-08-20-vebinar-ansys-spaceclaim-20162-rabota/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-20-vebinar-ansys-spaceclaim-20162-rabota/</link>
       <pubDate>Sat, 20 Aug 2016 12:01:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-08-20-vebinar-ansys-spaceclaim-20162-rabota/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://attendee.gotowebinar.com/rt/1891354989561575940&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://attendee.gotowebinar.com/rt/1891354989561575940&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-20-vebinar-ansys-spaceclaim-20162-rabota/</guid>
+      <description>&lt;p&gt;Вебинар ANSYS SpaceClaim 2016.2: работа с STL
+&lt;a href=&#34;https://attendee.gotowebinar.com/rt/1891354989561575940&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://attendee.gotowebinar.com/rt/1891354989561575940&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Регичтация на обзорный вебинар по работе с #STL моделями в #ASYS #SpaceClaim Direct Modeler (#SCDM). Дополнително расскажту про такие темы, как PMI export, Associative scripting, STL shelling with face removal и т.п.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://attendee.gotowebinar.com/rt/1891354989561575940&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://attendee.gotowebinar.com/rt/1891354989561575940&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://attendee.gotowebinar.com/rt/1891354989561575940&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS SpaceClaim 2016.2 Release Webinar&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>#PADTInc подготовили хороший обзор программных средств для ж</title>
-      <link>http://localhost:1313/posts/2016-06-27-padtinc-podgotovili-horoshiy-obzor-progr/</link>
+      <title>Обачный #CAD #Onshape начал поддержку #STL с очень правильных шагов.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-25-obachnyy-cad-onshape-nachal-podderzhku-s/</link>
+      <pubDate>Mon, 25 Jul 2016 06:30:02 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-25-obachnyy-cad-onshape-nachal-podderzhku-s/</guid>
+      <description>&lt;p&gt;Они воспользовались технологиями #Polygonica - той самой супер разарботки, на основе которой сделан #STL движок #ANSYS #SpaceClaim. Ну вы уже догадываетесь - ничего круче по работе с STL чем технологии Polygonica сейчас навено и нет на рынке.&lt;/p&gt;
+&lt;p&gt;#cloud
+&lt;a href=&#34;http://lnk.al/1U4L&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1U4L&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lnk.al/1U4L&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Polygonica used by Geometric for Onshape STL Workbench&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#PADTInc подготовили хороший обзор программных средств для жизни в мире аддитивных технологий.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-27-padtinc-podgotovili-horoshiy-obzor-progr/</link>
       <pubDate>Mon, 27 Jun 2016 07:00:57 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-06-27-padtinc-podgotovili-horoshiy-obzor-progr/</guid>
-      <description>&lt;p&gt;#SpaceClaim #GeomagicDesignX #Topology #Optimization #Altair #SolidThinking Inspire #Autodesk #Within #Altair #OptiStruct #Simpleware #Pan #Lattice #ANSYS&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-27-padtinc-podgotovili-horoshiy-obzor-progr/</guid>
+      <description>&lt;p&gt;Тут и работа с 3D сканерами, и подготовка геометрии, и топологическая оптимизация с генерацией балочных структур - все самые новые тренды.&lt;/p&gt;
+&lt;p&gt;#SpaceClaim #GeomagicDesignX #Topology #Optimization #Altair #SolidThinking Inspire #Autodesk #Within #Altair #OptiStruct #Simpleware #Pan #Lattice #ANSYS&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/the-additive-manufacturing-software-conundrum&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;The Additive Manufacturing Software Conundrum&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Сегодня в Питере провели небольшой семинар на пол дня по #AN</title>
-      <link>http://localhost:1313/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</link>
+      <title>#Geomagic Design X - специализированное программное обеспечение компании 3D Systems предназначенное для восстановления полноценной #CAD геометрии по данным 3D сканирования.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-23-geomagic-design-x-spetsializirovannoe/</link>
+      <pubDate>Thu, 23 Jun 2016 07:00:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-23-geomagic-design-x-spetsializirovannoe/</guid>
+      <description>&lt;p&gt;В чем-то оно может дать фору даже #SpaceClaim.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=zAQzDI_PN5s&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Geomagic Design X Product Overview&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сегодня в Питере провели небольшой семинар на пол дня по #ANSYS 17. Небольшого семинара не получилось: зарегистрировалось под 200 человек, пришло более 150 человек. Несколько раз менять планировку залов, что бы вместить всех желающих. Свободные места для опоздавших находились с трудом (см фото с доказательствами)!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</link>
       <pubDate>Thu, 02 Jun 2016 13:58:36 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</guid>
       <description>&lt;p&gt;11 докладов по #Mechanical, #Explicit, #CFX, #Fluent, #DesignXplorer, #SpaceClaim, #HPC, #RBD, #ACP, #ACCS и конечно же #AIM!&lt;/p&gt;
 &lt;p&gt;А еще состоялся анонс проекта под рабочим названием #CADFEM #Haze!&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Как насчет зарядить этим в бетонную стенку?</title>
-      <link>http://localhost:1313/posts/2016-02-12-kak-naschet-zaryadit-etim-v-betonnuyu-sten/</link>
-      <pubDate>Fri, 12 Feb 2016 15:39:00 +0000</pubDate>
+      <title>#Altair в своем #solidThinking Inspire 2016 добавил ще одну фишку в топологическую оптимизацию. Они используют PolyNURBS для аппроксимации и создания новой топологии. Это немного более аккуратно, чем делает #SpaceClaim на основе #STL результатов оптимизатора #ANSYS, но на мой взгляд не принципиально. Вот если бы система делала реальный #CAD на основе топологической оптимизации - это был бы номер!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-21-altair-v-svoem-solidthinking-inspire-2/</link>
+      <pubDate>Mon, 21 Mar 2016 07:00:53 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-02-12-kak-naschet-zaryadit-etim-v-betonnuyu-sten/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-21-altair-v-svoem-solidthinking-inspire-2/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.develop3d.com/blog/2016/03/polynurbs-to-take-generative-design-to-next-level-in-solidthinking-inspire-&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DEVELOP3D blog - PolyNURBS to take generative design to ‘next level’ in solidThinking Inspire 2016&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Более полное понимание работы Dynamics for SpaceClaim от Alg</title>
-      <link>http://localhost:1313/posts/2015-09-02-bolee-polnoe-ponimanie-raboty-dynamics-f/</link>
+      <title>Научим старую собаку новым трюкам?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-18-nauchim-staruyu-sobaku-novym-tryukam-sledi/</link>
+      <pubDate>Fri, 18 Mar 2016 07:00:09 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-18-nauchim-staruyu-sobaku-novym-tryukam-sledi/</guid>
+      <description>&lt;p&gt;Следим за вводным курсом по #SpaceClaim от PADT Inc&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/learn-ansys-spaceclaim-01&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;New Tricks for an Old Dog: Eric Learns ANSYS SpaceClaim – Post 1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Внимание, видео рассказывает, что уже через 2-3 часа работы в #ANSYS #SpaceClaim у вас начнет вырабатываться зависимости, а после недели работы изменения в вашем организме станут необратимыми.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-13-vnimanie-video-rasskazyvaet-chto-uzhe-che/</link>
+      <pubDate>Sun, 13 Mar 2016 12:01:06 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-13-vnimanie-video-rasskazyvaet-chto-uzhe-che/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=HwUL5tbK1lE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SpaceClaim - Customer Success Story: 3Discovered&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Это конечно не #SpaceClaim, зато бесплатно: инструкция как при при помощи бесплатного с свободного #FreeCAD конвертировать #STL сетку в STEP геометрию.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-13-eto-konechno-ne-spaceclaim-zato-besplat/</link>
+      <pubDate>Sun, 13 Mar 2016 07:37:53 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-13-eto-konechno-ne-spaceclaim-zato-besplat/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://blog.othermachine.co/convert-stl-to-step&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Convert STL to STEP&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как насчет зарядить этим в бетонную стенку?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-12-kak-naschet-zaryadit-etim-v-betonnuyu-sten/</link>
+      <pubDate>Fri, 12 Feb 2016 15:39:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-12-kak-naschet-zaryadit-etim-v-betonnuyu-sten/</guid>
+      <description>&lt;p&gt;Как насчет зарядить этим в бетонную стенку?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>В ночь с 4 на 5 февраля #ANSYS проведет вебинар, где покажет свое новое #ACT для топологической оптимизации конструкций.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-03-v-noch-s-4-na-5-fevralya-ansys-provedet/</link>
+      <pubDate>Wed, 03 Feb 2016 20:12:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-03-v-noch-s-4-na-5-fevralya-ansys-provedet/</guid>
+      <description>&lt;p&gt;Я уже видел внутренние демонстрации продукта, и он уделывает всех конкурентов, а распространяется практически бесплатно (лицензия может потребоваться для низкоуровневой доводки поверхностей STL моделей в #SpaceClaim, но это не обязательно). Надеюсь, что всем разошлют запись вебинара.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys.com/About-ANSYS/Events/16-02-04-topology-optimization-for-design-innovation-online&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;$name&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Первого декабря все были так увлечены новость о выходе #ANSYS #SpaceClaim 2016, что пропустили другой интересный релиз.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-05-pervogo-dekabrya-vse-byli-tak-uvlecheny-no/</link>
+      <pubDate>Sat, 05 Dec 2015 18:00:41 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-05-pervogo-dekabrya-vse-byli-tak-uvlecheny-no/</guid>
+      <description>&lt;p&gt;ANSYS обновил свое недавнее приобретение #FENSAP до версии 2016.&lt;/p&gt;
+&lt;p&gt;Для тех, кто не курсе, FENSAP-ICE и FENSAP-ICE TURBO - это уникальное программное обеспечение для моделирования обледенения приобретенное ANSYS в прошедшем году. Его функционал готовят к более плотной интеграции с ANSYS #CFX.&lt;/p&gt;
+&lt;p&gt;Подробности по ссылке.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/11073/ANSYS-updates-De-icing-Simulation-and-Pre-Processing-Software.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt; ANSYS updates De-icing Simulation and Pre-Processing Software &amp;gt; ENGINEERING.com &lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#ANSYS #SpaceClaim 2015 не умеет по умолчанию показывать более 1000 балочных тел.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-03-ansys-spaceclaim-2015-ne-umeet-po-umol/</link>
+      <pubDate>Thu, 03 Dec 2015 14:02:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-03-ansys-spaceclaim-2015-ne-umeet-po-umol/</guid>
+      <description>&lt;p&gt;Приходится кликать и просить показать еще (за раз добавляется по одной тысяче). Вот такой он слабак.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Первые короткие публичные обзоры #SpaceClaim 2016: починена и доделана куча инструментов, к которым были претензии.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-03-pervye-korotkie-publichnye-obzory-spacec/</link>
+      <pubDate>Thu, 03 Dec 2015 06:30:33 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-03-pervye-korotkie-publichnye-obzory-spacec/</guid>
+      <description>&lt;p&gt;Наконец то SpaceClaim иуде нормально бороться с лишними вершинами на ребрах.&lt;/p&gt;
+&lt;p&gt;Лично у меня остался один вопрос: научился ли SpcaeClaim корректно работать со склейкой топологии (Share Topology) для тел состоящий из нескольких объемов (multi-body part)?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=GiHRDiM4buE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS SpaceClaim 2016 - Design &amp;amp; General Enhancements&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#ANSYS #SpaceClaim 2016 будет доступен для скачивания уже 1 декабря (вторник).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-25-ansys-spaceclaim-2016-budet-dostupen-d/</link>
+      <pubDate>Wed, 25 Nov 2015 06:00:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-25-ansys-spaceclaim-2016-budet-dostupen-d/</guid>
+      <description>&lt;p&gt;Так что поспешите записать на онлайн семинар с обзором новых возможностей этого чудесного геометрического процессора.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://attendee.gotowebinar.com/rt/6253495843332645634&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Registration&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Надо больше #SpaceClaim</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-24-nado-bolshe-spaceclaim/</link>
+      <pubDate>Tue, 24 Nov 2015 08:25:42 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-24-nado-bolshe-spaceclaim/</guid>
+      <description>&lt;p&gt;Надо больше #SpaceClaim&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Гуру знает как сделать параметрическую геометрию в #ANSYS #SpaceClaim!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-24-guru-znaet-kak-sdelat-parametricheskuyu-g/</link>
+      <pubDate>Tue, 24 Nov 2015 06:00:45 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-24-guru-znaet-kak-sdelat-parametricheskuyu-g/</guid>
+      <description>&lt;p&gt;&lt;del&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=demi4j-sAhI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Видеоурок CADFEM VL1509 - Параметрическое моделирование с применением решения ANSYS SpaceClaim&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20200209180450/https://www.youtube.com/watch?v=demi4j-sAhI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Магия #ANSYS #SpaceClaim для 3D-печати и формата stl</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-07-magiya-ansys-spaceclaim-dlya-3d-pechati-i/</link>
+      <pubDate>Sat, 07 Nov 2015 18:00:09 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-07-magiya-ansys-spaceclaim-dlya-3d-pechati-i/</guid>
+      <description>&lt;p&gt;Магия #ANSYS #SpaceClaim для 3D-печати и формата stl&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=B9hBfQYsju0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS SpaceClaim 2016 Sneak Peek - Shrinkwrap&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>10 примеров, из-за которы надо переходить на #SpaceClaim</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-01-10-primerov-iz-za-kotory-nado-perehodit/</link>
+      <pubDate>Sun, 01 Nov 2015 07:00:28 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-01-10-primerov-iz-za-kotory-nado-perehodit/</guid>
+      <description>&lt;p&gt;10 примеров, из-за которы надо переходить на #SpaceClaim&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=36lxQw5mM_E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Top Ten Reasons to Use SpaceClaim&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#ANSYS накрутил все, что мог в плане создания умных часов.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-22-ansys-nakrutil-vse-chto-mog-v-plane-soz/</link>
+      <pubDate>Tue, 22 Sep 2015 18:01:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-22-ansys-nakrutil-vse-chto-mog-v-plane-soz/</guid>
+      <description>&lt;p&gt;Тут и #SpaceClaim, и #HFSS, и #Mechanical, и #Explicit, и связанные расчеты с теплом. Короче, голова идет кругом.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8kacFVNb4fg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Wearable Technology - Smart Watch Simulation with ANSYS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Более полное понимание работы Dynamics for SpaceClaim от Algoryx Simulation AB дает хороший пример решения задачи роторной динамики для электродвигателя.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-02-bolee-polnoe-ponimanie-raboty-dynamics-f/</link>
       <pubDate>Wed, 02 Sep 2015 17:00:18 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-09-02-bolee-polnoe-ponimanie-raboty-dynamics-f/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-02-bolee-polnoe-ponimanie-raboty-dynamics-f/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=dHI6BTa4FY0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Analyzing transient structural dynamics of an electric motor&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Знакомимся с новыми интересными возможностями #SpaceClaim окончательно ставшей частью #ANSYS.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-02-znakomimsya-s-novymi-interesnymi-vozmozhno/</link>
+      <pubDate>Wed, 02 Sep 2015 07:00:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-02-znakomimsya-s-novymi-interesnymi-vozmozhno/</guid>
+      <description>&lt;p&gt;Оказывается небольшая шведская компания Algoryx Simulation AB делает на его основе продукт Dynamics for SpaceClaim - решатель динамики для не деформируемых твердых тел. Не знаю, можно ли его ставить в один ряд с MSC.Adams или ANSYS Rigid Body Dynamics, но на канале компании задачки решаются вполне красиво.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Etf8MOMYv9c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DfSC - Getting started&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>История успеха Nifco Inc., которым Wilde Analysis (британские партнеры ANSYS) внедрили целую пачку продуктов #ANSYS: #Fluent, #DesignXplorer, #SpaceClaim Direct Modeler и даже #Mechanical.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-08-29-istoriya-uspeha-nifco-inc-kotorym-wilde/</link>
+      <pubDate>Sat, 29 Aug 2015 07:00:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-08-29-istoriya-uspeha-nifco-inc-kotorym-wilde/</guid>
+      <description>&lt;p&gt;Говорят, что без работы остались японцы,  а цикл проектирования сократился с недель до часов. Видать хороший ликбез для Nifco Inc. устроили.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://wildeanalysis.co.uk/casestudies/driving-technological-innovation-ansys&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Driving Technological Innovation with ANSYS - Wilde Analysis&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -1,0 +1,956 @@
+<!DOCTYPE html>
+
+
+<html lang="ru" data-theme="">
+<head>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>LS_DYNA - MagicDPD: Magic Driven Product Development!</title>
+
+<meta name="description" content="Архив постов MagicDPD">
+
+
+
+
+
+<link rel="alternate" type="application/rss+xml" href="https://yurynovozhilov.github.io/MagicDPD/tags/ls_dyna/index.xml" title="MagicDPD: Magic Driven Product Development!" />
+<link rel="icon" type="image/x-icon" href="https://yurynovozhilov.github.io/MagicDPD/favicon.ico">
+<link rel="apple-touch-icon-precomposed" href="https://yurynovozhilov.github.io/MagicDPD/favicon.png">
+
+
+
+
+    
+
+
+
+<style>
+  body {
+    visibility: hidden;
+    opacity: 0;
+  }
+</style>
+
+<noscript>
+  <style>
+    body {
+      visibility: visible;
+      opacity: 1;
+    }
+  </style>
+</noscript>
+
+
+
+
+    
+
+
+
+
+
+    
+    
+        
+    
+    
+
+    
+        <link rel="stylesheet" href="https://yurynovozhilov.github.io/MagicDPD/css/style.min.426c72691252fbafa70bd174646dc1b453a992641a8f942139874f9cadd6ae76.css" integrity="sha256-QmxyaRJS&#43;6&#43;nC9F0ZG3BtFOpkmQaj5QhOYdPnK3WrnY=">
+    
+
+
+
+
+
+    
+
+    
+
+
+
+
+
+    
+    
+        
+    
+    
+
+    
+        <script src="https://yurynovozhilov.github.io/MagicDPD/js/script.min.74bf1a3fcf1af396efa4acf3e660e876b61a2153ab9cbe1893ac24ea6d4f94ee.js" type="text/javascript" charset="utf-8" integrity="sha256-dL8aP88a85bvpKzz5mDodrYaIVOrnL4Yk6wk6m1PlO4="></script>
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+    
+        
+    
+    
+
+    
+        <script src="https://yurynovozhilov.github.io/MagicDPD/js/script.min.5a7c1b70ee40040794dd87e4a25dc23e9d426e9f08ac2611316cb9543eda45b4.js" type="text/javascript" charset="utf-8" integrity="sha256-WnwbcO5ABAeU3Yfkol3CPp1Cbp8IrCYRMWy5VD7aRbQ="></script>
+    
+
+
+
+
+    
+
+
+
+
+
+    
+    
+        
+    
+    
+
+    
+        <script src="https://yurynovozhilov.github.io/MagicDPD/js/script.min.d1092953d75d0389e869f1fd063a45b5aa76d05341ed48f7a1cacfd0db11d681.js" type="text/javascript" charset="utf-8" integrity="sha256-0QkpU9ddA4noafH9BjpFtap20FNB7Uj3ocrP0NsR1oE="></script>
+    
+
+
+
+
+
+
+
+
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Перейти к основному контенту</a>
+    <div class="container">
+        <header class="common-header"> 
+            
+                <div class="header-top">
+    <div class="header-top-left">
+        <h1 class="site-title">
+    <a href="/MagicDPD">MagicDPD: Magic Driven Product Development!</a>
+</h1>
+        <ul class="social-icons">
+
+
+    
+        <li>
+            <a href="https://t.me/MagicDPD" title="Telegram" rel="me">
+            <span class="inline-svg" >
+
+
+
+
+    
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm121.8 169.9l-40.7 191.8c-3 13.6-11.1 16.9-22.4 10.5l-62-45.7-29.9 28.8c-3.3 3.3-6.1 6.1-12.5 6.1l4.4-63.1 114.9-103.8c5-4.4-1.1-6.9-7.7-2.5l-142 89.4-61.2-19.1c-13.3-4.2-13.6-13.3 2.8-19.7l239.1-92.2c11.1-4 20.8 2.7 17.2 19.5z"/></svg>
+
+</span>
+
+            </a>
+        </li>
+    
+
+
+
+    <li>
+            <a href="https://yurynovozhilov.github.io/MagicDPD/index.xml" title="RSS" rel="me">
+            <span class="inline-svg" >
+
+
+
+
+    
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M128.081 415.959c0 35.369-28.672 64.041-64.041 64.041S0 451.328 0 415.959s28.672-64.041 64.041-64.041 64.04 28.673 64.04 64.041zm175.66 47.25c-8.354-154.6-132.185-278.587-286.95-286.95C7.656 175.765 0 183.105 0 192.253v48.069c0 8.415 6.49 15.472 14.887 16.018 111.832 7.284 201.473 96.702 208.772 208.772.547 8.397 7.604 14.887 16.018 14.887h48.069c9.149.001 16.489-7.655 15.995-16.79zm144.249.288C439.596 229.677 251.465 40.445 16.503 32.01 7.473 31.686 0 38.981 0 48.016v48.068c0 8.625 6.835 15.645 15.453 15.999 191.179 7.839 344.627 161.316 352.465 352.465.353 8.618 7.373 15.453 15.999 15.453h48.068c9.034-.001 16.329-7.474 16.005-16.504z"/></svg>
+
+</span>
+
+            </a>
+        </li>
+    
+
+</ul>
+    </div>
+    <div class="header-top-right">
+        
+
+    
+
+
+
+
+    <div class="theme-switcher">
+        <span class="inline-svg" >
+
+
+
+
+    
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 290 290">
+<path fill="currentColor" d="M142.959,0C64.131,0,0,64.132,0,142.96c0,78.828,64.131,142.959,142.959,142.959c78.828,0,142.96-64.131,142.96-142.959  C285.919,64.132,221.787,0,142.959,0z M142.959,260.919V142.96V25c65.043,0,117.96,52.917,117.96,117.96  C260.919,208.003,208.002,260.919,142.959,260.919z"/>
+</svg>
+
+</span>
+
+    </div>
+
+
+<script>
+const STORAGE_KEY = 'user-color-scheme'
+const defaultTheme = "auto"
+
+let currentTheme
+let switchButton
+let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+const autoChangeScheme = e => {
+    currentTheme = e.matches ? 'dark' : 'light'
+    document.documentElement.setAttribute('data-theme', currentTheme)
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    switchButton = document.querySelector('.theme-switcher')
+    currentTheme = detectCurrentScheme()
+    if (currentTheme == 'dark') {
+        document.documentElement.setAttribute('data-theme', 'dark')
+    }
+    if (currentTheme == 'auto') {
+        autoChangeScheme(autoDefinedScheme);
+        autoDefinedScheme.addListener(autoChangeScheme);
+    }
+
+    if (switchButton) {
+        switchButton.addEventListener('click', switchTheme, false)
+    }
+  
+    showContent()
+})
+
+function detectCurrentScheme() {
+    if (localStorage !== null && localStorage.getItem(STORAGE_KEY)) {
+        return localStorage.getItem(STORAGE_KEY)
+    } 
+    if (defaultTheme) {
+        return defaultTheme
+    } 
+    if (!window.matchMedia) {
+        return 'light'
+    } 
+    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        return 'dark'
+    }
+    return 'light'
+}
+
+function switchTheme(e) {
+    if (currentTheme == 'dark') {
+        if (localStorage !== null)
+            localStorage.setItem(STORAGE_KEY, 'light')
+        document.documentElement.setAttribute('data-theme', 'light')
+        currentTheme = 'light'
+    } else {
+        if (localStorage !== null)
+            localStorage.setItem(STORAGE_KEY, 'dark')
+        document.documentElement.setAttribute('data-theme', 'dark')
+        currentTheme = 'dark'
+    }
+}
+
+function showContent() {
+    document.body.style.visibility = 'visible';
+    document.body.style.opacity = 1;
+}
+</script>
+
+  
+    </div>
+</div>
+
+
+    <nav>
+        
+        
+        <a class="" href="https://yurynovozhilov.github.io/MagicDPD/" title="Главная">Главная</a>
+        
+        <a class="" href="https://yurynovozhilov.github.io/MagicDPD/archive/" title="Архив постов">Архив</a>
+        
+        <a class="" href="https://yurynovozhilov.github.io/MagicDPD/about/" title="О проекте">О проекте</a>
+        
+    </nav>
+
+
+
+
+
+            
+        </header>
+        <main id="main" tabindex="-1"> 
+            
+    <h1>Тег: LS_DYNA</h1>
+    <div class="post-info">
+        <a href="/MagicDPD/tags/">К списку тегов</a>
+    </div>
+    
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2019-07-10-lektsiya-po-bessetochnomu-metodu-galerkina/">Лекция по бессеточному методу Галеркина для сверхбольших деформаций</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Один из самых перспективных методов моделирования задач изменения формы — бессеточный метод Галеркина (Element Free Galerkin, EFG). Он реализован в моей любимой LS-DYNA для SHELL и SOLID постановок в Explicit и Implicit расчетных схемах. Поддерживает связанный термопрочностной расчет, не обладает эффектом песочных часов, инициализируется на основе обычной hex или tet сетки. В общем пока сплошные плюсы. Однако, пока он выглядит «магическим», так как трудно понять, как именно он работает.</p>
+<p>Посему я предлагаю вам очень интересную лекцию профессора университета Калифорнии (Сан Диего) Дж. С. Чена (J.S. Chen), которую он прочел в Стэнфорде в 2017 году (<a href="https://blume.stanford.edu/event/seminar/recent-advances-accelerated-and-stabilized-meshfree-method-modeling-manmade-and%29" target="_blank" rel="noopener noreferrer">https://blume.stanford.edu/event/seminar/recent-advances-accelerated-and-stabilized-meshfree-method-modeling-manmade-and)</a>. Поразительно простой и наглядный рассказ такой сложной темы.</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2019-07-10-lektsiya-po-bessetochnomu-metodu-galerkina/"><time datetime="2019-07-10">10.07.2019</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-10-lektsiya-po-bessetochnomu-metodu-galerkina/">https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-10-lektsiya-po-bessetochnomu-metodu-galerkina/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ls_dyna/">#LS_DYNA</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/efg/">#EFG</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2019-07-04-ls-dyna-structured-ale-act/">LS-DYNA Structured-ALE ACT</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>LS-DYNA Structured-ALE ACT</p>
+<p>Не успели в ANSYS 19.2 открыть API для написания ACT расширений к WB LS-DYNA (которая сама по себе является ACT расширением), как им уже успели воспользоваться. Встречайте, расширение для работы с S-ALE решателем: <a href="https://catalog.ansys.com/product/5c769050393ff6be9837bb9f/ls-dyna-structured" target="_blank" rel="noopener noreferrer">https://catalog.ansys.com/product/5c769050393ff6be9837bb9f/ls-dyna-structured</a></p>
+<p>В целом, штука позволяет значительно упростить подобные расчеты. Жаль только, что пост процессинга она делать не умеет — вам придется идти в LS-PrePost.</p>
+<p>В комплекте два учебных примера: Тест Тейлора и удар птицы в крыло самолёта.</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2019-07-04-ls-dyna-structured-ale-act/"><time datetime="2019-07-04">04.07.2019</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-04-ls-dyna-structured-ale-act/">https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-04-ls-dyna-structured-ale-act/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ls_dyna/">#LS_DYNA</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/workbench/">#Workbench</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ale/">#Ale</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/s_ale/">#S_ALE</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/act/">#ACT</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2019-06-27-modelirovanie-goreniya-gazovyh-smesey-v-l/">Моделирование горения газовых смесей в LS-DYNA</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Моделирование горения газовых смесей в LS-DYNA</p>
+<p>Вашему вниманию предлагаю слайды доклада коллег из LSTC по теме моделирования горения газовых смесей. Да-да, совместная работа CESE решателя гидродинамики с учетом сжимаемости и химического решателя (оба внутри LS-DYNA) позволяют и такое.</p>
+<p>Все это идет далеко за пределы квалификации хорошего инженера расчётчика: тут необходимы знания и химии, и механики, и гидродинамики. Но зато вы сможете считать как горение, так и детонацию газовой смеси!</p>
+<p>Слайды доступны по ссылке:</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2019-06-27-modelirovanie-goreniya-gazovyh-smesey-v-l/"><time datetime="2019-06-27">27.06.2019</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2019-06-27-modelirovanie-goreniya-gazovyh-smesey-v-l/">https://yurynovozhilov.github.io/MagicDPD/posts/2019-06-27-modelirovanie-goreniya-gazovyh-smesey-v-l/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ls_dyna/">#LS_DYNA</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/lstc/">#LSTC</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/fsi/">#Fsi</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/chemistry/">#Chemistry</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/cese/">#CESE</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2019-06-10-raschety-v-ls-dyna-na-klasterah-windows-h/">Расчеты в LS-DYNA на кластерах Windows HPC Cluster</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Расчеты в LS-DYNA на кластерах Windows HPC Cluster</p>
+<p>DYNAmore выпустили инструкцию по настройке и работе распределённого решетеля LS-DYNA на кластерах под управлением MS Windows HPC Pack 2016. Инструкция полезная, но на самом деле вам достаточно знать следующий набор команд:</p>
+<p>SET LSTC_MEMORY=auto
+job submit /jobname: /numcores: /workdir:  mpiexec -np   i= jobid=</p>
+<p>Ну а если вы используете лицензии ANSYS LS-DYNA, то в начало надо добавить еще такое:</p>
+<p>set LSTC_LICENSE=ANSYS
+set ANSYSLMD_LICENSE_FILE=1055@
+set ANSYSLI_SERVERS=2325@</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2019-06-10-raschety-v-ls-dyna-na-klasterah-windows-h/"><time datetime="2019-06-10">10.06.2019</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2019-06-10-raschety-v-ls-dyna-na-klasterah-windows-h/">https://yurynovozhilov.github.io/MagicDPD/posts/2019-06-10-raschety-v-ls-dyna-na-klasterah-windows-h/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/windows/">#Windows</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ls_dyna/">#LS_DYNA</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/mpi/">#MPI</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/hpc/">#Hpc</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2019-06-04-obuchenie-modelirovaniyu-vzryvov-v-ls-dyna/">Обучение моделированию взрывов в LS-DYNA</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Обучение моделированию взрывов в LS-DYNA</p>
+<p>С 3 по 5 февраля следующего года группа специалистов по LS-DYNA из Cловении проведёт трехдневный курс по моделированию взрывов в LS-DYNA. Один из лекторов — Jovan Trajkovski, известный популяризатор LS-DYNA с канала «Trajkovski feasolution» (<a href="http://feasolution.blogspot.com" target="_blank" rel="noopener noreferrer">http://feasolution.blogspot.com</a>).</p>
+<p>В рамках курса вас научат моделировать взрывы эмпирически, через MM-ALE и SPH, расскажут теоретические основы. Стоимость курса €570 без НДС, но с питанием в ходе курсов. Регистрация на курс закрывается 31 октября 2019 года.</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2019-06-04-obuchenie-modelirovaniyu-vzryvov-v-ls-dyna/"><time datetime="2019-06-04">04.06.2019</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2019-06-04-obuchenie-modelirovaniyu-vzryvov-v-ls-dyna/">https://yurynovozhilov.github.io/MagicDPD/posts/2019-06-04-obuchenie-modelirovaniyu-vzryvov-v-ls-dyna/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ls_dyna/">#LS_DYNA</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/blast/">#Blast</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/trajkovski/">#Trajkovski</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2019-05-23-modelirovanie-relsotrona-v-ls-dyna/">Моделирование рельсотрона в LS-DYNA</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Моделирование рельсотрона в LS-DYNA</p>
+<p>Беззвучное видео, показывающее настройку связанного механического и электромагнитного расчета, позволяющего рассчитать запуск кинетического боеприпаса посредством рельсотрона. Вся работа ведется в LS-PrePost (MS Post), а расчет, естественно, в LS-DYNA.</p>
+<p>#EM #LS_DYNA #LS_DYNA_EM #LS_PrePost</p>
+<p><a href="https://wp.me/p9vWYY-2wA" target="_blank" rel="noopener noreferrer">https://wp.me/p9vWYY-2wA</a></p>
+<p><a href="https://wp.me/p9vWYY-2wA" target="_blank" rel="noopener noreferrer">https://wp.me/p9vWYY-2wA</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2019-05-23-modelirovanie-relsotrona-v-ls-dyna/"><time datetime="2019-05-23">23.05.2019</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-23-modelirovanie-relsotrona-v-ls-dyna/">https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-23-modelirovanie-relsotrona-v-ls-dyna/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/em/">#EM</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ls_dyna/">#LS_DYNA</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ls_dyna_em/">#LS_DYNA_EM</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ls_prepost/">#LS_PrePost</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2019-05-22-vyshla-lopast-pogulyat/">Вышла лопасть погулять</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Вышла лопасть погулять</p>
+<p>Одна из классических прикладных задач для explicit: расчет обрыва лопатки для чего-то похожего на турбину. Если кто хочет такое посчитать, то есть даже тарированная модель реактивного двигателя тут: <a href="https://awg.lstc.com/tiki-index.php?page=QA&#43;Test&#43;Example&#43;2.1" target="_blank" rel="noopener noreferrer">https://awg.lstc.com/tiki-index.php?page=QA+Test+Example+2.1</a></p>
+<p>#LS_DYNA</p>
+<p><a href="https://wp.me/p9vWYY-2w8" target="_blank" rel="noopener noreferrer">https://wp.me/p9vWYY-2w8</a></p>
+<p>by Юрий Новожилов</p>
+<p><a href="https://awg.lstc.com/tiki-index.php?page=QA&#43;Test&#43;Example&#43;2.1" target="_blank" rel="noopener noreferrer">https://awg.lstc.com/tiki-index.php?page=QA+Test+Example+2.1</a>
+<a href="https://wp.me/p9vWYY-2w8" target="_blank" rel="noopener noreferrer">https://wp.me/p9vWYY-2w8</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2019-05-22-vyshla-lopast-pogulyat/"><time datetime="2019-05-22">22.05.2019</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-22-vyshla-lopast-pogulyat/">https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-22-vyshla-lopast-pogulyat/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ls_dyna/">#LS_DYNA</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2019-05-21-obzor-raboty-kontaktov-v-ls-dyna/">Обзор работы контактов в LS-DYNA</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Обзор работы контактов в LS-DYNA</p>
+<p>Демонстрация работы автоматических контактов, которыми славится решатель LSTC. Тут у нас контакты AG (AUTOMATIC_GENERAL), ASS (AUTOMATIC_SINGLE_SURFACE) и ASSM (AUTOMATIC_SINGLE_SURFACE_MORTAR). При этом рассматривается их работа с различными режимами расчета «контактной жесткости» (параметр SOFT).</p>
+<p>#contact #LS_DYNA</p>
+<p><a href="https://wp.me/p9vWYY-2vF" target="_blank" rel="noopener noreferrer">https://wp.me/p9vWYY-2vF</a></p>
+<p><a href="https://wp.me/p9vWYY-2vF" target="_blank" rel="noopener noreferrer">https://wp.me/p9vWYY-2vF</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2019-05-21-obzor-raboty-kontaktov-v-ls-dyna/"><time datetime="2019-05-21">21.05.2019</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-21-obzor-raboty-kontaktov-v-ls-dyna/">https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-21-obzor-raboty-kontaktov-v-ls-dyna/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/contact/">#Contact</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ls_dyna/">#LS_DYNA</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2019-05-17-diff-dlya-modeley-i-rezultatov-ls-dyna/">DIFF для моделей и результатов LS-DYNA</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>DIFF для моделей и результатов LS-DYNA</p>
+<p>Короткий и полезный видеоурок по LS-PrePost: встроенная функция сравнения двух моделей и их результатов. Такое трудно переоценить.</p>
+<p>#diff #LS_DYNA #LS_PrePost #LSTC</p>
+<p><a href="https://wp.me/p9vWYY-2vL" target="_blank" rel="noopener noreferrer">https://wp.me/p9vWYY-2vL</a></p>
+<p><a href="https://wp.me/p9vWYY-2vL" target="_blank" rel="noopener noreferrer">https://wp.me/p9vWYY-2vL</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2019-05-17-diff-dlya-modeley-i-rezultatov-ls-dyna/"><time datetime="2019-05-17">17.05.2019</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-17-diff-dlya-modeley-i-rezultatov-ls-dyna/">https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-17-diff-dlya-modeley-i-rezultatov-ls-dyna/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/lstc/">#LSTC</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ls_dyna/">#LS_DYNA</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/diff/">#Diff</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ls_prepost/">#LS_PrePost</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2019-05-17-kogda-chto-to-poshlo-ne-tak/">Когда что-то пошло не так</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Когда что-то пошло не так</p>
+<p>Арматура не сцепилась с бетоном, но получилось красиво :-)</p>
+<p>#concrete #CSCM #LS_DYNA #meppen</p>
+<p><a href="https://wp.me/p9vWYY-2wg" target="_blank" rel="noopener noreferrer">https://wp.me/p9vWYY-2wg</a></p>
+<p>by Юрий Новожилов</p>
+<p><a href="https://wp.me/p9vWYY-2wg" target="_blank" rel="noopener noreferrer">https://wp.me/p9vWYY-2wg</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2019-05-17-kogda-chto-to-poshlo-ne-tak/"><time datetime="2019-05-17">17.05.2019</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-17-kogda-chto-to-poshlo-ne-tak/">https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-17-kogda-chto-to-poshlo-ne-tak/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/meppen/">#Meppen</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ls_dyna/">#LS_DYNA</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/cscm/">#CSCM</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/concrete/">#Concrete</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+    
+    
+    
+    <div class="pagination">
+        <div class="left pagination-item ">
+            
+                <a href="/MagicDPD/tags/ls_dyna/page/7/">к новым записям</a>
+            
+        </div>
+        <div class="right pagination-item ">
+            
+                <a href="/MagicDPD/tags/ls_dyna/page/9/">к старым записям</a>
+            
+        </div>
+    </div>
+
+
+
+
+        </main>
+        
+            <footer class="common-footer">
+    
+    
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+            <p>© GlukRazor, 2026<br>
+            Движок <a target="_blank" rel="noopener noreferrer" href="https://gohugo.io/">Hugo</a>, тема <a target="_blank" rel="noopener noreferrer" href="https://github.com/mitrichius/hugo-theme-anubis">Anubis</a>.<br>
+            
+            </p>  
+        </div> 
+    </div>
+
+    <p class="h-card vcard">
+
+    <a href=https://yurynovozhilov.github.io/MagicDPD/ class="p-name u-url url fn" rel="me">GlukRazor</a> 
+
+    
+
+    
+</p> 
+</footer>
+
+        
+    </div>
+</body>
+</html>

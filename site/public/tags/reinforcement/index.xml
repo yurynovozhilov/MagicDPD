@@ -2,48 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reinforcement on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/reinforcement/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/reinforcement/</link>
     <description>MagicDPD: Magic Driven Product Development! (Reinforcement)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 01 Oct 2019 13:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2020 13:00:58 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/reinforcement/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/reinforcement/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>SOFiSTiK Reinforcement Generation — генерируем арматуру быст</title>
-      <link>http://localhost:1313/posts/2019-10-01-sofistik-reinforcement-generation-gene/</link>
+      <title>FreeCAD Reinforcement Workbench</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-11-06-freecad-reinforcement-workbench/</link>
+      <pubDate>Fri, 06 Nov 2020 13:00:58 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-11-06-freecad-reinforcement-workbench/</guid>
+      <description>&lt;p&gt;FreeCAD Reinforcement Workbench
+#FreeCAD #Open_Source #reinforcement
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/freecad-reinforcement-workbench/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FreeCAD Reinforcement Workbench - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SOFiSTiK Reinforcement Generation — генерируем арматуру быстро</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-01-sofistik-reinforcement-generation-gene/</link>
       <pubDate>Tue, 01 Oct 2019 13:00:54 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-10-01-sofistik-reinforcement-generation-gene/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-01-sofistik-reinforcement-generation-gene/</guid>
       <description>&lt;p&gt;SOFiSTiK Reinforcement Generation создан для того, чтобы удобно и быстро генерировать геометрию арматуры в железобетонных строительных конструкциях.&lt;/p&gt;
 &lt;p&gt;Несмотря на то, что сейчас систему показывают как работающую только для Autodesk Revit, знающие люди говорят, что на самом деле у нее внутри есть свой собственный скриптовый язык, и ее можно заставить генерировать такую арматуру для произвольного IFC и как вам надо.&lt;/p&gt;
 &lt;p&gt;А вы еще знаете софт, который умеет генерировать массивы арматуры?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/sofistik-reinforcement-generation/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SOFiSTiK Reinforcement Generation - генерируем арматуру быстро - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Моделирование армирования в бессеточных методах</title>
-      <link>http://localhost:1313/posts/2018-07-19-modelirovanie-armirovaniya-v-bessetochnyh/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-19-modelirovanie-armirovaniya-v-bessetochnyh/</link>
       <pubDate>Thu, 19 Jul 2018 18:00:31 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-07-19-modelirovanie-armirovaniya-v-bessetochnyh/</guid>
-      <description>&lt;p&gt;Хочу обратить ваше внимание на статью &amp;ldquo;The Immersed Smoothed Particle Galerkin Method in LS-DYNA® for Material Failure Analysis of Fiber-Reinforced Solid Structures&amp;rdquo;, опубликованную в рамках 15-ой международной пользовательской конференции LS-DYNA. В ней рассказывается про разработку новой карты *CONSTRAINED_IMMERSED_IN_SPG, которая позволяет автоматически встраивать армирование на основе beam элементов в матрицу, на основе SPG формулировки.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-19-modelirovanie-armirovaniya-v-bessetochnyh/</guid>
+      <description>&lt;p&gt;Моделирование армирования в бессеточных методах
+Хочу обратить ваше внимание на статью &amp;ldquo;The Immersed Smoothed Particle Galerkin Method in LS-DYNA® for Material Failure Analysis of Fiber-Reinforced Solid Structures&amp;rdquo;, опубликованную в рамках 15-ой международной пользовательской конференции LS-DYNA. В ней рассказывается про разработку новой карты *CONSTRAINED_IMMERSED_IN_SPG, которая позволяет автоматически встраивать армирование на основе beam элементов в матрицу, на основе SPG формулировки.&lt;/p&gt;
 &lt;p&gt;SPG - Smoothed Particle Galerkin Method - бессеточный метод, разработанный LSTC для моделирования процессов как хрупкого, так и пластического разрушения. Данный метод вобрал в себя все преимущества SPH, но лишился его недостатков - например, нестабильности при растяжении или невозможности работы с неявным решателем. Подробности по математике метода тут: https://www.dynalook.com/13th-international-ls-dyna-conference/fluid-structure-interaction/an-introduction-to-the-ls-dyna-r-smoothed-particle-galerkin-method-for-severe-deformation-and-failure-analyses-in-solids
 Таким образом, *CONSTRAINED_IMMERSED_IN_SPG позволит нормально считать задачи пробивания в бессеточной постановке как только будет включен.&lt;/p&gt;
 &lt;p&gt;#LSDYNA #LSTC #Meshless #Reinforcement #SPG #SPH
+&lt;a href=&#34;http://bit.ly/2NrEzFg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NrEzFg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/the-immersed-smoothed-particle-galerkin-method-in-ls-dyna-r-for-material-failure-analysis-of-fiber-reinforced-solid-structures&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/the-immersed-smoothed-particle-galerkin-method-in-ls-dyna-r-for-material-failure-analysis-of-fiber-reinforced-solid-structures&lt;/a&gt;
+&lt;a href=&#34;https://www.dynalook.com/13th-international-ls-dyna-conference/fluid-structure-interaction/an-introduction-to-the-ls-dyna-r-smoothed-particle-galerkin-method-for-severe-deformation-and-failure-analyses-in-solids&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/13th-international-ls-dyna-conference/fluid-structure-interaction/an-introduction-to-the-ls-dyna-r-smoothed-particle-galerkin-method-for-severe-deformation-and-failure-analyses-in-solids&lt;/a&gt;
 &lt;a href=&#34;http://bit.ly/2NrEzFg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NrEzFg&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Расчет подрыва ЖБ плиты с учетом фрагментации</title>
-      <link>http://localhost:1313/posts/2018-02-07-raschet-podryva-zhb-plity-s-uchetom-fragmen/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-07-raschet-podryva-zhb-plity-s-uchetom-fragmen/</link>
       <pubDate>Wed, 07 Feb 2018 18:00:53 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-02-07-raschet-podryva-zhb-plity-s-uchetom-fragmen/</guid>
-      <description>&lt;p&gt;Очень красивый пример от LSTC, демонстрирующий работу LS-DYNA в области расчета взрывов и переноса нагрузок от них на конструкции. Разберем три составляющих успеха данного расчета.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-07-raschet-podryva-zhb-plity-s-uchetom-fragmen/</guid>
+      <description>&lt;p&gt;Расчет подрыва ЖБ плиты с учетом фрагментации
+Очень красивый пример от LSTC, демонстрирующий работу LS-DYNA в области расчета взрывов и переноса нагрузок от них на конструкции. Разберем три составляющих успеха данного расчета.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Имеем бетонную плиту, армированную стальными стержнями (естественно beam арматура внедряется в solid бетон при помощи специальных уравнений связи типа *CONSTRAINED_BEAM_IN_SOLID).&lt;/li&gt;
 &lt;li&gt;Дальше, на этой плите расположен заряд в оболочке из shell элементов. Заряд ВВ моделируется в постановке Particle Blast Method (PBM) - не надо заморачиваться с генерацией SPH или переходом в эйлеров домен. PBM решает быстро и точно!&lt;/li&gt;
@@ -51,25 +70,44 @@
 &lt;/ol&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=QHbO6tRPI3c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=QHbO6tRPI3c&lt;/a&gt;
 #blast #concrete #CONSTRAINED_BEAM_IN_SOLID #DEFINE_ADAPTIVE_SOLID_TO_SPH #fracture #fragmentation #LS-DYNA #LSTC #ParticleBlast #reinforcement #SPH
+&lt;a href=&#34;https://wp.me/p9vWYY-1BK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1BK&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=QHbO6tRPI3c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=QHbO6tRPI3c&lt;/a&gt;
 &lt;a href=&#34;https://wp.me/p9vWYY-1BK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1BK&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Мне тут задавали вопрос, на тему использования арматуры, сое</title>
-      <link>http://localhost:1313/posts/2016-06-07-mne-tut-zadavali-vopros-na-temu-ispolz/</link>
-      <pubDate>Tue, 07 Jun 2016 12:27:26 +0000</pubDate>
+      <title>Считаем армирование правильнее</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-18-schitaem-armirovanie-pravilnee/</link>
+      <pubDate>Tue, 18 Apr 2017 08:01:41 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-06-07-mne-tut-zadavali-vopros-na-temu-ispolz/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-18-schitaem-armirovanie-pravilnee/</guid>
+      <description>&lt;p&gt;Считаем армирование правильнее
+&lt;a href=&#34;http://www.feaiej.com/2017/feaiej_q1_2017.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.feaiej.com/2017/feaiej_q1_2017.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;На страница 14-18 прилагаемого журнала рассказывается о новом и более правильном/точном способе учета армирования в железобетонных конструкциях при расчете в #LSDYNA. А все благодаря замене старой страшной карты *CONSTRAINED_LAGRANGE_IN_SOLID на новую *CONSTRAINED_BEAM_IN_SOLID.&lt;/p&gt;
+&lt;p&gt;Дополнительный бонус - возможность учета скользящей арматуры. А так, изучаем теорию и применяем в деле.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.feaiej.com/2017/feaiej_q1_2017.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.feaiej.com/2017/feaiej_q1_2017.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Поведение железобетонных конструкций под действием циклическ</title>
-      <link>http://localhost:1313/posts/2015-10-27-povedenie-zhelezobetonnyh-konstruktsiy-pod/</link>
+      <title>Мне тут задавали вопрос, на тему использования арматуры, соединяемой с бетоном при помощи специальных связей (карта *CONSTRAINED_LAGRANGE_IN_SOLID в #lsdyna).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-07-mne-tut-zadavali-vopros-na-temu-ispolz/</link>
+      <pubDate>Tue, 07 Jun 2016 12:27:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-07-mne-tut-zadavali-vopros-na-temu-ispolz/</guid>
+      <description>&lt;p&gt;Так вот, у меня есть небольшая статья, где проведена верификация данного подхода.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Поведение железобетонных конструкций под действием циклического нагруженная. Даже с экспериментом совпали!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-27-povedenie-zhelezobetonnyh-konstruktsiy-pod/</link>
       <pubDate>Tue, 27 Oct 2015 18:01:18 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-27-povedenie-zhelezobetonnyh-konstruktsiy-pod/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-27-povedenie-zhelezobetonnyh-konstruktsiy-pod/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-TD5DWH8DxM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Simulation of Concrete Shear Wall Under Cyclic Lateral Loading&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=SKwNv7flusk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Simulation of Bridge Column Under Seismic Loads&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

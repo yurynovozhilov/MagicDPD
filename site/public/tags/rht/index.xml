@@ -2,25 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RHT on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/rht/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/rht/</link>
     <description>MagicDPD: Magic Driven Product Development! (RHT)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 05 Jun 2017 17:01:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Dec 2018 17:00:17 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/rht/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/rht/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>LS-DYNA KCC R4</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-17-ls-dyna-kcc-r4/</link>
+      <pubDate>Mon, 17 Dec 2018 17:00:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-17-ls-dyna-kcc-r4/</guid>
+      <description>&lt;p&gt;LS-DYNA KCC R4
+Случайно наткнулся на материалы одной около военной конференции, где подробно рассматривали задачу пробивания неармированной бетонной плиты. Считали, как водится, в LS-DYNA. Но самое интересное тут в моделях материалов. При этом использовали такие важные бетонные модели как:&lt;/p&gt;
+&lt;p&gt;Karagozian &amp;amp; Case Concrete Model, Release 3 (*MAT_CONCRETE_DAMAGE_REL3)&lt;/p&gt;
+&lt;p&gt;Continuous Surface Cap Model (*MAT_CSCM)&lt;/p&gt;
+&lt;p&gt;Riedel-Hiermaier-Thoma Model (*MAT_RHT)&lt;/p&gt;
+&lt;p&gt;Winfrith Concrete Model (*MAT_WINFRITH_CONCRETE)&lt;/p&gt;
+&lt;p&gt;Johnson-Holmquist Concrete Model (*MAT_JOHNSON_HOLMQUIST_CONCRETE)&lt;/p&gt;
+&lt;p&gt;Karagozian &amp;amp; Case Concrete Model, Release 4&lt;/p&gt;
+&lt;p&gt;Тут конечно самое интересное, это 4-ая версия KCC модели, о которой рассказывает сотрудник компании Karagozian &amp;amp; Case. Мимо такого доклада не стоит проходить!&lt;/p&gt;
+&lt;p&gt;Для корректного расчета пробивания использовалось адаптивное переключение лагранжевого МКЭ в SPH по мере &amp;ldquo;смерти элементов&amp;rdquo;, что является одним из передовых правильных подходов в задачах терминальной баллистики.
+Слайды презентации:
+&lt;a href=&#34;https://ndiastorage.blob.core.usgovcloudapi.net/ndia/2018/intexpsafety/Durant.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ndiastorage.blob.core.usgovcloudapi.net/ndia/2018/intexpsafety/Durant.pdf&lt;/a&gt;
+Сопутствующая статья:
+&lt;a href=&#34;https://ndiastorage.blob.core.usgovcloudapi.net/ndia/2018/intexpsafety/DurantPaper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ndiastorage.blob.core.usgovcloudapi.net/ndia/2018/intexpsafety/DurantPaper.pdf&lt;/a&gt;
+#Concrete #CSCM #DEFINEADAPTIVESOLIDTOSPH #KCC #RHT #SPH
+&lt;a href=&#34;http://bit.ly/2UOZ82Q&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2UOZ82Q&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ndiastorage.blob.core.usgovcloudapi.net/ndia/2018/intexpsafety/Durant.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ndiastorage.blob.core.usgovcloudapi.net/ndia/2018/intexpsafety/Durant.pdf&lt;/a&gt;
+&lt;a href=&#34;https://ndiastorage.blob.core.usgovcloudapi.net/ndia/2018/intexpsafety/DurantPaper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ndiastorage.blob.core.usgovcloudapi.net/ndia/2018/intexpsafety/DurantPaper.pdf&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2UOZ82Q&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2UOZ82Q&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Реализации модели RHT (RTH) в LS-DYNA и AUTODYN</title>
-      <link>http://localhost:1313/posts/2017-06-05-realizatsii-modeli-rht-rth-v-ls-dyna-i/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-05-realizatsii-modeli-rht-rth-v-ls-dyna-i/</link>
       <pubDate>Mon, 05 Jun 2017 17:01:28 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-06-05-realizatsii-modeli-rht-rth-v-ls-dyna-i/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/11th-european-ls-dyna-conference/concrete-penetration/comparison-of-the-rht-concrete-material-model-in-ls-dyna-and-ansys-autodyn/view&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/11th-european-ls-dyna-conference/concrete-penetration/comparison-of-the-rht-concrete-material-model-in-ls-dyna-and-ansys-autodyn/view&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-05-realizatsii-modeli-rht-rth-v-ls-dyna-i/</guid>
+      <description>&lt;p&gt;Реализации модели RHT (RTH) в LS-DYNA и AUTODYN
+&lt;a href=&#34;http://www.dynalook.com/11th-european-ls-dyna-conference/concrete-penetration/comparison-of-the-rht-concrete-material-model-in-ls-dyna-and-ansys-autodyn/view&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/11th-european-ls-dyna-conference/concrete-penetration/comparison-of-the-rht-concrete-material-model-in-ls-dyna-and-ansys-autodyn/view&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Модель материала для предсказания поведения высокопрочного и сверх высокопрочного бетона #RHT или #RTH является пожалуй одной из самых известных моделей в своей области. Она названа по инициалам ученых, разработавших ее: Riedel, Hiermaier и Thoma.&lt;/p&gt;
 &lt;p&gt;Данная модель реализована как в #LSTC #LSDYNA (*MAT_272), так и в #ANYS #AUTODYN (и в ANSYS #Explicit STR заодно ). Только если в LSD есть еще с десяток моделей-конкурентов, до в AD других моделей бетона нет.&lt;/p&gt;
 &lt;p&gt;Коллеги из немецкой организации #GRS (Gesellschaft für Anlagen- und Reaktorsicherheit (GRS) gGmbH, &lt;a href=&#34;http://www.grs.de/en&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.grs.de/en&lt;/a&gt;) в своей работе провели сравнительный анализ реализаций модели. Получились очень любопытные выводы. Обе реализации сеточнозависимы по показателю разрушения, в AUTODYN еще и некорректно считает трещенообразование при растягивающих нагрузках.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/11th-european-ls-dyna-conference/concrete-penetration/comparison-of-the-rht-concrete-material-model-in-ls-dyna-and-ansys-autodyn/view&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/11th-european-ls-dyna-conference/concrete-penetration/comparison-of-the-rht-concrete-material-model-in-ls-dyna-and-ansys-autodyn/view&lt;/a&gt;
+&lt;a href=&#34;http://www.grs.de/en&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.grs.de/en&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-DYNA никогда не переснят меня удивлять сложностью в освоении.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-05-ls-dyna-nikogda-ne-peresnyat-menya-udivlyat/</link>
+      <pubDate>Sat, 05 Dec 2015 06:00:48 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-05-ls-dyna-nikogda-ne-peresnyat-menya-udivlyat/</guid>
+      <description>&lt;p&gt;Вы не найдете настолько полного списка дополнительных результатов для некоторых умных материалов (привет #RHT, #CSCM и многие другие) ни в одном варианте документации, тупому что этот список появился только 17 ноября 2015 года. Жаль, что мне он был нужен где-то в феврале.&lt;/p&gt;
+&lt;p&gt;Надо прибить эту ссылку себе на стол большими гвоздями!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynasupport.com/howtos/material/history-variables&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;History Variables for Certain Material Models — LS-DYNA Support&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

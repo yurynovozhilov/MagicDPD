@@ -2,35 +2,105 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fortran on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/fortran/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/fortran/</link>
     <description>MagicDPD: Magic Driven Product Development! (Fortran)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 27 Oct 2021 13:02:16 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/fortran/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/fortran/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Как писать пользовательские модели материалов под LS-DYNA</title>
-      <link>http://localhost:1313/posts/2021-10-27-kak-pisat-polzovatelskie-modeli-mater/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-10-27-kak-pisat-polzovatelskie-modeli-mater/</link>
       <pubDate>Wed, 27 Oct 2021 13:02:16 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-10-27-kak-pisat-polzovatelskie-modeli-mater/</guid>
-      <description>&lt;p&gt;Допустим, вам почему-то не хватило нескольких сотен моделей материалов из LS-DYNA, и вы хотите написать свой. На GitHUB я нашел репозиторий с полным набором инструкций, как это делать, описанием необходимых компиляторов, инструкциями по их настройке, логикой работы пользовательских моделей в LS-DYNA и даже кратким учебником Fortran.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-10-27-kak-pisat-polzovatelskie-modeli-mater/</guid>
+      <description>&lt;p&gt;Как писать пользовательские модели материалов под LS-DYNA&lt;/p&gt;
+&lt;p&gt;Допустим, вам почему-то не хватило нескольких сотен моделей материалов из LS-DYNA, и вы хотите написать свой. На GitHUB я нашел репозиторий с полным набором инструкций, как это делать, описанием необходимых компиляторов, инструкциями по их настройке, логикой работы пользовательских моделей в LS-DYNA и даже кратким учебником Fortran.&lt;/p&gt;
 &lt;p&gt;Крутость данного репозитория трудно переоценить. При этом, проект вполне себе живой - последние изменения в него вносились на этой неделе! Ссылка на репозиторий: github.com/jfriedlein/usrmat_LS-Dyna_Fortran&lt;/p&gt;
 &lt;p&gt;#ansys #fortran #github #lsdyna #umat
+&lt;a href=&#34;https://tinyurl.com/yz63vjfe&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yz63vjfe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/jfriedlein/usrmat_LS-Dyna_Fortran&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;GitHub - jfriedlein/usrmat_LS-Dyna_Fortran: Basics to implement user-defined materials (usrmat, umat) in LS-Dyna with Fortran&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/yz63vjfe&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yz63vjfe&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Архивное видео к 25 летию FORTRAN</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-10-05-arhivnoe-video-k-25-letiyu-fortran/</link>
+      <pubDate>Tue, 05 Oct 2021 13:01:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-10-05-arhivnoe-video-k-25-letiyu-fortran/</guid>
+      <description>&lt;p&gt;Архивное видео к 25 летию FORTRAN&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=CXvyjbWkTyU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=CXvyjbWkTyU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Подумать только: в 1982 году он уже был старый, но и сейчас он все еще активно используется в CAE.&lt;/p&gt;
+&lt;p&gt;#fortran
+&lt;a href=&#34;https://tinyurl.com/yfdfuze9&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfdfuze9&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=CXvyjbWkTyU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Short documentary broadcasted in 1982 for the 25th anniversary of FORTRAN.&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yfdfuze9&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfdfuze9&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Освоить Fortran за раз</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-29-osvoit-fortran-za-raz/</link>
+      <pubDate>Wed, 29 Sep 2021 16:16:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-29-osvoit-fortran-za-raz/</guid>
+      <description>&lt;p&gt;Освоить Fortran за раз&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/__2UgFNYgf8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/__2UgFNYgf8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Видео обещает рассказать вам основные фишки работы данного уважаемого языка чуть более чем за 1 час. Fortran конечно стар, но большинство заслуженных CAE кодов написаны именно на нем, а значит его надо знать, что бы что-нибудь в них дописать.&lt;/p&gt;
+&lt;p&gt;#fortran
+&lt;a href=&#34;https://tinyurl.com/yfczeq3q&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfczeq3q&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/__2UgFNYgf8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Fortran Tutorial&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yfczeq3q&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfczeq3q&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Методичка по штамповке, FLD и UMAT в LS-DYNA</title>
-      <link>http://localhost:1313/posts/2020-06-25-metodichka-po-shtampovke-fld-i-umat-v-ls/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-06-25-metodichka-po-shtampovke-fld-i-umat-v-ls/</link>
       <pubDate>Thu, 25 Jun 2020 13:00:36 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-06-25-metodichka-po-shtampovke-fld-i-umat-v-ls/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-06-25-metodichka-po-shtampovke-fld-i-umat-v-ls/</guid>
+      <description>&lt;p&gt;Методичка по штамповке, FLD и UMAT в LS-DYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/ls-dyna-stamping-fld-umat-book/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Методичка по штамповке, FLD и UMAT в LS-DYNA - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FORTRAN II на компьютере IBM 1401</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-13-fortran-ii-na-kompyutere-ibm-1401/</link>
+      <pubDate>Sat, 13 Apr 2019 17:01:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-13-fortran-ii-na-kompyutere-ibm-1401/</guid>
+      <description>&lt;p&gt;FORTRAN II на компьютере IBM 1401&lt;/p&gt;
+&lt;p&gt;Видео из серии «когда компьютеры были большими, а фортран еще молодым». Реальная работа чудом ожившего древнего компьютера IBM 1401 (1959 год, согласно &lt;a href=&#34;https://en.wikipedia.org/wiki/IBM_1401&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://en.wikipedia.org/wiki/IBM_1401&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;#fortran #HPC #IBM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2tl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2tl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/IBM_1401&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://en.wikipedia.org/wiki/IBM_1401&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2tl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2tl&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fortran forever</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-15-fortran-forever/</link>
+      <pubDate>Wed, 15 Aug 2018 18:00:54 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-15-fortran-forever/</guid>
+      <description>&lt;p&gt;Fortran forever
+Сколько бы мы не говорили про современные языки программирования, но от Fortran отказаться суровым экспертам в CAE пока не получается. Если вы собираетесь писать расширения к таким заслуженным кодам, как ANSYS, LS-DYNA, code_aster, то придется научиться писать на Fortran. Ведь вы же не думаете, что кто-то отважется переписать ядро решателя с 50-летней историей на Python или Go?
+Таким образом, у нас сегодня первая половина курса из 11 видеоуроков по Fortran от основателя портала http://feaforall.com&lt;/p&gt;
+&lt;p&gt;#Fortran #UDF #UMAT
+&lt;a href=&#34;http://bit.ly/2OBDYkQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OBDYkQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://feaforall.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FEA for All |and all about FEA&lt;/a&gt;
+&lt;a href=&#34;http://feaforall.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://feaforall.com/&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2OBDYkQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OBDYkQ&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

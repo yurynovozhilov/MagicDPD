@@ -2,102 +2,286 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AWS on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/aws/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/aws/</link>
     <description>MagicDPD: Magic Driven Product Development! (AWS)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 14 Apr 2022 17:00:07 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Вчера #Ansys купил себе #OnScale, и я расскажу почему это ва</title>
-      <link>http://localhost:1313/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</link>
+      <title>Вчера #Ansys купил себе #OnScale, и я расскажу почему это важно.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</link>
       <pubDate>Thu, 14 Apr 2022 17:00:07 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</guid>
       <description>&lt;p&gt;Итак, компания OnScale делала одноименную независимую платформу для  КЭ расчетов в облаке. Идея у них была очень похоже на успешный проект SimScale. Однако, SimScale использовал внутри себя #opensource коды для расчетов, а OnScale решили писать все свое. Кажется, что они просто не оценили трудоемкости написания хороших решателей, вот WebUI вышел вполне себе нормальный.&lt;/p&gt;
 &lt;p&gt;Теперь их покупает Ansys, который идет в облако всеми возможными путями. У них, как и всех конкурентов, есть облачные лицензии. У них есть облачные #HPC партнеры в лице #AWS и #Azure. Есть встроенные возможности из классических приложений посылать задачи на расчет в облако. А вот полноценного #WebUI для работы с решателями не было - всегда были какие-то средства доставки классических дестопных приложений и рабочих столов Windows/Linux систем. И тут мы видим, что OnScale становиться последним кусочком мозаики полноценного облачного решения от Ansys.&lt;/p&gt;
 &lt;p&gt;Я думаю, что в ближайшие 5 лет мы сможем увидеть новые Web версии #Fluent, #Mechanical #HFSS, которые больше не будут требовать установки дистрибутива с 5 DVD дисков, а полноценно будет работать в глобальном или корпоративном облаке.&lt;/p&gt;
 &lt;p&gt;#cloud #opensource #HPC &lt;a href=&#34;https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys to Expand Cloud Portfolio with Technology from Acquisition of OnScale&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Молния! Вчера #ANSYS купил одного из лидеров рынка моделиров</title>
-      <link>http://localhost:1313/posts/2017-11-16-molniya-vchera-ansys-kupil-odnogo-iz-lid/</link>
+      <title>Удаленная визуализация для геймеров</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-05-07-udalennaya-vizualizatsiya-dlya-geymerov/</link>
+      <pubDate>Thu, 07 May 2020 15:31:24 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-05-07-udalennaya-vizualizatsiya-dlya-geymerov/</guid>
+      <description>&lt;p&gt;Удаленная визуализация для геймеров&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/%d1%83%d0%b4%d0%b0%d0%bb%d0%b5%d0%bd%d0%bd%d0%b0%d1%8f-%d0%b2%d0%b8%d0%b7%d1%83%d0%b0%d0%bb%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f-%d0%b4%d0%bb%d1%8f-%d0%b3%d0%b5%d0%b9%d0%bc%d0%b5%d1%80%d0%be%d0%b2/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Удаленная визуализация для геймеров - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Молния!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-16-molniya-vchera-ansys-kupil-odnogo-iz-lid/</link>
       <pubDate>Thu, 16 Nov 2017 09:11:11 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-16-molniya-vchera-ansys-kupil-odnogo-iz-lid/</guid>
-      <description>&lt;p&gt;Основной решатель #3DSIM называется #exaSIM, и он занимается моделированием процесса послойной 3D печати.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-16-molniya-vchera-ansys-kupil-odnogo-iz-lid/</guid>
+      <description>&lt;p&gt;Вчера #ANSYS купил одного из лидеров рынка моделирования процессов аддитивного производства, компанию 3DSIM.&lt;/p&gt;
+&lt;p&gt;Основной решатель #3DSIM называется #exaSIM, и он занимается моделированием процесса послойной 3D печати.&lt;/p&gt;
 &lt;p&gt;Очень интересный момент, касающийся exaSIM, это то, что решатель нельзя скачать и установить. Система работает только в облаке, а качестве хостинга используется #AWS, а в особых случаях, его особо защищенная часть #GovCloud. Более подробный обзор ПО можно почитать тут: &lt;a href=&#34;http://ift.tt/2zO2Q2O&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zO2Q2O&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#cloud #additivemanufacturing&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0q1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=0q1&lt;/a&gt;…&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://learn.3dsim.com/ansys-acquires-additive-manufacturing-simulation-leader-3dsim/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://learn.3dsim.com/ansys-acquires-additive-manufacturing-simulation-leader-3dsim/&lt;/a&gt; 🔗 Ansys Acquires Additive Manufacturing Simulation Leader 3DSIM - 3DSIM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2j0eGPj&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2j0eGPj&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=0q1ZPZNnqzs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=0q1ZPZNnqzs&lt;/a&gt;
+&lt;a href=&#34;http://learn.3dsim.com/ansys-acquires-additive-manufacturing-simulation-leader-3dsim/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://learn.3dsim.com/ansys-acquires-additive-manufacturing-simulation-leader-3dsim/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сегоня состоялся большой и очень ожидаемый мной релиз у моих друзей из #NICE Software.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-08-segonya-sostoyalsya-bolshoy-i-ochen-ozhidaem/</link>
+      <pubDate>Wed, 08 Nov 2017 09:10:09 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-08-segonya-sostoyalsya-bolshoy-i-ochen-ozhidaem/</guid>
+      <description>&lt;p&gt;Эта небольшая но очень крутая итальянская компания (ныне часть #HPC подразделения #AWS) выпустила обновленную версию своего продукта #DCV (Desktop Cloud Visualization) - пожалуй самого эффективного средства доставки сложной инженерной графики на рынке.&lt;/p&gt;
+&lt;p&gt;Ключевые фишки DCV:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Возможность совместной работы нескольких человек на одном рабочем столе&lt;/li&gt;
+&lt;li&gt;Полностью аппаратное кодирование/декодирование видео потока в H.264&lt;/li&gt;
+&lt;li&gt;Поддержка NVIDIA vGPU&lt;/li&gt;
+&lt;li&gt;Работках как в физической, так и в виртуальной среде.&lt;/li&gt;
+&lt;li&gt;Возможность работы в режиме сжатия без потерь&lt;/li&gt;
+&lt;li&gt;Автоматический/ручной выбор степени сжатия потока&lt;/li&gt;
+&lt;li&gt;Пробросаться смарт-карт&lt;/li&gt;
+&lt;li&gt;Автоматическая подстройка разрешения под клиента&lt;/li&gt;
+&lt;li&gt;Как обычный так и HTML5 клиент&lt;/li&gt;
+&lt;li&gt;Поддержка Gnome 3 для RHEL 7&lt;/li&gt;
+&lt;li&gt;Поддержка Windows 10 и Server 2016&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ну и конечно от себя хочу сказать, что DCV очень прост в установке, настроек и внедрении: поставил и работает. Не надо никаких серверов proxy, авторизации и балансировки нагрузки. Нет завязки на контроллер домена или систему авторизации.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2m7A75V&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2m7A75V&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#HPCMediaMedia🔗 Download DCV 2017 - NICE&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2yFdOtX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yFdOtX&lt;/a&gt;
+&lt;a href=&#34;https://www.nice-software.com/download/nice-dcv-2017&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.nice-software.com/download/nice-dcv-2017&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#Siemens #NX есть в магазине приложений #Amazon для #AWS (#AppStream 2.0), и чувствует там себя очень жале неплохо.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-14-siemens-nx-est-v-magazine-prilozheniy/</link>
+      <pubDate>Thu, 14 Sep 2017 17:08:24 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-14-siemens-nx-est-v-magazine-prilozheniy/</guid>
+      <description>&lt;p&gt;Демонстрантке прилагается&lt;/p&gt;
+&lt;p&gt;#CAD #Cloud
+&lt;a href=&#34;https://www.youtube.com/watch?v=lOW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=lOW&lt;/a&gt;…Media📼 NX on the Cloud with Amazon AppStream 2.0&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2flsEdy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2flsEdy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2xnumov&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xnumov&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2flA5Bj&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2flA5Bj&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xnx8dd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xnx8dd&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2fkLPUC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2fkLPUC&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xnEVb3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xnEVb3&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2flZStj&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2flZStj&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=lOWPcFjwkCE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=lOWPcFjwkCE&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xncGcK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xncGcK&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2flsEdy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2flsEdy&lt;/a&gt;
+ttp://ift.tt/2flsEdy&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Делаем кластер в облаке на 60 секунд</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-07-delaem-klaster-v-oblake-na-60-sekund/</link>
+      <pubDate>Fri, 07 Jul 2017 17:00:50 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-07-delaem-klaster-v-oblake-na-60-sekund/</guid>
+      <description>&lt;p&gt;Делаем кластер в облаке на 60 секунд
+&lt;a href=&#34;http://PBScloud.io&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://PBScloud.io&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Очень любопытное видео от #Altair про #PBScloud.io - их новый продукт, способный делать #HPC кластеры на базе публичных облаков вроде #AWS или #Azure.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jQGMSozUDsI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jQGMSozUDsI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.pbscloud.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;High Performance Computing in the Cloud | PBScloud.io&lt;/a&gt;
+&lt;a href=&#34;http://PBScloud.io&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://PBScloud.io&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=jQGMSozUDsI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jQGMSozUDsI&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NICE EnginFrame 2017</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-29-nice-enginframe-2017/</link>
+      <pubDate>Wed, 29 Mar 2017 17:00:25 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-29-nice-enginframe-2017/</guid>
+      <description>&lt;p&gt;NICE EnginFrame 2017
+&lt;a href=&#34;http://www.nice-software.com/news/-/blogs/nice-enginframe-2017-is-now-available-with-even-simpler-aws-integration&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.nice-software.com/news/-/blogs/nice-enginframe-2017-is-now-available-with-even-simpler-aws-integration&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;На этой неделе наши итальянские друзья и партнеры, компания #Nice Software, выпустили #EngineFrame 2017 - web-портал #HPC системы, диспетчер очереди задач, диспетчер терминальных сессий и много чего еще. Особый прицел сделан на удобную для пользователя работу с виртуальными кластерами в #AWS (#Amazon с прошлого года является владельцем компании).&lt;/p&gt;
+&lt;p&gt;Пример работы предыдущего релиза на видео:
+&lt;a href=&#34;https://www.youtube.com/watch?v=iBGEXDgi5-w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=iBGEXDgi5-w&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.nice-software.com/news/-/blogs/nice-enginframe-2017-is-now-available-with-even-simpler-aws-integration&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.nice-software.com/news/-/blogs/nice-enginframe-2017-is-now-available-with-even-simpler-aws-integration&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=iBGEXDgi5-w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=iBGEXDgi5-w&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Новый Bright Cluster Manager уже доступен для закачки</title>
-      <link>http://localhost:1313/posts/2016-08-11-novyy-bright-cluster-manager-uzhe-dostupe/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-11-novyy-bright-cluster-manager-uzhe-dostupe/</link>
       <pubDate>Thu, 11 Aug 2016 06:30:55 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-08-11-novyy-bright-cluster-manager-uzhe-dostupe/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.brightcomputing.com/blog/the-new-release-of-bright-cluster-manager-is-now-shipping&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.brightcomputing.com/blog/the-new-release-of-bright-cluster-manager-is-now-shipping&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-11-novyy-bright-cluster-manager-uzhe-dostupe/</guid>
+      <description>&lt;p&gt;Новый Bright Cluster Manager уже доступен для закачки
+&lt;a href=&#34;http://www.brightcomputing.com/blog/the-new-release-of-bright-cluster-manager-is-now-shipping&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.brightcomputing.com/blog/the-new-release-of-bright-cluster-manager-is-now-shipping&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Лидер рынка независимых (от вендоров железа) систем управления #HPC кластерами Bright Cluster Manager (#BCM) от голландской компании Bright Comuting обновился до версии 7.3.&lt;/p&gt;
 &lt;p&gt;В новой версии расширена поддержка Amazon Web Services (#AWS) для автоматического разворачивания кластера в облаке, улучшена поддержка технологий контейнеризации #Docker. Еще есть куча всяких улучшений для коллеги, занимающихся #BigData.&lt;/p&gt;
 &lt;p&gt;Всем обязательно советую сходить по ссылке и посмотреть небольшой демонстрационный видео ролик о том, как должен выглядеть правильный кластер-менеджер.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.brightcomputing.com/blog/the-new-release-of-bright-cluster-manager-is-now-shipping&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;The new release of Bright Cluster Manager is now shipping!&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Билл Ницберг (Bill Nitzberg), CEO подразделения #PBS Works к</title>
-      <link>http://localhost:1313/posts/2016-07-04-bill-nitsberg-bill-nitzberg-ceo-podraz/</link>
+      <title>Полноценное #HPC в облаке</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-01-polnotsennoe-hpc-v-oblake/</link>
+      <pubDate>Mon, 01 Aug 2016 07:03:57 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-01-polnotsennoe-hpc-v-oblake/</guid>
+      <description>&lt;p&gt;Полноценное #HPC в облаке
+&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12777/ANSYS-CFD-Sees-Scalability-to-1024-Cores-on-Microsoft-Azure.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12777/ANSYS-CFD-Sees-Scalability-to-1024-Cores-on-Microsoft-Azure.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Инфоповод по сообщению во множестве блогов: #ANSYS #CFD распараллелился почти линейно на 1024 ядра в облаке #Azure. Новость эта несет в себе сразу две морали.&lt;/p&gt;
+&lt;p&gt;Первая мораль: ANSYS начинает рассматривать Azure как дополнение к #AWS - и это очень хорошо. Конкуренция облаков - это всегда хорошо для пользователя.&lt;/p&gt;
+&lt;p&gt;Вторая мораль: если дать CFD коду нормальный интерконнект, то он полетит даже в облаке. Как я уже много раз говорил, у Microsoft в Azure есть полноценный #Infiniband с поддержкой #RDMA. Infiniband = HPC, а значит можно очень хорошо посчитать.&lt;/p&gt;
+&lt;p&gt;А еще я очень жду, когда же у AWS тоже будет интреконнект.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12777/ANSYS-CFD-Sees-Scalability-to-1024-Cores-on-Microsoft-Azure.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS CFD Sees Scalability to 1024 Cores on Microsoft Azure&lt;/a&gt;
+&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12777/ANSYS-CFD-Sees-Scalability-to-1024-Cores-on-Microsoft-Azure.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12777/ANSYS-CFD-Sees-Scalability-to-1024-Cores-on-Microsoft-Azure.aspx&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Готовая инстукция по запуску #OpenFOAM на мощностях #Amazon Web Services (aka #AWS).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-28-gotovaya-instuktsiya-po-zapusku-openfoam-n/</link>
+      <pubDate>Thu, 28 Jul 2016 06:30:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-28-gotovaya-instuktsiya-po-zapusku-openfoam-n/</guid>
+      <description>&lt;p&gt;Делаем все по шагам и получаем #CFD в облаке.&lt;/p&gt;
+&lt;p&gt;#HPC #Cloud
+&lt;a href=&#34;http://lnk.al/1WXy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1WXy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lnk.al/1WXy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CFD Direct From the Cloud: OpenFOAM Computing on AWS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Билл Ницберг (Bill Nitzberg), CEO подразделения #PBS Works компании #Altair, рассказывает про новости с #ISC 2016.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-04-bill-nitsberg-bill-nitzberg-ceo-podraz/</link>
       <pubDate>Mon, 04 Jul 2016 12:02:21 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-07-04-bill-nitsberg-bill-nitzberg-ceo-podraz/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-04-bill-nitsberg-bill-nitzberg-ceo-podraz/</guid>
       <description>&lt;p&gt;Гвоздь программы - это, естественно, открытие кода #PBS Pro. В первый же день после ананаса уже появились люди вне компании, вносящие изменения в код.&lt;/p&gt;
 &lt;p&gt;Кроме того есть еще пара новостных поводов.&lt;/p&gt;
 &lt;p&gt;PBS #Simulator позволяет на основе истории загрузки вашего кластера оптимизировать его архитектуру (например показывает какие типы узлов стоит закупить)&lt;/p&gt;
 &lt;p&gt;PBS #Cloud #Manager - система позволяющая автоматически рааричивать вычислительные кластеры на базе публичных облаков #Amazon #AWS и #Microsoft #Azure. &lt;a href=&#34;https://www.youtube.com/watch?v=nbrkpNsD4rk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nbrkpNsD4rk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nbrkpNsD4rk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;PBS Pro from Altair Goes Open Source at ISC 2016&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>На конференции AWS re:Invent ANSYS расскзал об архитектуре с</title>
-      <link>http://localhost:1313/posts/2015-11-09-na-konferentsii-aws-reinvent-ansys-rassk/</link>
+      <title>Еще раз о том, почему технологии виртуальной многопоточности (Intel Hyper-Treading и AMD Cluster-based Multithreading) плохи для #CAE. НА этот раз #TotalCAE взяли пример с виртуализацией - вы же знали, что все публичные облака, в том числе и #AWS дают вам машины с включенной виртуальной многопоточностью?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-17-esche-raz-o-tom-pochemu-tehnologii-virtual/</link>
+      <pubDate>Fri, 17 Jun 2016 07:00:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-17-esche-raz-o-tom-pochemu-tehnologii-virtual/</guid>
+      <description>&lt;p&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.totalcae.com/learn/totalcae-private-public-cloud-powered-truecore/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;TotalCAE TrueCore Powered Clouds for Maximum Application Performance AWS Case Study with LS-DYNA - TCAE Blog&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новость дня: для наших старых друзей, компании #NICE #Software начинается новая эпоха.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-12-novost-dnya-dlya-nashih-staryh-druzey-ko/</link>
+      <pubDate>Fri, 12 Feb 2016 17:36:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-12-novost-dnya-dlya-nashih-staryh-druzey-ko/</guid>
+      <description>&lt;p&gt;Сегодня их компания была куплена, и не кем-то, а самими #Amazon Web Services (#AWS).&lt;/p&gt;
+&lt;p&gt;Это очень хорошая поддержка для небольшой итальянской компании менее чем из 100 человек.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.nice-software.com/news/-/blogs/nice-to-join-forces-with-amazon-web-services&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;NICE to join forces with Amazon Web Services - News &amp;amp; Events - NICE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>И еще одна новость прошедших каникул: компания #ESI, знаменитая своими нелинейными решателями и специализирующаяся на моделировании технологических процессов обработки материалов запустила свое облако (это ужен не смешно).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-14-i-esche-odna-novost-proshedshih-kanikul-ko/</link>
+      <pubDate>Thu, 14 Jan 2016 06:30:07 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-14-i-esche-odna-novost-proshedshih-kanikul-ko/</guid>
+      <description>&lt;p&gt;ESI #Cloud, как и многоногие другие подобные решения, базируется на мощностях #Amazon #AWS. Кроме своих собственных наработок в решении задач, ESI также предлагает #OpenFOAM в качестве решения для #CFD. Удаленная визуализация и #HPC прилагаются.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.esi-group.com/company/press/news-releases/cae-now-available-demand-esi-cloud&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CAE Now Available On Demand with ESI Cloud&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>На конференции AWS re:Invent ANSYS расскзал об архитектуре своего облачного решения ANSYS Enterprise Cloud в AWS.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-09-na-konferentsii-aws-reinvent-ansys-rassk/</link>
       <pubDate>Mon, 09 Nov 2015 06:30:19 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-09-na-konferentsii-aws-reinvent-ansys-rassk/</guid>
-      <description>&lt;p&gt;Однако проблемы, на которые я всегда обращаю внимание, остались открытыми:&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-09-na-konferentsii-aws-reinvent-ansys-rassk/</guid>
+      <description>&lt;p&gt;Всю магию по созданию виртуального кластера для них делает Cycle Computing. Графикой естественно завидует NICE Software. Управление конфигурациями через Chef. Метаданные пишутся в базу Amazon RDS (наверно они приделали к ней аналог ANSYS EKM).&lt;/p&gt;
+&lt;p&gt;Однако проблемы, на которые я всегда обращаю внимание, остались открытыми:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;нет RDMA - большой кластер тормозит даже для CFD&lt;/li&gt;
 &lt;li&gt;очень кривая организация виртуальных рабочих станций для постпроцессинга из-за ограничений на объем оперативной памяти.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Есть и замечательные, доселе невиданные возможности: вы получаете готовый к расчетами HPC кластер менее чем за 3 (три!!!) часа, и вы можете изменять его размер по запросу. Обычно проектирование и пуск кластера занимает месяцы :)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0EPnnKqs5TM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;AWS re:Invent 2015 | (CMP202) Engineering Simulation and Analysis in the Cloud&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>В честь воскресного вечера позволю себе очень любопытный офф</title>
-      <link>http://localhost:1313/posts/2015-11-08-v-chest-voskresnogo-vechera-pozvolyu-sebe/</link>
+      <title>В честь воскресного вечера позволю себе очень любопытный оффтопик. На днях мне попалась очень интересная презентация от Walt Disney Animation Studios, рассказывающая об их опыте использование AWS для рендеринга анимации. Диснеевские спецы собирают виртуальные катера порядка 50 000 ядер!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-08-v-chest-voskresnogo-vechera-pozvolyu-sebe/</link>
       <pubDate>Sun, 08 Nov 2015 18:00:27 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-08-v-chest-voskresnogo-vechera-pozvolyu-sebe/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-08-v-chest-voskresnogo-vechera-pozvolyu-sebe/</guid>
+      <description>&lt;p&gt;!!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.slideshare.net/AmazonWebServices/cmp404-cloud-rendering-at-walt-disney-animation-studios&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;(CMP404) Cloud Rendering at Walt Disney Animation Studios&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Со всей этой рутинной я чуть пропустил абсолютно сногсшибате</title>
-      <link>http://localhost:1313/posts/2015-10-05-so-vsey-etoy-rutinnoy-ya-chut-propustil-a/</link>
+      <title>#NICE Software показали, как можно заточить их #EnginFrame для работы с #Amazon #AWS. Их система по запросу арендует кластер из нужных виртуалок, разливает на них нужный софт и запускает расчет в интерактивном режиме. А после всего еще и постпроцессинг через #DCV выполняет!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-06-nice-software-pokazali-kak-mozhno-zatoch/</link>
+      <pubDate>Fri, 06 Nov 2015 18:00:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-06-nice-software-pokazali-kak-mozhno-zatoch/</guid>
+      <description>&lt;p&gt;Осталось только ввести номер вашей кредитки и HPC кластер готов.
+&lt;a href=&#34;https://www.youtube.com/watch?v=Ok3LADkSPrU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Ok3LADkSPrU&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Со всей этой рутинной я чуть пропустил абсолютно сногсшибательную новость!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-05-so-vsey-etoy-rutinnoy-ya-chut-propustil-a/</link>
       <pubDate>Mon, 05 Oct 2015 06:30:16 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-05-so-vsey-etoy-rutinnoy-ya-chut-propustil-a/</guid>
-      <description>&lt;p&gt;Теперь же мы можем наблюдать очень интересную направленность Azure в HPC направление. Тут и честный Infiniband (чего нет даже у Amazon AWS), и несколько HPC планировщиков, в числе которых есть лидер рынка Altair PBS Pro, и, наконец, недостающее звено - гибридные вычисления и поддержка удаленной визуализации!!! Мне кажется, что сейчас Azure дал крепкую затрещину AWS.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-05-so-vsey-etoy-rutinnoy-ya-chut-propustil-a/</guid>
+      <description>&lt;p&gt;NVIDIA анонсировала планы по использованию ее графических процессоров и процессоров общего назначения в облаке Microsoft Azure. То, что раз или поздно это произойдет стало понятно в тот момент, когда MS реализовали нормальную поддержку vGPU в Hyper-V для Server 2016.&lt;/p&gt;
+&lt;p&gt;Теперь же мы можем наблюдать очень интересную направленность Azure в HPC направление. Тут и честный Infiniband (чего нет даже у Amazon AWS), и несколько HPC планировщиков, в числе которых есть лидер рынка Altair PBS Pro, и, наконец, недостающее звено - гибридные вычисления и поддержка удаленной визуализации!!! Мне кажется, что сейчас Azure дал крепкую затрещину AWS.&lt;/p&gt;
 &lt;p&gt;#Azure #AWS #Cloud #HPC #NVIDIA
 &lt;a href=&#34;http://nvidianews.nvidia.com/news/nvidia-gpus-to-accelerate-microsoft-azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://nvidianews.nvidia.com/news/nvidia-gpus-to-accelerate-microsoft-azure&lt;/a&gt;
 &lt;a href=&#34;http://www.nvidia.ru/object/nvidia-grid-microsoft-azure-29-sep-2015-ru.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.nvidia.ru/object/nvidia-grid-microsoft-azure-29-sep-2015-ru.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://nvidianews.nvidia.com/news/nvidia-gpus-to-accelerate-microsoft-azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;NVIDIA GPUs to Accelerate Microsoft Azure &lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

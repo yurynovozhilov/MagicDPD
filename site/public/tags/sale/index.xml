@@ -2,25 +2,168 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SALE on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/sale/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/sale/</link>
     <description>MagicDPD: Magic Driven Product Development! (SALE)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 04 Jun 2017 17:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Feb 2022 17:00:14 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/sale/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/sale/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Вебинар от #Oasys/#Arup по #SALE в #Ansys #LSDYNA - рассказывают на примере задачи слошинга топлива в деформируемом топливном баке. https://www.youtube.com/watch?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-28-vebinar-ot-oasysarup-po-sale-v-ansy/</link>
+      <pubDate>Mon, 28 Feb 2022 17:00:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-28-vebinar-ot-oasysarup-po-sale-v-ansy/</guid>
+      <description>&lt;p&gt;v=V0-xZu6nip0&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=V0-xZu6nip0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=V0-xZu6nip0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новые возможности S-ALE в LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-30-novye-vozmozhnosti-s-ale-v-ls-dyna/</link>
+      <pubDate>Thu, 30 Aug 2018 18:00:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-30-novye-vozmozhnosti-s-ale-v-ls-dyna/</guid>
+      <description>&lt;p&gt;Новые возможности S-ALE в LS-DYNA
+S-ALE - это стремительно развивающаяся версия решателя ALE (все что связано с эйлеровым доменом и произвольным лагранж-эйлеровым поведением) на структурированных сетках. За счёт  структурированности сеток реализация решателя получает сразу три ключевых преимущества:&lt;/p&gt;
+&lt;p&gt;снижение объема k-файла - сетка S-ALE не хранится, а генерируется решателем на лету
+снижение потребления памяти при расчете
+повышение вычислительной эффективности&lt;/p&gt;
+&lt;p&gt;В сети стала доступна презентация одного из главных разработчиков данного решателя, Хао Чена (Hao Chen), которая была показана на конференции в этом году.
+Ключевые нововведения в решателе:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Mesh Trimming - &amp;ldquo;подрезка&amp;rdquo; эйлерового домена под геометрию или склейка нескольких доменов в один, но уже сложной формы.&lt;/li&gt;
+&lt;li&gt;FOLLOW_GC - автоматическое движение и морфинг домена вслед за исследуемым объектом&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Multiple Meshes - возможность присутствия нескольких эйлеровых доменов в одном расчете, учет их взаимодействия&lt;/p&gt;
+&lt;p&gt;И конечно их можно комбинировать между собой - например, одновременно обрезать сеточный домен по контуру тела с отступом, а потом заставить его двигаться. Все это позволяет дополнительно оптимизировать работу и без того крайне эффективного S-ALE решателя.
+Презентация по этой тематике может быть скачана по ссылке в конце поста. Также, на слайдах презентации вы найдете ссылки на готовые примеры, демонстрирующие интересующий функционал.
+&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/hao/sale/tutorials/2018conf.pptx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/hao/sale/tutorials/2018conf.pptx&lt;/a&gt;
+P.S. Презентация весит около 50 Мб, грузится небыстро, открывается не торопясь - внутри много тяжёлых GIF.&lt;/p&gt;
+&lt;p&gt;#ALE #LSDYNA #SALE #Tutorial
+&lt;a href=&#34;http://bit.ly/2CdQZQv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2CdQZQv&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ftp.lstc.com/anonymous/outgoing/hao/sale/tutorials/2018conf.pptx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ftp.lstc.com/anonymous/outgoing/hao/sale/tutorials/2018conf.pptx&lt;/a&gt;
+&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/hao/sale/tutorials/2018conf.pptx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/hao/sale/tutorials/2018conf.pptx&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2CdQZQv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2CdQZQv&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Марс - наша цель!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-23-mars-nasha-tsel/</link>
+      <pubDate>Mon, 23 Jul 2018 18:00:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-23-mars-nasha-tsel/</guid>
+      <description>&lt;p&gt;Марс - наша цель!
+Постоянные читатели  этого блога скорее всего в курсе, что мы как-то моделировали аварийную посадку спускаемого модуля Марс-6, который разбился об одноименную красную планету в 1973 году. Небольшая статья по этой теме была на сайте Цифры. Правда она освещает примерно 5% объема работы.&lt;/p&gt;
+&lt;p&gt;А сейчас итоги нашей работы начинают мелькать на очень интересных сайтах. Например, они отметились на сайте N+1, в статье Марсианская археология и даже в заметке Энтузиасты нашли возможное место гибели советской станции &amp;ldquo;Марс-6&amp;rdquo; от РИА Новости.&lt;/p&gt;
+&lt;p&gt;#ALE #FSI #LSDYNA #SALE
+&lt;a href=&#34;http://bit.ly/2uXjj2A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2uXjj2A&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://multiphysics.ru/stati/proekty/modelirovanie-padeniia-spuskaemogo-apparata-mars-6.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Моделирование падения спускаемого аппарата «Марс-6» | Инженерные расчеты&lt;/a&gt;
+&lt;a href=&#34;https://nplus1.ru/blog/2018/07/21/mars-6-was-founded-or-no&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://nplus1.ru/blog/2018/07/21/mars-6-was-founded-or-no&lt;/a&gt;
+&lt;a href=&#34;https://ria.ru/space/20180720/1524981234.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ria.ru/space/20180720/1524981234.html&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2uXjj2A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2uXjj2A&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Аварийная посадка на Марс</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-06-avariynaya-posadka-na-mars/</link>
+      <pubDate>Fri, 06 Jul 2018 18:01:49 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-06-avariynaya-posadka-na-mars/</guid>
+      <description>&lt;p&gt;Аварийная посадка на Марс
+Вышла давно ожидаемая мной статья от Цифры по моделированию падения спускаемого аппарата «Марс-6» на красную планету. Данный проект стал результатом работы одного из выпускников первого набора &amp;ldquo;Школы Дамблдора&amp;rdquo; по направлению LS-DYNA.
+Работа сделана качественно, на КЭ сетках глаз отдыхает, постановки выверены - ничего лишнего. Обидно только, что в рамках возможностей сайта показано от силы 1/10 всех полученных результатов.
+Всем предлагаю пройти по ссылке в конце поста и почитать текст. Ну или хотя бы посмотреть визуализации результатов расчетов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://multiphysics.ru/stati/proekty/modelirovanie-padeniia-spuskaemogo-apparata-mars-6.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://multiphysics.ru/stati/proekty/modelirovanie-padeniia-spuskaemogo-apparata-mars-6.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ALE #Crash #FSI #LSDYNA #SALE #Мырешаем #ЦИФРА
+&lt;a href=&#34;http://bit.ly/2u5eaF8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2u5eaF8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://multiphysics.ru/stati/proekty/modelirovanie-padeniia-spuskaemogo-apparata-mars-6.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Моделирование падения спускаемого аппарата «Марс-6» | Инженерные расчеты&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2u5eaF8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2u5eaF8&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Материалы 15-ой конференции LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-06-26-materialy-15-oy-konferentsii-ls-dyna/</link>
+      <pubDate>Tue, 26 Jun 2018 18:02:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-06-26-materialy-15-oy-konferentsii-ls-dyna/</guid>
+      <description>&lt;p&gt;Материалы 15-ой конференции LS-DYNA
+Стали доступны материалы конференции, проведенной две недели назад  в Детройте, США. Это значит, что в свободный доступ попал большой массив (182 штуки) свежайших статей от ведущих разработчиков и пользователей LS-DYNA. Спасибо LSTC за такую щедрую политику распространения информации. Если надо объяснять, то не надо объяснять.
+Что я уже успел отметить для себя при беглом просмотре части материалов (все будет позднее подробно рассказано в паблике):&lt;/p&gt;
+&lt;p&gt;S-ALE домен научился двигаться за центром тяжести себя самого
+Подробное описание MLS-SPH формулировки, стабильной на растяжение и кручение
+Вычислительно эффективные IGA-элементы
+Обзор работы основных моделей бетонов для SPH
+Аналог *CONSTRAINED_LAGRANGE_IN_SOLID для SPG
+Расчеты динамики парашютов с использованием как ALE-FSI, так и ICFD-FSI&lt;/p&gt;
+&lt;p&gt;Программа конференции: https://www.dynamore.de/en/downloads/flyer/2018/int.-ls-dyna-conference-2018-agenda
+Материалы для изучения: https://www.dynalook.com/copy_of_11th-european-ls-dyna-conference
+P.S. URL для материалов какой-то очень кривой на вид, но он рабочий. На крайний случай, всегда можно увидеть все матералы на сайте dynalook.com&lt;/p&gt;
+&lt;p&gt;#Concrete #FSI #ICFD #IGA #LSDYNA #LSTC #MLS #SALE #SPG #SPH
+&lt;a href=&#34;http://bit.ly/2MkPZtG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2MkPZtG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dynamore.de/en/downloads/flyer/2018/int.-ls-dyna-conference-2018-agenda&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.de/en/downloads/flyer/2018/int.-ls-dyna-conference-2018-agenda&lt;/a&gt;
+&lt;a href=&#34;https://www.dynalook.com/copy_of_11th-european-ls-dyna-conference&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/copy_of_11th-european-ls-dyna-conference&lt;/a&gt;
+dynalook.com
+&lt;a href=&#34;http://bit.ly/2MkPZtG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2MkPZtG&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-DYNA R10 - теперь официально</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-02-ls-dyna-r10-teper-ofitsialno/</link>
+      <pubDate>Wed, 02 Aug 2017 09:00:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-02-ls-dyna-r10-teper-ofitsialno/</guid>
+      <description>&lt;p&gt;LS-DYNA R10 - теперь официально
+&lt;a href=&#34;http://www.dynasupport.com/news/ls-dyna-r10.0.0-r10.118302-released&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynasupport.com/news/ls-dyna-r10.0.0-r10.118302-released&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#LSDYNA R10 теперь официально доступна. Есть и первый release note, который мы можем прочитать вместе. Вот, что я отметил из интересного для себя:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Возможность на лету скармливать HEX #ALE сетку #SALE решателю&lt;/li&gt;
+&lt;li&gt;Куча вкусностей для PARTICLE_BLAST&lt;/li&gt;
+&lt;li&gt;CONTACT_AUTOMATIC_SURFACE_TO_SURFACE_MORTAR_TIED_WELD для моделирования сварки по критерию нагрева и касания&lt;/li&gt;
+&lt;li&gt;При расчет пружинения учет износ поверхности - геометрия модифицируется решателем с учетом изношенности автоматически.&lt;/li&gt;
+&lt;li&gt;CONSTRAINED_BEAM_IN_SOLID теперь работает для случаев динамической сеточной адаптации solid сетки, умеет делать армирование в tshell элементах.&lt;/li&gt;
+&lt;li&gt;CONTROL_FORMING_SHELL_TO_TSHELL - конвертация shell (оболочек) в tshell (толстые оболочки) налету при штамповке и глубокой вытяжке&lt;/li&gt;
+&lt;li&gt;Учет износа и эрозии при взаимодействии #DEM с сеточными телами.&lt;/li&gt;
+&lt;li&gt;Адаптативное сеткоперестроение для PART_STACKED_ELEMENTS (моделирование композитов)&lt;/li&gt;
+&lt;li&gt;Куча новшеств в #ICFD: простой рестарт, учет демпфирования, стационарная постановка, Windkessel boundary conditions&lt;/li&gt;
+&lt;li&gt;Двухсторонний #FSI ICFD-DEM&lt;/li&gt;
+&lt;li&gt;Доработки материала MAT_CONCRETE_EC2&lt;/li&gt;
+&lt;li&gt;Опция AFTERBURN для EOS_JWL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Еще есть много всего для CASE и химического решателя, но ими я пока не пользовался, так что комментировать не могу.&lt;/p&gt;
+&lt;p&gt;Решатели лежат тут:
+&lt;a href=&#34;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&lt;/a&gt;
+&lt;a href=&#34;http://ftp.lstc.com/user/mpp-dyna/R10.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/mpp-dyna/R10.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Лицензии ANSYS LS-DYNA для 18.1 вполне хватает для запуска решателя.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dynasupport.com/news/ls-dyna-r10.0.0-r10.118302-released&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LS-DYNA R10.0.0 (R10.118302) released&lt;/a&gt;
+&lt;a href=&#34;http://www.dynasupport.com/news/ls-dyna-r10.0.0-r10.118302-released&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynasupport.com/news/ls-dyna-r10.0.0-r10.118302-released&lt;/a&gt;
+&lt;a href=&#34;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&lt;/a&gt;
+&lt;a href=&#34;http://ftp.lstc.com/user/mpp-dyna/R10.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/mpp-dyna/R10.0/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Материалы 11-ой европейской конференции по LS-DYNA</title>
-      <link>http://localhost:1313/posts/2017-06-04-materialy-11-oy-evropeyskoy-konferentsii/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-04-materialy-11-oy-evropeyskoy-konferentsii/</link>
       <pubDate>Sun, 04 Jun 2017 17:00:28 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-06-04-materialy-11-oy-evropeyskoy-konferentsii/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/11th-european-ls-dyna-conference&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/11th-european-ls-dyna-conference&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-04-materialy-11-oy-evropeyskoy-konferentsii/</guid>
+      <description>&lt;p&gt;Материалы 11-ой европейской конференции по LS-DYNA
+&lt;a href=&#34;http://www.dynalook.com/11th-european-ls-dyna-conference&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/11th-european-ls-dyna-conference&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Материалы конференции, прошедшей в Зальцбурге, стали доступны все и бесплатно на портале dynalook.com. Программа конференции также есть: &lt;a href=&#34;https://www.dynamore.de/de/download/flyer/2017/european-ls-dyna-conference-2017-invitation-agenda&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.de/de/download/flyer/2017/european-ls-dyna-conference-2017-invitation-agenda&lt;/a&gt;
 Я уже кое-что пролистал, и мне понравились некоторые работы по S-ALE и моделированию ударных волн.&lt;/p&gt;
 &lt;p&gt;#ALE, #SALE, #LSDYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/11th-european-ls-dyna-conference&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;11th European LS-DYNA Conference — Free Download of Papers from LS-DYNA Conferences - Service of LSTC and DYNAmore.&lt;/a&gt;
+dynalook.com
+&lt;a href=&#34;https://www.dynamore.de/de/download/flyer/2017/european-ls-dyna-conference-2017-invitation-agenda&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.de/de/download/flyer/2017/european-ls-dyna-conference-2017-invitation-agenda&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

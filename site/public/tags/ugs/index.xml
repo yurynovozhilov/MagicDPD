@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UGS on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/ugs/</link>
+    <description>MagicDPD: Magic Driven Product Development! (UGS)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 24 Jul 2018 18:00:30 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/ugs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Немного истории Parasolid и D-Cubed</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-24-nemnogo-istorii-parasolid-i-d-cubed/</link>
+      <pubDate>Tue, 24 Jul 2018 18:00:30 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-24-nemnogo-istorii-parasolid-i-d-cubed/</guid>
+      <description>&lt;p&gt;Немного истории Parasolid и D-Cubed
+Если об этом начать задумываться, то невольно удивляешься тому, как устроена современная CAD отрасль. Ведь привычное нам геометрическое ядро Parasolid совсем не является свободным, общедоступным и бесплатным. Оно появилось в 1988 году в результате работы компании Shape Data Ltd. Сама компания была основана в 1974 году выходцами из Кэмбриджа. Позднее компания была поглащена Siemens PLM (правда тогда это был еще UGS Corp.).
+А теперь, представьте себе, что все эти компании используют ядро Parasolid, приобретая лицензии на него у Siemens:&lt;/p&gt;
+&lt;p&gt;Abaqus
+ADINA
+Altair
+ANSYS
+CD-Adapco
+Delcam
+Cradle
+COMSOL Multiphysics
+Femap
+MicroStation
+MSC
+NUMECA
+Onshape
+SimScale
+Solid Edge
+SolidWorks
+SpaceClaim&lt;/p&gt;
+&lt;p&gt;И это еще не полный список!!! Вдумайтесь только: SolidWorks, самый популярный CAD пакет на мировом рынке, использует в качестве своего геометрического ядра разработки сторонней компании!
+Вот такая интересная ситуация на рынке CAD. Кстати, в статье по ссылке в конце поста есть очень четкое обоснование, почему получилось так, что именно Parasolid захватил монополию на форматы и CAD математику, и почему эта формальная монополия живет и процветает, а все довольны.
+Пост подготовлен по мотивам следующих источников:
+&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/17309/Parasolid-D-Cubed-and-Siemens-The-Heart-of-Your-CAD-Software-Belongs-to-Another.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/17309/Parasolid-D-Cubed-and-Siemens-The-Heart-of-Your-CAD-Software-Belongs-to-Another.aspx&lt;/a&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Parasolid&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://en.wikipedia.org/wiki/Parasolid&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#CAD #Parasolid #Siemens #UGS
+&lt;a href=&#34;http://bit.ly/2JQFHQt&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2JQFHQt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/17309/Parasolid-D-Cubed-and-Siemens-The-Heart-of-Your-CAD-Software-Belongs-to-Another.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Parasolid, D-Cubed and Siemens: The Heart of Your CAD Software Belongs to Another&lt;/a&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Parasolid&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://en.wikipedia.org/wiki/Parasolid&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2JQFHQt&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2JQFHQt&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

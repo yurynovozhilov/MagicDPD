@@ -2,33 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Buckling on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/buckling/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/buckling/</link>
     <description>MagicDPD: Magic Driven Product Development! (Buckling)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 31 Oct 2017 17:12:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2020 13:00:30 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/buckling/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/buckling/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Вот чего нахватало в #ANSYS #AIM при всем его развитии в вер</title>
-      <link>http://localhost:1313/posts/2017-10-31-vot-chego-nahvatalo-v-ansys-aim-pri-vse/</link>
-      <pubDate>Tue, 31 Oct 2017 17:12:56 +0000</pubDate>
+      <title>Потеря устойчивости: линейная и не очень</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-06-26-poterya-ustoychivosti-lineynaya-i-ne-ochen/</link>
+      <pubDate>Fri, 26 Jun 2020 13:00:30 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-10-31-vot-chego-nahvatalo-v-ansys-aim-pri-vse/</guid>
-      <description>&lt;p&gt;#buckling #opensource
-&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-294&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-294&lt;/a&gt; 🔗 ANSYS Estore&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-06-26-poterya-ustoychivosti-lineynaya-i-ne-ochen/</guid>
+      <description>&lt;p&gt;Потеря устойчивости: линейная и не очень&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/buckling-analysis/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Потеря устойчивости: линейная и не очень - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Как-то меня спрашивали про линейную и нелинейную потерю усто</title>
-      <link>http://localhost:1313/posts/2016-03-16-kak-to-menya-sprashivali-pro-lineynuyu-i-ne/</link>
+      <title>Вот чего нахватало в #ANSYS #AIM при всем его развитии в версии 18.2, так - это линейного расчета потери устойчивости.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-31-vot-chego-nahvatalo-v-ansys-aim-pri-vse/</link>
+      <pubDate>Tue, 31 Oct 2017 17:12:56 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-31-vot-chego-nahvatalo-v-ansys-aim-pri-vse/</guid>
+      <description>&lt;p&gt;Этот досадный недостаток недавно исправили при помощи одноименного #ACT расширения. Что особенно приятно: расширение идет с открытом исходным кодом, и на нем можно по тренироваться писать расширения для AIM.&lt;/p&gt;
+&lt;p&gt;#buckling #opensource
+&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-294&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-294&lt;/a&gt; 🔗 ANSYS Estore&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-294&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-294&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как-то меня спрашивали про линейную и нелинейную потерю устойчивости.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-16-kak-to-menya-sprashivali-pro-lineynuyu-i-ne/</link>
       <pubDate>Wed, 16 Mar 2016 12:00:18 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-03-16-kak-to-menya-sprashivali-pro-lineynuyu-i-ne/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-16-kak-to-menya-sprashivali-pro-lineynuyu-i-ne/</guid>
+      <description>&lt;p&gt;Тогда я запомнил, что как-то нет у меня хорошего материала для ликбеза. Теперь такой материал есть.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.deskeng.com/de/linear-and-nonlinear-buckling-in-fea/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Linear and Nonlinear Buckling in FEA&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

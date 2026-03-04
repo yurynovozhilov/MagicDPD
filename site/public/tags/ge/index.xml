@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GE on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/ge/</link>
+    <description>MagicDPD: Magic Driven Product Development! (GE)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 02 Oct 2019 13:00:16 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/ge/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GENESIS - CFD код от GE</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-02-genesis-cfd-kod-ot-ge/</link>
+      <pubDate>Wed, 02 Oct 2019 13:00:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-02-genesis-cfd-kod-ot-ge/</guid>
+      <description>&lt;p&gt;GENESIS - CFD код от GE&lt;/p&gt;
+&lt;p&gt;Вычислительный код GENESIS разрабатывается GE на базе существующей научной разработки hp-adaptive Multi-physics Simulation Code (hpMusic), так что правильнее его называть hpMusic/GENESIS.&lt;/p&gt;
+&lt;p&gt;Код, по заявлениям разработчиков, очень интересный.Это не традиционный метод конечных объемов, а некий собственный «flux reconstruction method», который представляет собой некую смесь лагранжева и эйлерова подхода к описанию среды. Если я правильно понял его суть, то каждый вихрь в этом методе считается в эйлеровой постановке, а вот перемещение эйлерова домена с вихрем по пространству — уже в лагранжевой. Говорят, что такая схема позволяет очень хорошо разложить задачу на большой массив GPU и минимизировать затраты на связь между доменами. Больше информации тут: &lt;a href=&#34;https://www.olcf.ornl.gov/2019/09/12/gpus-power-ge-code-at-olcf-hackathons/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.olcf.ornl.gov/2019/09/12/gpus-power-ge-code-at-olcf-hackathons/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#CFD #GE #GENESIS #GPU #HPC #HpMusic #NVIDIA
+&lt;a href=&#34;https://bit.ly/2mYKCcQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://bit.ly/2mYKCcQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.olcf.ornl.gov/2019/09/12/gpus-power-ge-code-at-olcf-hackathons/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;GPUs Power GE Code at OLCF Hackathons&lt;/a&gt;
+&lt;a href=&#34;https://bit.ly/2mYKCcQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://bit.ly/2mYKCcQ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как напечатать велосипед</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-24-kak-napechatat-velosiped/</link>
+      <pubDate>Wed, 24 Jan 2018 17:01:30 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-24-kak-napechatat-velosiped/</guid>
+      <description>&lt;p&gt;Как напечатать велосипед
+Компания из Братиславы (тут сразу вспоминается образ города из фильма &amp;ldquo;Евротур&amp;rdquo;) представила публике первый в мире электрический горный велосипед, полностью напечатанный на 3D принтере!&lt;/p&gt;
+&lt;p&gt;Компания - стартап kinazo-design напечатал очень красивое транспортное средство Kinazo Ebike E1. У велосипеда-двухподвеса есть все модные навороты, но его цена все равно кусается: $23,500 при заказе сейчас.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=tf1eucohA88&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=tf1eucohA88&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Детали велосипеда печатаются на самом большом из доступных сейчас 3D принтеров по металлу -  Concept Laser X Line 2000R 3D производства GE.
+#Additive Manufacturing #GE
+&lt;a href=&#34;https://magicdpd.ru/?p=6007&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6007&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.kinazo.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.kinazo.com/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=tf1eucohA88&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=tf1eucohA88&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=6007&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6007&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

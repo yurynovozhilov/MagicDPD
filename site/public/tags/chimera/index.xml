@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chimera on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/chimera/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Chimera)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 17 Jan 2018 17:01:30 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/chimera/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NASA считает аэродинамику квадрокоптеров</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-17-nasa-schitaet-aerodinamiku-kvadrokopterov/</link>
+      <pubDate>Wed, 17 Jan 2018 17:01:30 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-17-nasa-schitaet-aerodinamiku-kvadrokopterov/</guid>
+      <description>&lt;p&gt;NASA считает аэродинамику квадрокоптеров
+Специалисты NASA рассказали о своем проекте по расчету дронов в собственном CFD коде OVERFLOW.&lt;/p&gt;
+&lt;p&gt;Первым пробным расчетом стал квадрокоптер, однако на будущее есть планы на моделирование дронов с большим количеством несущих винтов. Расчет выполнен при помощи решателя  OVERFLOW CFD на химерных сетках, созданных при помощи Chimera Grid Tool. Естественно, не обошлось без HPC: мощности для расчетов были предоставлены  NASA Advanced Supercomputing (NAS) Division.&lt;/p&gt;
+&lt;p&gt;Немного про код OVERFLOW. OVERFLOW 2 предназначен для расчета течений жидкостей и газов с учетом сжимаемости и вязкости. Код специально заточен для расчетов тел со сложной геометрией. Расчет ведется на структурированных химерных сетках. Есть возможность расчета подвижных тел и движения тел под действием аэродинамических сил. Код бесплатно доступен по запросу для использования в США.&lt;/p&gt;
+&lt;p&gt;Домашняя страница CFD кода: &lt;a href=&#34;https://overflow.larc.nasa.gov&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://overflow.larc.nasa.gov&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;По ссылке на статью есть очень красивая визуализация расчетов: &lt;a href=&#34;https://www.nas.nasa.gov/publications/articles/feature_hybrid_UAVs_VenturaDiaz.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.nas.nasa.gov/publications/articles/feature_hybrid_UAVs_VenturaDiaz.html&lt;/a&gt;
+#CFD #Chimera Grid Tool #NASA #OVERFLOW CFD #OversetMesh
+&lt;a href=&#34;https://magicdpd.ru/?p=5970&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5970&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://overflow.larc.nasa.gov&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://overflow.larc.nasa.gov&lt;/a&gt;
+&lt;a href=&#34;https://www.nas.nasa.gov/publications/articles/feature_hybrid_UAVs_VenturaDiaz.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.nas.nasa.gov/publications/articles/feature_hybrid_UAVs_VenturaDiaz.html&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=5970&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5970&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

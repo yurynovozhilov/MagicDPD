@@ -26,13 +26,17 @@ images:
 Вообще, видео демонстрации разрабатываемого продукта выглядит весьма интересно. Когда-то давно ядро ANSYS APDL встраивалось во многие CAD пакеты для расчетов. Теперь ему на смену идет современный Discovery Live. Классный виток истории получился. И не стоит забывать, что в отличие от классических КЭ вычислительных ядер Discovery Live не нуждается в упрощении геометрии - он может напрямую и мгновенно делать расчет на сложных деталях из Creo!
 Ссылка по теме на русском:
 https://www.cadfem-cis.ru/list/article/ansys-ptc2018/
-Ссылки по теме на английском: https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/17153/ANSYS-Discovery-Live-comes-to-PTC-Creo.aspx
+Ссылки по теме на английском: ~~https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/17153/ANSYS-Discovery-Live-comes-to-PTC-Creo.aspx~~ → [Сохранённая версия](http://web.archive.org/web/20200413165941/https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/17153/ANSYS-Discovery-Live-comes-to-PTC-Creo.aspx)
+
+*Оригинальная ссылка больше не доступна*
 https://www.ptc.com/en/cad-software-blog/ceo-speak-real-time-simulation
 
 #CAD #Creo #Discovery #Live #NVIDIA #PTC #Simplorer #ThingWorx #TwinBuilder
 https://is.gd/BMwHCi
 
 [Стратегическое партнерство ANSYS Inc. и PTC, Inc: новый класс продуктов Creo](https://www.cadfem-cis.ru/list/article/ansys-ptc2018/)
-https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/17153/ANSYS-Discovery-Live-comes-to-PTC-Creo.aspx
+~~https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/17153/ANSYS-Discovery-Live-comes-to-PTC-Creo.aspx~~ → [Сохранённая версия](http://web.archive.org/web/20200413165941/https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/17153/ANSYS-Discovery-Live-comes-to-PTC-Creo.aspx)
+
+*Оригинальная ссылка больше не доступна*
 https://www.ptc.com/en/cad-software-blog/ceo-speak-real-time-simulation
 https://is.gd/BMwHCi

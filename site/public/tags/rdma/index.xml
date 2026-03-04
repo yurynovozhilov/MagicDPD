@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RDMA on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/rdma/</link>
+    <description>MagicDPD: Magic Driven Product Development! (RDMA)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 01 Aug 2016 07:03:57 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/rdma/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Полноценное #HPC в облаке</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-01-polnotsennoe-hpc-v-oblake/</link>
+      <pubDate>Mon, 01 Aug 2016 07:03:57 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-01-polnotsennoe-hpc-v-oblake/</guid>
+      <description>&lt;p&gt;Полноценное #HPC в облаке
+&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12777/ANSYS-CFD-Sees-Scalability-to-1024-Cores-on-Microsoft-Azure.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12777/ANSYS-CFD-Sees-Scalability-to-1024-Cores-on-Microsoft-Azure.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Инфоповод по сообщению во множестве блогов: #ANSYS #CFD распараллелился почти линейно на 1024 ядра в облаке #Azure. Новость эта несет в себе сразу две морали.&lt;/p&gt;
+&lt;p&gt;Первая мораль: ANSYS начинает рассматривать Azure как дополнение к #AWS - и это очень хорошо. Конкуренция облаков - это всегда хорошо для пользователя.&lt;/p&gt;
+&lt;p&gt;Вторая мораль: если дать CFD коду нормальный интерконнект, то он полетит даже в облаке. Как я уже много раз говорил, у Microsoft в Azure есть полноценный #Infiniband с поддержкой #RDMA. Infiniband = HPC, а значит можно очень хорошо посчитать.&lt;/p&gt;
+&lt;p&gt;А еще я очень жду, когда же у AWS тоже будет интреконнект.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12777/ANSYS-CFD-Sees-Scalability-to-1024-Cores-on-Microsoft-Azure.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS CFD Sees Scalability to 1024 Cores on Microsoft Azure&lt;/a&gt;
+&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12777/ANSYS-CFD-Sees-Scalability-to-1024-Cores-on-Microsoft-Azure.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12777/ANSYS-CFD-Sees-Scalability-to-1024-Cores-on-Microsoft-Azure.aspx&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

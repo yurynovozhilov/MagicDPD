@@ -2,22 +2,97 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>КЭ on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/%D0%BA%D1%8D/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/%D0%BA%D1%8D/</link>
     <description>MagicDPD: Magic Driven Product Development! (КЭ)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Dec 2015 18:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Nov 2017 17:05:23 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/%D0%BA%D1%8D/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/%D0%BA%D1%8D/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Наконец #SIMSOLID вышел из стадии beta. И вышел он сразу в м</title>
-      <link>http://localhost:1313/posts/2015-12-16-nakonets-simsolid-vyshel-iz-stadii-beta/</link>
+      <title>#ONELAB (Open Numerical Engineering LABoratory) - готовый бесплатный кросс платформенный набор инженерного софта с открытым исходным кодом для работы с #КЭ решателями и сеточным генератором #Gmsh.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-20-onelab-open-numerical-engineering-labo/</link>
+      <pubDate>Mon, 20 Nov 2017 17:05:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-20-onelab-open-numerical-engineering-labo/</guid>
+      <description>&lt;p&gt;В комплекте есть собственный решатель #GetDP. Заявлена поддержка #OpenFOAM и #Elmer&lt;/p&gt;
+&lt;p&gt;Все это хозяйство есть под Windows, Linux, macOS, iOS (!!!) и Android (!!!).&lt;/p&gt;
+&lt;p&gt;В комплекте есть куча учебных примеров для всех областей физики.
+#opensource&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&#34;http://onelab.info/wiki/ONELAB&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://onelab.info/wiki/ONELAB&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20241116020316/http://www.onelab.info/wiki/ONELAB&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt; 🔗 ONELAB - ONELAB&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2jHnEoG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2jHnEoG&lt;/a&gt;
+&lt;del&gt;&lt;a href=&#34;http://onelab.info/wiki/ONELAB&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://onelab.info/wiki/ONELAB&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20241116020316/http://www.onelab.info/wiki/ONELAB&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CFD от FEATool</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-21-cfd-ot-featool/</link>
+      <pubDate>Mon, 21 Nov 2016 17:01:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-21-cfd-ot-featool/</guid>
+      <description>&lt;p&gt;CFD от FEATool
+&lt;a href=&#34;https://www.featool.com/tutorial/2016/11/14/Easy-Matlab-CFD-FeatFlow-external-CFD-solver-with-FEATool-integration&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/tutorial/2016/11/14/Easy-Matlab-CFD-FeatFlow-external-CFD-solver-with-FEATool-integration&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#FEATool - #КЭ код работающий в рамках #Matlab получил интеграцию с #CFD кодом #FeatFlow. Последний является КЭ кодом для решения CFD в несжимаемой постановке. Говорят, что благодаря использованию библиотеки #UMFPACK от Matlab решатель FeatFlow работает не хуже #ANSYS #CFX и #OpenFOAM.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/VSZ6o-eTlU0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/VSZ6o-eTlU0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.featool.com/tutorial/2016/11/14/Easy-Matlab-CFD-FeatFlow-external-CFD-solver-with-FEATool-integration&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FeatFlow - Fast External CFD Solver Integration with FEATool&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/VSZ6o-eTlU0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/VSZ6o-eTlU0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Что бы ботинки были по ноге</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-10-chto-by-botinki-byli-po-noge/</link>
+      <pubDate>Thu, 10 Nov 2016 17:02:37 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-10-chto-by-botinki-byli-po-noge/</guid>
+      <description>&lt;p&gt;Что бы ботинки были по ноге
+&lt;a href=&#34;http://www.3ds.com/fileadmin/PRODUCTS/SIMULIA/PDF/scc-papers/2016/numerical-foot-model-running-shoe-16.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.3ds.com/fileadmin/PRODUCTS/SIMULIA/PDF/scc-papers/2016/numerical-foot-model-running-shoe-16.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Очень интресная статья по проектированию спортивно обуви при помощи #КЭ с конференции &amp;ldquo;IN THE AGE OF EXPERIENCE&amp;rdquo; (&lt;a href=&#34;http://age-of-experience.3ds.com/science-age-of-experience%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://age-of-experience.3ds.com/science-age-of-experience)&lt;/a&gt;. Чего только не моделируют, что бы было лучше.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.3ds.com/fileadmin/PRODUCTS/SIMULIA/PDF/scc-papers/2016/numerical-foot-model-running-shoe-16.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.3ds.com/fileadmin/PRODUCTS/SIMULIA/PDF/scc-papers/2016/numerical-foot-model-running-shoe-16.pdf&lt;/a&gt;
+&lt;a href=&#34;http://age-of-experience.3ds.com/science-age-of-experience&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://age-of-experience.3ds.com/science-age-of-experience&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FE Info ACT</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-25-fe-info-act/</link>
+      <pubDate>Sun, 25 Sep 2016 12:01:51 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-25-fe-info-act/</guid>
+      <description>&lt;p&gt;FE Info ACT
+&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/video-tips-node-and-element-ids-in-ansys-mechanical&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.padtinc.com/blog/the-focus/video-tips-node-and-element-ids-in-ansys-mechanical&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;У компании PADT Inc есть очень любопытное бесплатное #ACT &amp;ldquo;FE Info&amp;rdquo; позволяющее получать низкоуровневую информацию о #КЭ сетке модели #ANSYS #Mechanical. Возможность найти элемент или узел по номеру трудно переоценить. Например, если модель &amp;ldquo;улетела&amp;rdquo; из-за плохого закрепления, то можно быстро найти &amp;ldquo;плохие&amp;rdquo; узлы визуально, ведь решатель выпишет в лог их номера. А ведь это только один пример работы с ACT, и, при том, самый простой.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/video-tips-node-and-element-ids-in-ansys-mechanical&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Video Tips: Node and Element IDs in ANSYS Mechanical&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учим языки</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-15-uchim-yazyki/</link>
+      <pubDate>Thu, 15 Sep 2016 17:01:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-15-uchim-yazyki/</guid>
+      <description>&lt;p&gt;Учим языки
+&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/new-second-edition-in-paperback-and-kindle-introduction-to-the-ansys-parametric-design-language-apdl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.padtinc.com/blog/the-focus/new-second-edition-in-paperback-and-kindle-introduction-to-the-ansys-parametric-design-language-apdl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS Parametric Design Language (#APDL) - довольно удобный язык, предназначенный для постановки задачи, описания #КЭ моделей и даже создания геометрии. Документация по нему уже есть в составе ANSYS, но если вы не готовы учиться самостоятельно, то #Padtinc опубликовали второе издание их книги посвященной APDL. На Amazon можно заказать как электронную, так и физическую копию всего за $75 - я бы такое купил, хотя бы ради украшения рабочего стола!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/new-second-edition-in-paperback-and-kindle-introduction-to-the-ansys-parametric-design-language-apdl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;New Second Edition in Paperback and Kindle: Introduction to the ANSYS Parametric Design Language (APDL)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Наконец #SIMSOLID вышел из стадии beta.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-16-nakonets-simsolid-vyshel-iz-stadii-beta/</link>
       <pubDate>Wed, 16 Dec 2015 18:00:33 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-12-16-nakonets-simsolid-vyshel-iz-stadii-beta/</guid>
-      <description>&lt;p&gt;Напомню, что SIMSOLID позиционирует себя как неявный решатель механики, для которого вам нет необходимости думать о #КЭ сетке. Якобы у них какой-то бессточный алгоритм. Ну посмотрим - посмотрим.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-16-nakonets-simsolid-vyshel-iz-stadii-beta/</guid>
+      <description>&lt;p&gt;И вышел он сразу в магазин при облачном CAD&amp;rsquo;е #Onshape.&lt;/p&gt;
+&lt;p&gt;Напомню, что SIMSOLID позиционирует себя как неявный решатель механики, для которого вам нет необходимости думать о #КЭ сетке. Якобы у них какой-то бессточный алгоритм. Ну посмотрим - посмотрим.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://simsolid.com/2015/12/onshape-app-store/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SIMSOLID is in the Onshape App Store&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

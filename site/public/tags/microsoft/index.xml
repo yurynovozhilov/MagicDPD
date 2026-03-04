@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Microsoft on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/microsoft/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/microsoft/</link>
     <description>MagicDPD: Magic Driven Product Development! (Microsoft)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Mon, 20 Aug 2018 18:01:14 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Нумерация и выравнивание формул в Word без таблиц</title>
-      <link>http://localhost:1313/posts/2018-08-20-numeratsiya-i-vyravnivanie-formul-v-word-b/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-20-numeratsiya-i-vyravnivanie-formul-v-word-b/</link>
       <pubDate>Mon, 20 Aug 2018 18:01:14 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-08-20-numeratsiya-i-vyravnivanie-formul-v-word-b/</guid>
-      <description>&lt;p&gt;Что бы вы сказали, если бы узнали, что можно нумеровать формулы в Word вручную или автоматически, не только сохраняя правильное выравнивание по центру, но и выставляя номера по правому краю?
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-20-numeratsiya-i-vyravnivanie-formul-v-word-b/</guid>
+      <description>&lt;p&gt;Нумерация и выравнивание формул в Word без таблиц
+Что бы вы сказали, если бы узнали, что можно нумеровать формулы в Word вручную или автоматически, не только сохраняя правильное выравнивание по центру, но и выставляя номера по правому краю?
 Скажу так, в последнее время я пишу много околонаучных и научных текстов с формулами и научился нескольким трюкам, существенно облегчающим жизнь в Word. Сегодня я расскажу про нумерацию формул. В рассказе будет 2 этапа: ручная и автоматическая нумерация, но обе с правильным выравниванием.
 Первый этап: задаем номер формулы вручную, но в правильном месте.&lt;/p&gt;
 &lt;p&gt;Вызываем стандартный редактор формул, нажатием кнопки &amp;ldquo;Уравнение&amp;rdquo; на ленте &amp;ldquo;Вставить&amp;rdquo;. Создаем формулу, которая вам нужна или просто временную заглушку.
@@ -39,55 +40,132 @@
 Теперь ссылку на формулу можно дать через добавление перекрестной ссылки на нужную закладку.&lt;/p&gt;
 &lt;p&gt;#Microsoft #Word #ГОСТ
 &lt;a href=&#34;http://bit.ly/2ON3Udk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2ON3Udk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2ON3Udk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2ON3Udk&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FastEngineeringAnalysis</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-04-fastengineeringanalysis/</link>
+      <pubDate>Fri, 04 Aug 2017 17:00:38 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-04-fastengineeringanalysis/</guid>
+      <description>&lt;p&gt;FastEngineeringAnalysis
+&lt;a href=&#34;https://www.fastengineeringanalysis.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.fastengineeringanalysis.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#FastEngineeringAnalysis - еще одна система для решения задач механики в браузере. Кроме традиционного #FEM с поддержкой нелинейных задач у коллег есть собственное ПО для 3D сканирования и работы с геометрией.&lt;/p&gt;
+&lt;p&gt;FastEngineeringAnalysis работает на мощностях #Microsoft #Azure. Тарификация начинается с 4-х часов использования. Обещают скорую интеграцию с #Onshape.&lt;/p&gt;
+&lt;p&gt;#cloud&lt;/p&gt;
+&lt;p&gt;P.S. Судя по демонстрационным видео на канале (&lt;a href=&#34;https://www.youtube.com/channel/UCgCxkb0Jmnt-PUdDRFZbOYA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/channel/UCgCxkb0Jmnt-PUdDRFZbOYA&lt;/a&gt;) это далеко не production ready платформа.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.fastengineeringanalysis.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.fastengineeringanalysis.com/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/channel/UCgCxkb0Jmnt-PUdDRFZbOYA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/channel/UCgCxkb0Jmnt-PUdDRFZbOYA&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Молния: LS-DYNA R10</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-17-molniya-ls-dyna-r10/</link>
+      <pubDate>Mon, 17 Jul 2017 15:43:58 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-17-molniya-ls-dyna-r10/</guid>
+      <description>&lt;p&gt;Молния: LS-DYNA R10
+&lt;a href=&#34;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;На официальном FTP компании #LSTC появилась #LSDYNA R10. Доступны бинарники для #MPP (aka #DMP)  и #SMP версии сразу подо все основные аппаратно-программные платформы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#Cray&lt;/li&gt;
+&lt;li&gt;#Intel #Itanium&lt;/li&gt;
+&lt;li&gt;#IBM #Power&lt;/li&gt;
+&lt;li&gt;#Apple #macOS&lt;/li&gt;
+&lt;li&gt;#SGI&lt;/li&gt;
+&lt;li&gt;#Microsoft #Windows&lt;/li&gt;
+&lt;li&gt;#Linux
+Получается настоящий кроссплатформенный софт!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&lt;/a&gt;
+&lt;a href=&#34;http://ftp.lstc.com/user/mpp-dyna/R10.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/mpp-dyna/R10.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;P.S. Ждем релизнотов и документацию!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&lt;/a&gt;
+&lt;a href=&#34;http://ftp.lstc.com/user/mpp-dyna/R10.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/mpp-dyna/R10.0/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Список литературы по ГОСТ</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-19-spisok-literatury-po-gost/</link>
+      <pubDate>Sun, 19 Feb 2017 12:03:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-19-spisok-literatury-po-gost/</guid>
+      <description>&lt;p&gt;Список литературы по ГОСТ
+&lt;a href=&#34;https://github.com/irandom/docs/tree/master/gost-r-7.0.5-2008&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/irandom/docs/tree/master/gost-r-7.0.5-2008&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Почему-то #Microsoft #Word упорно не хочет понимать и принимать отечественные правила форматирования научных текстов. Однако добрые люди вложили на #GitHub специальный шаблон, позволяющий делать список литературы по #ГОСТ Р 7.0.5-2008 прямо в Word - всем удачного использования при написании статей и отчетов!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/irandom/docs/tree/master/gost-r-7.0.5-2008&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;docs/gost-r-7.0.5-2008 at master · irandom/docs&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Несколько слов про доставку инженерной графики</title>
-      <link>http://localhost:1313/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</link>
       <pubDate>Thu, 29 Sep 2016 17:00:58 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</guid>
+      <description>&lt;p&gt;Несколько слов про доставку инженерной графики
+&lt;a href=&#34;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#Microsoft продолжает хвастаться новыми возможностями по работе с #GPU, которые она реализует в #Windows #Server 2016. Нас ожидает поддержка нужного #OpenGL 4.4+ как в сценариях с #RDSH, так и при построении #VDI. При этом, в качестве средства доставки будет выступать привычный и понятный #RDP, а видеопоток будет полностью аппаратно кодироваться и декодироваться на GPU сервера и клиента. Аналогичные возможности ожидаются в #Azure #Cloud.&lt;/p&gt;
 &lt;p&gt;Неужели скоро все инженеры получат достойные системы доставки инженерной графики практически за так?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;New MS Mechanics video with the latest updates to RDS for Windows Server 2016&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Молния: открыта очередь на тестирование GPU NVIDIA в облаке </title>
-      <link>http://localhost:1313/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</link>
+      <title>Молния: открыта очередь на тестирование GPU NVIDIA в облаке AZURE</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</link>
       <pubDate>Fri, 05 Aug 2016 12:30:08 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://gpu.azure.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://gpu.azure.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Вчера компания #Microsoft выдала очередной анонс запуска #GPU инстансов в #Azure. Примерно год назад компания уже писала о своих планах в блоке, но видимо разработка идет не так гладко, как хотелось бы. Сейчас, вместе с анонсом компания разместила страницу регистрации на тестирование нового продукта. Лично я уже заказал сете на тест машинку с 2-мя #NVIDIA #Tesla #K80, 224 Гб RAM и 1.5 Тб SSD.&lt;/p&gt;
 &lt;p&gt;Еще Microsoft говори о партнерстве с компанией #Teradici для использования технологии #PCoIP доставляющей удаленные рабочие столы со сложной графикой. Это немного странно для меня. Во-первых Teradici - это решение заклятого конкурента #VMWare. Во-вторых, где обещанный ранее #DDS и новый #RemoteFX с поддержкой #OpenGL 4+ (заявлено для #Windows #Server 2016)? Неужели MS отказывает использовать свои серверные операционные систем и технологии в своем же облаке?&lt;/p&gt;
 &lt;p&gt;#VDI #Cloud #HPC
 &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gpu.azure.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Virtual machine sizes overview - Azure Virtual Machines&lt;/a&gt;
+&lt;a href=&#34;http://gpu.azure.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://gpu.azure.com/&lt;/a&gt;
+&lt;a href=&#34;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Билл Ницберг (Bill Nitzberg), CEO подразделения #PBS Works к</title>
-      <link>http://localhost:1313/posts/2016-07-04-bill-nitsberg-bill-nitzberg-ceo-podraz/</link>
+      <title>Билл Ницберг (Bill Nitzberg), CEO подразделения #PBS Works компании #Altair, рассказывает про новости с #ISC 2016.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-04-bill-nitsberg-bill-nitzberg-ceo-podraz/</link>
       <pubDate>Mon, 04 Jul 2016 12:02:21 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-07-04-bill-nitsberg-bill-nitzberg-ceo-podraz/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-04-bill-nitsberg-bill-nitzberg-ceo-podraz/</guid>
       <description>&lt;p&gt;Гвоздь программы - это, естественно, открытие кода #PBS Pro. В первый же день после ананаса уже появились люди вне компании, вносящие изменения в код.&lt;/p&gt;
 &lt;p&gt;Кроме того есть еще пара новостных поводов.&lt;/p&gt;
 &lt;p&gt;PBS #Simulator позволяет на основе истории загрузки вашего кластера оптимизировать его архитектуру (например показывает какие типы узлов стоит закупить)&lt;/p&gt;
 &lt;p&gt;PBS #Cloud #Manager - система позволяющая автоматически рааричивать вычислительные кластеры на базе публичных облаков #Amazon #AWS и #Microsoft #Azure. &lt;a href=&#34;https://www.youtube.com/watch?v=nbrkpNsD4rk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nbrkpNsD4rk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nbrkpNsD4rk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;PBS Pro from Altair Goes Open Source at ISC 2016&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Это не совсем про расчеты, но это то, чем мы все скоро будем</title>
-      <link>http://localhost:1313/posts/2015-10-11-eto-ne-sovsem-pro-raschety-no-eto-to-che/</link>
+      <title>#Altair продолжает наращивать свое партнерство с #Microsoft.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-29-altair-prodolzhaet-naraschivat-svoe-partn/</link>
+      <pubDate>Mon, 29 Feb 2016 08:25:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-29-altair-prodolzhaet-naraschivat-svoe-partn/</guid>
+      <description>&lt;p&gt;#Altair продолжает наращивать свое партнерство с #Microsoft. Очередным этапом стал запуска решателя #RADDIOSS (явная динамика) на мощностях #Azure для выполнения #HPC расчетов. Надо отметить, что до этого шага Altair и Microsoft начали дружить в рамках Altair #PBS Pro - одного лидеров среди систем планирования очереди задач. И вот теперь RADDIOSS покажет всем, что такое #Infiniband в публичном облаке (а ведь он есть только у Microsoft Azure).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/blog/availability-of-altair-radioss-rdma-on-microsoft-azure/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Altair® RADIOSS® now supported on Microsoft Azure&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Это не совсем про расчеты, но это то, чем мы все скоро будем пользоваться.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-11-eto-ne-sovsem-pro-raschety-no-eto-to-che/</link>
       <pubDate>Sun, 11 Oct 2015 06:30:15 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-11-eto-ne-sovsem-pro-raschety-no-eto-to-che/</guid>
-      <description>&lt;p&gt;Лично я не могу дождаться, когда инстансы N-типа будут доступны нам - очень хочется проверить задержки при удаленной визуализации через DCV.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-11-eto-ne-sovsem-pro-raschety-no-eto-to-che/</guid>
+      <description>&lt;p&gt;Спецы рассказывают, о работе NVIDIA Tesla K80 и Quadro M60 в облако Azure. Более того, у Microsoft наконец-то появилась технология проброски физического железа в виртуальную среду под названием DDA (Discrete Devices Assignment). А если учесть, что в основе Azure находятся технологии Hyper-V, то скоро нас ждет еще и очень сильная конкурентная борьба с VMware.&lt;/p&gt;
+&lt;p&gt;Лично я не могу дождаться, когда инстансы N-типа будут доступны нам - очень хочется проверить задержки при удаленной визуализации через DCV.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/documentation/videos/azurecon-2015-applications-that-scale-using-gpu-compute/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Applications that scale using GPU Compute&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

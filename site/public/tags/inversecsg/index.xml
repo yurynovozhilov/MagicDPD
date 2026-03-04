@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>InverseCSG on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/inversecsg/</link>
+    <description>MagicDPD: Magic Driven Product Development! (InverseCSG)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 28 Jan 2019 17:00:27 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/inversecsg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>InverseCSG: как получить B-rep из STL</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-28-inversecsg-kak-poluchit-b-rep-iz-stl/</link>
+      <pubDate>Mon, 28 Jan 2019 17:00:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-28-inversecsg-kak-poluchit-b-rep-iz-stl/</guid>
+      <description>&lt;p&gt;InverseCSG: как получить B-rep из STL&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/mf7Xd6oxNrM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/mf7Xd6oxNrM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Открытый проект InverseCSG посвящен разработке алгоритма, способного не просто восстановить CAD по сеточной модели. Система, разработанная в MIT, должна уметь построить параметрическое CAD дерево операций, выполенение которого позволяет получить требуемую геометрическую форму.&lt;/p&gt;
+&lt;p&gt;Работа алгоритма проверена на тестовой выборке из 25 моделей. Показано, что код успешно восстанавливает геометрию даже при добавлении шума в исходный файл.&lt;/p&gt;
+&lt;p&gt;К сожаленю, сейчас репозиторий проекта закрыт. Надеюсь, что это просто временный сбой.&lt;/p&gt;
+&lt;p&gt;Публикация по работе кода: &lt;a href=&#34;https://people.csail.mit.edu/taodu/csg/csg.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://people.csail.mit.edu/taodu/csg/csg.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Снапшот репозитория проекта: &lt;a href=&#34;https://dl.acm.org/citation.cfm?doid=3272127.3275006&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://dl.acm.org/citation.cfm?doid=3272127.3275006&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#InverseCSG #MIT #Open_Source #Python #ReverseEngineering #STL&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2ik&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2ik&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/mf7Xd6oxNrM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/mf7Xd6oxNrM&lt;/a&gt;
+&lt;a href=&#34;https://people.csail.mit.edu/taodu/csg/csg.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://people.csail.mit.edu/taodu/csg/csg.pdf&lt;/a&gt;
+&lt;a href=&#34;https://dl.acm.org/citation.cfm?doid=3272127.3275006&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://dl.acm.org/citation.cfm?doid=3272127.3275006&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2ik&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2ik&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,59 +2,164 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LBM on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/lbm/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/lbm/</link>
     <description>MagicDPD: Magic Driven Product Development! (LBM)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 12 Apr 2023 18:00:01 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/lbm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/lbm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Как говорят разработчики, у них самое быстрое и наиболее эфф</title>
-      <link>http://localhost:1313/posts/2023-04-12-kak-govoryat-razrabotchiki-u-nih-samoe-by/</link>
+      <title>Как говорят разработчики, у них самое быстрое и наиболее эффективное с точки зрения использования памяти программное обеспечение для #CFD в постановке решетчатых уравнений Больцмана, работающее на всех #GPU через #OpenCL.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2023-04-12-kak-govoryat-razrabotchiki-u-nih-samoe-by/</link>
       <pubDate>Wed, 12 Apr 2023 18:00:01 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2023-04-12-kak-govoryat-razrabotchiki-u-nih-samoe-by/</guid>
-      <description>&lt;p&gt;#LBM #FluidX3D #opensource &lt;a href=&#34;https://github.com/ProjectPhysX/FluidX3D&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/ProjectPhysX/FluidX3D&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2023-04-12-kak-govoryat-razrabotchiki-u-nih-samoe-by/</guid>
+      <description>&lt;p&gt;А еще оно открытое и бесплатное. Интересно, как там с физикой дела.&lt;/p&gt;
+&lt;p&gt;#LBM #FluidX3D #opensource &lt;a href=&#34;https://github.com/ProjectPhysX/FluidX3D&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/ProjectPhysX/FluidX3D&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ProjectPhysX/FluidX3D&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/ProjectPhysX/FluidX3D&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#FluidX3D - это программное обеспечение для #CFD моделирования методом решетчатых уравнений Больцмана #LBM.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-07-04-fluidx3d-eto-programmnoe-obespechenie/</link>
+      <pubDate>Mon, 04 Jul 2022 16:22:01 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-07-04-fluidx3d-eto-programmnoe-obespechenie/</guid>
+      <description>&lt;p&gt;Решение идет &amp;ldquo;в реальном времени&amp;rdquo; благодаря использованию мощностей #GPU через #OpenCL.&lt;/p&gt;
+&lt;p&gt;В качестве примера работы кода автор предлагает расчет внешней аэродинамики Боинга 747 на числах Рейнольдса Re=50k.  Разрешение модели 912×1824×456, 100k временных шагов, время вычисления+рендеринга 6.5 часов #Nvidia #A100 40GB GPU. &lt;a href=&#34;https://www.youtube.com/watch?v=zp6tgdN9EBY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=zp6tgdN9EBY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=zp6tgdN9EBY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=zp6tgdN9EBY&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Лекция про Метод решеточных уравнений Больцмана (lattice Boltzmann method, #LBM) от блога #FEAforALL.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-25-lektsiya-pro-metod-reshetochnyh-uravneniy-bo/</link>
+      <pubDate>Fri, 25 Feb 2022 17:00:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-25-lektsiya-pro-metod-reshetochnyh-uravneniy-bo/</guid>
+      <description>&lt;p&gt;Лекция тут не про большое количество странных формул, а про физический смысл и применимость метода к решению различных задач.&lt;/p&gt;
+&lt;p&gt;#CFD &lt;a href=&#34;https://www.youtube.com/watch?v=JKQ0XdjLo7M&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=JKQ0XdjLo7M&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=JKQ0XdjLo7M&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=JKQ0XdjLo7M&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Введение в метод решёточных уравнений Больцмана</title>
-      <link>http://localhost:1313/posts/2022-01-03-vvedenie-v-metod-reshetochnyh-uravneniy-bo/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-03-vvedenie-v-metod-reshetochnyh-uravneniy-bo/</link>
       <pubDate>Mon, 03 Jan 2022 19:57:59 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-01-03-vvedenie-v-metod-reshetochnyh-uravneniy-bo/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/jfk4feD7rFQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/jfk4feD7rFQ&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-03-vvedenie-v-metod-reshetochnyh-uravneniy-bo/</guid>
+      <description>&lt;p&gt;Введение в метод решёточных уравнений Больцмана&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/jfk4feD7rFQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/jfk4feD7rFQ&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Вводный курс по LBM (Lattice Boltzmann Method) от Тимма Крюгера. Доклад является частью Летней школы ESPResSo 2020, курса о пакете моделирования ESPResSo.
 #CFD #ESPResSo #LBM
+&lt;a href=&#34;https://tinyurl.com/y6qobumf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y6qobumf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/jfk4feD7rFQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Introduction to Lattice Boltzmann Method&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/y6qobumf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y6qobumf&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>OpenLB - Open Source Lattice Boltzmann Code</title>
-      <link>http://localhost:1313/posts/2021-02-02-openlb-open-source-lattice-boltzmann-c/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-02-openlb-open-source-lattice-boltzmann-c/</link>
       <pubDate>Tue, 02 Feb 2021 14:01:35 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-02-02-openlb-open-source-lattice-boltzmann-c/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1hgP7vXmfPw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=1hgP7vXmfPw&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-02-openlb-open-source-lattice-boltzmann-c/</guid>
+      <description>&lt;p&gt;OpenLB - Open Source Lattice Boltzmann Code
+&lt;a href=&#34;https://www.youtube.com/watch?v=1hgP7vXmfPw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=1hgP7vXmfPw&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;OpenLB - это открытая реализация CFD решателя на основе метода решёточных уравнений Больцмана. Реализация написана на C++, и6 по заявлениям авторов, снабжена хорошими комментариями. Сайт проекта &lt;a href=&#34;https://www.openlb.net&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.openlb.net&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=rEHNU8f0lW4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=rEHNU8f0lW4&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=y454jlGk5b4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=y454jlGk5b4&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#cfd #lattice_boltzmann #lbm #open_source #openlb
 &lt;a href=&#34;https://tinyurl.com/y5np6cch&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y5np6cch&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1hgP7vXmfPw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Turbulent Fluid Flows with LBM - Taylor Green Vortex 3D - Simulation in Process Engineering&lt;/a&gt;
+&lt;a href=&#34;http://www.openlb.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.openlb.net/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=rEHNU8f0lW4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=rEHNU8f0lW4&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=y454jlGk5b4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=y454jlGk5b4&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/y5np6cch&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y5np6cch&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Компания Metariver Technology co., ltd (http://www.metariver</title>
-      <link>http://localhost:1313/posts/2017-11-26-kompaniya-metariver-technology-co-ltd/</link>
+      <title>CFD кластер на Android</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-03-cfd-klaster-na-android/</link>
+      <pubDate>Fri, 03 May 2019 17:00:15 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-03-cfd-klaster-na-android/</guid>
+      <description>&lt;p&gt;CFD кластер на Android&lt;/p&gt;
+&lt;p&gt;Третий день кряду я говорю про мобильную операционную систему Android. Сегодня темой дня стала система для распределённого решения задач гидродинамики.&lt;/p&gt;
+&lt;p&gt;Причем расчет идет не просто на мобильных устройствах, а на их GPU! А задачу решают при помощи решетчатых уравнений Больцмана.&lt;/p&gt;
+&lt;p&gt;Ссылки на научные статьи тут: &lt;del&gt;&lt;a href=&#34;https://www.adriantheengineer.co.uk/single-post/2019/04/22/Article-Trilogy-Interactive-Simulation-on-Mobile-Devices&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.adriantheengineer.co.uk/single-post/2019/04/22/Article-Trilogy-Interactive-Simulation-on-Mobile-Devices&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20200927235314/https://www.adriantheengineer.co.uk/single-post/2019/04/22/Article-Trilogy-Interactive-Simulation-on-Mobile-Devices&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;#Android #CFD #HPC #LBM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2uS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2uS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&#34;https://www.adriantheengineer.co.uk/single-post/2019/04/22/Article-Trilogy-Interactive-Simulation-on-Mobile-Devices&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.adriantheengineer.co.uk/single-post/2019/04/22/Article-Trilogy-Interactive-Simulation-on-Mobile-Devices&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20200927235314/https://www.adriantheengineer.co.uk/single-post/2019/04/22/Article-Trilogy-Interactive-Simulation-on-Mobile-Devices&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2uS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2uS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Расчет ветровой нагрузки на Burj Khalifa</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-27-raschet-vetrovoy-nagruzki-na-burj-khalifa/</link>
+      <pubDate>Sun, 27 Jan 2019 19:20:28 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-27-raschet-vetrovoy-nagruzki-na-burj-khalifa/</guid>
+      <description>&lt;p&gt;Расчет ветровой нагрузки на Burj Khalifa&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/6BTmFMNrHhM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/6BTmFMNrHhM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Первый засветившийся учебный пример, показывающий работу нового CFD решателя в составе облачной платформы SimScale. Напомню, что в начале этого года SimScale открыл для использования новый специально для них написанный код на основе решеточных уравнений Больцмана. Код носит название Pacefish и отлично подходит для решения нестационарных задач со сложной геометрией.&lt;/p&gt;
+&lt;p&gt;#CFD #LBM #Simscale&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2ih&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2ih&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/6BTmFMNrHhM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/6BTmFMNrHhM&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2ih&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2ih&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pacefish от SimScale</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-14-pacefish-ot-simscale/</link>
+      <pubDate>Mon, 14 Jan 2019 17:00:25 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-14-pacefish-ot-simscale/</guid>
+      <description>&lt;p&gt;Pacefish от SimScale&lt;/p&gt;
+&lt;p&gt;Начало этого года отметилось очень интересной новостью от SimScale. Коллеги из области облачных вычислений рассказали про их новую разработу — CFD решатель Pacefish.&lt;/p&gt;
+&lt;p&gt;Данный решатель специально разработан компанией Numeric Systems GmbH для SimScale — раньше SimScale пользовались общедоступными открытыми решателями. Pacefish — это CFD решатель на основе метода решёточных уравнений Больцмана (Lattice Boltzmann methods, LBM), а значит хорошо параллелиться на GPU, не требует подготовки сетки, подходит для сложной/подвижной геометрии и быстро считает нестационарные задачи.&lt;/p&gt;
+&lt;p&gt;На головном сайте компании уже крутиться шикарное демо видео работы решателя!
+Ссылка для доступа к запись первого вебинара по теме: https://www.simscale.com/webinars-workshops/lbm-flow-solver/
+#CFD #cloud #GPU #LBM #Simscale&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2fn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2fn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.simscale.com/webinars-workshops/lbm-flow-solver/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.simscale.com/webinars-workshops/lbm-flow-solver/&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2fn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2fn&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Altair покупает FluiDyna</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-20-altair-pokupaet-fluidyna/</link>
+      <pubDate>Sun, 20 May 2018 18:01:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-20-altair-pokupaet-fluidyna/</guid>
+      <description>&lt;p&gt;Altair покупает FluiDyna&lt;/p&gt;
+&lt;p&gt;Altair объявил о покупке компании German Computation Fluid Dynamics, разработчика кодов FluiDyna ultraFluidX и FluiDyna nanoFluidX. Данные CFD коды уже давно входят в список партнерского ПО для Altair, а их разработчики получают соответствующие инвестиции.
+CFD решатели примечательны тем, что являются бессеточными. ultraFluidX — это решеточные уравнения Больцмана, а nanoFluidX — очень умный SPH. Соответсвенно, оба кода заточены на моделирование процессов с большим количеством подвижных границ и FSI. Также оба кода отлично подходят для работы на GPU NVIDIA.
+&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16931/Altair-Acquires-GPU-Accelerated-CFD-Company.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16931/Altair-Acquires-GPU-Accelerated-CFD-Company.aspx&lt;/a&gt;
+#Altair #Boltzmann #CFD #FluiDyna #FSI #GPU #LBM #nanoFluidX #NVIDIA #SPH #ultraFluidX&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1QY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1QY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16931/Altair-Acquires-GPU-Accelerated-CFD-Company.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Altair Acquires GPU-Accelerated CFD Company&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-1QY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1QY&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Компания Metariver Technology co., ltd (http://www.metariver.kr) специлизируется на создани #CAE софта #samadii максмально использующего возможности библиотеки #CUDA и графический чипов #NVIDIA.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-26-kompaniya-metariver-technology-co-ltd/</link>
       <pubDate>Sun, 26 Nov 2017 17:09:23 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-26-kompaniya-metariver-technology-co-ltd/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-26-kompaniya-metariver-technology-co-ltd/</guid>
       <description>&lt;p&gt;Сейчас у них есть:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;samadii/sciv (Statistical Contact in Vacuum) - моделирование процессов в вакуумных приборах методом Monte Carlo&lt;/li&gt;
@@ -66,38 +171,119 @@
 &lt;p&gt;#HPC
 &lt;a href=&#34;https://youtu.be/xXG3JbT0AQkMediaMediaMediaMedia&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/xXG3JbT0AQkMediaMediaMediaMedia&lt;/a&gt;📼 samadii, Metariver Technology&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ift.tt/2i8z0RZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i8z0RZ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.metariver.kr/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.metariver.kr/&lt;/a&gt;
+&lt;a href=&#34;http://www.metariver.kr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.metariver.kr&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vdfLMH&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vdfLMH&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2k1zPg6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2k1zPg6&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wlSEjf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wlSEjf&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wLNTgc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wLNTgc&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2w8Jaqb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2w8Jaqb&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2v2FNSC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2v2FNSC&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xHbRIl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xHbRIl&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2emhAvW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2emhAvW&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/xXG3JbT0AQk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/xXG3JbT0AQk&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2i75L2f&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i75L2f&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2k1A8HM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2k1A8HM&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2i8fQvv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i8fQvv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2k1JqmW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2k1JqmW&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2i8z0RZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i8z0RZ&lt;/a&gt;
+ttp://ift.tt/2i8z0RZ&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Lat-Net: Compressing Lattice Boltzmann Flow Simulations usin</title>
-      <link>http://localhost:1313/posts/2017-11-21-lat-net-compressing-lattice-boltzmann-f/</link>
+      <title>Lat-Net: Compressing Lattice Boltzmann Flow Simulations using Deep Neural Networks - такое интересное название носит #opensource проект, про который я пишу сегодня.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-21-lat-net-compressing-lattice-boltzmann-f/</link>
       <pubDate>Tue, 21 Nov 2017 17:10:14 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-21-lat-net-compressing-lattice-boltzmann-f/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-21-lat-net-compressing-lattice-boltzmann-f/</guid>
       <description>&lt;p&gt;Суть проекта заключается в подмене #CFD расчета методом #Lattice #Boltzmann на нейронную сеть. Причем, если верить авторам, то натренировав нейрону на грубой &amp;ldquo;сетке&amp;rdquo; можно надеются на достаточно точный расчет на мелкой &amp;ldquo;сетке&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;Это конечно не супер точный #CFD подход, но зато можно быстро получить оценочное решение вашей задачи экономя ресурсы.&lt;/p&gt;
 &lt;p&gt;#Python #machinelearning #LBM&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/loliverhennigh/Phy-Net&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/loliverhennigh/Phy-Net&lt;/a&gt; 🔗 loliverhennigh/Phy-Net&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2wPpoid&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wPpoid&lt;/a&gt;
+&lt;a href=&#34;https://github.com/loliverhennigh/Phy-Net&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/loliverhennigh/Phy-Net&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Статья на тему того, как Fiat Chrysler Automobiles снизила к</title>
-      <link>http://localhost:1313/posts/2015-10-19-statya-na-temu-togo-kak-fiat-chrysler-a/</link>
-      <pubDate>Mon, 19 Oct 2015 18:00:56 +0000</pubDate>
+      <title>#Palabos - бесплатный #CFD решатель методом #LBM.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-19-palabos-besplatnyy-cfd-reshatel-meto/</link>
+      <pubDate>Sun, 19 Nov 2017 12:10:08 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-19-statya-na-temu-togo-kak-fiat-chrysler-a/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-19-palabos-besplatnyy-cfd-reshatel-meto/</guid>
+      <description>&lt;p&gt;Разработчики даже сравнивают его по точности в #ANSYS #CFX, правда на не очень хорошей сетке.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.palabos.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.palabos.org&lt;/a&gt;MediaMedia🔗 Home&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2j5SEup&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2j5SEup&lt;/a&gt;
+&lt;a href=&#34;http://www.palabos.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.palabos.org/&lt;/a&gt;
+&lt;a href=&#34;http://www.palabos.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.palabos.org/&lt;/a&gt;
+&lt;a href=&#34;http://www.palabos.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.palabos.org&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Для начала рабочей недели небольшой ликбез по методу решёточ</title>
-      <link>http://localhost:1313/posts/2015-10-19-dlya-nachala-rabochey-nedeli-nebolshoy-likb/</link>
+      <title>Сегодня на ужин у нас #ProLB - #CFD код на основе метода частиц Больцмана (aka методы решёточных уравнений Больцмана, #Lattice #Boltzmann methods, #LBM).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-15-segodnya-na-uzhin-u-nas-prolb-cfd-kod/</link>
+      <pubDate>Sun, 15 Oct 2017 17:11:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-15-segodnya-na-uzhin-u-nas-prolb-cfd-kod/</guid>
+      <description>&lt;p&gt;Просто еще одни не сильно известный (как, например, #XFlow) игрок в этой области CFD.&lt;/p&gt;
+&lt;p&gt;Интересно, кто про него слышал вообще? Даже на YouTube нет ни одного видео по теме.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.prolb-cfd.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.prolb-cfd.com&lt;/a&gt; 🔗 High-fidelity lattice Boltzmann CFD simulations | ProLB&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2xHdk11&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xHdk11&lt;/a&gt;
+&lt;a href=&#34;http://www.prolb-cfd.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.prolb-cfd.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dassault Systèmes купил XFlow</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-09-dassault-syst%C3%A8mes-kupil-xflow/</link>
+      <pubDate>Fri, 09 Dec 2016 17:00:30 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-09-dassault-syst%C3%A8mes-kupil-xflow/</guid>
+      <description>&lt;p&gt;Dassault Systèmes купил XFlow
+&lt;a href=&#34;http://www.develop3d.com/blog/dassault-systemes-acquires-next-limit-dynamics-for-further-cfd-simulation-e&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.develop3d.com/blog/dassault-systemes-acquires-next-limit-dynamics-for-further-cfd-simulation-e&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Компания #Dassault Systèmes, имеющая в своем портфолио такие #CAD, как #CATIA и #SolidWorks, а так же убер механический решатель #Abaqus и много еще чего полезного прикупил себе компанию Next Limit Dynamics.&lt;/p&gt;
+&lt;p&gt;Next Limit Dynamics, в свою очередь, знаменита благодаря своему детищу - #XFlow - #CFD решателю использующему модифицированный метод решёточных уравнений Больцмана (Lattice #Boltzmann Method, #LBM, &lt;a href=&#34;https://habrahabr.ru/post/190552/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://habrahabr.ru/post/190552/)&lt;/a&gt;. Данный бесстоечный метод позволяет XFlow с невероятной легкостью решать задачи со сложной и/или подвижной геометрией.&lt;/p&gt;
+&lt;p&gt;P.S. А еще у XFlow ну очень красивый и эффектный постпроцессор.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=wtGa0EDLLW0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=wtGa0EDLLW0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.develop3d.com/blog/dassault-systemes-acquires-next-limit-dynamics-for-further-cfd-simulation-e&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DEVELOP3D blog - Dassault Systèmes acquires Next Limit Dynamics for further CFD simulation expertise&lt;/a&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/190552/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://habrahabr.ru/post/190552/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=wtGa0EDLLW0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=wtGa0EDLLW0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Давольно уже старый, но все еще интересный вебинар #Xflow посвященный работе их бессеточного #CFD решателя.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-22-davolno-uzhe-staryy-no-vse-esche-interesn/</link>
+      <pubDate>Thu, 22 Oct 2015 18:01:42 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-22-davolno-uzhe-staryy-no-vse-esche-interesn/</guid>
+      <description>&lt;p&gt;Сей чудесный решатель использует методе решёточных уравнений Больцмана (Lattice Boltzmann Method, #LBM). Насколько я помню, это был один из первых, если не первый подобный решатель.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=k-iH3k7nB5U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Webinar- Aerodynamic With LBM: AIAA High Lift Prediction Workshops&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Статья на тему того, как Fiat Chrysler Automobiles снизила коэффициент лобового сопротивления Chrysler 200 на 20% используя CFD код PowerFLOW от Exa Corporation.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-19-statya-na-temu-togo-kak-fiat-chrysler-a/</link>
+      <pubDate>Mon, 19 Oct 2015 18:00:56 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-19-statya-na-temu-togo-kak-fiat-chrysler-a/</guid>
+      <description>&lt;p&gt;Интересно, что PowerFLOW базируется на методе решёточных уравнений Больцмана (Lattice Boltzmann Method, LBM), про которые я писал ранее.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/10809/Reducing-Drag-Coefficient-by-Over-20-Percent-with-Simulation.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt; Reducing Drag Coefficient by Over 20 Percent with Simulation &amp;gt; ENGINEERING.com &lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Для начала рабочей недели небольшой ликбез по методу решёточных уравнений Больцмана (Lattice Boltzmann Method, LBM).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-19-dlya-nachala-rabochey-nedeli-nebolshoy-likb/</link>
       <pubDate>Mon, 19 Oct 2015 07:30:39 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-19-dlya-nachala-rabochey-nedeli-nebolshoy-likb/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-19-dlya-nachala-rabochey-nedeli-nebolshoy-likb/</guid>
+      <description>&lt;p&gt;Позднее пригодится.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://habrahabr.ru/post/190552/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Моделирование гидродинамики: Lattice Boltzmann Method&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

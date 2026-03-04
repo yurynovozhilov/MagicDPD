@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DEP on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/dep/</link>
+    <description>MagicDPD: Magic Driven Product Development! (DEP)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 31 Aug 2021 13:01:52 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/dep/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MeshWorks 2021</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-08-31-meshworks-2021/</link>
+      <pubDate>Tue, 31 Aug 2021 13:01:52 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-08-31-meshworks-2021/</guid>
+      <description>&lt;p&gt;MeshWorks 2021&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=diSbxL1Ds_k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=diSbxL1Ds_k&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Обзор новых возможностей независимого сеточного генератора MeshWorks версии 2021 от компании Detroit Engineered Products USA. По тем материалам, что я видел, этот инструмент является самым мощным промышленным генераторам для объемных (не оболочечных) сеток. Я понимаю, что пока не попробуешь - не узнаешь, но пока это мой фаворит.&lt;/p&gt;
+&lt;p&gt;#all-hex #dep #mesh #meshworks
+&lt;a href=&#34;https://tinyurl.com/yjd29cvc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yjd29cvc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=diSbxL1Ds_k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Innovative Hex Meshing Functions In Finite Element Analysis For Complex Model Simulations&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yjd29cvc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yjd29cvc&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Генерация HEX сеток в MeshWorks</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-27-generatsiya-hex-setok-v-meshworks/</link>
+      <pubDate>Thu, 27 Dec 2018 17:00:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-27-generatsiya-hex-setok-v-meshworks/</guid>
+      <description>&lt;p&gt;Генерация HEX сеток в MeshWorks&lt;/p&gt;
+&lt;p&gt;Небольшая выдержка из вебинара DEP (Detroit Engineered Products) по генерации hex сеток в их препроцессоре MeshWorks.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=2HXT-G4yAiU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=2HXT-G4yAiU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Определенно, я буду тестировать эту систему в следующем году. Сейчас я не знаю другого инструмента, который хотя бы на бумаге мог делать такое преобразование Shell to Solid. Я, конечно, могу сделать что-то подобное в ANSYS Composite PrepPost, но там это будет сильно дольше.&lt;/p&gt;
+&lt;p&gt;#ACP #DEP #Mesh #MeshWorks
+&lt;a href=&#34;http://bit.ly/2Q8IXtT&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Q8IXtT&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=2HXT-G4yAiU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Hexa Meshing using MeshWorks&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2Q8IXtT&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Q8IXtT&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сеточный генератор MeshWorks от DEP</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-20-setochnyy-generator-meshworks-ot-dep/</link>
+      <pubDate>Tue, 20 Nov 2018 17:01:10 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-20-setochnyy-generator-meshworks-ot-dep/</guid>
+      <description>&lt;p&gt;Сеточный генератор MeshWorks от DEP
+Сегодня я хочу познакомить вас с разработкой компании Detroit Engineered Products USA - препроцессором и сеточным генератором MeshWorks. И знакомство мы начнем с самого свежего вебинара компании, посвященного генерации сетки на твердотельной геометрии.&lt;/p&gt;
+&lt;p&gt;Ну что я могу сказать: добрую половину времени я смотрел данную запись с открым ртом. Такой низкоуровневой работы с сетками для объемных тел я не припомню. Особенно круто выглядят функции &amp;ldquo;выпиливания отверстий&amp;rdquo; у уже готовой хорошей sweep сетки, нормальное превращение shell сетки в solid без скошенных элементов в углах, и, конечно, умное проецирование/подгонка hex сетки под заданные границы поверхности.
+Я думаю, что в моем списке сеточных генераторов на попробовать MeshWorks прочно занимает первое место.
+P.S. Мне одному кажется, что логотип компании очень здорово перекликается со стилем первого фильма Robocop?&lt;/p&gt;
+&lt;p&gt;#DEP #Mesh #MeshWorks
+&lt;a href=&#34;http://bit.ly/2S1e8IP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2S1e8IP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2S1e8IP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2S1e8IP&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,98 +2,474 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fluent on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/fluent/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/fluent/</link>
     <description>MagicDPD: Magic Driven Product Development! (Fluent)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 14 Apr 2022 17:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Oct 2022 19:00:02 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/fluent/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/fluent/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Вчера #Ansys купил себе #OnScale, и я расскажу почему это ва</title>
-      <link>http://localhost:1313/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</link>
-      <pubDate>Thu, 14 Apr 2022 17:00:07 +0000</pubDate>
+      <title>Нашелся в сети очень интересный документ - лучшие практики применения модели турбулентности #GEKO, сравнительно недавно внедренной в #Ansys #Fluent. Но самое интересное и приятное в данном документе - это список его авторов. Наряду с Флорианом Ментером, главным по всей разработке #CFD в Ansys, автором документа является Алексей Матюшенко, выпускник кафедры ГАД, Питерского Политеха и действующий научный сотрудник лаборатории #NTS. Горжусь знакомством!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-10-04-nashelsya-v-seti-ochen-interesnyy-dokument/</link>
+      <pubDate>Tue, 04 Oct 2022 19:00:02 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</guid>
-      <description>&lt;p&gt;Итак, компания OnScale делала одноименную независимую платформу для  КЭ расчетов в облаке. Идея у них была очень похоже на успешный проект SimScale. Однако, SimScale использовал внутри себя #opensource коды для расчетов, а OnScale решили писать все свое. Кажется, что они просто не оценили трудоемкости написания хороших решателей, вот WebUI вышел вполне себе нормальный.&lt;/p&gt;
-&lt;p&gt;Теперь их покупает Ansys, который идет в облако всеми возможными путями. У них, как и всех конкурентов, есть облачные лицензии. У них есть облачные #HPC партнеры в лице #AWS и #Azure. Есть встроенные возможности из классических приложений посылать задачи на расчет в облако. А вот полноценного #WebUI для работы с решателями не было - всегда были какие-то средства доставки классических дестопных приложений и рабочих столов Windows/Linux систем. И тут мы видим, что OnScale становиться последним кусочком мозаики полноценного облачного решения от Ansys.&lt;/p&gt;
-&lt;p&gt;Я думаю, что в ближайшие 5 лет мы сможем увидеть новые Web версии #Fluent, #Mechanical #HFSS, которые больше не будут требовать установки дистрибутива с 5 DVD дисков, а полноценно будет работать в глобальном или корпоративном облаке.&lt;/p&gt;
-&lt;p&gt;#cloud #opensource #HPC &lt;a href=&#34;https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-10-04-nashelsya-v-seti-ochen-interesnyy-dokument/</guid>
+      <description>&lt;p&gt;#turbulence #SPBSPU &lt;a href=&#34;https://www.ansys.com/resource-center/technical-paper/best-practice-geko-turbulence-modeling-in-ansys-cfd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/resource-center/technical-paper/best-practice-geko-turbulence-modeling-in-ansys-cfd&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys.com/resource-center/technical-paper/best-practice-geko-turbulence-modeling-in-ansys-cfd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/resource-center/technical-paper/best-practice-geko-turbulence-modeling-in-ansys-cfd&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>#МАГАТЭ расскажет, как использовать #CFD коды для расчетов #</title>
-      <link>http://localhost:1313/posts/2022-04-07-magate-rasskazhet-kak-ispolzovat-cfd/</link>
+      <title>А вот новость этого года про использование #GPU для #CFD расчетов в #Fluent. В версии #Ansys 2022 R1 завезли beta версию, как я называю &#34;второго поколения&#34; CFD-GPU решателя, который получил название &#34;Ansys Multi-GPU Solver&#34;. Данный решатель пока работает не для вех бесчисленных классов задач, решаемых Fluent. Но, вот для задач внешней аэродинамики, производительность решателя просто взлетает в космос!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-22-a-vot-novost-etogo-goda-pro-ispolzovan/</link>
+      <pubDate>Fri, 22 Apr 2022 17:00:10 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-22-a-vot-novost-etogo-goda-pro-ispolzovan/</guid>
+      <description>&lt;p&gt;Одна карта #NVIDIA #A100 дает производительность, соизмеримую с 272 процессорными ядрами #Intel #Xeon #Gold 6242!&lt;/p&gt;
+&lt;p&gt;Новый решатель позволяет одновременно:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;снизить стоимость используемого железа до 7 раз&lt;/li&gt;
+&lt;li&gt;снизить потребление электроэнергии вычислительной системой до 4 раза&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;А если учесть, что решатели Ansys традиционно лицензируется так, что стоимость задействования 1 процессорного ядра эквивалентна стоимости задействования 1 карты NVIDIA A100, то цена требуемых для #HPC расчетов лицензий с новым &amp;ldquo;Ansys Multi-GPU Solver&amp;rdquo; оказывается если не в сотни, то в десятки раз ниже! &lt;a href=&#34;https://www.ansys.com/blog/unleashing-the-power-of-multiple-gpus-for-cfd-simulations&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/blog/unleashing-the-power-of-multiple-gpus-for-cfd-simulations&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys.com/blog/unleashing-the-power-of-multiple-gpus-for-cfd-simulations&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Unleashing the Power of Multiple GPUs for CFD Simulations&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Для меня стало большой новостью, что только в этом году компания #Siemens таки смогла завести поддержку #GPU от #NVIDIA в свой флагманский #CFD решатель #Simcenter #STARCCM&#43; 2022.1. Стоит отметить, что у основного конкурента - #Ansys #Fluent поддержка GPU появилась чуть ли не 5 лет назад. Так что я как-то в замешательстве, как так получилось?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-21-dlya-menya-stalo-bolshoy-novostyu-chto-tol/</link>
+      <pubDate>Thu, 21 Apr 2022 17:00:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-21-dlya-menya-stalo-bolshoy-novostyu-chto-tol/</guid>
+      <description>&lt;p&gt;#HPC &lt;a href=&#34;https://www.plm.automation.siemens.com/global/ru/our-story/newsroom/simcenter-star-ccm-cfd-gpu-nvidia/105875&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.plm.automation.siemens.com/global/ru/our-story/newsroom/simcenter-star-ccm-cfd-gpu-nvidia/105875&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.plm.automation.siemens.com/global/ru/our-story/newsroom/simcenter-star-ccm-cfd-gpu-nvidia/105875&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.plm.automation.siemens.com/global/ru/our-story/newsroom/simcenter-star-ccm-cfd-gpu-nvidia/105875&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вчера #Ansys купил себе #OnScale, и я расскажу почему это важно.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</link>
+      <pubDate>Thu, 14 Apr 2022 17:00:07 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</guid>
+      <description>&lt;p&gt;Итак, компания OnScale делала одноименную независимую платформу для  КЭ расчетов в облаке. Идея у них была очень похоже на успешный проект SimScale. Однако, SimScale использовал внутри себя #opensource коды для расчетов, а OnScale решили писать все свое. Кажется, что они просто не оценили трудоемкости написания хороших решателей, вот WebUI вышел вполне себе нормальный.&lt;/p&gt;
+&lt;p&gt;Теперь их покупает Ansys, который идет в облако всеми возможными путями. У них, как и всех конкурентов, есть облачные лицензии. У них есть облачные #HPC партнеры в лице #AWS и #Azure. Есть встроенные возможности из классических приложений посылать задачи на расчет в облако. А вот полноценного #WebUI для работы с решателями не было - всегда были какие-то средства доставки классических дестопных приложений и рабочих столов Windows/Linux систем. И тут мы видим, что OnScale становиться последним кусочком мозаики полноценного облачного решения от Ansys.&lt;/p&gt;
+&lt;p&gt;Я думаю, что в ближайшие 5 лет мы сможем увидеть новые Web версии #Fluent, #Mechanical #HFSS, которые больше не будут требовать установки дистрибутива с 5 DVD дисков, а полноценно будет работать в глобальном или корпоративном облаке.&lt;/p&gt;
+&lt;p&gt;#cloud #opensource #HPC &lt;a href=&#34;https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys to Expand Cloud Portfolio with Technology from Acquisition of OnScale&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#МАГАТЭ расскажет, как использовать #CFD коды для расчетов #АЭС в 2022 году!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-07-magate-rasskazhet-kak-ispolzovat-cfd/</link>
       <pubDate>Thu, 07 Apr 2022 17:00:14 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-04-07-magate-rasskazhet-kak-ispolzovat-cfd/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-07-magate-rasskazhet-kak-ispolzovat-cfd/</guid>
       <description>&lt;p&gt;В данной публикации представлены результаты координируемого МАГАТЭ исследовательского проекта (CRP) по применению кодов вычислительной гидродинамики (CFD) для проектирования атомных электростанций. Основная цель заключалась в сравнении CFD-кодов, вариантов моделей и методов с экспериментальными данными CFD в условиях однофазного потока. В данной публикации обобщены текущие возможности и способы применения CFD-кодов, а также их текущий уровень квалификации в отношении требований к проектированию атомных электростанций. Она не претендует на всеобъемлющий характер, а сосредоточена на международном опыте практического применения этих инструментов при проектировании компонентов и систем атомных электростанций. Руководство в данной публикации основано на материалах, предоставленных международными экспертами атомной промышленности, непосредственно участвующими в вопросах проектирования атомных электростанций, применения CFD, а также в соответствующих экспериментах и валидации, выделенных в ходе CRP.&lt;/p&gt;
 &lt;p&gt;Чаще всего упоминаются наши любимые коды: #Ansys #Fluent и #CFX, #Siemens #StarCCM+, #OpenFOAM &lt;a href=&#34;https://www.iaea.org/publications/14718/summary-review-on-the-application-of-computational-fluid-dynamics-in-nuclear-power-plant-design&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.iaea.org/publications/14718/summary-review-on-the-application-of-computational-fluid-dynamics-in-nuclear-power-plant-design&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.iaea.org/publications/14718/summary-review-on-the-application-of-computational-fluid-dynamics-in-nuclear-power-plant-design&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Summary Review on the Application of Computational Fluid Dynamics in Nuclear Power Plant Design&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>11 января 2022 года в 18:00 по Москве #DRD Technology Corporation проведет вебинар по моделированию смазки зубчатых передач.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-07-11-yanvarya-2022-goda-v-1800-po-moskve-d/</link>
+      <pubDate>Fri, 07 Jan 2022 16:00:39 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-07-11-yanvarya-2022-goda-v-1800-po-moskve-d/</guid>
+      <description>&lt;p&gt;В ходе обзора будут сравниваться два основных подхода: #CFD #VOF (#Ansys #Fluent) и #SPH (#Ansys #LSDYNA).
+Стоит иметь в виду, что DRD Technology Corporation занимается консалтингом и внедрением инструментов математического моделирования Ansys c 1989 года.
+Я думаю, что быстрее будет LS-DYNA, а точнее - Fluent. &lt;a href=&#34;https://www.youtube.com/watch?v=9MWXCk7gBXo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=9MWXCk7gBXo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=9MWXCk7gBXo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=9MWXCk7gBXo&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Динамические сетки в Ansys Fluent</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-07-29-dinamicheskie-setki-v-ansys-fluent/</link>
+      <pubDate>Wed, 29 Jul 2020 13:32:34 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-07-29-dinamicheskie-setki-v-ansys-fluent/</guid>
+      <description>&lt;p&gt;Динамические сетки в Ansys Fluent&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/ansys-fluent-dynamic-mesh-problem/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Динамические сетки в Ansys Fluent - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Расчет конвекции во Fluent</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-07-13-raschet-konvektsii-vo-fluent/</link>
+      <pubDate>Mon, 13 Jul 2020 13:00:47 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-07-13-raschet-konvektsii-vo-fluent/</guid>
+      <description>&lt;p&gt;Расчет конвекции во Fluent
+#ANSYS #CFD #Fluent
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/convection-in-fluent/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Расчет конвекции во Fluent - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Теплообменник во Fluent</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-02-25-teploobmennik-vo-fluent/</link>
+      <pubDate>Tue, 25 Feb 2020 13:00:49 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-02-25-teploobmennik-vo-fluent/</guid>
+      <description>&lt;p&gt;Теплообменник во Fluent
+#ANSYS #Fluent
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/fluent-heat-transfer/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Теплообменник во Fluent - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FSAE Car CFD</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-01-28-fsae-car-cfd/</link>
+      <pubDate>Tue, 28 Jan 2020 13:01:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-01-28-fsae-car-cfd/</guid>
+      <description>&lt;p&gt;FSAE Car CFD&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/fsae-car-cfd/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FSAE Car CFD - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS x Particleworks</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-01-27-ansys-x-particleworks/</link>
+      <pubDate>Mon, 27 Jan 2020 13:00:24 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-01-27-ansys-x-particleworks/</guid>
+      <description>&lt;p&gt;ANSYS x Particleworks&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/ansys-x-particleworks/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS x Particleworks - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Расчет радиатора</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-14-raschet-radiatora/</link>
+      <pubDate>Mon, 14 Oct 2019 13:00:25 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-14-raschet-radiatora/</guid>
+      <description>&lt;p&gt;Расчет радиатора&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82-%d1%80%d0%b0%d0%b4%d0%b8%d0%b0%d1%82%d0%be%d1%80%d0%b0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Расчет радиатора - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Течение в Y-образном воздуховоде</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-07-techenie-v-y-obraznom-vozduhovode/</link>
+      <pubDate>Mon, 07 Oct 2019 13:00:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-07-techenie-v-y-obraznom-vozduhovode/</guid>
+      <description>&lt;p&gt;Течение в Y-образном воздуховоде&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/fluid-flow-through-a-y-duct/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Течение в Y-образном воздуховоде - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как надо уметь готовить ANSYS EKM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-03-kak-nado-umet-gotovit-ansys-ekm/</link>
+      <pubDate>Thu, 03 Oct 2019 13:00:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-03-kak-nado-umet-gotovit-ansys-ekm/</guid>
+      <description>&lt;p&gt;Как надо уметь готовить ANSYS EKM&lt;/p&gt;
+&lt;p&gt;Монументальная работа по настройке ANSYS EKM от Александра Николаевича Чернова. Порой я думаю, что EKM его боится, и сам подсказывает, как лучше сделать. Потому что мой коллега уже перевел интерфейс на русский, настроил взаимодействие с базами данных и контроллером домена и подключил это к расчетному кластеру. Такой EKM — это полноценное локальное облако для расчетов и управления их результатами.&lt;/p&gt;
+&lt;p&gt;#ANSYS #APDL #CADFEM #CFX #EKM #Fluent #HPC #PBS
+&lt;a href=&#34;https://bit.ly/2o8Xei5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://bit.ly/2o8Xei5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://bit.ly/2o8Xei5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Как надо уметь готовить ANSYS EKM - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS 2019 R3 Fluids Highlights</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-23-ansys-2019-r3-fluids-highlights/</link>
+      <pubDate>Mon, 23 Sep 2019 13:00:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-23-ansys-2019-r3-fluids-highlights/</guid>
+      <description>&lt;p&gt;ANSYS 2019 R3 Fluids Highlights&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/ansys-2019-r3-fluids-highlights/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS 2019 R3 Fluids Highlights - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Решатели, которые могут Powder bed melting</title>
-      <link>http://localhost:1313/posts/2019-09-13-reshateli-kotorye-mogut-powder-bed-melti/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-13-reshateli-kotorye-mogut-powder-bed-melti/</link>
       <pubDate>Fri, 13 Sep 2019 13:00:55 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-09-13-reshateli-kotorye-mogut-powder-bed-melti/</guid>
-      <description>&lt;p&gt;Одна из самых сложных задач в аддитивке — моделирование ванны расплава. Сегодня у нас красуются CFD коды Fluent (ANSYS, Inc), FLOW-3D (Flow Science, Inc.).&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-13-reshateli-kotorye-mogut-powder-bed-melti/</guid>
+      <description>&lt;p&gt;Решатели, которые могут Powder bed melting&lt;/p&gt;
+&lt;p&gt;Одна из самых сложных задач в аддитивке — моделирование ванны расплава. Сегодня у нас красуются CFD коды Fluent (ANSYS, Inc), FLOW-3D (Flow Science, Inc.).&lt;/p&gt;
 &lt;p&gt;Сначала при помощи DEM решателя мы формируем «геометрию» расположения порошка, а потом передаем это в CFD код, где уже работаем с VOF моделью.&lt;/p&gt;
 &lt;p&gt;#Additive_Manufacturing #CFD #FLOW_3D #Fluent&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2FD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2FD&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2FD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2FD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Сравнение CFD решателей супертяжелой весовой категории</title>
-      <link>http://localhost:1313/posts/2019-08-21-sravnenie-cfd-reshateley-supertyazheloy-ves/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-21-sravnenie-cfd-reshateley-supertyazheloy-ves/</link>
       <pubDate>Wed, 21 Aug 2019 13:00:40 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-08-21-sravnenie-cfd-reshateley-supertyazheloy-ves/</guid>
-      <description>&lt;p&gt;Большой обзор-сравнение двух главных решателей гидродинамики современности: ANSYS Fluent и Siemens Simcenter STAR-CCM+. И тут у нас идет очень большое перечисление всех фишек всех решателей.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-21-sravnenie-cfd-reshateley-supertyazheloy-ves/</guid>
+      <description>&lt;p&gt;Сравнение CFD решателей супертяжелой весовой категории&lt;/p&gt;
+&lt;p&gt;Большой обзор-сравнение двух главных решателей гидродинамики современности: ANSYS Fluent и Siemens Simcenter STAR-CCM+. И тут у нас идет очень большое перечисление всех фишек всех решателей.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.resolvedanalytics.com/theflux/comparing-cfd-software-part-4-comprehensive-cfd-software-packages&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.resolvedanalytics.com/theflux/comparing-cfd-software-part-4-comprehensive-cfd-software-packages&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;А какой решатель выберете вы и почему?&lt;/p&gt;
 &lt;p&gt;#ANSYS #CFD #Fluent #Siemens #STAR_CCM&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2DZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2DZ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.resolvedanalytics.com/theflux/comparing-cfd-software-part-4-comprehensive-cfd-software-packages&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.resolvedanalytics.com/theflux/comparing-cfd-software-part-4-comprehensive-cfd-software-packages&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2DZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2DZ&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Отказоустойчивые процедуры построения сетки во Fluent</title>
-      <link>http://localhost:1313/posts/2019-07-29-otkazoustoychivye-protsedury-postroeniya-se/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-29-otkazoustoychivye-protsedury-postroeniya-se/</link>
       <pubDate>Mon, 29 Jul 2019 13:00:35 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-07-29-otkazoustoychivye-protsedury-postroeniya-se/</guid>
-      <description>&lt;p&gt;Минутка зависти гидродинамикам и их сеточным генераторам.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-29-otkazoustoychivye-protsedury-postroeniya-se/</guid>
+      <description>&lt;p&gt;Отказоустойчивые процедуры построения сетки во Fluent&lt;/p&gt;
+&lt;p&gt;Минутка зависти гидродинамикам и их сеточным генераторам.&lt;/p&gt;
 &lt;p&gt;#CFD #Fluent #mesh&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Cl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Cl&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Cl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Cl&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Самый-самый CFD решатель</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-19-samyy-samyy-cfd-reshatel/</link>
+      <pubDate>Fri, 19 Apr 2019 17:00:33 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-19-samyy-samyy-cfd-reshatel/</guid>
+      <description>&lt;p&gt;Самый-самый CFD решатель&lt;/p&gt;
+&lt;p&gt;Итак, сайт Resolved Analytics занимается тем, что собирает отзывы пользователей о их CFD инструментах. У них есть очень горячий материал по сравнению популярности основных CFD кодов (&lt;a href=&#34;https://www.resolvedanalytics.com/theflux/comparing-cfd-software%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.resolvedanalytics.com/theflux/comparing-cfd-software)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Итак, тройка лидеров ясна: Fluent, Star-CCM+ и OpenFOAM. Но вот отрыв Fluent меня немного смущает.&lt;/p&gt;
+&lt;p&gt;#CFD #Fluent #OpenFOAM #StarCCM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2tX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2tX&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.resolvedanalytics.com/theflux/comparing-cfd-software&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.resolvedanalytics.com/theflux/comparing-cfd-software&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2tX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2tX&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Еще раз про модель тубрулентности GEKO</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-10-esche-raz-pro-model-tubrulentnosti-geko/</link>
+      <pubDate>Wed, 10 Apr 2019 17:01:15 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-10-esche-raz-pro-model-tubrulentnosti-geko/</guid>
+      <description>&lt;p&gt;Еще раз про модель тубрулентности GEKO&lt;/p&gt;
+&lt;p&gt;#ANSYS #Fluent #GEKO&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2te&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2te&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2te&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2te&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GEKO — новая модель турбулентности</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-20-geko-novaya-model-turbulentnosti/</link>
+      <pubDate>Wed, 20 Mar 2019 17:00:40 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-20-geko-novaya-model-turbulentnosti/</guid>
+      <description>&lt;p&gt;GEKO — новая модель турбулентности&lt;/p&gt;
+&lt;p&gt;В версии ANSYS Fluent 2019 R1 появилась новая модель турбулентности, получившая название GEKO (GEneralized K-Omega). В первом видео по теме подробно рассказывается что это за модель и зачем ее создали.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ryLwclQHprc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ryLwclQHprc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Во втором видео подробно разбирается как проводить настройку данной модели для корректного моделирования течения.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=zG8Y83fJeiQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=zG8Y83fJeiQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS #CFD #Fluent #GEKO #turbulence&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2qi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2qi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ryLwclQHprc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ryLwclQHprc&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=zG8Y83fJeiQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=zG8Y83fJeiQ&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2qi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2qi&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сжатый обзор ANSYS Fluent 2019 R1</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-18-szhatyy-obzor-ansys-fluent-2019-r1/</link>
+      <pubDate>Mon, 18 Mar 2019 12:00:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-18-szhatyy-obzor-ansys-fluent-2019-r1/</guid>
+      <description>&lt;p&gt;Сжатый обзор ANSYS Fluent 2019 R1&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=fcb5WHpHDIE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=fcb5WHpHDIE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Данное видео скорее про UX и UI, чем про серьезные изменения в математике CFD расчетов.&lt;/p&gt;
+&lt;p&gt;#CFD #Fluent&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2q6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2q6&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=fcb5WHpHDIE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=fcb5WHpHDIE&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2q6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2q6&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2-way-FSI в ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-08-2-way-fsi-v-ansys/</link>
+      <pubDate>Fri, 08 Mar 2019 17:01:02 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-08-2-way-fsi-v-ansys/</guid>
+      <description>&lt;p&gt;2-way-FSI в ANSYS&lt;/p&gt;
+&lt;p&gt;Как говорит мой коллега, настройка 2-way-FSI в ANSYS давно уже перестала быть увлекательной игрой, а стала рутинной операцией — достойная похвала модулю System Coupling, позволяющему связать нестационарные расчеты Mechanical и Fluent в рамках одного проекта. Мы же рассмотрим две серии учебных видео по настройке такой связки: первая серия — настройка, вторая — расчет.&lt;/p&gt;
+&lt;p&gt;Но если вы действительно думаете, что FSI хоть в какой-либо современной системе расчетов — это просто, то вас ожидает увлекательный трип :-)&lt;/p&gt;
+&lt;p&gt;#ANSYS #Fluent #FSI #Mechanical #System_Coupling&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2nE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2nE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2nE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2nE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Еще раз про ANSYS Fluent Mosaic</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-30-esche-raz-pro-ansys-fluent-mosaic/</link>
+      <pubDate>Sun, 30 Dec 2018 17:01:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-30-esche-raz-pro-ansys-fluent-mosaic/</guid>
+      <description>&lt;p&gt;Еще раз про ANSYS Fluent Mosaic&lt;/p&gt;
+&lt;p&gt;Сетки потрясающей красоты и сложности во Fluent делаются сравнительно просто.&lt;/p&gt;
+&lt;p&gt;Вот интересно, что проще: заставить APDL работать на таких сетках или научить Fluent считать механику?&lt;/p&gt;
+&lt;p&gt;#ANSYS #Fluent #Mesh #Mosaic
+&lt;a href=&#34;http://bit.ly/2Q9xREJ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Q9xREJ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2Q9xREJ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Q9xREJ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование эрозии во Fluent</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-23-modelirovanie-erozii-vo-fluent/</link>
+      <pubDate>Sun, 23 Dec 2018 17:01:52 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-23-modelirovanie-erozii-vo-fluent/</guid>
+      <description>&lt;p&gt;Моделирование эрозии во Fluent
+Как по мне, так очень полезный урок по моделированию эрозионного износа всего того, где присходит течение. В уроке показано как Fluent умеет моделировать эрозию, выдавать результаты в виде цветовых полей, учитывать влияние изменения геометрии канала путем морфинга сетки.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0w4T7WS2NM0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=0w4T7WS2NM0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Причем для последнего даже показано, как достать новую &amp;ldquo;изношенную&amp;rdquo; геометрию из Fluent и передать ее через SpaceClaim в любой другой решатель (например, Mechanical).
+#ANSYS #CADFEM #CFD #Fluent #SpcaeClaim
+&lt;a href=&#34;http://bit.ly/2V75JG4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2V75JG4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0w4T7WS2NM0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=0w4T7WS2NM0&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2V75JG4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2V75JG4&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Про MpCCI подробнее</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-21-pro-mpcci-podrobnee/</link>
+      <pubDate>Wed, 21 Nov 2018 17:01:36 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-21-pro-mpcci-podrobnee/</guid>
+      <description>&lt;p&gt;Про MpCCI подробнее
+MpCCI - система, позволяющая связывать работы нескольких расчетных кодов в разных областях физики, для решения сложных междисциплинарных задач.&lt;/p&gt;
+&lt;p&gt;В новом вебинаре коллеги не только рассказывают об архитектуре ПО, но показывают примеры работы: связка Abaqus и различных CFD кодов (Fluent, OpenFOAM, STAR-CCM+).&lt;/p&gt;
+&lt;p&gt;#ABAQUS #Fluent #FSI #MpCCI #OpenFOAM #STARCCM
+&lt;a href=&#34;http://bit.ly/2Qa5A52&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Qa5A52&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2Qa5A52&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Qa5A52&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Аэроупругость мостов</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-11-aerouprugost-mostov/</link>
+      <pubDate>Sun, 11 Nov 2018 17:00:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-11-aerouprugost-mostov/</guid>
+      <description>&lt;p&gt;Аэроупругость мостов
+Мои коллеги уже несколько раз выполняли проекты, связанные с аэроупругостью мостов, но все эти расчеты были выполнены в плоской постановке. Такие расчеты теперь требуются по строительным нормам.
+А вот Такомский мост (&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Такомский_мост) на такое не проверяли. Получилось плохо. Коллеги из LEAP провели показательный расчет, при этом используют 3D постановку и честный 2-way-FSI в ANSYS. Не уверен, что получилось точно, но уверен, что получилось очень наглядно.&lt;/p&gt;
+&lt;p&gt;#ANSYS #Fluent #FSI #LEAP
+&lt;a href=&#34;http://bit.ly/2PVA4Yg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PVA4Yg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Такомский_мост
+&lt;a href=&#34;http://bit.ly/2PVA4Yg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PVA4Yg&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>От сетки до результатов - и все во Fluent</title>
-      <link>http://localhost:1313/posts/2018-10-27-ot-setki-do-rezultatov-i-vse-vo-fluen/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-27-ot-setki-do-rezultatov-i-vse-vo-fluen/</link>
       <pubDate>Sat, 27 Oct 2018 16:01:39 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-10-27-ot-setki-do-rezultatov-i-vse-vo-fluen/</guid>
-      <description>&lt;p&gt;Отличное демонстрационное видео, показывающее возможности ANSYS Fluent 19.2. Теперь в этой махине можно сделать все: затянуть геометрию, извлечь внутренний объем, построить сетку, задать граничные условия, провести расчет (ну куда ж без этого) и сделать красивую визуализацию результатов.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-27-ot-setki-do-rezultatov-i-vse-vo-fluen/</guid>
+      <description>&lt;p&gt;От сетки до результатов - и все во Fluent
+Отличное демонстрационное видео, показывающее возможности ANSYS Fluent 19.2. Теперь в этой махине можно сделать все: затянуть геометрию, извлечь внутренний объем, построить сетку, задать граничные условия, провести расчет (ну куда ж без этого) и сделать красивую визуализацию результатов.&lt;/p&gt;
 &lt;p&gt;Неужели инженерное ПО становиться удобным? :-)&lt;/p&gt;
 &lt;p&gt;#ANSYS #CFD #Fluent
 &lt;a href=&#34;http://bit.ly/2D8iGKa&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2D8iGKa&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2D8iGKa&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2D8iGKa&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Настройка 2-way-FSI в ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-03-nastroyka-2-way-fsi-v-ansys/</link>
+      <pubDate>Wed, 03 Oct 2018 17:00:24 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-03-nastroyka-2-way-fsi-v-ansys/</guid>
+      <description>&lt;p&gt;Настройка 2-way-FSI в ANSYS
+Серия из двух небольших видео, показывающих как настроить двусторонний FSI для нестационарной задачи.&lt;/p&gt;
+&lt;p&gt;За механику отвечает ANSYS Mechanical, за гидродинамику - ANSYS Fluent.&lt;/p&gt;
+&lt;p&gt;Все это смешиваем в среде Workbench и заставляем работать вместе через System Coupling. Технически выглядит несложно :-)&lt;/p&gt;
+&lt;p&gt;#ANSYS #CFD #Fluent #FSI #Mechanical #SystemCoupling #Workbench
+&lt;a href=&#34;http://bit.ly/2P9pU2S&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2P9pU2S&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2P9pU2S&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2P9pU2S&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделируем срыв пламени в турбине</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-11-modeliruem-sryv-plameni-v-turbine/</link>
+      <pubDate>Sat, 11 Aug 2018 18:00:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-11-modeliruem-sryv-plameni-v-turbine/</guid>
+      <description>&lt;p&gt;Моделируем срыв пламени в турбине
+Согласно Википедии, срыв пламени — затухание пламени в камере сгорания, как нарушение работы воздушно-реактивного двигателя; может быть вызвано такими причинами, как: нехватка топлива, нарушение работы компрессора, недостаток кислорода, повреждение инородными телами (например, попадание птиц, града или вулканического пепла), крайне неблагоприятные погодные условия (ветер, влажность, дождь, изморось), усталостные механические повреждения.
+ANSYS в своем блоге опубликовал очень занимательную статью на тему моделирования данного процесса. Тут и исследования работы фарсунок, и моделирование турбулентных течений в нестационарных постановках, и химия. Конечно,  не обошлось без доли магии под названием Flamelet Generated Manifold (FGM). Короче, я поплыл к середине поста. Но если вы в теме, то текст должен зайти на ура.
+Полезные ссылки по теме:
+How to Efficiently Simulate a Gas Turbine Flameout&lt;/p&gt;
+&lt;p&gt;Efficiently Modeling Turbulent Combustion with Realistic Chemistry Using a Flamelet-Generated Manifold&lt;/p&gt;
+&lt;p&gt;#ANSYS #CFD #Combustion #FGM #Flameout #Fluent
+&lt;a href=&#34;http://bit.ly/2KGgZTr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2KGgZTr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B5%D1%80%D0%B0_%D1%81%D0%B3%D0%BE%D1%80%D0%B0%D0%BD%D0%B8%D1%8F&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B5%D1%80%D0%B0_%D1%81%D0%B3%D0%BE%D1%80%D0%B0%D0%BD%D0%B8%D1%8F&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D0%BE-%D1%80%D0%B5%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D0%BE-%D1%80%D0%B5%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BF%D0%BB%D0%B8%D0%B2%D0%BE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BF%D0%BB%D0%B8%D0%B2%D0%BE&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BC%D0%BF%D0%B0%D0%B6_%28%D0%B0%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D1%8F%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BC%D0%BF%D0%B0%D0%B6_(%D0%B0%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D1%8F)&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%81%D0%BB%D0%BE%D1%80%D0%BE%D0%B4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%81%D0%BB%D0%BE%D1%80%D0%BE%D0%B4&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%9F%D1%82%D0%B8%D1%86%D1%8B&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/%D0%9F%D1%82%D0%B8%D1%86%D1%8B&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B4&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%92%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D0%BF%D0%B5%D0%BB&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/%D0%92%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D0%BF%D0%B5%D0%BB&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D1%82%D0%B0%D0%BB%D0%BE%D1%81%D1%82%D1%8C_%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%B0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D1%82%D0%B0%D0%BB%D0%BE%D1%81%D1%82%D1%8C_%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%B0&lt;/a&gt;
+&lt;a href=&#34;https://www.ansys-blog.com/how-to-efficiently-simulate-a-gas-turbine-flameout/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys-blog.com/how-to-efficiently-simulate-a-gas-turbine-flameout/&lt;/a&gt;
+&lt;a href=&#34;https://www.ansys-blog.com/turbulent-combustion-flamelet-generated-manifolds/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys-blog.com/turbulent-combustion-flamelet-generated-manifolds/&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2KGgZTr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2KGgZTr&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS EKM - новый этап развития</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-07-ansys-ekm-novyy-etap-razvitiya/</link>
+      <pubDate>Tue, 07 Aug 2018 18:01:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-07-ansys-ekm-novyy-etap-razvitiya/</guid>
+      <description>&lt;p&gt;ANSYS EKM - новый этап развития
+Коллеги из МСК подготовили шикарное видео, в котором показали очень много всего интересного касательно EKM.&lt;/p&gt;
+&lt;p&gt;EKM (Engineering Knowledge Manager) - система класса SDM (Simulation Data Management) от ANSYS. При всех ее достоинствах, у нее до недавнего времени была одна особенность, существенно затруднявшая ее врендрение. А именно: EKM имел жесткую привязку к версии ANSYS, что заставляло обновлять все ПО организации разом. Сейчас, начиная в версии 19.1 (или как она теперь должна называться?), EKM может работать с любой версией решателей ANSYS - ему можно это объяснить.
+Уже предыдущий шаг был очень важен, но коллеги из МСК успели, кроме внедрения новой версии, подтянуть руссификацию интерфейса и подружить систему с неподдерживаемым планировщиком Slurm. Получилось очень достойно!&lt;/p&gt;
+&lt;p&gt;#ANSYS #CFX #EKM #Fluent #HPC #Mechanical #SDM #SLURM
+&lt;a href=&#34;http://bit.ly/2KvT60N&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2KvT60N&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2KvT60N&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2KvT60N&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Как корректно остановить решатель на ходу</title>
-      <link>http://localhost:1313/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</link>
       <pubDate>Tue, 03 Jul 2018 18:02:50 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</guid>
-      <description>&lt;p&gt;Есть очень часто встречающаяся задача - запуск решателя в консольном/пакетном режиме для выполнения расчета на рабочей станции или кластере. С этой задачей сталкиваются многие опытные инженеры. Как запускать консольные расчеты хорошо описано в документации, много рассказано на форумах.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-03-kak-korrektno-ostanovit-reshatel-na-hod/</guid>
+      <description>&lt;p&gt;Как корректно остановить решатель на ходу
+Есть очень часто встречающаяся задача - запуск решателя в консольном/пакетном режиме для выполнения расчета на рабочей станции или кластере. С этой задачей сталкиваются многие опытные инженеры. Как запускать консольные расчеты хорошо описано в документации, много рассказано на форумах.
 Однако мало кто знает, что практически любой решатель, работающий в фоне, можно корректно остановить с запуском точки рестарта/чекпоинта. Как правило, необходимо создать особый файл в особом месте. Когда решатель его обнаружит, он сам все поймет. Особый файл будет удалён сразу после его обработки. Давайте посмотрим, как это сделать для основных решателей ANSYS.
 Mechanical/APDL:
 В рабочей директории решателя надо создать файл с именем jobname.abt, где jobname - имя проекта. Файл должен содержать только одно слово: nonlinear
@@ -115,55 +491,255 @@ ANSYS Workbench
 Если вы пользуетесь ANSYS RSM, то там для всех поддерживаемых решателей уже есть стандартная кнопка Interrupt, которая делает всю вышеописанную магию за вас. Настраивайте RSM и наслаждайтесь :-)&lt;/p&gt;
 &lt;p&gt;#AEDT #ANSYS #Autodyn #CFX #Checkpont #Fluent #HPC #Longread #LSDYNA #Restart #RSM #Workbench
 &lt;a href=&#34;http://bit.ly/2u3rrhp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2u3rrhp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2u3rrhp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2u3rrhp&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Сейчас на рынке #HPC интерконнектов идет тихая война между #</title>
-      <link>http://localhost:1313/posts/2017-12-24-seychas-na-rynke-hpc-interkonnektov-idet/</link>
+      <title>Переход от VOF к DPM во Fluent 19.0</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-02-perehod-ot-vof-k-dpm-vo-fluent-190/</link>
+      <pubDate>Fri, 02 Mar 2018 09:41:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-02-perehod-ot-vof-k-dpm-vo-fluent-190/</guid>
+      <description>&lt;p&gt;Переход от VOF к DPM во Fluent 19.0
+Очередная крутая функция ANSYS Fluent 19.0 — теперь для расчета распыления.&lt;/p&gt;
+&lt;p&gt;В версии  19 главный CFD код от ANSYS получил интересную возможность.&lt;/p&gt;
+&lt;p&gt;Теперь для более точного и быстрого расчета распыла он может переводить кали, которые получаются в VOF модели в DPM частицы — читай считать их как DEM. Таким образом решатель больше не ограничен снизу размером сетки как ограничителем объема капель.&lt;/p&gt;
+&lt;p&gt;ANSYS Fluent 19 Speeds CFD Spray Simulations&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys-blog.com/fluent-19-speeds-cfd-spray-simulations/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys-blog.com/fluent-19-speeds-cfd-spray-simulations/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Самое вкусное в ANSYS 19 по версии ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-03-samoe-vkusnoe-v-ansys-19-po-versii-ansys/</link>
+      <pubDate>Sat, 03 Feb 2018 17:00:41 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-03-samoe-vkusnoe-v-ansys-19-po-versii-ansys/</guid>
+      <description>&lt;p&gt;Самое вкусное в ANSYS 19 по версии ANSYS
+Компания ANSYS в своем блоге представила свой список самых интересных функций в версии 19.&lt;/p&gt;
+&lt;p&gt;В основные фишки нового релиза попали следующие пункты:&lt;/p&gt;
+&lt;p&gt;Расчет эффективной отражающей площадьи объекста (Radar Cross Section) в HFSS SBR+&lt;/p&gt;
+&lt;p&gt;Возможность проектирования графических интерфейсов для встраемого ПО&lt;/p&gt;
+&lt;p&gt;Повышенная производительность ANSYS Fluent в задачах распыления струи жидкости&lt;/p&gt;
+&lt;p&gt;Набор технологий SMART в ANSYS Mechanical (SMART = Separating, Morphing, Adaptive, Re-meshing Technology) для моделирования роста трещин&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys-blog.com/ansys-19-release/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys-blog.com/ansys-19-release/&lt;/a&gt;
+#ANSYS #Fluent #HFSS #Mechanical #SBR+ #smart
+&lt;a href=&#34;https://magicdpd.ru/?p=6141&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6141&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys-blog.com/ansys-19-release/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys-blog.com/ansys-19-release/&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=6141&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6141&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Война интерконнектов: продолжение</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-14-voyna-interkonnektov-prodolzhenie/</link>
+      <pubDate>Sun, 14 Jan 2018 12:01:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-14-voyna-interkonnektov-prodolzhenie/</guid>
+      <description>&lt;p&gt;Война интерконнектов: продолжение
+Компания Intel категорически не согласилась с результатами сравнения ее HPC интерконнекта OmniPath и Mellanox Infiniband. Более того, Intel решил показать результаты своих измерений, и они получились очень занимательными.&lt;/p&gt;
+&lt;p&gt;В статье, ссылка на которую приведена в конце поста, есть куча графиков, где присутствуют три колонки результатов: &amp;ldquo;Mellanox Infiniband&amp;rdquo;, &amp;ldquo;Intel OPA - результаты Mellanox&amp;rdquo; и &amp;ldquo;Intel OPA - результаты Intel&amp;rdquo;. Как ни странно, Intel померил свой интерконнект так, что он полностью сравнялся с Infiniband EDR.&lt;/p&gt;
+&lt;p&gt;В измерениях участвовали ANSYS Fluent и LS-DYNA. Классический Infiniband оказался все же немного впереди, но по моим ощущениям, разрыв должен быть 20% - как раз средний результат двух измерений.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/amp/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/amp/&lt;/a&gt;
+#Fluent #HPC #Infiniband #LS-DYNA #OPA
+&lt;a href=&#34;https://magicdpd.ru/?p=5925&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5925&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/amp/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/amp/&lt;/a&gt;
+&lt;a href=&#34;https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/amp/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/amp/&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=5925&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5925&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сейчас на рынке #HPC интерконнектов идет тихая война между #Mellanox и #Intel.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-24-seychas-na-rynke-hpc-interkonnektov-idet/</link>
       <pubDate>Sun, 24 Dec 2017 17:11:49 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-12-24-seychas-na-rynke-hpc-interkonnektov-idet/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-24-seychas-na-rynke-hpc-interkonnektov-idet/</guid>
       <description>&lt;p&gt;Хотя на мой вкус, Mellanox так далеко впереди, что за ним уже никому не угнаться. Посудите сами: у них полностью аппаратная работа с данными, не нагружающая CPU, у них уже есть 200 Гбит и, что самое важное, их поддерживают все решатели (ну хотя бы все решатели #ANSYS). А вот Intel #OPA может только #ANSYS #Fluent и #ANSYS #CFX.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ift.tt/2l7xnl8MediaMediaMedia&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2l7xnl8MediaMediaMedia&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ift.tt/2kQNVyg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2kQNVyg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2emhAvW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2emhAvW&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zoZXZe&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zoZXZe&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2embhsb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2embhsb&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2l7xltw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2l7xltw&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wmHv13&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wmHv13&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2j6d2vn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2j6d2vn&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2DITPts&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2DITPts&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2DKZ3Vy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2DKZ3Vy&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2pp9x9Y&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2pp9x9Y&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2l7xqNQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2l7xqNQ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2kQNVyg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2kQNVyg&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Статья - размышление про то, как #ANSYS #Discovery Live помо</title>
-      <link>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</link>
+      <title>На #SC17 #Rescale показал как выглядит работает их #HPC облако со стороны пользователей-инженеров.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-16-na-sc17-rescale-pokazal-kak-vyglyadit-r/</link>
+      <pubDate>Sat, 16 Dec 2017 17:18:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-16-na-sc17-rescale-pokazal-kak-vyglyadit-r/</guid>
+      <description>&lt;p&gt;В показе принимали участие #ANSYS #Fluent, #StarCCM+ и #LSTC #LSPP для #LSDYNA.&lt;/p&gt;
+&lt;p&gt;В целом - это просто большой и правильно настроенный вычислительный кластер. Нет ничего фантастического - есть много вдумчивой и аккуратно выполненной работы. Пожалуй все из показанного можно повторить в ЦОД вашего предприятия за две недели работы на готовом железе.&lt;/p&gt;
+&lt;p&gt;#cloud
+&lt;a href=&#34;https://www.youtube.com/watch?v=b7J&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=b7J&lt;/a&gt;…Media📼 Rescale Demos Easy HPC Cloud Management at SC17&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2yJQS87&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yJQS87&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2zX5PoD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zX5PoD&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2yJezxq&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yJezxq&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2emhAvW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2emhAvW&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wmHv13&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wmHv13&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2yIXZgT&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yIXZgT&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xRPO1U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xRPO1U&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2i0hIGl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i0hIGl&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vlBJYZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlBJYZ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2y2hFPP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2y2hFPP&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=b7JjCWsFCgM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=b7JjCWsFCgM&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2AXzcMc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2AXzcMc&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2yJQS87&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yJQS87&lt;/a&gt;
+ttp://ift.tt/2yJQS87&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирования распылительных установок в #ANSYS #Fluent</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-03-modelirovaniya-raspylitelnyh-ustanovok-v/</link>
+      <pubDate>Sun, 03 Dec 2017 17:13:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-03-modelirovaniya-raspylitelnyh-ustanovok-v/</guid>
+      <description>&lt;p&gt;Моделирования распылительных установок в #ANSYS #Fluent&lt;/p&gt;
+&lt;p&gt;#CFD
+&lt;a href=&#34;https://www.youtube.com/watch?v=Nl2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Nl2&lt;/a&gt;…Media📼 М22 - Моделирование распылительных устройств в ANS…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2AEE6Nl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2AEE6Nl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wmHv13&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wmHv13&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2v2FNSC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2v2FNSC&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=Nl2mblDcKPw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Nl2mblDcKPw&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2iKUWmx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2iKUWmx&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2AEE6Nl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2AEE6Nl&lt;/a&gt;
+ttp://ift.tt/2AEE6Nl&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ускорение #ANSYS #Fluent при помощи #GPGU #NVIDIA возможно, и даже очень полезно!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-27-uskorenie-ansys-fluent-pri-pomoschi-gpg/</link>
+      <pubDate>Mon, 27 Nov 2017 17:08:07 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-27-uskorenie-ansys-fluent-pri-pomoschi-gpg/</guid>
+      <description>&lt;p&gt;Как показывают тесты NVIDIA, на одном и том-же пуле лицензии главный #CFD решатель ANSYS может ускориться почти в 4 раза за счет подключения нескольких #Tesla P100. И сейчас мы говорим не про супер компьютер, а про обычный сервер на 32 ядра.&lt;/p&gt;
+&lt;p&gt;Что бы добиться такого же ускорения просто на процессорах вам потребуется уже 4 сервера соединенных по #Infiniband, коммутатор Infiniband, управляющий софт для получившегося кластера и дополнительные лицензий ANSYS на #HPC.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2ACZNhd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ACZNhd&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Хотите собрать сбалансированный вычислительный сервер под расчеты в ANSYS - читайте документацию 😊MediaMedia💾 ANSYS18.2_tech.pdf🔗 Ansys Fluent GPU Acceleration | NVIDIA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;https://www.nvidia.com/en-us/data-center/gpu-accelerated-applications/ansys-fluent/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.nvidia.com/en-us/data-center/gpu-accelerated-applications/ansys-fluent/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Статья - размышление про то, как #ANSYS #Discovery Live помогает ANSYS реализовать свободомыслий давнюю задумку: сделать всех инженеров и проектировщиков своими пользователями.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</link>
       <pubDate>Sun, 17 Sep 2017 17:04:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</guid>
       <description>&lt;p&gt;И тут ключевыми факторами успеха оказывается не только использование самого передового решателя, разработанного совместно с #NVIDIA. Не даром ANSYS очень дружен с разработчиком GPU. Об этом говорят те факты, что #Mechanical #APDL был первым коммерческим #FEM использовавшим #GPU, как и #Fluent - первым коммерческим #CFD использовавшим #GPU&lt;/p&gt;
 &lt;p&gt;Тут еще вспоминается и #SpaceClaim, который выйдя на рынок в 2005 сделал лидеров отстающими. Именно после #SpaceClaim появились такие системы, как #PTC #Creo, #Autodesk #Fusion и концепция #Siemens Synchronous Technology.&lt;/p&gt;
 &lt;p&gt;Сейчас SpaceClaim становиться геометрическим ядром для #Workbench, #AIM и #ANSYS #Discovery.&lt;/p&gt;
 &lt;p&gt;#GPGPU #CUDA
 &lt;a href=&#34;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&lt;/a&gt; 🔗 ANSYS Discovery Live Changes Everything&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Надеюсь вы не пропустили мероприятие по поводу #ANSYS #Disco</title>
-      <link>http://localhost:1313/posts/2017-09-07-nadeyus-vy-ne-propustili-meropriyatie-po/</link>
+      <title>Продолжая тему вебинаров - #padtinc 20-ого сентября приглашают всех желающих на вебинар, по #ANSYS #Fluent 18.2. Девиз вебинара &#34;Superior CFD Requires Superior Software&#34;</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-09-prodolzhaya-temu-vebinarov-padtinc-20-o/</link>
+      <pubDate>Sat, 09 Sep 2017 18:03:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-09-prodolzhaya-temu-vebinarov-padtinc-20-o/</guid>
+      <description>&lt;p&gt;#CFD&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.padtinc.com/blog/events/superior-cfd-requires-superior-software-ansys-fluent-18-2-webinar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.padtinc.com/blog/events/superior-cfd-requires-superior-software-ansys-fluent-18-2-webinar&lt;/a&gt; 🔗 Superior CFD Requires Superior Software – ANSYS Fluent 18.2 Webinar&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vVUTKe&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vVUTKe&lt;/a&gt;
+&lt;a href=&#34;http://www.padtinc.com/blog/events/superior-cfd-requires-superior-software-ansys-fluent-18-2-webinar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.padtinc.com/blog/events/superior-cfd-requires-superior-software-ansys-fluent-18-2-webinar&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Надеюсь вы не пропустили мероприятие по поводу #ANSYS #Discovery - это было очень круто. Математическое моделирование в реальном времени!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-07-nadeyus-vy-ne-propustili-meropriyatie-po/</link>
       <pubDate>Thu, 07 Sep 2017 14:31:20 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-09-07-nadeyus-vy-ne-propustili-meropriyatie-po/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-07-nadeyus-vy-ne-propustili-meropriyatie-po/</guid>
       <description>&lt;p&gt;Из того, что мне больше всего понравилось - это возможность не только практически мгновенно сделать прикидочный расчет, но и экспортировать его для доводки в #AIM, #Mechanical, #Fluent и #Maxwell. Понравилось, что #ANSYS #Discovery - свежий код, который не тащит с собой кучу наследства и умеет нормально использовать #GPGPU #NVIDIA.&lt;/p&gt;
 &lt;p&gt;Что мне не понравилось: обещали интерактивное мероприятие, а на деле был набор заготовленных видео роликов.&lt;/p&gt;
 &lt;p&gt;А еще, на сайте продукта уже можно скачать техническое превью бесплатно.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ansys.com/discovery&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ansys.com/discovery&lt;/a&gt; 🔗 ANSYS Discovery Live: Instant Simulation Results&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ansys.com/discovery&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ansys.com/discovery&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Опытные пользователи #ANSYS #FLUENT подтвердят, что TUI - то еще турагентство 😊Media</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-28-opytnye-polzovateli-ansys-fluent-podt/</link>
+      <pubDate>Mon, 28 Aug 2017 12:41:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-28-opytnye-polzovateli-ansys-fluent-podt/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://ift.tt/2wLS4LG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wLS4LG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2wLwA1D&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wLwA1D&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xG2DML&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xG2DML&lt;/a&gt;
+ttp://ift.tt/2wLS4LG&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Совсем забыл сказать: у #ANSYS #Fluent 18.2 теперь есть #PUMA (polyhedral unstructured mesh adaptation).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-23-sovsem-zabyl-skazat-u-ansys-fluent-1/</link>
+      <pubDate>Wed, 23 Aug 2017 06:59:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-23-sovsem-zabyl-skazat-u-ansys-fluent-1/</guid>
+      <description>&lt;p&gt;За такой интересной аббревиатурой скрывается метод сеточной адаптации позволяет динамически сгущать сетку, например для повышения разрешения свободной поверхности.&lt;/p&gt;
+&lt;p&gt;#mesh #cfdMedia📼 Dynamic Adaption of Polyhedral Cells in ANSYS Flue…&lt;/p&gt;
+&lt;p&gt;via MagicDPD &lt;a href=&#34;http://ift.tt/2w2hrWi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2w2hrWi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wmHv13&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wmHv13&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2w1D7lr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2w1D7lr&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wm3rtA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wm3rtA&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2w2hqSe&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2w2hqSe&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wmvCYI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wmvCYI&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2w2hrWi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2w2hrWi&lt;/a&gt;
+ttp://ift.tt/2w2hrWi&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Делаем UDF без ошибок для Fluent</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-21-delaem-udf-bez-oshibok-dlya-fluent/</link>
+      <pubDate>Fri, 21 Jul 2017 17:00:58 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-21-delaem-udf-bez-oshibok-dlya-fluent/</guid>
+      <description>&lt;p&gt;Делаем UDF без ошибок для Fluent
+&lt;a href=&#34;https://www.youtube.com/watch?v=xt2hnE9_LdM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xt2hnE9_LdM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Небольшое учебное видео, рассказывающее о сборке #UDF в #ANSYS #Fluent - о борьбе с ошибкой #nmake&lt;/p&gt;
+&lt;p&gt;#CFD
+&lt;a href=&#34;https://www.youtube.com/watch?v=xt2hnE9_LdM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xt2hnE9_LdM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=xt2hnE9_LdM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;✅ ANSYS FLUENT - Compilate UDF - Solution to &amp;ldquo;nmake&amp;rdquo; Error&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>История успеха с кубка Америки по яхтенному спорту 2017</title>
-      <link>http://localhost:1313/posts/2017-07-17-istoriya-uspeha-s-kubka-ameriki-po-yahtenn/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-17-istoriya-uspeha-s-kubka-ameriki-po-yahtenn/</link>
       <pubDate>Mon, 17 Jul 2017 17:00:46 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-07-17-istoriya-uspeha-s-kubka-ameriki-po-yahtenn/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.ansys-blog.com/emirates-team-new-zealand-wins-2017-americas-cup/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/emirates-team-new-zealand-wins-2017-americas-cup/&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-17-istoriya-uspeha-s-kubka-ameriki-po-yahtenn/</guid>
+      <description>&lt;p&gt;История успеха с кубка Америки по яхтенному спорту 2017
+&lt;a href=&#34;http://www.ansys-blog.com/emirates-team-new-zealand-wins-2017-americas-cup/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/emirates-team-new-zealand-wins-2017-americas-cup/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ANSYS рассказывает о том, как его технологии помогли команде Emirates Team New Zealand победить в самой престижной гонке на скоростных парусных судах. Расчетами занимались инженеры австралийского партнера - компании #LEAP Australia&lt;/p&gt;
 &lt;p&gt;Пригодилось много чего:&lt;/p&gt;
 &lt;ul&gt;
@@ -173,68 +749,486 @@ ANSYS Workbench
 &lt;li&gt;ANSYS #DesignXplorer - оптимизация и робастрое проектирование&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href=&#34;https://youtu.be/xXWGSvJRACE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/xXWGSvJRACE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys-blog.com/emirates-team-new-zealand-wins-2017-americas-cup/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Emirates Team New Zealand Wins the 2017 America’s Cup&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/xXWGSvJRACE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/xXWGSvJRACE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Скачиваем курсы с edX и Сoursera</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-10-skachivaem-kursy-s-edx-i-soursera/</link>
+      <pubDate>Mon, 10 Jul 2017 17:01:02 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-10-skachivaem-kursy-s-edx-i-soursera/</guid>
+      <description>&lt;p&gt;Скачиваем курсы с edX и Сoursera
+&lt;a href=&#34;https://github.com/coursera-dl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/coursera-dl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Учиться это хорошо! Платформ для обучениях в интернете много. Например #edX и #Cornell проводят отличные курсы #ANSYS #Mechanical и #Fluent (курс #CornellX  #ENGR2000X например). Но иногда хочется скачать себе весь учебный курс на компьютер, что бы иметь возможность пользоваться его материалами offline.&lt;/p&gt;
+&lt;p&gt;Эта задача уже решена в рамках проекта #opensource проекта Coursera Downloader. Проект состоит из двух очень простых утилит командной строки, написанных на #Python и ставящихся через #pip на любую операционную систему. Утилиты эти носят названия coursera-dl и edx-dl. В сумме они позволяют скачать курсы со следующих порталов:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#edX&lt;/li&gt;
+&lt;li&gt;#Stanford&lt;/li&gt;
+&lt;li&gt;University of Sydney&lt;/li&gt;
+&lt;li&gt;France Université Numérique&lt;/li&gt;
+&lt;li&gt;GW Online SEAS - George Washington University&lt;/li&gt;
+&lt;li&gt;GW Online Open - George Washington University&lt;/li&gt;
+&lt;li&gt;#Сoursera&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Скачивать возможно только курсы, доступные вашему аккаунту.
+Видео инструкция по пользованию  edx-d прилагается &lt;a href=&#34;https://www.youtube.com/watch?v=AvAS835JiTI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=AvAS835JiTI&lt;/a&gt;
+P.S.
+Так как утилиты ставят с собой другую заниженную скачивалку youtube-dl - граббер YouTube, то можете быть уверены, что даже видеозаписи курсов вы не потеряете.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/coursera-dl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Coursera Downloader&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=AvAS835JiTI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=AvAS835JiTI&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>А что если Fluent на миллион ядер запустить</title>
-      <link>http://localhost:1313/posts/2017-05-14-a-chto-esli-fluent-na-million-yader-zapust/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-14-a-chto-esli-fluent-na-million-yader-zapust/</link>
       <pubDate>Sun, 14 May 2017 17:00:55 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-05-14-a-chto-esli-fluent-na-million-yader-zapust/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.ansys-blog.com/hpc/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/hpc/&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-14-a-chto-esli-fluent-na-million-yader-zapust/</guid>
+      <description>&lt;p&gt;А что если Fluent на миллион ядер запустить
+&lt;a href=&#34;http://www.ansys-blog.com/hpc/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/hpc/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ANSYS прикинул, что если они не сбавят темпы разработки #HPC части своего главного #CFD кода #Fluent, то к 2020 году он сможет эффективно распараллеливать на миллион ядер. А что, последний десяток лет им удается сохранять тренд. Challenge accepted, как говориться.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys-blog.com/hpc/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS HPC: On to a Million Cores!&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EDEM для ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-20-edem-dlya-ansys/</link>
+      <pubDate>Thu, 20 Apr 2017 08:00:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-20-edem-dlya-ansys/</guid>
+      <description>&lt;p&gt;EDEM для ANSYS
+&lt;a href=&#34;http://www.ansys.com/de-DE/About-ANSYS/Partner-Network/Software-Partners/dem-solutions&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/de-DE/About-ANSYS/Partner-Network/Software-Partners/dem-solutions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Знаили ли вы, что у компании DEM Solutions Ltd., авторов #EDEM есть специальный плагин для интеграции с #ANSYS #Workbench - можно делать связанные расчеты механики в #Mechanical и гидродинамики во #Fluent.&lt;/p&gt;
+&lt;p&gt;#DEM #CFD #FEM
+&lt;a href=&#34;https://www.youtube.com/watch?v=-PaX-NHRYW4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=-PaX-NHRYW4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys.com/de-DE/About-ANSYS/Partner-Network/Software-Partners/dem-solutions&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DEM Solutions Ltd. - Software Partner | ANSYS&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=-PaX-NHRYW4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=-PaX-NHRYW4&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DEM-CFD</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-22-dem-cfd/</link>
+      <pubDate>Wed, 22 Mar 2017 17:03:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-22-dem-cfd/</guid>
+      <description>&lt;p&gt;DEM-CFD
+&lt;a href=&#34;http://www.rocky-dem.ru/about/news/view/artcl/webinar-march2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.rocky-dem.ru/about/news/view/artcl/webinar-march2017/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Очаровательная Lucilla Almeida собирается бесплатно рассказать о возможностях связки #Rocky для #DEM и #ANSYS #Fluent для #CFD. Получается очень любопытный #FSI. Ссылки для регистрации в описании. Регистрируемся на вебинар 29 или 30 марта.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.rocky-dem.ru/about/news/view/artcl/webinar-march2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.rocky-dem.ru/about/news/view/artcl/webinar-march2017/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Overset Mesh для ANSYS Fluent</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-18-overset-mesh-dlya-ansys-fluent/</link>
+      <pubDate>Sat, 18 Mar 2017 17:00:24 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-18-overset-mesh-dlya-ansys-fluent/</guid>
+      <description>&lt;p&gt;Overset Mesh для ANSYS Fluent
+&lt;a href=&#34;https://www.youtube.com/watch?v=_Cryhe7L3uw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=_Cryhe7L3uw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Химерные или перекрывающиеся сетки (именно так в русской терминологии переводят  #Overset #Mesh) позволяют #ANSYS #Fluent эффективнее решать задачи для моделей со сложной геометрической формой. Небольшой пример от ANSYS про расчет отсоединения разгонных блоков от космической ракеты.
+#CFD
+&lt;a href=&#34;https://www.youtube.com/watch?v=_Cryhe7L3uw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=_Cryhe7L3uw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=_Cryhe7L3uw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS in Action - Overset Mesh&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Альткулер</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-14-altkuler/</link>
+      <pubDate>Tue, 14 Mar 2017 17:01:21 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-14-altkuler/</guid>
+      <description>&lt;p&gt;Альткулер
+&lt;a href=&#34;https://www.youtube.com/channel/UCSNvf_NBVbHA-FB_ygxwHQQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/channel/UCSNvf_NBVbHA-FB_ygxwHQQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Учебные видеоматериалы по специализации &amp;ldquo;Холодильная, криогенная техника, СКВ и СЖО&amp;rdquo; в исполнении Вечаслава Чеховича доступны всем желающим. Много лаб, #ANSYS #Fluent, #CFD и задачи на тепло.&lt;/p&gt;
+&lt;p&gt;Вот один из уроков:
+&lt;a href=&#34;https://www.youtube.com/watch?v=YXBKFXhbU4Y&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=YXBKFXhbU4Y&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ссылка на канал в описании.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCSNvf_NBVbHA-FB_ygxwHQQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Альткулер&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=YXBKFXhbU4Y&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=YXBKFXhbU4Y&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Управляя Fluent</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-03-upravlyaya-fluent/</link>
+      <pubDate>Fri, 03 Mar 2017 17:03:06 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-03-upravlyaya-fluent/</guid>
+      <description>&lt;p&gt;Управляя Fluent
+&lt;a href=&#34;http://www.ansys-blog.com/ansys-fluent-matlab-example/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/ansys-fluent-matlab-example/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS #Fluent - убер решатель #CFD, но иногда и им надо управлять. В своем блоге ANSYS приводит пример кода для внешнего управления по средствам #Matlab! Интересно, чем им #Python не угодил?!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys-blog.com/ansys-fluent-matlab-example/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;The (Technical) Kindness of ANSYS Fluent aaS, a Matlab Example&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cornell проведет еще одни курс по ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-11-cornell-provedet-esche-odni-kurs-po-ansys/</link>
+      <pubDate>Sat, 11 Feb 2017 12:02:47 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-11-cornell-provedet-esche-odni-kurs-po-ansys/</guid>
+      <description>&lt;p&gt;Cornell проведет еще одни курс по ANSYS
+&lt;del&gt;&lt;a href=&#34;http://www.ansys-blog.com/engineering-simulations-course/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/engineering-simulations-course/&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20181007163506/http://www.ansys-blog.com:80/engineering-simulations-course/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;#Cornell решил повторить успех прошлогодних курсов по #ANSYS. Уже 15 февраля начнется новая сессия обучения. Я в прошлом году проходи подобный курс, и могу сказать, что он имеет очень хорошую структуру и крайне полезен всем. Будут изучать #Mechanical для #FEM и #Fluent + #CFDPost для #CFD
+&lt;a href=&#34;https://www.youtube.com/watch?v=B8BBP8UhSnc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=B8BBP8UhSnc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&#34;http://www.ansys-blog.com/engineering-simulations-course/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FREE Cornell University Course Teaching Engineering Simulations&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20181007163506/http://www.ansys-blog.com:80/engineering-simulations-course/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=B8BBP8UhSnc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=B8BBP8UhSnc&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS Fluent опять сожрал все ресурсы</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-05-ansys-fluent-opyat-sozhral-vse-resursy/</link>
+      <pubDate>Mon, 05 Dec 2016 17:00:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-05-ansys-fluent-opyat-sozhral-vse-resursy/</guid>
+      <description>&lt;p&gt;ANSYS Fluent опять сожрал все ресурсы
+&lt;a href=&#34;http://investors.ansys.com/press-releases/2016/15-Nov-16-121021132&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://investors.ansys.com/press-releases/2016/15-Nov-16-121021132&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ANSYS Inc,  High Performance Computing Center (#HLRS) Штутгартского университета (University of Stuttgart) и компания #Cray Inc собрались и посчитали #CFD задачу в #ANSYS #Fluent на 172032 ядер!&lt;/p&gt;
+&lt;p&gt;Немного об использованном кластере: 9-ое место в #TOP500, 7 Петафлопс, 185088 процессорных ядер, 7712 двухсокетных сервера на базе Intel Xeon E5-2680 v3.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://investors.ansys.com/press-releases/2016/15-Nov-16-121021132&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://investors.ansys.com/press-releases/2016/15-Nov-16-121021132&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Насколько жарко в вашей серверной?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-14-naskolko-zharko-v-vashey-servernoy/</link>
+      <pubDate>Mon, 14 Nov 2016 17:01:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-14-naskolko-zharko-v-vashey-servernoy/</guid>
+      <description>&lt;p&gt;Насколько жарко в вашей серверной?
+&lt;a href=&#34;http://www.6sigmadcx.com/software/overview.php&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.6sigmadcx.com/software/overview.php&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Тепловой режим в маленькой серверной или в большом ЦОДе это головная боль для инженеров и администраторов. Конечно жидкостное охлаждение снимает некоторые вопросы с перегревом, но поднимает вопросы с жидкостью рядом с техникой и существенно увеличивает стоимость приобретения. У компании Future Facilities (&lt;a href=&#34;http://www.futurefacilities.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.futurefacilities.com&lt;/a&gt;) есть специальный #CFD код #6SigmaDCX решающий именно эту проблему - расчет теплового режима для ЦОД. Интересная штука, для тех, кто не осилил #Fluent или #IcePac.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.6sigmadcx.com/software/overview.php&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.6sigmadcx.com/software/overview.php&lt;/a&gt;
+&lt;a href=&#34;http://www.futurefacilities.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.futurefacilities.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>True CFD из Питера!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-29-true-cfd-iz-pitera/</link>
+      <pubDate>Sat, 29 Oct 2016 17:00:34 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-29-true-cfd-iz-pitera/</guid>
+      <description>&lt;p&gt;True CFD из Питера!
+&lt;a href=&#34;http://www.spbstu.ru/media/news/nauka_i_innovatsii/andrey-garbaruk-about-trends-supercomputer-development/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.spbstu.ru/media/news/nauka_i_innovatsii/andrey-garbaruk-about-trends-supercomputer-development/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В свое время мне посчастливилось работать в смежной с Андреем Викторовичем Гарабаруком лаборатории, и я до сих пор горжусь знакомством с ним и с питерской лабораторией НТС (#NTS, Numerical Turbulence Simulation) из #СПбГПУ. Мне было очень приятно узнать, что доклад Андрея Викторовича &amp;ldquo;Опыт прямого численного моделирования турбулентности на суперкомпьютерах&amp;rdquo; был признан лучшим на конференции &amp;ldquo;Суперкомпьютерные дни в России&amp;rdquo; (Russian Supercomputing Days). Я был на этом докладе, и могу сказать, что рассказ о прямом моделировании турбулентности (aka #DNS) сделанный без формул и занудства - это что-то! У коллег уже несколько десятилетий разрабатывается свой код - NTS CFD Code - который легко может уделать и #Fluent и #StarCCM. Чего только стоят их 19 000 000 000 (миллиардов) ячеек в модели!&lt;/p&gt;
+&lt;p&gt;От души поздравляю Андрея Викторовича и лабораторию NTS!
+#cfd #legendpeople #HPC&lt;/p&gt;
+&lt;p&gt;Для заинтересованных - тезисы к докладу: &lt;a href=&#34;http://russianscdays.org/files/pdf16/357.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://russianscdays.org/files/pdf16/357.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.spbstu.ru/media/news/nauka_i_innovatsii/andrey-garbaruk-about-trends-supercomputer-development/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Андрей Гарбарук – о трендах развития суперкомпьютерной отрасли&lt;/a&gt;
+&lt;a href=&#34;http://russianscdays.org/files/pdf16/357.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://russianscdays.org/files/pdf16/357.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HPC от HPE</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-21-hpc-ot-hpe/</link>
+      <pubDate>Fri, 21 Oct 2016 17:00:37 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-21-hpc-ot-hpe/</guid>
+      <description>&lt;p&gt;HPC от HPE
+&lt;a href=&#34;https://www.hpe.com/h20195/v2/GetPDF.aspx/4AA4-8082ENW.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.hpe.com/h20195/v2/GetPDF.aspx/4AA4-8082ENW.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;У компании #HPE (Hewlett Packard Enterprise), последнего из титанов железного рынка, есть очень полезный документ, описывающий основные правила построения настоящей #HPC системы для расчетов в #ANSYS. Документ находится по ссылке:
+&lt;a href=&#34;https://www.hpe.com/h20195/v2/GetPDF.aspx/4AA4-8082ENW.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.hpe.com/h20195/v2/GetPDF.aspx/4AA4-8082ENW.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В документе приведены полезные прикидки конфигураций для #CFX, #Fluent и #Mechanical/#APDL, есть информация по #RSM, и все это написано довольно простым языком без воды.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.hpe.com/h20195/v2/GetPDF.aspx/4AA4-8082ENW.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.hpe.com/h20195/v2/GetPDF.aspx/4AA4-8082ENW.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GPGPU для Fluent</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-07-gpgpu-dlya-fluent/</link>
+      <pubDate>Fri, 07 Oct 2016 17:01:09 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-07-gpgpu-dlya-fluent/</guid>
+      <description>&lt;p&gt;GPGPU для Fluent
+&lt;a href=&#34;https://www.youtube.com/watch?v=9YH9p2KbRls&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=9YH9p2KbRls&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS #Fluent был первым #CFD кодом общего назначения, который смог задействовать #GPGPU #NVIDIA #Tesla для ускорения расчетов. Сейчас во Fluent есть много мест, где можно ускориться благодаря таким технологиям. ANSYS подготовил отличную видеоинструкцию по применению и настройке ускорителей под расчет.
+#HPC&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=9YH9p2KbRls&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=9YH9p2KbRls&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=9YH9p2KbRls&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS Fluent: Overview of GPU Capabilities&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Это достойно зала славы</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-26-eto-dostoyno-zala-slavy/</link>
+      <pubDate>Mon, 26 Sep 2016 17:00:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-26-eto-dostoyno-zala-slavy/</guid>
+      <description>&lt;p&gt;Это достойно зала славы
+&lt;a href=&#34;http://www.ansys.com/Other/Hall-of-Fame/Leibniz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/Other/Hall-of-Fame/Leibniz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ганноверский университет имени Готфрида Вильгельма Лейбница (Leibniz University Hannover) сделал очень сильную заявку на победу в конкурсе #ANSYS Hall of Fame. В университете создали математическую модель левитационной плавки металла при помощи связки из #ANSYS #Mechanical, #ANSYS #Fluent и #ANSYS #CFD-Post. Получился очень крутой междисциплинарный проект.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys.com/Other/Hall-of-Fame/Leibniz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;2016 ANSYS Hall of Fame: Best in Show - Academic - Leibniz University Hannover&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Силикон ускоряет ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-24-silikon-uskoryaet-ansys/</link>
+      <pubDate>Sat, 24 Sep 2016 17:00:47 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-24-silikon-uskoryaet-ansys/</guid>
+      <description>&lt;p&gt;Силикон ускоряет ANSYS
+&lt;a href=&#34;http://www.ansys-blog.com/sgi-ansys-new-world-record-hpc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/sgi-ansys-new-world-record-hpc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Очередные заоблачные цифры ускорения расчета #ANSYS #Fluent: 145152 ядер на расчет, решение задачи на 830 миллионов ячеек (химические реакции, турбулентность) за 13 секунд. Да у меня такая задача ни на одном компьютере даже не откроется, да она на самом мощном из доступных мне кластеров минуты 3 будет только с #GPFS читаться!&lt;/p&gt;
+&lt;p&gt;Причиной такого ускорения расчетов стала комбинация двух факторов: железо компании #SGI и самая новая версия решателя R17.2. Надеюсь, что SGI, вошедший в состав #HPE будте только больше наращивать темпы!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys-blog.com/sgi-ansys-new-world-record-hpc/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SGI and ANSYS Achieve New World Record in HPC&lt;/a&gt;
+&lt;a href=&#34;http://www.ansys-blog.com/sgi-ansys-new-world-record-hpc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/sgi-ansys-new-world-record-hpc&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Теперь и в Abaqus</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-20-teper-i-v-abaqus/</link>
+      <pubDate>Tue, 20 Sep 2016 17:00:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-20-teper-i-v-abaqus/</guid>
+      <description>&lt;p&gt;Теперь и в Abaqus
+&lt;a href=&#34;https://www.youtube.com/watch?v=mtEXEGVSN7s&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=mtEXEGVSN7s&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Учебный материал, по моделированию знаменитого безлопастного вентилятора #Dyson, который где-то 4-6 лет назад был просчитан и оптимизирован при помощи #ANSYS #Fluent.&lt;/p&gt;
+&lt;p&gt;Я и не знал, что в составе #Abaqus есть #CFD код.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=mtEXEGVSN7s&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;16-15 ABAQUS Tutorial | Bladeless Fan | CFD analysis | 6.13&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-DYNA R9</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-04-ls-dyna-r9/</link>
+      <pubDate>Sun, 04 Sep 2016 06:30:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-04-ls-dyna-r9/</guid>
+      <description>&lt;p&gt;LS-DYNA R9
+&lt;a href=&#34;http://www.dynasupport.com/news/ls-dyna-r9.0.1-r9.109912-released&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynasupport.com/news/ls-dyna-r9.0.1-r9.109912-released&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#LSTC не спит и все быстрее выпускает матерные версии #LSDYNA. Так, 30-ого августа, вышла LS-DYNA R9.0.1.&lt;/p&gt;
+&lt;p&gt;Прочитав весь список изменения мне понравились такие фишки:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ALE_STRUCTURED_MESH - продолжение развития структурированного #ALE решателя&lt;/li&gt;
+&lt;li&gt;#CESE решатель не заброшен, ребята проболтают пилить #CFD код с учетом сжимаемости&lt;/li&gt;
+&lt;li&gt;CONTACT_AUTOMATIC_SURFACE_TO_SURFACE_TIED_WELD - контактный алгоритм упрощающий моделирование сварки&lt;/li&gt;
+&lt;li&gt;CONSTRAINED_LAGRANGE_IN_SOLID_EDGE - тот же CONSTRAINED_LAGRANGE_IN_SOLID, но в 2D&lt;/li&gt;
+&lt;li&gt;DEFINE_DE_INJECTION теперь умеет генерировать #DEM с нормальным распределением  их радиусов в заданном диапазоне&lt;/li&gt;
+&lt;li&gt;BOUNDARY_DE_NON_REFLECTING - неотражающие граничные условия в DEM (не знаю пока зачем, но звучит здорово)&lt;/li&gt;
+&lt;li&gt;DEFINE_DE_MASSFLOW_PLANE для расчета расхода частиц через плоскость&lt;/li&gt;
+&lt;li&gt;ICFD_BOUNDARY_FSWAVE - #ICFD решатель научился генерировать волны в задачах со свободной поверхностью (ну наконец-то!)&lt;/li&gt;
+&lt;li&gt;ICFD_CONTROL_DEM_COUPLING - наконец-то появился #FSI между ICFD и DEM (привет связке #Fluent + #Rocky)&lt;/li&gt;
+&lt;li&gt;ELEMENT_SOLID_NURBS_PATCH - #NURBS solid элементы для #implicit и #explicit решателя!&lt;/li&gt;
+&lt;li&gt;MAT_GENERALIZED_PHASE_CHANGE - новый навороченный материал для моделирования фазовых переходов&lt;/li&gt;
+&lt;li&gt;MAT_ADHESIVE_CURING_VISCOELASTIC - моделирование процесса полимеризации терморезистивных смол (привет #ANSYS #ACCS)&lt;/li&gt;
+&lt;li&gt;MAT_ADD_GENERALIZED_DAMAGE - добавление анизатропной разрушаемости существующим миоделям материалов (пока только для shell)&lt;/li&gt;
+&lt;li&gt;Пластическое разрушение для #XFEM (eXtended Finite Element Method)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Хороший релиз получился :-)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynasupport.com/news/ls-dyna-r9.0.1-r9.109912-released&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LS-DYNA R9.0.1 (R9.109912) released  — LS-DYNA Support&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Как правильно кататься на велосипеде зная #CFD</title>
-      <link>http://localhost:1313/posts/2016-08-08-kak-pravilno-katatsya-na-velosipede-zna/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-08-kak-pravilno-katatsya-na-velosipede-zna/</link>
       <pubDate>Mon, 08 Aug 2016 06:30:22 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-08-08-kak-pravilno-katatsya-na-velosipede-zna/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/fantastic-downhill-from-chris-froome-worth-scientific-bert-blocken&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.linkedin.com/pulse/fantastic-downhill-from-chris-froome-worth-scientific-bert-blocken&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-08-kak-pravilno-katatsya-na-velosipede-zna/</guid>
+      <description>&lt;p&gt;Как правильно кататься на велосипеде зная #CFD
+&lt;a href=&#34;https://www.linkedin.com/pulse/fantastic-downhill-from-chris-froome-worth-scientific-bert-blocken&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.linkedin.com/pulse/fantastic-downhill-from-chris-froome-worth-scientific-bert-blocken&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Кристофер (Крис) Фрум (Christopher &amp;ldquo;Chris&amp;rdquo; Froome) на Тур де Франс 2016 (фр. Tour de France 2016) не только выиграл 8-ой этап гонки, но и удивил всех необычной посадкой на своем гоночном велосипеде. При помощи #ANSYS #Fluent специалисты Université de Liege, Бельгия, Eindhoven University of Technology, Голландия, KU Leuven, Бельгия и ANSYS International провели расследование случившегося и пришли к очень любопытным выводам. За подробностями по ссылке.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/fantastic-downhill-from-chris-froome-worth-scientific-bert-blocken&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Fantastic downhill from Chris Froome; but was it worth it? The scientific answer.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Сегодня в Питере провели небольшой семинар на пол дня по #AN</title>
-      <link>http://localhost:1313/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</link>
+      <title>#ANSYS в своем блоге рассказали как скрепить их #Fluent, #Mechanical #APDL или #Workbench с #MATLAB.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-14-ansys-v-svoem-bloge-rasskazali-kak-skre/</link>
+      <pubDate>Thu, 14 Jul 2016 06:30:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-14-ansys-v-svoem-bloge-rasskazali-kak-skre/</guid>
+      <description>&lt;p&gt;В академической среде пригодиться.&lt;/p&gt;
+&lt;p&gt;P.S. Среди #ACT расширений для ANSYS уже давно есть такое, которое позволяет встраивать MATLAB в схематизму проекта в качестве движка оптимизации и параметрических исследований. &lt;a href=&#34;http://www.ansys-blog.com/how-to-make-matlab-apps-for-ansys/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/how-to-make-matlab-apps-for-ansys/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys-blog.com/how-to-make-matlab-apps-for-ansys/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys | Engineering Simulation Software&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Перекрывающиеся сетки (Overset Mesh) - пожалуй тот функционал, которого давно не хватало #Fluent на фоне конкурентов.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-06-perekryvayuschiesya-setki-overset-mesh-p/</link>
+      <pubDate>Mon, 06 Jun 2016 07:00:25 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-06-perekryvayuschiesya-setki-overset-mesh-p/</guid>
+      <description>&lt;p&gt;И вот, в 17-ой версии #ANSYS он появился. 5-ти минутная демонстрация работы метода прилагается.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Qj-oDEfbpA4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS Fluent - Introduction to Overset Meshing&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сегодня в Питере провели небольшой семинар на пол дня по #ANSYS 17. Небольшого семинара не получилось: зарегистрировалось под 200 человек, пришло более 150 человек. Несколько раз менять планировку залов, что бы вместить всех желающих. Свободные места для опоздавших находились с трудом (см фото с доказательствами)!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</link>
       <pubDate>Thu, 02 Jun 2016 13:58:36 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-02-segodnya-v-pitere-proveli-nebolshoy-semin/</guid>
       <description>&lt;p&gt;11 докладов по #Mechanical, #Explicit, #CFX, #Fluent, #DesignXplorer, #SpaceClaim, #HPC, #RBD, #ACP, #ACCS и конечно же #AIM!&lt;/p&gt;
 &lt;p&gt;А еще состоялся анонс проекта под рабочим названием #CADFEM #Haze!&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Простои и наглядный пример/видео урок по работе #ANSYS #Adjo</title>
-      <link>http://localhost:1313/posts/2016-04-30-prostoi-i-naglyadnyy-primervideo-urok-po/</link>
-      <pubDate>Sat, 30 Apr 2016 07:00:33 +0000</pubDate>
+      <title>#FluiDyna - #CFD код платформы #Altair наконец научился использовать #GPU #NVIDIA для ускорения расчетов.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-03-fluidyna-cfd-kod-platformy-altair-n/</link>
+      <pubDate>Tue, 03 May 2016 07:01:17 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-04-30-prostoi-i-naglyadnyy-primervideo-urok-po/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Покупка CD-adapco обошлась Siemens меньше чем в 1 Instagram </title>
-      <link>http://localhost:1313/posts/2016-01-26-pokupka-cd-adapco-oboshlas-siemens-mensh/</link>
-      <pubDate>Tue, 26 Jan 2016 07:45:44 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/2016-01-26-pokupka-cd-adapco-oboshlas-siemens-mensh/</guid>
-      <description>&lt;p&gt;Siemens прикупил себе CD-adapco. Напомню, что у Siemens сейчас есть #Nastran - старый и проверенный код для неявной механики. Причем он интегрирован с ранее приобретенной очень крутой #CAD системой #Unigraphic, которую с трудом догоняли такие звери как #Catia и Pro/E. Кроме того, #Siemens приобрел себе Samsef - французский код для механики, который лучше всех считает композиты. Teamcenter - вообще самый крутой на рынке PLM/PDM.&lt;/p&gt;
-&lt;p&gt;Добавим к этому портфолио #StarCCM+ - единственного серьезного конкурента #Fluent, и получим очень сильную связку.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-03-fluidyna-cfd-kod-platformy-altair-n/</guid>
+      <description>&lt;p&gt;Добро поджалось в клуб, а то #ANSYS #Fluent в нем уже 2-3 года как скучает.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/11952/FluiDyna-Achieves-Elite-Solution-Provider-Status-for-Accelerated-Computing-with-NVIDIA.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FluiDyna Achieves Elite Solution Provider Status for Accelerated Computing with NVIDIA &amp;gt; ENGINEERING.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Запущенный на Cary XC40TM код ANSYS Fluent помог очень краси</title>
-      <link>http://localhost:1313/posts/2015-10-07-zapuschennyy-na-cary-xc40tm-kod-ansys-flue/</link>
+      <title>Простои и наглядный пример/видео урок по работе #ANSYS #Adjoint Solver для оптимизации в #CFD.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-30-prostoi-i-naglyadnyy-primervideo-urok-po/</link>
+      <pubDate>Sat, 30 Apr 2016 07:00:33 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-30-prostoi-i-naglyadnyy-primervideo-urok-po/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=yW4uEZ4eJ-M&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Smart Shape Optimization with ANSYS Adjoint Solver&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Я давно хотел освоить #CFD, но дальше получения отличной оценки по данному предмету в институте как-то не шло. #ANSYS #Fluent оказался для меня слишком сложен и неустойчив, #ANSYS Flux, который так долго обещали инсайдеры, так и не вышел.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-04-ya-davno-hotel-osvoit-cfd-no-dalshe-po/</link>
+      <pubDate>Mon, 04 Apr 2016 07:01:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-04-ya-davno-hotel-osvoit-cfd-no-dalshe-po/</guid>
+      <description>&lt;p&gt;ANSYS #AIM все время огорчает нехваткой очевидный функций. Так что на этих выходных я начал самообучение LS-DYNA #ICFD.&lt;/p&gt;
+&lt;p&gt;Спешу поделиться первыми успехами.&lt;/p&gt;
+&lt;p&gt;LS-DYNA ICFD это решатель с неявной схемой обладающий следующими фишками:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;потрясающая сеточка устойчивость&lt;/li&gt;
+&lt;li&gt;FSI, связь с DEM, SPH и Termal&lt;/li&gt;
+&lt;li&gt;автоматическая генерация сетки&lt;/li&gt;
+&lt;li&gt;адаптивное перестроение сетки&lt;/li&gt;
+&lt;li&gt;все расчеты делает один код, а не связка кодов от разных разработчиков&lt;/li&gt;
+&lt;li&gt;достаточно лицензии на LS-DYNA&lt;/li&gt;
+&lt;li&gt;свободные поверхности&lt;/li&gt;
+&lt;li&gt;двухфайзные течения&lt;/li&gt;
+&lt;li&gt;неньютоновские жидкости&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=w_PnXPRGdKE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Kármán vortex street in LS-DYNA ICFD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>А вы знали, что можно связать #CFD расчет в #ANSYS #Fluent и #DEM из #Rocky?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-11-a-vy-znali-chto-mozhno-svyazat-cfd-rasche/</link>
+      <pubDate>Fri, 11 Mar 2016 15:00:49 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-11-a-vy-znali-chto-mozhno-svyazat-cfd-rasche/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.rocky-dem.com/blog/2015/12/02/tighter-rocky-and-ansys-integration-enables-stronger-coupling-and-faster-analysis/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Tighter Rocky and ANSYS integration enables stronger coupling and faster analysis -&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Если кто пользует #ANSYS #Polyflow - сотф для моделирования литья пластмасс - то вот вам новость.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-03-esli-kto-polzuet-ansys-polyflow-sot/</link>
+      <pubDate>Thu, 03 Mar 2016 11:55:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-03-esli-kto-polzuet-ansys-polyflow-sot/</guid>
+      <description>&lt;p&gt;Polyflow тоже умеет ускоряться на #GPU #NVIDIA, так как у него решатель на базе #Fluent внутри.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cadfem-cis.ru/list/article/ansys-polyflow-gpu-nvidia/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Поддержка ускорения вычислений на GPU в ANSYS Polyflow— CADFEM&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Рассчитано в #ANSYS #Fluent</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-14-rasschitano-v-ansys-fluent/</link>
+      <pubDate>Sun, 14 Feb 2016 17:00:38 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-14-rasschitano-v-ansys-fluent/</guid>
+      <description>&lt;p&gt;Рассчитано в #ANSYS #Fluent&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://geektimes.ru/post/270578/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Что произойдет при разгерметизации гелий-наполненного диска?&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>У читателей паблика назрел больной вопрос: как заставить работать Using User Defined Functions (#UDF) в #ANSYS #Fluent. Скажу четно, я в #CFD не спец - но я писал UDF для других решателей ANSYS. Давайте устроим обсуждение!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-27-u-chitateley-pablika-nazrel-bolnoy-vopro/</link>
+      <pubDate>Wed, 27 Jan 2016 07:00:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-27-u-chitateley-pablika-nazrel-bolnoy-vopro/</guid>
+      <description>&lt;p&gt;А пока небольшое видео на тему для затравки.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=JyvMWnJFDxc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Using User Defined Functions UDF&amp;rsquo;s In Ansys Fluent&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Покупка CD-adapco обошлась Siemens меньше чем в 1 Instagram (aka 1 миллиард долларов США). Вот так сейчас ценятся инженерные знания, чёртовы хипстеры!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-26-pokupka-cd-adapco-oboshlas-siemens-mensh/</link>
+      <pubDate>Tue, 26 Jan 2016 07:45:44 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-26-pokupka-cd-adapco-oboshlas-siemens-mensh/</guid>
+      <description>&lt;p&gt;Siemens прикупил себе CD-adapco. Напомню, что у Siemens сейчас есть #Nastran - старый и проверенный код для неявной механики. Причем он интегрирован с ранее приобретенной очень крутой #CAD системой #Unigraphic, которую с трудом догоняли такие звери как #Catia и Pro/E. Кроме того, #Siemens приобрел себе Samsef - французский код для механики, который лучше всех считает композиты. Teamcenter - вообще самый крутой на рынке PLM/PDM.&lt;/p&gt;
+&lt;p&gt;Добавим к этому портфолио #StarCCM+ - единственного серьезного конкурента #Fluent, и получим очень сильную связку.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cfdreview.com/article.pl?sid=16/01/26/0141256&amp;amp;rss=1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CFD Review | Siemens to Acquire CD-adapco&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#CADFEM CIS - магия численного моделирования для всех желающих.  #ANSYS #Fluent #CFX #Mechanical #LSDYNA #AUTODYN #HFSS #Maxwell #HPC и многое другое из #CAE.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-13-cadfem-cis-magiya-chislennogo-modelirov/</link>
+      <pubDate>Wed, 13 Jan 2016 09:24:51 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-13-cadfem-cis-magiya-chislennogo-modelirov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Как включить #HPC в #ANSYS #Mechanical, #Fluent, #CFX, #HFSS - в основных средствах численного моделирования.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-26-kak-vklyuchit-hpc-v-ansys-mechanical/</link>
+      <pubDate>Sat, 26 Dec 2015 06:00:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-26-kak-vklyuchit-hpc-v-ansys-mechanical/</guid>
+      <description>&lt;p&gt;Наглядная инструкция в картинках по ссылке.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/activating-hyperdrive-in-ansys-simulations&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Activating Hyperdrive in ANSYS Simulations&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Специалисты из #CONVERGE #CFD показывают если не чудеса, то, на мой неискушенный взгляд, очень хорошую работу их кода с динамическими декартовыми сетками. Интересно, а #Fluent можно заставить решать подобные задачи?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-23-spetsialisty-iz-converge-cfd-pokazyvayut/</link>
+      <pubDate>Fri, 23 Oct 2015 18:01:42 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-23-spetsialisty-iz-converge-cfd-pokazyvayut/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Z34wGhk1NdM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Reed Valve Compressor Simulation&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=7awFjiqX_o8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Wastegate Valve Simulation&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=Z-Q2Wc22IbI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Spring Valve Compressor Simulation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как заменить 3Ds MAX на #Fluent</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-23-kak-zamenit-3ds-max-na-fluent/</link>
+      <pubDate>Fri, 23 Oct 2015 05:22:52 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-23-kak-zamenit-3ds-max-na-fluent/</guid>
+      <description>&lt;p&gt;Как заменить 3Ds MAX на #Fluent&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Запущенный на Cary XC40TM код ANSYS Fluent помог очень красивому автомобилю Alfa Romeo Giulietta издавать меньше аэродинамических шумов.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-07-zapuschennyy-na-cary-xc40tm-kod-ansys-flue/</link>
       <pubDate>Wed, 07 Oct 2015 18:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-07-zapuschennyy-na-cary-xc40tm-kod-ansys-flue/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-07-zapuschennyy-na-cary-xc40tm-kod-ansys-flue/</guid>
       <description>&lt;p&gt;Дальше остаться только завидовать показателям: сетка на 62 миллионов ячеек, 8192 ядра суперкомпьютера. CARY MPI и Cary Linux делают свое дело в плане эффективности.&lt;/p&gt;
 &lt;p&gt;Иллюстрации от FCA Italy.&lt;/p&gt;
 &lt;p&gt;Пресс релиз доступен по ссылке:
@@ -243,22 +1237,59 @@ ANSYS Workbench
     </item>
     
     <item>
-      <title>Издание HPCWire начало голосование за лучшие HPC 2015 года. </title>
-      <link>http://localhost:1313/posts/2015-09-30-izdanie-hpcwire-nachalo-golosovanie-za-lu/</link>
+      <title>Издание HPCWire начало голосование за лучшие HPC 2015 года.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-30-izdanie-hpcwire-nachalo-golosovanie-za-lu/</link>
       <pubDate>Wed, 30 Sep 2015 06:30:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-09-30-izdanie-hpcwire-nachalo-golosovanie-za-lu/</guid>
-      <description>&lt;p&gt;Голосование будет проходить до 9 Октября 23:59 по тихоокеанскому времени.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-30-izdanie-hpcwire-nachalo-golosovanie-za-lu/</guid>
+      <description>&lt;p&gt;Среди множества дисциплин засветились следующие важные для нас игроки: NICE Software, ANSYS Cloud, ANSYS Fluent, Abaqus, Altair HyperWorks, Star-CD и многое другое.&lt;/p&gt;
+&lt;p&gt;Голосование будет проходить до 9 Октября 23:59 по тихоокеанскому времени.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.hpcwire.com/2015-hpcwire-readers-choice-awards/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;2015 Annual HPCwire Readers&amp;rsquo; Choice Awards - HPCwire&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Молния! Сегодня стало известно о новых рекордах ANSYS в обла</title>
-      <link>http://localhost:1313/posts/2015-09-10-molniya-segodnya-stalo-izvestno-o-novyh-r/</link>
+      <title>#ANSYS #FLUENT #APDL #DM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-23-ansys-fluent-apdl-dm/</link>
+      <pubDate>Wed, 23 Sep 2015 09:57:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-23-ansys-fluent-apdl-dm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Молния!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-10-molniya-segodnya-stalo-izvestno-o-novyh-r/</link>
       <pubDate>Thu, 10 Sep 2015 11:19:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-09-10-molniya-segodnya-stalo-izvestno-o-novyh-r/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-10-molniya-segodnya-stalo-izvestno-o-novyh-r/</guid>
+      <description>&lt;p&gt;Сегодня стало известно о новых рекордах ANSYS в области HPC. Рекордсменом в очередной раз стал ANSYS Fluent - основной CFD код из набора решателей ANSYS. ANSYS в сотрудничестве с Cray удалось практически в 4 раза увеличить количество эффективно используемых ядре для расчета. Компании заявляют, что для решателя были достигнуты показатели эффективности в 90% при работе на 129 000 ядер. Для расчета использовалась система Cray XC3&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.prnewswire.com/news-releases/ansys-and-cray-smash-supercomputing-records-300139525.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS and Cray Smash Supercomputing Records&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>История успеха Nifco Inc., которым Wilde Analysis (британские партнеры ANSYS) внедрили целую пачку продуктов #ANSYS: #Fluent, #DesignXplorer, #SpaceClaim Direct Modeler и даже #Mechanical.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-08-29-istoriya-uspeha-nifco-inc-kotorym-wilde/</link>
+      <pubDate>Sat, 29 Aug 2015 07:00:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-08-29-istoriya-uspeha-nifco-inc-kotorym-wilde/</guid>
+      <description>&lt;p&gt;Говорят, что без работы остались японцы,  а цикл проектирования сократился с недель до часов. Видать хороший ликбез для Nifco Inc. устроили.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://wildeanalysis.co.uk/casestudies/driving-technological-innovation-ansys&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Driving Technological Innovation with ANSYS - Wilde Analysis&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nebia - супер экономичный душ с Kickstarter.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-08-22-nebia-super-ekonomichnyy-dush-s-kickstar/</link>
+      <pubDate>Sat, 22 Aug 2015 17:00:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-08-22-nebia-super-ekonomichnyy-dush-s-kickstar/</guid>
+      <description>&lt;p&gt;Примечательно, что проектируют его в #SolidWorks, а гидродинамику считают в #ANSYS #Fluent. Оба продукта засветились в ролике.
+Забавный факт - все инженеры работают на компьютерах Apple, на части из которых запущен Windows 8.1, так как ни #ANSYS, ни #SolidWorks под OS X нет. Вот такие они - стартаперы!
+Если честно, то я взял бы себе такой душ домой, если бы он только мог противостоять стандартной проблеме жесткой воды.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=6p1ypESj6nI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Nebia Kickstarter Video&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

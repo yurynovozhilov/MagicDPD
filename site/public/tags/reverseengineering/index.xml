@@ -2,24 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ReverseEngineering on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/reverseengineering/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/reverseengineering/</link>
     <description>MagicDPD: Magic Driven Product Development! (ReverseEngineering)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 21 Aug 2016 06:30:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jan 2019 17:00:27 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/reverseengineering/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/reverseengineering/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Восстановление аналитической геометрии по STL в SpaceClaim</title>
-      <link>http://localhost:1313/posts/2016-08-21-vosstanovlenie-analiticheskoy-geometrii-p/</link>
-      <pubDate>Sun, 21 Aug 2016 06:30:25 +0000</pubDate>
+      <title>InverseCSG: как получить B-rep из STL</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-28-inversecsg-kak-poluchit-b-rep-iz-stl/</link>
+      <pubDate>Mon, 28 Jan 2019 17:00:27 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-08-21-vosstanovlenie-analiticheskoy-geometrii-p/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.spaceclaim.com/en/Solutions/ReverseEngineering.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.spaceclaim.com/en/Solutions/ReverseEngineering.aspx&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Похоже, что у #ANSYS #SpaceClaim Direct Modeller (#SCDM) есть ответ технологиям #PolyNURBS, заложеным в #solidThinking. Надо только уметь ими пользоваться: функционал по богаче, да настроек по более.&lt;/p&gt;
-&lt;p&gt;А мне прямо сейчас ох как надо восстановить нормальную геометрию на основе #STL резуьтатов топологической оптимизации.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-28-inversecsg-kak-poluchit-b-rep-iz-stl/</guid>
+      <description>&lt;p&gt;InverseCSG: как получить B-rep из STL&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/mf7Xd6oxNrM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/mf7Xd6oxNrM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Открытый проект InverseCSG посвящен разработке алгоритма, способного не просто восстановить CAD по сеточной модели. Система, разработанная в MIT, должна уметь построить параметрическое CAD дерево операций, выполенение которого позволяет получить требуемую геометрическую форму.&lt;/p&gt;
+&lt;p&gt;Работа алгоритма проверена на тестовой выборке из 25 моделей. Показано, что код успешно восстанавливает геометрию даже при добавлении шума в исходный файл.&lt;/p&gt;
+&lt;p&gt;К сожаленю, сейчас репозиторий проекта закрыт. Надеюсь, что это просто временный сбой.&lt;/p&gt;
+&lt;p&gt;Публикация по работе кода: &lt;a href=&#34;https://people.csail.mit.edu/taodu/csg/csg.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://people.csail.mit.edu/taodu/csg/csg.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Снапшот репозитория проекта: &lt;a href=&#34;https://dl.acm.org/citation.cfm?doid=3272127.3275006&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://dl.acm.org/citation.cfm?doid=3272127.3275006&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#InverseCSG #MIT #Open_Source #Python #ReverseEngineering #STL&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2ik&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2ik&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/mf7Xd6oxNrM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/mf7Xd6oxNrM&lt;/a&gt;
+&lt;a href=&#34;https://people.csail.mit.edu/taodu/csg/csg.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://people.csail.mit.edu/taodu/csg/csg.pdf&lt;/a&gt;
+&lt;a href=&#34;https://dl.acm.org/citation.cfm?doid=3272127.3275006&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://dl.acm.org/citation.cfm?doid=3272127.3275006&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2ik&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2ik&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Отсканируй и распечатай президента</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-22-otskaniruy-i-raspechatay-prezidenta/</link>
+      <pubDate>Mon, 22 Aug 2016 06:30:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-22-otskaniruy-i-raspechatay-prezidenta/</guid>
+      <description>&lt;p&gt;Отсканируй и распечатай президента
+&lt;a href=&#34;https://www.youtube.com/watch?v=gpMOe7O88cY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=gpMOe7O88cY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Забавная новость для утра прнедельника. Инженеры компании Artec 3D, разработчики ручных 3D сканеров, сначала отсканировали, а затем и распечатали в 3D президента США. Для доводки #STL модели президента использовалось ПО GEOMAGIC DESIGN X, о котором я уже писал.&lt;/p&gt;
+&lt;p&gt;#artec3d #GEOMAGIC #ReverseEngineering
+&lt;a href=&#34;https://www.youtube.com/watch?v=gpMOe7O88cY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=gpMOe7O88cY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=gpMOe7O88cY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;A Presidential 3D Portrait - 3D Scanning Barack Obama&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Восстановление аналитической геометрии по STL в SpaceClaim: часть 2</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-21-vosstanovlenie-analiticheskoy-geometrii-p/</link>
+      <pubDate>Sun, 21 Aug 2016 12:01:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-21-vosstanovlenie-analiticheskoy-geometrii-p/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=VEUvYM2qFRc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=VEUvYM2qFRc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;А теперь более образовательный пост на тему работы с #NURBS в #ANSYS #SpaceClaim Direct Modeller (#SCDM): несколько небольших мастерклассов по восстановлению аналитических поверхностей на основе #STL моделей.&lt;/p&gt;
+&lt;p&gt;P.S. Вот, что бывает, когда нужно решить интересную и новую задачу - три поста про SCDM в ряд!
+#ReverseEngineering
+&lt;a href=&#34;https://www.youtube.com/watch?v=VEUvYM2qFRc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=VEUvYM2qFRc&lt;/a&gt;
+&lt;a href=&#34;http://storage.ansys.com/video/release-highlights/spaceclaim-rev-eng.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://storage.ansys.com/video/release-highlights/spaceclaim-rev-eng.mp4&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=2j6N5A6T3Kw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=2j6N5A6T3Kw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=VEUvYM2qFRc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS SpaceClaim 2016 Reverse Engineering&lt;/a&gt;
+&lt;a href=&#34;http://storage.ansys.com/video/release-highlights/spaceclaim-rev-eng.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://storage.ansys.com/video/release-highlights/spaceclaim-rev-eng.mp4&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=2j6N5A6T3Kw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=2j6N5A6T3Kw&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

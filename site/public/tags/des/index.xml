@@ -2,21 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DES on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/des/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/des/</link>
     <description>MagicDPD: Magic Driven Product Development! (DES)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 29 Dec 2017 17:14:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Sep 2021 13:01:36 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/des/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/des/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>#zCFD - #CFD код от #Zenotech для расчета сжимаемых течений,</title>
-      <link>http://localhost:1313/posts/2017-12-29-zcfd-cfd-kod-ot-zenotech-dlya-raschet/</link>
+      <title>Скоро расскажу про LS-DYNA R13</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-20-skoro-rasskazhu-pro-ls-dyna-r13/</link>
+      <pubDate>Mon, 20 Sep 2021 13:01:36 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-20-skoro-rasskazhu-pro-ls-dyna-r13/</guid>
+      <description>&lt;p&gt;Скоро расскажу про LS-DYNA R13&lt;/p&gt;
+&lt;p&gt;Коллеги, прошу вас зарезервировать час своего времени на этой неделе. В четверг, в 12:00 по МСК, состояться вебинар CADFEM CIS, с обзором возможностей нового решателя Ansys LS-DYNA 13. Данный вебинар будет первым моим вебинаром с обзором функций нового релиза LS-DYNA.&lt;/p&gt;
+&lt;p&gt;Подготовка к вебинару стала для меня настоящей проверкой на прочность. Для того, что бы быть способным внятно рассказать вам про новые функции решателя, мне пришлось прочить не одну научную статью. А функций таких добавилось много.&lt;/p&gt;
+&lt;p&gt;Полученный насыщенный материал будет разделен на несколько частей для лучшего восприятия. В ближайший четверг, я расскажу первую его частью, сосредоточенную около прочностных расчетах: IGA, EFG, SPG, SPH, DES, XFEM, новые типы элементов и модели материалов, улучшения в работе подушек безопасности и многомасштабное моделирование. Новые возможности, связанные со сжимаемым/несжимаемым однофазным/многофазным CFD, ALE, EM и NVH будет освещены во второй части вебинара, которую стоит ждать в октябре.&lt;/p&gt;
+&lt;p&gt;Бесправная регистрация для участия в &amp;ldquo;живом&amp;rdquo; вебинаре доступна по ссылке: &lt;a href=&#34;https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13/&lt;/a&gt; - приходите и приносите свои вопросы, задавайте их в чате или организуйте научную дискуссию.&lt;/p&gt;
+&lt;p&gt;#airbag #ansys #ansys_lst #cadfem #cpm #des #efg #iga #ls-dyna #r13 #sph #xfem
+&lt;a href=&#34;https://tinyurl.com/yg8kvhou&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yg8kvhou&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Новые возможности решателя LS-DYNA R13&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yg8kvhou&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yg8kvhou&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-DYNA DES</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-09-21-ls-dyna-des/</link>
+      <pubDate>Fri, 21 Sep 2018 17:01:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-09-21-ls-dyna-des/</guid>
+      <description>&lt;p&gt;LS-DYNA DES
+Видео от LSTC, знакомящее зрителей с работой DES (Discret Element Sphere) решателя, предназначенного для моделирования сыпучих сред. Фактически под DES скрывается обычный сферический DEM, но только с учетом прочих интересных возможностей LS-DYNA.&lt;/p&gt;
+&lt;p&gt;Данный материал не только знакомит с основами метода, но и даёт подробные инструкции о том, какие карты и как надо настраивать, чтобы провести расчет.&lt;/p&gt;
+&lt;p&gt;#DEM #DES #LSDYNA #LSTC
+&lt;a href=&#34;http://bit.ly/2xpua7t&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2xpua7t&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2xpua7t&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2xpua7t&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#zCFD - #CFD код от #Zenotech для расчета сжимаемых течений, который обещает сразу кучу всего нового, и многое из это - бесплатно.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-29-zcfd-cfd-kod-ot-zenotech-dlya-raschet/</link>
       <pubDate>Fri, 29 Dec 2017 17:14:11 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-12-29-zcfd-cfd-kod-ot-zenotech-dlya-raschet/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-29-zcfd-cfd-kod-ot-zenotech-dlya-raschet/</guid>
       <description>&lt;p&gt;Итак, ключевые особенности ПО:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;эффективность - обычно присутствует у любого, уважающего себя кода&lt;/li&gt;
@@ -26,7 +59,11 @@
 &lt;/ul&gt;
 &lt;p&gt;Теперь насчет бесплатности - полифункциональную версию для работы на машине с общей памятью можно скачать с сайта совершенно бесплатно!&lt;/p&gt;
 &lt;p&gt;Верификационные примеры для кода прилагаются: &lt;a href=&#34;http://ift.tt/2CmJ6GY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2CmJ6GY&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&lt;/a&gt; 🔗 New zCFD release for affordable CFD at scale | Zenotech Ltd&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&#34;https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20230929135949/https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt; 🔗 New zCFD release for affordable CFD at scale | Zenotech Ltd&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2ClqhnK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ClqhnK&lt;/a&gt;
+&lt;del&gt;&lt;a href=&#34;https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20230929135949/https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     

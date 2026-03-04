@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DYNA3D on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/dyna3d/</link>
+    <description>MagicDPD: Magic Driven Product Development! (DYNA3D)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 09 Sep 2022 18:00:08 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/dyna3d/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Вчера компания #Altair объявила об открытии исходны кодов ее явного прочностного решателя #Radioss.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-09-vchera-kompaniya-altair-obyavila-ob-otkry/</link>
+      <pubDate>Fri, 09 Sep 2022 18:00:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-09-vchera-kompaniya-altair-obyavila-ob-otkry/</guid>
+      <description>&lt;p&gt;Данный решатель, как и многие подобные проекты, создавался на основе исходных кодов #DYNA3D. Коллеги так хорошо срисовывали, что в решателю напрямую можно скармливать базовые модели #Ansys #LSDYNA.&lt;/p&gt;
+&lt;p&gt;Короче, Altair сделали большой #opensource сообществу и всем тем, кто не может купить решатель или не нуждается в технической поддержке. Я же думаю, что данный код не пользуется особой коммерческой популярностью. Altair просто пытается отдать его на сопровождение сообществу, а не убивать его разработку совсем. &lt;a href=&#34;https://www.openradioss.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.openradioss.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.openradioss.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.openradioss.org/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Я нашел оригинальную статью с первым успешным комическим краш тестом автомобиля, выполненным в #LLNL #DYNA3D, прародителе #ANSYS #LSDYNA!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-03-09-ya-nashel-originalnuyu-statyu-s-pervym-usp/</link>
+      <pubDate>Wed, 09 Mar 2022 17:00:02 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-03-09-ya-nashel-originalnuyu-statyu-s-pervym-usp/</guid>
+      <description>&lt;p&gt;Расчет выполнен в 1986 году по заказу Suzuki Motor Co. Ltd. Расчет занимал от 15 до 20 минут при использовании четырех процессоров #HPC системы #Cray X-MP-46. &lt;a href=&#34;https://inis.iaea.org/search/search.aspx?orig_q=RN:17073039&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://inis.iaea.org/search/search.aspx?orig_q=RN:17073039&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://inis.iaea.org/search/search.aspx?orig_q=RN:17073039&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Application of DYNA3D in large scale crashworthiness calculat..|INIS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Влияние DYNA на CAE коды</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-11-22-vliyanie-dyna-na-cae-kody/</link>
+      <pubDate>Fri, 22 Nov 2019 13:32:51 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-11-22-vliyanie-dyna-na-cae-kody/</guid>
+      <description>&lt;p&gt;Влияние DYNA на CAE коды&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/survey-to-determine-the-value-of-dyna/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Влияние DYNA на CAE коды - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>История современного КЭ</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-24-istoriya-sovremennogo-ke/</link>
+      <pubDate>Thu, 24 May 2018 18:00:48 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-24-istoriya-sovremennogo-ke/</guid>
+      <description>&lt;p&gt;История современного КЭ&lt;/p&gt;
+&lt;p&gt;В школе я очень не любил историю — мне было не очень интересно, и я совершенно не мог запомнить даты. Но в последнее время история стала мне очень интересна. Только это не история завоеваний, а история становления современного CAE софта. Я с большим удовольствием ищу и изучаю материалы про то, как это было, когда компьютеры были большими. Коллеги из Multimechanics сделали небольшой, но интересный обзор начала вычислительной механики. Если коротко:
+1968 — MCS/Nastran (MacNeal и Schwendler)
+1970 — ANSYS (Dr. John Swanson)
+1971 — MARC (Dr. Dave Hibbitt)
+1977 — AutoCAD (Mike Riddle и John Walker)
+1978 — Abaqus (Dr. Hibbitt)
+1978 — DYNA3D (Dr. John Hallquist)
+1985 — Altair HyperMesh
+1991 — NEi Nastran
+&lt;a href=&#34;http://blog.multimechanics.com/a-brief-history-of-finite-element-analysis-part-i&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://blog.multimechanics.com/a-brief-history-of-finite-element-analysis-part-i&lt;/a&gt;
+&lt;a href=&#34;http://blog.multimechanics.com/a-brief-history-of-finite-element-analysis-part-ii&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://blog.multimechanics.com/a-brief-history-of-finite-element-analysis-part-ii&lt;/a&gt;
+#Altair #ANSYS #AutoCAD #DYNA3D #HyperMesh #LS-DYNA #Marc #MSC #MultiMechanics #NASTRAN #NEI&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Ru&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Ru&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.multimechanics.com/a-brief-history-of-finite-element-analysis-part-i&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;A Brief History of Finite Element Analysis - Part I&lt;/a&gt;
+&lt;a href=&#34;http://blog.multimechanics.com/a-brief-history-of-finite-element-analysis-part-ii&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://blog.multimechanics.com/a-brief-history-of-finite-element-analysis-part-ii&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-1Ru&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Ru&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Прочность паутины</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-25-prochnost-pautiny/</link>
+      <pubDate>Sun, 25 Dec 2016 17:01:44 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-25-prochnost-pautiny/</guid>
+      <description>&lt;p&gt;Прочность паутины
+&lt;a href=&#34;https://www.youtube.com/watch?v=p_iQp2XR4Dk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=p_iQp2XR4Dk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Результаты оксфордского исследования динамики паутины выполненные в 2013 году при помощи #DYNA3D. И вот тут непонятно, почему в Оксфорде в 2013 году для решения задачи решили использовать старый военный (не доступный простым смертным) код 1995 года выпуска, фордом которого является #LSDYNA?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=p_iQp2XR4Dk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=p_iQp2XR4Dk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=p_iQp2XR4Dk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Structural Analysis of a Garden Spider&amp;rsquo;s Orb Web using non-linear DYNA3D&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>В рамках рубрики #legendpeople: Джон Холлквист (John O.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-26-v-ramkah-rubriki-legendpeople-dzhon-hol/</link>
+      <pubDate>Sun, 26 Jun 2016 12:02:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-26-v-ramkah-rubriki-legendpeople-dzhon-hol/</guid>
+      <description>&lt;p&gt;Hallquist) - разработчик кодов #DYNA3D и #LSDYNA и основатель Livermore Software Technology Corporation (#LSTC). Несмотря на то, что первый код он создал еще в 1975 году, Джон до сих пор не отошел от дел - на всех мероприятиях LSTC он читает пленарные и технические доклады, он же является основным автором технической и теоретической документации к коду. Компания LSTC не является публичной компанией, а значит ей не надо ублажать акционеров. Возможно по этому, ей хватает коллектива из пары сотен человек что бы быть лидером на рынке.&lt;/p&gt;
+&lt;p&gt;Небольшая заметка о начале его работ прилагается.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.llnl.gov/news/computer-code-led-entrepreneurial-success&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;A computer code led to entrepreneurial success&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

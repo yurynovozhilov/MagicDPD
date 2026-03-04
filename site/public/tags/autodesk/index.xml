@@ -2,100 +2,379 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Autodesk on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/autodesk/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/autodesk/</link>
     <description>MagicDPD: Magic Driven Product Development! (Autodesk)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Tue, 01 Oct 2019 13:00:54 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/autodesk/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/autodesk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>SOFiSTiK Reinforcement Generation — генерируем арматуру быст</title>
-      <link>http://localhost:1313/posts/2019-10-01-sofistik-reinforcement-generation-gene/</link>
+      <title>SOFiSTiK Reinforcement Generation — генерируем арматуру быстро</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-01-sofistik-reinforcement-generation-gene/</link>
       <pubDate>Tue, 01 Oct 2019 13:00:54 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-10-01-sofistik-reinforcement-generation-gene/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-01-sofistik-reinforcement-generation-gene/</guid>
       <description>&lt;p&gt;SOFiSTiK Reinforcement Generation создан для того, чтобы удобно и быстро генерировать геометрию арматуры в железобетонных строительных конструкциях.&lt;/p&gt;
 &lt;p&gt;Несмотря на то, что сейчас систему показывают как работающую только для Autodesk Revit, знающие люди говорят, что на самом деле у нее внутри есть свой собственный скриптовый язык, и ее можно заставить генерировать такую арматуру для произвольного IFC и как вам надо.&lt;/p&gt;
 &lt;p&gt;А вы еще знаете софт, который умеет генерировать массивы арматуры?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/sofistik-reinforcement-generation/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SOFiSTiK Reinforcement Generation - генерируем арматуру быстро - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>SolidProfessor вводит систему подписки на свою библиотеку ку</title>
-      <link>http://localhost:1313/posts/2018-07-15-solidprofessor-vvodit-sistemu-podpiski-n/</link>
+      <title>Autodesk CFD</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-04-autodesk-cfd/</link>
+      <pubDate>Tue, 04 Dec 2018 17:00:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-04-autodesk-cfd/</guid>
+      <description>&lt;p&gt;Autodesk CFD
+Небольшой ликбез по CFD решениям начального уровня от Autodesk&lt;/p&gt;
+&lt;p&gt;Разработчики сами позиционируют себя вне весовой категории больших решателей. И тут есть одна беда: если вы пишете код, заточенный в основном на начинающих, не ждите, что им будет пользоваться кто-то другой.&lt;/p&gt;
+&lt;p&gt;#Autodesk #CFD
+&lt;a href=&#34;http://bit.ly/2Ul8vqW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Ul8vqW&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2Ul8vqW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Ul8vqW&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Знакомимся с DIANA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-19-znakomimsya-s-diana/</link>
+      <pubDate>Mon, 19 Nov 2018 07:00:56 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-19-znakomimsya-s-diana/</guid>
+      <description>&lt;p&gt;Знакомимся с DIANA
+Мои читатели рассказали мне, что есть такая штука, как DIANA, и я решил обратить на нее внимание. Итак, DIANA (DIaplacement ANAlyser, &lt;a href=&#34;https://dianafea.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://dianafea.com&lt;/a&gt;) - КЭ код общего назначения, разработанный специально для решения задач гражданского строительства, нефтянки и геомеханики. Код ведет ведет свою историю с 1972 года, когда его разработкой занялись в Нидерландах TNO Building and Construction Research (&lt;a href=&#34;https://www.tno.nl/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.tno.nl/en/&lt;/a&gt;) на базе закрытого кода COLOS 70-х годов разработки. Так что DIANA - тертый калач, постарше NASTRAN и ANSYS.
+А для начала знакомства с кодом стоит посмотреть часовой вебинар, посвященной вышедшей недавно версии DIANA 10.2&lt;/p&gt;
+&lt;p&gt;Посмотрев данную запись, хочу отметить, что коллеги из Нидерландов не стояли на месте. У системы вполне себе приятный графический интерфейс, напоминающий ANSYS Mechanical, есть свой, вполне вменяемый сеточный генератор.
+А специалисты по BIM не пройдут мимо такого жирного плюса, как возможность напрямую читать данные из AUTODESK Revit и формата IFC.
+Ну и, конечно, всегда очень приятно иметь автоматическую верстку отчетов в HTML, rtf, OpenOffice, markdown (!!!) и LaTex (!!! !!! !!!).&lt;/p&gt;
+&lt;p&gt;#Autodesk #Civil #DIANA #IFC #Revit
+&lt;a href=&#34;http://bit.ly/2RZezTS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RZezTS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dianafea.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Home - DIANA&lt;/a&gt;
+&lt;a href=&#34;https://www.tno.nl/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.tno.nl/en/&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2RZezTS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RZezTS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Autodesk Netfabb 2019</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-05-autodesk-netfabb-2019/</link>
+      <pubDate>Sun, 05 Aug 2018 18:01:29 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-05-autodesk-netfabb-2019/</guid>
+      <description>&lt;p&gt;Autodesk Netfabb 2019
+Обновился главный продукт Autodesk в области аддитивных технологий. В Netfabb 2019 добавились продвинутые функции по работе в lattice structure. Это очень здорово выглядит, но пока все направление lattice structure как-то не особо находит себе применение.
+&lt;a href=&#34;http://blogs.autodesk.com/netfabb/2018/07/19/whats-new-in-autodesk-netfabb-2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://blogs.autodesk.com/netfabb/2018/07/19/whats-new-in-autodesk-netfabb-2019/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#AdditiveManufacturing #Autodesk #LatticeStructure #Netfabb
+&lt;a href=&#34;http://bit.ly/2OLh4Zd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OLh4Zd&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://blogs.autodesk.com/netfabb/2018/07/19/whats-new-in-autodesk-netfabb-2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://blogs.autodesk.com/netfabb/2018/07/19/whats-new-in-autodesk-netfabb-2019/&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2OLh4Zd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OLh4Zd&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SolidProfessor вводит систему подписки на свою библиотеку курсов</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-15-solidprofessor-vvodit-sistemu-podpiski-n/</link>
       <pubDate>Sun, 15 Jul 2018 18:02:34 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-07-15-solidprofessor-vvodit-sistemu-podpiski-n/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-15-solidprofessor-vvodit-sistemu-podpiski-n/</guid>
       <description>&lt;p&gt;Пожалуй самая крупная из существующих платформ online обучения для инженеров вводит новую модель монетизации. Если раньше вы приобретали права на просмотр того или иного учебного курса, то теперь вы можете подписаться на доступ ко всей библиотеке за $49 в месяц.
 А платить есть за что: на платформе есть учебные материалы по таким системам, как Solidworks, ANSYS, Autodesk,  Caita, Inventor, Onshape и многому другому (&lt;a href=&#34;https://www.solidprofessor.com/tutorials/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.solidprofessor.com/tutorials/)&lt;/a&gt;.
 &lt;a href=&#34;https://www.develop3d.com/blog/solidprofessor-announces-single-plan-pricing-solidworks-education&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.develop3d.com/blog/solidprofessor-announces-single-plan-pricing-solidworks-education&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ANSYS #Autodesk #Caita #Inventor #Onshape #SolidProfessor #SolidWorks
 &lt;a href=&#34;http://bit.ly/2uzy0c0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2uzy0c0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.solidprofessor.com/tutorials/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.solidprofessor.com/tutorials/&lt;/a&gt;
+&lt;a href=&#34;https://www.develop3d.com/blog/solidprofessor-announces-single-plan-pricing-solidworks-education&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.develop3d.com/blog/solidprofessor-announces-single-plan-pricing-solidworks-education&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2uzy0c0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2uzy0c0&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Статья - размышление про то, как #ANSYS #Discovery Live помо</title>
-      <link>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</link>
+      <title>Как насчет прикупить себе немного CAE?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-08-kak-naschet-prikupit-sebe-nemnogo-cae/</link>
+      <pubDate>Sun, 08 Jul 2018 18:01:45 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-08-kak-naschet-prikupit-sebe-nemnogo-cae/</guid>
+      <description>&lt;p&gt;Как насчет прикупить себе немного CAE?
+Акции наших любимых вендоров CAE софта растут не хуже Apple или Google.&lt;/p&gt;
+&lt;p&gt;#ANSYS #Autodesk
+&lt;a href=&#34;http://bit.ly/2NzlHFb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NzlHFb&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2NzlHFb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NzlHFb&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Машинный интеллект проектирует стулья</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-04-mashinnyy-intellekt-proektiruet-stulya/</link>
+      <pubDate>Thu, 04 Jan 2018 18:11:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-04-mashinnyy-intellekt-proektiruet-stulya/</guid>
+      <description>&lt;p&gt;Машинный интеллект проектирует стулья
+История о том, как при помощи программного обеспечения Autodesk Dreamcatcher был спроектирован удобный и симпатичны концепт стула Elbo Chair. По сути это не то что бы машинное обучени - это скорее топологическая оптимизация или генеративный дизайн, но для хайпа можно и AI упомянуть.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.digitaleng.news/de/ai-wants-seat-design-table/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.digitaleng.news/de/ai-wants-seat-design-table/&lt;/a&gt;
+#AI #Autodesk #Dreamcatcher #optimization #Topology
+&lt;a href=&#34;https://magicdpd.ru/?p=5822&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5822&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.digitaleng.news/de/ai-wants-seat-design-table/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Artificial Intelligence Wants a Seat at the Design Table&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=5822&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5822&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Целый вебинар по теме #FSI в программных решениях #Autodesk.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-23-tselyy-vebinar-po-teme-fsi-v-programmnyh/</link>
+      <pubDate>Sat, 23 Sep 2017 08:30:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-23-tselyy-vebinar-po-teme-fsi-v-programmnyh/</guid>
+      <description>&lt;p&gt;Целый вебинар по теме #FSI в программных решениях #Autodesk. Я все время забываю, что там тоже есть какой-то #CFD код&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/df739OnjScM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/df739OnjScM&lt;/a&gt;🔗 Fluid-Structure Interaction in Autodesk CFD&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2wHTKG5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wHTKG5&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/df739OnjScM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/df739OnjScM&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/df739OnjScM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/df739OnjScM&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Статья - размышление про то, как #ANSYS #Discovery Live помогает ANSYS реализовать свободомыслий давнюю задумку: сделать всех инженеров и проектировщиков своими пользователями.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</link>
       <pubDate>Sun, 17 Sep 2017 17:04:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</guid>
       <description>&lt;p&gt;И тут ключевыми факторами успеха оказывается не только использование самого передового решателя, разработанного совместно с #NVIDIA. Не даром ANSYS очень дружен с разработчиком GPU. Об этом говорят те факты, что #Mechanical #APDL был первым коммерческим #FEM использовавшим #GPU, как и #Fluent - первым коммерческим #CFD использовавшим #GPU&lt;/p&gt;
 &lt;p&gt;Тут еще вспоминается и #SpaceClaim, который выйдя на рынок в 2005 сделал лидеров отстающими. Именно после #SpaceClaim появились такие системы, как #PTC #Creo, #Autodesk #Fusion и концепция #Siemens Synchronous Technology.&lt;/p&gt;
 &lt;p&gt;Сейчас SpaceClaim становиться геометрическим ядром для #Workbench, #AIM и #ANSYS #Discovery.&lt;/p&gt;
 &lt;p&gt;#GPGPU #CUDA
 &lt;a href=&#34;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&lt;/a&gt; 🔗 ANSYS Discovery Live Changes Everything&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>История успеха небольшой компании Hackrod (http://hackrod.com), проектирующей при помощи #Autodesk #Fusion 360 кастомные спортивные автомобили с футуристическими пространственными рамами.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-21-istoriya-uspeha-nebolshoy-kompanii-hackro/</link>
+      <pubDate>Mon, 21 Aug 2017 23:28:33 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-21-istoriya-uspeha-nebolshoy-kompanii-hackro/</guid>
+      <description>&lt;p&gt;Ребята используют экспериментальный софт под кодовым названием Project #Dreamcatcher (&lt;a href=&#34;https://autodeskresearch.com/projects/dreamcatcher%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://autodeskresearch.com/projects/dreamcatcher)&lt;/a&gt;, который позволяет генерировать формы рам, оптимально отвечающие заданным условиям эксплуатации. Судя по всему, этот софт работает на основе методов оптимизации топологии.&lt;/p&gt;
+&lt;p&gt;P.S. У компании Hackrod  очень красивый сайт: &lt;a href=&#34;http://hackrod.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://hackrod.com&lt;/a&gt;
+#magicdpd 🔗 vk.com/wall-97265142_3067&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://hackrod.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://hackrod.com&lt;/a&gt;
+&lt;a href=&#34;https://autodeskresearch.com/projects/dreamcatcher&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://autodeskresearch.com/projects/dreamcatcher&lt;/a&gt;
+&lt;a href=&#34;http://hackrod.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://hackrod.com&lt;/a&gt;
+k.com/wall-97265142_3067&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вышел KeyShot 6.3</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-18-vyshel-keyshot-63/</link>
+      <pubDate>Sun, 18 Dec 2016 12:02:29 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-18-vyshel-keyshot-63/</guid>
+      <description>&lt;p&gt;Вышел KeyShot 6.3
+&lt;a href=&#34;https://www.keyshot.com/press/luxion-releases-keyshot-6-3/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.keyshot.com/press/luxion-releases-keyshot-6-3/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Компания #Luxion объявила о выходе #KeyShot 6.3 - системе фотореалистичного рендеринга для #CAD. Как говорят сами разработчики, KeyShot 6.3 - это первая система способная расчитывать трассировку лучей и глобальное освещение в реальном времени для 3D рендеринга и анимации.&lt;/p&gt;
+&lt;p&gt;В новой версии появилась поддержка следующих систем:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#Autodesk #Alias 2017, #Inventor 2017, #Maya 2017&lt;/li&gt;
+&lt;li&gt;#Siemens #NX 11, #SolidEdge ST9&lt;/li&gt;
+&lt;li&gt;#Dassault System #SoldWorks 2017&lt;/li&gt;
+&lt;li&gt;#PTC #Creo 4 (через Creo Parametric’s Advanced Rendering Extension aka #ARX)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;А в составе #ANSYS вы можете встретить KeyShot с бесплатной базовой лицензией внутри #SpaceClaim.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.keyshot.com/press/luxion-releases-keyshot-6-3/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.keyshot.com/press/luxion-releases-keyshot-6-3/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PDM в облаке</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-11-pdm-v-oblake/</link>
+      <pubDate>Sun, 11 Dec 2016 12:02:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-11-pdm-v-oblake/</guid>
+      <description>&lt;p&gt;PDM в облаке
+&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13863/Autodesk-Launches-PDM-in-the-Cloud-to-Bolster-PLM-Solution-Finally.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13863/Autodesk-Launches-PDM-in-the-Cloud-to-Bolster-PLM-Solution-Finally.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Большая статья с аналитикой по поводу того, что #Autodesk запустила #PDM систему в облаке - #Fusion Lifecyle. Единственное, что немного меня настораживает, так это отсутсвие упоминания #CAE - все разговоры только про #CAD.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13863/Autodesk-Launches-PDM-in-the-Cloud-to-Bolster-PLM-Solution-Finally.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Autodesk Launches PDM-in-the-Cloud to Bolster PLM Solution – Finally &amp;gt; ENGINEERING.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Краткий ликбез по моделям турбулентности</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-08-kratkiy-likbez-po-modelyam-turbulentnosti/</link>
+      <pubDate>Sat, 08 Oct 2016 12:02:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-08-kratkiy-likbez-po-modelyam-turbulentnosti/</guid>
+      <description>&lt;p&gt;Краткий ликбез по моделям турбулентности
+&lt;a href=&#34;https://www.youtube.com/watch?v=Yf2iVABc8cg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Yf2iVABc8cg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Autodesk Simulation на своем канале рассказывают об особенностях моделей турбулентности, реализованных в их #CFD коде. Очень простой и наглядный ликбез - почти все знания можно перенести на любой другой CFD код. Всем приятного просмотра - видео занимает 40 минут.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Yf2iVABc8cg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Yf2iVABc8cg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Yf2iVABc8cg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Understanding the Turbulence Models available in Autodesk Simulation CFD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SimScale получил интеграцию с Autodesk Fusion 360</title>
-      <link>http://localhost:1313/posts/2016-09-03-simscale-poluchil-integratsiyu-s-autodesk-f/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-03-simscale-poluchil-integratsiyu-s-autodesk-f/</link>
       <pubDate>Sat, 03 Sep 2016 06:30:10 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-09-03-simscale-poluchil-integratsiyu-s-autodesk-f/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://insidehpc.com/2016/08/simscale-announces-integration-for-autodesk-fusion-360/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://insidehpc.com/2016/08/simscale-announces-integration-for-autodesk-fusion-360/&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-03-simscale-poluchil-integratsiyu-s-autodesk-f/</guid>
+      <description>&lt;p&gt;SimScale получил интеграцию с Autodesk Fusion 360
+&lt;a href=&#34;http://insidehpc.com/2016/08/simscale-announces-integration-for-autodesk-fusion-360/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://insidehpc.com/2016/08/simscale-announces-integration-for-autodesk-fusion-360/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Облачный #CAE подружился с одним из лидеров #CAD отрасли.&lt;/p&gt;
 &lt;p&gt;Вообще #SimScale очень активно ведет себя на рынке: до #Autodesk была дружба с #SolidWorks - теперь надо подружиться с CATIA.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://insidehpc.com/2016/08/simscale-announces-integration-for-autodesk-fusion-360/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SimScale Integrates with Autodesk Fusion 360&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Учебные курсы Autodesk Design Academy: CFD</title>
-      <link>http://localhost:1313/posts/2016-08-12-uchebnye-kursy-autodesk-design-academy-c/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-12-uchebnye-kursy-autodesk-design-academy-c/</link>
       <pubDate>Fri, 12 Aug 2016 06:30:50 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-08-12-uchebnye-kursy-autodesk-design-academy-c/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLIv6vwn776aSdFAnDELJ0Y-1t-MUdLI7v&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/playlist?list=PLIv6vwn776aSdFAnDELJ0Y-1t-MUdLI7v&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-12-uchebnye-kursy-autodesk-design-academy-c/</guid>
+      <description>&lt;p&gt;Учебные курсы Autodesk Design Academy: CFD
+&lt;a href=&#34;https://www.youtube.com/playlist?list=PLIv6vwn776aSdFAnDELJ0Y-1t-MUdLI7v&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/playlist?list=PLIv6vwn776aSdFAnDELJ0Y-1t-MUdLI7v&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Компания #Autodesk рабом выложила в свободный доступ цикл из 9 лекций посвященных #CFD, составленных совместно с Виргинским университетом (University of Virginia). Естественно, в качестве основного вычислительного инструмента выступает Autodesk Simulation CFD (ранее извечного как #CFDesign).&lt;/p&gt;
 &lt;p&gt;Кроме видео лекций в комментариях к каждому ролику идут презентации, и все необходимы данные для повторения упражнений.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLIv6vwn776aSdFAnDELJ0Y-1t-MUdLI7v&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/playlist?list=PLIv6vwn776aSdFAnDELJ0Y-1t-MUdLI7v&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLIv6vwn776aSdFAnDELJ0Y-1t-MUdLI7v&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Autodesk Design Academy: CFD - YouTube&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>#PADTInc подготовили хороший обзор программных средств для ж</title>
-      <link>http://localhost:1313/posts/2016-06-27-padtinc-podgotovili-horoshiy-obzor-progr/</link>
+      <title>Найдутся все метизы</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-04-naydutsya-vse-metizy/</link>
+      <pubDate>Thu, 04 Aug 2016 06:30:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-04-naydutsya-vse-metizy/</guid>
+      <description>&lt;p&gt;Найдутся все метизы
+&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12741/Go-Explore-Autodesk-Reinvents-Search.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12741/Go-Explore-Autodesk-Reinvents-Search.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Компания #Autodesk рассказал о своем новом продукте Design Graph, который они разрабатывали на протяжении нескольких лет. #DesignGraph позволяет осуществлять поиск #CAD моделей по базе #A360.&lt;/p&gt;
+&lt;p&gt;Если вы думаете, что это еще один поисковик по метаданным, то вы ошибаетесь. Autodesk заявляет, что внутри системы заложено распознавание образов на базе самообучающейся системы (привет machine learning). Таким образом, если вы попросите Design Graph найти все CAD модели стульев, то система действительно попытается найти все модели похожие на стулья.&lt;/p&gt;
+&lt;p&gt;Уж не знаю, насколько это хорошо, но явно интересный шаг вперед и еще одна реализация технологий визуального поиска.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12741/Go-Explore-Autodesk-Reinvents-Search.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Go Explore: Autodesk Reinvents Search &amp;gt; ENGINEERING.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Заметка на портале #Autodesk о том, как идентифицировать параметры когезивного слоя для композитов на основе реальный и численных экспериметнов. #FEM для тех кто по проще.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-22-zametka-na-portale-autodesk-o-tom-kak/</link>
+      <pubDate>Fri, 22 Jul 2016 06:30:03 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-22-zametka-na-portale-autodesk-o-tom-kak/</guid>
+      <description>&lt;p&gt;#composite #cohesive #czm&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lnk.al/1QyP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1QyP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lnk.al/1QyP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1QyP&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#PADTInc подготовили хороший обзор программных средств для жизни в мире аддитивных технологий.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-27-padtinc-podgotovili-horoshiy-obzor-progr/</link>
       <pubDate>Mon, 27 Jun 2016 07:00:57 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-06-27-padtinc-podgotovili-horoshiy-obzor-progr/</guid>
-      <description>&lt;p&gt;#SpaceClaim #GeomagicDesignX #Topology #Optimization #Altair #SolidThinking Inspire #Autodesk #Within #Altair #OptiStruct #Simpleware #Pan #Lattice #ANSYS&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-27-padtinc-podgotovili-horoshiy-obzor-progr/</guid>
+      <description>&lt;p&gt;Тут и работа с 3D сканерами, и подготовка геометрии, и топологическая оптимизация с генерацией балочных структур - все самые новые тренды.&lt;/p&gt;
+&lt;p&gt;#SpaceClaim #GeomagicDesignX #Topology #Optimization #Altair #SolidThinking Inspire #Autodesk #Within #Altair #OptiStruct #Simpleware #Pan #Lattice #ANSYS&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/the-additive-manufacturing-software-conundrum&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;The Additive Manufacturing Software Conundrum&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Вы наверняка слышали про электрический мотоцикл Lingt Rider </title>
-      <link>http://localhost:1313/posts/2016-05-30-vy-navernyaka-slyshali-pro-elektricheskiy-m/</link>
+      <title>Оказывается я не угадал программный продукт, при помощи которого #Airbus #APWorks сделали свой Light Rider.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-21-okazyvaetsya-ya-ne-ugadal-programmnyy-prod/</link>
+      <pubDate>Tue, 21 Jun 2016 07:00:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-21-okazyvaetsya-ya-ne-ugadal-programmnyy-prod/</guid>
+      <description>&lt;p&gt;Я то думал, что это #Autodesk #Within, что было бы логично исходя из партнерства Autodesk и APWorks, но нет. Light Rider создали при помощи топологической оптимизации от #Altair. Какой именно продукт использован непонятно: в статье говорится про #OptiStruct, но приводятся картинки из #solidThinking.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.develop3d.com/blog/2016/06/bionic-structures-to-advance-at-airbus-apworks-with-altair-assistance&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DEVELOP3D blog - Bionic structures to advance at Airbus APWorks with Altair assistance&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Продолжая тему #nTopology и #Autodesk #Within вспомним про монстра оптимизации #Altair #OptiStruct.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-03-prodolzhaya-temu-ntopology-i-autodesk-w/</link>
+      <pubDate>Fri, 03 Jun 2016 07:00:29 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-03-prodolzhaya-temu-ntopology-i-autodesk-w/</guid>
+      <description>&lt;p&gt;В 14-ой версии OptiStruct получил возможность создавать пористые конструкции на основе результатов топологической оптимизации (#lattice structures или lattice optimization).&lt;/p&gt;
+&lt;p&gt;Система работает так: проводится топологическая оптимизация и из ее результатов извлекается геометрия по изоповерхности псевдоплотности, скажем, 0.5. Далее все элементы с псевдоплотностью, скажем, от 0.5 до 0.8 заменяются пространственной сеткой из балочных элементов, толщины которых подбираются отдельно или на основе данных распределения псевдоплотности.&lt;/p&gt;
+&lt;p&gt;#Altair говорит, что пока этот подход имеет сильную сеточную зависимость. Надеюсь они ее скоро победят.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.altairhyperworks.com/product/OptiStruct/New-Features&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;OptiStruct Analysis and Optimization&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вы наверняка слышали про электрический мотоцикл Lingt Rider разработанный #APWorks - дочерней компанией #Airbus Group.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-30-vy-navernyaka-slyshali-pro-elektricheskiy-m/</link>
       <pubDate>Mon, 30 May 2016 08:02:48 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-05-30-vy-navernyaka-slyshali-pro-elektricheskiy-m/</guid>
-      <description>&lt;p&gt;Но мне намного больше интересно программное обеспечение, применяемое при проектировании подобных конструкций. В случае Lignt Rider это не топологическая оптимизация. Это подход, названный в #Autodesk &amp;ldquo;Generative design&amp;rdquo;. Такой подход к моделированию легковесных конструкций реализован в ПО Autodesk #Within и очень напоминает по духу разработки компании #nTopology.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-30-vy-navernyaka-slyshali-pro-elektricheskiy-m/</guid>
+      <description>&lt;p&gt;Этот проект - отличный пример работы аддитивных технологий.&lt;/p&gt;
+&lt;p&gt;Но мне намного больше интересно программное обеспечение, применяемое при проектировании подобных конструкций. В случае Lignt Rider это не топологическая оптимизация. Это подход, названный в #Autodesk &amp;ldquo;Generative design&amp;rdquo;. Такой подход к моделированию легковесных конструкций реализован в ПО Autodesk #Within и очень напоминает по духу разработки компании #nTopology.&lt;/p&gt;
 &lt;p&gt;Чувствую, что грядет новый виток в развитии средств создания конструкций оптимальной топологии.&lt;/p&gt;
 &lt;p&gt;#optimization #topology
 Мартиалы по теме &lt;a href=&#34;https://geektimes.ru/post/276160/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://geektimes.ru/post/276160/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.autodesk.com/products/within/overview&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Generative Design Software | Within | Autodesk&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#SimSolid провел простейшее сравнение с механическими решателями основанными на МКЭ.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-29-simsolid-provel-prosteyshee-sravnenie-s/</link>
+      <pubDate>Tue, 29 Dec 2015 18:00:58 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-29-simsolid-provel-prosteyshee-sravnenie-s/</guid>
+      <description>&lt;p&gt;В качестве представитель от #МКЭ был выбран NX/Nastran с препроцессорами #FEMAP или #Autodesk. Совпасть удалось, но за кадром осталась информация о потреблении памяти и скорости расчета решателя.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://simsolid.com/2015/12/comparing-simsolid-with-a-fea-benchmark&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Comparing SIMSOLID with a FEA Benchmark&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>А теперь более подробно о проекте #Autodesk &#34;Project Leopard&#34;.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-13-a-teper-bolee-podrobno-o-proekte-autod/</link>
+      <pubDate>Fri, 13 Nov 2015 18:00:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-13-a-teper-bolee-podrobno-o-proekte-autod/</guid>
+      <description>&lt;p&gt;Очень интересно написано про сравнение аудитории с OnShape.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://inthefold.autodesk.com/in_the_fold/2015/03/setting-the-record-straight.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Setting the Record Straight&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ничего особенного не случилось, проста #Autodesk тоже хочет в облако.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-12-nichego-osobennogo-ne-sluchilos-prosta/</link>
+      <pubDate>Thu, 12 Nov 2015 18:30:29 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-12-nichego-osobennogo-ne-sluchilos-prosta/</guid>
+      <description>&lt;p&gt;Видимо, идея #OnShape не так уж и наивна. На днях Autodesk начал закрытое бета тестирование свое &amp;ldquo;Project Leopard&amp;rdquo; в рамках которого система Fusion 360 будет доступна прямо в браузере.&lt;/p&gt;
+&lt;p&gt;Итак +1 в браузере!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#Autodesk пиара ряди посчитали внешнюю аэродинамику бетмобиля (это на котором Бетмен ездит) при помощи их Autodesk CFD.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-12-autodesk-piara-ryadi-poschitali-vneshnyuyu-a/</link>
+      <pubDate>Sat, 12 Sep 2015 07:00:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-12-autodesk-piara-ryadi-poschitali-vneshnyuyu-a/</guid>
+      <description>&lt;p&gt;Вот все считают аэродинамику для Формула-1, а эти выпендриваются 😊&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=fIXVvRW1qeM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Fluid Flow around the Batmobile - Autodesk CFD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>В кризис принято делать интересные предложения, что бы не потерять клиентскую базу и не разориться. #Autodesk, например предлагает скидки за лояльность.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-08-28-v-krizis-prinyato-delat-interesnye-predl/</link>
+      <pubDate>Fri, 28 Aug 2015 07:00:03 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-08-28-v-krizis-prinyato-delat-interesnye-predl/</guid>
+      <description>&lt;p&gt;Заключите контакт на 3 года, и получите скидку 15%.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cad.ru/ru/press-centre/news/news_detail.php?ID=32429&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Хотите обновлять ПО Autodesk раз в три года? Даем скидку 15% на софт при покупке с 3-хлетней Подпиской&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

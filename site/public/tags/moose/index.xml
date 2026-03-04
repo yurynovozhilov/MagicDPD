@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moose on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/moose/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Moose)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 13 Apr 2022 17:00:14 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/moose/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Я уже писал про интересный открытый междисциплинарный решатель &#34;Лось&#34; (#MOOSE или Multiphysics Object-Oriented Simulation Environment).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-13-ya-uzhe-pisal-pro-interesnyy-otkrytyy-mezhd/</link>
+      <pubDate>Wed, 13 Apr 2022 17:00:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-13-ya-uzhe-pisal-pro-interesnyy-otkrytyy-mezhd/</guid>
+      <description>&lt;p&gt;Так вот, в нем теперь есть поддержка #IGA, и это все стало возможным благодаря совместному проекту с командой  #Coreform #Cubit.&lt;/p&gt;
+&lt;p&gt;Для тех, кто еще не знает, что такое IGA, то данный подход подразумевает использование одной и той же гладкой сплайновой основы для определения геометрии и моделирования. Это дает более точные результаты, особенно на сравнительно грубых сетках: геометрия оказывается точно описанной при любом качестве сетки, оболочечные элементы могут сгибаться не только в узлах, а иногда нам требуется меньше степеней свободы для получения точного результата расчета. А еще там есть моя мечта - техника погружденных Solid IGA элементов, которая может навсегда решить проблемы с генерацией сложных сеток.&lt;/p&gt;
+&lt;p&gt;#opensource &lt;a href=&#34;https://youtu.be/UmS-pAuBnEU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/UmS-pAuBnEU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/UmS-pAuBnEU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Improving MOOSE workflows through Coreform Cubit&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MOOSE - непростой лось</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-04-moose-neprostoy-los/</link>
+      <pubDate>Thu, 04 Mar 2021 13:01:45 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-04-moose-neprostoy-los/</guid>
+      <description>&lt;p&gt;MOOSE - непростой лось&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=6shfkm3fnLY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=6shfkm3fnLY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;MOOSE (Multiphysics Object-Oriented Simulation Environment, Объектно-ориентированная междисциплинарная среда моделирования, &lt;a href=&#34;https://mooseframework.inl.gov&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://mooseframework.inl.gov&lt;/a&gt;) представляет собой &amp;ldquo;конечный элементный&amp;rdquo; фреймворк к открытым исходным кодом, главным образом, разработанных Национальной лабораторией штата Айдахо (Idaho National Laboratory). По заявлениям разработчиков, MOOSE обеспечивает высокоуровневый интерфейс для работы с некоторыми из наиболее сложных нелинейных решателей  на планете. Все детали взаимодействия инженера с MOOSE продуманы до мелочей, начиная с процесса установки и заканчивая запуском расчета на современных суперкомпьютерах. Официальное видео о данном коде всего одно, но это запись семинара почти на 12 (ДВЕНАДЦАТЬ!!!) часов.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=2tJwBsYaLaI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=2tJwBsYaLaI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ключевые фишки кода:&lt;/p&gt;
+&lt;p&gt;Сильно связанный междисциплинарный неявный решательАвтоматическое распараллеливание расчета (самый большой запуск &amp;gt; 100 000 процессорных ядер!)Модульная разработка упрощает повторное использование кодаВстроенная работа с адаптивными сеткамиМетод Галеркина решения СЛАУ, как непрерывный, так и разрывный (можно совмещать в одной задаче)Интуитивно понятные параллельные многоуровневые решения (см. видео ниже)Гибкий, расширяемый пользовательский интефейс&lt;/p&gt;
+&lt;p&gt;А вот по этой ссылке вы найдете запись учебного курса по данному MOOSE, который был прочитан в Университете штата Северная Каролина в 2018 году: &lt;a href=&#34;https://www.youtube.com/playlist?list=PLN13vTvNU59uNSw-RmcRbSW37zKcOK1yR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/playlist?list=PLN13vTvNU59uNSw-RmcRbSW37zKcOK1yR&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#moose #open_source
+&lt;a href=&#34;https://tinyurl.com/ydapy34s&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ydapy34s&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=6shfkm3fnLY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MOOSE: Multiphysics Object-Oriented Simulation Environment&lt;/a&gt;
+&lt;a href=&#34;https://mooseframework.inl.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://mooseframework.inl.gov/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=2tJwBsYaLaI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=2tJwBsYaLaI&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/playlist?list=PLN13vTvNU59uNSw-RmcRbSW37zKcOK1yR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/playlist?list=PLN13vTvNU59uNSw-RmcRbSW37zKcOK1yR&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/ydapy34s&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ydapy34s&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

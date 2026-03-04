@@ -2,50 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FLD on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/fld/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/fld/</link>
     <description>MagicDPD: Magic Driven Product Development! (FLD)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Jun 2021 16:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jan 2022 21:00:04 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/fld/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/fld/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Основы моделирования разрушения материала при обработке мета</title>
-      <link>http://localhost:1313/posts/2021-06-15-osnovy-modelirovaniya-razrusheniya-material/</link>
+      <title>Разбираемся с тем, как читать и получать #FLD (Forming Limit Diagram, диаграмма предельного формоизменения) на примере учебного ролика про #Abaqus.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-04-razbiraemsya-s-tem-kak-chitat-i-poluchat/</link>
+      <pubDate>Tue, 04 Jan 2022 21:00:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-04-razbiraemsya-s-tem-kak-chitat-i-poluchat/</guid>
+      <description>&lt;p&gt;Собственно, без знаний FLD ни о каких нормальных расчетах штамповки говорить нельзя. &lt;a href=&#34;https://youtu.be/bBfYvSRnQ0w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/bBfYvSRnQ0w&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/bBfYvSRnQ0w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/bBfYvSRnQ0w&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Основы моделирования разрушения материала при обработке металла давлением</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-06-15-osnovy-modelirovaniya-razrusheniya-material/</link>
       <pubDate>Tue, 15 Jun 2021 16:02:15 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-06-15-osnovy-modelirovaniya-razrusheniya-material/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-06-15-osnovy-modelirovaniya-razrusheniya-material/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=w7u_tyqZwwg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=w7u_tyqZwwg&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Неплохая обзорная лекция от Design Online Academy по тому, на что смотреть при моделировании течения металла в процессе штамповки, вытяжки, прокатки и т.п. В лекции дан обзор основным теориям прочности, которые преподают еще на 3-ем курсе. Также будет разговор о таких важных понятиях, как Forming Limit Diagram (FLD) и эксперименте Накаджимы (Nakajima Test) по определению параметров FLD. Ну и в конце немного слов о применении всех этих знаний в LS-DYNA.&lt;/p&gt;
 &lt;p&gt;#ansys #fld #forming #ls-dyna #nakajima_test
+&lt;a href=&#34;https://tinyurl.com/ye94vouc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ye94vouc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=w7u_tyqZwwg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Basics of Material Failure in Metal Forming Simulation&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/ye94vouc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ye94vouc&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Методичка по штамповке, FLD и UMAT в LS-DYNA</title>
-      <link>http://localhost:1313/posts/2020-06-25-metodichka-po-shtampovke-fld-i-umat-v-ls/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-06-25-metodichka-po-shtampovke-fld-i-umat-v-ls/</link>
       <pubDate>Thu, 25 Jun 2020 13:00:36 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-06-25-metodichka-po-shtampovke-fld-i-umat-v-ls/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-06-25-metodichka-po-shtampovke-fld-i-umat-v-ls/</guid>
+      <description>&lt;p&gt;Методичка по штамповке, FLD и UMAT в LS-DYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/ls-dyna-stamping-fld-umat-book/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Методичка по штамповке, FLD и UMAT в LS-DYNA - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>LSFORM — новый ПреПост штамповки в LS-DYNA</title>
-      <link>http://localhost:1313/posts/2019-01-31-lsform-novyy-prepost-shtampovki-v-ls-dy/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-31-lsform-novyy-prepost-shtampovki-v-ls-dy/</link>
       <pubDate>Thu, 31 Jan 2019 17:00:24 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-01-31-lsform-novyy-prepost-shtampovki-v-ls-dy/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=g6wZ0MMEmmA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=g6wZ0MMEmmA&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-31-lsform-novyy-prepost-shtampovki-v-ls-dy/</guid>
+      <description>&lt;p&gt;LSFORM — новый ПреПост штамповки в LS-DYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=g6wZ0MMEmmA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=g6wZ0MMEmmA&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;В январе этого года компания LSTC без лишней помпы представила всем заинтересованным свой новый продукт — специализированный препост для решения задач штамповки. Препост получил название LSForm, доступен бесплатно всем, у кого есть лицензия на LS-DYNA, как, впрочем, и любой софт от LSTC.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=C40qFGqPbyA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=C40qFGqPbyA&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;LSForm имеет сравнительно современный ленточный интерфейс. Подробнее с его возможностями можно ознакомиться на доступных демонстрационных видео.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ZZcdfj8SezI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ZZcdfj8SezI&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#deepdrawing #FLD #forming #LS_DYNA #LSTC #stamping&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-lsform&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-lsform&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=g6wZ0MMEmmA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=g6wZ0MMEmmA&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=C40qFGqPbyA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=C40qFGqPbyA&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=ZZcdfj8SezI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ZZcdfj8SezI&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/s9vWYY-lsform&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-lsform&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как LS-DYNA работает с FLD диаграммой</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-22-kak-ls-dyna-rabotaet-s-fld-diagrammoy/</link>
+      <pubDate>Thu, 22 Mar 2018 18:00:41 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-22-kak-ls-dyna-rabotaet-s-fld-diagrammoy/</guid>
+      <description>&lt;p&gt;Как LS-DYNA работает с FLD диаграммой
+Диаграмма предельного формоизменения (FLD, Forming Limit Diagram) – метод, позволяющий предсказать разрушения листового материала при штамповке. Данные FLD являются неким стандартом описания материала для расчета штамповки, глубокой вытяжки и прочих способов обработки листового металла давлением.&lt;/p&gt;
+&lt;p&gt;Естественно, LSTC давно реализовали поддержку такого типа данных в LS-PrePost (&lt;a href=&#34;http://www.lstc.com/lspp/content/pages/1/fld/fld.shtml%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lstc.com/lspp/content/pages/1/fld/fld.shtml)&lt;/a&gt;, однако, в прошлом году они сделали кое-что еще более интересное прямо на уровне LS-DYNA. Так были внесены две новые карты, упрощающие работу: *DEFINE_CURVE_FLD_FROM_TRIAXIAL_LIMIT и *DEFINE_CURVE_TRIAXIAL_LIMIT_FROM_FLD. Как нетрудно понять по их названиям, теперь решатель сам может конвертировать полученные на вход данные в нужный для расчета формат. Данные будут переданы в модели материалов *MAT_037_NLP_FAILURE или *MAT_260B, в универсальную модель разрушения *MAT_ADD_EROSION или в карту типа *CONTROL_FORMING_ ONESTEP.
+Подробности с примерами работы доступны в статье по ссылке:
+&lt;a href=&#34;http://www.lstc.com/sites/default/files/marketing/new_features/08_Conversion%20between%20FLD%20and%20Stress%20Triaxial%20Limit%20Curve.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lstc.com/sites/default/files/marketing/new_features/08_Conversion%20between%20FLD%20and%20Stress%20Triaxial%20Limit%20Curve.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#FLD #Forming #LSDYNA #LSPrePost #LSTC
+&lt;a href=&#34;https://goo.gl/1yoywt&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/1yoywt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.lstc.com/lspp/content/pages/1/fld/fld.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lstc.com/lspp/content/pages/1/fld/fld.shtml&lt;/a&gt;
+&lt;a href=&#34;http://www.lstc.com/sites/default/files/marketing/new_features/08_Conversion%20between%20FLD%20and%20Stress%20Triaxial%20Limit%20Curve.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lstc.com/sites/default/files/marketing/new_features/08_Conversion%20between%20FLD%20and%20Stress%20Triaxial%20Limit%20Curve.pdf&lt;/a&gt;
+&lt;a href=&#34;https://goo.gl/1yoywt&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/1yoywt&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

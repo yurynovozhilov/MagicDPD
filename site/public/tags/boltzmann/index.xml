@@ -2,25 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Boltzmann on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/boltzmann/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/boltzmann/</link>
     <description>MagicDPD: Magic Driven Product Development! (Boltzmann)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 21 Nov 2017 17:10:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Oct 2018 17:01:50 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/boltzmann/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/boltzmann/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Lat-Net: Compressing Lattice Boltzmann Flow Simulations usin</title>
-      <link>http://localhost:1313/posts/2017-11-21-lat-net-compressing-lattice-boltzmann-f/</link>
+      <title>Красота от FlowKit &amp; Palabos</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-24-krasota-ot-flowkit-palabos/</link>
+      <pubDate>Wed, 24 Oct 2018 17:01:50 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-24-krasota-ot-flowkit-palabos/</guid>
+      <description>&lt;p&gt;Красота от FlowKit &amp;amp; Palabos
+Просто классическая задача о дамбе, которую красиво посчитали и визуализировали в связке FlowKit + Palabos&lt;/p&gt;
+&lt;p&gt;#Boltzmann #CFD #FlowKit #Palabos
+&lt;a href=&#34;http://bit.ly/2EFvetK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2EFvetK&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2EFvetK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2EFvetK&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Altair покупает FluiDyna</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-20-altair-pokupaet-fluidyna/</link>
+      <pubDate>Sun, 20 May 2018 18:01:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-20-altair-pokupaet-fluidyna/</guid>
+      <description>&lt;p&gt;Altair покупает FluiDyna&lt;/p&gt;
+&lt;p&gt;Altair объявил о покупке компании German Computation Fluid Dynamics, разработчика кодов FluiDyna ultraFluidX и FluiDyna nanoFluidX. Данные CFD коды уже давно входят в список партнерского ПО для Altair, а их разработчики получают соответствующие инвестиции.
+CFD решатели примечательны тем, что являются бессеточными. ultraFluidX — это решеточные уравнения Больцмана, а nanoFluidX — очень умный SPH. Соответсвенно, оба кода заточены на моделирование процессов с большим количеством подвижных границ и FSI. Также оба кода отлично подходят для работы на GPU NVIDIA.
+&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16931/Altair-Acquires-GPU-Accelerated-CFD-Company.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16931/Altair-Acquires-GPU-Accelerated-CFD-Company.aspx&lt;/a&gt;
+#Altair #Boltzmann #CFD #FluiDyna #FSI #GPU #LBM #nanoFluidX #NVIDIA #SPH #ultraFluidX&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1QY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1QY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16931/Altair-Acquires-GPU-Accelerated-CFD-Company.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Altair Acquires GPU-Accelerated CFD Company&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-1QY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1QY&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lat-Net: Compressing Lattice Boltzmann Flow Simulations using Deep Neural Networks - такое интересное название носит #opensource проект, про который я пишу сегодня.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-21-lat-net-compressing-lattice-boltzmann-f/</link>
       <pubDate>Tue, 21 Nov 2017 17:10:14 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-21-lat-net-compressing-lattice-boltzmann-f/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-21-lat-net-compressing-lattice-boltzmann-f/</guid>
       <description>&lt;p&gt;Суть проекта заключается в подмене #CFD расчета методом #Lattice #Boltzmann на нейронную сеть. Причем, если верить авторам, то натренировав нейрону на грубой &amp;ldquo;сетке&amp;rdquo; можно надеются на достаточно точный расчет на мелкой &amp;ldquo;сетке&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;Это конечно не супер точный #CFD подход, но зато можно быстро получить оценочное решение вашей задачи экономя ресурсы.&lt;/p&gt;
 &lt;p&gt;#Python #machinelearning #LBM&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/loliverhennigh/Phy-Net&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/loliverhennigh/Phy-Net&lt;/a&gt; 🔗 loliverhennigh/Phy-Net&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2wPpoid&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wPpoid&lt;/a&gt;
+&lt;a href=&#34;https://github.com/loliverhennigh/Phy-Net&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/loliverhennigh/Phy-Net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сегодня на ужин у нас #ProLB - #CFD код на основе метода частиц Больцмана (aka методы решёточных уравнений Больцмана, #Lattice #Boltzmann methods, #LBM).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-15-segodnya-na-uzhin-u-nas-prolb-cfd-kod/</link>
+      <pubDate>Sun, 15 Oct 2017 17:11:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-15-segodnya-na-uzhin-u-nas-prolb-cfd-kod/</guid>
+      <description>&lt;p&gt;Просто еще одни не сильно известный (как, например, #XFlow) игрок в этой области CFD.&lt;/p&gt;
+&lt;p&gt;Интересно, кто про него слышал вообще? Даже на YouTube нет ни одного видео по теме.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.prolb-cfd.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.prolb-cfd.com&lt;/a&gt; 🔗 High-fidelity lattice Boltzmann CFD simulations | ProLB&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2xHdk11&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xHdk11&lt;/a&gt;
+&lt;a href=&#34;http://www.prolb-cfd.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.prolb-cfd.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dassault Systèmes купил XFlow</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-09-dassault-syst%C3%A8mes-kupil-xflow/</link>
+      <pubDate>Fri, 09 Dec 2016 17:00:30 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-09-dassault-syst%C3%A8mes-kupil-xflow/</guid>
+      <description>&lt;p&gt;Dassault Systèmes купил XFlow
+&lt;a href=&#34;http://www.develop3d.com/blog/dassault-systemes-acquires-next-limit-dynamics-for-further-cfd-simulation-e&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.develop3d.com/blog/dassault-systemes-acquires-next-limit-dynamics-for-further-cfd-simulation-e&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Компания #Dassault Systèmes, имеющая в своем портфолио такие #CAD, как #CATIA и #SolidWorks, а так же убер механический решатель #Abaqus и много еще чего полезного прикупил себе компанию Next Limit Dynamics.&lt;/p&gt;
+&lt;p&gt;Next Limit Dynamics, в свою очередь, знаменита благодаря своему детищу - #XFlow - #CFD решателю использующему модифицированный метод решёточных уравнений Больцмана (Lattice #Boltzmann Method, #LBM, &lt;a href=&#34;https://habrahabr.ru/post/190552/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://habrahabr.ru/post/190552/)&lt;/a&gt;. Данный бесстоечный метод позволяет XFlow с невероятной легкостью решать задачи со сложной и/или подвижной геометрией.&lt;/p&gt;
+&lt;p&gt;P.S. А еще у XFlow ну очень красивый и эффектный постпроцессор.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=wtGa0EDLLW0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=wtGa0EDLLW0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.develop3d.com/blog/dassault-systemes-acquires-next-limit-dynamics-for-further-cfd-simulation-e&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DEVELOP3D blog - Dassault Systèmes acquires Next Limit Dynamics for further CFD simulation expertise&lt;/a&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/190552/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://habrahabr.ru/post/190552/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=wtGa0EDLLW0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=wtGa0EDLLW0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Компания #Exa - разработчик #CFD кодов, снованных на метод решёточных уравнений Больцмана (Lattice  #Boltzmann Method). К их основному продукту, #PowerFLOW, теперь добавился еще и решатель задач аэроакустики #PowerACOUSTICS. Небольшое технологическое дело прилагается. https://www.youtube.com/watch?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-11-kompaniya-exa-razrabotchik-cfd-kodov/</link>
+      <pubDate>Mon, 11 Jul 2016 06:31:32 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-11-kompaniya-exa-razrabotchik-cfd-kodov/</guid>
+      <description>&lt;p&gt;v=rHSYjsROcpU&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=rHSYjsROcpU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Electric Cooling Fan Noise using Exa PowerACOUSTICS&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FGM on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/fgm/</link>
+    <description>MagicDPD: Magic Driven Product Development! (FGM)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sat, 11 Aug 2018 18:00:43 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/fgm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Моделируем срыв пламени в турбине</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-11-modeliruem-sryv-plameni-v-turbine/</link>
+      <pubDate>Sat, 11 Aug 2018 18:00:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-11-modeliruem-sryv-plameni-v-turbine/</guid>
+      <description>&lt;p&gt;Моделируем срыв пламени в турбине
+Согласно Википедии, срыв пламени — затухание пламени в камере сгорания, как нарушение работы воздушно-реактивного двигателя; может быть вызвано такими причинами, как: нехватка топлива, нарушение работы компрессора, недостаток кислорода, повреждение инородными телами (например, попадание птиц, града или вулканического пепла), крайне неблагоприятные погодные условия (ветер, влажность, дождь, изморось), усталостные механические повреждения.
+ANSYS в своем блоге опубликовал очень занимательную статью на тему моделирования данного процесса. Тут и исследования работы фарсунок, и моделирование турбулентных течений в нестационарных постановках, и химия. Конечно,  не обошлось без доли магии под названием Flamelet Generated Manifold (FGM). Короче, я поплыл к середине поста. Но если вы в теме, то текст должен зайти на ура.
+Полезные ссылки по теме:
+How to Efficiently Simulate a Gas Turbine Flameout&lt;/p&gt;
+&lt;p&gt;Efficiently Modeling Turbulent Combustion with Realistic Chemistry Using a Flamelet-Generated Manifold&lt;/p&gt;
+&lt;p&gt;#ANSYS #CFD #Combustion #FGM #Flameout #Fluent
+&lt;a href=&#34;http://bit.ly/2KGgZTr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2KGgZTr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B5%D1%80%D0%B0_%D1%81%D0%B3%D0%BE%D1%80%D0%B0%D0%BD%D0%B8%D1%8F&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B5%D1%80%D0%B0_%D1%81%D0%B3%D0%BE%D1%80%D0%B0%D0%BD%D0%B8%D1%8F&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D0%BE-%D1%80%D0%B5%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D0%BE-%D1%80%D0%B5%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BF%D0%BB%D0%B8%D0%B2%D0%BE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BF%D0%BB%D0%B8%D0%B2%D0%BE&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BC%D0%BF%D0%B0%D0%B6_%28%D0%B0%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D1%8F%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BC%D0%BF%D0%B0%D0%B6_(%D0%B0%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D1%8F)&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%81%D0%BB%D0%BE%D1%80%D0%BE%D0%B4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%81%D0%BB%D0%BE%D1%80%D0%BE%D0%B4&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%9F%D1%82%D0%B8%D1%86%D1%8B&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/%D0%9F%D1%82%D0%B8%D1%86%D1%8B&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B4&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%92%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D0%BF%D0%B5%D0%BB&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/%D0%92%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D0%BF%D0%B5%D0%BB&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D1%82%D0%B0%D0%BB%D0%BE%D1%81%D1%82%D1%8C_%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%B0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D1%82%D0%B0%D0%BB%D0%BE%D1%81%D1%82%D1%8C_%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%B0&lt;/a&gt;
+&lt;a href=&#34;https://www.ansys-blog.com/how-to-efficiently-simulate-a-gas-turbine-flameout/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys-blog.com/how-to-efficiently-simulate-a-gas-turbine-flameout/&lt;/a&gt;
+&lt;a href=&#34;https://www.ansys-blog.com/turbulent-combustion-flamelet-generated-manifolds/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys-blog.com/turbulent-combustion-flamelet-generated-manifolds/&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2KGgZTr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2KGgZTr&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DualSPHysics on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/dualsphysics/</link>
+    <description>MagicDPD: Magic Driven Product Development! (DualSPHysics)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 31 Mar 2020 13:00:20 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/dualsphysics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DualSPHysics v5</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-31-dualsphysics-v5/</link>
+      <pubDate>Tue, 31 Mar 2020 13:00:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-31-dualsphysics-v5/</guid>
+      <description>&lt;p&gt;DualSPHysics v5
+#DualSPHysics #GPU #Open_Source #SPH
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/dualsphysics-v5/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DualSPHysics v5 - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Динамика плавающих тел</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-12-dinamika-plavayuschih-tel/</link>
+      <pubDate>Fri, 12 Jan 2018 17:01:44 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-12-dinamika-plavayuschih-tel/</guid>
+      <description>&lt;p&gt;Динамика плавающих тел
+Вашему вниманию предлагается примеры расчета движения тела на поверхности жидкости. Тело прикреплено швартовыми ко дну и в таком состоянии на него действует волнение.&lt;/p&gt;
+&lt;p&gt;Расчет выполнен в паре кодов DualSPHysics и MoorDyn. В этой связке DualSPHysics, SPH код разработанный NVIDIA Research Center, отвечает за динамику жидкости и FSI, а MoorDyn моделирует поведение швартовых.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=YUSxGXPkYvE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=YUSxGXPkYvE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/ToEsV0FDs0I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/ToEsV0FDs0I&lt;/a&gt;
+#DualSPHysics #FSI #GPU #MoorDyn #NVIDIA #offshore #Open Source #SPH
+&lt;a href=&#34;https://magicdpd.ru/?p=5914&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5914&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=YUSxGXPkYvE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=YUSxGXPkYvE&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/ToEsV0FDs0I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/ToEsV0FDs0I&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=5914&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5914&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DualSPHysics - для тех кому надо красиво</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-11-dualsphysics-dlya-teh-komu-nado-krasivo/</link>
+      <pubDate>Thu, 11 Jan 2018 12:40:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-11-dualsphysics-dlya-teh-komu-nado-krasivo/</guid>
+      <description>&lt;p&gt;DualSPHysics - для тех кому надо красиво&lt;/p&gt;
+&lt;p&gt;В основах современной 3D анимации зачастую закладывать, пусть и упрощенные, но физические расчеты. Примером таких анимационных инструментов может выступить #DualSPHysics. Данное ПО с открытым исходным кодом позволяет визуализировать сводную поверхности жидкости на основе #SPH метода.&lt;/p&gt;
+&lt;p&gt;При этом, есть даже неплохое сравнение с экспериментом, и возможность считать на #GPU!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=B8mP9E75D08&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=B8mP9E75D08&lt;/a&gt;
+&lt;a href=&#34;http://www.dual.sphysics.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dual.sphysics.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;DualSPHysics: GPU and OpenMP based Smoothed Particle Hydrodynamics
+&lt;a href=&#34;http://www.dual.sphysics.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dual.sphysics.org/&lt;/a&gt;
+DualSPHysics: A combined CUDA and OpenMP implementation of the Smoothed Particle Hydrodynamics method based on the advanced SPHysics code.&lt;/p&gt;
+&lt;p&gt;More than 1000 Million particles simulated with DualSPHysics (SPH on Multi-GPU)&lt;/p&gt;
+&lt;p&gt;#DualSPHysics #GPU #SPH
+&lt;a href=&#34;https://magicdpd.ru/?p=4938&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=4938&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=B8mP9E75D08&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=B8mP9E75D08&lt;/a&gt;
+&lt;a href=&#34;http://www.dual.sphysics.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dual.sphysics.org&lt;/a&gt;
+&lt;a href=&#34;http://www.dual.sphysics.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dual.sphysics.org/&lt;/a&gt;
+&lt;a href=&#34;http://www.dual.sphysics.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dual.sphysics.org/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/embed/B8mP9E75D08?__ref=vk.api&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/embed/B8mP9E75D08?__ref=vk.api&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=4938&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=4938&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DualSPHysics - для тех кому надо красиво</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-31-dualsphysics-dlya-teh-komu-nado-krasivo/</link>
+      <pubDate>Sun, 31 Jul 2016 12:00:12 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-31-dualsphysics-dlya-teh-komu-nado-krasivo/</guid>
+      <description>&lt;p&gt;DualSPHysics - для тех кому надо красиво
+&lt;a href=&#34;http://www.dual.sphysics.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dual.sphysics.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В основах современной 3D анимации зачастую закладывать, пусть и упрощенные, но физические расчеты. Примером таких анимационных инструментов может выступить #DualSPHysics. Данное ПО с открытым исходным кодом позволяет визуализировать сводную поверхности жидкости на основе #SPH метода.&lt;/p&gt;
+&lt;p&gt;При этом, есть даже неплохое сравнение с экспериментом, и возможность считать на #GPU!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=B8mP9E75D08&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=B8mP9E75D08&lt;/a&gt;
+&lt;a href=&#34;http://www.dual.sphysics.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dual.sphysics.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dual.sphysics.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://dual.sphysics.org/&lt;/a&gt;
+&lt;a href=&#34;http://www.dual.sphysics.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dual.sphysics.org/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=B8mP9E75D08&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=B8mP9E75D08&lt;/a&gt;
+&lt;a href=&#34;http://www.dual.sphysics.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dual.sphysics.org&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

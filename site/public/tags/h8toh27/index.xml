@@ -2,22 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>H8TOH27 on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/h8toh27/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/h8toh27/</link>
     <description>MagicDPD: Magic Driven Product Development! (H8TOH27)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 31 Jan 2018 17:01:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2018 18:00:53 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/h8toh27/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/h8toh27/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Надо больше узлов!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-19-nado-bolshe-uzlov/</link>
+      <pubDate>Mon, 19 Feb 2018 18:00:53 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-19-nado-bolshe-uzlov/</guid>
+      <description>&lt;p&gt;!!
+Совсем недавно я писал про то, как LSTC реализовали новые чудесные 27-узловые solid элементы в LS-DYNA. Оказалось, что данный рекорд по количеству узлов продержался недолго.
+Копаясь в черновиках документации к еще невышедшим версиям LS-DYNA (например, вот тут &lt;a href=&#34;http://ftp.lstc.com/user/manuals/DRAFT/DRAFT_Vol_I_13Feb2018.pdf%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/manuals/DRAFT/DRAFT_Vol_I_13Feb2018.pdf)&lt;/a&gt;, я нашел упоминание 64-узлового (!!!) hex элемента. Судя по описанию, данный элемент будет работать не с привычными для explicit кодов линейными функциями формы, а с кубическими! Для пользователей обычных сеточных генераторов создана особая карта *ELEMENT_SOLID_H8TOH64, которая дает решателю директиву автоматически добавить недостающие 56 узлов к классическим линейным hex елементам.
+Визуализация узлов и порядка их нумерации: &lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/marleigh/hex64.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/marleigh/hex64.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ftp.lstc.com/user/manuals/DRAFT/DRAFT_Vol_I_13Feb2018.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/manuals/DRAFT/DRAFT_Vol_I_13Feb2018.pdf&lt;/a&gt;
+&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/marleigh/hex64.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/marleigh/hex64.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Делаем 27-ми узловые элементы в LS-PrePost</title>
-      <link>http://localhost:1313/posts/2018-01-31-delaem-27-mi-uzlovye-elementy-v-ls-prepo/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-31-delaem-27-mi-uzlovye-elementy-v-ls-prepo/</link>
       <pubDate>Wed, 31 Jan 2018 17:01:06 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-01-31-delaem-27-mi-uzlovye-elementy-v-ls-prepo/</guid>
-      <description>&lt;p&gt;Малюсенький видеоурок, показывающий как построить 27 узловые Solid элементы в LS-PrePost для дальнейшего расчета в LS-DYNA.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-31-delaem-27-mi-uzlovye-elementy-v-ls-prepo/</guid>
+      <description>&lt;p&gt;Делаем 27-ми узловые элементы в LS-PrePost
+Малюсенький видеоурок, показывающий как построить 27 узловые Solid элементы в LS-PrePost для дальнейшего расчета в LS-DYNA.&lt;/p&gt;
 &lt;p&gt;А для тех из вас, кому лень возиться с перестроением сетки, в LS-PrePost есть возможность заставить сам решатель в начале расчета перестроить обычные 8-ми узловые Solid элементы в новые 27-ми узловые, просто заменив заголовок карты *ELEMENT_SOLID на *ELEMENT_SOLID_H8TOH27.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0U1rkt8MX6M&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=0U1rkt8MX6M&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Напомню, что 27-ми узловые элементы в LS-DYNA обладают кучей полезных свойств, о которых я уже писал:&lt;/p&gt;
@@ -30,6 +46,9 @@
 Отсутствие паразитной жесткости на сдвиг или объемное сжатие&lt;/p&gt;
 &lt;p&gt;Подробности работы элементов и их тестирования можно найти в статье Recent Advances on Higher Order 27-node Hexahedral Element in LS-DYNA
 #H8TOH27 #LS-DYNA #LS-PrePost
+&lt;a href=&#34;https://magicdpd.ru/?p=6087&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6087&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0U1rkt8MX6M&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=0U1rkt8MX6M&lt;/a&gt;
+&lt;a href=&#34;http://www.dynalook.com/14th-international-ls-dyna-conference/simulation/recent-advances-on-higher-order-27-node-hexahedral-element-in-ls-dyna-r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/14th-international-ls-dyna-conference/simulation/recent-advances-on-higher-order-27-node-hexahedral-element-in-ls-dyna-r&lt;/a&gt;
 &lt;a href=&#34;https://magicdpd.ru/?p=6087&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6087&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

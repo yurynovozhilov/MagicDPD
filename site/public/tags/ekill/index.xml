@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ekill on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/ekill/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Ekill)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sat, 15 Oct 2016 12:02:22 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/ekill/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Пощадите конечные элеметны</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-15-poschadite-konechnye-elemetny/</link>
+      <pubDate>Sat, 15 Oct 2016 12:02:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-15-poschadite-konechnye-elemetny/</guid>
+      <description>&lt;p&gt;Пощадите конечные элеметны
+&lt;a href=&#34;http://www.dynaexamples.com/examples-manual/contact/tied-1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynaexamples.com/examples-manual/contact/tied-1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Существует довольно обычная практика использования методики убийства (#ekill)  элементов по физическому (превышение пластических деформаций) или математическому (большое искажение формы элемента) критерию при расчет больших деформаций. Это методика имеет не совсем физичное поведение м четко выраженную сеточную зависимость. Кроме того, вы не соблюдаете закон сохранения массы, а законы надо соблюдать.&lt;/p&gt;
+&lt;p&gt;У #LSDYNA есть забавный ответ по данной теме - карта *CONSTRAINED_TIED_NODES_FAILURE, позволяющая разорвать КЭ сетку между shell или solid элементами по критерию пластических деформаций или поврежденности. Есть даже готовый пример по ссылке.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dynaexamples.com/examples-manual/contact/tied-1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Tied 1&lt;/a&gt;
+&lt;a href=&#34;http://www.dynaexamples.com/examples-manual/contact/tied-1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynaexamples.com/examples-manual/contact/tied-1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

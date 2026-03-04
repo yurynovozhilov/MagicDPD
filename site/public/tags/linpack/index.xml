@@ -2,23 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LINPACK on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/linpack/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/linpack/</link>
     <description>MagicDPD: Magic Driven Product Development! (LINPACK)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 21 Jun 2016 10:58:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2022 17:00:12 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/linpack/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/linpack/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Первый #MATLAB (название сокращено от “MATrix LABoratory”) не был языком программирования.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-27-pervyy-matlab-nazvanie-sokrascheno-ot-m/</link>
+      <pubDate>Wed, 27 Apr 2022 17:00:12 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-27-pervyy-matlab-nazvanie-sokrascheno-ot-m/</guid>
+      <description>&lt;p&gt;Написанная на Фортране в конце 1970-х годов, она представляла собой простой интерактивный матричный калькулятор, построенный на основе около десятка подпрограмм из библиотек #LINPACK и EISPACK. В нем было всего 71 зарезервированных слов и встроенных функции суммарно. Расширить его можно было только путем изменения исходного кода Fortran.
+Язык программирования появился в 1984 году, когда MATLAB стал коммерческим продуктом. Калькулятор был заново реализован на языке C и значительно усовершенствован за счет добавления пользовательских функций, инструментария и графики. Первоначально он был доступен на #IBM PC и его клонах; вскоре появились версии для рабочих станций #Unix и #Apple Macintosh.&lt;/p&gt;
+&lt;p&gt;Это лишь пара абзацев увлекательной статьи &amp;ldquo;A history of MATLAB&amp;rdquo; написанной Кливом  Молером (Cleve Moler) и Джеком Литтлом (Jack Little) и опубликованной в журнале &amp;ldquo;Proceedings of the ACM on Programming Languages&amp;rdquo; в 2020 году. Все 67 страниц доступны для ознакомления бесплатно, в рамках open access публикации. &lt;a href=&#34;https://doi.org/10.1145/3386331&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://doi.org/10.1145/3386331&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1145/3386331&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;A history of MATLAB | Proceedings of the ACM on Programming Languages&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>&#34;А неведома зверушка&#34;</title>
-      <link>http://localhost:1313/posts/2016-06-21-a-nevedoma-zverushka/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-21-a-nevedoma-zverushka/</link>
       <pubDate>Tue, 21 Jun 2016 10:58:31 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-06-21-a-nevedoma-zverushka/</guid>
-      <description>&lt;p&gt;Китайцы опять возглавили #TOP500 суперкомпьютеров по версии #HPL (High Perfomance #LINPACK). На этот раз это своя ОС и свои 260 ядерные #RISC процессоры. Вот как надо делать #HPC.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-21-a-nevedoma-zverushka/</guid>
+      <description>&lt;p&gt;&amp;ldquo;А неведома зверушка&amp;rdquo;
+Китайцы опять возглавили #TOP500 суперкомпьютеров по версии #HPL (High Perfomance #LINPACK). На этот раз это своя ОС и свои 260 ядерные #RISC процессоры. Вот как надо делать #HPC.&lt;/p&gt;
 &lt;p&gt;P.S. Интересно, смогу ли специалистов смогут перебрать свой код под такую экзотическую архитектуру?!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://geektimes.ru/post/277478/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Опубликован рейтинг суперкомпьютеров Top500 на июнь 2016 года, Китай представил 100 ПФлопс суперкомпьютер&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

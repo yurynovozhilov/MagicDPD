@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wb_ls on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/wb_ls/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/wb_ls/</link>
     <description>MagicDPD: Magic Driven Product Development! (Wb_ls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Tue, 21 Dec 2021 20:29:34 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/wb_ls/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/wb_ls/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Моделирование текстильных композитов в LS-DYNA</title>
-      <link>http://localhost:1313/posts/2021-12-21-modelirovanie-tekstilnyh-kompozitov-v-l/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-12-21-modelirovanie-tekstilnyh-kompozitov-v-l/</link>
       <pubDate>Tue, 21 Dec 2021 20:29:34 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-12-21-modelirovanie-tekstilnyh-kompozitov-v-l/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8xxefifDzY0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=8xxefifDzY0&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-12-21-modelirovanie-tekstilnyh-kompozitov-v-l/</guid>
+      <description>&lt;p&gt;Моделирование текстильных композитов в LS-DYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8xxefifDzY0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=8xxefifDzY0&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Очень актуальное для меня свежее видео про работу композитами в LS-DYNA. В решателе много интересных моделей разрушения таких материалов, однако задание ориентаций в LS-PrePost (да и в наборе  от Oasys) - это прям больно. При всей моей любви к LSPP тут от вчистую проигрывает WB LS-DYNA, которая задает ориентации намного быстрее и проще, и это еще без учета возможности подключения к сборке модели Ansys Composite PrepPost. Основные темы видео:&lt;/p&gt;
 &lt;p&gt;Локальные системы координат материалов с использованием опций AOPT и BETA
 Сборка ламинатов на основе *PART_COMPOSITE и *ELEMENT_SHELL_COMPOSITE
@@ -25,6 +26,8 @@
 Использование дополнительных исторических переменных для оценки повреждений/отказов
 Обзор соответствующих карт контроля состояния модели и специфических форматов результатов&lt;/p&gt;
 &lt;p&gt;#acp #ansys #composite #lsdyna #oasys #wb_ls-dyna
+&lt;a href=&#34;https://tinyurl.com/yxwzywmh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yxwzywmh&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8xxefifDzY0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Modelling FRP composites in LS-DYNA: Part 1 – Intralaminar behaviour&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/yxwzywmh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yxwzywmh&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

@@ -2,24 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FLOW_3D on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/flow_3d/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/flow_3d/</link>
     <description>MagicDPD: Magic Driven Product Development! (FLOW_3D)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 13 Sep 2019 13:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2020 13:00:32 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/flow_3d/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/flow_3d/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Моделируем пляж</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-01-29-modeliruem-plyazh/</link>
+      <pubDate>Wed, 29 Jan 2020 13:00:32 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-01-29-modeliruem-plyazh/</guid>
+      <description>&lt;p&gt;Моделируем пляж&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/breach-cfd-model/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Моделируем пляж - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Решатели, которые могут Powder bed melting</title>
-      <link>http://localhost:1313/posts/2019-09-13-reshateli-kotorye-mogut-powder-bed-melti/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-13-reshateli-kotorye-mogut-powder-bed-melti/</link>
       <pubDate>Fri, 13 Sep 2019 13:00:55 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-09-13-reshateli-kotorye-mogut-powder-bed-melti/</guid>
-      <description>&lt;p&gt;Одна из самых сложных задач в аддитивке — моделирование ванны расплава. Сегодня у нас красуются CFD коды Fluent (ANSYS, Inc), FLOW-3D (Flow Science, Inc.).&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-13-reshateli-kotorye-mogut-powder-bed-melti/</guid>
+      <description>&lt;p&gt;Решатели, которые могут Powder bed melting&lt;/p&gt;
+&lt;p&gt;Одна из самых сложных задач в аддитивке — моделирование ванны расплава. Сегодня у нас красуются CFD коды Fluent (ANSYS, Inc), FLOW-3D (Flow Science, Inc.).&lt;/p&gt;
 &lt;p&gt;Сначала при помощи DEM решателя мы формируем «геометрию» расположения порошка, а потом передаем это в CFD код, где уже работаем с VOF моделью.&lt;/p&gt;
 &lt;p&gt;#Additive_Manufacturing #CFD #FLOW_3D #Fluent&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2FD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2FD&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2FD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2FD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

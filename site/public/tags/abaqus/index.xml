@@ -1,88 +1,429 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ABAQUS on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/abaqus/</link>
-    <description>MagicDPD: Magic Driven Product Development! (ABAQUS)</description>
+    <title>Abaqus on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/abaqus/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Abaqus)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 06 Apr 2022 17:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Oct 2022 18:00:10 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/abaqus/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/abaqus/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Раньше все говорили, что моделировать композиты на микро уро</title>
-      <link>http://localhost:1313/posts/2022-04-06-ranshe-vse-govorili-chto-modelirovat-ko/</link>
+      <title>Модель материала MF GenYld &#43; CrachFEM разработанная #MATFEM GmbH выглядит очень интересно.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-10-17-model-materiala-mf-genyld-&#43;-crachfem-ra/</link>
+      <pubDate>Mon, 17 Oct 2022 18:00:10 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-10-17-model-materiala-mf-genyld-&#43;-crachfem-ra/</guid>
+      <description>&lt;p&gt;Это специальная модель-конструктор, которая собирается из кусочков и позволяет учитывать именно необходимые вам механические особенности материала при явном расчете в #LSDYNA, #Abaqus, #Radioss и #PAMCrash/#PAMStamp. Кроме всей возможной математики модель оснащена специальной утилитой, которая позволяет визуализировать заданные механические законы в виде различных кривых. Это позволяет быстро и наглядно понять, при задании каких параметров допущены ошибки. &lt;a href=&#34;https://www.matfem.de/en/crachfem.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.matfem.de/en/crachfem.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.matfem.de/en/crachfem.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.matfem.de/en/crachfem.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Раньше все говорили, что моделировать композиты на микро уровне - это довольно сложно, если вообще возможно. Однако, прогресс не стоит на месте, и есть интересные подвижки в этом деле. Так, коллеги используют методологию моделирования на основе Метода Цифровых Элементов (Digital Element Approach, DEA). Хотя, если смотреть на описание данного метода, каждая нить композита дискретизирована на пучок волокон, а каждое отдельное волокно состояло из цепочки ферменных (стержневых) элементов. И тут я не понимаю, чем это отличается от стандартного подхода к моделированию балочными элементами?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-06-ranshe-vse-govorili-chto-modelirovat-ko/</link>
       <pubDate>Wed, 06 Apr 2022 17:00:11 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-04-06-ranshe-vse-govorili-chto-modelirovat-ko/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-06-ranshe-vse-govorili-chto-modelirovat-ko/</guid>
       <description>&lt;p&gt;#composite #Abaqus #DEA &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S1359836821003267&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.sciencedirect.com/science/article/abs/pii/S1359836821003267&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S1359836821003267&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Fiber-level numerical simulation of biaxial braids for mesoscopic morphology prediction validated by X-ray computed tomography scan&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Humanetics - если судить по доле рынка, крупнейший производитель антропоморфных тестовых устройств, широко известных как манекены для краш-тестов.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-16-humanetics-esli-sudit-po-dole-rynka/</link>
+      <pubDate>Wed, 16 Feb 2022 17:00:07 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-16-humanetics-esli-sudit-po-dole-rynka/</guid>
+      <description>&lt;p&gt;И у них конечно же есть свои модели этих манекенов для расчетов пассивной безопасности в кодах #ANSYS #LSDYNA, #PAMCRASH, #RADIOSS и #ABAQUS. &lt;a href=&#34;https://humanetics.humaneticsgroup.com/products/virtual-models&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://humanetics.humaneticsgroup.com/products/virtual-models&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://humanetics.humaneticsgroup.com/products/virtual-models&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Virtual Models&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Канал с учебными пособиями по работе с #PrePoMax - открытом препосте для подготовки моделей для #CalculiX #FEA.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-09-kanal-s-uchebnymi-posobiyami-po-rabote-s/</link>
+      <pubDate>Wed, 09 Feb 2022 17:00:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-09-kanal-s-uchebnymi-posobiyami-po-rabote-s/</guid>
+      <description>&lt;p&gt;Ну а CalculiX - это свободный форк #Abaqus. Вот такой круговорот #opensource. Только не думайте, что вы сейчас за бесплатно получите все функции пакетов уровня #Ansys или #Abaqus. PrePoMax, хоть и выглядит не страшно, но покрывает в лучшем случае 1% функций решателя. Например, из моделей материалов там есть только упругая и упруго-пластическая, хотя и с зависимостью свойств от температуры. Так что это пока скорее платформа для студентов, которые хотят посмотреть, как писать свой #CAE код. &lt;a href=&#34;https://www.youtube.com/channel/UCamotvWvTvG4jVFp5rM0tJQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/channel/UCamotvWvTvG4jVFp5rM0tJQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCamotvWvTvG4jVFp5rM0tJQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/channel/UCamotvWvTvG4jVFp5rM0tJQ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Разбираемся с тем, как читать и получать #FLD (Forming Limit Diagram, диаграмма предельного формоизменения) на примере учебного ролика про #Abaqus.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-04-razbiraemsya-s-tem-kak-chitat-i-poluchat/</link>
+      <pubDate>Tue, 04 Jan 2022 21:00:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-04-razbiraemsya-s-tem-kak-chitat-i-poluchat/</guid>
+      <description>&lt;p&gt;Собственно, без знаний FLD ни о каких нормальных расчетах штамповки говорить нельзя. &lt;a href=&#34;https://youtu.be/bBfYvSRnQ0w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/bBfYvSRnQ0w&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/bBfYvSRnQ0w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/bBfYvSRnQ0w&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AniForm - штамповка композитов</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-12-27-aniform-shtampovka-kompozitov/</link>
+      <pubDate>Mon, 27 Dec 2021 13:01:30 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-12-27-aniform-shtampovka-kompozitov/</guid>
+      <description>&lt;p&gt;AniForm - штамповка композитов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/07GAWmAvDKE?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/07GAWmAvDKE?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Делая обзор литературы по одному из проектов наткнулся на интересный инструмент по моделированию штамповки композитных изделий. AniForm позволят рассчитывать штамповку с учетом взаимного влияния мультиаксиальных тканей различной структуры плетения, а также учитывать полимеризацию связующего при нагреве. При этом у AniForm есть интерфейсы для экспорта получаемой структуры изделий в Ansys Composite PrepPost, e-Xstream’s Digimat, Abaqus CAE и Moldex3D + LS-DYNA для прямой генерации карты материала *MAT_249/*MAT_REINFORCED_THERMOPLASTIC.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/-_nbLgicSe8?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/-_nbLgicSe8?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#abaqus #acp #ansys #composite #digimat #forming #lsdyna
+&lt;a href=&#34;https://tinyurl.com/y6s22ms2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y6s22ms2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/07GAWmAvDKE?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;AniForm General: First-time-right process implementation&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/-_nbLgicSe8?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/-_nbLgicSe8?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/y6s22ms2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y6s22ms2&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Моделирование пены низкой плотности в МКЭ</title>
-      <link>http://localhost:1313/posts/2021-02-03-modelirovanie-peny-nizkoy-plotnosti-v-mk/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-03-modelirovanie-peny-nizkoy-plotnosti-v-mk/</link>
       <pubDate>Wed, 03 Feb 2021 13:01:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-02-03-modelirovanie-peny-nizkoy-plotnosti-v-mk/</guid>
-      <description>&lt;p&gt;На сегодня я нашел два интересных видео, посвященных моделированию полимерной пены низкой плотности.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-03-modelirovanie-peny-nizkoy-plotnosti-v-mk/</guid>
+      <description>&lt;p&gt;Моделирование пены низкой плотности в МКЭ&lt;/p&gt;
+&lt;p&gt;На сегодня я нашел два интересных видео, посвященных моделированию полимерной пены низкой плотности.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=g8YSmFk5KSc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=g8YSmFk5KSc&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;В первом видео обсуждается, почему традиционные гиперупругие модели материалов не могут использоваться для прогнозирования поведения мягких полимерных пен. Далее в видео рассматривается математика работы специализированных подходящий моделей Ansys Ogden Foam, LS-DYNA Hill Foam, Abaqus Hyperfoam и COMSOL Storakers.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=W9e-GJHJk00&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=W9e-GJHJk00&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Во второй части видео показывается, как проводить настройку модели материалов с применением пакета PolymerFEM MCalibration.&lt;/p&gt;
 &lt;p&gt;#abaqus #ansys #comsol #foam #ls-dyna #mcalibration #mechanical #polymerfem
 &lt;a href=&#34;https://tinyurl.com/y2gu28ph&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y2gu28ph&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=g8YSmFk5KSc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Material Models for Soft Foams - Part 1 - Theory&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=W9e-GJHJk00&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=W9e-GJHJk00&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/y2gu28ph&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y2gu28ph&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Расчет 3D печати зданий</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-01-13-raschet-3d-pechati-zdaniy/</link>
+      <pubDate>Wed, 13 Jan 2021 17:03:46 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-01-13-raschet-3d-pechati-zdaniy/</guid>
+      <description>&lt;p&gt;Расчет 3D печати зданий
+#ABAQUS #Additive_Manufacturing #CivilFEM #CobraPrint #Grasshopper
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/cobraprint-civil-concrete-printing/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Расчет 3D печати зданий - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Модель бетона CDPM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-08-05-model-betona-cdpm/</link>
+      <pubDate>Wed, 05 Aug 2020 13:00:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-08-05-model-betona-cdpm/</guid>
+      <description>&lt;p&gt;Модель бетона CDPM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/cdpm-open-source/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Модель бетона CDPM - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project PIPER</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-08-03-project-piper/</link>
+      <pubDate>Mon, 03 Aug 2020 13:00:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-08-03-project-piper/</guid>
+      <description>&lt;p&gt;Project PIPER&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/project-piper/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Project PIPER - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Что занчит «поймать песочные часы»</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-04-21-chto-zanchit-poymat-pesochnye-chasy/</link>
+      <pubDate>Tue, 21 Apr 2020 13:00:38 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-04-21-chto-zanchit-poymat-pesochnye-chasy/</guid>
+      <description>&lt;p&gt;Что занчит «поймать песочные часы»&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-Car Crash Simulation</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-04-10-multi-car-crash-simulation/</link>
+      <pubDate>Fri, 10 Apr 2020 13:00:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-04-10-multi-car-crash-simulation/</guid>
+      <description>&lt;p&gt;Multi-Car Crash Simulation&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/multi-car-crash-simulation/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Multi-Car Crash Simulation - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Влияние DYNA на CAE коды</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-11-22-vliyanie-dyna-na-cae-kody/</link>
+      <pubDate>Fri, 22 Nov 2019 13:32:51 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-11-22-vliyanie-dyna-na-cae-kody/</guid>
+      <description>&lt;p&gt;Влияние DYNA на CAE коды&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/survey-to-determine-the-value-of-dyna/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Влияние DYNA на CAE коды - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Часовое обучение Abaqus</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-17-chasovoe-obuchenie-abaqus/</link>
+      <pubDate>Wed, 17 Jul 2019 17:02:15 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-17-chasovoe-obuchenie-abaqus/</guid>
+      <description>&lt;p&gt;Часовое обучение Abaqus&lt;/p&gt;
+&lt;p&gt;#ABAQUS&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Bz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Bz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Bz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Bz&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Просто залипательные видео про подушки безопастности</title>
-      <link>http://localhost:1313/posts/2019-06-19-prosto-zalipatelnye-video-pro-podushki-b/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-06-19-prosto-zalipatelnye-video-pro-podushki-b/</link>
       <pubDate>Wed, 19 Jun 2019 17:00:41 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-06-19-prosto-zalipatelnye-video-pro-podushki-b/</guid>
-      <description>&lt;p&gt;Серия видео с результатом расчета раскрытия подушки безопасности. Поведение газа внутри объема подушки моделируется при помощи  Particle Finite Element Method (PFEM), относящийся к бессточным методам Галеркина.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-06-19-prosto-zalipatelnye-video-pro-podushki-b/</guid>
+      <description>&lt;p&gt;Просто залипательные видео про подушки безопастности&lt;/p&gt;
+&lt;p&gt;Серия видео с результатом расчета раскрытия подушки безопасности. Поведение газа внутри объема подушки моделируется при помощи  Particle Finite Element Method (PFEM), относящийся к бессточным методам Галеркина.&lt;/p&gt;
 &lt;p&gt;#ABAQUS #Airbag #FSI #PFEM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2zF&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2zF&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2zF&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2zF&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Все про элементы в ABAQUS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-17-vse-pro-elementy-v-abaqus/</link>
+      <pubDate>Wed, 17 Apr 2019 17:00:52 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-17-vse-pro-elementy-v-abaqus/</guid>
+      <description>&lt;p&gt;Все про элементы в ABAQUS&lt;/p&gt;
+&lt;p&gt;Гигантский вебинар про все типи элементов для явного и неявного решателя.&lt;/p&gt;
+&lt;p&gt;#ABAQUS&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2tR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2tR&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2tR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2tR&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Учимся работать в Sublime Text</title>
-      <link>http://localhost:1313/posts/2019-04-03-uchimsya-rabotat-v-sublime-text/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-03-uchimsya-rabotat-v-sublime-text/</link>
       <pubDate>Wed, 03 Apr 2019 12:51:24 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-04-03-uchimsya-rabotat-v-sublime-text/</guid>
-      <description>&lt;p&gt;SublimeText — мой любимый текстовый редактор. Я уже писал, что он очень быстр, работает на любой операционной системе и умеет подсвечивать синтаксис #ANSYS #APDL, #LSDYNA и #Abaqus. Этот текстовый редактор совсем не боится файлов по несколько Гб.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-03-uchimsya-rabotat-v-sublime-text/</guid>
+      <description>&lt;p&gt;Учимся работать в Sublime Text&lt;/p&gt;
+&lt;p&gt;SublimeText — мой любимый текстовый редактор. Я уже писал, что он очень быстр, работает на любой операционной системе и умеет подсвечивать синтаксис #ANSYS #APDL, #LSDYNA и #Abaqus. Этот текстовый редактор совсем не боится файлов по несколько Гб.
 Но что бы получить полную отдачу от Sublime Tesxt стоит посмотреть этот небольшой цикл из 12 обучающих видео:&lt;/p&gt;
 &lt;p&gt;#ABAQUS #ANSYS #APDL #LS_DYNA #SublimeText&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-4899&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-4899&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-4899&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-4899&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Оказывается #atom умеет работать не только с синтаксисом #LS</title>
-      <link>http://localhost:1313/posts/2017-11-18-okazyvaetsya-atom-umeet-rabotat-ne-tol/</link>
+      <title>ALE в Abaqus и LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-14-ale-v-abaqus-i-ls-dyna/</link>
+      <pubDate>Thu, 14 Mar 2019 12:55:48 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-14-ale-v-abaqus-i-ls-dyna/</guid>
+      <description>&lt;p&gt;ALE в Abaqus и LS-DYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=cfXKbvoQmrg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=cfXKbvoQmrg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;При решении в ALE (Arbitrary Lagrangian-Eulerian) постановке (с произвольным Лагранж-Эйлеровым поведением) КЭ решатель должен на четных итерациях делать расчет в Лагранжевой постановке, а на нечётных — в Эйлеровой. Таким образом, на каждом втором шаге система может «стравливать» материал, перераспределяя его количество между элементами. В разных решателях такой алгоритм работает немного по-разному.&lt;/p&gt;
+&lt;p&gt;#ABAQUS #ALE #LS_DYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2pN&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2pN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=cfXKbvoQmrg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=cfXKbvoQmrg&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2pN&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2pN&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Тренды поисковых запросов по FEM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-10-trendy-poiskovyh-zaprosov-po-fem/</link>
+      <pubDate>Sun, 10 Feb 2019 16:17:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-10-trendy-poiskovyh-zaprosov-po-fem/</guid>
+      <description>&lt;p&gt;Тренды поисковых запросов по FEM&lt;/p&gt;
+&lt;p&gt;Интересный твит по статистике поисковых запросов главных механических решателей за 8 лет : ANSYS, Abaqus, Nastran, LS-DYNA и SAMCEF
+twitter.com/gdtech_be/status/1029620024124862464&lt;/p&gt;
+&lt;p&gt;#ABAQUS #ANSYS #LS_DYNA #NASTRAN #SAMCEF&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2kQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2kQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/gdtech_be/status/1029620024124862464&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;GDTech Belgium&lt;/a&gt;
+twitter.com/gdtech_be/status/1029620024124862464
+&lt;a href=&#34;https://wp.me/p9vWYY-2kQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2kQ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Состоялся релиз 3DEXPERIENCE R2019x</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-16-sostoyalsya-reliz-3dexperience-r2019x/</link>
+      <pubDate>Sun, 16 Dec 2018 17:00:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-16-sostoyalsya-reliz-3dexperience-r2019x/</guid>
+      <description>&lt;p&gt;Состоялся релиз 3DEXPERIENCE R2019x
+Вышла новая версия CAE платформы Dassault Systems. Ее основные боевые юниты: Abaqus для расчетов прочности, XFlow для CFD, CST для всего электромагнитного. Юниты поменьше: Tosca отвечает за оптимизацию, fe-safe - расчеты долговечности и Isight для автоматизации.
+Меня из всего этого интресует только Abaqus и Tosca (моя давняя любовь, еще с тех времен, когда она была независима).  Но как-то ничего из списка новостей не зашло :(
+&lt;a href=&#34;https://blogs.3ds.com/simulia/r2019x-release-established-products/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blogs.3ds.com/simulia/r2019x-release-established-products/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ABAQUS #CST #FeSafe #TOSCA #XFlow
+&lt;a href=&#34;http://bit.ly/2UL0knU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2UL0knU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blogs.3ds.com/simulia/r2019x-release-established-products/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;R2019x Release: Established Products | The SIMULIA Blog&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2UL0knU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2UL0knU&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Циклосимметрия в Abaqus</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-13-tsiklosimmetriya-v-abaqus/</link>
+      <pubDate>Thu, 13 Dec 2018 17:00:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-13-tsiklosimmetriya-v-abaqus/</guid>
+      <description>&lt;p&gt;Циклосимметрия в Abaqus&lt;/p&gt;
+&lt;p&gt;#ABAQUS
+&lt;a href=&#34;http://bit.ly/2PAUEJx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PAUEJx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2PAUEJx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PAUEJx&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Основы теории колебаний с Abaqus</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-10-osnovy-teorii-kolebaniy-s-abaqus/</link>
+      <pubDate>Mon, 10 Dec 2018 17:00:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-10-osnovy-teorii-kolebaniy-s-abaqus/</guid>
+      <description>&lt;p&gt;Основы теории колебаний с Abaqus
+Очень простой и наглядный пример моделирования грузика на пружинке в Abaqus - видео больше про основы теории колебаний, чем про МКЭ&lt;/p&gt;
+&lt;p&gt;#ABAQUS
+&lt;a href=&#34;http://bit.ly/2PvalSu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PvalSu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2PvalSu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PvalSu&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Про MpCCI подробнее</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-21-pro-mpcci-podrobnee/</link>
+      <pubDate>Wed, 21 Nov 2018 17:01:36 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-21-pro-mpcci-podrobnee/</guid>
+      <description>&lt;p&gt;Про MpCCI подробнее
+MpCCI - система, позволяющая связывать работы нескольких расчетных кодов в разных областях физики, для решения сложных междисциплинарных задач.&lt;/p&gt;
+&lt;p&gt;В новом вебинаре коллеги не только рассказывают об архитектуре ПО, но показывают примеры работы: связка Abaqus и различных CFD кодов (Fluent, OpenFOAM, STAR-CCM+).&lt;/p&gt;
+&lt;p&gt;#ABAQUS #Fluent #FSI #MpCCI #OpenFOAM #STARCCM
+&lt;a href=&#34;http://bit.ly/2Qa5A52&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Qa5A52&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2Qa5A52&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Qa5A52&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Создание волн в Abaqus</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-04-sozdanie-voln-v-abaqus/</link>
+      <pubDate>Sun, 04 Nov 2018 17:00:15 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-04-sozdanie-voln-v-abaqus/</guid>
+      <description>&lt;p&gt;Создание волн в Abaqus
+Учебное видео на 25 минут, которое показывает, как при помощи подвижной границы создавать волны при расчете жидкостей с использованием эйлеровой формулировки метода конечных элементов.&lt;/p&gt;
+&lt;p&gt;#ABAQUS #ALE
+&lt;a href=&#34;http://bit.ly/2PBJ056&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PBJ056&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2PBJ056&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PBJ056&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>eLamX²</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-04-elamx/</link>
+      <pubDate>Sat, 04 Aug 2018 18:01:02 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-04-elamx/</guid>
+      <description>&lt;p&gt;eLamX²
+Эта бесплатная кроссплатформенная разработка кафедры авиастроения Технического университета Дрездена позволит существенно упростить будни инженеров, занимающихся расчетами композиционных конструкций.&lt;/p&gt;
+&lt;p&gt;При беглом осмотре ПО видно, что оно умеет конструировать мультиаксиальные ткани, рассчитывать эффективные свойства пакетов, проверять устойчивость укладок, считать НДС и даже отображает основные критерии-индикаторы начала разрушения (first ply failure criterion).
+eLamX² в виде препоста сопрягается с LS-DYNA, ANSYS Mechanical, Nastran и Abaqus. Получается что-то вроде ANSYS Composite PrepPost, времен, когда его еще не купил ANSYS, и он был в разработке швейцарской фирмы EVAN.&lt;/p&gt;
+&lt;p&gt;Кстати, судя по скриншотам, у eLamX² есть довольно большая встроенная база материалов.
+&lt;a href=&#34;https://tu-dresden.de/ing/maschinenwesen/ilr/lft/elamx2/elamx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tu-dresden.de/ing/maschinenwesen/ilr/lft/elamx2/elamx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ABAQUS #ANSYS #Composite #ELamX #LSDYNA #NASTRAN
+&lt;a href=&#34;http://bit.ly/2OJjJ5F&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OJjJ5F&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://tu-dresden.de/ing/maschinenwesen/ilr/lft/elamx2/elamx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;eLamX²&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2OJjJ5F&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OJjJ5F&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>История создания ABAQUS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-21-istoriya-sozdaniya-abaqus/</link>
+      <pubDate>Mon, 21 May 2018 18:01:06 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-21-istoriya-sozdaniya-abaqus/</guid>
+      <description>&lt;p&gt;История создания ABAQUS&lt;/p&gt;
+&lt;p&gt;ABAQUS — один из лиги «больших» — код, в точности и работоспособности которого уже никто не сомневается. Этот код занимает свое почетное место рядом с ANSYS, NASTRAN, Marc и LS-DYNA. Он широко применяется в академической среде. Да вы и сами все это знаете.&lt;/p&gt;
+&lt;p&gt;Сегодня вашему вниманию я предлагаю увлекательную статью про историю создания данного кода. Спойлер — все, не как всегда, началось не в гараже.
+&lt;a href=&#34;https://www.nafems.org/blog/posts/analysis-origins-abaqus/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.nafems.org/blog/posts/analysis-origins-abaqus/&lt;/a&gt;
+#ABAQUS #SIMULIA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1R8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1R8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nafems.org/blog/posts/analysis-origins-abaqus/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;NAFEMS Analysis Origins - ABAQUS&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-1R8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1R8&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Механика разрушения в ABAQUS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-19-mehanika-razrusheniya-v-abaqus/</link>
+      <pubDate>Sat, 19 May 2018 18:01:10 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-19-mehanika-razrusheniya-v-abaqus/</guid>
+      <description>&lt;p&gt;Механика разрушения в ABAQUS&lt;/p&gt;
+&lt;p&gt;Серия учебных видео, рассказывающих о решении задач механики разрушения и моделирования трещенообразования в ABAQUS. Если с CZM из первого видео все понятно, то вот на XFEM во втором видео стоит обратить особое внимание, ибо XFEM в ABAQUS реализован очень хорошо.
+#ABAQUS #czm #fracture #XFEM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1QT&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1QT&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1QT&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1QT&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование подводных кабельных систем</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-16-modelirovanie-podvodnyh-kabelnyh-sistem/</link>
+      <pubDate>Fri, 16 Mar 2018 18:00:58 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-16-modelirovanie-podvodnyh-kabelnyh-sistem/</guid>
+      <description>&lt;p&gt;Моделирование подводных кабельных систем
+Видео презентация от коллеги из cDynamics по их опыту моделирования подводных кабельных систем при помощи OrcaFlex (&lt;a href=&#34;https://www.orcina.com/SoftwareProducts/OrcaFlex/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.orcina.com/SoftwareProducts/OrcaFlex/)&lt;/a&gt;, Helica (&lt;a href=&#34;https://www.dnvgl.com/services/umbilical-analysis-and-flexible-pipe-analysis-helica-69553&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dnvgl.com/services/umbilical-analysis-and-flexible-pipe-analysis-helica-69553&lt;/a&gt;) и Abaqus&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;#ABAQUS #CDynamics #Helica #OrcaFlex
+&lt;a href=&#34;https://goo.gl/jBwC8u&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/jBwC8u&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.orcina.com/SoftwareProducts/OrcaFlex/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.orcina.com/SoftwareProducts/OrcaFlex/&lt;/a&gt;
+&lt;a href=&#34;https://www.dnvgl.com/services/umbilical-analysis-and-flexible-pipe-analysis-helica-69553&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dnvgl.com/services/umbilical-analysis-and-flexible-pipe-analysis-helica-69553&lt;/a&gt;
+&lt;a href=&#34;https://goo.gl/jBwC8u&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/jBwC8u&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оказывается #atom умеет работать не только с синтаксисом #LSDYNA, а тут есть все столпы #CAE:</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-18-okazyvaetsya-atom-umeet-rabotat-ne-tol/</link>
       <pubDate>Sat, 18 Nov 2017 17:15:25 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-18-okazyvaetsya-atom-umeet-rabotat-ne-tol/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-18-okazyvaetsya-atom-umeet-rabotat-ne-tol/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;#ANSYS #APDL &lt;a href=&#34;http://ift.tt/2AaBre6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2AaBre6&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;#NASTRAN &lt;a href=&#34;http://ift.tt/2zLVvDc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zLVvDc&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;#Abaqus &lt;a href=&#34;https://atom.io/packages/language-ansys&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://atom.io/packages/language-ansys&lt;/a&gt; 🔗 language-ansys&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2Ablt3I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2Ablt3I&lt;/a&gt;
+&lt;a href=&#34;https://atom.io/packages/language-ansys&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://atom.io/packages/language-ansys&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Хотите считать #explicit - учитесь! Вот стандартные тестовые</title>
-      <link>http://localhost:1313/posts/2017-10-20-hotite-schitat-explicit-uchites-vot/</link>
+      <title>Хотите считать #explicit - учитесь!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-20-hotite-schitat-explicit-uchites-vot/</link>
       <pubDate>Fri, 20 Oct 2017 17:07:33 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-10-20-hotite-schitat-explicit-uchites-vot/</guid>
-      <description>&lt;ul&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-20-hotite-schitat-explicit-uchites-vot/</guid>
+      <description>&lt;p&gt;Вот стандартные тестовые задачи для настоящих #explicit кодов:&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;Тест Тейлора (#Taylor Anvil Test)&lt;/li&gt;
 &lt;li&gt;Распространение ударной воны в воздухе (Free Air #Blast)&lt;/li&gt;
 &lt;li&gt;Разрезной стержень Гопкинсона - Кольского (Split Hopkinson Pressure Bar, #SHPB)&lt;/li&gt;
@@ -91,16 +432,559 @@
 &lt;p&gt;Научные статьи и учебное видео для #LSPP во вложении.&lt;/p&gt;
 &lt;p&gt;#LSDYNA #ABAQUS #CTH #ALEGRA #ALE3D #RADIOSSMedia📼 Taylor bar test💾 A method for selecting software for dynamic event…💾 A method for selecting software for dynamic event…&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ift.tt/2zDmjm1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zDmjm1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vBgpQ1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vBgpQ1&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zpLI1B&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zpLI1B&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zEmYDK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zEmYDK&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2i0hIGl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i0hIGl&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vlBJYZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlBJYZ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xBL1l5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xBL1l5&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zqlNHf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zqlNHf&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zDlzgJ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zDlzgJ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zqlPyR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zqlPyR&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zDmihX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zDmihX&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zqhDiu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zqhDiu&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zDmjm1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zDmjm1&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zpFsHw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zpFsHw&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zDyUG1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zDyUG1&lt;/a&gt;
+p://ift.tt/2zDmjm1&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Nor-Tech, один из крупнейших в США системных интеграторов сп</title>
-      <link>http://localhost:1313/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</link>
+      <title>Увидел свет обновленный #EDEM 2018. Из наиболее заметных нововведений: возможность интегрироваться с #Abaqus и #RecurDyn - это в добавление к существовавшей связке с #ANSYS, #MSC и #Siemens.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-17-uvidel-svet-obnovlennyy-edem-2018-iz-n/</link>
+      <pubDate>Tue, 17 Oct 2017 17:19:15 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-17-uvidel-svet-obnovlennyy-edem-2018-iz-n/</guid>
+      <description>&lt;p&gt;#DEM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cfdreview.com/article.pl?sid=17/10/04/159246&amp;amp;rss=1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.cfdreview.com/article.pl?sid=17/10/04/159246&amp;rss=1&lt;/a&gt; 🔗 CFD Review | EDEM 2018 Focuses on Productivity Enhancements&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2jcbmDU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2jcbmDU&lt;/a&gt;
+&lt;a href=&#34;http://www.cfdreview.com/article.pl?sid=17/10/04/159246&amp;amp;rss=1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.cfdreview.com/article.pl?sid=17/10/04/159246&amp;rss=1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование аортального клапана, двусторонний #FSI: #ABAQUS &#43; #FlowVision</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-26-modelirovanie-aortalnogo-klapana-dvust/</link>
+      <pubDate>Sat, 26 Aug 2017 17:11:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-26-modelirovanie-aortalnogo-klapana-dvust/</guid>
+      <description>&lt;p&gt;#CFD #FEM
+&lt;a href=&#34;https://www.youtube.com/watch?v=jZE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jZE&lt;/a&gt;…Media📼 Two way FSI FlowVision &amp;amp; Abaqus - Artificial Aorti…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2wHLqpO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wHLqpO&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2wHTKG5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wHTKG5&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xBL1l5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xBL1l5&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wHrvqW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wHrvqW&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2v2FNSC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2v2FNSC&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wHGYaz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wHGYaz&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=jZE506eW8Tg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jZE506eW8Tg&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xCcnHX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xCcnHX&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wHLqpO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wHLqpO&lt;/a&gt;
+ttp://ift.tt/2wHLqpO&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Все инструменты для правильного расчета разрушения конструкций - #LSDYNA, #AUTODYN, #Abaqus, #Radioss - это конечно очень здорово. Но что делать, если вам просто нужна красивая картинка?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-13-vse-instrumenty-dlya-pravilnogo-rascheta/</link>
+      <pubDate>Sun, 13 Aug 2017 17:03:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-13-vse-instrumenty-dlya-pravilnogo-rascheta/</guid>
+      <description>&lt;p&gt;Ведь спецэффектов в современных фильмах вам не нужны точные математические модели, вам нужна правдоподобность и быстрота визуализации  (Computer-generated imagery, #CGI).
+В этом случае следует обратить внимание на #cebas #volumeBreaker - специализированный плагин для 3Ds MAX, предназначенный именно для визуализации процессов разрушения. Судя по внешнему виду плагин реализует разрушение на базе сеток Вороного (можно гуглить Voronoi Meshes или читать вику: &lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Диаграмма_Вороного)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/MiMxtCwOUq4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/MiMxtCwOUq4&lt;/a&gt; &lt;a href=&#34;http://www.cebas.com/?pid=productinfo&amp;amp;prd_id=77&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.cebas.com/?pid=productinfo&amp;prd_id=77&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B3%D0%BE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B3%D0%BE&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Диаграмма_Вороного
+&lt;a href=&#34;https://youtu.be/MiMxtCwOUq4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/MiMxtCwOUq4&lt;/a&gt;
+&lt;a href=&#34;http://www.cebas.com/?pid=productinfo&amp;amp;prd_id=77&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.cebas.com/?pid=productinfo&amp;prd_id=77&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#BWEngineering на своем канале выложили обучающий видео урок для #Abaqus  на тему моделирования удара самолета в задние атомного реактора.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-10-bwengineering-na-svoem-kanale-vylozhili/</link>
+      <pubDate>Thu, 10 Aug 2017 17:00:59 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-10-bwengineering-na-svoem-kanale-vylozhili/</guid>
+      <description>&lt;p&gt;Ну что вам сказать - я посмеялся. Конечно это совсем не production - это просто #конопконажимательство.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=rxFqHfdlhyw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=rxFqHfdlhyw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=rxFqHfdlhyw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ABAQUS Tutorial | Boeing 747 Impact Analysis on Nuclear Containment Building | BW Engineering&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ликбез по гиперупруги материалам</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-09-likbez-po-giperuprugi-materialam/</link>
+      <pubDate>Wed, 09 Aug 2017 17:00:53 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-09-likbez-po-giperuprugi-materialam/</guid>
+      <description>&lt;p&gt;Ликбез по гиперупруги материалам&lt;/p&gt;
+&lt;p&gt;Очень неплохой видео урок/лекция позволящий разобраться в физике моделей гиперупругих метилов. Урок на безе #Abaqus, но пригодится наверно любому инженеру.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=lEh3VTnDmnk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=lEh3VTnDmnk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=lEh3VTnDmnk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Abaqus: Hyperelastic material constants evaluation from test data&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bolt 2.0 для создания сетки</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-06-bolt-20-dlya-sozdaniya-setki/</link>
+      <pubDate>Sun, 06 Aug 2017 17:00:56 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-06-bolt-20-dlya-sozdaniya-setki/</guid>
+      <description>&lt;p&gt;Bolt 2.0 для создания сетки
+&lt;a href=&#34;https://youtu.be/Dqt0rtjffIc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Dqt0rtjffIc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#csimsoft в своем сеточном генераторе #Bolt 2.0 добилась автоматической генерации полностью гексаэдральной сетки для любой геометрии. All-hex mesh - это просто мечта инженера расчетчика, особенно для #explicit! Судя по описанию, сеточный генератор опитается на алгоритм #PolyCube - одна из певых, если не единственная завершенная и готовая реализация этого перспективного алгоритма генерации сетки.&lt;/p&gt;
+&lt;p&gt;Сеточный генератор умеет писать и читать сетки для:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#ANSYS Mechanical&lt;/li&gt;
+&lt;li&gt;#ANSYS Fluent&lt;/li&gt;
+&lt;li&gt;#Abaqus&lt;/li&gt;
+&lt;li&gt;#LSDYNA&lt;/li&gt;
+&lt;li&gt;#OpenFOAM&lt;/li&gt;
+&lt;li&gt;#Patran&lt;/li&gt;
+&lt;li&gt;#Nastran&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;А еще Bolt умеет сроить сетку параллельно :-)&lt;/p&gt;
+&lt;p&gt;Пожалуй надо брать триал на 15 дней и пробовать.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/Dqt0rtjffIc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Dqt0rtjffIc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/Dqt0rtjffIc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Introduction to Meshing with Bolt&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Собираем CalculiX с поддержкой CUDA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-28-sobiraem-calculix-s-podderzhkoy-cuda/</link>
+      <pubDate>Fri, 28 Jul 2017 17:00:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-28-sobiraem-calculix-s-podderzhkoy-cuda/</guid>
+      <description>&lt;p&gt;Собираем CalculiX с поддержкой CUDA
+&lt;a href=&#34;https://geektimes.ru/post/291475/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://geektimes.ru/post/291475/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Статья будет полезна инженерам, которые не бояться зайти в командную строку #Linux и понимают, как собирать программы из исходных текстов. Для таких есть отличный бесплатный софт и предложения по его улучшению.&lt;/p&gt;
+&lt;p&gt;Вам предлагается пошаговая инструкция по компиляции #CalculiX - младшего, бесплатного открытого брата #Abaqus. И это не простая сборка ПО, а компиляция для включения поддержки ускорения решения задач на #GPGPU с поддержкой #CUDA от #NVIDIA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://geektimes.ru/post/291475/?utm_source=tw&amp;amp;utm_medium=social&amp;amp;utm_campaign=kompilyatsiya-calculix-extras-s-podderzhkoy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Компиляция CalculiX Extras с поддержкой NVIDIA CUDA и методом Холецкого&lt;/a&gt;
+&lt;a href=&#34;https://geektimes.ru/post/291475/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://geektimes.ru/post/291475/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Проектирование из композитов</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-10-proektirovanie-iz-kompozitov/</link>
+      <pubDate>Mon, 10 Apr 2017 17:04:03 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-10-proektirovanie-iz-kompozitov/</guid>
+      <description>&lt;p&gt;Проектирование из композитов
+&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/14480/How-to-Design-the-Lightest-Possible-Bike-And-Still-Sleep-at-Night.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/14480/How-to-Design-the-Lightest-Possible-Bike-And-Still-Sleep-at-Night.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Обзорная статья, как большие вендоры композитные велосипеды проектируют. Большие это:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#Dassault Systèmes&lt;/li&gt;
+&lt;li&gt;#ANSYS&lt;/li&gt;
+&lt;li&gt;#Altair&lt;/li&gt;
+&lt;li&gt;#Siemens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Много ссылок на софт и на названия технологий. Лично мне больше всего нравятся два решения: #ACCS от #LMAT для #ANSYS и #XFEM для композитов от #Abaqus. Остальное все примерно одинаково.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/14480/How-to-Design-the-Lightest-Possible-Bike-And-Still-Sleep-at-Night.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/14480/How-to-Design-the-Lightest-Possible-Bike-And-Still-Sleep-at-Night.aspx&lt;/a&gt;
+&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/14480/How-to-Design-the-Lightest-Possible-Bike-And-Still-Sleep-at-Night.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/14480/How-to-Design-the-Lightest-Possible-Bike-And-Still-Sleep-at-Night.aspx&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ALE для Abaqus</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-11-ale-dlya-abaqus/</link>
+      <pubDate>Sat, 11 Mar 2017 12:03:56 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-11-ale-dlya-abaqus/</guid>
+      <description>&lt;p&gt;ALE для Abaqus
+&lt;a href=&#34;https://www.youtube.com/watch?v=J9f_fmgMHfY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=J9f_fmgMHfY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ой мамочки: видео урок по распорке #ALE #FSI в #Abaqus. Я-то думал, что у Abaqus все хорошо с GUI и UI, но он застрял где-то на уровне #LSPP и #ANSYS 10.&lt;/p&gt;
+&lt;p&gt;P.S. #ALE (Arbitrary Lagrange Euler) для Abaqus называется #CEL (Coupled Eulerian Lagrangian) (CEL)
+#Sloshing
+&lt;a href=&#34;https://www.youtube.com/watch?v=J9f_fmgMHfY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=J9f_fmgMHfY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=J9f_fmgMHfY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Abaqus Coupled Eulerian Lagrangian (CEL) Modelling Tutorial: Example- Water Sloshing in Tank&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DEM для Abaqus</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-28-dem-dlya-abaqus/</link>
+      <pubDate>Tue, 28 Feb 2017 17:01:01 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-28-dem-dlya-abaqus/</guid>
+      <description>&lt;p&gt;DEM для Abaqus
+&lt;a href=&#34;https://www.youtube.com/watch?v=UuIq2Hh4rZ8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=UuIq2Hh4rZ8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ну и дела: #DEM оказывается есть не только в специализированных кода - он проник в один из самых авторитетных решателей - #Abaqus. Видео урок об этом прилагается. Качество UI и и удобство работы по сравнению с #Rocky сомнительное&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UuIq2Hh4rZ8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=UuIq2Hh4rZ8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UuIq2Hh4rZ8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Abaqus: Discrete Element Method (Introductory Video)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Конкуренты не дремлют</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-01-27-konkurenty-ne-dremlyut/</link>
+      <pubDate>Fri, 27 Jan 2017 17:00:32 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-01-27-konkurenty-ne-dremlyut/</guid>
+      <description>&lt;p&gt;Конкуренты не дремлют
+&lt;a href=&#34;https://www.youtube.com/watch?v=I92p9-jlAzs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=I92p9-jlAzs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Предлагаю вашему вниманию небольшой обзор новых возможностей #SIMULIA #Abaqus 2017&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=I92p9-jlAzs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=I92p9-jlAzs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=I92p9-jlAzs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Whats new in SIMULIA Abaqus 2017 webinar&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Изучаем SPH в ABAQUS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-27-izuchaem-sph-v-abaqus/</link>
+      <pubDate>Tue, 27 Dec 2016 17:02:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-27-izuchaem-sph-v-abaqus/</guid>
+      <description>&lt;p&gt;Изучаем SPH в ABAQUS
+&lt;a href=&#34;https://www.youtube.com/watch?v=VFM19TpRD2I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=VFM19TpRD2I&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Стандартный пример удара #SPH птицы в оболочку, пошагово разобранный в #ABAQUS
+&lt;a href=&#34;https://www.youtube.com/watch?v=VFM19TpRD2I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=VFM19TpRD2I&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=VFM19TpRD2I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Abaqus/CAE SPH Modeling Tutorial: Example- Bird Strike–Step by Step Method&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dassault Systèmes купил XFlow</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-09-dassault-syst%C3%A8mes-kupil-xflow/</link>
+      <pubDate>Fri, 09 Dec 2016 17:00:30 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-09-dassault-syst%C3%A8mes-kupil-xflow/</guid>
+      <description>&lt;p&gt;Dassault Systèmes купил XFlow
+&lt;a href=&#34;http://www.develop3d.com/blog/dassault-systemes-acquires-next-limit-dynamics-for-further-cfd-simulation-e&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.develop3d.com/blog/dassault-systemes-acquires-next-limit-dynamics-for-further-cfd-simulation-e&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Компания #Dassault Systèmes, имеющая в своем портфолио такие #CAD, как #CATIA и #SolidWorks, а так же убер механический решатель #Abaqus и много еще чего полезного прикупил себе компанию Next Limit Dynamics.&lt;/p&gt;
+&lt;p&gt;Next Limit Dynamics, в свою очередь, знаменита благодаря своему детищу - #XFlow - #CFD решателю использующему модифицированный метод решёточных уравнений Больцмана (Lattice #Boltzmann Method, #LBM, &lt;a href=&#34;https://habrahabr.ru/post/190552/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://habrahabr.ru/post/190552/)&lt;/a&gt;. Данный бесстоечный метод позволяет XFlow с невероятной легкостью решать задачи со сложной и/или подвижной геометрией.&lt;/p&gt;
+&lt;p&gt;P.S. А еще у XFlow ну очень красивый и эффектный постпроцессор.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=wtGa0EDLLW0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=wtGa0EDLLW0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.develop3d.com/blog/dassault-systemes-acquires-next-limit-dynamics-for-further-cfd-simulation-e&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DEVELOP3D blog - Dassault Systèmes acquires Next Limit Dynamics for further CFD simulation expertise&lt;/a&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/190552/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://habrahabr.ru/post/190552/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=wtGa0EDLLW0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=wtGa0EDLLW0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Что бы ботинки были по ноге</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-10-chto-by-botinki-byli-po-noge/</link>
+      <pubDate>Thu, 10 Nov 2016 17:02:37 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-10-chto-by-botinki-byli-po-noge/</guid>
+      <description>&lt;p&gt;Что бы ботинки были по ноге
+&lt;a href=&#34;http://www.3ds.com/fileadmin/PRODUCTS/SIMULIA/PDF/scc-papers/2016/numerical-foot-model-running-shoe-16.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.3ds.com/fileadmin/PRODUCTS/SIMULIA/PDF/scc-papers/2016/numerical-foot-model-running-shoe-16.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Очень интресная статья по проектированию спортивно обуви при помощи #КЭ с конференции &amp;ldquo;IN THE AGE OF EXPERIENCE&amp;rdquo; (&lt;a href=&#34;http://age-of-experience.3ds.com/science-age-of-experience%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://age-of-experience.3ds.com/science-age-of-experience)&lt;/a&gt;. Чего только не моделируют, что бы было лучше.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.3ds.com/fileadmin/PRODUCTS/SIMULIA/PDF/scc-papers/2016/numerical-foot-model-running-shoe-16.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.3ds.com/fileadmin/PRODUCTS/SIMULIA/PDF/scc-papers/2016/numerical-foot-model-running-shoe-16.pdf&lt;/a&gt;
+&lt;a href=&#34;http://age-of-experience.3ds.com/science-age-of-experience&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://age-of-experience.3ds.com/science-age-of-experience&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пора учить португальский</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-07-pora-uchit-portugalskiy/</link>
+      <pubDate>Mon, 07 Nov 2016 17:00:58 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-07-pora-uchit-portugalskiy/</guid>
+      <description>&lt;p&gt;Пора учить португальский
+&lt;a href=&#34;https://www.youtube.com/watch?v=jewFlGu2bbM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jewFlGu2bbM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Altair #RADIOSS (&lt;a href=&#34;https://www.youtube.com/watch?v=jewFlGu2bbM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jewFlGu2bbM&lt;/a&gt;) - пожалуй один из самых недооценены, и, в то же врем, один из самых мощных решателей явной динамики. По материалам, что мне попадались, я бы поставил его в один ряд с #LSDYNA и #Abaqus. А тут мне попался почти что идеальный материал. Представляю вам лекцию на 7:30 (семь с половиной) часов, посвященную этому продукту в версии 2016 года. Есть правда одно но: презентация идет на английском, а вот лектор говорит по португальски :-D
+#explicit&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=FwuI2lJtjOY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=FwuI2lJtjOY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jewFlGu2bbM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jewFlGu2bbM&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=FwuI2lJtjOY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=FwuI2lJtjOY&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>И еще немного трещин</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-09-i-esche-nemnogo-treschin/</link>
+      <pubDate>Sun, 09 Oct 2016 12:00:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-09-i-esche-nemnogo-treschin/</guid>
+      <description>&lt;p&gt;И еще немного трещин
+&lt;a href=&#34;https://www.youtube.com/watch?v=vS3bkoFy_YE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=vS3bkoFy_YE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Продолжая тему выращивания трещин в #Abaqus при использованиям #XFEM я нашел одно интересное видео. На нем трещина растет в следствии циклического нагруженная. Типичная малоциклонвая усталость.
+#fatigue
+&lt;a href=&#34;https://www.youtube.com/watch?v=vS3bkoFy_YE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=vS3bkoFy_YE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=vS3bkoFy_YE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SIMULIA Abaqus/Standard &amp;amp; X-FEM - Low cycle fatigue analysis&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование роста трещин</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-08-modelirovanie-rosta-treschin/</link>
+      <pubDate>Sat, 08 Oct 2016 17:00:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-08-modelirovanie-rosta-treschin/</guid>
+      <description>&lt;p&gt;Моделирование роста трещин
+&lt;a href=&#34;https://www.youtube.com/watch?v=FaS-VvNLM3c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=FaS-VvNLM3c&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Есть такое интересное расширение #FEM - #XFEM называется. Все как в обычном сеточном методе, только поддерживаются разрывные функции формы, что позволяет простить трещины не сквозь сетку (не убивая/удаляя элементы). И тут пальма первенства у #Abaqus. Конечно XFEM был в #LSDYNA с 2006 года, конечно он есть #ANSYS #Mechanical с 2015 года&amp;hellip; Но эти реализации чаще работают в постановках плоской теории упругости. А вот математика Abaqus позволяет использовать XFEM в 3D постановке.&lt;/p&gt;
+&lt;p&gt;Специально по теме небольшой учебный пример:
+&lt;a href=&#34;https://www.youtube.com/watch?v=FaS-VvNLM3c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=FaS-VvNLM3c&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=FaS-VvNLM3c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;XFEM 3D&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SPH для Abaqus</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-06-sph-dlya-abaqus/</link>
+      <pubDate>Thu, 06 Oct 2016 17:01:28 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-06-sph-dlya-abaqus/</guid>
+      <description>&lt;p&gt;SPH для Abaqus
+&lt;a href=&#34;https://www.youtube.com/watch?v=boJPB_9f9vk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=boJPB_9f9vk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Небольшое видео, рассказывабщее базовую информацию о методе #SPH и его применени в #Abaqus. Рассматривается пример об очердной SPH прице, бьющейся в крыло самолета.
+&lt;a href=&#34;https://www.youtube.com/watch?v=boJPB_9f9vk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=boJPB_9f9vk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=boJPB_9f9vk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SIMULIA Abaqaus - SPH (Smooth Particle Hydrodynamics)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Удобный блокнот</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-30-udobnyy-bloknot/</link>
+      <pubDate>Fri, 30 Sep 2016 17:00:21 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-30-udobnyy-bloknot/</guid>
+      <description>&lt;p&gt;Удобный блокнот
+&lt;a href=&#34;https://vk.com/wall-97265142_215&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/wall-97265142_215&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Я уже писал, что #SublimeText умеет подсвечивать синтаксис #ANSYS #APDL и #LSDYNA KEYWORD (&lt;a href=&#34;https://vk.com/wall-97265142_215%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/wall-97265142_215)&lt;/a&gt;. Оказалось, это не все: в стандартном репозитории для SublimeText присутствует пакет подсветки синтаксиса #Abaqus, а если очень надо, но на #GitHub есть плагин для подсветки #NASTRAN (&lt;a href=&#34;https://github.com/bguest/NASTRAN-Textmate-Bundle%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/bguest/NASTRAN-Textmate-Bundle)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Таким образом SublimeText умеет посвечивать синтаксис всех 4-х самых больших система для КЭ расчетов.&lt;/p&gt;
+&lt;p&gt;P.S. Учебные видео по работе с SublimeText доступны по ссылке: &lt;a href=&#34;https://www.youtube.com/playlist?list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/playlist?list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vk.com/wall-97265142_215&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MagicDPD - про ANSYS, LS-DYNA и другое CAE&lt;/a&gt;
+&lt;a href=&#34;https://github.com/bguest/NASTRAN-Textmate-Bundle&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/bguest/NASTRAN-Textmate-Bundle&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/playlist?list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/playlist?list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Теперь и в Abaqus</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-20-teper-i-v-abaqus/</link>
+      <pubDate>Tue, 20 Sep 2016 17:00:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-20-teper-i-v-abaqus/</guid>
+      <description>&lt;p&gt;Теперь и в Abaqus
+&lt;a href=&#34;https://www.youtube.com/watch?v=mtEXEGVSN7s&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=mtEXEGVSN7s&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Учебный материал, по моделированию знаменитого безлопастного вентилятора #Dyson, который где-то 4-6 лет назад был просчитан и оптимизирован при помощи #ANSYS #Fluent.&lt;/p&gt;
+&lt;p&gt;Я и не знал, что в составе #Abaqus есть #CFD код.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=mtEXEGVSN7s&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;16-15 ABAQUS Tutorial | Bladeless Fan | CFD analysis | 6.13&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учимся работать в Sublime Text</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-31-uchimsya-rabotat-v-sublime-text/</link>
+      <pubDate>Wed, 31 Aug 2016 06:30:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-31-uchimsya-rabotat-v-sublime-text/</guid>
+      <description>&lt;p&gt;Учимся работать в Sublime Text
+&lt;a href=&#34;https://www.youtube.com/playlist?list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/playlist?list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#SublimeText - мой любимый текстовый редактор. Я уже писал, что он очень быстр, работает на любой операционной системе и умеет подсвечивать синтаксис #ANSYS #APDL,  #LSDYNA и #Abaqus. Этот текстовый редактор совсем не боится файлов по несколько Гб.&lt;/p&gt;
+&lt;p&gt;Но что бы получить полную отдачу от Sublime Tesxt стоит посмотреть этот небольшой цикл из 12 обучающих видео:
+&lt;a href=&#34;https://www.youtube.com/playlist?list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/playlist?list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Sublime Text Tutorial&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Расcчитываем стент в #ABAQUS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-06-rascchityvaem-stent-v-abaqus/</link>
+      <pubDate>Sat, 06 Aug 2016 12:01:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-06-rascchityvaem-stent-v-abaqus/</guid>
+      <description>&lt;p&gt;Расcчитываем стент в #ABAQUS
+&lt;a href=&#34;https://www.youtube.com/watch?v=WGhKZlvzYuQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=WGhKZlvzYuQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Вашему вниманию 20-минутный видеоурок на тему расчета стента.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=WGhKZlvzYuQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=WGhKZlvzYuQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=WGhKZlvzYuQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ABAQUS Tutorial | Stent Simulation | Implicit, multi-steps | 16-16&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Собираетесь смоделировать краштест... судна и не занает что выбрать: #Abaqus или #LSDYNA?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-27-sobiraetes-smodelirovat-krashtest-su/</link>
+      <pubDate>Wed, 27 Jul 2016 06:30:03 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-27-sobiraetes-smodelirovat-krashtest-su/</guid>
+      <description>&lt;p&gt;Статья по ссылке даст ответ на этот вопрос. Битва слона с китом однако.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lnk.al/1U5c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1U5c&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lnk.al/1U5c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Comparison of ABAQUS and LS-DYNA in simulations of ship collisions&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Гигант #Dassault Systèmes, известный изначально своими #CAD пакетами #SolidWorks и #CATIA и одним из лучших решателей для задач механики #Abaqus сделал новую покупку.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-23-gigant-dassault-syst%C3%A8mes-izvestnyy-izn/</link>
+      <pubDate>Sat, 23 Jul 2016 13:00:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-23-gigant-dassault-syst%C3%A8mes-izvestnyy-izn/</guid>
+      <description>&lt;p&gt;Теперь, всего за €220, они приобрели немецкую компанию #CST (Computer Simulation Technology) - одного из самых именитых игроков на рынке электромагнитных и радофизических расчетов благодаря их CST STUDIO SUITE.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lnk.al/1U3G&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1U3G&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lnk.al/1U3G&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DEVELOP3D blog - Dassault Systèmes adds electromagnetic simulation to portfolio&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>И #Abaqus тоже умеет #DEM?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-05-i-abaqus-tozhe-umeet-dem/</link>
+      <pubDate>Sun, 05 Jun 2016 07:00:36 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-05-i-abaqus-tozhe-umeet-dem/</guid>
+      <description>&lt;p&gt;И #Abaqus тоже умеет #DEM?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=w7Ia6scbf8U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Abaqus Explicit - DropTest with DEM&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вот это действительно интересно: рост трещин в #xfem постановке.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-17-vot-eto-deystvitelno-interesno-rost-tr/</link>
+      <pubDate>Tue, 17 May 2016 07:01:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-17-vot-eto-deystvitelno-interesno-rost-tr/</guid>
+      <description>&lt;p&gt;Учебное видео для #ABAQUS&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0poYsfjQp_A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;16-10 ABAQUS tutorial | XFEM | Turbine Blade | Fracture Mechanics | VCCT&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Статус поддержки решателей #ABAQUS, #NASTRAN и #ANSYS в самой свежей версии #FEMAP</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-25-status-podderzhki-reshateley-abaqus-nas/</link>
+      <pubDate>Mon, 25 Apr 2016 12:01:52 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-25-status-podderzhki-reshateley-abaqus-nas/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=VRprvXT8m4w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FEMAP V11.3: Solver Support&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Что нового в #Abaqus 2016 - смотрим новую серию увлекательного сериала (целых 45 минут) и пишем коменты.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-31-chto-novogo-v-abaqus-2016-smotrim-novu/</link>
+      <pubDate>Thu, 31 Mar 2016 16:54:47 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-31-chto-novogo-v-abaqus-2016-smotrim-novu/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=TxbF2buN_QU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SIMULIA Abaqus 2016 - Whats new&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Видео урок по гибке/формовке металла в #ABAQUS с учетом пружинения.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-24-video-urok-po-gibkeformovke-metalla-v/</link>
+      <pubDate>Thu, 24 Mar 2016 12:00:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-24-video-urok-po-gibkeformovke-metalla-v/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=zNvkmzXAdqI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Manufacturing Simulation- Sheet metal Bending -Abaqus CAE-Implicit-Standard&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Видео урок по глубокой вытяжке в #Simulia #Abaqus.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-09-video-urok-po-glubokoy-vytyazhke-v-simuli/</link>
+      <pubDate>Wed, 09 Mar 2016 07:00:48 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-09-video-urok-po-glubokoy-vytyazhke-v-simuli/</guid>
+      <description>&lt;p&gt;Видео урок по глубокой вытяжке в #Simulia #Abaqus.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=6J_x-t3uT_E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Abaqus tutorial - deep drawing&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#Abaqus #Explicit обижает тонкую металлическую трубу - он ее скручивает и показывает, как такое делать правильно.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-18-abaqus-explicit-obizhaet-tonkuyu-metalli/</link>
+      <pubDate>Thu, 18 Feb 2016 07:01:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-18-abaqus-explicit-obizhaet-tonkuyu-metalli/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-H1l-LKXTTo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Abaqus CAE: How to model high deformation twisting problem using Abaqus CAE and Explicit Solver!!&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Самый молодой из великих: 17 лет назад, в феврале 1999 была представлена версия #ABAQUS/CAE V1.0 - первая версия данного софта.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-07-samyy-molodoy-iz-velikih-17-let-nazad/</link>
+      <pubDate>Sun, 07 Feb 2016 05:56:52 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-07-samyy-molodoy-iz-velikih-17-let-nazad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Видео урок по проживанию пластин а #Abaqus #Explicit от начала и до конца.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-05-video-urok-po-prozhivaniyu-plastin-a-abaq/</link>
+      <pubDate>Fri, 05 Feb 2016 07:00:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-05-video-urok-po-prozhivaniyu-plastin-a-abaq/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=7PrwggZTkWs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Abaqus CAE-  Step by step  How to use the material damage in high velocity impact problem&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Если Porsche, Mercedes и Volvo выбирают для краштестов LS-DYNA, Renalt склоняется к ESI, то BMW предпочитает #Abaqus #Explicit.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-23-esli-porsche-mercedes-i-volvo-vybirayut/</link>
+      <pubDate>Sat, 23 Jan 2016 09:01:12 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-23-esli-porsche-mercedes-i-volvo-vybirayut/</guid>
+      <description>&lt;p&gt;Предлагаю небольшую брошюрку на эту тему.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Невольно вспоминается реклама стирального порошка.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-20-nevolno-vspominaetsya-reklama-stiralnog/</link>
+      <pubDate>Wed, 20 Jan 2016 07:02:02 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-20-nevolno-vspominaetsya-reklama-stiralnog/</guid>
+      <description>&lt;p&gt;Но тут вся суть не в порошке, а в явной схеме решателя #SIMULIA #Abaqus.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1cSXxCjmK_s&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;WashingMachine&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Больше #Abaqus!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-11-bolshe-abaqus/</link>
+      <pubDate>Mon, 11 Jan 2016 04:06:24 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-11-bolshe-abaqus/</guid>
+      <description>&lt;p&gt;!!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование падения капли воды на металлическую мембрану в постановке #SPH - #Abaqus тоже может дать жару!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-31-modelirovanie-padeniya-kapli-vody-na-meta/</link>
+      <pubDate>Thu, 31 Dec 2015 06:00:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-31-modelirovanie-padeniya-kapli-vody-na-meta/</guid>
+      <description>&lt;p&gt;Смотрим видео урок!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=j6oKpx0FAQM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Abaqus/CAE SPH Modeliling Tutorial: Example- Water Jet/Drops Impact on membrane–Step by Step Method&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Напряженный Дарт Вейдер в #SIMULIA.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-17-napryazhennyy-dart-veyder-v-simulia-v-gl/</link>
+      <pubDate>Thu, 17 Dec 2015 07:01:46 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-17-napryazhennyy-dart-veyder-v-simulia-v-gl/</guid>
+      <description>&lt;p&gt;В главных ролях #TOSCA и #Abaqus.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=XvCBi7Ud_RM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Star Wars SIMULIA&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#SIMULIA #Abaqus тоже может 😊</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-04-simulia-abaqus-tozhe-mozhet/</link>
+      <pubDate>Fri, 04 Dec 2015 18:01:09 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-04-simulia-abaqus-tozhe-mozhet/</guid>
+      <description>&lt;p&gt;#SIMULIA #Abaqus тоже может 😊&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=sRuBybF9_tg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SIMULIA Abaqus Aluminium Can Crush Topload&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nor-Tech, один из крупнейших в США системных интеграторов специализирующихся на #HPC, запустил демонстрационных кластер, на котором вы можете свободно проверить, что конкретно вам даст настоящий высокопроизводительный ресурс.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</link>
       <pubDate>Mon, 23 Nov 2015 06:00:37 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</guid>
-      <description>&lt;p&gt;CAE:&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</guid>
+      <description>&lt;p&gt;Уже сейчас на классе доступны следующие программные продукты:&lt;/p&gt;
+&lt;p&gt;CAE:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;ANSYS: ANSYS Fluent – CFD,&lt;/li&gt;
 &lt;li&gt;ANSYS: Mechanical – FEA,&lt;/li&gt;
@@ -130,16 +1014,19 @@
 &lt;li&gt;Altair PBS Pro, Compute Manager &amp;amp; Display Manager и другеи продукты&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Жаль, что у нас пока нет таких же бравых системных интеграторов.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.nor-tech.com/solutions/hpc/demo-cluster/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Try our free demo cluster&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Издание HPCWire начало голосование за лучшие HPC 2015 года. </title>
-      <link>http://localhost:1313/posts/2015-09-30-izdanie-hpcwire-nachalo-golosovanie-za-lu/</link>
+      <title>Издание HPCWire начало голосование за лучшие HPC 2015 года.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-30-izdanie-hpcwire-nachalo-golosovanie-za-lu/</link>
       <pubDate>Wed, 30 Sep 2015 06:30:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-09-30-izdanie-hpcwire-nachalo-golosovanie-za-lu/</guid>
-      <description>&lt;p&gt;Голосование будет проходить до 9 Октября 23:59 по тихоокеанскому времени.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-30-izdanie-hpcwire-nachalo-golosovanie-za-lu/</guid>
+      <description>&lt;p&gt;Среди множества дисциплин засветились следующие важные для нас игроки: NICE Software, ANSYS Cloud, ANSYS Fluent, Abaqus, Altair HyperWorks, Star-CD и многое другое.&lt;/p&gt;
+&lt;p&gt;Голосование будет проходить до 9 Октября 23:59 по тихоокеанскому времени.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.hpcwire.com/2015-hpcwire-readers-choice-awards/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;2015 Annual HPCwire Readers&amp;rsquo; Choice Awards - HPCwire&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

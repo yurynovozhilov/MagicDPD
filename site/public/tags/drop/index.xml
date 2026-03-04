@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drop on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/drop/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Drop)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 13 Feb 2018 07:01:19 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/drop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Drop tests with ANSYS/LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-13-drop-tests-with-ansysls-dyna/</link>
+      <pubDate>Tue, 13 Feb 2018 07:01:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-13-drop-tests-with-ansysls-dyna/</guid>
+      <description>&lt;p&gt;Drop tests with ANSYS/LS-DYNA
+Colleagues from the British-Irish CADFEM collected a small presentation on the drop tests simulation in ANSYS with usage of LS-DYNA solver&lt;/p&gt;
+&lt;p&gt;From the marketing point everything is not even bad, but when I look at the quality of their FE models, corner of my eye starts to twitch.&lt;/p&gt;
+&lt;p&gt;In general, I now say the terrible idea for LS-DYNA evangelist. ANSYS Explicit STR product could be a better tool for simplest tasks of drop tests (as for example described in the present), :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ANSYS Explicit STR already goes under the license of ANSYS Mechanical Enterprise&lt;/li&gt;
+&lt;li&gt;can immediately run on 4 CPU cores&lt;/li&gt;
+&lt;li&gt;works with ANSYS HPC (Pack / Workgroup) licenses for parallelization&lt;/li&gt;
+&lt;li&gt;does not require long training of specialists&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So that, ANSYS Explicit STR will be enough in case of simple drop test cases.&lt;/p&gt;
+&lt;p&gt;You could find original slides here: &lt;a href=&#34;http://www.cadfemukandireland.com/wp-content/uploads/2017/10/0930-Ian-turner-Drop-Test.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.cadfemukandireland.com/wp-content/uploads/2017/10/0930-Ian-turner-Drop-Test.pdf&lt;/a&gt;
+#ANSYS #ANSYS Explicit STR #drop test #explicit #LS-DYNA
+&lt;a href=&#34;https://wp.me/p9vWYY-1DA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1DA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cadfemukandireland.com/wp-content/uploads/2017/10/0930-Ian-turner-Drop-Test.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.cadfemukandireland.com/wp-content/uploads/2017/10/0930-Ian-turner-Drop-Test.pdf&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-1DA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1DA&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

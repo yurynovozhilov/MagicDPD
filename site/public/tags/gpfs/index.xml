@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GPFS on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/gpfs/</link>
+    <description>MagicDPD: Magic Driven Product Development! (GPFS)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sat, 24 Sep 2016 17:00:47 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/gpfs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Силикон ускоряет ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-24-silikon-uskoryaet-ansys/</link>
+      <pubDate>Sat, 24 Sep 2016 17:00:47 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-24-silikon-uskoryaet-ansys/</guid>
+      <description>&lt;p&gt;Силикон ускоряет ANSYS
+&lt;a href=&#34;http://www.ansys-blog.com/sgi-ansys-new-world-record-hpc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/sgi-ansys-new-world-record-hpc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Очередные заоблачные цифры ускорения расчета #ANSYS #Fluent: 145152 ядер на расчет, решение задачи на 830 миллионов ячеек (химические реакции, турбулентность) за 13 секунд. Да у меня такая задача ни на одном компьютере даже не откроется, да она на самом мощном из доступных мне кластеров минуты 3 будет только с #GPFS читаться!&lt;/p&gt;
+&lt;p&gt;Причиной такого ускорения расчетов стала комбинация двух факторов: железо компании #SGI и самая новая версия решателя R17.2. Надеюсь, что SGI, вошедший в состав #HPE будте только больше наращивать темпы!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys-blog.com/sgi-ansys-new-world-record-hpc/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SGI and ANSYS Achieve New World Record in HPC&lt;/a&gt;
+&lt;a href=&#34;http://www.ansys-blog.com/sgi-ansys-new-world-record-hpc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/sgi-ansys-new-world-record-hpc&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

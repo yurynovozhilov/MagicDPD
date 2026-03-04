@@ -2,61 +2,258 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marc on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/marc/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/marc/</link>
     <description>MagicDPD: Magic Driven Product Development! (Marc)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 12 Apr 2022 17:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Apr 2022 17:00:21 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/marc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/marc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>20 апреля пройдет бесплатный вебинар от Марека Ханачовски (M</title>
-      <link>http://localhost:1313/posts/2022-04-12-20-aprelya-proydet-besplatnyy-vebinar-ot/</link>
+      <title>Знали ли вы, что для того, что бы научиться работать с #CivilFEM powered by #Marc и решать соответствующие задачи у компании #Ingeciber есть бесплатный учебный курс.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-26-znali-li-vy-chto-dlya-togo-chto-by-nauchit/</link>
+      <pubDate>Tue, 26 Apr 2022 17:00:21 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-26-znali-li-vy-chto-dlya-togo-chto-by-nauchit/</guid>
+      <description>&lt;p&gt;Данный курс они проедят на базе Национального университета дистанционного образования Испании (National University of Distance Education, #UNED). Бесплатная лицензия на ПО предоставляется на время прохождения обучения. Единственное, за что вы можете заплатить (по желанию) - так это 50 евро за подписанный именной сертификат по итогам прохождения экзаменов. &lt;a href=&#34;https://www.icaeec.com/courses/free-courses/free-fem-course-for-civil-engineering&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.icaeec.com/courses/free-courses/free-fem-course-for-civil-engineering&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.icaeec.com/courses/free-courses/free-fem-course-for-civil-engineering&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Free FEM Course for Civil Engineering&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>20 апреля пройдет бесплатный вебинар от Марека Ханачовски (Marek HANACZOWSKI), магистром мостостроения.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-12-20-aprelya-proydet-besplatnyy-vebinar-ot/</link>
       <pubDate>Tue, 12 Apr 2022 17:00:06 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-04-12-20-aprelya-proydet-besplatnyy-vebinar-ot/</guid>
-      <description>&lt;p&gt;В работе Марека представлен расчетный подход для точного воспроизведения удара по надстройке моста в соответствии с PN-EN 1991-1-7 и несколько аспектов, которые необходимо учитывать при проектировании моста.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-12-20-aprelya-proydet-besplatnyy-vebinar-ot/</guid>
+      <description>&lt;p&gt;Вебинар будет повторением его доклада на Конгрессе по безопасности мостов, который проходил во Вроцлаве 25-26 ноября 2021 года.&lt;/p&gt;
+&lt;p&gt;В работе Марека представлен расчетный подход для точного воспроизведения удара по надстройке моста в соответствии с PN-EN 1991-1-7 и несколько аспектов, которые необходимо учитывать при проектировании моста.&lt;/p&gt;
 &lt;p&gt;Короче, все как я люблю: железобетон, большие конструкции, удары, но только не с  #LSDYNA, а с #CivilFEM powered by #Marc.&lt;/p&gt;
 &lt;p&gt;#concrete #impact #bridge #civil &lt;a href=&#34;https://www.civilfem.com/bridge-impact-webinar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.civilfem.com/bridge-impact-webinar&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.civilfem.com/bridge-impact-webinar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.civilfem.com/bridge-impact-webinar&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Большой обзор возможностей ветки #CivilFEM 2021 для решателя #MSC #Marc по моделированию бетона, армированного волокнами (Fiber-reinforced concrete, #FRC). Я вот тоже такое хочу посчитать, но пока не нашел генератора &#34;соломы&#34;, который сможет сгенерировать массив хаотически армированных волокон с заданной объёмной концентрацией и известной длиной. Может у кого есть что-то на примете?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-06-bolshoy-obzor-vozmozhnostey-vetki-civilf/</link>
+      <pubDate>Thu, 06 Jan 2022 10:20:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-06-bolshoy-obzor-vozmozhnostey-vetki-civilf/</guid>
+      <description>&lt;p&gt;#concrete &lt;a href=&#34;https://www.youtube.com/watch?v=_fcdB2WFnrg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=_fcdB2WFnrg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=_fcdB2WFnrg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=_fcdB2WFnrg&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Механика разрушения в Marc</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-09-15-mehanika-razrusheniya-v-marc/</link>
+      <pubDate>Tue, 15 Sep 2020 12:49:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-09-15-mehanika-razrusheniya-v-marc/</guid>
+      <description>&lt;p&gt;Механика разрушения в Marc&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/fracture-in-marc/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Механика разрушения в Marc - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Конференция SIMBIO-M 2020</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-06-15-konferentsiya-simbio-m-2020/</link>
+      <pubDate>Mon, 15 Jun 2020 16:31:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-06-15-konferentsiya-simbio-m-2020/</guid>
+      <description>&lt;p&gt;Конференция SIMBIO-M 2020
+#biomed #LS_DYNA #Marc
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/simbio-m-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Конференция SIMBIO-M 2020 - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Concrete in CivilFEM 2019</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-15-nonlinear-concrete-in-civilfem-2019/</link>
+      <pubDate>Tue, 15 Oct 2019 13:00:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-15-nonlinear-concrete-in-civilfem-2019/</guid>
+      <description>&lt;p&gt;Nonlinear Concrete in CivilFEM 2019
+#CivilFEM #concrete #Ingeciber #Marc #MSC
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/nonlinear-concrete-in-civilfem-2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Nonlinear Concrete in CivilFEM 2019 - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Адаптивные сетки в MSC Marc</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-27-adaptivnye-setki-v-msc-marc/</link>
+      <pubDate>Wed, 27 Feb 2019 17:00:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-27-adaptivnye-setki-v-msc-marc/</guid>
+      <description>&lt;p&gt;Адаптивные сетки в MSC Marc&lt;/p&gt;
+&lt;p&gt;Не очень свежий, но очень большой вебинар по работе адаптивных сеток в Marc. У данного решателя в области автоматической сеточной адаптации всегда был очень большой задел. Особенно впечатляет их локальная сеточная адаптация с «висящими узлами» — такого, насколько я знаю, для объемных элементов не умеет делать больше никто другой.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jI8jDrrT3Ns&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jI8jDrrT3Ns&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Marc #mesh #mesh_adaptation #MSC&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2mu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2mu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jI8jDrrT3Ns&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jI8jDrrT3Ns&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2mu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2mu&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Моделирование технологических процессов в MARC</title>
-      <link>http://localhost:1313/posts/2019-02-17-modelirovanie-tehnologicheskih-protsessov/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-17-modelirovanie-tehnologicheskih-protsessov/</link>
       <pubDate>Sun, 17 Feb 2019 11:19:15 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-02-17-modelirovanie-tehnologicheskih-protsessov/</guid>
-      <description>&lt;p&gt;Помню, как лет 15 назад мне впервые показали как работает крутой КЭ решатель — то был MSC.Marc. Не знаю, может это ностальгические воспоминания, но с тех пор я всегда с большим уважением отношусь к продуктам MSC.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-17-modelirovanie-tehnologicheskih-protsessov/</guid>
+      <description>&lt;p&gt;Моделирование технологических процессов в MARC&lt;/p&gt;
+&lt;p&gt;Помню, как лет 15 назад мне впервые показали как работает крутой КЭ решатель — то был MSC.Marc. Не знаю, может это ностальгические воспоминания, но с тех пор я всегда с большим уважением отношусь к продуктам MSC.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://youtu.be/DI3oxvVwKZw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/DI3oxvVwKZw&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Увлекшись моделированием резки металлов, я стал искать материалы не только в тусовке LS-DYNA, но и за ее пределами. И тут попалось мне отличное видео, которым я сегодня хочу поделиться. Да, по современным меркам, такие расчеты для Implicit решателей уже являются нормой, но видео сделано в 2015 году, и на тот момент это был высший пилотаж. Глубокая пластика, адаптивные (пусть и плоские) сетки, смерть элементов, implicit решатель — красота.&lt;/p&gt;
 &lt;p&gt;#Marc #MSC #Simufact&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2lo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2lo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/DI3oxvVwKZw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/DI3oxvVwKZw&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2lo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2lo&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>История современного КЭ</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-24-istoriya-sovremennogo-ke/</link>
+      <pubDate>Thu, 24 May 2018 18:00:48 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-24-istoriya-sovremennogo-ke/</guid>
+      <description>&lt;p&gt;История современного КЭ&lt;/p&gt;
+&lt;p&gt;В школе я очень не любил историю — мне было не очень интересно, и я совершенно не мог запомнить даты. Но в последнее время история стала мне очень интересна. Только это не история завоеваний, а история становления современного CAE софта. Я с большим удовольствием ищу и изучаю материалы про то, как это было, когда компьютеры были большими. Коллеги из Multimechanics сделали небольшой, но интересный обзор начала вычислительной механики. Если коротко:
+1968 — MCS/Nastran (MacNeal и Schwendler)
+1970 — ANSYS (Dr. John Swanson)
+1971 — MARC (Dr. Dave Hibbitt)
+1977 — AutoCAD (Mike Riddle и John Walker)
+1978 — Abaqus (Dr. Hibbitt)
+1978 — DYNA3D (Dr. John Hallquist)
+1985 — Altair HyperMesh
+1991 — NEi Nastran
+&lt;a href=&#34;http://blog.multimechanics.com/a-brief-history-of-finite-element-analysis-part-i&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://blog.multimechanics.com/a-brief-history-of-finite-element-analysis-part-i&lt;/a&gt;
+&lt;a href=&#34;http://blog.multimechanics.com/a-brief-history-of-finite-element-analysis-part-ii&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://blog.multimechanics.com/a-brief-history-of-finite-element-analysis-part-ii&lt;/a&gt;
+#Altair #ANSYS #AutoCAD #DYNA3D #HyperMesh #LS-DYNA #Marc #MSC #MultiMechanics #NASTRAN #NEI&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Ru&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Ru&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.multimechanics.com/a-brief-history-of-finite-element-analysis-part-i&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;A Brief History of Finite Element Analysis - Part I&lt;/a&gt;
+&lt;a href=&#34;http://blog.multimechanics.com/a-brief-history-of-finite-element-analysis-part-ii&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://blog.multimechanics.com/a-brief-history-of-finite-element-analysis-part-ii&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-1Ru&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Ru&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Студенческая версия Marc</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-22-studencheskaya-versiya-marc/</link>
+      <pubDate>Sat, 22 Jul 2017 17:00:59 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-22-studencheskaya-versiya-marc/</guid>
+      <description>&lt;p&gt;Студенческая версия Marc
+&lt;a href=&#34;http://simulatemore.mscsoftware.com/learn-advanced-non-linear-simulations-for-free/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://simulatemore.mscsoftware.com/learn-advanced-non-linear-simulations-for-free/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;К корпании #MSC тоже бывают студенческие версии их решателей. Вот так засветился знаменитый нелинейный решатель #Marc&lt;/p&gt;
+&lt;p&gt;В добавок еще и учебное пособие дают: &lt;a href=&#34;http://www.mscsoftware.com/marc-student-edition&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.mscsoftware.com/marc-student-edition&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;С вам нужна только мотивация!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://simulatemore.mscsoftware.com/learn-advanced-non-linear-simulations-for-free/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Learn Advanced Non-Linear Simulations for Free!&lt;/a&gt;
+&lt;a href=&#34;http://www.mscsoftware.com/marc-student-edition&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.mscsoftware.com/marc-student-edition&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Marc решате задчу нелинейной потери устойчивости</title>
-      <link>http://localhost:1313/posts/2017-06-13-marc-reshate-zadchu-nelineynoy-poteri-usto/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-13-marc-reshate-zadchu-nelineynoy-poteri-usto/</link>
       <pubDate>Tue, 13 Jun 2017 17:01:49 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-06-13-marc-reshate-zadchu-nelineynoy-poteri-usto/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/iTFXs6eG_MQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/iTFXs6eG_MQ&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-13-marc-reshate-zadchu-nelineynoy-poteri-usto/</guid>
+      <description>&lt;p&gt;Marc решате задчу нелинейной потери устойчивости
+&lt;a href=&#34;https://youtu.be/iTFXs6eG_MQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/iTFXs6eG_MQ&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Кто-то залипает на видное с котиками, а я - на видео с задачами механики.&lt;/p&gt;
 &lt;p&gt;#MSC #Marc&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://youtu.be/iTFXs6eG_MQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/iTFXs6eG_MQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/iTFXs6eG_MQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Buckling, Plasticity and Post-Buckling with MSC Marc&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Nor-Tech, один из крупнейших в США системных интеграторов сп</title>
-      <link>http://localhost:1313/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</link>
+      <title>MSC пиарится</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-03-msc-piaritsya/</link>
+      <pubDate>Mon, 03 Apr 2017 17:02:21 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-03-msc-piaritsya/</guid>
+      <description>&lt;p&gt;MSC пиарится
+&lt;a href=&#34;https://www.youtube.com/watch?v=AlCom4rW61w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=AlCom4rW61w&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Компания #MSC опубликовала ролик с рекламой их основных кодов. Основной послы - мы считали для космических программ. И ведь не поспоришь - именно MSC разарботали один из первых КЭ кодов для #NASA, получивший название #NASTRAN.
+#Adams #Marc
+&lt;a href=&#34;https://www.youtube.com/watch?v=AlCom4rW61w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=AlCom4rW61w&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=AlCom4rW61w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MSC Software Overview&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSC будет куплена компанией Hexagon</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-03-msc-budet-kuplena-kompaniey-hexagon/</link>
+      <pubDate>Fri, 03 Feb 2017 08:32:56 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-03-msc-budet-kuplena-kompaniey-hexagon/</guid>
+      <description>&lt;p&gt;MSC будет куплена компанией Hexagon
+&lt;a href=&#34;http://www.develop3d.com/blog/2017/02/hexagon-to-acquire-msc-simulation-analysis&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.develop3d.com/blog/2017/02/hexagon-to-acquire-msc-simulation-analysis&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Большая новость о покупке большого #CAE игрока. Компания #Hexagon объявила о договоренности с #MSC на приобретение последней за  $834 миллионов.&lt;/p&gt;
+&lt;p&gt;За несколько лет компания Hexagon уже приобрела несколько крупных технических фирм: #Vero (&lt;a href=&#34;http://www.verosoftware.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.verosoftware.com&lt;/a&gt; - разработчик #CAD и #CAM), Forming Technology Inc (#FTI) (&lt;a href=&#34;http://www.forming.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.forming.com&lt;/a&gt; - программное обеспечение для штамповки и формовки на основе собственных полуимперических алгоритмов и с возможностью подключения #LSDYNA), Intergraph (&lt;a href=&#34;http://www.intergraph.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.intergraph.com&lt;/a&gt; -  геоинформационные системы), и Aicon 3D Systems (&lt;a href=&#34;http://aicon3d.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://aicon3d.com&lt;/a&gt; - разработка ПО для 3D сканирования).&lt;/p&gt;
+&lt;p&gt;Таким образом у Hexagon теперь есть все коды от MSC: #Nastran, #Patran, #Adams, #Marc, #Easy5&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.develop3d.com/blog/2017/02/hexagon-to-acquire-msc-simulation-analysis&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DEVELOP3D blog - Hexagon to acquire MSC Software for $834 million&lt;/a&gt;
+&lt;a href=&#34;http://www.verosoftware.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.verosoftware.com&lt;/a&gt;
+&lt;a href=&#34;http://www.forming.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.forming.com&lt;/a&gt;
+&lt;a href=&#34;http://www.intergraph.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.intergraph.com&lt;/a&gt;
+&lt;a href=&#34;http://aicon3d.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://aicon3d.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Марку уже много лет</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-01-22-marku-uzhe-mnogo-let/</link>
+      <pubDate>Sun, 22 Jan 2017 12:02:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-01-22-marku-uzhe-mnogo-let/</guid>
+      <description>&lt;p&gt;Марку уже много лет
+&lt;a href=&#34;https://www.youtube.com/watch?v=1nUR0pLQ3w8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=1nUR0pLQ3w8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Доктор Педро Марчел (Dr. Pedro Marcel) основал компанию Marc Analysis Research Corporation в 1971, и эта компания подарила нам отличный нелинейный решатель механики #Marc. И только в 1999 корпорация  #MSC Software поглотила компанию разработчика. Таким образом, Mark формально только на год моложе #ANSYS (компания Swanson Analysis Systems, Inc (SASI) основана 1970 Джоном Свонсоном (John A. Swanson)).&lt;/p&gt;
+&lt;p&gt;Предлагаю вашему вниманию рассказ президента компании Axel Physical Testing Services, Курта Миллера (Kurt Miller). Курт более 20-ти лет исследует механику гиперупругих материалов в экспериментах и расчетах.
+&lt;a href=&#34;https://www.youtube.com/watch?v=1nUR0pLQ3w8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=1nUR0pLQ3w8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1nUR0pLQ3w8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MSC Customer Testimonial - Axel Products, Marc for Non-Linear Applications&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#MSC представляй небольшой но очень серьезный вебинар посвященный моделированию роста трещин в #Marc. Решатель Marc отличается очень хорошей работой с нелинейностями и динамическим сеткоперестроением. Еще бы, ведь он всего на 1 год младше корневого решателя ANSYS!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-24-msc-predstavlyay-nebolshoy-no-ochen-ser/</link>
+      <pubDate>Thu, 24 Mar 2016 07:02:03 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-24-msc-predstavlyay-nebolshoy-no-ochen-ser/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=f1fpeG8Ulrw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Improve Product Life with Crack Propagation Studies&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>В догонку к вебинару по #MAC #Marc 2015, который я просмотрел по диагонали (теперь то я его пересмотрю внимательно) - оказывается там появился 3D рост трещин с адаптивным перестроением сетки.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-29-v-dogonku-k-vebinaru-po-mac-marc-2015/</link>
+      <pubDate>Sun, 29 Nov 2015 18:00:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-29-v-dogonku-k-vebinaru-po-mac-marc-2015/</guid>
+      <description>&lt;p&gt;Даже интересно, насколько хорошо это работает.&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/11028/Marc-2015-Focuses-on-Material-and-Advanced-Material-Behaviour.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt; Marc 2015 Focuses on Material and Advanced Material Behaviour &amp;gt; ENGINEERING.com &lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20190820113858/https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/11028/Marc-2015-Focuses-on-Material-and-Advanced-Material-Behaviour.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nor-Tech, один из крупнейших в США системных интеграторов специализирующихся на #HPC, запустил демонстрационных кластер, на котором вы можете свободно проверить, что конкретно вам даст настоящий высокопроизводительный ресурс.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</link>
       <pubDate>Mon, 23 Nov 2015 06:00:37 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</guid>
-      <description>&lt;p&gt;CAE:&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</guid>
+      <description>&lt;p&gt;Уже сейчас на классе доступны следующие программные продукты:&lt;/p&gt;
+&lt;p&gt;CAE:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;ANSYS: ANSYS Fluent – CFD,&lt;/li&gt;
 &lt;li&gt;ANSYS: Mechanical – FEA,&lt;/li&gt;
@@ -86,16 +283,30 @@
 &lt;li&gt;Altair PBS Pro, Compute Manager &amp;amp; Display Manager и другеи продукты&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Жаль, что у нас пока нет таких же бравых системных интеграторов.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.nor-tech.com/solutions/hpc/demo-cluster/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Try our free demo cluster&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Мой матрас явно не моделировали так, как этот. Это ж надо бы</title>
-      <link>http://localhost:1313/posts/2015-10-02-moy-matras-yavno-ne-modelirovali-tak-kak/</link>
+      <title>Пока весе ждут #ANSYS 17.0 компания #MSC рассказывает про новую версию их супер-решателя высоконелинейных задач механики #Marc 2015. #FEA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-21-poka-vese-zhdut-ansys-170-kompaniya-msc/</link>
+      <pubDate>Sat, 21 Nov 2015 07:00:37 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-21-poka-vese-zhdut-ansys-170-kompaniya-msc/</guid>
+      <description>&lt;p&gt;Когда же уже ANSYS откажется от номеров релизов и будет приписывать год выпуска?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=j9SqdhsvGWU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Marc 2015: Release Overview&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Мой матрас явно не моделировали так, как этот.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-02-moy-matras-yavno-ne-modelirovali-tak-kak/</link>
       <pubDate>Fri, 02 Oct 2015 18:00:19 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-02-moy-matras-yavno-ne-modelirovali-tak-kak/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-02-moy-matras-yavno-ne-modelirovali-tak-kak/</guid>
+      <description>&lt;p&gt;Это ж надо было догадаться, считать матрас методом конечных элементов в таком зубре, как MAC Marc. Плюс, к этому всему делу прикрутили визуализация от EnSight. Получилось красиво и наглядно.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.medicaldesignandoutsourcing.com/msc-simulation-technology-combines-with-ensight-3d-visualization-to-solve-bedsore-mystery/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MSC simulation technology combines with EnSight 3D visualization to solve bedsore mystery&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

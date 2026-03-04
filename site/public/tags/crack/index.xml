@@ -2,66 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Crack on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/crack/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/crack/</link>
     <description>MagicDPD: Magic Driven Product Development! (Crack)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Tue, 10 Nov 2020 15:29:42 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/crack/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/crack/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Уcталостный рост трещин в Ansys Mechanical</title>
-      <link>http://localhost:1313/posts/2020-11-10-uctalostnyy-rost-treschin-v-ansys-mechanic/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-11-10-uctalostnyy-rost-treschin-v-ansys-mechanic/</link>
       <pubDate>Tue, 10 Nov 2020 15:29:42 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-11-10-uctalostnyy-rost-treschin-v-ansys-mechanic/</guid>
-      <description>&lt;p&gt;#ANSYS #crack #Fatigue #Mechanical
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-11-10-uctalostnyy-rost-treschin-v-ansys-mechanic/</guid>
+      <description>&lt;p&gt;Уcталостный рост трещин в Ansys Mechanical
+#ANSYS #crack #Fatigue #Mechanical
 by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/ansys-mechanical-fatigue_fracture/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Уcталостный рост трещин в Ansys Mechanical - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Начинаем изучать MoFEM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-30-nachinaem-izuchat-mofem/</link>
+      <pubDate>Fri, 30 Aug 2019 13:00:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-30-nachinaem-izuchat-mofem/</guid>
+      <description>&lt;p&gt;Начинаем изучать MoFEM&lt;/p&gt;
+&lt;p&gt;Давайте попробуем посмотреть, что нам предлагает открытый FEM код от Университета Глазго под названием MoFEM. Судя по твиттеру (&lt;a href=&#34;https://twitter.com/mofemjoseph%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://twitter.com/mofemjoseph)&lt;/a&gt;, они занимаются чем-то очень перспективным — например, отлично моделируют динамику роста трещин.&lt;/p&gt;
+&lt;p&gt;Accuracy is a necessity, but for industrial applications, robustness is essential. Sometimes cracks do twist, bend, but we can still represent them on coarse meshes. @mofemjoseph new release is closer and closer 😀 pic.twitter.com/SolWDVu8Lv— Lukasz Kaczmarczyk (@LukaszKaczmarcz) August 5, 2019&lt;/p&gt;
+&lt;p&gt;А начнем мы с видеоурока, посвященного решению простейших линейных задач механики. Для подготовки задачи и обработки результатов используется связка CUBIT и ParaView.&lt;/p&gt;
+&lt;p&gt;#crack #CUBIT #fracture #MoFEM #Open_Source #Paraview&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2EZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2EZ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/mofemjoseph&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MoFEM / @mofem@fosstodon.org (@mofemjoseph) on X&lt;/a&gt;
+ic.twitter.com/SolWDVu8Lv—
+ttps://wp.me/p9vWYY-2EZ&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Оценка динамики 3D роста трещин в LS-DYNA</title>
-      <link>http://localhost:1313/posts/2019-08-26-otsenka-dinamiki-3d-rosta-treschin-v-ls-dyn/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-26-otsenka-dinamiki-3d-rosta-treschin-v-ls-dyn/</link>
       <pubDate>Mon, 26 Aug 2019 13:01:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-08-26-otsenka-dinamiki-3d-rosta-treschin-v-ls-dyn/</guid>
-      <description>&lt;p&gt;Совершенно случайно под руку попался тестовый пример от LSTC по возможной оценке роста трещин с использованием локального перестроения сетки и удаления элементов. Все это добро включается единственной картой *CONTROL_REFINE_SOLID, появившейся в LS-DYNA R7 еще в 2012 году. С одной стороны, смерть элементов — это не тот инструмент, который стоит использовать для точного описания процесса роста трещины. С другой, вы получаете инструмент для оценки этого процесса для нелинейной динамической постановки задачи. А дальше уже дело за вашим инженерным суждением.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-26-otsenka-dinamiki-3d-rosta-treschin-v-ls-dyn/</guid>
+      <description>&lt;p&gt;Оценка динамики 3D роста трещин в LS-DYNA&lt;/p&gt;
+&lt;p&gt;Совершенно случайно под руку попался тестовый пример от LSTC по возможной оценке роста трещин с использованием локального перестроения сетки и удаления элементов. Все это добро включается единственной картой *CONTROL_REFINE_SOLID, появившейся в LS-DYNA R7 еще в 2012 году. С одной стороны, смерть элементов — это не тот инструмент, который стоит использовать для точного описания процесса роста трещины. С другой, вы получаете инструмент для оценки этого процесса для нелинейной динамической постановки задачи. А дальше уже дело за вашим инженерным суждением.&lt;/p&gt;
 &lt;p&gt;#crack #fracture #LS_DYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Eu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Eu&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Eu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Eu&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Моделирование трещин в ANSYS: кины и энергия</title>
-      <link>http://localhost:1313/posts/2018-04-09-modelirovanie-treschin-v-ansys-kiny-i-ene/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-09-modelirovanie-treschin-v-ansys-kiny-i-ene/</link>
       <pubDate>Mon, 09 Apr 2018 18:01:14 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-04-09-modelirovanie-treschin-v-ansys-kiny-i-ene/</guid>
-      <description>&lt;p&gt;Второе видео из серии материалов, посвященных моделированию роста трещин в ANSYS Mechanical 19. Сегодня разговор пойдет о кинах (коэффициентах интенсивности напряжений), критерии Гриффитса и критической длине трещины.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-09-modelirovanie-treschin-v-ansys-kiny-i-ene/</guid>
+      <description>&lt;p&gt;Моделирование трещин в ANSYS: кины и энергия
+Второе видео из серии материалов, посвященных моделированию роста трещин в ANSYS Mechanical 19. Сегодня разговор пойдет о кинах (коэффициентах интенсивности напряжений), критерии Гриффитса и критической длине трещины.&lt;/p&gt;
 &lt;p&gt;#ANSYS #Crack #Fracture #Mechanical
 &lt;a href=&#34;https://is.gd/kdwjsx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://is.gd/kdwjsx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://is.gd/kdwjsx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://is.gd/kdwjsx&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Вот это действительно интересно: рост трещин в #xfem постано</title>
-      <link>http://localhost:1313/posts/2016-05-17-vot-eto-deystvitelno-interesno-rost-tr/</link>
+      <title>Вот это действительно интересно: рост трещин в #xfem постановке.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-17-vot-eto-deystvitelno-interesno-rost-tr/</link>
       <pubDate>Tue, 17 May 2016 07:01:23 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-05-17-vot-eto-deystvitelno-interesno-rost-tr/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-17-vot-eto-deystvitelno-interesno-rost-tr/</guid>
+      <description>&lt;p&gt;Учебное видео для #ABAQUS&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0poYsfjQp_A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;16-10 ABAQUS tutorial | XFEM | Turbine Blade | Fracture Mechanics | VCCT&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>#MSC представляй небольшой но очень серьезный вебинар посвящ</title>
-      <link>http://localhost:1313/posts/2016-03-24-msc-predstavlyay-nebolshoy-no-ochen-ser/</link>
+      <title>#MSC представляй небольшой но очень серьезный вебинар посвященный моделированию роста трещин в #Marc. Решатель Marc отличается очень хорошей работой с нелинейностями и динамическим сеткоперестроением. Еще бы, ведь он всего на 1 год младше корневого решателя ANSYS!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-24-msc-predstavlyay-nebolshoy-no-ochen-ser/</link>
       <pubDate>Thu, 24 Mar 2016 07:02:03 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-03-24-msc-predstavlyay-nebolshoy-no-ochen-ser/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-24-msc-predstavlyay-nebolshoy-no-ochen-ser/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=f1fpeG8Ulrw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Improve Product Life with Crack Propagation Studies&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

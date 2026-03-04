@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SpcaeClaim on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/spcaeclaim/</link>
+    <description>MagicDPD: Magic Driven Product Development! (SpcaeClaim)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sun, 23 Dec 2018 17:01:52 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/spcaeclaim/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Моделирование эрозии во Fluent</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-23-modelirovanie-erozii-vo-fluent/</link>
+      <pubDate>Sun, 23 Dec 2018 17:01:52 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-23-modelirovanie-erozii-vo-fluent/</guid>
+      <description>&lt;p&gt;Моделирование эрозии во Fluent
+Как по мне, так очень полезный урок по моделированию эрозионного износа всего того, где присходит течение. В уроке показано как Fluent умеет моделировать эрозию, выдавать результаты в виде цветовых полей, учитывать влияние изменения геометрии канала путем морфинга сетки.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0w4T7WS2NM0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=0w4T7WS2NM0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Причем для последнего даже показано, как достать новую &amp;ldquo;изношенную&amp;rdquo; геометрию из Fluent и передать ее через SpaceClaim в любой другой решатель (например, Mechanical).
+#ANSYS #CADFEM #CFD #Fluent #SpcaeClaim
+&lt;a href=&#34;http://bit.ly/2V75JG4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2V75JG4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0w4T7WS2NM0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=0w4T7WS2NM0&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2V75JG4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2V75JG4&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

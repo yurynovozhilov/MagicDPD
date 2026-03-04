@@ -2,26 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GUI on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/gui/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/gui/</link>
     <description>MagicDPD: Magic Driven Product Development! (GUI)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 03 Feb 2017 17:03:01 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/gui/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/gui/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ANSYS App Builder</title>
-      <link>http://localhost:1313/posts/2017-02-03-ansys-app-builder/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-03-ansys-app-builder/</link>
       <pubDate>Fri, 03 Feb 2017 17:03:01 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-02-03-ansys-app-builder/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=xYJPgdOdD3k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xYJPgdOdD3k&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-03-ansys-app-builder/</guid>
+      <description>&lt;p&gt;ANSYS App Builder
+&lt;a href=&#34;https://www.youtube.com/watch?v=xYJPgdOdD3k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xYJPgdOdD3k&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;В #ANSYS 18 появилось такое приложение, как ANSYS App Builder, и, на мой взгляд, это самое крутое нововведение в R18!&lt;/p&gt;
 &lt;p&gt;ANSYS App Builder позволяет создавать #ACT для #Workbench и #AIM прямо в #GUI! Он умеет не только записывать все ваши действия при работе с проектом, но и низкоуровненов редактировать записанный #python журнал и XML описание интефейса.&lt;/p&gt;
 &lt;p&gt;Те из нас, кто пробовали писать свои ACT, поймут, какой пропыв в упращении нашего нелегкого ремесла нас ожидает!
 &lt;a href=&#34;https://www.youtube.com/watch?v=xYJPgdOdD3k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xYJPgdOdD3k&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=xYJPgdOdD3k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys in Action - Ansys App Builder&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Автоматизация в LS-PrePost</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-24-avtomatizatsiya-v-ls-prepost/</link>
+      <pubDate>Wed, 24 Aug 2016 06:30:29 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-24-avtomatizatsiya-v-ls-prepost/</guid>
+      <description>&lt;p&gt;Автоматизация в LS-PrePost
+&lt;a href=&#34;http://www.lstc.com/lspp/content/other/command/command.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lstc.com/lspp/content/other/command/command.shtml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Полное отсутствие #GUI у чудовищно мощного решателя LS-DYNA может быть здорово компенсировано возможностями бесплатного пер/пост процессора LS-PrePost от #LSTC. Данный инструмент конечно немного устарел по интерфейсу, зато только он может справиться с сотнями гигабайт данных результатов практически на лету. Кроме того, у него есть возможность создания скриптов автоматизации на основе своего собственного #CLI. Документацию по CLI найти сложно, так что я сейчас сложу все ссылки на нее в данном посте. Кроме того, не забывайте смотреть на интерактивную запись сессии.&lt;/p&gt;
+&lt;p&gt;Начальная документация: &lt;a href=&#34;http://www.lstc.com/lspp/content/other/command/command.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lstc.com/lspp/content/other/command/command.shtml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Кроме того, ссылка на старое учебное пособие (LS-PrePost 3.2), где в 9-ом примере были разобраны тонкости работы CLI:
+&lt;a href=&#34;https://vk.com/doc11568_437790483&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/doc11568_437790483&lt;/a&gt; (см. стр. 220-228)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.lstc.com/lspp/content/other/command/command.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lstc.com/lspp/content/other/command/command.shtml&lt;/a&gt;
+&lt;a href=&#34;https://vk.com/doc11568_437790483&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/doc11568_437790483&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

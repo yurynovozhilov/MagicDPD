@@ -13,7 +13,8 @@ link_previews:
     it all with friends, family, and the world on YouTube.
   image: ''
   title: '- YouTube'
-  url: https://www.youtube.com/watch?v=oWfoAzQlLVo
+  url: http://web.archive.org/web/20220430050625/https://www.youtube.com/watch?v=oWfoAzQlLVo
+  original_url: https://www.youtube.com/watch?v=oWfoAzQlLVo
 - description: Do you want to…... calculate the deformation of the final part... analyze
     the residual stresses?... optimize the build-up orientation?... improve the support...
   image: https://i.ytimg.com/vi/l9n6AheyI2E/maxresdefault.jpg
@@ -29,7 +30,8 @@ link_previews:
     it all with friends, family, and the world on YouTube.
   image: ''
   title: '- YouTube'
-  url: https://www.youtube.com/watch?v=74TOhQwEj80
+  url: http://web.archive.org/web/20220430050621/https://www.youtube.com/watch?v=74TOhQwEj80
+  original_url: https://www.youtube.com/watch?v=74TOhQwEj80
 - description: Enjoy the videos and music you love, upload original content, and share
     it all with friends, family, and the world on YouTube.
   image: ''
@@ -54,15 +56,23 @@ https://www.youtube.com/watch?v=esBC0WwAX8g
 Интересный и очень сложный физический процесс, встречающийся в 3D принтерах, печатающих металлом. Как бы вы стали его моделировать: в #CFD постановке или при помощи #FEM?
 
 CFD by #FLOW3D: https://www.youtube.com/watch?v=esBC0WwAX8g
-CFD by #FLOW3D: https://www.youtube.com/watch?v=oWfoAzQlLVo
+CFD by #FLOW3D: ~~https://www.youtube.com/watch?v=oWfoAzQlLVo~~ → [Сохранённая версия](http://web.archive.org/web/20220430050625/https://www.youtube.com/watch?v=oWfoAzQlLVo)
+
+*Оригинальная ссылка больше не доступна*
 FEM by #MSC #Simufact Additive: https://www.youtube.com/watch?v=l9n6AheyI2E
 FEM by #ANSYS #Mechanical: https://www.youtube.com/watch?v=H0Uara7B5to
-FEM by #ANSYS #Mechanical: https://www.youtube.com/watch?v=74TOhQwEj80
+FEM by #ANSYS #Mechanical: ~~https://www.youtube.com/watch?v=74TOhQwEj80~~ → [Сохранённая версия](http://web.archive.org/web/20220430050621/https://www.youtube.com/watch?v=74TOhQwEj80)
+
+*Оригинальная ссылка больше не доступна*
 FEM by #Pancomputing https://www.youtube.com/watch?v=LWk43HjKjcM
 
 [Direct Metal Deposition | FLOW-3D AM](https://www.youtube.com/watch?v=esBC0WwAX8g)
-https://www.youtube.com/watch?v=oWfoAzQlLVo
+~~https://www.youtube.com/watch?v=oWfoAzQlLVo~~ → [Сохранённая версия](http://web.archive.org/web/20220430050625/https://www.youtube.com/watch?v=oWfoAzQlLVo)
+
+*Оригинальная ссылка больше не доступна*
 https://www.youtube.com/watch?v=l9n6AheyI2E
 https://www.youtube.com/watch?v=H0Uara7B5to
-https://www.youtube.com/watch?v=74TOhQwEj80
+~~https://www.youtube.com/watch?v=74TOhQwEj80~~ → [Сохранённая версия](http://web.archive.org/web/20220430050621/https://www.youtube.com/watch?v=74TOhQwEj80)
+
+*Оригинальная ссылка больше не доступна*
 https://www.youtube.com/watch?v=LWk43HjKjcM

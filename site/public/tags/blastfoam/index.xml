@@ -1,23 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BlastFOAM on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/blastfoam/</link>
-    <description>MagicDPD: Magic Driven Product Development! (BlastFOAM)</description>
+    <title>BlastFoam on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/blastfoam/</link>
+    <description>MagicDPD: Magic Driven Product Development! (BlastFoam)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 23 Sep 2021 15:01:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Oct 2022 18:00:02 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/blastfoam/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/blastfoam/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Synthetik Applied Technologies сообщили о внедрении модели #JWL&#43;&#43; в #blastFoam.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-10-03-synthetik-applied-technologies-soobschili/</link>
+      <pubDate>Mon, 03 Oct 2022 18:00:02 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-10-03-synthetik-applied-technologies-soobschili/</guid>
+      <description>&lt;p&gt;Даная модель разработана в #LLNL и позволяет добавить к обычному JWL учет химической кинетики, что может повысить точность моделирования процессов детонации
+#opensource &lt;a href=&#34;https://youtu.be/_dE4MrAysr4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/_dE4MrAysr4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/_dE4MrAysr4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/_dE4MrAysr4&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Сравнение работы кодов моделирования детонации ВВ</title>
-      <link>http://localhost:1313/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</link>
       <pubDate>Thu, 23 Sep 2021 15:01:35 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</guid>
-      <description>&lt;p&gt;Разработчики blastFoam, открытого CFD кода на базе openFoam, специализирующегося на задачах детонации ВВ и распространении ударных волны в воздухе, опубликовали любопытное сравнение. Они смоделировали детонацию сферического заряда тротила в воздухе в бесконечном домене - довольно простая постановка с хорошо известными аналитическими решениями.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</guid>
+      <description>&lt;p&gt;Сравнение работы кодов моделирования детонации ВВ&lt;/p&gt;
+&lt;p&gt;Разработчики blastFoam, открытого CFD кода на базе openFoam, специализирующегося на задачах детонации ВВ и распространении ударных волны в воздухе, опубликовали любопытное сравнение. Они смоделировали детонацию сферического заряда тротила в воздухе в бесконечном домене - довольно простая постановка с хорошо известными аналитическими решениями.&lt;/p&gt;
 &lt;p&gt;Моделирование они выполнили в:&lt;/p&gt;
 &lt;p&gt;Ansys Autodyn - код, разработанный когда-то, поглощённой компанией Century Dynamics - заточен под решение задач ОПКAnsys LS-DYNA - код, разработанный, поглощённой компанией LSTC - заточен под решение сильно связанных высоконелинейных задачEUROPLEXUS - или EpX, полуоткрытьй код для моделирования быстропротекающих процессов от французской промышленности, работает на основе моделей, подготовленных для Code_Aster.  CHT - код для моделирования быстропротекающих процессов от Сандийских национальных лабораторийblastFoam, который я уже представил&lt;/p&gt;
 &lt;p&gt;Во всех кодах использовалось уравнение состояния JWL. На мой взгляд, справились все коды примерно одинаково, и, не зная особенностей постановки задачи, времени, затраченного на решение, трудно выбрать лидера.&lt;/p&gt;
@@ -25,17 +38,98 @@
 &lt;p&gt;Ссылка на оригинальный пост: &lt;a href=&#34;https://www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ansys #autodyn #blast #blastfoam #cht #europlexus #ls-dyna #open_source #openfoam #sandia
 &lt;a href=&#34;https://tinyurl.com/yzxkzr4r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzxkzr4r&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/?trackingId=Uq%2B3MZmoMgkb3xIYeAHk9A%3D%3D&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;blastFoam | Comparison of explosive airblast calculators&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yzxkzr4r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzxkzr4r&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Дефлаграционно-детонационный переход</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-06-16-deflagratsionno-detonatsionnyy-perehod/</link>
+      <pubDate>Wed, 16 Jun 2021 16:01:38 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-06-16-deflagratsionno-detonatsionnyy-perehod/</guid>
+      <description>&lt;p&gt;Дефлаграционно-детонационный переход&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/n_pm2Du2DNk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/n_pm2Du2DNk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Математическое моделирование эксперимента, проведенного в Национальной лаборатории Лоуренса Ливермора (Lawrence Livermore National Laboratory, LLNL): горючая водородно-воздушная смесь в закрытом прямоугольном канале L = 5,4 м, W = 300 мм и H = 60 мм, с плоскими пластинчатыми препятствиями толщиной 12 мм, расположенными на расстоянии 300 мм. Расчет выполнен в blastFoam - свободном решателе с открытым исходным кодом для многокомпонентных сжимаемых потоков, основанном на модели пяти уравнений, применяемый для решения задач детонации фугасных взрывчатых веществ, взрывобезопасности и воздушного взрыва.&lt;/p&gt;
+&lt;p&gt;#blastfoam #llnl #open_source #openfoam
+&lt;a href=&#34;https://tinyurl.com/yev6zzra&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yev6zzra&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/n_pm2Du2DNk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;blastFoam | Deflagration to Detonation (DDT) Simulation&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yev6zzra&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yev6zzra&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование детонации сферического ВВ</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-05-27-modelirovanie-detonatsii-sfericheskogo-vv/</link>
+      <pubDate>Thu, 27 May 2021 17:33:15 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-05-27-modelirovanie-detonatsii-sfericheskogo-vv/</guid>
+      <description>&lt;p&gt;Моделирование детонации сферического ВВ&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=uOm6a70tKgA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=uOm6a70tKgA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Примеры залипательных и красивых видео про воздушные ударные волны. На видео хорошо видно образование первой и второй  ударной волны, распространяющейся от точки детонации.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=vh5Cyg43Rpo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=vh5Cyg43Rpo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#blast #blastfoam #he #open_source
+&lt;a href=&#34;https://tinyurl.com/yeyf6v2n&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yeyf6v2n&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=uOm6a70tKgA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Explosive Modeling: Airblast Anatomy | Pete and RePete&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=vh5Cyg43Rpo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=vh5Cyg43Rpo&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yeyf6v2n&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yeyf6v2n&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Огромный семинар по blastFoam3.0</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-05-19-ogromnyy-seminar-po-blastfoam30/</link>
+      <pubDate>Tue, 19 May 2020 13:00:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-05-19-ogromnyy-seminar-po-blastfoam30/</guid>
+      <description>&lt;p&gt;Огромный семинар по blastFoam3.0&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/blastfoam-3-workshop/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Огромный семинар по blastFoam3.0 - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Synthetik Applied Technologies и ее blastFoam</title>
-      <link>http://localhost:1313/posts/2019-12-24-synthetik-applied-technologies-i-ee-blas/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-12-24-synthetik-applied-technologies-i-ee-blas/</link>
       <pubDate>Tue, 24 Dec 2019 13:00:16 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-12-24-synthetik-applied-technologies-i-ee-blas/</guid>
-      <description>&lt;p&gt;#blast #blastFOAM #CFD
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-12-24-synthetik-applied-technologies-i-ee-blas/</guid>
+      <description>&lt;p&gt;Synthetik Applied Technologies и ее blastFoam
+#blast #blastFOAM #CFD
 by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/synthetik-applied-technologies-blastfoam/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Synthetik Applied Technologies и ее blastFoam - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#OPENFoam #blastFOAM #blast</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-17-openfoam-blastfoam-blast/</link>
+      <pubDate>Sun, 17 Dec 2017 17:03:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-17-openfoam-blastfoam-blast/</guid>
+      <description>&lt;p&gt;#OPENFoam #blastFOAM #blast
+&lt;a href=&#34;https://www.youtube.com/watch?v=ZwW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ZwW&lt;/a&gt;…Media📼 blastFOAM: Airblast Validation Study Outputs&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2Cr9Y53&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2Cr9Y53&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2CsPEk2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2CsPEk2&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2Bp8dWE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2Bp8dWE&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2i5tcEP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i5tcEP&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=ZwWddtSzWPc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ZwWddtSzWPc&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2BpFLnX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2BpFLnX&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2Cr9Y53&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2Cr9Y53&lt;/a&gt;
+ttp://ift.tt/2Cr9Y53&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>blastFOAM на базе OpenFOAM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-30-blastfoam-na-baze-openfoam/</link>
+      <pubDate>Tue, 30 May 2017 17:00:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-30-blastfoam-na-baze-openfoam/</guid>
+      <description>&lt;p&gt;blastFOAM на базе OpenFOAM
+&lt;a href=&#34;https://mobile.twitter.com/twitter/status/855430759951323137&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://mobile.twitter.com/twitter/status/855430759951323137&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Очень интересный код, про который почти не никаких данных - #blastFOAM. Судя по всему, это сборка #opensource #CFD кода #OpenFOAM для решения задач распространения ударных волн в жидкостях и газах. Если у кого есть больше информации - буду признателен за нее. Пока у меня только пара твитов по теме от #Protection #Engineering&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mobile.twitter.com/twitter/status/855430759951323137&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;PEC&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

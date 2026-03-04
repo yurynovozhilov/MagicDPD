@@ -1,0 +1,1163 @@
+<!DOCTYPE html>
+
+
+<html lang="ru" data-theme="">
+<head>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>Hpc - MagicDPD: Magic Driven Product Development!</title>
+
+<meta name="description" content="Архив постов MagicDPD">
+
+
+
+
+
+<link rel="alternate" type="application/rss+xml" href="https://yurynovozhilov.github.io/MagicDPD/tags/hpc/index.xml" title="MagicDPD: Magic Driven Product Development!" />
+<link rel="icon" type="image/x-icon" href="https://yurynovozhilov.github.io/MagicDPD/favicon.ico">
+<link rel="apple-touch-icon-precomposed" href="https://yurynovozhilov.github.io/MagicDPD/favicon.png">
+
+
+
+
+    
+
+
+
+<style>
+  body {
+    visibility: hidden;
+    opacity: 0;
+  }
+</style>
+
+<noscript>
+  <style>
+    body {
+      visibility: visible;
+      opacity: 1;
+    }
+  </style>
+</noscript>
+
+
+
+
+    
+
+
+
+
+
+    
+    
+        
+    
+    
+
+    
+        <link rel="stylesheet" href="https://yurynovozhilov.github.io/MagicDPD/css/style.min.426c72691252fbafa70bd174646dc1b453a992641a8f942139874f9cadd6ae76.css" integrity="sha256-QmxyaRJS&#43;6&#43;nC9F0ZG3BtFOpkmQaj5QhOYdPnK3WrnY=">
+    
+
+
+
+
+
+    
+
+    
+
+
+
+
+
+    
+    
+        
+    
+    
+
+    
+        <script src="https://yurynovozhilov.github.io/MagicDPD/js/script.min.74bf1a3fcf1af396efa4acf3e660e876b61a2153ab9cbe1893ac24ea6d4f94ee.js" type="text/javascript" charset="utf-8" integrity="sha256-dL8aP88a85bvpKzz5mDodrYaIVOrnL4Yk6wk6m1PlO4="></script>
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+    
+        
+    
+    
+
+    
+        <script src="https://yurynovozhilov.github.io/MagicDPD/js/script.min.5a7c1b70ee40040794dd87e4a25dc23e9d426e9f08ac2611316cb9543eda45b4.js" type="text/javascript" charset="utf-8" integrity="sha256-WnwbcO5ABAeU3Yfkol3CPp1Cbp8IrCYRMWy5VD7aRbQ="></script>
+    
+
+
+
+
+    
+
+
+
+
+
+    
+    
+        
+    
+    
+
+    
+        <script src="https://yurynovozhilov.github.io/MagicDPD/js/script.min.d1092953d75d0389e869f1fd063a45b5aa76d05341ed48f7a1cacfd0db11d681.js" type="text/javascript" charset="utf-8" integrity="sha256-0QkpU9ddA4noafH9BjpFtap20FNB7Uj3ocrP0NsR1oE="></script>
+    
+
+
+
+
+
+
+
+
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Перейти к основному контенту</a>
+    <div class="container">
+        <header class="common-header"> 
+            
+                <div class="header-top">
+    <div class="header-top-left">
+        <h1 class="site-title">
+    <a href="/MagicDPD">MagicDPD: Magic Driven Product Development!</a>
+</h1>
+        <ul class="social-icons">
+
+
+    
+        <li>
+            <a href="https://t.me/MagicDPD" title="Telegram" rel="me">
+            <span class="inline-svg" >
+
+
+
+
+    
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm121.8 169.9l-40.7 191.8c-3 13.6-11.1 16.9-22.4 10.5l-62-45.7-29.9 28.8c-3.3 3.3-6.1 6.1-12.5 6.1l4.4-63.1 114.9-103.8c5-4.4-1.1-6.9-7.7-2.5l-142 89.4-61.2-19.1c-13.3-4.2-13.6-13.3 2.8-19.7l239.1-92.2c11.1-4 20.8 2.7 17.2 19.5z"/></svg>
+
+</span>
+
+            </a>
+        </li>
+    
+
+
+
+    <li>
+            <a href="https://yurynovozhilov.github.io/MagicDPD/index.xml" title="RSS" rel="me">
+            <span class="inline-svg" >
+
+
+
+
+    
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M128.081 415.959c0 35.369-28.672 64.041-64.041 64.041S0 451.328 0 415.959s28.672-64.041 64.041-64.041 64.04 28.673 64.04 64.041zm175.66 47.25c-8.354-154.6-132.185-278.587-286.95-286.95C7.656 175.765 0 183.105 0 192.253v48.069c0 8.415 6.49 15.472 14.887 16.018 111.832 7.284 201.473 96.702 208.772 208.772.547 8.397 7.604 14.887 16.018 14.887h48.069c9.149.001 16.489-7.655 15.995-16.79zm144.249.288C439.596 229.677 251.465 40.445 16.503 32.01 7.473 31.686 0 38.981 0 48.016v48.068c0 8.625 6.835 15.645 15.453 15.999 191.179 7.839 344.627 161.316 352.465 352.465.353 8.618 7.373 15.453 15.999 15.453h48.068c9.034-.001 16.329-7.474 16.005-16.504z"/></svg>
+
+</span>
+
+            </a>
+        </li>
+    
+
+</ul>
+    </div>
+    <div class="header-top-right">
+        
+
+    
+
+
+
+
+    <div class="theme-switcher">
+        <span class="inline-svg" >
+
+
+
+
+    
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 290 290">
+<path fill="currentColor" d="M142.959,0C64.131,0,0,64.132,0,142.96c0,78.828,64.131,142.959,142.959,142.959c78.828,0,142.96-64.131,142.96-142.959  C285.919,64.132,221.787,0,142.959,0z M142.959,260.919V142.96V25c65.043,0,117.96,52.917,117.96,117.96  C260.919,208.003,208.002,260.919,142.959,260.919z"/>
+</svg>
+
+</span>
+
+    </div>
+
+
+<script>
+const STORAGE_KEY = 'user-color-scheme'
+const defaultTheme = "auto"
+
+let currentTheme
+let switchButton
+let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+const autoChangeScheme = e => {
+    currentTheme = e.matches ? 'dark' : 'light'
+    document.documentElement.setAttribute('data-theme', currentTheme)
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    switchButton = document.querySelector('.theme-switcher')
+    currentTheme = detectCurrentScheme()
+    if (currentTheme == 'dark') {
+        document.documentElement.setAttribute('data-theme', 'dark')
+    }
+    if (currentTheme == 'auto') {
+        autoChangeScheme(autoDefinedScheme);
+        autoDefinedScheme.addListener(autoChangeScheme);
+    }
+
+    if (switchButton) {
+        switchButton.addEventListener('click', switchTheme, false)
+    }
+  
+    showContent()
+})
+
+function detectCurrentScheme() {
+    if (localStorage !== null && localStorage.getItem(STORAGE_KEY)) {
+        return localStorage.getItem(STORAGE_KEY)
+    } 
+    if (defaultTheme) {
+        return defaultTheme
+    } 
+    if (!window.matchMedia) {
+        return 'light'
+    } 
+    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        return 'dark'
+    }
+    return 'light'
+}
+
+function switchTheme(e) {
+    if (currentTheme == 'dark') {
+        if (localStorage !== null)
+            localStorage.setItem(STORAGE_KEY, 'light')
+        document.documentElement.setAttribute('data-theme', 'light')
+        currentTheme = 'light'
+    } else {
+        if (localStorage !== null)
+            localStorage.setItem(STORAGE_KEY, 'dark')
+        document.documentElement.setAttribute('data-theme', 'dark')
+        currentTheme = 'dark'
+    }
+}
+
+function showContent() {
+    document.body.style.visibility = 'visible';
+    document.body.style.opacity = 1;
+}
+</script>
+
+  
+    </div>
+</div>
+
+
+    <nav>
+        
+        
+        <a class="" href="https://yurynovozhilov.github.io/MagicDPD/" title="Главная">Главная</a>
+        
+        <a class="" href="https://yurynovozhilov.github.io/MagicDPD/archive/" title="Архив постов">Архив</a>
+        
+        <a class="" href="https://yurynovozhilov.github.io/MagicDPD/about/" title="О проекте">О проекте</a>
+        
+    </nav>
+
+
+
+
+
+            
+        </header>
+        <main id="main" tabindex="-1"> 
+            
+    <h1>Тег: Hpc</h1>
+    <div class="post-info">
+        <a href="/MagicDPD/tags/">К списку тегов</a>
+    </div>
+    
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2017-03-10-wb-ls-dyna-act-180/">WB LS-DYNA ACT 18.0</a></h1>
+        </header>
+        
+    </div>
+<a class="link-preview__card" href="https://appstore.ansys.com/download?prodid=APC-ACTAPP-222" target="_blank" rel="noopener noreferrer">
+  
+  <span class="link-preview__body">
+    <span class="link-preview__title">Ansys App Catalog | Ansys Developer Portal</span>
+    
+    <span class="link-preview__description">Discover ready-to-use Ansys and third-party apps to streamline simulation workflows in the Ansys App Catalog. Boost productivity and innovation.</span>
+    
+    <span class="link-preview__host">appstore.ansys.com</span>
+  </span>
+</a>
+
+
+        <div class="content post-summary p-summary">
+            <p>WB LS-DYNA ACT 18.0
+<a href="https://appstore.ansys.com/download?prodid=APC-ACTAPP-222" target="_blank" rel="noopener noreferrer">https://appstore.ansys.com/download?prodid=APC-ACTAPP-222</a></p>
+<p>#ANSYS выложил новую версию #Workbench #LSDYNA #ACT для релиза 18.0</p>
+<p>Сначала бочка меда:</p>
+<ul>
+<li>Опция переключения Deformable To Rigid доступна из GUI</li>
+<li>LS-DYNA Named Selections Manager теперь позволяет в явном виде задавать какой ID будет у Named Selections при трансляции его в соответсвующую абстракцию LS-DYNA. Эта функция очень полезна и снимает кучу головной боле при работе с Keyword Snippet.</li>
+<li>Супер недокументированная функция: похоже, что WB LS-DYNA ACT научилась работать с #RSM! И не только с RSM для постановки задач на самого себя в фон в очередь, но и с #ARC и прочими #HPC кластерами. Но это еще надо проверять.</li>
+</ul>
+<p>Потом ложка дегтя:
+Во-первых, ACT отсутствует в списке доступных для 18-ой версии и находится только поиском.
+Во-вторых, ANSYS обещал, что в 18-ой версии они сделают это ACT устанавливающимся по нормальному, а не через отдельный инсталятор - слово не сдержали.
+В-третьих, в документации к ACT сказано, что опять ничего нового нет и только багфикс - ан нет, появились новые функции, хотя и без документации.
+В-четвертых, из коробки так и не работает ALE - приходится вручную определять правильные настройки *CONTROL_ALE</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2017-03-10-wb-ls-dyna-act-180/"><time datetime="2017-03-10">10.03.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-10-wb-ls-dyna-act-180/">https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-10-wb-ls-dyna-act-180/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/hpc/">#Hpc</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/workbench/">#Workbench</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/lsdyna/">#Lsdyna</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/rsm/">#RSM</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/arc/">#ARC</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/act/">#ACT</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2017-02-21-esche-odin-sposob-uprostit-raschety-ls-dyn/">Еще один способ упростить расчеты LS-DYNA</a></h1>
+        </header>
+        
+    </div>
+<a class="link-preview__card" href="https://www.youtube.com/watch?v=TraTYWyLf0s" target="_blank" rel="noopener noreferrer">
+  
+  <span class="link-preview__thumb-wrap">
+    <img class="link-preview__thumb" src="https://i.ytimg.com/vi/TraTYWyLf0s/maxresdefault.jpg" loading="lazy" alt="">
+  </span>
+  
+  <span class="link-preview__body">
+    <span class="link-preview__title">k-runner manager to work in LS-DYNA</span>
+    
+    <span class="link-preview__description">k-runner is a user-friendly feature packed application designed to start calculation processes in LS-DYNA and make them automatic. It runs both on local and ...</span>
+    
+    <span class="link-preview__host">www.youtube.com</span>
+  </span>
+</a>
+
+
+        <div class="content post-summary p-summary">
+            <p>Еще один способ упростить расчеты LS-DYNA
+<a href="http://www.lsdyna-tutorials.com/k-runner" target="_blank" rel="noopener noreferrer">http://www.lsdyna-tutorials.com/k-runner</a></p>
+<p>На сайте <a href="http://www.lsdyna-tutorials.com/" target="_blank" rel="noopener noreferrer">http://www.lsdyna-tutorials.com/</a> появился еще один интересный ланчер для расчетов в #LSDYNA. Он позволяет построить настоящую расчетную сеть с клиентами и серверами приложений - прямо как #ANSYS #RSM. Я бы такой развернул на работе, правда, боюсь, что эта штука окажется платной.
+#HPC</p>
+<p><a href="https://www.youtube.com/watch?v=TraTYWyLf0s" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=TraTYWyLf0s</a></p>
+<p><a href="http://lsdyna-tutorials.com/k-runner" target="_blank" rel="noopener noreferrer">http://lsdyna-tutorials.com/k-runner</a>
+<a href="http://www.lsdyna-tutorials.com/k-runner" target="_blank" rel="noopener noreferrer">http://www.lsdyna-tutorials.com/k-runner</a>
+<a href="http://www.lsdyna-tutorials.com/" target="_blank" rel="noopener noreferrer">http://www.lsdyna-tutorials.com/</a>
+<a href="https://www.youtube.com/watch?v=TraTYWyLf0s" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=TraTYWyLf0s</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2017-02-21-esche-odin-sposob-uprostit-raschety-ls-dyn/"><time datetime="2017-02-21">21.02.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-21-esche-odin-sposob-uprostit-raschety-ls-dyn/">https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-21-esche-odin-sposob-uprostit-raschety-ls-dyn/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/rsm/">#RSM</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/hpc/">#Hpc</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/lsdyna/">#Lsdyna</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2017-02-18-cfd-dlya-missii-na-mars/">CFD для миссии на Марс</a></h1>
+        </header>
+        
+    </div>
+<a class="link-preview__card" href="https://www.youtube.com/watch?v=vYA0f6R5KAI" target="_blank" rel="noopener noreferrer">
+  
+  <span class="link-preview__thumb-wrap">
+    <img class="link-preview__thumb" src="https://i.ytimg.com/vi/vYA0f6R5KAI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgFSh_MA8=&amp;rs=AOn4CLDvuYhkSXdHenYL5wq_m53KJZtw9Q" loading="lazy" alt="">
+  </span>
+  
+  <span class="link-preview__body">
+    <span class="link-preview__title">GPUs to Mars: Full-Scale Simulation of SpaceX&#39;s Mars Rocket Engine</span>
+    
+    <span class="link-preview__description">In this video presentation from the GPU Technology Conference, Stephen Jones and Adam Lichtl from SpaceX present: GPUs to Mars: Full-Scale Simulation of Spac...</span>
+    
+    <span class="link-preview__host">www.youtube.com</span>
+  </span>
+</a>
+
+
+        <div class="content post-summary p-summary">
+            <p>CFD для миссии на Марс
+<a href="https://www.youtube.com/watch?v=vYA0f6R5KAI" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=vYA0f6R5KAI</a></p>
+<p>Компания #SpaceX имеет в своих планах полет на Марс в обозримом будущем. Будучи крайне прогрессивной организацией, они, естественно, придают огромное значение математическому моделированию физических процессов. В предлагаемом вебинаре они рассказывают о проблемах #CFD расчетом двигателей для космических кораблей, о том как важно учитывать химические реакции, какие подходы использовать при создании сетки&hellip; и конечно про свой код, который считает все это на #GPU для пущего #HPC.</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2017-02-18-cfd-dlya-missii-na-mars/"><time datetime="2017-02-18">18.02.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-18-cfd-dlya-missii-na-mars/">https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-18-cfd-dlya-missii-na-mars/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/cfd/">#Cfd</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/spacex/">#SpaceX</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/gpu/">#Gpu</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/hpc/">#Hpc</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2017-02-16-ansys-rsm-180-dlya-windows-hpc/">ANSYS RSM 18.0 для Windows HPC</a></h1>
+        </header>
+        
+    </div>
+<a class="link-preview__card" href="http://www.padtinc.com/blog/the-focus/how-to-ansys-18-rsm-client-setup-on-windows-2012-r2-hpc" target="_blank" rel="noopener noreferrer">
+  
+  <span class="link-preview__thumb-wrap">
+    <img class="link-preview__thumb" src="https://www.padtinc.com/wp-content/uploads/2022/02/r18-rsm-setup-icon-1.jpg" loading="lazy" alt="">
+  </span>
+  
+  <span class="link-preview__body">
+    <span class="link-preview__title">How-To: ANSYS 18 RSM CLIENT SETUP on Windows 2012 R2 HPC - PADT</span>
+    
+    <span class="link-preview__description">We put this simple how-to together for users to speed up the process on getting your Remote Solve Manager client up and running on Microsoft Windows 2012 R2</span>
+    
+    <span class="link-preview__host">www.padtinc.com</span>
+  </span>
+</a>
+
+
+        <div class="content post-summary p-summary">
+            <p>ANSYS RSM 18.0 для Windows HPC
+<a href="http://www.padtinc.com/blog/the-focus/how-to-ansys-18-rsm-client-setup-on-windows-2012-r2-hpc" target="_blank" rel="noopener noreferrer">http://www.padtinc.com/blog/the-focus/how-to-ansys-18-rsm-client-setup-on-windows-2012-r2-hpc</a></p>
+<p>#ANSYS #RSM 18 принципиально отличается от всех предыдущих версий RSM. Теперь он легче связывается в кластерными менеджерами очереди задач или сам может быть таким менеджером, благодаря ANSYS RSM Cluster (#ARC).</p>
+<p>#PADT Inc подготовили небольшую брошюру по настройке и работе RSM совместно с кластером на базе #Windows #Server 2012 R2 и Microsoft #HPC #Cluster Pack.</p>
+<p><a href="http://www.padtinc.com/blog/the-focus/how-to-ansys-18-rsm-client-setup-on-windows-2012-r2-hpc" target="_blank" rel="noopener noreferrer">How-To: ANSYS 18 RSM CLIENT SETUP on Windows 2012 R2 HPC</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2017-02-16-ansys-rsm-180-dlya-windows-hpc/"><time datetime="2017-02-16">16.02.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-16-ansys-rsm-180-dlya-windows-hpc/">https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-16-ansys-rsm-180-dlya-windows-hpc/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/cluster/">#Cluster</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/hpc/">#Hpc</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/server/">#Server</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/padt/">#PADT</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/rsm/">#RSM</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/arc/">#ARC</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/windows/">#Windows</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2017-02-09-kak-delat-hpc-dlya-ansys-18/">Как делать HPC для ANSYS 18</a></h1>
+        </header>
+        
+    </div>
+<a class="link-preview__card" href="https://www.cadfem-cis.ru/products/ansys/ansys-update/" target="_blank" rel="noopener noreferrer">
+  
+  <span class="link-preview__thumb-wrap">
+    <img class="link-preview__thumb" src="https://www.cadfem-cis.ru/static/templates/cadfem/dist/images/OG-image.png" loading="lazy" alt="">
+  </span>
+  
+  <span class="link-preview__body">
+    <span class="link-preview__title">Техническая документация — МЦД</span>
+    
+    <span class="link-preview__description">Техническая документация 16 сентября, 2021 Ansys 2021 R2 Технические требования к программно-аппаратным комплексам и лицензионная политика в области HPC Скачать</span>
+    
+    <span class="link-preview__host">www.cadfem-cis.ru</span>
+  </span>
+</a>
+
+
+        <div class="content post-summary p-summary">
+            <p>Как делать HPC для ANSYS 18
+<a href="https://www.cadfem-cis.ru/products/ansys/ansys-update/" target="_blank" rel="noopener noreferrer">https://www.cadfem-cis.ru/products/ansys/ansys-update/</a></p>
+<p>Коллеги, рад поделиться ссылкой на опубликованный недавно материал, по тематике #HPC для #ANSYS и построения правильно IT инфраструктуры для расчетов.</p>
+<p>Вот в этом документе вы найдете очень много интересного и нового, чего иногда даже нет и в официальной документации - <a href="https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/18/ANSYS18_tech.pdf" target="_blank" rel="noopener noreferrer">https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/18/ANSYS18_tech.pdf</a></p>
+<p>Главные фишки релиза 18.0 с точки зрения HPC:</p>
+<ul>
+<li>поддержка #CentOS 7</li>
+<li>cобственный встроенный бесплатный кластерный планировщик (aka workload manager, aka scheduler) для Windows и Linux - ANSYS #RSM Cluster (aka #ARC)</li>
+<li>ANSYS #CFD теперь считает на 4-х ядрах из коробки</li>
+<li>ANSYS #Explicit STR теперь считает на 2-х ядрах из коробки</li>
+<li>ANSYS #Maxwell теперь умеет использовать #GPGPU #NVIDIA</li>
+<li>Первый ANSYS HPC Pack это 10, а не 8 ядре</li>
+</ul>
+<p><a href="https://www.cadfem-cis.ru/products/ansys/ansys-update/" target="_blank" rel="noopener noreferrer">Обновления ANSYS 19 – CADFEM</a>
+<a href="https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/18/ANSYS18_tech.pdf" target="_blank" rel="noopener noreferrer">https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/18/ANSYS18_tech.pdf</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2017-02-09-kak-delat-hpc-dlya-ansys-18/"><time datetime="2017-02-09">09.02.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-09-kak-delat-hpc-dlya-ansys-18/">https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-09-kak-delat-hpc-dlya-ansys-18/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/cfd/">#Cfd</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/hpc/">#Hpc</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/maxwell/">#MAXWELL</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/centos/">#CentOS</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/rsm/">#RSM</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/arc/">#ARC</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/nvidia/">#Nvidia</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/gpgpu/">#GPGPU</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/explicit/">#Explicit</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2017-01-18-deploying-hpc-cluster-with-mellanox-infi/">Deploying HPC Cluster with Mellanox InfiniBand Interconnect Solutions</a></h1>
+        </header>
+        
+    </div>
+<a class="link-preview__card" href="https://vk.com/doc11568_441185555" target="_blank" rel="noopener noreferrer">
+  
+  <span class="link-preview__body">
+    <span class="link-preview__title">Error | VK</span>
+    
+    <span class="link-preview__host">vk.com</span>
+  </span>
+</a>
+
+
+        <div class="content post-summary p-summary">
+            <p><a href="https://vk.com/doc11568_441185555" target="_blank" rel="noopener noreferrer">https://vk.com/doc11568_441185555</a></p>
+<p>В очередной раз убедился, что нет лучше пособия по отладке true #HPC кластеров чем эта небольшая брошюрка от #Mellanox. #Infiniband рули, а ссылка на документ чуть ниже в посте.</p>
+<p><a href="https://vk.com/doc11568_441185555" target="_blank" rel="noopener noreferrer">https://vk.com/doc11568_441185555</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2017-01-18-deploying-hpc-cluster-with-mellanox-infi/"><time datetime="2017-01-18">18.01.2017</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2017-01-18-deploying-hpc-cluster-with-mellanox-infi/">https://yurynovozhilov.github.io/MagicDPD/posts/2017-01-18-deploying-hpc-cluster-with-mellanox-infi/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/mellanox/">#Mellanox</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/infiniband/">#Infiniband</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/hpc/">#Hpc</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2016-12-28-ls-dynacloud/">LS-DYNAcloud</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>LS-DYNAcloud
+<a href="http://www.ls-dynacloud.com/" target="_blank" rel="noopener noreferrer">http://www.ls-dynacloud.com/</a></p>
+<p>Знали ли вы, что у #LSTC есть собственное облако, для выполнения расчетов в #LSDYNA? Аппаратная часть облака размазана по 3-м крупным #cloud игрокам: CPU24/7, #Gompute и #Rescale, а поддержкой занимается сам #LSTC и #DYNAmore. Только введите ваш номер кредитки :-) #HPC</p>
+<p><a href="http://www.ls-dynacloud.com/" target="_blank" rel="noopener noreferrer">http://www.ls-dynacloud.com/</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2016-12-28-ls-dynacloud/"><time datetime="2016-12-28">28.12.2016</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-28-ls-dynacloud/">https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-28-ls-dynacloud/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/hpc/">#Hpc</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/lstc/">#LSTC</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/lsdyna/">#Lsdyna</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/gompute/">#Gompute</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/dynamore/">#DYNAMore</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/rescale/">#Rescale</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/cloud/">#Cloud</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2016-12-05-ansys-fluent-opyat-sozhral-vse-resursy/">ANSYS Fluent опять сожрал все ресурсы</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>ANSYS Fluent опять сожрал все ресурсы
+<a href="http://investors.ansys.com/press-releases/2016/15-Nov-16-121021132" target="_blank" rel="noopener noreferrer">http://investors.ansys.com/press-releases/2016/15-Nov-16-121021132</a></p>
+<p>ANSYS Inc,  High Performance Computing Center (#HLRS) Штутгартского университета (University of Stuttgart) и компания #Cray Inc собрались и посчитали #CFD задачу в #ANSYS #Fluent на 172032 ядер!</p>
+<p>Немного об использованном кластере: 9-ое место в #TOP500, 7 Петафлопс, 185088 процессорных ядер, 7712 двухсокетных сервера на базе Intel Xeon E5-2680 v3.</p>
+<p><a href="http://investors.ansys.com/press-releases/2016/15-Nov-16-121021132" target="_blank" rel="noopener noreferrer">http://investors.ansys.com/press-releases/2016/15-Nov-16-121021132</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2016-12-05-ansys-fluent-opyat-sozhral-vse-resursy/"><time datetime="2016-12-05">05.12.2016</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-05-ansys-fluent-opyat-sozhral-vse-resursy/">https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-05-ansys-fluent-opyat-sozhral-vse-resursy/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/cfd/">#Cfd</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/hlrs/">#HLRS</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/hpc/">#Hpc</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/cray/">#Cray</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/top500/">#TOP500</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/fluent/">#Fluent</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2016-11-27-kogda-mpi-zabolel/">Когда MPI заболел</a></h1>
+        </header>
+        
+    </div>
+<a class="link-preview__card" href="https://software.intel.com/en-us/node/561777" target="_blank" rel="noopener noreferrer">
+  
+  <span class="link-preview__thumb-wrap">
+    <img class="link-preview__thumb" src="https://www.intel.com/etc.clientlibs/settings/wcm/designs/intel/us/en/images/resources/printlogo.png" loading="lazy" alt="">
+  </span>
+  
+  <span class="link-preview__body">
+    <span class="link-preview__title">Documentation Library</span>
+    
+    <span class="link-preview__description">Search repositories from Intel for programming language, operating system, tool, hardware, and middleware documentation.</span>
+    
+    <span class="link-preview__host">software.intel.com</span>
+  </span>
+</a>
+
+
+        <div class="content post-summary p-summary">
+            <p>Когда MPI заболел
+<a href="https://software.intel.com/en-us/node/561777" target="_blank" rel="noopener noreferrer">https://software.intel.com/en-us/node/561777</a></p>
+<p>На днях мне довелось собирать кластер из &ldquo;того, что было&rdquo; на коленке: без планировщика, без серверной операционки, без #Infiniband. Так вот, во время отладки работы #Intel #MPI я наткнулся на очень интересную статью на портале поддержки Intel: &ldquo;Examples of MPI Failures&rdquo;. В статье разобраны 7 ситуаций, когда Intel MPI не MPI и как его починить. #HPC на коленке заработало</p>
+<p><a href="https://software.intel.com/en-us/node/561777" target="_blank" rel="noopener noreferrer">Examples of MPI Failures | Intel® Software</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2016-11-27-kogda-mpi-zabolel/"><time datetime="2016-11-27">27.11.2016</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-27-kogda-mpi-zabolel/">https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-27-kogda-mpi-zabolel/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/intel/">#Intel</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/infiniband/">#Infiniband</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/mpi/">#MPI</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/hpc/">#Hpc</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2016-11-20-wolfram-on-demand/">Wolfram On-Demand</a></h1>
+        </header>
+        
+    </div>
+<a class="link-preview__card" href="https://blog.rescale.com/mathematica-on-the-cloud/" target="_blank" rel="noopener noreferrer">
+  
+  <span class="link-preview__thumb-wrap">
+    <img class="link-preview__thumb" src="https://rescale.com/wp-content/uploads/wolfram-2.png" loading="lazy" alt="">
+  </span>
+  
+  <span class="link-preview__body">
+    <span class="link-preview__title">Rescale &amp; Wolfram Offer On-Demand Mathematica Licenses on Cloud</span>
+    
+    <span class="link-preview__description">San Francisco, CA - Rescale and Wolfram Research are excited to announce a new strategic partnership enabling Mathematica users to purchase on-demand</span>
+    
+    <span class="link-preview__host">blog.rescale.com</span>
+  </span>
+</a>
+
+
+        <div class="content post-summary p-summary">
+            <p>Wolfram On-Demand
+<a href="https://blog.rescale.com/mathematica-on-the-cloud/" target="_blank" rel="noopener noreferrer">https://blog.rescale.com/mathematica-on-the-cloud/</a></p>
+<p>#Wolfram анонсировал запуск облачных лицензий на #Mathematica в облаке #Rescale. Теперь для сложных аналитических расчетов моно использовать этот #HPC #Cloud</p>
+<p><a href="https://blog.rescale.com/mathematica-on-the-cloud/" target="_blank" rel="noopener noreferrer">https://blog.rescale.com/mathematica-on-the-cloud/</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2016-11-20-wolfram-on-demand/"><time datetime="2016-11-20">20.11.2016</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-20-wolfram-on-demand/">https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-20-wolfram-on-demand/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/hpc/">#Hpc</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/cloud/">#Cloud</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/wolfram/">#Wolfram</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/mathematica/">#Mathematica</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/rescale/">#Rescale</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+    
+    
+    
+    <div class="pagination">
+        <div class="left pagination-item ">
+            
+                <a href="/MagicDPD/tags/hpc/page/9/">к новым записям</a>
+            
+        </div>
+        <div class="right pagination-item ">
+            
+                <a href="/MagicDPD/tags/hpc/page/11/">к старым записям</a>
+            
+        </div>
+    </div>
+
+
+
+
+        </main>
+        
+            <footer class="common-footer">
+    
+    
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+            <p>© GlukRazor, 2026<br>
+            Движок <a target="_blank" rel="noopener noreferrer" href="https://gohugo.io/">Hugo</a>, тема <a target="_blank" rel="noopener noreferrer" href="https://github.com/mitrichius/hugo-theme-anubis">Anubis</a>.<br>
+            
+            </p>  
+        </div> 
+    </div>
+
+    <p class="h-card vcard">
+
+    <a href=https://yurynovozhilov.github.io/MagicDPD/ class="p-name u-url url fn" rel="me">GlukRazor</a> 
+
+    
+
+    
+</p> 
+</footer>
+
+        
+    </div>
+</body>
+</html>

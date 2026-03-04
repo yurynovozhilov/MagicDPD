@@ -2,27 +2,145 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NICE on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/nice/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/nice/</link>
     <description>MagicDPD: Magic Driven Product Development! (NICE)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 09 Nov 2015 06:30:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Nov 2017 09:10:09 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/nice/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/nice/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>На конференции AWS re:Invent ANSYS расскзал об архитектуре с</title>
-      <link>http://localhost:1313/posts/2015-11-09-na-konferentsii-aws-reinvent-ansys-rassk/</link>
+      <title>Сегоня состоялся большой и очень ожидаемый мной релиз у моих друзей из #NICE Software.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-08-segonya-sostoyalsya-bolshoy-i-ochen-ozhidaem/</link>
+      <pubDate>Wed, 08 Nov 2017 09:10:09 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-08-segonya-sostoyalsya-bolshoy-i-ochen-ozhidaem/</guid>
+      <description>&lt;p&gt;Эта небольшая но очень крутая итальянская компания (ныне часть #HPC подразделения #AWS) выпустила обновленную версию своего продукта #DCV (Desktop Cloud Visualization) - пожалуй самого эффективного средства доставки сложной инженерной графики на рынке.&lt;/p&gt;
+&lt;p&gt;Ключевые фишки DCV:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Возможность совместной работы нескольких человек на одном рабочем столе&lt;/li&gt;
+&lt;li&gt;Полностью аппаратное кодирование/декодирование видео потока в H.264&lt;/li&gt;
+&lt;li&gt;Поддержка NVIDIA vGPU&lt;/li&gt;
+&lt;li&gt;Работках как в физической, так и в виртуальной среде.&lt;/li&gt;
+&lt;li&gt;Возможность работы в режиме сжатия без потерь&lt;/li&gt;
+&lt;li&gt;Автоматический/ручной выбор степени сжатия потока&lt;/li&gt;
+&lt;li&gt;Пробросаться смарт-карт&lt;/li&gt;
+&lt;li&gt;Автоматическая подстройка разрешения под клиента&lt;/li&gt;
+&lt;li&gt;Как обычный так и HTML5 клиент&lt;/li&gt;
+&lt;li&gt;Поддержка Gnome 3 для RHEL 7&lt;/li&gt;
+&lt;li&gt;Поддержка Windows 10 и Server 2016&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ну и конечно от себя хочу сказать, что DCV очень прост в установке, настроек и внедрении: поставил и работает. Не надо никаких серверов proxy, авторизации и балансировки нагрузки. Нет завязки на контроллер домена или систему авторизации.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2m7A75V&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2m7A75V&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#HPCMediaMedia🔗 Download DCV 2017 - NICE&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2yFdOtX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yFdOtX&lt;/a&gt;
+&lt;a href=&#34;https://www.nice-software.com/download/nice-dcv-2017&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.nice-software.com/download/nice-dcv-2017&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NICE EnginFrame 2017</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-29-nice-enginframe-2017/</link>
+      <pubDate>Wed, 29 Mar 2017 17:00:25 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-29-nice-enginframe-2017/</guid>
+      <description>&lt;p&gt;NICE EnginFrame 2017
+&lt;a href=&#34;http://www.nice-software.com/news/-/blogs/nice-enginframe-2017-is-now-available-with-even-simpler-aws-integration&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.nice-software.com/news/-/blogs/nice-enginframe-2017-is-now-available-with-even-simpler-aws-integration&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;На этой неделе наши итальянские друзья и партнеры, компания #Nice Software, выпустили #EngineFrame 2017 - web-портал #HPC системы, диспетчер очереди задач, диспетчер терминальных сессий и много чего еще. Особый прицел сделан на удобную для пользователя работу с виртуальными кластерами в #AWS (#Amazon с прошлого года является владельцем компании).&lt;/p&gt;
+&lt;p&gt;Пример работы предыдущего релиза на видео:
+&lt;a href=&#34;https://www.youtube.com/watch?v=iBGEXDgi5-w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=iBGEXDgi5-w&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.nice-software.com/news/-/blogs/nice-enginframe-2017-is-now-available-with-even-simpler-aws-integration&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.nice-software.com/news/-/blogs/nice-enginframe-2017-is-now-available-with-even-simpler-aws-integration&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=iBGEXDgi5-w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=iBGEXDgi5-w&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#CFD расчета для спорта</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-03-cfd-rascheta-dlya-sporta/</link>
+      <pubDate>Wed, 03 Aug 2016 06:30:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-03-cfd-rascheta-dlya-sporta/</guid>
+      <description>&lt;p&gt;#CFD расчета для спорта&lt;/p&gt;
+&lt;p&gt;Команда Land Rover BAR рассказывает о том как CFD расчеты помогают им в совершенствовании скоростного спортивного катамарана на подводных крыльях. Для своих расчетов они используют #StarCCM+ и все стандартные фишки #CAE для подобных задач: параметризация, вложенные сетки, #HPC.&lt;/p&gt;
+&lt;p&gt;Мне показалось очень странным, что для удаленной работы на кластере они используют #TurboVNC (а значит еще и #VirtualGL). По моим замерам в случае StarCCM удаленная визуализация VirtualGL уступает по производительности #NICE #DCV разва в 3.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ygg3NQGZWUU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Land Rover BAR, CD-adapco and Auld Mug&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вот так, в одном проекте удалось совместить все лучшие практики #HPC: тут и #infiniband, и #tesla для ускорения расчетов, и #SSD для локального кэширования данных. На системное ПО тоже не поскупились: #Altair #PBS Pro, #NICE #DCV и #EnginFrame, #HP #CMU. Вот такой вот best practice вживую!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-18-vot-tak-v-odnom-proekte-udalos-sovmest/</link>
+      <pubDate>Wed, 18 May 2016 07:03:34 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-18-vot-tak-v-odnom-proekte-udalos-sovmest/</guid>
+      <description>&lt;p&gt;Мы это сделали!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://multiphysics.ru/stati/proekty/proektirovanie-vychislitelnogo-klastera-bgtu-voenmekh-im-d-f-ustinova.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Проектирование вычислительного кластера БГТУ «ВОЕНМЕХ» им. Д.Ф.Устинова | Инженерные расчеты&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новость дня: для наших старых друзей, компании #NICE #Software начинается новая эпоха.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-12-novost-dnya-dlya-nashih-staryh-druzey-ko/</link>
+      <pubDate>Fri, 12 Feb 2016 17:36:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-12-novost-dnya-dlya-nashih-staryh-druzey-ko/</guid>
+      <description>&lt;p&gt;Сегодня их компания была куплена, и не кем-то, а самими #Amazon Web Services (#AWS).&lt;/p&gt;
+&lt;p&gt;Это очень хорошая поддержка для небольшой итальянской компании менее чем из 100 человек.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.nice-software.com/news/-/blogs/nice-to-join-forces-with-amazon-web-services&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;NICE to join forces with Amazon Web Services - News &amp;amp; Events - NICE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Поздравляем компанию #NICE Software: ее продукты заняли все места в номинации &#34;Best HPC Visualization Product or Technology&#34; журнала #HPCwire (одного из самых авторитетных изданий в области #HPC).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-18-pozdravlyaem-kompaniyu-nice-software-ee/</link>
+      <pubDate>Wed, 18 Nov 2015 06:30:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-18-pozdravlyaem-kompaniyu-nice-software-ee/</guid>
+      <description>&lt;p&gt;Итак, #DCV получил награду и &amp;ldquo;Выбор читателей&amp;rdquo; и &amp;ldquo;Выбор редакции&amp;rdquo;. Вторая награда им пришла через #SGI VizServer, основанный на коде DCV. Конкурентов нет 😊&lt;/p&gt;
+&lt;p&gt;NICE - отличные ребята!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.nice-software.com/news/-/blogs/nice-receives-honors-in-2015-hpcwire-awards&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;NICE Receives Honors in 2015 HPCwire Awards - News &amp;amp; Events - NICE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>На конференции AWS re:Invent ANSYS расскзал об архитектуре своего облачного решения ANSYS Enterprise Cloud в AWS.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-09-na-konferentsii-aws-reinvent-ansys-rassk/</link>
       <pubDate>Mon, 09 Nov 2015 06:30:19 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-09-na-konferentsii-aws-reinvent-ansys-rassk/</guid>
-      <description>&lt;p&gt;Однако проблемы, на которые я всегда обращаю внимание, остались открытыми:&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-09-na-konferentsii-aws-reinvent-ansys-rassk/</guid>
+      <description>&lt;p&gt;Всю магию по созданию виртуального кластера для них делает Cycle Computing. Графикой естественно завидует NICE Software. Управление конфигурациями через Chef. Метаданные пишутся в базу Amazon RDS (наверно они приделали к ней аналог ANSYS EKM).&lt;/p&gt;
+&lt;p&gt;Однако проблемы, на которые я всегда обращаю внимание, остались открытыми:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;нет RDMA - большой кластер тормозит даже для CFD&lt;/li&gt;
 &lt;li&gt;очень кривая организация виртуальных рабочих станций для постпроцессинга из-за ограничений на объем оперативной памяти.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Есть и замечательные, доселе невиданные возможности: вы получаете готовый к расчетами HPC кластер менее чем за 3 (три!!!) часа, и вы можете изменять его размер по запросу. Обычно проектирование и пуск кластера занимает месяцы :)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0EPnnKqs5TM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;AWS re:Invent 2015 | (CMP202) Engineering Simulation and Analysis in the Cloud&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#NICE Software показали, как можно заточить их #EnginFrame для работы с #Amazon #AWS. Их система по запросу арендует кластер из нужных виртуалок, разливает на них нужный софт и запускает расчет в интерактивном режиме. А после всего еще и постпроцессинг через #DCV выполняет!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-06-nice-software-pokazali-kak-mozhno-zatoch/</link>
+      <pubDate>Fri, 06 Nov 2015 18:00:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-06-nice-software-pokazali-kak-mozhno-zatoch/</guid>
+      <description>&lt;p&gt;Осталось только ввести номер вашей кредитки и HPC кластер готов.
+&lt;a href=&#34;https://www.youtube.com/watch?v=Ok3LADkSPrU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Ok3LADkSPrU&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Запись доклада компании #NICE по их продукту #DCV - лидеру рынка высокопроизводительной визуализации для научных и инженерных приложений.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-05-zapis-doklada-kompanii-nice-po-ih-prod/</link>
+      <pubDate>Thu, 05 Nov 2015 06:30:41 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-05-zapis-doklada-kompanii-nice-po-ih-prod/</guid>
+      <description>&lt;p&gt;Особая фишка DCV - полностью аппаратное кодирование всех передаваемых данных на GPU. Этого больше немеет никто. Доклад с конференции NVIDIA этого года. Демонстрация работы на примере #ANSYS Mechanical.&lt;/p&gt;
+&lt;p&gt;Знали бы вы, что NICE Software покажет в рамках проекта DCV в этом году на грядущем SC2015&amp;hellip; Я вот уже знаю и пользуюсь в рамках партнерской программы тестирования, но рассказать не могу. Могу только намекнуть, что Citrix XenApp/XenDesktop и VMWare View будут плакать.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://on-demand.gputechconf.com/gtc/2015/video/S5415.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;GPU Technology Conference 2015&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -2,71 +2,396 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matlab on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/matlab/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/matlab/</link>
     <description>MagicDPD: Magic Driven Product Development! (Matlab)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 25 May 2018 18:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2022 17:00:12 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Первый #MATLAB (название сокращено от “MATrix LABoratory”) не был языком программирования.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-27-pervyy-matlab-nazvanie-sokrascheno-ot-m/</link>
+      <pubDate>Wed, 27 Apr 2022 17:00:12 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-27-pervyy-matlab-nazvanie-sokrascheno-ot-m/</guid>
+      <description>&lt;p&gt;Написанная на Фортране в конце 1970-х годов, она представляла собой простой интерактивный матричный калькулятор, построенный на основе около десятка подпрограмм из библиотек #LINPACK и EISPACK. В нем было всего 71 зарезервированных слов и встроенных функции суммарно. Расширить его можно было только путем изменения исходного кода Fortran.
+Язык программирования появился в 1984 году, когда MATLAB стал коммерческим продуктом. Калькулятор был заново реализован на языке C и значительно усовершенствован за счет добавления пользовательских функций, инструментария и графики. Первоначально он был доступен на #IBM PC и его клонах; вскоре появились версии для рабочих станций #Unix и #Apple Macintosh.&lt;/p&gt;
+&lt;p&gt;Это лишь пара абзацев увлекательной статьи &amp;ldquo;A history of MATLAB&amp;rdquo; написанной Кливом  Молером (Cleve Moler) и Джеком Литтлом (Jack Little) и опубликованной в журнале &amp;ldquo;Proceedings of the ACM on Programming Languages&amp;rdquo; в 2020 году. Все 67 страниц доступны для ознакомления бесплатно, в рамках open access публикации. &lt;a href=&#34;https://doi.org/10.1145/3386331&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://doi.org/10.1145/3386331&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1145/3386331&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;A history of MATLAB | Proceedings of the ACM on Programming Languages&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Полюбить математическую физику</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-24-polyubit-matematicheskuyu-fiziku/</link>
+      <pubDate>Fri, 24 Sep 2021 13:01:35 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-24-polyubit-matematicheskuyu-fiziku/</guid>
+      <description>&lt;p&gt;Полюбить математическую физику&lt;/p&gt;
+&lt;p&gt;Я хочу признаться в страшном: я не очень люблю математическую физику и дифференциальные уравнения. Спасибо надо сказать отвратительным преподавателям, которые совершенно невыносимо читали данный предмет нашему курсу. Пожалуй, это был один из моих самых нелюбимых предметов. Но сейчас я нашел отличный способ, как полюбить математическую физику.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/ghjOS7Q82s0?list=PLMsYJgjgZE8iBpOBZEsS8PuwNBkwMcjix&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/ghjOS7Q82s0?list=PLMsYJgjgZE8iBpOBZEsS8PuwNBkwMcjix&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Представляю вам запись курса лекций по дифференциальным уравнениям, созданного Гилбертом Стрэнгом и Кливом Молером (Gilbert Strang and Cleve Moler). Курс читает сам Гилберт Стрэнг (&lt;a href=&#34;https://en.wikipedia.org/wiki/Gilbert_Strang&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://en.wikipedia.org/wiki/Gilbert_Strang&lt;/a&gt;) в MIT.&lt;/p&gt;
+&lt;p&gt;Как гласит Википедия, Уильям Гилберт Стрэнг, обычно известный как просто Гилберт Стрэнг или Гил Стрэнг, - американский математик, внес вклад в теорию конечных элементов, вариационное исчисление, вейвлет-анализ и линейную алгебру. Он внес большой вклад в математическое образование, в том числе опубликовал семь учебников по математике и одну монографию.&lt;/p&gt;
+&lt;p&gt;Ссылка на плейлист во всеми 60+ видео: &lt;a href=&#34;https://www.youtube.com/watch?v=ghjOS7Q82s0&amp;amp;list=PLMsYJgjgZE8iBpOBZEsS8PuwNBkwMcjix&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ghjOS7Q82s0&amp;list=PLMsYJgjgZE8iBpOBZEsS8PuwNBkwMcjix&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Домашняя страница учебного курса: &lt;a href=&#34;https://ocw.mit.edu/resources/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ocw.mit.edu/resources/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/index.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Для выполнения упражнений вам может потребоваться MatLab или его открытые клоны.&lt;/p&gt;
+&lt;p&gt;#matlab #mit #true_science
+&lt;a href=&#34;https://tinyurl.com/yh7wzmoq&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yh7wzmoq&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/ghjOS7Q82s0?list=PLMsYJgjgZE8iBpOBZEsS8PuwNBkwMcjix&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Overview of Differential Equations&lt;/a&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Gilbert_Strang&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://en.wikipedia.org/wiki/Gilbert_Strang&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=ghjOS7Q82s0&amp;amp;list=PLMsYJgjgZE8iBpOBZEsS8PuwNBkwMcjix&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ghjOS7Q82s0&amp;list=PLMsYJgjgZE8iBpOBZEsS8PuwNBkwMcjix&lt;/a&gt;
+&lt;a href=&#34;https://ocw.mit.edu/resources/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ocw.mit.edu/resources/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/index.htm&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yh7wzmoq&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yh7wzmoq&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Matlab &#43; GPU</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-06-10-matlab-&#43;-gpu/</link>
+      <pubDate>Thu, 10 Jun 2021 16:01:48 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-06-10-matlab-&#43;-gpu/</guid>
+      <description>&lt;p&gt;Matlab + GPU&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=F2z5iP9EcnI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=F2z5iP9EcnI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#gpu #matlab #nvidia
+&lt;a href=&#34;https://tinyurl.com/yeemewcg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yeemewcg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=F2z5iP9EcnI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;GPU Computing in MATLAB&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yeemewcg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yeemewcg&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IB2d и метод погруженных границ</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-12-29-ib2d-i-metod-pogruzhennyh-granits/</link>
+      <pubDate>Tue, 29 Dec 2020 13:40:51 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-12-29-ib2d-i-metod-pogruzhennyh-granits/</guid>
+      <description>&lt;p&gt;IB2d и метод погруженных границ&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/ib2d-%d0%b8-%d0%bc%d0%b5%d1%82%d0%be%d0%b4-%d0%bf%d0%be%d0%b3%d1%80%d1%83%d0%b6%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d0%b3%d1%80%d0%b0%d0%bd%d0%b8%d1%86/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;IB2d и метод погруженных границ - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Madona: Run MATLAB/Octave code</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-19-madona-run-matlaboctave-code/</link>
+      <pubDate>Thu, 19 Mar 2020 13:00:21 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-19-madona-run-matlaboctave-code/</guid>
+      <description>&lt;p&gt;Madona: Run MATLAB/Octave code
+#iOS #MATLAB #Octave
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/madona-run-matlab-octave-code/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Madona: Run MATLAB/Octave code - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CFD Toolbox для MATLAB</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-10-cfd-toolbox-dlya-matlab/</link>
+      <pubDate>Fri, 10 Aug 2018 18:01:40 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-10-cfd-toolbox-dlya-matlab/</guid>
+      <description>&lt;p&gt;CFD Toolbox для MATLAB
+CFDTool - это специализированное расширение к MATLAB, позволяющее решать задачи вычислительной гидрогазодинамики. Разработано оно командой Precise Simulation, известной по другому похожему проекту - FEATool Multiphysics.
+У расширения есть свой графический интефейс, оно умеет читать CAD геометрию и строить сетки. Правда по расчетным возможностям это пока только стиционарные течения несжимаемых жидкостей и нестационарные задачи тепломассообмена.
+Учебное видео по теме присутствует&lt;/p&gt;
+&lt;p&gt;Для работы системе нужен MATLAB R2011b
+Полезные ссылки по теме:
+&lt;a href=&#34;https://www.cfdtool.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cfdtool.com&lt;/a&gt;
+&lt;a href=&#34;https://www.mathworks.com/matlabcentral/fileexchange/68411-cfdtool-matlab-cfd-toolbox&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.mathworks.com/matlabcentral/fileexchange/68411-cfdtool-matlab-cfd-toolbox&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#CFD #CFDTool #FEATool #MATLAB #PreciseSimulation
+&lt;a href=&#34;http://bit.ly/2KISLrF&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2KISLrF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cfdtool.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CFDTool - CFD Simulation Made Easy&lt;/a&gt;
+&lt;a href=&#34;https://www.mathworks.com/matlabcentral/fileexchange/68411-cfdtool-matlab-cfd-toolbox&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.mathworks.com/matlabcentral/fileexchange/68411-cfdtool-matlab-cfd-toolbox&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2KISLrF&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2KISLrF&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>FEATool Multiphysics 1.8 теперь дружит с OpenFOAM</title>
-      <link>http://localhost:1313/posts/2018-05-25-featool-multiphysics-18-teper-druzhit-s/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-25-featool-multiphysics-18-teper-druzhit-s/</link>
       <pubDate>Fri, 25 May 2018 18:00:56 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-05-25-featool-multiphysics-18-teper-druzhit-s/</guid>
-      <description>&lt;p&gt;Пакет для КЭ нанализа на FEATool Multiphysics — это открытый и бесплатный код, работающий опверх MATLAB. Теперь он адаптировался еще и под открытый и бесплатный GNU Octave.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-25-featool-multiphysics-18-teper-druzhit-s/</guid>
+      <description>&lt;p&gt;FEATool Multiphysics 1.8 теперь дружит с OpenFOAM&lt;/p&gt;
+&lt;p&gt;Пакет для КЭ нанализа на FEATool Multiphysics — это открытый и бесплатный код, работающий опверх MATLAB. Теперь он адаптировался еще и под открытый и бесплатный GNU Octave.
 Кроме того, основной фишкой нового релиза стала интеграция OpenFOAM и даже создание GUI для этого дела. Теперь прямо из интерфейса FEATool можно готовить и ставить задачи не только для их собстенного КЭ решателя, но и для OpenFOAM, и для FEniCS.&lt;/p&gt;
 &lt;p&gt;Ну и до кучи, в ПО докинули новый функционал по работе с STL геометрией, получившей всеобщую популятность на волне развития аддитивных технологий.
 &lt;a href=&#34;https://www.featool.com/news/2018/05/17/FEATool-v1p8-with-OpenFOAM-Matlab-CFD-Solver-Interface.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/news/2018/05/17/FEATool-v1p8-with-OpenFOAM-Matlab-CFD-Solver-Interface.html&lt;/a&gt;
 #FEATool #FEniCS #MATLAB #Octave #Open Source #OpenFOAM #STL&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Ry&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Ry&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.featool.com/news/2018/05/17/FEATool-v1p8-with-OpenFOAM-Matlab-CFD-Solver-Interface.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FEATool 1.8 - OpenFOAM MATLAB CFD Solver and GUI Interface&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-1Ry&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Ry&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>EASA - это специализированная платформа для создания интерак</title>
-      <link>http://localhost:1313/posts/2017-12-12-easa-eto-spetsializirovannaya-platforma/</link>
+      <title>Топологическая оптимизация в FEATool</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-21-topologicheskaya-optimizatsiya-v-featool/</link>
+      <pubDate>Wed, 21 Feb 2018 18:01:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-21-topologicheskaya-optimizatsiya-v-featool/</guid>
+      <description>&lt;p&gt;Топологическая оптимизация в FEATool
+В связке FEATool Multiphysics + Matlab или Octave оказывается доступна оптимизация топологии.
+Шинтаро Ямасаки (Shintaro Yamasaki) из университета Осаки (Osaka University) подготовил учебный пример по тому, как можно решить задачу оптимизации топологии. К сожалению, статья описывающая постановку платная: https://link.springer.com/article/10.1007%2Fs00158-010-0562-2, однако ссылка на сам m-script, выполняющий тестовый пример в FEATool, публично доступна: http://www.featool.com/download/optexec.m&lt;/p&gt;
+&lt;p&gt;По материалам: &lt;a href=&#34;http://www.featool.com/tutorial/2018/02/20/Topology-Optimization-Modeling-Example.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.featool.com/tutorial/2018/02/20/Topology-Optimization-Modeling-Example.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/article/10.1007%2Fs00158-010-0562-2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://link.springer.com/article/10.1007%2Fs00158-010-0562-2&lt;/a&gt;
+&lt;a href=&#34;http://www.featool.com/download/optexec.m&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.featool.com/download/optexec.m&lt;/a&gt;
+&lt;a href=&#34;http://www.featool.com/tutorial/2018/02/20/Topology-Optimization-Modeling-Example.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.featool.com/tutorial/2018/02/20/Topology-Optimization-Modeling-Example.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EASA - это специализированная платформа для создания интерактивных рабочих методик, связывающих в рабочие цепочки набор различного вычислительного ПО. #EASA уже много лет решает понятную задачу: не всем нежно уметь пользоваться сложным софтом - пусть кто-то один все настроит, а остальные будут пользоваться его проектом.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-12-easa-eto-spetsializirovannaya-platforma/</link>
       <pubDate>Tue, 12 Dec 2017 17:02:43 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-12-12-easa-eto-spetsializirovannaya-platforma/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-12-easa-eto-spetsializirovannaya-platforma/</guid>
       <description>&lt;p&gt;Так EASA может связать в единую цепочку такие системы, как #Excel, #Salesforce, Visual Basic, #MATLAB, #ANSYS, #Python и все, что имеет внятный API или CMD.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16084/Link-Almost-Any-CAE-and-Design-Software-Tool-into-an-App-With-EASA.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16084/Link-Almost-Any-CAE-and-Design-Software-Tool-into-an-App-With-EASA.aspx&lt;/a&gt; 🔗 Link Almost Any CAE and Design Software Tool into an App With EASA ? ENGINEERING.com&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2BaEWkD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2BaEWkD&lt;/a&gt;
+&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16084/Link-Almost-Any-CAE-and-Design-Software-Tool-into-an-App-With-EASA.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16084/Link-Almost-Any-CAE-and-Design-Software-Tool-into-an-App-With-EASA.aspx&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Большая статья от #Comsol, про то, как #HARMAN при помощи их решателя и #Livelink для #MATLAB считать акустику внутри салона автомобиля.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-01-bolshaya-statya-ot-comsol-pro-to-kak/</link>
+      <pubDate>Fri, 01 Dec 2017 17:21:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-01-bolshaya-statya-ot-comsol-pro-to-kak/</guid>
+      <description>&lt;p&gt;Приятно почитать.
+&lt;a href=&#34;https://geektimes.ru/company/comsol/blog/295287/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://geektimes.ru/company/comsol/blog/295287/&lt;/a&gt; 🔗 Виртуальное проектирование и настройка автомобильной аудиосистемы: опыт компании HARMAN&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2zW39eU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zW39eU&lt;/a&gt;
+&lt;a href=&#34;https://geektimes.ru/company/comsol/blog/295287/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://geektimes.ru/company/comsol/blog/295287/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Статья-инструкция о том, как решить задачу парметрической оптимизации конструкции используя решатели #FEATool, сеточные генератор #Gmsh и #Matlab</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-28-statya-instruktsiya-o-tom-kak-reshit-zada/</link>
+      <pubDate>Tue, 28 Nov 2017 17:18:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-28-statya-instruktsiya-o-tom-kak-reshit-zada/</guid>
+      <description>&lt;p&gt;#optimization #opensource&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.featool.com/tutorial/2017/11/13/CAD-Import-and-Parametric-Stress-Displacement-Simulation.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/tutorial/2017/11/13/CAD-Import-and-Parametric-Stress-Displacement-Simulation.html&lt;/a&gt; 🔗 Parametric FEATool Multiphysics FEM Studies with Gmsh and CAD File Import&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2yt2ZXH&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yt2ZXH&lt;/a&gt;
+&lt;a href=&#34;https://www.featool.com/tutorial/2017/11/13/CAD-Import-and-Parametric-Stress-Displacement-Simulation.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/tutorial/2017/11/13/CAD-Import-and-Parametric-Stress-Displacement-Simulation.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#QuickerSim CFD Toolbox for MATLAB (http://ift.tt/2yJRJJf) - набор инструментов для выполнения #CFD расчетов средствами #MATLAB.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-18-quickersim-cfd-toolbox-for-matlab-http/</link>
+      <pubDate>Sat, 18 Nov 2017 11:20:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-18-quickersim-cfd-toolbox-for-matlab-http/</guid>
+      <description>&lt;p&gt;Стоит не дорого (для учебных целей - вообще бесплатно). На мой взгляд - это отличный инструмент для проведения лабораторных занятий в вузах.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/kfCsSIxprFgMediaMedia&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/kfCsSIxprFgMediaMedia&lt;/a&gt;🔗 Home - QuickerSim&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2zfa56B&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zfa56B&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/kfCsSIxprFg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/kfCsSIxprFg&lt;/a&gt;
+&lt;a href=&#34;https://quickersim.com/cfdtoolbox/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://quickersim.com/cfdtoolbox/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Очень много вебинаров по расчету усталостей прочности в #Matlab</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-11-ochen-mnogo-vebinarov-po-raschetu-ustalos/</link>
+      <pubDate>Wed, 11 Oct 2017 18:33:12 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-11-ochen-mnogo-vebinarov-po-raschetu-ustalos/</guid>
+      <description>&lt;p&gt;#FatigueMedia🔗 Fatigue Analysis Webinars&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2i5bPYk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i5bPYk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2i5c3Pa&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i5c3Pa&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2gwaq9N&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2gwaq9N&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2i5bPri&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i5bPri&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2gvKz1B&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2gvKz1B&lt;/a&gt;
+ttp://ift.tt/2i5bPYk&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Python FEM и многодисциплинарные расчеты  в FEniCS и FEATool</title>
-      <link>http://localhost:1313/posts/2017-06-21-python-fem-i-mnogodistsiplinarnye-raschety/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-21-python-fem-i-mnogodistsiplinarnye-raschety/</link>
       <pubDate>Wed, 21 Jun 2017 17:00:59 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-06-21-python-fem-i-mnogodistsiplinarnye-raschety/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-21-python-fem-i-mnogodistsiplinarnye-raschety/</guid>
+      <description>&lt;p&gt;Python FEM и многодисциплинарные расчеты  в FEniCS и FEATool
+&lt;a href=&#34;https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#FEATool, который позволяет решать задачи методом конечных элементов (#МКЭ) на базе #Matlab, начали взаимодействовать с проектом #FEniCS, который также занимается решением задач в МКЭ припомни #Python и C++. Теперь FEniCS дочтен прямо в GUI FEATool.&lt;/p&gt;
 &lt;p&gt;Говорят, что FEniCS протестирован для работы со СЛАУ размерности 100 миллионов уравнений, а также может работать на 512 CPUs, используя как #MPI, так и #OpenMP. А это существенно больше того, что сейчас может решать FEATool.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FEniCS Python FEM Solver and Multiphysics GUI with FEATool&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Расчет усталости (почти) бесплатно</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-07-raschet-ustalosti-pochti-besplatno/</link>
+      <pubDate>Tue, 07 Mar 2017 17:03:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-07-raschet-ustalosti-pochti-besplatno/</guid>
+      <description>&lt;p&gt;Расчет усталости (почти) бесплатно
+&lt;a href=&#34;http://fatiguetoolbox.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://fatiguetoolbox.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Fatlab -  бесплатный софт для расчета усталостной прочности и долговечности с открытым исходным кодом. Написан на основе #Matlab, а модели получает из #ANSYS.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://fatiguetoolbox.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://fatiguetoolbox.org/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scilab куплен</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-05-scilab-kuplen/</link>
+      <pubDate>Sun, 05 Mar 2017 12:04:37 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-05-scilab-kuplen/</guid>
+      <description>&lt;p&gt;Scilab куплен
+&lt;a href=&#34;https://www.esi-group.com/company/investors/news/acquisition-scilab-enterprises-publisher-scilab-open-source-analytical-computational-software&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.esi-group.com/company/investors/news/acquisition-scilab-enterprises-publisher-scilab-open-source-analytical-computational-software&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;На днях #ESI Group анонсировал поглощение компании Scilab Enterprises SAS  - разработчик #Scilab. Для тех, кто не в курсе, Scilab (&lt;a href=&#34;http://www.scilab.org/scilab/about&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.scilab.org/scilab/about&lt;/a&gt;) - это бесплатный аналог #Matlab с открытым исходным кодом. У ПО есть сборки под все операционные системы. А аналогом Matlab его называют за умение в большинстве случаев интерпретировать код, созданный для Matlab.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.esi-group.com/company/investors/news/acquisition-scilab-enterprises-publisher-scilab-open-source-analytical-computational-software&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Acquisition of Scilab Enterprises, publisher of Scilab open source analytical computational software&lt;/a&gt;
+&lt;a href=&#34;http://www.scilab.org/scilab/about&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.scilab.org/scilab/about&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Управляя Fluent</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-03-upravlyaya-fluent/</link>
+      <pubDate>Fri, 03 Mar 2017 17:03:06 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-03-upravlyaya-fluent/</guid>
+      <description>&lt;p&gt;Управляя Fluent
+&lt;a href=&#34;http://www.ansys-blog.com/ansys-fluent-matlab-example/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/ansys-fluent-matlab-example/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS #Fluent - убер решатель #CFD, но иногда и им надо управлять. В своем блоге ANSYS приводит пример кода для внешнего управления по средствам #Matlab! Интересно, чем им #Python не угодил?!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys-blog.com/ansys-fluent-matlab-example/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;The (Technical) Kindness of ANSYS Fluent aaS, a Matlab Example&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Немного аналитических выкладок в SciPy</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-24-nemnogo-analiticheskih-vykladok-v-scipy/</link>
+      <pubDate>Sat, 24 Dec 2016 17:01:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-24-nemnogo-analiticheskih-vykladok-v-scipy/</guid>
+      <description>&lt;p&gt;Немного аналитических выкладок в SciPy
+&lt;a href=&#34;http://www.scipy-lectures.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.scipy-lectures.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;У могучего и популярного языка программирования #Python уже давно существует фреймворк #SciPy позволяющий бесплатно делать очень многое для научных расчетов, для чего раньше использовали дорогие и громоздкие #Matlab, #Mathematica или #Maple.&lt;/p&gt;
+&lt;p&gt;Но как любой продукт того класса, SciPy надо изучать, а для этого нужно хорошее учебное пособие. Для изучения SciPy мне приглянулся сайт-учебныик &lt;a href=&#34;http://www.scipy-lectures.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.scipy-lectures.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;На сайте расскажут про такие модули/библиотека, как:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#NumPy&lt;/li&gt;
+&lt;li&gt;#Matplotlib&lt;/li&gt;
+&lt;li&gt;#CPython&lt;/li&gt;
+&lt;li&gt;#SymPy&lt;/li&gt;
+&lt;li&gt;#Mayavi&lt;/li&gt;
+&lt;li&gt;и многое другое.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;P.S. Весь сайт можно скачать в виде PDF, есть учебные пример, есть репозиторий на #GitHub&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://scipy-lectures.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://scipy-lectures.org/&lt;/a&gt;
+&lt;a href=&#34;http://www.scipy-lectures.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.scipy-lectures.org/&lt;/a&gt;
+&lt;a href=&#34;http://www.scipy-lectures.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.scipy-lectures.org&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CFD от FEATool</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-21-cfd-ot-featool/</link>
+      <pubDate>Mon, 21 Nov 2016 17:01:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-21-cfd-ot-featool/</guid>
+      <description>&lt;p&gt;CFD от FEATool
+&lt;a href=&#34;https://www.featool.com/tutorial/2016/11/14/Easy-Matlab-CFD-FeatFlow-external-CFD-solver-with-FEATool-integration&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/tutorial/2016/11/14/Easy-Matlab-CFD-FeatFlow-external-CFD-solver-with-FEATool-integration&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#FEATool - #КЭ код работающий в рамках #Matlab получил интеграцию с #CFD кодом #FeatFlow. Последний является КЭ кодом для решения CFD в несжимаемой постановке. Говорят, что благодаря использованию библиотеки #UMFPACK от Matlab решатель FeatFlow работает не хуже #ANSYS #CFX и #OpenFOAM.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/VSZ6o-eTlU0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/VSZ6o-eTlU0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.featool.com/tutorial/2016/11/14/Easy-Matlab-CFD-FeatFlow-external-CFD-solver-with-FEATool-integration&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FeatFlow - Fast External CFD Solver Integration with FEATool&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/VSZ6o-eTlU0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/VSZ6o-eTlU0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CALFEM - не путать с CADFEM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-12-calfem-ne-putat-s-cadfem/</link>
+      <pubDate>Sat, 12 Nov 2016 12:03:35 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-12-calfem-ne-putat-s-cadfem/</guid>
+      <description>&lt;p&gt;CALFEM - не путать с CADFEM
+&lt;a href=&#34;https://github.com/CALFEM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/CALFEM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#CALFEM (Computer Aided Learning of the Finite Element Method) - набор инструментов с открытым исходным текстом для изучения работы #МКЭ. CALFEM разработан в университете города Лунд (Lund), Швеция (Sweden) и может быт скачан с #GitHub. Имеются реализации для #Matlab, #Python, и C#.&lt;/p&gt;
+&lt;p&gt;#opensource
+&lt;a href=&#34;https://github.com/CALFEM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/CALFEM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/CALFEM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CALFEM&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Связка Adams-Matlab для промышленных роботов</title>
-      <link>http://localhost:1313/posts/2016-09-02-svyazka-adams-matlab-dlya-promyshlennyh-rob/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-02-svyazka-adams-matlab-dlya-promyshlennyh-rob/</link>
       <pubDate>Fri, 02 Sep 2016 06:30:22 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-09-02-svyazka-adams-matlab-dlya-promyshlennyh-rob/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ztnliqfcvgo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ztnliqfcvgo&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-02-svyazka-adams-matlab-dlya-promyshlennyh-rob/</guid>
+      <description>&lt;p&gt;Связка Adams-Matlab для промышленных роботов
+&lt;a href=&#34;https://www.youtube.com/watch?v=ztnliqfcvgo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ztnliqfcvgo&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Получасовой вебинар от #MSC, посвященный взаимодействию #Adams и #Matlab, если вам не хватает Easy5&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ztnliqfcvgo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Adams-Matlab Cosimulation for Industrial Robot Analysis&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>#ANSYS #ACP (который #Composite #PrepPost) в 17-ой версии по</title>
-      <link>http://localhost:1313/posts/2016-05-29-ansys-acp-kotoryy-composite-preppos/</link>
+      <title>Совсем недавно #NIMBIX (один из самых крутых владельцев облачных ресурсво для численного моделирования физических процессов) объявил, что в их облаке со знакомым все фанатам Железного человека названием #JARVICE повился #MATLAB.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-24-sovsem-nedavno-nimbix-odin-iz-samyh-kr/</link>
+      <pubDate>Sun, 24 Jul 2016 13:00:03 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-24-sovsem-nedavno-nimbix-odin-iz-samyh-kr/</guid>
+      <description>&lt;p&gt;Теперь по запросу можно использовать его на всей предоставляемой мощи, включая #GPU.
+#HPC #Cloud
+&lt;a href=&#34;http://lnk.al/1U4g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1U4g&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lnk.al/1U4g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MATLAB is now available on demand on JARVICE!&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Представляю вам молодую компанию Precise Simulation Ltd. - разработчика #FEATool для #MATLAB о котором я писал немногим ранее.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-17-predstavlyayu-vam-moloduyu-kompaniyu-precise/</link>
+      <pubDate>Sun, 17 Jul 2016 13:00:06 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-17-predstavlyayu-vam-moloduyu-kompaniyu-precise/</guid>
+      <description>&lt;p&gt;Компания основана в 2012 году, и уже сдалал такой интересных продукт.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lnk.al/1FTe&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FEATool Multiphysics&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Зналил ли вы, что #MATLAB  тоже умеет выполнять расчеты методом коненых элеметнов?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-17-znalil-li-vy-chto-matlab-tozhe-umeet-vy/</link>
+      <pubDate>Sun, 17 Jul 2016 08:00:02 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-17-znalil-li-vy-chto-matlab-tozhe-umeet-vy/</guid>
+      <description>&lt;p&gt;Вышедшая невадно версия 2016a имеет обновленный модуль #FEATool спосбный рашеть 3D задачи FEM и даже CFD!&lt;/p&gt;
+&lt;p&gt;Более побродно о возможностях вы можете узнать в статье по ссылке. &lt;a href=&#34;http://lnk.al/1FT3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1FT3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lnk.al/1FT3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FEM Multiphysics Simulation for MATLAB!? &amp;gt; ENGINEERING.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#ANSYS в своем блоге рассказали как скрепить их #Fluent, #Mechanical #APDL или #Workbench с #MATLAB.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-14-ansys-v-svoem-bloge-rasskazali-kak-skre/</link>
+      <pubDate>Thu, 14 Jul 2016 06:30:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-14-ansys-v-svoem-bloge-rasskazali-kak-skre/</guid>
+      <description>&lt;p&gt;В академической среде пригодиться.&lt;/p&gt;
+&lt;p&gt;P.S. Среди #ACT расширений для ANSYS уже давно есть такое, которое позволяет встраивать MATLAB в схематизму проекта в качестве движка оптимизации и параметрических исследований. &lt;a href=&#34;http://www.ansys-blog.com/how-to-make-matlab-apps-for-ansys/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/how-to-make-matlab-apps-for-ansys/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys-blog.com/how-to-make-matlab-apps-for-ansys/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys | Engineering Simulation Software&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#ANSYS #ACP (который #Composite #PrepPost) в 17-ой версии получил интеграцию с программным обеспечением #BECAS (BEam Cross section Analysis Software), широко применяемым при моделировании лопастей ветрогенераторов.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-29-ansys-acp-kotoryy-composite-preppos/</link>
       <pubDate>Sun, 29 May 2016 09:14:41 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-05-29-ansys-acp-kotoryy-composite-preppos/</guid>
-      <description>&lt;p&gt;Сам BECAS распространяется, в исходных кодах (для #MATLAB !!!) или в скомпилированном виде и доступен бесплатно для научно-исследовательской (не коммерческой) деятельности.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-29-ansys-acp-kotoryy-composite-preppos/</guid>
+      <description>&lt;p&gt;Данная комбинация программ позволяет создать балочные модели на основе набора печений оболочечных композиционных моделей.&lt;/p&gt;
+&lt;p&gt;Сам BECAS распространяется, в исходных кодах (для #MATLAB !!!) или в скомпилированном виде и доступен бесплатно для научно-исследовательской (не коммерческой) деятельности.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.becas.dtu.dk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;BECAS&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

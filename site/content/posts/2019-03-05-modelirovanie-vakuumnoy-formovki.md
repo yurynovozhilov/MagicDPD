@@ -22,7 +22,9 @@ images:
 
 
 
-https://player.vimeo.com/video/296632632
+~~https://player.vimeo.com/video/296632632~~ → [Сохранённая версия](http://web.archive.org/web/20220430051308/https://player.vimeo.com/video/296632632)
+
+*Оригинальная ссылка больше не доступна*
 
 
 
@@ -53,7 +55,9 @@ https://wp.me/p9vWYY-2ng
 
 by Юрий Новожилов
 
-https://player.vimeo.com/video/296632632
+~~https://player.vimeo.com/video/296632632~~ → [Сохранённая версия](http://web.archive.org/web/20220430051308/https://player.vimeo.com/video/296632632)
+
+*Оригинальная ссылка больше не доступна*
 https://www.youtube.com/watch?v=zrlK6sHGoQs
 https://www.youtube.com/watch?v=LQp4HyAVpMY
 https://pdfs.semanticscholar.org/b893/97cb9904b3c94e3f701af0e4a4f640a5306a.pdf

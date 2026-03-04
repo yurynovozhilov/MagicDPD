@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meshio on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/meshio/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Meshio)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 16 Jan 2019 17:01:29 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/meshio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>meshio — конвертор сеток на Python</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-16-meshio-konvertor-setok-na-python/</link>
+      <pubDate>Wed, 16 Jan 2019 17:01:29 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-16-meshio-konvertor-setok-na-python/</guid>
+      <description>&lt;p&gt;meshio — конвертор сеток на Python&lt;/p&gt;
+&lt;p&gt;На сей раз нас ждет более современный корвертор сетки. В отличии от FEconv, проект meshio написан на Python 3, а не на архаичном Fortran. Да и собирать его не надо, что также облегчает использование — просто выполните команду «pip3 install -U meshio», и все готово к использованию на любой операционной системе.
+meshio поддерживает работу со следующими форматами CAE сеток:&lt;/p&gt;
+&lt;p&gt;Abaqus
+ANSYS msh
+DOLFIN XML
+Exodus
+H5M
+Kratos/MDPA
+Medit
+MED/Salome
+Gmsh (versions 2 and 4)
+OFF
+PERMAS
+STL
+SVG (2D only, output only)
+VTK
+VTU
+XDMF&lt;/p&gt;
+&lt;p&gt;#mesh #meshio #Open_Source #Python&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2eQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2eQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2eQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2eQ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

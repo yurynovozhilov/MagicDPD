@@ -2,24 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OpenMP on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/openmp/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/openmp/</link>
     <description>MagicDPD: Magic Driven Product Development! (OpenMP)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 21 Jun 2017 17:00:59 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/openmp/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/openmp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Python FEM и многодисциплинарные расчеты  в FEniCS и FEATool</title>
-      <link>http://localhost:1313/posts/2017-06-21-python-fem-i-mnogodistsiplinarnye-raschety/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-21-python-fem-i-mnogodistsiplinarnye-raschety/</link>
       <pubDate>Wed, 21 Jun 2017 17:00:59 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-06-21-python-fem-i-mnogodistsiplinarnye-raschety/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-21-python-fem-i-mnogodistsiplinarnye-raschety/</guid>
+      <description>&lt;p&gt;Python FEM и многодисциплинарные расчеты  в FEniCS и FEATool
+&lt;a href=&#34;https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#FEATool, который позволяет решать задачи методом конечных элементов (#МКЭ) на базе #Matlab, начали взаимодействовать с проектом #FEniCS, который также занимается решением задач в МКЭ припомни #Python и C++. Теперь FEniCS дочтен прямо в GUI FEATool.&lt;/p&gt;
 &lt;p&gt;Говорят, что FEniCS протестирован для работы со СЛАУ размерности 100 миллионов уравнений, а также может работать на 512 CPUs, используя как #MPI, так и #OpenMP. А это существенно больше того, что сейчас может решать FEATool.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FEniCS Python FEM Solver and Multiphysics GUI with FEATool&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenSBLI</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-11-opensbli/</link>
+      <pubDate>Sun, 11 Jun 2017 17:00:37 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-11-opensbli/</guid>
+      <description>&lt;p&gt;OpenSBLI
+&lt;a href=&#34;https://opensbli.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://opensbli.github.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Сегодня в меню у нас #python фреймворк разработанный для моделирования процесса взаимодействия скачка уплотнения с пограничным слоем (#SBLI, Shock-Boundary Layer Interactions) в рамках решения уравнения Навье-Стокса с учетом сжимаемости течения. Фреймворк генерирует на выходе код на языке Си, который уже выполняет расчеты. При этом, получаемый код может быть оптимизирован для исполнения на  #GPU с #CUDA или #OpenCL, а также он знает про технологии #MPI и #OpenMP.&lt;/p&gt;
+&lt;p&gt;Гремучая смесь для тех, кто знает, что делает.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Ob4NKZgUK3U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Ob4NKZgUK3U&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://opensbli.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://opensbli.github.io/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=Ob4NKZgUK3U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Ob4NKZgUK3U&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -2,53 +2,97 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Delcross on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/delcross/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/delcross/</link>
     <description>MagicDPD: Magic Driven Product Development! (Delcross)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Mon, 05 Feb 2018 18:00:26 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/delcross/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/delcross/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Подробности о расчете  эффективной отражающей площади объект</title>
-      <link>http://localhost:1313/posts/2018-02-05-podrobnosti-o-raschete-effektivnoy-otrazh/</link>
+      <title>Подробности о расчете  эффективной отражающей площади объекта в HFSS SBR&#43;</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-05-podrobnosti-o-raschete-effektivnoy-otrazh/</link>
       <pubDate>Mon, 05 Feb 2018 18:00:26 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-02-05-podrobnosti-o-raschete-effektivnoy-otrazh/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-05-podrobnosti-o-raschete-effektivnoy-otrazh/</guid>
       <description>&lt;p&gt;Одним из наиболее значимых нововведений 19-ого релиза ANSYS стала возможность рассчитывать эффективную отражающую площадь объекта при помощи решателя SBR+, вошедшего в состав HFSS.&lt;/p&gt;
 &lt;p&gt;Эффекти́вная пло́щадь рассе́яния (ЭПР; &lt;a title=&#34;Английский язык&#34; href=&#34;https://ru.wikipedia.org/wiki/90BDB3BBB8B981BAB8B9_8FB78BBA&#34;&gt;англ.&lt;/a&gt; &lt;span lang=&#34;en&#34; xml:lang=&#34;en&#34;&gt;radar cross-section, RCS&lt;/span&gt;; в некоторых источниках — эффективная пове́рхность рассеяния, эффективный попере́чник рассеяния, эффективная отража́ющая площадь, ЭОП) в &lt;a title=&#34;Радиолокация&#34; href=&#34;https://ru.wikipedia.org/wiki/A0B0B4B8BEBBBEBAB086B88F&#34;&gt;радиолокации&lt;/a&gt; — площадь некоторой фиктивной плоской поверхности, расположенной нормально к направлению падающей &lt;a title=&#34;Плоская волна&#34; href=&#34;https://ru.wikipedia.org/wiki/9FBBBE81BAB08F_B2BEBBBDB0&#34;&gt;плоской волны&lt;/a&gt; и являющейся идеальным и изотропным переизлучателем, которая, будучи помещена в точку расположения цели, создаёт в месте расположения &lt;a title=&#34;Антенна&#34; href=&#34;https://ru.wikipedia.org/wiki/90BD82B5BDBDB0&#34;&gt;антенны&lt;/a&gt; &lt;a title=&#34;Радиолокационная станция&#34; href=&#34;https://ru.wikipedia.org/wiki/A0B0B4B8BEBBBEBAB086B8BEBDBDB08F_8182B0BD86B88F&#34;&gt;радиолокационной станции&lt;/a&gt; ту же &lt;a title=&#34;Вектор Пойнтинга&#34; href=&#34;https://ru.wikipedia.org/wiki/92B5BA82BE80_9FBEB9BD82B8BDB3B0&#34;&gt;плотность потока мощности&lt;/a&gt;, что и реальная цель&lt;sup id=&#34;cite_ref-1&#34; class=&#34;reference&#34;&gt;&lt;a href=&#34;https://ru.wikipedia.org/wiki/AD8484B5BA82B8B2BDB08F_BFBBBE89B0B48C_80B08181B58FBDB88F#cite_note-1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;. Решатель SBR+ достался HFSS в результате покупки компании Delcross - это был один из решателей в Savant. SBR+ позволяет HFSS выполнять расчет эффективной площади рассеяния с использованием специализированных эмпирических методик (раньше был доступен только &amp;ldquo;честный расчет&amp;rdquo;).&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=KtEdoEOay8U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=KtEdoEOay8U&lt;/a&gt;
 #ANSYS #Delcross #HFSS #RCS #Savant #SBR+
+&lt;a href=&#34;https://wp.me/p9vWYY-1BE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1BE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ru.wikipedia.org/wiki/90BDB3BBB8B981BAB8B9_8FB78BBA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/90BDB3BBB8B981BAB8B9_8FB78BBA&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/A0B0B4B8BEBBBEBAB086B88F&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/A0B0B4B8BEBBBEBAB086B88F&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/9FBBBE81BAB08F_B2BEBBBDB0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/9FBBBE81BAB08F_B2BEBBBDB0&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/90BD82B5BDBDB0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/90BD82B5BDBDB0&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/A0B0B4B8BEBBBEBAB086B8BEBDBDB08F_8182B0BD86B88F&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/A0B0B4B8BEBBBEBAB086B8BEBDBDB08F_8182B0BD86B88F&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/92B5BA82BE80_9FBEB9BD82B8BDB3B0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/92B5BA82BE80_9FBEB9BD82B8BDB3B0&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/AD8484B5BA82B8B2BDB08F_BFBBBE89B0B48C_80B08181B58FBDB88F#cite_note-1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/AD8484B5BA82B8B2BDB08F_BFBBBE89B0B48C_80B08181B58FBDB88F#cite_note-1&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=KtEdoEOay8U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=KtEdoEOay8U&lt;/a&gt;
 &lt;a href=&#34;https://wp.me/p9vWYY-1BE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1BE&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Что бы понять, чем занимается новоприобретенная ANSYS компан</title>
-      <link>http://localhost:1313/posts/2015-09-15-chto-by-ponyat-chem-zanimaetsya-novopriobr/</link>
+      <title>Обзор возможностей #ANSYS #HFSS #SBR&#43;, который получился из #Delcross #Savant, для решение больших задач!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-22-obzor-vozmozhnostey-ansys-hfss-sbr&#43;-k/</link>
+      <pubDate>Sun, 22 May 2016 07:00:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-22-obzor-vozmozhnostey-ansys-hfss-sbr&#43;-k/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=h1ailtfbneo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Solve Large-Scale Problems in a Connected World with HFSS SBR+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Отличный семинар по #ANSYS #HFSS в частности и #EM направлению в целом проведенный в Стэнфордском суперкомпьютерном центре.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-17-otlichnyy-seminar-po-ansys-hfss-v-chastn/</link>
+      <pubDate>Thu, 17 Dec 2015 06:30:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-17-otlichnyy-seminar-po-ansys-hfss-v-chastn/</guid>
+      <description>&lt;p&gt;Стало понятно, зачем нужны продукты #Delcross. Рассказали про #IoT и его проблемы. И в конце ооочень много примеров применения.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Ha1MHxuwGvg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;HPC Seminar Series ~ Simulation for IoT: A multi-physics approach for a wearable IoT Device&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Наш спец по радиофизике и высокочастотному электромагнетизму рассказывает, что же именно получил #ANSYS приобретя #Delcross</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-21-nash-spets-po-radiofizike-i-vysokochastotno/</link>
+      <pubDate>Sat, 21 Nov 2015 18:00:33 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-21-nash-spets-po-radiofizike-i-vysokochastotno/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8-delcross-%D0%BD%D0%B0-%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B5-ansys-alexander-kruglov&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Технологии Delcross на службе ANSYS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Что бы понять, чем занимается новоприобретенная ANSYS компания Delcross можно посмотреть, для примера, вебинар по проектированию радаров для автомобильной промышленности.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-15-chto-by-ponyat-chem-zanimaetsya-novopriobr/</link>
       <pubDate>Tue, 15 Sep 2015 07:00:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-09-15-chto-by-ponyat-chem-zanimaetsya-novopriobr/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-15-chto-by-ponyat-chem-zanimaetsya-novopriobr/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://delcross.com/webinar-simulating-automotive-radars/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Webinar: Simulating the Installed Performance of Automotive Radar Systems - Delcross Technologies&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Перед сном: часовой обзор расчетных возможностей новых приоб</title>
-      <link>http://localhost:1313/posts/2015-09-13-pered-snom-chasovoy-obzor-raschetnyh-vozm/</link>
+      <title>Перед сном: часовой обзор расчетных возможностей новых приобретений ANSYS - продуктов EMIT, Savant и Sina от компнаии Delcross Technologies</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-13-pered-snom-chasovoy-obzor-raschetnyh-vozm/</link>
       <pubDate>Sun, 13 Sep 2015 17:00:16 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-09-13-pered-snom-chasovoy-obzor-raschetnyh-vozm/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-13-pered-snom-chasovoy-obzor-raschetnyh-vozm/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nlIr1daoL8k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Fast and Accurate Simulation of Installed Antenna Performance&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>ANSYS никак не может остановиться с покупками других компани</title>
-      <link>http://localhost:1313/posts/2015-09-07-ansys-nikak-ne-mozhet-ostanovitsya-s-poku/</link>
+      <title>ANSYS никак не может остановиться с покупками других компаний.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-07-ansys-nikak-ne-mozhet-ostanovitsya-s-poku/</link>
       <pubDate>Mon, 07 Sep 2015 19:00:47 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-09-07-ansys-nikak-ne-mozhet-ostanovitsya-s-poku/</guid>
-      <description>&lt;p&gt;Данный набор программного обеспечения решает задачи возникающие в радиофизике и немного пересекается с областью HFSS. Однако ANSYS позиционирует решения Delcross для расчетов вокруг базворда IoT (Internet of Things, Интернет вещей), когда необходимо организовать взаимодействие великого множества всякой электроники в замкнутом пространстве (порядка квартиры или дома) по высокочастотному радиоканалу (Bluetooth, WiFi, ZigBee).&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-07-ansys-nikak-ne-mozhet-ostanovitsya-s-poku/</guid>
+      <description>&lt;p&gt;Оказывается 2 сентября ANSYS приобрел компанию Delcross Technologies, разработчика одноименного продуктов EMIT, Savant и Sina.&lt;/p&gt;
+&lt;p&gt;Данный набор программного обеспечения решает задачи возникающие в радиофизике и немного пересекается с областью HFSS. Однако ANSYS позиционирует решения Delcross для расчетов вокруг базворда IoT (Internet of Things, Интернет вещей), когда необходимо организовать взаимодействие великого множества всякой электроники в замкнутом пространстве (порядка квартиры или дома) по высокочастотному радиоканалу (Bluetooth, WiFi, ZigBee).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/10624/ANSYS-Acquires-Electromagnetics-Simulation-Company-to-Improve-IoT-Communication.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt; ANSYS Acquires Electromagnetics Simulation Company to Improve IoT Communication &amp;gt; ENGINEERING.com &lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -1,47 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GISSMO on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/gissmo/</link>
-    <description>MagicDPD: Magic Driven Product Development! (GISSMO)</description>
+    <title>Gissmo on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/gissmo/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Gissmo)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Feb 2022 17:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Apr 2022 17:00:10 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/gissmo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/gissmo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Презентация с обзором моделей накопления повреждений и нелин</title>
-      <link>http://localhost:1313/posts/2022-02-14-prezentatsiya-s-obzorom-modeley-nakopleniya/</link>
-      <pubDate>Mon, 14 Feb 2022 17:00:13 +0000</pubDate>
+      <title>7 апреля шведское подразделение #DYNAmore будет рассказывать про идентификацию параметров для моделей #GISSMO и #DIEM. Данные модели являются стандартами де-факто при расчетах #LSDYNA в автомобильной промышленности. Они подключаются к большинству моделей материалов и позволяют учесть влияние на разупрочнение материала таких параметров, как трехосности, параметр Лоде и неустойчивость пластического течения. Так что подключайтесь к бесплатному мероприятию и впитывайте знания!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-01-7-aprelya-shvedskoe-podrazdelenie-dynamor/</link>
+      <pubDate>Fri, 01 Apr 2022 17:00:10 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-02-14-prezentatsiya-s-obzorom-modeley-nakopleniya/</guid>
-      <description>&lt;p&gt;Среди авторов презентации хотел бы отметить таких заслуженных экспертов, как Neukamm и  Feucht (авторы модели GISSMO), а также DuBois (первый человек выполнивший коммерческий расчет краш теста)&lt;/p&gt;
-&lt;p&gt;#LSDYNA #ANSYS #GISSMO #GURSON #DYNAMORE &lt;a href=&#34;https://www.dynalook.com/conferences/international-conf-2010/a-comparison-of-recent-damage-and-failure-models-for-steel-materials-in-crashworthiness-application-in-ls-dyna&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/conferences/international-conf-2010/a-comparison-of-recent-damage-and-failure-models-for-steel-materials-in-crashworthiness-application-in-ls-dyna&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-01-7-aprelya-shvedskoe-podrazdelenie-dynamor/</guid>
+      <description>&lt;p&gt;#ANSYS #Damage &lt;a href=&#34;https://www.dynamore.se/en/training/seminars/webinars/parameter-identification-for-gissmo-and-diem-damage-models-1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.se/en/training/seminars/webinars/parameter-identification-for-gissmo-and-diem-damage-models-1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dynamore.se/en/training/seminars/webinars/parameter-identification-for-gissmo-and-diem-damage-models-1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.se/en/training/seminars/webinars/parameter-identification-for-gissmo-and-diem-damage-models-1&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Использование модели накопления повреждений GISSMO при расче</title>
-      <link>http://localhost:1313/posts/2021-06-11-ispolzovanie-modeli-nakopleniya-povrezhde/</link>
+      <title>Презентация с обзором моделей накопления повреждений и нелинейного разрушения, применяемых в LS-DYNA при решении задач пассивной безопасности aвтомобилей.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-14-prezentatsiya-s-obzorom-modeley-nakopleniya/</link>
+      <pubDate>Mon, 14 Feb 2022 17:00:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-14-prezentatsiya-s-obzorom-modeley-nakopleniya/</guid>
+      <description>&lt;p&gt;Рассматриваются модели течения по Мизесу (для тех кто только начинает), модель Гурсона с разрушением по критерию Джонсона - Кука и  модель GISSMO (для тех, кто в правду крут).
+Среди авторов презентации хотел бы отметить таких заслуженных экспертов, как Neukamm и  Feucht (авторы модели GISSMO), а также DuBois (первый человек выполнивший коммерческий расчет краш теста)&lt;/p&gt;
+&lt;p&gt;#LSDYNA #ANSYS #GISSMO #GURSON #DYNAMORE &lt;a href=&#34;https://www.dynalook.com/conferences/international-conf-2010/a-comparison-of-recent-damage-and-failure-models-for-steel-materials-in-crashworthiness-application-in-ls-dyna&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/conferences/international-conf-2010/a-comparison-of-recent-damage-and-failure-models-for-steel-materials-in-crashworthiness-application-in-ls-dyna&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dynalook.com/conferences/international-conf-2010/a-comparison-of-recent-damage-and-failure-models-for-steel-materials-in-crashworthiness-application-in-ls-dyna&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/conferences/international-conf-2010/a-comparison-of-recent-damage-and-failure-models-for-steel-materials-in-crashworthiness-application-in-ls-dyna&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Использование модели накопления повреждений GISSMO при расчетах штамповки</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-06-11-ispolzovanie-modeli-nakopleniya-povrezhde/</link>
       <pubDate>Fri, 11 Jun 2021 13:01:47 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-06-11-ispolzovanie-modeli-nakopleniya-povrezhde/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-06-11-ispolzovanie-modeli-nakopleniya-povrezhde/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=2DmR-H0L2Eg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=2DmR-H0L2Eg&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Томас Файстер (Thomas Feister) из EWI очень хорошо и понятно рассказывает про одну из самых передовых моделей накопления повреждений в LS-DYNA - GISSMO. Данная модель позволяет учитывать не только неоднородность напряженно-деформированного состояния, но и общую нелинейность процесса накопления повреждений, а также компенсировать возникающие при загрублении КЭ сетки эффекты. EWI - ведущая инженерно-технологическая компания Северной Америки, занимающаяся вопросами сварки и соединения материалов. Сотрудники EWI оказывают помощь в соединении материалов, проводят контрактные исследования, оказывают консультационные услуги и проводят обучение для почти 2 800 компаний-заказчиков. EWI предоставляет услуги мирового класса для аэрокосмической, автомобильной, оборонной, энергетической и химической, правительственной, тяжелой промышленности, медицинской и электронной отраслей.&lt;/p&gt;
 &lt;p&gt;#ansys #ewi #forming #gissmo #ls-dyna
+&lt;a href=&#34;https://tinyurl.com/yfx9zkdh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfx9zkdh&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=2DmR-H0L2Eg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;GISSMO Damage Modeling in Forming Simulation   Tom Feister&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/yfx9zkdh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfx9zkdh&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Обзор актуальных нововведений в модель GISSMO</title>
-      <link>http://localhost:1313/posts/2020-05-15-obzor-aktualnyh-novovvedeniy-v-model-g/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-05-15-obzor-aktualnyh-novovvedeniy-v-model-g/</link>
       <pubDate>Fri, 15 May 2020 13:00:29 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-05-15-obzor-aktualnyh-novovvedeniy-v-model-g/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-05-15-obzor-aktualnyh-novovvedeniy-v-model-g/</guid>
+      <description>&lt;p&gt;Обзор актуальных нововведений в модель GISSMO&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/recent-developments-in-gissmo/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Обзор актуальных нововведений в модель GISSMO - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

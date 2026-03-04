@@ -2,22 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homogenization on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/homogenization/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/homogenization/</link>
     <description>MagicDPD: Magic Driven Product Development! (Homogenization)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 14 Nov 2017 17:11:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Nov 2018 17:00:31 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/homogenization/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/homogenization/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Среди большого набора #ACT расширений для #ANSYS сегодня я н</title>
-      <link>http://localhost:1313/posts/2017-11-14-sredi-bolshogo-nabora-act-rasshireniy-dl/</link>
+      <title>ANSYS Material Designer</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-26-ansys-material-designer/</link>
+      <pubDate>Mon, 26 Nov 2018 17:00:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-26-ansys-material-designer/</guid>
+      <description>&lt;p&gt;ANSYS Material Designer
+Данная утилита очень здорово дополняет и без того обширные возможности платформы ANSYS по моделированию композитов. ANSYS Material Designer решает задачу подборки рецептуры композиционного материала и получения его эффективных свойств на основе прямой КЭ гомогенизации представительного элемента объема.&lt;/p&gt;
+&lt;p&gt;Что особенно приятно, так это то, что ANSYS одними только композитами не ограничился. Система умеет выдавать эффективные свойства и для ячеистых/сетчатых конструкций (lattice structure), а уже спроектировать конструкцию с lattice structure позволит система оптимизации топологии, идущая в любой механической лицензии на ПО.&lt;/p&gt;
+&lt;p&gt;#AdditiveManufacturing #ANSYS #Composite #Homogenization #LatticeStructure #MaterialDesigner #Optimization #Topology
+&lt;a href=&#34;http://bit.ly/2TLXlLx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2TLXlLx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2TLXlLx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2TLXlLx&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Среди большого набора #ACT расширений для #ANSYS сегодня я нашел кое-что очень полезное для людей занимающихся композитами.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-14-sredi-bolshogo-nabora-act-rasshireniy-dl/</link>
       <pubDate>Tue, 14 Nov 2017 17:11:05 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-14-sredi-bolshogo-nabora-act-rasshireniy-dl/</guid>
-      <description>&lt;ul&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-14-sredi-bolshogo-nabora-act-rasshireniy-dl/</guid>
+      <description>&lt;p&gt;Расширение &amp;ldquo;Multiscale Analysis System&amp;rdquo; от #Сybernet Systems умеет:&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;генерировать геометрию представительных элемент объема композита или ячеек периодичности&lt;/li&gt;
 &lt;li&gt;выполнять прямую КЭ гомогенизации для представительного элемента&lt;/li&gt;
 &lt;li&gt;записывать полученные таким образом эффективные свойства композита прямо в библиотеку материалов проекта #Workbench&lt;/li&gt;
@@ -29,6 +45,8 @@
 &lt;p&gt;P.S. В дистрибутиве с дополнением есть 3 видео урока!&lt;/p&gt;
 &lt;p&gt;#composite #Homogenization #композиты
 &lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-302&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-302&lt;/a&gt; 🔗 ANSYS Estore&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vlt08X&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlt08X&lt;/a&gt;
+&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-302&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-302&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

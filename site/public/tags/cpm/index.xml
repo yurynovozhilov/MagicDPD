@@ -2,37 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CPM on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/cpm/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/cpm/</link>
     <description>MagicDPD: Magic Driven Product Development! (CPM)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 15 Feb 2021 18:09:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Sep 2021 13:01:36 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/cpm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/cpm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Подходы к моделированию подушек безопастности</title>
-      <link>http://localhost:1313/posts/2021-02-15-podhody-k-modelirovaniyu-podushek-bezopast/</link>
-      <pubDate>Mon, 15 Feb 2021 18:09:18 +0000</pubDate>
+      <title>Скоро расскажу про LS-DYNA R13</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-20-skoro-rasskazhu-pro-ls-dyna-r13/</link>
+      <pubDate>Mon, 20 Sep 2021 13:01:36 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-02-15-podhody-k-modelirovaniyu-podushek-bezopast/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MI_u7HEnbyQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=MI_u7HEnbyQ&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;В настоящее время LS-DYNA предлагает три различных метода моделирования подушек безопасности. Подход на основе однородного давления (UP, uniform pressure), старейший из доступных методов, является очень эффективным с вычислительной точки зрения и хорошо работает, например, для моделирования взаимодействия манекенов с полностью надутыми подушками безопасности. Для удовлетворения возросших требований, предъявляемых к современным имитационным моделям, все большее значение приобретает точное отображение фазы развертывания.Поэтому используется метод ALE, при котором &amp;ldquo;газовая&amp;rdquo; область дискретизирована конечными элементами, что позволяет моделировать эффекты потока газа и его взаимодействие с тканью подушки безопасности. Совсем недавно был реализован метод корпускулярных частиц (CPM, Corpuscular Particle Method), где газ представлен дискретными частицами, взаимодействующими друг с другом и с окружающей их средой. Кстати, все эти методы могут применять не только для моделирования подушек безопастности, то и для расчетом сосудов и трубопроводов под давлением: моделирование динамики пневматических покрышек, моделирование баллонов  пневматической подвески или даже пневматические испытания трубопровода.&lt;/p&gt;
-&lt;p&gt;#airbag #ale #cpm #ls-dyna
-&lt;a href=&#34;https://tinyurl.com/y44xkm2g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y44xkm2g&lt;/a&gt;
-by Юрий Новожилов&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-20-skoro-rasskazhu-pro-ls-dyna-r13/</guid>
+      <description>&lt;p&gt;Скоро расскажу про LS-DYNA R13&lt;/p&gt;
+&lt;p&gt;Коллеги, прошу вас зарезервировать час своего времени на этой неделе. В четверг, в 12:00 по МСК, состояться вебинар CADFEM CIS, с обзором возможностей нового решателя Ansys LS-DYNA 13. Данный вебинар будет первым моим вебинаром с обзором функций нового релиза LS-DYNA.&lt;/p&gt;
+&lt;p&gt;Подготовка к вебинару стала для меня настоящей проверкой на прочность. Для того, что бы быть способным внятно рассказать вам про новые функции решателя, мне пришлось прочить не одну научную статью. А функций таких добавилось много.&lt;/p&gt;
+&lt;p&gt;Полученный насыщенный материал будет разделен на несколько частей для лучшего восприятия. В ближайший четверг, я расскажу первую его частью, сосредоточенную около прочностных расчетах: IGA, EFG, SPG, SPH, DES, XFEM, новые типы элементов и модели материалов, улучшения в работе подушек безопасности и многомасштабное моделирование. Новые возможности, связанные со сжимаемым/несжимаемым однофазным/многофазным CFD, ALE, EM и NVH будет освещены во второй части вебинара, которую стоит ждать в октябре.&lt;/p&gt;
+&lt;p&gt;Бесправная регистрация для участия в &amp;ldquo;живом&amp;rdquo; вебинаре доступна по ссылке: &lt;a href=&#34;https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13/&lt;/a&gt; - приходите и приносите свои вопросы, задавайте их в чате или организуйте научную дискуссию.&lt;/p&gt;
+&lt;p&gt;#airbag #ansys #ansys_lst #cadfem #cpm #des #efg #iga #ls-dyna #r13 #sph #xfem
+&lt;a href=&#34;https://tinyurl.com/yg8kvhou&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yg8kvhou&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Новые возможности решателя LS-DYNA R13&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yg8kvhou&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yg8kvhou&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Сравнительно новая, но многообещающая методика расчета возде</title>
-      <link>http://localhost:1313/posts/2015-10-07-sravnitelno-novaya-no-mnogoobeschayuschaya-me/</link>
+      <title>Подходы к моделированию подушек безопастности</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-15-podhody-k-modelirovaniyu-podushek-bezopast/</link>
+      <pubDate>Mon, 15 Feb 2021 18:09:50 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-15-podhody-k-modelirovaniyu-podushek-bezopast/</guid>
+      <description>&lt;p&gt;Подходы к моделированию подушек безопастности&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MI_u7HEnbyQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=MI_u7HEnbyQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В настоящее время LS-DYNA предлагает три различных метода моделирования подушек безопасности. Подход на основе однородного давления (UP, uniform pressure), старейший из доступных методов, является очень эффективным с вычислительной точки зрения и хорошо работает, например, для моделирования взаимодействия манекенов с полностью надутыми подушками безопасности. Для удовлетворения возросших требований, предъявляемых к современным имитационным моделям, все большее значение приобретает точное отображение фазы развертывания.Поэтому используется метод ALE, при котором &amp;ldquo;газовая&amp;rdquo; область дискретизирована конечными элементами, что позволяет моделировать эффекты потока газа и его взаимодействие с тканью подушки безопасности. Совсем недавно был реализован метод корпускулярных частиц (CPM, Corpuscular Particle Method), где газ представлен дискретными частицами, взаимодействующими друг с другом и с окружающей их средой. Кстати, все эти методы могут применять не только для моделирования подушек безопастности, то и для расчетом сосудов и трубопроводов под давлением: моделирование динамики пневматических покрышек, моделирование баллонов  пневматической подвески или даже пневматические испытания трубопровода.&lt;/p&gt;
+&lt;p&gt;#airbag #ale #cpm #ls-dyna
+&lt;a href=&#34;https://tinyurl.com/y4frz8xs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y4frz8xs&lt;/a&gt;
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MI_u7HEnbyQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DYNAmore Express: Overview on Airbag Modeling Possibilities in LS DYNA&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/y4frz8xs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y4frz8xs&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Красивое видео</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-11-krasivoe-video/</link>
+      <pubDate>Sat, 11 Feb 2017 17:01:34 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-11-krasivoe-video/</guid>
+      <description>&lt;p&gt;Красивое видео
+&lt;a href=&#34;https://www.youtube.com/watch?v=qZUfUCpr2cw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=qZUfUCpr2cw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Видео с результатами расчета в #LSDYNA раскрытия подушки безопастнотси под водой (интересно, зачем?). Подушка наполняется при помощи 2-х газогенераторов, работа которых моделируется в #CPM постановке. Домен с жидкостью моделируется в #ALE постановке. #LSPrePost отвечает за визуализацию.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qZUfUCpr2cw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=qZUfUCpr2cw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qZUfUCpr2cw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Airbag deployment in water&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новогодний феерверк</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-30-novogodniy-feerverk/</link>
+      <pubDate>Fri, 30 Dec 2016 10:01:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-30-novogodniy-feerverk/</guid>
+      <description>&lt;p&gt;Новогодний феерверк
+&lt;a href=&#34;https://vk.com/doc11568_440462041&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/doc11568_440462041&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Коллеги, сегодня у нас последний рабочий день перед приятной новогодней суетой и долгожданными каникулами. Специально для вас я подготовил небольшой подарок.&lt;/p&gt;
+&lt;p&gt;Как я уже неоднократно писал, одной из фишек моей любимой #LSDYNA является очень эффективный метод расчета воздействия ударной волны от взрыва Particle Blast Method (#PBM). Он основан на Corpuscular Particle Method (#CPM &lt;a href=&#34;http://www.dynalook.com/13th-international-ls-dyna-conference/blast/particle-blast-method-pbm-for-the-simulation-of-blast-loading%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/13th-international-ls-dyna-conference/blast/particle-blast-method-pbm-for-the-simulation-of-blast-loading)&lt;/a&gt;, широко применяемом при расчете подушек безопасности. PBM на сегодняшний момент является самым быстрым способом расчета воздействия ударной волны на конструкцию - он сопоставим по скорости расчета, разве что с эмпирическим приложением нагрузки по методикам #ConWep, и в тони раз быстрее #ALE расчет.&lt;/p&gt;
+&lt;p&gt;Насколько мне известно, сейчас в интернете нет ни одного готового примера расчета взрыва . По крайней мере, за неделю поиска, я ничего не нашел. Так что я подготовил самый простой пример для выполнения подобного расчета.&lt;/p&gt;
+&lt;p&gt;P.S. Ссылка на подарок прилагается. Даешь максимальный репост!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/qOUo3JLNUao&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/qOUo3JLNUao&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vk.com/doc11568_440462041&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/doc11568_440462041&lt;/a&gt;
+&lt;a href=&#34;http://www.dynalook.com/13th-international-ls-dyna-conference/blast/particle-blast-method-pbm-for-the-simulation-of-blast-loading&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/13th-international-ls-dyna-conference/blast/particle-blast-method-pbm-for-the-simulation-of-blast-loading&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/qOUo3JLNUao&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/qOUo3JLNUao&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сравнительно новая, но многообещающая методика расчета воздействия взрыв на объекты на основе метода взрыва частиц (particle blast method, PBM).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-07-sravnitelno-novaya-no-mnogoobeschayuschaya-me/</link>
       <pubDate>Wed, 07 Oct 2015 06:30:16 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-07-sravnitelno-novaya-no-mnogoobeschayuschaya-me/</guid>
-      <description>&lt;p&gt;В связке с DEM метод PBM может быть использован для моделирования осколочного воздействия.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-07-sravnitelno-novaya-no-mnogoobeschayuschaya-me/</guid>
+      <description>&lt;p&gt;Данный подход является расширением метода корпускулярный частиц (corpuscular particle method, CPM) изначально был реализованного в LS-DYNA для моделирования подушек безопастности. Метод работает в лагранжевой домене, что существенно упрощает постановку задачи.&lt;/p&gt;
+&lt;p&gt;В связке с DEM метод PBM может быть использован для моделирования осколочного воздействия.&lt;/p&gt;
 &lt;p&gt;В статье PBM показывает себя более эффективным, с вычислительной точки зрения. Кроме того, есть существенные преимущества по точности в сравнении с классическим моделированию взрыва в эйлеровом домене.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=87WoUVN-_1Q&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Particle_blast for mine blast simulation in LS-DYNA&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=_fibrw5JW4E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Blast fragmentation of a mortar cylinder using LS-DYNA&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

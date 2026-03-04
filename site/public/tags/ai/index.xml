@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ai on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/ai/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/ai/</link>
     <description>MagicDPD: Magic Driven Product Development! (Ai)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 11 Feb 2026 09:54:10 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>🌟 HY3D-Bench: 22 терабайта отборной 3D-геометрии.</title>
-      <link>http://localhost:1313/posts/2026-02-11-hy3d-bench-22-terabayta-otbornoy-3d-g/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2026-02-11-hy3d-bench-22-terabayta-otbornoy-3d-g/</link>
       <pubDate>Wed, 11 Feb 2026 09:54:10 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2026-02-11-hy3d-bench-22-terabayta-otbornoy-3d-g/</guid>
-      <description>&lt;p&gt;Tencent Hunyuan вывалили в опенсорс монструозный пак HY3D-Bench на 22.5 ТБ и это подарок для всех, кто занимается 3D Gen и робототехникой.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2026-02-11-hy3d-bench-22-terabayta-otbornoy-3d-g/</guid>
+      <description>&lt;p&gt;🌟 HY3D-Bench: 22 терабайта отборной 3D-геометрии.&lt;/p&gt;
+&lt;p&gt;Tencent Hunyuan вывалили в опенсорс монструозный пак HY3D-Bench на 22.5 ТБ и это подарок для всех, кто занимается 3D Gen и робототехникой.&lt;/p&gt;
 &lt;p&gt;Датасет разбит на 3 логических куска, каждый под свои задачи:&lt;/p&gt;
 &lt;p&gt;🟡Full-level Dataset (252K+ мешей, ~11 ТБ)
 База с полностью замкнутой геометрией, без дырок и non-manifold артефактов, которыми обычно кишат сканы. Все нормализовано и готово к скармливанию в DiT или GAN. В комплекте идут сэмплы точек и мульти-вью рендеры.&lt;/p&gt;
@@ -30,15 +31,19 @@
 🟡Датасет
 🖥GitHub&lt;/p&gt;
 &lt;p&gt;@ai_machinelearning_big_data&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://huggingface.co/datasets/tencent/HY3D-Bench&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://huggingface.co/datasets/tencent/HY3D-Bench&lt;/a&gt;
+&lt;a href=&#34;https://arxiv.org/pdf/2602.03907&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://arxiv.org/pdf/2602.03907&lt;/a&gt;
+&lt;a href=&#34;https://huggingface.co/datasets/tencent/HY3D-Bench&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://huggingface.co/datasets/tencent/HY3D-Bench&lt;/a&gt;
+&lt;a href=&#34;https://github.com/Tencent-Hunyuan/HY3D-Bench&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/Tencent-Hunyuan/HY3D-Bench&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>⚡️ OpenAI Prism: научный редактор на базе GPT-5.2 с поддержк</title>
-      <link>http://localhost:1313/posts/2026-01-28-openai-prism-nauchnyy-redaktor-na-baz/</link>
+      <title>⚡️ OpenAI Prism: научный редактор на базе GPT-5.2 с поддержкой LaTeX.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2026-01-28-openai-prism-nauchnyy-redaktor-na-baz/</link>
       <pubDate>Wed, 28 Jan 2026 13:51:45 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2026-01-28-openai-prism-nauchnyy-redaktor-na-baz/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2026-01-28-openai-prism-nauchnyy-redaktor-na-baz/</guid>
       <description>&lt;p&gt;OpenAI наконец-то пустила в дело наработки купленного стартапа Crixet и это очень хорошая попытка создать идеальное рабочее место для ученых, где не нужно прыгать между десятью вкладками.&lt;/p&gt;
 &lt;p&gt;Если вы когда-нибудь писали статью, то вам знакомо, когда в одном окне Overleaf, в другом - ChatGPT, в третьем - arXiv, а где-то сбоку еще болтается менеджер ссылок. Контекст постоянно теряется, а копипаст формул туда-сюда рано или поздно приводит к ошибкам.&lt;/p&gt;
 &lt;p&gt;Так вот,  Prism соберет все это в одну кучу и это не просто чат в боковой панели. Он видит всю структуру вашей статьи: уравнения, библиографию и графики.&lt;/p&gt;
@@ -50,33 +55,113 @@
 &lt;p&gt;🟢Совместная работа: можно добавить сколько угодно соавторов, и никто не будет бомбить от конфликта версий.&lt;/p&gt;
 &lt;p&gt;Самое приятное - базовую версию Prism сделали бесплатной для всех.&lt;/p&gt;
 &lt;p&gt;@ai_machinelearning_big_data&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://openai.com/index/introducing-prism/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://openai.com/index/introducing-prism/&lt;/a&gt;
+&lt;a href=&#34;https://prism.openai.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://prism.openai.com/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Модели турбулентности на основе машинного обучения</title>
-      <link>http://localhost:1313/posts/2021-05-20-modeli-turbulentnosti-na-osnove-mashinnog/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-05-20-modeli-turbulentnosti-na-osnove-mashinnog/</link>
       <pubDate>Thu, 20 May 2021 13:01:46 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-05-20-modeli-turbulentnosti-na-osnove-mashinnog/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/AgvjPPzy64I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/AgvjPPzy64I&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-05-20-modeli-turbulentnosti-na-osnove-mashinnog/</guid>
+      <description>&lt;p&gt;Модели турбулентности на основе машинного обучения&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/AgvjPPzy64I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/AgvjPPzy64I&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Машинное обучение, и в частности глубокие нейронные сети, в настоящее время революционизируют методы моделирования турбулентной гидродинамики. В этом видео рассказывается о том, как глубокое обучение используется для моделирования турбулентности.&lt;/p&gt;
 &lt;p&gt;#ai #ml #turbulence
+&lt;a href=&#34;https://tinyurl.com/ygdrop9q&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ygdrop9q&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/AgvjPPzy64I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Deep Learning for Turbulence Closure Modeling&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/ygdrop9q&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ygdrop9q&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Ansys займется алхимией</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-24-ansys-zaymetsya-alhimiey/</link>
+      <pubDate>Wed, 24 Feb 2021 13:01:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-24-ansys-zaymetsya-alhimiey/</guid>
+      <description>&lt;p&gt;Ansys займется алхимией&lt;/p&gt;
+&lt;p&gt;17 февраля 2021 ANSYS обвил о своей договоренности с компанией  Intellegens Limited (&lt;a href=&#34;https://intellegens.ai&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://intellegens.ai&lt;/a&gt;) из Кэмбриджа об использовании их линейки продуктов под говорящим названием Alchemite в моделировании процессов аддитивного производства. Alchemite - это решения на основе машинного обучения позволяющею быстро идентифицировать параметры материалов и анализировать результаты экспериментов.&lt;/p&gt;
+&lt;p&gt;Alchemite предполагается встроить в материаловедческую систему Ansys Granta MI. Ожидается, что такая связка ПО позволит решить такие задачи, как оптимизация технологических параметров для процессов AM, прогнозирование свойств материалов на основе расчетов, контроль качества и помощь в проектировании экспериментов (DoE) для AM.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.automation.com/en-us/articles/february-2021/intellegens-ansys-additive-manufacturing-material&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.automation.com/en-us/articles/february-2021/intellegens-ansys-additive-manufacturing-material&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Кстати, у компании уже есть успешные кейсы, например с Боингом (&lt;a href=&#34;https://intellegens.ai/machine-learning-making-light-work-of-additive-manufacturing-aerospace-alloys/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://intellegens.ai/machine-learning-making-light-work-of-additive-manufacturing-aerospace-alloys/)&lt;/a&gt;, а также исследование по улучшению DED печати (&lt;a href=&#34;https://intellegens.ai/probabilistic-neural-network-identification-of-an-alloy-for-direct-laser-deposition/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://intellegens.ai/probabilistic-neural-network-identification-of-an-alloy-for-direct-laser-deposition/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;#additive_manufacturing #ai #alchemite #ansys #granta #machine_learning
+&lt;a href=&#34;https://tinyurl.com/y77bppct&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y77bppct&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://intellegens.ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Intellegens - Applied machine learning&lt;/a&gt;
+&lt;a href=&#34;https://www.automation.com/en-us/articles/february-2021/intellegens-ansys-additive-manufacturing-material?listname=Automation%20&amp;amp;%20Control%20News%20&amp;amp;%20Articles&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.automation.com/en-us/articles/february-2021/intellegens-ansys-additive-manufacturing-material?listname=Automation%20&amp;%20Control%20News%20&amp;%20Articles&lt;/a&gt;
+&lt;a href=&#34;https://intellegens.ai/machine-learning-making-light-work-of-additive-manufacturing-aerospace-alloys/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://intellegens.ai/machine-learning-making-light-work-of-additive-manufacturing-aerospace-alloys/&lt;/a&gt;
+&lt;a href=&#34;https://intellegens.ai/probabilistic-neural-network-identification-of-an-alloy-for-direct-laser-deposition/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://intellegens.ai/probabilistic-neural-network-identification-of-an-alloy-for-direct-laser-deposition/&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/y77bppct&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y77bppct&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Машинное обучение для CFD</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-01-22-mashinnoe-obuchenie-dlya-cfd/</link>
+      <pubDate>Fri, 22 Jan 2021 14:51:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-01-22-mashinnoe-obuchenie-dlya-cfd/</guid>
+      <description>&lt;p&gt;Машинное обучение для CFD&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8e3OT2K99Kw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=8e3OT2K99Kw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Стивен Брантон (Steven L. Brunton) - доцент кафедры машиностроения, Университет Вашингтона, Сиэтл, Вашингтон, США (Department of Mechanical Engineering, University of Washington, Seattle, Washington, USA) рассказывает о том, как технологии машинного обучения и машинного интеллекта могут применяться при решении CFD задач. Во многом видео является презентацией его статьи, которая бесплатно доступна для скачивания по ссылке: &lt;a href=&#34;https://www.annualreviews.org/doi/pdf/10.1146/annurev-fluid-010719-060214&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.annualreviews.org/doi/pdf/10.1146/annurev-fluid-010719-060214&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=3fOXIbycAmc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=3fOXIbycAmc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=gb_C9LcjDSI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=gb_C9LcjDSI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ai #cfd #machine_learning
+&lt;a href=&#34;https://tinyurl.com/yxtofu9p&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yxtofu9p&lt;/a&gt;
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8e3OT2K99Kw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Machine Learning for Fluid Mechanics&lt;/a&gt;
+&lt;a href=&#34;https://www.annualreviews.org/doi/pdf/10.1146/annurev-fluid-010719-060214&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.annualreviews.org/doi/pdf/10.1146/annurev-fluid-010719-060214&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=3fOXIbycAmc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=3fOXIbycAmc&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=gb_C9LcjDSI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=gb_C9LcjDSI&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yxtofu9p&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yxtofu9p&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Машинный интеллект учится ходить</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-19-mashinnyy-intellekt-uchitsya-hodit/</link>
+      <pubDate>Fri, 19 Jul 2019 13:01:01 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-19-mashinnyy-intellekt-uchitsya-hodit/</guid>
+      <description>&lt;p&gt;Машинный интеллект учится ходить&lt;/p&gt;
+&lt;p&gt;Обзор статьи-исследования, в которой экспериментаторы наделили скелет мускулатурой и заставили нейронку учиться ходить, бегать и выполнять прочие физические упражнения. После чего стало возможным исследовать особенности в работе опорно-двигательного аппарата и влияние различных операций на подвижность человека.&lt;/p&gt;
+&lt;p&gt;#AI #simulationfriday&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2BE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2BE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2BE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2BE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Машинный интеллект проектирует стулья</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-04-mashinnyy-intellekt-proektiruet-stulya/</link>
+      <pubDate>Thu, 04 Jan 2018 18:11:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-04-mashinnyy-intellekt-proektiruet-stulya/</guid>
+      <description>&lt;p&gt;Машинный интеллект проектирует стулья
+История о том, как при помощи программного обеспечения Autodesk Dreamcatcher был спроектирован удобный и симпатичны концепт стула Elbo Chair. По сути это не то что бы машинное обучени - это скорее топологическая оптимизация или генеративный дизайн, но для хайпа можно и AI упомянуть.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.digitaleng.news/de/ai-wants-seat-design-table/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.digitaleng.news/de/ai-wants-seat-design-table/&lt;/a&gt;
+#AI #Autodesk #Dreamcatcher #optimization #Topology
+&lt;a href=&#34;https://magicdpd.ru/?p=5822&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5822&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.digitaleng.news/de/ai-wants-seat-design-table/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Artificial Intelligence Wants a Seat at the Design Table&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=5822&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5822&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Машинный интеллект для решения задачи гидродинамики</title>
-      <link>http://localhost:1313/posts/2017-01-14-mashinnyy-intellekt-dlya-resheniya-zadachi-gi/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-01-14-mashinnyy-intellekt-dlya-resheniya-zadachi-gi/</link>
       <pubDate>Sat, 14 Jan 2017 17:01:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-01-14-mashinnyy-intellekt-dlya-resheniya-zadachi-gi/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=iOWamCtnwTc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=iOWamCtnwTc&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-01-14-mashinnyy-intellekt-dlya-resheniya-zadachi-gi/</guid>
+      <description>&lt;p&gt;Машинный интеллект для решения задачи гидродинамики
+&lt;a href=&#34;https://www.youtube.com/watch?v=iOWamCtnwTc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=iOWamCtnwTc&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Ребята из #Google #Brain (группа разработчиков #AI) научили нейтронную сеть решать задачи гидрогазодинами! Нейронке долго показывали видео с различными процессами, происходящими в жидкости и газе и учили ее понимать, что за физика за этим скрыта. Как заявлено в публикациях, нейрона научилась расшить #CFD задачи, причем в десятки раз быстрее чем традиционные вычислительные алгоритмы методы.&lt;/p&gt;
 &lt;p&gt;Отдельное спасибо за забавный пример столкновения облаков газа в форме чайника и кролика.&lt;/p&gt;
 &lt;p&gt;P.S. Комментатор почему-то считает, что мы уже умеем решать задачи CFD - наивный, он не знает, что это не ремесло, а искусство.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=iOWamCtnwTc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=iOWamCtnwTc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=iOWamCtnwTc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Neural Network Learns The Physics of Fluids and Smoke | Two Minute Papers #118&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

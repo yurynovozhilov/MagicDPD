@@ -12,4 +12,6 @@ tags:
 
 #lsdyna
 
-http://www.ansys.com/staticassets/ANSYS/staticassets/resourcelibrary/article/AA-V6-I2-The-Balls-in-Your-Court.pdf
+~~http://www.ansys.com/staticassets/ANSYS/staticassets/resourcelibrary/article/AA-V6-I2-The-Balls-in-Your-Court.pdf~~ → [Сохранённая версия](http://web.archive.org/web/20140903112354/http://www.ansys.com/staticassets/ANSYS/staticassets/resourcelibrary/article/AA-V6-I2-The-Balls-in-Your-Court.pdf)
+
+*Оригинальная ссылка больше не доступна*

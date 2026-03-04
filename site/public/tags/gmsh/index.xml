@@ -1,26 +1,114 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gmsh on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/gmsh/</link>
-    <description>MagicDPD: Magic Driven Product Development! (Gmsh)</description>
+    <title>GMSH on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/gmsh/</link>
+    <description>MagicDPD: Magic Driven Product Development! (GMSH)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 14 Sep 2022 18:00:17 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/gmsh/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/gmsh/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Сегодня я бы хотел высказать пару мыслей про #opensource про</title>
-      <link>http://localhost:1313/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</link>
+      <title>Сегодня я бы хотел высказать пару мыслей про #opensource проект #pyAnsys.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</link>
       <pubDate>Wed, 14 Sep 2022 18:00:17 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</guid>
-      <description>&lt;p&gt;Итак, #Python внутри экосистемы #Ansys есть очень давно, так почему все вдруг начала говорить про #pyAnsys? Дело в том, что раньше python выступал только в роли некого внутреннего инструмента помощи в постановки задачи. Вы запускали продукты Ansys, и в них уже могли что-то автоматизировать на python.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</guid>
+      <description>&lt;p&gt;Многие мои друзья, с которыми мы обсуждали данный проект, изначально неправильно поняли, что это, и не придали ему должного значения.&lt;/p&gt;
+&lt;p&gt;Итак, #Python внутри экосистемы #Ansys есть очень давно, так почему все вдруг начала говорить про #pyAnsys? Дело в том, что раньше python выступал только в роли некого внутреннего инструмента помощи в постановки задачи. Вы запускали продукты Ansys, и в них уже могли что-то автоматизировать на python.&lt;/p&gt;
 &lt;p&gt;pyAnsys полностью меняет концепцию. У каждого модуля появляется свой #API, который вы можете использовать в вашей #python программе. Ansys тут выступает как вспомогательный инструмент.&lt;/p&gt;
 &lt;p&gt;Например, #pyMAPDL позволяет полностью поставить #FEM задачу и запустить решатель MAPDL, который вообще может быть помещен в #docker контейнер. Обработка данных теперь может производиться единым #pyDPF фреймвоком. Данные между решателями теперь могут передаваться как вы придумаете - ведь у всех них есть свой открытый API! И да, никто не ограничивает вас в возможности совместной работы продуктов Ansys и не Ansys. В стандартных примерах вы сейчас можете найти инструкции для работы с #Gmsh.&lt;/p&gt;
 &lt;p&gt;Я бы сказал, что #pyAnsys - это основа для переосмысления Workbench. Сейчас все связи между модулями #Workbench жестко определенны разработчиками. С pyAnsys вас больше нет таких ограничений, а что еще нужно вам для проведения новых увлекательных расчетов? &lt;a href=&#34;https://docs.pyansys.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://docs.pyansys.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.pyansys.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://docs.pyansys.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Продолжаем изучать суровый #opensource.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-03-24-prodolzhaem-izuchat-surovyy-opensource/</link>
+      <pubDate>Thu, 24 Mar 2022 17:00:02 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-03-24-prodolzhaem-izuchat-surovyy-opensource/</guid>
+      <description>&lt;p&gt;Сегодня у нас учебный курс по открытому сеточному генератору #GMSH&lt;/p&gt;
+&lt;p&gt;#mesh &lt;a href=&#34;https://www.youtube.com/watch?v=N0Givc5zZ3M&amp;amp;list=PLbiOzt50Bx-l2QyX5ZBv9pgDtIei-CYs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=N0Givc5zZ3M&amp;list=PLbiOzt50Bx-l2QyX5ZBv9pgDtIei-CYs&lt;/a&gt;_&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=N0Givc5zZ3M&amp;amp;list=PLbiOzt50Bx-l2QyX5ZBv9pgDtIei-CYs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=N0Givc5zZ3M&amp;list=PLbiOzt50Bx-l2QyX5ZBv9pgDtIei-CYs&lt;/a&gt;_&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Проект HEXTREME</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-01-proekt-hextreme/</link>
+      <pubDate>Mon, 01 Oct 2018 17:00:48 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-01-proekt-hextreme/</guid>
+      <description>&lt;p&gt;Проект HEXTREME
+Группа сотрудников Лувенского католического университета (Université catholique de Louvain) заявляет, что их проект HEXTREME позволит в ближайшем будущем генерировать ALL-HEX сетку на произвольной геометрии в реальном времени. Код проекта естественно открыт, а ПО скоро будет доступно как расширение к Gmsh.&lt;/p&gt;
+&lt;p&gt;Прочитав публикации на сайте, я пришел к выводу, что тут скорее речь идет не о генерации сетки, а о правильной конверсии tet в hex (как, например, работают Hex-Dominant алгоритмы). Но все равно будет интересно посмотреть.
+&lt;a href=&#34;https://www.hextreme.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.hextreme.eu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Allhex #Gmsh #HEXTREME #Mesh
+&lt;a href=&#34;http://bit.ly/2It3bvU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2It3bvU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.hextreme.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.hextreme.eu/&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2It3bvU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2It3bvU&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Продолжаем тему #FEATool и #Gmsh - теперь более подробно про создание сеток.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-08-prodolzhaem-temu-featool-i-gmsh-teper/</link>
+      <pubDate>Fri, 08 Dec 2017 17:18:15 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-08-prodolzhaem-temu-featool-i-gmsh-teper/</guid>
+      <description>&lt;p&gt;#opensource #mesh&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.featool.com/grid/2017/12/05/Gmsh-Mesh-Generator-Integration-with-Matlab-and-FEATool.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/grid/2017/12/05/Gmsh-Mesh-Generator-Integration-with-Matlab-and-FEATool.html&lt;/a&gt; 🔗 Automatic 2D and 3D FEM Mesh and Grid Generation using Gmsh | FEATool&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2yt2ZXH&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yt2ZXH&lt;/a&gt;
+&lt;a href=&#34;https://www.featool.com/grid/2017/12/05/Gmsh-Mesh-Generator-Integration-with-Matlab-and-FEATool.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/grid/2017/12/05/Gmsh-Mesh-Generator-Integration-with-Matlab-and-FEATool.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Статья-инструкция о том, как решить задачу парметрической оптимизации конструкции используя решатели #FEATool, сеточные генератор #Gmsh и #Matlab</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-28-statya-instruktsiya-o-tom-kak-reshit-zada/</link>
+      <pubDate>Tue, 28 Nov 2017 17:18:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-28-statya-instruktsiya-o-tom-kak-reshit-zada/</guid>
+      <description>&lt;p&gt;#optimization #opensource&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.featool.com/tutorial/2017/11/13/CAD-Import-and-Parametric-Stress-Displacement-Simulation.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/tutorial/2017/11/13/CAD-Import-and-Parametric-Stress-Displacement-Simulation.html&lt;/a&gt; 🔗 Parametric FEATool Multiphysics FEM Studies with Gmsh and CAD File Import&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2yt2ZXH&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yt2ZXH&lt;/a&gt;
+&lt;a href=&#34;https://www.featool.com/tutorial/2017/11/13/CAD-Import-and-Parametric-Stress-Displacement-Simulation.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/tutorial/2017/11/13/CAD-Import-and-Parametric-Stress-Displacement-Simulation.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#ONELAB (Open Numerical Engineering LABoratory) - готовый бесплатный кросс платформенный набор инженерного софта с открытым исходным кодом для работы с #КЭ решателями и сеточным генератором #Gmsh.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-20-onelab-open-numerical-engineering-labo/</link>
+      <pubDate>Mon, 20 Nov 2017 17:05:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-20-onelab-open-numerical-engineering-labo/</guid>
+      <description>&lt;p&gt;В комплекте есть собственный решатель #GetDP. Заявлена поддержка #OpenFOAM и #Elmer&lt;/p&gt;
+&lt;p&gt;Все это хозяйство есть под Windows, Linux, macOS, iOS (!!!) и Android (!!!).&lt;/p&gt;
+&lt;p&gt;В комплекте есть куча учебных примеров для всех областей физики.
+#opensource&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&#34;http://onelab.info/wiki/ONELAB&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://onelab.info/wiki/ONELAB&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20241116020316/http://www.onelab.info/wiki/ONELAB&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt; 🔗 ONELAB - ONELAB&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2jHnEoG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2jHnEoG&lt;/a&gt;
+&lt;del&gt;&lt;a href=&#34;http://onelab.info/wiki/ONELAB&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://onelab.info/wiki/ONELAB&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20241116020316/http://www.onelab.info/wiki/ONELAB&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Команда #FEATool подготовила в своем блоге простой и понятный урок по построению сеток при помощи одного из самых распространенных сеточных генераторов с открытым исходным кодом #Gmsh.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-12-komanda-featool-podgotovila-v-svoem-blo/</link>
+      <pubDate>Sun, 12 Nov 2017 17:11:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-12-komanda-featool-podgotovila-v-svoem-blo/</guid>
+      <description>&lt;p&gt;#opensource #mesh&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.featool.com/tutorial/2017/11/06/Gmsh-CAD-STEP-File-Import-and-Mesh-Generation-Tutorial.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/tutorial/2017/11/06/Gmsh-CAD-STEP-File-Import-and-Mesh-Generation-Tutorial.html&lt;/a&gt; 🔗 Gmsh CAD File Import and Mesh Generation Tutorial | FEATool&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2yt2ZXH&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yt2ZXH&lt;/a&gt;
+&lt;a href=&#34;https://www.featool.com/tutorial/2017/11/06/Gmsh-CAD-STEP-File-Import-and-Mesh-Generation-Tutorial.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/tutorial/2017/11/06/Gmsh-CAD-STEP-File-Import-and-Mesh-Generation-Tutorial.html&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -2,22 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sandia on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/sandia/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/sandia/</link>
     <description>MagicDPD: Magic Driven Product Development! (Sandia)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 23 Sep 2021 15:01:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Nov 2021 13:03:27 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/sandia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/sandia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>CHT</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-11-17-cht/</link>
+      <pubDate>Wed, 17 Nov 2021 13:03:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-11-17-cht/</guid>
+      <description>&lt;p&gt;CHT&lt;/p&gt;
+&lt;p&gt;CTH - это &amp;ldquo;многофазный&amp;rdquo; решатель для МКЭ в эйлеровой формулировке, разработанный в Сандийской национальной лаборатории. Далее, парам моментов, которые привлекли мое внимание в данном коде.&lt;/p&gt;
+&lt;p&gt;SESAME Multi-Phase Equation of State - CTH имеет несколько уравнений состояния (УРС) материалов. Среди них я выделяю УРС SESAME, которое может моделировать фазовые переходы твердое тело, жидкость, пар, жидкость-пар, твердое тело-жидкость и твердое тело-твердое тело. Такого я в комических кодах не припоминаю.&lt;/p&gt;
+&lt;p&gt;В CTH все должно быть хорошо с задачами горения и детонации (как идеальной, так и не идеальной). Есть такие модели как программируемое горение, Ли-Тарвер,  Джонса-Уилкинса-Ли, Forestfire и собственные модели Сандии.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sandia.gov/cth/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.sandia.gov/cth/&lt;/a&gt;
+#cht #hpc #sandia #sesame
+&lt;a href=&#34;https://tinyurl.com/ye33soao&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ye33soao&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sandia.gov/cth/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Scalable Shock Physics&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/ye33soao&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ye33soao&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Сравнение работы кодов моделирования детонации ВВ</title>
-      <link>http://localhost:1313/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</link>
       <pubDate>Thu, 23 Sep 2021 15:01:35 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</guid>
-      <description>&lt;p&gt;Разработчики blastFoam, открытого CFD кода на базе openFoam, специализирующегося на задачах детонации ВВ и распространении ударных волны в воздухе, опубликовали любопытное сравнение. Они смоделировали детонацию сферического заряда тротила в воздухе в бесконечном домене - довольно простая постановка с хорошо известными аналитическими решениями.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-23-sravnenie-raboty-kodov-modelirovaniya-det/</guid>
+      <description>&lt;p&gt;Сравнение работы кодов моделирования детонации ВВ&lt;/p&gt;
+&lt;p&gt;Разработчики blastFoam, открытого CFD кода на базе openFoam, специализирующегося на задачах детонации ВВ и распространении ударных волны в воздухе, опубликовали любопытное сравнение. Они смоделировали детонацию сферического заряда тротила в воздухе в бесконечном домене - довольно простая постановка с хорошо известными аналитическими решениями.&lt;/p&gt;
 &lt;p&gt;Моделирование они выполнили в:&lt;/p&gt;
 &lt;p&gt;Ansys Autodyn - код, разработанный когда-то, поглощённой компанией Century Dynamics - заточен под решение задач ОПКAnsys LS-DYNA - код, разработанный, поглощённой компанией LSTC - заточен под решение сильно связанных высоконелинейных задачEUROPLEXUS - или EpX, полуоткрытьй код для моделирования быстропротекающих процессов от французской промышленности, работает на основе моделей, подготовленных для Code_Aster.  CHT - код для моделирования быстропротекающих процессов от Сандийских национальных лабораторийblastFoam, который я уже представил&lt;/p&gt;
 &lt;p&gt;Во всех кодах использовалось уравнение состояния JWL. На мой взгляд, справились все коды примерно одинаково, и, не зная особенностей постановки задачи, времени, затраченного на решение, трудно выбрать лидера.&lt;/p&gt;
@@ -25,34 +44,125 @@
 &lt;p&gt;Ссылка на оригинальный пост: &lt;a href=&#34;https://www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ansys #autodyn #blast #blastfoam #cht #europlexus #ls-dyna #open_source #openfoam #sandia
 &lt;a href=&#34;https://tinyurl.com/yzxkzr4r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzxkzr4r&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/blastfoam-comparison-explosive-airblast-/?trackingId=Uq%2B3MZmoMgkb3xIYeAHk9A%3D%3D&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;blastFoam | Comparison of explosive airblast calculators&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yzxkzr4r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzxkzr4r&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coreform покупает csimsoft</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-31-coreform-pokupaet-csimsoft/</link>
+      <pubDate>Thu, 31 Oct 2019 17:03:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-31-coreform-pokupaet-csimsoft/</guid>
+      <description>&lt;p&gt;Coreform покупает csimsoft&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/coreform-acquires-csimsoft/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Coreform покупает csimsoft - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LAMMPS расскажет о разрушении материалов</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-23-lammps-rasskazhet-o-razrushenii-materialov/</link>
+      <pubDate>Fri, 23 Nov 2018 17:01:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-23-lammps-rasskazhet-o-razrushenii-materialov/</guid>
+      <description>&lt;p&gt;LAMMPS расскажет о разрушении материалов
+Молекулярная динамика (Molecular Dynamics Simulation, MDS) - это то, чем вам стоит заниматься, если вы хотите разобраться с процессами, происходящими в материалах на микро- и наноуровне, например при разрушении. А одним из самых авторитетных кодов в данной области является разрабатываемый Сандийскими национальными лабораториями LAMMPS.&lt;/p&gt;
+&lt;p&gt;Данный открытый код позволяет детально моделировать процессы на микроуровне и заглядывать туда, куда традиционные КЭ коды и смотреть не могут.
+А еще в видео есть отзыв о работе данного кода в Ливерморской национальной лаборатории, где считали при помощи него рекордную по размерам задачу. Отзыв за подписью Василия Булатова.
+Кстати, привожу еще обучающее видео по началу работы с LAMMPS - в целом эта работа очень напоминает настройку бессеточной модели в LS-DYNA.&lt;/p&gt;
+&lt;p&gt;#HPC #LAMMPS #Livermor #MDS #Open #Sandia
+&lt;a href=&#34;http://bit.ly/2TEbMBl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2TEbMBl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2TEbMBl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2TEbMBl&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>LayTracks3D — новый алгоритм генерации ALL-HEX сетки</title>
-      <link>http://localhost:1313/posts/2018-05-29-laytracks3d-novyy-algoritm-generatsii-a/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-29-laytracks3d-novyy-algoritm-generatsii-a/</link>
       <pubDate>Tue, 29 May 2018 18:00:58 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-05-29-laytracks3d-novyy-algoritm-generatsii-a/</guid>
-      <description>&lt;p&gt;Периодически я просматриваю интернет на тему новых сеточных генераторов для своих задач. Так как в основном я работаю в LS-DYNA, то полностью hex сетка высокого качества мне очень нужна. Конечно, никто не отменял работу с геометрией для подготовки тотального sweep, но эта рутинная работа отнимает очень много времени.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-29-laytracks3d-novyy-algoritm-generatsii-a/</guid>
+      <description>&lt;p&gt;LayTracks3D — новый алгоритм генерации ALL-HEX сетки&lt;/p&gt;
+&lt;p&gt;Периодически я просматриваю интернет на тему новых сеточных генераторов для своих задач. Так как в основном я работаю в LS-DYNA, то полностью hex сетка высокого качества мне очень нужна. Конечно, никто не отменял работу с геометрией для подготовки тотального sweep, но эта рутинная работа отнимает очень много времени.&lt;/p&gt;
 &lt;p&gt;На прошедших выходных я набрел на цикл публикаций Сандийских Национальных лабораторий по их алгоритму LayTracks3D. Судя по материалам публикации, данный алгоритм может решить проблему автоматизированного all-hex, если дойдет до коммерческой реализации.
 Презентация: http://cdn2.hubspot.net/hub/35600/file-2445444788-pdf/Quadros.pdf
 Статья раз: https://pdfs.semanticscholar.org/0735/122cb43872b02a4b19aea68fcc22bd0fb934.pdf
 Статья два: https://www.sciencedirect.com/science/article/pii/S1877705814016531
 #allhex #LayTracks3D #mesh #Sandia&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1S2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1S2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://cdn2.hubspot.net/hub/35600/file-2445444788-pdf/Quadros.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://cdn2.hubspot.net/hub/35600/file-2445444788-pdf/Quadros.pdf&lt;/a&gt;
+&lt;a href=&#34;https://pdfs.semanticscholar.org/0735/122cb43872b02a4b19aea68fcc22bd0fb934.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://pdfs.semanticscholar.org/0735/122cb43872b02a4b19aea68fcc22bd0fb934.pdf&lt;/a&gt;
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1877705814016531&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.sciencedirect.com/science/article/pii/S1877705814016531&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-1S2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1S2&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Сандийские национальны лаборатории как всегда красиво рааска</title>
-      <link>http://localhost:1313/posts/2018-01-02-sandiyskie-natsionalny-laboratorii-kak-v/</link>
+      <title>Сандийские национальны лаборатории как всегда красиво раасказывают о своих возможностях в области аддитивных технологий производства.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-02-sandiyskie-natsionalny-laboratorii-kak-v/</link>
       <pubDate>Tue, 02 Jan 2018 09:23:14 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-01-02-sandiyskie-natsionalny-laboratorii-kak-v/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-02-sandiyskie-natsionalny-laboratorii-kak-v/</guid>
       <description>&lt;p&gt;#additive_manufacturing #sandia
 &lt;a href=&#34;https://www.youtube.com/watch?v=YCE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=YCE&lt;/a&gt;…Media📼 Sandia Labs’ Additive Manufacturing Program&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ift.tt/2CcymrG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2CcymrG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2CDwDMJ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2CDwDMJ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2CcynMg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2CcynMg&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=YCEr3FzSr_M&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=YCEr3FzSr_M&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2CDWLY9&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2CDWLY9&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2CcymrG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2CcymrG&lt;/a&gt;
+ttp://ift.tt/2CcymrG&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Наука должна быть крутой!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-19-nauka-dolzhna-byt-krutoy-ochen-epichnoe/</link>
+      <pubDate>Sun, 19 Nov 2017 17:15:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-19-nauka-dolzhna-byt-krutoy-ochen-epichnoe/</guid>
+      <description>&lt;p&gt;Очень эпичное видео об изучении ударных волн от #Sandia National Labs. Тут и эксперимент с не тривиальной обработкой данных (Шлирен-метод), и расчет с красивой визуализацией.&lt;/p&gt;
+&lt;p&gt;#blast
+&lt;a href=&#34;https://www.youtube.com/watch?v=Ckh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Ckh&lt;/a&gt;…Media📼 Sandia Blast Tube - Engineered Explosive Shockwave…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2zTUXbW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zTUXbW&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2j8n5zZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2j8n5zZ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2i5tcEP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i5tcEP&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=CkhCiSneJJg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=CkhCiSneJJg&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2j8n6E3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2j8n6E3&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zTUXbW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zTUXbW&lt;/a&gt;
+ttp://ift.tt/2zTUXbW&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CFD для полетов на Марс</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-08-cfd-dlya-poletov-na-mars/</link>
+      <pubDate>Thu, 08 Jun 2017 17:00:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-08-cfd-dlya-poletov-na-mars/</guid>
+      <description>&lt;p&gt;CFD для полетов на Марс
+&lt;a href=&#34;https://www.nextplatform.com/2015/03/27/rockets-shake-and-rattle-so-spacex-rolls-homegrown-cfd/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.nextplatform.com/2015/03/27/rockets-shake-and-rattle-so-spacex-rolls-homegrown-cfd/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Если коротко, то #SpacaX Илона Маска (Elon Musk) решили, что существующие #CFD коды плохо справляются задачами, которые надо решать при моделировании ракетных двигателей, особенно для полета на Марс. Команда Илона Маска разрабатывает свой собственный код, решающий задачи гидротехническую-гвзодинамики с учетом сжимаемости потока и химических реакция. И в этом им помогает не только академическое сообщество, но и великие и ужасные Национальные Сандийские лаборатории (#Sandia National Laboratories).&lt;/p&gt;
+&lt;p&gt;Подробный рассказ о том, что именно не нравится SpacaX в современном CFD, и как они это исправляют, можно прочитать по ссылке внизу. Если читать лень, то можно посмотреть запись доклада с конференции #NVIDIA #GTC&lt;/p&gt;
+&lt;p&gt;Маленькое:
+&lt;a href=&#34;https://www.youtube.com/watch?v=ozrvfRHvYHA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ozrvfRHvYHA&lt;/a&gt;
+Большое:
+&lt;a href=&#34;https://www.youtube.com/watch?v=txk-VO1hzBY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=txk-VO1hzBY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nextplatform.com/2015/03/27/rockets-shake-and-rattle-so-spacex-rolls-homegrown-cfd/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Rockets Shake And Rattle, So SpaceX Rolls Homegrown CFD&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=ozrvfRHvYHA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ozrvfRHvYHA&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=txk-VO1hzBY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=txk-VO1hzBY&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>От влекой Сандийской Национальной Лаборатории (#Sandia National Laboratories), средство моделирования механики быстропротекающих процессов CTH Shock Physics. #CHT написана а суровом Fortran и С, и вы ее точно ни за какие деньги не купите, так как код создан только и исключительно для американских военных.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-04-ot-vlekoy-sandiyskoy-natsionalnoy-labora/</link>
+      <pubDate>Thu, 04 Feb 2016 07:00:37 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-04-ot-vlekoy-sandiyskoy-natsionalnoy-labora/</guid>
+      <description>&lt;p&gt;Умеет считать все, что может быть промоделировано в эйлеровой постановке метода конечных элементов. При этом запускает на всем: на Windows, на Linux и на Unix (включая OS X).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.sandia.gov/CTH/Capabilities-leftnav-level1_js.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Sandia National Laboratories: CTH Shock Physics: Capabilities&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

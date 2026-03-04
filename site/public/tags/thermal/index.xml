@@ -2,63 +2,164 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thermal on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/thermal/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/thermal/</link>
     <description>MagicDPD: Magic Driven Product Development! (Thermal)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 03 Mar 2021 18:31:57 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/thermal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/thermal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Подвижный источник тепла в ANSYS Mechanical</title>
-      <link>http://localhost:1313/posts/2021-03-03-podvizhnyy-istochnik-tepla-v-ansys-mechani/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-03-podvizhnyy-istochnik-tepla-v-ansys-mechani/</link>
       <pubDate>Wed, 03 Mar 2021 18:31:57 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-03-03-podvizhnyy-istochnik-tepla-v-ansys-mechani/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nqNNjeZxVlg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nqNNjeZxVlg&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-03-podvizhnyy-istochnik-tepla-v-ansys-mechani/</guid>
+      <description>&lt;p&gt;Подвижный источник тепла в ANSYS Mechanical&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nqNNjeZxVlg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nqNNjeZxVlg&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Сегодня будет жестко, и даже немного больно. Видео пример того, как при помощи развесистой командной вставки на APDL задать в ANSYS Mechanical подвижный источник тепла. Ну а подвижный источник тепла нужен уже для моделирования сварки, наплавки или лазерной резки металла.&lt;/p&gt;
 &lt;p&gt;#additive_manufacturing #ansys #apdl #mechanical #thermal #welding
+&lt;a href=&#34;https://tinyurl.com/ybauhn3m&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ybauhn3m&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nqNNjeZxVlg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS TUTORIAL:  moving 3D Gaussian heat source with stepped cylinder shape&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/ybauhn3m&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ybauhn3m&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Определение усталостной долговечности для термомеханических </title>
-      <link>http://localhost:1313/posts/2019-02-11-opredelenie-ustalostnoy-dolgovechnosti-dl/</link>
+      <title>Краштесты аккумуляторов в LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-01-15-krashtesty-akkumulyatorov-v-ls-dyna/</link>
+      <pubDate>Wed, 15 Jan 2020 13:01:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-01-15-krashtesty-akkumulyatorov-v-ls-dyna/</guid>
+      <description>&lt;p&gt;Краштесты аккумуляторов в LS-DYNA
+Как вы могли заметить, аккумуляторы окружают нас со всех сторон: от беспроводных наушников и телефонов до автомобилей. И все эти аккумуляторы могут потенциально очень плохо себя вести при повреждении. LSTC уже несколько лет разрабатывает методику и инструменты для расчетов краштестов аккумуляторов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=xU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.youtube.com/watch?v=xU&lt;/a&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Для этого в коде реализована расчетная схема, позволяющая организовать сильно связанный расчет сразу четырех (!!!) физик: прочность, тепло, электромагнетизм и химия. Кроме того, все это может быть дополнительно сопряжено с пятой физикой (но уже в более &amp;ldquo;мягком&amp;rdquo; режиме) - CFD для расчета сопряженного тепломассообмена, а в будущем и для магнитореологических жидкостей.&lt;/p&gt;
+&lt;p&gt;Решая такую сложную междисциплинарную задачу, специалисты по пассивной безопасности могут оценивать вероятность ущерба, наносимого батарее при ударных воздействиях, внешнем и внутреннем коротком замыкании и дальнейший разогрев/деградацию/разрушении объекта.
+#battery@magicdpd, #ICFD@magicdpd, #LSDYNA@magicdpd, #LSDYNA_EM@magicdpd, #thermal@magicdpd&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/battery-crash-simulations-in-ls-dyna/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Краштесты аккумуляторов в LS-DYNA - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Infoday Welding and Heat Treatment</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-08-infoday-welding-and-heat-treatment/</link>
+      <pubDate>Tue, 08 Oct 2019 13:00:25 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-08-infoday-welding-and-heat-treatment/</guid>
+      <description>&lt;p&gt;Infoday Welding and Heat Treatment&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/infoday-welding-and-heat-treatment/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Infoday Welding and Heat Treatment - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-DYNA welding simulation</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-06-ls-dyna-welding-simulation/</link>
+      <pubDate>Fri, 06 Sep 2019 13:00:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-06-ls-dyna-welding-simulation/</guid>
+      <description>&lt;p&gt;LS-DYNA welding simulation&lt;/p&gt;
+&lt;p&gt;Первый взгляд на работу *MATCWM и *BOUNDARY\THERMAL_WELD_TRAJECTORY в неявном нелинейном тепловом решателе&lt;/p&gt;
+&lt;p&gt;#Additive_Manufacturing #implicit #LS_DYNA #thermal #welding&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Fj&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Fj&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Fj&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Fj&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Решения задач теплопроводности наглядно</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-01-resheniya-zadach-teploprovodnosti-naglyadno/</link>
+      <pubDate>Mon, 01 Apr 2019 10:39:53 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-01-resheniya-zadach-teploprovodnosti-naglyadno/</guid>
+      <description>&lt;p&gt;Решения задач теплопроводности наглядно&lt;/p&gt;
+&lt;p&gt;Расчет конвекции для женщины в упрощении вертикального цилиндра&lt;/p&gt;
+&lt;p&gt;Лучистый теплообмен — это как строить глазки&lt;/p&gt;
+&lt;p&gt;Тепловой контакт происходит при хождении по углям босяком&lt;/p&gt;
+&lt;p&gt;#LS_DYNA #LSTC #thermal&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2rS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2rS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2rS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2rS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Определение усталостной долговечности для термомеханических задач</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-11-opredelenie-ustalostnoy-dolgovechnosti-dl/</link>
       <pubDate>Mon, 11 Feb 2019 12:00:44 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-02-11-opredelenie-ustalostnoy-dolgovechnosti-dl/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-11-opredelenie-ustalostnoy-dolgovechnosti-dl/</guid>
       <description>&lt;p&gt;В магазине ACT-расширений ANSYS недавно появилось приложение для расчетов на усталость для термомеханических задач по LCF. Теория и ссылка на источники внутри.&lt;/p&gt;
 &lt;p&gt;Может скоро появится в основном функционале Fatigue?&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://catalog.ansys.com/product/5bd702e5393ff657fc70de9e/thermo-mechanical#download&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://catalog.ansys.com/product/5bd702e5393ff657fc70de9e/thermo-mechanical#download&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ACT #ANSYS #CAE #Fatigue #thermal&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2hW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2hW&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;by Ян Поженько&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://catalog.ansys.com/product/5bd702e5393ff657fc70de9e/thermo-mechanical#download&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://catalog.ansys.com/product/5bd702e5393ff657fc70de9e/thermo-mechanical#download&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2hW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2hW&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Электромагнитный решатель LS-DYNA: связка с задачами механик</title>
-      <link>http://localhost:1313/posts/2018-02-23-elektromagnitnyy-reshatel-ls-dyna-svyazk/</link>
+      <title>Баллистическая теплопроводность</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-29-ballisticheskaya-teploprovodnost/</link>
+      <pubDate>Sun, 29 Jul 2018 18:01:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-29-ballisticheskaya-teploprovodnost/</guid>
+      <description>&lt;p&gt;Баллистическая теплопроводность
+Хочу обратить ваше внимание на очень интересную работу, которую ведут сейчас мои коллеги в питерском Политехе. В результате исследований и теоретических выкладок вырисовывается физическое явление баллистической теплопроводности.
+Оказывается, что тепло в сверхчистых кристаллах передается со скоростью упругих волн, а совсем не так, как предписывает закон Фурье. А еще температура в законах, описывающих баллистическую теплопроводность, оказывается совсем не скалярной величиной, скорее это тензор второго ранга или еще что похлеще.
+Далее исходный материал со ссылками на научные статьи:
+&lt;a href=&#34;https://vk.com/@rnfpage-kristall&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/@rnfpage-kristall&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Thermal #TrueScience
+&lt;a href=&#34;http://bit.ly/2OrOQmg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OrOQmg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vk.com/@rnfpage-kristall&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ученые исследовали аномальные свойства сверхчистых кристаллов&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2OrOQmg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OrOQmg&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Что может ANSYS в аддитивных технологиях</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-27-chto-mozhet-ansys-v-additivnyh-tehnologiyah/</link>
+      <pubDate>Tue, 27 Feb 2018 18:00:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-27-chto-mozhet-ansys-v-additivnyh-tehnologiyah/</guid>
+      <description>&lt;p&gt;Что может ANSYS в аддитивных технологиях
+Аддитивные технологии сейчас переживают бурный расцвет — все хотят проектировать и производить конструкции невиданных доселе форм невиданными доселе способами.
+Если с формами все более менее понятно: алгоритмы оптимизации топологии позволяют получить оптимальные очертания геометрии автоматизированно, то с невиданными способами производства все несколько сложнее. Аддитивные технологии (читай 3D печать) остро нуждаются в моделировании физических процессов с ними связанных.
+В прошлом году для релиза 18.2 компания ANSYS выпустила бесплатное ACT расширение «Additive Manufacturing Process Modeling» (&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-318%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-318)&lt;/a&gt;, позволяющее всем желающим оценить будущие возможности своей системы. Расширение имеет статус технического демо, но в комплекте с ним уже идет обширная документация.
+А сейчас мне удалось найти в сети еще и готовый видеоурок в двух частях, показывающий пошаговую работу с расширением — видеоурок идет с весьма полезными комментариями.
+Первая часть урока — постановка задачи:&lt;/p&gt;
+&lt;p&gt;Вторая часть урока — анализ полученных результатов:&lt;/p&gt;
+&lt;p&gt;P.S. Ссылка от автора на свойства материалов, использованных в видео: http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=mq316a&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-318&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-318&lt;/a&gt;
+&lt;a href=&#34;http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=mq316a&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=mq316a&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Электромагнитный решатель LS-DYNA: связка с задачами механики</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-23-elektromagnitnyy-reshatel-ls-dyna-svyazk/</link>
       <pubDate>Fri, 23 Feb 2018 18:00:28 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-02-23-elektromagnitnyy-reshatel-ls-dyna-svyazk/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-23-elektromagnitnyy-reshatel-ls-dyna-svyazk/</guid>
       <description>&lt;p&gt;Сегодня 4-ая часть серии учебных видео по работе с EM решателем LS-DYNA. И сегодня мы перейдем к разбору того, как в задаче электромагнитной штамповки осуществлятеся свзка трех физик: прочности, тепла и электромагнитизма.&lt;/p&gt;
 &lt;p&gt;Для начал нам рассказывают, какие именно допущеня при решении уравнений Максвела используются в рассматриваемой постновке задачи.
 Мне очень поравилась часть, рассказывающая о связке трех незваисимо работающих решателей — тепла, прочтости и электромагнетизма. Мало того, что у каждого решателя свой шаг по времени, так они еще и используют кто FEM, а кто BEM постновки. И тут есть вожный момент — FEM/BEM постновку для EM решателя надо перестраивать при деформации геометрии (карты *EM_SOLVER_FEM и *EM_SOLVER_BEM), а она у нас в этом уроке уже будет.&lt;/p&gt;
 &lt;p&gt;В видео также вводится понятия EM EOS — уравнения состояния для материала, используемое электромагнитным решателем для учета влияния тепловых эффектов на проводимость. Тут можно использовать как готовые уравнения состояния, так и задать свои собственные уравнения в аналитической форме или как процедуру на Fortran (аналогично карте *DEFINE_FUNCRION).&lt;/p&gt;
 &lt;p&gt;Таким образом, на данном этапе мы уже можем поставить задачу электромагнитной штамповки, организовав совместный расчет сразу трех физик: механики, тепла и электромагнитизма, что уже является внушительным набором. Файлы для самостоятельной тренировки лежать тут: http://www.dynaexamples.com/em/em_forming&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynaexamples.com/em/em_forming&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynaexamples.com/em/em_forming&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Учебное видео на тему работы с #ANSYS #Composite #Cure #Simu</title>
-      <link>http://localhost:1313/posts/2017-08-14-uchebnoe-video-na-temu-raboty-s-ansys-c/</link>
+      <title>Учебное видео на тему работы с #ANSYS #Composite #Cure #Simulation (#ACCS) - программного обеспечения математического моделирования процессов термической полимеризации композиционных материалов на основе технологий компании #LMAT (Lean Manufacturing &amp; Assembly Technologies http://www.lmat-uk.com/).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-14-uchebnoe-video-na-temu-raboty-s-ansys-c/</link>
       <pubDate>Mon, 14 Aug 2017 17:01:16 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-08-14-uchebnoe-video-na-temu-raboty-s-ansys-c/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-14-uchebnoe-video-na-temu-raboty-s-ansys-c/</guid>
       <description>&lt;p&gt;Типичный цикл моделирования выглядит примерно следующим образом:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Выбор математических моделей материлов из базы #ACCS&lt;/li&gt;
@@ -66,6 +167,9 @@
 &lt;li&gt;Решение нестационарной задачи теплопроводности (#Transient #Thermal) для описания процесса термической полимеризации в автоклаве&lt;/li&gt;
 &lt;li&gt;Решение статической задачи механики (#Static #Structural) для определения деформаций конструкции в следствии теплового расширения и возможной неравномерной полимеризации. &lt;a href=&#34;https://youtu.be/HufoH6O1ntM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/HufoH6O1ntM&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.lmat-uk.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Home&lt;/a&gt;
+&lt;a href=&#34;http://www.lmat-uk.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lmat-uk.com/&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/HufoH6O1ntM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/HufoH6O1ntM&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

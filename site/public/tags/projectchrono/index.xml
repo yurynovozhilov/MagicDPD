@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projectchrono on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/projectchrono/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Projectchrono)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 12 Mar 2021 13:01:28 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/projectchrono/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project Chrono</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-12-project-chrono/</link>
+      <pubDate>Fri, 12 Mar 2021 13:01:28 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-12-project-chrono/</guid>
+      <description>&lt;p&gt;Project Chrono&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/185824185&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vimeo.com/185824185&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Chrono - это открытый фреймворк математического моделирования физических процессов на C++. Библиотеки фреймворк позволяют решать такие задачи, как твердотельная кинематика, CFD и FEM моделирование и различные бессеточные методы/методы частиц. Разработкой кода занимается Висконсинский центр прикладных вычислений (Wisconsin Applied Computing Center, WACC) Университета штата Висконсин-Мэдисон (University of Wisconsin-Madison). Кроме того, доступна работа с фреймворком из Python благодаря PyChrono. Кроме того, все это еще может стыковаться с TensorFlow для накопления статистики и машинного обучения.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/FzF_W1-R5Eg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/FzF_W1-R5Eg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Вообще, так как задача создания хорошего сеточного оказывается сложнее, чем задача написания решателя, то, по моим наблюдениям, большинство современных исследовательских исходных кодов выбирают именно бессеточный путь. При этом, просадку производительности, по сравнению с сеточными методами, они решают активным использованием GPU. В целом, такой подход выглядит очень эффектным и эффективным, но не для классических задач прочности и гидро-аэро динамики.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/pd_vmqW67lA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/pd_vmqW67lA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Сайт проетка: &lt;a href=&#34;https://projectchrono.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://projectchrono.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-ENZxnEj-io&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=-ENZxnEj-io&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ogia_qyFufI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ogia_qyFufI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#gpu #open_source #projectchrono #pychrono
+&lt;a href=&#34;https://tinyurl.com/ydqtbqdu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ydqtbqdu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/185824185&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Chrono::Vehicle HMMWV with nonlinear FEA tires negotiating an obstacle on deformable, granular terrain&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/FzF_W1-R5Eg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/FzF_W1-R5Eg&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/pd_vmqW67lA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/pd_vmqW67lA&lt;/a&gt;
+&lt;a href=&#34;https://projectchrono.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://projectchrono.org/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=-ENZxnEj-io&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=-ENZxnEj-io&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=ogia_qyFufI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ogia_qyFufI&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/ydqtbqdu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ydqtbqdu&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Simulation-Based Engineering Lab (#SBEL) - один из основных пользователей/разработчиков #ProjectChrono.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-18-the-simulation-based-engineering-lab-s/</link>
+      <pubDate>Fri, 18 Dec 2015 07:00:33 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-18-the-simulation-based-engineering-lab-s/</guid>
+      <description>&lt;p&gt;Очень крутой сайт у этой команды из Университета Висконсин, штат Мэдисон.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://sbel.wisc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Welcome to the Simulation Based Engineering Laboratory (SBEL) website, Dan Negrut&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#ProjectChrono - набор открытых инструментов для решения задач механики.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-17-projectchrono-nabor-otkrytyh-instrume/</link>
+      <pubDate>Thu, 17 Dec 2015 18:00:38 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-17-projectchrono-nabor-otkrytyh-instrume/</guid>
+      <description>&lt;p&gt;Основное расчетное ядро написано на C++ и имеет возможность взаимодействовать с #Pyhon. Кроме того, есть модуль связки с #SolidWorks.&lt;/p&gt;
+&lt;p&gt;На сайте много примеров решения зада в постановке #DEM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=P-1VZoBnD_c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Tire 02&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ENGINEERING on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/engineering/</link>
+    <description>MagicDPD: Magic Driven Product Development! (ENGINEERING)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 16 Oct 2017 17:08:20 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Портал #ENGINEERING.com на базе опроса 230 профессиональных пользователей #CAD программного обеспечения собрали очень любопытную статистику на тему, какой из современных #САПР больше всего любит кушать мозг, и насколько большая у него для этого ложечка есть.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-16-portal-engineeringcom-na-baze-oprosa-2/</link>
+      <pubDate>Mon, 16 Oct 2017 17:08:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-16-portal-engineeringcom-na-baze-oprosa-2/</guid>
+      <description>&lt;p&gt;В соревновании приняли участие (под раздачу попали):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#SOLIDWORKS&lt;/li&gt;
+&lt;li&gt;#SolidEdge&lt;/li&gt;
+&lt;li&gt;#NX&lt;/li&gt;
+&lt;li&gt;#AutoCAD&lt;/li&gt;
+&lt;li&gt;#Creo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Непонятно только, почему в опросе никто не вспомнил про #CATIA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ENGINEERING.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ENGINEERING.com&lt;/a&gt; 🔗 ENGINEERING.com | Information &amp;amp; Inspiration for Engineers&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2yppWMe&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yppWMe&lt;/a&gt;
+&lt;a href=&#34;http://engineering.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://engineering.com/&lt;/a&gt;
+&lt;a href=&#34;http://ENGINEERING.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ENGINEERING.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Submodeling в LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-11-submodeling-v-ls-dyna/</link>
+      <pubDate>Tue, 11 Jul 2017 17:00:59 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-11-submodeling-v-ls-dyna/</guid>
+      <description>&lt;p&gt;Submodeling в LS-DYNA
+&lt;a href=&#34;https://support.ansys.com/staticassets/ANSYS/Conference/Santa&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://support.ansys.com/staticassets/ANSYS/Conference/Santa&lt;/a&gt; Clara/downloads/Explicit Drop Test with ANSYS LS-DYNA - Chris Cowan.pdf&lt;/p&gt;
+&lt;p&gt;Есть такая замечательная техника уточнения модели, как подмоделирование или субмоделирование (#submodeling). Она заключается в создании глобальной модели с грубой сеткой, и последующем модеированием отдельных ее частей с большим уровнем точности. Эти подмодели просто вырезаются из геометрии большой модели. При этом, на границы среза подмодели передаются перемещения (жесткие граничные условия), полученные в глобальной модели.&lt;/p&gt;
+&lt;p&gt;Существует мнение, что техника submodeling применима только для квазистатической постановки. Как оказывается, это не совсем правда - статистику, как всегда, портит #LSDYNA. У нее есть замечательная методика Component Analysis, которая делает практически то же самое, что Submodeling, но для динамических задач.&lt;/p&gt;
+&lt;p&gt;Во вложении есть презентация Криса Соуэна (Chris Cowan) из #Ozen #Engineering об использовании данной техники на практике.&lt;/p&gt;
+&lt;p&gt;Всем заинтересованным надо почитать описание карт *INTERFACE_COMPONENT_SEGMENT и *INTERFACE_LINKING_SEGMENT&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://support.ansys.com/staticassets/ANSYS/Conference/Santa&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://support.ansys.com/staticassets/ANSYS/Conference/Santa&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>blastFOAM на базе OpenFOAM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-30-blastfoam-na-baze-openfoam/</link>
+      <pubDate>Tue, 30 May 2017 17:00:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-30-blastfoam-na-baze-openfoam/</guid>
+      <description>&lt;p&gt;blastFOAM на базе OpenFOAM
+&lt;a href=&#34;https://mobile.twitter.com/twitter/status/855430759951323137&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://mobile.twitter.com/twitter/status/855430759951323137&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Очень интересный код, про который почти не никаких данных - #blastFOAM. Судя по всему, это сборка #opensource #CFD кода #OpenFOAM для решения задач распространения ударных волн в жидкостях и газах. Если у кого есть больше информации - буду признателен за нее. Пока у меня только пара твитов по теме от #Protection #Engineering&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mobile.twitter.com/twitter/status/855430759951323137&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;PEC&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Болтовые соединения в LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-11-boltovye-soedineniya-v-ls-dyna/</link>
+      <pubDate>Tue, 11 Apr 2017 17:04:07 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-11-boltovye-soedineniya-v-ls-dyna/</guid>
+      <description>&lt;p&gt;Болтовые соединения в LS-DYNA
+&lt;a href=&#34;http://www.protection-consultants.com/tech-notes/bolted-connection-modeling-ls-dyna-large-vehicle-models/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.protection-consultants.com/tech-notes/bolted-connection-modeling-ls-dyna-large-vehicle-models/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Большая и хорошая методическая публикация на тему моделирования болтовых соединений в #LSDYNA от компании #Protection #Engineering&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.protection-consultants.com/tech-notes/bolted-connection-modeling-ls-dyna-large-vehicle-models/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Bolted Connection Modeling in LS-DYNA for Large Vehicle Models | PEC&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

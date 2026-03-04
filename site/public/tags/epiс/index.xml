@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EPIС on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/epi%D1%81/</link>
+    <description>MagicDPD: Magic Driven Product Development! (EPIС)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 22 Mar 2019 12:00:19 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/epi%D1%81/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>vSMP для AMD EPYC</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-22-vsmp-dlya-amd-epyc/</link>
+      <pubDate>Fri, 22 Mar 2019 12:00:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-22-vsmp-dlya-amd-epyc/</guid>
+      <description>&lt;p&gt;vSMP для AMD EPYC&lt;/p&gt;
+&lt;p&gt;Рецепт HPC портно, или как сделать большой сервер за недорого:&lt;/p&gt;
+&lt;p&gt;взять 4 свежих сервера поставить в каждый по 2 просессора AMD EPYC 7601 (32 физических ядра и 64 виртуальных потока),соединить при помощи Infinibandдобавить ПО помпании ScaleMP&lt;/p&gt;
+&lt;p&gt;В итоге получим одну виртаульную машину на 256 физических ядер и общей памятью.&lt;/p&gt;
+&lt;p&gt;#AMD #EPIС #HPC #ScaleMP #vSMP&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2r5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2r5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2r5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2r5&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

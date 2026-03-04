@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ГОСТ on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/%D0%B3%D0%BE%D1%81%D1%82/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/%D0%B3%D0%BE%D1%81%D1%82/</link>
     <description>MagicDPD: Magic Driven Product Development! (ГОСТ)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Mon, 20 Aug 2018 18:01:14 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/%D0%B3%D0%BE%D1%81%D1%82/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/%D0%B3%D0%BE%D1%81%D1%82/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Нумерация и выравнивание формул в Word без таблиц</title>
-      <link>http://localhost:1313/posts/2018-08-20-numeratsiya-i-vyravnivanie-formul-v-word-b/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-20-numeratsiya-i-vyravnivanie-formul-v-word-b/</link>
       <pubDate>Mon, 20 Aug 2018 18:01:14 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-08-20-numeratsiya-i-vyravnivanie-formul-v-word-b/</guid>
-      <description>&lt;p&gt;Что бы вы сказали, если бы узнали, что можно нумеровать формулы в Word вручную или автоматически, не только сохраняя правильное выравнивание по центру, но и выставляя номера по правому краю?
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-20-numeratsiya-i-vyravnivanie-formul-v-word-b/</guid>
+      <description>&lt;p&gt;Нумерация и выравнивание формул в Word без таблиц
+Что бы вы сказали, если бы узнали, что можно нумеровать формулы в Word вручную или автоматически, не только сохраняя правильное выравнивание по центру, но и выставляя номера по правому краю?
 Скажу так, в последнее время я пишу много околонаучных и научных текстов с формулами и научился нескольким трюкам, существенно облегчающим жизнь в Word. Сегодня я расскажу про нумерацию формул. В рассказе будет 2 этапа: ручная и автоматическая нумерация, но обе с правильным выравниванием.
 Первый этап: задаем номер формулы вручную, но в правильном месте.&lt;/p&gt;
 &lt;p&gt;Вызываем стандартный редактор формул, нажатием кнопки &amp;ldquo;Уравнение&amp;rdquo; на ленте &amp;ldquo;Вставить&amp;rdquo;. Создаем формулу, которая вам нужна или просто временную заглушку.
@@ -39,6 +40,35 @@
 Теперь ссылку на формулу можно дать через добавление перекрестной ссылки на нужную закладку.&lt;/p&gt;
 &lt;p&gt;#Microsoft #Word #ГОСТ
 &lt;a href=&#34;http://bit.ly/2ON3Udk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2ON3Udk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2ON3Udk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2ON3Udk&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Дисер в LaTeX</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-23-diser-v-latex/</link>
+      <pubDate>Thu, 23 Feb 2017 17:02:47 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-23-diser-v-latex/</guid>
+      <description>&lt;p&gt;Дисер в LaTeX
+&lt;a href=&#34;https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Тема оформления списка литературы по #ГОСТ вызвала неподдельный интерес у всей аудитории - грех ее не продолжить. Специально для тех, кто умеет и любит верстать научные статьи в #LaTeX Андрей Акиньшин в своем репозитории на #GitHub создал готовый правильный (ГОСТ Р 7.0.11-2011) шаблон для написания #PHD диссертации (ака #дисер).
+Шаблон готов к употреблению - надо только форкнуть его и начать править в TeX редактора. Например, есть классный облачный wysiwyg редактор #ShareLaTeX (&lt;a href=&#34;https://www.sharelatex.com/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.sharelatex.com/)&lt;/a&gt;, который легко подхватываю шаблон прямо из гита и работает бесплатно в однопользовательском режиме.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;GitHub - AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template: LaTeX-template for russian Phd thesis&lt;/a&gt;
+&lt;a href=&#34;https://www.sharelatex.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.sharelatex.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Список литературы по ГОСТ</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-19-spisok-literatury-po-gost/</link>
+      <pubDate>Sun, 19 Feb 2017 12:03:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-19-spisok-literatury-po-gost/</guid>
+      <description>&lt;p&gt;Список литературы по ГОСТ
+&lt;a href=&#34;https://github.com/irandom/docs/tree/master/gost-r-7.0.5-2008&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/irandom/docs/tree/master/gost-r-7.0.5-2008&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Почему-то #Microsoft #Word упорно не хочет понимать и принимать отечественные правила форматирования научных текстов. Однако добрые люди вложили на #GitHub специальный шаблон, позволяющий делать список литературы по #ГОСТ Р 7.0.5-2008 прямо в Word - всем удачного использования при написании статей и отчетов!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/irandom/docs/tree/master/gost-r-7.0.5-2008&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;docs/gost-r-7.0.5-2008 at master · irandom/docs&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

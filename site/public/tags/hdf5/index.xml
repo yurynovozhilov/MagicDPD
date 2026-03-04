@@ -2,23 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HDF5 on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/hdf5/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/hdf5/</link>
     <description>MagicDPD: Magic Driven Product Development! (HDF5)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 06 Nov 2017 17:05:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Mar 2021 14:48:38 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/hdf5/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/hdf5/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>В рамках проекта разработки #python библиотеки qd-cae-python</title>
-      <link>http://localhost:1313/posts/2017-11-06-v-ramkah-proekta-razrabotki-python-bibl/</link>
+      <title>Моделирование процесса намотки препрега</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-31-modelirovanie-protsessa-namotki-preprega/</link>
+      <pubDate>Wed, 31 Mar 2021 14:48:38 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-31-modelirovanie-protsessa-namotki-preprega/</guid>
+      <description>&lt;p&gt;Моделирование процесса намотки препрега&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=9SqoHrxn3Qw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=9SqoHrxn3Qw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Некоторые композитные изделия, как, например, баллонны высокого давления, изготавливаются из перепрегов методом намотки. Задать такую слоистую структуру с учетом переплетения всех слоев даже в Ansys ACP может оказаться довольно сложной задачей, не решаемой без создания специальных управляющих Python макросов.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=57utRRS0M_k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=57utRRS0M_k&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Однако, для этой задачи есть специальное ПО, такое, как например, CADWIND. Данное ПО позволяет промоделировать и оптимизировать процесс намотки изделия. Что особенно приятно, данные о получаемой слоистой структуре могут быть переданы в формате HDF5 в Ansys ACP для дальнейших расчетов, так как эти платформы дружа (&lt;a href=&#34;https://www.ansys.com/blog/solving-composite-design-challenges%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/blog/solving-composite-design-challenges)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;#acp #ansys #cadwind #composite #hdf5
+&lt;a href=&#34;https://tinyurl.com/yjp2ftfb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yjp2ftfb&lt;/a&gt;
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=9SqoHrxn3Qw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CADWIND Filament Winding Software: how CADWIND works with your machine controller&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=57utRRS0M_k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=57utRRS0M_k&lt;/a&gt;
+&lt;a href=&#34;https://www.ansys.com/blog/solving-composite-design-challenges&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/blog/solving-composite-design-challenges&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yjp2ftfb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yjp2ftfb&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tailsit D3PLOT2HDF5</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-01-10-tailsit-d3plot2hdf5/</link>
+      <pubDate>Fri, 10 Jan 2020 14:23:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-01-10-tailsit-d3plot2hdf5/</guid>
+      <description>&lt;p&gt;Tailsit D3PLOT2HDF5
+#Ensight #HDF5 #LS_DYNA #Paraview #Tailsit #VisIt
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/tailsit-d3plot2hdf5/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Tailsit D3PLOT2HDF5 - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>В рамках проекта разработки #python библиотеки qd-cae-python, которая сейма в основном затачивается под работу с #LSDYNA, реализована возможность расширенной работы со стандартными файлами бинарных результатов d3plot - например их конвертация в формат HDF5. Данный формат имеет ряд преимуществ - возможность параллельной обработки на #HPC системах (и это тоже реализовано в библиотеке).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-06-v-ramkah-proekta-razrabotki-python-bibl/</link>
       <pubDate>Mon, 06 Nov 2017 17:05:48 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-06-v-ramkah-proekta-razrabotki-python-bibl/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-06-v-ramkah-proekta-razrabotki-python-bibl/</guid>
       <description>&lt;p&gt;#HDF5&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.qd-eng.de/index.php/2017/11/02/convert-a-d3plot-to-hdf5/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.qd-eng.de/index.php/2017/11/02/convert-a-d3plot-to-hdf5/&lt;/a&gt; 🔗 Convert a D3plot to HDF5 – qd-eng&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2hfnNyJ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hfnNyJ&lt;/a&gt;
+&lt;a href=&#34;http://www.qd-eng.de/index.php/2017/11/02/convert-a-d3plot-to-hdf5/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.qd-eng.de/index.php/2017/11/02/convert-a-d3plot-to-hdf5/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

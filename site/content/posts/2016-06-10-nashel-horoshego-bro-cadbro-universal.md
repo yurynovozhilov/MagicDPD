@@ -7,7 +7,8 @@ link_previews:
     take you through the entire product development journey from conception to production.
   image: ''
   title: ZW3D - Unify Design, Simulation and Manufacturing to Improve Productivity
-  url: http://www.cadbrother.com
+  url: http://web.archive.org/web/20200915030508/https://www.cadbrother.com/
+  original_url: http://www.cadbrother.com
 source: vk
 tags:
 - CADbro
@@ -17,4 +18,6 @@ title: "Нашел хорошего Бро: #CADbro - универсальный
 
 Дело за маленьким - $1500
 
-http://www.cadbrother.com
+~~http://www.cadbrother.com~~ → [Сохранённая версия](http://web.archive.org/web/20200915030508/https://www.cadbrother.com/)
+
+*Оригинальная ссылка больше не доступна*

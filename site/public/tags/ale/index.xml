@@ -1,84 +1,194 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ALE on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/ale/</link>
-    <description>MagicDPD: Magic Driven Product Development! (ALE)</description>
+    <title>Ale on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/ale/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Ale)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 24 Feb 2022 17:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jun 2022 18:41:29 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/ale/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/ale/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Недавно я писал про модель сердца, которую сделали на день с</title>
-      <link>http://localhost:1313/posts/2022-02-24-nedavno-ya-pisal-pro-model-serdtsa-kotor/</link>
+      <title>Свежая презентация по #Ansys #LSDYNA #ALE от #DYNAmore. Контент очень концентрированный. Прям как все учебные курсы по теме в одном видео. https://www.youtube.com/watch?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-06-09-svezhaya-prezentatsiya-po-ansys-lsdyna-al/</link>
+      <pubDate>Thu, 09 Jun 2022 18:41:29 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-06-09-svezhaya-prezentatsiya-po-ansys-lsdyna-al/</guid>
+      <description>&lt;p&gt;v=wXXORbcRPjI&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=wXXORbcRPjI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=wXXORbcRPjI&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Недавно я писал про модель сердца, которую сделали на день святого Валентина. Я решил поискать, кто ее разработал. И тут я нашел сайт группы #TAFSM (Team for Advanced Flow Simulation and Modeling), и я не смог пройти мимо него!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-24-nedavno-ya-pisal-pro-model-serdtsa-kotor/</link>
       <pubDate>Thu, 24 Feb 2022 17:00:10 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-02-24-nedavno-ya-pisal-pro-model-serdtsa-kotor/</guid>
-      <description>&lt;p&gt;#SPH #ALE #ICFD #CFD #ANSYS &lt;a href=&#34;https://www.tafsm.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.tafsm.org&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-24-nedavno-ya-pisal-pro-model-serdtsa-kotor/</guid>
+      <description>&lt;p&gt;Коллеги решают задачи сложного FSI с подвижными, зачастую тонкими и сильно деформируемыми телами. Их расчеты предельно детализированы, а по статьям и сборника &amp;ldquo;Frontiers in Computational Fluid-Structure Interaction and Flow Simulation&amp;rdquo; (&lt;a href=&#34;https://doi.org/10.1007/978-&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://doi.org/10.1007/978-&lt;/a&gt; 3- 319- 96469- 0) можно учиться самому лучшему. Ну и то, что коллеге любят считать #FSI в #LSDYNA - это отдельный повод для моей любви.
+#SPH #ALE #ICFD #CFD #ANSYS &lt;a href=&#34;https://www.tafsm.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.tafsm.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.tafsm.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.tafsm.org/&lt;/a&gt;
+&lt;a href=&#34;https://doi.org/10.1007/978-&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://doi.org/10.1007/978-&lt;/a&gt;
+&lt;a href=&#34;https://www.tafsm.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.tafsm.org&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделируем сердечный клапан</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-26-modeliruem-serdechnyy-klapan/</link>
+      <pubDate>Wed, 26 Jan 2022 17:00:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-26-modeliruem-serdechnyy-klapan/</guid>
+      <description>&lt;p&gt;Моделируем сердечный клапан&lt;/p&gt;
+&lt;p&gt;Презентация 2019 года по моделированию динамики трикуспидального сердечного клапана и его взаимодействия со стентом. Тут все, как я люблю: прочностной решатель #LSDYNA, решатель гидродинамики сжимаемых течений на базе #ALE, 2-way-FSI. Для меня в это работе главное, это наличие используемых параметров материалов и нагрузок, а также описание геометрии модели, позволяющее повторить численный эксперимент.
+#FSI #biomed #ANSYS&lt;/p&gt;
+&lt;p&gt;Вообще, всем заинтересованным данной темой, можно пройти по следующей поисковой ссылке: https://www.dynalook.com/search?SearchableText=heart+valve &lt;a href=&#34;https://www.dynalook.com/conferences/12th-european-ls-dyna-conference-2019/human-models-and-mathematical-models/luraghi_politecnico_di_milano.pdf/view&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/conferences/12th-european-ls-dyna-conference-2019/human-models-and-mathematical-models/luraghi_politecnico_di_milano.pdf/view&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dynalook.com/search?SearchableText=heart&amp;#43;valve&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/search?SearchableText=heart+valve&lt;/a&gt;
+&lt;a href=&#34;https://www.dynalook.com/conferences/12th-european-ls-dyna-conference-2019/human-models-and-mathematical-models/luraghi_politecnico_di_milano.pdf/view&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/conferences/12th-european-ls-dyna-conference-2019/human-models-and-mathematical-models/luraghi_politecnico_di_milano.pdf/view&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Новые возможности решателя LS-DYNA R13: часть II</title>
-      <link>http://localhost:1313/posts/2021-11-22-novye-vozmozhnosti-reshatelya-ls-dyna-r13/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-11-22-novye-vozmozhnosti-reshatelya-ls-dyna-r13/</link>
       <pubDate>Mon, 22 Nov 2021 14:02:34 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-11-22-novye-vozmozhnosti-reshatelya-ls-dyna-r13/</guid>
-      <description>&lt;p&gt;Коллеги, на этой неделе, в среду перед обедом я приглашаю вас посмотреть живой вебинар новым возможностям LS-DYNA R13. Это будет заключительное мероприятие посвященное именно новым возможностям данного решателя. В ходе часового (а может и дольше) доклада вы узнаете про следующие темы:&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-11-22-novye-vozmozhnosti-reshatelya-ls-dyna-r13/</guid>
+      <description>&lt;p&gt;Новые возможности решателя LS-DYNA R13: часть II&lt;/p&gt;
+&lt;p&gt;Коллеги, на этой неделе, в среду перед обедом я приглашаю вас посмотреть живой вебинар новым возможностям LS-DYNA R13. Это будет заключительное мероприятие посвященное именно новым возможностям данного решателя. В ходе часового (а может и дольше) доклада вы узнаете про следующие темы:&lt;/p&gt;
 &lt;p&gt;Работа с контактом, задачи штамповки и формовки.Акустика, вибрация, NVH и новый решатель для расчета ультразвуковых волн.Новый монолитный электромагнитный BEM-FEM решатель и работа с постоянными магнитами.Новые возможности (S-)ALE и его связка с тепловым решателем.Развитие неявного решателя ICFD для несжимаемых течений.Новые возможности явного решателя CESE для сжимаемых реагирующих многофазных течений.&lt;/p&gt;
 &lt;p&gt;Конечно, самая горячая тема тут на мой вкус будет в акустике и в CESE, но это только на мой вкус. Я уверен, что каждый найдет что-то по своим интересам.&lt;/p&gt;
 &lt;p&gt;Если вы хотите попасть на вебинар, то вам обязательно (!!!) надо пройти бесплатную регистрацию и не в последний момент: &lt;a href=&#34;https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13-chast-ii/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13-chast-ii/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ale #bem #cadfem #icfd #sael
+&lt;a href=&#34;https://tinyurl.com/yfxn6xfv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfxn6xfv&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13-chast-ii/?utm_source=sg&amp;amp;utm_medium=email&amp;amp;utm_campaign=web-24-11-21&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Новые возможности решателя LS-DYNA R13: часть II&lt;/a&gt;
+&lt;a href=&#34;https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13-chast-ii/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13-chast-ii/&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/yfxn6xfv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfxn6xfv&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Подходы к моделированию подушек безопастности</title>
-      <link>http://localhost:1313/posts/2021-02-15-podhody-k-modelirovaniyu-podushek-bezopast/</link>
-      <pubDate>Mon, 15 Feb 2021 18:09:18 +0000</pubDate>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-15-podhody-k-modelirovaniyu-podushek-bezopast/</link>
+      <pubDate>Mon, 15 Feb 2021 18:09:50 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-02-15-podhody-k-modelirovaniyu-podushek-bezopast/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MI_u7HEnbyQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=MI_u7HEnbyQ&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-15-podhody-k-modelirovaniyu-podushek-bezopast/</guid>
+      <description>&lt;p&gt;Подходы к моделированию подушек безопастности&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MI_u7HEnbyQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=MI_u7HEnbyQ&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;В настоящее время LS-DYNA предлагает три различных метода моделирования подушек безопасности. Подход на основе однородного давления (UP, uniform pressure), старейший из доступных методов, является очень эффективным с вычислительной точки зрения и хорошо работает, например, для моделирования взаимодействия манекенов с полностью надутыми подушками безопасности. Для удовлетворения возросших требований, предъявляемых к современным имитационным моделям, все большее значение приобретает точное отображение фазы развертывания.Поэтому используется метод ALE, при котором &amp;ldquo;газовая&amp;rdquo; область дискретизирована конечными элементами, что позволяет моделировать эффекты потока газа и его взаимодействие с тканью подушки безопасности. Совсем недавно был реализован метод корпускулярных частиц (CPM, Corpuscular Particle Method), где газ представлен дискретными частицами, взаимодействующими друг с другом и с окружающей их средой. Кстати, все эти методы могут применять не только для моделирования подушек безопастности, то и для расчетом сосудов и трубопроводов под давлением: моделирование динамики пневматических покрышек, моделирование баллонов  пневматической подвески или даже пневматические испытания трубопровода.&lt;/p&gt;
 &lt;p&gt;#airbag #ale #cpm #ls-dyna
-&lt;a href=&#34;https://tinyurl.com/y44xkm2g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y44xkm2g&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/y4frz8xs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y4frz8xs&lt;/a&gt;
 by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MI_u7HEnbyQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DYNAmore Express: Overview on Airbag Modeling Possibilities in LS DYNA&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/y4frz8xs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y4frz8xs&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-DYNA S-ALE: S — как Super</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-05-08-ls-dyna-s-ale-s-kak-super/</link>
+      <pubDate>Fri, 08 May 2020 13:00:44 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-05-08-ls-dyna-s-ale-s-kak-super/</guid>
+      <description>&lt;p&gt;LS-DYNA S-ALE: S — как Super&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=PPtK3xrxCms&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Вебинар «LS-DYNA S-ALE – взаимодействие с телами в эйлеровой постановке»&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Вебинар «Методики моделирования взрывов в Ansys LS-DYNA»</title>
-      <link>http://localhost:1313/posts/2020-04-24-vebinar-metodiki-modelirovaniya-vzryvov/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-04-24-vebinar-metodiki-modelirovaniya-vzryvov/</link>
       <pubDate>Fri, 24 Apr 2020 15:27:20 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-04-24-vebinar-metodiki-modelirovaniya-vzryvov/</guid>
-      <description>&lt;p&gt;#ALE #blast #CESE #ConWep #FSI #LS_DYNA #ParticleBlast #S_ALE #SPH
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-04-24-vebinar-metodiki-modelirovaniya-vzryvov/</guid>
+      <description>&lt;p&gt;Вебинар «Методики моделирования взрывов в Ansys LS-DYNA»
+#ALE #blast #CESE #ConWep #FSI #LS_DYNA #ParticleBlast #S_ALE #SPH
 by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/%d0%b2%d0%b5%d0%b1%d0%b8%d0%bd%d0%b0%d1%80-%d0%bc%d0%b5%d1%82%d0%be%d0%b4%d0%b8%d0%ba%d0%b8-%d0%bc%d0%be%d0%b4%d0%b5%d0%bb%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f-%d0%b2%d0%b7%d1%80%d1%8b/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Вебинар &amp;ldquo;Методики моделирования взрывов в Ansys LS-DYNA&amp;rdquo; - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ловим оползень сеткой</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-04-22-lovim-opolzen-setkoy/</link>
+      <pubDate>Wed, 22 Apr 2020 13:53:59 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-04-22-lovim-opolzen-setkoy/</guid>
+      <description>&lt;p&gt;Ловим оползень сеткой&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/%d0%bb%d0%be%d0%b2%d0%b8%d0%bc-%d0%be%d0%bf%d0%be%d0%bb%d0%b7%d0%b5%d0%bd%d1%8c-%d1%81%d0%b5%d1%82%d0%ba%d0%be%d0%b9/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ловим оползень сеткой - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ударить самолетом об здание правильно</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-04-17-udarit-samoletom-ob-zdanie-pravilno/</link>
+      <pubDate>Fri, 17 Apr 2020 13:00:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-04-17-udarit-samoletom-ob-zdanie-pravilno/</guid>
+      <description>&lt;p&gt;Ударить самолетом об здание правильно
+#ALE #LS_DYNA #S_ALE
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/s-ale-aircraft-impact/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ударить самолетом об здание правильно - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Постановка S-ALE расчета в LS-PrePost Solution Explorer</title>
-      <link>http://localhost:1313/posts/2020-02-10-postanovka-s-ale-rascheta-v-ls-prepost-so/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-02-10-postanovka-s-ale-rascheta-v-ls-prepost-so/</link>
       <pubDate>Mon, 10 Feb 2020 13:00:14 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-02-10-postanovka-s-ale-rascheta-v-ls-prepost-so/</guid>
-      <description>&lt;p&gt;#ALE #FSI #LS_DYNA #LS_PrePost #S_ALE #Solution_Explorer
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-02-10-postanovka-s-ale-rascheta-v-ls-prepost-so/</guid>
+      <description>&lt;p&gt;Постановка S-ALE расчета в LS-PrePost Solution Explorer
+#ALE #FSI #LS_DYNA #LS_PrePost #S_ALE #Solution_Explorer
 by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/ls-dyna-structured-ale-using-ls-prepost-solution-explorer/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Постановка S-ALE расчета в LS-PrePost Solution Explorer - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-DYNA Structured-ALE ACT</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-04-ls-dyna-structured-ale-act/</link>
+      <pubDate>Thu, 04 Jul 2019 17:00:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-04-ls-dyna-structured-ale-act/</guid>
+      <description>&lt;p&gt;LS-DYNA Structured-ALE ACT&lt;/p&gt;
+&lt;p&gt;Не успели в ANSYS 19.2 открыть API для написания ACT расширений к WB LS-DYNA (которая сама по себе является ACT расширением), как им уже успели воспользоваться. Встречайте, расширение для работы с S-ALE решателем: &lt;a href=&#34;https://catalog.ansys.com/product/5c769050393ff6be9837bb9f/ls-dyna-structured&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://catalog.ansys.com/product/5c769050393ff6be9837bb9f/ls-dyna-structured&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В целом, штука позволяет значительно упростить подобные расчеты. Жаль только, что пост процессинга она делать не умеет — вам придется идти в LS-PrePost.&lt;/p&gt;
+&lt;p&gt;В комплекте два учебных примера: Тест Тейлора и удар птицы в крыло самолёта.&lt;/p&gt;
+&lt;p&gt;#ACT #ALE #ANSYS #LS_DYNA #S_ALE #Workbench&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2qv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2qv&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://catalog.ansys.com/product/5c769050393ff6be9837bb9f/ls-dyna-structured&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://catalog.ansys.com/product/5c769050393ff6be9837bb9f/ls-dyna-structured&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2qv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2qv&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ALE в Abaqus и LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-14-ale-v-abaqus-i-ls-dyna/</link>
+      <pubDate>Thu, 14 Mar 2019 12:55:48 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-14-ale-v-abaqus-i-ls-dyna/</guid>
+      <description>&lt;p&gt;ALE в Abaqus и LS-DYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=cfXKbvoQmrg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=cfXKbvoQmrg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;При решении в ALE (Arbitrary Lagrangian-Eulerian) постановке (с произвольным Лагранж-Эйлеровым поведением) КЭ решатель должен на четных итерациях делать расчет в Лагранжевой постановке, а на нечётных — в Эйлеровой. Таким образом, на каждом втором шаге система может «стравливать» материал, перераспределяя его количество между элементами. В разных решателях такой алгоритм работает немного по-разному.&lt;/p&gt;
+&lt;p&gt;#ABAQUS #ALE #LS_DYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2pN&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2pN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=cfXKbvoQmrg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=cfXKbvoQmrg&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2pN&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2pN&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Работают ли бессрочные методы?</title>
-      <link>http://localhost:1313/posts/2019-02-08-rabotayut-li-bessrochnye-metody/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-08-rabotayut-li-bessrochnye-metody/</link>
       <pubDate>Fri, 08 Feb 2019 04:36:58 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-02-08-rabotayut-li-bessrochnye-metody/</guid>
-      <description>&lt;p&gt;Работают ли бессрочные методы?
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-08-rabotayut-li-bessrochnye-metody/</guid>
+      <description>&lt;p&gt;Работают ли бессрочные методы?&lt;/p&gt;
+&lt;p&gt;Работают ли бессрочные методы?
 Небольшая статья с очередной конференции по #LSDYNA. В статье рассказывается о сравнении расчета с применением сеточных и бессрочных методов с экспериментом — разрывом металлического образца.
 Постановки:&lt;/p&gt;
 &lt;ul&gt;
@@ -93,101 +203,444 @@ by Юрий Новожилов&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ALE #EFG #FEM #Lagrangian #LS_DYNA #SPG #SPH&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-4867&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-4867&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/s9vWYY-4867&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-4867&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Создание волн в Abaqus</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-04-sozdanie-voln-v-abaqus/</link>
+      <pubDate>Sun, 04 Nov 2018 17:00:15 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-04-sozdanie-voln-v-abaqus/</guid>
+      <description>&lt;p&gt;Создание волн в Abaqus
+Учебное видео на 25 минут, которое показывает, как при помощи подвижной границы создавать волны при расчете жидкостей с использованием эйлеровой формулировки метода конечных элементов.&lt;/p&gt;
+&lt;p&gt;#ABAQUS #ALE
+&lt;a href=&#34;http://bit.ly/2PBJ056&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PBJ056&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2PBJ056&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PBJ056&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новые возможности S-ALE в LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-30-novye-vozmozhnosti-s-ale-v-ls-dyna/</link>
+      <pubDate>Thu, 30 Aug 2018 18:00:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-30-novye-vozmozhnosti-s-ale-v-ls-dyna/</guid>
+      <description>&lt;p&gt;Новые возможности S-ALE в LS-DYNA
+S-ALE - это стремительно развивающаяся версия решателя ALE (все что связано с эйлеровым доменом и произвольным лагранж-эйлеровым поведением) на структурированных сетках. За счёт  структурированности сеток реализация решателя получает сразу три ключевых преимущества:&lt;/p&gt;
+&lt;p&gt;снижение объема k-файла - сетка S-ALE не хранится, а генерируется решателем на лету
+снижение потребления памяти при расчете
+повышение вычислительной эффективности&lt;/p&gt;
+&lt;p&gt;В сети стала доступна презентация одного из главных разработчиков данного решателя, Хао Чена (Hao Chen), которая была показана на конференции в этом году.
+Ключевые нововведения в решателе:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Mesh Trimming - &amp;ldquo;подрезка&amp;rdquo; эйлерового домена под геометрию или склейка нескольких доменов в один, но уже сложной формы.&lt;/li&gt;
+&lt;li&gt;FOLLOW_GC - автоматическое движение и морфинг домена вслед за исследуемым объектом&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Multiple Meshes - возможность присутствия нескольких эйлеровых доменов в одном расчете, учет их взаимодействия&lt;/p&gt;
+&lt;p&gt;И конечно их можно комбинировать между собой - например, одновременно обрезать сеточный домен по контуру тела с отступом, а потом заставить его двигаться. Все это позволяет дополнительно оптимизировать работу и без того крайне эффективного S-ALE решателя.
+Презентация по этой тематике может быть скачана по ссылке в конце поста. Также, на слайдах презентации вы найдете ссылки на готовые примеры, демонстрирующие интересующий функционал.
+&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/hao/sale/tutorials/2018conf.pptx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/hao/sale/tutorials/2018conf.pptx&lt;/a&gt;
+P.S. Презентация весит около 50 Мб, грузится небыстро, открывается не торопясь - внутри много тяжёлых GIF.&lt;/p&gt;
+&lt;p&gt;#ALE #LSDYNA #SALE #Tutorial
+&lt;a href=&#34;http://bit.ly/2CdQZQv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2CdQZQv&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ftp.lstc.com/anonymous/outgoing/hao/sale/tutorials/2018conf.pptx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ftp.lstc.com/anonymous/outgoing/hao/sale/tutorials/2018conf.pptx&lt;/a&gt;
+&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/hao/sale/tutorials/2018conf.pptx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/hao/sale/tutorials/2018conf.pptx&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2CdQZQv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2CdQZQv&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Марс - наша цель!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-23-mars-nasha-tsel/</link>
+      <pubDate>Mon, 23 Jul 2018 18:00:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-23-mars-nasha-tsel/</guid>
+      <description>&lt;p&gt;Марс - наша цель!
+Постоянные читатели  этого блога скорее всего в курсе, что мы как-то моделировали аварийную посадку спускаемого модуля Марс-6, который разбился об одноименную красную планету в 1973 году. Небольшая статья по этой теме была на сайте Цифры. Правда она освещает примерно 5% объема работы.&lt;/p&gt;
+&lt;p&gt;А сейчас итоги нашей работы начинают мелькать на очень интересных сайтах. Например, они отметились на сайте N+1, в статье Марсианская археология и даже в заметке Энтузиасты нашли возможное место гибели советской станции &amp;ldquo;Марс-6&amp;rdquo; от РИА Новости.&lt;/p&gt;
+&lt;p&gt;#ALE #FSI #LSDYNA #SALE
+&lt;a href=&#34;http://bit.ly/2uXjj2A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2uXjj2A&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://multiphysics.ru/stati/proekty/modelirovanie-padeniia-spuskaemogo-apparata-mars-6.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Моделирование падения спускаемого аппарата «Марс-6» | Инженерные расчеты&lt;/a&gt;
+&lt;a href=&#34;https://nplus1.ru/blog/2018/07/21/mars-6-was-founded-or-no&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://nplus1.ru/blog/2018/07/21/mars-6-was-founded-or-no&lt;/a&gt;
+&lt;a href=&#34;https://ria.ru/space/20180720/1524981234.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ria.ru/space/20180720/1524981234.html&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2uXjj2A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2uXjj2A&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Аварийная посадка на Марс</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-06-avariynaya-posadka-na-mars/</link>
+      <pubDate>Fri, 06 Jul 2018 18:01:49 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-06-avariynaya-posadka-na-mars/</guid>
+      <description>&lt;p&gt;Аварийная посадка на Марс
+Вышла давно ожидаемая мной статья от Цифры по моделированию падения спускаемого аппарата «Марс-6» на красную планету. Данный проект стал результатом работы одного из выпускников первого набора &amp;ldquo;Школы Дамблдора&amp;rdquo; по направлению LS-DYNA.
+Работа сделана качественно, на КЭ сетках глаз отдыхает, постановки выверены - ничего лишнего. Обидно только, что в рамках возможностей сайта показано от силы 1/10 всех полученных результатов.
+Всем предлагаю пройти по ссылке в конце поста и почитать текст. Ну или хотя бы посмотреть визуализации результатов расчетов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://multiphysics.ru/stati/proekty/modelirovanie-padeniia-spuskaemogo-apparata-mars-6.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://multiphysics.ru/stati/proekty/modelirovanie-padeniia-spuskaemogo-apparata-mars-6.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ALE #Crash #FSI #LSDYNA #SALE #Мырешаем #ЦИФРА
+&lt;a href=&#34;http://bit.ly/2u5eaF8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2u5eaF8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://multiphysics.ru/stati/proekty/modelirovanie-padeniia-spuskaemogo-apparata-mars-6.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Моделирование падения спускаемого аппарата «Марс-6» | Инженерные расчеты&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2u5eaF8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2u5eaF8&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Знакомимся с METAFOR</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-02-znakomimsya-s-metafor/</link>
+      <pubDate>Fri, 02 Feb 2018 17:01:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-02-znakomimsya-s-metafor/</guid>
+      <description>&lt;p&gt;Знакомимся с METAFOR
+Сегодня у нас в меню Metafor - бесплатный решатель с открытым исходным кодом от Льежского университета (University of Liège).&lt;/p&gt;
+&lt;p&gt;Заявляется, что Metafor умеет много всего нужного для решения нелинейных задач механики:&lt;/p&gt;
+&lt;p&gt;2D/3D элементы с поддержкой больших деформаций&lt;/p&gt;
+&lt;p&gt;Implicit/explicit интегрирование по времени&lt;/p&gt;
+&lt;p&gt;Связка с тепловым решателем, элементы с механическими и тепловыми степенями свободы одновременно&lt;/p&gt;
+&lt;p&gt;Контакты с трением&lt;/p&gt;
+&lt;p&gt;Arbitrary Lagrangian Eulerian - наш любимый ALE&lt;/p&gt;
+&lt;p&gt;Динамические сетки&lt;/p&gt;
+&lt;p&gt;SPH
+И много еще чего полезного&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Весь это функционал отлично подходит для решения типичных explicit задач: обработка металлов давлением, нелинейная потеря устойчивости, FSI, пассивная безопасность транспорта, слошинг&lt;/p&gt;
+&lt;p&gt;Кроме того, у решателя есть свой канал на YouTube, где можно посмотреть на решаемые задачи.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ifBsRh_j6AI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ifBsRh_j6AI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nqxrvpCB6uU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nqxrvpCB6uU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=FU1FXO4C-1w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=FU1FXO4C-1w&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1rEJP7A6J6k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=1rEJP7A6J6k&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Вот сайт рашателя: &lt;a href=&#34;http://metafor.ltas.ulg.ac.be/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://metafor.ltas.ulg.ac.be/&lt;/a&gt;, а те, кто хотят попробовать проходят по этой ссылке: http://metafor.ltas.ulg.ac.be/dokuwiki/doc/user/start - документация и инструкции по установке, настройке и решению простейших задач.
+#ALE #Metafor #Open Source #SPH
+&lt;a href=&#34;https://magicdpd.ru/?p=6152&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6152&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ulg.ac.be/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ulg.ac.be/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=ifBsRh_j6AI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ifBsRh_j6AI&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=nqxrvpCB6uU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nqxrvpCB6uU&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=FU1FXO4C-1w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=FU1FXO4C-1w&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=1rEJP7A6J6k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=1rEJP7A6J6k&lt;/a&gt;
+&lt;a href=&#34;http://metafor.ltas.ulg.ac.be/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://metafor.ltas.ulg.ac.be/&lt;/a&gt;
+&lt;a href=&#34;http://metafor.ltas.ulg.ac.be/dokuwiki/doc/user/start&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://metafor.ltas.ulg.ac.be/dokuwiki/doc/user/start&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=6152&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6152&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Видео урок по моделированию воздействия ударной волны на тело человека.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-11-video-urok-po-modelirovaniyu-vozdeystviya/</link>
+      <pubDate>Sat, 11 Nov 2017 17:04:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-11-video-urok-po-modelirovaniyu-vozdeystviya/</guid>
+      <description>&lt;p&gt;Коллеги из #LSTC взяли имеющуюся у них модель тела человека, а вот взрывчатку смоделировали не в традиционной #ALE постановке, а в #SPH.&lt;/p&gt;
+&lt;p&gt;#LSDYNA #JWL #blast&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=gwH&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=gwH&lt;/a&gt;…Media📼 LS-DYNA tutorial | SPH method for Simulating Blast…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2ABHrJW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ABHrJW&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2xRPO1U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xRPO1U&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2gD26os&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2gD26os&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wQeysc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wQeysc&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vlBJYZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlBJYZ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2yu31Pl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yu31Pl&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2i5tcEP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i5tcEP&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=gwHJNFJBAu8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=gwHJNFJBAu8&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2ysxBIS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ysxBIS&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2ABHrJW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ABHrJW&lt;/a&gt;
+ttp://ift.tt/2ABHrJW&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-DYNA R10 - теперь официально</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-02-ls-dyna-r10-teper-ofitsialno/</link>
+      <pubDate>Wed, 02 Aug 2017 09:00:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-02-ls-dyna-r10-teper-ofitsialno/</guid>
+      <description>&lt;p&gt;LS-DYNA R10 - теперь официально
+&lt;a href=&#34;http://www.dynasupport.com/news/ls-dyna-r10.0.0-r10.118302-released&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynasupport.com/news/ls-dyna-r10.0.0-r10.118302-released&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#LSDYNA R10 теперь официально доступна. Есть и первый release note, который мы можем прочитать вместе. Вот, что я отметил из интересного для себя:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Возможность на лету скармливать HEX #ALE сетку #SALE решателю&lt;/li&gt;
+&lt;li&gt;Куча вкусностей для PARTICLE_BLAST&lt;/li&gt;
+&lt;li&gt;CONTACT_AUTOMATIC_SURFACE_TO_SURFACE_MORTAR_TIED_WELD для моделирования сварки по критерию нагрева и касания&lt;/li&gt;
+&lt;li&gt;При расчет пружинения учет износ поверхности - геометрия модифицируется решателем с учетом изношенности автоматически.&lt;/li&gt;
+&lt;li&gt;CONSTRAINED_BEAM_IN_SOLID теперь работает для случаев динамической сеточной адаптации solid сетки, умеет делать армирование в tshell элементах.&lt;/li&gt;
+&lt;li&gt;CONTROL_FORMING_SHELL_TO_TSHELL - конвертация shell (оболочек) в tshell (толстые оболочки) налету при штамповке и глубокой вытяжке&lt;/li&gt;
+&lt;li&gt;Учет износа и эрозии при взаимодействии #DEM с сеточными телами.&lt;/li&gt;
+&lt;li&gt;Адаптативное сеткоперестроение для PART_STACKED_ELEMENTS (моделирование композитов)&lt;/li&gt;
+&lt;li&gt;Куча новшеств в #ICFD: простой рестарт, учет демпфирования, стационарная постановка, Windkessel boundary conditions&lt;/li&gt;
+&lt;li&gt;Двухсторонний #FSI ICFD-DEM&lt;/li&gt;
+&lt;li&gt;Доработки материала MAT_CONCRETE_EC2&lt;/li&gt;
+&lt;li&gt;Опция AFTERBURN для EOS_JWL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Еще есть много всего для CASE и химического решателя, но ими я пока не пользовался, так что комментировать не могу.&lt;/p&gt;
+&lt;p&gt;Решатели лежат тут:
+&lt;a href=&#34;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&lt;/a&gt;
+&lt;a href=&#34;http://ftp.lstc.com/user/mpp-dyna/R10.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/mpp-dyna/R10.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Лицензии ANSYS LS-DYNA для 18.1 вполне хватает для запуска решателя.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dynasupport.com/news/ls-dyna-r10.0.0-r10.118302-released&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LS-DYNA R10.0.0 (R10.118302) released&lt;/a&gt;
+&lt;a href=&#34;http://www.dynasupport.com/news/ls-dyna-r10.0.0-r10.118302-released&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynasupport.com/news/ls-dyna-r10.0.0-r10.118302-released&lt;/a&gt;
+&lt;a href=&#34;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&lt;/a&gt;
+&lt;a href=&#34;http://ftp.lstc.com/user/mpp-dyna/R10.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/mpp-dyna/R10.0/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Материалы 11-ой европейской конференции по LS-DYNA</title>
-      <link>http://localhost:1313/posts/2017-06-04-materialy-11-oy-evropeyskoy-konferentsii/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-04-materialy-11-oy-evropeyskoy-konferentsii/</link>
       <pubDate>Sun, 04 Jun 2017 17:00:28 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-06-04-materialy-11-oy-evropeyskoy-konferentsii/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/11th-european-ls-dyna-conference&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/11th-european-ls-dyna-conference&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-04-materialy-11-oy-evropeyskoy-konferentsii/</guid>
+      <description>&lt;p&gt;Материалы 11-ой европейской конференции по LS-DYNA
+&lt;a href=&#34;http://www.dynalook.com/11th-european-ls-dyna-conference&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/11th-european-ls-dyna-conference&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Материалы конференции, прошедшей в Зальцбурге, стали доступны все и бесплатно на портале dynalook.com. Программа конференции также есть: &lt;a href=&#34;https://www.dynamore.de/de/download/flyer/2017/european-ls-dyna-conference-2017-invitation-agenda&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.de/de/download/flyer/2017/european-ls-dyna-conference-2017-invitation-agenda&lt;/a&gt;
 Я уже кое-что пролистал, и мне понравились некоторые работы по S-ALE и моделированию ударных волн.&lt;/p&gt;
 &lt;p&gt;#ALE, #SALE, #LSDYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/11th-european-ls-dyna-conference&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;11th European LS-DYNA Conference — Free Download of Papers from LS-DYNA Conferences - Service of LSTC and DYNAmore.&lt;/a&gt;
+dynalook.com
+&lt;a href=&#34;https://www.dynamore.de/de/download/flyer/2017/european-ls-dyna-conference-2017-invitation-agenda&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.de/de/download/flyer/2017/european-ls-dyna-conference-2017-invitation-agenda&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Интересную тему подсказали мне коллеги - штамповка взрывом. </title>
-      <link>http://localhost:1313/posts/2016-07-18-interesnuyu-temu-podskazali-mne-kollegi/</link>
+      <title>ALE для Abaqus</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-11-ale-dlya-abaqus/</link>
+      <pubDate>Sat, 11 Mar 2017 12:03:56 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-11-ale-dlya-abaqus/</guid>
+      <description>&lt;p&gt;ALE для Abaqus
+&lt;a href=&#34;https://www.youtube.com/watch?v=J9f_fmgMHfY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=J9f_fmgMHfY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ой мамочки: видео урок по распорке #ALE #FSI в #Abaqus. Я-то думал, что у Abaqus все хорошо с GUI и UI, но он застрял где-то на уровне #LSPP и #ANSYS 10.&lt;/p&gt;
+&lt;p&gt;P.S. #ALE (Arbitrary Lagrange Euler) для Abaqus называется #CEL (Coupled Eulerian Lagrangian) (CEL)
+#Sloshing
+&lt;a href=&#34;https://www.youtube.com/watch?v=J9f_fmgMHfY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=J9f_fmgMHfY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=J9f_fmgMHfY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Abaqus Coupled Eulerian Lagrangian (CEL) Modelling Tutorial: Example- Water Sloshing in Tank&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Красивое видео</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-11-krasivoe-video/</link>
+      <pubDate>Sat, 11 Feb 2017 17:01:34 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-11-krasivoe-video/</guid>
+      <description>&lt;p&gt;Красивое видео
+&lt;a href=&#34;https://www.youtube.com/watch?v=qZUfUCpr2cw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=qZUfUCpr2cw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Видео с результатами расчета в #LSDYNA раскрытия подушки безопастнотси под водой (интересно, зачем?). Подушка наполняется при помощи 2-х газогенераторов, работа которых моделируется в #CPM постановке. Домен с жидкостью моделируется в #ALE постановке. #LSPrePost отвечает за визуализацию.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qZUfUCpr2cw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=qZUfUCpr2cw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qZUfUCpr2cw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Airbag deployment in water&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новогодний феерверк</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-30-novogodniy-feerverk/</link>
+      <pubDate>Fri, 30 Dec 2016 10:01:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-30-novogodniy-feerverk/</guid>
+      <description>&lt;p&gt;Новогодний феерверк
+&lt;a href=&#34;https://vk.com/doc11568_440462041&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/doc11568_440462041&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Коллеги, сегодня у нас последний рабочий день перед приятной новогодней суетой и долгожданными каникулами. Специально для вас я подготовил небольшой подарок.&lt;/p&gt;
+&lt;p&gt;Как я уже неоднократно писал, одной из фишек моей любимой #LSDYNA является очень эффективный метод расчета воздействия ударной волны от взрыва Particle Blast Method (#PBM). Он основан на Corpuscular Particle Method (#CPM &lt;a href=&#34;http://www.dynalook.com/13th-international-ls-dyna-conference/blast/particle-blast-method-pbm-for-the-simulation-of-blast-loading%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/13th-international-ls-dyna-conference/blast/particle-blast-method-pbm-for-the-simulation-of-blast-loading)&lt;/a&gt;, широко применяемом при расчете подушек безопасности. PBM на сегодняшний момент является самым быстрым способом расчета воздействия ударной волны на конструкцию - он сопоставим по скорости расчета, разве что с эмпирическим приложением нагрузки по методикам #ConWep, и в тони раз быстрее #ALE расчет.&lt;/p&gt;
+&lt;p&gt;Насколько мне известно, сейчас в интернете нет ни одного готового примера расчета взрыва . По крайней мере, за неделю поиска, я ничего не нашел. Так что я подготовил самый простой пример для выполнения подобного расчета.&lt;/p&gt;
+&lt;p&gt;P.S. Ссылка на подарок прилагается. Даешь максимальный репост!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/qOUo3JLNUao&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/qOUo3JLNUao&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vk.com/doc11568_440462041&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/doc11568_440462041&lt;/a&gt;
+&lt;a href=&#34;http://www.dynalook.com/13th-international-ls-dyna-conference/blast/particle-blast-method-pbm-for-the-simulation-of-blast-loading&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/13th-international-ls-dyna-conference/blast/particle-blast-method-pbm-for-the-simulation-of-blast-loading&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/qOUo3JLNUao&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/qOUo3JLNUao&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Работают ли бессрочные методы?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-02-rabotayut-li-bessrochnye-metody/</link>
+      <pubDate>Sun, 02 Oct 2016 12:00:54 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-02-rabotayut-li-bessrochnye-metody/</guid>
+      <description>&lt;p&gt;Работают ли бессрочные методы?
+&lt;a href=&#34;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Небольшая статья с очередной конференции по #LSDYNA. В статье рассказывается о сравнении расчета с применением сеточных и бессрочных методов с экспериментом - разрывом металлического образца.
+Постановки:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#FEM #Lagrangian&lt;/li&gt;
+&lt;li&gt;#FEM #ALE&lt;/li&gt;
+&lt;li&gt;#SPH&lt;/li&gt;
+&lt;li&gt;#EFG&lt;/li&gt;
+&lt;li&gt;#SPG&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Точную кривую не описал не один из методов. Точная форма получилась только у ALE. Хуже всех, естественно выступил SPH, с его численной нестабильностью при работе на растяжение. На мой вкус EFG дал самую хорошую кривую, но с формой беда.&lt;/p&gt;
+&lt;p&gt;Прям захотелось повторить численный эксперимент.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-DYNA R9</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-04-ls-dyna-r9/</link>
+      <pubDate>Sun, 04 Sep 2016 06:30:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-04-ls-dyna-r9/</guid>
+      <description>&lt;p&gt;LS-DYNA R9
+&lt;a href=&#34;http://www.dynasupport.com/news/ls-dyna-r9.0.1-r9.109912-released&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynasupport.com/news/ls-dyna-r9.0.1-r9.109912-released&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#LSTC не спит и все быстрее выпускает матерные версии #LSDYNA. Так, 30-ого августа, вышла LS-DYNA R9.0.1.&lt;/p&gt;
+&lt;p&gt;Прочитав весь список изменения мне понравились такие фишки:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ALE_STRUCTURED_MESH - продолжение развития структурированного #ALE решателя&lt;/li&gt;
+&lt;li&gt;#CESE решатель не заброшен, ребята проболтают пилить #CFD код с учетом сжимаемости&lt;/li&gt;
+&lt;li&gt;CONTACT_AUTOMATIC_SURFACE_TO_SURFACE_TIED_WELD - контактный алгоритм упрощающий моделирование сварки&lt;/li&gt;
+&lt;li&gt;CONSTRAINED_LAGRANGE_IN_SOLID_EDGE - тот же CONSTRAINED_LAGRANGE_IN_SOLID, но в 2D&lt;/li&gt;
+&lt;li&gt;DEFINE_DE_INJECTION теперь умеет генерировать #DEM с нормальным распределением  их радиусов в заданном диапазоне&lt;/li&gt;
+&lt;li&gt;BOUNDARY_DE_NON_REFLECTING - неотражающие граничные условия в DEM (не знаю пока зачем, но звучит здорово)&lt;/li&gt;
+&lt;li&gt;DEFINE_DE_MASSFLOW_PLANE для расчета расхода частиц через плоскость&lt;/li&gt;
+&lt;li&gt;ICFD_BOUNDARY_FSWAVE - #ICFD решатель научился генерировать волны в задачах со свободной поверхностью (ну наконец-то!)&lt;/li&gt;
+&lt;li&gt;ICFD_CONTROL_DEM_COUPLING - наконец-то появился #FSI между ICFD и DEM (привет связке #Fluent + #Rocky)&lt;/li&gt;
+&lt;li&gt;ELEMENT_SOLID_NURBS_PATCH - #NURBS solid элементы для #implicit и #explicit решателя!&lt;/li&gt;
+&lt;li&gt;MAT_GENERALIZED_PHASE_CHANGE - новый навороченный материал для моделирования фазовых переходов&lt;/li&gt;
+&lt;li&gt;MAT_ADHESIVE_CURING_VISCOELASTIC - моделирование процесса полимеризации терморезистивных смол (привет #ANSYS #ACCS)&lt;/li&gt;
+&lt;li&gt;MAT_ADD_GENERALIZED_DAMAGE - добавление анизатропной разрушаемости существующим миоделям материалов (пока только для shell)&lt;/li&gt;
+&lt;li&gt;Пластическое разрушение для #XFEM (eXtended Finite Element Method)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Хороший релиз получился :-)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynasupport.com/news/ls-dyna-r9.0.1-r9.109912-released&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LS-DYNA R9.0.1 (R9.109912) released  — LS-DYNA Support&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Интересную тему подсказали мне коллеги - штамповка взрывом.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-18-interesnuyu-temu-podskazali-mne-kollegi/</link>
       <pubDate>Mon, 18 Jul 2016 06:30:04 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-07-18-interesnuyu-temu-podskazali-mne-kollegi/</guid>
-      <description>&lt;p&gt;Так как задача поставлена в ANSYS Workbech LS-DYNA ACT 17.0, то входной файл получился немного грязный, зато есть параметрический проект.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-18-interesnuyu-temu-podskazali-mne-kollegi/</guid>
+      <description>&lt;p&gt;Примером такого процесса является Explosion Bulge Test. В ходи данного испытания ударная волна от подрыва сферического зарада распространяется через жидкости или газ до детали. Я решил набросать пример такого расчета в LS-DYNA, а заодно нашел статью с решением подобных задач.&lt;/p&gt;
+&lt;p&gt;Так как задача поставлена в ANSYS Workbech LS-DYNA ACT 17.0, то входной файл получился немного грязный, зато есть параметрический проект.&lt;/p&gt;
 &lt;p&gt;video &lt;a href=&#34;https://www.youtube.com/watch?v=ZplZXHB4knk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ZplZXHB4knk&lt;/a&gt;
 input.k &lt;a href=&#34;http://lnk.al/1ILR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILR&lt;/a&gt;
 ebt.wbpz &lt;a href=&#34;http://lnk.al/1ILQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILQ&lt;/a&gt;
 статья &lt;a href=&#34;http://lnk.al/1ILS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ZplZXHB4knk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Explosion Bulge Test in LS-DYNA ALE-MM&lt;/a&gt;
+&lt;a href=&#34;http://lnk.al/1ILR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILR&lt;/a&gt;
+&lt;a href=&#34;http://lnk.al/1ILQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILQ&lt;/a&gt;
+&lt;a href=&#34;http://lnk.al/1ILS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILS&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Я вчера у ЦНИИ &#34;Электроприбор&#34; на конференции рассказывал пр</title>
-      <link>http://localhost:1313/posts/2016-03-17-ya-vchera-u-tsnii-elektropribor-na-konfer/</link>
+      <title>Всегда хотел что-нибудь взорвать.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-24-vsegda-hotel-chto-nibud-vzorvat-tak-cht/</link>
+      <pubDate>Fri, 24 Jun 2016 07:00:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-24-vsegda-hotel-chto-nibud-vzorvat-tak-cht/</guid>
+      <description>&lt;p&gt;Так что я сделал простейший проект моделирующий подрыв сферического боеприпаса в вакууме.  Проект #ANSYS #Workbench #LSDYNA #ACT 17 прилагается. Использован #ALE MM решатель с минимальными настройками.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сегодня спустили самый большой атомный ледокол.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-16-segodnya-spustili-samyy-bolshoy-atomnyy-l/</link>
+      <pubDate>Thu, 16 Jun 2016 14:53:09 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-16-segodnya-spustili-samyy-bolshoy-atomnyy-l/</guid>
+      <description>&lt;p&gt;И все это без труда моделируется в #LSDYNA благодаря #ALE #FSI всего за 12 часов на рабочей станции.&lt;/p&gt;
+&lt;p&gt;Если интересно научное обоснование, то оно тоже имеется!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.slideshare.net/YuryNovozhilov/ss-60377208&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Моделирование продольного спуска судна на воду&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Я вчера у ЦНИИ &#34;Электроприбор&#34; на конференции рассказывал про #FSI в LS-DYNA - вдруг кому пригодится.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-17-ya-vchera-u-tsnii-elektropribor-na-konfer/</link>
       <pubDate>Thu, 17 Mar 2016 07:01:26 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-03-17-ya-vchera-u-tsnii-elektropribor-na-konfer/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-17-ya-vchera-u-tsnii-elektropribor-na-konfer/</guid>
       <description>&lt;p&gt;P.S. Хозяйке на заметку: SlideGo оказался единственным средством опубликовать презентацию с интегрированным видео в режиме только для чтения. Знает кто альтернативы?&lt;/p&gt;
 &lt;p&gt;P.P.S. Волшебная строчка для конвертации видео в формат, понятный HTML5 браузерам:
 ffmpeg -i file.avi -c:v libx264 -pix_fmt yuv420p -movflags faststart file.mp4&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.slidego.com/go/19337&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;2016 Моделирование продольного спуска судна на воду.pptx&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Так и я ныряю в выходные после 6-ти дневной недели.</title>
-      <link>http://localhost:1313/posts/2016-02-21-tak-i-ya-nyryayu-v-vyhodnye-posle-6-ti-dnev/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-21-tak-i-ya-nyryayu-v-vyhodnye-posle-6-ti-dnev/</link>
       <pubDate>Sun, 21 Feb 2016 07:00:47 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-02-21-tak-i-ya-nyryayu-v-vyhodnye-posle-6-ti-dnev/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-21-tak-i-ya-nyryayu-v-vyhodnye-posle-6-ti-dnev/</guid>
+      <description>&lt;p&gt;Так и я ныряю в выходные после 6-ти дневной недели.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=CtF5f5zOhlM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;space shuttle landing on water - LS-DYNA&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>ООО «Газпром ВНИИГАЗ» тоже выбирает ANSYS и LS-DYNA. Хороший</title>
-      <link>http://localhost:1313/posts/2016-01-21-ooo-gazprom-vniigaz-tozhe-vybiraet-ansy/</link>
+      <title>Студенты Стамбульского технического университета (Istanbul Technical University) построили модель полета полета мушки дроздофилы.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-05-studenty-stambulskogo-tehnicheskogo-univ/</link>
+      <pubDate>Fri, 05 Feb 2016 18:00:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-05-studenty-stambulskogo-tehnicheskogo-univ/</guid>
+      <description>&lt;p&gt;При этом ребята написали свой код на без метода конечных элементов в #ALE постановке. Не понятно зачем так, но видимо им так проще было.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UKGMLdECwWw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;An Integrated Simulation of aWing-Body Combination for a Hovering Drosophila&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Что будет если выстрелить под водой из огнестрельного оружия 50-ого калибра?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-04-chto-budet-esli-vystrelit-pod-vodoy-iz-o/</link>
+      <pubDate>Thu, 04 Feb 2016 18:01:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-04-chto-budet-esli-vystrelit-pod-vodoy-iz-o/</guid>
+      <description>&lt;p&gt;Это называется сильно связанная #FSI постановка и для #ALE решателя LS-DYNA это совсем не проблема.&lt;/p&gt;
+&lt;p&gt;Очень красиво получает образование каверны и ее схлопывание, сопровождаемое потерей устойчивости и началом вращения пули. Самое забавное, что пуля имея начальную скорость 950 м/с не пролетает в воде и метра.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qRg4CT0Fh3A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;.50 cal in water - LS-DYNA simulation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ООО «Газпром ВНИИГАЗ» тоже выбирает ANSYS и LS-DYNA.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-21-ooo-gazprom-vniigaz-tozhe-vybiraet-ansy/</link>
       <pubDate>Thu, 21 Jan 2016 06:30:19 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-01-21-ooo-gazprom-vniigaz-tozhe-vybiraet-ansy/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-21-ooo-gazprom-vniigaz-tozhe-vybiraet-ansy/</guid>
+      <description>&lt;p&gt;Хороший пример их статьи.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Невольно вспоминается реклама стирального порошка. Но тут вс</title>
-      <link>http://localhost:1313/posts/2016-01-20-nevolno-vspominaetsya-reklama-stiralnog/</link>
+      <title>Невольно вспоминается реклама стирального порошка.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-20-nevolno-vspominaetsya-reklama-stiralnog/</link>
       <pubDate>Wed, 20 Jan 2016 07:02:02 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-01-20-nevolno-vspominaetsya-reklama-stiralnog/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-20-nevolno-vspominaetsya-reklama-stiralnog/</guid>
+      <description>&lt;p&gt;Но тут вся суть не в порошке, а в явной схеме решателя #SIMULIA #Abaqus.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1cSXxCjmK_s&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;WashingMachine&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Раскрытие парашюта - очень сложный FSI.</title>
-      <link>http://localhost:1313/posts/2015-12-28-raskrytie-parashyuta-ochen-slozhnyy-fsi/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-28-raskrytie-parashyuta-ochen-slozhnyy-fsi/</link>
       <pubDate>Mon, 28 Dec 2015 06:30:23 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-12-28-raskrytie-parashyuta-ochen-slozhnyy-fsi/</guid>
-      <description>&lt;p&gt;А какой код/связка кодов еще может смоделировать такой процесс?&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-28-raskrytie-parashyuta-ochen-slozhnyy-fsi/</guid>
+      <description>&lt;p&gt;Раскрытие парашюта - очень сложный FSI.&lt;/p&gt;
+&lt;p&gt;А какой код/связка кодов еще может смоделировать такой процесс?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=rsnhDExHa3I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;opening of parachute&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Кто не любит делать блинчики? Я про игру, когда надо подкрут</title>
-      <link>http://localhost:1313/posts/2015-11-15-kto-ne-lyubit-delat-blinchiki-ya-pro-igru/</link>
+      <title>Кто не любит делать блинчики?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-15-kto-ne-lyubit-delat-blinchiki-ya-pro-igru/</link>
       <pubDate>Sun, 15 Nov 2015 18:30:30 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-15-kto-ne-lyubit-delat-blinchiki-ya-pro-igru/</guid>
-      <description>&lt;p&gt;Играть теперь еще интереснее, ибо есть расчет в #SPH и #ALE постановках. #FSI в LS-DYNA.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-15-kto-ne-lyubit-delat-blinchiki-ya-pro-igru/</guid>
+      <description>&lt;p&gt;Я про игру, когда надо подкрутить брошенный камень так, что бы он отскочил от водной глади.&lt;/p&gt;
+&lt;p&gt;Играть теперь еще интереснее, ибо есть расчет в #SPH и #ALE постановках. #FSI в LS-DYNA.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Подборка видео выходного дня, которая лучше котиков. Ну ведь</title>
-      <link>http://localhost:1313/posts/2015-10-10-podborka-video-vyhodnogo-dnya-kotoraya-lu/</link>
+      <title>Подборка видео выходного дня, которая лучше котиков. Ну ведь правда кумулятивный эффект лучше котиков?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-10-podborka-video-vyhodnogo-dnya-kotoraya-lu/</link>
       <pubDate>Sat, 10 Oct 2015 09:05:08 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-10-podborka-video-vyhodnogo-dnya-kotoraya-lu/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-10-podborka-video-vyhodnogo-dnya-kotoraya-lu/</guid>
       <description>&lt;p&gt;Процессы моделируют в эйлеровом домене или методом сглаженных частиц. Решатели очень разные. Тут есть и Autodyn, и LS-DYNA, и Dytran и еще что-то неопознанное.&lt;/p&gt;
 &lt;p&gt;#Autodyn #lsdyna #Dytran #Explicit #SPH #ALE&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Кумулятивный_эффект&lt;/p&gt;
@@ -195,11 +648,11 @@ ffmpeg -i file.avi -c:v libx264 -pix_fmt yuv420p -movflags faststart file.mp4&lt
     </item>
     
     <item>
-      <title>Шикарный документ-методичка, для тех, кто хочет в LS-DYNA мо</title>
-      <link>http://localhost:1313/posts/2015-10-09-shikarnyy-dokument-metodichka-dlya-teh-kt/</link>
+      <title>Шикарный документ-методичка, для тех, кто хочет в LS-DYNA моделировать что-нибудь жидкое или газообразное в ALE постановке.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-09-shikarnyy-dokument-metodichka-dlya-teh-kt/</link>
       <pubDate>Fri, 09 Oct 2015 08:42:37 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-09-shikarnyy-dokument-metodichka-dlya-teh-kt/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-09-shikarnyy-dokument-metodichka-dlya-teh-kt/</guid>
       <description></description>
     </item>
     

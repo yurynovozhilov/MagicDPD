@@ -2,49 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fragmentation on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/fragmentation/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/fragmentation/</link>
     <description>MagicDPD: Magic Driven Product Development! (Fragmentation)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 19 Jan 2022 17:00:09 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/fragmentation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/fragmentation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Сегодня я бы хотел рассказать вам об исследовании процесса р</title>
-      <link>http://localhost:1313/posts/2022-01-19-segodnya-ya-by-hotel-rasskazat-vam-ob-iss/</link>
+      <title>Сегодня я бы хотел рассказать вам об исследовании процесса разрушения ледника.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-19-segodnya-ya-by-hotel-rasskazat-vam-ob-iss/</link>
       <pubDate>Wed, 19 Jan 2022 17:00:09 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-01-19-segodnya-ya-by-hotel-rasskazat-vam-ob-iss/</guid>
-      <description>&lt;p&gt;Джошуа моделирует процесс разрушения айсберга,  сползающего в океан, создав код, учитывающий физические механизмы фрагментации льда и процесс взаимодействия жидкости и твердого тела. Весь расчет проводится с применением метода материальной точки (#MPM, Material Point Method), что позволяет достаточной просто и стабильно моделировать требуемые механические эффекты. Основные принципы работы MPM кратко, но внятно рассказаны в докладе по итогам работы.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-19-segodnya-ya-by-hotel-rasskazat-vam-ob-iss/</guid>
+      <description>&lt;p&gt;Исследование данного процесса - это очередной проект Джошуа Вольпера  (Joshuah Wolper) из Пенсильванского университета. Его работы уже мелькали у меня (например задач о выпечке хлеба :-)).
+Джошуа моделирует процесс разрушения айсберга,  сползающего в океан, создав код, учитывающий физические механизмы фрагментации льда и процесс взаимодействия жидкости и твердого тела. Весь расчет проводится с применением метода материальной точки (#MPM, Material Point Method), что позволяет достаточной просто и стабильно моделировать требуемые механические эффекты. Основные принципы работы MPM кратко, но внятно рассказаны в докладе по итогам работы.
 Работа хорошо структурирована, а все изложение строиться на последовательности валидационных и верификационных примеров.
 Короче говоря, сплошное наслаждение для ума.
 #meshless #ice #fragmentation #FSI
 &lt;a href=&#34;https://youtu.be/7IC_ehdH7ZM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/7IC_ehdH7ZM&lt;/a&gt; &lt;a href=&#34;https://joshuahwolper.com/glacier&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://joshuahwolper.com/glacier&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/7IC_ehdH7ZM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;A Glacier-Ocean Interaction Model for Tsunami Genesis Due to Iceberg Calving [Nature Comms. E &amp;amp; E]&lt;/a&gt;
+&lt;a href=&#34;https://joshuahwolper.com/glacier&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://joshuahwolper.com/glacier&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Моделирование разрушения и фрагментации при помощи SPH</title>
-      <link>http://localhost:1313/posts/2021-03-29-modelirovanie-razrusheniya-i-fragmentatsii/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-29-modelirovanie-razrusheniya-i-fragmentatsii/</link>
       <pubDate>Mon, 29 Mar 2021 13:01:30 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-03-29-modelirovanie-razrusheniya-i-fragmentatsii/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/p0e8pTs0zgU?list=WL&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/p0e8pTs0zgU?list=WL&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-29-modelirovanie-razrusheniya-i-fragmentatsii/</guid>
+      <description>&lt;p&gt;Моделирование разрушения и фрагментации при помощи SPH&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/p0e8pTs0zgU?list=WL&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/p0e8pTs0zgU?list=WL&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Третий доклад с первого виртуального семинара от UK Fluids Network по жидкостям SPH SIG. Эваристо Сантамария Ферраро (Evaristo Santamaria Ferraro) из Университета Хартфордшира (The University of Hertfordshire), а также французско-немецкого научно-исследовательского института Сен-Луи представляет свою работу по изучению процессов разрушения и фрагментации металлов с помощью SPH.&lt;/p&gt;
 &lt;p&gt;#fragmentation #ls-dyna #sph
+&lt;a href=&#34;https://tinyurl.com/yztj9swd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yztj9swd&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/p0e8pTs0zgU?list=WL&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Virtual Seminar 1: Failure and Fragmentation of Metals using SPH&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/yztj9swd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yztj9swd&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Расчет подрыва ЖБ плиты с учетом фрагментации</title>
-      <link>http://localhost:1313/posts/2018-02-07-raschet-podryva-zhb-plity-s-uchetom-fragmen/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-07-raschet-podryva-zhb-plity-s-uchetom-fragmen/</link>
       <pubDate>Wed, 07 Feb 2018 18:00:53 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-02-07-raschet-podryva-zhb-plity-s-uchetom-fragmen/</guid>
-      <description>&lt;p&gt;Очень красивый пример от LSTC, демонстрирующий работу LS-DYNA в области расчета взрывов и переноса нагрузок от них на конструкции. Разберем три составляющих успеха данного расчета.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-07-raschet-podryva-zhb-plity-s-uchetom-fragmen/</guid>
+      <description>&lt;p&gt;Расчет подрыва ЖБ плиты с учетом фрагментации
+Очень красивый пример от LSTC, демонстрирующий работу LS-DYNA в области расчета взрывов и переноса нагрузок от них на конструкции. Разберем три составляющих успеха данного расчета.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Имеем бетонную плиту, армированную стальными стержнями (естественно beam арматура внедряется в solid бетон при помощи специальных уравнений связи типа *CONSTRAINED_BEAM_IN_SOLID).&lt;/li&gt;
 &lt;li&gt;Дальше, на этой плите расположен заряд в оболочке из shell элементов. Заряд ВВ моделируется в постановке Particle Blast Method (PBM) - не надо заморачиваться с генерацией SPH или переходом в эйлеров домен. PBM решает быстро и точно!&lt;/li&gt;
@@ -52,6 +59,8 @@
 &lt;/ol&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=QHbO6tRPI3c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=QHbO6tRPI3c&lt;/a&gt;
 #blast #concrete #CONSTRAINED_BEAM_IN_SOLID #DEFINE_ADAPTIVE_SOLID_TO_SPH #fracture #fragmentation #LS-DYNA #LSTC #ParticleBlast #reinforcement #SPH
+&lt;a href=&#34;https://wp.me/p9vWYY-1BK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1BK&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=QHbO6tRPI3c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=QHbO6tRPI3c&lt;/a&gt;
 &lt;a href=&#34;https://wp.me/p9vWYY-1BK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1BK&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     

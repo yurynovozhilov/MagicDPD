@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Directfem on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/directfem/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Directfem)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Thu, 30 Sep 2021 13:02:44 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/directfem/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DirectFEM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-30-directfem/</link>
+      <pubDate>Thu, 30 Sep 2021 13:02:44 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-30-directfem/</guid>
+      <description>&lt;p&gt;DirectFEM&lt;/p&gt;
+&lt;p&gt;DirectFEM - это новый продукт для решения задач механики. Основная используемая в нем технология - погруженный метод конечных элементов (Immersed Finite Elements), который уже попадался мне в некоторых других кодах. Благодаря этому методу при постановке задачи нет необходимости точно разрешать поверхность детали. Как следствие нет необходимости и в возне с сеткой. Разработчики даже иногда называют свой решатель бессеточным, что, конечно же, не правда.&lt;/p&gt;
+&lt;p&gt;Как итог такого подхода, мы получаем систему, способную без особых проблем решать задачи на сложной геометрии не тратя время инженера на ее доводку. Решатель кушает как просто плохую геометрию, так и данный томографов и 3d сканеров.&lt;/p&gt;
+&lt;p&gt;Подход конечно интересный, но к нему есть ряд вопросов. Даже если оставить за скобками юность кода, а с этим, например, и малую проработанность библиотеки материалов, но для всех подобных кодов у меня есть один вопрос. Почему всегда показывают работу только с одной деталью? Что будет в случае сложной сборки с нелинейными контактами? Как упадет точность, когда нужно будет учитывать геометрическую нелинейность, и из-за больших перемещений/деформаций потребуется перестроение фоновой сетки интегрирования? И да, хотя нам и обещают уменьшить наше время работы с геометрией и сеткой совсем от него уйти будет нельзя: геометрия все-таки должна быть замкнутая, или, как сейчас, говорят на сленге, watertight.&lt;/p&gt;
+&lt;p&gt;Пока вопросов больше чем ответов, и видно, что данный подход при текущей реализации бесконечно далек от замены традиционных МКЭ решателей.&lt;/p&gt;
+&lt;p&gt;Страница компании: directfem.de/&lt;/p&gt;
+&lt;p&gt;#directfem
+&lt;a href=&#34;https://tinyurl.com/yzlcg5wa&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzlcg5wa&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://directfem.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DirectFEM - Embedded Innovations - DirectFEM | Embedded Innovations&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yzlcg5wa&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzlcg5wa&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

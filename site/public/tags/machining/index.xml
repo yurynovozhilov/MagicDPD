@@ -2,25 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machining on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/machining/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/machining/</link>
     <description>MagicDPD: Magic Driven Product Development! (Machining)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 14 Nov 2018 17:00:23 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/machining/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/machining/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Применение SPG в задачах фрезировки и пробивания</title>
-      <link>http://localhost:1313/posts/2018-11-14-primenenie-spg-v-zadachah-frezirovki-i-pr/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-14-primenenie-spg-v-zadachah-frezirovki-i-pr/</link>
       <pubDate>Wed, 14 Nov 2018 17:00:23 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-11-14-primenenie-spg-v-zadachah-frezirovki-i-pr/</guid>
-      <description>&lt;p&gt;Хорошая статья от LSTC, посвященная изучению работы их SPG метода в применении к задачам обработки материалов. И тут под обработкой понимается очень широкий круг понятий: в статье описаны только задачи фрезировки металла и пробивания бетона, но у меня есть кейсы, где рассматривается и сверление, и разрывные испытания, и даже фрагментация осколочных боеприпасов.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-14-primenenie-spg-v-zadachah-frezirovki-i-pr/</guid>
+      <description>&lt;p&gt;Применение SPG в задачах фрезировки и пробивания&lt;/p&gt;
+&lt;p&gt;Хорошая статья от LSTC, посвященная изучению работы их SPG метода в применении к задачам обработки материалов. И тут под обработкой понимается очень широкий круг понятий: в статье описаны только задачи фрезировки металла и пробивания бетона, но у меня есть кейсы, где рассматривается и сверление, и разрывные испытания, и даже фрагментация осколочных боеприпасов.&lt;/p&gt;
 &lt;p&gt;SPG (не путать с SPH или EFG)- это вообще некий единорог среди бессеточных методов, который может очень много чего как в explicit, так и в implicit (!!!) постановках, отличается стабильностью и простотой настройки. Вот только ресурсов любой бессеточный метод в механике обычно кушает раза в 3 больше, чем сеточный.
 &lt;a href=&#34;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/parametric-and-convergence-studies-of-the-smoothed-particle-galerkin-spg-method-in-semi-brittle-and-ductile-material-failure-analyses&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/parametric-and-convergence-studies-of-the-smoothed-particle-galerkin-spg-method-in-semi-brittle-and-ductile-material-failure-analyses&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#Concrete #KCC #LSDYNA #LSTC #Machining #Meshless #Perforation #SPG
+&lt;a href=&#34;http://bit.ly/2RZwFW3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RZwFW3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/parametric-and-convergence-studies-of-the-smoothed-particle-galerkin-spg-method-in-semi-brittle-and-ductile-material-failure-analyses&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/parametric-and-convergence-studies-of-the-smoothed-particle-galerkin-spg-method-in-semi-brittle-and-ductile-material-failure-analyses&lt;/a&gt;
 &lt;a href=&#34;http://bit.ly/2RZwFW3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RZwFW3&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

@@ -2,27 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MaterialDesigner on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/materialdesigner/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/materialdesigner/</link>
     <description>MagicDPD: Magic Driven Product Development! (MaterialDesigner)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 05 Nov 2018 17:01:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Nov 2018 17:00:31 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/materialdesigner/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/materialdesigner/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>ANSYS Material Designer</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-26-ansys-material-designer/</link>
+      <pubDate>Mon, 26 Nov 2018 17:00:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-26-ansys-material-designer/</guid>
+      <description>&lt;p&gt;ANSYS Material Designer
+Данная утилита очень здорово дополняет и без того обширные возможности платформы ANSYS по моделированию композитов. ANSYS Material Designer решает задачу подборки рецептуры композиционного материала и получения его эффективных свойств на основе прямой КЭ гомогенизации представительного элемента объема.&lt;/p&gt;
+&lt;p&gt;Что особенно приятно, так это то, что ANSYS одними только композитами не ограничился. Система умеет выдавать эффективные свойства и для ячеистых/сетчатых конструкций (lattice structure), а уже спроектировать конструкцию с lattice structure позволит система оптимизации топологии, идущая в любой механической лицензии на ПО.&lt;/p&gt;
+&lt;p&gt;#AdditiveManufacturing #ANSYS #Composite #Homogenization #LatticeStructure #MaterialDesigner #Optimization #Topology
+&lt;a href=&#34;http://bit.ly/2TLXlLx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2TLXlLx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2TLXlLx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2TLXlLx&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Новые возможности ANSYS по работе с материалами</title>
-      <link>http://localhost:1313/posts/2018-11-05-novye-vozmozhnosti-ansys-po-rabote-s-mate/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-05-novye-vozmozhnosti-ansys-po-rabote-s-mate/</link>
       <pubDate>Mon, 05 Nov 2018 17:01:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-11-05-novye-vozmozhnosti-ansys-po-rabote-s-mate/</guid>
-      <description>&lt;p&gt;Еще одно полезное видео от LEAP: на этот раз оно посвящено новым возможностям ANSYS в области работы с материалами. Коллеги расскажут про две новых фишки ANSYS:&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-05-novye-vozmozhnosti-ansys-po-rabote-s-mate/</guid>
+      <description>&lt;p&gt;Новые возможности ANSYS по работе с материалами
+Еще одно полезное видео от LEAP: на этот раз оно посвящено новым возможностям ANSYS в области работы с материалами. Коллеги расскажут про две новых фишки ANSYS:&lt;/p&gt;
 &lt;p&gt;Material Designer - модуль расчета прямой гомогенизации (получения эффективных свойств композита на основе испытания представительного элемента объема)
 Material Assignment Tool - новый механизм присваивания моделей материалов не на основе геометрических объектов, а через именованные выборки&lt;/p&gt;
 &lt;p&gt;Еще покажут как влияет учет драпировки на свойства изделий из текстильных композитов, но это уже хорошо известная возможность ACP.&lt;/p&gt;
 &lt;p&gt;#ACP #ANSYS #Composite #LEAP #MaterialAssignmentTool #MaterialDesigner #Mechanical
 &lt;a href=&#34;http://bit.ly/2D4uPyD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2D4uPyD&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2D4uPyD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2D4uPyD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вышел ANSYS 19.2</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-09-20-vyshel-ansys-192/</link>
+      <pubDate>Thu, 20 Sep 2018 17:01:47 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-09-20-vyshel-ansys-192/</guid>
+      <description>&lt;p&gt;Вышел ANSYS 19.2
+Главная новость осени для меня - выход новой версии ANSYS. И в третьей версии ANSYS за этот год накопилось очень много всего вкусного. Если в рамках одного поста, то вот те 5 фишек нового релиза, которые зацепили лично меня.&lt;/p&gt;
+&lt;p&gt;Новый сеточный &amp;ldquo;метод&amp;rdquo; для CFD, который получил название Mosaic, позволяющий сшивать Cartesian и Plyhedra сетки, не забывая о пристеночных слоях. Красиво, умно, эффективно.&lt;/p&gt;
+&lt;p&gt;Целый отдельный набор софта, отвечающего за оптику: ANSYS SPEOS (все, что связано с распространением света) и ANSYS VRXPERIENCE (все что нужно для моделирования работы сенсоров машинного зрения).&lt;/p&gt;
+&lt;p&gt;Долгожданный мной первый релиз ANSYS Additive Science, который позволяет получать информацию о микроструктуре изделий, получаемых при помощи аддитивных технологий. Теперь вы знаете о том, какие у материала локальные механические свойства, какова пористость и вообще, как на это все влияет траектория движения и мощности лазера вашего принтера по металлу.&lt;/p&gt;
+&lt;p&gt;ANSYS Material Designer - новое приложение в интефейсе SCDM, предназначенное для получения эффективных свойств композитных материалов и решетчатых конструкций на основе анализа их представительного элемента объема.&lt;/p&gt;
+&lt;p&gt;ANSYS SCDM Meshing - интеграция возможностей сеточного генератора на основе блочной топологии ICEM CFD в современный и удобный интерфейс ANSYS SpaceClaim (пока что beta).
+Подробности пока читаем на официальном сайте (&lt;a href=&#34;https://www.ansys.com/products/release-highlights%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/products/release-highlights)&lt;/a&gt;, а потом будем обсуждать тут.&lt;/p&gt;
+&lt;p&gt;#AdditiveManufacturing #AdditiveScience #ANSYS #MaterialDesigner #Mosaic #SpaceClaim #SpaceClaimMeshing #SPEOS #VRXPERIENCE
+&lt;a href=&#34;http://bit.ly/2Nu8HnI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Nu8HnI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys.com/products/release-highlights&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys 2025 R2 Release Highlights | Ansys Latest Release&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2Nu8HnI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Nu8HnI&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

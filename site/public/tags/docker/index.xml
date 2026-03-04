@@ -2,38 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docker on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/docker/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/docker/</link>
     <description>MagicDPD: Magic Driven Product Development! (Docker)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 14 Sep 2022 18:00:17 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Сегодня я бы хотел высказать пару мыслей про #opensource про</title>
-      <link>http://localhost:1313/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</link>
+      <title>Сегодня я бы хотел высказать пару мыслей про #opensource проект #pyAnsys.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</link>
       <pubDate>Wed, 14 Sep 2022 18:00:17 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</guid>
-      <description>&lt;p&gt;Итак, #Python внутри экосистемы #Ansys есть очень давно, так почему все вдруг начала говорить про #pyAnsys? Дело в том, что раньше python выступал только в роли некого внутреннего инструмента помощи в постановки задачи. Вы запускали продукты Ansys, и в них уже могли что-то автоматизировать на python.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</guid>
+      <description>&lt;p&gt;Многие мои друзья, с которыми мы обсуждали данный проект, изначально неправильно поняли, что это, и не придали ему должного значения.&lt;/p&gt;
+&lt;p&gt;Итак, #Python внутри экосистемы #Ansys есть очень давно, так почему все вдруг начала говорить про #pyAnsys? Дело в том, что раньше python выступал только в роли некого внутреннего инструмента помощи в постановки задачи. Вы запускали продукты Ansys, и в них уже могли что-то автоматизировать на python.&lt;/p&gt;
 &lt;p&gt;pyAnsys полностью меняет концепцию. У каждого модуля появляется свой #API, который вы можете использовать в вашей #python программе. Ansys тут выступает как вспомогательный инструмент.&lt;/p&gt;
 &lt;p&gt;Например, #pyMAPDL позволяет полностью поставить #FEM задачу и запустить решатель MAPDL, который вообще может быть помещен в #docker контейнер. Обработка данных теперь может производиться единым #pyDPF фреймвоком. Данные между решателями теперь могут передаваться как вы придумаете - ведь у всех них есть свой открытый API! И да, никто не ограничивает вас в возможности совместной работы продуктов Ansys и не Ansys. В стандартных примерах вы сейчас можете найти инструкции для работы с #Gmsh.&lt;/p&gt;
 &lt;p&gt;Я бы сказал, что #pyAnsys - это основа для переосмысления Workbench. Сейчас все связи между модулями #Workbench жестко определенны разработчиками. С pyAnsys вас больше нет таких ограничений, а что еще нужно вам для проведения новых увлекательных расчетов? &lt;a href=&#34;https://docs.pyansys.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://docs.pyansys.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.pyansys.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://docs.pyansys.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NVIDIA DOCKER</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-09-nvidia-docker/</link>
+      <pubDate>Tue, 09 Jan 2018 17:00:47 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-09-nvidia-docker/</guid>
+      <description>&lt;p&gt;NVIDIA DOCKER
+NVIDIA на конференции SC17 рассказала про свое новое видение того, как надо делать удаленную визуализацию на суперкомпьютерах. И тут разговор идет не просто о DCV или VirtualGL - тут рассматривается полностью новая концепция систем для визуализации действительно больших данных.&lt;/p&gt;
+&lt;p&gt;Для этих целей NVIDIA планирует использовать пары Docker контейнеров, подготовленных для нужного вам приложения (сейчас уже есть для Praview). Серверный конетйнер будет работать напрямую с EGL API (&lt;a href=&#34;https://en.wikipedia.org/wiki/EGL_%28API%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://en.wikipedia.org/wiki/EGL_(API)&lt;/a&gt; и никаких тебе иксов), а клиентская часть - с GLX (&lt;a href=&#34;https://en.wikipedia.org/wiki/GLX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://en.wikipedia.org/wiki/GLX&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=z7nNmyKvMu4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=z7nNmyKvMu4&lt;/a&gt;
+#cloud #Docker #EGL #GLX #HPC #NVIDIA #Praview #remoteviz
+&lt;a href=&#34;https://magicdpd.ru/?p=5861&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5861&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/EGL_%28API%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://en.wikipedia.org/wiki/EGL_(API)&lt;/a&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/GLX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://en.wikipedia.org/wiki/GLX&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=z7nNmyKvMu4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=z7nNmyKvMu4&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=5861&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5861&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Новый Bright Cluster Manager уже доступен для закачки</title>
-      <link>http://localhost:1313/posts/2016-08-11-novyy-bright-cluster-manager-uzhe-dostupe/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-11-novyy-bright-cluster-manager-uzhe-dostupe/</link>
       <pubDate>Thu, 11 Aug 2016 06:30:55 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-08-11-novyy-bright-cluster-manager-uzhe-dostupe/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.brightcomputing.com/blog/the-new-release-of-bright-cluster-manager-is-now-shipping&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.brightcomputing.com/blog/the-new-release-of-bright-cluster-manager-is-now-shipping&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-11-novyy-bright-cluster-manager-uzhe-dostupe/</guid>
+      <description>&lt;p&gt;Новый Bright Cluster Manager уже доступен для закачки
+&lt;a href=&#34;http://www.brightcomputing.com/blog/the-new-release-of-bright-cluster-manager-is-now-shipping&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.brightcomputing.com/blog/the-new-release-of-bright-cluster-manager-is-now-shipping&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Лидер рынка независимых (от вендоров железа) систем управления #HPC кластерами Bright Cluster Manager (#BCM) от голландской компании Bright Comuting обновился до версии 7.3.&lt;/p&gt;
 &lt;p&gt;В новой версии расширена поддержка Amazon Web Services (#AWS) для автоматического разворачивания кластера в облаке, улучшена поддержка технологий контейнеризации #Docker. Еще есть куча всяких улучшений для коллеги, занимающихся #BigData.&lt;/p&gt;
 &lt;p&gt;Всем обязательно советую сходить по ссылке и посмотреть небольшой демонстрационный видео ролик о том, как должен выглядеть правильный кластер-менеджер.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.brightcomputing.com/blog/the-new-release-of-bright-cluster-manager-is-now-shipping&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;The new release of Bright Cluster Manager is now shipping!&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LSDYNA_EM on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/lsdyna_em/</link>
+    <description>MagicDPD: Magic Driven Product Development! (LSDYNA_EM)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 15 Jan 2020 13:01:00 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/lsdyna_em/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Краштесты аккумуляторов в LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-01-15-krashtesty-akkumulyatorov-v-ls-dyna/</link>
+      <pubDate>Wed, 15 Jan 2020 13:01:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-01-15-krashtesty-akkumulyatorov-v-ls-dyna/</guid>
+      <description>&lt;p&gt;Краштесты аккумуляторов в LS-DYNA
+Как вы могли заметить, аккумуляторы окружают нас со всех сторон: от беспроводных наушников и телефонов до автомобилей. И все эти аккумуляторы могут потенциально очень плохо себя вести при повреждении. LSTC уже несколько лет разрабатывает методику и инструменты для расчетов краштестов аккумуляторов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=xU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.youtube.com/watch?v=xU&lt;/a&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Для этого в коде реализована расчетная схема, позволяющая организовать сильно связанный расчет сразу четырех (!!!) физик: прочность, тепло, электромагнетизм и химия. Кроме того, все это может быть дополнительно сопряжено с пятой физикой (но уже в более &amp;ldquo;мягком&amp;rdquo; режиме) - CFD для расчета сопряженного тепломассообмена, а в будущем и для магнитореологических жидкостей.&lt;/p&gt;
+&lt;p&gt;Решая такую сложную междисциплинарную задачу, специалисты по пассивной безопасности могут оценивать вероятность ущерба, наносимого батарее при ударных воздействиях, внешнем и внутреннем коротком замыкании и дальнейший разогрев/деградацию/разрушении объекта.
+#battery@magicdpd, #ICFD@magicdpd, #LSDYNA@magicdpd, #LSDYNA_EM@magicdpd, #thermal@magicdpd&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/battery-crash-simulations-in-ls-dyna/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Краштесты аккумуляторов в LS-DYNA - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

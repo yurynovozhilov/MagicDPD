@@ -1,89 +1,114 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Spg on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/spg/</link>
-    <description>MagicDPD: Magic Driven Product Development! (Spg)</description>
+    <title>SPG on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/spg/</link>
+    <description>MagicDPD: Magic Driven Product Development! (SPG)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Tue, 26 Oct 2021 13:01:50 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/spg/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/spg/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Возможности решателей Ansys при решении задач теории разруше</title>
-      <link>http://localhost:1313/posts/2021-10-26-vozmozhnosti-reshateley-ansys-pri-reshenii/</link>
+      <title>Возможности решателей Ansys при решении задач теории разрушения</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-10-26-vozmozhnosti-reshateley-ansys-pri-reshenii/</link>
       <pubDate>Tue, 26 Oct 2021 13:01:50 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-10-26-vozmozhnosti-reshateley-ansys-pri-reshenii/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-10-26-vozmozhnosti-reshateley-ansys-pri-reshenii/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/-zzRTvYFhyw?list=PLhkE5O59hYsGBmcYGkRZZMzKgSUTbTIPd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/-zzRTvYFhyw?list=PLhkE5O59hYsGBmcYGkRZZMzKgSUTbTIPd&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Стала доступна запись моего вебинара по обзору возможностей решения задач теории разрушения в механических решателях ANSYS: Machanical и LS-DYNA. Вот ключевые слова для знатоков: SMART Fracture, XFEM, Preidynamic, SPG, CZM, VCCT.&lt;/p&gt;
 &lt;p&gt;#ansys #cadfem #czm #fracture #lsdyna #smart_fracture #spg #vcct #xfem
+&lt;a href=&#34;https://tinyurl.com/yzre3u86&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzre3u86&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/-zzRTvYFhyw?list=PLhkE5O59hYsGBmcYGkRZZMzKgSUTbTIPd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Возможности решателей Ansys при решении задач теории разрушения&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/yzre3u86&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yzre3u86&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Возможности решателей Ansys в области теории разрушения</title>
-      <link>http://localhost:1313/posts/2021-10-13-vozmozhnosti-reshateley-ansys-v-oblasti-te/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-10-13-vozmozhnosti-reshateley-ansys-v-oblasti-te/</link>
       <pubDate>Wed, 13 Oct 2021 13:02:22 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-10-13-vozmozhnosti-reshateley-ansys-v-oblasti-te/</guid>
-      <description>&lt;p&gt;Коллеги, почему-то даже у меня, когда речь заходит о моделировании роста трещин, не всегда первым вспоминается Ansys Mechanical. Для того, что бы устранить такие ошибки в восприятии я подготовил ликбез вебинар, в котором собрал обзор всех технологий механических решателей Ansys в области моделирования линейного и нелинейного разрушения.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-10-13-vozmozhnosti-reshateley-ansys-v-oblasti-te/</guid>
+      <description>&lt;p&gt;Возможности решателей Ansys в области теории разрушения&lt;/p&gt;
+&lt;p&gt;Коллеги, почему-то даже у меня, когда речь заходит о моделировании роста трещин, не всегда первым вспоминается Ansys Mechanical. Для того, что бы устранить такие ошибки в восприятии я подготовил ликбез вебинар, в котором собрал обзор всех технологий механических решателей Ansys в области моделирования линейного и нелинейного разрушения.&lt;/p&gt;
 &lt;p&gt;Вебинар я постарался сделать максимально отвязанным от конкретных версий ПО, и если у вас версия Ansys не старее 3-х лет, то вам будет особенно интересно. Ну и не обошлось без моей любимой LS-DYNA, которая тоже может в рост трещин, но уже за рамками линейной теории разрушения.&lt;/p&gt;
 &lt;p&gt;Таким образом, слушателей будет ожидать порядка 70 подготовленный мной с нуля слайдов с материалами, и проработанная структура доклада, что позволит организовать интересное повествование и не порвать мозг формулами.&lt;/p&gt;
 &lt;p&gt;Ссылка не регистрацию (надо учесть, что за пару часов до мероприятия регистрация на него закроется): &lt;a href=&#34;https://cadfem-cis.ru/event/vozmozhnosti-reshatelej-ansys-pri-reshenii-zadach-teorii-razrushenija/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://cadfem-cis.ru/event/vozmozhnosti-reshatelej-ansys-pri-reshenii-zadach-teorii-razrushenija/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ansys #apdl #cadfem #czm #fracture #lsdyna #peridynamics #smart_fracture #spg #vcct #xfem
+&lt;a href=&#34;https://tinyurl.com/yjh5v85t&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yjh5v85t&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cadfem-cis.ru/event/vozmozhnosti-reshatelej-ansys-pri-reshenii-zadach-teorii-razrushenija/?utm_source=sg&amp;amp;utm_medium=email&amp;amp;utm_campaign=web-15-10-21&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Возможности решателей Ansys при решении задач теории разрушения&lt;/a&gt;
+&lt;a href=&#34;https://cadfem-cis.ru/event/vozmozhnosti-reshatelej-ansys-pri-reshenii-zadach-teorii-razrushenija/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://cadfem-cis.ru/event/vozmozhnosti-reshatelej-ansys-pri-reshenii-zadach-teorii-razrushenija/&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/yjh5v85t&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yjh5v85t&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Метод связанных частиц в механике горных пород</title>
-      <link>http://localhost:1313/posts/2021-09-16-metod-svyazannyh-chastits-v-mehanike-gornyh/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-16-metod-svyazannyh-chastits-v-mehanike-gornyh/</link>
       <pubDate>Thu, 16 Sep 2021 18:31:23 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-09-16-metod-svyazannyh-chastits-v-mehanike-gornyh/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=AgssizDIRDk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=AgssizDIRDk&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-16-metod-svyazannyh-chastits-v-mehanike-gornyh/</guid>
+      <description>&lt;p&gt;Метод связанных частиц в механике горных пород&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=AgssizDIRDk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=AgssizDIRDk&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Вебинар доктора Дэвида Потионди (Dr. David Potyondy) содержит обзор возможностей и потенциальных путей развития метода связанных частиц элементов (Bonded-Particle Modeling, BPM). Рассказ идет с прицелом на использование метода области механики горных пород. Презентация сделана в рамках виртуального семинара для Научно-исследовательской группы по многомасштабной механике (Multiscale Mechanics Research Group) в Университете Твенте (University of Twente) в Энсхеде, Нидерланды (Enschede, Netherlands).&lt;/p&gt;
 &lt;p&gt;#bpm #dem #itasca #mining #spg
+&lt;a href=&#34;https://tinyurl.com/yz57fs36&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yz57fs36&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=AgssizDIRDk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Webinar: The Bonded-Particle Model as a Tool for Rock Mechanics Research and Application&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/yz57fs36&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yz57fs36&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>LS-DYNA SPG – метод частиц с физическим механизмом разрушени</title>
-      <link>http://localhost:1313/posts/2020-10-02-ls-dyna-spg-metod-chastits-s-fizicheskim/</link>
+      <title>LS-DYNA SPG – метод частиц с физическим механизмом разрушения</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-10-02-ls-dyna-spg-metod-chastits-s-fizicheskim/</link>
       <pubDate>Fri, 02 Oct 2020 11:00:30 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-10-02-ls-dyna-spg-metod-chastits-s-fizicheskim/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-10-02-ls-dyna-spg-metod-chastits-s-fizicheskim/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/ls-dyna-spg-%d0%bc%d0%b5%d1%82%d0%be%d0%b4-%d1%87%d0%b0%d1%81%d1%82%d0%b8%d1%86-%d1%81-%d1%84%d0%b8%d0%b7%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%bc-%d0%bc%d0%b5%d1%85%d0%b0%d0%bd%d0%b8%d0%b7/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LS-DYNA SPG – метод частиц с физическим механизмом разрушения - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Анонс вебинара по SPG</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-07-28-anons-vebinara-po-spg/</link>
+      <pubDate>Tue, 28 Jul 2020 13:01:07 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-07-28-anons-vebinara-po-spg/</guid>
+      <description>&lt;p&gt;Анонс вебинара по SPG&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/spg-webinar/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Анонс вебинара по SPG - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Хрупкое разрушение</title>
-      <link>http://localhost:1313/posts/2019-02-08-hrupkoe-razrushenie/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-08-hrupkoe-razrushenie/</link>
       <pubDate>Fri, 08 Feb 2019 04:38:07 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-02-08-hrupkoe-razrushenie/</guid>
-      <description>&lt;p&gt;Тут у меня коллеги интересовались моделированием хрупкого разрушения материалов в #LSDYNA. Самым передовым и многообещающим методом расчета такого разрушения и трещенообразования является перидинамика (&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Перидинамика)
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-08-hrupkoe-razrushenie/</guid>
+      <description>&lt;p&gt;Хрупкое разрушение&lt;/p&gt;
+&lt;p&gt;Тут у меня коллеги интересовались моделированием хрупкого разрушения материалов в #LSDYNA. Самым передовым и многообещающим методом расчета такого разрушения и трещенообразования является перидинамика (&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Перидинамика)
 Так вот, я поскреб по сусекам, посмотрел, что у меня есть в волшебном хранилище знаний, и нашел отличную ссылку на репозиторий господина Cheng-Tang Wu (одного из главных разработчиков #LSTC в этом направлении), где он выкладываем свой учебный курс по бессрочным методам (корме перидинамики есть еще #EFG и #SPG).
 Внимание, в составе данного учебного курса есть работающие примеры со всем перечисленными бессрочными методами расчета разрушения!
 #meshless #peridynamics #AdaptiveEFG
 P.S. Насколько я понял, ключевые карты SECTION_SOLID_PERI и MAT_ELASTIC_PERI пока реализованы только в beta версиях решателя поколения R10.
 &lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Index of /anonymous/outgoing/whu/Class&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Перидинамика
+&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Работают ли бессрочные методы?</title>
-      <link>http://localhost:1313/posts/2019-02-08-rabotayut-li-bessrochnye-metody/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-08-rabotayut-li-bessrochnye-metody/</link>
       <pubDate>Fri, 08 Feb 2019 04:36:58 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-02-08-rabotayut-li-bessrochnye-metody/</guid>
-      <description>&lt;p&gt;Работают ли бессрочные методы?
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-08-rabotayut-li-bessrochnye-metody/</guid>
+      <description>&lt;p&gt;Работают ли бессрочные методы?&lt;/p&gt;
+&lt;p&gt;Работают ли бессрочные методы?
 Небольшая статья с очередной конференции по #LSDYNA. В статье рассказывается о сравнении расчета с применением сеточных и бессрочных методов с экспериментом — разрывом металлического образца.
 Постановки:&lt;/p&gt;
 &lt;ul&gt;
@@ -98,73 +123,138 @@ P.S. Насколько я понял, ключевые карты SECTION_SOLID
 &lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ALE #EFG #FEM #Lagrangian #LS_DYNA #SPG #SPH&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-4867&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-4867&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/s9vWYY-4867&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-4867&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Вернемся к перидинамике. Уже сейчас заинтересованные пользов</title>
-      <link>http://localhost:1313/posts/2019-02-08-vernemsya-k-peridinamike-uzhe-seychas-zain/</link>
+      <title>Вернемся к перидинамике.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-08-vernemsya-k-peridinamike-uzhe-seychas-zain/</link>
       <pubDate>Fri, 08 Feb 2019 04:35:29 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-02-08-vernemsya-k-peridinamike-uzhe-seychas-zain/</guid>
-      <description>&lt;p&gt;А еще там будет много вкусностей про Smoothed Particle Galerkin (#SPG) для пластического разрушения.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-08-vernemsya-k-peridinamike-uzhe-seychas-zain/</guid>
+      <description>&lt;p&gt;Уже сейчас заинтересованные пользователи могут запросить у #LSTC новейшую beta версию LS-DYNA способную работать в данной постановке механики сплошной среды. Очень хочется опробовать данный метод для хрупкого разрушения.
+А еще там будет много вкусностей про Smoothed Particle Galerkin (#SPG) для пластического разрушения.
 #peridynamics #lsdyna&lt;/p&gt;
 &lt;p&gt;Файл Recent Development of Advanced FEM and Meshfree Methods in LS-DYNA for Solid and Structural Analyses.pdf
 Файл Implementation of Peridynamic Theory to LS-DYNA for Prediction of Crack Propagation in a Composite Lamina.pdf&lt;/p&gt;
 &lt;p&gt;#LS_DYNA #LSTC #peridynamics #SPG&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-5356&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-5356&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-5356&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-5356&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Применение SPG в задачах фрезировки и пробивания</title>
-      <link>http://localhost:1313/posts/2018-11-14-primenenie-spg-v-zadachah-frezirovki-i-pr/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-14-primenenie-spg-v-zadachah-frezirovki-i-pr/</link>
       <pubDate>Wed, 14 Nov 2018 17:00:23 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-11-14-primenenie-spg-v-zadachah-frezirovki-i-pr/</guid>
-      <description>&lt;p&gt;Хорошая статья от LSTC, посвященная изучению работы их SPG метода в применении к задачам обработки материалов. И тут под обработкой понимается очень широкий круг понятий: в статье описаны только задачи фрезировки металла и пробивания бетона, но у меня есть кейсы, где рассматривается и сверление, и разрывные испытания, и даже фрагментация осколочных боеприпасов.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-14-primenenie-spg-v-zadachah-frezirovki-i-pr/</guid>
+      <description>&lt;p&gt;Применение SPG в задачах фрезировки и пробивания&lt;/p&gt;
+&lt;p&gt;Хорошая статья от LSTC, посвященная изучению работы их SPG метода в применении к задачам обработки материалов. И тут под обработкой понимается очень широкий круг понятий: в статье описаны только задачи фрезировки металла и пробивания бетона, но у меня есть кейсы, где рассматривается и сверление, и разрывные испытания, и даже фрагментация осколочных боеприпасов.&lt;/p&gt;
 &lt;p&gt;SPG (не путать с SPH или EFG)- это вообще некий единорог среди бессеточных методов, который может очень много чего как в explicit, так и в implicit (!!!) постановках, отличается стабильностью и простотой настройки. Вот только ресурсов любой бессеточный метод в механике обычно кушает раза в 3 больше, чем сеточный.
 &lt;a href=&#34;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/parametric-and-convergence-studies-of-the-smoothed-particle-galerkin-spg-method-in-semi-brittle-and-ductile-material-failure-analyses&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/parametric-and-convergence-studies-of-the-smoothed-particle-galerkin-spg-method-in-semi-brittle-and-ductile-material-failure-analyses&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#Concrete #KCC #LSDYNA #LSTC #Machining #Meshless #Perforation #SPG
+&lt;a href=&#34;http://bit.ly/2RZwFW3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RZwFW3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/parametric-and-convergence-studies-of-the-smoothed-particle-galerkin-spg-method-in-semi-brittle-and-ductile-material-failure-analyses&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/parametric-and-convergence-studies-of-the-smoothed-particle-galerkin-spg-method-in-semi-brittle-and-ductile-material-failure-analyses&lt;/a&gt;
 &lt;a href=&#34;http://bit.ly/2RZwFW3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RZwFW3&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Моделирование армирования в бессеточных методах</title>
-      <link>http://localhost:1313/posts/2018-07-19-modelirovanie-armirovaniya-v-bessetochnyh/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-19-modelirovanie-armirovaniya-v-bessetochnyh/</link>
       <pubDate>Thu, 19 Jul 2018 18:00:31 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-07-19-modelirovanie-armirovaniya-v-bessetochnyh/</guid>
-      <description>&lt;p&gt;Хочу обратить ваше внимание на статью &amp;ldquo;The Immersed Smoothed Particle Galerkin Method in LS-DYNA® for Material Failure Analysis of Fiber-Reinforced Solid Structures&amp;rdquo;, опубликованную в рамках 15-ой международной пользовательской конференции LS-DYNA. В ней рассказывается про разработку новой карты *CONSTRAINED_IMMERSED_IN_SPG, которая позволяет автоматически встраивать армирование на основе beam элементов в матрицу, на основе SPG формулировки.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-19-modelirovanie-armirovaniya-v-bessetochnyh/</guid>
+      <description>&lt;p&gt;Моделирование армирования в бессеточных методах
+Хочу обратить ваше внимание на статью &amp;ldquo;The Immersed Smoothed Particle Galerkin Method in LS-DYNA® for Material Failure Analysis of Fiber-Reinforced Solid Structures&amp;rdquo;, опубликованную в рамках 15-ой международной пользовательской конференции LS-DYNA. В ней рассказывается про разработку новой карты *CONSTRAINED_IMMERSED_IN_SPG, которая позволяет автоматически встраивать армирование на основе beam элементов в матрицу, на основе SPG формулировки.&lt;/p&gt;
 &lt;p&gt;SPG - Smoothed Particle Galerkin Method - бессеточный метод, разработанный LSTC для моделирования процессов как хрупкого, так и пластического разрушения. Данный метод вобрал в себя все преимущества SPH, но лишился его недостатков - например, нестабильности при растяжении или невозможности работы с неявным решателем. Подробности по математике метода тут: https://www.dynalook.com/13th-international-ls-dyna-conference/fluid-structure-interaction/an-introduction-to-the-ls-dyna-r-smoothed-particle-galerkin-method-for-severe-deformation-and-failure-analyses-in-solids
 Таким образом, *CONSTRAINED_IMMERSED_IN_SPG позволит нормально считать задачи пробивания в бессеточной постановке как только будет включен.&lt;/p&gt;
 &lt;p&gt;#LSDYNA #LSTC #Meshless #Reinforcement #SPG #SPH
+&lt;a href=&#34;http://bit.ly/2NrEzFg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NrEzFg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/the-immersed-smoothed-particle-galerkin-method-in-ls-dyna-r-for-material-failure-analysis-of-fiber-reinforced-solid-structures&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/the-immersed-smoothed-particle-galerkin-method-in-ls-dyna-r-for-material-failure-analysis-of-fiber-reinforced-solid-structures&lt;/a&gt;
+&lt;a href=&#34;https://www.dynalook.com/13th-international-ls-dyna-conference/fluid-structure-interaction/an-introduction-to-the-ls-dyna-r-smoothed-particle-galerkin-method-for-severe-deformation-and-failure-analyses-in-solids&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/13th-international-ls-dyna-conference/fluid-structure-interaction/an-introduction-to-the-ls-dyna-r-smoothed-particle-galerkin-method-for-severe-deformation-and-failure-analyses-in-solids&lt;/a&gt;
 &lt;a href=&#34;http://bit.ly/2NrEzFg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NrEzFg&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Тут у меня коллеги интересовались моделированием хрупкого ра</title>
-      <link>http://localhost:1313/posts/2017-11-09-tut-u-menya-kollegi-interesovalis-modeli/</link>
-      <pubDate>Thu, 09 Nov 2017 17:09:22 +0000</pubDate>
+      <title>Материалы 15-ой конференции LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-06-26-materialy-15-oy-konferentsii-ls-dyna/</link>
+      <pubDate>Tue, 26 Jun 2018 18:02:23 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-09-tut-u-menya-kollegi-interesovalis-modeli/</guid>
-      <description>&lt;p&gt;Так вот, я поскреб по сусекам, посмотрел, что у меня есть в волшебном хранилище знаний, и нашел отличную ссылку на репозиторий господина Cheng-Tang Wu (одного из главных разработчиков #LSTC в этом направлении), где он выкладываем свой учебный курс по бессрочным методам (корме перидинамики есть еще #EFG и #SPG).&lt;/p&gt;
-&lt;p&gt;Внимание, в составе данного учебного курса есть работающие примеры со всем перечисленными бессрочными методами расчета разрушения!&lt;/p&gt;
-&lt;p&gt;#meshless #peridynamics #AdaptiveEFG&lt;/p&gt;
-&lt;p&gt;P.S. Насколько я понял, ключевые карты SECTION_SOLID_PERI и MAT_ELASTIC_PERI пока реализованы только в beta версиях решателя поколения R10.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&lt;/a&gt; 🔗 Index of /anonymous/outgoing/whu/Class&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-06-26-materialy-15-oy-konferentsii-ls-dyna/</guid>
+      <description>&lt;p&gt;Материалы 15-ой конференции LS-DYNA
+Стали доступны материалы конференции, проведенной две недели назад  в Детройте, США. Это значит, что в свободный доступ попал большой массив (182 штуки) свежайших статей от ведущих разработчиков и пользователей LS-DYNA. Спасибо LSTC за такую щедрую политику распространения информации. Если надо объяснять, то не надо объяснять.
+Что я уже успел отметить для себя при беглом просмотре части материалов (все будет позднее подробно рассказано в паблике):&lt;/p&gt;
+&lt;p&gt;S-ALE домен научился двигаться за центром тяжести себя самого
+Подробное описание MLS-SPH формулировки, стабильной на растяжение и кручение
+Вычислительно эффективные IGA-элементы
+Обзор работы основных моделей бетонов для SPH
+Аналог *CONSTRAINED_LAGRANGE_IN_SOLID для SPG
+Расчеты динамики парашютов с использованием как ALE-FSI, так и ICFD-FSI&lt;/p&gt;
+&lt;p&gt;Программа конференции: https://www.dynamore.de/en/downloads/flyer/2018/int.-ls-dyna-conference-2018-agenda
+Материалы для изучения: https://www.dynalook.com/copy_of_11th-european-ls-dyna-conference
+P.S. URL для материалов какой-то очень кривой на вид, но он рабочий. На крайний случай, всегда можно увидеть все матералы на сайте dynalook.com&lt;/p&gt;
+&lt;p&gt;#Concrete #FSI #ICFD #IGA #LSDYNA #LSTC #MLS #SALE #SPG #SPH
+&lt;a href=&#34;http://bit.ly/2MkPZtG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2MkPZtG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dynamore.de/en/downloads/flyer/2018/int.-ls-dyna-conference-2018-agenda&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.de/en/downloads/flyer/2018/int.-ls-dyna-conference-2018-agenda&lt;/a&gt;
+&lt;a href=&#34;https://www.dynalook.com/copy_of_11th-european-ls-dyna-conference&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/copy_of_11th-european-ls-dyna-conference&lt;/a&gt;
+dynalook.com
+&lt;a href=&#34;http://bit.ly/2MkPZtG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2MkPZtG&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Вернемся к перидинамике. Уже сейчас заинтересованные пользов</title>
-      <link>http://localhost:1313/posts/2015-12-13-vernemsya-k-peridinamike-uzhe-seychas-zain/</link>
+      <title>Тут у меня коллеги интересовались моделированием хрупкого разрушения материалов в #LSDYNA.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-09-tut-u-menya-kollegi-interesovalis-modeli/</link>
+      <pubDate>Thu, 09 Nov 2017 17:09:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-09-tut-u-menya-kollegi-interesovalis-modeli/</guid>
+      <description>&lt;p&gt;Самым передовым и многообещающим методом расчета такого разрушения и трещенообразования является перидинамика (&lt;a href=&#34;http://ift.tt/2zu9ye7&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zu9ye7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Так вот, я поскреб по сусекам, посмотрел, что у меня есть в волшебном хранилище знаний, и нашел отличную ссылку на репозиторий господина Cheng-Tang Wu (одного из главных разработчиков #LSTC в этом направлении), где он выкладываем свой учебный курс по бессрочным методам (корме перидинамики есть еще #EFG и #SPG).&lt;/p&gt;
+&lt;p&gt;Внимание, в составе данного учебного курса есть работающие примеры со всем перечисленными бессрочными методами расчета разрушения!&lt;/p&gt;
+&lt;p&gt;#meshless #peridynamics #AdaptiveEFG&lt;/p&gt;
+&lt;p&gt;P.S. Насколько я понял, ключевые карты SECTION_SOLID_PERI и MAT_ELASTIC_PERI пока реализованы только в beta версиях решателя поколения R10.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&lt;/a&gt; 🔗 Index of /anonymous/outgoing/whu/Class&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vlBJYZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlBJYZ&lt;/a&gt;
+&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Работают ли бессрочные методы?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-02-rabotayut-li-bessrochnye-metody/</link>
+      <pubDate>Sun, 02 Oct 2016 12:00:54 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-02-rabotayut-li-bessrochnye-metody/</guid>
+      <description>&lt;p&gt;Работают ли бессрочные методы?
+&lt;a href=&#34;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Небольшая статья с очередной конференции по #LSDYNA. В статье рассказывается о сравнении расчета с применением сеточных и бессрочных методов с экспериментом - разрывом металлического образца.
+Постановки:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#FEM #Lagrangian&lt;/li&gt;
+&lt;li&gt;#FEM #ALE&lt;/li&gt;
+&lt;li&gt;#SPH&lt;/li&gt;
+&lt;li&gt;#EFG&lt;/li&gt;
+&lt;li&gt;#SPG&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Точную кривую не описал не один из методов. Точная форма получилась только у ALE. Хуже всех, естественно выступил SPH, с его численной нестабильностью при работе на растяжение. На мой вкус EFG дал самую хорошую кривую, но с формой беда.&lt;/p&gt;
+&lt;p&gt;Прям захотелось повторить численный эксперимент.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вернемся к перидинамике.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-13-vernemsya-k-peridinamike-uzhe-seychas-zain/</link>
       <pubDate>Sun, 13 Dec 2015 18:01:09 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-12-13-vernemsya-k-peridinamike-uzhe-seychas-zain/</guid>
-      <description>&lt;p&gt;А еще там будет много вкусностей про Smoothed Particle Galerkin (#SPG) для пластического разрушения.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-13-vernemsya-k-peridinamike-uzhe-seychas-zain/</guid>
+      <description>&lt;p&gt;Уже сейчас заинтересованные пользователи могут запросить у #LSTC новейшую beta версию LS-DYNA способную работать в данной постановке механики сплошной среды. Очень хочется опробовать данный метод для хрупкого разрушения.&lt;/p&gt;
+&lt;p&gt;А еще там будет много вкусностей про Smoothed Particle Galerkin (#SPG) для пластического разрушения.&lt;/p&gt;
 </description>
     </item>
     

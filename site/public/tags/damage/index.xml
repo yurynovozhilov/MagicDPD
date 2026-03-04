@@ -2,42 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Damage on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/damage/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/damage/</link>
     <description>MagicDPD: Magic Driven Product Development! (Damage)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 01 Apr 2022 17:00:10 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/damage/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/damage/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>7 апреля шведское подразделение #DYNAmore будет рассказывать</title>
-      <link>http://localhost:1313/posts/2022-04-01-7-aprelya-shvedskoe-podrazdelenie-dynamor/</link>
+      <title>7 апреля шведское подразделение #DYNAmore будет рассказывать про идентификацию параметров для моделей #GISSMO и #DIEM. Данные модели являются стандартами де-факто при расчетах #LSDYNA в автомобильной промышленности. Они подключаются к большинству моделей материалов и позволяют учесть влияние на разупрочнение материала таких параметров, как трехосности, параметр Лоде и неустойчивость пластического течения. Так что подключайтесь к бесплатному мероприятию и впитывайте знания!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-01-7-aprelya-shvedskoe-podrazdelenie-dynamor/</link>
       <pubDate>Fri, 01 Apr 2022 17:00:10 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-04-01-7-aprelya-shvedskoe-podrazdelenie-dynamor/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-01-7-aprelya-shvedskoe-podrazdelenie-dynamor/</guid>
       <description>&lt;p&gt;#ANSYS #Damage &lt;a href=&#34;https://www.dynamore.se/en/training/seminars/webinars/parameter-identification-for-gissmo-and-diem-damage-models-1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.se/en/training/seminars/webinars/parameter-identification-for-gissmo-and-diem-damage-models-1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dynamore.se/en/training/seminars/webinars/parameter-identification-for-gissmo-and-diem-damage-models-1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.se/en/training/seminars/webinars/parameter-identification-for-gissmo-and-diem-damage-models-1&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Продолжая тему моделирования повреждения материала предлагаю</title>
-      <link>http://localhost:1313/posts/2015-11-22-prodolzhaya-temu-modelirovaniya-povrezhdeniya/</link>
+      <title>Модель DIEM в LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-09-28-model-diem-v-ls-dyna/</link>
+      <pubDate>Mon, 28 Sep 2020 14:47:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-09-28-model-diem-v-ls-dyna/</guid>
+      <description>&lt;p&gt;Модель DIEM в LS-DYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/diem-in-ls-dyna/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Модель DIEM в LS-DYNA - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Продолжая тему моделирования повреждения материала предлагаю рассмотреть магистерскую работу Ravi Shankar Maravalalu Suresh с факультета гражданского строительства и геологии технологического университета Дельф (Faculty of Civil Engineering and Geosciences, Delft University of Technology).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-22-prodolzhaya-temu-modelirovaniya-povrezhdeniya/</link>
       <pubDate>Sun, 22 Nov 2015 07:00:18 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-22-prodolzhaya-temu-modelirovaniya-povrezhdeniya/</guid>
-      <description>&lt;p&gt;Молодому ученому в итоге удалось настроить численный тест по методике Кольского с применением разрезного стержня Хопкинсона (split Hopkinson pressure bar, SHPB), причем добиться сеточно независимого решения. Расчеты естественно проводились в LS-DYNA с подключенным *MAT_NONLOCAL&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-22-prodolzhaya-temu-modelirovaniya-povrezhdeniya/</guid>
+      <description>&lt;p&gt;Тема работы - Nonlocal Damage Models for Concrete.&lt;/p&gt;
+&lt;p&gt;Молодому ученому в итоге удалось настроить численный тест по методике Кольского с применением разрезного стержня Хопкинсона (split Hopkinson pressure bar, SHPB), причем добиться сеточно независимого решения. Расчеты естественно проводились в LS-DYNA с подключенным *MAT_NONLOCAL&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Поведение железобетонных конструкций под действием циклическ</title>
-      <link>http://localhost:1313/posts/2015-10-27-povedenie-zhelezobetonnyh-konstruktsiy-pod/</link>
+      <title>Поведение железобетонных конструкций под действием циклического нагруженная. Даже с экспериментом совпали!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-27-povedenie-zhelezobetonnyh-konstruktsiy-pod/</link>
       <pubDate>Tue, 27 Oct 2015 18:01:18 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-27-povedenie-zhelezobetonnyh-konstruktsiy-pod/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-27-povedenie-zhelezobetonnyh-konstruktsiy-pod/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-TD5DWH8DxM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Simulation of Concrete Shear Wall Under Cyclic Lateral Loading&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=SKwNv7flusk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Simulation of Bridge Column Under Seismic Loads&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -2,27 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FDS on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/fds/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/fds/</link>
     <description>MagicDPD: Magic Driven Product Development! (FDS)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 01 Aug 2018 18:00:26 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/fds/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/fds/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Моделирование пожаров - теперь в SimScale</title>
-      <link>http://localhost:1313/posts/2018-08-01-modelirovanie-pozharov-teper-v-simscal/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-01-modelirovanie-pozharov-teper-v-simscal/</link>
       <pubDate>Wed, 01 Aug 2018 18:00:26 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-08-01-modelirovanie-pozharov-teper-v-simscal/</guid>
-      <description>&lt;p&gt;Компания SimScale, пожалуй, самый активный игрок рынка облачного CAE/CFD/FEM, анонсировали планы по включению в свое портфолио возможности расчетов FDS - Fire Dynamics Simulator.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-01-modelirovanie-pozharov-teper-v-simscal/</guid>
+      <description>&lt;p&gt;Моделирование пожаров - теперь в SimScale
+Компания SimScale, пожалуй, самый активный игрок рынка облачного CAE/CFD/FEM, анонсировали планы по включению в свое портфолио возможности расчетов FDS - Fire Dynamics Simulator.&lt;/p&gt;
 &lt;p&gt;FDS позволяет выполнять расчеты динамики пожаров, получать данные по задымлению помещений и температуре в них. Данный код разработан Национальным институтом стандартов и технологий США (The National Institute of Standards and Technology) совместно с Научно-исследовательским центром VTT Финляндии (VTT Technical Research Centre of Finland). Код открытый, бесплатный. Я даже про него уже как-то писал тут: http://magicdpd.ru/4524/
 Оригинальная статья: https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/17171/Browser-Based-Fire-and-Smoke-Simulation.aspx
 Ссылка на заказ тестирования работы FDS в SimScale: https://www.simscale.com/contact-form/?title=Fire%20and%20Smoke%20Simulation%20in%20a%20Browser%0D%0A&lt;/p&gt;
 &lt;p&gt;#Cloud #FDS #NIST #OpenSource #Simscale
 &lt;a href=&#34;http://bit.ly/2KjnEm6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2KjnEm6&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/4524/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/4524/&lt;/a&gt;
+&lt;a href=&#34;http://magicdpd.ru/4524/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://magicdpd.ru/4524/&lt;/a&gt;
+&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/17171/Browser-Based-Fire-and-Smoke-Simulation.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/17171/Browser-Based-Fire-and-Smoke-Simulation.aspx&lt;/a&gt;
+&lt;a href=&#34;https://www.simscale.com/contact-form/?title=Fire%20and%20Smoke%20Simulation%20in%20a%20Browser%0D%0A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.simscale.com/contact-form/?title=Fire%20and%20Smoke%20Simulation%20in%20a%20Browser%0D%0A&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2KjnEm6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2KjnEm6&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование пожаров</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-20-modelirovanie-pozharov/</link>
+      <pubDate>Thu, 20 Jul 2017 17:01:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-20-modelirovanie-pozharov/</guid>
+      <description>&lt;p&gt;Моделирование пожаров
+&lt;a href=&#34;https://pages.nist.gov/fds-smv/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://pages.nist.gov/fds-smv/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;У Национального института стандартов и технологий США (The National Institute of Standards and Technology, #NIST) есть код собственной разработки, заточенный на моделирование пожаров, распространения огня и дыма, учета тепловых потоков. Код открытый и бесплатный, публично доступный на #GitHub, что не может не вызывать уважения. Всем заинтересовавшимся можно ознакомиться с проектами Fire Dynamics Simulator (#FDS) и  #Smokeview (#SMV).&lt;/p&gt;
+&lt;p&gt;#cfd #opensource
+&lt;a href=&#34;https://www.youtube.com/watch?v=pgDbsv62cu8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=pgDbsv62cu8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pages.nist.gov/fds-smv/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FDS-SMV&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=pgDbsv62cu8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=pgDbsv62cu8&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

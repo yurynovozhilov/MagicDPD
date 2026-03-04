@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GigIO on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/gigio/</link>
+    <description>MagicDPD: Magic Driven Product Development! (GigIO)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sun, 21 Jul 2019 13:00:31 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/gigio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HPC интерконнект по PCIe Gen 4</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-21-hpc-interkonnekt-po-pcie-gen-4/</link>
+      <pubDate>Sun, 21 Jul 2019 13:00:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-21-hpc-interkonnekt-po-pcie-gen-4/</guid>
+      <description>&lt;p&gt;HPC интерконнект по PCIe Gen 4&lt;/p&gt;
+&lt;p&gt;Интересная разработка HPC стартапа по превращению шины PCIe в полноценный интерконнект. Обычно на эту шину цепляется как-то интерконнект типа сети (Infiniband, Ethernet, Omny Path). Но в случае компании GigaIO интерконнект строится прямо на основе PCIe шины. Если все правильно сделать, то должно получиться неплохо, так как часть накладных расходов на создание «сети» исчезает.&lt;/p&gt;
+&lt;p&gt;#GigIO #HPC&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2BU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2BU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2BU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2BU&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

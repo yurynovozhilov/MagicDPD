@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MATNULL on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/matnull/</link>
+    <description>MagicDPD: Magic Driven Product Development! (MATNULL)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 27 Nov 2018 17:00:17 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/matnull/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Методика использования NULL SHELL</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-27-metodika-ispolzovaniya-null-shell/</link>
+      <pubDate>Tue, 27 Nov 2018 17:00:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-27-metodika-ispolzovaniya-null-shell/</guid>
+      <description>&lt;p&gt;Методика использования NULL SHELL
+Рассказываю о широко известном в узких кругах трюке, обеспечивающем стабильный расчет контакта чего-то жеского (например, ударник) с чем-то мягким (например, пена) в LS-DYNA. Чтобы у вас в ходе расчета не было проблем с отрицательным объемом элементов, достаточно задать контакт не напрямую с мягким телом, а сначала завернуть его в оболочки из *MAT_NULL. Так и контакт будет лучше ловиться, и элементы не будут выворачиваться.
+А за подробностями по ссылке: http://oss.jishulink.com/caenet/forums/upload/2012/11/19/113/62324500005739.pdf&lt;/p&gt;
+&lt;p&gt;#LSDYNA #MATNULL
+&lt;a href=&#34;http://bit.ly/2P57pLP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2P57pLP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://oss.jishulink.com/caenet/forums/upload/2012/11/19/113/62324500005739.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://oss.jishulink.com/caenet/forums/upload/2012/11/19/113/62324500005739.pdf&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2P57pLP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2P57pLP&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

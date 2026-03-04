@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Polyhedra on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/polyhedra/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Polyhedra)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 28 Feb 2018 18:00:44 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/polyhedra/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Задачи механики на полиэдральных сетках</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-28-zadachi-mehaniki-na-poliedralnyh-setkah/</link>
+      <pubDate>Wed, 28 Feb 2018 18:00:44 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-28-zadachi-mehaniki-na-poliedralnyh-setkah/</guid>
+      <description>&lt;p&gt;Задачи механики на полиэдральных сетках
+Что бы вы сказали, если бы нашелся explicit или implicit решатель механики, способный работать с полиэдральными сетками?&lt;/p&gt;
+&lt;p&gt;У CFD кодов была давняя проблема — они были очень требовательны к качеству сетки. Hex сетки на любой геометрии не построить, а tet — дают погрешности и повышенную вычислительную нагрузку. К счастью, самые крутые CFD коды научились работать с полиэдральными сетками, которые они получают из tet сетки или строят сами.
+У механики тоже есть определенные требования к сетке, и, чем дальше мы погружаемся в нелинейные расчеты, тем выше становятся требования к качеству сетки. В explicit кодах вообще чуть ли не основной задачей расчетчика является создание качественной сетки. Где же спасение?
+Готовясь к очередной встрече, я наткнулся на очень любопытный канал «naturalneighbour» на YouTube. На нем были приведены примеры расчетов высоконелинейных быстропротекающих процессов механики, выполненные на адаптивных полиэдальных сетках!
+Есть видео с тестом Тейлора:&lt;/p&gt;
+&lt;p&gt;И есть пример с резкой металла:&lt;/p&gt;
+&lt;p&gt;Однако, все видео опубликованы аж в 2014 году, и с тех пор на канале нет никакой жизни. Найти источники видео пока не удалось.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/?p=6407&amp;amp;lang=ru&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Задачи механики на полиэдральных сетках — MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,102 +2,206 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Azure on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/azure/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/azure/</link>
     <description>MagicDPD: Magic Driven Product Development! (Azure)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 14 Apr 2022 17:00:07 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/azure/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/azure/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Вчера #Ansys купил себе #OnScale, и я расскажу почему это ва</title>
-      <link>http://localhost:1313/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</link>
+      <title>Вчера #Ansys купил себе #OnScale, и я расскажу почему это важно.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</link>
       <pubDate>Thu, 14 Apr 2022 17:00:07 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</guid>
       <description>&lt;p&gt;Итак, компания OnScale делала одноименную независимую платформу для  КЭ расчетов в облаке. Идея у них была очень похоже на успешный проект SimScale. Однако, SimScale использовал внутри себя #opensource коды для расчетов, а OnScale решили писать все свое. Кажется, что они просто не оценили трудоемкости написания хороших решателей, вот WebUI вышел вполне себе нормальный.&lt;/p&gt;
 &lt;p&gt;Теперь их покупает Ansys, который идет в облако всеми возможными путями. У них, как и всех конкурентов, есть облачные лицензии. У них есть облачные #HPC партнеры в лице #AWS и #Azure. Есть встроенные возможности из классических приложений посылать задачи на расчет в облако. А вот полноценного #WebUI для работы с решателями не было - всегда были какие-то средства доставки классических дестопных приложений и рабочих столов Windows/Linux систем. И тут мы видим, что OnScale становиться последним кусочком мозаики полноценного облачного решения от Ansys.&lt;/p&gt;
 &lt;p&gt;Я думаю, что в ближайшие 5 лет мы сможем увидеть новые Web версии #Fluent, #Mechanical #HFSS, которые больше не будут требовать установки дистрибутива с 5 DVD дисков, а полноценно будет работать в глобальном или корпоративном облаке.&lt;/p&gt;
 &lt;p&gt;#cloud #opensource #HPC &lt;a href=&#34;https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys to Expand Cloud Portfolio with Technology from Acquisition of OnScale&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Azure и облачный кластер на 20 000 ядер</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-18-azure-i-oblachnyy-klaster-na-20-000-yader/</link>
+      <pubDate>Thu, 18 Jul 2019 13:00:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-18-azure-i-oblachnyy-klaster-na-20-000-yader/</guid>
+      <description>&lt;p&gt;Azure и облачный кластер на 20 000 ядер&lt;/p&gt;
+&lt;p&gt;Коллеги из Microsoft немного поиграли мускулатурой в своих ЦОД West US 2 и East US. Недолго думая, они смогли собрать HPC кластер из 512 виртуальных машин (новая серия HC) = 22 528 физических вычислительных ядер Intel Xeon Platinum 8168 (безо всякого там Hyper Threading). При этом это действительно HPC, так как виртуалки были объединены настоящим интерконнектом 100 Gb/s InfiniBand (SR-IOV). Профит: очень быстрый кластер в облаке с хорошей масштабируемостью согласно бенчмаркам. И да, не забывайте, что Azure — главный партнер ANSYS в облаке.&lt;/p&gt;
+&lt;p&gt;Оригинальный текст:&lt;/p&gt;
+&lt;p&gt;Azure Benchmarks HC-series Across 20,000 cores for HPC&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/blog/azure-hc-series-virtual-machines-crosses-20000-cores-for-hpc-workloads/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://azure.microsoft.com/en-us/blog/azure-hc-series-virtual-machines-crosses-20000-cores-for-hpc-workloads/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Azure #cloud #HPC&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2BH&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2BH&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/blog/azure-hc-series-virtual-machines-crosses-20000-cores-for-hpc-workloads/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://azure.microsoft.com/en-us/blog/azure-hc-series-virtual-machines-crosses-20000-cores-for-hpc-workloads/&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2BH&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2BH&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FastEngineeringAnalysis</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-04-fastengineeringanalysis/</link>
+      <pubDate>Fri, 04 Aug 2017 17:00:38 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-04-fastengineeringanalysis/</guid>
+      <description>&lt;p&gt;FastEngineeringAnalysis
+&lt;a href=&#34;https://www.fastengineeringanalysis.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.fastengineeringanalysis.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#FastEngineeringAnalysis - еще одна система для решения задач механики в браузере. Кроме традиционного #FEM с поддержкой нелинейных задач у коллег есть собственное ПО для 3D сканирования и работы с геометрией.&lt;/p&gt;
+&lt;p&gt;FastEngineeringAnalysis работает на мощностях #Microsoft #Azure. Тарификация начинается с 4-х часов использования. Обещают скорую интеграцию с #Onshape.&lt;/p&gt;
+&lt;p&gt;#cloud&lt;/p&gt;
+&lt;p&gt;P.S. Судя по демонстрационным видео на канале (&lt;a href=&#34;https://www.youtube.com/channel/UCgCxkb0Jmnt-PUdDRFZbOYA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/channel/UCgCxkb0Jmnt-PUdDRFZbOYA&lt;/a&gt;) это далеко не production ready платформа.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.fastengineeringanalysis.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.fastengineeringanalysis.com/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/channel/UCgCxkb0Jmnt-PUdDRFZbOYA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/channel/UCgCxkb0Jmnt-PUdDRFZbOYA&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Делаем кластер в облаке на 60 секунд</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-07-delaem-klaster-v-oblake-na-60-sekund/</link>
+      <pubDate>Fri, 07 Jul 2017 17:00:50 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-07-delaem-klaster-v-oblake-na-60-sekund/</guid>
+      <description>&lt;p&gt;Делаем кластер в облаке на 60 секунд
+&lt;a href=&#34;http://PBScloud.io&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://PBScloud.io&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Очень любопытное видео от #Altair про #PBScloud.io - их новый продукт, способный делать #HPC кластеры на базе публичных облаков вроде #AWS или #Azure.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jQGMSozUDsI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jQGMSozUDsI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.pbscloud.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;High Performance Computing in the Cloud | PBScloud.io&lt;/a&gt;
+&lt;a href=&#34;http://PBScloud.io&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://PBScloud.io&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=jQGMSozUDsI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jQGMSozUDsI&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Несколько слов про доставку инженерной графики</title>
-      <link>http://localhost:1313/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</link>
       <pubDate>Thu, 29 Sep 2016 17:00:58 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</guid>
+      <description>&lt;p&gt;Несколько слов про доставку инженерной графики
+&lt;a href=&#34;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#Microsoft продолжает хвастаться новыми возможностями по работе с #GPU, которые она реализует в #Windows #Server 2016. Нас ожидает поддержка нужного #OpenGL 4.4+ как в сценариях с #RDSH, так и при построении #VDI. При этом, в качестве средства доставки будет выступать привычный и понятный #RDP, а видеопоток будет полностью аппаратно кодироваться и декодироваться на GPU сервера и клиента. Аналогичные возможности ожидаются в #Azure #Cloud.&lt;/p&gt;
 &lt;p&gt;Неужели скоро все инженеры получат достойные системы доставки инженерной графики практически за так?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;New MS Mechanics video with the latest updates to RDS for Windows Server 2016&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Запущена тестовая эксплуатация GPU в Azure</title>
-      <link>http://localhost:1313/posts/2016-08-18-zapuschena-testovaya-ekspluatatsiya-gpu-v-azu/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-18-zapuschena-testovaya-ekspluatatsiya-gpu-v-azu/</link>
       <pubDate>Thu, 18 Aug 2016 06:30:46 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-08-18-zapuschena-testovaya-ekspluatatsiya-gpu-v-azu/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-18-zapuschena-testovaya-ekspluatatsiya-gpu-v-azu/</guid>
+      <description>&lt;p&gt;Запущена тестовая эксплуатация GPU в Azure
+&lt;a href=&#34;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Тестовая демонстрация работы #GPU #NVIDIA инстансов в облаке #Azure началась в зоне South Central US. При этом, как говорят сами MS, они используют технологию прямого проброса устройстви (Discrete Device Assignment, #DDA), заложенную в ожидаемый #Windows #Server 2016 Hyper-V.&lt;/p&gt;
 &lt;p&gt;Итак, в облаке Azure теперь есть все для построения виртуального #HPC кластера!&lt;/p&gt;
 &lt;p&gt;#cloud #tesla #k80 #m60 #hyperv #teradici&lt;/p&gt;
 &lt;p&gt;Небольшое интевью по поводу события от #Channel9
 &lt;a href=&#34;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Leveraging NVIDIA GPUs in Azure (Channel 9)&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Молния: открыта очередь на тестирование GPU NVIDIA в облаке </title>
-      <link>http://localhost:1313/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</link>
+      <title>Молния: открыта очередь на тестирование GPU NVIDIA в облаке AZURE</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</link>
       <pubDate>Fri, 05 Aug 2016 12:30:08 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://gpu.azure.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://gpu.azure.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Вчера компания #Microsoft выдала очередной анонс запуска #GPU инстансов в #Azure. Примерно год назад компания уже писала о своих планах в блоке, но видимо разработка идет не так гладко, как хотелось бы. Сейчас, вместе с анонсом компания разместила страницу регистрации на тестирование нового продукта. Лично я уже заказал сете на тест машинку с 2-мя #NVIDIA #Tesla #K80, 224 Гб RAM и 1.5 Тб SSD.&lt;/p&gt;
 &lt;p&gt;Еще Microsoft говори о партнерстве с компанией #Teradici для использования технологии #PCoIP доставляющей удаленные рабочие столы со сложной графикой. Это немного странно для меня. Во-первых Teradici - это решение заклятого конкурента #VMWare. Во-вторых, где обещанный ранее #DDS и новый #RemoteFX с поддержкой #OpenGL 4+ (заявлено для #Windows #Server 2016)? Неужели MS отказывает использовать свои серверные операционные систем и технологии в своем же облаке?&lt;/p&gt;
 &lt;p&gt;#VDI #Cloud #HPC
 &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gpu.azure.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Virtual machine sizes overview - Azure Virtual Machines&lt;/a&gt;
+&lt;a href=&#34;http://gpu.azure.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://gpu.azure.com/&lt;/a&gt;
+&lt;a href=&#34;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Билл Ницберг (Bill Nitzberg), CEO подразделения #PBS Works к</title>
-      <link>http://localhost:1313/posts/2016-07-04-bill-nitsberg-bill-nitzberg-ceo-podraz/</link>
+      <title>Полноценное #HPC в облаке</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-01-polnotsennoe-hpc-v-oblake/</link>
+      <pubDate>Mon, 01 Aug 2016 07:03:57 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-01-polnotsennoe-hpc-v-oblake/</guid>
+      <description>&lt;p&gt;Полноценное #HPC в облаке
+&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12777/ANSYS-CFD-Sees-Scalability-to-1024-Cores-on-Microsoft-Azure.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12777/ANSYS-CFD-Sees-Scalability-to-1024-Cores-on-Microsoft-Azure.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Инфоповод по сообщению во множестве блогов: #ANSYS #CFD распараллелился почти линейно на 1024 ядра в облаке #Azure. Новость эта несет в себе сразу две морали.&lt;/p&gt;
+&lt;p&gt;Первая мораль: ANSYS начинает рассматривать Azure как дополнение к #AWS - и это очень хорошо. Конкуренция облаков - это всегда хорошо для пользователя.&lt;/p&gt;
+&lt;p&gt;Вторая мораль: если дать CFD коду нормальный интерконнект, то он полетит даже в облаке. Как я уже много раз говорил, у Microsoft в Azure есть полноценный #Infiniband с поддержкой #RDMA. Infiniband = HPC, а значит можно очень хорошо посчитать.&lt;/p&gt;
+&lt;p&gt;А еще я очень жду, когда же у AWS тоже будет интреконнект.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12777/ANSYS-CFD-Sees-Scalability-to-1024-Cores-on-Microsoft-Azure.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS CFD Sees Scalability to 1024 Cores on Microsoft Azure&lt;/a&gt;
+&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12777/ANSYS-CFD-Sees-Scalability-to-1024-Cores-on-Microsoft-Azure.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12777/ANSYS-CFD-Sees-Scalability-to-1024-Cores-on-Microsoft-Azure.aspx&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Билл Ницберг (Bill Nitzberg), CEO подразделения #PBS Works компании #Altair, рассказывает про новости с #ISC 2016.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-04-bill-nitsberg-bill-nitzberg-ceo-podraz/</link>
       <pubDate>Mon, 04 Jul 2016 12:02:21 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-07-04-bill-nitsberg-bill-nitzberg-ceo-podraz/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-04-bill-nitsberg-bill-nitzberg-ceo-podraz/</guid>
       <description>&lt;p&gt;Гвоздь программы - это, естественно, открытие кода #PBS Pro. В первый же день после ананаса уже появились люди вне компании, вносящие изменения в код.&lt;/p&gt;
 &lt;p&gt;Кроме того есть еще пара новостных поводов.&lt;/p&gt;
 &lt;p&gt;PBS #Simulator позволяет на основе истории загрузки вашего кластера оптимизировать его архитектуру (например показывает какие типы узлов стоит закупить)&lt;/p&gt;
 &lt;p&gt;PBS #Cloud #Manager - система позволяющая автоматически рааричивать вычислительные кластеры на базе публичных облаков #Amazon #AWS и #Microsoft #Azure. &lt;a href=&#34;https://www.youtube.com/watch?v=nbrkpNsD4rk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nbrkpNsD4rk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nbrkpNsD4rk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;PBS Pro from Altair Goes Open Source at ISC 2016&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Это не совсем про расчеты, но это то, чем мы все скоро будем</title>
-      <link>http://localhost:1313/posts/2015-10-11-eto-ne-sovsem-pro-raschety-no-eto-to-che/</link>
+      <title>#ANSYS делает шикарный подарок для студентов!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-09-ansys-delaet-shikarnyy-podarok-dlya-stude/</link>
+      <pubDate>Thu, 09 Jun 2016 07:01:58 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-09-ansys-delaet-shikarnyy-podarok-dlya-stude/</guid>
+      <description>&lt;p&gt;Если с раньше с ANSYS Student вам не надо было платить за лицензии, то теперь вам даже не надо покупать компьютер! Так для слушателей курса Корнуэльского университета на платформе #edX доступен бесплатный доступ к ANSYS Student в облаке #Azure по средствам #Frame&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&#34;http://www.ansys-blog.com/ansys-enterprise-cloud-free-student-access/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS Student in a Browser Powered by Frame and Microsoft Azure&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20181013120205/http://www.ansys-blog.com:80/ansys-enterprise-cloud-free-student-access/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#Altair продолжает наращивать свое партнерство с #Microsoft.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-29-altair-prodolzhaet-naraschivat-svoe-partn/</link>
+      <pubDate>Mon, 29 Feb 2016 08:25:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-29-altair-prodolzhaet-naraschivat-svoe-partn/</guid>
+      <description>&lt;p&gt;#Altair продолжает наращивать свое партнерство с #Microsoft. Очередным этапом стал запуска решателя #RADDIOSS (явная динамика) на мощностях #Azure для выполнения #HPC расчетов. Надо отметить, что до этого шага Altair и Microsoft начали дружить в рамках Altair #PBS Pro - одного лидеров среди систем планирования очереди задач. И вот теперь RADDIOSS покажет всем, что такое #Infiniband в публичном облаке (а ведь он есть только у Microsoft Azure).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/blog/availability-of-altair-radioss-rdma-on-microsoft-azure/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Altair® RADIOSS® now supported on Microsoft Azure&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Это не совсем про расчеты, но это то, чем мы все скоро будем пользоваться.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-11-eto-ne-sovsem-pro-raschety-no-eto-to-che/</link>
       <pubDate>Sun, 11 Oct 2015 06:30:15 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-11-eto-ne-sovsem-pro-raschety-no-eto-to-che/</guid>
-      <description>&lt;p&gt;Лично я не могу дождаться, когда инстансы N-типа будут доступны нам - очень хочется проверить задержки при удаленной визуализации через DCV.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-11-eto-ne-sovsem-pro-raschety-no-eto-to-che/</guid>
+      <description>&lt;p&gt;Спецы рассказывают, о работе NVIDIA Tesla K80 и Quadro M60 в облако Azure. Более того, у Microsoft наконец-то появилась технология проброски физического железа в виртуальную среду под названием DDA (Discrete Devices Assignment). А если учесть, что в основе Azure находятся технологии Hyper-V, то скоро нас ждет еще и очень сильная конкурентная борьба с VMware.&lt;/p&gt;
+&lt;p&gt;Лично я не могу дождаться, когда инстансы N-типа будут доступны нам - очень хочется проверить задержки при удаленной визуализации через DCV.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/documentation/videos/azurecon-2015-applications-that-scale-using-gpu-compute/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Applications that scale using GPU Compute&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Со всей этой рутинной я чуть пропустил абсолютно сногсшибате</title>
-      <link>http://localhost:1313/posts/2015-10-05-so-vsey-etoy-rutinnoy-ya-chut-propustil-a/</link>
+      <title>Со всей этой рутинной я чуть пропустил абсолютно сногсшибательную новость!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-05-so-vsey-etoy-rutinnoy-ya-chut-propustil-a/</link>
       <pubDate>Mon, 05 Oct 2015 06:30:16 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-05-so-vsey-etoy-rutinnoy-ya-chut-propustil-a/</guid>
-      <description>&lt;p&gt;Теперь же мы можем наблюдать очень интересную направленность Azure в HPC направление. Тут и честный Infiniband (чего нет даже у Amazon AWS), и несколько HPC планировщиков, в числе которых есть лидер рынка Altair PBS Pro, и, наконец, недостающее звено - гибридные вычисления и поддержка удаленной визуализации!!! Мне кажется, что сейчас Azure дал крепкую затрещину AWS.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-05-so-vsey-etoy-rutinnoy-ya-chut-propustil-a/</guid>
+      <description>&lt;p&gt;NVIDIA анонсировала планы по использованию ее графических процессоров и процессоров общего назначения в облаке Microsoft Azure. То, что раз или поздно это произойдет стало понятно в тот момент, когда MS реализовали нормальную поддержку vGPU в Hyper-V для Server 2016.&lt;/p&gt;
+&lt;p&gt;Теперь же мы можем наблюдать очень интересную направленность Azure в HPC направление. Тут и честный Infiniband (чего нет даже у Amazon AWS), и несколько HPC планировщиков, в числе которых есть лидер рынка Altair PBS Pro, и, наконец, недостающее звено - гибридные вычисления и поддержка удаленной визуализации!!! Мне кажется, что сейчас Azure дал крепкую затрещину AWS.&lt;/p&gt;
 &lt;p&gt;#Azure #AWS #Cloud #HPC #NVIDIA
 &lt;a href=&#34;http://nvidianews.nvidia.com/news/nvidia-gpus-to-accelerate-microsoft-azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://nvidianews.nvidia.com/news/nvidia-gpus-to-accelerate-microsoft-azure&lt;/a&gt;
 &lt;a href=&#34;http://www.nvidia.ru/object/nvidia-grid-microsoft-azure-29-sep-2015-ru.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.nvidia.ru/object/nvidia-grid-microsoft-azure-29-sep-2015-ru.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://nvidianews.nvidia.com/news/nvidia-gpus-to-accelerate-microsoft-azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;NVIDIA GPUs to Accelerate Microsoft Azure &lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Non_linear on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/non_linear/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/non_linear/</link>
     <description>MagicDPD: Magic Driven Product Development! (Non_linear)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 28 Jun 2019 17:00:52 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/non_linear/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/non_linear/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Подбор констант для нелинейных моделей материалов — MCalibra</title>
-      <link>http://localhost:1313/posts/2019-06-28-podbor-konstant-dlya-nelineynyh-modeley-m/</link>
+      <title>Подбор констант для нелинейных моделей материалов — MCalibration</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-06-28-podbor-konstant-dlya-nelineynyh-modeley-m/</link>
       <pubDate>Fri, 28 Jun 2019 17:00:52 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-06-28-podbor-konstant-dlya-nelineynyh-modeley-m/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-06-28-podbor-konstant-dlya-nelineynyh-modeley-m/</guid>
       <description>&lt;p&gt;Большинство пакетов КЭ-моделирования имеет возможность калибровать простые модели материалов, такие как гиперэластичность и линейная вязкоупругость. Если речь идет о сложных моделях материалов, то КЭ-программы либо не умеют под них калиброваться, либо имеют достаточно ограниченный функционал.&lt;/p&gt;
 &lt;p&gt;А MCalibration умеет! Он умеет «чистить» экспериментальные данные, содержит кучу функций для калибровки, библиотеку уже откалиброванных моделей материалов и может калибровать большую часть моделей материалов Abaqus, ANSYS и библиотеку PolyUMod. Это означает, что можно очень быстро откалибровать эти модели, даже не используя КЭ-решатель.&lt;/p&gt;
 &lt;p&gt;Интересен тот факт, что в разработке ПО участвовал тот самый Йорген Бергстрем (вы же знали?:)), который и разработал модель Бергстрема-Бойса.&lt;/p&gt;
@@ -24,6 +24,8 @@
 &lt;p&gt;#material #MCalibration #non_linear #properties&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Ae&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Ae&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;by Ян Поженько&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.veryst.com/what-we-offer/polymer-modeling&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.veryst.com/what-we-offer/polymer-modeling&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2Ae&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Ae&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

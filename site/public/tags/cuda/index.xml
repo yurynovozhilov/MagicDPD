@@ -2,26 +2,123 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CUDA on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/cuda/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/cuda/</link>
     <description>MagicDPD: Magic Driven Product Development! (CUDA)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 17 Sep 2017 17:04:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jan 2022 13:01:11 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/cuda/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/cuda/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Статья - размышление про то, как #ANSYS #Discovery Live помо</title>
-      <link>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</link>
+      <title>Задача о разрушении кукурузы!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-21-zadacha-o-razrushenii-kukuruzy-prosto-otk/</link>
+      <pubDate>Fri, 21 Jan 2022 13:01:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-21-zadacha-o-razrushenii-kukuruzy-prosto-otk/</guid>
+      <description>&lt;p&gt;Просто открытая разработка домашнего #FEM решателя, работающего на #CUDA, но вот тестовая задача хороша: смятие и выжимание стебля кукурузы! #simulationfriday #nvidia #opensource &lt;a href=&#34;https://github.com/kovadam19/MicroCrop&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/kovadam19/MicroCrop&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/kovadam19/MicroCrop&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;GitHub - kovadam19/MicroCrop: Advanced Anisotropic Mass-Spring System&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Компания Metariver Technology co., ltd (http://www.metariver.kr) специлизируется на создани #CAE софта #samadii максмально использующего возможности библиотеки #CUDA и графический чипов #NVIDIA.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-26-kompaniya-metariver-technology-co-ltd/</link>
+      <pubDate>Sun, 26 Nov 2017 17:09:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-26-kompaniya-metariver-technology-co-ltd/</guid>
+      <description>&lt;p&gt;Сейчас у них есть:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;samadii/sciv (Statistical Contact in Vacuum) - моделирование процессов в вакуумных приборах методом Monte Carlo&lt;/li&gt;
+&lt;li&gt;samadii/plasma - моделирование процессов в плазме&lt;/li&gt;
+&lt;li&gt;samadii/dem - моделирования сыпучих сред в #DEM постановке&lt;/li&gt;
+&lt;li&gt;samadii/lbm - #CFD решатель на основе #Lattice Boltzmann methods (#LBM)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Все это работает чисть на графических картах, а значит очень быстро.&lt;/p&gt;
+&lt;p&gt;#HPC
+&lt;a href=&#34;https://youtu.be/xXG3JbT0AQkMediaMediaMediaMedia&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/xXG3JbT0AQkMediaMediaMediaMedia&lt;/a&gt;📼 samadii, Metariver Technology&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2i8z0RZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i8z0RZ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.metariver.kr/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.metariver.kr/&lt;/a&gt;
+&lt;a href=&#34;http://www.metariver.kr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.metariver.kr&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vdfLMH&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vdfLMH&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2k1zPg6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2k1zPg6&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wlSEjf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wlSEjf&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wLNTgc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wLNTgc&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2w8Jaqb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2w8Jaqb&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2v2FNSC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2v2FNSC&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xHbRIl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xHbRIl&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2emhAvW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2emhAvW&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/xXG3JbT0AQk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/xXG3JbT0AQk&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2i75L2f&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i75L2f&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2k1A8HM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2k1A8HM&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2i8fQvv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i8fQvv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2k1JqmW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2k1JqmW&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2i8z0RZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i8z0RZ&lt;/a&gt;
+ttp://ift.tt/2i8z0RZ&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Статья - размышление про то, как #ANSYS #Discovery Live помогает ANSYS реализовать свободомыслий давнюю задумку: сделать всех инженеров и проектировщиков своими пользователями.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</link>
       <pubDate>Sun, 17 Sep 2017 17:04:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-17-statya-razmyshlenie-pro-to-kak-ansys/</guid>
       <description>&lt;p&gt;И тут ключевыми факторами успеха оказывается не только использование самого передового решателя, разработанного совместно с #NVIDIA. Не даром ANSYS очень дружен с разработчиком GPU. Об этом говорят те факты, что #Mechanical #APDL был первым коммерческим #FEM использовавшим #GPU, как и #Fluent - первым коммерческим #CFD использовавшим #GPU&lt;/p&gt;
 &lt;p&gt;Тут еще вспоминается и #SpaceClaim, который выйдя на рынок в 2005 сделал лидеров отстающими. Именно после #SpaceClaim появились такие системы, как #PTC #Creo, #Autodesk #Fusion и концепция #Siemens Synchronous Technology.&lt;/p&gt;
 &lt;p&gt;Сейчас SpaceClaim становиться геометрическим ядром для #Workbench, #AIM и #ANSYS #Discovery.&lt;/p&gt;
 &lt;p&gt;#GPGPU #CUDA
 &lt;a href=&#34;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&lt;/a&gt; 🔗 ANSYS Discovery Live Changes Everything&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.worldcadaccess.com/blog/2017/09/ansys-discovery-live-changes-everything.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Собираем CalculiX с поддержкой CUDA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-28-sobiraem-calculix-s-podderzhkoy-cuda/</link>
+      <pubDate>Fri, 28 Jul 2017 17:00:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-28-sobiraem-calculix-s-podderzhkoy-cuda/</guid>
+      <description>&lt;p&gt;Собираем CalculiX с поддержкой CUDA
+&lt;a href=&#34;https://geektimes.ru/post/291475/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://geektimes.ru/post/291475/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Статья будет полезна инженерам, которые не бояться зайти в командную строку #Linux и понимают, как собирать программы из исходных текстов. Для таких есть отличный бесплатный софт и предложения по его улучшению.&lt;/p&gt;
+&lt;p&gt;Вам предлагается пошаговая инструкция по компиляции #CalculiX - младшего, бесплатного открытого брата #Abaqus. И это не простая сборка ПО, а компиляция для включения поддержки ускорения решения задач на #GPGPU с поддержкой #CUDA от #NVIDIA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://geektimes.ru/post/291475/?utm_source=tw&amp;amp;utm_medium=social&amp;amp;utm_campaign=kompilyatsiya-calculix-extras-s-podderzhkoy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Компиляция CalculiX Extras с поддержкой NVIDIA CUDA и методом Холецкого&lt;/a&gt;
+&lt;a href=&#34;https://geektimes.ru/post/291475/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://geektimes.ru/post/291475/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenSBLI</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-11-opensbli/</link>
+      <pubDate>Sun, 11 Jun 2017 17:00:37 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-11-opensbli/</guid>
+      <description>&lt;p&gt;OpenSBLI
+&lt;a href=&#34;https://opensbli.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://opensbli.github.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Сегодня в меню у нас #python фреймворк разработанный для моделирования процесса взаимодействия скачка уплотнения с пограничным слоем (#SBLI, Shock-Boundary Layer Interactions) в рамках решения уравнения Навье-Стокса с учетом сжимаемости течения. Фреймворк генерирует на выходе код на языке Си, который уже выполняет расчеты. При этом, получаемый код может быть оптимизирован для исполнения на  #GPU с #CUDA или #OpenCL, а также он знает про технологии #MPI и #OpenMP.&lt;/p&gt;
+&lt;p&gt;Гремучая смесь для тех, кто знает, что делает.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Ob4NKZgUK3U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Ob4NKZgUK3U&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://opensbli.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://opensbli.github.io/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=Ob4NKZgUK3U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Ob4NKZgUK3U&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EDEM 2017</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-25-edem-2017/</link>
+      <pubDate>Thu, 25 Aug 2016 06:30:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-25-edem-2017/</guid>
+      <description>&lt;p&gt;EDEM 2017
+&lt;del&gt;&lt;a href=&#34;http://www.edemsimulation.com/blog/simulate-faster-new-edem-gpu-solver/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.edemsimulation.com/blog/simulate-faster-new-edem-gpu-solver/&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20170705034649/https://www.edemsimulation.com/blog/simulate-faster-new-edem-gpu-solver/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Август выдался особенно удачный на новые релизы. #EDEM, один из лидирующих пакетов для моделирования сыпучих сред в #DEM постановке, вышел в новом релизе. Основное нововведение EDEM 2017 - это долгожданная поддержка #GPU, которая наконец появилась в след за #Rocky (не прошло и 2-х дет :-)).&lt;/p&gt;
+&lt;p&gt;Примечательно, что вместо поддержки #CUDA, разработчики выбрали более универсальный стандарт #OpenCL, что позволит им использовать GPU и математические сопроцессоры не только от #NVIDIA, но и от #AMD и #Intel (#Phi). Обещается ускорение до 10 раз в сравнение с обычными #CPU.&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&#34;http://www.edemsimulation.com/blog/simulate-faster-new-edem-gpu-solver/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Simulate faster with the new EDEM GPU solver&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20170705034649/https://www.edemsimulation.com/blog/simulate-faster-new-edem-gpu-solver/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     

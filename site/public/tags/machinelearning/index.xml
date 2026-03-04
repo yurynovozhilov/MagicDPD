@@ -2,54 +2,113 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machinelearning on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/machinelearning/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/machinelearning/</link>
     <description>MagicDPD: Magic Driven Product Development! (Machinelearning)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 13 Feb 2019 17:01:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2020 13:00:40 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/machinelearning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/machinelearning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>CADLM — расчеты сложных процессов за секунды?!</title>
-      <link>http://localhost:1313/posts/2019-02-13-cadlm-raschety-slozhnyh-protsessov-za-sek/</link>
-      <pubDate>Wed, 13 Feb 2019 17:01:05 +0000</pubDate>
+      <title>ИИ начинает поглядывать в сторону CAE</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-04-03-ii-nachinaet-poglyadyvat-v-storonu-cae/</link>
+      <pubDate>Fri, 03 Apr 2020 13:00:40 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-02-13-cadlm-raschety-slozhnyh-protsessov-za-sek/</guid>
-      <description>&lt;p&gt;Компания CADLM специализируется на работе с большими данными и аналитике вокруг этого, но все это в области CAE. Коллеги строят свои метамодели, способные предсказывать поведение реальных объектов с высокой точностью за считанные секунды.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://youtu.be/Vvm3iUnPOTA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Vvm3iUnPOTA&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Все это выглядит очень завлекательно, но есть одно но. Для того, чтобы построить метамодель над математической моделью такой сложности, как показано в примере, нам придется сделать очень большую выборку учебных примеров. Я думаю, что их должны быть если не тысячи, то многие сотни. Вот и считайте, важно ли для вашей компании уметь получать результаты за 2 секунды, потратив сначала год на тренировки.&lt;/p&gt;
-&lt;p&gt;#CADLM #machinelearning&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2lc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2lc&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-04-03-ii-nachinaet-poglyadyvat-v-storonu-cae/</guid>
+      <description>&lt;p&gt;ИИ начинает поглядывать в сторону CAE&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/machine-learning-for-accelerated-cae/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ИИ начинает поглядывать в сторону CAE - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>А что если научить машину ускорять задачи топологической опт</title>
-      <link>http://localhost:1313/posts/2017-11-24-a-chto-esli-nauchit-mashinu-uskoryat-zadach/</link>
+      <title>CADLM — расчеты сложных процессов за секунды?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-13-cadlm-raschety-slozhnyh-protsessov-za-sek/</link>
+      <pubDate>Wed, 13 Feb 2019 17:01:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-13-cadlm-raschety-slozhnyh-protsessov-za-sek/</guid>
+      <description>&lt;p&gt;!&lt;/p&gt;
+&lt;p&gt;Компания CADLM специализируется на работе с большими данными и аналитике вокруг этого, но все это в области CAE. Коллеги строят свои метамодели, способные предсказывать поведение реальных объектов с высокой точностью за считанные секунды.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/Vvm3iUnPOTA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Vvm3iUnPOTA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Все это выглядит очень завлекательно, но есть одно но. Для того, чтобы построить метамодель над математической моделью такой сложности, как показано в примере, нам придется сделать очень большую выборку учебных примеров. Я думаю, что их должны быть если не тысячи, то многие сотни. Вот и считайте, важно ли для вашей компании уметь получать результаты за 2 секунды, потратив сначала год на тренировки.&lt;/p&gt;
+&lt;p&gt;#CADLM #machinelearning&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2lc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2lc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/Vvm3iUnPOTA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Vvm3iUnPOTA&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2lc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2lc&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>А что если научить машину ускорять задачи топологической оптимизации?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-24-a-chto-esli-nauchit-mashinu-uskoryat-zadach/</link>
       <pubDate>Fri, 24 Nov 2017 17:14:52 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-24-a-chto-esli-nauchit-mashinu-uskoryat-zadach/</guid>
-      <description>&lt;p&gt;Статья двух русских студентов (Иван Сосновик и Иван Оселедец) посвящена рассказывает про их проект, в котором нейронной сети показывали промежуточные результаты работы алгоритма топологической оптимизации и учили ее угадывать, какой будет итоговый результат. После обучения на 10 000 произвольно сгенерированных задачах для #ToPy нейрона смогла ускорить процесс оптимизации до 20 раз в рассматриваемых примерах!&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-24-a-chto-esli-nauchit-mashinu-uskoryat-zadach/</guid>
+      <description>&lt;p&gt;И получить при этом многократное сокращение времени решения задачи?&lt;/p&gt;
+&lt;p&gt;Статья двух русских студентов (Иван Сосновик и Иван Оселедец) посвящена рассказывает про их проект, в котором нейронной сети показывали промежуточные результаты работы алгоритма топологической оптимизации и учили ее угадывать, какой будет итоговый результат. После обучения на 10 000 произвольно сгенерированных задачах для #ToPy нейрона смогла ускорить процесс оптимизации до 20 раз в рассматриваемых примерах!&lt;/p&gt;
 &lt;p&gt;Выборка для тренировки нейроне доступна на #GitHub:
 &lt;a href=&#34;http://ift.tt/2hRdoWE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hRdoWE&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Исходная научная статья лежит тут:
 &lt;a href=&#34;http://ift.tt/2A2KoWc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2A2KoWc&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#topology #optimization #python #machinelearning #opensourceMediaMedia🔗 [1709.09578] Neural networks for topology optimization&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2x6LCL4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2x6LCL4&lt;/a&gt;
+&lt;a href=&#34;https://arxiv.org/abs/1709.09578&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://arxiv.org/abs/1709.09578&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Lat-Net: Compressing Lattice Boltzmann Flow Simulations usin</title>
-      <link>http://localhost:1313/posts/2017-11-21-lat-net-compressing-lattice-boltzmann-f/</link>
+      <title>Lat-Net: Compressing Lattice Boltzmann Flow Simulations using Deep Neural Networks - такое интересное название носит #opensource проект, про который я пишу сегодня.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-21-lat-net-compressing-lattice-boltzmann-f/</link>
       <pubDate>Tue, 21 Nov 2017 17:10:14 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-21-lat-net-compressing-lattice-boltzmann-f/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-21-lat-net-compressing-lattice-boltzmann-f/</guid>
       <description>&lt;p&gt;Суть проекта заключается в подмене #CFD расчета методом #Lattice #Boltzmann на нейронную сеть. Причем, если верить авторам, то натренировав нейрону на грубой &amp;ldquo;сетке&amp;rdquo; можно надеются на достаточно точный расчет на мелкой &amp;ldquo;сетке&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;Это конечно не супер точный #CFD подход, но зато можно быстро получить оценочное решение вашей задачи экономя ресурсы.&lt;/p&gt;
 &lt;p&gt;#Python #machinelearning #LBM&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/loliverhennigh/Phy-Net&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/loliverhennigh/Phy-Net&lt;/a&gt; 🔗 loliverhennigh/Phy-Net&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2wPpoid&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wPpoid&lt;/a&gt;
+&lt;a href=&#34;https://github.com/loliverhennigh/Phy-Net&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/loliverhennigh/Phy-Net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mathematica и Wolfram Language 11</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-27-mathematica-i-wolfram-language-11/</link>
+      <pubDate>Sat, 27 Aug 2016 06:30:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-27-mathematica-i-wolfram-language-11/</guid>
+      <description>&lt;p&gt;Mathematica и Wolfram Language 11
+&lt;a href=&#34;http://blog.wolfram.com/2016/08/08/today-we-launch-version-11/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://blog.wolfram.com/2016/08/08/today-we-launch-version-11/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;С выходом этой версии знаменитый математический пакет #Mathematica и специализированный язык &amp;ldquo;программирования&amp;rdquo; #Wolfram Language получили 555 новых фишек (пруфлинк: &lt;a href=&#34;http://reference.wolfram.com/language/guide/SummaryOfNewFeaturesIn11.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://reference.wolfram.com/language/guide/SummaryOfNewFeaturesIn11.html&lt;/a&gt;) Также 11 версия примечательна интересным юбилеем - разработка Mathematica  началась 30 лет назад!
+Области умения математики, которые получили много нового:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3D Печать&lt;/li&gt;
+&lt;li&gt;Машинное обучение и нейронные сети&lt;/li&gt;
+&lt;li&gt;Работа со звуком&lt;/li&gt;
+&lt;li&gt;Анатомические знания&lt;/li&gt;
+&lt;li&gt;Географические знания&lt;/li&gt;
+&lt;li&gt;Учебные примеры&lt;/li&gt;
+&lt;li&gt;Визуализация данных&lt;/li&gt;
+&lt;li&gt;Работа с облачными ресурсами&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.wolfram.com/2016/08/08/today-we-launch-version-11/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Today We Launch Version 11!—Wolfram Blog&lt;/a&gt;
+&lt;a href=&#34;http://reference.wolfram.com/language/guide/SummaryOfNewFeaturesIn11.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://reference.wolfram.com/language/guide/SummaryOfNewFeaturesIn11.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Найдутся все метизы</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-04-naydutsya-vse-metizy/</link>
+      <pubDate>Thu, 04 Aug 2016 06:30:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-04-naydutsya-vse-metizy/</guid>
+      <description>&lt;p&gt;Найдутся все метизы
+&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12741/Go-Explore-Autodesk-Reinvents-Search.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12741/Go-Explore-Autodesk-Reinvents-Search.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Компания #Autodesk рассказал о своем новом продукте Design Graph, который они разрабатывали на протяжении нескольких лет. #DesignGraph позволяет осуществлять поиск #CAD моделей по базе #A360.&lt;/p&gt;
+&lt;p&gt;Если вы думаете, что это еще один поисковик по метаданным, то вы ошибаетесь. Autodesk заявляет, что внутри системы заложено распознавание образов на базе самообучающейся системы (привет machine learning). Таким образом, если вы попросите Design Graph найти все CAD модели стульев, то система действительно попытается найти все модели похожие на стулья.&lt;/p&gt;
+&lt;p&gt;Уж не знаю, насколько это хорошо, но явно интересный шаг вперед и еще одна реализация технологий визуального поиска.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12741/Go-Explore-Autodesk-Reinvents-Search.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Go Explore: Autodesk Reinvents Search &amp;gt; ENGINEERING.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

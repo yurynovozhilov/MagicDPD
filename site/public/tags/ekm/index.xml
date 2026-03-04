@@ -2,36 +2,104 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EKM on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/ekm/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/ekm/</link>
     <description>MagicDPD: Magic Driven Product Development! (EKM)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Tue, 06 Dec 2022 19:00:01 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/ekm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/ekm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Сегодня, 6 декабря 2022 года, компания #Ansys объявила о под</title>
-      <link>http://localhost:1313/posts/2022-12-06-segodnya-6-dekabrya-2022-goda-kompaniya/</link>
+      <title>Сегодня, 6 декабря 2022 года, компания #Ansys объявила о подписании соглашения по поглощению #DYNAmore!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-12-06-segodnya-6-dekabrya-2022-goda-kompaniya/</link>
       <pubDate>Tue, 06 Dec 2022 19:00:01 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-12-06-segodnya-6-dekabrya-2022-goda-kompaniya/</guid>
-      <description>&lt;p&gt;DYNAmore поставляет и поддерживает #LSDYNA (отраслевой стандарт для краштестов) для всех ключевых автомобильных компаний европы, что генерирует внушительный поток денег.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-12-06-segodnya-6-dekabrya-2022-goda-kompaniya/</guid>
+      <description>&lt;p&gt;В официальном пресс-релизе компания DYNAmore позиционируется как ключ к мировой автомобильной индустрии, и это не далеко от истины.&lt;/p&gt;
+&lt;p&gt;DYNAmore поставляет и поддерживает #LSDYNA (отраслевой стандарт для краштестов) для всех ключевых автомобильных компаний европы, что генерирует внушительный поток денег.&lt;/p&gt;
 &lt;p&gt;Однако, стоит отметить, что DYNAmore по умолчанию сидит не на инфраструктуре Ansys - они предпочитают специализированные решения от #BetaCAE (#ANSA, например), #Oasys (#PRIMER, например) и даже #Hexagon (#DIGIMAT, например). А еще у DYNAmore есть и свои разработки, иногда конкурирующие с Ansys: DYNAFORM (привет Ansys Forming), связка LoCo+CAViT+Status.E (привет #Minerva и #EKM), #FEMZIP и куча разных утилит по мельче.&lt;/p&gt;
 &lt;p&gt;Так что инженеров DYNAmore в ближайшие годы ждет интересный процесс борьбы за привычные инструменты и погружения в мир #Workbench. &lt;a href=&#34;https://www.ansys.com/news-center/press-releases/12-6-22-ansys-and-automotive-simulation-leader-dynamore-sign-definitive-acquisition-agreement&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/news-center/press-releases/12-6-22-ansys-and-automotive-simulation-leader-dynamore-sign-definitive-acquisition-agreement&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys.com/news-center/press-releases/12-6-22-ansys-and-automotive-simulation-leader-dynamore-sign-definitive-acquisition-agreement&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys and Automotive Simulation Leader DYNAmore Sign Definitive Acquisition Agreement&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как работает ANSYS Minerva</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-02-13-kak-rabotaet-ansys-minerva/</link>
+      <pubDate>Thu, 13 Feb 2020 14:58:38 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-02-13-kak-rabotaet-ansys-minerva/</guid>
+      <description>&lt;p&gt;Как работает ANSYS Minerva&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/ansys-minerva/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Как работает ANSYS Minerva - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как надо уметь готовить ANSYS EKM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-03-kak-nado-umet-gotovit-ansys-ekm/</link>
+      <pubDate>Thu, 03 Oct 2019 13:00:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-03-kak-nado-umet-gotovit-ansys-ekm/</guid>
+      <description>&lt;p&gt;Как надо уметь готовить ANSYS EKM&lt;/p&gt;
+&lt;p&gt;Монументальная работа по настройке ANSYS EKM от Александра Николаевича Чернова. Порой я думаю, что EKM его боится, и сам подсказывает, как лучше сделать. Потому что мой коллега уже перевел интерфейс на русский, настроил взаимодействие с базами данных и контроллером домена и подключил это к расчетному кластеру. Такой EKM — это полноценное локальное облако для расчетов и управления их результатами.&lt;/p&gt;
+&lt;p&gt;#ANSYS #APDL #CADFEM #CFX #EKM #Fluent #HPC #PBS
+&lt;a href=&#34;https://bit.ly/2o8Xei5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://bit.ly/2o8Xei5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://bit.ly/2o8Xei5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Как надо уметь готовить ANSYS EKM - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS EKM - новый этап развития</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-07-ansys-ekm-novyy-etap-razvitiya/</link>
+      <pubDate>Tue, 07 Aug 2018 18:01:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-07-ansys-ekm-novyy-etap-razvitiya/</guid>
+      <description>&lt;p&gt;ANSYS EKM - новый этап развития
+Коллеги из МСК подготовили шикарное видео, в котором показали очень много всего интересного касательно EKM.&lt;/p&gt;
+&lt;p&gt;EKM (Engineering Knowledge Manager) - система класса SDM (Simulation Data Management) от ANSYS. При всех ее достоинствах, у нее до недавнего времени была одна особенность, существенно затруднявшая ее врендрение. А именно: EKM имел жесткую привязку к версии ANSYS, что заставляло обновлять все ПО организации разом. Сейчас, начиная в версии 19.1 (или как она теперь должна называться?), EKM может работать с любой версией решателей ANSYS - ему можно это объяснить.
+Уже предыдущий шаг был очень важен, но коллеги из МСК успели, кроме внедрения новой версии, подтянуть руссификацию интерфейса и подружить систему с неподдерживаемым планировщиком Slurm. Получилось очень достойно!&lt;/p&gt;
+&lt;p&gt;#ANSYS #CFX #EKM #Fluent #HPC #Mechanical #SDM #SLURM
+&lt;a href=&#34;http://bit.ly/2KvT60N&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2KvT60N&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2KvT60N&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2KvT60N&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Наш свежий видео урок по взаимодействию #ANSYS #Workbench и #ANSYS #EKM от коллег из МСК.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-19-nash-svezhiy-video-urok-po-vzaimodeystviyu/</link>
+      <pubDate>Tue, 19 Dec 2017 17:00:53 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-19-nash-svezhiy-video-urok-po-vzaimodeystviyu/</guid>
+      <description>&lt;p&gt;Скажу так: EKM в 18-ой версии это прям годна штука. Я его уже поставил и почти до конца настроил. С коллегами мы к нему даже Let&amp;rsquo;s Encrypt сертификаты прикрутить смогли! Скоро сам смогу рассказать о впечатлениях от использования в бою.&lt;/p&gt;
+&lt;p&gt;#SDM #HPC #RSM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jIw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jIw&lt;/a&gt;…Media📼 VL1726 — Взаимодействие среды ANSYS Workbench с се…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2D1QZ25&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2D1QZ25&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2v28PC1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2v28PC1&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2AZYOUu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2AZYOUu&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2D7KOtF&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2D7KOtF&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2emhAvW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2emhAvW&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zugYgi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zugYgi&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=jIw3tE8FkMw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=jIw3tE8FkMw&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2AZYSUe&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2AZYSUe&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2D1QZ25&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2D1QZ25&lt;/a&gt;
+ttp://ift.tt/2D1QZ25&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>На лицо ужасные,</title>
-      <link>http://localhost:1313/posts/2016-01-15-na-litso-uzhasnye/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-15-na-litso-uzhasnye/</link>
       <pubDate>Fri, 15 Jan 2016 17:01:12 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-01-15-na-litso-uzhasnye/</guid>
-      <description>&lt;p&gt;Добрые внутри.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-15-na-litso-uzhasnye/</guid>
+      <description>&lt;p&gt;На лицо ужасные,
+Добрые внутри.&lt;/p&gt;
 &lt;p&gt;BETA CAE Systems выложила ряд обзорных видео по их системе управления инженерными знаниями SPDRM. Для работы с LS-DYNA это еще не самый страшный интерфейс. Пользователи #ANSYS #EKM могут испытать шок и кровотечение из глаз.&lt;/p&gt;
 &lt;p&gt;Интересно, в уважаемой греческой компании кто-нибудь задумывался об ущемлении чувства прекрасного конечных пользователей?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.beta-cae.com/spdrm.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;BETA CAE Systems S.A. - SPDRM &lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

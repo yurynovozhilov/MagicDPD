@@ -2,21 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MESHFREE on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/meshfree/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/meshfree/</link>
     <description>MagicDPD: Magic Driven Product Development! (MESHFREE)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 20 Jul 2018 18:00:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jan 2019 17:00:16 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/meshfree/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/meshfree/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Бесплатный бессеточный решатель MESHFREE от MIDASIT и Samsun</title>
-      <link>http://localhost:1313/posts/2018-07-20-besplatnyy-bessetochnyy-reshatel-meshfree/</link>
+      <title>Огромный вебинар по midas MeshFree</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-21-ogromnyy-vebinar-po-midas-meshfree/</link>
+      <pubDate>Mon, 21 Jan 2019 17:00:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-21-ogromnyy-vebinar-po-midas-meshfree/</guid>
+      <description>&lt;p&gt;Огромный вебинар по midas MeshFree&lt;/p&gt;
+&lt;p&gt;Это наверно самый большой вебинар, который я встречал: полтора часа вдумчивого рассказа про работу бессеточного решателя midas MeshFree, созданного при поддержке Samsung.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-KT0VbQH6q8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=-KT0VbQH6q8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В ходе вебинара будет рассказано не только про особенности «бессеточного» метода расчёта, но и показана работа интефейса, разобраны граничные условия, и даже решено несколько примеров. Жаль только, что все это подано скучновато.&lt;/p&gt;
+&lt;p&gt;#MESHFREE #meshless #MIDAS&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2hp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2hp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-KT0VbQH6q8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=-KT0VbQH6q8&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2hp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2hp&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>midas MeshFree - как это работает</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-17-midas-meshfree-kak-eto-rabotaet/</link>
+      <pubDate>Wed, 17 Oct 2018 17:02:10 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-17-midas-meshfree-kak-eto-rabotaet/</guid>
+      <description>&lt;p&gt;midas MeshFree - как это работает
+Предлагаю вашему вниманию запись первого вебинара по системе midas MeshFree. Новость о ее скором запуске я публиковал этим летом, но тогда информации было крайне мало. Теперь же у нас сеть 45 минут расскзала о работе совместного детища midas и Samsung.&lt;/p&gt;
+&lt;p&gt;Итак, что мы имеем? Система умеет решать все стендартные линейные задачи механики твердого тела и теплопроводности: ститика, ниенйная динамика, теплопроводность. В комплекте к этому вроде как есть и автоматический поиск контактов, и динамика и даже топологическую оптимизацию не забыли.
+Задачи MeshFree решате примерно, как если бы вы считали слегка пропатченным методом конечных элементов в Эйлеровой постановке. Основной фишкой решателя тут является умение ставить граничные условия на поверхности, которые повысают где-то посредине ячейки сетки. Кроме того, есть такое подозрение, что решатель очень агрессивно использует структурированность сетки.
+В целом идея понятная, верификационные задачи есть, сранения с традиционными кодами - тоже. Но что-то я очень сомнимаюсь, что для задач с концентраторами напрядений, задач с пластикой или тонкостенных постановок данная штука даст адекватные результаты. Ведь получая бонус построения автоматической регуляроной сетки мы теряем возмоность сгущать ее в интересующих нас местах.
+P.S. На одном слайде пнули настоящие бессеточные методы. Говорят, что они, мол, очень тяжелые. Это так - любой бессеточный метод сейчас в разы более ресурсоемкий чем сеточный. Но зато и нелиенйные задачи такие методы позволяют решать существенно точнее. Универсального инструмента как всегда нет, и инжерена пока не заменить.&lt;/p&gt;
+&lt;p&gt;#MESHFREE #MIDAS #Samsung
+&lt;a href=&#34;http://bit.ly/2CnqE0w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2CnqE0w&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2CnqE0w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2CnqE0w&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Бесплатный бессеточный решатель MESHFREE от MIDASIT и Samsung Electronics</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-20-besplatnyy-bessetochnyy-reshatel-meshfree/</link>
       <pubDate>Fri, 20 Jul 2018 18:00:44 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-07-20-besplatnyy-bessetochnyy-reshatel-meshfree/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-20-besplatnyy-bessetochnyy-reshatel-meshfree/</guid>
       <description>&lt;p&gt;Очень громкое название, не правда ли? Давайте попробуем разобраться. Для начала есть маркетинговое видео:&lt;/p&gt;
 &lt;p&gt;Компания MIDAS - очень молодая, всего 5 лет. Есть сайт: http://ru.midasuser.com/ . Большая часть ПО у них с уклоном в гражданское строительство. Хотя есть и чистый КЭ midas NFX, который решает все, включая CFD и оптимизацию топологии. Но сейчас речь не про него  - давайте еще посмотрим на MESHFREE.&lt;/p&gt;
 &lt;p&gt;По расчетным возможностям тут у нас полный стандартный набор задач линейной и нелинейной статистики и теплопроводности, а также линейной динамики. Каталог расчетных возможностей здесь: http://www.midasmeshfree.com/inc/pdf/MESHFREE_EN_Catalogue.pdf
@@ -24,6 +59,10 @@
 Бесплатную лицензию на ПО можно получить в течение 10 дней, если верить таймеру на сайте - я себе уже заказал. Прикол в том, что на сайте еще и конкурс с призами идет. Разыгрывают купоны на Google Play или Apple Store по  $10, USB (8GB) флешки, Portable Charger, умного ассистента Amazon Echo Вot и набор бепроводных наушников Wireless Earbuds. Первый раз вижу, чтобы инженеров так завлекали на продукт.
 &lt;a href=&#34;http://www.midasmeshfree.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.midasmeshfree.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#MESHFREE #MIDAS #MidasNFX #NAFEMS #NFX
+&lt;a href=&#34;http://bit.ly/2uCfS21&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2uCfS21&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ru.midasuser.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ru.midasuser.com/&lt;/a&gt;
+&lt;a href=&#34;http://www.midasmeshfree.com/inc/pdf/MESHFREE_EN_Catalogue.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.midasmeshfree.com/inc/pdf/MESHFREE_EN_Catalogue.pdf&lt;/a&gt;
+&lt;a href=&#34;http://www.midasmeshfree.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.midasmeshfree.com/&lt;/a&gt;
 &lt;a href=&#34;http://bit.ly/2uCfS21&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2uCfS21&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

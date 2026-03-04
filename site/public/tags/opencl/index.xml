@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenCL on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/opencl/</link>
+    <description>MagicDPD: Magic Driven Product Development! (OpenCL)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 12 Apr 2023 18:00:01 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/opencl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Как говорят разработчики, у них самое быстрое и наиболее эффективное с точки зрения использования памяти программное обеспечение для #CFD в постановке решетчатых уравнений Больцмана, работающее на всех #GPU через #OpenCL.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2023-04-12-kak-govoryat-razrabotchiki-u-nih-samoe-by/</link>
+      <pubDate>Wed, 12 Apr 2023 18:00:01 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2023-04-12-kak-govoryat-razrabotchiki-u-nih-samoe-by/</guid>
+      <description>&lt;p&gt;А еще оно открытое и бесплатное. Интересно, как там с физикой дела.&lt;/p&gt;
+&lt;p&gt;#LBM #FluidX3D #opensource &lt;a href=&#34;https://github.com/ProjectPhysX/FluidX3D&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/ProjectPhysX/FluidX3D&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ProjectPhysX/FluidX3D&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/ProjectPhysX/FluidX3D&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#FluidX3D - это программное обеспечение для #CFD моделирования методом решетчатых уравнений Больцмана #LBM.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-07-04-fluidx3d-eto-programmnoe-obespechenie/</link>
+      <pubDate>Mon, 04 Jul 2022 16:22:01 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-07-04-fluidx3d-eto-programmnoe-obespechenie/</guid>
+      <description>&lt;p&gt;Решение идет &amp;ldquo;в реальном времени&amp;rdquo; благодаря использованию мощностей #GPU через #OpenCL.&lt;/p&gt;
+&lt;p&gt;В качестве примера работы кода автор предлагает расчет внешней аэродинамики Боинга 747 на числах Рейнольдса Re=50k.  Разрешение модели 912×1824×456, 100k временных шагов, время вычисления+рендеринга 6.5 часов #Nvidia #A100 40GB GPU. &lt;a href=&#34;https://www.youtube.com/watch?v=zp6tgdN9EBY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=zp6tgdN9EBY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=zp6tgdN9EBY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=zp6tgdN9EBY&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenSBLI</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-11-opensbli/</link>
+      <pubDate>Sun, 11 Jun 2017 17:00:37 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-11-opensbli/</guid>
+      <description>&lt;p&gt;OpenSBLI
+&lt;a href=&#34;https://opensbli.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://opensbli.github.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Сегодня в меню у нас #python фреймворк разработанный для моделирования процесса взаимодействия скачка уплотнения с пограничным слоем (#SBLI, Shock-Boundary Layer Interactions) в рамках решения уравнения Навье-Стокса с учетом сжимаемости течения. Фреймворк генерирует на выходе код на языке Си, который уже выполняет расчеты. При этом, получаемый код может быть оптимизирован для исполнения на  #GPU с #CUDA или #OpenCL, а также он знает про технологии #MPI и #OpenMP.&lt;/p&gt;
+&lt;p&gt;Гремучая смесь для тех, кто знает, что делает.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Ob4NKZgUK3U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Ob4NKZgUK3U&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://opensbli.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://opensbli.github.io/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=Ob4NKZgUK3U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Ob4NKZgUK3U&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EDEM 2017</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-25-edem-2017/</link>
+      <pubDate>Thu, 25 Aug 2016 06:30:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-25-edem-2017/</guid>
+      <description>&lt;p&gt;EDEM 2017
+&lt;del&gt;&lt;a href=&#34;http://www.edemsimulation.com/blog/simulate-faster-new-edem-gpu-solver/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.edemsimulation.com/blog/simulate-faster-new-edem-gpu-solver/&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20170705034649/https://www.edemsimulation.com/blog/simulate-faster-new-edem-gpu-solver/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Август выдался особенно удачный на новые релизы. #EDEM, один из лидирующих пакетов для моделирования сыпучих сред в #DEM постановке, вышел в новом релизе. Основное нововведение EDEM 2017 - это долгожданная поддержка #GPU, которая наконец появилась в след за #Rocky (не прошло и 2-х дет :-)).&lt;/p&gt;
+&lt;p&gt;Примечательно, что вместо поддержки #CUDA, разработчики выбрали более универсальный стандарт #OpenCL, что позволит им использовать GPU и математические сопроцессоры не только от #NVIDIA, но и от #AMD и #Intel (#Phi). Обещается ускорение до 10 раз в сравнение с обычными #CPU.&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&#34;http://www.edemsimulation.com/blog/simulate-faster-new-edem-gpu-solver/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Simulate faster with the new EDEM GPU solver&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20170705034649/https://www.edemsimulation.com/blog/simulate-faster-new-edem-gpu-solver/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

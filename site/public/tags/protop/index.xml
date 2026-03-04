@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ProTOp on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/protop/</link>
+    <description>MagicDPD: Magic Driven Product Development! (ProTOp)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sun, 26 May 2019 17:01:05 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/protop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GIA Topology Optimization ProTOp V6</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-26-gia-topology-optimization-protop-v6/</link>
+      <pubDate>Sun, 26 May 2019 17:01:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-26-gia-topology-optimization-protop-v6/</guid>
+      <description>&lt;p&gt;GIA Topology Optimization ProTOp V6&lt;/p&gt;
+&lt;p&gt;Мне понравилось, что добавили session mamger, позволяющий отслеживать историю изменения в настройках модели, и Shape optimisation посредством морфинга сетки сразу после оптимизации топологии, чтобы получать еще более гладкие результаты.&lt;/p&gt;
+&lt;p&gt;#GIA #optimization #ProTOp #Topology&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2wN&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2wN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2wN&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2wN&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оптимизация топологии от CAESS ProTOp</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-24-optimizatsiya-topologii-ot-caess-protop/</link>
+      <pubDate>Sat, 24 Feb 2018 18:01:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-24-optimizatsiya-topologii-ot-caess-protop/</guid>
+      <description>&lt;p&gt;Оптимизация топологии от CAESS ProTOp
+Сегодня у нас на повестке дня очередное решение по поиску оптимальной топологии конструкции для задач механики — ProTOp от CAESS d.o.o.
+Решение позиционирует себя как очень крутой, высокопроизводительный и распараллеленный движок топологической оптимизации. Система умеет принимать на вход геометрию из всех распространённых форматов, а потом сама выполнять полный цикл оптимизации, используя встроенный решатель разреженных матриц для анализа НДС конструкции.&lt;/p&gt;
+&lt;p&gt;Из всех функций ПО мне нравится возможность сразу генерировать решение в форме ферменных конструкций (lattices), однако это уже появилось в  ANSYS Mechanical 19 даром. Еще есть какие-то полупластические и полуконтактные элементы, но при этом в описании утверждается, что решение ищется для линейной статической задачи и изотропного материала (стандартные ограничения по математическому подходу для большинства «обычных» оптимизаторов топологии).&lt;/p&gt;
+&lt;p&gt;Все примеры, про которые говорит разработчик, имеют ну очень большую размерность. Например, кронштейн для GE имеет аж 54 миллиона тетраэдров. Для простого решателя разреженных матриц это неподъемный объем расчетов. Видимо встроенный «High-performance sparse SLE solver» не так прост как кажется. Или наоборот, очень прост: ведь для решения задачи топологической оптимизации решателю нужна информация только об энергии деформации и ни о чем более.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/?p=6244&amp;amp;lang=ru&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Оптимизация топологии от CAESS ProTOp — MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

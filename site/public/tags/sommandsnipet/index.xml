@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SommandSnipet on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/sommandsnipet/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/sommandsnipet/</link>
     <description>MagicDPD: Magic Driven Product Development! (SommandSnipet)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Tue, 14 Aug 2018 18:01:23 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/sommandsnipet/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/sommandsnipet/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Включаем Implicit решатель в Workbench LS-DYNA</title>
-      <link>http://localhost:1313/posts/2018-08-14-vklyuchaem-implicit-reshatel-v-workbench-l/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-14-vklyuchaem-implicit-reshatel-v-workbench-l/</link>
       <pubDate>Tue, 14 Aug 2018 18:01:23 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-08-14-vklyuchaem-implicit-reshatel-v-workbench-l/</guid>
-      <description>&lt;p&gt;Если очень надо, то можно и Workbench LS-DYNA  заставить работать в Implicit режиме. При этом выводятся очень симпатичные невязки. Хотя графики на первых порах были бы приятнее.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-14-vklyuchaem-implicit-reshatel-v-workbench-l/</guid>
+      <description>&lt;p&gt;Включаем Implicit решатель в Workbench LS-DYNA
+Если очень надо, то можно и Workbench LS-DYNA  заставить работать в Implicit режиме. При этом выводятся очень симпатичные невязки. Хотя графики на первых порах были бы приятнее.
 Далее код командного объекта, что включает хороший нелинейный расчет. Будьте очень аккуратны при копировании: даже несмотря на freeformat стиль записи, есть вероятность, что web форматирование может повредить командный блок. Лучше сначала проверьте его в LS-PrePost. Командный объект подготвлен на основе материалов ARUP, найденных в сети в 2017 году.&lt;/p&gt;
 &lt;p&gt;*CONTROL_ACCURACY
 $
@@ -90,6 +91,7 @@ $
 ,1&lt;/p&gt;
 &lt;p&gt;#ACT #ANSYS #ARUP #Implicit #Longread #LSDYNA #SommandSnipet #Workbench
 &lt;a href=&#34;http://bit.ly/2OwQJgD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OwQJgD&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2OwQJgD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OwQJgD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

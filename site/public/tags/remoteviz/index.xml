@@ -2,32 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Remoteviz on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/remoteviz/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/remoteviz/</link>
     <description>MagicDPD: Magic Driven Product Development! (Remoteviz)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 01 Jun 2016 07:01:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2020 15:31:24 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/remoteviz/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/remoteviz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Большой доклад по системам визуализации от специалистов #Cit</title>
-      <link>http://localhost:1313/posts/2016-06-01-bolshoy-doklad-po-sistemam-vizualizatsii/</link>
-      <pubDate>Wed, 01 Jun 2016 07:01:18 +0000</pubDate>
+      <title>Удаленная визуализация для геймеров</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-05-07-udalennaya-vizualizatsiya-dlya-geymerov/</link>
+      <pubDate>Thu, 07 May 2020 15:31:24 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-06-01-bolshoy-doklad-po-sistemam-vizualizatsii/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-05-07-udalennaya-vizualizatsiya-dlya-geymerov/</guid>
+      <description>&lt;p&gt;Удаленная визуализация для геймеров&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/%d1%83%d0%b4%d0%b0%d0%bb%d0%b5%d0%bd%d0%bd%d0%b0%d1%8f-%d0%b2%d0%b8%d0%b7%d1%83%d0%b0%d0%bb%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f-%d0%b4%d0%bb%d1%8f-%d0%b3%d0%b5%d0%b9%d0%bc%d0%b5%d1%80%d0%be%d0%b2/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Удаленная визуализация для геймеров - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Отличный ликбез по теме доставки приложений и рабочих столов</title>
-      <link>http://localhost:1313/posts/2015-10-12-otlichnyy-likbez-po-teme-dostavki-prilozhe/</link>
+      <title>Удаленная работа с инженерной графикой</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-04-20-udalennaya-rabota-s-inzhenernoy-grafikoy/</link>
+      <pubDate>Mon, 20 Apr 2020 13:00:15 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-04-20-udalennaya-rabota-s-inzhenernoy-grafikoy/</guid>
+      <description>&lt;p&gt;Удаленная работа с инженерной графикой
+#HPC #OpenGL #RDP #RemoteFX #remoteviz
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/%d1%83%d0%b4%d0%b0%d0%bb%d0%b5%d0%bd%d0%bd%d0%b0%d1%8f-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0-%d1%81-%d0%b8%d0%bd%d0%b6%d0%b5%d0%bd%d0%b5%d1%80%d0%bd%d0%be%d0%b9-%d0%b3%d1%80%d0%b0%d1%84%d0%b8%d0%ba/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Удаленная работа с инженерной графикой - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NVIDIA DOCKER</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-09-nvidia-docker/</link>
+      <pubDate>Tue, 09 Jan 2018 17:00:47 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-09-nvidia-docker/</guid>
+      <description>&lt;p&gt;NVIDIA DOCKER
+NVIDIA на конференции SC17 рассказала про свое новое видение того, как надо делать удаленную визуализацию на суперкомпьютерах. И тут разговор идет не просто о DCV или VirtualGL - тут рассматривается полностью новая концепция систем для визуализации действительно больших данных.&lt;/p&gt;
+&lt;p&gt;Для этих целей NVIDIA планирует использовать пары Docker контейнеров, подготовленных для нужного вам приложения (сейчас уже есть для Praview). Серверный конетйнер будет работать напрямую с EGL API (&lt;a href=&#34;https://en.wikipedia.org/wiki/EGL_%28API%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://en.wikipedia.org/wiki/EGL_(API)&lt;/a&gt; и никаких тебе иксов), а клиентская часть - с GLX (&lt;a href=&#34;https://en.wikipedia.org/wiki/GLX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://en.wikipedia.org/wiki/GLX&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=z7nNmyKvMu4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=z7nNmyKvMu4&lt;/a&gt;
+#cloud #Docker #EGL #GLX #HPC #NVIDIA #Praview #remoteviz
+&lt;a href=&#34;https://magicdpd.ru/?p=5861&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5861&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/EGL_%28API%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://en.wikipedia.org/wiki/EGL_(API)&lt;/a&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/GLX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://en.wikipedia.org/wiki/GLX&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=z7nNmyKvMu4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=z7nNmyKvMu4&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=5861&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5861&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Большой доклад по системам визуализации от специалистов #Citrix с прошедшей конференции #Synergy 2016. Очень интересно послушать историю развития.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-01-bolshoy-doklad-po-sistemam-vizualizatsii/</link>
+      <pubDate>Wed, 01 Jun 2016 07:01:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-01-bolshoy-doklad-po-sistemam-vizualizatsii/</guid>
+      <description>&lt;p&gt;Полезно узнать про их новый видео кодек.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MRiQpFoRXxI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Citrix Synergy 2016 - SYN208 - Power HDX 3D applications while increasing virtualization&amp;hellip;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Отличный ликбез по теме доставки приложений и рабочих столов с удаленных серверов.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-12-otlichnyy-likbez-po-teme-dostavki-prilozhe/</link>
       <pubDate>Mon, 12 Oct 2015 18:01:12 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-12-otlichnyy-likbez-po-teme-dostavki-prilozhe/</guid>
-      <description>&lt;p&gt;Если собираетесь проектировать расчетный классе для предприятия - данный документ обязателен к изучению!&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-12-otlichnyy-likbez-po-teme-dostavki-prilozhe/</guid>
+      <description>&lt;p&gt;Досконально разобраны все подводные ками, обозрении практически все ханологии (забыли только две: старый-злой VirtualGL и находящийся в зачаточном состоянии Spice Space).&lt;/p&gt;
+&lt;p&gt;Если собираетесь проектировать расчетный классе для предприятия - данный документ обязателен к изучению!&lt;/p&gt;
 &lt;p&gt;Более свежие версии документа доступны на сайте самих Team RGE (&lt;a href=&#34;https://www.teamrge.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.teamrge.com&lt;/a&gt;) после бесплатной регистрации.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.teamrge.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Team Remote Graphics Experts – TeamRGE&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

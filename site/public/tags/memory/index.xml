@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Memory on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/memory/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Memory)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sun, 14 Oct 2018 17:00:40 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/memory/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ручное выделение памяти в LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-14-ruchnoe-vydelenie-pamyati-v-ls-dyna/</link>
+      <pubDate>Sun, 14 Oct 2018 17:00:40 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-14-ruchnoe-vydelenie-pamyati-v-ls-dyna/</guid>
+      <description>&lt;p&gt;Ручное выделение памяти в LS-DYNA
+По умолчанию решатель LS-DYNA не утруждает себя таким &amp;ldquo;низким&amp;rdquo; и &amp;ldquo;недостойным&amp;rdquo; занятием, как автоматическое выделение памяти под расчет, и об это спотыкаются толпы желающих сразу посчитать что-нибудь большое и красивое. В explicit кодах почти всегда получается красиво, и все задачи сходятся. Правда, зачастую, не с физикой или теорией :-)&lt;/p&gt;
+&lt;p&gt;При выделении памяти для LS-DYNA противно еще и то, что ее объем определяется не байтами, а словами. Статья по ссылке раскажет о том, сколько &amp;ldquo;весит&amp;rdquo; одно слово, как его вес меняется в зависимости от архитектуры работы с памятью, и почему для распределённых расчетов вас просят задать два разных объема памяти.&lt;/p&gt;
+&lt;p&gt;А если ваши задачи пока влезают в память рабочей станции, то поставьте себе системную переменную окружения LSTC_MEMORY=auto, и наслаждайтесь автоматическим выделением памяти. Благо, что в LS-DYNA R11 оно должно работать не только для explicit, но и для implicit части кода.
+&lt;a href=&#34;https://www.d3view.com/2006/10/a-few-words-on-memory-settings-in-ls-dyna/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.d3view.com/2006/10/a-few-words-on-memory-settings-in-ls-dyna/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#HPC #LSDYNA #Memory
+&lt;a href=&#34;http://bit.ly/2CfEzWv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2CfEzWv&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.d3view.com/2006/10/a-few-words-on-memory-settings-in-ls-dyna/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;A Few &amp;ldquo;Words&amp;rdquo; on Memory Settings in LS-DYNA&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2CfEzWv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2CfEzWv&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

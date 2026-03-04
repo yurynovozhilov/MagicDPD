@@ -2,25 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Enginsoft on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/enginsoft/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/enginsoft/</link>
     <description>MagicDPD: Magic Driven Product Development! (Enginsoft)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 22 Oct 2016 12:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Feb 2022 17:00:08 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/enginsoft/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/enginsoft/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Люблю повеселиться, особенно поесть. А вы знали, что 05.02.2022 - официальный Всемирный день #Nutella!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-11-lyublyu-poveselitsya-osobenno-poest-a-v/</link>
+      <pubDate>Fri, 11 Feb 2022 17:00:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-02-11-lyublyu-poveselitsya-osobenno-poest-a-v/</guid>
+      <description>&lt;p&gt;В честь этого наши коллеги из #Enginsoft показали как в бессеточном #CFD решателе #Particleworks можно промоделировать процесс наполнения баночки Nutella на заводе.&lt;/p&gt;
+&lt;p&gt;Основная идея расчета в том, что крем из ореховой нуги обладает нелинейной вязкостью и уплотняется при сдвиге. Такая физика поведения материала является довольно сложной для классических бессеточных кодов на основе #SPH. Однако, Particleworks использует #MPS (Moving Particle Simulation) подход, позволяющий реализовывать более сложные модели вязкости, подходящие для описания данной физики. &lt;a href=&#34;https://youtu.be/zfwh9d-xTaQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/zfwh9d-xTaQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/zfwh9d-xTaQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/zfwh9d-xTaQ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Параметризация многошаговых нагрузок в ANSYS</title>
-      <link>http://localhost:1313/posts/2016-10-22-parametrizatsiya-mnogoshagovyh-nagruzok-v-a/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-22-parametrizatsiya-mnogoshagovyh-nagruzok-v-a/</link>
       <pubDate>Sat, 22 Oct 2016 12:00:18 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-10-22-parametrizatsiya-mnogoshagovyh-nagruzok-v-a/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-22-parametrizatsiya-mnogoshagovyh-nagruzok-v-a/</guid>
+      <description>&lt;p&gt;Параметризация многошаговых нагрузок в ANSYS
+&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Одной из фишек #ANSYS #Workbench является возможность тотальной параметризации всего и вся буквально в один клик. Однако, тут есть досадное упущение: когда вы используете многошаговое нагружение в #Mechanical, вы не можете параметризовать изменение нагрузки на каждом шаге нагружения.&lt;/p&gt;
 &lt;p&gt;Компания Engin Soft исправила это досадное упущение при помощи своего бесплатного #ACT MultiStep Parametric Loads (&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153)&lt;/a&gt;. Они реализовали возможность параметризовать значения граничных условий и условий нагружения на каждом шаге. Первая версия ACT работает с R17.0 и R17.1&lt;/p&gt;
 &lt;p&gt;#enginsoft&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-153&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

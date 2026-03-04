@@ -1,44 +1,129 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NURBS on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/nurbs/</link>
-    <description>MagicDPD: Magic Driven Product Development! (NURBS)</description>
+    <title>Nurbs on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/nurbs/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Nurbs)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 01 May 2017 17:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 May 2021 16:01:56 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/nurbs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/nurbs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Фотореалистичный рендеринг результатов расчетов</title>
-      <link>http://localhost:1313/posts/2017-05-01-fotorealistichnyy-rendering-rezultatov-r/</link>
-      <pubDate>Mon, 01 May 2017 17:00:28 +0000</pubDate>
+      <title>IGA в LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-05-11-iga-v-ls-dyna/</link>
+      <pubDate>Tue, 11 May 2021 16:01:56 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-05-01-fotorealistichnyy-rendering-rezultatov-r/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://innovationintelligence.com/slingshot-topples-cans-simulated-radioss-visualized-rendered-evolve/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://innovationintelligence.com/slingshot-topples-cans-simulated-radioss-visualized-rendered-evolve/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Среди софта, дружественного платформе #Altair, есть очень любопытная система - #solidThinking #Evolve. Эта штуковина не только занимается концептуальным дизайном на основе #NURBS поверхностей, но и позволяет осуществлять рендеринг сцен с анимацией на основе расчетных данных. В качестве примера последнего есть  видео, созданное по данным расчета в #explicit коде #Altair #RADIOSS.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://youtu.be/1rRRd0BfPAc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/1rRRd0BfPAc&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-05-11-iga-v-ls-dyna/</guid>
+      <description>&lt;p&gt;IGA в LS-DYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UMb8DBtWar8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=UMb8DBtWar8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Вебинар более чем на час от DYNAmore про современное состояние изогеометрического анализа (IGA, IsoGeometric Analisys) в LS-DYNA. Данное расширение метода конечных элементов использует сплайны (например, NURBS = Non-Uniform Rational B-Splines) для описания и геометрии и поля аппроксимации решения. Использование таких базисных функций более высокого порядка и более высокой непрерывности может не только обеспечить лучшую интеграцию CAD геометрии в расчеты, но и дать другие потенциальные преимущества, такие как более точное описание геометрии, более высокая точность расчетов, больший размер элемента или увеличенный размер временного шага в явной динамике.&lt;/p&gt;
+&lt;p&gt;#ansys #dynamore #iga #lsdyna #nurbs
+&lt;a href=&#34;https://tinyurl.com/ydntaja4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ydntaja4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UMb8DBtWar8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DYNAmore Express: Isogeometric Analysis in LS-DYNA with the new CAD-inspired *IGA keywords&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/ydntaja4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ydntaja4&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>#Altair в своем #solidThinking Inspire 2016 добавил ще одну </title>
-      <link>http://localhost:1313/posts/2016-03-21-altair-v-svoem-solidthinking-inspire-2/</link>
-      <pubDate>Mon, 21 Mar 2016 07:00:53 +0000</pubDate>
+      <title>Фотореалистичный рендеринг результатов расчетов</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-01-fotorealistichnyy-rendering-rezultatov-r/</link>
+      <pubDate>Mon, 01 May 2017 17:00:28 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-03-21-altair-v-svoem-solidthinking-inspire-2/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-01-fotorealistichnyy-rendering-rezultatov-r/</guid>
+      <description>&lt;p&gt;Фотореалистичный рендеринг результатов расчетов
+&lt;del&gt;&lt;a href=&#34;http://innovationintelligence.com/slingshot-topples-cans-simulated-radioss-visualized-rendered-evolve/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://innovationintelligence.com/slingshot-topples-cans-simulated-radioss-visualized-rendered-evolve/&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20191117175012/https://innovationintelligence.com/slingshot-topples-cans-simulated-radioss-visualized-rendered-evolve/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Среди софта, дружественного платформе #Altair, есть очень любопытная система - #solidThinking #Evolve. Эта штуковина не только занимается концептуальным дизайном на основе #NURBS поверхностей, но и позволяет осуществлять рендеринг сцен с анимацией на основе расчетных данных. В качестве примера последнего есть  видео, созданное по данным расчета в #explicit коде #Altair #RADIOSS.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/1rRRd0BfPAc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/1rRRd0BfPAc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&#34;http://innovationintelligence.com/slingshot-topples-cans-simulated-radioss-visualized-rendered-evolve/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Slingshot Topples Cans: Simulated in RADIOSS, Visualized and Rendered in Evolve - Altair Innovation Intelligence&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20191117175012/https://innovationintelligence.com/slingshot-topples-cans-simulated-radioss-visualized-rendered-evolve/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;
+&lt;a href=&#34;https://youtu.be/1rRRd0BfPAc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/1rRRd0BfPAc&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Как гласит Википедия, неоднородный рациональный B-сплайн, NU</title>
-      <link>http://localhost:1313/posts/2016-03-08-kak-glasit-vikipediya-neodnorodnyy-ratsio/</link>
+      <title>LS-DYNA R9</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-04-ls-dyna-r9/</link>
+      <pubDate>Sun, 04 Sep 2016 06:30:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-04-ls-dyna-r9/</guid>
+      <description>&lt;p&gt;LS-DYNA R9
+&lt;a href=&#34;http://www.dynasupport.com/news/ls-dyna-r9.0.1-r9.109912-released&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynasupport.com/news/ls-dyna-r9.0.1-r9.109912-released&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#LSTC не спит и все быстрее выпускает матерные версии #LSDYNA. Так, 30-ого августа, вышла LS-DYNA R9.0.1.&lt;/p&gt;
+&lt;p&gt;Прочитав весь список изменения мне понравились такие фишки:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ALE_STRUCTURED_MESH - продолжение развития структурированного #ALE решателя&lt;/li&gt;
+&lt;li&gt;#CESE решатель не заброшен, ребята проболтают пилить #CFD код с учетом сжимаемости&lt;/li&gt;
+&lt;li&gt;CONTACT_AUTOMATIC_SURFACE_TO_SURFACE_TIED_WELD - контактный алгоритм упрощающий моделирование сварки&lt;/li&gt;
+&lt;li&gt;CONSTRAINED_LAGRANGE_IN_SOLID_EDGE - тот же CONSTRAINED_LAGRANGE_IN_SOLID, но в 2D&lt;/li&gt;
+&lt;li&gt;DEFINE_DE_INJECTION теперь умеет генерировать #DEM с нормальным распределением  их радиусов в заданном диапазоне&lt;/li&gt;
+&lt;li&gt;BOUNDARY_DE_NON_REFLECTING - неотражающие граничные условия в DEM (не знаю пока зачем, но звучит здорово)&lt;/li&gt;
+&lt;li&gt;DEFINE_DE_MASSFLOW_PLANE для расчета расхода частиц через плоскость&lt;/li&gt;
+&lt;li&gt;ICFD_BOUNDARY_FSWAVE - #ICFD решатель научился генерировать волны в задачах со свободной поверхностью (ну наконец-то!)&lt;/li&gt;
+&lt;li&gt;ICFD_CONTROL_DEM_COUPLING - наконец-то появился #FSI между ICFD и DEM (привет связке #Fluent + #Rocky)&lt;/li&gt;
+&lt;li&gt;ELEMENT_SOLID_NURBS_PATCH - #NURBS solid элементы для #implicit и #explicit решателя!&lt;/li&gt;
+&lt;li&gt;MAT_GENERALIZED_PHASE_CHANGE - новый навороченный материал для моделирования фазовых переходов&lt;/li&gt;
+&lt;li&gt;MAT_ADHESIVE_CURING_VISCOELASTIC - моделирование процесса полимеризации терморезистивных смол (привет #ANSYS #ACCS)&lt;/li&gt;
+&lt;li&gt;MAT_ADD_GENERALIZED_DAMAGE - добавление анизатропной разрушаемости существующим миоделям материалов (пока только для shell)&lt;/li&gt;
+&lt;li&gt;Пластическое разрушение для #XFEM (eXtended Finite Element Method)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Хороший релиз получился :-)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynasupport.com/news/ls-dyna-r9.0.1-r9.109912-released&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LS-DYNA R9.0.1 (R9.109912) released  — LS-DYNA Support&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Восстановление аналитической геометрии по STL в SpaceClaim: часть 2</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-21-vosstanovlenie-analiticheskoy-geometrii-p/</link>
+      <pubDate>Sun, 21 Aug 2016 12:01:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-21-vosstanovlenie-analiticheskoy-geometrii-p/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=VEUvYM2qFRc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=VEUvYM2qFRc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;А теперь более образовательный пост на тему работы с #NURBS в #ANSYS #SpaceClaim Direct Modeller (#SCDM): несколько небольших мастерклассов по восстановлению аналитических поверхностей на основе #STL моделей.&lt;/p&gt;
+&lt;p&gt;P.S. Вот, что бывает, когда нужно решить интересную и новую задачу - три поста про SCDM в ряд!
+#ReverseEngineering
+&lt;a href=&#34;https://www.youtube.com/watch?v=VEUvYM2qFRc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=VEUvYM2qFRc&lt;/a&gt;
+&lt;a href=&#34;http://storage.ansys.com/video/release-highlights/spaceclaim-rev-eng.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://storage.ansys.com/video/release-highlights/spaceclaim-rev-eng.mp4&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=2j6N5A6T3Kw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=2j6N5A6T3Kw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=VEUvYM2qFRc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS SpaceClaim 2016 Reverse Engineering&lt;/a&gt;
+&lt;a href=&#34;http://storage.ansys.com/video/release-highlights/spaceclaim-rev-eng.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://storage.ansys.com/video/release-highlights/spaceclaim-rev-eng.mp4&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=2j6N5A6T3Kw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=2j6N5A6T3Kw&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#Altair в своем #solidThinking Inspire 2016 добавил ще одну фишку в топологическую оптимизацию. Они используют PolyNURBS для аппроксимации и создания новой топологии. Это немного более аккуратно, чем делает #SpaceClaim на основе #STL результатов оптимизатора #ANSYS, но на мой взгляд не принципиально. Вот если бы система делала реальный #CAD на основе топологической оптимизации - это был бы номер!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-21-altair-v-svoem-solidthinking-inspire-2/</link>
+      <pubDate>Mon, 21 Mar 2016 07:00:53 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-21-altair-v-svoem-solidthinking-inspire-2/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.develop3d.com/blog/2016/03/polynurbs-to-take-generative-design-to-next-level-in-solidthinking-inspire-&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DEVELOP3D blog - PolyNURBS to take generative design to ‘next level’ in solidThinking Inspire 2016&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как бы не был страшен LS-PrePost, а мало кто может сравниться с ним по производительности и умелости.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-15-kak-by-ne-byl-strashen-ls-prepost-a-malo/</link>
+      <pubDate>Tue, 15 Mar 2016 11:01:52 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-15-kak-by-ne-byl-strashen-ls-prepost-a-malo/</guid>
+      <description>&lt;p&gt;Совсем недавно я писал про использование так называемых изогеометрических (Iso-Geometric)  элементов на основе #NURBS поверхностей, а сегодня я нашел, как можно создать КЭ сетку из таких элементов.&lt;/p&gt;
+&lt;p&gt;Оказывается LS-PrePost начиная с версии 4.1 умеет строить такие элементы, если сетка генерируется его средствами. Подходит IGES или STEP геометрия.&lt;/p&gt;
+&lt;p&gt;Подробности в прилагаемой презентации на страницах 21 - 23.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как гласит Википедия, неоднородный рациональный B-сплайн, NURBS (англ.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-08-kak-glasit-vikipediya-neodnorodnyy-ratsio/</link>
       <pubDate>Tue, 08 Mar 2016 07:00:46 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-03-08-kak-glasit-vikipediya-neodnorodnyy-ratsio/</guid>
-      <description>&lt;ul&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-08-kak-glasit-vikipediya-neodnorodnyy-ratsio/</guid>
+      <description>&lt;p&gt;Non-uniform rational B-spline) — математическая форма, применяемая в компьютерной графике для генерации и представления кривых и поверхностей. Как следует из названия, является частным случаем B-сплайнов, причём, широко распространённым из-за своей стандартизированности и относительной простоты.&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;А что если использовать NURBS для оболочечной постановки метода конечных элементов?&lt;/li&gt;
 &lt;li&gt;Да нет проблем! Взгляните на *ELEMENT_SHELL_NURBS_PATCH&lt;/li&gt;
 &lt;/ul&gt;

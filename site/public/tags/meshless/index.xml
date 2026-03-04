@@ -2,88 +2,243 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meshless on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/meshless/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/meshless/</link>
     <description>MagicDPD: Magic Driven Product Development! (Meshless)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 25 May 2022 18:00:08 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/meshless/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/meshless/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Южнокорейская компания #Metariver Technology Co., Ltd показа</title>
-      <link>http://localhost:1313/posts/2022-05-25-yuzhnokoreyskaya-kompaniya-metariver-techno/</link>
+      <title>Южнокорейская компания #Metariver Technology Co., Ltd показала интересное.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-05-25-yuzhnokoreyskaya-kompaniya-metariver-techno/</link>
       <pubDate>Wed, 25 May 2022 18:00:08 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-05-25-yuzhnokoreyskaya-kompaniya-metariver-techno/</guid>
-      <description>&lt;p&gt;Теперь же Metariver взяли и выкатили поддержку #MPS (Moving Particle Semi-Implicit Method), что, при правильно реализации, позволит выполнять #CFD расчеты намного точнее чем традиционный #SPH.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-05-25-yuzhnokoreyskaya-kompaniya-metariver-techno/</guid>
+      <description>&lt;p&gt;Прежде всего эта компания известна разработкой своего  решателя #Samadii-DEM. Данный #DEM код везде показывает свою отличительную фишку - учет влияния магнитных полей на движение частиц. Это было интересно.&lt;/p&gt;
+&lt;p&gt;Теперь же Metariver взяли и выкатили поддержку #MPS (Moving Particle Semi-Implicit Method), что, при правильно реализации, позволит выполнять #CFD расчеты намного точнее чем традиционный #SPH.&lt;/p&gt;
 &lt;p&gt;#meshless&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/eXCe5LgOTH0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/eXCe5LgOTH0&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/6-rN7ABWbkM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/6-rN7ABWbkM&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://youtu.be/eXCe5LgOTH0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/eXCe5LgOTH0&lt;/a&gt;
 &lt;a href=&#34;https://youtu.be/6-rN7ABWbkM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/6-rN7ABWbkM&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Сегодня я бы хотел рассказать вам об исследовании процесса р</title>
-      <link>http://localhost:1313/posts/2022-01-19-segodnya-ya-by-hotel-rasskazat-vam-ob-iss/</link>
+      <title>Метод вязких вихревых доменов (ВВД, viscous vortex domains, #VVD) - это #meshless метод вычислительной гидродинамики для прямого численного решения двумерных уравнений Навье-Стокса в координатах Лагранжа.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-05-23-metod-vyazkih-vihrevyh-domenov-vvd-visc/</link>
+      <pubDate>Mon, 23 May 2022 17:00:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-05-23-metod-vyazkih-vihrevyh-domenov-vvd-visc/</guid>
+      <description>&lt;p&gt;Он не реализует никакой модели турбулентности и свободен от произвольных параметров. Основная идея этого метода состоит в том, чтобы представить поле вихря дискретными областями (доменами), которые перемещаются с диффузионной скоростью относительно жидкости и сохраняют свою циркуляцию.&lt;/p&gt;
+&lt;p&gt;Данный метод, например, реализован в #opensource коде #Vvflow #CFD suite, код которого доступен на #GitHub, а примеры его использования - на YouTube
+&lt;a href=&#34;https://youtu.be/H-snLmMQK0Y&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/H-snLmMQK0Y&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/3mULL6O6f38&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/3mULL6O6f38&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/kHJ4occRZ4M&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/kHJ4occRZ4M&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/9fr2C5RC-6Y&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/9fr2C5RC-6Y&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/7xr_giqSfRc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/7xr_giqSfRc&lt;/a&gt; &lt;a href=&#34;https://github.com/vvflow/vvflow&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/vvflow/vvflow&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/H-snLmMQK0Y&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;NACA-0012 airfoil with deploying spoiler&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/3mULL6O6f38&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/3mULL6O6f38&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/kHJ4occRZ4M&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/kHJ4occRZ4M&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/9fr2C5RC-6Y&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/9fr2C5RC-6Y&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/7xr_giqSfRc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/7xr_giqSfRc&lt;/a&gt;
+&lt;a href=&#34;https://github.com/vvflow/vvflow&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/vvflow/vvflow&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сегодня я бы хотел рассказать вам об исследовании процесса разрушения ледника.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-19-segodnya-ya-by-hotel-rasskazat-vam-ob-iss/</link>
       <pubDate>Wed, 19 Jan 2022 17:00:09 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-01-19-segodnya-ya-by-hotel-rasskazat-vam-ob-iss/</guid>
-      <description>&lt;p&gt;Джошуа моделирует процесс разрушения айсберга,  сползающего в океан, создав код, учитывающий физические механизмы фрагментации льда и процесс взаимодействия жидкости и твердого тела. Весь расчет проводится с применением метода материальной точки (#MPM, Material Point Method), что позволяет достаточной просто и стабильно моделировать требуемые механические эффекты. Основные принципы работы MPM кратко, но внятно рассказаны в докладе по итогам работы.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-19-segodnya-ya-by-hotel-rasskazat-vam-ob-iss/</guid>
+      <description>&lt;p&gt;Исследование данного процесса - это очередной проект Джошуа Вольпера  (Joshuah Wolper) из Пенсильванского университета. Его работы уже мелькали у меня (например задач о выпечке хлеба :-)).
+Джошуа моделирует процесс разрушения айсберга,  сползающего в океан, создав код, учитывающий физические механизмы фрагментации льда и процесс взаимодействия жидкости и твердого тела. Весь расчет проводится с применением метода материальной точки (#MPM, Material Point Method), что позволяет достаточной просто и стабильно моделировать требуемые механические эффекты. Основные принципы работы MPM кратко, но внятно рассказаны в докладе по итогам работы.
 Работа хорошо структурирована, а все изложение строиться на последовательности валидационных и верификационных примеров.
 Короче говоря, сплошное наслаждение для ума.
 #meshless #ice #fragmentation #FSI
 &lt;a href=&#34;https://youtu.be/7IC_ehdH7ZM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/7IC_ehdH7ZM&lt;/a&gt; &lt;a href=&#34;https://joshuahwolper.com/glacier&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://joshuahwolper.com/glacier&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/7IC_ehdH7ZM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;A Glacier-Ocean Interaction Model for Tsunami Genesis Due to Iceberg Calving [Nature Comms. E &amp;amp; E]&lt;/a&gt;
+&lt;a href=&#34;https://joshuahwolper.com/glacier&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://joshuahwolper.com/glacier&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Лекции по SPH от создателя метода</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-04-13-lektsii-po-sph-ot-sozdatelya-metoda/</link>
+      <pubDate>Tue, 13 Apr 2021 13:01:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-04-13-lektsii-po-sph-ot-sozdatelya-metoda/</guid>
+      <description>&lt;p&gt;Лекции по SPH от создателя метода&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=tAXHCAEgSuE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=tAXHCAEgSuE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Знакомьтесь, это Джозеф Дж. Монаган (Joseph J. Monaghan) - австралийский физик и заслуженный профессор Университета Монаша (Monash University). Именно он в 1977 году создал SPH (Smoothed-particle hydrodynamics, гидродинамика сглаженных частиц) - скорее всего первый прижившийся, и точно самый популярный бессеточный метод для описания течения материала. И сегодня у нас записи с его лекций.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OTlygbegQT4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=OTlygbegQT4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#legendpeople #meshless #shp #theory
+&lt;a href=&#34;https://tinyurl.com/yg22z5p8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yg22z5p8&lt;/a&gt;
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=tAXHCAEgSuE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Joe Monaghan: Introduction to SPH Part I&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=OTlygbegQT4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=OTlygbegQT4&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yg22z5p8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yg22z5p8&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Очень горячая прокатка</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-25-ochen-goryachaya-prokatka/</link>
+      <pubDate>Thu, 25 Mar 2021 13:02:28 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-25-ochen-goryachaya-prokatka/</guid>
+      <description>&lt;p&gt;Очень горячая прокатка&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=plsZPkpHQxk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=plsZPkpHQxk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Мастер-класс посвящен обзору основных настроек решателя, работе и граничными условиями, адаптивными сетками и бессеточными методами при решении реальных промышленных задач прокатки объемных заготовок.&lt;/p&gt;
+&lt;p&gt;#ansys #cadfem #efg #ls-dyna #meshless
+&lt;a href=&#34;https://tinyurl.com/yfzmb774&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfzmb774&lt;/a&gt;
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=plsZPkpHQxk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Решение задач горячей прокатки в твердотельной постановке в LS-DYNA&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yfzmb774&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfzmb774&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>KC-FEMFRE - бессеточный код решения задач разрушения</title>
-      <link>http://localhost:1313/posts/2021-03-10-kc-femfre-bessetochnyy-kod-resheniya-zada/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-10-kc-femfre-bessetochnyy-kod-resheniya-zada/</link>
       <pubDate>Wed, 10 Mar 2021 13:01:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-03-10-kc-femfre-bessetochnyy-kod-resheniya-zada/</guid>
-      <description>&lt;p&gt;Знаете ли вы, что компания Karagozian &amp;amp; Case, Inc., специализирующаяся на консалтинге для оборонно-промышленного комплекса, компания, создатель одной из самых популярных и точных моделей бетона для LS-DYNA *MAT_CONCRETE_DAMAGE_REL3/*MAT_072R3 также разрабатывается свой собственный расчетный кода!&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-10-kc-femfre-bessetochnyy-kod-resheniya-zada/</guid>
+      <description>&lt;p&gt;KC-FEMFRE - бессеточный код решения задач разрушения&lt;/p&gt;
+&lt;p&gt;Знаете ли вы, что компания Karagozian &amp;amp; Case, Inc., специализирующаяся на консалтинге для оборонно-промышленного комплекса, компания, создатель одной из самых популярных и точных моделей бетона для LS-DYNA *MAT_CONCRETE_DAMAGE_REL3/*MAT_072R3 также разрабатывается свой собственный расчетный кода!&lt;/p&gt;
 &lt;p&gt;Их детище носит название FEMFRE (Finite Element and MeshFREe solver). Код обладает встроенной базой материалов для расчетов задач разрушения  Extreme Materials Library (ExML), включающую в себя, например, 4-тую версию их модели бетона. Из интересных особенностей - адаптивный бессеточный метод расчета. Пока конструкцию можно считать при помощи МКЭ расчет так и ведется.&lt;/p&gt;
 &lt;p&gt;Но когда разрушения уже не могут быть описаны традиционными сеточными методами система переключаться на бессеточный метод на основе RKPM (Reprodusing Kernel Particel Meshod), являющийся аналогом бессеточных методов Гелеркина, применяемых в LS-DYNA (&lt;a href=&#34;https://ftp.lstc.com/anonymous/outgoing/support/FAQ_kw/concrete/kccm_paper.pdf%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ftp.lstc.com/anonymous/outgoing/support/FAQ_kw/concrete/kccm_paper.pdf)&lt;/a&gt;.  Сайт продукта: &lt;a href=&#34;https://www.kcse.com/home/software/kcfemfre/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.kcse.com/home/software/kcfemfre/&lt;/a&gt; Одна из ранних публикаций по теме: &lt;a href=&#34;https://doi.org/10.1061/%28ASCE%29EM.1943-7889.0000497&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://doi.org/10.1061/(ASCE)EM.1943-7889.0000497&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#concrete #explicit #kcc #meshless
+&lt;a href=&#34;https://tinyurl.com/y86ydvts&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y86ydvts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ftp.lstc.com/anonymous/outgoing/support/FAQ_kw/concrete/kccm_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ftp.lstc.com/anonymous/outgoing/support/FAQ_kw/concrete/kccm_paper.pdf&lt;/a&gt;
+&lt;a href=&#34;http://www.kcse.com/home/software/kcfemfre/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.kcse.com/home/software/kcfemfre/&lt;/a&gt;
+&lt;a href=&#34;https://doi.org/10.1061/%28ASCE%29EM.1943-7889.0000497&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://doi.org/10.1061/(ASCE)EM.1943-7889.0000497&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/y86ydvts&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y86ydvts&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Вебинар по EFG от DYNAmore</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-09-07-vebinar-po-efg-ot-dynamore/</link>
+      <pubDate>Mon, 07 Sep 2020 13:01:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-09-07-vebinar-po-efg-ot-dynamore/</guid>
+      <description>&lt;p&gt;Вебинар по EFG от DYNAmore
+#EFG #LS_DYNA #meshless
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/%d0%b2%d0%b5%d0%b1%d0%b8%d0%bd%d0%b0%d1%80-%d0%bf%d0%be-efg-%d0%be%d1%82-dynamore/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Вебинар по EFG от DYNAmore - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Анонс вебинара по SPG</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-07-28-anons-vebinara-po-spg/</link>
+      <pubDate>Tue, 28 Jul 2020 13:01:07 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-07-28-anons-vebinara-po-spg/</guid>
+      <description>&lt;p&gt;Анонс вебинара по SPG&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/spg-webinar/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Анонс вебинара по SPG - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Терминология для бессеточных методов по ГОСТ</title>
-      <link>http://localhost:1313/posts/2020-06-30-terminologiya-dlya-bessetochnyh-metodov-po/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-06-30-terminologiya-dlya-bessetochnyh-metodov-po/</link>
       <pubDate>Tue, 30 Jun 2020 14:01:20 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-06-30-terminologiya-dlya-bessetochnyh-metodov-po/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-06-30-terminologiya-dlya-bessetochnyh-metodov-po/</guid>
+      <description>&lt;p&gt;Терминология для бессеточных методов по ГОСТ&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/meshless-ghost/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Терминология для бессеточных методов по ГОСТ - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Smoothed Finite Element Methods</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-13-smoothed-finite-element-methods/</link>
+      <pubDate>Fri, 13 Mar 2020 13:00:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-13-smoothed-finite-element-methods/</guid>
+      <description>&lt;p&gt;Smoothed Finite Element Methods&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/smoothed-finite-element-methods/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Smoothed Finite Element Methods - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Хрупкое разрушение</title>
-      <link>http://localhost:1313/posts/2019-02-08-hrupkoe-razrushenie/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-08-hrupkoe-razrushenie/</link>
       <pubDate>Fri, 08 Feb 2019 04:38:07 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-02-08-hrupkoe-razrushenie/</guid>
-      <description>&lt;p&gt;Тут у меня коллеги интересовались моделированием хрупкого разрушения материалов в #LSDYNA. Самым передовым и многообещающим методом расчета такого разрушения и трещенообразования является перидинамика (&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Перидинамика)
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-08-hrupkoe-razrushenie/</guid>
+      <description>&lt;p&gt;Хрупкое разрушение&lt;/p&gt;
+&lt;p&gt;Тут у меня коллеги интересовались моделированием хрупкого разрушения материалов в #LSDYNA. Самым передовым и многообещающим методом расчета такого разрушения и трещенообразования является перидинамика (&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Перидинамика)
 Так вот, я поскреб по сусекам, посмотрел, что у меня есть в волшебном хранилище знаний, и нашел отличную ссылку на репозиторий господина Cheng-Tang Wu (одного из главных разработчиков #LSTC в этом направлении), где он выкладываем свой учебный курс по бессрочным методам (корме перидинамики есть еще #EFG и #SPG).
 Внимание, в составе данного учебного курса есть работающие примеры со всем перечисленными бессрочными методами расчета разрушения!
 #meshless #peridynamics #AdaptiveEFG
 P.S. Насколько я понял, ключевые карты SECTION_SOLID_PERI и MAT_ELASTIC_PERI пока реализованы только в beta версиях решателя поколения R10.
 &lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Index of /anonymous/outgoing/whu/Class&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ru.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/&lt;/a&gt;Перидинамика
+&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Бессеточный CFD решатель PreonLab</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-06-bessetochnyy-cfd-reshatel-preonlab/</link>
+      <pubDate>Wed, 06 Feb 2019 17:00:48 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-06-bessetochnyy-cfd-reshatel-preonlab/</guid>
+      <description>&lt;p&gt;Бессеточный CFD решатель PreonLab&lt;/p&gt;
+&lt;p&gt;Похоже, сеточные методы уже всем поднадоели. PreonLab — очередной бессеточный CFD решатель, разработанный немецкой компанией FIFTY2 Technology GmbH.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/3WjJYI8vkK4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/3WjJYI8vkK4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;К ключевым особенностям разработчики относят расширенные возможности визуализации результатов. И действительно, получаемые видео больше напоминают профессиональные рендер-сцены, чем результаты расчетов.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/CEerYI-BAgE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/CEerYI-BAgE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Еще одно интересное решение: движение твердых тел (читай границ расчетного домена) задается по принципу ключевых положений (key-frame animaniton).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=VCswHNhWTmE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=VCswHNhWTmE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;К сожалению, сходу не удалось найти описание математики, которая стоит за всеми этими красивыми расчетами.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=osFWUdn0TmQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=osFWUdn0TmQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Сайт разработчика: &lt;a href=&#34;https://www.fifty2.eu/preonlab/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.fifty2.eu/preonlab/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#CFD #meshless #preonlab&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2jc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2jc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/3WjJYI8vkK4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/3WjJYI8vkK4&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/CEerYI-BAgE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/CEerYI-BAgE&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=VCswHNhWTmE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=VCswHNhWTmE&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=osFWUdn0TmQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=osFWUdn0TmQ&lt;/a&gt;
+&lt;a href=&#34;https://www.fifty2.eu/preonlab/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.fifty2.eu/preonlab/&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2jc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2jc&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Огромный вебинар по midas MeshFree</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-21-ogromnyy-vebinar-po-midas-meshfree/</link>
+      <pubDate>Mon, 21 Jan 2019 17:00:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-21-ogromnyy-vebinar-po-midas-meshfree/</guid>
+      <description>&lt;p&gt;Огромный вебинар по midas MeshFree&lt;/p&gt;
+&lt;p&gt;Это наверно самый большой вебинар, который я встречал: полтора часа вдумчивого рассказа про работу бессеточного решателя midas MeshFree, созданного при поддержке Samsung.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-KT0VbQH6q8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=-KT0VbQH6q8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В ходе вебинара будет рассказано не только про особенности «бессеточного» метода расчёта, но и показана работа интефейса, разобраны граничные условия, и даже решено несколько примеров. Жаль только, что все это подано скучновато.&lt;/p&gt;
+&lt;p&gt;#MESHFREE #meshless #MIDAS&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2hp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2hp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-KT0VbQH6q8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=-KT0VbQH6q8&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2hp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2hp&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ANSYS подружится с Prometech Software, Inc.</title>
-      <link>http://localhost:1313/posts/2018-12-21-ansys-podruzhitsya-s-prometech-software-i/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-21-ansys-podruzhitsya-s-prometech-software-i/</link>
       <pubDate>Fri, 21 Dec 2018 17:01:50 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-12-21-ansys-podruzhitsya-s-prometech-software-i/</guid>
-      <description>&lt;p&gt;В прошедший понедельник на своей конференции японская компания Prometech Software, Inc. объявила о дружбе с ANSYS. Давайте разберемся, почему это очень круто.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-21-ansys-podruzhitsya-s-prometech-software-i/</guid>
+      <description>&lt;p&gt;ANSYS подружится с Prometech Software, Inc.&lt;/p&gt;
+&lt;p&gt;В прошедший понедельник на своей конференции японская компания Prometech Software, Inc. объявила о дружбе с ANSYS. Давайте разберемся, почему это очень круто.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://youtu.be/WDFSzgjWR_4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/WDFSzgjWR_4&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Прежде всего, стоит вспомнить, что Prometech - это разработчик Particleworks, одного из самых умных бессеточных CFD решателей. Решатель бессеточный - работает на основе своего метода частиц MPS (Moving Particle Simulation) Method.&lt;/p&gt;
 &lt;p&gt;Работа решателя на основе метода частиц позволяет решать динамические задачи с подвижными (и сильно подвижными :-)) границами, FSI и описывать прочие динамические процессы - например, задачи смазки зубчатых передач, слошинш, аквапланирование.&lt;/p&gt;
@@ -91,48 +246,76 @@ P.S. Насколько я понял, ключевые карты SECTION_SOLID
 &lt;p&gt;&lt;a href=&#34;https://www.prometech.co.jp/newsroom_ja/prometech-and-ansys-announce-a-collaboration-to-provide-broader-multiphysics-solution.html?lang=ja&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.prometech.co.jp/newsroom_ja/prometech-and-ansys-announce-a-collaboration-to-provide-broader-multiphysics-solution.html?lang=ja&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ANSYS #CFD #FSI #GPU #Meshless #MPS #Particleworks #Prometech
 &lt;a href=&#34;http://bit.ly/2V1xxeO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2V1xxeO&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/WDFSzgjWR_4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Particleworks Introduction 2018.09&lt;/a&gt;
+&lt;a href=&#34;https://www.prometech.co.jp/newsroom_ja/prometech-and-ansys-announce-a-collaboration-to-provide-broader-multiphysics-solution.html?lang=ja&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.prometech.co.jp/newsroom_ja/prometech-and-ansys-announce-a-collaboration-to-provide-broader-multiphysics-solution.html?lang=ja&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2V1xxeO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2V1xxeO&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Применение SPG в задачах фрезировки и пробивания</title>
-      <link>http://localhost:1313/posts/2018-11-14-primenenie-spg-v-zadachah-frezirovki-i-pr/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-14-primenenie-spg-v-zadachah-frezirovki-i-pr/</link>
       <pubDate>Wed, 14 Nov 2018 17:00:23 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-11-14-primenenie-spg-v-zadachah-frezirovki-i-pr/</guid>
-      <description>&lt;p&gt;Хорошая статья от LSTC, посвященная изучению работы их SPG метода в применении к задачам обработки материалов. И тут под обработкой понимается очень широкий круг понятий: в статье описаны только задачи фрезировки металла и пробивания бетона, но у меня есть кейсы, где рассматривается и сверление, и разрывные испытания, и даже фрагментация осколочных боеприпасов.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-14-primenenie-spg-v-zadachah-frezirovki-i-pr/</guid>
+      <description>&lt;p&gt;Применение SPG в задачах фрезировки и пробивания&lt;/p&gt;
+&lt;p&gt;Хорошая статья от LSTC, посвященная изучению работы их SPG метода в применении к задачам обработки материалов. И тут под обработкой понимается очень широкий круг понятий: в статье описаны только задачи фрезировки металла и пробивания бетона, но у меня есть кейсы, где рассматривается и сверление, и разрывные испытания, и даже фрагментация осколочных боеприпасов.&lt;/p&gt;
 &lt;p&gt;SPG (не путать с SPH или EFG)- это вообще некий единорог среди бессеточных методов, который может очень много чего как в explicit, так и в implicit (!!!) постановках, отличается стабильностью и простотой настройки. Вот только ресурсов любой бессеточный метод в механике обычно кушает раза в 3 больше, чем сеточный.
 &lt;a href=&#34;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/parametric-and-convergence-studies-of-the-smoothed-particle-galerkin-spg-method-in-semi-brittle-and-ductile-material-failure-analyses&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/parametric-and-convergence-studies-of-the-smoothed-particle-galerkin-spg-method-in-semi-brittle-and-ductile-material-failure-analyses&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#Concrete #KCC #LSDYNA #LSTC #Machining #Meshless #Perforation #SPG
+&lt;a href=&#34;http://bit.ly/2RZwFW3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RZwFW3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/parametric-and-convergence-studies-of-the-smoothed-particle-galerkin-spg-method-in-semi-brittle-and-ductile-material-failure-analyses&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/parametric-and-convergence-studies-of-the-smoothed-particle-galerkin-spg-method-in-semi-brittle-and-ductile-material-failure-analyses&lt;/a&gt;
 &lt;a href=&#34;http://bit.ly/2RZwFW3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RZwFW3&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Моделирование армирования в бессеточных методах</title>
-      <link>http://localhost:1313/posts/2018-07-19-modelirovanie-armirovaniya-v-bessetochnyh/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-19-modelirovanie-armirovaniya-v-bessetochnyh/</link>
       <pubDate>Thu, 19 Jul 2018 18:00:31 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-07-19-modelirovanie-armirovaniya-v-bessetochnyh/</guid>
-      <description>&lt;p&gt;Хочу обратить ваше внимание на статью &amp;ldquo;The Immersed Smoothed Particle Galerkin Method in LS-DYNA® for Material Failure Analysis of Fiber-Reinforced Solid Structures&amp;rdquo;, опубликованную в рамках 15-ой международной пользовательской конференции LS-DYNA. В ней рассказывается про разработку новой карты *CONSTRAINED_IMMERSED_IN_SPG, которая позволяет автоматически встраивать армирование на основе beam элементов в матрицу, на основе SPG формулировки.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-19-modelirovanie-armirovaniya-v-bessetochnyh/</guid>
+      <description>&lt;p&gt;Моделирование армирования в бессеточных методах
+Хочу обратить ваше внимание на статью &amp;ldquo;The Immersed Smoothed Particle Galerkin Method in LS-DYNA® for Material Failure Analysis of Fiber-Reinforced Solid Structures&amp;rdquo;, опубликованную в рамках 15-ой международной пользовательской конференции LS-DYNA. В ней рассказывается про разработку новой карты *CONSTRAINED_IMMERSED_IN_SPG, которая позволяет автоматически встраивать армирование на основе beam элементов в матрицу, на основе SPG формулировки.&lt;/p&gt;
 &lt;p&gt;SPG - Smoothed Particle Galerkin Method - бессеточный метод, разработанный LSTC для моделирования процессов как хрупкого, так и пластического разрушения. Данный метод вобрал в себя все преимущества SPH, но лишился его недостатков - например, нестабильности при растяжении или невозможности работы с неявным решателем. Подробности по математике метода тут: https://www.dynalook.com/13th-international-ls-dyna-conference/fluid-structure-interaction/an-introduction-to-the-ls-dyna-r-smoothed-particle-galerkin-method-for-severe-deformation-and-failure-analyses-in-solids
 Таким образом, *CONSTRAINED_IMMERSED_IN_SPG позволит нормально считать задачи пробивания в бессеточной постановке как только будет включен.&lt;/p&gt;
 &lt;p&gt;#LSDYNA #LSTC #Meshless #Reinforcement #SPG #SPH
+&lt;a href=&#34;http://bit.ly/2NrEzFg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NrEzFg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/the-immersed-smoothed-particle-galerkin-method-in-ls-dyna-r-for-material-failure-analysis-of-fiber-reinforced-solid-structures&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/the-immersed-smoothed-particle-galerkin-method-in-ls-dyna-r-for-material-failure-analysis-of-fiber-reinforced-solid-structures&lt;/a&gt;
+&lt;a href=&#34;https://www.dynalook.com/13th-international-ls-dyna-conference/fluid-structure-interaction/an-introduction-to-the-ls-dyna-r-smoothed-particle-galerkin-method-for-severe-deformation-and-failure-analyses-in-solids&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/13th-international-ls-dyna-conference/fluid-structure-interaction/an-introduction-to-the-ls-dyna-r-smoothed-particle-galerkin-method-for-severe-deformation-and-failure-analyses-in-solids&lt;/a&gt;
 &lt;a href=&#34;http://bit.ly/2NrEzFg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NrEzFg&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Тут у меня коллеги интересовались моделированием хрупкого ра</title>
-      <link>http://localhost:1313/posts/2017-11-09-tut-u-menya-kollegi-interesovalis-modeli/</link>
+      <title>К слову о резке металла в LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-17-k-slovu-o-rezke-metalla-v-ls-dyna/</link>
+      <pubDate>Sat, 17 Feb 2018 17:00:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-17-k-slovu-o-rezke-metalla-v-ls-dyna/</guid>
+      <description>&lt;p&gt;К слову о резке металла в LS-DYNA
+Разберем небольшой пример по моделированию процесса резки металла в EFG постановке.
+Расчет такого сложного процесса становится возможен благодаря Element-Free Galerkin (EFG) — бессеточному методу Галеркина. Очень интересной особенностью данной постановки является использование решателя с неявной (!!! *CONTROL_IMPLICIT_DYNAMICS !!!) схемой интегрирования по времени. Основная цель — видеодемонстрация влияния настроек механизма адаптации EFG модели под деформацию (динамическое перестроение сетки, которой как бы нет :-D ).&lt;/p&gt;
+&lt;p&gt;Готовая модель для самостоятельного изучения лежит в открытом доступе: http://www.dynaexamples.com/efg/metal-cutting
+Кстати, очень интересно отдельно посмотреть на работу контактного алгоритма семейства  MORTAR — специальная разработка LSTC для implicit расчетов (*CONTACT_FORMING_SURFACE_TO_SURFACE_MORTAR).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynaexamples.com/efg/metal-cutting&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynaexamples.com/efg/metal-cutting&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Тут у меня коллеги интересовались моделированием хрупкого разрушения материалов в #LSDYNA.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-09-tut-u-menya-kollegi-interesovalis-modeli/</link>
       <pubDate>Thu, 09 Nov 2017 17:09:22 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-09-tut-u-menya-kollegi-interesovalis-modeli/</guid>
-      <description>&lt;p&gt;Так вот, я поскреб по сусекам, посмотрел, что у меня есть в волшебном хранилище знаний, и нашел отличную ссылку на репозиторий господина Cheng-Tang Wu (одного из главных разработчиков #LSTC в этом направлении), где он выкладываем свой учебный курс по бессрочным методам (корме перидинамики есть еще #EFG и #SPG).&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-09-tut-u-menya-kollegi-interesovalis-modeli/</guid>
+      <description>&lt;p&gt;Самым передовым и многообещающим методом расчета такого разрушения и трещенообразования является перидинамика (&lt;a href=&#34;http://ift.tt/2zu9ye7&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zu9ye7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Так вот, я поскреб по сусекам, посмотрел, что у меня есть в волшебном хранилище знаний, и нашел отличную ссылку на репозиторий господина Cheng-Tang Wu (одного из главных разработчиков #LSTC в этом направлении), где он выкладываем свой учебный курс по бессрочным методам (корме перидинамики есть еще #EFG и #SPG).&lt;/p&gt;
 &lt;p&gt;Внимание, в составе данного учебного курса есть работающие примеры со всем перечисленными бессрочными методами расчета разрушения!&lt;/p&gt;
 &lt;p&gt;#meshless #peridynamics #AdaptiveEFG&lt;/p&gt;
 &lt;p&gt;P.S. Насколько я понял, ключевые карты SECTION_SOLID_PERI и MAT_ELASTIC_PERI пока реализованы только в beta версиях решателя поколения R10.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&lt;/a&gt; 🔗 Index of /anonymous/outgoing/whu/Class&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vlBJYZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlBJYZ&lt;/a&gt;
+&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/whu/Class/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

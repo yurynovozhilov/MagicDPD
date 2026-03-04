@@ -2,32 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Composite on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/composite/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/composite/</link>
     <description>MagicDPD: Magic Driven Product Development! (Composite)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 06 Apr 2022 17:00:11 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/composite/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/composite/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Раньше все говорили, что моделировать композиты на микро уро</title>
-      <link>http://localhost:1313/posts/2022-04-06-ranshe-vse-govorili-chto-modelirovat-ko/</link>
+      <title>Раньше все говорили, что моделировать композиты на микро уровне - это довольно сложно, если вообще возможно. Однако, прогресс не стоит на месте, и есть интересные подвижки в этом деле. Так, коллеги используют методологию моделирования на основе Метода Цифровых Элементов (Digital Element Approach, DEA). Хотя, если смотреть на описание данного метода, каждая нить композита дискретизирована на пучок волокон, а каждое отдельное волокно состояло из цепочки ферменных (стержневых) элементов. И тут я не понимаю, чем это отличается от стандартного подхода к моделированию балочными элементами?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-06-ranshe-vse-govorili-chto-modelirovat-ko/</link>
       <pubDate>Wed, 06 Apr 2022 17:00:11 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-04-06-ranshe-vse-govorili-chto-modelirovat-ko/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-06-ranshe-vse-govorili-chto-modelirovat-ko/</guid>
       <description>&lt;p&gt;#composite #Abaqus #DEA &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S1359836821003267&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.sciencedirect.com/science/article/abs/pii/S1359836821003267&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S1359836821003267&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Fiber-level numerical simulation of biaxial braids for mesoscopic morphology prediction validated by X-ray computed tomography scan&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AniForm - штамповка композитов</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-12-27-aniform-shtampovka-kompozitov/</link>
+      <pubDate>Mon, 27 Dec 2021 13:01:30 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-12-27-aniform-shtampovka-kompozitov/</guid>
+      <description>&lt;p&gt;AniForm - штамповка композитов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/07GAWmAvDKE?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/07GAWmAvDKE?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Делая обзор литературы по одному из проектов наткнулся на интересный инструмент по моделированию штамповки композитных изделий. AniForm позволят рассчитывать штамповку с учетом взаимного влияния мультиаксиальных тканей различной структуры плетения, а также учитывать полимеризацию связующего при нагреве. При этом у AniForm есть интерфейсы для экспорта получаемой структуры изделий в Ansys Composite PrepPost, e-Xstream’s Digimat, Abaqus CAE и Moldex3D + LS-DYNA для прямой генерации карты материала *MAT_249/*MAT_REINFORCED_THERMOPLASTIC.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/-_nbLgicSe8?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/-_nbLgicSe8?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#abaqus #acp #ansys #composite #digimat #forming #lsdyna
+&lt;a href=&#34;https://tinyurl.com/y6s22ms2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y6s22ms2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/07GAWmAvDKE?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;AniForm General: First-time-right process implementation&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/-_nbLgicSe8?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/-_nbLgicSe8?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/y6s22ms2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y6s22ms2&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Моделирование текстильных композитов в LS-DYNA</title>
-      <link>http://localhost:1313/posts/2021-12-21-modelirovanie-tekstilnyh-kompozitov-v-l/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-12-21-modelirovanie-tekstilnyh-kompozitov-v-l/</link>
       <pubDate>Tue, 21 Dec 2021 20:29:34 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-12-21-modelirovanie-tekstilnyh-kompozitov-v-l/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8xxefifDzY0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=8xxefifDzY0&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-12-21-modelirovanie-tekstilnyh-kompozitov-v-l/</guid>
+      <description>&lt;p&gt;Моделирование текстильных композитов в LS-DYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8xxefifDzY0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=8xxefifDzY0&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Очень актуальное для меня свежее видео про работу композитами в LS-DYNA. В решателе много интересных моделей разрушения таких материалов, однако задание ориентаций в LS-PrePost (да и в наборе  от Oasys) - это прям больно. При всей моей любви к LSPP тут от вчистую проигрывает WB LS-DYNA, которая задает ориентации намного быстрее и проще, и это еще без учета возможности подключения к сборке модели Ansys Composite PrepPost. Основные темы видео:&lt;/p&gt;
 &lt;p&gt;Локальные системы координат материалов с использованием опций AOPT и BETA
 Сборка ламинатов на основе *PART_COMPOSITE и *ELEMENT_SHELL_COMPOSITE
@@ -36,126 +56,316 @@
 Обзор соответствующих карт контроля состояния модели и специфических форматов результатов&lt;/p&gt;
 &lt;p&gt;#acp #ansys #composite #lsdyna #oasys #wb_ls-dyna
 &lt;a href=&#34;https://tinyurl.com/yxwzywmh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yxwzywmh&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8xxefifDzY0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Modelling FRP composites in LS-DYNA: Part 1 – Intralaminar behaviour&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yxwzywmh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yxwzywmh&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование процесса намотки препрега</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-31-modelirovanie-protsessa-namotki-preprega/</link>
+      <pubDate>Wed, 31 Mar 2021 14:48:38 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-31-modelirovanie-protsessa-namotki-preprega/</guid>
+      <description>&lt;p&gt;Моделирование процесса намотки препрега&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=9SqoHrxn3Qw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=9SqoHrxn3Qw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Некоторые композитные изделия, как, например, баллонны высокого давления, изготавливаются из перепрегов методом намотки. Задать такую слоистую структуру с учетом переплетения всех слоев даже в Ansys ACP может оказаться довольно сложной задачей, не решаемой без создания специальных управляющих Python макросов.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=57utRRS0M_k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=57utRRS0M_k&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Однако, для этой задачи есть специальное ПО, такое, как например, CADWIND. Данное ПО позволяет промоделировать и оптимизировать процесс намотки изделия. Что особенно приятно, данные о получаемой слоистой структуре могут быть переданы в формате HDF5 в Ansys ACP для дальнейших расчетов, так как эти платформы дружа (&lt;a href=&#34;https://www.ansys.com/blog/solving-composite-design-challenges%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/blog/solving-composite-design-challenges)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;#acp #ansys #cadwind #composite #hdf5
+&lt;a href=&#34;https://tinyurl.com/yjp2ftfb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yjp2ftfb&lt;/a&gt;
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=9SqoHrxn3Qw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CADWIND Filament Winding Software: how CADWIND works with your machine controller&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=57utRRS0M_k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=57utRRS0M_k&lt;/a&gt;
+&lt;a href=&#34;https://www.ansys.com/blog/solving-composite-design-challenges&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/blog/solving-composite-design-challenges&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yjp2ftfb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yjp2ftfb&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multiscale.Sim</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-12-22-multiscalesim/</link>
+      <pubDate>Tue, 22 Dec 2020 13:01:06 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-12-22-multiscalesim/</guid>
+      <description>&lt;p&gt;Multiscale.Sim&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/multiscale-sim/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Multiscale.Sim - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Обзор критериев разрушения полимерных композитов</title>
-      <link>http://localhost:1313/posts/2020-11-03-obzor-kriteriev-razrusheniya-polimernyh-ko/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-11-03-obzor-kriteriev-razrusheniya-polimernyh-ko/</link>
       <pubDate>Tue, 03 Nov 2020 12:54:20 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-11-03-obzor-kriteriev-razrusheniya-polimernyh-ko/</guid>
-      <description>&lt;p&gt;#composite
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-11-03-obzor-kriteriev-razrusheniya-polimernyh-ko/</guid>
+      <description>&lt;p&gt;Обзор критериев разрушения полимерных композитов
+#composite
 by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/%d0%be%d0%b1%d0%b7%d0%be%d1%80-%d0%ba%d1%80%d0%b8%d1%82%d0%b5%d1%80%d0%b8%d0%b5%d0%b2-%d1%80%d0%b0%d0%b7%d1%80%d1%83%d1%88%d0%b5%d0%bd%d0%b8%d1%8f-%d0%bf%d0%be%d0%bb%d0%b8%d0%bc%d0%b5%d1%80%d0%bd/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Обзор критериев разрушения полимерных композитов - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Постановка задачи о трехточечном изгибе сэндвич панели в ANS</title>
-      <link>http://localhost:1313/posts/2020-10-07-postanovka-zadachi-o-trehtochechnom-izgibe/</link>
+      <title>Постановка задачи о трехточечном изгибе сэндвич панели в ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-10-07-postanovka-zadachi-o-trehtochechnom-izgibe/</link>
       <pubDate>Wed, 07 Oct 2020 17:24:01 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-10-07-postanovka-zadachi-o-trehtochechnom-izgibe/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-10-07-postanovka-zadachi-o-trehtochechnom-izgibe/</guid>
       <description>&lt;p&gt;#ACP #ANSYS #composite #LEAP #Mechanical
 by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/ansys-acp-for-sandwich-panel/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Постановка задачи о трехточечном изгибе сэндвич панели в ANSYS - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Импорт данных изготовления композитов в LS-PrePost</title>
-      <link>http://localhost:1313/posts/2020-04-16-import-dannyh-izgotovleniya-kompozitov-v/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-04-16-import-dannyh-izgotovleniya-kompozitov-v/</link>
       <pubDate>Thu, 16 Apr 2020 14:50:48 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-04-16-import-dannyh-izgotovleniya-kompozitov-v/</guid>
-      <description>&lt;p&gt;#composite #LS_DYNA #LS_PrePost #Moldex3D #Moldflow
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-04-16-import-dannyh-izgotovleniya-kompozitov-v/</guid>
+      <description>&lt;p&gt;Импорт данных изготовления композитов в LS-PrePost
+#composite #LS_DYNA #LS_PrePost #Moldex3D #Moldflow
 by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/moldex3d-and-moldflow-to-ls-prepost/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Импорт данных изготовления композитов в LS-PrePost - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Оптимизация топологии для ортотропных материалов</title>
-      <link>http://localhost:1313/posts/2020-03-25-optimizatsiya-topologii-dlya-ortotropnyh-ma/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-25-optimizatsiya-topologii-dlya-ortotropnyh-ma/</link>
       <pubDate>Wed, 25 Mar 2020 13:50:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-03-25-optimizatsiya-topologii-dlya-ortotropnyh-ma/</guid>
-      <description>&lt;p&gt;#BetaCAE #composite #Epilysis #optimization #Topology
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-25-optimizatsiya-topologii-dlya-ortotropnyh-ma/</guid>
+      <description>&lt;p&gt;Оптимизация топологии для ортотропных материалов
+#BetaCAE #composite #Epilysis #optimization #Topology
 by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/topology-optimization-and-material-orientation-on-orthotropic-materials/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Оптимизация топологии для ортотропных материалов - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Прямая КЭ гомогенизация средствами ANSYS Material Designer</title>
-      <link>http://localhost:1313/posts/2020-01-21-pryamaya-ke-gomogenizatsiya-sredstvami-ansys/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-01-21-pryamaya-ke-gomogenizatsiya-sredstvami-ansys/</link>
       <pubDate>Tue, 21 Jan 2020 13:00:19 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-01-21-pryamaya-ke-gomogenizatsiya-sredstvami-ansys/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-01-21-pryamaya-ke-gomogenizatsiya-sredstvami-ansys/</guid>
+      <description>&lt;p&gt;Прямая КЭ гомогенизация средствами ANSYS Material Designer&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/using-material-designer-to-perform-homogenization/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Прямая КЭ гомогенизация средствами ANSYS Material Designer - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS Composite Cure Simulation</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-15-ansys-composite-cure-simulation/</link>
+      <pubDate>Mon, 15 Jul 2019 17:00:34 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-15-ansys-composite-cure-simulation/</guid>
+      <description>&lt;p&gt;ANSYS Composite Cure Simulation&lt;/p&gt;
+&lt;p&gt;Полезная сотфинка для тех, кто работает с композитами, которые надо полимеризовать в автоклаве при особых условиях нагрева. Считает химию и остаточные деформации.&lt;/p&gt;
+&lt;p&gt;#ACCS #ANSYS #composite #Cure&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Bt&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Bt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Bt&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Bt&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование композитов в LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-28-modelirovanie-kompozitov-v-ls-dyna/</link>
+      <pubDate>Thu, 28 Mar 2019 17:00:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-28-modelirovanie-kompozitov-v-ls-dyna/</guid>
+      <description>&lt;p&gt;Моделирование композитов в LS-DYNA&lt;/p&gt;
+&lt;p&gt;Большой вебинар, рассказывающий о тонкостях создания моделей композитных изделий в LS-DYNA. Тут как всегда: главное, не запутаться с локальными и глобальными системами координат, а потом найти все необходимые трансверсально изотропные или вообще ортотропные свойства материала.&lt;/p&gt;
+&lt;p&gt;P.S. Спасибо ANSYS и EvEn за разработку и поддержку Composite PrepPost, и за то, что он умеет работать с LS-DYNA.&lt;/p&gt;
+&lt;p&gt;#ARUP #composite #LS_DYNA #Oasys&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2ru&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2ru&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2ru&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2ru&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS Material Designer</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-26-ansys-material-designer/</link>
+      <pubDate>Mon, 26 Nov 2018 17:00:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-26-ansys-material-designer/</guid>
+      <description>&lt;p&gt;ANSYS Material Designer
+Данная утилита очень здорово дополняет и без того обширные возможности платформы ANSYS по моделированию композитов. ANSYS Material Designer решает задачу подборки рецептуры композиционного материала и получения его эффективных свойств на основе прямой КЭ гомогенизации представительного элемента объема.&lt;/p&gt;
+&lt;p&gt;Что особенно приятно, так это то, что ANSYS одними только композитами не ограничился. Система умеет выдавать эффективные свойства и для ячеистых/сетчатых конструкций (lattice structure), а уже спроектировать конструкцию с lattice structure позволит система оптимизации топологии, идущая в любой механической лицензии на ПО.&lt;/p&gt;
+&lt;p&gt;#AdditiveManufacturing #ANSYS #Composite #Homogenization #LatticeStructure #MaterialDesigner #Optimization #Topology
+&lt;a href=&#34;http://bit.ly/2TLXlLx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2TLXlLx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2TLXlLx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2TLXlLx&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Новые возможности ANSYS по работе с материалами</title>
-      <link>http://localhost:1313/posts/2018-11-05-novye-vozmozhnosti-ansys-po-rabote-s-mate/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-05-novye-vozmozhnosti-ansys-po-rabote-s-mate/</link>
       <pubDate>Mon, 05 Nov 2018 17:01:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-11-05-novye-vozmozhnosti-ansys-po-rabote-s-mate/</guid>
-      <description>&lt;p&gt;Еще одно полезное видео от LEAP: на этот раз оно посвящено новым возможностям ANSYS в области работы с материалами. Коллеги расскажут про две новых фишки ANSYS:&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-05-novye-vozmozhnosti-ansys-po-rabote-s-mate/</guid>
+      <description>&lt;p&gt;Новые возможности ANSYS по работе с материалами
+Еще одно полезное видео от LEAP: на этот раз оно посвящено новым возможностям ANSYS в области работы с материалами. Коллеги расскажут про две новых фишки ANSYS:&lt;/p&gt;
 &lt;p&gt;Material Designer - модуль расчета прямой гомогенизации (получения эффективных свойств композита на основе испытания представительного элемента объема)
 Material Assignment Tool - новый механизм присваивания моделей материалов не на основе геометрических объектов, а через именованные выборки&lt;/p&gt;
 &lt;p&gt;Еще покажут как влияет учет драпировки на свойства изделий из текстильных композитов, но это уже хорошо известная возможность ACP.&lt;/p&gt;
 &lt;p&gt;#ACP #ANSYS #Composite #LEAP #MaterialAssignmentTool #MaterialDesigner #Mechanical
 &lt;a href=&#34;http://bit.ly/2D4uPyD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2D4uPyD&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2D4uPyD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2D4uPyD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Что новенького</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-09-19-chto-novenkogo/</link>
+      <pubDate>Wed, 19 Sep 2018 17:02:09 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-09-19-chto-novenkogo/</guid>
+      <description>&lt;p&gt;Что новенького
+Коллеги, я наконец вернулся из отпуска и даже справился с завалом на рабочем месте. Для возобновления публикаций у меня есть очень вкусный материал, который конечно стал для меня главным событием за последние 3 недели.
+Итак, по ссылке в конце поста вы сможете скачать презентацию от LSTC и ARUP не только по всем новым возможностям LS-DYNA R10, но и по грядущим разработкам R11. Внимание, презентация на 155 слайдов с кучей видео и анимации имеет объем почти 900 Мб (!!!). Но оно того стоит:&lt;/p&gt;
+&lt;p&gt;Моделирование электрической стимуляции сердца
+SPH сварка трением с перемешиванием
+Новые возможности LS-PrePost 4.6 для CFD
+Обновление возможностей в расчете неявной динамики со сложными контактами
+Изогеометрический анализ
+Бессеточные методы расчета хрупкого и пластического разрушения
+Нелинейная теория роста трещин
+Моделирование композитов с учетом взаимодействия всех волокон в матрице
+Оптимизация LS-Opt 6 в связке с ANSA
+Аддитивные технологии&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/jason/Slides/2018_LSTC_Keynote_20.pptx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/jason/Slides/2018_LSTC_Keynote_20.pptx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ARUP #Composite #LSDYNA #LSOPT #LSPrePost #LSTC #Peridynamics #SPH
+&lt;a href=&#34;http://bit.ly/2NmqMnQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NmqMnQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/jason/Slides/2018_LSTC_Keynote_20.pptx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/jason/Slides/2018_LSTC_Keynote_20.pptx&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2NmqMnQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NmqMnQ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lay-up Mapping в ANSYS ACP</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-09-03-lay-up-mapping-v-ansys-acp/</link>
+      <pubDate>Mon, 03 Sep 2018 18:01:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-09-03-lay-up-mapping-v-ansys-acp/</guid>
+      <description>&lt;p&gt;Lay-up Mapping в ANSYS ACP
+Отличное демонстрационное видео, показывающее работу новой функции ACP. Теперь, при переходе к solid композитам нам необязательно надо генерировать сетку из исходной shell. Мы можем сделать полностью независимую solid сетку в отдельной системе и пенерести на нее эффективные свойства композитной кладки.&lt;/p&gt;
+&lt;p&gt;Таким образом, мы получаем еще больше гибкости при построении КЭ модели композитной конструкции в solid постановке. И да, я эту фишку уже пробовал - все работает как заявлено. Но не стоит забывать, что время интерполяции свойств всегда будет зависеть о количества обрабатываемых элементов.&lt;/p&gt;
+&lt;p&gt;#ACP #ANSYS #Composite
+&lt;a href=&#34;http://bit.ly/2MIczRG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2MIczRG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2MIczRG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2MIczRG&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>eLamX²</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-04-elamx/</link>
+      <pubDate>Sat, 04 Aug 2018 18:01:02 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-04-elamx/</guid>
+      <description>&lt;p&gt;eLamX²
+Эта бесплатная кроссплатформенная разработка кафедры авиастроения Технического университета Дрездена позволит существенно упростить будни инженеров, занимающихся расчетами композиционных конструкций.&lt;/p&gt;
+&lt;p&gt;При беглом осмотре ПО видно, что оно умеет конструировать мультиаксиальные ткани, рассчитывать эффективные свойства пакетов, проверять устойчивость укладок, считать НДС и даже отображает основные критерии-индикаторы начала разрушения (first ply failure criterion).
+eLamX² в виде препоста сопрягается с LS-DYNA, ANSYS Mechanical, Nastran и Abaqus. Получается что-то вроде ANSYS Composite PrepPost, времен, когда его еще не купил ANSYS, и он был в разработке швейцарской фирмы EVAN.&lt;/p&gt;
+&lt;p&gt;Кстати, судя по скриншотам, у eLamX² есть довольно большая встроенная база материалов.
+&lt;a href=&#34;https://tu-dresden.de/ing/maschinenwesen/ilr/lft/elamx2/elamx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tu-dresden.de/ing/maschinenwesen/ilr/lft/elamx2/elamx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ABAQUS #ANSYS #Composite #ELamX #LSDYNA #NASTRAN
+&lt;a href=&#34;http://bit.ly/2OJjJ5F&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OJjJ5F&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://tu-dresden.de/ing/maschinenwesen/ilr/lft/elamx2/elamx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;eLamX²&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2OJjJ5F&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OJjJ5F&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вебинар по ACCS от CADFEM UK</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-24-vebinar-po-accs-ot-cadfem-uk/</link>
+      <pubDate>Tue, 24 Jul 2018 11:00:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-24-vebinar-po-accs-ot-cadfem-uk/</guid>
+      <description>&lt;p&gt;Вебинар по ACCS от CADFEM UK
+Чуть не пропустил! Сегодня вечером, с шести до семи, будет проходить бесплатный вебинар про моделирвоанию термополирезации композитов в ANSYS Composite Cure Simulation. Вебинар проводят CADFEM Ireland Ltd. совместно с CADFEM UK CAE Ltd.
+&lt;a href=&#34;https://www.cadfemukandireland.com/event_date/simulation-of-composite-structure-design-and-curing-with-ansys/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfemukandireland.com/event_date/simulation-of-composite-structure-design-and-curing-with-ansys/&lt;/a&gt;
+&lt;a href=&#34;http://www.lmat-uk.com/software/ansys-composite-cure-simulation/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lmat-uk.com/software/ansys-composite-cure-simulation/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ACCS #ACP #ACT #ANSYS #Composite #Cure
+&lt;a href=&#34;http://bit.ly/2Ocutcz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Ocutcz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cadfemukandireland.com/event_date/simulation-of-composite-structure-design-and-curing-with-ansys/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Simulation of Composite Structure Design and Curing with ANSYS - FEA, CFD and Explicit Dynamics&lt;/a&gt;
+&lt;a href=&#34;http://www.lmat-uk.com/software/ansys-composite-cure-simulation/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lmat-uk.com/software/ansys-composite-cure-simulation/&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2Ocutcz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Ocutcz&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Проектирование углепластикового спортивного диска</title>
-      <link>http://localhost:1313/posts/2018-04-26-proektirovanie-ugleplastikovogo-sportivn/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-26-proektirovanie-ugleplastikovogo-sportivn/</link>
       <pubDate>Thu, 26 Apr 2018 18:01:14 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-04-26-proektirovanie-ugleplastikovogo-sportivn/</guid>
-      <description>&lt;p&gt;Небольшое, но ёмкое видео, демонстрирующее возможности ANSYS Composite PrepPost по моделированию изделий из углепластика сложной формы. Ну а дальше все, как в лучших практиках: геометрия в SpaceClaim, сетка в ANSYS Meshing, структура композита в ACP, расчет в Mechanical&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-26-proektirovanie-ugleplastikovogo-sportivn/</guid>
+      <description>&lt;p&gt;Проектирование углепластикового спортивного диска&lt;/p&gt;
+&lt;p&gt;Небольшое, но ёмкое видео, демонстрирующее возможности ANSYS Composite PrepPost по моделированию изделий из углепластика сложной формы. Ну а дальше все, как в лучших практиках: геометрия в SpaceClaim, сетка в ANSYS Meshing, структура композита в ACP, расчет в Mechanical&lt;/p&gt;
 &lt;p&gt;Кроме того, не забываем о возможностях посчитать ударные нагрузки в Explicit STR или LS-DYNA или учесть возможное коробление при спекании в ANSYS Composite Cure Simulation (ASSC).
 #ACCS #ACP #ANSYS #composite #Mechanical&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Nz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Nz&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Nz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Nz&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Подборка видо по теме пробивания плетеной из кевларовых ните</title>
-      <link>http://localhost:1313/posts/2017-12-11-podborka-vido-po-teme-probivaniya-pleteno/</link>
+      <title>Подборка видо по теме пробивания плетеной из кевларовых нитей ткани (Kevlar Style 706) от Гуарана Нилаканта (Dr.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-11-podborka-vido-po-teme-probivaniya-pleteno/</link>
       <pubDate>Mon, 11 Dec 2017 17:15:29 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-12-11-podborka-vido-po-teme-probivaniya-pleteno/</guid>
-      <description>&lt;p&gt;#composite #Kevlar
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-11-podborka-vido-po-teme-probivaniya-pleteno/</guid>
+      <description>&lt;p&gt;Gaurav Nilakantan) - он реально замет толк в #LSDYNA и композитах.&lt;/p&gt;
+&lt;p&gt;#composite #Kevlar
 &lt;a href=&#34;http://ift.tt/2iRiRgH&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2iRiRgH&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=FEZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=FEZ&lt;/a&gt;…
 &lt;a href=&#34;https://www.youtube.com/watch?v=HIW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=HIW&lt;/a&gt;…
 &lt;a href=&#34;https://www.youtube.com/watch?v=hpJ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=hpJ&lt;/a&gt;…
 &lt;a href=&#34;https://www.youtube.com/watch?v=8WK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=8WK&lt;/a&gt;…
 &lt;a href=&#34;https://www.youtube.com/watch?v=Edu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Edu&lt;/a&gt;…MediaMedia🔗 Ballistic Impact of Corner-Clamped Kevlar Fabric using LS-DYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vlBJYZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlBJYZ&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=FEZfOlU-_wQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=FEZfOlU-_wQ&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=HIWZNjk5aLY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=HIWZNjk5aLY&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=hpJlT6OSNQk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=hpJlT6OSNQk&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=8WKQN6mls8c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=8WKQN6mls8c&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=EduMgYUrgd4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=EduMgYUrgd4&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=HIWZNjk5aLY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=HIWZNjk5aLY&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Видео урок по работе с #ACCS (#ANSYS #Composite #Cure Simula</title>
-      <link>http://localhost:1313/posts/2017-11-23-video-urok-po-rabote-s-accs-ansys-co/</link>
+      <title>Видео урок по работе с #ACCS (#ANSYS #Composite #Cure Simulation).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-23-video-urok-po-rabote-s-accs-ansys-co/</link>
       <pubDate>Thu, 23 Nov 2017 17:05:34 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-23-video-urok-po-rabote-s-accs-ansys-co/</guid>
-      <description>&lt;p&gt;На вход в расчет вы подаете тепловой режим в автоклаве и свойства смол. На выходе вы получаете информацию о итогах полимеризации, и о том, какие остаточные деформации наблюдаются в конструкции.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-23-video-urok-po-rabote-s-accs-ansys-co/</guid>
+      <description>&lt;p&gt;ACCS работает на базе технологий компании #LMAT (Leat Manufacturing &amp;amp; Assembly Technologies Ltd) и позволяет моделировать процесс термической полимеризации/вулканизации изделий из композиционных материалов. ACCS доступен в составе ANSYS в видео отдельно модуля с #ACT расширением начиная с 17-ой версии, то есть уже почти 2 года.&lt;/p&gt;
+&lt;p&gt;На вход в расчет вы подаете тепловой режим в автоклаве и свойства смол. На выходе вы получаете информацию о итогах полимеризации, и о том, какие остаточные деформации наблюдаются в конструкции.&lt;/p&gt;
 &lt;p&gt;#composite&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Huf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Huf&lt;/a&gt;…Media📼 ANSYS ACCS: Simulation of a Composite Rib Using AN…&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ift.tt/2zwTrQ4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zwTrQ4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2mT8iym&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2mT8iym&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zwWTKJ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zwWTKJ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2mWjr1s&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2mWjr1s&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zwTonm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zwTonm&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vlt08X&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlt08X&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2eTSSqj&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2eTSSqj&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=HufoH6O1ntM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=HufoH6O1ntM&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2mUALUI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2mUALUI&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zwTrQ4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zwTrQ4&lt;/a&gt;
+ttp://ift.tt/2zwTrQ4&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Среди большого набора #ACT расширений для #ANSYS сегодня я н</title>
-      <link>http://localhost:1313/posts/2017-11-14-sredi-bolshogo-nabora-act-rasshireniy-dl/</link>
+      <title>Среди большого набора #ACT расширений для #ANSYS сегодня я нашел кое-что очень полезное для людей занимающихся композитами.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-14-sredi-bolshogo-nabora-act-rasshireniy-dl/</link>
       <pubDate>Tue, 14 Nov 2017 17:11:05 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-14-sredi-bolshogo-nabora-act-rasshireniy-dl/</guid>
-      <description>&lt;ul&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-14-sredi-bolshogo-nabora-act-rasshireniy-dl/</guid>
+      <description>&lt;p&gt;Расширение &amp;ldquo;Multiscale Analysis System&amp;rdquo; от #Сybernet Systems умеет:&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;генерировать геометрию представительных элемент объема композита или ячеек периодичности&lt;/li&gt;
 &lt;li&gt;выполнять прямую КЭ гомогенизации для представительного элемента&lt;/li&gt;
 &lt;li&gt;записывать полученные таким образом эффективные свойства композита прямо в библиотеку материалов проекта #Workbench&lt;/li&gt;
@@ -167,40 +377,64 @@ Material Assignment Tool - новый механизм присваивания 
 &lt;p&gt;P.S. В дистрибутиве с дополнением есть 3 видео урока!&lt;/p&gt;
 &lt;p&gt;#composite #Homogenization #композиты
 &lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-302&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-302&lt;/a&gt; 🔗 ANSYS Estore&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vlt08X&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlt08X&lt;/a&gt;
+&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-302&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-302&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Все всех покупают. Я вот например и не знал, что #Altair при</title>
-      <link>http://localhost:1313/posts/2017-10-01-vse-vseh-pokupayut-ya-vot-naprimer-i-ne-z/</link>
+      <title>Все всех покупают.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-01-vse-vseh-pokupayut-ya-vot-naprimer-i-ne-z/</link>
       <pubDate>Sun, 01 Oct 2017 17:04:58 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-10-01-vse-vseh-pokupayut-ya-vot-naprimer-i-ne-z/</guid>
-      <description>&lt;p&gt;P.S.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-01-vse-vseh-pokupayut-ya-vot-naprimer-i-ne-z/</guid>
+      <description>&lt;p&gt;Я вот например и не знал, что #Altair прикупил себе #Componeering Inc. - разработчика #ESAComp. ESAComp, в свою очередь, один из стандартов по работе с текстильным композитными моделями, как и #ANSYS Composite PrepPost или #Siemens #Fibersim.&lt;/p&gt;
+&lt;p&gt;P.S.
 Теперь у Altair есть сразу и своей модуль по работе с композитами, и минское подразделение Altair Engineering Finland Oy.&lt;/p&gt;
 &lt;p&gt;Очень напоминает, как ANSYS купил компанию EVAN и получил сразу и Composite PrepPost, и ANSYS Switzerland.&lt;/p&gt;
 &lt;p&gt;#composite&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/15675/Altair-Invests-in-Composite-Structural-Analysis-with-ESAComp.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/15675/Altair-Invests-in-Composite-Structural-Analysis-with-ESAComp.aspx&lt;/a&gt; 🔗 Altair Invests in Composite Structural Analysis with ESAComp &amp;gt; ENGINEERING.com&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2voTLJC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2voTLJC&lt;/a&gt;
+&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/15675/Altair-Invests-in-Composite-Structural-Analysis-with-ESAComp.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/15675/Altair-Invests-in-Composite-Structural-Analysis-with-ESAComp.aspx&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>#ESAComp в новой версии получил возможность считать расслоен</title>
-      <link>http://localhost:1313/posts/2017-09-25-esacomp-v-novoy-versii-poluchil-vozmozhno/</link>
+      <title>#ESAComp в новой версии получил возможность считать расслоение композитов на основе Strain Energy Release Rate (#SERR).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-25-esacomp-v-novoy-versii-poluchil-vozmozhno/</link>
       <pubDate>Mon, 25 Sep 2017 17:00:59 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-09-25-esacomp-v-novoy-versii-poluchil-vozmozhno/</guid>
-      <description>&lt;p&gt;#composite #debonding #delamination&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-25-esacomp-v-novoy-versii-poluchil-vozmozhno/</guid>
+      <description>&lt;p&gt;А еще они внесли данные по для расчета данного типа разрушения в свою базу материалов.&lt;/p&gt;
+&lt;p&gt;#composite #debonding #delamination&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.esacomp.com/home/1-news/153-esacomp-47-delamination&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.esacomp.com/home/1-news/153-esacomp-47-delamination&lt;/a&gt; 🔗 ESAComp introduces &amp;rsquo;through-the-width&amp;rsquo; debonding/delamination analysis&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2xB4oxE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xB4oxE&lt;/a&gt;
+&lt;a href=&#34;http://www.esacomp.com/home/1-news/153-esacomp-47-delamination&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.esacomp.com/home/1-news/153-esacomp-47-delamination&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Учебное видео на тему работы с #ANSYS #Composite #Cure #Simu</title>
-      <link>http://localhost:1313/posts/2017-08-14-uchebnoe-video-na-temu-raboty-s-ansys-c/</link>
+      <title>#composite #theory of #ANSYS Composite PrePost (ACP)Media💾 CompositesWorkshop_ANSYS_DAF.pdf</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-09-composite-theory-of-ansys-composite-p/</link>
+      <pubDate>Sat, 09 Sep 2017 09:38:06 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-09-composite-theory-of-ansys-composite-p/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://ift.tt/2gR7bt1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2gR7bt1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2eTSSqj&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2eTSSqj&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2jdGXoV&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2jdGXoV&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2jdGXVX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2jdGXVX&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xlpwJ2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xlpwJ2&lt;/a&gt;
+ttp://ift.tt/2gR7bt1&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учебное видео на тему работы с #ANSYS #Composite #Cure #Simulation (#ACCS) - программного обеспечения математического моделирования процессов термической полимеризации композиционных материалов на основе технологий компании #LMAT (Lean Manufacturing &amp; Assembly Technologies http://www.lmat-uk.com/).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-14-uchebnoe-video-na-temu-raboty-s-ansys-c/</link>
       <pubDate>Mon, 14 Aug 2017 17:01:16 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-08-14-uchebnoe-video-na-temu-raboty-s-ansys-c/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-14-uchebnoe-video-na-temu-raboty-s-ansys-c/</guid>
       <description>&lt;p&gt;Типичный цикл моделирования выглядит примерно следующим образом:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Выбор математических моделей материлов из базы #ACCS&lt;/li&gt;
@@ -208,16 +442,20 @@ Material Assignment Tool - новый механизм присваивания 
 &lt;li&gt;Решение нестационарной задачи теплопроводности (#Transient #Thermal) для описания процесса термической полимеризации в автоклаве&lt;/li&gt;
 &lt;li&gt;Решение статической задачи механики (#Static #Structural) для определения деформаций конструкции в следствии теплового расширения и возможной неравномерной полимеризации. &lt;a href=&#34;https://youtu.be/HufoH6O1ntM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/HufoH6O1ntM&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.lmat-uk.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Home&lt;/a&gt;
+&lt;a href=&#34;http://www.lmat-uk.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lmat-uk.com/&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/HufoH6O1ntM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/HufoH6O1ntM&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>История успеха с кубка Америки по яхтенному спорту 2017</title>
-      <link>http://localhost:1313/posts/2017-07-17-istoriya-uspeha-s-kubka-ameriki-po-yahtenn/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-17-istoriya-uspeha-s-kubka-ameriki-po-yahtenn/</link>
       <pubDate>Mon, 17 Jul 2017 17:00:46 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-07-17-istoriya-uspeha-s-kubka-ameriki-po-yahtenn/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.ansys-blog.com/emirates-team-new-zealand-wins-2017-americas-cup/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/emirates-team-new-zealand-wins-2017-americas-cup/&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-17-istoriya-uspeha-s-kubka-ameriki-po-yahtenn/</guid>
+      <description>&lt;p&gt;История успеха с кубка Америки по яхтенному спорту 2017
+&lt;a href=&#34;http://www.ansys-blog.com/emirates-team-new-zealand-wins-2017-americas-cup/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/emirates-team-new-zealand-wins-2017-americas-cup/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ANSYS рассказывает о том, как его технологии помогли команде Emirates Team New Zealand победить в самой престижной гонке на скоростных парусных судах. Расчетами занимались инженеры австралийского партнера - компании #LEAP Australia&lt;/p&gt;
 &lt;p&gt;Пригодилось много чего:&lt;/p&gt;
 &lt;ul&gt;
@@ -227,75 +465,198 @@ Material Assignment Tool - новый механизм присваивания 
 &lt;li&gt;ANSYS #DesignXplorer - оптимизация и робастрое проектирование&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href=&#34;https://youtu.be/xXWGSvJRACE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/xXWGSvJRACE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys-blog.com/emirates-team-new-zealand-wins-2017-americas-cup/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Emirates Team New Zealand Wins the 2017 America’s Cup&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/xXWGSvJRACE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/xXWGSvJRACE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Лекция по ACP</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-01-25-lektsiya-po-acp/</link>
+      <pubDate>Wed, 25 Jan 2017 17:01:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-01-25-lektsiya-po-acp/</guid>
+      <description>&lt;p&gt;Лекция по ACP
+&lt;a href=&#34;https://www.youtube.com/watch?v=MxyVEEOlEJc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=MxyVEEOlEJc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;35-ти минутная видео лекция по работе с #ANSYS #Composite PrepPost (#ACP) - очень подробно разобрано все, от концепции построения проекта, до содания и расчет простейшей модели. Новичкам в #ACP смотреть!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MxyVEEOlEJc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=MxyVEEOlEJc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MxyVEEOlEJc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=MxyVEEOlEJc&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование пропитки композитов</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-03-modelirovanie-propitki-kompozitov/</link>
+      <pubDate>Thu, 03 Nov 2016 17:00:45 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-03-modelirovanie-propitki-kompozitov/</guid>
+      <description>&lt;p&gt;Моделирование пропитки композитов
+&lt;a href=&#34;https://www.youtube.com/watch?v=SpIXOfVEBvE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=SpIXOfVEBvE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#RTM - это когда моделируется процесс пропитки композитов связующими смолами (Resin Transfer Molding). Ребята из #LSTC показали как посчитать это в #CFD модуле #LSDYNA через фильтрацию в пористых средах. Несимметричный результат - следствие анизотропной пористости.&lt;/p&gt;
+&lt;p&gt;#ICFD #composite
+&lt;a href=&#34;https://www.youtube.com/watch?v=SpIXOfVEBvE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=SpIXOfVEBvE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=SpIXOfVEBvE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LS-DYNA CFD : Resin Transfer Molding Application (RTM)&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Открытая лекция по композитам в питерском Политехе</title>
-      <link>http://localhost:1313/posts/2016-10-27-otkrytaya-lektsiya-po-kompozitam-v-pitersko/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-27-otkrytaya-lektsiya-po-kompozitam-v-pitersko/</link>
       <pubDate>Thu, 27 Oct 2016 17:01:15 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-10-27-otkrytaya-lektsiya-po-kompozitam-v-pitersko/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://iamt.timepad.ru/event/389645/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://iamt.timepad.ru/event/389645/&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-27-otkrytaya-lektsiya-po-kompozitam-v-pitersko/</guid>
+      <description>&lt;p&gt;Открытая лекция по композитам в питерском Политехе
+&lt;a href=&#34;https://iamt.timepad.ru/event/389645/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://iamt.timepad.ru/event/389645/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Новость - копипаст: в СПбПУ Петра Великого пройдет серия открытых лекций профессора Франка Хенинга, о современных технологических трендах в применении композиционных материалов. Я наверно пойду.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://iamt.timepad.ru/event/389645/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;В СПбПУ Петра Великого пройдет серия открытых лекций профессора Франка Хенинга, о современных технологических трендах в применении композиционных материалов / События на TimePad.ru&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Заметка на портале #Autodesk о том, как идентифицировать пар</title>
-      <link>http://localhost:1313/posts/2016-07-22-zametka-na-portale-autodesk-o-tom-kak/</link>
+      <title>Лекции по композитам</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-15-lektsii-po-kompozitam/</link>
+      <pubDate>Sat, 15 Oct 2016 17:01:53 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-15-lektsii-po-kompozitam/</guid>
+      <description>&lt;p&gt;Лекции по композитам
+&lt;a href=&#34;https://www.youtube.com/watch?v=eJESAmLOgpg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=eJESAmLOgpg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В середине сентября в Политехе Петра Великого прошла большая открытая лекция профессора профессора Католического Университета Лёвена (K. U. Leuven, Бельгия) Степана Владимировича Ломова, посвященному моделированию структуры и механических свойств волокнистых композитов (от нано- до макроуровня). Профессор Ломов - выпускники Политеха, руководитель одной из самых авторитетных лабораторий по композитам. Мне даже посчастливилось стажироваться у него пару недель сразу после магистратуры.&lt;/p&gt;
+&lt;p&gt;Всем смотреть актуальное состояние композитной науки!
+#composite&lt;/p&gt;
+&lt;p&gt;Часть 1. &lt;a href=&#34;https://www.youtube.com/watch?v=eJESAmLOgpg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=eJESAmLOgpg&lt;/a&gt;
+Часть 2. &lt;a href=&#34;https://www.youtube.com/watch?v=ff_UbKhdhm8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ff_UbKhdhm8&lt;/a&gt;
+Часть 3. &lt;a href=&#34;https://www.youtube.com/watch?v=NXf-HF8M3gA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=NXf-HF8M3gA&lt;/a&gt;
+Часть 4. &lt;a href=&#34;https://www.youtube.com/watch?v=_AWpU1aEAXc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=_AWpU1aEAXc&lt;/a&gt;
+Часть 5. &lt;a href=&#34;https://www.youtube.com/watch?v=GOCNkmddEsE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=GOCNkmddEsE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=eJESAmLOgpg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ИППТ СПбПУ. Лекции C. Ломова по моделированию волокнистых композитов. Часть 1&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=ff_UbKhdhm8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ff_UbKhdhm8&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=NXf-HF8M3gA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=NXf-HF8M3gA&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=_AWpU1aEAXc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=_AWpU1aEAXc&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=GOCNkmddEsE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=GOCNkmddEsE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Расчеты композитов в облаке</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-14-raschety-kompozitov-v-oblake/</link>
+      <pubDate>Sun, 14 Aug 2016 12:02:55 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-14-raschety-kompozitov-v-oblake/</guid>
+      <description>&lt;p&gt;Расчеты композитов в облаке
+&lt;a href=&#34;http://www.deskeng.com/de/design-composites-in-the-cloud/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.deskeng.com/de/design-composites-in-the-cloud/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Компания CompoSIDE Ltd. производит вполне себе взрослы обношенный продукт #CompoSIDE v2.8.2 - облачный сервис, который позволяет проектировать изделия из композиционных материалов и, при этом, работает прямо в браузере. Естественно, ваш браузер ничего считать не станет - просто само ПО работает в облаке и имеет Web UI.&lt;/p&gt;
+&lt;p&gt;#composite #cloud&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.deskeng.com/de/design-composites-in-the-cloud/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.deskeng.com/de/design-composites-in-the-cloud/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.deskeng.com/de/design-composites-in-the-cloud/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Design Composites in the Cloud&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Заметка на портале #Autodesk о том, как идентифицировать параметры когезивного слоя для композитов на основе реальный и численных экспериметнов. #FEM для тех кто по проще.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-22-zametka-na-portale-autodesk-o-tom-kak/</link>
       <pubDate>Fri, 22 Jul 2016 06:30:03 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-07-22-zametka-na-portale-autodesk-o-tom-kak/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-22-zametka-na-portale-autodesk-o-tom-kak/</guid>
       <description>&lt;p&gt;#composite #cohesive #czm&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lnk.al/1QyP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1QyP&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lnk.al/1QyP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1QyP&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Давно у меня не было работ от Predictive Engineering. После </title>
-      <link>http://localhost:1313/posts/2016-06-08-davno-u-menya-ne-bylo-rabot-ot-predictive/</link>
+      <title>Давно у меня не было работ от Predictive Engineering.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-08-davno-u-menya-ne-bylo-rabot-ot-predictive/</link>
       <pubDate>Wed, 08 Jun 2016 07:00:23 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-06-08-davno-u-menya-ne-bylo-rabot-ot-predictive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Комания #MultiMechanics объявила об интеграции своего продук</title>
-      <link>http://localhost:1313/posts/2016-05-02-komaniya-multimechanics-obyavila-ob-inte/</link>
-      <pubDate>Mon, 02 May 2016 17:53:50 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/2016-05-02-komaniya-multimechanics-obyavila-ob-inte/</guid>
-      <description>&lt;p&gt;По описанию и демонстрационным роликам MultiMech позволяет делать гомогенизацию и гетерогенизацию для композитов, учитывать направления волокон на основе данных о технологии заливки связующего и делать еще много чего другого полезного. Чем-то он мне напомнил #DIGIMAT.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-08-davno-u-menya-ne-bylo-rabot-ot-predictive/</guid>
+      <description>&lt;p&gt;После долгого перерыва ребята порадовали большим видно с рассказом о их расчете композитного контейнера в  LS-DYNA. В качестве препроцессора опять их любимый #FEMAP. Композиты считаются с учетом прогрессивного разрушения по критик Цая-Ву.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=IJakSIDvnIE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Structural Analysis of Large Composite Container&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Нашел на просторах сети большущий (более часа!) семинар по р</title>
-      <link>http://localhost:1313/posts/2016-03-11-nashel-na-prostorah-seti-bolshuschiy-bolee/</link>
+      <title>#ANSYS #ACP (который #Composite #PrepPost) в 17-ой версии получил интеграцию с программным обеспечением #BECAS (BEam Cross section Analysis Software), широко применяемым при моделировании лопастей ветрогенераторов.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-29-ansys-acp-kotoryy-composite-preppos/</link>
+      <pubDate>Sun, 29 May 2016 09:14:41 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-29-ansys-acp-kotoryy-composite-preppos/</guid>
+      <description>&lt;p&gt;Данная комбинация программ позволяет создать балочные модели на основе набора печений оболочечных композиционных моделей.&lt;/p&gt;
+&lt;p&gt;Сам BECAS распространяется, в исходных кодах (для #MATLAB !!!) или в скомпилированном виде и доступен бесплатно для научно-исследовательской (не коммерческой) деятельности.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.becas.dtu.dk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;BECAS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Комания #MultiMechanics объявила об интеграции своего продукта #MultiMech в среду #ANSYS.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-02-komaniya-multimechanics-obyavila-ob-inte/</link>
+      <pubDate>Mon, 02 May 2016 17:53:50 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-02-komaniya-multimechanics-obyavila-ob-inte/</guid>
+      <description>&lt;p&gt;Из описания можно сделать вывод, что #ACT будет доступен в ближайшем месяце на портале поддержки ANSYS.&lt;/p&gt;
+&lt;p&gt;По описанию и демонстрационным роликам MultiMech позволяет делать гомогенизацию и гетерогенизацию для композитов, учитывать направления волокон на основе данных о технологии заливки связующего и делать еще много чего другого полезного. Чем-то он мне напомнил #DIGIMAT.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://info.multimechanics.com/ansys-news&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MultiMech for Ansys News&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Нашел на просторах сети большущий (более часа!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-11-nashel-na-prostorah-seti-bolshuschiy-bolee/</link>
       <pubDate>Fri, 11 Mar 2016 07:00:27 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-03-11-nashel-na-prostorah-seti-bolshuschiy-bolee/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-11-nashel-na-prostorah-seti-bolshuschiy-bolee/</guid>
+      <description>&lt;p&gt;) семинар по работе с композитами в #Femap. В качестве решателя, для которого ставятся задачи выступает #NX #NASTRAN. Семинар ведут специалисты Predictive Engineering - спецы в NX, LS-DYNA и Femap.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=s03pDV-a75U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Predictive Engineering - Composite Laminate Modeling Seminar - November 20, 2014&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#composite</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-29-composite/</link>
+      <pubDate>Tue, 29 Dec 2015 04:10:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-29-composite/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Команда Lotus F1 рекламирует #Siemens #Fibersim - основного </title>
-      <link>http://localhost:1313/posts/2015-12-07-komanda-lotus-f1-reklamiruet-siemens-f/</link>
+      <title>Команда Lotus F1 рекламирует #Siemens #Fibersim - основного конкурента #ANSYS #ACP.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-07-komanda-lotus-f1-reklamiruet-siemens-f/</link>
       <pubDate>Mon, 07 Dec 2015 18:00:41 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-12-07-komanda-lotus-f1-reklamiruet-siemens-f/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-07-komanda-lotus-f1-reklamiruet-siemens-f/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=WG2rS7_OSIM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Lotus F1 Team Pushes the Limits with Composites&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Почитал немного про #NX Laminate Composites - главный модуль #Siemens по работе с композитами.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-28-pochital-nemnogo-pro-nx-laminate-composi/</link>
+      <pubDate>Sat, 28 Nov 2015 18:00:53 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-28-pochital-nemnogo-pro-nx-laminate-composi/</guid>
+      <description>&lt;p&gt;Не впечатлило - либо статья унылая, либо сам продукт унылый. Никаких тебе технических инноваций, никаких хитрых моделей. #ANSYS #ACP рулит ИМХО 😊&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/10514/Composite-Simulation-in-CAD-Improves-Analysis-Productivity.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt; Composite Simulation in CAD Improves Analysis Productivity &amp;gt; ENGINEERING.com &lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20200815030556/https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/10514/Composite-Simulation-in-CAD-Improves-Analysis-Productivity.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#ANSYS #ACP #Composite</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-17-ansys-acp-composite/</link>
+      <pubDate>Tue, 17 Nov 2015 12:37:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-17-ansys-acp-composite/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Почитал немного про #NX Laminate Composites - главный модуль</title>
-      <link>http://localhost:1313/posts/2015-11-28-pochital-nemnogo-pro-nx-laminate-composi/</link>
-      <pubDate>Sat, 28 Nov 2015 18:00:53 +0000</pubDate>
+      <title>Пригодится!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-14-prigoditsya-lib-composite/</link>
+      <pubDate>Wed, 14 Oct 2015 02:52:06 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-28-pochital-nemnogo-pro-nx-laminate-composi/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-14-prigoditsya-lib-composite/</guid>
+      <description>&lt;p&gt;#lib #composite&lt;/p&gt;
+</description>
     </item>
     
   </channel>

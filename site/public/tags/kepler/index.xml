@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kepler on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/kepler/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Kepler)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 17 Apr 2017 08:01:49 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/kepler/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GPU для сыпучих сред</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-17-gpu-dlya-sypuchih-sred/</link>
+      <pubDate>Mon, 17 Apr 2017 08:01:49 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-17-gpu-dlya-sypuchih-sred/</guid>
+      <description>&lt;p&gt;GPU для сыпучих сред
+&lt;a href=&#34;https://www.cadfem-cis.ru/list/article/rocky-nvidia-gpu/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/list/article/rocky-nvidia-gpu/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Мы тут #Rocky #DEM тестировали на новых #GPGPU от #NVIDIA - получилось любопытно. Основных мысли три:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;DEM просто создан для #GPU, особенно Rocky&lt;/li&gt;
+&lt;li&gt;Новые GPU на базе архитектуры #Pscal в разы уделывают #Kepler&lt;/li&gt;
+&lt;li&gt;И да, у нас была внутренняя alpha версия Rocky, на которой удалось проверить работу с несколькими GPU - все работает и хорошо!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=93qJovCA6pI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=93qJovCA6pI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cadfem-cis.ru/list/article/rocky-nvidia-gpu/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Численные расчеты сыпучих сред на GPU&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=93qJovCA6pI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=93qJovCA6pI&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

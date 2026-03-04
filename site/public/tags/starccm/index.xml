@@ -1,74 +1,216 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>StarCCM on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/starccm/</link>
-    <description>MagicDPD: Magic Driven Product Development! (StarCCM)</description>
+    <title>STARCCM on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/starccm/</link>
+    <description>MagicDPD: Magic Driven Product Development! (STARCCM)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 07 Apr 2022 17:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Apr 2022 17:00:05 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/starccm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/starccm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>#МАГАТЭ расскажет, как использовать #CFD коды для расчетов #</title>
-      <link>http://localhost:1313/posts/2022-04-07-magate-rasskazhet-kak-ispolzovat-cfd/</link>
+      <title>Для меня стало большой новостью, что только в этом году компания #Siemens таки смогла завести поддержку #GPU от #NVIDIA в свой флагманский #CFD решатель #Simcenter #STARCCM&#43; 2022.1. Стоит отметить, что у основного конкурента - #Ansys #Fluent поддержка GPU появилась чуть ли не 5 лет назад. Так что я как-то в замешательстве, как так получилось?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-21-dlya-menya-stalo-bolshoy-novostyu-chto-tol/</link>
+      <pubDate>Thu, 21 Apr 2022 17:00:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-21-dlya-menya-stalo-bolshoy-novostyu-chto-tol/</guid>
+      <description>&lt;p&gt;#HPC &lt;a href=&#34;https://www.plm.automation.siemens.com/global/ru/our-story/newsroom/simcenter-star-ccm-cfd-gpu-nvidia/105875&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.plm.automation.siemens.com/global/ru/our-story/newsroom/simcenter-star-ccm-cfd-gpu-nvidia/105875&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.plm.automation.siemens.com/global/ru/our-story/newsroom/simcenter-star-ccm-cfd-gpu-nvidia/105875&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.plm.automation.siemens.com/global/ru/our-story/newsroom/simcenter-star-ccm-cfd-gpu-nvidia/105875&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#МАГАТЭ расскажет, как использовать #CFD коды для расчетов #АЭС в 2022 году!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-07-magate-rasskazhet-kak-ispolzovat-cfd/</link>
       <pubDate>Thu, 07 Apr 2022 17:00:14 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-04-07-magate-rasskazhet-kak-ispolzovat-cfd/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-07-magate-rasskazhet-kak-ispolzovat-cfd/</guid>
       <description>&lt;p&gt;В данной публикации представлены результаты координируемого МАГАТЭ исследовательского проекта (CRP) по применению кодов вычислительной гидродинамики (CFD) для проектирования атомных электростанций. Основная цель заключалась в сравнении CFD-кодов, вариантов моделей и методов с экспериментальными данными CFD в условиях однофазного потока. В данной публикации обобщены текущие возможности и способы применения CFD-кодов, а также их текущий уровень квалификации в отношении требований к проектированию атомных электростанций. Она не претендует на всеобъемлющий характер, а сосредоточена на международном опыте практического применения этих инструментов при проектировании компонентов и систем атомных электростанций. Руководство в данной публикации основано на материалах, предоставленных международными экспертами атомной промышленности, непосредственно участвующими в вопросах проектирования атомных электростанций, применения CFD, а также в соответствующих экспериментах и валидации, выделенных в ходе CRP.&lt;/p&gt;
 &lt;p&gt;Чаще всего упоминаются наши любимые коды: #Ansys #Fluent и #CFX, #Siemens #StarCCM+, #OpenFOAM &lt;a href=&#34;https://www.iaea.org/publications/14718/summary-review-on-the-application-of-computational-fluid-dynamics-in-nuclear-power-plant-design&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.iaea.org/publications/14718/summary-review-on-the-application-of-computational-fluid-dynamics-in-nuclear-power-plant-design&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.iaea.org/publications/14718/summary-review-on-the-application-of-computational-fluid-dynamics-in-nuclear-power-plant-design&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Summary Review on the Application of Computational Fluid Dynamics in Nuclear Power Plant Design&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Самый-самый CFD решатель</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-19-samyy-samyy-cfd-reshatel/</link>
+      <pubDate>Fri, 19 Apr 2019 17:00:33 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-19-samyy-samyy-cfd-reshatel/</guid>
+      <description>&lt;p&gt;Самый-самый CFD решатель&lt;/p&gt;
+&lt;p&gt;Итак, сайт Resolved Analytics занимается тем, что собирает отзывы пользователей о их CFD инструментах. У них есть очень горячий материал по сравнению популярности основных CFD кодов (&lt;a href=&#34;https://www.resolvedanalytics.com/theflux/comparing-cfd-software%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.resolvedanalytics.com/theflux/comparing-cfd-software)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Итак, тройка лидеров ясна: Fluent, Star-CCM+ и OpenFOAM. Но вот отрыв Fluent меня немного смущает.&lt;/p&gt;
+&lt;p&gt;#CFD #Fluent #OpenFOAM #StarCCM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2tX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2tX&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.resolvedanalytics.com/theflux/comparing-cfd-software&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.resolvedanalytics.com/theflux/comparing-cfd-software&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2tX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2tX&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Про MpCCI подробнее</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-21-pro-mpcci-podrobnee/</link>
+      <pubDate>Wed, 21 Nov 2018 17:01:36 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-21-pro-mpcci-podrobnee/</guid>
+      <description>&lt;p&gt;Про MpCCI подробнее
+MpCCI - система, позволяющая связывать работы нескольких расчетных кодов в разных областях физики, для решения сложных междисциплинарных задач.&lt;/p&gt;
+&lt;p&gt;В новом вебинаре коллеги не только рассказывают об архитектуре ПО, но показывают примеры работы: связка Abaqus и различных CFD кодов (Fluent, OpenFOAM, STAR-CCM+).&lt;/p&gt;
+&lt;p&gt;#ABAQUS #Fluent #FSI #MpCCI #OpenFOAM #STARCCM
+&lt;a href=&#34;http://bit.ly/2Qa5A52&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Qa5A52&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2Qa5A52&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2Qa5A52&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>На #SC17 #Rescale показал как выглядит работает их #HPC облако со стороны пользователей-инженеров.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-16-na-sc17-rescale-pokazal-kak-vyglyadit-r/</link>
+      <pubDate>Sat, 16 Dec 2017 17:18:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-16-na-sc17-rescale-pokazal-kak-vyglyadit-r/</guid>
+      <description>&lt;p&gt;В показе принимали участие #ANSYS #Fluent, #StarCCM+ и #LSTC #LSPP для #LSDYNA.&lt;/p&gt;
+&lt;p&gt;В целом - это просто большой и правильно настроенный вычислительный кластер. Нет ничего фантастического - есть много вдумчивой и аккуратно выполненной работы. Пожалуй все из показанного можно повторить в ЦОД вашего предприятия за две недели работы на готовом железе.&lt;/p&gt;
+&lt;p&gt;#cloud
+&lt;a href=&#34;https://www.youtube.com/watch?v=b7J&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=b7J&lt;/a&gt;…Media📼 Rescale Demos Easy HPC Cloud Management at SC17&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2yJQS87&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yJQS87&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2zX5PoD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zX5PoD&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2yJezxq&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yJezxq&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2emhAvW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2emhAvW&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wmHv13&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wmHv13&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2yIXZgT&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yIXZgT&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xRPO1U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xRPO1U&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2i0hIGl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i0hIGl&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vlBJYZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlBJYZ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2y2hFPP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2y2hFPP&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=b7JjCWsFCgM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=b7JjCWsFCgM&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2AXzcMc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2AXzcMc&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2yJQS87&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yJQS87&lt;/a&gt;
+ttp://ift.tt/2yJQS87&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>http://mdx2.plm.automation.siemens.com/blog/david-mann/star-</title>
-      <link>http://localhost:1313/posts/2017-07-02-httpmdx2plmautomationsiemenscomb/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-02-httpmdx2plmautomationsiemenscomb/</link>
       <pubDate>Sun, 02 Jul 2017 17:00:18 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-07-02-httpmdx2plmautomationsiemenscomb/</guid>
-      <description>&lt;p&gt;В STAR-CCM+ v12.04 в качестве демонстрации возможностей добавили возможность считать в #DEM постановке не сферические частицы по честному. По честному - это значит не как кластер из слепленных сферических частиц. До сего момента возможность использовать Polyhedral DEM была фишкой предыдущего релиза #ESSS #Rocky - в новом есть более интересные фокусы.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-02-httpmdx2plmautomationsiemenscomb/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://mdx2.plm.automation.siemens.com/blog/david-mann/star-ccm-v1204-preview-model-realistic-particle-shapes-polyhedral-dem-particles&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://mdx2.plm.automation.siemens.com/blog/david-mann/star-ccm-v1204-preview-model-realistic-particle-shapes-polyhedral-dem-particles&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В STAR-CCM+ v12.04 в качестве демонстрации возможностей добавили возможность считать в #DEM постановке не сферические частицы по честному. По честному - это значит не как кластер из слепленных сферических частиц. До сего момента возможность использовать Polyhedral DEM была фишкой предыдущего релиза #ESSS #Rocky - в новом есть более интересные фокусы.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://mdx2.plm.automation.siemens.com/blog/david-mann/star-ccm-v1204-preview-model-realistic-particle-shapes-polyhedral-dem-particles&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://mdx2.plm.automation.siemens.com/blog/david-mann/star-ccm-v1204-preview-model-realistic-particle-shapes-polyhedral-dem-particles&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Покупка CD-adapco обошлась Siemens меньше чем в 1 Instagram </title>
-      <link>http://localhost:1313/posts/2016-01-26-pokupka-cd-adapco-oboshlas-siemens-mensh/</link>
+      <title>True CFD из Питера!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-29-true-cfd-iz-pitera/</link>
+      <pubDate>Sat, 29 Oct 2016 17:00:34 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-29-true-cfd-iz-pitera/</guid>
+      <description>&lt;p&gt;True CFD из Питера!
+&lt;a href=&#34;http://www.spbstu.ru/media/news/nauka_i_innovatsii/andrey-garbaruk-about-trends-supercomputer-development/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.spbstu.ru/media/news/nauka_i_innovatsii/andrey-garbaruk-about-trends-supercomputer-development/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В свое время мне посчастливилось работать в смежной с Андреем Викторовичем Гарабаруком лаборатории, и я до сих пор горжусь знакомством с ним и с питерской лабораторией НТС (#NTS, Numerical Turbulence Simulation) из #СПбГПУ. Мне было очень приятно узнать, что доклад Андрея Викторовича &amp;ldquo;Опыт прямого численного моделирования турбулентности на суперкомпьютерах&amp;rdquo; был признан лучшим на конференции &amp;ldquo;Суперкомпьютерные дни в России&amp;rdquo; (Russian Supercomputing Days). Я был на этом докладе, и могу сказать, что рассказ о прямом моделировании турбулентности (aka #DNS) сделанный без формул и занудства - это что-то! У коллег уже несколько десятилетий разрабатывается свой код - NTS CFD Code - который легко может уделать и #Fluent и #StarCCM. Чего только стоят их 19 000 000 000 (миллиардов) ячеек в модели!&lt;/p&gt;
+&lt;p&gt;От души поздравляю Андрея Викторовича и лабораторию NTS!
+#cfd #legendpeople #HPC&lt;/p&gt;
+&lt;p&gt;Для заинтересованных - тезисы к докладу: &lt;a href=&#34;http://russianscdays.org/files/pdf16/357.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://russianscdays.org/files/pdf16/357.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.spbstu.ru/media/news/nauka_i_innovatsii/andrey-garbaruk-about-trends-supercomputer-development/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Андрей Гарбарук – о трендах развития суперкомпьютерной отрасли&lt;/a&gt;
+&lt;a href=&#34;http://russianscdays.org/files/pdf16/357.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://russianscdays.org/files/pdf16/357.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#CFD расчета для спорта</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-03-cfd-rascheta-dlya-sporta/</link>
+      <pubDate>Wed, 03 Aug 2016 06:30:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-03-cfd-rascheta-dlya-sporta/</guid>
+      <description>&lt;p&gt;#CFD расчета для спорта&lt;/p&gt;
+&lt;p&gt;Команда Land Rover BAR рассказывает о том как CFD расчеты помогают им в совершенствовании скоростного спортивного катамарана на подводных крыльях. Для своих расчетов они используют #StarCCM+ и все стандартные фишки #CAE для подобных задач: параметризация, вложенные сетки, #HPC.&lt;/p&gt;
+&lt;p&gt;Мне показалось очень странным, что для удаленной работы на кластере они используют #TurboVNC (а значит еще и #VirtualGL). По моим замерам в случае StarCCM удаленная визуализация VirtualGL уступает по производительности #NICE #DCV разва в 3.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ygg3NQGZWUU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Land Rover BAR, CD-adapco and Auld Mug&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вышел новый #STARCCM&#43; v11.04 - один из самых навороченых #CFD кодов.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-03-vyshel-novyy-starccm&#43;-v1104-odin-iz-s/</link>
+      <pubDate>Sun, 03 Jul 2016 18:01:12 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-03-vyshel-novyy-starccm&#43;-v1104-odin-iz-s/</guid>
+      <description>&lt;p&gt;Что характерно, это первый релиз данного ПО под крышей Siemens. Теперь STAR-CCM входит в так называемое  #Siemens #Simcente #Portfolio &lt;a href=&#34;http://www.cd-adapco.com/pr/star-ccm-v1104-empowers-engineers-make-critical-design-decisions-faster-and-confidence&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.cd-adapco.com/pr/star-ccm-v1104-empowers-engineers-make-critical-design-decisions-faster-and-confidence&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cd-adapco.com/pr/star-ccm-v1104-empowers-engineers-make-critical-design-decisions-faster-and-confidence&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;STAR-CCM+ v11.04 Empowers Engineers to Make Critical Design Decisions Faster and with Confidence | CD-adapco&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Тема от читателя (Alexander Zaytsev): иcтория успеха #StarCCM&#43;.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-26-tema-ot-chitatelya-alexander-zaytsev-ic/</link>
+      <pubDate>Fri, 26 Feb 2016 07:00:48 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-26-tema-ot-chitatelya-alexander-zaytsev-ic/</guid>
+      <description>&lt;p&gt;Этот замечательный #CFD код позволит Nissan Motorsports International Co., Ltd. победить в серии гонок Super GT.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.pmw-magazine.com/articles.php?ArticleID=1727&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Web Exclusive Articles : Professional Motorsport World&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>У #StarCCM&#43; появилась возможность моделировать #DEM цилиндрической формы.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-17-u-starccm&#43;-poyavilas-vozmozhnost-modeli/</link>
+      <pubDate>Wed, 17 Feb 2016 07:00:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-17-u-starccm&#43;-poyavilas-vozmozhnost-modeli/</guid>
+      <description>&lt;p&gt;Это очень здорово, однако надо помнить, что такой подход существенно медленнее чем сферические #DEM.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cd-adapco.com/blog/david-mann/star-ccm-v1102-preview-roll-dem-cylindrical-particles&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;STAR-CCM+ v11.02 Preview: On a Roll with DEM Cylindrical Particles | CD-adapco&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Покупка CD-adapco обошлась Siemens меньше чем в 1 Instagram (aka 1 миллиард долларов США). Вот так сейчас ценятся инженерные знания, чёртовы хипстеры!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-26-pokupka-cd-adapco-oboshlas-siemens-mensh/</link>
       <pubDate>Tue, 26 Jan 2016 07:45:44 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-01-26-pokupka-cd-adapco-oboshlas-siemens-mensh/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-26-pokupka-cd-adapco-oboshlas-siemens-mensh/</guid>
       <description>&lt;p&gt;Siemens прикупил себе CD-adapco. Напомню, что у Siemens сейчас есть #Nastran - старый и проверенный код для неявной механики. Причем он интегрирован с ранее приобретенной очень крутой #CAD системой #Unigraphic, которую с трудом догоняли такие звери как #Catia и Pro/E. Кроме того, #Siemens приобрел себе Samsef - французский код для механики, который лучше всех считает композиты. Teamcenter - вообще самый крутой на рынке PLM/PDM.&lt;/p&gt;
 &lt;p&gt;Добавим к этому портфолио #StarCCM+ - единственного серьезного конкурента #Fluent, и получим очень сильную связку.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cfdreview.com/article.pl?sid=16/01/26/0141256&amp;amp;rss=1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CFD Review | Siemens to Acquire CD-adapco&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Trampo обещает в своем рекламном видео, что #CFD специалисты</title>
-      <link>http://localhost:1313/posts/2015-12-14-trampo-obeschaet-v-svoem-reklamnom-video/</link>
+      <title>Trampo обещает в своем рекламном видео, что #CFD специалисты теперь начнут приходить домой вовремя!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-14-trampo-obeschaet-v-svoem-reklamnom-video/</link>
       <pubDate>Mon, 14 Dec 2015 06:01:31 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-12-14-trampo-obeschaet-v-svoem-reklamnom-video/</guid>
-      <description>&lt;p&gt;+1 в облаке 😊&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-14-trampo-obeschaet-v-svoem-reklamnom-video/</guid>
+      <description>&lt;p&gt;А все это потому, что #Trampo дает вам возможность пользоваться решателями CD-adapco в облаке.
++1 в облаке 😊&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://trampocfd.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Welcome to Trampo&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Встречаем победителя в конкурсе иллюстраций для календаря ко</title>
-      <link>http://localhost:1313/posts/2015-11-22-vstrechaem-pobeditelya-v-konkurse-illyustra/</link>
+      <title>Встречаем победителя в конкурсе иллюстраций для календаря компании CD-adapco.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-22-vstrechaem-pobeditelya-v-konkurse-illyustra/</link>
       <pubDate>Sun, 22 Nov 2015 18:00:25 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-22-vstrechaem-pobeditelya-v-konkurse-illyustra/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-22-vstrechaem-pobeditelya-v-konkurse-illyustra/</guid>
+      <description>&lt;p&gt;Господин van der Merwe расчитал и красиво представил велосипедный шлем при помощи STAR-CCM+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cd-adapco.com/node/8434&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CD-adapco Announces Winner of 2016 Calendar Competition | CD-adapco&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Расчет связанной реологии (что-бы это не значило :-)) и расш</title>
-      <link>http://localhost:1313/posts/2015-11-01-raschet-svyazannoy-reologii-chto-by-eto-ne/</link>
+      <title>Расчет связанной реологии (что-бы это не значило :-)) и расширенные возможности #FSI в новом релизе STAR-CCM&#43;</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-01-raschet-svyazannoy-reologii-chto-by-eto-ne/</link>
       <pubDate>Sun, 01 Nov 2015 11:00:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-01-raschet-svyazannoy-reologii-chto-by-eto-ne/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-01-raschet-svyazannoy-reologii-chto-by-eto-ne/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/10892/STAR-CCM-1006-Adds-Computational-Rheology-and-Fully-Coupled-FluidStructure-Analysis.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt; STAR-CCM+ 10.06 Adds Computational Rheology and Fully-Coupled Fluid/Structure Analysis &amp;gt; ENGINEERING.com &lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

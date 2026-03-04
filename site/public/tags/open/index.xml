@@ -2,36 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/open/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/open/</link>
     <description>MagicDPD: Magic Driven Product Development! (Open)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 25 May 2018 18:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Dec 2020 13:01:18 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/open/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/open/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>OpenVSP</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-12-24-openvsp/</link>
+      <pubDate>Thu, 24 Dec 2020 13:01:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-12-24-openvsp/</guid>
+      <description>&lt;p&gt;OpenVSP&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/openvsp/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;OpenVSP - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LAMMPS расскажет о разрушении материалов</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-23-lammps-rasskazhet-o-razrushenii-materialov/</link>
+      <pubDate>Fri, 23 Nov 2018 17:01:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-23-lammps-rasskazhet-o-razrushenii-materialov/</guid>
+      <description>&lt;p&gt;LAMMPS расскажет о разрушении материалов
+Молекулярная динамика (Molecular Dynamics Simulation, MDS) - это то, чем вам стоит заниматься, если вы хотите разобраться с процессами, происходящими в материалах на микро- и наноуровне, например при разрушении. А одним из самых авторитетных кодов в данной области является разрабатываемый Сандийскими национальными лабораториями LAMMPS.&lt;/p&gt;
+&lt;p&gt;Данный открытый код позволяет детально моделировать процессы на микроуровне и заглядывать туда, куда традиционные КЭ коды и смотреть не могут.
+А еще в видео есть отзыв о работе данного кода в Ливерморской национальной лаборатории, где считали при помощи него рекордную по размерам задачу. Отзыв за подписью Василия Булатова.
+Кстати, привожу еще обучающее видео по началу работы с LAMMPS - в целом эта работа очень напоминает настройку бессеточной модели в LS-DYNA.&lt;/p&gt;
+&lt;p&gt;#HPC #LAMMPS #Livermor #MDS #Open #Sandia
+&lt;a href=&#34;http://bit.ly/2TEbMBl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2TEbMBl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2TEbMBl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2TEbMBl&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>FEATool Multiphysics 1.8 теперь дружит с OpenFOAM</title>
-      <link>http://localhost:1313/posts/2018-05-25-featool-multiphysics-18-teper-druzhit-s/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-25-featool-multiphysics-18-teper-druzhit-s/</link>
       <pubDate>Fri, 25 May 2018 18:00:56 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-05-25-featool-multiphysics-18-teper-druzhit-s/</guid>
-      <description>&lt;p&gt;Пакет для КЭ нанализа на FEATool Multiphysics — это открытый и бесплатный код, работающий опверх MATLAB. Теперь он адаптировался еще и под открытый и бесплатный GNU Octave.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-25-featool-multiphysics-18-teper-druzhit-s/</guid>
+      <description>&lt;p&gt;FEATool Multiphysics 1.8 теперь дружит с OpenFOAM&lt;/p&gt;
+&lt;p&gt;Пакет для КЭ нанализа на FEATool Multiphysics — это открытый и бесплатный код, работающий опверх MATLAB. Теперь он адаптировался еще и под открытый и бесплатный GNU Octave.
 Кроме того, основной фишкой нового релиза стала интеграция OpenFOAM и даже создание GUI для этого дела. Теперь прямо из интерфейса FEATool можно готовить и ставить задачи не только для их собстенного КЭ решателя, но и для OpenFOAM, и для FEniCS.&lt;/p&gt;
 &lt;p&gt;Ну и до кучи, в ПО докинули новый функционал по работе с STL геометрией, получившей всеобщую популятность на волне развития аддитивных технологий.
 &lt;a href=&#34;https://www.featool.com/news/2018/05/17/FEATool-v1p8-with-OpenFOAM-Matlab-CFD-Solver-Interface.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/news/2018/05/17/FEATool-v1p8-with-OpenFOAM-Matlab-CFD-Solver-Interface.html&lt;/a&gt;
 #FEATool #FEniCS #MATLAB #Octave #Open Source #OpenFOAM #STL&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Ry&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Ry&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.featool.com/news/2018/05/17/FEATool-v1p8-with-OpenFOAM-Matlab-CFD-Solver-Interface.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FEATool 1.8 - OpenFOAM MATLAB CFD Solver and GUI Interface&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-1Ry&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Ry&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Моделирование турбулентного течения (и не только) в SHP пост</title>
-      <link>http://localhost:1313/posts/2018-04-28-modelirovanie-turbulentnogo-techeniya-i-n/</link>
+      <title>Моделирование турбулентного течения (и не только) в SHP постановке</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-28-modelirovanie-turbulentnogo-techeniya-i-n/</link>
       <pubDate>Sat, 28 Apr 2018 18:01:17 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-04-28-modelirovanie-turbulentnogo-techeniya-i-n/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-28-modelirovanie-turbulentnogo-techeniya-i-n/</guid>
       <description>&lt;p&gt;Видео в данном посте — результат работы библиотеки с открытым исходным кодом SPlisHSPlasH (&lt;a href=&#34;http://www.interactive-graphics.de/SPlisHSPlasH/doc/html/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.interactive-graphics.de/SPlisHSPlasH/doc/html/)&lt;/a&gt;. Данная библиотека реалзирует возможность работы с течениями в SPH постановке. При этом она позволяет получать прямо-таки магического качества результаты. Библотека позволяет учитывать завихренность потока, вязкозть жидкости (!), поверхностное натяжение (!!!).
 Также, в библиотеке реализованы такие методы как:&lt;/p&gt;
 &lt;p&gt;Weakly compressible SPH for free surface flows (WCSPH)
@@ -44,6 +75,66 @@ Projective Fluids (PF)&lt;/p&gt;
 &lt;p&gt;Ссылка на репозиторий проекта: https://github.com/InteractiveComputerGraphics/SPlisHSPlasH — есть сборки под Windows 10 и Ubuntu
 #CFD #Open Source #SPH #SPlisHSPlasH&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1NN&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1NN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.interactive-graphics.de/SPlisHSPlasH/doc/html/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.interactive-graphics.de/SPlisHSPlasH/doc/html/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=elZieJNBYqk&amp;amp;feature=share&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=elZieJNBYqk&amp;feature=share&lt;/a&gt;
+&lt;a href=&#34;https://github.com/InteractiveComputerGraphics/SPlisHSPlasH&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/InteractiveComputerGraphics/SPlisHSPlasH&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-1NN&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1NN&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Знакомимся с METAFOR</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-02-znakomimsya-s-metafor/</link>
+      <pubDate>Fri, 02 Feb 2018 17:01:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-02-znakomimsya-s-metafor/</guid>
+      <description>&lt;p&gt;Знакомимся с METAFOR
+Сегодня у нас в меню Metafor - бесплатный решатель с открытым исходным кодом от Льежского университета (University of Liège).&lt;/p&gt;
+&lt;p&gt;Заявляется, что Metafor умеет много всего нужного для решения нелинейных задач механики:&lt;/p&gt;
+&lt;p&gt;2D/3D элементы с поддержкой больших деформаций&lt;/p&gt;
+&lt;p&gt;Implicit/explicit интегрирование по времени&lt;/p&gt;
+&lt;p&gt;Связка с тепловым решателем, элементы с механическими и тепловыми степенями свободы одновременно&lt;/p&gt;
+&lt;p&gt;Контакты с трением&lt;/p&gt;
+&lt;p&gt;Arbitrary Lagrangian Eulerian - наш любимый ALE&lt;/p&gt;
+&lt;p&gt;Динамические сетки&lt;/p&gt;
+&lt;p&gt;SPH
+И много еще чего полезного&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Весь это функционал отлично подходит для решения типичных explicit задач: обработка металлов давлением, нелинейная потеря устойчивости, FSI, пассивная безопасность транспорта, слошинг&lt;/p&gt;
+&lt;p&gt;Кроме того, у решателя есть свой канал на YouTube, где можно посмотреть на решаемые задачи.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ifBsRh_j6AI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ifBsRh_j6AI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nqxrvpCB6uU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nqxrvpCB6uU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=FU1FXO4C-1w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=FU1FXO4C-1w&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1rEJP7A6J6k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=1rEJP7A6J6k&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Вот сайт рашателя: &lt;a href=&#34;http://metafor.ltas.ulg.ac.be/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://metafor.ltas.ulg.ac.be/&lt;/a&gt;, а те, кто хотят попробовать проходят по этой ссылке: http://metafor.ltas.ulg.ac.be/dokuwiki/doc/user/start - документация и инструкции по установке, настройке и решению простейших задач.
+#ALE #Metafor #Open Source #SPH
+&lt;a href=&#34;https://magicdpd.ru/?p=6152&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6152&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ulg.ac.be/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ulg.ac.be/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=ifBsRh_j6AI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ifBsRh_j6AI&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=nqxrvpCB6uU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nqxrvpCB6uU&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=FU1FXO4C-1w&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=FU1FXO4C-1w&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=1rEJP7A6J6k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=1rEJP7A6J6k&lt;/a&gt;
+&lt;a href=&#34;http://metafor.ltas.ulg.ac.be/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://metafor.ltas.ulg.ac.be/&lt;/a&gt;
+&lt;a href=&#34;http://metafor.ltas.ulg.ac.be/dokuwiki/doc/user/start&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://metafor.ltas.ulg.ac.be/dokuwiki/doc/user/start&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=6152&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6152&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Динамика плавающих тел</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-12-dinamika-plavayuschih-tel/</link>
+      <pubDate>Fri, 12 Jan 2018 17:01:44 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-12-dinamika-plavayuschih-tel/</guid>
+      <description>&lt;p&gt;Динамика плавающих тел
+Вашему вниманию предлагается примеры расчета движения тела на поверхности жидкости. Тело прикреплено швартовыми ко дну и в таком состоянии на него действует волнение.&lt;/p&gt;
+&lt;p&gt;Расчет выполнен в паре кодов DualSPHysics и MoorDyn. В этой связке DualSPHysics, SPH код разработанный NVIDIA Research Center, отвечает за динамику жидкости и FSI, а MoorDyn моделирует поведение швартовых.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=YUSxGXPkYvE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=YUSxGXPkYvE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/ToEsV0FDs0I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/ToEsV0FDs0I&lt;/a&gt;
+#DualSPHysics #FSI #GPU #MoorDyn #NVIDIA #offshore #Open Source #SPH
+&lt;a href=&#34;https://magicdpd.ru/?p=5914&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5914&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=YUSxGXPkYvE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=YUSxGXPkYvE&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/ToEsV0FDs0I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/ToEsV0FDs0I&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=5914&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5914&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

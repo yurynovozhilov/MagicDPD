@@ -2,22 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IMPETUS on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/impetus/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/impetus/</link>
     <description>MagicDPD: Magic Driven Product Development! (IMPETUS)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 04 Oct 2019 13:05:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2020 13:40:40 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/impetus/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/impetus/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Impetus Afea для реверсивной прокатки?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-10-19-impetus-afea-dlya-reversivnoy-prokatki/</link>
+      <pubDate>Mon, 19 Oct 2020 13:40:40 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-10-19-impetus-afea-dlya-reversivnoy-prokatki/</guid>
+      <description>&lt;p&gt;!
+#Afea #explicit #GPU #IMPETUS #rolling
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/impetus-afea-hot-rolling/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Impetus Afea для реверсивной прокатки?! - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>https://www.youtube.com/watch?v=8GmMjVtFT8A</title>
-      <link>http://localhost:1313/posts/2019-10-04-httpswwwyoutubecomwatchv8gmmjvtf/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-04-httpswwwyoutubecomwatchv8gmmjvtf/</link>
       <pubDate>Fri, 04 Oct 2019 13:05:40 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-10-04-httpswwwyoutubecomwatchv8gmmjvtf/</guid>
-      <description>&lt;p&gt;Бомбануло&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-04-httpswwwyoutubecomwatchv8gmmjvtf/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8GmMjVtFT8A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=8GmMjVtFT8A&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Бомбануло&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8GmMjVtFT8A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ガス爆発による構造体破壊の数値シミュレーション&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#IMPETUS Afea Solver оказался никаким не решателем.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-23-impetus-afea-solver-okazalsya-nikakim-ne/</link>
+      <pubDate>Mon, 23 Nov 2015 18:00:53 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-23-impetus-afea-solver-okazalsya-nikakim-ne/</guid>
+      <description>&lt;p&gt;Ребята просто написали LS-PrePost с человеческим лицом, а обманывать не хорошо. Тем более, что LS-DYNA использует элементы второго порядка и ускорение на GPU только для неявной схемы. Да и технология Particle Blast #PBM пока уникальна для LS-DYNA.&lt;/p&gt;
+&lt;p&gt;За остальным смотрим обучающее видео, которое раскрывает все тайны.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ILbfmkMUzGA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Impetus Tutorials: Workflow&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IMPETUS Afea Solver от одноименной компании #IMPETUS Afea - это решатель с явной схемой интегрирования по времени. При этом заявляется работа с SPH и DEM, дружественные интерфейс (!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-23-impetus-afea-solver-ot-odnoimennoy-kompa/</link>
+      <pubDate>Mon, 23 Nov 2015 13:01:39 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-23-impetus-afea-solver-ot-odnoimennoy-kompa/</guid>
+      <description>&lt;p&gt;!!) и ускорение на GPU NVIDIA (!!!) и элементы высокого порядка (а это зачем им для явного метода?!)&lt;/p&gt;
+&lt;p&gt;Мне так даже показалось, что у них есть аналог Particle Blast #PBM из LS-DYNA.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.impetus-afea.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;IMPETUS Afea&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -2,25 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teretau on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/teretau/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/teretau/</link>
     <description>MagicDPD: Magic Driven Product Development! (Teretau)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Mon, 07 May 2018 18:01:19 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/teretau/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/teretau/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PROROCK для расчета разрушения горных пород</title>
-      <link>http://localhost:1313/posts/2018-05-07-prorock-dlya-rascheta-razrusheniya-gornyh-po/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-07-prorock-dlya-rascheta-razrusheniya-gornyh-po/</link>
       <pubDate>Mon, 07 May 2018 18:01:19 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-05-07-prorock-dlya-rascheta-razrusheniya-gornyh-po/</guid>
-      <description>&lt;p&gt;Отечесветнная комапнаия Teretau представляет нашему вниманию свой вычслительный комплекс с очень любопытным названием PROROCK. Последний должен помогать моделировать разрушение и трещинообразование в горных породах используя некий метод конечно-дискретных элементов (англ. finite-discrete element method, FDEM). Насколько я понял физику процесса, FDEM — это сетка из конечных элементов, склаенных на «констакты» или когезивные элементы с особой функцией поглащения энергии при разрушениии. В принципе, такакя методика не нова, но точность ее не очень, а сеточные эффекты также не улучшают общую картину получаемых результатов.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-07-prorock-dlya-rascheta-razrusheniya-gornyh-po/</guid>
+      <description>&lt;p&gt;PROROCK для расчета разрушения горных пород&lt;/p&gt;
+&lt;p&gt;Отечесветнная комапнаия Teretau представляет нашему вниманию свой вычслительный комплекс с очень любопытным названием PROROCK. Последний должен помогать моделировать разрушение и трещинообразование в горных породах используя некий метод конечно-дискретных элементов (англ. finite-discrete element method, FDEM). Насколько я понял физику процесса, FDEM — это сетка из конечных элементов, склаенных на «констакты» или когезивные элементы с особой функцией поглащения энергии при разрушениии. В принципе, такакя методика не нова, но точность ее не очень, а сеточные эффекты также не улучшают общую картину получаемых результатов.&lt;/p&gt;
 &lt;p&gt;Результаты выглядят эффектно, хотя система пока работает только в двухмерной постановке.
 А вот что меня особенно смущает, так это наличие всего 3-х научных публикаций за несколько лет развития продукта. Иная кндидатская имеет больше научной новизны.
 #FDEM #PROROCK #Teretau&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Px&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Px&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Px&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Px&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

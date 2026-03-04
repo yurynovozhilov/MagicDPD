@@ -2,195 +2,926 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/python/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/python/</link>
     <description>MagicDPD: Magic Driven Product Development! (Python)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 06 Oct 2022 20:00:02 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Большой учебный материал по тому, как выполнять обработку ре</title>
-      <link>http://localhost:1313/posts/2022-10-06-bolshoy-uchebnyy-material-po-tomu-kak-vy/</link>
+      <title>Большой учебный материал по тому, как выполнять обработку результатов расчетов #Ansys #Mechanical #APDL в среде #pyMAPDL &#43; #pyDPF</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-10-06-bolshoy-uchebnyy-material-po-tomu-kak-vy/</link>
       <pubDate>Thu, 06 Oct 2022 20:00:02 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-10-06-bolshoy-uchebnyy-material-po-tomu-kak-vy/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-10-06-bolshoy-uchebnyy-material-po-tomu-kak-vy/</guid>
       <description>&lt;p&gt;#opensource #python &lt;a href=&#34;https://www.padtinc.com/2022/07/18/ansys-scripting-python-p1-solve-post/?utm_source=pocket_mylist&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.padtinc.com/2022/07/18/ansys-scripting-python-p1-solve-post/?utm_source=pocket_mylist&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.padtinc.com/2022/07/18/ansys-scripting-python-p1-solve-post/?utm_source=pocket_mylist&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.padtinc.com/2022/07/18/ansys-scripting-python-p1-solve-post/?utm_source=pocket_mylist&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Сегодня я бы хотел высказать пару мыслей про #opensource про</title>
-      <link>http://localhost:1313/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</link>
+      <title>Приятная и простая в использовании #Python библиотека от #Google, которая украсит ваши научные разработки #LaTeX формулами.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-29-priyatnaya-i-prostaya-v-ispolzovanii-pyth/</link>
+      <pubDate>Thu, 29 Sep 2022 18:00:09 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-29-priyatnaya-i-prostaya-v-ispolzovanii-pyth/</guid>
+      <description>&lt;p&gt;#opensource &lt;a href=&#34;https://github.com/google/latexify_py&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/google/latexify_py&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/google/latexify_py&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/google/latexify_py&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сегодня я бы хотел высказать пару мыслей про #opensource проект #pyAnsys.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</link>
       <pubDate>Wed, 14 Sep 2022 18:00:17 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</guid>
-      <description>&lt;p&gt;Итак, #Python внутри экосистемы #Ansys есть очень давно, так почему все вдруг начала говорить про #pyAnsys? Дело в том, что раньше python выступал только в роли некого внутреннего инструмента помощи в постановки задачи. Вы запускали продукты Ansys, и в них уже могли что-то автоматизировать на python.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-14-segodnya-ya-by-hotel-vyskazat-paru-mysley/</guid>
+      <description>&lt;p&gt;Многие мои друзья, с которыми мы обсуждали данный проект, изначально неправильно поняли, что это, и не придали ему должного значения.&lt;/p&gt;
+&lt;p&gt;Итак, #Python внутри экосистемы #Ansys есть очень давно, так почему все вдруг начала говорить про #pyAnsys? Дело в том, что раньше python выступал только в роли некого внутреннего инструмента помощи в постановки задачи. Вы запускали продукты Ansys, и в них уже могли что-то автоматизировать на python.&lt;/p&gt;
 &lt;p&gt;pyAnsys полностью меняет концепцию. У каждого модуля появляется свой #API, который вы можете использовать в вашей #python программе. Ansys тут выступает как вспомогательный инструмент.&lt;/p&gt;
 &lt;p&gt;Например, #pyMAPDL позволяет полностью поставить #FEM задачу и запустить решатель MAPDL, который вообще может быть помещен в #docker контейнер. Обработка данных теперь может производиться единым #pyDPF фреймвоком. Данные между решателями теперь могут передаваться как вы придумаете - ведь у всех них есть свой открытый API! И да, никто не ограничивает вас в возможности совместной работы продуктов Ansys и не Ansys. В стандартных примерах вы сейчас можете найти инструкции для работы с #Gmsh.&lt;/p&gt;
 &lt;p&gt;Я бы сказал, что #pyAnsys - это основа для переосмысления Workbench. Сейчас все связи между модулями #Workbench жестко определенны разработчиками. С pyAnsys вас больше нет таких ограничений, а что еще нужно вам для проведения новых увлекательных расчетов? &lt;a href=&#34;https://docs.pyansys.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://docs.pyansys.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.pyansys.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://docs.pyansys.com/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Любите ли вы делать визуализацию научных и инженерных данных</title>
-      <link>http://localhost:1313/posts/2022-06-10-lyubite-li-vy-delat-vizualizatsiyu-nauchnyh/</link>
+      <title>Сегодня давайте вспомним тему написания собственного КЭ решателя, но более подробно.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-13-segodnya-davayte-vspomnim-temu-napisaniya/</link>
+      <pubDate>Tue, 13 Sep 2022 18:00:10 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-13-segodnya-davayte-vspomnim-temu-napisaniya/</guid>
+      <description>&lt;p&gt;На этот раз добавим работу с внешними моделями и обработку результатов - получим уже 200 строчек кода на #Python&lt;/p&gt;
+&lt;p&gt;#opensource #FEM &lt;a href=&#34;https://www.youtube.com/watch?v=8GWLgK9Llv0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=8GWLgK9Llv0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8GWLgK9Llv0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=8GWLgK9Llv0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сегодня у нас очень простая тема.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-07-21-segodnya-u-nas-ochen-prostaya-tema-segodn/</link>
+      <pubDate>Thu, 21 Jul 2022 18:36:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-07-21-segodnya-u-nas-ochen-prostaya-tema-segodn/</guid>
+      <description>&lt;p&gt;Сегодня у нас пример того, как можно решить задача с помощью #FEM используя около сотни строк #Python кода.
+#opensource &lt;a href=&#34;https://polymerfem.com/full-finite-element-solver-in-100-lines-of-python/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://polymerfem.com/full-finite-element-solver-in-100-lines-of-python/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://polymerfem.com/full-finite-element-solver-in-100-lines-of-python/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://polymerfem.com/full-finite-element-solver-in-100-lines-of-python/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#Python #opensource фреймворк #automan Этот позволяет автоматизировать последовательность запуска ресурсоёмкий вычислительных задач из области #ML и #CAE (примеры прилагаются).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-06-21-python-opensource-freymvork-automan-e/</link>
+      <pubDate>Tue, 21 Jun 2022 18:00:02 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-06-21-python-opensource-freymvork-automan-e/</guid>
+      <description>&lt;p&gt;Основные особенности по мнению разработчиков:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;помогает организовать расчеты&lt;/li&gt;
+&lt;li&gt;помогает организовать запуск расчетов и последующую постобработку их результатов&lt;/li&gt;
+&lt;li&gt;помогает повторно использовать код для постобработки данных моделирования&lt;/li&gt;
+&lt;li&gt;помогает выполнять все моделирование и постобработку одной командой &lt;a href=&#34;https://github.com/pypr/automan&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/pypr/automan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/pypr/automan&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/pypr/automan&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Любите ли вы делать визуализацию научных и инженерных данных красивой и понятной?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-06-10-lyubite-li-vy-delat-vizualizatsiyu-nauchnyh/</link>
       <pubDate>Fri, 10 Jun 2022 18:00:01 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-06-10-lyubite-li-vy-delat-vizualizatsiyu-nauchnyh/</guid>
-      <description>&lt;p&gt;Предлагаю вашему вниманию книгу &amp;ldquo;Scientific Visualization: Python + Matplotlib,&amp;rdquo; которая доступна в рамках open access. А приятным дополнением книге является репозиторий ее автора на GitHub, где можно посмотреть все примеры.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-06-10-lyubite-li-vy-delat-vizualizatsiyu-nauchnyh/</guid>
+      <description>&lt;p&gt;Тогда вам пригодится моя сегодняшняя находка.&lt;/p&gt;
+&lt;p&gt;Предлагаю вашему вниманию книгу &amp;ldquo;Scientific Visualization: Python + Matplotlib,&amp;rdquo; которая доступна в рамках open access. А приятным дополнением книге является репозиторий ее автора на GitHub, где можно посмотреть все примеры.&lt;/p&gt;
 &lt;p&gt;#opensource #python #Matplotlib &lt;a href=&#34;https://github.com/rougier/scientific-visualization-book&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/rougier/scientific-visualization-book&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/rougier/scientific-visualization-book&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/rougier/scientific-visualization-book&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Возможно вы слышали, что Ansys недавно выпустил #opensource библиотеку #pyAnsys, которая позволят использовать продукты и решетили #Ansys прямо из среды #Python.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-04-vozmozhno-vy-slyshali-chto-ansys-nedavno-v/</link>
+      <pubDate>Mon, 04 Apr 2022 17:00:29 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-04-vozmozhno-vy-slyshali-chto-ansys-nedavno-v/</guid>
+      <description>&lt;p&gt;Прямо сейчас доступны седеющие пакеты #PyMAPDL, #PyAEDT, PyDPF-Core, PyDPF-Post, Legacy PyMAPDL Reader и #Granta MI BoM Analytics: Pythonic.&lt;/p&gt;
+&lt;p&gt;Это еще не новость. Новость в том, что в поддержку данного функционала начали пилить официальную серию учебных вебинаров. И пилит их не кто-нибудь, а живая легенда механических расчетов Ansys, Пьер Тиффри (Pierre Thieffry). У Пьера почти 25 лет опыта работы и он один из самых высокопоставленных и влиятельных технических экспертов компании.  А еще, он умеет делать просто потрясающие технические доклады - сам был на паре его лекций в живую, и то было по круче, чем презентация перово iPhone.&lt;/p&gt;
+&lt;p&gt;Короче, Pierre Thieffry - один из моих кумиров от мира прикладного МКЭ, так что не пропустите начало его серии вебинаров 27 апреля!&lt;/p&gt;
+&lt;p&gt;#legendpeople &lt;a href=&#34;https://www.ansys.com/events/scripting-hacks-automating-repetitive-tasks-in-ansys-mechanical&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/events/scripting-hacks-automating-repetitive-tasks-in-ansys-mechanical&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys.com/events/scripting-hacks-automating-repetitive-tasks-in-ansys-mechanical&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Scripting Hacks: Automating Repetitive Tasks in Ansys Mechanical  | Ansys&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#PyFR - это фреймворк на базе #Python с открытым исходным кодом для решения задач типа адвекции-диффузии на потоковых архитектурах с использованием подхода Flux Reconstruction Хуинха (Huynh), что бы это не значило.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-03-22-pyfr-eto-freymvork-na-baze-python-s/</link>
+      <pubDate>Tue, 22 Mar 2022 17:00:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-03-22-pyfr-eto-freymvork-na-baze-python-s/</guid>
+      <description>&lt;p&gt;И тут, вроде как принято думать, что Python - это не для HPC и тяжелых математических расчетов.&lt;/p&gt;
+&lt;p&gt;И тут коллеги публикуют true статью про #DNS моделирование аэродинамики лопастей вертолета-дрона для Марса!&lt;/p&gt;
+&lt;p&gt;#opensource #CFD&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Direct Numerical Simulation of Flow over a Triangular Airfoil Under Martian Conditions&amp;rdquo; https://doi.org/10.2514/1.J061454&lt;/p&gt;
+&lt;p&gt;Еще читать можно тут: https://www.imperial.ac.uk/news/234879/unique-virtual-wind-tunnel-could-help/ &lt;a href=&#34;https://twitter.com/i/status/1505861975691173896&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://twitter.com/i/status/1505861975691173896&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.2514/1.J061454&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Direct Numerical Simulation of Flow over a Triangular Airfoil Under Martian Conditions | AIAA Journal&lt;/a&gt;
+&lt;a href=&#34;https://www.imperial.ac.uk/news/234879/unique-virtual-wind-tunnel-could-help/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.imperial.ac.uk/news/234879/unique-virtual-wind-tunnel-could-help/&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/i/status/1505861975691173896&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://twitter.com/i/status/1505861975691173896&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Небольшая шпаргалка по прикладным вычислениям на #Python.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-03-01-nebolshaya-shpargalka-po-prikladnym-vychisl/</link>
+      <pubDate>Tue, 01 Mar 2022 17:00:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-03-01-nebolshaya-shpargalka-po-prikladnym-vychisl/</guid>
+      <description>&lt;p&gt;Пригодиться при обработке данных и постановке расчетов.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Коллеги подогнали свежее видео с канала FEA for ALL о том, как можно в #Salome с #Python и такой-то матерью сгенерировать сложный объект, вроде массива бетона с включениями.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-09-kollegi-podognali-svezhee-video-s-kanala/</link>
+      <pubDate>Sun, 09 Jan 2022 07:00:57 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-01-09-kollegi-podognali-svezhee-video-s-kanala/</guid>
+      <description>&lt;p&gt;В целом, на основе того кода, что мелькает в видео, можно сгенерировать объекты и не только суровом #opensource&lt;/p&gt;
+&lt;p&gt;#concrete #fracture &lt;a href=&#34;https://youtu.be/MwHQIvgH5xU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/MwHQIvgH5xU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/MwHQIvgH5xU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/MwHQIvgH5xU&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Скрипты в Ansys Mechanical на Python</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-08-24-skripty-v-ansys-mechanical-na-python/</link>
+      <pubDate>Tue, 24 Aug 2021 13:02:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-08-24-skripty-v-ansys-mechanical-na-python/</guid>
+      <description>&lt;p&gt;Скрипты в Ansys Mechanical на Python&lt;/p&gt;
+&lt;p&gt;LEAP уже запилил запись своего двухдневного учебного курса по скриптовке Ansys Mechanical 2021 R2, ведь в новой версии Python получил не просто шаг вперед - его пнули с двух ног, и теперь на наем можно даже писать в APDL!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/S0Z8mOEQbEo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/S0Z8mOEQbEo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Состав учебного курса: введение в создание сценариев в Mechanical; Mechanical API; пример автоматизации различных задач в Mechanical; ключевые понятия в написании сценариев Python; пример автоматизации расчета балочной модели с экспортом результатов в CSV-файл; экспорт медиа файлов и обработка результатов; дополнительные инструменты автоматизации (Engineering Data, DesignXplorer, Data Processing Framework, Ansys Customisation Tool)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/Q0MpwVSiFGs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Q0MpwVSiFGs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ansys #leap #mechanical #python
+&lt;a href=&#34;https://tinyurl.com/yfn2j3v5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfn2j3v5&lt;/a&gt;
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/S0Z8mOEQbEo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys Mechanical Scripting Training  - Python Basics (Day 1)&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/Q0MpwVSiFGs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Q0MpwVSiFGs&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yfn2j3v5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfn2j3v5&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>manim - как сделать вашу научную презентацию захватывающей</title>
-      <link>http://localhost:1313/posts/2021-02-26-manim-kak-sdelat-vashu-nauchnuyu-prezent/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-26-manim-kak-sdelat-vashu-nauchnuyu-prezent/</link>
       <pubDate>Fri, 26 Feb 2021 13:01:23 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-02-26-manim-kak-sdelat-vashu-nauchnuyu-prezent/</guid>
-      <description>&lt;p&gt;Многие гики от науки знают, что в сети есть отличный сайт от MIT 3blue1brown.com занимающейся популяризацией науки. Их канал на YouTube ломится от огромного числа видео роликов, деланных с большим вкусом и умением. Вот, например, видео про ряды Фурье.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-26-manim-kak-sdelat-vashu-nauchnuyu-prezent/</guid>
+      <description>&lt;p&gt;manim - как сделать вашу научную презентацию захватывающей&lt;/p&gt;
+&lt;p&gt;Многие гики от науки знают, что в сети есть отличный сайт от MIT 3blue1brown.com занимающейся популяризацией науки. Их канал на YouTube ломится от огромного числа видео роликов, деланных с большим вкусом и умением. Вот, например, видео про ряды Фурье.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=r6sGWTCMz2k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=r6sGWTCMz2k&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Хотите делать такие же классные видео по результатам ваших исследований? Нет проблем: у коллег из 3Blue1Brown есть репозиторий на GitHub, где выложены исходные коды их движка создания анимированной научной инфографики manim. Все, что вам нужно, этот Python, FFmpeg и LaTeX. Ну а далее - читайте инструкции по ссылке на репозиторий github.com/3b1b/manim&lt;/p&gt;
 &lt;p&gt;#3blue1brown #ffmpeg #latex #open_source #python
+&lt;a href=&#34;https://tinyurl.com/ybn92n6a&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ybn92n6a&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=r6sGWTCMz2k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;But what is a Fourier series?  From heat flow to drawing with circles | DE4&lt;/a&gt;
+&lt;a href=&#34;http://3blue1brown.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://3blue1brown.com/&lt;/a&gt;
+&lt;a href=&#34;https://github.com/3b1b/manim&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/3b1b/manim&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/ybn92n6a&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ybn92n6a&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Python для автоматизации работы с ParaView</title>
-      <link>http://localhost:1313/posts/2021-02-05-python-dlya-avtomatizatsii-raboty-s-paravi/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-05-python-dlya-avtomatizatsii-raboty-s-paravi/</link>
       <pubDate>Fri, 05 Feb 2021 15:01:40 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-02-05-python-dlya-avtomatizatsii-raboty-s-paravi/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/knWz0LCSgic&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/knWz0LCSgic&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-05-python-dlya-avtomatizatsii-raboty-s-paravi/</guid>
+      <description>&lt;p&gt;Python для автоматизации работы с ParaView&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/knWz0LCSgic&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/knWz0LCSgic&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#paraview #python
 &lt;a href=&#34;https://tinyurl.com/y5k9hog9&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y5k9hog9&lt;/a&gt;
 by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/knWz0LCSgic&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Usage of Python in ParaView : Free Webinar&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/y5k9hog9&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y5k9hog9&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IB2d и метод погруженных границ</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-12-29-ib2d-i-metod-pogruzhennyh-granits/</link>
+      <pubDate>Tue, 29 Dec 2020 13:40:51 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-12-29-ib2d-i-metod-pogruzhennyh-granits/</guid>
+      <description>&lt;p&gt;IB2d и метод погруженных границ&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/ib2d-%d0%b8-%d0%bc%d0%b5%d1%82%d0%be%d0%b4-%d0%bf%d0%be%d0%b3%d1%80%d1%83%d0%b6%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d0%b3%d1%80%d0%b0%d0%bd%d0%b8%d1%86/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;IB2d и метод погруженных границ - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Аддитивка с адаптивной сеткой в APDL!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-12-additivka-s-adaptivnoy-setkoy-v-apdl/</link>
+      <pubDate>Thu, 12 Mar 2020 07:00:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-12-additivka-s-adaptivnoy-setkoy-v-apdl/</guid>
+      <description>&lt;p&gt;Аддитивка с адаптивной сеткой в APDL!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/ansys-am-simulation-with-mesh-dynamic-remeshing/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Аддитивка с адаптивной сеткой в APDL! - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Параметризация и автоматизация в SpaceClaim</title>
-      <link>http://localhost:1313/posts/2019-09-19-parametrizatsiya-i-avtomatizatsiya-v-spacecl/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-19-parametrizatsiya-i-avtomatizatsiya-v-spacecl/</link>
       <pubDate>Thu, 19 Sep 2019 13:00:28 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-09-19-parametrizatsiya-i-avtomatizatsiya-v-spacecl/</guid>
-      <description>&lt;p&gt;Mallett Technology подготовили обучающий вебинар по очень важной и очень плохо изученной теме — автоматизация работы SpaceClaim при помощи python-скриптов. Коллеги показывают как записывать журнал проекта, как создавать переменные и именованные выборки, которые потом будут видны в рамках Workbench.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-19-parametrizatsiya-i-avtomatizatsiya-v-spacecl/</guid>
+      <description>&lt;p&gt;Параметризация и автоматизация в SpaceClaim
+Mallett Technology подготовили обучающий вебинар по очень важной и очень плохо изученной теме — автоматизация работы SpaceClaim при помощи python-скриптов. Коллеги показывают как записывать журнал проекта, как создавать переменные и именованные выборки, которые потом будут видны в рамках Workbench.&lt;/p&gt;
 &lt;p&gt;А ведь это далеко не все функции по автоматизации SpaceClaim. Так, в новых версиях, вы можете параметризовать процесс построения как в классических CAD, создавая последовательность проигрываемых действий без привлечения средств пользовательского программирования. А для часто используемых действий можно добавлять свои кнопки в интерфейс. И для всего этого есть отдельный однодневный учебный курс.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/use-spaceclaim-scripting-to-parameterize/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Параметризация и автоматизация в SpaceClaim - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Два урока по работе с LS-DYNA Keyword в Python библиотеке qd</title>
-      <link>http://localhost:1313/posts/2018-03-11-dva-uroka-po-rabote-s-ls-dyna-keyword-v/</link>
+      <title>Продвинутые функции EnSight</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-09-prodvinutye-funktsii-ensight/</link>
+      <pubDate>Mon, 09 Sep 2019 13:00:28 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-09-prodvinutye-funktsii-ensight/</guid>
+      <description>&lt;p&gt;Продвинутые функции EnSight&lt;/p&gt;
+&lt;p&gt;EnSight — один из самых навороченных постпроцессоров на рынке. И его в прошлом году купил ANSYS. В видео разобраны возможности EnSight по автоматизации обработки результатов: создание макросов, перевод их на Python и кастомизация интерфейса самого препоста.&lt;/p&gt;
+&lt;p&gt;#ANSYS #CFD #Ensight #Python&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Fs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Fs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Fs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Fs&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-Reader</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-27-ls-reader/</link>
+      <pubDate>Sat, 27 Jul 2019 13:00:29 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-27-ls-reader/</guid>
+      <description>&lt;p&gt;LS-Reader&lt;/p&gt;
+&lt;p&gt;В этом году LSTC очень активно начала развивать продукты для подготовки расчетных моделей и обработки результатов. Пожалуй одним из наиболее вкусных среди них для меня становиться LS-Reader. Это не что иное, как готовое API под C, C++ и Python для обработки результатов расчетов. В комплекте есть документация, учебные примеры и тестовые наборы результатов. Таким образом, что бы заниматься разработкой своей собственно автоматической обработки результатов вам не нужна сама LS-DYNA. Получаем хорошего конкретна слегка заглохшему проекту qd — a CAE Python Library.&lt;/p&gt;
+&lt;p&gt;Найти актуальную версию LS-Reader можно совершенно бесплатно на официальном ресурсе: &lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/lsprepost/LS-Reader/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/lsprepost/LS-Reader/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#LS_Reader #LSTC #Python #qd&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Ce&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Ce&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/lsprepost/LS-Reader/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/lsprepost/LS-Reader/&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2Ce&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Ce&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NUMPY за 5 минут</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-01-numpy-za-5-minut/</link>
+      <pubDate>Mon, 01 Apr 2019 17:00:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-01-numpy-za-5-minut/</guid>
+      <description>&lt;p&gt;NUMPY за 5 минут&lt;/p&gt;
+&lt;p&gt;5 минут на знакомство с одной из самых востребованных вычислительных библиотек Python.&lt;/p&gt;
+&lt;p&gt;#NumPy #Python&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2s1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2s1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2s1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2s1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PySPH: SPH моделирвоание на Python</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-04-pysph-sph-modelirvoanie-na-python/</link>
+      <pubDate>Mon, 04 Mar 2019 17:01:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-04-pysph-sph-modelirvoanie-na-python/</guid>
+      <description>&lt;p&gt;PySPH: SPH моделирвоание на Python&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=l-f16KjR9Bw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=l-f16KjR9Bw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Доклад основателя проекта PySPH, посвященного созданию высокопроизводительной библиотеки Python для моделирования физических процессов с использованием SPH. Проекту, между прочим, уже 5 лет. Примечательно, что в начале видео очень хорошо рассказывается про работу самого метода SPH.&lt;/p&gt;
+&lt;p&gt;#PySPH #Python #SPH&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2nc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2nc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=l-f16KjR9Bw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=l-f16KjR9Bw&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2nc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2nc&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вебинар по написанию ACT</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-26-vebinar-po-napisaniyu-act/</link>
+      <pubDate>Tue, 26 Feb 2019 17:01:56 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-26-vebinar-po-napisaniyu-act/</guid>
+      <description>&lt;p&gt;Вебинар по написанию ACT&lt;/p&gt;
+&lt;p&gt;Похоже я окончательно созрел для начала разработки собственных ACT расширений. И для этой цели я провожу обзор вспомогательной литературы. Всем очень советую посмотреть этот большой вебинар от SimuTech (главный партнер ANSYS в США). На протяжении более чем часа будут рассмотрены следующие темы:&lt;/p&gt;
+&lt;p&gt;Что такое концепция ACT и зачем оно нам надо
+ANSYS AppStore — там есть много ACT
+Примеры готовых ACT
+Создание собственного расширения для Mechanical
+Работа с ACT Console и API
+Simulation Wizard
+App Builder
+ROM и Digital Twins&lt;/p&gt;
+&lt;p&gt;К сожалению, видео с вебинаром можно смотреть только на Vimeo, так что вот ссылка на него: &lt;a href=&#34;https://vimeo.com/231774159&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vimeo.com/231774159&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/231774159&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vimeo.com/231774159&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ACT #ACT_Console #ANSYS #API #App_Builder #AppStore #Mechanical #Python #SimuTech&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2mz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2mz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/231774159&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vimeo.com/231774159&lt;/a&gt;
+&lt;a href=&#34;https://vimeo.com/231774159&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vimeo.com/231774159&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2mz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2mz&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>InverseCSG: как получить B-rep из STL</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-28-inversecsg-kak-poluchit-b-rep-iz-stl/</link>
+      <pubDate>Mon, 28 Jan 2019 17:00:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-28-inversecsg-kak-poluchit-b-rep-iz-stl/</guid>
+      <description>&lt;p&gt;InverseCSG: как получить B-rep из STL&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/mf7Xd6oxNrM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/mf7Xd6oxNrM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Открытый проект InverseCSG посвящен разработке алгоритма, способного не просто восстановить CAD по сеточной модели. Система, разработанная в MIT, должна уметь построить параметрическое CAD дерево операций, выполенение которого позволяет получить требуемую геометрическую форму.&lt;/p&gt;
+&lt;p&gt;Работа алгоритма проверена на тестовой выборке из 25 моделей. Показано, что код успешно восстанавливает геометрию даже при добавлении шума в исходный файл.&lt;/p&gt;
+&lt;p&gt;К сожаленю, сейчас репозиторий проекта закрыт. Надеюсь, что это просто временный сбой.&lt;/p&gt;
+&lt;p&gt;Публикация по работе кода: &lt;a href=&#34;https://people.csail.mit.edu/taodu/csg/csg.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://people.csail.mit.edu/taodu/csg/csg.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Снапшот репозитория проекта: &lt;a href=&#34;https://dl.acm.org/citation.cfm?doid=3272127.3275006&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://dl.acm.org/citation.cfm?doid=3272127.3275006&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#InverseCSG #MIT #Open_Source #Python #ReverseEngineering #STL&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2ik&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2ik&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/mf7Xd6oxNrM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/mf7Xd6oxNrM&lt;/a&gt;
+&lt;a href=&#34;https://people.csail.mit.edu/taodu/csg/csg.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://people.csail.mit.edu/taodu/csg/csg.pdf&lt;/a&gt;
+&lt;a href=&#34;https://dl.acm.org/citation.cfm?doid=3272127.3275006&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://dl.acm.org/citation.cfm?doid=3272127.3275006&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2ik&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2ik&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>meshio — конвертор сеток на Python</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-16-meshio-konvertor-setok-na-python/</link>
+      <pubDate>Wed, 16 Jan 2019 17:01:29 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-16-meshio-konvertor-setok-na-python/</guid>
+      <description>&lt;p&gt;meshio — конвертор сеток на Python&lt;/p&gt;
+&lt;p&gt;На сей раз нас ждет более современный корвертор сетки. В отличии от FEconv, проект meshio написан на Python 3, а не на архаичном Fortran. Да и собирать его не надо, что также облегчает использование — просто выполните команду «pip3 install -U meshio», и все готово к использованию на любой операционной системе.
+meshio поддерживает работу со следующими форматами CAE сеток:&lt;/p&gt;
+&lt;p&gt;Abaqus
+ANSYS msh
+DOLFIN XML
+Exodus
+H5M
+Kratos/MDPA
+Medit
+MED/Salome
+Gmsh (versions 2 and 4)
+OFF
+PERMAS
+STL
+SVG (2D only, output only)
+VTK
+VTU
+XDMF&lt;/p&gt;
+&lt;p&gt;#mesh #meshio #Open_Source #Python&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2eQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2eQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2eQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2eQ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Netgen/NGSolve</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-15-netgenngsolve/</link>
+      <pubDate>Mon, 15 Oct 2018 17:00:21 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-15-netgenngsolve/</guid>
+      <description>&lt;p&gt;Netgen/NGSolve
+Netgen/NGSolve это высокопроизводительный КЭ решатель, который по обещаниям сообщества может решать механику, тепло-, гидродинамику и даже электромагнетизм. При этом он имеет Python API для расширения своих возможностей. Естественно все бесплатно, работает на любой операционной системе и обладает открытым исходным кодом.
+&lt;a href=&#34;https://ngsolve.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ngsolve.org&lt;/a&gt;
+В целом, очень интересное решение для тех, кто хочет на Python попробовать порешать физические задачи. Тем более, что на сайте есть достаточное количество примеров с математическими выкладками и исходными кодами. Вот такой пример для FSI задачи: https://ngsolve.org/showcases/ngsolve/42-fluid-structure-interaction&lt;/p&gt;
+&lt;p&gt;#Netgen #NGSolve #Python
+&lt;a href=&#34;http://bit.ly/2AbRTtn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2AbRTtn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ngsolve.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ngsolve.org/&lt;/a&gt;
+&lt;a href=&#34;https://ngsolve.org/showcases/ngsolve/42-fluid-structure-interaction&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ngsolve.org/showcases/ngsolve/42-fluid-structure-interaction&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2AbRTtn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2AbRTtn&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учебные видео от Algoryx</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-06-29-uchebnye-video-ot-algoryx/</link>
+      <pubDate>Fri, 29 Jun 2018 18:01:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-06-29-uchebnye-video-ot-algoryx/</guid>
+      <description>&lt;p&gt;Учебные видео от Algoryx
+Коллеги выложили на своем канале серию коротких видеоуроков по работе в их RBD системе Momentum. Рассмотрен широкий круг вопросов:&lt;/p&gt;
+&lt;p&gt;Загрузка расширения  Momentum в SpaceClaim и экспорт моделей
+Визулизация результатов
+Настройка коэффициентов трения
+Определение шарниров
+Скрипты на Python (куда же сейчас без этого)
+Визуализация реакций в контактах
+Моделирование кабелей и гибких систем&lt;/p&gt;
+&lt;p&gt;Всего должно быть 7 учебных видео. Если вы не видите их все, то надо перейти по ссылке в блог. И да, в коментариях на YouTubе есть ссылки на скачивание всех используемых моделей.&lt;/p&gt;
+&lt;p&gt;#Algoryx #Momentum #Python #RBD #SpaceClaim
+&lt;a href=&#34;http://bit.ly/2tRnSdY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2tRnSdY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2tRnSdY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2tRnSdY&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вышла вторая версия Algoryx Momentum</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-22-vyshla-vtoraya-versiya-algoryx-momentum/</link>
+      <pubDate>Tue, 22 May 2018 18:00:35 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-22-vyshla-vtoraya-versiya-algoryx-momentum/</guid>
+      <description>&lt;p&gt;Вышла вторая версия Algoryx Momentum&lt;/p&gt;
+&lt;p&gt;Вторая версия данного RBD кода дает возможность расширенного просмотра сил в контактах и, наконец-то, открывает возможность по скриптованию на Python. Появление Python, в свою очередь, снимает все ограничения ПО — теперь вы можете делать все что пожелаете.
+Ну и никто не отменял факт работы Algoryx на геометрическом движке SpaceClaim, который мало того, что быстрый и красивый, так еще и тоже скриптуется на Python.
+Пример работы предыдущей версии на видео&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.algoryx.se/newsmedia/algoryx-momentum-announcing-version-2-0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.algoryx.se/newsmedia/algoryx-momentum-announcing-version-2-0/&lt;/a&gt;
+#Algoryx #Momentum #Python #RBD #SpaceClaim&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Re&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Re&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.algoryx.se/newsmedia/algoryx-momentum-announcing-version-2-0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.algoryx.se/newsmedia/algoryx-momentum-announcing-version-2-0/&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-1Re&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Re&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Два урока по работе с LS-DYNA Keyword в Python библиотеке qd-cae</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-11-dva-uroka-po-rabote-s-ls-dyna-keyword-v/</link>
       <pubDate>Sun, 11 Mar 2018 18:01:21 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-03-11-dva-uroka-po-rabote-s-ls-dyna-keyword-v/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-11-dva-uroka-po-rabote-s-ls-dyna-keyword-v/</guid>
       <description>&lt;p&gt;Если вы следите за публикацияи MDPD, то вы занете о существовании замечатьельной бесплатной открытой Python библиотеки qd. В недавней версии в нее добавили инструменты по манипулированию Keyword файлами — моделями LS-DYNA. Сегодя у нас есть уже 2 видео урока, демонстрирующих, что может билиотека.&lt;/p&gt;
 &lt;p&gt;Репозиторий библиотеки на GitHub: &lt;a href=&#34;https://github.com/qd-cae/qd-cae-python&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/qd-cae/qd-cae-python&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#LSDYNA #Open_Source #Python #Qd
+&lt;a href=&#34;https://goo.gl/64RTLQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/64RTLQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/qd-cae/qd-cae-python&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/qd-cae/qd-cae-python&lt;/a&gt;
 &lt;a href=&#34;https://goo.gl/64RTLQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/64RTLQ&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>EASA - это специализированная платформа для создания интерак</title>
-      <link>http://localhost:1313/posts/2017-12-12-easa-eto-spetsializirovannaya-platforma/</link>
-      <pubDate>Tue, 12 Dec 2017 17:02:43 +0000</pubDate>
+      <title>Управление .k файлами из Python</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-22-upravlenie-k-faylami-iz-python/</link>
+      <pubDate>Thu, 22 Feb 2018 18:01:02 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-12-12-easa-eto-spetsializirovannaya-platforma/</guid>
-      <description>&lt;p&gt;Так EASA может связать в единую цепочку такие системы, как #Excel, #Salesforce, Visual Basic, #MATLAB, #ANSYS, #Python и все, что имеет внятный API или CMD.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16084/Link-Almost-Any-CAE-and-Design-Software-Tool-into-an-App-With-EASA.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16084/Link-Almost-Any-CAE-and-Design-Software-Tool-into-an-App-With-EASA.aspx&lt;/a&gt; 🔗 Link Almost Any CAE and Design Software Tool into an App With EASA ? ENGINEERING.com&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-22-upravlenie-k-faylami-iz-python/</guid>
+      <description>&lt;p&gt;Управление .k файлами из Python
+В версии 0.7.0 библиотеки qd для Python появилась поддержка редактирования .k — текстовых файлов моделей LS-DYNA
+Итак, сейчас библиотека позволяет как создавать новые модели, так и редактировать существующие. Реализованные возможности:&lt;/p&gt;
+&lt;p&gt;Считывание .k файла
+Поиск по идентификатору
+Поддержка форматирования
+Поддержка и обработка карт *INCLUDE
+Чтение карт, отвечающих за сетку
+Запись .k файлов&lt;/p&gt;
+&lt;p&gt;Подробное описание новых функций библиотеки можно найти тут: http://www.qd-eng.de/index.php/2018/02/19/manipulating-ls-dyna-keyfiles-in-python/&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.qd-eng.de/index.php/2018/02/19/manipulating-ls-dyna-keyfiles-in-python/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.qd-eng.de/index.php/2018/02/19/manipulating-ls-dyna-keyfiles-in-python/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>А что если научить машину ускорять задачи топологической опт</title>
-      <link>http://localhost:1313/posts/2017-11-24-a-chto-esli-nauchit-mashinu-uskoryat-zadach/</link>
+      <title>EASA - это специализированная платформа для создания интерактивных рабочих методик, связывающих в рабочие цепочки набор различного вычислительного ПО. #EASA уже много лет решает понятную задачу: не всем нежно уметь пользоваться сложным софтом - пусть кто-то один все настроит, а остальные будут пользоваться его проектом.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-12-easa-eto-spetsializirovannaya-platforma/</link>
+      <pubDate>Tue, 12 Dec 2017 17:02:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-12-easa-eto-spetsializirovannaya-platforma/</guid>
+      <description>&lt;p&gt;Так EASA может связать в единую цепочку такие системы, как #Excel, #Salesforce, Visual Basic, #MATLAB, #ANSYS, #Python и все, что имеет внятный API или CMD.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16084/Link-Almost-Any-CAE-and-Design-Software-Tool-into-an-App-With-EASA.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16084/Link-Almost-Any-CAE-and-Design-Software-Tool-into-an-App-With-EASA.aspx&lt;/a&gt; 🔗 Link Almost Any CAE and Design Software Tool into an App With EASA ? ENGINEERING.com&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2BaEWkD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2BaEWkD&lt;/a&gt;
+&lt;a href=&#34;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16084/Link-Almost-Any-CAE-and-Design-Software-Tool-into-an-App-With-EASA.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16084/Link-Almost-Any-CAE-and-Design-Software-Tool-into-an-App-With-EASA.aspx&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Коллеги из Tor-Egineering написали статью по мотивам очень старой публикации #padtinc про то, как управляться #ANSYS #Workbench через #Excel при помощи #Python.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-25-kollegi-iz-tor-egineering-napisali-stat/</link>
+      <pubDate>Sat, 25 Nov 2017 17:09:51 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-25-kollegi-iz-tor-egineering-napisali-stat/</guid>
+      <description>&lt;p&gt;В новой публикации исправлены недочеты и обновлены данные. Рабочие примеры прилагаются.&lt;/p&gt;
+&lt;p&gt;#TorEgineering&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://tor-eng.com/2017/04/ansys-workbench-excel-python/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://tor-eng.com/2017/04/ansys-workbench-excel-python/&lt;/a&gt; 🔗 ANSYS Workbench with Excel and Python | Tor Engineering&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vVUTKe&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vVUTKe&lt;/a&gt;
+&lt;a href=&#34;http://tor-eng.com/2017/04/ansys-workbench-excel-python/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://tor-eng.com/2017/04/ansys-workbench-excel-python/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>А что если научить машину ускорять задачи топологической оптимизации?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-24-a-chto-esli-nauchit-mashinu-uskoryat-zadach/</link>
       <pubDate>Fri, 24 Nov 2017 17:14:52 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-24-a-chto-esli-nauchit-mashinu-uskoryat-zadach/</guid>
-      <description>&lt;p&gt;Статья двух русских студентов (Иван Сосновик и Иван Оселедец) посвящена рассказывает про их проект, в котором нейронной сети показывали промежуточные результаты работы алгоритма топологической оптимизации и учили ее угадывать, какой будет итоговый результат. После обучения на 10 000 произвольно сгенерированных задачах для #ToPy нейрона смогла ускорить процесс оптимизации до 20 раз в рассматриваемых примерах!&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-24-a-chto-esli-nauchit-mashinu-uskoryat-zadach/</guid>
+      <description>&lt;p&gt;И получить при этом многократное сокращение времени решения задачи?&lt;/p&gt;
+&lt;p&gt;Статья двух русских студентов (Иван Сосновик и Иван Оселедец) посвящена рассказывает про их проект, в котором нейронной сети показывали промежуточные результаты работы алгоритма топологической оптимизации и учили ее угадывать, какой будет итоговый результат. После обучения на 10 000 произвольно сгенерированных задачах для #ToPy нейрона смогла ускорить процесс оптимизации до 20 раз в рассматриваемых примерах!&lt;/p&gt;
 &lt;p&gt;Выборка для тренировки нейроне доступна на #GitHub:
 &lt;a href=&#34;http://ift.tt/2hRdoWE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hRdoWE&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Исходная научная статья лежит тут:
 &lt;a href=&#34;http://ift.tt/2A2KoWc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2A2KoWc&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#topology #optimization #python #machinelearning #opensourceMediaMedia🔗 [1709.09578] Neural networks for topology optimization&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2x6LCL4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2x6LCL4&lt;/a&gt;
+&lt;a href=&#34;https://arxiv.org/abs/1709.09578&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://arxiv.org/abs/1709.09578&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Привет всем, кто пишет свой движок топологической оптимизаци</title>
-      <link>http://localhost:1313/posts/2017-11-22-privet-vsem-kto-pishet-svoy-dvizhok-topol/</link>
+      <title>Привет всем, кто пишет свой движок топологической оптимизации от #opensource проекта #ToPy.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-22-privet-vsem-kto-pishet-svoy-dvizhok-topol/</link>
       <pubDate>Wed, 22 Nov 2017 17:10:26 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-22-privet-vsem-kto-pishet-svoy-dvizhok-topol/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-22-privet-vsem-kto-pishet-svoy-dvizhok-topol/</guid>
       <description>&lt;p&gt;Так уж сейчас обстоят дела, что написать алгоритм линейной топологической оптимизации - это уровень обычной бакалаврской работы. И я очень рад, что, дабы остановить поток велосипедостроителей, люди выкладывают такие коды на #GitHub. Хотите сделать хорошую топологическую оптимизацию - сделайте сначала обзор литературы 😊&lt;/p&gt;
 &lt;p&gt;Кстати, ToPly не так прост, как может показаться. Он может решать как классические задачи оптимизации топологии с целью минимизации податливости при уменьшении объема, так и выполнять оптимизацию теплопроводности (вот это что-то новенькое!)&lt;/p&gt;
 &lt;p&gt;#python #toplology #optimization
 &lt;a href=&#34;https://github.com/williamhunter/topy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/williamhunter/topy&lt;/a&gt; 🔗 williamhunter/topy&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2mSwa57&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2mSwa57&lt;/a&gt;
+&lt;a href=&#34;https://github.com/williamhunter/topy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/williamhunter/topy&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Lat-Net: Compressing Lattice Boltzmann Flow Simulations usin</title>
-      <link>http://localhost:1313/posts/2017-11-21-lat-net-compressing-lattice-boltzmann-f/</link>
+      <title>Lat-Net: Compressing Lattice Boltzmann Flow Simulations using Deep Neural Networks - такое интересное название носит #opensource проект, про который я пишу сегодня.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-21-lat-net-compressing-lattice-boltzmann-f/</link>
       <pubDate>Tue, 21 Nov 2017 17:10:14 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-21-lat-net-compressing-lattice-boltzmann-f/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-21-lat-net-compressing-lattice-boltzmann-f/</guid>
       <description>&lt;p&gt;Суть проекта заключается в подмене #CFD расчета методом #Lattice #Boltzmann на нейронную сеть. Причем, если верить авторам, то натренировав нейрону на грубой &amp;ldquo;сетке&amp;rdquo; можно надеются на достаточно точный расчет на мелкой &amp;ldquo;сетке&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;Это конечно не супер точный #CFD подход, но зато можно быстро получить оценочное решение вашей задачи экономя ресурсы.&lt;/p&gt;
 &lt;p&gt;#Python #machinelearning #LBM&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/loliverhennigh/Phy-Net&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/loliverhennigh/Phy-Net&lt;/a&gt; 🔗 loliverhennigh/Phy-Net&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2wPpoid&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wPpoid&lt;/a&gt;
+&lt;a href=&#34;https://github.com/loliverhennigh/Phy-Net&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/loliverhennigh/Phy-Net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Да, пожалуй #Anaconda - это одна из лучших, если не лучшая, сборка #Python для научной работы.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-11-da-pozhaluy-anaconda-eto-odna-iz-luchsh/</link>
+      <pubDate>Sat, 11 Nov 2017 07:54:12 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-11-da-pozhaluy-anaconda-eto-odna-iz-luchsh/</guid>
+      <description>&lt;p&gt;Хотя, если делать все аккуратно, то все ее компоненты можно принести через pip&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2iMsT21&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2iMsT21&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2yQmi1F&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yQmi1F&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2x23TfF&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2x23TfF&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2iMsT21&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2iMsT21&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>В рамках проекта разработки #python библиотеки qd-cae-python, которая сейма в основном затачивается под работу с #LSDYNA, реализована возможность расширенной работы со стандартными файлами бинарных результатов d3plot - например их конвертация в формат HDF5. Данный формат имеет ряд преимуществ - возможность параллельной обработки на #HPC системах (и это тоже реализовано в библиотеке).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-06-v-ramkah-proekta-razrabotki-python-bibl/</link>
+      <pubDate>Mon, 06 Nov 2017 17:05:48 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-06-v-ramkah-proekta-razrabotki-python-bibl/</guid>
+      <description>&lt;p&gt;#HDF5&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.qd-eng.de/index.php/2017/11/02/convert-a-d3plot-to-hdf5/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.qd-eng.de/index.php/2017/11/02/convert-a-d3plot-to-hdf5/&lt;/a&gt; 🔗 Convert a D3plot to HDF5 – qd-eng&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2hfnNyJ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hfnNyJ&lt;/a&gt;
+&lt;a href=&#34;http://www.qd-eng.de/index.php/2017/11/02/convert-a-d3plot-to-hdf5/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.qd-eng.de/index.php/2017/11/02/convert-a-d3plot-to-hdf5/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Если вы еще не пользуете #Python скрипты в #ANSYS #SpaceClaim, то вы многое упускаете.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-13-esli-vy-esche-ne-polzuete-python-skripty/</link>
+      <pubDate>Wed, 13 Sep 2017 18:48:28 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-13-esli-vy-esche-ne-polzuete-python-skripty/</guid>
+      <description>&lt;p&gt;В видео показана фича, позволяющая связать Python код с именами параметров (Parameters) и именованных выборок (Named Selections) в рамках среды #Workbench - этого навыка мне прямо очень нахватало.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Av&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Av&lt;/a&gt;_…Media📼 How to use scripting features in ANSYS SpaceClaim…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2wqp877&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wqp877&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2x23TfF&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2x23TfF&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vVLrF3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vVLrF3&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2v28PC1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2v28PC1&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=Av_1Jo1IjkI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Av_1Jo1IjkI&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2x26run&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2x26run&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wqp877&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wqp877&lt;/a&gt;
+ttp://ift.tt/2wqp877&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделировать метод послойного наплавления или 3D печать (Fused depositing modeling, #FDM) можно в любом современном КЭ пакете: все как правило реализуется через технику рождения и смерти элементов под действием температурных полей.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-11-modelirovat-metod-posloynogo-naplavleni/</link>
+      <pubDate>Fri, 11 Aug 2017 17:01:44 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-11-modelirovat-metod-posloynogo-naplavleni/</guid>
+      <description>&lt;p&gt;Однако коллеги из чешской компании  SVS FEM пошли дальше, много дальше. Они создали #ACT расширение для #ANSYS #Mechanical на основе #Python и #APDL, которое умеет читать информацию от 3D принтера по истории движения печатающей головки. В ходе расчета можно получить зависимости плотности, температуры и деформаций конструкции во времени.&lt;/p&gt;
+&lt;p&gt;Самое прикольное в работе ACT - это возможность визуализировать именно плотность (читай распределение) материала. Она получается гладкая, и ее можно экспортировать в виде #STL в #SDCM для дальнейшей работы.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qai6CIpjOHM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=qai6CIpjOHM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qai6CIpjOHM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Structural-Thermal Simulation of FDM 3D Printing Process | ANSYS Mechanical | SVS FEM&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Скачиваем курсы с edX и Сoursera</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-10-skachivaem-kursy-s-edx-i-soursera/</link>
+      <pubDate>Mon, 10 Jul 2017 17:01:02 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-10-skachivaem-kursy-s-edx-i-soursera/</guid>
+      <description>&lt;p&gt;Скачиваем курсы с edX и Сoursera
+&lt;a href=&#34;https://github.com/coursera-dl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/coursera-dl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Учиться это хорошо! Платформ для обучениях в интернете много. Например #edX и #Cornell проводят отличные курсы #ANSYS #Mechanical и #Fluent (курс #CornellX  #ENGR2000X например). Но иногда хочется скачать себе весь учебный курс на компьютер, что бы иметь возможность пользоваться его материалами offline.&lt;/p&gt;
+&lt;p&gt;Эта задача уже решена в рамках проекта #opensource проекта Coursera Downloader. Проект состоит из двух очень простых утилит командной строки, написанных на #Python и ставящихся через #pip на любую операционную систему. Утилиты эти носят названия coursera-dl и edx-dl. В сумме они позволяют скачать курсы со следующих порталов:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#edX&lt;/li&gt;
+&lt;li&gt;#Stanford&lt;/li&gt;
+&lt;li&gt;University of Sydney&lt;/li&gt;
+&lt;li&gt;France Université Numérique&lt;/li&gt;
+&lt;li&gt;GW Online SEAS - George Washington University&lt;/li&gt;
+&lt;li&gt;GW Online Open - George Washington University&lt;/li&gt;
+&lt;li&gt;#Сoursera&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Скачивать возможно только курсы, доступные вашему аккаунту.
+Видео инструкция по пользованию  edx-d прилагается &lt;a href=&#34;https://www.youtube.com/watch?v=AvAS835JiTI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=AvAS835JiTI&lt;/a&gt;
+P.S.
+Так как утилиты ставят с собой другую заниженную скачивалку youtube-dl - граббер YouTube, то можете быть уверены, что даже видеозаписи курсов вы не потеряете.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/coursera-dl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Coursera Downloader&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=AvAS835JiTI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=AvAS835JiTI&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Python FEM и многодисциплинарные расчеты  в FEniCS и FEATool</title>
-      <link>http://localhost:1313/posts/2017-06-21-python-fem-i-mnogodistsiplinarnye-raschety/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-21-python-fem-i-mnogodistsiplinarnye-raschety/</link>
       <pubDate>Wed, 21 Jun 2017 17:00:59 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-06-21-python-fem-i-mnogodistsiplinarnye-raschety/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-21-python-fem-i-mnogodistsiplinarnye-raschety/</guid>
+      <description>&lt;p&gt;Python FEM и многодисциплинарные расчеты  в FEniCS и FEATool
+&lt;a href=&#34;https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#FEATool, который позволяет решать задачи методом конечных элементов (#МКЭ) на базе #Matlab, начали взаимодействовать с проектом #FEniCS, который также занимается решением задач в МКЭ припомни #Python и C++. Теперь FEniCS дочтен прямо в GUI FEATool.&lt;/p&gt;
 &lt;p&gt;Говорят, что FEniCS протестирован для работы со СЛАУ размерности 100 миллионов уравнений, а также может работать на 512 CPUs, используя как #MPI, так и #OpenMP. А это существенно больше того, что сейчас может решать FEATool.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FEniCS Python FEM Solver and Multiphysics GUI with FEATool&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сделай свою кнопку в SpaceClaim</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-20-sdelay-svoyu-knopku-v-spaceclaim/</link>
+      <pubDate>Tue, 20 Jun 2017 13:11:40 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-20-sdelay-svoyu-knopku-v-spaceclaim/</guid>
+      <description>&lt;p&gt;Сделай свою кнопку в SpaceClaim
+&lt;a href=&#34;http://www.ansys-blog.com/interactive-script-defined-tools/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/interactive-script-defined-tools/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Чуть не проглядел очень очень интересную новую функцию в #ANSYS #SpaceClaim 18.1 (#SCDM). Теперь у нас есть возможность не только записывать и воспроизводить #python скрипты/журналы. Теперь мы можем публиковать эти скрипты в виде готовых инструментов и кнопок прямо в GUI!!! Это прям как #ACT без мороки с написанием #ACT.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys-blog.com/interactive-script-defined-tools/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Interactive Script-defined Tools Change the Game in Modeling&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenSBLI</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-11-opensbli/</link>
+      <pubDate>Sun, 11 Jun 2017 17:00:37 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-11-opensbli/</guid>
+      <description>&lt;p&gt;OpenSBLI
+&lt;a href=&#34;https://opensbli.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://opensbli.github.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Сегодня в меню у нас #python фреймворк разработанный для моделирования процесса взаимодействия скачка уплотнения с пограничным слоем (#SBLI, Shock-Boundary Layer Interactions) в рамках решения уравнения Навье-Стокса с учетом сжимаемости течения. Фреймворк генерирует на выходе код на языке Си, который уже выполняет расчеты. При этом, получаемый код может быть оптимизирован для исполнения на  #GPU с #CUDA или #OpenCL, а также он знает про технологии #MPI и #OpenMP.&lt;/p&gt;
+&lt;p&gt;Гремучая смесь для тех, кто знает, что делает.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Ob4NKZgUK3U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Ob4NKZgUK3U&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://opensbli.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://opensbli.github.io/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=Ob4NKZgUK3U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Ob4NKZgUK3U&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QD PLUS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-12-qd-plus/</link>
+      <pubDate>Sun, 12 Mar 2017 17:01:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-12-qd-plus/</guid>
+      <description>&lt;p&gt;QD PLUS
+&lt;a href=&#34;https://github.com/qd-cae/qd-eng&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/qd-cae/qd-eng&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Представляю вашему вниманию проект #QD PLUS позволяющий выполнять постпроцессинг #LSDYNA. Проект написан на #python и доступен всем желающим на #GitHub. Также есть серия вино уроков (первый в этом посте) по работе с библиотекой проекта.&lt;/p&gt;
+&lt;p&gt;#opensource&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=w8qIzqPJ4VY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=w8qIzqPJ4VY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/qd-cae/qd-eng&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;qd-cae/qd-eng&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=w8qIzqPJ4VY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=w8qIzqPJ4VY&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Курс молодого бойца Jupyter Notebook</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-12-kurs-molodogo-boytsa-jupyter-notebook/</link>
+      <pubDate>Sun, 12 Mar 2017 12:00:50 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-12-kurs-molodogo-boytsa-jupyter-notebook/</guid>
+      <description>&lt;p&gt;Курс молодого бойца Jupyter Notebook
+&lt;a href=&#34;https://www.youtube.com/playlist?list=PLwCnsQacFoW4XtU9RAtjZr_jJzHD3SdE7&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/playlist?list=PLwCnsQacFoW4XtU9RAtjZr_jJzHD3SdE7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Jupyter Notebook - это отличная штука для тех, кому нужно выполнять околонаучные расчеты с использованием #Python. На мой вкус, это намного более удобный и функциональный инструмент, чем платные системы математики.&lt;/p&gt;
+&lt;p&gt;А тут по ссылке доступен плей лист с десятком обучающих видео на русском языке.&lt;/p&gt;
+&lt;p&gt;P.S. Jupyter Notebook - бесплатен и доступен на всех платформах, где есть Python&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLwCnsQacFoW4XtU9RAtjZr_jJzHD3SdE7&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Python и Jupyter Notebook: курс молодого бойца&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Управляя Fluent</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-03-upravlyaya-fluent/</link>
+      <pubDate>Fri, 03 Mar 2017 17:03:06 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-03-upravlyaya-fluent/</guid>
+      <description>&lt;p&gt;Управляя Fluent
+&lt;a href=&#34;http://www.ansys-blog.com/ansys-fluent-matlab-example/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/ansys-fluent-matlab-example/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS #Fluent - убер решатель #CFD, но иногда и им надо управлять. В своем блоге ANSYS приводит пример кода для внешнего управления по средствам #Matlab! Интересно, чем им #Python не угодил?!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys-blog.com/ansys-fluent-matlab-example/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;The (Technical) Kindness of ANSYS Fluent aaS, a Matlab Example&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python для SpaceClaim</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-02-python-dlya-spaceclaim/</link>
+      <pubDate>Thu, 02 Mar 2017 17:00:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-02-python-dlya-spaceclaim/</guid>
+      <description>&lt;p&gt;Python для SpaceClaim
+&lt;a href=&#34;http://www.ansys-blog.com/spaceclaim-geometry-scripting/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys-blog.com/spaceclaim-geometry-scripting/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Да, у #ANSYS #SpaceClaim нет дерева истории работы с геометрией! Но зато, он умеет писать журналы всего, что вы делаете на #Python. Примеры кода для SCDM по ссылке в тексте статьи.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys-blog.com/spaceclaim-geometry-scripting/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Geometry Scripting in ANSYS SpaceClaim for Rapid Model Changes&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Системы измерения величин</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-17-sistemy-izmereniya-velichin/</link>
+      <pubDate>Fri, 17 Feb 2017 17:01:52 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-17-sistemy-izmereniya-velichin/</guid>
+      <description>&lt;p&gt;Системы измерения величин
+&lt;a href=&#34;https://www.linkedin.com/pulse/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.linkedin.com/pulse/&lt;/a&gt;пинта-не-пива-и-голова-болит-об-единицах-измерения-yury-novozhilov&lt;/p&gt;
+&lt;p&gt;Очень полезный пост #CAEAI, раскрывающий всю боль при переходе от метрической к британской/имперской системе измерения величин.&lt;/p&gt;
+&lt;p&gt;Хорошо, что ANSYS Workbench берет эту работу на себя. А для тех, кто пишет на #Python есть отличная готовая библиотека #pint (пинта), которая позволяет учитывать размерность величин - о ней я как-то уже писал тут:
+&lt;a href=&#34;https://www.linkedin.com/pulse/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.linkedin.com/pulse/&lt;/a&gt;пинта-не-пива-и-голова-болит-об-единицах-измерения-yury-novozhilov&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.linkedin.com/pulse/&lt;/a&gt;пинта-не-пива-и-голова-болит-об-единицах-измерения-yury-novozhilov&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ANSYS App Builder</title>
-      <link>http://localhost:1313/posts/2017-02-03-ansys-app-builder/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-03-ansys-app-builder/</link>
       <pubDate>Fri, 03 Feb 2017 17:03:01 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-02-03-ansys-app-builder/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=xYJPgdOdD3k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xYJPgdOdD3k&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-03-ansys-app-builder/</guid>
+      <description>&lt;p&gt;ANSYS App Builder
+&lt;a href=&#34;https://www.youtube.com/watch?v=xYJPgdOdD3k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xYJPgdOdD3k&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;В #ANSYS 18 появилось такое приложение, как ANSYS App Builder, и, на мой взгляд, это самое крутое нововведение в R18!&lt;/p&gt;
 &lt;p&gt;ANSYS App Builder позволяет создавать #ACT для #Workbench и #AIM прямо в #GUI! Он умеет не только записывать все ваши действия при работе с проектом, но и низкоуровненов редактировать записанный #python журнал и XML описание интефейса.&lt;/p&gt;
 &lt;p&gt;Те из нас, кто пробовали писать свои ACT, поймут, какой пропыв в упращении нашего нелегкого ремесла нас ожидает!
 &lt;a href=&#34;https://www.youtube.com/watch?v=xYJPgdOdD3k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xYJPgdOdD3k&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=xYJPgdOdD3k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys in Action - Ansys App Builder&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>FiPy - библиотека-фреймворк для #Python, которая поможет вам</title>
-      <link>http://localhost:1313/posts/2015-12-11-fipy-biblioteka-freymvork-dlya-python/</link>
+      <title>Как скрестить ужа и APDL</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-26-kak-skrestit-uzha-i-apdl/</link>
+      <pubDate>Mon, 26 Dec 2016 09:10:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-26-kak-skrestit-uzha-i-apdl/</guid>
+      <description>&lt;p&gt;Как скрестить ужа и APDL
+&lt;a href=&#34;https://appstore.ansys.com/shop/ACTApps_act&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/shop/ACTApps_act&lt;/a&gt; apps/SimulationNotebook_apc-actapp-79&lt;/p&gt;
+&lt;p&gt;#ACT расширение Simulation Notebook, разработанное #Ozen Engineering Inc - это пожалуй самое удивительное расширение для #ANSYS #Mechanical и #APDL в этом году. Коллеги скрестили мощь Mechanical APDL с гибкостью и удобством #Python. При этом они использовали не простой Python, а специальное ПО #Jupiter (&lt;a href=&#34;http://jupyter.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://jupyter.org&lt;/a&gt;) (форк #IPython), позволяющее делать так называемые интерактивные научные блокноты.&lt;/p&gt;
+&lt;p&gt;В итоге мы получаем возможность прямо из интерактивного и красивого научного блокнота в браузере при помощи Python ставить задачи в APDL, делать очень крутой постпроцессинг и даже создавать автоматизированные методики!&lt;/p&gt;
+&lt;p&gt;Видео смотреть всем: &lt;a href=&#34;https://support.ansys.com/cpstaticassets/ANSYS%20Customer%20Portal/Training%20Materials/thumbs/SimulationNotebook%20demo.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://support.ansys.com/cpstaticassets/ANSYS%20Customer%20Portal/Training%20Materials/thumbs/SimulationNotebook%20demo.mp4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;P.S. ACT платное, что не удивительно для такой сложности продукта.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/shop/ACTApps_act&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/shop/ACTApps_act&lt;/a&gt;
+&lt;a href=&#34;http://jupyter.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://jupyter.org&lt;/a&gt;
+&lt;a href=&#34;https://support.ansys.com/cpstaticassets/ANSYS%20Customer%20Portal/Training%20Materials/thumbs/SimulationNotebook%20demo.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://support.ansys.com/cpstaticassets/ANSYS%20Customer%20Portal/Training%20Materials/thumbs/SimulationNotebook%20demo.mp4&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Немного аналитических выкладок в SciPy</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-24-nemnogo-analiticheskih-vykladok-v-scipy/</link>
+      <pubDate>Sat, 24 Dec 2016 17:01:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-24-nemnogo-analiticheskih-vykladok-v-scipy/</guid>
+      <description>&lt;p&gt;Немного аналитических выкладок в SciPy
+&lt;a href=&#34;http://www.scipy-lectures.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.scipy-lectures.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;У могучего и популярного языка программирования #Python уже давно существует фреймворк #SciPy позволяющий бесплатно делать очень многое для научных расчетов, для чего раньше использовали дорогие и громоздкие #Matlab, #Mathematica или #Maple.&lt;/p&gt;
+&lt;p&gt;Но как любой продукт того класса, SciPy надо изучать, а для этого нужно хорошее учебное пособие. Для изучения SciPy мне приглянулся сайт-учебныик &lt;a href=&#34;http://www.scipy-lectures.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.scipy-lectures.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;На сайте расскажут про такие модули/библиотека, как:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#NumPy&lt;/li&gt;
+&lt;li&gt;#Matplotlib&lt;/li&gt;
+&lt;li&gt;#CPython&lt;/li&gt;
+&lt;li&gt;#SymPy&lt;/li&gt;
+&lt;li&gt;#Mayavi&lt;/li&gt;
+&lt;li&gt;и многое другое.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;P.S. Весь сайт можно скачать в виде PDF, есть учебные пример, есть репозиторий на #GitHub&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://scipy-lectures.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://scipy-lectures.org/&lt;/a&gt;
+&lt;a href=&#34;http://www.scipy-lectures.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.scipy-lectures.org/&lt;/a&gt;
+&lt;a href=&#34;http://www.scipy-lectures.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.scipy-lectures.org&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Встречаем Adams 2017</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-06-vstrechaem-adams-2017/</link>
+      <pubDate>Tue, 06 Dec 2016 17:00:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-06-vstrechaem-adams-2017/</guid>
+      <description>&lt;p&gt;Встречаем Adams 2017
+&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13796/New-Multibody-Dynamics-Release-Focuses-on-Gear-Simulations-and-Python-Scripting.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13796/New-Multibody-Dynamics-Release-Focuses-on-Gear-Simulations-and-Python-Scripting.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Еще одни большой релиз произошел в конце 2016 года. Компания #MSC выпустила #Adams 2017 - знаменитый #RBD решатель. Основными фокусами релиза стали: новые технологии в области моделирования зубчатого зацепления, в том числе с учетом деформируемости, и внедрение #python в качестве внутреннего скриптового языка.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13796/New-Multibody-Dynamics-Release-Focuses-on-Gear-Simulations-and-Python-Scripting.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;New Multibody Dynamics Release Focuses on Gear Simulations and Python Scripting &amp;gt; ENGINEERING.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CALFEM - не путать с CADFEM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-12-calfem-ne-putat-s-cadfem/</link>
+      <pubDate>Sat, 12 Nov 2016 12:03:35 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-12-calfem-ne-putat-s-cadfem/</guid>
+      <description>&lt;p&gt;CALFEM - не путать с CADFEM
+&lt;a href=&#34;https://github.com/CALFEM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/CALFEM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#CALFEM (Computer Aided Learning of the Finite Element Method) - набор инструментов с открытым исходным текстом для изучения работы #МКЭ. CALFEM разработан в университете города Лунд (Lund), Швеция (Sweden) и может быт скачан с #GitHub. Имеются реализации для #Matlab, #Python, и C#.&lt;/p&gt;
+&lt;p&gt;#opensource
+&lt;a href=&#34;https://github.com/CALFEM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/CALFEM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/CALFEM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CALFEM&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PyFR для решения прикладных задач CFD</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-30-pyfr-dlya-resheniya-prikladnyh-zadach-cfd/</link>
+      <pubDate>Tue, 30 Aug 2016 06:30:30 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-30-pyfr-dlya-resheniya-prikladnyh-zadach-cfd/</guid>
+      <description>&lt;p&gt;PyFR для решения прикладных задач CFD
+&lt;a href=&#34;http://phys.org/news/2016-08-industry.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://phys.org/news/2016-08-industry.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Я уже как-то писал про #PyFR: #Python-фреймворк с открытым исходным кодом, предназначенный для решения #CFD задачи. Так мне на глаза попался один из недавних примеров его использования, причем сразу на суперкомпьютерах.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://phys.org/news/2016-08-industry.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Streamlining accelerated computing for industry&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#OnShape выкатили инструмент для параметризации и кастомизации своего облачного #CAD.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-02-onshape-vykatili-instrument-dlya-paramet/</link>
+      <pubDate>Thu, 02 Jun 2016 07:00:39 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-02-onshape-vykatili-instrument-dlya-paramet/</guid>
+      <description>&lt;p&gt;Инструмент носит название #FeatureScript и представляет собой еще один язык программирования. При этом выглядит он примерно как всеми любимый #Python, только с точкой с запятой в конце каждого выражения&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Зачем они испортили Python, или я вообще ничего не понимаю?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.onshape.com/featurescript&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FeatureScript | Onshape&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FiPy - библиотека-фреймворк для #Python, которая поможет вам решить ваши дифференциальные уравнения в частных производных.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-11-fipy-biblioteka-freymvork-dlya-python/</link>
       <pubDate>Fri, 11 Dec 2015 06:30:12 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-12-11-fipy-biblioteka-freymvork-dlya-python/</guid>
-      <description>&lt;p&gt;Всем быстро писать свои решатели!&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-11-fipy-biblioteka-freymvork-dlya-python/</guid>
+      <description>&lt;p&gt;Поддерживается проект огромным количеством именитых организаций подразделений Национального института стандартов и технологий США (NIST). Обладает хорошей документацией и примерами, в имеет зависимости в виде NumPy, PySparse и sfePy.&lt;/p&gt;
+&lt;p&gt;Всем быстро писать свои решатели!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://hpfem.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;hp-FEM Group&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Если вы вдруг решите писать свой (читай - еще одни) пер/пост</title>
-      <link>http://localhost:1313/posts/2015-12-10-esli-vy-vdrug-reshite-pisat-svoy-chitay/</link>
+      <title>Если вы вдруг решите писать свой (читай - еще одни) пер/пост процессор, сеткопостроитель или решаетль, то лучше вам сразу использовать правильную базу.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-10-esli-vy-vdrug-reshite-pisat-svoy-chitay/</link>
       <pubDate>Thu, 10 Dec 2015 06:30:18 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-12-10-esli-vy-vdrug-reshite-pisat-svoy-chitay/</guid>
-      <description>&lt;p&gt;Я обещаю написать свой собственный велосипед!&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-10-esli-vy-vdrug-reshite-pisat-svoy-chitay/</guid>
+      <description>&lt;p&gt;Обратите ваше внимание на проект Python OCC. Данная библиотека позволит вам работать с STEP (AP203 and AP214), IGES, STL (ascii/binary) и VRML; естественно является кросс платформенной и конечно же вы можете писать приложения не только с традиционным GUI, но и веб приложения с WebGL.&lt;/p&gt;
+&lt;p&gt;Я обещаю написать свой собственный велосипед!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.pythonocc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;pythonOCC, 3D CAD/CAE/PLM development framework for the Python programming language&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вечер в объятиях #ANSYS #SapceClaim 2016 в трех частях: часть третья, инженерная.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-03-vecher-v-obyatiyah-ansys-sapceclaim-2016/</link>
+      <pubDate>Thu, 03 Dec 2015 18:10:12 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-03-vecher-v-obyatiyah-ansys-sapceclaim-2016/</guid>
+      <description>&lt;p&gt;Слюноотделение пошло в момент упоминания журналирования операций на #Python. Я знаю, где я будут теперь строить все свои модели.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Trt1tY34GaY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS SpaceClaim 2016 CAE Enhancements&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как перестать охреневать от имперской системы измерений и начать писать красивый код на #Python.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-30-kak-perestat-ohrenevat-ot-imperskoy-si/</link>
+      <pubDate>Mon, 30 Nov 2015 06:00:09 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-30-kak-perestat-ohrenevat-ot-imperskoy-si/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/%D0%BF%D0%B8%D0%BD%D1%82%D0%B0-%D0%BD%D0%B5-%D0%BF%D0%B8%D0%B2%D0%B0-%D0%B8-%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0-%D0%B1%D0%BE%D0%BB%D0%B8%D1%82-%D0%BE%D0%B1-%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%86%D0%B0%D1%85-%D0%B8%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D1%8F-yury-novozhilov&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Пинта не пива, и голова не болит об единицах измерения физических величин&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Магия #ANSYS #ACT. Всем изучать #Python!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-17-magiya-ansys-act-vsem-izuchat-python/</link>
+      <pubDate>Tue, 17 Nov 2015 07:25:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-17-magiya-ansys-act-vsem-izuchat-python/</guid>
+      <description>&lt;p&gt;Магия #ANSYS #ACT. Всем изучать #Python!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=3o1Zssc_qGw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS - ACT version longue&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

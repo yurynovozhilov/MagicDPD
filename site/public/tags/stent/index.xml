@@ -2,22 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stent on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/stent/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/stent/</link>
     <description>MagicDPD: Magic Driven Product Development! (Stent)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 23 Oct 2018 17:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2019 17:02:24 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/stent/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/stent/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Моделирование процесса установки стентов</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-13-modelirovanie-protsessa-ustanovki-stentov/</link>
+      <pubDate>Wed, 13 Mar 2019 17:02:24 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-13-modelirovanie-protsessa-ustanovki-stentov/</guid>
+      <description>&lt;p&gt;Моделирование процесса установки стентов&lt;/p&gt;
+&lt;p&gt;Когда-то недавно я писал про моделирование стентов в LS-DYNA (&lt;a href=&#34;http://magicdpd.ru/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://magicdpd.ru/&lt;/a&gt;моделирование-установки-стента-в-ls-dyna-implicit/). Тот пост был по мотивам любопытного видео.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/ZbkySatvT-c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/ZbkySatvT-c&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Так вот, теперь мне попалась презентация с прошлогодней конференции DYNAmore, где авторы работы подробно рассказывают как все было. Очень интересный материал.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dynamore.de/de/download/papers/2018-ls-dyna-forum/papers-2018/mittwoch-17.-oktober-2018/biomedical/numerical-analysis-of-stent-delivery-systems-during-pre-and-intraoperative-processes&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.de/de/download/papers/2018-ls-dyna-forum/papers-2018/mittwoch-17.-oktober-2018/biomedical/numerical-analysis-of-stent-delivery-systems-during-pre-and-intraoperative-processes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#bio #DYNAMore #implicit #LS_DYNA #stent&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2p2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2p2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://magicdpd.ru/&lt;/a&gt;моделирование-установки-стента-в-ls-dyna-implicit/
+&lt;a href=&#34;https://youtu.be/ZbkySatvT-c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/ZbkySatvT-c&lt;/a&gt;
+&lt;a href=&#34;https://www.dynamore.de/de/download/papers/2018-ls-dyna-forum/papers-2018/mittwoch-17.-oktober-2018/biomedical/numerical-analysis-of-stent-delivery-systems-during-pre-and-intraoperative-processes&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.de/de/download/papers/2018-ls-dyna-forum/papers-2018/mittwoch-17.-oktober-2018/biomedical/numerical-analysis-of-stent-delivery-systems-during-pre-and-intraoperative-processes&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2p2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2p2&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Моделирование установки стента в LS-DYNA Implicit</title>
-      <link>http://localhost:1313/posts/2018-10-23-modelirovanie-ustanovki-stenta-v-ls-dyna/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-23-modelirovanie-ustanovki-stenta-v-ls-dyna/</link>
       <pubDate>Tue, 23 Oct 2018 17:02:06 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-10-23-modelirovanie-ustanovki-stenta-v-ls-dyna/</guid>
-      <description>&lt;p&gt;Видео с невероятно крутым расчетом установки стента.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-23-modelirovanie-ustanovki-stenta-v-ls-dyna/</guid>
+      <description>&lt;p&gt;Моделирование установки стента в LS-DYNA Implicit
+Видео с невероятно крутым расчетом установки стента.&lt;/p&gt;
 &lt;p&gt;При этом расчет всех этих контактов, пластического деформирования материала и надува &amp;ldquo;шарика&amp;rdquo; оболочки считается, по заявлениями авторов, средствами LS-DYNA Implicit (!!!).
 Я стал разбираться в теме, и нашел еще несколько публикаций с подобными расчетами, и все в LS-DYNA Implicit. Похоже коллеги из LSTC и в работе нелинейной неявной механики готовы утереть многим нос.
 Публикации по теме:
@@ -26,6 +47,9 @@ Numerical analysis of crimping and inflation process of balloon‐expandable cor
 Finite element methods to analyze helical stent expansion
 &lt;a href=&#34;https://doi.org/10.1002/cnm.2605&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://doi.org/10.1002/cnm.2605&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#Coronary #Implicit #LSDYNA #LSTC #Stent
+&lt;a href=&#34;http://bit.ly/2PL9VIh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PL9VIh&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1002/cnm.2890&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Numerical analysis of crimping and inflation process of balloon‐expandable coronary stent using implicit solution&lt;/a&gt;
+&lt;a href=&#34;https://doi.org/10.1002/cnm.2605&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://doi.org/10.1002/cnm.2605&lt;/a&gt;
 &lt;a href=&#34;http://bit.ly/2PL9VIh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2PL9VIh&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MoFEM on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/mofem/</link>
+    <description>MagicDPD: Magic Driven Product Development! (MoFEM)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 30 Aug 2019 13:00:14 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/mofem/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Начинаем изучать MoFEM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-30-nachinaem-izuchat-mofem/</link>
+      <pubDate>Fri, 30 Aug 2019 13:00:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-30-nachinaem-izuchat-mofem/</guid>
+      <description>&lt;p&gt;Начинаем изучать MoFEM&lt;/p&gt;
+&lt;p&gt;Давайте попробуем посмотреть, что нам предлагает открытый FEM код от Университета Глазго под названием MoFEM. Судя по твиттеру (&lt;a href=&#34;https://twitter.com/mofemjoseph%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://twitter.com/mofemjoseph)&lt;/a&gt;, они занимаются чем-то очень перспективным — например, отлично моделируют динамику роста трещин.&lt;/p&gt;
+&lt;p&gt;Accuracy is a necessity, but for industrial applications, robustness is essential. Sometimes cracks do twist, bend, but we can still represent them on coarse meshes. @mofemjoseph new release is closer and closer 😀 pic.twitter.com/SolWDVu8Lv— Lukasz Kaczmarczyk (@LukaszKaczmarcz) August 5, 2019&lt;/p&gt;
+&lt;p&gt;А начнем мы с видеоурока, посвященного решению простейших линейных задач механики. Для подготовки задачи и обработки результатов используется связка CUBIT и ParaView.&lt;/p&gt;
+&lt;p&gt;#crack #CUBIT #fracture #MoFEM #Open_Source #Paraview&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2EZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2EZ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/mofemjoseph&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MoFEM / @mofem@fosstodon.org (@mofemjoseph) on X&lt;/a&gt;
+ic.twitter.com/SolWDVu8Lv—
+ttps://wp.me/p9vWYY-2EZ&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MoFEM - знакомство</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-27-mofem-znakomstvo/</link>
+      <pubDate>Tue, 27 Mar 2018 18:00:44 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-27-mofem-znakomstvo/</guid>
+      <description>&lt;p&gt;MoFEM - знакомство
+MoFEM (Mesh Oriented Finite Element Method) это сразу и библотека на C++ для выполнения КЭ расчетов, и готовый программный продукт с открытым исходны кодом. Разработка кода ведется в уничерсистете Гласго (University of Glasgow)&lt;/p&gt;
+&lt;p&gt;MoFEM умеет:&lt;/p&gt;
+&lt;p&gt;Композиты
+Теория разрушения, трещенообразование, рост трещин в нелинейной постновке
+Акустика
+Восстновление модлеей костей по томограммам
+Сложные реологические модели матреиалов
+Сложные законы пластического течения
+Контактные задачи
+Элементы высоких порядков
+Электромагнетизм
+И много прочего интересного и нестандартного&lt;/p&gt;
+&lt;p&gt;Примеры расчетов роста трещины:&lt;/p&gt;
+&lt;p&gt;@mofemjoseph #SimulationFriday Brittle fracture in tricky &amp;amp; complex geometry. Fully implicit crack propagation using configurational (Elshebian) mechanics. pic.twitter.com/5zobmsE2dy&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lukasz Kaczmarczyk (@LukaszKaczmarcz) 16 марта 2018 г.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hierarchical approximation basis resolving singularity, with 4th order approximation at the crack tip and 1st order polynomial far from it.
+Here is shown the evolution of crack surface. pic.twitter.com/iLICZfW2AZ&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lukasz Kaczmarczyk (@LukaszKaczmarcz) 16 марта 2018 г.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;#MoFEM #Open_Source
+&lt;a href=&#34;https://goo.gl/H1DwPM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/H1DwPM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://mofem.eng.gla.ac.uk/mofem/html/namespace_mo_f_e_m.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://mofem.eng.gla.ac.uk/mofem/html/namespace_mo_f_e_m.html&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/mofemjoseph?ref_src=twsrc%5Etfw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://twitter.com/mofemjoseph?ref_src=twsrc%5Etfw&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/hashtag/SimulationFriday?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://twitter.com/hashtag/SimulationFriday?src=hash&amp;ref_src=twsrc%5Etfw&lt;/a&gt;
+&lt;a href=&#34;https://t.co/5zobmsE2dy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://t.co/5zobmsE2dy&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/LukaszKaczmarcz/status/974787490082185217?ref_src=twsrc%5Etfw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://twitter.com/LukaszKaczmarcz/status/974787490082185217?ref_src=twsrc%5Etfw&lt;/a&gt;
+&lt;a href=&#34;https://t.co/iLICZfW2AZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://t.co/iLICZfW2AZ&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/LukaszKaczmarcz/status/974787493651509248?ref_src=twsrc%5Etfw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://twitter.com/LukaszKaczmarcz/status/974787493651509248?ref_src=twsrc%5Etfw&lt;/a&gt;
+&lt;a href=&#34;https://goo.gl/H1DwPM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/H1DwPM&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

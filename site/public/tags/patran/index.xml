@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PATRAN on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/patran/</link>
+    <description>MagicDPD: Magic Driven Product Development! (PATRAN)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sun, 06 Aug 2017 17:00:56 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/patran/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bolt 2.0 для создания сетки</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-06-bolt-20-dlya-sozdaniya-setki/</link>
+      <pubDate>Sun, 06 Aug 2017 17:00:56 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-08-06-bolt-20-dlya-sozdaniya-setki/</guid>
+      <description>&lt;p&gt;Bolt 2.0 для создания сетки
+&lt;a href=&#34;https://youtu.be/Dqt0rtjffIc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Dqt0rtjffIc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#csimsoft в своем сеточном генераторе #Bolt 2.0 добилась автоматической генерации полностью гексаэдральной сетки для любой геометрии. All-hex mesh - это просто мечта инженера расчетчика, особенно для #explicit! Судя по описанию, сеточный генератор опитается на алгоритм #PolyCube - одна из певых, если не единственная завершенная и готовая реализация этого перспективного алгоритма генерации сетки.&lt;/p&gt;
+&lt;p&gt;Сеточный генератор умеет писать и читать сетки для:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#ANSYS Mechanical&lt;/li&gt;
+&lt;li&gt;#ANSYS Fluent&lt;/li&gt;
+&lt;li&gt;#Abaqus&lt;/li&gt;
+&lt;li&gt;#LSDYNA&lt;/li&gt;
+&lt;li&gt;#OpenFOAM&lt;/li&gt;
+&lt;li&gt;#Patran&lt;/li&gt;
+&lt;li&gt;#Nastran&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;А еще Bolt умеет сроить сетку параллельно :-)&lt;/p&gt;
+&lt;p&gt;Пожалуй надо брать триал на 15 дней и пробовать.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/Dqt0rtjffIc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/Dqt0rtjffIc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/Dqt0rtjffIc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Introduction to Meshing with Bolt&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSC будет куплена компанией Hexagon</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-03-msc-budet-kuplena-kompaniey-hexagon/</link>
+      <pubDate>Fri, 03 Feb 2017 08:32:56 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-03-msc-budet-kuplena-kompaniey-hexagon/</guid>
+      <description>&lt;p&gt;MSC будет куплена компанией Hexagon
+&lt;a href=&#34;http://www.develop3d.com/blog/2017/02/hexagon-to-acquire-msc-simulation-analysis&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.develop3d.com/blog/2017/02/hexagon-to-acquire-msc-simulation-analysis&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Большая новость о покупке большого #CAE игрока. Компания #Hexagon объявила о договоренности с #MSC на приобретение последней за  $834 миллионов.&lt;/p&gt;
+&lt;p&gt;За несколько лет компания Hexagon уже приобрела несколько крупных технических фирм: #Vero (&lt;a href=&#34;http://www.verosoftware.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.verosoftware.com&lt;/a&gt; - разработчик #CAD и #CAM), Forming Technology Inc (#FTI) (&lt;a href=&#34;http://www.forming.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.forming.com&lt;/a&gt; - программное обеспечение для штамповки и формовки на основе собственных полуимперических алгоритмов и с возможностью подключения #LSDYNA), Intergraph (&lt;a href=&#34;http://www.intergraph.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.intergraph.com&lt;/a&gt; -  геоинформационные системы), и Aicon 3D Systems (&lt;a href=&#34;http://aicon3d.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://aicon3d.com&lt;/a&gt; - разработка ПО для 3D сканирования).&lt;/p&gt;
+&lt;p&gt;Таким образом у Hexagon теперь есть все коды от MSC: #Nastran, #Patran, #Adams, #Marc, #Easy5&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.develop3d.com/blog/2017/02/hexagon-to-acquire-msc-simulation-analysis&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DEVELOP3D blog - Hexagon to acquire MSC Software for $834 million&lt;/a&gt;
+&lt;a href=&#34;http://www.verosoftware.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.verosoftware.com&lt;/a&gt;
+&lt;a href=&#34;http://www.forming.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.forming.com&lt;/a&gt;
+&lt;a href=&#34;http://www.intergraph.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.intergraph.com&lt;/a&gt;
+&lt;a href=&#34;http://aicon3d.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://aicon3d.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Простейшая задача в NASTRAN</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-21-prosteyshaya-zadacha-v-nastran/</link>
+      <pubDate>Wed, 21 Dec 2016 17:03:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-21-prosteyshaya-zadacha-v-nastran/</guid>
+      <description>&lt;p&gt;Простейшая задача в NASTRAN
+&lt;a href=&#34;https://youtu.be/ENavI3KGCao&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/ENavI3KGCao&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Учебный пример по изгибу балки при помощи #NASTRAN. Постановка задачи в #PATRAN в исполнении специалистов #MSC.&lt;/p&gt;
+&lt;p&gt;P.S. А я еще думал, что у #ANSYS интересом устаревший и не современный, а тут прям что-то уровня LS-PrePost появилось.
+&lt;a href=&#34;https://youtu.be/ENavI3KGCao&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/ENavI3KGCao&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/ENavI3KGCao&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MSC Nastran, Patran Tutorial - Bending Stresses of a Loaded Beam&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

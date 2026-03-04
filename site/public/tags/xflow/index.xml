@@ -2,22 +2,190 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xflow on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/xflow/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/xflow/</link>
     <description>MagicDPD: Magic Driven Product Development! (Xflow)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 27 Aug 2015 07:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Dec 2018 17:00:22 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/xflow/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/xflow/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Очень скучно про очень интересное: люксовый производитель ях</title>
-      <link>http://localhost:1313/posts/2015-08-27-ochen-skuchno-pro-ochen-interesnoe-lyukso/</link>
+      <title>Состоялся релиз 3DEXPERIENCE R2019x</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-16-sostoyalsya-reliz-3dexperience-r2019x/</link>
+      <pubDate>Sun, 16 Dec 2018 17:00:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-16-sostoyalsya-reliz-3dexperience-r2019x/</guid>
+      <description>&lt;p&gt;Состоялся релиз 3DEXPERIENCE R2019x
+Вышла новая версия CAE платформы Dassault Systems. Ее основные боевые юниты: Abaqus для расчетов прочности, XFlow для CFD, CST для всего электромагнитного. Юниты поменьше: Tosca отвечает за оптимизацию, fe-safe - расчеты долговечности и Isight для автоматизации.
+Меня из всего этого интресует только Abaqus и Tosca (моя давняя любовь, еще с тех времен, когда она была независима).  Но как-то ничего из списка новостей не зашло :(
+&lt;a href=&#34;https://blogs.3ds.com/simulia/r2019x-release-established-products/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blogs.3ds.com/simulia/r2019x-release-established-products/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ABAQUS #CST #FeSafe #TOSCA #XFlow
+&lt;a href=&#34;http://bit.ly/2UL0knU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2UL0knU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blogs.3ds.com/simulia/r2019x-release-established-products/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;R2019x Release: Established Products | The SIMULIA Blog&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2UL0knU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2UL0knU&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Демонстрация Эффекта Магнуса в XFlow CFD</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-05-demonstratsiya-effekta-magnusa-v-xflow-cfd/</link>
+      <pubDate>Fri, 05 Jan 2018 17:01:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-05-demonstratsiya-effekta-magnusa-v-xflow-cfd/</guid>
+      <description>&lt;p&gt;Демонстрация Эффекта Магнуса в XFlow CFD
+Эффект Магнуса — физическое явление, возникающее при обтекании вращающегося тела потоком жидкости или газа. Образуется сила, воздействующая на тело и направленная перпендикулярно направлению потока.&lt;/p&gt;
+&lt;p&gt;На днях коллеги из simulion при помощи XFlow CFD проедмонстрировали этот эффект - показали как пдркуртка футбольного мяча позволяет зрамотно забить гол. Кроме всего, в специалисты simulion в своем блоге выложили пошаговую инструкцию для проведения чиленного эксперимента.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/SZLzSR3vFG0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/SZLzSR3vFG0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://info.simuleon.com/blog/xflow-cfd-demonstrating-the-magnus-effect&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://info.simuleon.com/blog/xflow-cfd-demonstrating-the-magnus-effect&lt;/a&gt;
+#CFD #simulion #XFlow #Эффект Магнуса
+&lt;a href=&#34;https://magicdpd.ru/?p=5825&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5825&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/SZLzSR3vFG0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SIMULIA Xflow CFD - Demonstrating the Magnus Effect&lt;/a&gt;
+&lt;a href=&#34;https://info.simuleon.com/blog/xflow-cfd-demonstrating-the-magnus-effect&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://info.simuleon.com/blog/xflow-cfd-demonstrating-the-magnus-effect&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=5825&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5825&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сегодня на ужин у нас #ProLB - #CFD код на основе метода частиц Больцмана (aka методы решёточных уравнений Больцмана, #Lattice #Boltzmann methods, #LBM).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-15-segodnya-na-uzhin-u-nas-prolb-cfd-kod/</link>
+      <pubDate>Sun, 15 Oct 2017 17:11:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-15-segodnya-na-uzhin-u-nas-prolb-cfd-kod/</guid>
+      <description>&lt;p&gt;Просто еще одни не сильно известный (как, например, #XFlow) игрок в этой области CFD.&lt;/p&gt;
+&lt;p&gt;Интересно, кто про него слышал вообще? Даже на YouTube нет ни одного видео по теме.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.prolb-cfd.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.prolb-cfd.com&lt;/a&gt; 🔗 High-fidelity lattice Boltzmann CFD simulations | ProLB&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2xHdk11&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xHdk11&lt;/a&gt;
+&lt;a href=&#34;http://www.prolb-cfd.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.prolb-cfd.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>XFlow - Nastran FSI</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-14-xflow-nastran-fsi/</link>
+      <pubDate>Tue, 14 Feb 2017 17:02:55 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-14-xflow-nastran-fsi/</guid>
+      <description>&lt;p&gt;XFlow - Nastran FSI
+&lt;a href=&#34;https://www.youtube.com/watch?v=Qretsy5KuNE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Qretsy5KuNE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Часовой(!!!) вебинар на тему постановки #FSI для кодов #MSC #Nastran и #XFlow. В вебинаре много полезных данных об особенностях работы и преимуществах бессеточного #CFD кода XFlow. Об недостатках никто не говорил :-)&lt;/p&gt;
+&lt;p&gt;А еще в конце полностью разобрали постановку простейшего учебного примера для начинающих и заинтересованных.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Qretsy5KuNE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Qretsy5KuNE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Qretsy5KuNE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;XFlow/MSC Nastran Advanced FSI Co-Simulations Webinar&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>XFlow для расчета двигателя</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-01-24-xflow-dlya-rascheta-dvigatelya/</link>
+      <pubDate>Tue, 24 Jan 2017 17:01:45 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-01-24-xflow-dlya-rascheta-dvigatelya/</guid>
+      <description>&lt;p&gt;XFlow для расчета двигателя
+&lt;a href=&#34;https://www.youtube.com/watch?v=00bTEpyiKtY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=00bTEpyiKtY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Небольшой пример от компании #Safran по #CFD расчету вертолетного двигателя при помощи #XFlow. Говорят, что совпали с экспериментом.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=00bTEpyiKtY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=00bTEpyiKtY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=00bTEpyiKtY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;XFlow Analysis of a Check Valve of SAFRAN Helicopter Engines&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dassault Systèmes купил XFlow</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-09-dassault-syst%C3%A8mes-kupil-xflow/</link>
+      <pubDate>Fri, 09 Dec 2016 17:00:30 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-09-dassault-syst%C3%A8mes-kupil-xflow/</guid>
+      <description>&lt;p&gt;Dassault Systèmes купил XFlow
+&lt;a href=&#34;http://www.develop3d.com/blog/dassault-systemes-acquires-next-limit-dynamics-for-further-cfd-simulation-e&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.develop3d.com/blog/dassault-systemes-acquires-next-limit-dynamics-for-further-cfd-simulation-e&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Компания #Dassault Systèmes, имеющая в своем портфолио такие #CAD, как #CATIA и #SolidWorks, а так же убер механический решатель #Abaqus и много еще чего полезного прикупил себе компанию Next Limit Dynamics.&lt;/p&gt;
+&lt;p&gt;Next Limit Dynamics, в свою очередь, знаменита благодаря своему детищу - #XFlow - #CFD решателю использующему модифицированный метод решёточных уравнений Больцмана (Lattice #Boltzmann Method, #LBM, &lt;a href=&#34;https://habrahabr.ru/post/190552/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://habrahabr.ru/post/190552/)&lt;/a&gt;. Данный бесстоечный метод позволяет XFlow с невероятной легкостью решать задачи со сложной и/или подвижной геометрией.&lt;/p&gt;
+&lt;p&gt;P.S. А еще у XFlow ну очень красивый и эффектный постпроцессор.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=wtGa0EDLLW0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=wtGa0EDLLW0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.develop3d.com/blog/dassault-systemes-acquires-next-limit-dynamics-for-further-cfd-simulation-e&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DEVELOP3D blog - Dassault Systèmes acquires Next Limit Dynamics for further CFD simulation expertise&lt;/a&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/190552/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://habrahabr.ru/post/190552/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=wtGa0EDLLW0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=wtGa0EDLLW0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FSI XFlow/MSC Adams</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-04-fsi-xflowmsc-adams/</link>
+      <pubDate>Tue, 04 Oct 2016 17:01:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-04-fsi-xflowmsc-adams/</guid>
+      <description>&lt;p&gt;FSI XFlow/MSC Adams
+&lt;a href=&#34;https://www.youtube.com/watch?v=T3QN4VldIDQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=T3QN4VldIDQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Часовой вебинар посвященный проблемам связки #CFD кода #XFlow и #RBD решателя #Adams. Актуально для пользователей данного ПО, но мне не пригодилось. Уж очень спорный код - этот XFlow.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=T3QN4VldIDQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;XFlow/MSC Adams Advanced Co-Simulations Webinar&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Редкий #FSI расчет парашюта при помощи связки #XFlow и #Nastran от #MSC - говорят все хорошо сошлось с экспериментами NASA :-)</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-09-redkiy-fsi-raschet-parashyuta-pri-pomoschi-s/</link>
+      <pubDate>Sat, 09 Jul 2016 18:03:03 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-09-redkiy-fsi-raschet-parashyuta-pri-pomoschi-s/</guid>
+      <description>&lt;p&gt;Двусторонний FSI осуществляется по средствам открытого кода #OpenFSI (&lt;a href=&#34;http://openfsi.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://openfsi.org/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;#opensource #CFD #FEM &lt;a href=&#34;https://www.youtube.com/watch?v=bc5xDVDw4f0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=bc5xDVDw4f0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://openfsi.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://openfsi.org/&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=bc5xDVDw4f0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=bc5xDVDw4f0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#MSC Software совместно с #XFlow приглашают всех желающих на бесплатный совместный вебинар.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-01-msc-software-sovmestno-s-xflow-priglash/</link>
+      <pubDate>Fri, 01 Jul 2016 11:13:01 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-01-msc-software-sovmestno-s-xflow-priglash/</guid>
+      <description>&lt;p&gt;Как изместно для #CFD кода XFlow основной фишкой является работа с подвижной геометрией - вот они и неализовали связку с #Adams. Думаю, что получится интересно.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://attendee.gotowebinar.com/rt/3215772819490427906?splash=false&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;XFlow/MSC.Adams Advanced Co-Simulations&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Большой вебинар по работе #XFlow в облаке #Rescale.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-19-bolshoy-vebinar-po-rabote-xflow-v-oblak/</link>
+      <pubDate>Sun, 19 Jun 2016 07:20:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-19-bolshoy-vebinar-po-rabote-xflow-v-oblak/</guid>
+      <description>&lt;p&gt;Рассказывают о масштабируемости #CFD кода и показывают полный рабочий процесс при расчете модели в облаке.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ceYK8Oo30pI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Accelerate XFlow Analysis on Rescale&amp;rsquo;s Cloud Simulation Platform&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Давольно уже старый, но все еще интересный вебинар #Xflow посвященный работе их бессеточного #CFD решателя.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-22-davolno-uzhe-staryy-no-vse-esche-interesn/</link>
+      <pubDate>Thu, 22 Oct 2015 18:01:42 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-22-davolno-uzhe-staryy-no-vse-esche-interesn/</guid>
+      <description>&lt;p&gt;Сей чудесный решатель использует методе решёточных уравнений Больцмана (Lattice Boltzmann Method, #LBM). Насколько я помню, это был один из первых, если не первый подобный решатель.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=k-iH3k7nB5U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Webinar- Aerodynamic With LBM: AIAA High Lift Prediction Workshops&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#XFlow порадовали новым примером расчета.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-21-xflow-poradovali-novym-primerom-rascheta/</link>
+      <pubDate>Wed, 21 Oct 2015 06:30:24 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-21-xflow-poradovali-novym-primerom-rascheta/</guid>
+      <description>&lt;p&gt;Их #CFD код посчитал процесс катапультирования из кабины боевого самолета.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=T7A1cN5_DrM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Articulated Body Dynamics CFD simulation of an ejection seat&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Очень скучно про очень интересное: люксовый производитель яхт Glider Yachts рассказал, как они живут с X-Flow - нашумевшим решаете гидрогазодинамик на основе частиц (что-то они там говорили про старика Больцмана).</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-08-27-ochen-skuchno-pro-ochen-interesnoe-lyukso/</link>
       <pubDate>Thu, 27 Aug 2015 07:10:04 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-08-27-ochen-skuchno-pro-ochen-interesnoe-lyukso/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-08-27-ochen-skuchno-pro-ochen-interesnoe-lyukso/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://prwire.com.au/pr/53751/glider-yachts-receives-expert-accreditation-for-exceeding-yacht-design-amp-build-standards&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Press Release: Glider Yachts Receives Expert Accreditation for Exceeding Yacht Design &amp;amp; Build Standards&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

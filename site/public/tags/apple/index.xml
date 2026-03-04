@@ -2,45 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apple on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/apple/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/apple/</link>
     <description>MagicDPD: Magic Driven Product Development! (Apple)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 27 Apr 2022 17:00:12 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/apple/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Первый #MATLAB (название сокращено от “MATrix LABoratory”) н</title>
-      <link>http://localhost:1313/posts/2022-04-27-pervyy-matlab-nazvanie-sokrascheno-ot-m/</link>
+      <title>Первый #MATLAB (название сокращено от “MATrix LABoratory”) не был языком программирования.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-27-pervyy-matlab-nazvanie-sokrascheno-ot-m/</link>
       <pubDate>Wed, 27 Apr 2022 17:00:12 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-04-27-pervyy-matlab-nazvanie-sokrascheno-ot-m/</guid>
-      <description>&lt;p&gt;Язык программирования появился в 1984 году, когда MATLAB стал коммерческим продуктом. Калькулятор был заново реализован на языке C и значительно усовершенствован за счет добавления пользовательских функций, инструментария и графики. Первоначально он был доступен на #IBM PC и его клонах; вскоре появились версии для рабочих станций #Unix и #Apple Macintosh.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-27-pervyy-matlab-nazvanie-sokrascheno-ot-m/</guid>
+      <description>&lt;p&gt;Написанная на Фортране в конце 1970-х годов, она представляла собой простой интерактивный матричный калькулятор, построенный на основе около десятка подпрограмм из библиотек #LINPACK и EISPACK. В нем было всего 71 зарезервированных слов и встроенных функции суммарно. Расширить его можно было только путем изменения исходного кода Fortran.
+Язык программирования появился в 1984 году, когда MATLAB стал коммерческим продуктом. Калькулятор был заново реализован на языке C и значительно усовершенствован за счет добавления пользовательских функций, инструментария и графики. Первоначально он был доступен на #IBM PC и его клонах; вскоре появились версии для рабочих станций #Unix и #Apple Macintosh.&lt;/p&gt;
 &lt;p&gt;Это лишь пара абзацев увлекательной статьи &amp;ldquo;A history of MATLAB&amp;rdquo; написанной Кливом  Молером (Cleve Moler) и Джеком Литтлом (Jack Little) и опубликованной в журнале &amp;ldquo;Proceedings of the ACM on Programming Languages&amp;rdquo; в 2020 году. Все 67 страниц доступны для ознакомления бесплатно, в рамках open access публикации. &lt;a href=&#34;https://doi.org/10.1145/3386331&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://doi.org/10.1145/3386331&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1145/3386331&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;A history of MATLAB | Proceedings of the ACM on Programming Languages&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Великий и ужастный #CalculiX #GraphiX - открытый решатель ме</title>
-      <link>http://localhost:1313/posts/2016-03-31-velikiy-i-uzhastnyy-calculix-graphix/</link>
+      <title>Молния: LS-DYNA R10</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-17-molniya-ls-dyna-r10/</link>
+      <pubDate>Mon, 17 Jul 2017 15:43:58 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-17-molniya-ls-dyna-r10/</guid>
+      <description>&lt;p&gt;Молния: LS-DYNA R10
+&lt;a href=&#34;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;На официальном FTP компании #LSTC появилась #LSDYNA R10. Доступны бинарники для #MPP (aka #DMP)  и #SMP версии сразу подо все основные аппаратно-программные платформы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#Cray&lt;/li&gt;
+&lt;li&gt;#Intel #Itanium&lt;/li&gt;
+&lt;li&gt;#IBM #Power&lt;/li&gt;
+&lt;li&gt;#Apple #macOS&lt;/li&gt;
+&lt;li&gt;#SGI&lt;/li&gt;
+&lt;li&gt;#Microsoft #Windows&lt;/li&gt;
+&lt;li&gt;#Linux
+Получается настоящий кроссплатформенный софт!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&lt;/a&gt;
+&lt;a href=&#34;http://ftp.lstc.com/user/mpp-dyna/R10.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/mpp-dyna/R10.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;P.S. Ждем релизнотов и документацию!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&lt;/a&gt;
+&lt;a href=&#34;http://ftp.lstc.com/user/mpp-dyna/R10.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/mpp-dyna/R10.0/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shapr3D - навено первый необлачный #CAD рассчитанный на работы на планшете. #Shapr3D (http://shapr3d.com) рассчитан на работу с #iPad Pro и #Apple #Pencil.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-08-shapr3d-naveno-pervyy-neoblachnyy-cad/</link>
+      <pubDate>Fri, 08 Jul 2016 06:31:46 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-08-shapr3d-naveno-pervyy-neoblachnyy-cad/</guid>
+      <description>&lt;p&gt;Если же запустить его на другом iPad, то создавать ничего не получится - только просматривать.&lt;/p&gt;
+&lt;p&gt;В любом случае, выглядит это очень круто, и даже удобно. &lt;a href=&#34;https://www.youtube.com/watch?v=xmAjvfNL9mA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xmAjvfNL9mA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.shapr3d.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;3D CAD for designing manufacturing-ready models | Shapr3D&lt;/a&gt;
+&lt;a href=&#34;http://shapr3d.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://shapr3d.com&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=xmAjvfNL9mA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=xmAjvfNL9mA&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Великий и ужастный #CalculiX #GraphiX - открытый решатель механики.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-31-velikiy-i-uzhastnyy-calculix-graphix/</link>
       <pubDate>Thu, 31 Mar 2016 07:00:29 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-03-31-velikiy-i-uzhastnyy-calculix-graphix/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.dhondt.de/INST_CGX_2_8_MAC_02_10_2015.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dhondt.de/INST_CGX_2_8_MAC_02_10_2015.pdf&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-31-velikiy-i-uzhastnyy-calculix-graphix/</guid>
+      <description>&lt;p&gt;А по ссылке инструкция для сборки под #Mac OS X
+&lt;a href=&#34;http://www.dhondt.de/INST_CGX_2_8_MAC_02_10_2015.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dhondt.de/INST_CGX_2_8_MAC_02_10_2015.pdf&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Расчетный модуль #ccx ставится пакетным менеджером #Homebrew вообще в одну команду:&lt;/p&gt;
 &lt;p&gt;brew install homebrew/science/calculix-ccx&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>#ANSYS сколько угодно может говорить, что Mac OS X - это не </title>
-      <link>http://localhost:1313/posts/2015-12-30-ansys-skolko-ugodno-mozhet-govorit-cht/</link>
+      <title>Я, как старый любитель #Apple, не мог против такого пройти, особенно на волне вчерашнего мероприятия: #Onshape попал в список рекомендованных приложений для iPad Pro.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-22-ya-kak-staryy-lyubitel-apple-ne-mog-pr/</link>
+      <pubDate>Tue, 22 Mar 2016 11:00:44 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-22-ya-kak-staryy-lyubitel-apple-ne-mog-pr/</guid>
+      <description>&lt;p&gt;Причем Onshape стал первой 3D #CAD системой, которая полностью поддерживает Apple Pencil. У меня все меньше поводов оставаться с полноценным компьютером.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.onshape.com/cad-blog/onshape-for-ipad-pro&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Onshape is the First 3D CAD system for iPad Pro &amp;amp; Apple Pencil&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#ANSYS сколько угодно может говорить, что Mac OS X - это не система для инженера. А в это время любой желающий может скачать с официального ftp.lstc.com самую свежую версию LS-DYNA R8.0.0 и LS-PrePost 4.3. Вот где они, true расчеты!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-30-ansys-skolko-ugodno-mozhet-govorit-cht/</link>
       <pubDate>Wed, 30 Dec 2015 06:00:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-12-30-ansys-skolko-ugodno-mozhet-govorit-cht/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-30-ansys-skolko-ugodno-mozhet-govorit-cht/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://lstc.com/download/ls-dyna&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Download LS-DYNA for UNIX/Linux/Solaris | Livermore Software Technology Corp.&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -2,26 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CADfix on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/cadfix/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/cadfix/</link>
     <description>MagicDPD: Magic Driven Product Development! (CADfix)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 21 Jul 2018 18:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Dec 2021 13:02:06 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/cadfix/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/cadfix/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>CADfix STL</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-12-28-cadfix-stl/</link>
+      <pubDate>Tue, 28 Dec 2021 13:02:06 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-12-28-cadfix-stl/</guid>
+      <description>&lt;p&gt;CADfix STL&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/EZFA4His6VY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/EZFA4His6VY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CADfix STL - это бесплатная версия геометрического процессора от ITI, в которой оставили только функции работы с STL геометрией. Однако это может быть очень полезно домашним любителям 3D печати - так они смогут перегнать почти любой CAD в формат, пригодный для дальнейшей работы их любимого слайсера.
+#cadfix #stl
+&lt;a href=&#34;https://tinyurl.com/y4cy9krh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y4cy9krh&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/EZFA4His6VY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CADfix STL Overview&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/y4cy9krh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y4cy9krh&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CADfix 12</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-09-cadfix-12/</link>
+      <pubDate>Thu, 09 Aug 2018 18:00:30 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-09-cadfix-12/</guid>
+      <description>&lt;p&gt;CADfix 12
+CADfix 12 - это такой геометрический процессор, предназначенный для починки и подготовки геометрии к расчетам. Я им никогда не пользовался, так что читал обзор и мысленно проводил сравнение с моим любимым SpaceClaim. Вот функции, которые мне бы пригодились:&lt;/p&gt;
+&lt;p&gt;CAD to CAD differencing - визуализация отличий в геометрических моделях. Вот это иногда очень надо, а не хватает.&lt;/p&gt;
+&lt;p&gt;Geometry Morphing - функция морфинга геометрии по данным о деформированной сетке. Может пригодиться, но в ANSYS хватает и обычного морфинга сетки.&lt;/p&gt;
+&lt;p&gt;Hex-skin partitioning - широко разрекламированная функция автоматического создания блочной топологии для генерации all-hex сетки. Если сработает на моей геометрии, то это бомба :-)
+&lt;a href=&#34;https://info.iti-global.com/blog/cadfix-12&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://info.iti-global.com/blog/cadfix-12&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#CAD #CADfix
+&lt;a href=&#34;http://bit.ly/2OYgQ19&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OYgQ19&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://info.iti-global.com/blog/cadfix-12&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;New release of CADfix 12 advances automated geometry processing for CAD users&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2OYgQ19&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2OYgQ19&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Автоматическая блочная декомпозиция в CADfix</title>
-      <link>http://localhost:1313/posts/2018-07-21-avtomaticheskaya-blochnaya-dekompozitsiya-v-ca/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-21-avtomaticheskaya-blochnaya-dekompozitsiya-v-ca/</link>
       <pubDate>Sat, 21 Jul 2018 18:00:30 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-07-21-avtomaticheskaya-blochnaya-dekompozitsiya-v-ca/</guid>
-      <description>&lt;p&gt;CADfix на прошедшей конференции  NAFEMS UK Conference 2018 показали свою новую фишку. Теперь они умеют автоматически делать блочную декомпозицию геометрии для построения на ней качественной all-hex сетки!
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-07-21-avtomaticheskaya-blochnaya-dekompozitsiya-v-ca/</guid>
+      <description>&lt;p&gt;Автоматическая блочная декомпозиция в CADfix
+CADfix на прошедшей конференции  NAFEMS UK Conference 2018 показали свою новую фишку. Теперь они умеют автоматически делать блочную декомпозицию геометрии для построения на ней качественной all-hex сетки!
 Вообще, CADfix - это система упрощения, очистки и подготовки геометрии для расчетов, принадлежащая компании International TechneGroup Incorporated.
 Картинки - это хорошо, но я обязательно попробую взять триалку и проверить на моих тестовых задачах, как это работает.
 &lt;a href=&#34;https://info.iti-global.com/blog/automatic-hex-skin-meshing-nafems-uk-2018&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://info.iti-global.com/blog/automatic-hex-skin-meshing-nafems-uk-2018&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#Allhex #CADfix #Mesh
+&lt;a href=&#34;http://bit.ly/2NyTUnl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NyTUnl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.iti-global.com/cadfix&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CADfix&lt;/a&gt;
+&lt;a href=&#34;https://www.nafems.org/2018/uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.nafems.org/2018/uk/&lt;/a&gt;
+&lt;a href=&#34;https://info.iti-global.com/blog/automatic-hex-skin-meshing-nafems-uk-2018&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://info.iti-global.com/blog/automatic-hex-skin-meshing-nafems-uk-2018&lt;/a&gt;
 &lt;a href=&#34;http://bit.ly/2NyTUnl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2NyTUnl&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

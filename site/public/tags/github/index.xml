@@ -1,83 +1,290 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GitHub on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/github/</link>
-    <description>MagicDPD: Magic Driven Product Development! (GitHub)</description>
+    <title>Github on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/github/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Github)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 23 May 2022 17:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Jul 2022 19:47:45 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/github/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Метод вязких вихревых доменов (ВВД, viscous vortex domains, </title>
-      <link>http://localhost:1313/posts/2022-05-23-metod-vyazkih-vihrevyh-domenov-vvd-visc/</link>
+      <title>#MYSTRAN (aka My Structural Analysis) - #opensource КЭ решатель, базирующийся на синтаксисте #NASTRAТ.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-07-11-mystran-aka-my-structural-analysis/</link>
+      <pubDate>Mon, 11 Jul 2022 19:47:45 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-07-11-mystran-aka-my-structural-analysis/</guid>
+      <description>&lt;p&gt;Несмотря на схожесть названий до степени смешения, разработчики утверждают, все процедуры построения и работы с глобальной матрицей жесткости, решение СЛАУ, получение усилий, процедуры ввода-вывода полностью переработаны на &amp;ldquo;современном&amp;rdquo; языке Fortran 90/95. Смотрим исходники на #GitHub кому интересно. &lt;a href=&#34;https://www.mystran.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.mystran.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mystran.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.mystran.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Метод вязких вихревых доменов (ВВД, viscous vortex domains, #VVD) - это #meshless метод вычислительной гидродинамики для прямого численного решения двумерных уравнений Навье-Стокса в координатах Лагранжа.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-05-23-metod-vyazkih-vihrevyh-domenov-vvd-visc/</link>
       <pubDate>Mon, 23 May 2022 17:00:20 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-05-23-metod-vyazkih-vihrevyh-domenov-vvd-visc/</guid>
-      <description>&lt;p&gt;Данный метод, например, реализован в #opensource коде #Vvflow #CFD suite, код которого доступен на #GitHub, а примеры его использования - на YouTube
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-05-23-metod-vyazkih-vihrevyh-domenov-vvd-visc/</guid>
+      <description>&lt;p&gt;Он не реализует никакой модели турбулентности и свободен от произвольных параметров. Основная идея этого метода состоит в том, чтобы представить поле вихря дискретными областями (доменами), которые перемещаются с диффузионной скоростью относительно жидкости и сохраняют свою циркуляцию.&lt;/p&gt;
+&lt;p&gt;Данный метод, например, реализован в #opensource коде #Vvflow #CFD suite, код которого доступен на #GitHub, а примеры его использования - на YouTube
 &lt;a href=&#34;https://youtu.be/H-snLmMQK0Y&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/H-snLmMQK0Y&lt;/a&gt;
 &lt;a href=&#34;https://youtu.be/3mULL6O6f38&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/3mULL6O6f38&lt;/a&gt;
 &lt;a href=&#34;https://youtu.be/kHJ4occRZ4M&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/kHJ4occRZ4M&lt;/a&gt;
 &lt;a href=&#34;https://youtu.be/9fr2C5RC-6Y&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/9fr2C5RC-6Y&lt;/a&gt;
 &lt;a href=&#34;https://youtu.be/7xr_giqSfRc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/7xr_giqSfRc&lt;/a&gt; &lt;a href=&#34;https://github.com/vvflow/vvflow&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/vvflow/vvflow&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/H-snLmMQK0Y&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;NACA-0012 airfoil with deploying spoiler&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/3mULL6O6f38&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/3mULL6O6f38&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/kHJ4occRZ4M&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/kHJ4occRZ4M&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/9fr2C5RC-6Y&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/9fr2C5RC-6Y&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/7xr_giqSfRc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/7xr_giqSfRc&lt;/a&gt;
+&lt;a href=&#34;https://github.com/vvflow/vvflow&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/vvflow/vvflow&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>А знаете ли вы, что исходный код знаменитого #NASTRAN (#NASA Structural Analysis System) и сейчас лежит в свободном доступе в официальном репозитории NASA на #GitHub</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-20-a-znaete-li-vy-chto-ishodnyy-kod-znameni/</link>
+      <pubDate>Wed, 20 Apr 2022 17:00:07 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-20-a-znaete-li-vy-chto-ishodnyy-kod-znameni/</guid>
+      <description>&lt;p&gt;#opensource &lt;a href=&#34;https://github.com/nasa/NASTRAN-95&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/nasa/NASTRAN-95&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/nasa/NASTRAN-95&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/nasa/NASTRAN-95&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Как писать пользовательские модели материалов под LS-DYNA</title>
-      <link>http://localhost:1313/posts/2021-10-27-kak-pisat-polzovatelskie-modeli-mater/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-10-27-kak-pisat-polzovatelskie-modeli-mater/</link>
       <pubDate>Wed, 27 Oct 2021 13:02:16 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-10-27-kak-pisat-polzovatelskie-modeli-mater/</guid>
-      <description>&lt;p&gt;Допустим, вам почему-то не хватило нескольких сотен моделей материалов из LS-DYNA, и вы хотите написать свой. На GitHUB я нашел репозиторий с полным набором инструкций, как это делать, описанием необходимых компиляторов, инструкциями по их настройке, логикой работы пользовательских моделей в LS-DYNA и даже кратким учебником Fortran.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-10-27-kak-pisat-polzovatelskie-modeli-mater/</guid>
+      <description>&lt;p&gt;Как писать пользовательские модели материалов под LS-DYNA&lt;/p&gt;
+&lt;p&gt;Допустим, вам почему-то не хватило нескольких сотен моделей материалов из LS-DYNA, и вы хотите написать свой. На GitHUB я нашел репозиторий с полным набором инструкций, как это делать, описанием необходимых компиляторов, инструкциями по их настройке, логикой работы пользовательских моделей в LS-DYNA и даже кратким учебником Fortran.&lt;/p&gt;
 &lt;p&gt;Крутость данного репозитория трудно переоценить. При этом, проект вполне себе живой - последние изменения в него вносились на этой неделе! Ссылка на репозиторий: github.com/jfriedlein/usrmat_LS-Dyna_Fortran&lt;/p&gt;
 &lt;p&gt;#ansys #fortran #github #lsdyna #umat
+&lt;a href=&#34;https://tinyurl.com/yz63vjfe&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yz63vjfe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/jfriedlein/usrmat_LS-Dyna_Fortran&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;GitHub - jfriedlein/usrmat_LS-Dyna_Fortran: Basics to implement user-defined materials (usrmat, umat) in LS-Dyna with Fortran&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/yz63vjfe&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yz63vjfe&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Как заставить OpenFOAM считать механику в явной постановке</title>
-      <link>http://localhost:1313/posts/2018-10-20-kak-zastavit-openfoam-schitat-mehaniku/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-20-kak-zastavit-openfoam-schitat-mehaniku/</link>
       <pubDate>Sat, 20 Oct 2018 17:00:35 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-10-20-kak-zastavit-openfoam-schitat-mehaniku/</guid>
-      <description>&lt;p&gt;Джибран Хайдер (Jibran Haider) опубликовал на GitHub результаты своей работы - проект по созданию explicit решателя механики на базе математики OpenFOAM.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-20-kak-zastavit-openfoam-schitat-mehaniku/</guid>
+      <description>&lt;p&gt;Как заставить OpenFOAM считать механику в явной постановке
+Джибран Хайдер (Jibran Haider) опубликовал на GitHub результаты своей работы - проект по созданию explicit решателя механики на базе математики OpenFOAM.&lt;/p&gt;
 &lt;p&gt;Прикольное и необычное использование этого знаменитого открытого кода, который ранее в основном использовался для задач CFD.&lt;/p&gt;
 &lt;p&gt;Естественно, все с окрытым кодом и бесплатно.&lt;/p&gt;
 &lt;p&gt;#Explicit #GitHub #OpenCour #OpenFOAM
 &lt;a href=&#34;http://bit.ly/2CWHxQP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2CWHxQP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/2CWHxQP&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2CWHxQP&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>А что если научить машину ускорять задачи топологической опт</title>
-      <link>http://localhost:1313/posts/2017-11-24-a-chto-esli-nauchit-mashinu-uskoryat-zadach/</link>
+      <title>TrussOptimization2D</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-09-02-trussoptimization2d/</link>
+      <pubDate>Sun, 02 Sep 2018 18:00:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-09-02-trussoptimization2d/</guid>
+      <description>&lt;p&gt;TrussOptimization2D
+Еще одна увлекательная КЭ игра от Аманды Гассаи (Amanda Ghassaei). На этот раз мы строим мост из балочных элементов.
+&lt;a href=&#34;http://apps.amandaghassaei.com/TrussOptimization2D/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://apps.amandaghassaei.com/TrussOptimization2D/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Game #GitHub
+&lt;a href=&#34;http://bit.ly/2C7JwSE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2C7JwSE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://apps.amandaghassaei.com/TrussOptimization2D/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://apps.amandaghassaei.com/TrussOptimization2D/&lt;/a&gt;
+&lt;a href=&#34;http://apps.amandaghassaei.com/TrussOptimization2D/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://apps.amandaghassaei.com/TrussOptimization2D/&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2C7JwSE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2C7JwSE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Симулятор оригами</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-22-simulyator-origami/</link>
+      <pubDate>Wed, 22 Aug 2018 18:00:55 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-22-simulyator-origami/</guid>
+      <description>&lt;p&gt;Симулятор оригами&lt;/p&gt;
+&lt;p&gt;Аманда Гассаи (Amanda Ghassaei) на своем сайте публикует удивительные по качеству и красоте примеры своих работ. Я познакомился с ее творчеством с симулятора оригами, с него обзор и начнем.&lt;/p&gt;
+&lt;p&gt;Нашему вниманию предлагается симулятор сложения фигурок из бумаги, который легко может отнять у вас несколько часов жизни. Сам симулятор работает полностью в браузере, есть множество шаблонов не только складывания, но и резки бумаги, есть красивая интерактивая анимация, и есть даже расчет поля деформаций!&lt;/p&gt;
+&lt;p&gt;А еще, что самое важное, есть ссылка для GitHub с открытым исходным кодом приложения.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.amandaghassaei.com/projects/origami_simulator/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.amandaghassaei.com/projects/origami_simulator/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Game #GitHub #OpenSource #Origami
+&lt;a href=&#34;http://bit.ly/2nZtAbl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2nZtAbl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://amandaghassaei.com/projects/origami_simulator/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://amandaghassaei.com/projects/origami_simulator/&lt;/a&gt;
+&lt;a href=&#34;http://www.amandaghassaei.com/projects/origami_simulator/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.amandaghassaei.com/projects/origami_simulator/&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2nZtAbl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2nZtAbl&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>А что если научить машину ускорять задачи топологической оптимизации?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-24-a-chto-esli-nauchit-mashinu-uskoryat-zadach/</link>
       <pubDate>Fri, 24 Nov 2017 17:14:52 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-24-a-chto-esli-nauchit-mashinu-uskoryat-zadach/</guid>
-      <description>&lt;p&gt;Статья двух русских студентов (Иван Сосновик и Иван Оселедец) посвящена рассказывает про их проект, в котором нейронной сети показывали промежуточные результаты работы алгоритма топологической оптимизации и учили ее угадывать, какой будет итоговый результат. После обучения на 10 000 произвольно сгенерированных задачах для #ToPy нейрона смогла ускорить процесс оптимизации до 20 раз в рассматриваемых примерах!&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-24-a-chto-esli-nauchit-mashinu-uskoryat-zadach/</guid>
+      <description>&lt;p&gt;И получить при этом многократное сокращение времени решения задачи?&lt;/p&gt;
+&lt;p&gt;Статья двух русских студентов (Иван Сосновик и Иван Оселедец) посвящена рассказывает про их проект, в котором нейронной сети показывали промежуточные результаты работы алгоритма топологической оптимизации и учили ее угадывать, какой будет итоговый результат. После обучения на 10 000 произвольно сгенерированных задачах для #ToPy нейрона смогла ускорить процесс оптимизации до 20 раз в рассматриваемых примерах!&lt;/p&gt;
 &lt;p&gt;Выборка для тренировки нейроне доступна на #GitHub:
 &lt;a href=&#34;http://ift.tt/2hRdoWE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hRdoWE&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Исходная научная статья лежит тут:
 &lt;a href=&#34;http://ift.tt/2A2KoWc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2A2KoWc&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#topology #optimization #python #machinelearning #opensourceMediaMedia🔗 [1709.09578] Neural networks for topology optimization&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2x6LCL4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2x6LCL4&lt;/a&gt;
+&lt;a href=&#34;https://arxiv.org/abs/1709.09578&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://arxiv.org/abs/1709.09578&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Привет всем, кто пишет свой движок топологической оптимизаци</title>
-      <link>http://localhost:1313/posts/2017-11-22-privet-vsem-kto-pishet-svoy-dvizhok-topol/</link>
+      <title>Привет всем, кто пишет свой движок топологической оптимизации от #opensource проекта #ToPy.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-22-privet-vsem-kto-pishet-svoy-dvizhok-topol/</link>
       <pubDate>Wed, 22 Nov 2017 17:10:26 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-11-22-privet-vsem-kto-pishet-svoy-dvizhok-topol/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-22-privet-vsem-kto-pishet-svoy-dvizhok-topol/</guid>
       <description>&lt;p&gt;Так уж сейчас обстоят дела, что написать алгоритм линейной топологической оптимизации - это уровень обычной бакалаврской работы. И я очень рад, что, дабы остановить поток велосипедостроителей, люди выкладывают такие коды на #GitHub. Хотите сделать хорошую топологическую оптимизацию - сделайте сначала обзор литературы 😊&lt;/p&gt;
 &lt;p&gt;Кстати, ToPly не так прост, как может показаться. Он может решать как классические задачи оптимизации топологии с целью минимизации податливости при уменьшении объема, так и выполнять оптимизацию теплопроводности (вот это что-то новенькое!)&lt;/p&gt;
 &lt;p&gt;#python #toplology #optimization
 &lt;a href=&#34;https://github.com/williamhunter/topy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/williamhunter/topy&lt;/a&gt; 🔗 williamhunter/topy&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2mSwa57&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2mSwa57&lt;/a&gt;
+&lt;a href=&#34;https://github.com/williamhunter/topy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/williamhunter/topy&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ничего особенного, просто #CFD код #CFL3D от #NASA, разрабатываемый более 35 лет доступен жалеющим на #GitHub.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-01-nichego-osobennogo-prosto-cfd-kod-cfl3/</link>
+      <pubDate>Sun, 01 Oct 2017 12:04:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-01-nichego-osobennogo-prosto-cfd-kod-cfl3/</guid>
+      <description>&lt;p&gt;Цитата из описания кода с его сайта: &amp;ldquo;CFL3D is a structured-grid, cell-centered, upwind-biased, Reynolds-averaged Navier-Stokes (RANS) code. It can be run in parallel on multiple grid zones with point-matched, patched, overset, or embedded connectivities. Both multigrid and mesh sequencing are available in time-accurate or steady-state modes.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2yddlyL&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yddlyL&lt;/a&gt;
+&lt;a href=&#34;https://cfl3d.larc.nasa.gov&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://cfl3d.larc.nasa.gov&lt;/a&gt; 🔗 CFL3D Version 6 Home Page&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2v2FNSC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2v2FNSC&lt;/a&gt;
+&lt;a href=&#34;https://cfl3d.larc.nasa.gov&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://cfl3d.larc.nasa.gov&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование пожаров</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-20-modelirovanie-pozharov/</link>
+      <pubDate>Thu, 20 Jul 2017 17:01:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-20-modelirovanie-pozharov/</guid>
+      <description>&lt;p&gt;Моделирование пожаров
+&lt;a href=&#34;https://pages.nist.gov/fds-smv/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://pages.nist.gov/fds-smv/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;У Национального института стандартов и технологий США (The National Institute of Standards and Technology, #NIST) есть код собственной разработки, заточенный на моделирование пожаров, распространения огня и дыма, учета тепловых потоков. Код открытый и бесплатный, публично доступный на #GitHub, что не может не вызывать уважения. Всем заинтересовавшимся можно ознакомиться с проектами Fire Dynamics Simulator (#FDS) и  #Smokeview (#SMV).&lt;/p&gt;
+&lt;p&gt;#cfd #opensource
+&lt;a href=&#34;https://www.youtube.com/watch?v=pgDbsv62cu8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=pgDbsv62cu8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pages.nist.gov/fds-smv/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FDS-SMV&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=pgDbsv62cu8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=pgDbsv62cu8&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QD PLUS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-12-qd-plus/</link>
+      <pubDate>Sun, 12 Mar 2017 17:01:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-12-qd-plus/</guid>
+      <description>&lt;p&gt;QD PLUS
+&lt;a href=&#34;https://github.com/qd-cae/qd-eng&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/qd-cae/qd-eng&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Представляю вашему вниманию проект #QD PLUS позволяющий выполнять постпроцессинг #LSDYNA. Проект написан на #python и доступен всем желающим на #GitHub. Также есть серия вино уроков (первый в этом посте) по работе с библиотекой проекта.&lt;/p&gt;
+&lt;p&gt;#opensource&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=w8qIzqPJ4VY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=w8qIzqPJ4VY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/qd-cae/qd-eng&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;qd-cae/qd-eng&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=w8qIzqPJ4VY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=w8qIzqPJ4VY&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Дисер в LaTeX</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-23-diser-v-latex/</link>
+      <pubDate>Thu, 23 Feb 2017 17:02:47 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-23-diser-v-latex/</guid>
+      <description>&lt;p&gt;Дисер в LaTeX
+&lt;a href=&#34;https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Тема оформления списка литературы по #ГОСТ вызвала неподдельный интерес у всей аудитории - грех ее не продолжить. Специально для тех, кто умеет и любит верстать научные статьи в #LaTeX Андрей Акиньшин в своем репозитории на #GitHub создал готовый правильный (ГОСТ Р 7.0.11-2011) шаблон для написания #PHD диссертации (ака #дисер).
+Шаблон готов к употреблению - надо только форкнуть его и начать править в TeX редактора. Например, есть классный облачный wysiwyg редактор #ShareLaTeX (&lt;a href=&#34;https://www.sharelatex.com/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.sharelatex.com/)&lt;/a&gt;, который легко подхватываю шаблон прямо из гита и работает бесплатно в однопользовательском режиме.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;GitHub - AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template: LaTeX-template for russian Phd thesis&lt;/a&gt;
+&lt;a href=&#34;https://www.sharelatex.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.sharelatex.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Список литературы по ГОСТ</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-19-spisok-literatury-po-gost/</link>
+      <pubDate>Sun, 19 Feb 2017 12:03:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-19-spisok-literatury-po-gost/</guid>
+      <description>&lt;p&gt;Список литературы по ГОСТ
+&lt;a href=&#34;https://github.com/irandom/docs/tree/master/gost-r-7.0.5-2008&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/irandom/docs/tree/master/gost-r-7.0.5-2008&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Почему-то #Microsoft #Word упорно не хочет понимать и принимать отечественные правила форматирования научных текстов. Однако добрые люди вложили на #GitHub специальный шаблон, позволяющий делать список литературы по #ГОСТ Р 7.0.5-2008 прямо в Word - всем удачного использования при написании статей и отчетов!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/irandom/docs/tree/master/gost-r-7.0.5-2008&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;docs/gost-r-7.0.5-2008 at master · irandom/docs&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Немного аналитических выкладок в SciPy</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-24-nemnogo-analiticheskih-vykladok-v-scipy/</link>
+      <pubDate>Sat, 24 Dec 2016 17:01:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-24-nemnogo-analiticheskih-vykladok-v-scipy/</guid>
+      <description>&lt;p&gt;Немного аналитических выкладок в SciPy
+&lt;a href=&#34;http://www.scipy-lectures.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.scipy-lectures.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;У могучего и популярного языка программирования #Python уже давно существует фреймворк #SciPy позволяющий бесплатно делать очень многое для научных расчетов, для чего раньше использовали дорогие и громоздкие #Matlab, #Mathematica или #Maple.&lt;/p&gt;
+&lt;p&gt;Но как любой продукт того класса, SciPy надо изучать, а для этого нужно хорошее учебное пособие. Для изучения SciPy мне приглянулся сайт-учебныик &lt;a href=&#34;http://www.scipy-lectures.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.scipy-lectures.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;На сайте расскажут про такие модули/библиотека, как:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#NumPy&lt;/li&gt;
+&lt;li&gt;#Matplotlib&lt;/li&gt;
+&lt;li&gt;#CPython&lt;/li&gt;
+&lt;li&gt;#SymPy&lt;/li&gt;
+&lt;li&gt;#Mayavi&lt;/li&gt;
+&lt;li&gt;и многое другое.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;P.S. Весь сайт можно скачать в виде PDF, есть учебные пример, есть репозиторий на #GitHub&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://scipy-lectures.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://scipy-lectures.org/&lt;/a&gt;
+&lt;a href=&#34;http://www.scipy-lectures.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.scipy-lectures.org/&lt;/a&gt;
+&lt;a href=&#34;http://www.scipy-lectures.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.scipy-lectures.org&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CALFEM - не путать с CADFEM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-12-calfem-ne-putat-s-cadfem/</link>
+      <pubDate>Sat, 12 Nov 2016 12:03:35 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-12-calfem-ne-putat-s-cadfem/</guid>
+      <description>&lt;p&gt;CALFEM - не путать с CADFEM
+&lt;a href=&#34;https://github.com/CALFEM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/CALFEM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#CALFEM (Computer Aided Learning of the Finite Element Method) - набор инструментов с открытым исходным текстом для изучения работы #МКЭ. CALFEM разработан в университете города Лунд (Lund), Швеция (Sweden) и может быт скачан с #GitHub. Имеются реализации для #Matlab, #Python, и C#.&lt;/p&gt;
+&lt;p&gt;#opensource
+&lt;a href=&#34;https://github.com/CALFEM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/CALFEM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/CALFEM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CALFEM&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Удобный блокнот</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-30-udobnyy-bloknot/</link>
+      <pubDate>Fri, 30 Sep 2016 17:00:21 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-30-udobnyy-bloknot/</guid>
+      <description>&lt;p&gt;Удобный блокнот
+&lt;a href=&#34;https://vk.com/wall-97265142_215&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/wall-97265142_215&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Я уже писал, что #SublimeText умеет подсвечивать синтаксис #ANSYS #APDL и #LSDYNA KEYWORD (&lt;a href=&#34;https://vk.com/wall-97265142_215%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://vk.com/wall-97265142_215)&lt;/a&gt;. Оказалось, это не все: в стандартном репозитории для SublimeText присутствует пакет подсветки синтаксиса #Abaqus, а если очень надо, но на #GitHub есть плагин для подсветки #NASTRAN (&lt;a href=&#34;https://github.com/bguest/NASTRAN-Textmate-Bundle%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/bguest/NASTRAN-Textmate-Bundle)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Таким образом SublimeText умеет посвечивать синтаксис всех 4-х самых больших система для КЭ расчетов.&lt;/p&gt;
+&lt;p&gt;P.S. Учебные видео по работе с SublimeText доступны по ссылке: &lt;a href=&#34;https://www.youtube.com/playlist?list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/playlist?list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vk.com/wall-97265142_215&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MagicDPD - про ANSYS, LS-DYNA и другое CAE&lt;/a&gt;
+&lt;a href=&#34;https://github.com/bguest/NASTRAN-Textmate-Bundle&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/bguest/NASTRAN-Textmate-Bundle&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/playlist?list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/playlist?list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

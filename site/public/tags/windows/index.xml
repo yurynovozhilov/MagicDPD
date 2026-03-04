@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/windows/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/windows/</link>
     <description>MagicDPD: Magic Driven Product Development! (Windows)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Mon, 10 Jun 2019 17:00:30 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Расчеты в LS-DYNA на кластерах Windows HPC Cluster</title>
-      <link>http://localhost:1313/posts/2019-06-10-raschety-v-ls-dyna-na-klasterah-windows-h/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-06-10-raschety-v-ls-dyna-na-klasterah-windows-h/</link>
       <pubDate>Mon, 10 Jun 2019 17:00:30 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-06-10-raschety-v-ls-dyna-na-klasterah-windows-h/</guid>
-      <description>&lt;p&gt;DYNAmore выпустили инструкцию по настройке и работе распределённого решетеля LS-DYNA на кластерах под управлением MS Windows HPC Pack 2016. Инструкция полезная, но на самом деле вам достаточно знать следующий набор команд:&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-06-10-raschety-v-ls-dyna-na-klasterah-windows-h/</guid>
+      <description>&lt;p&gt;Расчеты в LS-DYNA на кластерах Windows HPC Cluster&lt;/p&gt;
+&lt;p&gt;DYNAmore выпустили инструкцию по настройке и работе распределённого решетеля LS-DYNA на кластерах под управлением MS Windows HPC Pack 2016. Инструкция полезная, но на самом деле вам достаточно знать следующий набор команд:&lt;/p&gt;
 &lt;p&gt;SET LSTC_MEMORY=auto
 job submit /jobname: /numcores: /workdir:  mpiexec -np   i= jobid=&lt;/p&gt;
 &lt;p&gt;Ну а если вы используете лицензии ANSYS LS-DYNA, то в начало надо добавить еще такое:&lt;/p&gt;
@@ -28,47 +29,148 @@ set ANSYSLI_SERVERS=2325@&lt;/p&gt;
 &lt;p&gt;#HPC #LS_DYNA #MPI #Windows&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2yI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2yI&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://project.dynamore.se/public/windowscluster12&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://project.dynamore.se/public/windowscluster12&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2yI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2yI&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LaTeX формулы в картинках</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-26-latex-formuly-v-kartinkah/</link>
+      <pubDate>Wed, 26 Jul 2017 17:00:09 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-26-latex-formuly-v-kartinkah/</guid>
+      <description>&lt;p&gt;LaTeX формулы в картинках
+&lt;a href=&#34;https://klatexformula.sourceforge.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://klatexformula.sourceforge.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;KLatexFormula - маленьках, бесплатная, кроссплатформенная (#Windows и #macOS бинарники, а для #Linux - сборка из исходных текстов) программа с окрытыи исходным кодом, которая подойдет тем, кто пишет научные статьи в журналы или для интернета. #KLatexFormula занимается экспортом математических выражений #LaTeX в изображения. Изображение с формулой можно скопировать, сохранить или перетянуть в нудное вам приложение.&lt;/p&gt;
+&lt;p&gt;Я конечно понимаю, что в современном Word есть пристойный редактор формул, но, по моему опыту, сложные выражения в нем красиво не запишешь - например беда с выравниванием формул по знаку равенства.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://klatexformula.sourceforge.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;KLatexFormula — KLatexFormula&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Молния: LS-DYNA R10</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-17-molniya-ls-dyna-r10/</link>
+      <pubDate>Mon, 17 Jul 2017 15:43:58 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-17-molniya-ls-dyna-r10/</guid>
+      <description>&lt;p&gt;Молния: LS-DYNA R10
+&lt;a href=&#34;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;На официальном FTP компании #LSTC появилась #LSDYNA R10. Доступны бинарники для #MPP (aka #DMP)  и #SMP версии сразу подо все основные аппаратно-программные платформы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#Cray&lt;/li&gt;
+&lt;li&gt;#Intel #Itanium&lt;/li&gt;
+&lt;li&gt;#IBM #Power&lt;/li&gt;
+&lt;li&gt;#Apple #macOS&lt;/li&gt;
+&lt;li&gt;#SGI&lt;/li&gt;
+&lt;li&gt;#Microsoft #Windows&lt;/li&gt;
+&lt;li&gt;#Linux
+Получается настоящий кроссплатформенный софт!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&lt;/a&gt;
+&lt;a href=&#34;http://ftp.lstc.com/user/mpp-dyna/R10.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/mpp-dyna/R10.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;P.S. Ждем релизнотов и документацию!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&lt;/a&gt;
+&lt;a href=&#34;http://ftp.lstc.com/user/mpp-dyna/R10.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/mpp-dyna/R10.0/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Немного про баги</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-23-nemnogo-pro-bagi/</link>
+      <pubDate>Sun, 23 Apr 2017 17:55:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-04-23-nemnogo-pro-bagi/</guid>
+      <description>&lt;p&gt;Немного про баги&lt;/p&gt;
+&lt;p&gt;#ANSYS #ICEM-CFD не восместим с &amp;hellip; #PuntoSwitcher!!! Как они вообще умудрились пересечься в рамках #Windows 10?!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS RSM 18.0 для Windows HPC</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-16-ansys-rsm-180-dlya-windows-hpc/</link>
+      <pubDate>Thu, 16 Feb 2017 17:00:59 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-16-ansys-rsm-180-dlya-windows-hpc/</guid>
+      <description>&lt;p&gt;ANSYS RSM 18.0 для Windows HPC
+&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/how-to-ansys-18-rsm-client-setup-on-windows-2012-r2-hpc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.padtinc.com/blog/the-focus/how-to-ansys-18-rsm-client-setup-on-windows-2012-r2-hpc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS #RSM 18 принципиально отличается от всех предыдущих версий RSM. Теперь он легче связывается в кластерными менеджерами очереди задач или сам может быть таким менеджером, благодаря ANSYS RSM Cluster (#ARC).&lt;/p&gt;
+&lt;p&gt;#PADT Inc подготовили небольшую брошюру по настройке и работе RSM совместно с кластером на базе #Windows #Server 2012 R2 и Microsoft #HPC #Cluster Pack.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/how-to-ansys-18-rsm-client-setup-on-windows-2012-r2-hpc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;How-To: ANSYS 18 RSM CLIENT SETUP on Windows 2012 R2 HPC&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Несколько слов про доставку инженерной графики</title>
-      <link>http://localhost:1313/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</link>
       <pubDate>Thu, 29 Sep 2016 17:00:58 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-29-neskolko-slov-pro-dostavku-inzhenernoy-g/</guid>
+      <description>&lt;p&gt;Несколько слов про доставку инженерной графики
+&lt;a href=&#34;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#Microsoft продолжает хвастаться новыми возможностями по работе с #GPU, которые она реализует в #Windows #Server 2016. Нас ожидает поддержка нужного #OpenGL 4.4+ как в сценариях с #RDSH, так и при построении #VDI. При этом, в качестве средства доставки будет выступать привычный и понятный #RDP, а видеопоток будет полностью аппаратно кодироваться и декодироваться на GPU сервера и клиента. Аналогичные возможности ожидаются в #Azure #Cloud.&lt;/p&gt;
 &lt;p&gt;Неужели скоро все инженеры получат достойные системы доставки инженерной графики практически за так?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;New MS Mechanics video with the latest updates to RDS for Windows Server 2016&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MS RDP и OpenGL</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-16-ms-rdp-i-opengl/</link>
+      <pubDate>Fri, 16 Sep 2016 17:00:11 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-16-ms-rdp-i-opengl/</guid>
+      <description>&lt;p&gt;MS RDP и OpenGL
+&lt;a href=&#34;http://www.nvidia.com/download/driverResults.aspx/79105/en-us&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.nvidia.com/download/driverResults.aspx/79105/en-us&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;На днях один из моих коллег пожаловался мне, что у него через #RDP совершенно не тормозит работа с тяжелой моделью в #ANSYS. Я всегда держал в голове, что через RDP всегда получается плохо работать с #OpenGL. Каково же было мое удивление, когда я увидел по данным тестов поддержку OpenGL 4.4! И никаких тормозов!&lt;/p&gt;
+&lt;p&gt;Секрет оказался прост: оказывается для профессиональный видеокарт #NVIDIA давно (начиная с версии драйвера 341.05) включила поддержку OpenGL 4+ при работе через RDP. A #Windows 10 обеспечил сжатие потока хорошим видеокодеком.&lt;/p&gt;
+&lt;p&gt;Так что всем бегом за профессиональными видеокартами.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.nvidia.com/download/driverResults.aspx/79105/en-us&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.nvidia.com/download/driverResults.aspx/79105/en-us&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.nvidia.com/download/driverResults.aspx/79105/en-us&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;NVIDIA DRIVERS Quadro Desktop/Quadro Notebook Driver Release 340 WHQL&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Запущена тестовая эксплуатация GPU в Azure</title>
-      <link>http://localhost:1313/posts/2016-08-18-zapuschena-testovaya-ekspluatatsiya-gpu-v-azu/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-18-zapuschena-testovaya-ekspluatatsiya-gpu-v-azu/</link>
       <pubDate>Thu, 18 Aug 2016 06:30:46 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-08-18-zapuschena-testovaya-ekspluatatsiya-gpu-v-azu/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-18-zapuschena-testovaya-ekspluatatsiya-gpu-v-azu/</guid>
+      <description>&lt;p&gt;Запущена тестовая эксплуатация GPU в Azure
+&lt;a href=&#34;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Тестовая демонстрация работы #GPU #NVIDIA инстансов в облаке #Azure началась в зоне South Central US. При этом, как говорят сами MS, они используют технологию прямого проброса устройстви (Discrete Device Assignment, #DDA), заложенную в ожидаемый #Windows #Server 2016 Hyper-V.&lt;/p&gt;
 &lt;p&gt;Итак, в облаке Azure теперь есть все для построения виртуального #HPC кластера!&lt;/p&gt;
 &lt;p&gt;#cloud #tesla #k80 #m60 #hyperv #teradici&lt;/p&gt;
 &lt;p&gt;Небольшое интевью по поводу события от #Channel9
 &lt;a href=&#34;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Leveraging NVIDIA GPUs in Azure (Channel 9)&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Молния: открыта очередь на тестирование GPU NVIDIA в облаке </title>
-      <link>http://localhost:1313/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</link>
+      <title>Молния: открыта очередь на тестирование GPU NVIDIA в облаке AZURE</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</link>
       <pubDate>Fri, 05 Aug 2016 12:30:08 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-05-molniya-otkryta-ochered-na-testirovanie/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://gpu.azure.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://gpu.azure.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Вчера компания #Microsoft выдала очередной анонс запуска #GPU инстансов в #Azure. Примерно год назад компания уже писала о своих планах в блоке, но видимо разработка идет не так гладко, как хотелось бы. Сейчас, вместе с анонсом компания разместила страницу регистрации на тестирование нового продукта. Лично я уже заказал сете на тест машинку с 2-мя #NVIDIA #Tesla #K80, 224 Гб RAM и 1.5 Тб SSD.&lt;/p&gt;
 &lt;p&gt;Еще Microsoft говори о партнерстве с компанией #Teradici для использования технологии #PCoIP доставляющей удаленные рабочие столы со сложной графикой. Это немного странно для меня. Во-первых Teradici - это решение заклятого конкурента #VMWare. Во-вторых, где обещанный ранее #DDS и новый #RemoteFX с поддержкой #OpenGL 4+ (заявлено для #Windows #Server 2016)? Неужели MS отказывает использовать свои серверные операционные систем и технологии в своем же облаке?&lt;/p&gt;
 &lt;p&gt;#VDI #Cloud #HPC
 &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gpu.azure.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Virtual machine sizes overview - Azure Virtual Machines&lt;/a&gt;
+&lt;a href=&#34;http://gpu.azure.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://gpu.azure.com/&lt;/a&gt;
+&lt;a href=&#34;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Америку я не открыл, но было интересно проверить. #ANSYS 16.2 вполне комфортно работать на #Windows 10, хотя вы и решаетесь поддержки в такой конфигурации.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-04-ameriku-ya-ne-otkryl-no-bylo-interesno-p/</link>
+      <pubDate>Fri, 04 Sep 2015 07:00:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-04-ameriku-ya-ne-otkryl-no-bylo-interesno-p/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/article/%25D1%2580%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2582%25D0%25B0-ansys-16-%25D0%25BD%25D0%25B0-windows-10-yury-novozhilov&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Работа ANSYS 16 на Windows 10&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

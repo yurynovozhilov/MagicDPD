@@ -2,22 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taylor on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/taylor/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/taylor/</link>
     <description>MagicDPD: Magic Driven Product Development! (Taylor)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 20 Oct 2017 17:07:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Feb 2021 17:54:45 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/taylor/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/taylor/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Хотите считать #explicit - учитесь! Вот стандартные тестовые</title>
-      <link>http://localhost:1313/posts/2017-10-20-hotite-schitat-explicit-uchites-vot/</link>
+      <title>LS-DYNA мастер класс: S-ALE тест Тейлора</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-01-ls-dyna-master-klass-s-ale-test-teylora/</link>
+      <pubDate>Mon, 01 Feb 2021 17:54:45 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-01-ls-dyna-master-klass-s-ale-test-teylora/</guid>
+      <description>&lt;p&gt;LS-DYNA мастер класс: S-ALE тест Тейлора&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=S7IYFWuFyOg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=S7IYFWuFyOg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Коллеги, стала публично доступна запись моего мастер класса по работе S-ALE решателя в LS-DYNA, специально подготовленного для прошедшей конференции CASCON от CADFEM. В ходе мастер класса рассматривается моделирование теста Тейлора (высокоскоростной удар упруго-пластического стержня в малодеформируемую мишень) в 12-ой версии решателя с использованием S-ALE. Подробно разбираются все передовые функции решателя: автоматическая генерация структурированной стеки, обрезка расчетного домена до нужной формы, морфинг и движение эйлеровой сетки, настройка FSI интерфейса, визуализация результатов. Если вам нужно считать FSI в LS-DYNA, то этот мастер класс станет достойным базовым примером.&lt;/p&gt;
+&lt;p&gt;#ansys #ansys_lst #cadfem #cascon #fsi #ls #ls-dyna #ls-prepost #s-ale #taylor
+&lt;a href=&#34;https://tinyurl.com/y4hlvvee&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y4hlvvee&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=S7IYFWuFyOg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Тест Тейлора в рамках S-ALE постановки для LS-DYNA R12&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/y4hlvvee&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y4hlvvee&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Задачи механики на полиэдральных сетках</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-28-zadachi-mehaniki-na-poliedralnyh-setkah/</link>
+      <pubDate>Wed, 28 Feb 2018 18:00:44 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-28-zadachi-mehaniki-na-poliedralnyh-setkah/</guid>
+      <description>&lt;p&gt;Задачи механики на полиэдральных сетках
+Что бы вы сказали, если бы нашелся explicit или implicit решатель механики, способный работать с полиэдральными сетками?&lt;/p&gt;
+&lt;p&gt;У CFD кодов была давняя проблема — они были очень требовательны к качеству сетки. Hex сетки на любой геометрии не построить, а tet — дают погрешности и повышенную вычислительную нагрузку. К счастью, самые крутые CFD коды научились работать с полиэдральными сетками, которые они получают из tet сетки или строят сами.
+У механики тоже есть определенные требования к сетке, и, чем дальше мы погружаемся в нелинейные расчеты, тем выше становятся требования к качеству сетки. В explicit кодах вообще чуть ли не основной задачей расчетчика является создание качественной сетки. Где же спасение?
+Готовясь к очередной встрече, я наткнулся на очень любопытный канал «naturalneighbour» на YouTube. На нем были приведены примеры расчетов высоконелинейных быстропротекающих процессов механики, выполненные на адаптивных полиэдальных сетках!
+Есть видео с тестом Тейлора:&lt;/p&gt;
+&lt;p&gt;И есть пример с резкой металла:&lt;/p&gt;
+&lt;p&gt;Однако, все видео опубликованы аж в 2014 году, и с тех пор на канале нет никакой жизни. Найти источники видео пока не удалось.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/?p=6407&amp;amp;lang=ru&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Задачи механики на полиэдральных сетках — MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Хотите считать #explicit - учитесь!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-20-hotite-schitat-explicit-uchites-vot/</link>
       <pubDate>Fri, 20 Oct 2017 17:07:33 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-10-20-hotite-schitat-explicit-uchites-vot/</guid>
-      <description>&lt;ul&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-20-hotite-schitat-explicit-uchites-vot/</guid>
+      <description>&lt;p&gt;Вот стандартные тестовые задачи для настоящих #explicit кодов:&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;Тест Тейлора (#Taylor Anvil Test)&lt;/li&gt;
 &lt;li&gt;Распространение ударной воны в воздухе (Free Air #Blast)&lt;/li&gt;
 &lt;li&gt;Разрезной стержень Гопкинсона - Кольского (Split Hopkinson Pressure Bar, #SHPB)&lt;/li&gt;
@@ -26,6 +61,21 @@
 &lt;p&gt;Научные статьи и учебное видео для #LSPP во вложении.&lt;/p&gt;
 &lt;p&gt;#LSDYNA #ABAQUS #CTH #ALEGRA #ALE3D #RADIOSSMedia📼 Taylor bar test💾 A method for selecting software for dynamic event…💾 A method for selecting software for dynamic event…&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ift.tt/2zDmjm1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zDmjm1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vBgpQ1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vBgpQ1&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zpLI1B&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zpLI1B&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zEmYDK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zEmYDK&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2i0hIGl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2i0hIGl&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vlBJYZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vlBJYZ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xBL1l5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xBL1l5&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zqlNHf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zqlNHf&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zDlzgJ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zDlzgJ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zqlPyR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zqlPyR&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zDmihX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zDmihX&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zqhDiu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zqhDiu&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zDmjm1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zDmjm1&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zpFsHw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zpFsHw&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2zDyUG1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zDyUG1&lt;/a&gt;
+p://ift.tt/2zDmjm1&lt;/p&gt;
 </description>
     </item>
     

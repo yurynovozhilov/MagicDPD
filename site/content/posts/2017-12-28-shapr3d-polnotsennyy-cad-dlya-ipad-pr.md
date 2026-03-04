@@ -15,7 +15,11 @@ tags:
 
 Приложение стоит денег, но для студентов и преподавателей оно бесплатно!
 
-https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16166/Pro-CAD-on-an-iPad-Pro.aspx 🔗 Pro CAD on an iPad Pro? ? ENGINEERING.com
+~~https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16166/Pro-CAD-on-an-iPad-Pro.aspx~~ → [Сохранённая версия](http://web.archive.org/web/20200226085426/https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16166/Pro-CAD-on-an-iPad-Pro.aspx)
+
+*Оригинальная ссылка больше не доступна* 🔗 Pro CAD on an iPad Pro? ? ENGINEERING.com
 
 http://ift.tt/2C3LDXj
-https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16166/Pro-CAD-on-an-iPad-Pro.aspx
+~~https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16166/Pro-CAD-on-an-iPad-Pro.aspx~~ → [Сохранённая версия](http://web.archive.org/web/20200226085426/https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/16166/Pro-CAD-on-an-iPad-Pro.aspx)
+
+*Оригинальная ссылка больше не доступна*

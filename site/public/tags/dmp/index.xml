@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DMP on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/dmp/</link>
+    <description>MagicDPD: Magic Driven Product Development! (DMP)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Thu, 14 Mar 2019 17:00:27 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/dmp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Настройка LS-DYNA MPP</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-14-nastroyka-ls-dyna-mpp/</link>
+      <pubDate>Thu, 14 Mar 2019 17:00:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-14-nastroyka-ls-dyna-mpp/</guid>
+      <description>&lt;p&gt;Настройка LS-DYNA MPP&lt;/p&gt;
+&lt;p&gt;Фундаментальный вебинар от ARUP и Oasys по настройке и работе решателя LS-DYNA MPP. Данный решатель является версией LS-DYNA для работы на кластерных системах (читай — на системах с распределенной памятью).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=rxutBQXGWpQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=rxutBQXGWpQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В ходе вебинара рассказывают о таких интересных темах, как:&lt;/p&gt;
+&lt;p&gt;Декомпозиция модели: методы, балансировка нагрузки, выделение памяти,
+Работы с p-файлами и ручное управление решателем
+Низкоуровневая отладка работы решателя в ходе расчета на кластере и анализ результатов его завершения
+Работа контактов, их оптимизация и группировка
+Рестарт распределённого расчета&lt;/p&gt;
+&lt;p&gt;А еще я попрошу заметить, что спец по MPP расчетам, разработчик решателя и вообще хороший человек все время повторяет одну простую, но не всем очевидную мысль: do benchmark for your model — делайте тестовые расчеты ваших моделей. Никто кроме вас не подберет оптимальных настроек.&lt;/p&gt;
+&lt;p&gt;#ARUP #DMP #HPC #LS_DYNA #MPP #Oasys&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2p8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2p8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=rxutBQXGWpQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=rxutBQXGWpQ&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2p8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2p8&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Молния: LS-DYNA R10</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-17-molniya-ls-dyna-r10/</link>
+      <pubDate>Mon, 17 Jul 2017 15:43:58 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-17-molniya-ls-dyna-r10/</guid>
+      <description>&lt;p&gt;Молния: LS-DYNA R10
+&lt;a href=&#34;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;На официальном FTP компании #LSTC появилась #LSDYNA R10. Доступны бинарники для #MPP (aka #DMP)  и #SMP версии сразу подо все основные аппаратно-программные платформы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#Cray&lt;/li&gt;
+&lt;li&gt;#Intel #Itanium&lt;/li&gt;
+&lt;li&gt;#IBM #Power&lt;/li&gt;
+&lt;li&gt;#Apple #macOS&lt;/li&gt;
+&lt;li&gt;#SGI&lt;/li&gt;
+&lt;li&gt;#Microsoft #Windows&lt;/li&gt;
+&lt;li&gt;#Linux
+Получается настоящий кроссплатформенный софт!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&lt;/a&gt;
+&lt;a href=&#34;http://ftp.lstc.com/user/mpp-dyna/R10.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/mpp-dyna/R10.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;P.S. Ждем релизнотов и документацию!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/ls-dyna/R10.0.0/&lt;/a&gt;
+&lt;a href=&#34;http://ftp.lstc.com/user/mpp-dyna/R10.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/mpp-dyna/R10.0/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

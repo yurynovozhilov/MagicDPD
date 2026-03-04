@@ -2,47 +2,134 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HFSS on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/hfss/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/hfss/</link>
     <description>MagicDPD: Magic Driven Product Development! (HFSS)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 14 Apr 2022 17:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Apr 2022 17:00:14 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/hfss/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/hfss/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Вчера #Ansys купил себе #OnScale, и я расскажу почему это ва</title>
-      <link>http://localhost:1313/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</link>
-      <pubDate>Thu, 14 Apr 2022 17:00:07 +0000</pubDate>
+      <title>Резюме-обзор #Ansys #HFSS (High Frequency Simulation Software) от коллег из #Ozen. #EM https://youtu.be/itY9P3suscc</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-28-rezyume-obzor-ansys-hfss-high-frequenc/</link>
+      <pubDate>Thu, 28 Apr 2022 17:00:14 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</guid>
-      <description>&lt;p&gt;Итак, компания OnScale делала одноименную независимую платформу для  КЭ расчетов в облаке. Идея у них была очень похоже на успешный проект SimScale. Однако, SimScale использовал внутри себя #opensource коды для расчетов, а OnScale решили писать все свое. Кажется, что они просто не оценили трудоемкости написания хороших решателей, вот WebUI вышел вполне себе нормальный.&lt;/p&gt;
-&lt;p&gt;Теперь их покупает Ansys, который идет в облако всеми возможными путями. У них, как и всех конкурентов, есть облачные лицензии. У них есть облачные #HPC партнеры в лице #AWS и #Azure. Есть встроенные возможности из классических приложений посылать задачи на расчет в облако. А вот полноценного #WebUI для работы с решателями не было - всегда были какие-то средства доставки классических дестопных приложений и рабочих столов Windows/Linux систем. И тут мы видим, что OnScale становиться последним кусочком мозаики полноценного облачного решения от Ansys.&lt;/p&gt;
-&lt;p&gt;Я думаю, что в ближайшие 5 лет мы сможем увидеть новые Web версии #Fluent, #Mechanical #HFSS, которые больше не будут требовать установки дистрибутива с 5 DVD дисков, а полноценно будет работать в глобальном или корпоративном облаке.&lt;/p&gt;
-&lt;p&gt;#cloud #opensource #HPC &lt;a href=&#34;https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-28-rezyume-obzor-ansys-hfss-high-frequenc/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/itY9P3suscc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/itY9P3suscc&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Подробности о расчете  эффективной отражающей площади объект</title>
-      <link>http://localhost:1313/posts/2018-02-05-podrobnosti-o-raschete-effektivnoy-otrazh/</link>
+      <title>Вчера #Ansys купил себе #OnScale, и я расскажу почему это важно.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</link>
+      <pubDate>Thu, 14 Apr 2022 17:00:07 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-14-vchera-ansys-kupil-sebe-onscale-i-ya-ra/</guid>
+      <description>&lt;p&gt;Итак, компания OnScale делала одноименную независимую платформу для  КЭ расчетов в облаке. Идея у них была очень похоже на успешный проект SimScale. Однако, SimScale использовал внутри себя #opensource коды для расчетов, а OnScale решили писать все свое. Кажется, что они просто не оценили трудоемкости написания хороших решателей, вот WebUI вышел вполне себе нормальный.&lt;/p&gt;
+&lt;p&gt;Теперь их покупает Ansys, который идет в облако всеми возможными путями. У них, как и всех конкурентов, есть облачные лицензии. У них есть облачные #HPC партнеры в лице #AWS и #Azure. Есть встроенные возможности из классических приложений посылать задачи на расчет в облако. А вот полноценного #WebUI для работы с решателями не было - всегда были какие-то средства доставки классических дестопных приложений и рабочих столов Windows/Linux систем. И тут мы видим, что OnScale становиться последним кусочком мозаики полноценного облачного решения от Ansys.&lt;/p&gt;
+&lt;p&gt;Я думаю, что в ближайшие 5 лет мы сможем увидеть новые Web версии #Fluent, #Mechanical #HFSS, которые больше не будут требовать установки дистрибутива с 5 DVD дисков, а полноценно будет работать в глобальном или корпоративном облаке.&lt;/p&gt;
+&lt;p&gt;#cloud #opensource #HPC &lt;a href=&#34;https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys.com/news-center/press-releases/4-13-22-ansys-to-expand-cloud-portfolio-with-technology-from-acquisition-of-onscale&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys to Expand Cloud Portfolio with Technology from Acquisition of OnScale&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ansys HFSS 2020R2</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-09-24-ansys-hfss-2020r2/</link>
+      <pubDate>Thu, 24 Sep 2020 13:01:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-09-24-ansys-hfss-2020r2/</guid>
+      <description>&lt;p&gt;Ansys HFSS 2020R2&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/ansys-hfss-2020r2/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ansys HFSS 2020R2 - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS HFSS Modal vs Terminal Part</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-02-ansys-hfss-modal-vs-terminal-part/</link>
+      <pubDate>Mon, 02 Mar 2020 13:00:53 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-02-ansys-hfss-modal-vs-terminal-part/</guid>
+      <description>&lt;p&gt;ANSYS HFSS Modal vs Terminal Part&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/ansys-hfss-modal-vs-terminal-part/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS HFSS Modal vs Terminal Part - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Подробности о расчете  эффективной отражающей площади объекта в HFSS SBR&#43;</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-05-podrobnosti-o-raschete-effektivnoy-otrazh/</link>
       <pubDate>Mon, 05 Feb 2018 18:00:26 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-02-05-podrobnosti-o-raschete-effektivnoy-otrazh/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-05-podrobnosti-o-raschete-effektivnoy-otrazh/</guid>
       <description>&lt;p&gt;Одним из наиболее значимых нововведений 19-ого релиза ANSYS стала возможность рассчитывать эффективную отражающую площадь объекта при помощи решателя SBR+, вошедшего в состав HFSS.&lt;/p&gt;
 &lt;p&gt;Эффекти́вная пло́щадь рассе́яния (ЭПР; &lt;a title=&#34;Английский язык&#34; href=&#34;https://ru.wikipedia.org/wiki/90BDB3BBB8B981BAB8B9_8FB78BBA&#34;&gt;англ.&lt;/a&gt; &lt;span lang=&#34;en&#34; xml:lang=&#34;en&#34;&gt;radar cross-section, RCS&lt;/span&gt;; в некоторых источниках — эффективная пове́рхность рассеяния, эффективный попере́чник рассеяния, эффективная отража́ющая площадь, ЭОП) в &lt;a title=&#34;Радиолокация&#34; href=&#34;https://ru.wikipedia.org/wiki/A0B0B4B8BEBBBEBAB086B88F&#34;&gt;радиолокации&lt;/a&gt; — площадь некоторой фиктивной плоской поверхности, расположенной нормально к направлению падающей &lt;a title=&#34;Плоская волна&#34; href=&#34;https://ru.wikipedia.org/wiki/9FBBBE81BAB08F_B2BEBBBDB0&#34;&gt;плоской волны&lt;/a&gt; и являющейся идеальным и изотропным переизлучателем, которая, будучи помещена в точку расположения цели, создаёт в месте расположения &lt;a title=&#34;Антенна&#34; href=&#34;https://ru.wikipedia.org/wiki/90BD82B5BDBDB0&#34;&gt;антенны&lt;/a&gt; &lt;a title=&#34;Радиолокационная станция&#34; href=&#34;https://ru.wikipedia.org/wiki/A0B0B4B8BEBBBEBAB086B8BEBDBDB08F_8182B0BD86B88F&#34;&gt;радиолокационной станции&lt;/a&gt; ту же &lt;a title=&#34;Вектор Пойнтинга&#34; href=&#34;https://ru.wikipedia.org/wiki/92B5BA82BE80_9FBEB9BD82B8BDB3B0&#34;&gt;плотность потока мощности&lt;/a&gt;, что и реальная цель&lt;sup id=&#34;cite_ref-1&#34; class=&#34;reference&#34;&gt;&lt;a href=&#34;https://ru.wikipedia.org/wiki/AD8484B5BA82B8B2BDB08F_BFBBBE89B0B48C_80B08181B58FBDB88F#cite_note-1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;. Решатель SBR+ достался HFSS в результате покупки компании Delcross - это был один из решателей в Savant. SBR+ позволяет HFSS выполнять расчет эффективной площади рассеяния с использованием специализированных эмпирических методик (раньше был доступен только &amp;ldquo;честный расчет&amp;rdquo;).&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=KtEdoEOay8U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=KtEdoEOay8U&lt;/a&gt;
 #ANSYS #Delcross #HFSS #RCS #Savant #SBR+
+&lt;a href=&#34;https://wp.me/p9vWYY-1BE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1BE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ru.wikipedia.org/wiki/90BDB3BBB8B981BAB8B9_8FB78BBA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/90BDB3BBB8B981BAB8B9_8FB78BBA&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/A0B0B4B8BEBBBEBAB086B88F&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/A0B0B4B8BEBBBEBAB086B88F&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/9FBBBE81BAB08F_B2BEBBBDB0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/9FBBBE81BAB08F_B2BEBBBDB0&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/90BD82B5BDBDB0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/90BD82B5BDBDB0&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/A0B0B4B8BEBBBEBAB086B8BEBDBDB08F_8182B0BD86B88F&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/A0B0B4B8BEBBBEBAB086B8BEBDBDB08F_8182B0BD86B88F&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/92B5BA82BE80_9FBEB9BD82B8BDB3B0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/92B5BA82BE80_9FBEB9BD82B8BDB3B0&lt;/a&gt;
+&lt;a href=&#34;https://ru.wikipedia.org/wiki/AD8484B5BA82B8B2BDB08F_BFBBBE89B0B48C_80B08181B58FBDB88F#cite_note-1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ru.wikipedia.org/wiki/AD8484B5BA82B8B2BDB08F_BFBBBE89B0B48C_80B08181B58FBDB88F#cite_note-1&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=KtEdoEOay8U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=KtEdoEOay8U&lt;/a&gt;
 &lt;a href=&#34;https://wp.me/p9vWYY-1BE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1BE&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>#zCFD - #CFD код от #Zenotech для расчета сжимаемых течений,</title>
-      <link>http://localhost:1313/posts/2017-12-29-zcfd-cfd-kod-ot-zenotech-dlya-raschet/</link>
+      <title>Самое вкусное в ANSYS 19 по версии ANSYS</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-03-samoe-vkusnoe-v-ansys-19-po-versii-ansys/</link>
+      <pubDate>Sat, 03 Feb 2018 17:00:41 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-03-samoe-vkusnoe-v-ansys-19-po-versii-ansys/</guid>
+      <description>&lt;p&gt;Самое вкусное в ANSYS 19 по версии ANSYS
+Компания ANSYS в своем блоге представила свой список самых интересных функций в версии 19.&lt;/p&gt;
+&lt;p&gt;В основные фишки нового релиза попали следующие пункты:&lt;/p&gt;
+&lt;p&gt;Расчет эффективной отражающей площадьи объекста (Radar Cross Section) в HFSS SBR+&lt;/p&gt;
+&lt;p&gt;Возможность проектирования графических интерфейсов для встраемого ПО&lt;/p&gt;
+&lt;p&gt;Повышенная производительность ANSYS Fluent в задачах распыления струи жидкости&lt;/p&gt;
+&lt;p&gt;Набор технологий SMART в ANSYS Mechanical (SMART = Separating, Morphing, Adaptive, Re-meshing Technology) для моделирования роста трещин&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys-blog.com/ansys-19-release/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys-blog.com/ansys-19-release/&lt;/a&gt;
+#ANSYS #Fluent #HFSS #Mechanical #SBR+ #smart
+&lt;a href=&#34;https://magicdpd.ru/?p=6141&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6141&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansys-blog.com/ansys-19-release/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ansys-blog.com/ansys-19-release/&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=6141&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6141&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS 19 - Mechanical Product Update</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-13-ansys-19-mechanical-product-update/</link>
+      <pubDate>Sat, 13 Jan 2018 12:01:08 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-13-ansys-19-mechanical-product-update/</guid>
+      <description>&lt;p&gt;ANSYS 19 - Mechanical Product Update
+Начинается пора замечательных вебинаров, предваряющих выход ANSYS R19. Вот некоторые из них:&lt;/p&gt;
+&lt;p&gt;ANSYS 19 - HFSS Product Update
+ANSYS 19 - Mechanical Product Update
+ANSYS 19 - Maxwell Product Update
+ANSYS 19 - Icepak Product Update
+Fluid Dynamics Innovations in ANSYS 19.0&lt;/p&gt;
+&lt;p&gt;#ANSYS #HFSS #Icepak #Maxwell #Mechanical #webinar #САВ
+&lt;a href=&#34;https://magicdpd.ru/?p=5921&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5921&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ansys.com/about-ansys/events/18-02-07-hfss-webinar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/about-ansys/events/18-02-07-hfss-webinar&lt;/a&gt;
+&lt;a href=&#34;http://www.ansys.com/about-ansys/events/18-02-08-mechanical-webinar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/about-ansys/events/18-02-08-mechanical-webinar&lt;/a&gt;
+&lt;a href=&#34;http://www.ansys.com/about-ansys/events/18-03-07-maxwell-webinar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/about-ansys/events/18-03-07-maxwell-webinar&lt;/a&gt;
+&lt;a href=&#34;http://www.ansys.com/about-ansys/events/18-03-01-icepak-webinar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/about-ansys/events/18-03-01-icepak-webinar&lt;/a&gt;
+&lt;a href=&#34;http://www.ansys.com/about-ansys/events/18-03-13-cfd-webinar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.ansys.com/about-ansys/events/18-03-13-cfd-webinar&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=5921&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5921&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#zCFD - #CFD код от #Zenotech для расчета сжимаемых течений, который обещает сразу кучу всего нового, и многое из это - бесплатно.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-29-zcfd-cfd-kod-ot-zenotech-dlya-raschet/</link>
       <pubDate>Fri, 29 Dec 2017 17:14:11 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-12-29-zcfd-cfd-kod-ot-zenotech-dlya-raschet/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-29-zcfd-cfd-kod-ot-zenotech-dlya-raschet/</guid>
       <description>&lt;p&gt;Итак, ключевые особенности ПО:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;эффективность - обычно присутствует у любого, уважающего себя кода&lt;/li&gt;
@@ -52,26 +139,127 @@
 &lt;/ul&gt;
 &lt;p&gt;Теперь насчет бесплатности - полифункциональную версию для работы на машине с общей памятью можно скачать с сайта совершенно бесплатно!&lt;/p&gt;
 &lt;p&gt;Верификационные примеры для кода прилагаются: &lt;a href=&#34;http://ift.tt/2CmJ6GY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2CmJ6GY&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&lt;/a&gt; 🔗 New zCFD release for affordable CFD at scale | Zenotech Ltd&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&#34;https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20230929135949/https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt; 🔗 New zCFD release for affordable CFD at scale | Zenotech Ltd&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2ClqhnK&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2ClqhnK&lt;/a&gt;
+&lt;del&gt;&lt;a href=&#34;https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20230929135949/https://zenotech.com/new-zcfd-release-for-affordable-cfd-at-scale/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Наш спец по радиофизике и высокочастотному электромагнетизму</title>
-      <link>http://localhost:1313/posts/2015-11-21-nash-spets-po-radiofizike-i-vysokochastotno/</link>
-      <pubDate>Sat, 21 Nov 2015 18:00:33 +0000</pubDate>
+      <title>Отличный пример, как #ANSYS #HFSS умеет решать эклектически большие (1050&amp;lambda; x 160&amp;lambda; x 190&amp;lambda;) задачи с использованием #GPGPU #NVIDIA.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-12-otlichnyy-primer-kak-ansys-hfss-umeet/</link>
+      <pubDate>Tue, 12 Sep 2017 17:05:35 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-21-nash-spets-po-radiofizike-i-vysokochastotno/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-12-otlichnyy-primer-kak-ansys-hfss-umeet/</guid>
+      <description>&lt;p&gt;Коллеги ускорили расчет при помощи новых видеокрт в десятки раз.&lt;/p&gt;
+&lt;p&gt;Ссылка на статью не окрыляется с территории России.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2jlHd5aMedia&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2jlHd5aMedia&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2jnRSMX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2jnRSMX&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2jkRtdZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2jkRtdZ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vOVsW2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vOVsW2&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wLNTgc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wLNTgc&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xv2vn0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xv2vn0&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2xv2vU2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2xv2vU2&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2jnRSMX&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2jnRSMX&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Обзор возможностей #ANSYS #HFSS #SBR&#43;, который получился из #Delcross #Savant, для решение больших задач!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-22-obzor-vozmozhnostey-ansys-hfss-sbr&#43;-k/</link>
+      <pubDate>Sun, 22 May 2016 07:00:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-22-obzor-vozmozhnostey-ansys-hfss-sbr&#43;-k/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=h1ailtfbneo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Solve Large-Scale Problems in a Connected World with HFSS SBR+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#CADFEM CIS - магия численного моделирования для всех желающих.  #ANSYS #Fluent #CFX #Mechanical #LSDYNA #AUTODYN #HFSS #Maxwell #HPC и многое другое из #CAE.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-13-cadfem-cis-magiya-chislennogo-modelirov/</link>
+      <pubDate>Wed, 13 Jan 2016 09:24:51 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-13-cadfem-cis-magiya-chislennogo-modelirov/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ANSYS никак не может остановиться с покупками других компани</title>
-      <link>http://localhost:1313/posts/2015-09-07-ansys-nikak-ne-mozhet-ostanovitsya-s-poku/</link>
+      <title>#ESSS показали как при помощи #ANSYS #HFSS и #Savant промоделировать целый особняк с прицелом на интернет вещей (#IoT)</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-11-esss-pokazali-kak-pri-pomoschi-ansys-hf/</link>
+      <pubDate>Mon, 11 Jan 2016 18:01:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-11-esss-pokazali-kak-pri-pomoschi-ansys-hf/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=46-pxv1_OJI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS HFSS and Savant - A Complete House Model Showing IoT Simulations&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как включить #HPC в #ANSYS #Mechanical, #Fluent, #CFX, #HFSS - в основных средствах численного моделирования.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-26-kak-vklyuchit-hpc-v-ansys-mechanical/</link>
+      <pubDate>Sat, 26 Dec 2015 06:00:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-26-kak-vklyuchit-hpc-v-ansys-mechanical/</guid>
+      <description>&lt;p&gt;Наглядная инструкция в картинках по ссылке.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/activating-hyperdrive-in-ansys-simulations&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Activating Hyperdrive in ANSYS Simulations&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Отличный семинар по #ANSYS #HFSS в частности и #EM направлению в целом проведенный в Стэнфордском суперкомпьютерном центре.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-17-otlichnyy-seminar-po-ansys-hfss-v-chastn/</link>
+      <pubDate>Thu, 17 Dec 2015 06:30:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-17-otlichnyy-seminar-po-ansys-hfss-v-chastn/</guid>
+      <description>&lt;p&gt;Стало понятно, зачем нужны продукты #Delcross. Рассказали про #IoT и его проблемы. И в конце ооочень много примеров применения.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Ha1MHxuwGvg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;HPC Seminar Series ~ Simulation for IoT: A multi-physics approach for a wearable IoT Device&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Наш спец по радиофизике и высокочастотному электромагнетизму рассказывает, что же именно получил #ANSYS приобретя #Delcross</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-21-nash-spets-po-radiofizike-i-vysokochastotno/</link>
+      <pubDate>Sat, 21 Nov 2015 18:00:33 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-21-nash-spets-po-radiofizike-i-vysokochastotno/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8-delcross-%D0%BD%D0%B0-%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B5-ansys-alexander-kruglov&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Технологии Delcross на службе ANSYS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#ANSYS накрутил все, что мог в плане создания умных часов.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-22-ansys-nakrutil-vse-chto-mog-v-plane-soz/</link>
+      <pubDate>Tue, 22 Sep 2015 18:01:13 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-22-ansys-nakrutil-vse-chto-mog-v-plane-soz/</guid>
+      <description>&lt;p&gt;Тут и #SpaceClaim, и #HFSS, и #Mechanical, и #Explicit, и связанные расчеты с теплом. Короче, голова идет кругом.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8kacFVNb4fg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Wearable Technology - Smart Watch Simulation with ANSYS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS никак не может остановиться с покупками других компаний.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-07-ansys-nikak-ne-mozhet-ostanovitsya-s-poku/</link>
       <pubDate>Mon, 07 Sep 2015 19:00:47 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-09-07-ansys-nikak-ne-mozhet-ostanovitsya-s-poku/</guid>
-      <description>&lt;p&gt;Данный набор программного обеспечения решает задачи возникающие в радиофизике и немного пересекается с областью HFSS. Однако ANSYS позиционирует решения Delcross для расчетов вокруг базворда IoT (Internet of Things, Интернет вещей), когда необходимо организовать взаимодействие великого множества всякой электроники в замкнутом пространстве (порядка квартиры или дома) по высокочастотному радиоканалу (Bluetooth, WiFi, ZigBee).&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-07-ansys-nikak-ne-mozhet-ostanovitsya-s-poku/</guid>
+      <description>&lt;p&gt;Оказывается 2 сентября ANSYS приобрел компанию Delcross Technologies, разработчика одноименного продуктов EMIT, Savant и Sina.&lt;/p&gt;
+&lt;p&gt;Данный набор программного обеспечения решает задачи возникающие в радиофизике и немного пересекается с областью HFSS. Однако ANSYS позиционирует решения Delcross для расчетов вокруг базворда IoT (Internet of Things, Интернет вещей), когда необходимо организовать взаимодействие великого множества всякой электроники в замкнутом пространстве (порядка квартиры или дома) по высокочастотному радиоканалу (Bluetooth, WiFi, ZigBee).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/10624/ANSYS-Acquires-Electromagnetics-Simulation-Company-to-Improve-IoT-Communication.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt; ANSYS Acquires Electromagnetics Simulation Company to Improve IoT Communication &amp;gt; ENGINEERING.com &lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Не #ANSYS #HFSS единым живет радиоэлектроника и задачи высокочастотного электромагнетизм.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-04-ne-ansys-hfss-edinym-zhivet-radioelektr/</link>
+      <pubDate>Fri, 04 Sep 2015 17:00:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-04-ne-ansys-hfss-edinym-zhivet-radioelektr/</guid>
+      <description>&lt;p&gt;У Американского гиганта #Altair есть свое решение - FEKO. Я в тут мало что могу прокомментировать, так как совсем не моя специальность. Единственное, что бросилось в глаза, что на заглавной странице #FEKO приведены иллюстрации из презентации о взлете боевого вертолета с палубы военного корабля. Так что - решение точно такой же задачи HFSS демонстрировал на своих слайдах года 2 назад. Теперь интересно, кто был первый.&lt;/p&gt;
+&lt;p&gt;Очень интересно мнение пользователей продуктов по данной тематике.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.feko.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FEKO - EM Simulation Software&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TurboVNC on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/turbovnc/</link>
+    <description>MagicDPD: Magic Driven Product Development! (TurboVNC)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 03 Aug 2016 06:30:19 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/turbovnc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#CFD расчета для спорта</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-03-cfd-rascheta-dlya-sporta/</link>
+      <pubDate>Wed, 03 Aug 2016 06:30:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-08-03-cfd-rascheta-dlya-sporta/</guid>
+      <description>&lt;p&gt;#CFD расчета для спорта&lt;/p&gt;
+&lt;p&gt;Команда Land Rover BAR рассказывает о том как CFD расчеты помогают им в совершенствовании скоростного спортивного катамарана на подводных крыльях. Для своих расчетов они используют #StarCCM+ и все стандартные фишки #CAE для подобных задач: параметризация, вложенные сетки, #HPC.&lt;/p&gt;
+&lt;p&gt;Мне показалось очень странным, что для удаленной работы на кластере они используют #TurboVNC (а значит еще и #VirtualGL). По моим замерам в случае StarCCM удаленная визуализация VirtualGL уступает по производительности #NICE #DCV разва в 3.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ygg3NQGZWUU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Land Rover BAR, CD-adapco and Auld Mug&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

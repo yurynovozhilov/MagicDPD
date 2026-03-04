@@ -1,22 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dart on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/dart/</link>
-    <description>MagicDPD: Magic Driven Product Development! (Dart)</description>
+    <title>DART on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/dart/</link>
+    <description>MagicDPD: Magic Driven Product Development! (DART)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 24 Nov 2021 16:34:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Sep 2022 18:00:05 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/dart/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/dart/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Национальная лаборатория Лоуренса Ливермора и атака астероид</title>
-      <link>http://localhost:1313/posts/2021-11-24-natsionalnaya-laboratoriya-lourensa-liverm/</link>
+      <title>#LLNL опубликовали новое научное исследование для #DART, в ходе которого они рассказали, как определять механические свойства астероидов по итогам испытанный на удар.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-28-llnl-opublikovali-novoe-nauchnoe-issledo/</link>
+      <pubDate>Wed, 28 Sep 2022 18:00:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-09-28-llnl-opublikovali-novoe-nauchnoe-issledo/</guid>
+      <description>&lt;p&gt;Моделирование проводилось в их коде собственной разработки #Spheral, работающем на основе адаптивного метода гидродинамики сглаженных частиц (Adaptive Smoothed Particle Hydrodynamics, #ASPH)&lt;/p&gt;
+&lt;p&gt;Научная статья: &lt;a href=&#34;https://arxiv.org/abs/2209.11876&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://arxiv.org/abs/2209.11876&lt;/a&gt; &lt;a href=&#34;https://youtu.be/VfXjFkA5mwI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/VfXjFkA5mwI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2209.11876&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://arxiv.org/abs/2209.11876&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/VfXjFkA5mwI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/VfXjFkA5mwI&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Национальная лаборатория Лоуренса Ливермора и атака астероидов!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-11-24-natsionalnaya-laboratoriya-lourensa-liverm/</link>
       <pubDate>Wed, 24 Nov 2021 16:34:59 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-11-24-natsionalnaya-laboratoriya-lourensa-liverm/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-11-24-natsionalnaya-laboratoriya-lourensa-liverm/</guid>
       <description>&lt;p&gt;Национальная лаборатория Лоуренса Ливермора (LLNL) принимает участие в первом в истории NASA испытании планетарной защиты, в ходе которого космический аппарат намеренно столкнется с астероидом под названием Dimorphos.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UbrxGnkIoXE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=UbrxGnkIoXE&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;В ходе испытания Double Asteroid Redirect Test (DART) будут изучены технологии, которые позволят предотвратить столкновение опасного астероида с Землей. DART - это первая демонстрация кинетического ударного механизма для изменения движения астероида в космосе. Астероид является маленькой луной более крупного астероида под названием Дидимос. Удар в Dimorphos не представляет опасности для Земли.&lt;/p&gt;
@@ -24,6 +37,10 @@
 &lt;p&gt;Источник: &lt;a href=&#34;https://www.llnl.gov/news/lawrence-livermore-takes-part-nasas-first-planetary-defense-test&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.llnl.gov/news/lawrence-livermore-takes-part-nasas-first-planetary-defense-test&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Репозиторий кода Spheral: &lt;a href=&#34;https://github.com/LLNL/spheral&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/LLNL/spheral&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#dart #llnl #open_source #sph #spheral
+&lt;a href=&#34;https://tinyurl.com/yeh78hvs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yeh78hvs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UbrxGnkIoXE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Lawrence Livermore Lab takes part in NASA’s first planetary defense test&lt;/a&gt;
+&lt;a href=&#34;https://www.llnl.gov/news/lawrence-livermore-takes-part-nasas-first-planetary-defense-test&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.llnl.gov/news/lawrence-livermore-takes-part-nasas-first-planetary-defense-test&lt;/a&gt;
+&lt;a href=&#34;https://github.com/LLNL/spheral&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/LLNL/spheral&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/yeh78hvs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yeh78hvs&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ARC on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/arc/</link>
+    <description>MagicDPD: Magic Driven Product Development! (ARC)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Thu, 19 Dec 2019 13:01:33 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/arc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Все, что надо знать про настройку RSM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-12-19-vse-chto-nado-znat-pro-nastroyku-rsm/</link>
+      <pubDate>Thu, 19 Dec 2019 13:01:33 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-12-19-vse-chto-nado-znat-pro-nastroyku-rsm/</guid>
+      <description>&lt;p&gt;Все, что надо знать про настройку RSM
+#ANSYS #ARC #HPC #RSM
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/setup-ansys-rsm-with-arc/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Все, что надо знать про настройку RSM - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WB LS-DYNA ACT 18.0</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-10-wb-ls-dyna-act-180/</link>
+      <pubDate>Fri, 10 Mar 2017 09:00:54 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-03-10-wb-ls-dyna-act-180/</guid>
+      <description>&lt;p&gt;WB LS-DYNA ACT 18.0
+&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-222&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-222&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS выложил новую версию #Workbench #LSDYNA #ACT для релиза 18.0&lt;/p&gt;
+&lt;p&gt;Сначала бочка меда:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Опция переключения Deformable To Rigid доступна из GUI&lt;/li&gt;
+&lt;li&gt;LS-DYNA Named Selections Manager теперь позволяет в явном виде задавать какой ID будет у Named Selections при трансляции его в соответсвующую абстракцию LS-DYNA. Эта функция очень полезна и снимает кучу головной боле при работе с Keyword Snippet.&lt;/li&gt;
+&lt;li&gt;Супер недокументированная функция: похоже, что WB LS-DYNA ACT научилась работать с #RSM! И не только с RSM для постановки задач на самого себя в фон в очередь, но и с #ARC и прочими #HPC кластерами. Но это еще надо проверять.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Потом ложка дегтя:
+Во-первых, ACT отсутствует в списке доступных для 18-ой версии и находится только поиском.
+Во-вторых, ANSYS обещал, что в 18-ой версии они сделают это ACT устанавливающимся по нормальному, а не через отдельный инсталятор - слово не сдержали.
+В-третьих, в документации к ACT сказано, что опять ничего нового нет и только багфикс - ан нет, появились новые функции, хотя и без документации.
+В-четвертых, из коробки так и не работает ALE - приходится вручную определять правильные настройки *CONTROL_ALE&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-222&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-222&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS RSM 18.0 для Windows HPC</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-16-ansys-rsm-180-dlya-windows-hpc/</link>
+      <pubDate>Thu, 16 Feb 2017 17:00:59 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-16-ansys-rsm-180-dlya-windows-hpc/</guid>
+      <description>&lt;p&gt;ANSYS RSM 18.0 для Windows HPC
+&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/how-to-ansys-18-rsm-client-setup-on-windows-2012-r2-hpc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.padtinc.com/blog/the-focus/how-to-ansys-18-rsm-client-setup-on-windows-2012-r2-hpc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ANSYS #RSM 18 принципиально отличается от всех предыдущих версий RSM. Теперь он легче связывается в кластерными менеджерами очереди задач или сам может быть таким менеджером, благодаря ANSYS RSM Cluster (#ARC).&lt;/p&gt;
+&lt;p&gt;#PADT Inc подготовили небольшую брошюру по настройке и работе RSM совместно с кластером на базе #Windows #Server 2012 R2 и Microsoft #HPC #Cluster Pack.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.padtinc.com/blog/the-focus/how-to-ansys-18-rsm-client-setup-on-windows-2012-r2-hpc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;How-To: ANSYS 18 RSM CLIENT SETUP on Windows 2012 R2 HPC&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как делать HPC для ANSYS 18</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-09-kak-delat-hpc-dlya-ansys-18/</link>
+      <pubDate>Thu, 09 Feb 2017 17:02:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-02-09-kak-delat-hpc-dlya-ansys-18/</guid>
+      <description>&lt;p&gt;Как делать HPC для ANSYS 18
+&lt;a href=&#34;https://www.cadfem-cis.ru/products/ansys/ansys-update/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/products/ansys/ansys-update/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Коллеги, рад поделиться ссылкой на опубликованный недавно материал, по тематике #HPC для #ANSYS и построения правильно IT инфраструктуры для расчетов.&lt;/p&gt;
+&lt;p&gt;Вот в этом документе вы найдете очень много интересного и нового, чего иногда даже нет и в официальной документации - &lt;a href=&#34;https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/18/ANSYS18_tech.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/18/ANSYS18_tech.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Главные фишки релиза 18.0 с точки зрения HPC:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;поддержка #CentOS 7&lt;/li&gt;
+&lt;li&gt;cобственный встроенный бесплатный кластерный планировщик (aka workload manager, aka scheduler) для Windows и Linux - ANSYS #RSM Cluster (aka #ARC)&lt;/li&gt;
+&lt;li&gt;ANSYS #CFD теперь считает на 4-х ядрах из коробки&lt;/li&gt;
+&lt;li&gt;ANSYS #Explicit STR теперь считает на 2-х ядрах из коробки&lt;/li&gt;
+&lt;li&gt;ANSYS #Maxwell теперь умеет использовать #GPGPU #NVIDIA&lt;/li&gt;
+&lt;li&gt;Первый ANSYS HPC Pack это 10, а не 8 ядре&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cadfem-cis.ru/products/ansys/ansys-update/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Обновления ANSYS 19 – CADFEM&lt;/a&gt;
+&lt;a href=&#34;https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/18/ANSYS18_tech.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/18/ANSYS18_tech.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,85 +1,267 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>COMSOL on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/comsol/</link>
-    <description>MagicDPD: Magic Driven Product Development! (COMSOL)</description>
+    <title>Comsol on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/comsol/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Comsol)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 03 Feb 2021 13:01:13 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/comsol/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/comsol/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Моделирование пены низкой плотности в МКЭ</title>
-      <link>http://localhost:1313/posts/2021-02-03-modelirovanie-peny-nizkoy-plotnosti-v-mk/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-03-modelirovanie-peny-nizkoy-plotnosti-v-mk/</link>
       <pubDate>Wed, 03 Feb 2021 13:01:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-02-03-modelirovanie-peny-nizkoy-plotnosti-v-mk/</guid>
-      <description>&lt;p&gt;На сегодня я нашел два интересных видео, посвященных моделированию полимерной пены низкой плотности.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-03-modelirovanie-peny-nizkoy-plotnosti-v-mk/</guid>
+      <description>&lt;p&gt;Моделирование пены низкой плотности в МКЭ&lt;/p&gt;
+&lt;p&gt;На сегодня я нашел два интересных видео, посвященных моделированию полимерной пены низкой плотности.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=g8YSmFk5KSc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=g8YSmFk5KSc&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;В первом видео обсуждается, почему традиционные гиперупругие модели материалов не могут использоваться для прогнозирования поведения мягких полимерных пен. Далее в видео рассматривается математика работы специализированных подходящий моделей Ansys Ogden Foam, LS-DYNA Hill Foam, Abaqus Hyperfoam и COMSOL Storakers.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=W9e-GJHJk00&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=W9e-GJHJk00&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Во второй части видео показывается, как проводить настройку модели материалов с применением пакета PolymerFEM MCalibration.&lt;/p&gt;
 &lt;p&gt;#abaqus #ansys #comsol #foam #ls-dyna #mcalibration #mechanical #polymerfem
 &lt;a href=&#34;https://tinyurl.com/y2gu28ph&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y2gu28ph&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=g8YSmFk5KSc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Material Models for Soft Foams - Part 1 - Theory&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=W9e-GJHJk00&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=W9e-GJHJk00&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/y2gu28ph&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y2gu28ph&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Распараллеленная генерация сетки в COMSOL</title>
-      <link>http://localhost:1313/posts/2019-05-15-rasparallelennaya-generatsiya-setki-v-comso/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-15-rasparallelennaya-generatsiya-setki-v-comso/</link>
       <pubDate>Wed, 15 May 2019 17:00:59 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-05-15-rasparallelennaya-generatsiya-setki-v-comso/</guid>
-      <description>&lt;p&gt;Говорят, что у COMSOL распараллеленный сеточный генератор регулярной и нерегулярной, плоской и пространственной сетки! На простейшем тесте очень хорошие результаты, но вот что будет на сложной геометрии — это вопрос.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-15-rasparallelennaya-generatsiya-setki-v-comso/</guid>
+      <description>&lt;p&gt;Распараллеленная генерация сетки в COMSOL&lt;/p&gt;
+&lt;p&gt;Говорят, что у COMSOL распараллеленный сеточный генератор регулярной и нерегулярной, плоской и пространственной сетки! На простейшем тесте очень хорошие результаты, но вот что будет на сложной геометрии — это вопрос.&lt;/p&gt;
 &lt;p&gt;Ссылка на источник: &lt;a href=&#34;https://www.comsol.com/blogs/is-meshing-run-in-parallel-in-comsol-multiphysics&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.comsol.com/blogs/is-meshing-run-in-parallel-in-comsol-multiphysics&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#Comsol #mesh&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2vf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2vf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.comsol.com/blogs/is-meshing-run-in-parallel-in-comsol-multiphysics&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.comsol.com/blogs/is-meshing-run-in-parallel-in-comsol-multiphysics&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2vf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2vf&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Знаете ли вы компанию Amway - производителя косметики и быто</title>
-      <link>http://localhost:1313/posts/2017-09-16-znaete-li-vy-kompaniyu-amway-proizvodit/</link>
+      <title>COMSOL Client для Android</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-02-comsol-client-dlya-android/</link>
+      <pubDate>Thu, 02 May 2019 17:00:24 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-02-comsol-client-dlya-android/</guid>
+      <description>&lt;p&gt;COMSOL Client для Android&lt;/p&gt;
+&lt;p&gt;И опять про мобильные устройства. На этот раз отличился COMSOL, выпустив клиента для Android, позволяющего удобно работать с приложениями, созданными и работающими в рамках COMSOL Server. По сути, данный клиент — это слегка допиленный web-браузер.&lt;/p&gt;
+&lt;p&gt;Однако, даже с таким клиентом, COMSOL сейчас в области интерактивных методик и готовых приложений, предназначенных для моделирования определённого процесса, кажется далеко впереди всех на рынке.&lt;/p&gt;
+&lt;p&gt;Ссылка на новость: &lt;a href=&#34;https://www.comsol.com/blogs/comsol-client-for-android-available-on-the-google-play-store/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.comsol.com/blogs/comsol-client-for-android-available-on-the-google-play-store/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ссылка на приложение в Google Play: &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.comsol.androidclient&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://play.google.com/store/apps/details?id=com.comsol.androidclient&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Android #Comsol&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2uM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2uM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.comsol.com/blogs/comsol-client-for-android-available-on-the-google-play-store/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.comsol.com/blogs/comsol-client-for-android-available-on-the-google-play-store/&lt;/a&gt;
+&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.comsol.androidclient&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://play.google.com/store/apps/details?id=com.comsol.androidclient&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2uM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2uM&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учет демпфирования в механике</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-02-uchet-dempfirovaniya-v-mehanike/</link>
+      <pubDate>Tue, 02 Apr 2019 12:00:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-04-02-uchet-dempfirovaniya-v-mehanike/</guid>
+      <description>&lt;p&gt;Учет демпфирования в механике&lt;/p&gt;
+&lt;p&gt;Статья из блога Comsol рассказывает об учете демпфирования при моделировании механических систем. Рассмотрено влияние демпфирования на системы с 1 и 2 степенями свободы, приведены примеры значений демпфирования для конструкционных материалов. Неплохо, но мало.&lt;/p&gt;
+&lt;p&gt;Исходный материал: &lt;a href=&#34;https://www.comsol.com/blogs/damping-in-structural-dynamics-theory-and-sources/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.comsol.com/blogs/damping-in-structural-dynamics-theory-and-sources/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Comsol #damping&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2s8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2s8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.comsol.com/blogs/damping-in-structural-dynamics-theory-and-sources/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.comsol.com/blogs/damping-in-structural-dynamics-theory-and-sources/&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2s8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2s8&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новые возможности COMSOL</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-13-novye-vozmozhnosti-comsol/</link>
+      <pubDate>Sat, 13 Oct 2018 17:00:21 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-10-13-novye-vozmozhnosti-comsol/</guid>
+      <description>&lt;p&gt;Новые возможности COMSOL
+Давно я не писал про COMSOL, а между тем он не останавливается в развитии.
+В новой версии появилась возможность при помощи COMSOL Compiler собирать собственные миниприложения, заточенные под решение конкретной задачи. Причем, по заявлениям источника, эти приложения будут работать самостоятельно, без необходимости наличия лицензий на COMSOL. На мой взгляд, это чертовски прикольная штука.
+Получается так: COMSOL в свое время отделился от команды Matlab (если я ничего не путаю); Matlab продолжил свое развитие как средство решения математических задач/особый язык программирования; COMSOL, благодаря Compiler, теперь тоже пытыется стать средством такого визуального программирования для решения конкретных задач. Они откусывают у себя продажи, но рождают рынок разработчиков физических WYSIWYG приложений.
+На официальном сайте компании есть очень хорошее видео по теме COMSOL Compiler: https://www.comsol.com/release/5.4
+Материал на русском:
+&lt;a href=&#34;http://isicad.ru/ru/news.php?news=20122&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://isicad.ru/ru/news.php?news=20122&lt;/a&gt;
+Интересно, а кто-нибудь из больших игроков когда-нибудь сделает такое решение? И что бы все еще и без лицензий работало :-)&lt;/p&gt;
+&lt;p&gt;#Comsol #COMSOLCompiler
+&lt;a href=&#34;http://bit.ly/2CcRCYM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2CcRCYM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.comsol.com/release/5.4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;COMSOL® Software Version 5.4 Release Highlights&lt;/a&gt;
+&lt;a href=&#34;http://isicad.ru/ru/news.php?news=20122&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://isicad.ru/ru/news.php?news=20122&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2CcRCYM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2CcRCYM&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Большая статья от #Comsol, про то, как #HARMAN при помощи их решателя и #Livelink для #MATLAB считать акустику внутри салона автомобиля.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-01-bolshaya-statya-ot-comsol-pro-to-kak/</link>
+      <pubDate>Fri, 01 Dec 2017 17:21:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-01-bolshaya-statya-ot-comsol-pro-to-kak/</guid>
+      <description>&lt;p&gt;Приятно почитать.
+&lt;a href=&#34;https://geektimes.ru/company/comsol/blog/295287/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://geektimes.ru/company/comsol/blog/295287/&lt;/a&gt; 🔗 Виртуальное проектирование и настройка автомобильной аудиосистемы: опыт компании HARMAN&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2zW39eU&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zW39eU&lt;/a&gt;
+&lt;a href=&#34;https://geektimes.ru/company/comsol/blog/295287/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://geektimes.ru/company/comsol/blog/295287/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Знаете ли вы компанию Amway - производителя косметики и бытовой химии?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-16-znaete-li-vy-kompaniyu-amway-proizvodit/</link>
       <pubDate>Sat, 16 Sep 2017 08:59:18 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-09-16-znaete-li-vy-kompaniyu-amway-proizvodit/</guid>
-      <description>&lt;p&gt;Так вот, Amway набирает людей со знанием #CFD, #FEA и параметрических исследований в команду. Надо уметь пользоваться #COMSOL.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-09-16-znaete-li-vy-kompaniyu-amway-proizvodit/</guid>
+      <description>&lt;p&gt;Ну #Amway, которою так любят бьюти блогеры?&lt;/p&gt;
+&lt;p&gt;Так вот, Amway набирает людей со знанием #CFD, #FEA и параметрических исследований в команду. Надо уметь пользоваться #COMSOL.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://jobs.amway.com/job/Ada-Intern-Computational-Fluid-Dynamics-%28CFD%29-Modeling-MI-49355/429787400/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://jobs.amway.com/job/Ada-Intern-Computational-Fluid-Dynamics-%28CFD%29-Modeling-MI-49355/429787400/&lt;/a&gt; 🔗 Intern- Computational Fluid Dynamics (CFD) Modeling&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2wj7UO3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wj7UO3&lt;/a&gt;
+&lt;a href=&#34;https://jobs.amway.com/job/Ada-Intern-Computational-Fluid-Dynamics-%28CFD%29-Modeling-MI-49355/429787400/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://jobs.amway.com/job/Ada-Intern-Computational-Fluid-Dynamics-%28CFD%29-Modeling-MI-49355/429787400/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пакетный запуск COMSOL</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-23-paketnyy-zapusk-comsol/</link>
+      <pubDate>Fri, 23 Dec 2016 17:01:35 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-23-paketnyy-zapusk-comsol/</guid>
+      <description>&lt;p&gt;Пакетный запуск COMSOL
+&lt;a href=&#34;https://www.comsol.com/blogs/how-to-run-simulations-in-batch-mode-from-the-command-line/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.comsol.com/blogs/how-to-run-simulations-in-batch-mode-from-the-command-line/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Очень часто нужно выполнить расчет в пакетно режиме (т.е. вообще без GUI) - тогда надо знать синтаксис командной строки вашего решателя, ибо любой уважающий себя решатель должен уметь работать с командной строкой.&lt;/p&gt;
+&lt;p&gt;#COMSOL себя уважает, может, рассказывает как в своем блоге.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.comsol.com/blogs/how-to-run-simulations-in-batch-mode-from-the-command-line&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;How to Run Simulations in Batch Mode from the Command Line&lt;/a&gt;
+&lt;a href=&#34;https://www.comsol.com/blogs/how-to-run-simulations-in-batch-mode-from-the-command-line/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.comsol.com/blogs/how-to-run-simulations-in-batch-mode-from-the-command-line/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Тонскости моделирования зубчатого зацепления</title>
-      <link>http://localhost:1313/posts/2016-12-11-tonskosti-modelirovaniya-zubchatogo-zatsepl/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-11-tonskosti-modelirovaniya-zubchatogo-zatsepl/</link>
       <pubDate>Sun, 11 Dec 2016 17:01:27 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-12-11-tonskosti-modelirovaniya-zubchatogo-zatsepl/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.comsol.com/blogs/how-to-evaluate-gear-mesh-stiffness-in-a-multibody-dynamics-model/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.comsol.com/blogs/how-to-evaluate-gear-mesh-stiffness-in-a-multibody-dynamics-model/&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-12-11-tonskosti-modelirovaniya-zubchatogo-zatsepl/</guid>
+      <description>&lt;p&gt;Тонскости моделирования зубчатого зацепления
+&lt;a href=&#34;https://www.comsol.com/blogs/how-to-evaluate-gear-mesh-stiffness-in-a-multibody-dynamics-model/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.comsol.com/blogs/how-to-evaluate-gear-mesh-stiffness-in-a-multibody-dynamics-model/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#COMSOL в своем блоге подробно разобрал как моделировать зубчатое зацепление, на что влияет использование подхода с деформируемыми и не деформируемыми телами и насколько важна хорошая сетка. Материал полезен не только пользователям COMSOL, но и любого другого #FEM кода.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.comsol.com/blogs/how-to-evaluate-gear-mesh-stiffness-in-a-multibody-dynamics-model&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;How to Evaluate Gear Mesh Stiffness in a Multibody Dynamics Model&lt;/a&gt;
+&lt;a href=&#34;https://www.comsol.com/blogs/how-to-evaluate-gear-mesh-stiffness-in-a-multibody-dynamics-model/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.comsol.com/blogs/how-to-evaluate-gear-mesh-stiffness-in-a-multibody-dynamics-model/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Топологическая оптимизация в задачах акустики</title>
-      <link>http://localhost:1313/posts/2016-11-13-topologicheskaya-optimizatsiya-v-zadachah-aku/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-13-topologicheskaya-optimizatsiya-v-zadachah-aku/</link>
       <pubDate>Sun, 13 Nov 2016 12:04:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-11-13-topologicheskaya-optimizatsiya-v-zadachah-aku/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.comsol.com/blogs/how-to-use-acoustic-topology-optimization-in-your-simulation-studies/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.comsol.com/blogs/how-to-use-acoustic-topology-optimization-in-your-simulation-studies/&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-13-topologicheskaya-optimizatsiya-v-zadachah-aku/</guid>
+      <description>&lt;p&gt;Топологическая оптимизация в задачах акустики
+&lt;a href=&#34;https://www.comsol.com/blogs/how-to-use-acoustic-topology-optimization-in-your-simulation-studies/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.comsol.com/blogs/how-to-use-acoustic-topology-optimization-in-your-simulation-studies/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#Comsol в своем блоге написал хорошую статью, содержащую не только основы постановок задачи топологической оптимизации в классическом ее понимании (для конструкций несущих нагрузку), но и сделал небольшое отступление в область акустики. Коллеги показали, что можно переформулировать топологическую оптимизацию для получения акустически оптимальных конструкций, воде направленных излучателей.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.comsol.com/blogs/how-to-use-acoustic-topology-optimization-in-your-simulation-studies&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;How to Use Acoustic Topology Optimization in Your Simulation Studies&lt;/a&gt;
+&lt;a href=&#34;https://www.comsol.com/blogs/how-to-use-acoustic-topology-optimization-in-your-simulation-studies/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.comsol.com/blogs/how-to-use-acoustic-topology-optimization-in-your-simulation-studies/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Nor-Tech, один из крупнейших в США системных интеграторов сп</title>
-      <link>http://localhost:1313/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</link>
+      <title>Роторная динамика в COMSOL</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-11-rotornaya-dinamika-v-comsol/</link>
+      <pubDate>Tue, 11 Oct 2016 17:00:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-11-rotornaya-dinamika-v-comsol/</guid>
+      <description>&lt;p&gt;Роторная динамика в COMSOL
+&lt;a href=&#34;http://www.digitaleng.news/de/comsol-brings-speed-new-module-at-2016-conference/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.digitaleng.news/de/comsol-brings-speed-new-module-at-2016-conference/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Гвоздем прошедшей главной конференции по #COMSOL 2016 года стало появление.. модуля для работы с роторной динамикой. Простите, но это позор. Я понимаю, что Comsol - это не про промышленное применение, но не настолько же, что только в 2016 году он научился работать с роторной динамикой.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.digitaleng.news/de/comsol-brings-speed-new-module-at-2016-conference/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;COMSOL Brings Speed, New Module at 2016 Conference&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Адгезия или декогезия?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-03-adgeziya-ili-dekogeziya/</link>
+      <pubDate>Sat, 03 Sep 2016 12:00:15 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-09-03-adgeziya-ili-dekogeziya/</guid>
+      <description>&lt;p&gt;Адгезия или декогезия?
+&lt;a href=&#34;https://www.comsol.com/blogs/how-to-model-adhesion-and-decohesion-in-comsol-multiphysics/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.comsol.com/blogs/how-to-model-adhesion-and-decohesion-in-comsol-multiphysics/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Как промоделировать процесс прилипания или отклеивая частей конструкции? Не всякий контактный алгоритм такое позволяет, не всякий специальный конечный элемент для этот подходит. #Comsol расскажет как это делать с точки зрения техники и математических моделей.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.comsol.com/blogs/how-to-model-adhesion-and-decohesion-in-comsol-multiphysics&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;How to Model Adhesion and Decohesion in COMSOL Multiphysics&lt;/a&gt;
+&lt;a href=&#34;https://www.comsol.com/blogs/how-to-model-adhesion-and-decohesion-in-comsol-multiphysics/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.comsol.com/blogs/how-to-model-adhesion-and-decohesion-in-comsol-multiphysics/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Основные принципы моделирования зубчатых перекачан примере #Comsol - я думаю, что пользователям из конкурирующих лагерей тоже будет полезно. https://www.comsol.com/blogs/an-introduction-to-gear-modeling-in-comsol-multiphysics</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-10-osnovnye-printsipy-modelirovaniya-zubchatyh/</link>
+      <pubDate>Sun, 10 Jul 2016 18:01:46 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-10-osnovnye-printsipy-modelirovaniya-zubchatyh/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.comsol.com/blogs/an-introduction-to-gear-modeling-in-comsol-multiphysics&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;An Introduction to Gear Modeling in COMSOL Multiphysics&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Я и не знал, что #Comsol умеет считать геометрическую оптику (решатель Ray #Optics Module). А тем временем, в новой версии решателя появилась возможность рассчитывать прохождение лучей через домен даже без построения в на нем сетки!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-28-ya-i-ne-znal-chto-comsol-umeet-schitat-g/</link>
+      <pubDate>Tue, 28 Jun 2016 07:01:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-28-ya-i-ne-znal-chto-comsol-umeet-schitat-g/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.comsol.com/blogs/use-the-ray-tracing-algorithm-in-comsol-multiphysics-5-2a/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Use the Ray Tracing Algorithm in COMSOL Multiphysics® 5.2a&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>У #Comsol появился #LiveLink к #Solidworks.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-28-u-comsol-poyavilsya-livelink-k-solidwor/</link>
+      <pubDate>Sun, 28 Feb 2016 07:00:53 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-02-28-u-comsol-poyavilsya-livelink-k-solidwor/</guid>
+      <description>&lt;p&gt;Наконец-то у Comsol появляется поддержка нормального #CAD.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/11525/COMSOL-Brings-LiveLink-for-SOLIDWORKS-Integration-into-Simulation-Apps.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt; COMSOL Brings LiveLink for SOLIDWORKS Integration into Simulation Apps &amp;gt; ENGINEERING.com &lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>В Питере и Москве сегодня снегопад. Но нам надо больше снега!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-12-v-pitere-i-moskve-segodnya-snegopad-no-n/</link>
+      <pubDate>Tue, 12 Jan 2016 18:01:40 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-12-v-pitere-i-moskve-segodnya-snegopad-no-n/</guid>
+      <description>&lt;p&gt;!! По этому мы позовем на помощь #COMSOL с его Application Builder.&lt;/p&gt;
+&lt;p&gt;В своем блоге коллеги рассматривают процесс создания отдельного вертикального приложения строящего фрактальные снежинки!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.comsol.com/blogs/using-the-application-builder-to-create-a-koch-snowflake/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Using the Application Builder to Create a Koch Snowflake&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>В #COMSOL 5.2 для модуля #CFD появилась математика для описания 3-х фазных потоков.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-20-v-comsol-52-dlya-modulya-cfd-poyavilas/</link>
+      <pubDate>Sun, 20 Dec 2015 07:30:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-12-20-v-comsol-52-dlya-modulya-cfd-poyavilas/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.comsol.com/blogs/simulate-three-phase-flow-with-a-new-phase-field-interface/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Simulate Three-Phase Flow with a New Phase Field Interface&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nor-Tech, один из крупнейших в США системных интеграторов специализирующихся на #HPC, запустил демонстрационных кластер, на котором вы можете свободно проверить, что конкретно вам даст настоящий высокопроизводительный ресурс.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</link>
       <pubDate>Mon, 23 Nov 2015 06:00:37 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</guid>
-      <description>&lt;p&gt;CAE:&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</guid>
+      <description>&lt;p&gt;Уже сейчас на классе доступны следующие программные продукты:&lt;/p&gt;
+&lt;p&gt;CAE:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;ANSYS: ANSYS Fluent – CFD,&lt;/li&gt;
 &lt;li&gt;ANSYS: Mechanical – FEA,&lt;/li&gt;
@@ -109,38 +291,77 @@
 &lt;li&gt;Altair PBS Pro, Compute Manager &amp;amp; Display Manager и другеи продукты&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Жаль, что у нас пока нет таких же бравых системных интеграторов.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.nor-tech.com/solutions/hpc/demo-cluster/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Try our free demo cluster&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Если вы еще удивляетесь, как работает топологическая оптимиз</title>
-      <link>http://localhost:1313/posts/2015-10-02-esli-vy-esche-udivlyaetes-kak-rabotaet-to/</link>
+      <title>Вышел #COMSOL 5.2, вынес много всего нового:</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-17-vyshel-comsol-52-vynes-mnogo-vsego-nov/</link>
+      <pubDate>Tue, 17 Nov 2015 18:30:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-17-vyshel-comsol-52-vynes-mnogo-vsego-nov/</guid>
+      <description>&lt;p&gt;Вышел #COMSOL 5.2, вынес много всего нового:
+Новые возможности Application Builder и COMSOL Server, блочная сетка, сеточные сборки и много некоторые нововведения для решателей.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.comsol.com/blogs/new-release-comsol-multiphysics-version-5-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;New Release: COMSOL Multiphysics® Version 5.2&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Индукционная передача энергии в #COMSOL</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-25-induktsionnaya-peredacha-energii-v-comsol/</link>
+      <pubDate>Sun, 25 Oct 2015 18:30:10 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-25-induktsionnaya-peredacha-energii-v-comsol/</guid>
+      <description>&lt;p&gt;Индукционная передача энергии в #COMSOL&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.comsol.com/blogs/investigating-wireless-power-transfer-with-simulation/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Investigating Wireless Power Transfer with Simulation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Если вы еще удивляетесь, как работает топологическая оптимизация, то вот хороший ликбез по данной тематике.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-02-esli-vy-esche-udivlyaetes-kak-rabotaet-to/</link>
       <pubDate>Fri, 02 Oct 2015 06:30:23 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-02-esli-vy-esche-udivlyaetes-kak-rabotaet-to/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Сладкая история о том, как Nestlé использует COMSOL и SolidW</title>
-      <link>http://localhost:1313/posts/2015-09-21-sladkaya-istoriya-o-tom-kak-nestl%C3%A9-ispol/</link>
-      <pubDate>Mon, 21 Sep 2015 07:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/2015-09-21-sladkaya-istoriya-o-tom-kak-nestl%C3%A9-ispol/</guid>
-      <description>&lt;p&gt;#COMSOL #SolidWorks #CAE&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.comsol.com/blogs/nestle-sweetens-the-candy-production-process-with-simulation/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.comsol.com/blogs/nestle-sweetens-the-candy-production-process-with-simulation/&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-02-esli-vy-esche-udivlyaetes-kak-rabotaet-to/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.comsol.com/blogs/finding-a-structures-best-design-with-topology-optimization/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Finding a Structure&amp;rsquo;s Best Design with Topology Optimization&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>COMSOL проводит в своем блоге ликбез по теме геометрической </title>
-      <link>http://localhost:1313/posts/2015-09-18-comsol-provodit-v-svoem-bloge-likbez-po/</link>
+      <title>Сладкая история о том, как Nestlé использует COMSOL и SolidWorks для глазировки таких вкусных и любимых везде вафель Kit Kat и Aero.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-21-sladkaya-istoriya-o-tom-kak-nestl%C3%A9-ispol/</link>
+      <pubDate>Mon, 21 Sep 2015 07:00:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-21-sladkaya-istoriya-o-tom-kak-nestl%C3%A9-ispol/</guid>
+      <description>&lt;p&gt;#COMSOL #SolidWorks #CAE&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.comsol.com/blogs/nestle-sweetens-the-candy-production-process-with-simulation/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.comsol.com/blogs/nestle-sweetens-the-candy-production-process-with-simulation/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.comsol.com/blogs/nestle-sweetens-the-candy-production-process-with-simulation/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Nestlé Sweetens the Candy Production Process with Simulation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COMSOL проводит в своем блоге ликбез по теме геометрической нелинейности, учету больших перемещений и поворотов в конструкции.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-18-comsol-provodit-v-svoem-bloge-likbez-po/</link>
       <pubDate>Fri, 18 Sep 2015 07:00:06 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-09-18-comsol-provodit-v-svoem-bloge-likbez-po/</guid>
-      <description>&lt;p&gt;Напомню, что в ANSYS Mechanical и ANSYS MAPDL учет геометрической нелинейность включаются одно галочкой в настройках решателя.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-18-comsol-provodit-v-svoem-bloge-likbez-po/</guid>
+      <description>&lt;p&gt;Рассказывают зачем это нужно, в какие уравнения вносит изменения. Всегда полезно вдумчиво разобраться в базисе.&lt;/p&gt;
+&lt;p&gt;Напомню, что в ANSYS Mechanical и ANSYS MAPDL учет геометрической нелинейность включаются одно галочкой в настройках решателя.&lt;/p&gt;
 &lt;p&gt;#COMSOL #FEA&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.comsol.com/blogs/what-is-geometric-nonlinearity/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.comsol.com/blogs/what-is-geometric-nonlinearity/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.comsol.com/blogs/what-is-geometric-nonlinearity/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;What Is Geometric Nonlinearity?&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>В болге #COMSOL рассказывают, что swep сетка - это очень хорошо.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-08-v-bolge-comsol-rasskazyvayut-chto-swep-s/</link>
+      <pubDate>Tue, 08 Sep 2015 17:00:29 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-09-08-v-bolge-comsol-rasskazyvayut-chto-swep-s/</guid>
+      <description>&lt;p&gt;Рассказывают с примерами&amp;hellip; не одной хорошей сетки так и не показывают.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.comsol.com/blogs/improving-your-meshing-with-swept-meshes/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Improving Your Meshing with Swept Meshes&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

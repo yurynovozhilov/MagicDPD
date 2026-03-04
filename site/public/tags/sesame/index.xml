@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sesame on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/sesame/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Sesame)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 17 Nov 2021 13:03:27 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/sesame/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CHT</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-11-17-cht/</link>
+      <pubDate>Wed, 17 Nov 2021 13:03:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-11-17-cht/</guid>
+      <description>&lt;p&gt;CHT&lt;/p&gt;
+&lt;p&gt;CTH - это &amp;ldquo;многофазный&amp;rdquo; решатель для МКЭ в эйлеровой формулировке, разработанный в Сандийской национальной лаборатории. Далее, парам моментов, которые привлекли мое внимание в данном коде.&lt;/p&gt;
+&lt;p&gt;SESAME Multi-Phase Equation of State - CTH имеет несколько уравнений состояния (УРС) материалов. Среди них я выделяю УРС SESAME, которое может моделировать фазовые переходы твердое тело, жидкость, пар, жидкость-пар, твердое тело-жидкость и твердое тело-твердое тело. Такого я в комических кодах не припоминаю.&lt;/p&gt;
+&lt;p&gt;В CTH все должно быть хорошо с задачами горения и детонации (как идеальной, так и не идеальной). Есть такие модели как программируемое горение, Ли-Тарвер,  Джонса-Уилкинса-Ли, Forestfire и собственные модели Сандии.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sandia.gov/cth/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.sandia.gov/cth/&lt;/a&gt;
+#cht #hpc #sandia #sesame
+&lt;a href=&#34;https://tinyurl.com/ye33soao&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ye33soao&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sandia.gov/cth/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Scalable Shock Physics&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/ye33soao&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ye33soao&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

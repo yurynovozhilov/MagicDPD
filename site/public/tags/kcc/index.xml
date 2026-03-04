@@ -1,41 +1,104 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kcc on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/kcc/</link>
-    <description>MagicDPD: Magic Driven Product Development! (Kcc)</description>
+    <title>KCC on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/kcc/</link>
+    <description>MagicDPD: Magic Driven Product Development! (KCC)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 10 Mar 2021 13:01:32 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/kcc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/kcc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>KC-FEMFRE - бессеточный код решения задач разрушения</title>
-      <link>http://localhost:1313/posts/2021-03-10-kc-femfre-bessetochnyy-kod-resheniya-zada/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-10-kc-femfre-bessetochnyy-kod-resheniya-zada/</link>
       <pubDate>Wed, 10 Mar 2021 13:01:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-03-10-kc-femfre-bessetochnyy-kod-resheniya-zada/</guid>
-      <description>&lt;p&gt;Знаете ли вы, что компания Karagozian &amp;amp; Case, Inc., специализирующаяся на консалтинге для оборонно-промышленного комплекса, компания, создатель одной из самых популярных и точных моделей бетона для LS-DYNA *MAT_CONCRETE_DAMAGE_REL3/*MAT_072R3 также разрабатывается свой собственный расчетный кода!&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-10-kc-femfre-bessetochnyy-kod-resheniya-zada/</guid>
+      <description>&lt;p&gt;KC-FEMFRE - бессеточный код решения задач разрушения&lt;/p&gt;
+&lt;p&gt;Знаете ли вы, что компания Karagozian &amp;amp; Case, Inc., специализирующаяся на консалтинге для оборонно-промышленного комплекса, компания, создатель одной из самых популярных и точных моделей бетона для LS-DYNA *MAT_CONCRETE_DAMAGE_REL3/*MAT_072R3 также разрабатывается свой собственный расчетный кода!&lt;/p&gt;
 &lt;p&gt;Их детище носит название FEMFRE (Finite Element and MeshFREe solver). Код обладает встроенной базой материалов для расчетов задач разрушения  Extreme Materials Library (ExML), включающую в себя, например, 4-тую версию их модели бетона. Из интересных особенностей - адаптивный бессеточный метод расчета. Пока конструкцию можно считать при помощи МКЭ расчет так и ведется.&lt;/p&gt;
 &lt;p&gt;Но когда разрушения уже не могут быть описаны традиционными сеточными методами система переключаться на бессеточный метод на основе RKPM (Reprodusing Kernel Particel Meshod), являющийся аналогом бессеточных методов Гелеркина, применяемых в LS-DYNA (&lt;a href=&#34;https://ftp.lstc.com/anonymous/outgoing/support/FAQ_kw/concrete/kccm_paper.pdf%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ftp.lstc.com/anonymous/outgoing/support/FAQ_kw/concrete/kccm_paper.pdf)&lt;/a&gt;.  Сайт продукта: &lt;a href=&#34;https://www.kcse.com/home/software/kcfemfre/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.kcse.com/home/software/kcfemfre/&lt;/a&gt; Одна из ранних публикаций по теме: &lt;a href=&#34;https://doi.org/10.1061/%28ASCE%29EM.1943-7889.0000497&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://doi.org/10.1061/(ASCE)EM.1943-7889.0000497&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#concrete #explicit #kcc #meshless
+&lt;a href=&#34;https://tinyurl.com/y86ydvts&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y86ydvts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ftp.lstc.com/anonymous/outgoing/support/FAQ_kw/concrete/kccm_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ftp.lstc.com/anonymous/outgoing/support/FAQ_kw/concrete/kccm_paper.pdf&lt;/a&gt;
+&lt;a href=&#34;http://www.kcse.com/home/software/kcfemfre/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.kcse.com/home/software/kcfemfre/&lt;/a&gt;
+&lt;a href=&#34;https://doi.org/10.1061/%28ASCE%29EM.1943-7889.0000497&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://doi.org/10.1061/(ASCE)EM.1943-7889.0000497&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/y86ydvts&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y86ydvts&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Karagozian &amp; Case</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-07-karagozian-case/</link>
+      <pubDate>Thu, 07 Feb 2019 17:01:48 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-07-karagozian-case/</guid>
+      <description>&lt;p&gt;Karagozian &amp;amp; Case&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5m9DLrpzlLk&amp;amp;feature=youtu.be&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=5m9DLrpzlLk&amp;feature=youtu.be&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Рекламное видео-визитка от компании Karagozian &amp;amp; Case. Чем же она знаменита? Это одна из самых продвинутых околовоенных научных исследовательских организаций США. Этакие частные Сандийские лаборатории. Кроме того, Karagozian &amp;amp; Case знамениты своей моделью бетона KCC для LS-DYNA (MAT_CONCRETE_DAMAGE), которая скоро ждет уже своего 4-ого переиздания.&lt;/p&gt;
+&lt;p&gt;#KCC&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2jG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2jG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5m9DLrpzlLk&amp;amp;feature=youtu.be&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=5m9DLrpzlLk&amp;feature=youtu.be&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2jG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2jG&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-DYNA KCC R4</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-17-ls-dyna-kcc-r4/</link>
+      <pubDate>Mon, 17 Dec 2018 17:00:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-12-17-ls-dyna-kcc-r4/</guid>
+      <description>&lt;p&gt;LS-DYNA KCC R4
+Случайно наткнулся на материалы одной около военной конференции, где подробно рассматривали задачу пробивания неармированной бетонной плиты. Считали, как водится, в LS-DYNA. Но самое интересное тут в моделях материалов. При этом использовали такие важные бетонные модели как:&lt;/p&gt;
+&lt;p&gt;Karagozian &amp;amp; Case Concrete Model, Release 3 (*MAT_CONCRETE_DAMAGE_REL3)&lt;/p&gt;
+&lt;p&gt;Continuous Surface Cap Model (*MAT_CSCM)&lt;/p&gt;
+&lt;p&gt;Riedel-Hiermaier-Thoma Model (*MAT_RHT)&lt;/p&gt;
+&lt;p&gt;Winfrith Concrete Model (*MAT_WINFRITH_CONCRETE)&lt;/p&gt;
+&lt;p&gt;Johnson-Holmquist Concrete Model (*MAT_JOHNSON_HOLMQUIST_CONCRETE)&lt;/p&gt;
+&lt;p&gt;Karagozian &amp;amp; Case Concrete Model, Release 4&lt;/p&gt;
+&lt;p&gt;Тут конечно самое интересное, это 4-ая версия KCC модели, о которой рассказывает сотрудник компании Karagozian &amp;amp; Case. Мимо такого доклада не стоит проходить!&lt;/p&gt;
+&lt;p&gt;Для корректного расчета пробивания использовалось адаптивное переключение лагранжевого МКЭ в SPH по мере &amp;ldquo;смерти элементов&amp;rdquo;, что является одним из передовых правильных подходов в задачах терминальной баллистики.
+Слайды презентации:
+&lt;a href=&#34;https://ndiastorage.blob.core.usgovcloudapi.net/ndia/2018/intexpsafety/Durant.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ndiastorage.blob.core.usgovcloudapi.net/ndia/2018/intexpsafety/Durant.pdf&lt;/a&gt;
+Сопутствующая статья:
+&lt;a href=&#34;https://ndiastorage.blob.core.usgovcloudapi.net/ndia/2018/intexpsafety/DurantPaper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ndiastorage.blob.core.usgovcloudapi.net/ndia/2018/intexpsafety/DurantPaper.pdf&lt;/a&gt;
+#Concrete #CSCM #DEFINEADAPTIVESOLIDTOSPH #KCC #RHT #SPH
+&lt;a href=&#34;http://bit.ly/2UOZ82Q&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2UOZ82Q&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ndiastorage.blob.core.usgovcloudapi.net/ndia/2018/intexpsafety/Durant.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ndiastorage.blob.core.usgovcloudapi.net/ndia/2018/intexpsafety/Durant.pdf&lt;/a&gt;
+&lt;a href=&#34;https://ndiastorage.blob.core.usgovcloudapi.net/ndia/2018/intexpsafety/DurantPaper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://ndiastorage.blob.core.usgovcloudapi.net/ndia/2018/intexpsafety/DurantPaper.pdf&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2UOZ82Q&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2UOZ82Q&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Применение SPG в задачах фрезировки и пробивания</title>
-      <link>http://localhost:1313/posts/2018-11-14-primenenie-spg-v-zadachah-frezirovki-i-pr/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-14-primenenie-spg-v-zadachah-frezirovki-i-pr/</link>
       <pubDate>Wed, 14 Nov 2018 17:00:23 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-11-14-primenenie-spg-v-zadachah-frezirovki-i-pr/</guid>
-      <description>&lt;p&gt;Хорошая статья от LSTC, посвященная изучению работы их SPG метода в применении к задачам обработки материалов. И тут под обработкой понимается очень широкий круг понятий: в статье описаны только задачи фрезировки металла и пробивания бетона, но у меня есть кейсы, где рассматривается и сверление, и разрывные испытания, и даже фрагментация осколочных боеприпасов.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-11-14-primenenie-spg-v-zadachah-frezirovki-i-pr/</guid>
+      <description>&lt;p&gt;Применение SPG в задачах фрезировки и пробивания&lt;/p&gt;
+&lt;p&gt;Хорошая статья от LSTC, посвященная изучению работы их SPG метода в применении к задачам обработки материалов. И тут под обработкой понимается очень широкий круг понятий: в статье описаны только задачи фрезировки металла и пробивания бетона, но у меня есть кейсы, где рассматривается и сверление, и разрывные испытания, и даже фрагментация осколочных боеприпасов.&lt;/p&gt;
 &lt;p&gt;SPG (не путать с SPH или EFG)- это вообще некий единорог среди бессеточных методов, который может очень много чего как в explicit, так и в implicit (!!!) постановках, отличается стабильностью и простотой настройки. Вот только ресурсов любой бессеточный метод в механике обычно кушает раза в 3 больше, чем сеточный.
 &lt;a href=&#34;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/parametric-and-convergence-studies-of-the-smoothed-particle-galerkin-spg-method-in-semi-brittle-and-ductile-material-failure-analyses&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/parametric-and-convergence-studies-of-the-smoothed-particle-galerkin-spg-method-in-semi-brittle-and-ductile-material-failure-analyses&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#Concrete #KCC #LSDYNA #LSTC #Machining #Meshless #Perforation #SPG
 &lt;a href=&#34;http://bit.ly/2RZwFW3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RZwFW3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/parametric-and-convergence-studies-of-the-smoothed-particle-galerkin-spg-method-in-semi-brittle-and-ductile-material-failure-analyses&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynalook.com/15th-international-ls-dyna-conference/spg/parametric-and-convergence-studies-of-the-smoothed-particle-galerkin-spg-method-in-semi-brittle-and-ductile-material-failure-analyses&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2RZwFW3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2RZwFW3&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Создатели модели бетона #KCC для #LSDYNA еще и эксперименты хорошие ставят.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-23-sozdateli-modeli-betona-kcc-dlya-lsdyna/</link>
+      <pubDate>Mon, 23 May 2016 12:48:43 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-05-23-sozdateli-modeli-betona-kcc-dlya-lsdyna/</guid>
+      <description>&lt;p&gt;На этот раз они бахнули взрывозащитную стену.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0kKmvzjshGc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;K&amp;amp;C: Test of Blast Resistant Curtain Wall System&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

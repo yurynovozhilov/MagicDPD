@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WB on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/wb/</link>
+    <description>MagicDPD: Magic Driven Product Development! (WB)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 29 Jan 2018 17:00:56 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/wb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ANSYS R19 официально</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-29-ansys-r19-ofitsialno/</link>
+      <pubDate>Mon, 29 Jan 2018 17:00:56 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-29-ansys-r19-ofitsialno/</guid>
+      <description>&lt;p&gt;ANSYS R19 официально
+Итак, свершилось! ANSYS R19 стал доступен, о чем нам сообщает официальный сайт компании CADFEM CIS&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cadfem-cis.ru/products/ansys/ansys-update/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/products/ansys/ansys-update/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;На мой вкус, R19 вышел очень сильным, особенно, если сравнивать с R18. Вот мои любимые нововведения (в тех местах, где я что-то понимаю):&lt;/p&gt;
+&lt;p&gt;Mechanical:&lt;/p&gt;
+&lt;p&gt;XFEM и динамические сетки получили новый виток развития - это просто чума!
+Topology Optimizataion сдвинулась с мертвой точки: учет преднапряженного состояния и объемных нагрузок, куча интересных beta-возможностей&lt;/p&gt;
+&lt;p&gt;Meshing&lt;/p&gt;
+&lt;p&gt;Cartesian сетки вышли из beta
+Новые Cartesian-подобные сетки внутри Fluent Meshing&lt;/p&gt;
+&lt;p&gt;HPC&lt;/p&gt;
+&lt;p&gt;Любой решатель, принадлежащий ANSYS, из коробки будет считать на 4-х процессорных ядрах!&lt;/p&gt;
+&lt;p&gt;СFD:&lt;/p&gt;
+&lt;p&gt;EnSight - welcome!&lt;/p&gt;
+&lt;p&gt;SpaceClaim&lt;/p&gt;
+&lt;p&gt;Faset Data теперь включен в стандартную лицензию&lt;/p&gt;
+&lt;p&gt;WB LS-DYNA&lt;/p&gt;
+&lt;p&gt;Она теперь умеет читать .k файлы через External Model (!!!)
+Куча новых материалов доступна через Engineering Data&lt;/p&gt;
+&lt;p&gt;Всем заинтересованным я очень рекомендую внимательно прочитать две брошюры по данному релизу:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;ANSYS 19.0 — Обновления и изменения&amp;rdquo; https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/19/ANSYS19.0_update.pdf
+&amp;ldquo;ANSYS 19.0 — Технические требования к программно-аппаратным комплексам и лицензионная политика в области HPC&amp;rdquo; https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/19/ANSYS19.0_tech.pdf&lt;/p&gt;
+&lt;p&gt;#ANSYS #Cartesian #CFD #HPC #Mechaincal #Meshing #optimization #SpaceClaim #Topology #WB LS-DYNA #XFEM
+&lt;a href=&#34;https://magicdpd.ru/?p=6128&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6128&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cadfem-cis.ru/products/ansys/ansys-update/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/products/ansys/ansys-update/&lt;/a&gt;
+&lt;a href=&#34;https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/19/ANSYS19.0_update.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/19/ANSYS19.0_update.pdf&lt;/a&gt;
+&lt;a href=&#34;https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/19/ANSYS19.0_tech.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/fileadmin/data/file/content_prod/ansys/19/ANSYS19.0_tech.pdf&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=6128&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6128&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

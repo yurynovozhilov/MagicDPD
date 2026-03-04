@@ -2,119 +2,452 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Additive_manufacturing on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/additive_manufacturing/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/additive_manufacturing/</link>
     <description>MagicDPD: Magic Driven Product Development! (Additive_manufacturing)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 11 Nov 2021 14:01:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Nov 2021 15:18:29 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/additive_manufacturing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/additive_manufacturing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Топологическая оптимизация с учетом анизотропии при печати п</title>
-      <link>http://localhost:1313/posts/2021-11-11-topologicheskaya-optimizatsiya-s-uchetom-aniz/</link>
+      <title>Dawn-AM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-11-26-dawn-am/</link>
+      <pubDate>Fri, 26 Nov 2021 15:18:29 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-11-26-dawn-am/</guid>
+      <description>&lt;p&gt;Dawn-AM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=AEkmhqu7lYQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=AEkmhqu7lYQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Любопытный код от исследовательской группы Технического университета Эйндховена, изучающей механические свойства сложных инженерных материалов, таких как композиты, армированные волокнами, и 3D-печатные материалы для легких автомобильных и аэрокосмических применений.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Xrj2uXI-Fa0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Xrj2uXI-Fa0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;У них есть свой прочностной код Dawn, и его вариация для аддитивки - Dawn-AM. Код моделирует процесс послойного плавления металлов в SLM машинах через склеивание DEM частиц. Идея не плохая, но вот только частицы, кажется, надо использовать на несколько порядков более мелкие.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ARqhJ6XYYU4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ARqhJ6XYYU4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=C_rB6wt55qs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=C_rB6wt55qs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Сайт группы: &lt;a href=&#34;https://www.tue.nl/en/research/research-groups/mechanics-of-materials/group-remmers/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.tue.nl/en/research/research-groups/mechanics-of-materials/group-remmers/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#additive_manufacturing #dawn #dem
+&lt;a href=&#34;https://tinyurl.com/y4vqchp7&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y4vqchp7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=AEkmhqu7lYQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Discrete Element Simulation of a Powderbed Based Additive Manufacturing Process&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=Xrj2uXI-Fa0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Xrj2uXI-Fa0&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=ARqhJ6XYYU4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ARqhJ6XYYU4&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=C_rB6wt55qs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=C_rB6wt55qs&lt;/a&gt;
+&lt;a href=&#34;https://www.tue.nl/en/research/research-groups/mechanics-of-materials/group-remmers/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.tue.nl/en/research/research-groups/mechanics-of-materials/group-remmers/&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/y4vqchp7&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y4vqchp7&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Аддитивный кубик Рубика</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-11-15-additivnyy-kubik-rubika/</link>
+      <pubDate>Mon, 15 Nov 2021 13:01:47 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-11-15-additivnyy-kubik-rubika/</guid>
+      <description>&lt;p&gt;Аддитивный кубик Рубика&lt;/p&gt;
+&lt;p&gt;Компания EOS Global, разработчик систем аддитивного производства, показала как должен выглядеть кубик Рубика для true инженера. Этот кубик, создан специалистом по исследованиям и разработкам Александром Прильвицем (Alexander Prillwitz).&lt;/p&gt;
+&lt;p&gt;Кубик показывает, как в современном мире можно напечатать сложные функционирующие изделия прямо из металла. Кстати, у принтеров EOS есть прямой интерфейс с Ansys Additive Print.&lt;/p&gt;
+&lt;p&gt;Ссылка FB видео: &lt;a href=&#34;https://facebook.com/EOSGmbH/videos/laser-profusion-cube/511843523366450&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://facebook.com/EOSGmbH/videos/laser-profusion-cube/511843523366450&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ссылка LN видео: &lt;a href=&#34;https://www.linkedin.com/posts/eos_rubiks-cube-ugcPost-6864925250514153472-XAo8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.linkedin.com/posts/eos_rubiks-cube-ugcPost-6864925250514153472-XAo8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#additive_manufacturing #additive_print #additive_science #ansys
+&lt;a href=&#34;https://tinyurl.com/yhnrw5hh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yhnrw5hh&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://facebook.com/EOSGmbH/videos/laser-profusion-cube/511843523366450&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Log in or sign up to view&lt;/a&gt;
+&lt;a href=&#34;https://www.linkedin.com/posts/eos_rubiks-cube-ugcPost-6864925250514153472-XAo8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.linkedin.com/posts/eos_rubiks-cube-ugcPost-6864925250514153472-XAo8&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yhnrw5hh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yhnrw5hh&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Топологическая оптимизация с учетом анизотропии при печати пластиком</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-11-11-topologicheskaya-optimizatsiya-s-uchetom-aniz/</link>
       <pubDate>Thu, 11 Nov 2021 14:01:16 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-11-11-topologicheskaya-optimizatsiya-s-uchetom-aniz/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-11-11-topologicheskaya-optimizatsiya-s-uchetom-aniz/</guid>
       <description>&lt;p&gt;Anisoprint, люксембургский стартап в области композитной 3D-печати, и Additive Flow, британский разработчик программного обеспечения для AM, встроили в слайсер для 3D печати систему оптимизации топологии, которая, по их словам, должна учитывать анизотропность печатаемого из пластика изделия. Хотя, возможно они имели в виду анизотропию, вызванную печатью композитными материалами. Бета-версия Additive Flow Formflow должна была быть выпущена в прошедшем октябре, однако более подробной информации по ее работе пока найти не удалось.&lt;/p&gt;
 &lt;p&gt;Спасибо за новость моему подписчику, Станиславу Щебетову. Ссылка на новостной источник: &lt;a href=&#34;https://anisoprint.com/blog/anisoprint-additiveflow-launch/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://anisoprint.com/blog/anisoprint-additiveflow-launch/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#additive_manufacturing #optimization #topology
+&lt;a href=&#34;https://tinyurl.com/yhdekurh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yhdekurh&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://anisoprint.com/blog/anisoprint-additiveflow-launch/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;The XYZ-files: Anisoprint and Additive Flow launch topology optimization software for composite materials design | Anisoprint&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/yhdekurh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yhdekurh&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Оптимизация топологии с учетом анизотропии при аддитивном пр</title>
-      <link>http://localhost:1313/posts/2021-09-10-optimizatsiya-topologii-s-uchetom-anizotrop/</link>
+      <title>Оптимизация топологии с учетом анизотропии при аддитивном производстве</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-10-optimizatsiya-topologii-s-uchetom-anizotrop/</link>
       <pubDate>Fri, 10 Sep 2021 13:02:45 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-09-10-optimizatsiya-topologii-s-uchetom-anizotrop/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-10-optimizatsiya-topologii-s-uchetom-anizotrop/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EvSfOMYO_mc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=EvSfOMYO_mc&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;ParaMatters и Covestro собираются показать их ПО для топологической оптимизации с учетом анизотропии свойств материала, которая неизбежно может появиться при некоторых видах аддитивного производства. Причем на выходе коллеги обещают выдавать не просто геометрию, а сразу g-код для 3D принтера. Презентация ПО пройдет в Zoom 5 и 28 октября. Я посмотрю: &lt;a href=&#34;https://us02web.zoom.us/webinar/register/WN_QslYmKBxQzWn-sz0Z_6PHA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://us02web.zoom.us/webinar/register/WN_QslYmKBxQzWn-sz0Z_6PHA&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#additive_manufacturing #covestro #gcode #optimization #paramatters #topology
+&lt;a href=&#34;https://tinyurl.com/ygaaebwl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ygaaebwl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EvSfOMYO_mc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Anisotropic Optimization and Manufacturing Software - ParaMatters and Covestro&lt;/a&gt;
+&lt;a href=&#34;https://us02web.zoom.us/webinar/register/WN_QslYmKBxQzWn-sz0Z_6PHA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://us02web.zoom.us/webinar/register/WN_QslYmKBxQzWn-sz0Z_6PHA&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/ygaaebwl&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ygaaebwl&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Подвижный источник тепла в ANSYS Mechanical</title>
-      <link>http://localhost:1313/posts/2021-03-03-podvizhnyy-istochnik-tepla-v-ansys-mechani/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-03-podvizhnyy-istochnik-tepla-v-ansys-mechani/</link>
       <pubDate>Wed, 03 Mar 2021 18:31:57 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-03-03-podvizhnyy-istochnik-tepla-v-ansys-mechani/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nqNNjeZxVlg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nqNNjeZxVlg&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-03-podvizhnyy-istochnik-tepla-v-ansys-mechani/</guid>
+      <description>&lt;p&gt;Подвижный источник тепла в ANSYS Mechanical&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nqNNjeZxVlg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nqNNjeZxVlg&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Сегодня будет жестко, и даже немного больно. Видео пример того, как при помощи развесистой командной вставки на APDL задать в ANSYS Mechanical подвижный источник тепла. Ну а подвижный источник тепла нужен уже для моделирования сварки, наплавки или лазерной резки металла.&lt;/p&gt;
 &lt;p&gt;#additive_manufacturing #ansys #apdl #mechanical #thermal #welding
+&lt;a href=&#34;https://tinyurl.com/ybauhn3m&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ybauhn3m&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nqNNjeZxVlg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS TUTORIAL:  moving 3D Gaussian heat source with stepped cylinder shape&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/ybauhn3m&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ybauhn3m&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Ansys займется алхимией</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-24-ansys-zaymetsya-alhimiey/</link>
+      <pubDate>Wed, 24 Feb 2021 13:01:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-24-ansys-zaymetsya-alhimiey/</guid>
+      <description>&lt;p&gt;Ansys займется алхимией&lt;/p&gt;
+&lt;p&gt;17 февраля 2021 ANSYS обвил о своей договоренности с компанией  Intellegens Limited (&lt;a href=&#34;https://intellegens.ai&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://intellegens.ai&lt;/a&gt;) из Кэмбриджа об использовании их линейки продуктов под говорящим названием Alchemite в моделировании процессов аддитивного производства. Alchemite - это решения на основе машинного обучения позволяющею быстро идентифицировать параметры материалов и анализировать результаты экспериментов.&lt;/p&gt;
+&lt;p&gt;Alchemite предполагается встроить в материаловедческую систему Ansys Granta MI. Ожидается, что такая связка ПО позволит решить такие задачи, как оптимизация технологических параметров для процессов AM, прогнозирование свойств материалов на основе расчетов, контроль качества и помощь в проектировании экспериментов (DoE) для AM.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.automation.com/en-us/articles/february-2021/intellegens-ansys-additive-manufacturing-material&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;www.automation.com/en-us/articles/february-2021/intellegens-ansys-additive-manufacturing-material&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Кстати, у компании уже есть успешные кейсы, например с Боингом (&lt;a href=&#34;https://intellegens.ai/machine-learning-making-light-work-of-additive-manufacturing-aerospace-alloys/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://intellegens.ai/machine-learning-making-light-work-of-additive-manufacturing-aerospace-alloys/)&lt;/a&gt;, а также исследование по улучшению DED печати (&lt;a href=&#34;https://intellegens.ai/probabilistic-neural-network-identification-of-an-alloy-for-direct-laser-deposition/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://intellegens.ai/probabilistic-neural-network-identification-of-an-alloy-for-direct-laser-deposition/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;#additive_manufacturing #ai #alchemite #ansys #granta #machine_learning
+&lt;a href=&#34;https://tinyurl.com/y77bppct&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y77bppct&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://intellegens.ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Intellegens - Applied machine learning&lt;/a&gt;
+&lt;a href=&#34;https://www.automation.com/en-us/articles/february-2021/intellegens-ansys-additive-manufacturing-material?listname=Automation%20&amp;amp;%20Control%20News%20&amp;amp;%20Articles&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.automation.com/en-us/articles/february-2021/intellegens-ansys-additive-manufacturing-material?listname=Automation%20&amp;%20Control%20News%20&amp;%20Articles&lt;/a&gt;
+&lt;a href=&#34;https://intellegens.ai/machine-learning-making-light-work-of-additive-manufacturing-aerospace-alloys/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://intellegens.ai/machine-learning-making-light-work-of-additive-manufacturing-aerospace-alloys/&lt;/a&gt;
+&lt;a href=&#34;https://intellegens.ai/probabilistic-neural-network-identification-of-an-alloy-for-direct-laser-deposition/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://intellegens.ai/probabilistic-neural-network-identification-of-an-alloy-for-direct-laser-deposition/&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/y77bppct&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y77bppct&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Расчет 3D печати зданий</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-01-13-raschet-3d-pechati-zdaniy/</link>
+      <pubDate>Wed, 13 Jan 2021 17:03:46 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-01-13-raschet-3d-pechati-zdaniy/</guid>
+      <description>&lt;p&gt;Расчет 3D печати зданий
+#ABAQUS #Additive_Manufacturing #CivilFEM #CobraPrint #Grasshopper
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/cobraprint-civil-concrete-printing/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Расчет 3D печати зданий - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оптимизация гидравлического коллектора</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-16-optimizatsiya-gidravlicheskogo-kollektora/</link>
+      <pubDate>Mon, 16 Mar 2020 13:01:51 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-16-optimizatsiya-gidravlicheskogo-kollektora/</guid>
+      <description>&lt;p&gt;Оптимизация гидравлического коллектора&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/hydraulic-manifold-optimization/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Оптимизация гидравлического коллектора - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Аддитивка с адаптивной сеткой в APDL!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-12-additivka-s-adaptivnoy-setkoy-v-apdl/</link>
+      <pubDate>Thu, 12 Mar 2020 07:00:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-03-12-additivka-s-adaptivnoy-setkoy-v-apdl/</guid>
+      <description>&lt;p&gt;Аддитивка с адаптивной сеткой в APDL!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/ansys-am-simulation-with-mesh-dynamic-remeshing/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Аддитивка с адаптивной сеткой в APDL! - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новые видео от ParaMatters</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-02-01-novye-video-ot-paramatters/</link>
+      <pubDate>Sat, 01 Feb 2020 13:00:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-02-01-novye-video-ot-paramatters/</guid>
+      <description>&lt;p&gt;Новые видео от ParaMatters&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/paramatters-new-videos/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Новые видео от ParaMatters - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Siemens купил Atlas 3D</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-12-17-siemens-kupil-atlas-3d/</link>
+      <pubDate>Tue, 17 Dec 2019 16:00:26 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-12-17-siemens-kupil-atlas-3d/</guid>
+      <description>&lt;p&gt;Siemens купил Atlas 3D&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/siemens-acquire-atlas-3d/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Siemens купил Atlas 3D - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Первое GPU-ускоренное геометрическое ядро</title>
-      <link>http://localhost:1313/posts/2019-12-03-pervoe-gpu-uskorennoe-geometricheskoe-yadr/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-12-03-pervoe-gpu-uskorennoe-geometricheskoe-yadr/</link>
       <pubDate>Tue, 03 Dec 2019 15:00:27 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-12-03-pervoe-gpu-uskorennoe-geometricheskoe-yadr/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-12-03-pervoe-gpu-uskorennoe-geometricheskoe-yadr/</guid>
+      <description>&lt;p&gt;Первое GPU-ускоренное геометрическое ядро&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/gpu-cad-core/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Первое GPU-ускоренное геометрическое ядро - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Infoday Welding and Heat Treatment</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-08-infoday-welding-and-heat-treatment/</link>
+      <pubDate>Tue, 08 Oct 2019 13:00:25 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-08-infoday-welding-and-heat-treatment/</guid>
+      <description>&lt;p&gt;Infoday Welding and Heat Treatment&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/infoday-welding-and-heat-treatment/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Infoday Welding and Heat Treatment - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Решатели, которые могут Powder bed melting</title>
-      <link>http://localhost:1313/posts/2019-09-13-reshateli-kotorye-mogut-powder-bed-melti/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-13-reshateli-kotorye-mogut-powder-bed-melti/</link>
       <pubDate>Fri, 13 Sep 2019 13:00:55 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-09-13-reshateli-kotorye-mogut-powder-bed-melti/</guid>
-      <description>&lt;p&gt;Одна из самых сложных задач в аддитивке — моделирование ванны расплава. Сегодня у нас красуются CFD коды Fluent (ANSYS, Inc), FLOW-3D (Flow Science, Inc.).&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-13-reshateli-kotorye-mogut-powder-bed-melti/</guid>
+      <description>&lt;p&gt;Решатели, которые могут Powder bed melting&lt;/p&gt;
+&lt;p&gt;Одна из самых сложных задач в аддитивке — моделирование ванны расплава. Сегодня у нас красуются CFD коды Fluent (ANSYS, Inc), FLOW-3D (Flow Science, Inc.).&lt;/p&gt;
 &lt;p&gt;Сначала при помощи DEM решателя мы формируем «геометрию» расположения порошка, а потом передаем это в CFD код, где уже работаем с VOF моделью.&lt;/p&gt;
 &lt;p&gt;#Additive_Manufacturing #CFD #FLOW_3D #Fluent&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2FD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2FD&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2FD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2FD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>LS-DYNA welding simulation</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-06-ls-dyna-welding-simulation/</link>
+      <pubDate>Fri, 06 Sep 2019 13:00:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-06-ls-dyna-welding-simulation/</guid>
+      <description>&lt;p&gt;LS-DYNA welding simulation&lt;/p&gt;
+&lt;p&gt;Первый взгляд на работу *MATCWM и *BOUNDARY\THERMAL_WELD_TRAJECTORY в неявном нелинейном тепловом решателе&lt;/p&gt;
+&lt;p&gt;#Additive_Manufacturing #implicit #LS_DYNA #thermal #welding&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Fj&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Fj&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Fj&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Fj&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование дуговой сварки в LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-04-modelirovanie-dugovoy-svarki-v-ls-dyna/</link>
+      <pubDate>Wed, 04 Sep 2019 13:00:42 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-04-modelirovanie-dugovoy-svarki-v-ls-dyna/</guid>
+      <description>&lt;p&gt;Моделирование дуговой сварки в LS-DYNA&lt;/p&gt;
+&lt;p&gt;Heat source simulation  from Braj Bhushan Prasad&lt;/p&gt;
+&lt;p&gt;Небольшой авторский мануал созданный в Техническом университете Берлина. На 32 страницах подробно пошагово разбирается постановка, решение и анализ результатов задачи связанной термо-прочностной задачи с подвижным источником тепла.&lt;/p&gt;
+&lt;p&gt;#BOUNDARY_THERMAL_WELD #CONTACT_GUIDE_CABLE #MAT_CWM #Additive_Manufacturing #LS_DYNA #LS_PrePost #welding&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2DR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2DR&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2DR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2DR&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Directed Energy Deposition в ANSYS Additive Suite</title>
-      <link>http://localhost:1313/posts/2019-08-29-directed-energy-deposition-v-ansys-addit/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-29-directed-energy-deposition-v-ansys-addit/</link>
       <pubDate>Thu, 29 Aug 2019 13:00:19 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-08-29-directed-energy-deposition-v-ansys-addit/</guid>
-      <description>&lt;p&gt;Как же полезно всегда (!!!) держать beta опции ANSYS включенными. Вот, например, что нашлось в уже привычном релизе 2019 R2.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-29-directed-energy-deposition-v-ansys-addit/</guid>
+      <description>&lt;p&gt;Directed Energy Deposition в ANSYS Additive Suite&lt;/p&gt;
+&lt;p&gt;Как же полезно всегда (!!!) держать beta опции ANSYS включенными. Вот, например, что нашлось в уже привычном релизе 2019 R2.&lt;/p&gt;
 &lt;p&gt;#Additive_Manufacturing #ANSYS #DED&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Fe&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Fe&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Fe&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Fe&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Creo 6.0</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-26-creo-60/</link>
+      <pubDate>Fri, 26 Jul 2019 13:00:31 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-26-creo-60/</guid>
+      <description>&lt;p&gt;Creo 6.0&lt;/p&gt;
+&lt;p&gt;Обзор флагманского CAD решения от PTC со встроенными технологиями расчетов почти в реальном времени ANSYS Dicsovery Live. Правда, в отличие от полноценного  ANSYS Dicsovery Live, где можно считать прочность, течение жидкостей и тепло, тут есть только прочность.&lt;/p&gt;
+&lt;p&gt;Также мне понравилась работа в lattice structure, особенно в области их тонкой настройки на использование произвольных шаблонов и переходов. Ну и конечно очень здорово на картинке выглядит система восстановления аналитической геометрии из сеточной модели, но непонятно, насколько она автоматизирована.&lt;/p&gt;
+&lt;p&gt;#Additive_Manufacturing #ANSYS #Creo #Discovery #lattice_structure #Live #Topology&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Ch&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Ch&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Ch&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Ch&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Topo Challenge</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-05-topo-challenge/</link>
+      <pubDate>Fri, 05 Jul 2019 17:00:52 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-07-05-topo-challenge/</guid>
+      <description>&lt;p&gt;Topo Challenge&lt;/p&gt;
+&lt;p&gt;Очень любопытное соревнование было проведено в рамках круглого стола конференции  USACM Thematic Conference Topology Optimization в этом году. Всем желающим было предложено спроектировать топологически оптимальный рычаг подвески автомобиля F1. В качестве исходных данных давались нагрузки, геометрия пространства проектирования, все необходимые свойства материалов.&lt;/p&gt;
+&lt;p&gt;Для всех желающих эти файлы все так же доступны по ссылке. Таким образом, имеем отличный тестовый пример для проверки ваших навыков в области топологической оптимизации и написания статей в журналы по аддитивке.&lt;/p&gt;
+&lt;p&gt;Сайт с информацией: &lt;a href=&#34;http://paulino.ce.gatech.edu/TopOpt%20Workshop%20Website/challenge.php&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://paulino.ce.gatech.edu/TopOpt%20Workshop%20Website/challenge.php&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Если вы хотите попробовать свои силы в данном кейсе, поучиться оптимизации топологии, то я готов принять студентов-учеников.&lt;/p&gt;
+&lt;p&gt;#Additive_Manufacturing #optimization #Topology&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2B1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2B1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://paulino.ce.gatech.edu/TopOpt%20Workshop%20Website/challenge.php&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://paulino.ce.gatech.edu/TopOpt%20Workshop%20Website/challenge.php&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2B1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2B1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вебинар по аддитивке в ANSYS 2019R2</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-06-15-vebinar-po-additivke-v-ansys-2019r2/</link>
+      <pubDate>Sat, 15 Jun 2019 17:00:49 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-06-15-vebinar-po-additivke-v-ansys-2019r2/</guid>
+      <description>&lt;p&gt;Вебинар по аддитивке в ANSYS 2019R2&lt;/p&gt;
+&lt;p&gt;17-ого июля в девять вечера по Москве  коллеги из PADT Inc проведут вебинар по моделированию процессов аддитивного производства в ANSYS 2019 R2. Это будет очень интересно, так как PADT Inc знают толк в аддитивке, а у ANSYS получается очень сильный набор инструментов, особенно в области предсказания свойств и микроструктуры печатаемого изделия.&lt;/p&gt;
+&lt;p&gt;Ссылка на регистрацию: &lt;a href=&#34;https://www.brighttalk.com/webcast/15747/361105/simulation-for-additive-manufacturing-in-ansys-2019-r2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.brighttalk.com/webcast/15747/361105/simulation-for-additive-manufacturing-in-ansys-2019-r2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Additive_Manufacturing #Additive_Print #Additive_Science #ANSYS #padtinc&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2zf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2zf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.brighttalk.com/webcast/15747/361105/simulation-for-additive-manufacturing-in-ansys-2019-r2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.brighttalk.com/webcast/15747/361105/simulation-for-additive-manufacturing-in-ansys-2019-r2&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2zf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2zf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Выступление nTopology на DEVELOP3D LIVE 2019</title>
-      <link>http://localhost:1313/posts/2019-06-03-vystuplenie-ntopology-na-develop3d-live/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-06-03-vystuplenie-ntopology-na-develop3d-live/</link>
       <pubDate>Mon, 03 Jun 2019 17:00:45 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-06-03-vystuplenie-ntopology-na-develop3d-live/</guid>
-      <description>&lt;p&gt;nTopology рассказали, в чем основная фишка их системы проектирования. В отличие от традиционного для CAD представления через границы геометрии (B-rep), коллеги используют неявное представление объема через уравнения его формы.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-06-03-vystuplenie-ntopology-na-develop3d-live/</guid>
+      <description>&lt;p&gt;Выступление nTopology на DEVELOP3D LIVE 2019&lt;/p&gt;
+&lt;p&gt;nTopology рассказали, в чем основная фишка их системы проектирования. В отличие от традиционного для CAD представления через границы геометрии (B-rep), коллеги используют неявное представление объема через уравнения его формы.&lt;/p&gt;
 &lt;p&gt;Даже не верится, что такую сложную геометрию можно представить в виде одного уравнения, описывающего его объем. В качестве бонуса коллеги получают модель, которая не может сломаться из-за одного неправильно заданного скругления.&lt;/p&gt;
 &lt;p&gt;А еще «толщина» и количество материала может быть задано через описание некого потенциала влияния. Этот подход может, например, автоматически извлекать гладкую геометрию из результатов топологической оптимизации.&lt;/p&gt;
 &lt;p&gt;На мой взгляд, эта система дает такой же прорыв для инженеров, как  переход от традиционного CAD к прямым системам моделирования, как  SpaceClaim. А ведь поверх этого коллеги еще собираются натянуть расчет прочности!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://magicdpd.ru/ntopology-for-develop3d-live-2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Выступление nTopology на DEVELOP3D LIVE 2019 - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Metal 3D Printing by PADT Inc</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-25-metal-3d-printing-by-padt-inc/</link>
+      <pubDate>Sat, 25 May 2019 17:00:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-05-25-metal-3d-printing-by-padt-inc/</guid>
+      <description>&lt;p&gt;Metal 3D Printing by PADT Inc&lt;/p&gt;
+&lt;p&gt;Вебинар от PADT Inc, посвящённый аддитивным технологиям печати металлом. Компания является не только элитным партнером ANSYS в США, но всерьез занимается аддитивкой (это их серьезная часть бизнеса). И тут надо отметить, что данное видео скорее являтся ликбезом для тех, кто на хайпе решил нырнуть в мир печати металлом в надежде найти там ответы на все вопросы. Эрик Миллер (Eric Miller) за 6 шагов четко расставляет все акценты и вправляет мозг.&lt;/p&gt;
+&lt;p&gt;Ссылка на запись вебинара на платформе Bright Talk: &lt;a href=&#34;https://www.brighttalk.com/webcast/15747/359359&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.brighttalk.com/webcast/15747/359359&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Additive_Manufacturing #optimization #padtinc #Topology&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2wH&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2wH&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.brighttalk.com/webcast/15747/359359&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.brighttalk.com/webcast/15747/359359&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2wH&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2wH&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Frustum обновляет платформу TrueSOLID</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-12-frustum-obnovlyaet-platformu-truesolid/</link>
+      <pubDate>Thu, 12 Apr 2018 18:46:19 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-12-frustum-obnovlyaet-platformu-truesolid/</guid>
+      <description>&lt;p&gt;Frustum обновляет платформу TrueSOLID
+Компания Frustum, один из корневых игроков рынка оптимизации топологии и проектирования легковесных конструкций, обновляет свою платформу TrueSOLID. В нее добавляется возможность проектирования конструкций с учетом использования возможных заполнителей или lattice structure. Получается очень эффектное решение, особенно полезное в случае аддитивного производства.
+Ну и как можно пройти мимо такого облегченного разводного ключа?!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.frustum.com/core-technology?hsCtaTracking=998d570d-aa76-4c8c-8257-3c411dc4b78c%7C12b134ad-ff78-405a-a298-f3ddf8954cda&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.frustum.com/core-technology?hsCtaTracking=998d570d-aa76-4c8c-8257-3c411dc4b78c%7C12b134ad-ff78-405a-a298-f3ddf8954cda&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Additive_Manufacturing #Frustum #Generative_Design #Lattice_Structure #Optimization #Topology #TrueSOLID
+&lt;a href=&#34;https://is.gd/hlVGVW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://is.gd/hlVGVW&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.frustum.com/core-technology?hsCtaTracking=998d570d-aa76-4c8c-8257-3c411dc4b78c%7C12b134ad-ff78-405a-a298-f3ddf8954cda&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.frustum.com/core-technology?hsCtaTracking=998d570d-aa76-4c8c-8257-3c411dc4b78c%7C12b134ad-ff78-405a-a298-f3ddf8954cda&lt;/a&gt;
+&lt;a href=&#34;https://is.gd/hlVGVW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://is.gd/hlVGVW&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS Additive Print</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-07-ansys-additive-print/</link>
+      <pubDate>Sat, 07 Apr 2018 18:01:00 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-07-ansys-additive-print/</guid>
+      <description>&lt;p&gt;ANSYS Additive Print
+Только на прошлой неделе ANSYS Additive Print стал доступен, и вот мы уже его изучаем. Изучаем мы его по материалам 3DSIM exaSIM, который и лежит в основе решения от ANSYS. У меня вообще складывается впечатление, что ANSYS Additive Print это exaSIM с написанным на Atom пользовательским интерфейсом.
+Сайт с полезными материалами: http://learn.3dsim.com/&lt;/p&gt;
+&lt;p&gt;#3DSIM #Additive_Manufacturing #Additive_Print #ANSYS #ExaSIM
+&lt;a href=&#34;https://is.gd/9VCdXi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://is.gd/9VCdXi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://learn.3dsim.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://learn.3dsim.com/&lt;/a&gt;
+&lt;a href=&#34;https://is.gd/9VCdXi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://is.gd/9VCdXi&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS Additive Suite</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-04-ansys-additive-suite/</link>
+      <pubDate>Wed, 04 Apr 2018 18:01:27 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-04-ansys-additive-suite/</guid>
+      <description>&lt;p&gt;ANSYS Additive Suite
+Только вчера закончилось мероприятие, на котором у меня был доклад по продуктам ANSYS для аддитивных методов производства, как в сети уже есть свежие учебные материалы по данной теме. Одно из первых видео, показывающих работу релизной версии ANSYS Additive Suite, вошедшей в состав ANSYS 19.0.2&lt;/p&gt;
+&lt;p&gt;#Additive_Manufacturing #ANSYS #Mechanical
+&lt;a href=&#34;https://goo.gl/TxJ9Gv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/TxJ9Gv&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://goo.gl/TxJ9Gv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/TxJ9Gv&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Форум ANSYS 19</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-29-forum-ansys-19/</link>
+      <pubDate>Thu, 29 Mar 2018 18:47:16 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-29-forum-ansys-19/</guid>
+      <description>&lt;p&gt;Форум ANSYS 19
+В последнюю неделю у меня совсем нет времени писать хорошие посты. А причиной тому служит усиленная подготовка нашего мероприятия — «Форума ANSYS 19». Буду выступать в Питере по полной программе — будут привычные доклады по HPC и композитам. А еще будуте и кое-что новое, а именно горячие презентация о SpaceClaim, Discovery Live, Topology Optimization и грядущим продуктам Additive Manufacturing.
+Самое время зарегистрироватсья на наше мероприятие, пока еще можно — участие бесплатное!
+&lt;a href=&#34;http://forum.cadfem-cis.ru&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://forum.cadfem-cis.ru&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#ACP #Additive_Manufacturing #ANSYS #CADFEM #Composites #Discovery #HPC #Optimization #SpaceClaim #Topology
+&lt;a href=&#34;https://goo.gl/NnwTjC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/NnwTjC&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://forum.cadfem-cis.ru/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://forum.cadfem-cis.ru/&lt;/a&gt;
+&lt;a href=&#34;https://goo.gl/NnwTjC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/NnwTjC&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Большой вебинар по LimitState:FORM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-13-bolshoy-vebinar-po-limitstateform/</link>
+      <pubDate>Tue, 13 Mar 2018 18:01:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-13-bolshoy-vebinar-po-limitstateform/</guid>
+      <description>&lt;p&gt;Большой вебинар по LimitState:FORM
+LimitState:FORM особое ПО, предназначенное для генерации конструкций оптимальной топологии (&lt;a href=&#34;http://limitstate3d.com/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://limitstate3d.com/)&lt;/a&gt;. Только конструкции оно генерирует сразу в виде балочной структуры, за счет чего результаты получаются очень быстро.&lt;/p&gt;
+&lt;p&gt;Разработчики называют это оптимизацией на основе Truss-Based Design, хотя на самом деле это Discontinuity layout optimization (&lt;a href=&#34;https://en.wikipedia.org/wiki/Discontinuity_layout_optimization%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://en.wikipedia.org/wiki/Discontinuity_layout_optimization)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;На прошлой неделе коллеги провели очень интересный и качественный вебинар, посвященный их технологиям и результатам.&lt;/p&gt;
+&lt;p&gt;Кроме всех очевидных преимуществ в плане скорости работы и простоты, у LimitState:FORM есть еще один козырь в рукаве. ПО может сразу проектировать конструкции с учетом их устойчивости, допустимых напряжений и перемещений. Прямо в вебинары показано, что форма конструкции меняется в зависимости от амплитуды нагрузки, чего не могут стандартные алгоритмы оптимизации топологии.
+И это только средствами самого ПО, а ведь есть еще связка с решателеми ANSYS Mechanical и средой Workbench через ACT (&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-285%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-285)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;#Additive_Manufacturing #ANSYS #Discontinuity_Layout_Optimization #DLO #Lattice #LimitState #LimitStateFORM #Mechanical #Optimization #Topology #TrussBased
+&lt;a href=&#34;https://goo.gl/HFvcJQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/HFvcJQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://limitstate3d.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://limitstate3d.com/&lt;/a&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Discontinuity_layout_optimization&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://en.wikipedia.org/wiki/Discontinuity_layout_optimization&lt;/a&gt;
+&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-285&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-285&lt;/a&gt;
+&lt;a href=&#34;https://goo.gl/HFvcJQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/HFvcJQ&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Моделирование процесса плавления в 3D принтере</title>
-      <link>http://localhost:1313/posts/2018-03-07-modelirovanie-protsessa-plavleniya-v-3d-pr/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-07-modelirovanie-protsessa-plavleniya-v-3d-pr/</link>
       <pubDate>Wed, 07 Mar 2018 18:01:10 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-03-07-modelirovanie-protsessa-plavleniya-v-3d-pr/</guid>
-      <description>&lt;p&gt;В продолжение темы аддитивных технологий деморасчетов от Fraunhofer IWM
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-07-modelirovanie-protsessa-plavleniya-v-3d-pr/</guid>
+      <description>&lt;p&gt;Моделирование процесса плавления в 3D принтере
+В продолжение темы аддитивных технологий деморасчетов от Fraunhofer IWM
 Расчет проведен в институте Механики и материалов Фраунгофера (The Fraunhofer Institute for Mechanics of Materials IWM) — промоделировано выборочное плавление металлического порошка при помощи лазера.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/?p=6493&amp;amp;lang=ru&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Моделирование процесса плавления в 3D принтере — MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ЛикБез по аддитивным технологиям производства</title>
-      <link>http://localhost:1313/posts/2018-03-06-likbez-po-additivnym-tehnologiyam-proizvo/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-06-likbez-po-additivnym-tehnologiyam-proizvo/</link>
       <pubDate>Tue, 06 Mar 2018 18:01:09 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-03-06-likbez-po-additivnym-tehnologiyam-proizvo/</guid>
-      <description>&lt;p&gt;Сейчас я активное разбираюсь с аддитивными технологиями производства, а значит надо срочно ликвидировать пробелы в знаниях.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-06-likbez-po-additivnym-tehnologiyam-proizvo/</guid>
+      <description>&lt;p&gt;ЛикБез по аддитивным технологиям производства
+Сейчас я активное разбираюсь с аддитивными технологиями производства, а значит надо срочно ликвидировать пробелы в знаниях.
 В сети мне попалась большой материал от НАМИ под названием «Аддитивные технологии и изделия из металла», авторы которого внушают уважение:&lt;/p&gt;
 &lt;p&gt;Вячеслав Довбыш, директор Центра Технологий ФГУП «НАМИ», Москва
 Павел Забеднов, директор ФГУП «Внештехника», Москва
@@ -124,35 +457,71 @@
 &lt;p&gt;Материал очень полезна хотя бы тем, что на его страницах подробно описано большинсвто современных технологий печати из металла и приведены примерные переводы терминов на русский язык. Текст читается очень легко, так как написан очень приятным языком, принятым у популяризаторов науки.
 Наслаждаемся 57 страницами зананий.
 &lt;a href=&#34;http://nami.ru/uploads/docs/centr_technology_docs/55a62fc89524bAT_metall.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://nami.ru/uploads/docs/centr_technology_docs/55a62fc89524bAT_metall.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://nami.ru/uploads/docs/centr_technology_docs/55a62fc89524bAT_metall.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://nami.ru/uploads/docs/centr_technology_docs/55a62fc89524bAT_metall.pdf&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Сандийские национальны лаборатории как всегда красиво рааска</title>
-      <link>http://localhost:1313/posts/2018-01-02-sandiyskie-natsionalny-laboratorii-kak-v/</link>
+      <title>Что может ANSYS в аддитивных технологиях</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-27-chto-mozhet-ansys-v-additivnyh-tehnologiyah/</link>
+      <pubDate>Tue, 27 Feb 2018 18:00:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-27-chto-mozhet-ansys-v-additivnyh-tehnologiyah/</guid>
+      <description>&lt;p&gt;Что может ANSYS в аддитивных технологиях
+Аддитивные технологии сейчас переживают бурный расцвет — все хотят проектировать и производить конструкции невиданных доселе форм невиданными доселе способами.
+Если с формами все более менее понятно: алгоритмы оптимизации топологии позволяют получить оптимальные очертания геометрии автоматизированно, то с невиданными способами производства все несколько сложнее. Аддитивные технологии (читай 3D печать) остро нуждаются в моделировании физических процессов с ними связанных.
+В прошлом году для релиза 18.2 компания ANSYS выпустила бесплатное ACT расширение «Additive Manufacturing Process Modeling» (&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-318%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-318)&lt;/a&gt;, позволяющее всем желающим оценить будущие возможности своей системы. Расширение имеет статус технического демо, но в комплекте с ним уже идет обширная документация.
+А сейчас мне удалось найти в сети еще и готовый видеоурок в двух частях, показывающий пошаговую работу с расширением — видеоурок идет с весьма полезными комментариями.
+Первая часть урока — постановка задачи:&lt;/p&gt;
+&lt;p&gt;Вторая часть урока — анализ полученных результатов:&lt;/p&gt;
+&lt;p&gt;P.S. Ссылка от автора на свойства материалов, использованных в видео: http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=mq316a&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-318&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-318&lt;/a&gt;
+&lt;a href=&#34;http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=mq316a&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=mq316a&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сандийские национальны лаборатории как всегда красиво раасказывают о своих возможностях в области аддитивных технологий производства.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-02-sandiyskie-natsionalny-laboratorii-kak-v/</link>
       <pubDate>Tue, 02 Jan 2018 09:23:14 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-01-02-sandiyskie-natsionalny-laboratorii-kak-v/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-02-sandiyskie-natsionalny-laboratorii-kak-v/</guid>
       <description>&lt;p&gt;#additive_manufacturing #sandia
 &lt;a href=&#34;https://www.youtube.com/watch?v=YCE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=YCE&lt;/a&gt;…Media📼 Sandia Labs’ Additive Manufacturing Program&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ift.tt/2CcymrG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2CcymrG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2CDwDMJ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2CDwDMJ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2CcynMg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2CcynMg&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=YCEr3FzSr_M&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=YCEr3FzSr_M&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2CDWLY9&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2CDWLY9&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2CcymrG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2CcymrG&lt;/a&gt;
+ttp://ift.tt/2CcymrG&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Direct Metal Deposition или процесс объемной лазерной наплав</title>
-      <link>http://localhost:1313/posts/2017-05-25-direct-metal-deposition-ili-protsess-obe/</link>
+      <title>Direct Metal Deposition или процесс объемной лазерной наплавки</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-25-direct-metal-deposition-ili-protsess-obe/</link>
       <pubDate>Thu, 25 May 2017 17:01:14 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-05-25-direct-metal-deposition-ili-protsess-obe/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-05-25-direct-metal-deposition-ili-protsess-obe/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=esBC0WwAX8g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=esBC0WwAX8g&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Интересный и очень сложный физический процесс, встречающийся в 3D принтерах, печатающих металлом. Как бы вы стали его моделировать: в #CFD постановке или при помощи #FEM?&lt;/p&gt;
 &lt;p&gt;CFD by #FLOW3D: &lt;a href=&#34;https://www.youtube.com/watch?v=esBC0WwAX8g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=esBC0WwAX8g&lt;/a&gt;
-CFD by #FLOW3D: &lt;a href=&#34;https://www.youtube.com/watch?v=oWfoAzQlLVo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=oWfoAzQlLVo&lt;/a&gt;
+CFD by #FLOW3D: &lt;del&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=oWfoAzQlLVo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=oWfoAzQlLVo&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20220430050625/https://www.youtube.com/watch?v=oWfoAzQlLVo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;
 FEM by #MSC #Simufact Additive: &lt;a href=&#34;https://www.youtube.com/watch?v=l9n6AheyI2E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=l9n6AheyI2E&lt;/a&gt;
 FEM by #ANSYS #Mechanical: &lt;a href=&#34;https://www.youtube.com/watch?v=H0Uara7B5to&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=H0Uara7B5to&lt;/a&gt;
-FEM by #ANSYS #Mechanical: &lt;a href=&#34;https://www.youtube.com/watch?v=74TOhQwEj80&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=74TOhQwEj80&lt;/a&gt;
+FEM by #ANSYS #Mechanical: &lt;del&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=74TOhQwEj80&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=74TOhQwEj80&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20220430050621/https://www.youtube.com/watch?v=74TOhQwEj80&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;
 FEM by #Pancomputing &lt;a href=&#34;https://www.youtube.com/watch?v=LWk43HjKjcM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=LWk43HjKjcM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=esBC0WwAX8g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Direct Metal Deposition | FLOW-3D AM&lt;/a&gt;
+&lt;del&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=oWfoAzQlLVo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=oWfoAzQlLVo&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20220430050625/https://www.youtube.com/watch?v=oWfoAzQlLVo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=l9n6AheyI2E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=l9n6AheyI2E&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=H0Uara7B5to&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=H0Uara7B5to&lt;/a&gt;
+&lt;del&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=74TOhQwEj80&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=74TOhQwEj80&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20220430050621/https://www.youtube.com/watch?v=74TOhQwEj80&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=LWk43HjKjcM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=LWk43HjKjcM&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

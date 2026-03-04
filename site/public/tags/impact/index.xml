@@ -2,24 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Impact on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/impact/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/impact/</link>
     <description>MagicDPD: Magic Driven Product Development! (Impact)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Tue, 12 Apr 2022 17:00:06 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/impact/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/impact/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>20 апреля пройдет бесплатный вебинар от Марека Ханачовски (M</title>
-      <link>http://localhost:1313/posts/2022-04-12-20-aprelya-proydet-besplatnyy-vebinar-ot/</link>
+      <title>20 апреля пройдет бесплатный вебинар от Марека Ханачовски (Marek HANACZOWSKI), магистром мостостроения.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-12-20-aprelya-proydet-besplatnyy-vebinar-ot/</link>
       <pubDate>Tue, 12 Apr 2022 17:00:06 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-04-12-20-aprelya-proydet-besplatnyy-vebinar-ot/</guid>
-      <description>&lt;p&gt;В работе Марека представлен расчетный подход для точного воспроизведения удара по надстройке моста в соответствии с PN-EN 1991-1-7 и несколько аспектов, которые необходимо учитывать при проектировании моста.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2022-04-12-20-aprelya-proydet-besplatnyy-vebinar-ot/</guid>
+      <description>&lt;p&gt;Вебинар будет повторением его доклада на Конгрессе по безопасности мостов, который проходил во Вроцлаве 25-26 ноября 2021 года.&lt;/p&gt;
+&lt;p&gt;В работе Марека представлен расчетный подход для точного воспроизведения удара по надстройке моста в соответствии с PN-EN 1991-1-7 и несколько аспектов, которые необходимо учитывать при проектировании моста.&lt;/p&gt;
 &lt;p&gt;Короче, все как я люблю: железобетон, большие конструкции, удары, но только не с  #LSDYNA, а с #CivilFEM powered by #Marc.&lt;/p&gt;
 &lt;p&gt;#concrete #impact #bridge #civil &lt;a href=&#34;https://www.civilfem.com/bridge-impact-webinar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.civilfem.com/bridge-impact-webinar&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.civilfem.com/bridge-impact-webinar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.civilfem.com/bridge-impact-webinar&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Снаряд и SPH плита</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-05-snaryad-i-sph-plita/</link>
+      <pubDate>Mon, 05 Mar 2018 18:01:17 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-05-snaryad-i-sph-plita/</guid>
+      <description>&lt;p&gt;Снаряд и SPH плита
+Ничего особенного: просто красивые результаты попадания недеформируемого снаряда в алюминиевую плиту. SPH постановка в LS-DYNA.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/?p=6471&amp;amp;lang=ru&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Снаряд и SPH плита — MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Source для инженера</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-19-open-source-dlya-inzhenera/</link>
+      <pubDate>Wed, 19 Jul 2017 17:01:09 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-07-19-open-source-dlya-inzhenera/</guid>
+      <description>&lt;p&gt;Open Source для инженера
+&lt;a href=&#34;http://s.arboreus.com/2008/03/free-software-for-solving-pdes.html?m=1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://s.arboreus.com/2008/03/free-software-for-solving-pdes.html?m=1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Старая статья с обзором #OpenSource программного обеспечения для промышленного и научного математического моделирования. Материал старый, но на русском - многим так читать приятнее.
+Тут есть все:
+#Elmer
+#Impact
+#Code_Aster
+#FiPy
+#OpenFOAM
+и многие другие!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://s.arboreus.com/2008/03/free-software-for-solving-pdes.html?m=1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Обзор свободных программ для численных расчётов&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

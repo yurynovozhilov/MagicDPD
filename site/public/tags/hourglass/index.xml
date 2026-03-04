@@ -2,33 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hourglass on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/hourglass/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/hourglass/</link>
     <description>MagicDPD: Magic Driven Product Development! (Hourglass)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Nov 2016 12:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2020 13:00:38 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/hourglass/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/hourglass/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Что вы знаете о странных конечных элементах</title>
-      <link>http://localhost:1313/posts/2016-11-19-chto-vy-znaete-o-strannyh-konechnyh-elemen/</link>
-      <pubDate>Sat, 19 Nov 2016 12:00:52 +0000</pubDate>
+      <title>Что занчит «поймать песочные часы»</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-04-21-chto-zanchit-poymat-pesochnye-chasy/</link>
+      <pubDate>Tue, 21 Apr 2020 13:00:38 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-11-19-chto-vy-znaete-o-strannyh-konechnyh-elemen/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/14th-international-ls-dyna-conference/simulation/recent-advances-on-higher-order-27-node-hexahedral-element-in-ls-dyna-r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/14th-international-ls-dyna-conference/simulation/recent-advances-on-higher-order-27-node-hexahedral-element-in-ls-dyna-r&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Все привыкли к тому, что для #implicit расчетов механики оптимальны 20-ти узловые hex элементы, а для #explicit обычно используют 8-ми узловые hex с одной точкой интегрирования. А как вам идея использовать 27 узлов на один элемент?! Свежая статья о новом типе элементов для #LSDYNA, который не только позволяет получить очень хорошие показатели по точности для больших и малых деформаций, но еще и автоматически решает проблему песочных часов (#hourglass). Просто добавь 8 узлов на углах, 12 - на ребрах, 6 - в центрах граней и 1 - в геометрическом центре - получи *ELEMENT_SOLID_H27&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-04-21-chto-zanchit-poymat-pesochnye-chasy/</guid>
+      <description>&lt;p&gt;Что занчит «поймать песочные часы»&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Что вы знаете о странных конечных элементах</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-19-chto-vy-znaete-o-strannyh-konechnyh-elemen/</link>
+      <pubDate>Sat, 19 Nov 2016 12:00:52 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-19-chto-vy-znaete-o-strannyh-konechnyh-elemen/</guid>
+      <description>&lt;p&gt;Что вы знаете о странных конечных элементах
+&lt;a href=&#34;http://www.dynalook.com/14th-international-ls-dyna-conference/simulation/recent-advances-on-higher-order-27-node-hexahedral-element-in-ls-dyna-r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/14th-international-ls-dyna-conference/simulation/recent-advances-on-higher-order-27-node-hexahedral-element-in-ls-dyna-r&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Все привыкли к тому, что для #implicit расчетов механики оптимальны 20-ти узловые hex элементы, а для #explicit обычно используют 8-ми узловые hex с одной точкой интегрирования. А как вам идея использовать 27 узлов на один элемент?! Свежая статья о новом типе элементов для #LSDYNA, который не только позволяет получить очень хорошие показатели по точности для больших и малых деформаций, но еще и автоматически решает проблему песочных часов (#hourglass). Просто добавь 8 узлов на углах, 12 - на ребрах, 6 - в центрах граней и 1 - в геометрическом центре - получи *ELEMENT_SOLID_H27&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynalook.com/14th-international-ls-dyna-conference/simulation/recent-advances-on-higher-order-27-node-hexahedral-element-in-ls-dyna-r&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynalook.com/14th-international-ls-dyna-conference/simulation/recent-advances-on-higher-order-27-node-hexahedral-element-in-ls-dyna-r&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Эффект песочных часов</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-19-effekt-pesochnyh-chasov/</link>
+      <pubDate>Wed, 19 Oct 2016 17:00:28 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-10-19-effekt-pesochnyh-chasov/</guid>
+      <description>&lt;p&gt;Эффект песочных часов
+&lt;a href=&#34;https://www.youtube.com/watch?v=qUlqa_AGBes&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=qUlqa_AGBes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Известный эффекты #hourglass преследует большинство КЭ кодов с явной схемой интегрирования по времени, и #LSDYNA в их числе. У специалистов из Predictive Engineering есть небольшая видео лекция по борьбе с этим эффектом.&lt;/p&gt;
+&lt;p&gt;#PredictiveEngineering
+&lt;a href=&#34;https://www.youtube.com/watch?v=qUlqa_AGBes&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=qUlqa_AGBes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qUlqa_AGBes&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LS-DYNA Analysis for Structural Mechanics Workshop II: Hourglass Control&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ликбез по эффекту #Hourglass и борьбе с ним от коллеги из #LSTC.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-15-likbez-po-effektu-hourglass-i-borbe-s/</link>
+      <pubDate>Fri, 15 Jan 2016 07:21:07 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-15-likbez-po-effektu-hourglass-i-borbe-s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Численное моделирование поведения защитных железобетонных</title>
-      <link>http://localhost:1313/posts/2016-01-15-chislennoe-modelirovanie-povedeniya-zaschitn/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-15-chislennoe-modelirovanie-povedeniya-zaschitn/</link>
       <pubDate>Fri, 15 Jan 2016 06:30:07 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-01-15-chislennoe-modelirovanie-povedeniya-zaschitn/</guid>
-      <description>&lt;p&gt;конструкций АЭС при падении самолета
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-01-15-chislennoe-modelirovanie-povedeniya-zaschitn/</guid>
+      <description>&lt;p&gt;Численное моделирование поведения защитных железобетонных
+конструкций АЭС при падении самолета
 к.т.н. В.И. Голяков
 ОАО «Атомэнергопроект», Москва, Россия&lt;/p&gt;
 &lt;p&gt;Во-первых, #FEMAP - не решатель.

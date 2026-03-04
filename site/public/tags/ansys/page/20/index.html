@@ -1,0 +1,956 @@
+<!DOCTYPE html>
+
+
+<html lang="ru" data-theme="">
+<head>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>ANSYS - MagicDPD: Magic Driven Product Development!</title>
+
+<meta name="description" content="Архив постов MagicDPD">
+
+
+
+
+
+<link rel="alternate" type="application/rss+xml" href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/index.xml" title="MagicDPD: Magic Driven Product Development!" />
+<link rel="icon" type="image/x-icon" href="https://yurynovozhilov.github.io/MagicDPD/favicon.ico">
+<link rel="apple-touch-icon-precomposed" href="https://yurynovozhilov.github.io/MagicDPD/favicon.png">
+
+
+
+
+    
+
+
+
+<style>
+  body {
+    visibility: hidden;
+    opacity: 0;
+  }
+</style>
+
+<noscript>
+  <style>
+    body {
+      visibility: visible;
+      opacity: 1;
+    }
+  </style>
+</noscript>
+
+
+
+
+    
+
+
+
+
+
+    
+    
+        
+    
+    
+
+    
+        <link rel="stylesheet" href="https://yurynovozhilov.github.io/MagicDPD/css/style.min.426c72691252fbafa70bd174646dc1b453a992641a8f942139874f9cadd6ae76.css" integrity="sha256-QmxyaRJS&#43;6&#43;nC9F0ZG3BtFOpkmQaj5QhOYdPnK3WrnY=">
+    
+
+
+
+
+
+    
+
+    
+
+
+
+
+
+    
+    
+        
+    
+    
+
+    
+        <script src="https://yurynovozhilov.github.io/MagicDPD/js/script.min.74bf1a3fcf1af396efa4acf3e660e876b61a2153ab9cbe1893ac24ea6d4f94ee.js" type="text/javascript" charset="utf-8" integrity="sha256-dL8aP88a85bvpKzz5mDodrYaIVOrnL4Yk6wk6m1PlO4="></script>
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+    
+        
+    
+    
+
+    
+        <script src="https://yurynovozhilov.github.io/MagicDPD/js/script.min.5a7c1b70ee40040794dd87e4a25dc23e9d426e9f08ac2611316cb9543eda45b4.js" type="text/javascript" charset="utf-8" integrity="sha256-WnwbcO5ABAeU3Yfkol3CPp1Cbp8IrCYRMWy5VD7aRbQ="></script>
+    
+
+
+
+
+    
+
+
+
+
+
+    
+    
+        
+    
+    
+
+    
+        <script src="https://yurynovozhilov.github.io/MagicDPD/js/script.min.d1092953d75d0389e869f1fd063a45b5aa76d05341ed48f7a1cacfd0db11d681.js" type="text/javascript" charset="utf-8" integrity="sha256-0QkpU9ddA4noafH9BjpFtap20FNB7Uj3ocrP0NsR1oE="></script>
+    
+
+
+
+
+
+
+
+
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Перейти к основному контенту</a>
+    <div class="container">
+        <header class="common-header"> 
+            
+                <div class="header-top">
+    <div class="header-top-left">
+        <h1 class="site-title">
+    <a href="/MagicDPD">MagicDPD: Magic Driven Product Development!</a>
+</h1>
+        <ul class="social-icons">
+
+
+    
+        <li>
+            <a href="https://t.me/MagicDPD" title="Telegram" rel="me">
+            <span class="inline-svg" >
+
+
+
+
+    
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm121.8 169.9l-40.7 191.8c-3 13.6-11.1 16.9-22.4 10.5l-62-45.7-29.9 28.8c-3.3 3.3-6.1 6.1-12.5 6.1l4.4-63.1 114.9-103.8c5-4.4-1.1-6.9-7.7-2.5l-142 89.4-61.2-19.1c-13.3-4.2-13.6-13.3 2.8-19.7l239.1-92.2c11.1-4 20.8 2.7 17.2 19.5z"/></svg>
+
+</span>
+
+            </a>
+        </li>
+    
+
+
+
+    <li>
+            <a href="https://yurynovozhilov.github.io/MagicDPD/index.xml" title="RSS" rel="me">
+            <span class="inline-svg" >
+
+
+
+
+    
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M128.081 415.959c0 35.369-28.672 64.041-64.041 64.041S0 451.328 0 415.959s28.672-64.041 64.041-64.041 64.04 28.673 64.04 64.041zm175.66 47.25c-8.354-154.6-132.185-278.587-286.95-286.95C7.656 175.765 0 183.105 0 192.253v48.069c0 8.415 6.49 15.472 14.887 16.018 111.832 7.284 201.473 96.702 208.772 208.772.547 8.397 7.604 14.887 16.018 14.887h48.069c9.149.001 16.489-7.655 15.995-16.79zm144.249.288C439.596 229.677 251.465 40.445 16.503 32.01 7.473 31.686 0 38.981 0 48.016v48.068c0 8.625 6.835 15.645 15.453 15.999 191.179 7.839 344.627 161.316 352.465 352.465.353 8.618 7.373 15.453 15.999 15.453h48.068c9.034-.001 16.329-7.474 16.005-16.504z"/></svg>
+
+</span>
+
+            </a>
+        </li>
+    
+
+</ul>
+    </div>
+    <div class="header-top-right">
+        
+
+    
+
+
+
+
+    <div class="theme-switcher">
+        <span class="inline-svg" >
+
+
+
+
+    
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 290 290">
+<path fill="currentColor" d="M142.959,0C64.131,0,0,64.132,0,142.96c0,78.828,64.131,142.959,142.959,142.959c78.828,0,142.96-64.131,142.96-142.959  C285.919,64.132,221.787,0,142.959,0z M142.959,260.919V142.96V25c65.043,0,117.96,52.917,117.96,117.96  C260.919,208.003,208.002,260.919,142.959,260.919z"/>
+</svg>
+
+</span>
+
+    </div>
+
+
+<script>
+const STORAGE_KEY = 'user-color-scheme'
+const defaultTheme = "auto"
+
+let currentTheme
+let switchButton
+let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+const autoChangeScheme = e => {
+    currentTheme = e.matches ? 'dark' : 'light'
+    document.documentElement.setAttribute('data-theme', currentTheme)
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    switchButton = document.querySelector('.theme-switcher')
+    currentTheme = detectCurrentScheme()
+    if (currentTheme == 'dark') {
+        document.documentElement.setAttribute('data-theme', 'dark')
+    }
+    if (currentTheme == 'auto') {
+        autoChangeScheme(autoDefinedScheme);
+        autoDefinedScheme.addListener(autoChangeScheme);
+    }
+
+    if (switchButton) {
+        switchButton.addEventListener('click', switchTheme, false)
+    }
+  
+    showContent()
+})
+
+function detectCurrentScheme() {
+    if (localStorage !== null && localStorage.getItem(STORAGE_KEY)) {
+        return localStorage.getItem(STORAGE_KEY)
+    } 
+    if (defaultTheme) {
+        return defaultTheme
+    } 
+    if (!window.matchMedia) {
+        return 'light'
+    } 
+    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        return 'dark'
+    }
+    return 'light'
+}
+
+function switchTheme(e) {
+    if (currentTheme == 'dark') {
+        if (localStorage !== null)
+            localStorage.setItem(STORAGE_KEY, 'light')
+        document.documentElement.setAttribute('data-theme', 'light')
+        currentTheme = 'light'
+    } else {
+        if (localStorage !== null)
+            localStorage.setItem(STORAGE_KEY, 'dark')
+        document.documentElement.setAttribute('data-theme', 'dark')
+        currentTheme = 'dark'
+    }
+}
+
+function showContent() {
+    document.body.style.visibility = 'visible';
+    document.body.style.opacity = 1;
+}
+</script>
+
+  
+    </div>
+</div>
+
+
+    <nav>
+        
+        
+        <a class="" href="https://yurynovozhilov.github.io/MagicDPD/" title="Главная">Главная</a>
+        
+        <a class="" href="https://yurynovozhilov.github.io/MagicDPD/archive/" title="Архив постов">Архив</a>
+        
+        <a class="" href="https://yurynovozhilov.github.io/MagicDPD/about/" title="О проекте">О проекте</a>
+        
+    </nav>
+
+
+
+
+
+            
+        </header>
+        <main id="main" tabindex="-1"> 
+            
+    <h1>Тег: ANSYS</h1>
+    <div class="post-info">
+        <a href="/MagicDPD/tags/">К списку тегов</a>
+    </div>
+    
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2019-09-05-fsi-v-ansys-ot-mallett-technology/">FSI в ANSYS от Mallett Technology</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>FSI в ANSYS от Mallett Technology</p>
+<p>#ANSYS #CFX #FSI #Mallett_Technology #System_Coupling</p>
+<p><a href="https://wp.me/p9vWYY-2EW" target="_blank" rel="noopener noreferrer">https://wp.me/p9vWYY-2EW</a></p>
+<p><a href="https://wp.me/p9vWYY-2EW" target="_blank" rel="noopener noreferrer">https://wp.me/p9vWYY-2EW</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2019-09-05-fsi-v-ansys-ot-mallett-technology/"><time datetime="2019-09-05">05.09.2019</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-05-fsi-v-ansys-ot-mallett-technology/">https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-05-fsi-v-ansys-ot-mallett-technology/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/mallett_technology/">#Mallett_Technology</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/fsi/">#Fsi</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/cfx/">#CFX</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/system_coupling/">#System_Coupling</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2019-08-31-ansys-material-designer-2019-r2/">ANSYS Material Designer 2019 R2</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>ANSYS Material Designer 2019 R2</p>
+<p>Инструмент по проведению прямой КЭ гомогенизации на основе представительной ячейки материала. Работает как для композитов, так и для ячеистых структур из аддитивки. А скоро, очень скоро, у него будет еще больше крутых функций.</p>
+<p>#ANSYS #Material_Designer</p>
+<p><a href="https://wp.me/p9vWYY-2ES" target="_blank" rel="noopener noreferrer">https://wp.me/p9vWYY-2ES</a></p>
+<p><a href="https://wp.me/p9vWYY-2ES" target="_blank" rel="noopener noreferrer">https://wp.me/p9vWYY-2ES</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2019-08-31-ansys-material-designer-2019-r2/"><time datetime="2019-08-31">31.08.2019</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-31-ansys-material-designer-2019-r2/">https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-31-ansys-material-designer-2019-r2/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/material_designer/">#Material_Designer</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2019-08-29-directed-energy-deposition-v-ansys-addit/">Directed Energy Deposition в ANSYS Additive Suite</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Directed Energy Deposition в ANSYS Additive Suite</p>
+<p>Как же полезно всегда (!!!) держать beta опции ANSYS включенными. Вот, например, что нашлось в уже привычном релизе 2019 R2.</p>
+<p>#Additive_Manufacturing #ANSYS #DED</p>
+<p><a href="https://wp.me/p9vWYY-2Fe" target="_blank" rel="noopener noreferrer">https://wp.me/p9vWYY-2Fe</a></p>
+<p><a href="https://wp.me/p9vWYY-2Fe" target="_blank" rel="noopener noreferrer">https://wp.me/p9vWYY-2Fe</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2019-08-29-directed-energy-deposition-v-ansys-addit/"><time datetime="2019-08-29">29.08.2019</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-29-directed-energy-deposition-v-ansys-addit/">https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-29-directed-energy-deposition-v-ansys-addit/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ded/">#DED</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/additive_manufacturing/">#Additive_manufacturing</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2019-08-27-ansys-speos-chto-ty-takoe/">ANSYS SPEOS — что ты такое</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>ANSYS SPEOS — что ты такое</p>
+<p>Первое, на моей памяти, видео с демонстрацией работы ANSYS SPEOS (спасибо Singularity Engineering LLC). Система расчета оптики SPEOS досталась ANSYS с покупкой компании Optis еще в прошлом году. Она вcтраивается как в большинство CAD систем, так и в родной SpaceClaim, и находит себе применение в очень большом классе задач (подробнее тут на русском <a href="https://www.cadfem-cis.ru/products/ansys/systems/speos/" target="_blank" rel="noopener noreferrer">https://www.cadfem-cis.ru/products/ansys/systems/speos/</a>, а тут на английском: <a href="https://www.ansys.com/products/optical/ansys-speos" target="_blank" rel="noopener noreferrer">https://www.ansys.com/products/optical/ansys-speos</a>)</p>
+<p>#ANSYS #Optics #SpaceClaim #SPEOS</p>
+<p><a href="https://wp.me/p9vWYY-2EL" target="_blank" rel="noopener noreferrer">https://wp.me/p9vWYY-2EL</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2019-08-27-ansys-speos-chto-ty-takoe/"><time datetime="2019-08-27">27.08.2019</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-27-ansys-speos-chto-ty-takoe/">https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-27-ansys-speos-chto-ty-takoe/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/optics/">#Optics</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/speos/">#SPEOS</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/spaceclaim/">#Spaceclaim</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2019-08-25-verifikatsionnyy-otchet-po-ansys-mechanica/">Верификационный отчет по ANSYS Mechanical в строительстве</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Верификационный отчет по ANSYS Mechanical в строительстве</p>
+<p>Подробный отчет по верификации ANSYS Mechanical для решения задач строительной  механики, подготовленный для Российской академии архитектуры и  строительных наук (РААСН).  Монументальный документ на 600+ страниц. Феноменальный объем верификации — только одно перечисление верифицируемых возможностей занимает 2 страницы.</p>
+<p>В работе есть большое число модельных задач, взятых из верификационных материалов ANSYS, NAFEMS и созданных самостоятельно. А еще есть очень интересный 4-й том, посвященный опыту применения ANSYS в строительстве. И тут можно найти описание моделей зданий, которые бережно созданы в «черном экране смерти». Ибо без любви к своей работе такие модели сделать не получится.</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2019-08-25-verifikatsionnyy-otchet-po-ansys-mechanica/"><time datetime="2019-08-25">25.08.2019</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-25-verifikatsionnyy-otchet-po-ansys-mechanica/">https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-25-verifikatsionnyy-otchet-po-ansys-mechanica/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/civil/">#Civil</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/mechanical/">#Mechanical</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2019-08-21-sravnenie-cfd-reshateley-supertyazheloy-ves/">Сравнение CFD решателей супертяжелой весовой категории</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Сравнение CFD решателей супертяжелой весовой категории</p>
+<p>Большой обзор-сравнение двух главных решателей гидродинамики современности: ANSYS Fluent и Siemens Simcenter STAR-CCM+. И тут у нас идет очень большое перечисление всех фишек всех решателей.</p>
+<p><a href="https://www.resolvedanalytics.com/theflux/comparing-cfd-software-part-4-comprehensive-cfd-software-packages" target="_blank" rel="noopener noreferrer">https://www.resolvedanalytics.com/theflux/comparing-cfd-software-part-4-comprehensive-cfd-software-packages</a></p>
+<p>А какой решатель выберете вы и почему?</p>
+<p>#ANSYS #CFD #Fluent #Siemens #STAR_CCM</p>
+<p><a href="https://wp.me/p9vWYY-2DZ" target="_blank" rel="noopener noreferrer">https://wp.me/p9vWYY-2DZ</a></p>
+<p><a href="https://www.resolvedanalytics.com/theflux/comparing-cfd-software-part-4-comprehensive-cfd-software-packages" target="_blank" rel="noopener noreferrer">https://www.resolvedanalytics.com/theflux/comparing-cfd-software-part-4-comprehensive-cfd-software-packages</a>
+<a href="https://wp.me/p9vWYY-2DZ" target="_blank" rel="noopener noreferrer">https://wp.me/p9vWYY-2DZ</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2019-08-21-sravnenie-cfd-reshateley-supertyazheloy-ves/"><time datetime="2019-08-21">21.08.2019</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-21-sravnenie-cfd-reshateley-supertyazheloy-ves/">https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-21-sravnenie-cfd-reshateley-supertyazheloy-ves/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/cfd/">#Cfd</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/star_ccm/">#STAR_CCM</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/siemens/">#Siemens</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/fluent/">#Fluent</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2019-08-15-internal-layer-act/">Internal Layer ACT</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Internal Layer ACT</p>
+<p>Небольшое расширение для той части ANSYS Mechanical, что работает с APDL. Расширение позволяет сгенерировать именованную выборку из слоя элементов заданной толщины и задать для этого слоя свойства материала. Для генерации слоя вам достаточно выбрать поверхность, от которой этот слой будет строиться.</p>
+<p>Ссылка на расширение: <a href="https://catalog.ansys.com/product/5cb60587393ff6686c09c303/internal-layer" target="_blank" rel="noopener noreferrer">https://catalog.ansys.com/product/5cb60587393ff6686c09c303/internal-layer</a></p>
+<p>#ACT #ANSYS #Mechanical</p>
+<p><a href="https://wp.me/p9vWYY-2DB" target="_blank" rel="noopener noreferrer">https://wp.me/p9vWYY-2DB</a></p>
+<p><a href="https://catalog.ansys.com/product/5cb60587393ff6686c09c303/internal-layer" target="_blank" rel="noopener noreferrer">https://catalog.ansys.com/product/5cb60587393ff6686c09c303/internal-layer</a>
+<a href="https://wp.me/p9vWYY-2DB" target="_blank" rel="noopener noreferrer">https://wp.me/p9vWYY-2DB</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2019-08-15-internal-layer-act/"><time datetime="2019-08-15">15.08.2019</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-15-internal-layer-act/">https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-15-internal-layer-act/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/act/">#ACT</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/mechanical/">#Mechanical</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2019-08-13-ansys-weldingdistortion-act/">ANSYS WeldingDistortion ACT</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>ANSYS WeldingDistortion ACT</p>
+<p>Очень простое по своей идее, и, в то же время, совершенно сногсшибательное расширение для ANSYS Mechanical сделали его разработчики.</p>
+<p>Итак, расширение WeldingDistortion позволяет вам оценить возможное коробление изделия при сварке или наплавке на него материала. Расширение добавляет вам в проект систему нестационарного расчета теплопроводности и связанную с ним стационарную задачу прочности. Весь процесс наплавки задается через пошаговый мастер настройки с контекстной справкой. Несколько видео уроков идут в составе расширения.</p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2019-08-13-ansys-weldingdistortion-act/"><time datetime="2019-08-13">13.08.2019</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-13-ansys-weldingdistortion-act/">https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-13-ansys-weldingdistortion-act/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/act/">#ACT</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/mechanical/">#Mechanical</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/welding/">#Welding</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2019-08-10-optislang-na-konferentsii-converge-2019/">optiSLang на конференции CONVERGE 2019</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>optiSLang на конференции CONVERGE 2019</p>
+<p>Небольшая презентация на тему параметрических исследований и связки optiSLang с ANSYS Workbench.</p>
+<p>#ANSYS #optimization #optiSLang</p>
+<p><a href="https://wp.me/p9vWYY-2Dd" target="_blank" rel="noopener noreferrer">https://wp.me/p9vWYY-2Dd</a></p>
+<p><a href="https://wp.me/p9vWYY-2Dd" target="_blank" rel="noopener noreferrer">https://wp.me/p9vWYY-2Dd</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2019-08-10-optislang-na-konferentsii-converge-2019/"><time datetime="2019-08-10">10.08.2019</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-10-optislang-na-konferentsii-converge-2019/">https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-10-optislang-na-konferentsii-converge-2019/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/optislang/">#OptiSlang</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/optimization/">#Optimization</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+        <article class="post-list h-feed">
+    <div class="post-header">
+        <header>
+            <h1 class="p-name post-title"><a class="u-url" href="/MagicDPD/posts/2019-08-01-magiya-blochno-strukturirovannyh-setok-v-i/">Магия блочно-структурированных сеток в ICEM CFD</a></h1>
+        </header>
+        
+    </div>
+        <div class="content post-summary p-summary">
+            <p>Магия блочно-структурированных сеток в ICEM CFD</p>
+<p>ICEM CFD — великий и ужасный сеточный генератора  от ANSYS. И его еще пока рано списывать со счетов, если вам нужны  блочные сетки. В представленных видео разобраны примеры построения  плоских и объёмных блоков, создание сетки для тел вращения. Если не  обращать внимания на некоторые специфические особенности интерфейса, то  все не так уж и страшно.</p>
+<p>#ANSYS #ICEM_CFD #mesh</p>
+<p><a href="https://wp.me/p9vWYY-2CA" target="_blank" rel="noopener noreferrer">https://wp.me/p9vWYY-2CA</a></p>
+<p><a href="https://wp.me/p9vWYY-2CA" target="_blank" rel="noopener noreferrer">https://wp.me/p9vWYY-2CA</a></p>
+        </div>
+    
+    
+
+    
+
+    
+
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">
+            <a class="u-url" href="/MagicDPD/posts/2019-08-01-magiya-blochno-strukturirovannyh-setok-v-i/"><time datetime="2019-08-01">01.08.2019</time></a>
+            
+        </div>
+    
+
+    <a class="post-hidden-url u-url" href="https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-01-magiya-blochno-strukturirovannyh-setok-v-i/">https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-01-magiya-blochno-strukturirovannyh-setok-v-i/</a>
+    <a href="https://yurynovozhilov.github.io/MagicDPD/" class="p-name p-author post-hidden-author h-card" rel="me">GlukRazor</a>
+
+
+    <div class="post-taxonomies">
+        
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/icem_cfd/">#ICEM_CFD</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/mesh/">#Mesh</a></li>
+                
+                    
+                    <li><a href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys/">#ANSYS</a></li>
+                
+            </ul>
+        
+        
+    </div>
+</div>
+
+</article>
+
+    
+    
+    
+    
+    <div class="pagination">
+        <div class="left pagination-item ">
+            
+                <a href="/MagicDPD/tags/ansys/page/19/">к новым записям</a>
+            
+        </div>
+        <div class="right pagination-item ">
+            
+                <a href="/MagicDPD/tags/ansys/page/21/">к старым записям</a>
+            
+        </div>
+    </div>
+
+
+
+
+        </main>
+        
+            <footer class="common-footer">
+    
+    
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+            <p>© GlukRazor, 2026<br>
+            Движок <a target="_blank" rel="noopener noreferrer" href="https://gohugo.io/">Hugo</a>, тема <a target="_blank" rel="noopener noreferrer" href="https://github.com/mitrichius/hugo-theme-anubis">Anubis</a>.<br>
+            
+            </p>  
+        </div> 
+    </div>
+
+    <p class="h-card vcard">
+
+    <a href=https://yurynovozhilov.github.io/MagicDPD/ class="p-name u-url url fn" rel="me">GlukRazor</a> 
+
+    
+
+    
+</p> 
+</footer>
+
+        
+    </div>
+</body>
+</html>

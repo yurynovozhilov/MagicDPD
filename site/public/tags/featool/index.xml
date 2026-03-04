@@ -2,39 +2,177 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FEATool on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/featool/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/featool/</link>
     <description>MagicDPD: Magic Driven Product Development! (FEATool)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 25 May 2018 18:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Aug 2018 18:01:40 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/featool/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/featool/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>CFD Toolbox для MATLAB</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-10-cfd-toolbox-dlya-matlab/</link>
+      <pubDate>Fri, 10 Aug 2018 18:01:40 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-08-10-cfd-toolbox-dlya-matlab/</guid>
+      <description>&lt;p&gt;CFD Toolbox для MATLAB
+CFDTool - это специализированное расширение к MATLAB, позволяющее решать задачи вычислительной гидрогазодинамики. Разработано оно командой Precise Simulation, известной по другому похожему проекту - FEATool Multiphysics.
+У расширения есть свой графический интефейс, оно умеет читать CAD геометрию и строить сетки. Правда по расчетным возможностям это пока только стиционарные течения несжимаемых жидкостей и нестационарные задачи тепломассообмена.
+Учебное видео по теме присутствует&lt;/p&gt;
+&lt;p&gt;Для работы системе нужен MATLAB R2011b
+Полезные ссылки по теме:
+&lt;a href=&#34;https://www.cfdtool.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cfdtool.com&lt;/a&gt;
+&lt;a href=&#34;https://www.mathworks.com/matlabcentral/fileexchange/68411-cfdtool-matlab-cfd-toolbox&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.mathworks.com/matlabcentral/fileexchange/68411-cfdtool-matlab-cfd-toolbox&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#CFD #CFDTool #FEATool #MATLAB #PreciseSimulation
+&lt;a href=&#34;http://bit.ly/2KISLrF&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2KISLrF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cfdtool.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CFDTool - CFD Simulation Made Easy&lt;/a&gt;
+&lt;a href=&#34;https://www.mathworks.com/matlabcentral/fileexchange/68411-cfdtool-matlab-cfd-toolbox&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.mathworks.com/matlabcentral/fileexchange/68411-cfdtool-matlab-cfd-toolbox&lt;/a&gt;
+&lt;a href=&#34;http://bit.ly/2KISLrF&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://bit.ly/2KISLrF&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>FEATool Multiphysics 1.8 теперь дружит с OpenFOAM</title>
-      <link>http://localhost:1313/posts/2018-05-25-featool-multiphysics-18-teper-druzhit-s/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-25-featool-multiphysics-18-teper-druzhit-s/</link>
       <pubDate>Fri, 25 May 2018 18:00:56 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-05-25-featool-multiphysics-18-teper-druzhit-s/</guid>
-      <description>&lt;p&gt;Пакет для КЭ нанализа на FEATool Multiphysics — это открытый и бесплатный код, работающий опверх MATLAB. Теперь он адаптировался еще и под открытый и бесплатный GNU Octave.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-05-25-featool-multiphysics-18-teper-druzhit-s/</guid>
+      <description>&lt;p&gt;FEATool Multiphysics 1.8 теперь дружит с OpenFOAM&lt;/p&gt;
+&lt;p&gt;Пакет для КЭ нанализа на FEATool Multiphysics — это открытый и бесплатный код, работающий опверх MATLAB. Теперь он адаптировался еще и под открытый и бесплатный GNU Octave.
 Кроме того, основной фишкой нового релиза стала интеграция OpenFOAM и даже создание GUI для этого дела. Теперь прямо из интерфейса FEATool можно готовить и ставить задачи не только для их собстенного КЭ решателя, но и для OpenFOAM, и для FEniCS.&lt;/p&gt;
 &lt;p&gt;Ну и до кучи, в ПО докинули новый функционал по работе с STL геометрией, получившей всеобщую популятность на волне развития аддитивных технологий.
 &lt;a href=&#34;https://www.featool.com/news/2018/05/17/FEATool-v1p8-with-OpenFOAM-Matlab-CFD-Solver-Interface.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/news/2018/05/17/FEATool-v1p8-with-OpenFOAM-Matlab-CFD-Solver-Interface.html&lt;/a&gt;
 #FEATool #FEniCS #MATLAB #Octave #Open Source #OpenFOAM #STL&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-1Ry&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Ry&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.featool.com/news/2018/05/17/FEATool-v1p8-with-OpenFOAM-Matlab-CFD-Solver-Interface.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FEATool 1.8 - OpenFOAM MATLAB CFD Solver and GUI Interface&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-1Ry&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-1Ry&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Топологическая оптимизация в FEATool</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-21-topologicheskaya-optimizatsiya-v-featool/</link>
+      <pubDate>Wed, 21 Feb 2018 18:01:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-21-topologicheskaya-optimizatsiya-v-featool/</guid>
+      <description>&lt;p&gt;Топологическая оптимизация в FEATool
+В связке FEATool Multiphysics + Matlab или Octave оказывается доступна оптимизация топологии.
+Шинтаро Ямасаки (Shintaro Yamasaki) из университета Осаки (Osaka University) подготовил учебный пример по тому, как можно решить задачу оптимизации топологии. К сожалению, статья описывающая постановку платная: https://link.springer.com/article/10.1007%2Fs00158-010-0562-2, однако ссылка на сам m-script, выполняющий тестовый пример в FEATool, публично доступна: http://www.featool.com/download/optexec.m&lt;/p&gt;
+&lt;p&gt;По материалам: &lt;a href=&#34;http://www.featool.com/tutorial/2018/02/20/Topology-Optimization-Modeling-Example.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.featool.com/tutorial/2018/02/20/Topology-Optimization-Modeling-Example.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/article/10.1007%2Fs00158-010-0562-2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://link.springer.com/article/10.1007%2Fs00158-010-0562-2&lt;/a&gt;
+&lt;a href=&#34;http://www.featool.com/download/optexec.m&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.featool.com/download/optexec.m&lt;/a&gt;
+&lt;a href=&#34;http://www.featool.com/tutorial/2018/02/20/Topology-Optimization-Modeling-Example.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.featool.com/tutorial/2018/02/20/Topology-Optimization-Modeling-Example.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Твитни свой расчет</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-22-tvitni-svoy-raschet/</link>
+      <pubDate>Mon, 22 Jan 2018 17:00:39 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-22-tvitni-svoy-raschet/</guid>
+      <description>&lt;p&gt;Твитни свой расчет
+В то время, как я удивляюсь, что Instagram и WhatsApp стоят на несколько порядков больше, чем ANSYS или Siemens, стремление к социализации проникает в мир CAE.&lt;/p&gt;
+&lt;p&gt;Так, в ANSYS Discovery Live встроен форум с обсуждением постановок задач. Но дальше всех в области социальных сетей пошли коллеги из FEATool: в версии 1.7.1 системы FEATool Multiphysics реально встроены кнопки для расшаривания &amp;ldquo;веселых картинок&amp;rdquo; в таких социальных сетях, как Facebook, LinkedIn и Twitter.&lt;/p&gt;
+&lt;p&gt;Пруффлинк (87 страница документации): https://www.featool.com/featool-usersguide.pdf&lt;/p&gt;
+&lt;p&gt;Все, кто сейчас задумались о коммерческой или государственной тайне их проектов, прошу расслабиться: FEATool позиционирует себя как инструмент для учащихся и аспирантов, а не как расчетный комплекс для суровых инженеров на закрытых КБ.
+#FEATool
+&lt;a href=&#34;https://magicdpd.ru/?p=5987&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5987&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.featool.com/featool-usersguide.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/featool-usersguide.pdf&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=5987&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5987&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Продолжаем тему #FEATool и #Gmsh - теперь более подробно про создание сеток.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-08-prodolzhaem-temu-featool-i-gmsh-teper/</link>
+      <pubDate>Fri, 08 Dec 2017 17:18:15 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-12-08-prodolzhaem-temu-featool-i-gmsh-teper/</guid>
+      <description>&lt;p&gt;#opensource #mesh&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.featool.com/grid/2017/12/05/Gmsh-Mesh-Generator-Integration-with-Matlab-and-FEATool.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/grid/2017/12/05/Gmsh-Mesh-Generator-Integration-with-Matlab-and-FEATool.html&lt;/a&gt; 🔗 Automatic 2D and 3D FEM Mesh and Grid Generation using Gmsh | FEATool&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2yt2ZXH&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yt2ZXH&lt;/a&gt;
+&lt;a href=&#34;https://www.featool.com/grid/2017/12/05/Gmsh-Mesh-Generator-Integration-with-Matlab-and-FEATool.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/grid/2017/12/05/Gmsh-Mesh-Generator-Integration-with-Matlab-and-FEATool.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Статья-инструкция о том, как решить задачу парметрической оптимизации конструкции используя решатели #FEATool, сеточные генератор #Gmsh и #Matlab</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-28-statya-instruktsiya-o-tom-kak-reshit-zada/</link>
+      <pubDate>Tue, 28 Nov 2017 17:18:14 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-28-statya-instruktsiya-o-tom-kak-reshit-zada/</guid>
+      <description>&lt;p&gt;#optimization #opensource&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.featool.com/tutorial/2017/11/13/CAD-Import-and-Parametric-Stress-Displacement-Simulation.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/tutorial/2017/11/13/CAD-Import-and-Parametric-Stress-Displacement-Simulation.html&lt;/a&gt; 🔗 Parametric FEATool Multiphysics FEM Studies with Gmsh and CAD File Import&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2yt2ZXH&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yt2ZXH&lt;/a&gt;
+&lt;a href=&#34;https://www.featool.com/tutorial/2017/11/13/CAD-Import-and-Parametric-Stress-Displacement-Simulation.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/tutorial/2017/11/13/CAD-Import-and-Parametric-Stress-Displacement-Simulation.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Команда #FEATool подготовила в своем блоге простой и понятный урок по построению сеток при помощи одного из самых распространенных сеточных генераторов с открытым исходным кодом #Gmsh.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-12-komanda-featool-podgotovila-v-svoem-blo/</link>
+      <pubDate>Sun, 12 Nov 2017 17:11:04 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-11-12-komanda-featool-podgotovila-v-svoem-blo/</guid>
+      <description>&lt;p&gt;#opensource #mesh&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.featool.com/tutorial/2017/11/06/Gmsh-CAD-STEP-File-Import-and-Mesh-Generation-Tutorial.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/tutorial/2017/11/06/Gmsh-CAD-STEP-File-Import-and-Mesh-Generation-Tutorial.html&lt;/a&gt; 🔗 Gmsh CAD File Import and Mesh Generation Tutorial | FEATool&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2yt2ZXH&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2yt2ZXH&lt;/a&gt;
+&lt;a href=&#34;https://www.featool.com/tutorial/2017/11/06/Gmsh-CAD-STEP-File-Import-and-Mesh-Generation-Tutorial.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/tutorial/2017/11/06/Gmsh-CAD-STEP-File-Import-and-Mesh-Generation-Tutorial.html&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Python FEM и многодисциплинарные расчеты  в FEniCS и FEATool</title>
-      <link>http://localhost:1313/posts/2017-06-21-python-fem-i-mnogodistsiplinarnye-raschety/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-21-python-fem-i-mnogodistsiplinarnye-raschety/</link>
       <pubDate>Wed, 21 Jun 2017 17:00:59 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-06-21-python-fem-i-mnogodistsiplinarnye-raschety/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-06-21-python-fem-i-mnogodistsiplinarnye-raschety/</guid>
+      <description>&lt;p&gt;Python FEM и многодисциплинарные расчеты  в FEniCS и FEATool
+&lt;a href=&#34;https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#FEATool, который позволяет решать задачи методом конечных элементов (#МКЭ) на базе #Matlab, начали взаимодействовать с проектом #FEniCS, который также занимается решением задач в МКЭ припомни #Python и C++. Теперь FEniCS дочтен прямо в GUI FEATool.&lt;/p&gt;
 &lt;p&gt;Говорят, что FEniCS протестирован для работы со СЛАУ размерности 100 миллионов уравнений, а также может работать на 512 CPUs, используя как #MPI, так и #OpenMP. А это существенно больше того, что сейчас может решать FEATool.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FEniCS Python FEM Solver and Multiphysics GUI with FEATool&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CFD от FEATool</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-21-cfd-ot-featool/</link>
+      <pubDate>Mon, 21 Nov 2016 17:01:22 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-21-cfd-ot-featool/</guid>
+      <description>&lt;p&gt;CFD от FEATool
+&lt;a href=&#34;https://www.featool.com/tutorial/2016/11/14/Easy-Matlab-CFD-FeatFlow-external-CFD-solver-with-FEATool-integration&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.featool.com/tutorial/2016/11/14/Easy-Matlab-CFD-FeatFlow-external-CFD-solver-with-FEATool-integration&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#FEATool - #КЭ код работающий в рамках #Matlab получил интеграцию с #CFD кодом #FeatFlow. Последний является КЭ кодом для решения CFD в несжимаемой постановке. Говорят, что благодаря использованию библиотеки #UMFPACK от Matlab решатель FeatFlow работает не хуже #ANSYS #CFX и #OpenFOAM.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/VSZ6o-eTlU0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/VSZ6o-eTlU0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.featool.com/tutorial/2016/11/14/Easy-Matlab-CFD-FeatFlow-external-CFD-solver-with-FEATool-integration&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FeatFlow - Fast External CFD Solver Integration with FEATool&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/VSZ6o-eTlU0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/VSZ6o-eTlU0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Представляю вам молодую компанию Precise Simulation Ltd. - разработчика #FEATool для #MATLAB о котором я писал немногим ранее.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-17-predstavlyayu-vam-moloduyu-kompaniyu-precise/</link>
+      <pubDate>Sun, 17 Jul 2016 13:00:06 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-17-predstavlyayu-vam-moloduyu-kompaniyu-precise/</guid>
+      <description>&lt;p&gt;Компания основана в 2012 году, и уже сдалал такой интересных продукт.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lnk.al/1FTe&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FEATool Multiphysics&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Зналил ли вы, что #MATLAB  тоже умеет выполнять расчеты методом коненых элеметнов?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-17-znalil-li-vy-chto-matlab-tozhe-umeet-vy/</link>
+      <pubDate>Sun, 17 Jul 2016 08:00:02 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-17-znalil-li-vy-chto-matlab-tozhe-umeet-vy/</guid>
+      <description>&lt;p&gt;Вышедшая невадно версия 2016a имеет обновленный модуль #FEATool спосбный рашеть 3D задачи FEM и даже CFD!&lt;/p&gt;
+&lt;p&gt;Более побродно о возможностях вы можете узнать в статье по ссылке. &lt;a href=&#34;http://lnk.al/1FT3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1FT3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lnk.al/1FT3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FEM Multiphysics Simulation for MATLAB!? &amp;gt; ENGINEERING.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

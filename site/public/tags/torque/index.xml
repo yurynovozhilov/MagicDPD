@@ -2,22 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Torque on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/torque/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/torque/</link>
     <description>MagicDPD: Magic Driven Product Development! (Torque)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 23 Nov 2015 06:00:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Oct 2017 17:14:25 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/torque/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/torque/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Nor-Tech, один из крупнейших в США системных интеграторов сп</title>
-      <link>http://localhost:1313/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</link>
+      <title>#TotalCAE хвастают тем, что написали слой интеграции между SLURM и #ANSYS #RSM.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-22-totalcae-hvastayut-tem-chto-napisali-slo/</link>
+      <pubDate>Sun, 22 Oct 2017 17:14:25 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-22-totalcae-hvastayut-tem-chto-napisali-slo/</guid>
+      <description>&lt;p&gt;Напомню, ANSYS RSM позволяет без проблем ставить задачи ANSYS на таких высокопроизводительных системах, как #PBS, #LSF, #GridEngine, #Torque, #MOAB и даже Windows HPC Cluster, но не SLURM.&lt;/p&gt;
+&lt;p&gt;TotalCAE взяли и написали свой собственный слой интеграции. Это прикольно, но проще было взять стандартный транслятор SLURM-PBS.&lt;/p&gt;
+&lt;p&gt;#HPC&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.totalcae.com/learn/slurm-ansys-remote-solver-manager-rsm/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.totalcae.com/learn/slurm-ansys-remote-solver-manager-rsm/&lt;/a&gt; 🔗 SLURM with ANSYS Remote Solver Manager (RSM) - TotalCAE Blog&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2zt3EbO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zt3EbO&lt;/a&gt;
+&lt;a href=&#34;https://www.totalcae.com/learn/slurm-ansys-remote-solver-manager-rsm/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.totalcae.com/learn/slurm-ansys-remote-solver-manager-rsm/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nor-Tech, один из крупнейших в США системных интеграторов специализирующихся на #HPC, запустил демонстрационных кластер, на котором вы можете свободно проверить, что конкретно вам даст настоящий высокопроизводительный ресурс.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</link>
       <pubDate>Mon, 23 Nov 2015 06:00:37 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</guid>
-      <description>&lt;p&gt;CAE:&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-11-23-nor-tech-odin-iz-krupneyshih-v-ssha-siste/</guid>
+      <description>&lt;p&gt;Уже сейчас на классе доступны следующие программные продукты:&lt;/p&gt;
+&lt;p&gt;CAE:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;ANSYS: ANSYS Fluent – CFD,&lt;/li&gt;
 &lt;li&gt;ANSYS: Mechanical – FEA,&lt;/li&gt;
@@ -47,6 +63,7 @@
 &lt;li&gt;Altair PBS Pro, Compute Manager &amp;amp; Display Manager и другеи продукты&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Жаль, что у нас пока нет таких же бравых системных интеграторов.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.nor-tech.com/solutions/hpc/demo-cluster/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Try our free demo cluster&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

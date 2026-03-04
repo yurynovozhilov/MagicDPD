@@ -1,25 +1,77 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LimitStateFORM on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/limitstateform/</link>
-    <description>MagicDPD: Magic Driven Product Development! (LimitStateFORM)</description>
+    <title>Limitstateform on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/limitstateform/</link>
+    <description>MagicDPD: Magic Driven Product Development! (Limitstateform)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 24 Oct 2017 17:04:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Feb 2021 13:01:21 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/limitstateform/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/limitstateform/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>#LimitState показали работу своего генератора облегченных ко</title>
-      <link>http://localhost:1313/posts/2017-10-24-limitstate-pokazali-rabotu-svoego-gener/</link>
+      <title>LayOpt - это вам не bridge builder</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-11-layopt-eto-vam-ne-bridge-builder/</link>
+      <pubDate>Thu, 11 Feb 2021 13:01:21 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-11-layopt-eto-vam-ne-bridge-builder/</guid>
+      <description>&lt;p&gt;LayOpt - это вам не bridge builder&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8OuU5K4iwSM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=8OuU5K4iwSM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LayOpt является интерактивным веб-приложением, которое позволяет пользователям быстро определить минимальный объем макета (или топологии) 2D фермы. LayOpt использует движок оптимизации LimitState:FORM, решающий задачи теории предельного равновесия, также используемый в программе интерактивной оптимизации дизайна LimitState:FORM и Peregrine, плагин оптимизации для Rhino/Grasshopper. Эти программные инструменты позволяют решать целый ряд реальных 3D-задач.&lt;/p&gt;
+&lt;p&gt;Прототипная версия веб-приложения была запущена в рамках исследовательского проекта BUILD-OPT с участием университетов Шеффилда, Бата и Эдинбурга, а также ряда отраслевых партнеров при финансовой поддержке EPSRC. Текущая версия веб-приложения Amazon Web Services была разработана компанией LimitState Ltd в рамках последующего проекта EPSRC/HEIF Knowledge Exchange с участием Шеффилдского университета, Arup и LimitState.&lt;/p&gt;
+&lt;p&gt;Кстати, я брал в LimitState:FORM года 3-4 назад на тест, и могу сказать, что это очень сырая и совершенно непригодная для решения комерческих задач система. Техническая поддержка у них тогда тоже была не очень: не отреагировали ни на один из найденный мной багов.&lt;/p&gt;
+&lt;p&gt;Сайт интерактивного приложения: &lt;a href=&#34;https://www.layopt.com/truss/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.layopt.com/truss/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#layopt #limitstate #limitstateform #optimization #simulationfriday #topology
+&lt;a href=&#34;https://tinyurl.com/y2j4j2mx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y2j4j2mx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8OuU5K4iwSM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LayOpt - Interactive Truss Optimization App&lt;/a&gt;
+&lt;a href=&#34;https://www.layopt.com/truss/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.layopt.com/truss/&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/y2j4j2mx&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y2j4j2mx&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Большой вебинар по LimitState:FORM</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-13-bolshoy-vebinar-po-limitstateform/</link>
+      <pubDate>Tue, 13 Mar 2018 18:01:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-13-bolshoy-vebinar-po-limitstateform/</guid>
+      <description>&lt;p&gt;Большой вебинар по LimitState:FORM
+LimitState:FORM особое ПО, предназначенное для генерации конструкций оптимальной топологии (&lt;a href=&#34;http://limitstate3d.com/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://limitstate3d.com/)&lt;/a&gt;. Только конструкции оно генерирует сразу в виде балочной структуры, за счет чего результаты получаются очень быстро.&lt;/p&gt;
+&lt;p&gt;Разработчики называют это оптимизацией на основе Truss-Based Design, хотя на самом деле это Discontinuity layout optimization (&lt;a href=&#34;https://en.wikipedia.org/wiki/Discontinuity_layout_optimization%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://en.wikipedia.org/wiki/Discontinuity_layout_optimization)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;На прошлой неделе коллеги провели очень интересный и качественный вебинар, посвященный их технологиям и результатам.&lt;/p&gt;
+&lt;p&gt;Кроме всех очевидных преимуществ в плане скорости работы и простоты, у LimitState:FORM есть еще один козырь в рукаве. ПО может сразу проектировать конструкции с учетом их устойчивости, допустимых напряжений и перемещений. Прямо в вебинары показано, что форма конструкции меняется в зависимости от амплитуды нагрузки, чего не могут стандартные алгоритмы оптимизации топологии.
+И это только средствами самого ПО, а ведь есть еще связка с решателеми ANSYS Mechanical и средой Workbench через ACT (&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-285%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-285)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;#Additive_Manufacturing #ANSYS #Discontinuity_Layout_Optimization #DLO #Lattice #LimitState #LimitStateFORM #Mechanical #Optimization #Topology #TrussBased
+&lt;a href=&#34;https://goo.gl/HFvcJQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/HFvcJQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://limitstate3d.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://limitstate3d.com/&lt;/a&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Discontinuity_layout_optimization&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://en.wikipedia.org/wiki/Discontinuity_layout_optimization&lt;/a&gt;
+&lt;a href=&#34;https://appstore.ansys.com/download?prodid=APC-ACTAPP-285&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://appstore.ansys.com/download?prodid=APC-ACTAPP-285&lt;/a&gt;
+&lt;a href=&#34;https://goo.gl/HFvcJQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/HFvcJQ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#LimitState показали работу своего генератора облегченных конструкций #FORM, встроив его в #ANSYS #Discovery Live. Таким образом коллеги получают проверку предлагаемой их программным обеспечением топологии в реальном времени. Это прям супер!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-24-limitstate-pokazali-rabotu-svoego-gener/</link>
       <pubDate>Tue, 24 Oct 2017 17:04:24 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-10-24-limitstate-pokazali-rabotu-svoego-gener/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-24-limitstate-pokazali-rabotu-svoego-gener/</guid>
       <description>&lt;p&gt;#additivemanufacturing #LimitStateFORM&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=eiw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=eiw&lt;/a&gt;…Media📼 LimitState:FORM and ANSYS Discovery Live&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ift.tt/2y41IW8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2y41IW8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2hx9YLJ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hx9YLJ&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2y3ACyu&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2y3ACyu&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2vk2wVv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2vk2wVv&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2wLNQRy&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2wLNQRy&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2hTeWPB&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2hTeWPB&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2y3PJYN&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2y3PJYN&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=eiwvN0ckarc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=eiwvN0ckarc&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2iwDvFG&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2iwDvFG&lt;/a&gt;
+&lt;a href=&#34;http://ift.tt/2y41IW8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2y41IW8&lt;/a&gt;
+ttp://ift.tt/2y41IW8&lt;/p&gt;
 </description>
     </item>
     

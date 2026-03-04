@@ -2,84 +2,157 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Forming on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/forming/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/forming/</link>
     <description>MagicDPD: Magic Driven Product Development! (Forming)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 25 Nov 2021 13:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Dec 2021 13:01:30 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/forming/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/forming/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>AniForm - штамповка композитов</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-12-27-aniform-shtampovka-kompozitov/</link>
+      <pubDate>Mon, 27 Dec 2021 13:01:30 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-12-27-aniform-shtampovka-kompozitov/</guid>
+      <description>&lt;p&gt;AniForm - штамповка композитов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/07GAWmAvDKE?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/07GAWmAvDKE?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Делая обзор литературы по одному из проектов наткнулся на интересный инструмент по моделированию штамповки композитных изделий. AniForm позволят рассчитывать штамповку с учетом взаимного влияния мультиаксиальных тканей различной структуры плетения, а также учитывать полимеризацию связующего при нагреве. При этом у AniForm есть интерфейсы для экспорта получаемой структуры изделий в Ansys Composite PrepPost, e-Xstream’s Digimat, Abaqus CAE и Moldex3D + LS-DYNA для прямой генерации карты материала *MAT_249/*MAT_REINFORCED_THERMOPLASTIC.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/-_nbLgicSe8?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/-_nbLgicSe8?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#abaqus #acp #ansys #composite #digimat #forming #lsdyna
+&lt;a href=&#34;https://tinyurl.com/y6s22ms2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y6s22ms2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/07GAWmAvDKE?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;AniForm General: First-time-right process implementation&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/-_nbLgicSe8?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://youtu.be/-_nbLgicSe8?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/y6s22ms2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y6s22ms2&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Неявная штамповка картона в Ansys Mechanical</title>
-      <link>http://localhost:1313/posts/2021-11-25-neyavnaya-shtampovka-kartona-v-ansys-mechan/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-11-25-neyavnaya-shtampovka-kartona-v-ansys-mechan/</link>
       <pubDate>Thu, 25 Nov 2021 13:02:34 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-11-25-neyavnaya-shtampovka-kartona-v-ansys-mechan/</guid>
-      <description>&lt;p&gt;Традиционно, для решения задач штамповки используются явные решетили, так как им проще работать с требуемым уровнем нелинейности. Однако тут коллеги из Швеции посчитали штамповку в неявной квазистатической постановке Ansys Mechancial 2019R1! Штамповали в расчете картонные лотки одноразовой посуды. Сетку взяли очень мелкую (потому явный решатель и не подошел). Я могу сказать только, что мне очень нравятся такие публикации, когда нетипичный инструмент оказывается намного эффективнее общепринятый в промышленности подходов.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-11-25-neyavnaya-shtampovka-kartona-v-ansys-mechan/</guid>
+      <description>&lt;p&gt;Неявная штамповка картона в Ansys Mechanical&lt;/p&gt;
+&lt;p&gt;Традиционно, для решения задач штамповки используются явные решетили, так как им проще работать с требуемым уровнем нелинейности. Однако тут коллеги из Швеции посчитали штамповку в неявной квазистатической постановке Ansys Mechancial 2019R1! Штамповали в расчете картонные лотки одноразовой посуды. Сетку взяли очень мелкую (потому явный решатель и не подошел). Я могу сказать только, что мне очень нравятся такие публикации, когда нетипичный инструмент оказывается намного эффективнее общепринятый в промышленности подходов.&lt;/p&gt;
 &lt;p&gt;Научная статья: &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/10.1002/pts.2619&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://onlinelibrary.wiley.com/doi/10.1002/pts.2619&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#ansys #forming #mechanical
+&lt;a href=&#34;https://tinyurl.com/y2rc3oj3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y2rc3oj3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/10.1002/pts.2619&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Tray forming operation of paperboard: A case study using implicit finite element analysis&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/y2rc3oj3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y2rc3oj3&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Основы моделирования разрушения материала при обработке мета</title>
-      <link>http://localhost:1313/posts/2021-06-15-osnovy-modelirovaniya-razrusheniya-material/</link>
+      <title>Основы моделирования разрушения материала при обработке металла давлением</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-06-15-osnovy-modelirovaniya-razrusheniya-material/</link>
       <pubDate>Tue, 15 Jun 2021 16:02:15 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-06-15-osnovy-modelirovaniya-razrusheniya-material/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-06-15-osnovy-modelirovaniya-razrusheniya-material/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=w7u_tyqZwwg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=w7u_tyqZwwg&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Неплохая обзорная лекция от Design Online Academy по тому, на что смотреть при моделировании течения металла в процессе штамповки, вытяжки, прокатки и т.п. В лекции дан обзор основным теориям прочности, которые преподают еще на 3-ем курсе. Также будет разговор о таких важных понятиях, как Forming Limit Diagram (FLD) и эксперименте Накаджимы (Nakajima Test) по определению параметров FLD. Ну и в конце немного слов о применении всех этих знаний в LS-DYNA.&lt;/p&gt;
 &lt;p&gt;#ansys #fld #forming #ls-dyna #nakajima_test
+&lt;a href=&#34;https://tinyurl.com/ye94vouc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ye94vouc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=w7u_tyqZwwg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Basics of Material Failure in Metal Forming Simulation&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/ye94vouc&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ye94vouc&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Использование модели накопления повреждений GISSMO при расче</title>
-      <link>http://localhost:1313/posts/2021-06-11-ispolzovanie-modeli-nakopleniya-povrezhde/</link>
+      <title>Использование модели накопления повреждений GISSMO при расчетах штамповки</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-06-11-ispolzovanie-modeli-nakopleniya-povrezhde/</link>
       <pubDate>Fri, 11 Jun 2021 13:01:47 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-06-11-ispolzovanie-modeli-nakopleniya-povrezhde/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-06-11-ispolzovanie-modeli-nakopleniya-povrezhde/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=2DmR-H0L2Eg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=2DmR-H0L2Eg&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Томас Файстер (Thomas Feister) из EWI очень хорошо и понятно рассказывает про одну из самых передовых моделей накопления повреждений в LS-DYNA - GISSMO. Данная модель позволяет учитывать не только неоднородность напряженно-деформированного состояния, но и общую нелинейность процесса накопления повреждений, а также компенсировать возникающие при загрублении КЭ сетки эффекты. EWI - ведущая инженерно-технологическая компания Северной Америки, занимающаяся вопросами сварки и соединения материалов. Сотрудники EWI оказывают помощь в соединении материалов, проводят контрактные исследования, оказывают консультационные услуги и проводят обучение для почти 2 800 компаний-заказчиков. EWI предоставляет услуги мирового класса для аэрокосмической, автомобильной, оборонной, энергетической и химической, правительственной, тяжелой промышленности, медицинской и электронной отраслей.&lt;/p&gt;
 &lt;p&gt;#ansys #ewi #forming #gissmo #ls-dyna
+&lt;a href=&#34;https://tinyurl.com/yfx9zkdh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfx9zkdh&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=2DmR-H0L2Eg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;GISSMO Damage Modeling in Forming Simulation   Tom Feister&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/yfx9zkdh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yfx9zkdh&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Методичка по штамповке, FLD и UMAT в LS-DYNA</title>
-      <link>http://localhost:1313/posts/2020-06-25-metodichka-po-shtampovke-fld-i-umat-v-ls/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-06-25-metodichka-po-shtampovke-fld-i-umat-v-ls/</link>
       <pubDate>Thu, 25 Jun 2020 13:00:36 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-06-25-metodichka-po-shtampovke-fld-i-umat-v-ls/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-06-25-metodichka-po-shtampovke-fld-i-umat-v-ls/</guid>
+      <description>&lt;p&gt;Методичка по штамповке, FLD и UMAT в LS-DYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/ls-dyna-stamping-fld-umat-book/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Методичка по штамповке, FLD и UMAT в LS-DYNA - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Горячая прокатка рельсов</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-11-goryachaya-prokatka-relsov/</link>
+      <pubDate>Mon, 11 Mar 2019 17:00:36 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-11-goryachaya-prokatka-relsov/</guid>
+      <description>&lt;p&gt;Горячая прокатка рельсов&lt;/p&gt;
+&lt;p&gt;Очень интересный технологический процесс горячей прокатки рельсов, который осуществляется в 3 этапа по несколько проходов.&lt;/p&gt;
+&lt;p&gt;Моделируют его во всяком разном софте: от специализированного Qform, до общего назначения: LS-DYNA.&lt;/p&gt;
+&lt;p&gt;#forming #LS_DYNA #Qform #rolling&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2nW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2nW&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2nW&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Горячая прокатка рельсов - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование вакуумной формовки</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-05-modelirovanie-vakuumnoy-formovki/</link>
+      <pubDate>Tue, 05 Mar 2019 17:01:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-05-modelirovanie-vakuumnoy-formovki/</guid>
+      <description>&lt;p&gt;Моделирование вакуумной формовки&lt;/p&gt;
+&lt;p&gt;Есть пример от Wilde Analysis как такое делается в ANSYS AIM 19.2 — там внутри зашит Polyflow&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&#34;https://player.vimeo.com/video/296632632&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://player.vimeo.com/video/296632632&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20220430051308/https://player.vimeo.com/video/296632632&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;А есть стандартный учебный пример по ANSYS Polyflow версии аж 16.0. Правда тут процесс идет немного наизнанку, в отличие от вакуумной формовки. Зато для такой схемы расчета можно настроить и связку в Mechanical.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=zrlK6sHGoQs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=zrlK6sHGoQs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=LQp4HyAVpMY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=LQp4HyAVpMY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ну и на закуску, всемогущая LS-DYNA и большой дисер на соответствующую тему: &lt;a href=&#34;https://pdfs.semanticscholar.org/b893/97cb9904b3c94e3f701af0e4a4f640a5306a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://pdfs.semanticscholar.org/b893/97cb9904b3c94e3f701af0e4a4f640a5306a.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;А какой инструмент выбрали бы вы?&lt;/p&gt;
+&lt;p&gt;#AIM #ANSYS #forming #LS_DYNA #Ployflow #WildeAnalysis&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2ng&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2ng&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&#34;https://player.vimeo.com/video/296632632&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://player.vimeo.com/video/296632632&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20220430051308/https://player.vimeo.com/video/296632632&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=zrlK6sHGoQs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=zrlK6sHGoQs&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=LQp4HyAVpMY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=LQp4HyAVpMY&lt;/a&gt;
+&lt;a href=&#34;https://pdfs.semanticscholar.org/b893/97cb9904b3c94e3f701af0e4a4f640a5306a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://pdfs.semanticscholar.org/b893/97cb9904b3c94e3f701af0e4a4f640a5306a.pdf&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2ng&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2ng&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Моделирование ковки</title>
-      <link>http://localhost:1313/posts/2019-02-08-modelirovanie-kovki/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-08-modelirovanie-kovki/</link>
       <pubDate>Fri, 08 Feb 2019 06:54:33 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-02-08-modelirovanie-kovki/</guid>
-      <description>&lt;p&gt;Cравнение различных подходов моделирования задачи ковки. Задача сопряжена с большими пластическими деформациями, которые неминуемо приводят к сеточным проблемам. Как раз для таких случаев есть #EFG метод, да еще и с несколькими стратегиями сгущения сетки.
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-08-modelirovanie-kovki/</guid>
+      <description>&lt;p&gt;Моделирование ковки&lt;/p&gt;
+&lt;p&gt;Cравнение различных подходов моделирования задачи ковки. Задача сопряжена с большими пластическими деформациями, которые неминуемо приводят к сеточным проблемам. Как раз для таких случаев есть #EFG метод, да еще и с несколькими стратегиями сгущения сетки.
 #LSDYNA&lt;/p&gt;
 &lt;p&gt;Cylinder forging with LS-DYNA&lt;/p&gt;
 &lt;p&gt;#EFG #forming #LS_DYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-4616&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-4616&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-4616&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-4616&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Моделирование процессов ОМД на АО Ульяновский НИАТ</title>
-      <link>http://localhost:1313/posts/2019-02-08-modelirovanie-protsessov-omd-na-ao-ulyano/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-08-modelirovanie-protsessov-omd-na-ao-ulyano/</link>
       <pubDate>Fri, 08 Feb 2019 06:52:52 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-02-08-modelirovanie-protsessov-omd-na-ao-ulyano/</guid>
-      <description>&lt;p&gt;Приятно видеть, когда люди работают, и работают хорошо!
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-08-modelirovanie-protsessov-omd-na-ao-ulyano/</guid>
+      <description>&lt;p&gt;Моделирование процессов ОМД на АО Ульяновский НИАТ&lt;/p&gt;
+&lt;p&gt;Приятно видеть, когда люди работают, и работают хорошо!
 #LSDYNA #EFG #forming
 Краткая статья про применение моделирования процессов на АО «Ульяновский НИАТ»
 &lt;a href=&#34;http://tzshp.ru/o-nas/stati/59-modelirovanie-protsessov-omd-na-ao-ulyanovskij-niat&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://tzshp.ru/o-nas/stati/59-modelirovanie-protsessov-omd-na-ao-ulyanovskij-niat&lt;/a&gt;
@@ -88,142 +161,226 @@
 Моделирование процессов ОМД на АО Ульяновский НИАТ&lt;/p&gt;
 &lt;p&gt;#EFG #forming #LS_DYNA&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-4396&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-4396&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://tzshp.ru/o-nas/stati/59-modelirovanie-protsessov-omd-na-ao-ulyanovskij-niat&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://tzshp.ru/o-nas/stati/59-modelirovanie-protsessov-omd-na-ao-ulyanovskij-niat&lt;/a&gt;
+&lt;a href=&#34;http://tzshp.ru/o-nas/stati/59-modelirovanie-protsessov-omd-na-ao-ulyanovskij-niat&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://tzshp.ru/o-nas/stati/59-modelirovanie-protsessov-omd-na-ao-ulyanovskij-niat&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/s9vWYY-4396&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-4396&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>LSFORM — новый ПреПост штамповки в LS-DYNA</title>
-      <link>http://localhost:1313/posts/2019-01-31-lsform-novyy-prepost-shtampovki-v-ls-dy/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-31-lsform-novyy-prepost-shtampovki-v-ls-dy/</link>
       <pubDate>Thu, 31 Jan 2019 17:00:24 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2019-01-31-lsform-novyy-prepost-shtampovki-v-ls-dy/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=g6wZ0MMEmmA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=g6wZ0MMEmmA&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-01-31-lsform-novyy-prepost-shtampovki-v-ls-dy/</guid>
+      <description>&lt;p&gt;LSFORM — новый ПреПост штамповки в LS-DYNA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=g6wZ0MMEmmA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=g6wZ0MMEmmA&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;В январе этого года компания LSTC без лишней помпы представила всем заинтересованным свой новый продукт — специализированный препост для решения задач штамповки. Препост получил название LSForm, доступен бесплатно всем, у кого есть лицензия на LS-DYNA, как, впрочем, и любой софт от LSTC.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=C40qFGqPbyA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=C40qFGqPbyA&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;LSForm имеет сравнительно современный ленточный интерфейс. Подробнее с его возможностями можно ознакомиться на доступных демонстрационных видео.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ZZcdfj8SezI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ZZcdfj8SezI&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#deepdrawing #FLD #forming #LS_DYNA #LSTC #stamping&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wp.me/s9vWYY-lsform&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-lsform&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=g6wZ0MMEmmA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=g6wZ0MMEmmA&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=C40qFGqPbyA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=C40qFGqPbyA&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=ZZcdfj8SezI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ZZcdfj8SezI&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/s9vWYY-lsform&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/s9vWYY-lsform&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Электромагнитный решатель LS-DYNA: использование циклической</title>
-      <link>http://localhost:1313/posts/2018-04-08-elektromagnitnyy-reshatel-ls-dyna-ispol/</link>
+      <title>Электромагнитный решатель LS-DYNA: использование циклической симметрии</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-08-elektromagnitnyy-reshatel-ls-dyna-ispol/</link>
       <pubDate>Sun, 08 Apr 2018 18:00:51 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-04-08-elektromagnitnyy-reshatel-ls-dyna-ispol/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-08-elektromagnitnyy-reshatel-ls-dyna-ispol/</guid>
       <description>&lt;p&gt;Шестая часть цикла уроков, посвящённых работе EM решателя LS-DYNA в приложении к задачам электромагнитной штамповки.&lt;/p&gt;
 &lt;p&gt;Рассматривается работа EM решателя в постановке, использующей циклическую симметрию. Почему-то тут эту постановку упорно называют осесимметричной, хотя до плоских элементов так и не доходят.&lt;/p&gt;
 &lt;p&gt;Видимо это связано с тем, что используются специальные команды, позволяющие существенно ускорить процесс расчета: на рассмотренном примере — в 100 раз! Интересно, что циклосимметричная постановка для EM решателя работает в связке с полной 3D постановкой для задачи механики (прочность и тепло).
 Как обычно это бывает у LSTC, вы можете скачать модель для самостоятельного изучения тут: http://www.dynaexamples.com/em/em_axi&lt;/p&gt;
 &lt;p&gt;#EM #Forming #LSDYNA #LSTC
 &lt;a href=&#34;https://is.gd/QmTqht&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://is.gd/QmTqht&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynaexamples.com/em/em_axi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynaexamples.com/em/em_axi&lt;/a&gt;
+&lt;a href=&#34;https://is.gd/QmTqht&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://is.gd/QmTqht&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Электромагнитный решатель LS-DYNA: связка с задачами механик</title>
-      <link>http://localhost:1313/posts/2018-02-23-elektromagnitnyy-reshatel-ls-dyna-svyazk/</link>
+      <title>Как LS-DYNA работает с FLD диаграммой</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-22-kak-ls-dyna-rabotaet-s-fld-diagrammoy/</link>
+      <pubDate>Thu, 22 Mar 2018 18:00:41 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-03-22-kak-ls-dyna-rabotaet-s-fld-diagrammoy/</guid>
+      <description>&lt;p&gt;Как LS-DYNA работает с FLD диаграммой
+Диаграмма предельного формоизменения (FLD, Forming Limit Diagram) – метод, позволяющий предсказать разрушения листового материала при штамповке. Данные FLD являются неким стандартом описания материала для расчета штамповки, глубокой вытяжки и прочих способов обработки листового металла давлением.&lt;/p&gt;
+&lt;p&gt;Естественно, LSTC давно реализовали поддержку такого типа данных в LS-PrePost (&lt;a href=&#34;http://www.lstc.com/lspp/content/pages/1/fld/fld.shtml%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lstc.com/lspp/content/pages/1/fld/fld.shtml)&lt;/a&gt;, однако, в прошлом году они сделали кое-что еще более интересное прямо на уровне LS-DYNA. Так были внесены две новые карты, упрощающие работу: *DEFINE_CURVE_FLD_FROM_TRIAXIAL_LIMIT и *DEFINE_CURVE_TRIAXIAL_LIMIT_FROM_FLD. Как нетрудно понять по их названиям, теперь решатель сам может конвертировать полученные на вход данные в нужный для расчета формат. Данные будут переданы в модели материалов *MAT_037_NLP_FAILURE или *MAT_260B, в универсальную модель разрушения *MAT_ADD_EROSION или в карту типа *CONTROL_FORMING_ ONESTEP.
+Подробности с примерами работы доступны в статье по ссылке:
+&lt;a href=&#34;http://www.lstc.com/sites/default/files/marketing/new_features/08_Conversion%20between%20FLD%20and%20Stress%20Triaxial%20Limit%20Curve.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lstc.com/sites/default/files/marketing/new_features/08_Conversion%20between%20FLD%20and%20Stress%20Triaxial%20Limit%20Curve.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#FLD #Forming #LSDYNA #LSPrePost #LSTC
+&lt;a href=&#34;https://goo.gl/1yoywt&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/1yoywt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.lstc.com/lspp/content/pages/1/fld/fld.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lstc.com/lspp/content/pages/1/fld/fld.shtml&lt;/a&gt;
+&lt;a href=&#34;http://www.lstc.com/sites/default/files/marketing/new_features/08_Conversion%20between%20FLD%20and%20Stress%20Triaxial%20Limit%20Curve.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.lstc.com/sites/default/files/marketing/new_features/08_Conversion%20between%20FLD%20and%20Stress%20Triaxial%20Limit%20Curve.pdf&lt;/a&gt;
+&lt;a href=&#34;https://goo.gl/1yoywt&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://goo.gl/1yoywt&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Электромагнитный решатель LS-DYNA: связка с задачами механики</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-23-elektromagnitnyy-reshatel-ls-dyna-svyazk/</link>
       <pubDate>Fri, 23 Feb 2018 18:00:28 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2018-02-23-elektromagnitnyy-reshatel-ls-dyna-svyazk/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-23-elektromagnitnyy-reshatel-ls-dyna-svyazk/</guid>
       <description>&lt;p&gt;Сегодня 4-ая часть серии учебных видео по работе с EM решателем LS-DYNA. И сегодня мы перейдем к разбору того, как в задаче электромагнитной штамповки осуществлятеся свзка трех физик: прочности, тепла и электромагнитизма.&lt;/p&gt;
 &lt;p&gt;Для начал нам рассказывают, какие именно допущеня при решении уравнений Максвела используются в рассматриваемой постновке задачи.
 Мне очень поравилась часть, рассказывающая о связке трех незваисимо работающих решателей — тепла, прочтости и электромагнетизма. Мало того, что у каждого решателя свой шаг по времени, так они еще и используют кто FEM, а кто BEM постновки. И тут есть вожный момент — FEM/BEM постновку для EM решателя надо перестраивать при деформации геометрии (карты *EM_SOLVER_FEM и *EM_SOLVER_BEM), а она у нас в этом уроке уже будет.&lt;/p&gt;
 &lt;p&gt;В видео также вводится понятия EM EOS — уравнения состояния для материала, используемое электромагнитным решателем для учета влияния тепловых эффектов на проводимость. Тут можно использовать как готовые уравнения состояния, так и задать свои собственные уравнения в аналитической форме или как процедуру на Fortran (аналогично карте *DEFINE_FUNCRION).&lt;/p&gt;
 &lt;p&gt;Таким образом, на данном этапе мы уже можем поставить задачу электромагнитной штамповки, организовав совместный расчет сразу трех физик: механики, тепла и электромагнитизма, что уже является внушительным набором. Файлы для самостоятельной тренировки лежать тут: http://www.dynaexamples.com/em/em_forming&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynaexamples.com/em/em_forming&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynaexamples.com/em/em_forming&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Интересную тему подсказали мне коллеги - штамповка взрывом. </title>
-      <link>http://localhost:1313/posts/2016-07-18-interesnuyu-temu-podskazali-mne-kollegi/</link>
+      <title>Глубокая вытяжка - урок</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-30-glubokaya-vytyazhka-urok/</link>
+      <pubDate>Tue, 30 Jan 2018 17:00:33 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-30-glubokaya-vytyazhka-urok/</guid>
+      <description>&lt;p&gt;Глубокая вытяжка - урок
+Не полный, но очень полезный видео урок по моделированию процесса глубокой вытяжки в LS-DYNA. Полный стоит денег :(&lt;/p&gt;
+&lt;p&gt;Рассматриваемые особенности моделирования процесса:&lt;/p&gt;
+&lt;p&gt;Моделирования процесса в explicit постановке с автоматическим измельчением сетки
+Расчет обратного пружинения в implicit постановке с автоматическим загрублением сетки
+Создание 3D модели на основе результатов расчета оболочечной модели (а что, так можно было?!) и экспорт ее в CAD в виде IGES (уличная магия!).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OXc85azosr0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=OXc85azosr0&lt;/a&gt;
+#deepdrawing #forming #LS-DYNA #LS-PrePost #mesh_adaptation #springback
+&lt;a href=&#34;https://magicdpd.ru/?p=6108&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6108&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OXc85azosr0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=OXc85azosr0&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=6108&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=6108&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Многошаговая штамповка в LS-PrePost</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-07-mnogoshagovaya-shtampovka-v-ls-prepost/</link>
+      <pubDate>Sun, 07 Jan 2018 17:28:47 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-01-07-mnogoshagovaya-shtampovka-v-ls-prepost/</guid>
+      <description>&lt;p&gt;Многошаговая штамповка в LS-PrePost
+Видео урок по подготовке модели многошаговой штамповки/глубококй вытяжки в LS-PrePost для LS-DYNA. Тут вам и сам процесс штамповки в несколько шагов, и расчет пружинения, и даже вырубка итоговой деталеи.&lt;/p&gt;
+&lt;p&gt;Вся работа полсностью идет через Metal Forming eZsetup Wizard - очень полезный инструмент для таких сложных технологическтх процессов.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nwm0lRmTy8Q&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nwm0lRmTy8Q&lt;/a&gt;
+#deepdrawing #eZsetup #forming #LS-DYNA #LS-PrePost #LSTC
+&lt;a href=&#34;https://magicdpd.ru/?p=5832&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5832&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nwm0lRmTy8Q&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nwm0lRmTy8Q&lt;/a&gt;
+&lt;a href=&#34;https://magicdpd.ru/?p=5832&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://magicdpd.ru/?p=5832&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Интересную тему подсказали мне коллеги - штамповка взрывом.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-18-interesnuyu-temu-podskazali-mne-kollegi/</link>
       <pubDate>Mon, 18 Jul 2016 06:30:04 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-07-18-interesnuyu-temu-podskazali-mne-kollegi/</guid>
-      <description>&lt;p&gt;Так как задача поставлена в ANSYS Workbech LS-DYNA ACT 17.0, то входной файл получился немного грязный, зато есть параметрический проект.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-18-interesnuyu-temu-podskazali-mne-kollegi/</guid>
+      <description>&lt;p&gt;Примером такого процесса является Explosion Bulge Test. В ходи данного испытания ударная волна от подрыва сферического зарада распространяется через жидкости или газ до детали. Я решил набросать пример такого расчета в LS-DYNA, а заодно нашел статью с решением подобных задач.&lt;/p&gt;
+&lt;p&gt;Так как задача поставлена в ANSYS Workbech LS-DYNA ACT 17.0, то входной файл получился немного грязный, зато есть параметрический проект.&lt;/p&gt;
 &lt;p&gt;video &lt;a href=&#34;https://www.youtube.com/watch?v=ZplZXHB4knk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=ZplZXHB4knk&lt;/a&gt;
 input.k &lt;a href=&#34;http://lnk.al/1ILR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILR&lt;/a&gt;
 ebt.wbpz &lt;a href=&#34;http://lnk.al/1ILQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILQ&lt;/a&gt;
 статья &lt;a href=&#34;http://lnk.al/1ILS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ZplZXHB4knk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Explosion Bulge Test in LS-DYNA ALE-MM&lt;/a&gt;
+&lt;a href=&#34;http://lnk.al/1ILR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILR&lt;/a&gt;
+&lt;a href=&#34;http://lnk.al/1ILQ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILQ&lt;/a&gt;
+&lt;a href=&#34;http://lnk.al/1ILS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://lnk.al/1ILS&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Британская компания #Wilde Analysis - один из партнеров #ANS</title>
-      <link>http://localhost:1313/posts/2016-07-07-britanskaya-kompaniya-wilde-analysis-od/</link>
+      <title>Британская компания #Wilde Analysis - один из партнеров #ANSYS  - выложил целую подборку демонстрационных видео по возможностям #DEFORM.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-07-britanskaya-kompaniya-wilde-analysis-od/</link>
       <pubDate>Thu, 07 Jul 2016 06:31:33 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-07-07-britanskaya-kompaniya-wilde-analysis-od/</guid>
-      <description>&lt;p&gt;Несмотря на относительную юность проекта (разработка началась в 1989 году) код DEFORM демонстрирует возможности по расчету таких процессов, как: штамповка и глубокая вытяжка, вырубка, сварка, ковка, закалка, резка и фрезеровка. Насколько можно судить по примерам, все расчеты проводятся в лагранжевой постановке методом конечных элементов - спасает хороший алгоритм динамического сеткоперестроения.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-07-07-britanskaya-kompaniya-wilde-analysis-od/</guid>
+      <description>&lt;p&gt;Design Environment for FORMing является специализированным кодом, разработанным Scientific Forming Technologies Corporation (#SFTC) и заточенным на моделирование процессов механической и термической обработки материалов.&lt;/p&gt;
+&lt;p&gt;Несмотря на относительную юность проекта (разработка началась в 1989 году) код DEFORM демонстрирует возможности по расчету таких процессов, как: штамповка и глубокая вытяжка, вырубка, сварка, ковка, закалка, резка и фрезеровка. Насколько можно судить по примерам, все расчеты проводятся в лагранжевой постановке методом конечных элементов - спасает хороший алгоритм динамического сеткоперестроения.&lt;/p&gt;
 &lt;p&gt;Очень интересный продукт!&lt;/p&gt;
 &lt;p&gt;#weling #forming #deepdrawing #fracture &lt;a href=&#34;https://www.youtube.com/watch?v=o298iRKV8Jw&amp;amp;list=PLD182EBB053185ABE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=o298iRKV8Jw&amp;list=PLD182EBB053185ABE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=o298iRKV8Jw&amp;amp;list=PLD182EBB053185ABE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DEFORM - Sheet Forming&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>&#34;Любую жизненную проблему можно решить сгибанием!&#34; - Бендер </title>
-      <link>http://localhost:1313/posts/2016-04-02-lyubuyu-zhiznennuyu-problemu-mozhno-reshit-s/</link>
+      <title>&#34;Любую жизненную проблему можно решить сгибанием!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-02-lyubuyu-zhiznennuyu-problemu-mozhno-reshit-s/</link>
       <pubDate>Sat, 02 Apr 2016 14:47:36 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-04-02-lyubuyu-zhiznennuyu-problemu-mozhno-reshit-s/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-02-lyubuyu-zhiznennuyu-problemu-mozhno-reshit-s/</guid>
+      <description>&lt;p&gt;&amp;quot; - Бендер Родригез.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MUGgc0ptHmY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Моделирование гибки на элемент двойной толщины&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Видео урок по гибке/формовке металла в #ABAQUS с учетом пруж</title>
-      <link>http://localhost:1313/posts/2016-03-24-video-urok-po-gibkeformovke-metalla-v/</link>
+      <title>Видео урок по гибке/формовке металла в #ABAQUS с учетом пружинения.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-24-video-urok-po-gibkeformovke-metalla-v/</link>
       <pubDate>Thu, 24 Mar 2016 12:00:31 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-03-24-video-urok-po-gibkeformovke-metalla-v/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-24-video-urok-po-gibkeformovke-metalla-v/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=zNvkmzXAdqI&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Manufacturing Simulation- Sheet metal Bending -Abaqus CAE-Implicit-Standard&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>AFDEX (Advisor for metal Forming process and Design EXpert) </title>
-      <link>http://localhost:1313/posts/2016-03-22-afdex-advisor-for-metal-forming-process/</link>
+      <title>AFDEX (Advisor for metal Forming process and Design EXpert) - программное обеспечение от #MSC предназначенное для моделирования процессов обработки металлов давлением.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-22-afdex-advisor-for-metal-forming-process/</link>
       <pubDate>Tue, 22 Mar 2016 07:01:10 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-03-22-afdex-advisor-for-metal-forming-process/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-22-afdex-advisor-for-metal-forming-process/</guid>
       <description>&lt;p&gt;Для желающих ознакомится - запись вебинара по ссылке.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://insider.altairhyperworks.com/partner-spotlight-afdex/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Partner Spotlight: Ensure Accuracy and Minimize Defects in Forged Parts with AFDEX&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Последнюю неделю я изучал штамповку, глубокую вытяжку и обра</title>
-      <link>http://localhost:1313/posts/2016-03-12-poslednyuyu-nedelyu-ya-izuchal-shtampovku-glu/</link>
+      <title>Последнюю неделю я изучал штамповку, глубокую вытяжку и обратное пружинение.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-12-poslednyuyu-nedelyu-ya-izuchal-shtampovku-glu/</link>
       <pubDate>Sat, 12 Mar 2016 09:05:57 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-03-12-poslednyuyu-nedelyu-ya-izuchal-shtampovku-glu/</guid>
-      <description>&lt;p&gt;P.S. Так как модель генерируется при помощи ACT, то она довольно грязная синтаксически, в ней есть много лишних карт. Зато она параметрическая w рамках Workbench (и по настройкам сетки, и по геометрическим размерам и по нагрузкам)!!!&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-12-poslednyuyu-nedelyu-ya-izuchal-shtampovku-glu/</guid>
+      <description>&lt;p&gt;Нашел очень много познавательных материалов, и, по итогам, сделал небольшой пример при помощи моего любимого #ACT #Workbech LS-DYNA. На сайте поддержки и примеров #LSTC я не нашел готовых материалов по глубокой вытяжки с бесшовным расчетом обратного пружиненная по неявной схеме, так что прилагаю настроенную мной модель в архиве.&lt;/p&gt;
+&lt;p&gt;P.S. Так как модель генерируется при помощи ACT, то она довольно грязная синтаксически, в ней есть много лишних карт. Зато она параметрическая w рамках Workbench (и по настройкам сетки, и по геометрическим размерам и по нагрузкам)!!!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=pSghB4R4gF0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Deep Drawing with Seamless Implicit Springback&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Ротационная вытяжка в LS-DYNA от специалистов из ОМД. Главно</title>
-      <link>http://localhost:1313/posts/2016-03-11-rotatsionnaya-vytyazhka-v-ls-dyna-ot-spetsial/</link>
+      <title>Ротационная вытяжка в LS-DYNA от специалистов из ОМД.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-11-rotatsionnaya-vytyazhka-v-ls-dyna-ot-spetsial/</link>
       <pubDate>Fri, 11 Mar 2016 12:06:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-03-11-rotatsionnaya-vytyazhka-v-ls-dyna-ot-spetsial/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-11-rotatsionnaya-vytyazhka-v-ls-dyna-ot-spetsial/</guid>
+      <description>&lt;p&gt;Главное, что бы не укачало следить за шариком.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=hQq5fCCnVZ8&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Incremental Sheet Forming using LS-DYNA&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Видео урок по глубокой вытяжке в #Simulia #Abaqus.</title>
-      <link>http://localhost:1313/posts/2016-03-09-video-urok-po-glubokoy-vytyazhke-v-simuli/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-09-video-urok-po-glubokoy-vytyazhke-v-simuli/</link>
       <pubDate>Wed, 09 Mar 2016 07:00:48 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-03-09-video-urok-po-glubokoy-vytyazhke-v-simuli/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-09-video-urok-po-glubokoy-vytyazhke-v-simuli/</guid>
+      <description>&lt;p&gt;Видео урок по глубокой вытяжке в #Simulia #Abaqus.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=6J_x-t3uT_E&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Abaqus tutorial - deep drawing&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Штамповка в LS-DYNA - есть у меня старый добрый учебный мате</title>
-      <link>http://localhost:1313/posts/2016-03-03-shtampovka-v-ls-dyna-est-u-menya-staryy/</link>
+      <title>Штамповка в LS-DYNA - есть у меня старый добрый учебный материал. Можете поделиться более свежими работами по теме?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-03-shtampovka-v-ls-dyna-est-u-menya-staryy/</link>
       <pubDate>Thu, 03 Mar 2016 12:42:57 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-03-03-shtampovka-v-ls-dyna-est-u-menya-staryy/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-03-03-shtampovka-v-ls-dyna-est-u-menya-staryy/</guid>
       <description></description>
     </item>
     

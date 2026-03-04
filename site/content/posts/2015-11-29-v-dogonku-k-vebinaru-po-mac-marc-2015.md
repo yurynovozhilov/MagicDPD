@@ -11,4 +11,6 @@ tags:
 
 Даже интересно, насколько хорошо это работает.
 
-[ Marc 2015 Focuses on Material and Advanced Material Behaviour > ENGINEERING.com ](http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/11028/Marc-2015-Focuses-on-Material-and-Advanced-Material-Behaviour.aspx)
+~~[ Marc 2015 Focuses on Material and Advanced Material Behaviour > ENGINEERING.com ](http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/11028/Marc-2015-Focuses-on-Material-and-Advanced-Material-Behaviour.aspx)~~ → [Сохранённая версия](http://web.archive.org/web/20190820113858/https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/11028/Marc-2015-Focuses-on-Material-and-Advanced-Material-Behaviour.aspx)
+
+*Оригинальная ссылка больше не доступна*

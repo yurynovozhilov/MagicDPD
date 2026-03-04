@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TotalCAE on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/totalcae/</link>
+    <description>MagicDPD: Magic Driven Product Development! (TotalCAE)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sun, 22 Oct 2017 17:14:25 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/totalcae/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#TotalCAE хвастают тем, что написали слой интеграции между SLURM и #ANSYS #RSM.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-22-totalcae-hvastayut-tem-chto-napisali-slo/</link>
+      <pubDate>Sun, 22 Oct 2017 17:14:25 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2017-10-22-totalcae-hvastayut-tem-chto-napisali-slo/</guid>
+      <description>&lt;p&gt;Напомню, ANSYS RSM позволяет без проблем ставить задачи ANSYS на таких высокопроизводительных системах, как #PBS, #LSF, #GridEngine, #Torque, #MOAB и даже Windows HPC Cluster, но не SLURM.&lt;/p&gt;
+&lt;p&gt;TotalCAE взяли и написали свой собственный слой интеграции. Это прикольно, но проще было взять стандартный транслятор SLURM-PBS.&lt;/p&gt;
+&lt;p&gt;#HPC&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.totalcae.com/learn/slurm-ansys-remote-solver-manager-rsm/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.totalcae.com/learn/slurm-ansys-remote-solver-manager-rsm/&lt;/a&gt; 🔗 SLURM with ANSYS Remote Solver Manager (RSM) - TotalCAE Blog&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ift.tt/2zt3EbO&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ift.tt/2zt3EbO&lt;/a&gt;
+&lt;a href=&#34;https://www.totalcae.com/learn/slurm-ansys-remote-solver-manager-rsm/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.totalcae.com/learn/slurm-ansys-remote-solver-manager-rsm/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Еще раз о том, почему технологии виртуальной многопоточности (Intel Hyper-Treading и AMD Cluster-based Multithreading) плохи для #CAE. НА этот раз #TotalCAE взяли пример с виртуализацией - вы же знали, что все публичные облака, в том числе и #AWS дают вам машины с включенной виртуальной многопоточностью?</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-17-esche-raz-o-tom-pochemu-tehnologii-virtual/</link>
+      <pubDate>Fri, 17 Jun 2016 07:00:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-06-17-esche-raz-o-tom-pochemu-tehnologii-virtual/</guid>
+      <description>&lt;p&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.totalcae.com/learn/totalcae-private-public-cloud-powered-truecore/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;TotalCAE TrueCore Powered Clouds for Maximum Application Performance AWS Case Study with LS-DYNA - TCAE Blog&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

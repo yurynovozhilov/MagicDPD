@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WildeAnalysis on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/wildeanalysis/</link>
+    <description>MagicDPD: Magic Driven Product Development! (WildeAnalysis)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 05 Mar 2019 17:01:05 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/wildeanalysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Моделирование вакуумной формовки</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-05-modelirovanie-vakuumnoy-formovki/</link>
+      <pubDate>Tue, 05 Mar 2019 17:01:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-03-05-modelirovanie-vakuumnoy-formovki/</guid>
+      <description>&lt;p&gt;Моделирование вакуумной формовки&lt;/p&gt;
+&lt;p&gt;Есть пример от Wilde Analysis как такое делается в ANSYS AIM 19.2 — там внутри зашит Polyflow&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&#34;https://player.vimeo.com/video/296632632&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://player.vimeo.com/video/296632632&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20220430051308/https://player.vimeo.com/video/296632632&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;А есть стандартный учебный пример по ANSYS Polyflow версии аж 16.0. Правда тут процесс идет немного наизнанку, в отличие от вакуумной формовки. Зато для такой схемы расчета можно настроить и связку в Mechanical.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=zrlK6sHGoQs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=zrlK6sHGoQs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=LQp4HyAVpMY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=LQp4HyAVpMY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ну и на закуску, всемогущая LS-DYNA и большой дисер на соответствующую тему: &lt;a href=&#34;https://pdfs.semanticscholar.org/b893/97cb9904b3c94e3f701af0e4a4f640a5306a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://pdfs.semanticscholar.org/b893/97cb9904b3c94e3f701af0e4a4f640a5306a.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;А какой инструмент выбрали бы вы?&lt;/p&gt;
+&lt;p&gt;#AIM #ANSYS #forming #LS_DYNA #Ployflow #WildeAnalysis&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2ng&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2ng&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&#34;https://player.vimeo.com/video/296632632&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://player.vimeo.com/video/296632632&lt;/a&gt;&lt;/del&gt; → &lt;a href=&#34;http://web.archive.org/web/20220430051308/https://player.vimeo.com/video/296632632&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Сохранённая версия&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Оригинальная ссылка больше не доступна&lt;/em&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=zrlK6sHGoQs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=zrlK6sHGoQs&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=LQp4HyAVpMY&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=LQp4HyAVpMY&lt;/a&gt;
+&lt;a href=&#34;https://pdfs.semanticscholar.org/b893/97cb9904b3c94e3f701af0e4a4f640a5306a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://pdfs.semanticscholar.org/b893/97cb9904b3c94e3f701af0e4a4f640a5306a.pdf&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2ng&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2ng&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

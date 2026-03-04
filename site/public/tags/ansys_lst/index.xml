@@ -2,26 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ansys_lst on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/ansys_lst/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/ansys_lst/</link>
     <description>MagicDPD: Magic Driven Product Development! (Ansys_lst)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Tue, 23 Nov 2021 15:42:22 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/ansys_lst/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/ansys_lst/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>LS-TaSC для нелинейной топологической оптимизации в динамиче</title>
-      <link>http://localhost:1313/posts/2021-11-23-ls-tasc-dlya-nelineynoy-topologicheskoy-op/</link>
+      <title>LS-TaSC для нелинейной топологической оптимизации в динамической постановке</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-11-23-ls-tasc-dlya-nelineynoy-topologicheskoy-op/</link>
       <pubDate>Tue, 23 Nov 2021 15:42:22 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-11-23-ls-tasc-dlya-nelineynoy-topologicheskoy-op/</guid>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-11-23-ls-tasc-dlya-nelineynoy-topologicheskoy-op/</guid>
       <description>&lt;p&gt;Мы все привыкли, что топологическая оптимизация aka генеративный дизайн, это что-то работающее с кучей ограничений: изотропные материалы, малые перемещения, статическая постановка, отсутствие нелинейности в материалах, отсутствие контактов&amp;hellip; Короче говоря, скучная линейная теория упругости в самой базовой постановке. Конечно есть некоторые отдельные дорогие оптимизаторы, которые обещают и нелинейные расчеты, но пробовали ли вы ими пользоваться для реальных задач?&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nVJ_7kpAp_A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nVJ_7kpAp_A&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;А вот у Ansys LST есть отдельный бесплатны (для обладателей лицензий на LS-DYNA) топологический оптимизатор LS-TaSC, который изначально создавался для оптимизации моделей под задачи пассивной безопасности автомобилей. А это значит, что он автоматически работает с большими перемещениями, динамическими контактными задачами и нелинейными материалами. Смотрим вебинар про него и наслаждаемся.&lt;/p&gt;
 &lt;p&gt;#ansys #ansys_lst #ls-tasc #lsdyna #lstc #optimization #topology
 &lt;a href=&#34;https://tinyurl.com/yjzdx4v5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yjzdx4v5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nVJ_7kpAp_A&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nVJ_7kpAp_A&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yjzdx4v5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yjzdx4v5&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Скоро расскажу про LS-DYNA R13</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-20-skoro-rasskazhu-pro-ls-dyna-r13/</link>
+      <pubDate>Mon, 20 Sep 2021 13:01:36 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-09-20-skoro-rasskazhu-pro-ls-dyna-r13/</guid>
+      <description>&lt;p&gt;Скоро расскажу про LS-DYNA R13&lt;/p&gt;
+&lt;p&gt;Коллеги, прошу вас зарезервировать час своего времени на этой неделе. В четверг, в 12:00 по МСК, состояться вебинар CADFEM CIS, с обзором возможностей нового решателя Ansys LS-DYNA 13. Данный вебинар будет первым моим вебинаром с обзором функций нового релиза LS-DYNA.&lt;/p&gt;
+&lt;p&gt;Подготовка к вебинару стала для меня настоящей проверкой на прочность. Для того, что бы быть способным внятно рассказать вам про новые функции решателя, мне пришлось прочить не одну научную статью. А функций таких добавилось много.&lt;/p&gt;
+&lt;p&gt;Полученный насыщенный материал будет разделен на несколько частей для лучшего восприятия. В ближайший четверг, я расскажу первую его частью, сосредоточенную около прочностных расчетах: IGA, EFG, SPG, SPH, DES, XFEM, новые типы элементов и модели материалов, улучшения в работе подушек безопасности и многомасштабное моделирование. Новые возможности, связанные со сжимаемым/несжимаемым однофазным/многофазным CFD, ALE, EM и NVH будет освещены во второй части вебинара, которую стоит ждать в октябре.&lt;/p&gt;
+&lt;p&gt;Бесправная регистрация для участия в &amp;ldquo;живом&amp;rdquo; вебинаре доступна по ссылке: &lt;a href=&#34;https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13/&lt;/a&gt; - приходите и приносите свои вопросы, задавайте их в чате или организуйте научную дискуссию.&lt;/p&gt;
+&lt;p&gt;#airbag #ansys #ansys_lst #cadfem #cpm #des #efg #iga #ls-dyna #r13 #sph #xfem
+&lt;a href=&#34;https://tinyurl.com/yg8kvhou&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yg8kvhou&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Новые возможности решателя LS-DYNA R13&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yg8kvhou&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yg8kvhou&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-Opt 7.0</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-05-24-ls-opt-70/</link>
+      <pubDate>Mon, 24 May 2021 13:02:23 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-05-24-ls-opt-70/</guid>
+      <description>&lt;p&gt;LS-Opt 7.0&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Em081LCWS3o&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Em081LCWS3o&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Итак, новая версии оптимизатора от ANSYS LST - LS-Opt 7.0. Прошу особенно обратить внимание на его возможности калибровки моделей материалов на основе экспериментов. А вообще LS-Opt очень сильный продукт по своем математике. А если вспомнить, что он бесплатен для всех, у кого есть лицензия на LS-DYNA - так вообще сказка какая-то.&lt;/p&gt;
+&lt;p&gt;#ansys #ansys_lst #ls-opt #lsdyna
+&lt;a href=&#34;https://tinyurl.com/yhnzmvja&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yhnzmvja&lt;/a&gt;
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Em081LCWS3o&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DYNAmore Express: New Features in LS-OPT 7.0&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/yhnzmvja&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/yhnzmvja&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LS-DYNA мастер класс: S-ALE тест Тейлора</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-01-ls-dyna-master-klass-s-ale-test-teylora/</link>
+      <pubDate>Mon, 01 Feb 2021 17:54:45 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-02-01-ls-dyna-master-klass-s-ale-test-teylora/</guid>
+      <description>&lt;p&gt;LS-DYNA мастер класс: S-ALE тест Тейлора&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=S7IYFWuFyOg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=S7IYFWuFyOg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Коллеги, стала публично доступна запись моего мастер класса по работе S-ALE решателя в LS-DYNA, специально подготовленного для прошедшей конференции CASCON от CADFEM. В ходе мастер класса рассматривается моделирование теста Тейлора (высокоскоростной удар упруго-пластического стержня в малодеформируемую мишень) в 12-ой версии решателя с использованием S-ALE. Подробно разбираются все передовые функции решателя: автоматическая генерация структурированной стеки, обрезка расчетного домена до нужной формы, морфинг и движение эйлеровой сетки, настройка FSI интерфейса, визуализация результатов. Если вам нужно считать FSI в LS-DYNA, то этот мастер класс станет достойным базовым примером.&lt;/p&gt;
+&lt;p&gt;#ansys #ansys_lst #cadfem #cascon #fsi #ls #ls-dyna #ls-prepost #s-ale #taylor
+&lt;a href=&#34;https://tinyurl.com/y4hlvvee&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y4hlvvee&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=S7IYFWuFyOg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Тест Тейлора в рамках S-ALE постановки для LS-DYNA R12&lt;/a&gt;
+&lt;a href=&#34;https://tinyurl.com/y4hlvvee&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/y4hlvvee&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Обзор возможностей LS-DYNA R12.0</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2020-11-27-obzor-vozmozhnostey-ls-dyna-r120/</link>
+      <pubDate>Fri, 27 Nov 2020 14:00:56 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2020-11-27-obzor-vozmozhnostey-ls-dyna-r120/</guid>
+      <description>&lt;p&gt;Обзор возможностей LS-DYNA R12.0
+#ANSYS_LST #ARUP #DYNAMore #LS_DYNA #R12
+by Юрий Новожилов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/%d0%be%d0%b1%d0%b7%d0%be%d1%80-%d0%b2%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be%d1%81%d1%82%d0%b5%d0%b9-ls-dyna-r12-0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Обзор возможностей LS-DYNA R12.0 - MagicDPD&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

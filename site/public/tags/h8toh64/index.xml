@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H8TOH64 on MagicDPD: Magic Driven Product Development!</title>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/h8toh64/</link>
+    <description>MagicDPD: Magic Driven Product Development! (H8TOH64)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 19 Feb 2018 18:00:53 +0000</lastBuildDate>
+    
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/h8toh64/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Надо больше узлов!</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-19-nado-bolshe-uzlov/</link>
+      <pubDate>Mon, 19 Feb 2018 18:00:53 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-02-19-nado-bolshe-uzlov/</guid>
+      <description>&lt;p&gt;!!
+Совсем недавно я писал про то, как LSTC реализовали новые чудесные 27-узловые solid элементы в LS-DYNA. Оказалось, что данный рекорд по количеству узлов продержался недолго.
+Копаясь в черновиках документации к еще невышедшим версиям LS-DYNA (например, вот тут &lt;a href=&#34;http://ftp.lstc.com/user/manuals/DRAFT/DRAFT_Vol_I_13Feb2018.pdf%29&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/manuals/DRAFT/DRAFT_Vol_I_13Feb2018.pdf)&lt;/a&gt;, я нашел упоминание 64-узлового (!!!) hex элемента. Судя по описанию, данный элемент будет работать не с привычными для explicit кодов линейными функциями формы, а с кубическими! Для пользователей обычных сеточных генераторов создана особая карта *ELEMENT_SOLID_H8TOH64, которая дает решателю директиву автоматически добавить недостающие 56 узлов к классическим линейным hex елементам.
+Визуализация узлов и порядка их нумерации: &lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/marleigh/hex64.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/marleigh/hex64.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ftp.lstc.com/user/manuals/DRAFT/DRAFT_Vol_I_13Feb2018.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/user/manuals/DRAFT/DRAFT_Vol_I_13Feb2018.pdf&lt;/a&gt;
+&lt;a href=&#34;http://ftp.lstc.com/anonymous/outgoing/marleigh/hex64.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://ftp.lstc.com/anonymous/outgoing/marleigh/hex64.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

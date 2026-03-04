@@ -2,44 +2,159 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welding on MagicDPD: Magic Driven Product Development!</title>
-    <link>http://localhost:1313/tags/welding/</link>
+    <link>https://yurynovozhilov.github.io/MagicDPD/tags/welding/</link>
     <description>MagicDPD: Magic Driven Product Development! (Welding)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 03 Mar 2021 18:31:57 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/tags/welding/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yurynovozhilov.github.io/MagicDPD/tags/welding/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Подвижный источник тепла в ANSYS Mechanical</title>
-      <link>http://localhost:1313/posts/2021-03-03-podvizhnyy-istochnik-tepla-v-ansys-mechani/</link>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-03-podvizhnyy-istochnik-tepla-v-ansys-mechani/</link>
       <pubDate>Wed, 03 Mar 2021 18:31:57 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-03-03-podvizhnyy-istochnik-tepla-v-ansys-mechani/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nqNNjeZxVlg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nqNNjeZxVlg&lt;/a&gt;&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2021-03-03-podvizhnyy-istochnik-tepla-v-ansys-mechani/</guid>
+      <description>&lt;p&gt;Подвижный источник тепла в ANSYS Mechanical&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nqNNjeZxVlg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=nqNNjeZxVlg&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Сегодня будет жестко, и даже немного больно. Видео пример того, как при помощи развесистой командной вставки на APDL задать в ANSYS Mechanical подвижный источник тепла. Ну а подвижный источник тепла нужен уже для моделирования сварки, наплавки или лазерной резки металла.&lt;/p&gt;
 &lt;p&gt;#additive_manufacturing #ansys #apdl #mechanical #thermal #welding
+&lt;a href=&#34;https://tinyurl.com/ybauhn3m&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ybauhn3m&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nqNNjeZxVlg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ANSYS TUTORIAL:  moving 3D Gaussian heat source with stepped cylinder shape&lt;/a&gt;
 &lt;a href=&#34;https://tinyurl.com/ybauhn3m&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://tinyurl.com/ybauhn3m&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Бесплатный вебинар по моделированию сварки в LS-DYNA проведу</title>
-      <link>http://localhost:1313/posts/2016-04-08-besplatnyy-vebinar-po-modelirovaniyu-svar/</link>
-      <pubDate>Fri, 08 Apr 2016 11:04:34 +0000</pubDate>
+      <title>Infoday Welding and Heat Treatment</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-08-infoday-welding-and-heat-treatment/</link>
+      <pubDate>Tue, 08 Oct 2019 13:00:25 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-04-08-besplatnyy-vebinar-po-modelirovaniyu-svar/</guid>
-      <description></description>
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-10-08-infoday-welding-and-heat-treatment/</guid>
+      <description>&lt;p&gt;Infoday Welding and Heat Treatment&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://magicdpd.ru/infoday-welding-and-heat-treatment/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Infoday Welding and Heat Treatment - MagicDPD&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>На днях проводил обучения для ребят, который очень любят вар</title>
-      <link>http://localhost:1313/posts/2015-10-26-na-dnyah-provodil-obucheniya-dlya-rebyat-kot/</link>
+      <title>LS-DYNA welding simulation</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-06-ls-dyna-welding-simulation/</link>
+      <pubDate>Fri, 06 Sep 2019 13:00:20 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-06-ls-dyna-welding-simulation/</guid>
+      <description>&lt;p&gt;LS-DYNA welding simulation&lt;/p&gt;
+&lt;p&gt;Первый взгляд на работу *MATCWM и *BOUNDARY\THERMAL_WELD_TRAJECTORY в неявном нелинейном тепловом решателе&lt;/p&gt;
+&lt;p&gt;#Additive_Manufacturing #implicit #LS_DYNA #thermal #welding&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Fj&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Fj&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Fj&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Fj&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделирование дуговой сварки в LS-DYNA</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-04-modelirovanie-dugovoy-svarki-v-ls-dyna/</link>
+      <pubDate>Wed, 04 Sep 2019 13:00:42 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-09-04-modelirovanie-dugovoy-svarki-v-ls-dyna/</guid>
+      <description>&lt;p&gt;Моделирование дуговой сварки в LS-DYNA&lt;/p&gt;
+&lt;p&gt;Heat source simulation  from Braj Bhushan Prasad&lt;/p&gt;
+&lt;p&gt;Небольшой авторский мануал созданный в Техническом университете Берлина. На 32 страницах подробно пошагово разбирается постановка, решение и анализ результатов задачи связанной термо-прочностной задачи с подвижным источником тепла.&lt;/p&gt;
+&lt;p&gt;#BOUNDARY_THERMAL_WELD #CONTACT_GUIDE_CABLE #MAT_CWM #Additive_Manufacturing #LS_DYNA #LS_PrePost #welding&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2DR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2DR&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2DR&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2DR&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANSYS WeldingDistortion ACT</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-13-ansys-weldingdistortion-act/</link>
+      <pubDate>Tue, 13 Aug 2019 13:00:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-08-13-ansys-weldingdistortion-act/</guid>
+      <description>&lt;p&gt;ANSYS WeldingDistortion ACT&lt;/p&gt;
+&lt;p&gt;Очень простое по своей идее, и, в то же время, совершенно сногсшибательное расширение для ANSYS Mechanical сделали его разработчики.&lt;/p&gt;
+&lt;p&gt;Итак, расширение WeldingDistortion позволяет вам оценить возможное коробление изделия при сварке или наплавке на него материала. Расширение добавляет вам в проект систему нестационарного расчета теплопроводности и связанную с ним стационарную задачу прочности. Весь процесс наплавки задается через пошаговый мастер настройки с контекстной справкой. Несколько видео уроков идут в составе расширения.&lt;/p&gt;
+&lt;p&gt;Ссылка для скачивания расширения: &lt;a href=&#34;https://catalog.ansys.com/product/5cc0777d393ff648c8045853/weldingdistortion&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://catalog.ansys.com/product/5cc0777d393ff648c8045853/weldingdistortion&lt;/a&gt; — пользователям без логина доступна презентация с демонстрационными видео.&lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS #Mechanical #welding&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2Dp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Dp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://catalog.ansys.com/product/5cc0777d393ff648c8045853/weldingdistortion&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;WeldingDistortion&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2Dp&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2Dp&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EDRMedeso Weld Strength App</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-12-edrmedeso-weld-strength-app/</link>
+      <pubDate>Tue, 12 Feb 2019 12:03:25 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2019-02-12-edrmedeso-weld-strength-app/</guid>
+      <description>&lt;p&gt;EDRMedeso Weld Strength App&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Q7Wk1nRKWGM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Q7Wk1nRKWGM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Продолжило свое развитие ACT расширение расчета прочности сварочных соединений от компании EDR Medeso. Данное раширение работает в рамках WB для решателя Mechanical.&lt;/p&gt;
+&lt;p&gt;Прошу заметить, что расширение не занимается моделированием процесса сварки. Оно помогает сгенерировать геометрию шва, задать контакты, свойства материалов и получить оценку несущей способности по нормативам.&lt;/p&gt;
+&lt;p&gt;#ACT #ANSYS #EDRMedesо #Mechanical #welding&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wp.me/p9vWYY-2k1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2k1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Q7Wk1nRKWGM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=Q7Wk1nRKWGM&lt;/a&gt;
+&lt;a href=&#34;https://wp.me/p9vWYY-2k1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://wp.me/p9vWYY-2k1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моделируем сварку взрывом</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-13-modeliruem-svarku-vzryvom/</link>
+      <pubDate>Fri, 13 Apr 2018 18:00:18 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2018-04-13-modeliruem-svarku-vzryvom/</guid>
+      <description>&lt;p&gt;Моделируем сварку взрывом
+Если немного перефразировать один анектод, то ключевой вопрос взучит следующим образом: какой процесс из трех нельзя промоделировать?
+Варианты ответов:&lt;/p&gt;
+&lt;p&gt;Сварка взрывом
+Клепка газом
+Сборка трезвым&lt;/p&gt;
+&lt;p&gt;Теперь мы точно знаем, что первый процесс можно промоделировать в LS-DYNA. За подробностями идем в статью специалистов Технического универсистеа Дармштадта (Technische Universität Darmstad):
+&lt;a href=&#34;https://www.dynamore.de/de/download/papers/2015-ls-dyna-europ/documents/sessions-f-5-8/numerical-simulation-of-impact-welding-processes-with-ls-dyna&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.de/de/download/papers/2015-ls-dyna-europ/documents/sessions-f-5-8/numerical-simulation-of-impact-welding-processes-with-ls-dyna&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#LSDYNA #LSTC #Welding
+&lt;a href=&#34;https://is.gd/0BChlC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://is.gd/0BChlC&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dynamore.de/de/download/papers/2015-ls-dyna-europ/documents/sessions-f-5-8/numerical-simulation-of-impact-welding-processes-with-ls-dyna&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.dynamore.de/de/download/papers/2015-ls-dyna-europ/documents/sessions-f-5-8/numerical-simulation-of-impact-welding-processes-with-ls-dyna&lt;/a&gt;
+&lt;a href=&#34;https://is.gd/0BChlC&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://is.gd/0BChlC&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сварка</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-22-svarka/</link>
+      <pubDate>Tue, 22 Nov 2016 17:02:05 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-11-22-svarka/</guid>
+      <description>&lt;p&gt;Сварка
+&lt;a href=&#34;http://www.dynamore.it/en/downloads/infodays/dokumente/download-informationstag-schweissen2016-2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynamore.it/en/downloads/infodays/dokumente/download-informationstag-schweissen2016-2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#DYNAMore опубликовали материалы недавнего семинара посвященного вопросам численного моделирования сварки в #LSDYNA, #SimWeld и #DynaWeld. Мне больше всего понравились слайды по новой модели материала *MAT_GENERALIZED_PHASE_CHANGE, позволяющей учитывать фазовые переходы вызванные нагревом металла.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynamore.it/en/downloads/infodays/dokumente/download-informationstag-schweissen2016-2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;http://www.dynamore.it/en/downloads/infodays/dokumente/download-informationstag-schweissen2016-2&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Бесплатный вебинар по моделированию сварки в LS-DYNA проведут 14 апреля специалисты DYNAmore Nordic AB.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-08-besplatnyy-vebinar-po-modelirovaniyu-svar/</link>
+      <pubDate>Fri, 08 Apr 2016 11:04:34 +0000</pubDate>
+      
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2016-04-08-besplatnyy-vebinar-po-modelirovaniyu-svar/</guid>
+      <description>&lt;p&gt;Обещают показать новый удобный GUI в LS-PrePost для решения подобных задач. Событие в календарь прилагается.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dynamore.se/en/training/seminars/webinars_1/welding_sim&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Webinar: Welding simulation in LS-DYNA —&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>На днях проводил обучения для ребят, который очень любят варить... нет, не мет (привет канатам Breaking Bad), а металлы.</title>
+      <link>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-26-na-dnyah-provodil-obucheniya-dlya-rebyat-kot/</link>
       <pubDate>Mon, 26 Oct 2015 18:00:41 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015-10-26-na-dnyah-provodil-obucheniya-dlya-rebyat-kot/</guid>
-      <description>&lt;p&gt;На ум ничего коме SYSWELD от ESI не приходило. Поэтому я прибег к поиску по мои любимым закромам сети нашел вот такую замечательную вещь, как SimWeld, позволяющий моделировать процесс сварки и DynaWeld, использующий эти результаты для последующего расчета в (я не издеваюсь) LS-DYNA.&lt;/p&gt;
+      <guid>https://yurynovozhilov.github.io/MagicDPD/posts/2015-10-26-na-dnyah-provodil-obucheniya-dlya-rebyat-kot/</guid>
+      <description>&lt;p&gt;И вот они подвигли меня поискать материалы по данному направлению.&lt;/p&gt;
+&lt;p&gt;На ум ничего коме SYSWELD от ESI не приходило. Поэтому я прибег к поиску по мои любимым закромам сети нашел вот такую замечательную вещь, как SimWeld, позволяющий моделировать процесс сварки и DynaWeld, использующий эти результаты для последующего расчета в (я не издеваюсь) LS-DYNA.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.tl-ing.de/en/home/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Engineering office for welding simulation&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
