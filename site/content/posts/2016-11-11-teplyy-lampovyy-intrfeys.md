@@ -1,15 +1,25 @@
 ---
+author: GlukRazor
+date: 2016-11-11 17:01:16+00:00
 layout: post
-title: "Теплый ламповый интрфейс"
-date: 2016-11-11T17:01:16+00:00
-author: "GlukRazor"
+link_previews:
+- description: Discover ready-to-use Ansys and third-party apps to streamline simulation
+    workflows in the Ansys App Catalog. Boost productivity and innovation.
+  image: ''
+  title: Ansys App Catalog | Ansys Developer Portal
+  url: https://appstore.ansys.com/download?prodid=APC-ACTAPP-107
+- description: This website provides the corporate information of CYBERNET.
+  image: https://www.cybernet.co.jp/img/page/index/cybernet_sns.webp
+  title: CYBERNET SYSTEMS CO.,LTD
+  url: http://www.cybernet.co.jp/english/
 source: vk
 tags:
-  - ANSYS
-  - Mechanical
-  - MAPDL
-  - Workbench
-  - ACT
+- ANSYS
+- Mechanical
+- MAPDL
+- Workbench
+- ACT
+title: Теплый ламповый интрфейс
 ---
 
 Теплый ламповый интрфейс

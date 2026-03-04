@@ -1,16 +1,21 @@
 ---
+author: GlukRazor
+date: 2016-08-24 06:30:29+00:00
 layout: post
-title: "Автоматизация в LS-PrePost"
-date: 2016-08-24T06:30:29+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Error | VK
+  url: https://vk.com/doc11568_437790483
 source: vk
 tags:
-  - CLI
-  - LSTC
-  - LSPREPOST
-  - LSDYNA
-  - LSPP
-  - GUI
+- CLI
+- LSTC
+- LSPREPOST
+- LSDYNA
+- LSPP
+- GUI
+title: Автоматизация в LS-PrePost
 ---
 
 Автоматизация в LS-PrePost

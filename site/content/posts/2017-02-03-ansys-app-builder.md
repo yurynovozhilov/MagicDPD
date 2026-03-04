@@ -1,16 +1,23 @@
 ---
+author: GlukRazor
+date: 2017-02-03 17:03:01+00:00
 layout: post
-title: "ANSYS App Builder"
-date: 2017-02-03T17:03:01+00:00
-author: "GlukRazor"
+link_previews:
+- description: The Ansys ACT App Builder helps you to quickly and interactively create
+    apps with minimum development effort using a simple graphical user interface,
+    elimina...
+  image: https://i.ytimg.com/vi/xYJPgdOdD3k/maxresdefault.jpg
+  title: Ansys in Action - Ansys App Builder
+  url: https://www.youtube.com/watch?v=xYJPgdOdD3k
 source: vk
 tags:
-  - ANSYS
-  - python
-  - Workbench
-  - AIM
-  - ACT
-  - GUI
+- ANSYS
+- python
+- Workbench
+- AIM
+- ACT
+- GUI
+title: ANSYS App Builder
 ---
 
 ANSYS App Builder

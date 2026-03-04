@@ -1,13 +1,18 @@
 ---
+author: GlukRazor
+date: 2017-01-18 17:02:06+00:00
 layout: post
-title: "Deploying HPC Cluster with Mellanox InfiniBand Interconnect "
-date: 2017-01-18T17:02:06+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Error | VK
+  url: https://vk.com/doc11568_441185555
 source: vk
 tags:
-  - Mellanox
-  - Infiniband
-  - HPC
+- Mellanox
+- Infiniband
+- HPC
+title: 'Deploying HPC Cluster with Mellanox InfiniBand Interconnect '
 ---
 
 Deploying HPC Cluster with Mellanox InfiniBand Interconnect Solutions

@@ -1,13 +1,23 @@
 ---
+author: GlukRazor
+date: 2017-09-02 17:06:27+00:00
 layout: post
-title: "Большая статья - ликбез, рассказывающая про то, что такое ме"
-date: 2017-09-02T17:06:27+00:00
-author: "GlukRazor"
+link_previews:
+- description: Finally get an answer to one of the most important questions beginners
+    in the FEM method ask... What is the difference between FEM and FDM???
+  image: https://feaforall.com/wp-content/uploads/2017/06/The-difference-between-FEM-and-FDM.png
+  title: What’s the difference between FEM and FDM? - FEA for All
+  url: http://feaforall.com/difference-between-fem-and-fdm/
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2wHGYaz
 source: vk
 tags:
-  - МКЭ
-  - FDM
-  - FEM
+- МКЭ
+- FDM
+- FEM
+title: Большая статья - ликбез, рассказывающая про то, что такое ме
 ---
 
 Большая статья - ликбез, рассказывающая про то, что такое метод конечных элементов (#МКЭ, #FEM) и почему его не надо путать с методом конечных разностей (#FDM).

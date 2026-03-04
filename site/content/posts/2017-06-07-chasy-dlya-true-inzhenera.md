@@ -1,9 +1,20 @@
 ---
+author: GlukRazor
+date: 2017-06-07 17:00:17+00:00
 layout: post
-title: "Часы для true инженера"
-date: 2017-06-07T17:00:17+00:00
-author: "GlukRazor"
+link_previews:
+- description: 'Инструкция: Как пользоваться логарифмической линейкой в часах — интересные
+    статьи, новости и обзоры в блоге AllTime.ru'
+  image: ''
+  title: 'Инструкция: Как пользоваться логарифмической линейкой в часах — блог AllTime.ru'
+  url: http://www.alltime.ru/blog/?page=post&blog=watchblog&post_id=551
+- description: 'Инструкция: Как пользоваться логарифмической линейкой в часах — интересные
+    статьи, новости и обзоры в блоге AllTime.ru'
+  image: ''
+  title: 'Инструкция: Как пользоваться логарифмической линейкой в часах — блог AllTime.ru'
+  url: https://www.alltime.ru/blog/?page=post&blog=watchblog&post_id=551
 source: vk
+title: Часы для true инженера
 ---
 
 Часы для true инженера

@@ -1,14 +1,20 @@
 ---
+author: GlukRazor
+date: 2017-07-12 09:00:39+00:00
 layout: post
-title: "ANSYS, Inc анонсировал покупку CEI, Inc."
-date: 2017-07-12T09:00:39+00:00
-author: "GlukRazor"
+link_previews:
+- description: EnSight by CEI is a member of Vimeo, the home for high quality videos
+    and the people who love them.
+  image: https://i.vimeocdn.com/portrait/12815257_640x640?sig=c2b8a32b8f628562c21df3dde1836e269b2d23e4dc075737a21137d81088c3b0&v=1&region=us
+  title: EnSight by CEI
+  url: https://vimeo.com/ensight10
 source: vk
 tags:
-  - CEI
-  - EnSight
-  - ANSYS
-  - CAE
+- CEI
+- EnSight
+- ANSYS
+- CAE
+title: ANSYS, Inc анонсировал покупку CEI, Inc.
 ---
 
 ANSYS, Inc анонсировал покупку CEI, Inc.

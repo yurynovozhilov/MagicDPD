@@ -1,14 +1,35 @@
 ---
+author: GlukRazor
+date: 2017-09-21 16:43:42+00:00
 layout: post
-title: "Программное обеспечение True-Load в связке с ANSYS Workbench"
-date: 2017-09-21T16:43:42+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2xxZQs4
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2vk2wVv
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2v28PC1
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2hlBRTr
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2hj1bNg
 source: vk
 tags:
-  - TrueLoadMedia
-  - Workbench
-  - ansys
-  - ANSYS
+- TrueLoadMedia
+- Workbench
+- ansys
+- ANSYS
+title: Программное обеспечение True-Load в связке с ANSYS Workbench
 ---
 
 Программное обеспечение True-Load в связке с ANSYS Workbench позволяет решать сложные задачи по обработке экспериментальных значений нагрузок

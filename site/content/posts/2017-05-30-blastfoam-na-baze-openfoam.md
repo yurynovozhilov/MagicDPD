@@ -1,18 +1,24 @@
 ---
+author: GlukRazor
+date: 2017-05-30 17:00:19+00:00
 layout: post
-title: "blastFOAM на базе OpenFOAM"
-date: 2017-05-30T17:00:19+00:00
-author: "GlukRazor"
+link_previews:
+- description: 'Modeling explosive detonations and airblast leakage with #OpenFOAM
+    blastFOAM. Post-processing with #paraview @Kitware #SimulationFriday #CFD'
+  image: https://pbs.twimg.com/ext_tw_video_thumb/855430465032904704/pu/img/F1WR6-yi7-5Kw-RJ.jpg:large
+  title: PEC (@pec_tx) on X
+  url: https://mobile.twitter.com/twitter/status/855430759951323137
 source: vk
 tags:
-  - Protection
-  - CFD
-  - Engineering
-  - SimulationFriday
-  - blastFOAM
-  - blast
-  - opensource
-  - OpenFOAM
+- Protection
+- CFD
+- Engineering
+- SimulationFriday
+- blastFOAM
+- blast
+- opensource
+- OpenFOAM
+title: blastFOAM на базе OpenFOAM
 ---
 
 blastFOAM на базе OpenFOAM

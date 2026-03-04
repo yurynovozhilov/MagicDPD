@@ -1,20 +1,26 @@
 ---
+author: GlukRazor
+date: 2017-08-06 17:00:56+00:00
 layout: post
-title: "Bolt 2.0 для создания сетки"
-date: 2017-08-06T17:00:56+00:00
-author: "GlukRazor"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: ''
+  title: '- YouTube'
+  url: https://youtu.be/Dqt0rtjffIc
 source: vk
 tags:
-  - PolyCube
-  - ANSYS
-  - Abaqus
-  - Patran
-  - LSDYNA
-  - Bolt
-  - explicit
-  - csimsoft
-  - Nastran
-  - OpenFOAM
+- PolyCube
+- ANSYS
+- Abaqus
+- Patran
+- LSDYNA
+- Bolt
+- explicit
+- csimsoft
+- Nastran
+- OpenFOAM
+title: Bolt 2.0 для создания сетки
 ---
 
 Bolt 2.0 для создания сетки

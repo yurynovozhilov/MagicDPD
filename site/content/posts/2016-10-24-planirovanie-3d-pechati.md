@@ -1,14 +1,19 @@
 ---
+author: GlukRazor
+date: 2016-10-24 17:01:15+00:00
 layout: post
-title: "Планирование 3D печати"
-date: 2016-10-24T17:01:15+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: ''
+  url: http://3dsim.com/product/exasim/
 source: vk
 tags:
-  - Cloud
-  - 3DSIM
-  - exaSIM
-  - AM
+- Cloud
+- 3DSIM
+- exaSIM
+- AM
+title: Планирование 3D печати
 ---
 
 Планирование 3D печати

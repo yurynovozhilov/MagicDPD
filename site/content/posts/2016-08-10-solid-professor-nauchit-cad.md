@@ -1,27 +1,38 @@
 ---
+author: GlukRazor
+date: 2016-08-10 06:30:10+00:00
 layout: post
-title: "Solid Professor научит CAD"
-date: 2016-08-10T06:30:10+00:00
-author: "GlukRazor"
+link_previews:
+- description: Take your engineering design skills to the next level. Learn from expert-led,
+    online SOLIDWORKS tutorials, AutoCAD tutorials, Mastercam tutorials, and more.
+  image: ''
+  title: Home
+  url: http://www.solidprofessor.com/
+- description: Take your engineering design skills to the next level. Learn from expert-led,
+    online SOLIDWORKS tutorials, AutoCAD tutorials, Mastercam tutorials, and more.
+  image: ''
+  title: Home
+  url: https://solidprofessor.com/
 source: vk
 tags:
-  - Civil3D
-  - Navisworks
-  - CAE
-  - Mastercam
-  - CAM
-  - Cloud
-  - SolidProfessor
-  - Onshape
-  - 3ds
-  - Revit
-  - Fusion360
-  - AutoCAD
-  - SOLIDWORKS
-  - Inventor
-  - CAD
-  - SketchUp
-  - CAMWorks
+- Civil3D
+- Navisworks
+- CAE
+- Mastercam
+- CAM
+- Cloud
+- SolidProfessor
+- Onshape
+- 3ds
+- Revit
+- Fusion360
+- AutoCAD
+- SOLIDWORKS
+- Inventor
+- CAD
+- SketchUp
+- CAMWorks
+title: Solid Professor научит CAD
 ---
 
 Solid Professor научит CAD

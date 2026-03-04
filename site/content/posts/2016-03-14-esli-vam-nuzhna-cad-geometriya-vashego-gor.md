@@ -1,13 +1,19 @@
 ---
+author: GlukRazor
+date: 2016-03-14 07:00:54+00:00
+images:
+- url: /assets/images/1415.jpg
 layout: post
-title: "Если вам нужна #CAD геометрия вашего города, то вам на cadma"
-date: 2016-03-14T07:00:54+00:00
-author: "GlukRazor"
+link_previews:
+- description: Cadmapper lets anyone create 3D CAD files of any area in the world
+    within minutes.
+  image: https://cadmapper.com/og_1e214a.png
+  title: CADMAPPER - Worldwide map files for any design program
+  url: https://cadmapper.com
 source: vk
 tags:
-  - CAD
-images:
-  - url: "/assets/images/1415.jpg"
+- CAD
+title: 'Если вам нужна #CAD геометрия вашего города, то вам на cadma'
 ---
 
 Если вам нужна #CAD геометрия вашего города, то вам на cadmapper.com

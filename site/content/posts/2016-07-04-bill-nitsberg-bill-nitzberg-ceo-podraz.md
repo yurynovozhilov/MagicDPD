@@ -1,20 +1,27 @@
 ---
+author: GlukRazor
+date: 2016-07-04 12:02:21+00:00
 layout: post
-title: "Билл Ницберг (Bill Nitzberg), CEO подразделения #PBS Works к"
-date: 2016-07-04T12:02:21+00:00
-author: "GlukRazor"
+link_previews:
+- description: In this video from ISC 2016, Bill Nitzberg provides an update on Alair's
+    release of source code for PBS Professional Workload Manager."Altair is making
+    a big...
+  image: https://i.ytimg.com/vi/nbrkpNsD4rk/maxresdefault.jpg
+  title: PBS Pro from Altair Goes Open Source at ISC 2016
+  url: https://www.youtube.com/watch?v=nbrkpNsD4rk
 source: vk
 tags:
-  - Amazon
-  - Simulator
-  - Altair
-  - Cloud
-  - Azure
-  - PBS
-  - ISC
-  - Microsoft
-  - AWS
-  - Manager
+- Amazon
+- Simulator
+- Altair
+- Cloud
+- Azure
+- PBS
+- ISC
+- Microsoft
+- AWS
+- Manager
+title: 'Билл Ницберг (Bill Nitzberg), CEO подразделения #PBS Works к'
 ---
 
 Билл Ницберг (Bill Nitzberg), CEO подразделения #PBS Works компании #Altair, рассказывает про новости с #ISC 2016.

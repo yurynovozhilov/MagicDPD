@@ -1,13 +1,24 @@
 ---
+author: GlukRazor
+date: 2017-06-30 17:00:23+00:00
 layout: post
-title: "Библиотека технического университета Чалмерса"
-date: 2017-06-30T17:00:23+00:00
-author: "GlukRazor"
+link_previews:
+- description: "Chalmers Publication Library (CPL).\n    Forskningspublikationer från
+    Chalmers Tekniska Högskola."
+  image: http://publications.lib.chalmers.se/local/img/chalmers_bldmrk_og.jpg
+  title: 'Chalmers Publication Library (CPL): Förstasida'
+  url: http://publications.lib.chalmers.se/
+- description: "Chalmers Publication Library (CPL).\n    Forskningspublikationer från
+    Chalmers Tekniska Högskola."
+  image: http://publications.lib.chalmers.se/local/img/chalmers_bldmrk_og.jpg
+  title: 'Chalmers Publication Library (CPL): Förstasida'
+  url: https://publications.lib.chalmers.se/
 source: vk
 tags:
-  - CAE
-  - ANSYS
-  - LSDYNA
+- CAE
+- ANSYS
+- LSDYNA
+title: Библиотека технического университета Чалмерса
 ---
 
 Библиотека технического университета Чалмерса

@@ -1,9 +1,14 @@
 ---
+author: GlukRazor
+date: 2015-08-04 11:00:10+00:00
 layout: post
-title: "Для всех желающих с лицензией стала доступна для скачивания "
-date: 2015-08-04T11:00:10+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Error
+  url: http://www.goengineer.com/2015/07/31/download-solidworks-2016-beta/cad/
 source: vk
+title: 'Для всех желающих с лицензией стала доступна для скачивания '
 ---
 
 Для всех желающих с лицензией стала доступна для скачивания бета-версия релиза 2016 моего любимого SolidWorks!

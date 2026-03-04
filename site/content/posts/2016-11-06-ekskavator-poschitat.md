@@ -1,12 +1,19 @@
 ---
+author: GlukRazor
+date: 2016-11-06 12:02:39+00:00
 layout: post
-title: "Экскаватор посчитать?"
-date: 2016-11-06T12:02:39+00:00
-author: "GlukRazor"
+link_previews:
+- description: This model is made as a demonstration of the DEM in LS-DYNA. The extracted
+    soil is supposed to be sand, and contains about 1M particles.The simulation takes
+    ...
+  image: https://i.ytimg.com/vi/tJj5q7KXDs8/hqdefault.jpg
+  title: Bucket wheel excavator with LS-DYNA
+  url: https://www.youtube.com/watch?v=tJj5q7KXDs8
 source: vk
 tags:
-  - DEM
-  - LSDYNA
+- DEM
+- LSDYNA
+title: Экскаватор посчитать?
 ---
 
 Экскаватор посчитать?

@@ -1,15 +1,26 @@
 ---
+author: GlukRazor
+date: 2016-11-07 17:00:58+00:00
 layout: post
-title: "Пора учить португальский"
-date: 2016-11-07T17:00:58+00:00
-author: "GlukRazor"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: ''
+  title: '- YouTube'
+  url: https://www.youtube.com/watch?v=jewFlGu2bbM
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: ''
+  title: '- YouTube'
+  url: https://www.youtube.com/watch?v=FwuI2lJtjOY
 source: vk
 tags:
-  - Abaqus
-  - Altair
-  - RADIOSS
-  - LSDYNA
-  - explicit
+- Abaqus
+- Altair
+- RADIOSS
+- LSDYNA
+- explicit
+title: Пора учить португальский
 ---
 
 Пора учить португальский

@@ -1,14 +1,19 @@
 ---
+author: GlukRazor
+date: 2016-03-17 07:01:26+00:00
 layout: post
-title: "Я вчера у ЦНИИ \"Электроприбор\" на конференции рассказывал пр"
-date: 2016-03-17T07:01:26+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: ''
+  url: http://www.slidego.com/go/19337
 source: vk
 tags:
-  - FSI
-  - slamming
-  - lsdyna
-  - ALE
+- FSI
+- slamming
+- lsdyna
+- ALE
+title: Я вчера у ЦНИИ "Электроприбор" на конференции рассказывал пр
 ---
 
 Я вчера у ЦНИИ "Электроприбор" на конференции рассказывал про #FSI в LS-DYNA - вдруг кому пригодится.

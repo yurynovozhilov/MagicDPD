@@ -1,18 +1,23 @@
 ---
+author: GlukRazor
+date: 2017-09-07 14:31:20+00:00
 layout: post
-title: "Надеюсь вы не пропустили мероприятие по поводу #ANSYS #Disco"
-date: 2017-09-07T14:31:20+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2vk2wVv
 source: vk
 tags:
-  - ANSYS
-  - Maxwell
-  - Mechanical
-  - AIM
-  - Discovery
-  - NVIDIA
-  - GPGPU
-  - Fluent
+- ANSYS
+- Maxwell
+- Mechanical
+- AIM
+- Discovery
+- NVIDIA
+- GPGPU
+- Fluent
+title: 'Надеюсь вы не пропустили мероприятие по поводу #ANSYS #Disco'
 ---
 
 Надеюсь вы не пропустили мероприятие по поводу #ANSYS #Discovery - это было очень круто. Математическое моделирование в реальном времени!

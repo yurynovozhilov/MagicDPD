@@ -1,18 +1,27 @@
 ---
+author: GlukRazor
+date: 2016-10-22 17:00:49+00:00
 layout: post
-title: "ANSYS Toplogy Optimization - еще большой учебный материал"
-date: 2016-10-22T17:00:49+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Topological Optimisation with ANSYS 17.0 – LEAP Australia Blog
+  url: http://www.finiteelementanalysis.com.au/featured/topological-optimisation-with-ansys-17-0/
+- description: ''
+  image: ''
+  title: Topological Optimisation with ANSYS 17.0 – LEAP Australia Blog
+  url: https://www.finiteelementanalysis.com.au/featured/topological-optimisation-with-ansys-17-0/
 source: vk
 tags:
-  - Toplogy
-  - Optimization
-  - ANSYS
-  - Mechanical
-  - LEAPAustralia
-  - SpaceClaim
-  - ACT
-  - STL
+- Toplogy
+- Optimization
+- ANSYS
+- Mechanical
+- LEAPAustralia
+- SpaceClaim
+- ACT
+- STL
+title: ANSYS Toplogy Optimization - еще большой учебный материал
 ---
 
 ANSYS Toplogy Optimization - еще большой учебный материал

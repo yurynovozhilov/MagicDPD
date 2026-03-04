@@ -1,14 +1,57 @@
 ---
+author: GlukRazor
+date: 2017-09-04 17:03:49+00:00
 layout: post
-title: "Существуют в современном мире такие классные штуки, как подк"
-date: 2017-09-04T17:03:49+00:00
-author: "GlukRazor"
+link_previews:
+- description: Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
+    - mxpv/podsync
+  image: https://repository-images.githubusercontent.com/69797810/e8db6180-ad93-11e9-8114-cd5f1b68cf2a
+  title: 'GitHub - mxpv/podsync: Turn YouTube or Vimeo channels, users, or playlists
+    into podcast feeds'
+  url: http://podsync.net/
+- description: Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
+    - mxpv/podsync
+  image: https://repository-images.githubusercontent.com/69797810/e8db6180-ad93-11e9-8114-cd5f1b68cf2a
+  title: 'GitHub - mxpv/podsync: Turn YouTube or Vimeo channels, users, or playlists
+    into podcast feeds'
+  url: http://podsync.net/2xNG
+- description: Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
+    - mxpv/podsync
+  image: https://repository-images.githubusercontent.com/69797810/e8db6180-ad93-11e9-8114-cd5f1b68cf2a
+  title: 'GitHub - mxpv/podsync: Turn YouTube or Vimeo channels, users, or playlists
+    into podcast feeds'
+  url: http://podsync.net/myBK
+- description: Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
+    - mxpv/podsync
+  image: https://repository-images.githubusercontent.com/69797810/e8db6180-ad93-11e9-8114-cd5f1b68cf2a
+  title: 'GitHub - mxpv/podsync: Turn YouTube or Vimeo channels, users, or playlists
+    into podcast feeds'
+  url: http://podsync.net/OxJn
+- description: Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
+    - mxpv/podsync
+  image: https://repository-images.githubusercontent.com/69797810/e8db6180-ad93-11e9-8114-cd5f1b68cf2a
+  title: 'GitHub - mxpv/podsync: Turn YouTube or Vimeo channels, users, or playlists
+    into podcast feeds'
+  url: http://podsync.net/WZXO
+- description: Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
+    - mxpv/podsync
+  image: https://repository-images.githubusercontent.com/69797810/e8db6180-ad93-11e9-8114-cd5f1b68cf2a
+  title: 'GitHub - mxpv/podsync: Turn YouTube or Vimeo channels, users, or playlists
+    into podcast feeds'
+  url: http://podsync.net/amgD
+- description: Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
+    - mxpv/podsync
+  image: https://repository-images.githubusercontent.com/69797810/e8db6180-ad93-11e9-8114-cd5f1b68cf2a
+  title: 'GitHub - mxpv/podsync: Turn YouTube or Vimeo channels, users, or playlists
+    into podcast feeds'
+  url: http://podsync.net/#
 source: vk
 tags:
-  - подкаст
-  - CADFEMMedia
-  - ANSYS
-  - LSDYNA
+- подкаст
+- CADFEMMedia
+- ANSYS
+- LSDYNA
+title: Существуют в современном мире такие классные штуки, как подк
 ---
 
 Существуют в современном мире такие классные штуки, как подкасты. Это такие offline радио станции или виде шоу, который автоматчике скачиваются на ваше устройство, если вы подписаны.

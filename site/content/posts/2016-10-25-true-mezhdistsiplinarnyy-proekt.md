@@ -1,21 +1,32 @@
 ---
+author: GlukRazor
+date: 2016-10-25 17:00:25+00:00
 layout: post
-title: "True междисциплинарный проект"
-date: 2016-10-25T17:00:25+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: End to End System Design with ANSYS – An Electric Guitar Example – LEAP Australia
+    Blog
+  url: http://www.finiteelementanalysis.com.au/featured/end-to-end-system-design-with-ansys-an-electric-guitar-example/
+- description: ''
+  image: ''
+  title: End to End System Design with ANSYS – An Electric Guitar Example – LEAP Australia
+    Blog
+  url: https://www.finiteelementanalysis.com.au/featured/end-to-end-system-design-with-ansys-an-electric-guitar-example/
 source: vk
 tags:
-  - CFD
-  - Simplorer
-  - ANSYS
-  - FEA
-  - Maxwell
-  - Mechanical
-  - SoundCloud
-  - Stratocaster
-  - FSI
-  - SpaceClaim
-  - LEAP
+- CFD
+- Simplorer
+- ANSYS
+- FEA
+- Maxwell
+- Mechanical
+- SoundCloud
+- Stratocaster
+- FSI
+- SpaceClaim
+- LEAP
+title: True междисциплинарный проект
 ---
 
 True междисциплинарный проект

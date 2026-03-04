@@ -1,23 +1,32 @@
 ---
+author: GlukRazor
+date: 2017-02-03 08:32:56+00:00
 layout: post
-title: "MSC будет куплена компанией Hexagon"
-date: 2017-02-03T08:32:56+00:00
-author: "GlukRazor"
+link_previews:
+- description: 2017’s acquisitions, are off to a big start. Hexagon has announced
+    that it has entered into an agreement to acquire analysis and simulation legends,
+    MSC Software. Hexagon has been on a serious spending spree in the last couple
+    of year, picking up a number of different companies, including Vero (which includes
+    EdgeCAM, Vero’s VISI, AlphaCAM,
+  image: https://develop3d.com/wp-content/uploads/2019/11/hexagonandmscsoftware.png
+  title: Hexagon to acquire MSC Software for $834 million
+  url: http://www.develop3d.com/blog/2017/02/hexagon-to-acquire-msc-simulation-analysis
 source: vk
 tags:
-  - Easy5
-  - MSC
-  - Vero
-  - Adams
-  - CAM
-  - FTI
-  - LSDYNA
-  - CAE
-  - CAD
-  - Patran
-  - Marc
-  - Hexagon
-  - Nastran
+- Easy5
+- MSC
+- Vero
+- Adams
+- CAM
+- FTI
+- LSDYNA
+- CAE
+- CAD
+- Patran
+- Marc
+- Hexagon
+- Nastran
+title: MSC будет куплена компанией Hexagon
 ---
 
 MSC будет куплена компанией Hexagon

@@ -1,13 +1,19 @@
 ---
+author: GlukRazor
+date: 2016-05-13 07:01:08+00:00
 layout: post
-title: "#SimSolid радостно рассказал, что он получил интеграцию с #S"
-date: 2016-05-13T07:01:08+00:00
-author: "GlukRazor"
+link_previews:
+- description: The Altair Newsroom is your go-to source for the latest updates, breakthroughs,
+    and developments from Altair. Stay informed and inspired!
+  image: https://altair.com/images/default-source/heroes/altair_newsroom_hero_2022_1920x225.png?sfvrsn=d909812a_0
+  title: Altair Newsroom
+  url: https://www.simsolid.com/2016/05/simsolid-now-integrates-directly-with-solidworks/
 source: vk
 tags:
-  - CAD
-  - SolidWorks
-  - SimSolid
+- CAD
+- SolidWorks
+- SimSolid
+title: '#SimSolid радостно рассказал, что он получил интеграцию с #S'
 ---
 
 #SimSolid радостно рассказал, что он получил интеграцию с #SolidWorks. Сейчас есть поддержка:

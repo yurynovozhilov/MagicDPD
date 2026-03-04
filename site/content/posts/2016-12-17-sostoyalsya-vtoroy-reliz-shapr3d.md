@@ -1,14 +1,25 @@
 ---
+author: GlukRazor
+date: 2016-12-17 12:03:42+00:00
 layout: post
-title: "Состоялся второй релиз Shapr3D"
-date: 2016-12-17T12:03:42+00:00
-author: "GlukRazor"
+link_previews:
+- description: Shapr3D 2.0 is here and it got better. We added contraints, a new onboarding
+    flow, an educational license and much-much more.Sign up to our educational licen...
+  image: https://i.ytimg.com/vi/RT3W25T_wGg/maxresdefault.jpg
+  title: Shapr3D 2.0 is here
+  url: https://www.youtube.com/watch?v=RT3W25T_wGg
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: ''
+  title: '- YouTube'
+  url: https://www.youtube.com/watch?v=OFsbZikomSA
 source: vk
 tags:
-  - CAD
-  - Shapr3D
-  - iPad
-  - SpaceClaim
+- CAD
+- Shapr3D
+- iPad
+- SpaceClaim
+title: Состоялся второй релиз Shapr3D
 ---
 
 Состоялся второй релиз Shapr3D

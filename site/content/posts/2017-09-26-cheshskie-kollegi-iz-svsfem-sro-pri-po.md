@@ -1,14 +1,35 @@
 ---
+author: GlukRazor
+date: 2017-09-26 06:31:04+00:00
 layout: post
-title: "Чешские коллеги из #SVSFEM s.r.o. при помощи #ANSYS #Discove"
-date: 2017-09-26T06:31:04+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2fNTB9O
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2xGKn9b
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2vk2wVv
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2wLNQRy
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2v2FNSC
 source: vk
 tags:
-  - SVSFEM
-  - Discovery
-  - ANSYS
-  - CFDMedia
+- SVSFEM
+- Discovery
+- ANSYS
+- CFDMedia
+title: 'Чешские коллеги из #SVSFEM s.r.o. при помощи #ANSYS #Discove'
 ---
 
 Чешские коллеги из #SVSFEM s.r.o. при помощи #ANSYS #Discovery посчитали аэродинамику дерева в горах... Был выбран квадрат горного рельефа 300х300 км 😊

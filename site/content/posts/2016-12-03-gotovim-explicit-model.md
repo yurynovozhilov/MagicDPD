@@ -1,13 +1,28 @@
 ---
+author: GlukRazor
+date: 2016-12-03 12:03:37+00:00
 layout: post
-title: "Готовим Explicit модель"
-date: 2016-12-03T12:03:37+00:00
-author: "GlukRazor"
+link_previews:
+- description: Å få et forbrukslån på dagen er ikke noen sak i det digitale samfunnet
+    vi har blitt. Derimot kan det være utfordrende å finne frem til og få det beste
+    forbrukslån på dagen. I denne artikkelen kan du lese mer om hva som kjennetegner
+    og som gir deg beste forbrukslån på dagen. Dette er forbrukslån
+  image: https://www.xn--forbrukslnsiden-plb.com/wp-content/uploads/2022/04/logo.png
+  title: Forbrukslånsiden.com
+  url: https://caeai.com/blog/top-ten-list-explicit-dynamics-analysis-part-1
+- description: Å få et forbrukslån på dagen er ikke noen sak i det digitale samfunnet
+    vi har blitt. Derimot kan det være utfordrende å finne frem til og få det beste
+    forbrukslån på dagen. I denne artikkelen kan du lese mer om hva som kjennetegner
+    og som gir deg beste forbrukslån på dagen. Dette er forbrukslån
+  image: https://www.xn--forbrukslnsiden-plb.com/wp-content/uploads/2022/04/logo.png
+  title: Forbrukslånsiden.com
+  url: https://caeai.com/blog/top-ten-list-explicit-dynamics-analysis-part-2
 source: vk
 tags:
-  - LSDYNA
-  - ANSYS
-  - Explicit
+- LSDYNA
+- ANSYS
+- Explicit
+title: Готовим Explicit модель
 ---
 
 Готовим Explicit модель

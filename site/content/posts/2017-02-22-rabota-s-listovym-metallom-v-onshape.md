@@ -1,13 +1,19 @@
 ---
+author: GlukRazor
+date: 2017-02-22 17:01:27+00:00
 layout: post
-title: "Работа с листовым металлом в Onshape"
-date: 2017-02-22T17:01:27+00:00
-author: "GlukRazor"
+link_previews:
+- description: Read posts by the Onshape team about the latest in product design and
+    development.
+  image: https://www.onshape.com/cdn-images/8a40cf7d885eed858db30164dcfe866c9e6b522e-1900x319.png
+  title: The Product Innovation Blog
+  url: https://www.onshape.com/cad-blog/unfolding-onshape-sheet-metal
 source: vk
 tags:
-  - Onshape
-  - CAD
-  - cloud
+- Onshape
+- CAD
+- cloud
+title: Работа с листовым металлом в Onshape
 ---
 
 Работа с листовым металлом в Onshape

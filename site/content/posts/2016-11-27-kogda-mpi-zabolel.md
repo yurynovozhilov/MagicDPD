@@ -1,14 +1,20 @@
 ---
+author: GlukRazor
+date: 2016-11-27 12:00:11+00:00
 layout: post
-title: "Когда MPI заболел"
-date: 2016-11-27T12:00:11+00:00
-author: "GlukRazor"
+link_previews:
+- description: Search repositories from Intel for programming language, operating
+    system, tool, hardware, and middleware documentation.
+  image: https://www.intel.com/etc.clientlibs/settings/wcm/designs/intel/us/en/images/resources/printlogo.png
+  title: Documentation Library
+  url: https://software.intel.com/en-us/node/561777
 source: vk
 tags:
-  - Intel
-  - Infiniband
-  - MPI
-  - HPC
+- Intel
+- Infiniband
+- MPI
+- HPC
+title: Когда MPI заболел
 ---
 
 Когда MPI заболел

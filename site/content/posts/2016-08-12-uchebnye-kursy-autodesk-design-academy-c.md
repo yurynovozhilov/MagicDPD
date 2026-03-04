@@ -1,13 +1,18 @@
 ---
+author: GlukRazor
+date: 2016-08-12 06:30:50+00:00
 layout: post
-title: "Учебные курсы Autodesk Design Academy: CFD"
-date: 2016-08-12T06:30:50+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Before you continue to YouTube
+  url: https://www.youtube.com/playlist?list=PLIv6vwn776aSdFAnDELJ0Y-1t-MUdLI7v
 source: vk
 tags:
-  - CFD
-  - CFDesign
-  - Autodesk
+- CFD
+- CFDesign
+- Autodesk
+title: 'Учебные курсы Autodesk Design Academy: CFD'
 ---
 
 Учебные курсы Autodesk Design Academy: CFD

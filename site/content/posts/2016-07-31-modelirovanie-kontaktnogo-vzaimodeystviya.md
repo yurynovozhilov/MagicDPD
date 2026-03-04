@@ -1,11 +1,18 @@
 ---
+author: GlukRazor
+date: 2016-07-31 06:30:38+00:00
 layout: post
-title: "Моделирование контактного взаимодействия"
-date: 2016-07-31T06:30:38+00:00
-author: "GlukRazor"
+link_previews:
+- description: Join us and explore the new contact modeling capabilities in MapleSim.
+    Through a variety of examples, you will be introduced to the process of contact
+    modeli...
+  image: https://i.ytimg.com/vi/4c0dbvAMrAU/maxresdefault.jpg
+  title: Contact Modeling with MapleSim
+  url: https://www.youtube.com/watch?v=4c0dbvAMrAU
 source: vk
 tags:
-  - Maple
+- Maple
+title: Моделирование контактного взаимодействия
 ---
 
 Моделирование контактного взаимодействия

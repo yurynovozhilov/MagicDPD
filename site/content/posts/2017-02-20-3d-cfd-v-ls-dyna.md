@@ -1,14 +1,20 @@
 ---
+author: GlukRazor
+date: 2017-02-20 17:03:17+00:00
 layout: post
-title: "3D CFD в LS-DYNA"
-date: 2017-02-20T17:03:17+00:00
-author: "GlukRazor"
+link_previews:
+- description: How to set up a 3D CFD case in LS-DYNA by using the ICFD solver. The
+    example is flow over a plate and can be downloaded here http://www.dynaexamples.com/icfd...
+  image: https://i.ytimg.com/vi/egJ2dsekUHQ/hqdefault.jpg
+  title: How to set up a 3D CFD case in LS-DYNA
+  url: https://www.youtube.com/watch?v=egJ2dsekUHQ
 source: vk
 tags:
-  - LSTC
-  - CFD
-  - LSDYNA
-  - ICFD
+- LSTC
+- CFD
+- LSDYNA
+- ICFD
+title: 3D CFD в LS-DYNA
 ---
 
 3D CFD в LS-DYNA

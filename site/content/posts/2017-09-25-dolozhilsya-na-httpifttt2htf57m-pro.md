@@ -1,14 +1,39 @@
 ---
+author: GlukRazor
+date: 2017-09-25 18:25:18+00:00
 layout: post
-title: "Доложился на http://ift.tt/2htF57m про #ANSYS на отечественн"
-date: 2017-09-25T18:25:18+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: О конференции | Суперкомпьютерные дни в России
+  url: http://ift.tt/2htF57m
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2jVyyXk
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2vk2wVv
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2emhAvW
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2y3mJox
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2jWWl9t
 source: vk
 tags:
-  - НИЦЭВТMedia
-  - Ангара
-  - ANSYS
-  - HPC
+- НИЦЭВТMedia
+- Ангара
+- ANSYS
+- HPC
+title: 'Доложился на http://ift.tt/2htF57m про #ANSYS на отечественн'
 ---
 
 Доложился на http://ift.tt/2htF57m про #ANSYS на отечественном #HPC интерконнекте #Ангара от #НИЦЭВТMedia

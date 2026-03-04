@@ -1,11 +1,18 @@
 ---
+author: GlukRazor
+date: 2017-05-09 17:00:42+00:00
 layout: post
-title: "Нарезка XFEM"
-date: 2017-05-09T17:00:42+00:00
-author: "GlukRazor"
+link_previews:
+- description: Dan Koschier, Jan Bender and Nils Thuerey, "Robust eXtended Finite
+    Elements for Complex Cutting of Deformables", ACM Transactions on Graphics 36(4)
+    (SIGGRAPH...
+  image: https://i.ytimg.com/vi/ucRVbAwY_gY/maxresdefault.jpg
+  title: Robust eXtended Finite Elements for Complex Cutting of Deformables
+  url: https://www.youtube.com/watch?v=ucRVbAwY_gY
 source: vk
 tags:
-  - XFEM
+- XFEM
+title: Нарезка XFEM
 ---
 
 Нарезка XFEM

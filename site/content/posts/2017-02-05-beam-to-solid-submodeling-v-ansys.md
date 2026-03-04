@@ -1,16 +1,23 @@
 ---
+author: GlukRazor
+date: 2017-02-05 17:00:43+00:00
 layout: post
-title: "Beam-to-Solid submodeling в ANSYS"
-date: 2017-02-05T17:00:43+00:00
-author: "GlukRazor"
+link_previews:
+- description: Starting from a global beam and shell model, this tutorial video shows
+    how to easily and quickly take results into a detailed solid model to evaluate
+    details...
+  image: https://i.ytimg.com/vi/jkj3owGBJ_c/maxresdefault.jpg
+  title: Beam and Shell Submodeling with ANSYS Mechanical [Tutorial]
+  url: https://www.youtube.com/watch?v=jkj3owGBJ_c
 source: vk
 tags:
-  - ANSYS
-  - APDL
-  - Mechanical
-  - ACP
-  - submodeling
-  - SpaceClaim
+- ANSYS
+- APDL
+- Mechanical
+- ACP
+- submodeling
+- SpaceClaim
+title: Beam-to-Solid submodeling в ANSYS
 ---
 
 Beam-to-Solid submodeling в ANSYS

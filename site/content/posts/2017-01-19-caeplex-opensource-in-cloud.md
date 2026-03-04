@@ -1,16 +1,22 @@
 ---
+author: GlukRazor
+date: 2017-01-19 17:02:13+00:00
 layout: post
-title: "CAEplex - opensource in cloud"
-date: 2017-01-19T17:02:13+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: 'Seamplex readies CAEplex: Web front end for open-source engineering modeling
+    codes on the cloud - Engineering.com'
+  url: http://www.3dcadworld.com/seamplex-releases-caeplex-web-front-end-for-open-source-engineering-modeling-codes-on-the-cloud/
 source: vk
 tags:
-  - SimScale
-  - Fino
-  - Seamplex
-  - cloud
-  - CAEplex
-  - opensource
+- SimScale
+- Fino
+- Seamplex
+- cloud
+- CAEplex
+- opensource
+title: CAEplex - opensource in cloud
 ---
 
 CAEplex - opensource in cloud

@@ -1,9 +1,18 @@
 ---
+author: GlukRazor
+date: 2017-08-24 18:56:43+00:00
 layout: post
-title: "Суровое охлаждениеMedia"
-date: 2017-08-24T18:56:43+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2iuJP08
+- description: ''
+  image: ''
+  title: Error | VK
+  url: http://ift.tt/2vsSm4W
 source: vk
+title: Суровое охлаждениеMedia
 ---
 
 Суровое охлаждениеMedia

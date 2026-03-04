@@ -1,15 +1,21 @@
 ---
+author: GlukRazor
+date: 2016-10-22 12:00:18+00:00
 layout: post
-title: "Параметризация многошаговых нагрузок в ANSYS"
-date: 2016-10-22T12:00:18+00:00
-author: "GlukRazor"
+link_previews:
+- description: Discover ready-to-use Ansys and third-party apps to streamline simulation
+    workflows in the Ansys App Catalog. Boost productivity and innovation.
+  image: ''
+  title: Ansys App Catalog | Ansys Developer Portal
+  url: https://appstore.ansys.com/download?prodid=APC-ACTAPP-153
 source: vk
 tags:
-  - ANSYS
-  - enginsoft
-  - Mechanical
-  - Workbench
-  - ACT
+- ANSYS
+- enginsoft
+- Mechanical
+- Workbench
+- ACT
+title: Параметризация многошаговых нагрузок в ANSYS
 ---
 
 Параметризация многошаговых нагрузок в ANSYS

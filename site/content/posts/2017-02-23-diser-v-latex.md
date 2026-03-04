@@ -1,16 +1,28 @@
 ---
+author: GlukRazor
+date: 2017-02-23 17:02:47+00:00
 layout: post
-title: "Дисер в LaTeX"
-date: 2017-02-23T17:02:47+00:00
-author: "GlukRazor"
+link_previews:
+- description: LaTeX-template for russian Phd thesis. Contribute to AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template
+    development by creating an account on GitHub.
+  image: https://opengraph.githubassets.com/d060b9a936a6a711be98b4c63e7d6cfc17007f1e332d643642e23ca2f5adf321/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template
+  title: 'GitHub - AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template: LaTeX-template
+    for russian Phd thesis'
+  url: https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template
+- description: An online LaTeX editor that’s easy to use. No installation, real-time
+    collaboration, version control, hundreds of LaTeX templates, and more.
+  image: https://cdn.overleaf.com/img/ol-brand/overleaf_og_logo.png
+  title: Overleaf, Online LaTeX Editor
+  url: https://www.sharelatex.com/
 source: vk
 tags:
-  - PHD
-  - дисер
-  - ГОСТ
-  - GitHub
-  - ShareLaTeX
-  - LaTeX
+- PHD
+- дисер
+- ГОСТ
+- GitHub
+- ShareLaTeX
+- LaTeX
+title: Дисер в LaTeX
 ---
 
 Дисер в LaTeX

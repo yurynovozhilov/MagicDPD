@@ -1,16 +1,21 @@
 ---
+author: GlukRazor
+date: 2016-08-11 06:30:55+00:00
 layout: post
-title: "Новый Bright Cluster Manager уже доступен для закачки"
-date: 2016-08-11T06:30:55+00:00
-author: "GlukRazor"
+link_previews:
+- description: Fast, scalable AI & HPC cluster management.
+  image: https://www.nvidia.com/content/dam/en-zz/Solutions/data-center/base-command/manager/base-command-manager-og.jpg
+  title: NVIDIA Base Command Manager
+  url: http://www.brightcomputing.com/blog/the-new-release-of-bright-cluster-manager-is-now-shipping
 source: vk
 tags:
-  - BCM
-  - HPC
-  - BigData
-  - AWS
-  - cloud
-  - Docker
+- BCM
+- HPC
+- BigData
+- AWS
+- cloud
+- Docker
+title: Новый Bright Cluster Manager уже доступен для закачки
 ---
 
 Новый Bright Cluster Manager уже доступен для закачки

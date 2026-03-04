@@ -1,16 +1,25 @@
 ---
+author: GlukRazor
+date: 2017-06-24 17:01:00+00:00
 layout: post
-title: "Отказоустойчивый решатель"
-date: 2017-06-24T17:01:00+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Nektar++ – Spectral/hp Element Framework
+  url: http://www.nektar.info
+- description: ''
+  image: ''
+  title: Nektar++ – Spectral/hp Element Framework
+  url: https://www.nektar.info/
 source: vk
 tags:
-  - CFD
-  - MPI
-  - ExaFLOW
-  - Nektar
-  - Exascale
-  - ULFM
+- CFD
+- MPI
+- ExaFLOW
+- Nektar
+- Exascale
+- ULFM
+title: Отказоустойчивый решатель
 ---
 
 Отказоустойчивый решатель

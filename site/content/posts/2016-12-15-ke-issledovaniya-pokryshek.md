@@ -1,11 +1,17 @@
 ---
+author: GlukRazor
+date: 2016-12-15 17:00:32+00:00
 layout: post
-title: "КЭ исследования покрышек"
-date: 2016-12-15T17:00:32+00:00
-author: "GlukRazor"
+link_previews:
+- description: Influences of operating factors on modal characteristics of a rolling
+    truck tyre - Presented in the 2nd International conference and exhibition on automobile...
+  image: https://i.ytimg.com/vi/tIaBVlw5UU0/maxresdefault.jpg
+  title: Modal Analysis of a Rolling Tyre using LS-DYNA - by Shahram Shokouhfar
+  url: https://www.youtube.com/watch?v=tIaBVlw5UU0
 source: vk
 tags:
-  - LSDYNA
+- LSDYNA
+title: КЭ исследования покрышек
 ---
 
 КЭ исследования покрышек

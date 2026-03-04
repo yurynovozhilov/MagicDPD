@@ -1,9 +1,15 @@
 ---
+author: GlukRazor
+date: 2015-07-08 12:12:05+00:00
 layout: post
-title: "Конкурс от SimScale для специалистов по CFD!"
-date: 2015-07-08T12:12:05+00:00
-author: "GlukRazor"
+link_previews:
+- description: SimScale announces engineering webinars and simulation workshops on
+    a regular basis and publishes the recordings of all. Learn more now!
+  image: ''
+  title: Engineering Webinars | Cloud-Based CAE, CFD & FEA | SimScale
+  url: https://simscale.com/f1/
 source: vk
+title: Конкурс от SimScale для специалистов по CFD!
 ---
 
 Конкурс от SimScale для специалистов по CFD!

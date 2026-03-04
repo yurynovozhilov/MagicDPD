@@ -1,21 +1,29 @@
 ---
+author: GlukRazor
+date: 2016-06-03 07:00:29+00:00
+images:
+- url: /assets/images/1727.jpg
+- url: /assets/images/1727.jpg
 layout: post
-title: "Продолжая тему #nTopology и #Autodesk #Within вспомним про м"
-date: 2016-06-03T07:00:29+00:00
-author: "GlukRazor"
+link_previews:
+- description: Altair Hyperworks is a platform for every engineer, offering a comprehensive
+    suite of CAE software for design and simulation, including FEA, CFD, multi-body
+    dynamics, optimization, electromagnetic analysis, electronic system design, and
+    more.
+  image: https://altair.com/images/default-source/content-images/altair-hyperworks-platform_social.png?sfvrsn=d47e8306_1
+  title: Design and Simulation Platform | Altair HyperWorks
+  url: http://www.altairhyperworks.com/product/OptiStruct/New-Features
 source: vk
 tags:
-  - topology
-  - Altair
-  - optimization
-  - nTopology
-  - Within
-  - Autodesk
-  - OptiStruct
-  - lattice
-images:
-  - url: "/assets/images/1727.jpg"
-  - url: "/assets/images/1727.jpg"
+- topology
+- Altair
+- optimization
+- nTopology
+- Within
+- Autodesk
+- OptiStruct
+- lattice
+title: 'Продолжая тему #nTopology и #Autodesk #Within вспомним про м'
 ---
 
 Продолжая тему #nTopology и #Autodesk #Within вспомним про монстра оптимизации #Altair #OptiStruct. В 14-ой версии OptiStruct получил возможность создавать пористые конструкции на основе результатов топологической оптимизации (#lattice structures или lattice optimization).

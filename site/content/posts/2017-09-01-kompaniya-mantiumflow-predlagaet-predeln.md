@@ -1,14 +1,29 @@
 ---
+author: GlukRazor
+date: 2017-09-01 17:11:18+00:00
 layout: post
-title: "Компания #MantiumFlow предлагает пределно упростить инструме"
-date: 2017-09-01T17:11:18+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2eqi4AQ
+- description: MantiumFlow is a CFD simulation software. It acts as an OpenFOAM GUI.
+    Download the demo for Windows or Linux (Ubuntu & OpenSuSe tested), tutorials provided.
+  image: ''
+  title: MantiumFlow, OpenFOAM CFD Simulations, download demo and tutorials
+  url: https://mantiumflow.com/
+- description: MantiumFlow is a CFD simulation software. It acts as an OpenFOAM GUI.
+    Download the demo for Windows or Linux (Ubuntu & OpenSuSe tested), tutorials provided.
+  image: ''
+  title: MantiumFlow, OpenFOAM CFD Simulations, download demo and tutorials
+  url: https://mantiumflow.com
 source: vk
 tags:
-  - CFD
-  - OpenFOAM
-  - OpenSource
-  - MantiumFlow
+- CFD
+- OpenFOAM
+- OpenSource
+- MantiumFlow
+title: 'Компания #MantiumFlow предлагает пределно упростить инструме'
 ---
 
 Компания #MantiumFlow предлагает пределно упростить инструментыя для выполнения #CFD расчетов. Они берут #OpenFOAM решатель, и в своей оболочке позволяют сделать расчет на основе готового шаблона за "6 кликов".

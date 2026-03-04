@@ -1,14 +1,21 @@
 ---
+author: GlukRazor
+date: 2017-02-18 12:00:12+00:00
 layout: post
-title: "CFD для миссии на Марс"
-date: 2017-02-18T12:00:12+00:00
-author: "GlukRazor"
+link_previews:
+- description: 'In this video presentation from the GPU Technology Conference, Stephen
+    Jones and Adam Lichtl from SpaceX present: GPUs to Mars: Full-Scale Simulation
+    of Spac...'
+  image: https://i.ytimg.com/vi/vYA0f6R5KAI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgFSh_MA8=&rs=AOn4CLDvuYhkSXdHenYL5wq_m53KJZtw9Q
+  title: 'GPUs to Mars: Full-Scale Simulation of SpaceX''s Mars Rocket Engine'
+  url: https://www.youtube.com/watch?v=vYA0f6R5KAI
 source: vk
 tags:
-  - CFD
-  - SpaceX
-  - GPU
-  - HPC
+- CFD
+- SpaceX
+- GPU
+- HPC
+title: CFD для миссии на Марс
 ---
 
 CFD для миссии на Марс

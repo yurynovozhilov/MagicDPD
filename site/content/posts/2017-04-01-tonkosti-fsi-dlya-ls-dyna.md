@@ -1,16 +1,23 @@
 ---
+author: GlukRazor
+date: 2017-04-01 12:02:20+00:00
 layout: post
-title: "Тонкости FSI для LS-DYNA"
-date: 2017-04-01T12:02:20+00:00
-author: "GlukRazor"
+link_previews:
+- description: This video will explain the difference between the FSI couplings in
+    LS-DYNA. You will also learn how to set up the different couplings and a small
+    example wi...
+  image: https://i.ytimg.com/vi/CckL8tG2BkI/maxresdefault.jpg
+  title: Difference between weak and strong coupling in FSI simulations in LS-DYNA
+  url: https://www.youtube.com/watch?v=CckL8tG2BkI
 source: vk
 tags:
-  - Implicit
-  - CFD
-  - LSTC
-  - ICFD
-  - FSI
-  - LSDYNA
+- Implicit
+- CFD
+- LSTC
+- ICFD
+- FSI
+- LSDYNA
+title: Тонкости FSI для LS-DYNA
 ---
 
 Тонкости FSI для LS-DYNA

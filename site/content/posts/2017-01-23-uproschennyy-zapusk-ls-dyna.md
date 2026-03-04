@@ -1,14 +1,21 @@
 ---
+author: GlukRazor
+date: 2017-01-23 17:00:25+00:00
 layout: post
-title: "Упрощенный запуск LS-DYNA"
-date: 2017-01-23T17:00:25+00:00
-author: "GlukRazor"
+link_previews:
+- description: LS-Run is a new graphical control center to start LS-DYNA simulations
+    with either SMP or MPP versions of LS-DYNA. It is included in the latest LS-PrePost
+    rel...
+  image: https://i.ytimg.com/vi/dVypwLW6gQw/maxresdefault.jpg
+  title: How to LS-Run - Easily start LS-DYNA Simulations
+  url: https://www.youtube.com/watch?v=dVypwLW6gQw
 source: vk
 tags:
-  - LSTC
-  - LSPP
-  - LSRUN
-  - LSDYNA
+- LSTC
+- LSPP
+- LSRUN
+- LSDYNA
+title: Упрощенный запуск LS-DYNA
 ---
 
 Упрощенный запуск LS-DYNA

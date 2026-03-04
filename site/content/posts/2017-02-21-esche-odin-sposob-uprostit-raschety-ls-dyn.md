@@ -1,14 +1,21 @@
 ---
+author: GlukRazor
+date: 2017-02-21 17:03:20+00:00
 layout: post
-title: "Еще один способ упростить расчеты LS-DYNA"
-date: 2017-02-21T17:03:20+00:00
-author: "GlukRazor"
+link_previews:
+- description: k-runner is a user-friendly feature packed application designed to
+    start calculation processes in LS-DYNA and make them automatic. It runs both on
+    local and ...
+  image: https://i.ytimg.com/vi/TraTYWyLf0s/maxresdefault.jpg
+  title: k-runner manager to work in LS-DYNA
+  url: https://www.youtube.com/watch?v=TraTYWyLf0s
 source: vk
 tags:
-  - RSM
-  - HPC
-  - ANSYS
-  - LSDYNA
+- RSM
+- HPC
+- ANSYS
+- LSDYNA
+title: Еще один способ упростить расчеты LS-DYNA
 ---
 
 Еще один способ упростить расчеты LS-DYNA

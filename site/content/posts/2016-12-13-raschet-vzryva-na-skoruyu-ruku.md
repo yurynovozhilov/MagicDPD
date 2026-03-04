@@ -1,12 +1,17 @@
 ---
+author: GlukRazor
+date: 2016-12-13 17:01:41+00:00
 layout: post
-title: "Расчет взрыва на скорую руку"
-date: 2016-12-13T17:01:41+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: ''
+  url: http://ro.uow.edu.au/engpapers/357
 source: vk
 tags:
-  - CONWEP
-  - Friedlander
+- CONWEP
+- Friedlander
+title: Расчет взрыва на скорую руку
 ---
 
 Расчет взрыва на скорую руку

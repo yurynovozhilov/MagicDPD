@@ -1,13 +1,35 @@
 ---
+author: GlukRazor
+date: 2016-07-31 12:00:12+00:00
 layout: post
-title: "DualSPHysics - для тех кому надо красиво"
-date: 2016-07-31T12:00:12+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: 'DualSPHysics – DualSPHysics: A combined CUDA and OpenMP implementation of
+    the Smoothed Particle Hydrodynamics method based on the advanced SPHysics code.'
+  url: http://www.dual.sphysics.org/
+- description: Probably the biggest SPH simulation for fluid dynamics.The interaction
+    of a large wave with an oil rig is simulated using the MultiGPU implementation
+    of Dual...
+  image: https://i.ytimg.com/vi/B8mP9E75D08/hqdefault.jpg
+  title: More than 1000 Million particles simulated with DualSPHysics (SPH on Multi-GPU)
+  url: https://www.youtube.com/watch?v=B8mP9E75D08
+- description: ''
+  image: ''
+  title: 'DualSPHysics – DualSPHysics: A combined CUDA and OpenMP implementation of
+    the Smoothed Particle Hydrodynamics method based on the advanced SPHysics code.'
+  url: http://www.dual.sphysics.org
+- description: ''
+  image: ''
+  title: 'DualSPHysics – DualSPHysics: A combined CUDA and OpenMP implementation of
+    the Smoothed Particle Hydrodynamics method based on the advanced SPHysics code.'
+  url: https://dual.sphysics.org/
 source: vk
 tags:
-  - GPU
-  - SPH
-  - DualSPHysics
+- GPU
+- SPH
+- DualSPHysics
+title: DualSPHysics - для тех кому надо красиво
 ---
 
 DualSPHysics - для тех кому надо красиво

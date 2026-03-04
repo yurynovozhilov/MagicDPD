@@ -1,15 +1,21 @@
 ---
+author: GlukRazor
+date: 2017-02-13 17:03:11+00:00
 layout: post
-title: "Краткая история OpenFOAM"
-date: 2017-02-13T17:03:11+00:00
-author: "GlukRazor"
+link_previews:
+- description: 'Computational Fluid Dynamicshttp://cfd.ninja/http://cfdninja.com/#OpenFOAM
+    #OpenFOAMHistory #cfdninjaSource:http://openfoam.org/http://cfd.direct/http://www....'
+  image: https://i.ytimg.com/vi/kg79KMGxRAE/maxresdefault.jpg
+  title: ✅ OpenFOAM History
+  url: https://www.youtube.com/watch?v=kg79KMGxRAE
 source: vk
 tags:
-  - CFD
-  - SGI
-  - ESI
-  - opensource
-  - OpenFOAM
+- CFD
+- SGI
+- ESI
+- opensource
+- OpenFOAM
+title: Краткая история OpenFOAM
 ---
 
 Краткая история OpenFOAM

@@ -1,14 +1,22 @@
 ---
+author: GlukRazor
+date: 2016-11-14 17:01:04+00:00
 layout: post
-title: "Насколько жарко в вашей серверной?"
-date: 2016-11-14T17:01:04+00:00
-author: "GlukRazor"
+link_previews:
+- description: Cadence provides innovative data center solutions using digital twin
+    technology and physics-based modeling and simulation for design and operations
+    across industry sectors.
+  image: https://www.cadence.com/content/dam/cadence-www/global/en_US/images/site-images/common/social-thumbnail.jpg
+  title: Cadence Reality Digital Twin Platform | Data Center Design, Modeling, Simulation
+    & Optimization
+  url: http://www.futurefacilities.com
 source: vk
 tags:
-  - CFD
-  - IcePac
-  - Fluent
-  - 6SigmaDCX
+- CFD
+- IcePac
+- Fluent
+- 6SigmaDCX
+title: Насколько жарко в вашей серверной?
 ---
 
 Насколько жарко в вашей серверной?

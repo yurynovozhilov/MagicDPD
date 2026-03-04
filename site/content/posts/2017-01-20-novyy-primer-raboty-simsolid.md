@@ -1,11 +1,17 @@
 ---
+author: GlukRazor
+date: 2017-01-20 17:03:16+00:00
 layout: post
-title: "Новый пример работы SimSolid"
-date: 2017-01-20T17:03:16+00:00
-author: "GlukRazor"
+link_previews:
+- description: The Altair Newsroom is your go-to source for the latest updates, breakthroughs,
+    and developments from Altair. Stay informed and inspired!
+  image: https://altair.com/images/default-source/heroes/altair_newsroom_hero_2022_1920x225.png?sfvrsn=d909812a_0
+  title: Altair Newsroom
+  url: https://www.simsolid.com/2016/12/large-model-analysis-using-simsolid/
 source: vk
 tags:
-  - SimSolid
+- SimSolid
+title: Новый пример работы SimSolid
 ---
 
 Новый пример работы SimSolid

@@ -1,16 +1,28 @@
 ---
+author: GlukRazor
+date: 2016-08-21 12:01:26+00:00
 layout: post
-title: "Восстановление аналитической геометрии по STL в SpaceClaim: "
-date: 2016-08-21T12:01:26+00:00
-author: "GlukRazor"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: ''
+  title: '- YouTube'
+  url: https://www.youtube.com/watch?v=VEUvYM2qFRc
+- description: Paul from GoMeasure3D demonstrates how to reverse engineer an automotive
+    part. Reverse engineering is a process of creating a CAD model from scan data
+    collec...
+  image: https://i.ytimg.com/vi/2j6N5A6T3Kw/maxresdefault.jpg
+  title: 'Reverse Engineering an Automotive Part: Transforming Scan Data to CAD'
+  url: https://www.youtube.com/watch?v=2j6N5A6T3Kw
 source: vk
 tags:
-  - ANSYS
-  - SCDM
-  - SpaceClaim
-  - NURBS
-  - ReverseEngineering
-  - STL
+- ANSYS
+- SCDM
+- SpaceClaim
+- NURBS
+- ReverseEngineering
+- STL
+title: 'Восстановление аналитической геометрии по STL в SpaceClaim: '
 ---
 
 Восстановление аналитической геометрии по STL в SpaceClaim: часть 2

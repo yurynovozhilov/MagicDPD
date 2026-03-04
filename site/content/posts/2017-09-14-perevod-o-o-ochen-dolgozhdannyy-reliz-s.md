@@ -1,9 +1,14 @@
 ---
+author: GlukRazor
+date: 2017-09-14 08:03:33+00:00
 layout: post
-title: "[Перевод] О-о-очень долгожданный релиз Sublime Text 3.0"
-date: 2017-09-14T08:03:33+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2f7wD0g
 source: vk
+title: '[Перевод] О-о-очень долгожданный релиз Sublime Text 3.0'
 ---
 
 [Перевод] О-о-очень долгожданный релиз Sublime Text 3.0

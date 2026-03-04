@@ -1,20 +1,27 @@
 ---
+author: GlukRazor
+date: 2017-02-09 17:02:27+00:00
 layout: post
-title: "Как делать HPC для ANSYS 18"
-date: 2017-02-09T17:02:27+00:00
-author: "GlukRazor"
+link_previews:
+- description: Техническая документация 16 сентября, 2021 Ansys 2021 R2 Технические
+    требования к программно-аппаратным комплексам и лицензионная политика в области
+    HPC Скачать
+  image: https://www.cadfem-cis.ru/static/templates/cadfem/dist/images/OG-image.png
+  title: Техническая документация — МЦД
+  url: https://www.cadfem-cis.ru/products/ansys/ansys-update/
 source: vk
 tags:
-  - CFD
-  - ANSYS
-  - HPC
-  - Maxwell
-  - CentOS
-  - RSM
-  - ARC
-  - NVIDIA
-  - GPGPU
-  - Explicit
+- CFD
+- ANSYS
+- HPC
+- Maxwell
+- CentOS
+- RSM
+- ARC
+- NVIDIA
+- GPGPU
+- Explicit
+title: Как делать HPC для ANSYS 18
 ---
 
 Как делать HPC для ANSYS 18

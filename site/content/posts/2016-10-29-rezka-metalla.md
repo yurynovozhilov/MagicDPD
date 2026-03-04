@@ -1,13 +1,19 @@
 ---
+author: GlukRazor
+date: 2016-10-29 12:01:21+00:00
 layout: post
-title: "Резка металла"
-date: 2016-10-29T12:01:21+00:00
-author: "GlukRazor"
+link_previews:
+- description: Simulation of machining process (cutting) by the SPH method in LS-DYNA.
+    Full tutorial – 20 minutes. Our page in facebook https://www.facebook.com/lsdynatutor...
+  image: https://i.ytimg.com/vi/yD5E1UK5Cps/maxresdefault.jpg
+  title: Simulation of cutting by the SPH method in LS-DYNA. Video tutorial
+  url: https://www.youtube.com/watch?v=yD5E1UK5Cps
 source: vk
 tags:
-  - cutting
-  - SPH
-  - LSDYNA
+- cutting
+- SPH
+- LSDYNA
+title: Резка металла
 ---
 
 Резка металла

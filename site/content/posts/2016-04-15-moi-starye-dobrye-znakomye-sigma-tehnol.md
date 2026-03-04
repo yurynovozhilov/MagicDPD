@@ -1,20 +1,27 @@
 ---
+author: GlukRazor
+date: 2016-04-15 07:01:37+00:00
 layout: post
-title: "Мои старые-добрые знакомые, Сигма Технология, на днях объяви"
-date: 2016-04-15T07:01:37+00:00
-author: "GlukRazor"
+link_previews:
+- description: Robust Design Optimization Strategy of IOSO Technology. Robust Design
+    Optimization, Multilevel Robust Design Optimization, Multiobjective Robust Design
+    Optimization, Parallel Optimization
+  image: ''
+  title: Sigma Technology. IOSO software.
+  url: http://www.iosotech.com/product.htm#Third-party
 source: vk
 tags:
-  - ANSYS
-  - Optimization
-  - Workbench
-  - SolidWorks
-  - RSM
-  - FLOW3D
-  - NREC
-  - ISOS
-  - ACT
-  - FlowVision
+- ANSYS
+- Optimization
+- Workbench
+- SolidWorks
+- RSM
+- FLOW3D
+- NREC
+- ISOS
+- ACT
+- FlowVision
+title: Мои старые-добрые знакомые, Сигма Технология, на днях объяви
 ---
 
 Мои старые-добрые знакомые, Сигма Технология, на днях объявил об очень важном релизе новой версии их замечательного оптимизатора IOSO NM.

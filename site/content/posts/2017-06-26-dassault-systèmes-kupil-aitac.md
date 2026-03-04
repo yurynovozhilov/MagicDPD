@@ -1,13 +1,18 @@
 ---
+author: GlukRazor
+date: 2017-06-26 17:00:32+00:00
 layout: post
-title: "Dassault Systèmes купил AITAC"
-date: 2017-06-26T17:00:32+00:00
-author: "GlukRazor"
+link_previews:
+- description: METS presentation
+  image: https://i.ytimg.com/vi/eT2nfRksYdk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZSgpMA8=&rs=AOn4CLC9kPIc0lXB-8k4C3pepR2yxbvXAQ
+  title: AITAC Superyacht Engineering
+  url: https://youtu.be/eT2nfRksYdk
 source: vk
 tags:
-  - Dassault
-  - AITAC
-  - CATIA
+- Dassault
+- AITAC
+- CATIA
+title: Dassault Systèmes купил AITAC
 ---
 
 Dassault Systèmes купил AITAC

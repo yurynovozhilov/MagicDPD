@@ -1,13 +1,19 @@
 ---
+author: GlukRazor
+date: 2016-11-06 17:00:19+00:00
 layout: post
-title: "Адаптивные сетки в для задач формовки"
-date: 2016-11-06T17:00:19+00:00
-author: "GlukRazor"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: ''
+  title: '- YouTube'
+  url: https://www.youtube.com/watch?v=B6fsb16BxEo
 source: vk
 tags:
-  - Mechanical
-  - SPH
-  - ANSYS
+- Mechanical
+- SPH
+- ANSYS
+title: Адаптивные сетки в для задач формовки
 ---
 
 Адаптивные сетки в для задач формовки

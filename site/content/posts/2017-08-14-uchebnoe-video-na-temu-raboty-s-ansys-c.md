@@ -1,22 +1,38 @@
 ---
+author: GlukRazor
+date: 2017-08-14 17:01:16+00:00
 layout: post
-title: "Учебное видео на тему работы с #ANSYS #Composite #Cure #Simu"
-date: 2017-08-14T17:01:16+00:00
-author: "GlukRazor"
+link_previews:
+- description: Add a description for facebook
+  image: ''
+  title: Home
+  url: http://www.lmat-uk.com/
+- description: This video demonstrates the ANSYS Composite Cure Simulation (ACCS)
+    tool that enables the analysis of curing processes (for example, those used for
+    composite ...
+  image: https://i.ytimg.com/vi/HufoH6O1ntM/hqdefault.jpg
+  title: 'ANSYS ACCS: Simulation of a Composite Rib Using ANSYS Composite Cure Simulation
+    Tool'
+  url: https://youtu.be/HufoH6O1ntM
+- description: Add a description for facebook
+  image: ''
+  title: Home
+  url: https://www.lmat-uk.com/
 source: vk
 tags:
-  - LMAT
-  - Transient
-  - Structural
-  - ANSYS
-  - Simulation
-  - Thermal
-  - ACCS
-  - Composite
-  - ACP
-  - Cure
-  - PrepPost
-  - Static
+- LMAT
+- Transient
+- Structural
+- ANSYS
+- Simulation
+- Thermal
+- ACCS
+- Composite
+- ACP
+- Cure
+- PrepPost
+- Static
+title: 'Учебное видео на тему работы с #ANSYS #Composite #Cure #Simu'
 ---
 
 Учебное видео на тему работы с #ANSYS #Composite #Cure #Simulation (#ACCS) - программного обеспечения математического моделирования процессов термической полимеризации композиционных материалов на основе технологий компании #LMAT (Lean Manufacturing & Assembly Technologies http://www.lmat-uk.com/).

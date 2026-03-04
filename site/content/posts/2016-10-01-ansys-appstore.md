@@ -1,13 +1,19 @@
 ---
+author: GlukRazor
+date: 2016-10-01 12:01:13+00:00
 layout: post
-title: "ANSYS AppStore"
-date: 2016-10-01T12:01:13+00:00
-author: "GlukRazor"
+link_previews:
+- description: Discover ready-to-use Ansys and third-party apps to streamline simulation
+    workflows in the Ansys App Catalog. Boost productivity and innovation.
+  image: ''
+  title: Ansys App Catalog | Ansys Developer Portal
+  url: https://appstore.ansys.com/
 source: vk
 tags:
-  - ACT
-  - AppStore
-  - ANSYS
+- ACT
+- AppStore
+- ANSYS
+title: ANSYS AppStore
 ---
 
 ANSYS AppStore

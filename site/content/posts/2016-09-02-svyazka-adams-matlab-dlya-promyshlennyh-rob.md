@@ -1,13 +1,18 @@
 ---
+author: GlukRazor
+date: 2016-09-02 06:30:22+00:00
 layout: post
-title: "Связка Adams-Matlab для промышленных роботов"
-date: 2016-09-02T06:30:22+00:00
-author: "GlukRazor"
+link_previews:
+- description: Any questions, you can reach me at Yijun.Fan@mscsoftware.com
+  image: https://i.ytimg.com/vi/ztnliqfcvgo/maxresdefault.jpg
+  title: Adams-Matlab Cosimulation for Industrial Robot Analysis
+  url: https://www.youtube.com/watch?v=ztnliqfcvgo
 source: vk
 tags:
-  - Matlab
-  - MSC
-  - Adams
+- Matlab
+- MSC
+- Adams
+title: Связка Adams-Matlab для промышленных роботов
 ---
 
 Связка Adams-Matlab для промышленных роботов

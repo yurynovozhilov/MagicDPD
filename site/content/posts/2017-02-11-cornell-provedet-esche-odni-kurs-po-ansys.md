@@ -1,17 +1,25 @@
 ---
+author: GlukRazor
+date: 2017-02-11 12:02:47+00:00
 layout: post
-title: "Cornell проведет еще одни курс по ANSYS"
-date: 2017-02-11T12:02:47+00:00
-author: "GlukRazor"
+link_previews:
+- description: Learn how to analyze real-world engineering problems using ANSYS simulation
+    software and gain important professional skills sought by employers. ↓ More info
+    ...
+  image: https://i.ytimg.com/vi/B8BBP8UhSnc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGQgZShKMA8=&rs=AOn4CLB20yOzkpSvNxXMDeiKI27rBYoAFw
+  title: A Hands-on Introduction to Engineering Simulations | CornellX on edX | Course
+    About Video
+  url: https://www.youtube.com/watch?v=B8BBP8UhSnc
 source: vk
 tags:
-  - CFD
-  - ANSYS
-  - Cornell
-  - Mechanical
-  - CFDPost
-  - FEM
-  - Fluent
+- CFD
+- ANSYS
+- Cornell
+- Mechanical
+- CFDPost
+- FEM
+- Fluent
+title: Cornell проведет еще одни курс по ANSYS
 ---
 
 Cornell проведет еще одни курс по ANSYS

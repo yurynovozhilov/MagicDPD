@@ -1,11 +1,20 @@
 ---
+author: GlukRazor
+date: 2017-08-26 15:11:18+00:00
 layout: post
-title: "#ANSYS на пафосеMedia📼 Создавайте продукты, оправдывающие ож"
-date: 2017-08-26T15:11:18+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2wdPTxe
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2vk2wVv
 source: vk
 tags:
-  - ANSYS
+- ANSYS
+title: "#ANSYS на пафосеMedia\U0001F4FC Создавайте продукты, оправдывающие ож"
 ---
 
 #ANSYS на пафосеMedia📼 Создавайте продукты, оправдывающие ожидания Ваших…

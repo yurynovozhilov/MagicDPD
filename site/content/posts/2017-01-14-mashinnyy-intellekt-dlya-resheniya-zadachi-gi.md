@@ -1,14 +1,21 @@
 ---
+author: GlukRazor
+date: 2017-01-14 17:01:00+00:00
 layout: post
-title: "Машинный интеллект для решения задачи гидродинамики"
-date: 2017-01-14T17:01:00+00:00
-author: "GlukRazor"
+link_previews:
+- description: The paper "Accelerating Eulerian Fluid Simulation With Convolutional
+    Networks" and its source code is available here:http://cims.nyu.edu/~schlacht/CNNFluids....
+  image: https://i.ytimg.com/vi/iOWamCtnwTc/maxresdefault.jpg
+  title: 'Neural Network Learns The Physics of Fluids and Smoke | Two Minute Papers
+    #118'
+  url: https://www.youtube.com/watch?v=iOWamCtnwTc
 source: vk
 tags:
-  - Brain
-  - CFD
-  - Google
-  - AI
+- Brain
+- CFD
+- Google
+- AI
+title: Машинный интеллект для решения задачи гидродинамики
 ---
 
 Машинный интеллект для решения задачи гидродинамики

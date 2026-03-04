@@ -1,12 +1,18 @@
 ---
+author: GlukRazor
+date: 2017-05-18 17:01:05+00:00
 layout: post
-title: "Констатируем факты - 18.0 уже не не самый свежий релиз ANSYS"
-date: 2017-05-18T17:01:05+00:00
-author: "GlukRazor"
+link_previews:
+- description: /PRNewswire/ -- Engineers can create next-generation products quicker
+    and easier with today
+  image: https://mma.prnewswire.com/media/512006/topo_cyclic_stress5000x3000.jpg?p=facebook
+  title: ANSYS 18.1 Expands Pervasive Engineering Simulation
+  url: http://www.prnewswire.com/news-releases/ansys-181-expands-pervasive-engineering-simulation-300457825.html
 source: vk
 tags:
-  - SpaceClaim
-  - ANSYS
+- SpaceClaim
+- ANSYS
+title: Констатируем факты - 18.0 уже не не самый свежий релиз ANSYS
 ---
 
 Констатируем факты - 18.0 уже не не самый свежий релиз ANSYS

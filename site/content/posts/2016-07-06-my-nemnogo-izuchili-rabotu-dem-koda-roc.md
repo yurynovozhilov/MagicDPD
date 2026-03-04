@@ -1,16 +1,37 @@
 ---
+author: GlukRazor
+date: 2016-07-06 06:31:49+00:00
 layout: post
-title: "Мы немного изучили работу #DEM кода #Rocky на #GPU #NVIDIA и"
-date: 2016-07-06T06:31:49+00:00
-author: "GlukRazor"
+link_previews:
+- description: Документ описывает деятельность компании ЗАО «Кадфем Си-Ай-Эс» в области
+    высокопроизводительных вычислительных систем, включая проектирование, внедрение
+    и поддержку вычислительных центров. Представлены результаты тестирования производительности
+    алгоритмов при использовании процессоров Intel и графических процессоров NVIDIA
+    в задачах механики сыпучих сред. Также обсуждаются рекомендации по выбору аппаратного
+    обеспечения для оптимизации расчётов. - Download as a PPTX, PDF or view online
+    for free
+  image: https://cdn.slidesharecdn.com/ss_thumbnails/iidwtwxqtbaassxgpxm3-signature-10e08238f9f893f197c29767323c84aecaec2627555aef93bd6dc415cb69676c-poli-160704142745-thumbnail.jpg?width=640&height=640&fit=bounds
+  title: Aппаратное обеспечения для решения задач механики сыпучих сред
+  url: http://www.slideshare.net/YuryNovozhilov/a-63711653
+- description: Документ описывает деятельность компании ЗАО «Кадфем Си-Ай-Эс» в области
+    высокопроизводительных вычислительных систем, включая проектирование, внедрение
+    и поддержку вычислительных центров. Представлены результаты тестирования производительности
+    алгоритмов при использовании процессоров Intel и графических процессоров NVIDIA
+    в задачах механики сыпучих сред. Также обсуждаются рекомендации по выбору аппаратного
+    обеспечения для оптимизации расчётов. - Download as a PPTX, PDF or view online
+    for free
+  image: https://cdn.slidesharecdn.com/ss_thumbnails/iidwtwxqtbaassxgpxm3-signature-10e08238f9f893f197c29767323c84aecaec2627555aef93bd6dc415cb69676c-poli-160704142745-thumbnail.jpg?width=640&height=640&fit=bounds
+  title: Aппаратное обеспечения для решения задач механики сыпучих сред
+  url: https://www.slideshare.net/YuryNovozhilov/a-63711653
 source: vk
 tags:
-  - Forsite
-  - GPU
-  - Maxwell
-  - DEM
-  - Rocky
-  - NVIDIA
+- Forsite
+- GPU
+- Maxwell
+- DEM
+- Rocky
+- NVIDIA
+title: 'Мы немного изучили работу #DEM кода #Rocky на #GPU #NVIDIA и'
 ---
 
 Мы немного изучили работу #DEM кода #Rocky на #GPU #NVIDIA и подготовили материал. Получились интересные данные. Спасибо нашим друзьям из компании #Forsite за тестовый стенды.

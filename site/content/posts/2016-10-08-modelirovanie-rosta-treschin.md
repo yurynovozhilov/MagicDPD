@@ -1,16 +1,22 @@
 ---
+author: GlukRazor
+date: 2016-10-08 17:00:13+00:00
 layout: post
-title: "Моделирование роста трещин"
-date: 2016-10-08T17:00:13+00:00
-author: "GlukRazor"
+link_previews:
+- description: inthis tutorial i will show  you how to simulate XFEM Methode using
+    Abaqus
+  image: https://i.ytimg.com/vi/FaS-VvNLM3c/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYACrAWKAgwIABABGDUgTihyMA8=&rs=AOn4CLDQ136_aP84V5IOrgRdxu4dFmcgAg
+  title: XFEM 3D
+  url: https://www.youtube.com/watch?v=FaS-VvNLM3c
 source: vk
 tags:
-  - Abaqus
-  - ANSYS
-  - XFEM
-  - Mechanical
-  - LSDYNA
-  - FEM
+- Abaqus
+- ANSYS
+- XFEM
+- Mechanical
+- LSDYNA
+- FEM
+title: Моделирование роста трещин
 ---
 
 Моделирование роста трещин

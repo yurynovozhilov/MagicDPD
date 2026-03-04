@@ -1,15 +1,22 @@
 ---
+author: GlukRazor
+date: 2017-07-24 17:00:46+00:00
 layout: post
-title: "Влияние движения почвы на трубопроводы"
-date: 2017-07-24T17:00:46+00:00
-author: "GlukRazor"
+link_previews:
+- description: "Welcome to the place where spins hit different. Packed with top-tier
+    slots, live dealer tables, and instant crypto cashouts, our platform is built
+    for players who donâ\x80\x99t like to wait."
+  image: ''
+  title: Pipe Lines International - Catch the Beat of the Reels
+  url: https://pipelinesinternational.com/2017/03/09/bmt-predicts-geotechnical-pipeline-hazards/
 source: vk
 tags:
-  - BMT
-  - DEM
-  - LSDYNA
-  - PRCI
-  - SPH
+- BMT
+- DEM
+- LSDYNA
+- PRCI
+- SPH
+title: Влияние движения почвы на трубопроводы
 ---
 
 Влияние движения почвы на трубопроводы

@@ -1,12 +1,18 @@
 ---
+author: GlukRazor
+date: 2016-03-13 07:00:34+00:00
 layout: post
-title: "Запись вебинара по новым возможностям #ANSYS #Mechanical 17 "
-date: 2016-03-13T07:00:34+00:00
-author: "GlukRazor"
+link_previews:
+- description: no description
+  image: https://www.cadfem-cis.ru/static/templates/cadfem/dist/images/OG-image.png
+  title: Запись вебинара «Основные улучшения линейки ANSYS Mechanical R17.0» доступна
+    для просмотра!
+  url: http://www.cadfem-cis.ru/list/article/webex-cadfem-mechanical17/
 source: vk
 tags:
-  - Mechanical
-  - ANSYS
+- Mechanical
+- ANSYS
+title: 'Запись вебинара по новым возможностям #ANSYS #Mechanical 17 '
 ---
 
 Запись вебинара по новым возможностям #ANSYS #Mechanical 17 доступна для просмотра. Все за попкорном!

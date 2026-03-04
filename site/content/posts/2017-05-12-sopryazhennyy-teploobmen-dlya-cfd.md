@@ -1,14 +1,21 @@
 ---
+author: GlukRazor
+date: 2017-05-12 17:01:04+00:00
 layout: post
-title: "Сопряженный теплообмен для CFD"
-date: 2017-05-12T17:01:04+00:00
-author: "GlukRazor"
+link_previews:
+- description: In this video you will learn how to set up a conjugate heat transfer
+    simulation with LS-DYNA. The ICFD solver is coupled with the structural and thermal
+    solv...
+  image: https://i.ytimg.com/vi/YEaJXa-lkSk/maxresdefault.jpg
+  title: ICFD conjugate heat transfer
+  url: https://www.youtube.com/watch?v=YEaJXa-lkSk
 source: vk
 tags:
-  - LSTC
-  - CFD
-  - LSDYNA
-  - ICFD
+- LSTC
+- CFD
+- LSDYNA
+- ICFD
+title: Сопряженный теплообмен для CFD
 ---
 
 Сопряженный теплообмен для CFD

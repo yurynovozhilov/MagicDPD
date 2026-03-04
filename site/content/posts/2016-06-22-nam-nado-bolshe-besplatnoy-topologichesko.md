@@ -1,20 +1,25 @@
 ---
+author: GlukRazor
+date: 2016-06-22 12:02:28+00:00
+images:
+- url: /assets/images/1823.jpg
 layout: post
-title: "Нам надо больше бесплатной топологической оптимизации!!!"
-date: 2016-06-22T12:02:28+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Before you continue to YouTube
+  url: https://www.youtube.com/channel/UC7bw4WFjofGiPig50xuE-BA/featured
 source: vk
 tags:
-  - topology
-  - ANSYS
-  - HPC
-  - PYXIS
-  - Virtual
-  - optimization
-  - ESSS
-  - ACT
-images:
-  - url: "/assets/images/1823.jpg"
+- topology
+- ANSYS
+- HPC
+- PYXIS
+- Virtual
+- optimization
+- ESSS
+- ACT
+title: Нам надо больше бесплатной топологической оптимизации!!!
 ---
 
 Нам надо больше бесплатной топологической оптимизации!!!

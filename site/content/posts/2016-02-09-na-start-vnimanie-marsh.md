@@ -1,13 +1,20 @@
 ---
+author: GlukRazor
+date: 2016-02-09 13:02:54+00:00
 layout: post
-title: "На старт, внимание, марш!"
-date: 2016-02-09T13:02:54+00:00
-author: "GlukRazor"
+link_previews:
+- description: We are currentlly working on simulating unsteady behaviour of future
+    rocket flame trench. We use GridPro to create fully block structured mesh of the
+    whole case (around 26k blocks and 15Mcells for a quarter of the domain).
+  image: https://media.licdn.com/dms/image/v2/C5612AQEFxZCwLJX2Vw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1520155968736?e=2147483647&v=beta&t=RYz2qDcSVjORnOEWM2A0UCq89Ae0wsVuW7ykRLaGXwo
+  title: Unsteady CFD of future rocket flame trench
+  url: https://www.linkedin.com/pulse/unsteady-cfd-future-rocket-flame-trench-vincent-rivola?trk=hp-feed-article-title-like
 source: vk
 tags:
-  - GridPro
-  - CFD
-  - OpenFOAM
+- GridPro
+- CFD
+- OpenFOAM
+title: На старт, внимание, марш!
 ---
 
 На старт, внимание, марш!

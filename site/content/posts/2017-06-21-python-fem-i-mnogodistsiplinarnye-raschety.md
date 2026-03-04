@@ -1,17 +1,22 @@
 ---
+author: GlukRazor
+date: 2017-06-21 17:00:59+00:00
 layout: post
-title: "Python FEM и многодисциплинарные расчеты  в FEniCS и FEATool"
-date: 2017-06-21T17:00:59+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: https://www.featool.com/tutorial/2017/06/16/Python-Multiphysics-and-FEA-Simulations-with-FEniCS-and-FEATool/
+  url: https://www.featool.com/tutorial/2017/06/16/Python-FEM-and-Multiphysics-Simulations-with-Fenics-and-FEATool.html
 source: vk
 tags:
-  - MPI
-  - МКЭ
-  - FEniCS
-  - OpenMP
-  - Python
-  - FEATool
-  - Matlab
+- MPI
+- МКЭ
+- FEniCS
+- OpenMP
+- Python
+- FEATool
+- Matlab
+title: Python FEM и многодисциплинарные расчеты  в FEniCS и FEATool
 ---
 
 Python FEM и многодисциплинарные расчеты  в FEniCS и FEATool

@@ -1,24 +1,34 @@
 ---
+author: GlukRazor
+date: 2016-08-18 06:30:46+00:00
 layout: post
-title: "Запущена тестовая эксплуатация GPU в Azure"
-date: 2016-08-18T06:30:46+00:00
-author: "GlukRazor"
+link_previews:
+- description: 'Microsoft Azure will be offering state of the art GPU visualization
+    infrastructure and GPU compute infrastructure for various different scenarios
+    like gaming, streaming, transcoding, machine learning, visualized CAD applications
+    and many more other workloads that utilize GPUs. Relevant Links:  Introduction
+    to NVIDIA GPUs in Azure http://connect.teradici.com/blog/teradici-joins-azure-big-compute-team-onstage-at-build-2016
+    http://connect.teradici.com/blog/teradici-and-microsoft-azure-to-turn-heads'
+  image: https://learn.microsoft.com/en-us/media/open-graph-image.png
+  title: Leveraging NVIDIA GPUs in Azure
+  url: https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure
 source: vk
 tags:
-  - GPU
-  - cloud
-  - HPC
-  - teradici
-  - m60
-  - Server
-  - Azure
-  - k80
-  - hyperv
-  - Channel9
-  - tesla
-  - NVIDIA
-  - DDA
-  - Windows
+- GPU
+- cloud
+- HPC
+- teradici
+- m60
+- Server
+- Azure
+- k80
+- hyperv
+- Channel9
+- tesla
+- NVIDIA
+- DDA
+- Windows
+title: Запущена тестовая эксплуатация GPU в Azure
 ---
 
 Запущена тестовая эксплуатация GPU в Azure

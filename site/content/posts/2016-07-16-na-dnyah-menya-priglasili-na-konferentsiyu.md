@@ -1,13 +1,22 @@
 ---
+author: GlukRazor
+date: 2016-07-16 08:01:12+00:00
+images:
+- url: /assets/images/42.jpg
 layout: post
-title: "На днях меня пригласили на конференцию \"ИСП РАН\", которая пр"
-date: 2016-07-16T08:01:12+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Открытая конференция ИСП РАН им. В.П. Иванникова
+  url: http://www.isprasopen.ru
+- description: ''
+  image: ''
+  title: Открытая конференция ИСП РАН им. В.П. Иванникова
+  url: https://www.isprasopen.ru/
 source: vk
 tags:
-  - opensource
-images:
-  - url: "/assets/images/42.jpg"
+- opensource
+title: На днях меня пригласили на конференцию "ИСП РАН", которая пр
 ---
 
 На днях меня пригласили на конференцию "ИСП РАН", которая пройдет с 5 по 9 декабря 2016 года в Главном здании Российской академии наук по адресу г. Москва, Ленинский проспект, дом 32 А.

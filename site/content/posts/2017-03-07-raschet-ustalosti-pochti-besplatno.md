@@ -1,14 +1,19 @@
 ---
+author: GlukRazor
+date: 2017-03-07 17:03:19+00:00
 layout: post
-title: "Расчет усталости (почти) бесплатно"
-date: 2017-03-07T17:03:19+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Redirecting...
+  url: http://fatiguetoolbox.org/
 source: vk
 tags:
-  - Matlab
-  - Fatlab
-  - opensource
-  - ANSYS
+- Matlab
+- Fatlab
+- opensource
+- ANSYS
+title: Расчет усталости (почти) бесплатно
 ---
 
 Расчет усталости (почти) бесплатно

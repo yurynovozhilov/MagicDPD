@@ -1,13 +1,24 @@
 ---
+author: GlukRazor
+date: 2017-03-30 08:37:23+00:00
 layout: post
-title: "Работа с большими сборками в SpaceClaim"
-date: 2017-03-30T08:37:23+00:00
-author: "GlukRazor"
+link_previews:
+- description: This product video demonstrates how Spaceclaim, the world's fastest
+    and most innovative 3D solid modeler, works with large assemblies.For more information
+    or...
+  image: https://i.ytimg.com/vi/o95pjExmhMo/maxresdefault.jpg
+  title: SpaceClaim Working with Large Assemblies
+  url: https://www.youtube.com/watch?v=o95pjExmhMo
+- description: ''
+  image: ''
+  title: ''
+  url: https://vimeo.com/177550413
 source: vk
 tags:
-  - SpaceClaim
-  - SCDM
-  - ANSYS
+- SpaceClaim
+- SCDM
+- ANSYS
+title: Работа с большими сборками в SpaceClaim
 ---
 
 Работа с большими сборками в SpaceClaim

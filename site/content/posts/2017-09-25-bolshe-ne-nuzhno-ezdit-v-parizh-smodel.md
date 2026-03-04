@@ -1,11 +1,20 @@
 ---
+author: GlukRazor
+date: 2017-09-25 23:50:05+00:00
 layout: post
-title: "📽 Больше не нужно ездить в Париж, смоделируйте свою Эйфелеву"
-date: 2017-09-25T23:50:05+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2hrqKf7
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2vk2wVv
 source: vk
 tags:
-  - ANSYS
+- ANSYS
+title: "\U0001F4FD Больше не нужно ездить в Париж, смоделируйте свою Эйфелеву"
 ---
 
 📽 Больше не нужно ездить в Париж, смоделируйте свою Эйфелеву башню в #ANSYS Discovery Live 🗺🇫🇷!Media📼 Eiffel tower 20 Kmph wind

@@ -1,16 +1,22 @@
 ---
+author: GlukRazor
+date: 2016-08-20 06:31:08+00:00
 layout: post
-title: "#Аудит использования лицензий ANSYS 17.2"
-date: 2016-08-20T06:31:08+00:00
-author: "GlukRazor"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: ''
+  title: '- YouTube'
+  url: https://www.youtube.com/watch?v=C5lEMr8aSP0
 source: vk
 tags:
-  - License
-  - ANSYS
-  - FlexNET
-  - FlexLM
-  - Аудит
-  - Web
+- License
+- ANSYS
+- FlexNET
+- FlexLM
+- Аудит
+- Web
+title: '#Аудит использования лицензий ANSYS 17.2'
 ---
 
 #Аудит использования лицензий ANSYS 17.2

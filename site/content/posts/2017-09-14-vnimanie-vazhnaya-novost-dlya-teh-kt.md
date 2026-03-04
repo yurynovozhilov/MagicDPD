@@ -1,9 +1,25 @@
 ---
+author: GlukRazor
+date: 2017-09-14 14:28:14+00:00
 layout: post
-title: "📢 ВНИМАНИЕ!!! Важная новость для тех, кто в поиске! 🔥🔥🔥"
-date: 2017-09-14T14:28:14+00:00
-author: "GlukRazor"
+link_previews:
+- description: 'Зарплата: от 30000 до 50000 ₽ за месяц. Санкт-Петербург. Требуемый
+    опыт: 1–3 года. Полная занятость. Дата публикации: 06.10.2017.'
+  image: https://thumbnail.hh.ru/vacancy/22638617.png?host=spb.hh.ru
+  title: Вакансия Менеджер по продажам и работе с клиентами в Санкт-Петербурге, работа
+    в компании Центр инженерно-физических расчетов и анализа (вакансия в архиве c
+    7 октября 2017)
+  url: http://ift.tt/2fkNXvz
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2eXhVp5
+- description: Page not found
+  image: ''
+  title: IFTTT / 404 Error
+  url: http://ift.tt/2fkNXvz%3C/p%3E
 source: vk
+title: "\U0001F4E2 ВНИМАНИЕ!!! Важная новость для тех, кто в поиске! \U0001F525\U0001F525\U0001F525"
 ---
 
 📢 ВНИМАНИЕ!!! Важная новость для тех, кто в поиске! 🔥🔥🔥

@@ -1,13 +1,20 @@
 ---
+author: GlukRazor
+date: 2016-10-19 17:00:28+00:00
 layout: post
-title: "Эффект песочных часов"
-date: 2016-10-19T17:00:28+00:00
-author: "GlukRazor"
+link_previews:
+- description: 'This is the second Workshop in our FEA training course: LS-DYNA Analysis
+    for Structural Mechanics. This course is geared toward the engineering professional
+    ...'
+  image: https://i.ytimg.com/vi/qUlqa_AGBes/maxresdefault.jpg
+  title: 'LS-DYNA Analysis for Structural Mechanics Workshop II: Hourglass Control'
+  url: https://www.youtube.com/watch?v=qUlqa_AGBes
 source: vk
 tags:
-  - PredictiveEngineering
-  - hourglass
-  - LSDYNA
+- PredictiveEngineering
+- hourglass
+- LSDYNA
+title: Эффект песочных часов
 ---
 
 Эффект песочных часов

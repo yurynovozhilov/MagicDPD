@@ -1,18 +1,24 @@
 ---
+author: GlukRazor
+date: 2016-07-07 06:31:33+00:00
 layout: post
-title: "Британская компания #Wilde Analysis - один из партнеров #ANS"
-date: 2016-07-07T06:31:33+00:00
-author: "GlukRazor"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: ''
+  title: '- YouTube'
+  url: https://www.youtube.com/watch?v=o298iRKV8Jw&list=PLD182EBB053185ABE
 source: vk
 tags:
-  - deepdrawing
-  - ANSYS
-  - DEFORM
-  - SFTC
-  - Wilde
-  - forming
-  - weling
-  - fracture
+- deepdrawing
+- ANSYS
+- DEFORM
+- SFTC
+- Wilde
+- forming
+- weling
+- fracture
+title: 'Британская компания #Wilde Analysis - один из партнеров #ANS'
 ---
 
 Британская компания #Wilde Analysis - один из партнеров #ANSYS  - выложил целую подборку демонстрационных видео по возможностям #DEFORM. Design Environment for FORMing является специализированным кодом, разработанным Scientific Forming Technologies Corporation (#SFTC) и заточенным на моделирование процессов механической и термической обработки материалов.

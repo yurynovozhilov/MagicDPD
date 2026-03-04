@@ -1,11 +1,17 @@
 ---
+author: GlukRazor
+date: 2017-06-25 17:00:43+00:00
 layout: post
-title: "Что делать с большими перемещениями?"
-date: 2017-06-25T17:00:43+00:00
-author: "GlukRazor"
+link_previews:
+- description: I'm a huge enthusiast of nonlinear FEA, but this doesn't mean you have
+    to use nonlinear geometry all the time. This is when you can ignore it.
+  image: https://enterfea.com/wp-content/uploads/2017/06/Thumbnail_WhenToIgnoreGeometricNonlinearity-2.png
+  title: Linear FEA - when it is safe to ignore geometrical nonlinearity?
+  url: https://enterfea.com/ignore-geometric-nonlinearity/
 source: vk
 tags:
-  - FEM
+- FEM
+title: Что делать с большими перемещениями?
 ---
 
 Что делать с большими перемещениями?

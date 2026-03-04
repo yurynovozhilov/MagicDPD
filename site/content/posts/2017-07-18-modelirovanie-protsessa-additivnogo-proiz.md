@@ -1,13 +1,18 @@
 ---
+author: GlukRazor
+date: 2017-07-18 17:01:09+00:00
 layout: post
-title: "Моделирование процесса аддитивного производства"
-date: 2017-07-18T17:01:09+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: ''
+  url: https://additive.works
 source: vk
 tags:
-  - AdditiveManufacturing
-  - Altair
-  - Amphyon
+- AdditiveManufacturing
+- Altair
+- Amphyon
+title: Моделирование процесса аддитивного производства
 ---
 
 Моделирование процесса аддитивного производства

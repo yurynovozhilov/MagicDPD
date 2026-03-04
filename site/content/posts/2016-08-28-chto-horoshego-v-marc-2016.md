@@ -1,13 +1,20 @@
 ---
+author: GlukRazor
+date: 2016-08-28 06:30:28+00:00
 layout: post
-title: "Что хорошего в Marc 2016"
-date: 2016-08-28T06:30:28+00:00
-author: "GlukRazor"
+link_previews:
+- description: We are pleased to announce the release of Marc 2016! With this release
+    Marc continues to deliver major enhancements in nonlinear material modeling, and
+    conta...
+  image: https://i.ytimg.com/vi/80SewUKhaQU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgMChyMA8=&rs=AOn4CLDS4N7UQ6kVLaBEuwuz_9x4jP2qBQ
+  title: Introducing Marc 2016
+  url: https://www.youtube.com/watch?v=80SewUKhaQU
 source: vk
 tags:
-  - Mark
-  - MSC
-  - FEM
+- Mark
+- MSC
+- FEM
+title: Что хорошего в Marc 2016
 ---
 
 Что хорошего в Marc 2016

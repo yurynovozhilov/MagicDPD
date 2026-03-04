@@ -1,15 +1,21 @@
 ---
+author: GlukRazor
+date: 2017-03-29 17:00:25+00:00
 layout: post
-title: "NICE EnginFrame 2017"
-date: 2017-03-29T17:00:25+00:00
-author: "GlukRazor"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: https://i.ytimg.com/vi/iBGEXDgi5-w/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGQgZChkMA8=&rs=AOn4CLCkF5J1eYm_DaATTj6U1O-ep_X8Ng
+  title: EnginFrame 2015 - InteractiveEditor
+  url: https://www.youtube.com/watch?v=iBGEXDgi5-w
 source: vk
 tags:
-  - Amazon
-  - HPC
-  - Nice
-  - AWS
-  - EngineFrame
+- Amazon
+- HPC
+- Nice
+- AWS
+- EngineFrame
+title: NICE EnginFrame 2017
 ---
 
 NICE EnginFrame 2017

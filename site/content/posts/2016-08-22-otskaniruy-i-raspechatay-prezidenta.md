@@ -1,14 +1,21 @@
 ---
+author: GlukRazor
+date: 2016-08-22 06:30:31+00:00
 layout: post
-title: "Отсканируй и распечатай президента"
-date: 2016-08-22T06:30:31+00:00
-author: "GlukRazor"
+link_previews:
+- description: Barack Obama was the first head of state to have his bust 3D printed,
+    breaking away from the White House’s 150-yr tradition of making plaster casts
+    of incumb...
+  image: https://i.ytimg.com/vi/gpMOe7O88cY/maxresdefault.jpg
+  title: A Presidential 3D Portrait - 3D Scanning Barack Obama
+  url: https://www.youtube.com/watch?v=gpMOe7O88cY
 source: vk
 tags:
-  - artec3d
-  - ReverseEngineering
-  - GEOMAGIC
-  - STL
+- artec3d
+- ReverseEngineering
+- GEOMAGIC
+- STL
+title: Отсканируй и распечатай президента
 ---
 
 Отсканируй и распечатай президента

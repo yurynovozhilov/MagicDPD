@@ -1,16 +1,27 @@
 ---
+author: GlukRazor
+date: 2016-08-06 06:30:23+00:00
 layout: post
-title: "Explicit FEM для проектирования турбин"
-date: 2016-08-06T06:30:23+00:00
-author: "GlukRazor"
+link_previews:
+- description: Cummins is using computer modeling and FEA to simulate a turbine wheel
+    bursting. The goal is to design housings that contain all the pieces.
+  image: https://speednik.imgix.net/2016/07/2016-07-26_04-23-14.jpg?auto=compress,format
+  title: Cummins Models Turbine Wheel Explosions
+  url: http://www.enginelabs.com/news/cummins-models-turbine-wheel-explosions-to-test-housing-containment/
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: ''
+  title: '- YouTube'
+  url: https://youtu.be/7Y01Ed4Sg3U
 source: vk
 tags:
-  - ANSYS
-  - Cummins
-  - Turbo
-  - FEM
-  - AUTODYN
-  - Explicit
+- ANSYS
+- Cummins
+- Turbo
+- FEM
+- AUTODYN
+- Explicit
+title: Explicit FEM для проектирования турбин
 ---
 
 Explicit FEM для проектирования турбин

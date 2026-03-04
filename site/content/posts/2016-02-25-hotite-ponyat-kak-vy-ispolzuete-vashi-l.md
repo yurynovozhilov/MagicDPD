@@ -1,13 +1,19 @@
 ---
+author: GlukRazor
+date: 2016-02-25 13:27:00+00:00
 layout: post
-title: "Хотите понять, как вы используете ваши лицензии FlexLM? Инте"
-date: 2016-02-25T13:27:00+00:00
-author: "GlukRazor"
+link_previews:
+- description: Free report tool for usage of network licenses of applications using
+    FLEXnet/FLEXlm.
+  image: ''
+  title: JTB FlexReport LT - JTB World
+  url: http://jtbworld.com/jtb-flexreport-lt
 source: vk
 tags:
-  - JTB
-  - FlexLM
-  - ANSYS
+- JTB
+- FlexLM
+- ANSYS
+title: Хотите понять, как вы используете ваши лицензии FlexLM? Инте
 ---
 
 Хотите понять, как вы используете ваши лицензии FlexLM? Интересно понять, надо ли прикупить еще ANSYS? У JTB есть бесплатная утилита анализа логов ваших серверов лицензий.

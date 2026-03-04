@@ -1,16 +1,21 @@
 ---
+author: GlukRazor
+date: 2016-11-12 12:03:35+00:00
 layout: post
-title: "CALFEM - не путать с CADFEM"
-date: 2016-11-12T12:03:35+00:00
-author: "GlukRazor"
+link_previews:
+- description: CALFEM has 7 repositories available. Follow their code on GitHub.
+  image: https://avatars.githubusercontent.com/u/15145552?s=280&v=4
+  title: CALFEM
+  url: https://github.com/CALFEM
 source: vk
 tags:
-  - МКЭ
-  - GitHub
-  - Python
-  - CALFEM
-  - Matlab
-  - opensource
+- МКЭ
+- GitHub
+- Python
+- CALFEM
+- Matlab
+- opensource
+title: CALFEM - не путать с CADFEM
 ---
 
 CALFEM - не путать с CADFEM

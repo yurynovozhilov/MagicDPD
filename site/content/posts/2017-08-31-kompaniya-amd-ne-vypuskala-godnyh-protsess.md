@@ -1,23 +1,28 @@
 ---
+author: GlukRazor
+date: 2017-08-31 18:42:15+00:00
 layout: post
-title: "Компания AMD не выпускала годных процессоров лет 6, но в это"
-date: 2017-08-31T18:42:15+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2emhAvW
 source: vk
 tags:
-  - Intel
-  - CFD
-  - CAE
-  - Threadripper
-  - HPC
-  - Ryzen
-  - tomshardware
-  - AMD
-  - i9
-  - FEM
-  - Rodinia
-  - CalculiX
-  - Core
+- Intel
+- CFD
+- CAE
+- Threadripper
+- HPC
+- Ryzen
+- tomshardware
+- AMD
+- i9
+- FEM
+- Rodinia
+- CalculiX
+- Core
+title: Компания AMD не выпускала годных процессоров лет 6, но в это
 ---
 
 Компания AMD не выпускала годных процессоров лет 6, но в этом году она заявила о себе с новой архитектурой, которая должна составить конкуренцию Intel. Сам я пока бенчмарков сделать не успел, но провел небольшой обзор #HPC литературы.

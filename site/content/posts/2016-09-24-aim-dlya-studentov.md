@@ -1,15 +1,21 @@
 ---
+author: GlukRazor
+date: 2016-09-24 12:01:39+00:00
 layout: post
-title: "AIM для студентов"
-date: 2016-09-24T12:01:39+00:00
-author: "GlukRazor"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: ''
+  title: '- YouTube'
+  url: https://www.youtube.com/watch?v=OTkEdYZjKwU
 source: vk
 tags:
-  - CFD
-  - ANSYS
-  - FEA
-  - AIM
-  - Student
+- CFD
+- ANSYS
+- FEA
+- AIM
+- Student
+title: AIM для студентов
 ---
 
 AIM для студентов

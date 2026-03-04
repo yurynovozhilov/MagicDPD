@@ -1,13 +1,20 @@
 ---
+author: GlukRazor
+date: 2017-03-01 17:02:23+00:00
 layout: post
-title: "Параметрическая оптимизация от LSTC"
-date: 2017-03-01T17:02:23+00:00
-author: "GlukRazor"
+link_previews:
+- description: This video demonstrates how to perform a material paramter identification
+    using LS-OPT. An inverse modeling example is shown where two material parameters
+    ne...
+  image: https://i.ytimg.com/vi/mOWoqcKtTt4/maxresdefault.jpg
+  title: Parameter Identification test
+  url: https://youtu.be/mOWoqcKtTt4
 source: vk
 tags:
-  - LSTC
-  - LSOPT
-  - LSDYNA
+- LSTC
+- LSOPT
+- LSDYNA
+title: Параметрическая оптимизация от LSTC
 ---
 
 Параметрическая оптимизация от LSTC

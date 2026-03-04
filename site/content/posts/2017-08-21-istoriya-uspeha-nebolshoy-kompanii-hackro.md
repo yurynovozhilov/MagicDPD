@@ -1,14 +1,21 @@
 ---
+author: GlukRazor
+date: 2017-08-21 23:28:33+00:00
 layout: post
-title: "История успеха небольшой компании Hackrod (http://hackrod.co"
-date: 2017-08-21T23:28:33+00:00
-author: "GlukRazor"
+link_previews:
+- description: Application of methods of artificial intelligence, intellectual data
+    analysis, forecasting, digital technologies, software and hardware complexes in
+    modeling
+  image: ''
+  title: Home
+  url: http://hackrod.com
 source: vk
 tags:
-  - magicdpd
-  - Autodesk
-  - Fusion
-  - Dreamcatcher
+- magicdpd
+- Autodesk
+- Fusion
+- Dreamcatcher
+title: История успеха небольшой компании Hackrod (http://hackrod.co
 ---
 
 История успеха небольшой компании Hackrod (http://hackrod.com), проектирующей при помощи #Autodesk #Fusion 360 кастомные спортивные автомобили с футуристическими пространственными рамами.

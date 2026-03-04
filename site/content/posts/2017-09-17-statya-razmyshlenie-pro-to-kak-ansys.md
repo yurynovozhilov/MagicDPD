@@ -1,29 +1,34 @@
 ---
+author: GlukRazor
+date: 2017-09-17 17:04:13+00:00
 layout: post
-title: "Статья - размышление про то, как #ANSYS #Discovery Live помо"
-date: 2017-09-17T17:04:13+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2vk2wVv
 source: vk
 tags:
-  - Discovery
-  - FEM
-  - Fluent
-  - Workbench
-  - Fusion
-  - Autodesk
-  - GPU
-  - APDL
-  - Creo
-  - SpaceClaim
-  - PTC
-  - GPGPU
-  - CFD
-  - ANSYS
-  - Mechanical
-  - AIM
-  - CUDA
-  - NVIDIA
-  - Siemens
+- Discovery
+- FEM
+- Fluent
+- Workbench
+- Fusion
+- Autodesk
+- GPU
+- APDL
+- Creo
+- SpaceClaim
+- PTC
+- GPGPU
+- CFD
+- ANSYS
+- Mechanical
+- AIM
+- CUDA
+- NVIDIA
+- Siemens
+title: 'Статья - размышление про то, как #ANSYS #Discovery Live помо'
 ---
 
 Статья - размышление про то, как #ANSYS #Discovery Live помогает ANSYS реализовать свободомыслий давнюю задумку: сделать всех инженеров и проектировщиков своими пользователями.

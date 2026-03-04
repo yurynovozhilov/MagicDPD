@@ -1,14 +1,20 @@
 ---
+author: GlukRazor
+date: 2015-10-12 18:01:12+00:00
 layout: post
-title: "Отличный ликбез по теме доставки приложений и рабочих столов"
-date: 2015-10-12T18:01:12+00:00
-author: "GlukRazor"
+link_previews:
+- description: The industry experts with focus on remoting graphics, and GPUs for
+    virtual desktops and applications.
+  image: /assets/images/logo.png
+  title: TeamRGE
+  url: http://www.teamrge.com
 source: vk
 tags:
-  - remoteviz
-  - dcv
-  - opengl
-  - vGPU
+- remoteviz
+- dcv
+- opengl
+- vGPU
+title: Отличный ликбез по теме доставки приложений и рабочих столов
 ---
 
 Отличный ликбез по теме доставки приложений и рабочих столов с удаленных серверов. Досконально разобраны все подводные ками, обозрении практически все ханологии (забыли только две: старый-злой VirtualGL и находящийся в зачаточном состоянии Spice Space).

@@ -1,12 +1,17 @@
 ---
+author: GlukRazor
+date: 2016-11-09 17:00:30+00:00
 layout: post
-title: "Точечная сварка"
-date: 2016-11-09T17:00:30+00:00
-author: "GlukRazor"
+link_previews:
+- description: Spot-weld analysis of two metal sheets with use of LS-DYNAwww.3cengineers.com
+  image: https://i.ytimg.com/vi/p9p7Z7B0EEc/maxresdefault.jpg
+  title: Spot-weld Analysis - LS-DYNA
+  url: https://www.youtube.com/watch?v=p9p7Z7B0EEc
 source: vk
 tags:
-  - LSPP
-  - LSDYNA
+- LSPP
+- LSDYNA
+title: Точечная сварка
 ---
 
 Точечная сварка

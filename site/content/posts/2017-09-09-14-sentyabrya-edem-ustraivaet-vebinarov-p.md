@@ -1,14 +1,19 @@
 ---
+author: GlukRazor
+date: 2017-09-09 17:03:14+00:00
 layout: post
-title: "14 сентября #EDEM устраивает вебинаров по работе их #DEM код"
-date: 2017-09-09T17:03:14+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2jcbmDU
 source: vk
 tags:
-  - Mechanical
-  - DEM
-  - EDEM
-  - ANSYS
+- Mechanical
+- DEM
+- EDEM
+- ANSYS
+title: '14 сентября #EDEM устраивает вебинаров по работе их #DEM код'
 ---
 
 14 сентября #EDEM устраивает вебинаров по работе их #DEM кода в связке с #ANSYS #Mechanical.

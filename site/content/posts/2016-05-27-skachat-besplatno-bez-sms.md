@@ -1,12 +1,17 @@
 ---
+author: GlukRazor
+date: 2016-05-27 07:00:55+00:00
 layout: post
-title: "Скачать бесплатно, без sms!"
-date: 2016-05-27T07:00:55+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Openfoam for Windows – CFD SUPPORT
+  url: http://www.cfdsupport.com/openfoam-for-windows.html
 source: vk
 tags:
-  - CFD
-  - OpenFOAM
+- CFD
+- OpenFOAM
+title: Скачать бесплатно, без sms!
 ---
 
 Скачать бесплатно, без sms!

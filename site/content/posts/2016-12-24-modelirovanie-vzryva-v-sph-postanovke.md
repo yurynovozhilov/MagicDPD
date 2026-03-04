@@ -1,13 +1,20 @@
 ---
+author: GlukRazor
+date: 2016-12-24 12:01:00+00:00
 layout: post
-title: "Моделирование взрыва в SPH постановке"
-date: 2016-12-24T12:01:00+00:00
-author: "GlukRazor"
+link_previews:
+- description: For more information please download the article available at http://rdcu.be/nZPf
+    or at https://www.researchgate.net/publication/311767477_Blast_response_of_...
+  image: https://i.ytimg.com/vi/0Q-5dAiPcwE/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGEEgWShlMA8=&rs=AOn4CLCRQABA9zRqu3AxgPkHmK4Wc8nGpQ
+  title: Blast response of centrally and eccentrically loaded flat-, U-, and V-shaped
+    armored plates
+  url: https://www.youtube.com/watch?v=0Q-5dAiPcwE
 source: vk
 tags:
-  - blast
-  - SPH
-  - LSDYNA
+- blast
+- SPH
+- LSDYNA
+title: Моделирование взрыва в SPH постановке
 ---
 
 Моделирование взрыва в SPH постановке

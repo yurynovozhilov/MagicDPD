@@ -1,13 +1,20 @@
 ---
+author: GlukRazor
+date: 2016-10-09 12:00:08+00:00
 layout: post
-title: "И еще немного трещин"
-date: 2016-10-09T12:00:08+00:00
-author: "GlukRazor"
+link_previews:
+- description: Low cycle fatigue analysis of a compact tension test with Abaqus/Standard
+    and X-FEM.If you would like more information contact TECHNIA Ltd 01608 811777
+    | inf...
+  image: https://i.ytimg.com/vi/vS3bkoFy_YE/maxresdefault.jpg
+  title: SIMULIA Abaqus/Standard & X-FEM - Low cycle fatigue analysis
+  url: https://www.youtube.com/watch?v=vS3bkoFy_YE
 source: vk
 tags:
-  - fatigue
-  - XFEM
-  - Abaqus
+- fatigue
+- XFEM
+- Abaqus
+title: И еще немного трещин
 ---
 
 И еще немного трещин

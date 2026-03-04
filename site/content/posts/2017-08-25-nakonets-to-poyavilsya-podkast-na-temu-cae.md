@@ -1,13 +1,18 @@
 ---
+author: GlukRazor
+date: 2017-08-25 17:11:58+00:00
 layout: post
-title: "Наконец-то появился подкаст на тему #CAE. Его автором стала "
-date: 2017-08-25T17:11:58+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2vdfLMH
 source: vk
 tags:
-  - ANSYS
-  - PADT
-  - CAE
+- ANSYS
+- PADT
+- CAE
+title: 'Наконец-то появился подкаст на тему #CAE. Его автором стала '
 ---
 
 Наконец-то появился подкаст на тему #CAE. Его автором стала команда #PADT Inc, а сам подкаст называется "The All Things ANSYS Podcast".

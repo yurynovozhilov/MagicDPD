@@ -1,13 +1,23 @@
 ---
+author: GlukRazor
+date: 2017-09-16 17:04:27+00:00
 layout: post
-title: "В блоге #Simscale вышла хорошая статья, посвященная критерию"
-date: 2017-09-16T17:04:27+00:00
-author: "GlukRazor"
+link_previews:
+- description: The CFL condition (Courant–Friedrichs–Lewy) is a condition for the
+    stability of numerical methods that model convection or wave phenomena.
+  image: ''
+  title: 'CFL Condition: How to Choose Your Timestep Size | SimScale'
+  url: https://www.simscale.com/blog/2017/08/cfl-condition/
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2y5Nsws
 source: vk
 tags:
-  - explicit
-  - CFL
-  - Simscale
+- explicit
+- CFL
+- Simscale
+title: 'В блоге #Simscale вышла хорошая статья, посвященная критерию'
 ---
 
 В блоге #Simscale вышла хорошая статья, посвященная критерию/условию Куранта, отвечающему за устойчивость схемы интегрирования по времени. В литературе он также встречается как критерий Куранта-Фридерикса-Леви, Courant–Friedrichs–Lewy или просто #CFL Time.

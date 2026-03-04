@@ -1,16 +1,21 @@
 ---
+author: GlukRazor
+date: 2017-07-26 17:00:09+00:00
 layout: post
-title: "LaTeX формулы в картинках"
-date: 2017-07-26T17:00:09+00:00
-author: "GlukRazor"
+link_previews:
+- description: KLatexFormula official web site.
+  image: ''
+  title: KLatexFormula — KLatexFormula
+  url: https://klatexformula.sourceforge.io/
 source: vk
 tags:
-  - opensource
-  - KLatexFormula
-  - Linux
-  - Windows
-  - LaTeX
-  - macOS
+- opensource
+- KLatexFormula
+- Linux
+- Windows
+- LaTeX
+- macOS
+title: LaTeX формулы в картинках
 ---
 
 LaTeX формулы в картинках

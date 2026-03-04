@@ -1,13 +1,20 @@
 ---
+author: GlukRazor
+date: 2016-12-22 17:02:06+00:00
 layout: post
-title: "Морской бой на MAPDL"
-date: 2016-12-22T17:02:06+00:00
-author: "GlukRazor"
+link_previews:
+- description: 'Download link: https://www.svsfem.cz/go/Battleship-in-ANSYSHra Lode
+    naprogramovaná pomocí maker v klasickém prostředí ANSYS Mechanical APDL. K dispozici
+    máte...'
+  image: https://i.ytimg.com/vi/uuayOVr7PfA/maxresdefault.jpg
+  title: BattleShip in ANSYS
+  url: https://www.youtube.com/watch?v=uuayOVr7PfA
 source: vk
 tags:
-  - APDL
-  - Workbench
-  - ANSYS
+- APDL
+- Workbench
+- ANSYS
+title: Морской бой на MAPDL
 ---
 
 Морской бой на MAPDL

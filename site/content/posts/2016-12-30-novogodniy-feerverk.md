@@ -1,15 +1,24 @@
 ---
+author: GlukRazor
+date: 2016-12-30 10:01:26+00:00
 layout: post
-title: "Новогодний феерверк"
-date: 2016-12-30T10:01:26+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Error | VK
+  url: https://vk.com/doc11568_440462041
+- description: Free and easy sample of particle blast input desk for LS-DYNA R9https://vk.com/doc11568_440462041
+  image: https://i.ytimg.com/vi/qOUo3JLNUao/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGAgTyhlMA8=&rs=AOn4CLBF7dfvBSWEHUsMvN4bteQ2e70q9A
+  title: Particle Blast Sample
+  url: https://youtu.be/qOUo3JLNUao
 source: vk
 tags:
-  - ConWep
-  - PBM
-  - LSDYNA
-  - ALE
-  - CPM
+- ConWep
+- PBM
+- LSDYNA
+- ALE
+- CPM
+title: Новогодний феерверк
 ---
 
 Новогодний феерверк

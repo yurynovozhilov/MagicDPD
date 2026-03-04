@@ -1,17 +1,22 @@
 ---
+author: GlukRazor
+date: 2016-08-19 06:30:58+00:00
 layout: post
-title: "Демонстрационные примеры MSC.Dytran"
-date: 2016-08-19T06:30:58+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Before you continue to YouTube
+  url: https://www.youtube.com/playlist?list=PLI39KM_btemwhrhyEBRh8BZ-bGJ3kdWh3
 source: vk
 tags:
-  - MSC
-  - ANSYS
-  - LSTC
-  - LSDYNA
-  - Dytran
-  - AUTODYN
-  - Explicit
+- MSC
+- ANSYS
+- LSTC
+- LSDYNA
+- Dytran
+- AUTODYN
+- Explicit
+title: Демонстрационные примеры MSC.Dytran
 ---
 
 Демонстрационные примеры MSC.Dytran

@@ -1,16 +1,23 @@
 ---
+author: GlukRazor
+date: 2017-05-29 17:00:28+00:00
 layout: post
-title: "LimitState для проектирования топологии"
-date: 2017-05-29T17:00:28+00:00
-author: "GlukRazor"
+link_previews:
+- description: LimitState:FORM uses layout and geometry optimization techniques not
+    used by other commercial software, to identify an optimized design in minutes
+    - not hour...
+  image: https://i.ytimg.com/vi/yQI6e2iGlzE/maxresdefault.jpg
+  title: LimitState:FORM | Design Optimization Software
+  url: https://youtu.be/yQI6e2iGlzE
 source: vk
 tags:
-  - LimitState
-  - topology
-  - ANSYS
-  - Mechanical
-  - optimization
-  - SpaceClaim
+- LimitState
+- topology
+- ANSYS
+- Mechanical
+- optimization
+- SpaceClaim
+title: LimitState для проектирования топологии
 ---
 
 LimitState для проектирования топологии

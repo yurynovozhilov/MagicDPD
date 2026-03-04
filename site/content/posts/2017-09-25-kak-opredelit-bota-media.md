@@ -1,9 +1,14 @@
 ---
+author: GlukRazor
+date: 2017-09-25 10:45:40+00:00
 layout: post
-title: "Как определить бота 😊Media"
-date: 2017-09-25T10:45:40+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2y3blZE
 source: vk
+title: "Как определить бота \U0001F60AMedia"
 ---
 
 Как определить бота 😊Media

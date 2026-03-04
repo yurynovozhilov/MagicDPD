@@ -1,12 +1,18 @@
 ---
+author: GlukRazor
+date: 2016-09-14 17:00:52+00:00
 layout: post
-title: "AFDEX для моделирования пластического поведения металлов"
-date: 2016-09-14T17:00:52+00:00
-author: "GlukRazor"
+link_previews:
+- description: The Altair Blog is the best way to stay up to date on Altair’s most
+    noteworthy articles, including those from Altair executives and partner organizations.
+  image: https://altair.com/images/default-source/content-images/altair_blog_social.jpg?sfvrsn=a66ac2fa_1
+  title: Altair Blog
+  url: http://innovationintelligence.com/material-identification-technology-and-its-application-to-ductile-fracture/
 source: vk
 tags:
-  - Altair
-  - AFDEX
+- Altair
+- AFDEX
+title: AFDEX для моделирования пластического поведения металлов
 ---
 
 AFDEX для моделирования пластического поведения металлов

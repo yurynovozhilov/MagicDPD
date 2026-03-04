@@ -1,12 +1,18 @@
 ---
+author: GlukRazor
+date: 2016-11-13 17:02:03+00:00
 layout: post
-title: "Книги по CFD"
-date: 2016-11-13T17:02:03+00:00
-author: "GlukRazor"
+link_previews:
+- description: The fluid mechanics book list you need for studying and understanding
+    CFD. All the books you need, divided based on different areas of fluid mechanics.
+  image: ''
+  title: Looking for a Fluid Mechanics Book? Here's a List! | SimScale
+  url: https://www.simscale.com/blog/2016/11/best-fluid-mechanics-books/
 source: vk
 tags:
-  - SimScale
-  - CFD
+- SimScale
+- CFD
+title: Книги по CFD
 ---
 
 Книги по CFD

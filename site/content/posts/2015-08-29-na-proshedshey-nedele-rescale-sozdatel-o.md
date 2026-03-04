@@ -1,16 +1,22 @@
 ---
+author: GlukRazor
+date: 2015-08-29 17:00:38+00:00
 layout: post
-title: "На прошедшей неделе Rescale, создатель одной из крупнейших о"
-date: 2015-08-29T17:00:38+00:00
-author: "GlukRazor"
+link_previews:
+- description: Today Rescale announced availability of its Europe region simulation
+    and HPC platforms.
+  image: https://insidehpc.com/wp-content/uploads/2015/08/scalex.jpg
+  title: Rescale Launches Cloud HPC Platform in Europe
+  url: http://insidehpc.com/2015/08/rescale-launches-cloud-hpc-platform-in-europe/
 source: vk
 tags:
-  - ANSYS
-  - HPC
-  - CADFEM
-  - Cloud
-  - CAE
-  - Rescale
+- ANSYS
+- HPC
+- CADFEM
+- Cloud
+- CAE
+- Rescale
+title: На прошедшей неделе Rescale, создатель одной из крупнейших о
 ---
 
 На прошедшей неделе Rescale, создатель одной из крупнейших облачных #HPC платформ для #CAE и один из ключевых партнеров #ANSYS в области облачных вычислений на рынке США официально пришла в Европу. Для пользователей это означает существенное снижение задержек при работе с вычислительным облаком, так как оборудование теперь будет размещаться и в Европе.

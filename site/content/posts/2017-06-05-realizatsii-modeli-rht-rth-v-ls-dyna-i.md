@@ -1,19 +1,24 @@
 ---
+author: GlukRazor
+date: 2017-06-05 17:01:28+00:00
 layout: post
-title: "Реализации модели RHT (RTH) в LS-DYNA и AUTODYN"
-date: 2017-06-05T17:01:28+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Home | GRS gGmbH
+  url: http://www.grs.de/en
 source: vk
 tags:
-  - RHT
-  - ANYS
-  - concrete
-  - LSTC
-  - LSDYNA
-  - GRS
-  - AUTODYN
-  - RTH
-  - Explicit
+- RHT
+- ANYS
+- concrete
+- LSTC
+- LSDYNA
+- GRS
+- AUTODYN
+- RTH
+- Explicit
+title: Реализации модели RHT (RTH) в LS-DYNA и AUTODYN
 ---
 
 Реализации модели RHT (RTH) в LS-DYNA и AUTODYN

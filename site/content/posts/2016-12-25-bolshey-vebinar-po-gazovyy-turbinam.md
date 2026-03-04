@@ -1,12 +1,19 @@
 ---
+author: GlukRazor
+date: 2016-12-25 12:00:50+00:00
 layout: post
-title: "Большей вебинар по газовый турбинам"
-date: 2016-12-25T12:00:50+00:00
-author: "GlukRazor"
+link_previews:
+- description: Join Scott Drennan, Convergent Science Gas Turbine Applications Director,
+    for a discussion of simulation of gas turbine relight simulations using CONVERGE
+    CF...
+  image: https://i.ytimg.com/vi/bFG8_q5IYKw/maxresdefault.jpg
+  title: 'WEBINAR: What You Need to Know about Gas Turbine Relight'
+  url: https://www.youtube.com/watch?v=bFG8_q5IYKw&t=0s
 source: vk
 tags:
-  - CFD
-  - CONVERGE
+- CFD
+- CONVERGE
+title: Большей вебинар по газовый турбинам
 ---
 
 Большей вебинар по газовый турбинам

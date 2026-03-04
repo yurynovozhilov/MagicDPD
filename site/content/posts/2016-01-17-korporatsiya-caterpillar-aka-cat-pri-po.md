@@ -1,14 +1,20 @@
 ---
+author: GlukRazor
+date: 2016-01-17 12:00:04+00:00
 layout: post
-title: "Корпорация Caterpillar (aka. CAT) при помощи связки #ANSYS #"
-date: 2016-01-17T12:00:04+00:00
-author: "GlukRazor"
+link_previews:
+- description: Read how Caterpillar Propulsion uses CAESES for the design and optimization
+    of propeller blades.
+  image: ''
+  title: Propeller Design at Caterpillar Propulsion › CAESES
+  url: https://www.caeses.com/industries/case-studies/powerful-workflow-for-propeller-design/
 source: vk
 tags:
-  - CAESES
-  - Mechanical
-  - ANSYS
-  - OpenFOAM
+- CAESES
+- Mechanical
+- ANSYS
+- OpenFOAM
+title: 'Корпорация Caterpillar (aka. CAT) при помощи связки #ANSYS #'
 ---
 
 Корпорация Caterpillar (aka. CAT) при помощи связки #ANSYS #Mechanical, #OpenFOAM и #CAESES сделала оптимальный гребной винт.

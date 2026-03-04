@@ -1,12 +1,18 @@
 ---
+author: GlukRazor
+date: 2016-08-17 06:31:01+00:00
 layout: post
-title: "Изучаем Femap"
-date: 2016-08-17T06:31:01+00:00
-author: "GlukRazor"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: https://i.ytimg.com/vi/tABa9ZOnUMs/maxresdefault.jpg
+  title: Анализ результатов КЭ расчетов в Femap
+  url: https://www.youtube.com/watch?v=tABa9ZOnUMs
 source: vk
 tags:
-  - Femap
-  - CAE
+- Femap
+- CAE
+title: Изучаем Femap
 ---
 
 Изучаем Femap

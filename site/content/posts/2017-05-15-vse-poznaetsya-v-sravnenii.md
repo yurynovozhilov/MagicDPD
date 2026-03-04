@@ -1,15 +1,21 @@
 ---
+author: GlukRazor
+date: 2017-05-15 17:00:33+00:00
 layout: post
-title: "Все познается в сравнении"
-date: 2017-05-15T17:00:33+00:00
-author: "GlukRazor"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: https://i.ytimg.com/vi/wwQq7Mwwf1A/hqdefault.jpg
+  title: LS DYNA and RADIOSS Crash Simulation
+  url: https://www.youtube.com/watch?v=wwQq7Mwwf1A
 source: vk
 tags:
-  - LSTC
-  - Altair
-  - RADIOSS
-  - LSDYNA
-  - explicit
+- LSTC
+- Altair
+- RADIOSS
+- LSDYNA
+- explicit
+title: Все познается в сравнении
 ---
 
 Все познается в сравнении

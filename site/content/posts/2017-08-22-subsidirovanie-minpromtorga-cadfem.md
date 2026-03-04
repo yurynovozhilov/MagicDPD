@@ -1,11 +1,16 @@
 ---
+author: GlukRazor
+date: 2017-08-22 07:48:42+00:00
 layout: post
-title: "Субсидирование Минпромторга – CADFEM"
-date: 2017-08-22T07:48:42+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://vk.com/wall-97265142_3069
 source: vk
 tags:
-  - magicdpd
+- magicdpd
+title: Субсидирование Минпромторга – CADFEM
 ---
 
 Субсидирование Минпромторга – CADFEM

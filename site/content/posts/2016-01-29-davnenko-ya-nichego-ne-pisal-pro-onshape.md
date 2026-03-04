@@ -1,12 +1,18 @@
 ---
+author: GlukRazor
+date: 2016-01-29 17:01:23+00:00
 layout: post
-title: "Давненько я ничего не писал про #Onshape. А между тем, у них"
-date: 2016-01-29T17:01:23+00:00
-author: "GlukRazor"
+link_previews:
+- description: Read posts by the Onshape team about the latest in product design and
+    development.
+  image: https://www.onshape.com/cdn-images/8a40cf7d885eed858db30164dcfe866c9e6b522e-1900x319.png
+  title: The Product Innovation Blog
+  url: https://www.onshape.com/cad-blog/introducing-the-onshape-app-store
 source: vk
 tags:
-  - Onshape
-  - CAD
+- Onshape
+- CAD
+title: 'Давненько я ничего не писал про #Onshape. А между тем, у них'
 ---
 
 Давненько я ничего не писал про #Onshape. А между тем, у них появился свой AppSore, где можно добавить расширений к облачной #CAD системе. Вот список доступных уже сейчас расширений:

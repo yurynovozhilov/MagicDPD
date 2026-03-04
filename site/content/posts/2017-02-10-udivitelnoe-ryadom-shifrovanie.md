@@ -1,13 +1,18 @@
 ---
+author: GlukRazor
+date: 2017-02-10 17:01:53+00:00
 layout: post
-title: "Удивительное рядом - шифрование"
-date: 2017-02-10T17:01:53+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: PGP — Википедия
+  url: https://ru.wikipedia.org/wiki/PGP
 source: vk
 tags:
-  - LSTC
-  - PGP
-  - LSDYNA
+- LSTC
+- PGP
+- LSDYNA
+title: Удивительное рядом - шифрование
 ---
 
 Удивительное рядом - шифрование

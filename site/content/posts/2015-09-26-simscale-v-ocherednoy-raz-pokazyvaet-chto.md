@@ -1,12 +1,23 @@
 ---
+author: GlukRazor
+date: 2015-09-26 06:30:05+00:00
 layout: post
-title: "SimScale в очередной раз показывает, что OpenFOAM внутри не "
-date: 2015-09-26T06:30:05+00:00
-author: "GlukRazor"
+link_previews:
+- description: SimScale's blog for all things CFD, FEA, and Thermal Simulation. Find
+    out more about CAE news in the cloud! Read articles now.
+  image: ''
+  title: SimScale Blog | CFD, FEA, Thermal Simulation and CAE | SimScale
+  url: https://blog.simscale.com/blog/2015/09/3-valve-simulations-that-you-
+- description: SimScale's blog for all things CFD, FEA, and Thermal Simulation. Find
+    out more about CAE news in the cloud! Read articles now.
+  image: ''
+  title: SimScale Blog | CFD, FEA, Thermal Simulation and CAE | SimScale
+  url: https://blog.simscale.com/blog/2015/09/3-valve-simulations-that-you-should-not-miss/
 source: vk
 tags:
-  - SImScale
-  - OpenFOAM
+- SImScale
+- OpenFOAM
+title: 'SimScale в очередной раз показывает, что OpenFOAM внутри не '
 ---
 
 SimScale в очередной раз показывает, что OpenFOAM внутри не врет при моделировании запорной арматуры.

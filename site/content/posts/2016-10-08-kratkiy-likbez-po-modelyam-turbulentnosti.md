@@ -1,12 +1,18 @@
 ---
+author: GlukRazor
+date: 2016-10-08 12:02:00+00:00
 layout: post
-title: "Краткий ликбез по моделям турбулентности"
-date: 2016-10-08T12:02:00+00:00
-author: "GlukRazor"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: https://i.ytimg.com/vi/Yf2iVABc8cg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEUgZSgPMA8=&rs=AOn4CLBOFq87_PxRxFP77QyXO_wisfymqQ
+  title: Understanding the Turbulence Models available in Autodesk Simulation CFD
+  url: https://www.youtube.com/watch?v=Yf2iVABc8cg
 source: vk
 tags:
-  - CFD
-  - Autodesk
+- CFD
+- Autodesk
+title: Краткий ликбез по моделям турбулентности
 ---
 
 Краткий ликбез по моделям турбулентности

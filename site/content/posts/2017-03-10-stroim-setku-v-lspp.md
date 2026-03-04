@@ -1,13 +1,19 @@
 ---
+author: GlukRazor
+date: 2017-03-10 17:00:24+00:00
 layout: post
-title: "Строим сетку в LSPP"
-date: 2017-03-10T17:00:24+00:00
-author: "GlukRazor"
+link_previews:
+- description: Finite element modeling in the ls-prepost ls-dyna (an abbreviated example
+    of the tutorials). Our page in facebook https://www.facebook.com/lsdynatutorial
+  image: https://i.ytimg.com/vi/lO_05gUl144/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGaCIAC0AWKAgwIABABGFkgVyhlMA8=&rs=AOn4CLD6MKCf8QUu7vCingGp38i8Zt1YsA
+  title: Tutorial meshing in ls-dyna
+  url: https://www.youtube.com/watch?v=lO_05gUl144
 source: vk
 tags:
-  - LSTC
-  - LSPP
-  - LSDYNA
+- LSTC
+- LSPP
+- LSDYNA
+title: Строим сетку в LSPP
 ---
 
 Строим сетку в LSPP

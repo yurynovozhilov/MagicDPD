@@ -1,13 +1,18 @@
 ---
+author: GlukRazor
+date: 2016-07-01 06:31:06+00:00
+images:
+- url: https://sun9-49.userapi.com/s/v1/ig1/CAMPrS4YO-LcSjsNsWMvi9EoU0mxbRMTLBheW1jS5yjiHxPMKAA2c-qMEbjKkY1yHj5GpYhA.jpg?quality=96&as=32x44,48x65,72x98,108x147,160x218,240x327,360x491,480x654,540x736,640x872,720x981,826x1126&from=bu&u=o0BI9dlbrY4GgYs7g_o3sqyYA2lNo2xdSmQcKBCSBlA&cs=826x0
 layout: post
-title: "На днях мой хороший знакомый задал мне, сам того не подозрев"
-date: 2016-07-01T06:31:06+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: LS-DYNA_BestPractices_Robustness_Consistency_May2016.pdf
+  url: https://vk.com/doc11568_437622220
 source: vk
 tags:
-  - LSDYNA
-images:
-  - url: "https://sun9-49.userapi.com/s/v1/ig1/CAMPrS4YO-LcSjsNsWMvi9EoU0mxbRMTLBheW1jS5yjiHxPMKAA2c-qMEbjKkY1yHj5GpYhA.jpg?quality=96&as=32x44,48x65,72x98,108x147,160x218,240x327,360x491,480x654,540x736,640x872,720x981,826x1126&from=bu&u=o0BI9dlbrY4GgYs7g_o3sqyYA2lNo2xdSmQcKBCSBlA&cs=826x0"
+- LSDYNA
+title: На днях мой хороший знакомый задал мне, сам того не подозрев
 ---
 
 На днях мой хороший знакомый задал мне, сам того не подозревая,провокационный вопрос. "Я тут в тайне считал потерю устойчивости сотового заполнителя, так у меня в разных версиях результаты совершенно разные получались - как так?" - сказал мне он. И действительно, как так? Существует популярное заблуждение, что решатель #LSDYNA на разных машина, на разных версиях может давать совершенно различные результаты.

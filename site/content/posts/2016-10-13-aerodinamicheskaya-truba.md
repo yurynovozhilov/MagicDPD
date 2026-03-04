@@ -1,16 +1,22 @@
 ---
+author: GlukRazor
+date: 2016-10-13 17:00:16+00:00
 layout: post
-title: "Аэродинамическая труба"
-date: 2016-10-13T17:00:16+00:00
-author: "GlukRazor"
+link_previews:
+- description: This video offers a presentation of a mesh sensitivity study for external
+    aerodynamics, investigating the influence of the mesh characteristics on the accura...
+  image: https://i.ytimg.com/vi/Oc7tVyHke3E/maxresdefault.jpg
+  title: CFD case study of the DrivAer model with ANSA and OpenFOAM
+  url: https://www.youtube.com/watch?v=Oc7tVyHke3E
 source: vk
 tags:
-  - CFD
-  - BMW
-  - μETA
-  - ANSA
-  - BetaCAE
-  - OpenFOAM
+- CFD
+- BMW
+- μETA
+- ANSA
+- BetaCAE
+- OpenFOAM
+title: Аэродинамическая труба
 ---
 
 Аэродинамическая труба

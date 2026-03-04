@@ -1,16 +1,23 @@
 ---
+author: GlukRazor
+date: 2016-11-03 17:00:45+00:00
 layout: post
-title: "Моделирование пропитки композитов"
-date: 2016-11-03T17:00:45+00:00
-author: "GlukRazor"
+link_previews:
+- description: Resin transfer molding (RTM) is an increasingly common form of moulding,
+    using liquid composites. It is primarily used to mold components with large surface
+    ...
+  image: https://i.ytimg.com/vi/SpIXOfVEBvE/maxresdefault.jpg
+  title: 'LS-DYNA CFD: Resin Transfer Molding Application (RTM)'
+  url: https://www.youtube.com/watch?v=SpIXOfVEBvE
 source: vk
 tags:
-  - CFD
-  - LSTC
-  - ICFD
-  - LSDYNA
-  - RTM
-  - composite
+- CFD
+- LSTC
+- ICFD
+- LSDYNA
+- RTM
+- composite
+title: Моделирование пропитки композитов
 ---
 
 Моделирование пропитки композитов

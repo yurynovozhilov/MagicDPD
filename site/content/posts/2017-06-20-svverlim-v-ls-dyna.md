@@ -1,11 +1,17 @@
 ---
+author: GlukRazor
+date: 2017-06-20 17:01:05+00:00
 layout: post
-title: "Свверлим в LS-DYNA"
-date: 2017-06-20T17:01:05+00:00
-author: "GlukRazor"
+link_previews:
+- description: Simulation of drilling process using the program LS-DYNA. Output parameters
+    of stress, strain, temperatureOur group in facebook https://www.facebook.com/grou...
+  image: https://i.ytimg.com/vi/dOA-BUId-vc/maxresdefault.jpg
+  title: Modeling the process drilling in the ls-dyna
+  url: https://www.youtube.com/watch?v=dOA-BUId-vc
 source: vk
 tags:
-  - LSDYNA
+- LSDYNA
+title: Свверлим в LS-DYNA
 ---
 
 Свверлим в LS-DYNA

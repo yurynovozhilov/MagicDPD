@@ -1,13 +1,18 @@
 ---
+author: GlukRazor
+date: 2015-11-03 18:01:00+00:00
 layout: post
-title: "Оставь мысли об удобстве и продуманности всякий сюда входящи"
-date: 2015-11-03T18:01:00+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Open Source Engineering Tools - DevelopSpace
+  url: http://wiki.developspace.net/Open_Source_Engineering_Tools
 source: vk
 tags:
-  - CFD
-  - opensource
-  - FEM
+- CFD
+- opensource
+- FEM
+title: Оставь мысли об удобстве и продуманности всякий сюда входящи
 ---
 
 Оставь мысли об удобстве и продуманности всякий сюда входящий!

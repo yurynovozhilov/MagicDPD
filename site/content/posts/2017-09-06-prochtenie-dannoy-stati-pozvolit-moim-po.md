@@ -1,13 +1,18 @@
 ---
+author: GlukRazor
+date: 2017-09-06 17:04:02+00:00
 layout: post
-title: "прочтение данной статьи позволит моим пользователям #LSDYNA "
-date: 2017-09-06T17:04:02+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2vlBJYZ
 source: vk
 tags:
-  - explicit
-  - mass_scaling
-  - LSDYNA
+- explicit
+- mass_scaling
+- LSDYNA
+title: 'прочтение данной статьи позволит моим пользователям #LSDYNA '
 ---
 
 прочтение данной статьи позволит моим пользователям #LSDYNA избежать проблем в настроке такеого важного параметра расчета, как масштабирование массы или mass scaling. Например тут можно узнать, что будет с расчетом если задать величину mass scaling больше нуля, что - если меньше нуля.

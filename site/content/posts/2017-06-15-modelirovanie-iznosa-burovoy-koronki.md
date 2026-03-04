@@ -1,13 +1,26 @@
 ---
+author: GlukRazor
+date: 2017-06-15 17:01:11+00:00
 layout: post
-title: "Моделирование износа буровой коронки"
-date: 2017-06-15T17:01:11+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: ''
+  url: https://vimeo.com/220791840
+- description: ''
+  image: ''
+  title: ''
+  url: https://vimeo.com/220791806
+- description: ''
+  image: ''
+  title: ''
+  url: https://vimeo.com/220791955
 source: vk
 tags:
-  - DEM
-  - EDEM
-  - wear
+- DEM
+- EDEM
+- wear
+title: Моделирование износа буровой коронки
 ---
 
 Моделирование износа буровой коронки

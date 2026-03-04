@@ -1,13 +1,24 @@
 ---
+author: GlukRazor
+date: 2017-01-31 17:00:19+00:00
 layout: post
-title: "Популярномеханические краштесты"
-date: 2017-01-31T17:00:19+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Car Crash Simulation | Make Software, Change the World! | Computer History
+    Museum
+  url: http://www.computerhistory.org/makesoftware/exhibit/car-crash-simulation/
+- description: ''
+  image: ''
+  title: Car Crash Simulation | Make Software, Change the World! | Computer History
+    Museum
+  url: https://www.computerhistory.org/makesoftware/exhibit/car-crash-simulation/
 source: vk
 tags:
-  - CAD
-  - LSTC
-  - CARY
+- CAD
+- LSTC
+- CARY
+title: Популярномеханические краштесты
 ---
 
 Популярномеханические краштесты

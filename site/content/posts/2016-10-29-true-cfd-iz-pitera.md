@@ -1,18 +1,24 @@
 ---
+author: GlukRazor
+date: 2016-10-29 17:00:34+00:00
 layout: post
-title: "True CFD из Питера!"
-date: 2016-10-29T17:00:34+00:00
-author: "GlukRazor"
+link_previews:
+- description: Санкт-Петербургский Политехнический Университет Петра Великого. Peter
+    the Great St.Petersburg Polytechnic University
+  image: https://www.spbstu.ru/local/templates/main/img/logo.png
+  title: Андрей Гарбарук – о трендах развития суперкомпьютерной отрасли
+  url: http://www.spbstu.ru/media/news/nauka_i_innovatsii/andrey-garbaruk-about-trends-supercomputer-development/
 source: vk
 tags:
-  - DNS
-  - HPC
-  - legendpeople
-  - NTS
-  - cfd
-  - СПбГПУ
-  - StarCCM
-  - Fluent
+- DNS
+- HPC
+- legendpeople
+- NTS
+- cfd
+- СПбГПУ
+- StarCCM
+- Fluent
+title: True CFD из Питера!
 ---
 
 True CFD из Питера!

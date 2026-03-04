@@ -1,13 +1,22 @@
 ---
+author: GlukRazor
+date: 2017-04-22 17:01:26+00:00
 layout: post
-title: "Струйная логика"
-date: 2017-04-22T17:01:26+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Fluidic Logic | Symscape
+  url: http://www.symscape.com/blog/fluidic-logic
+- description: ''
+  image: ''
+  title: Fluidic Logic | Symscape
+  url: https://www.symscape.com/blog/fluidic-logic
 source: vk
 tags:
-  - Symscape
-  - CFD
-  - fuidics
+- Symscape
+- CFD
+- fuidics
+title: Струйная логика
 ---
 
 Струйная логика

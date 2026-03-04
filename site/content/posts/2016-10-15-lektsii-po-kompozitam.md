@@ -1,11 +1,46 @@
 ---
+author: GlukRazor
+date: 2016-10-15 17:01:53+00:00
 layout: post
-title: "Лекции по композитам"
-date: 2016-10-15T17:01:53+00:00
-author: "GlukRazor"
+link_previews:
+- description: В Институте передовых производственных технологий СПбПУ Петра Великого
+    прошла серия открытых лекций С.В. Ломова - профессора Университета Лёвена (KI
+    Leuven, ...
+  image: https://i.ytimg.com/vi/eJESAmLOgpg/maxresdefault.jpg
+  title: ИППТ СПбПУ. Лекции C. Ломова по моделированию волокнистых композитов. Часть
+    1
+  url: https://www.youtube.com/watch?v=eJESAmLOgpg
+- description: В Институте передовых производственных технологий СПбПУ Петра Великого
+    прошла серия открытых лекций С.В. Ломова - профессора Университета Лёвена (KI
+    Leuven, ...
+  image: https://i.ytimg.com/vi/ff_UbKhdhm8/maxresdefault.jpg
+  title: ИППТ СПбПУ. Лекции C. Ломова по моделированию волокнистых композитов. Часть
+    2
+  url: https://www.youtube.com/watch?v=ff_UbKhdhm8
+- description: В Институте передовых производственных технологий СПбПУ Петра Великого
+    прошла серия открытых лекций С.В. Ломова - профессора Университета Лёвена (KI
+    Leuven, ...
+  image: https://i.ytimg.com/vi/NXf-HF8M3gA/maxresdefault.jpg
+  title: ИППТ СПбПУ. Лекции C. Ломова по моделированию волокнистых композитов. Часть
+    3
+  url: https://www.youtube.com/watch?v=NXf-HF8M3gA
+- description: В Институте передовых производственных технологий СПбПУ Петра Великого
+    прошла серия открытых лекций С.В. Ломова - профессора Университета Лёвена (KI
+    Leuven, ...
+  image: https://i.ytimg.com/vi/_AWpU1aEAXc/maxresdefault.jpg
+  title: ИППТ СПбПУ. Лекции C. Ломова по моделированию волокнистых композитов. Часть
+    4
+  url: https://www.youtube.com/watch?v=_AWpU1aEAXc
+- description: Специалист Siemens PLM Software  Дина Сотник представила новые решения
+    для моделирования композитов, реализованных в платформе Simcenter
+  image: https://i.ytimg.com/vi/GOCNkmddEsE/maxresdefault.jpg
+  title: Программные продукты для моделирования текстильных композитов – разработки
+    Siemens PLM Software
+  url: https://www.youtube.com/watch?v=GOCNkmddEsE
 source: vk
 tags:
-  - composite
+- composite
+title: Лекции по композитам
 ---
 
 Лекции по композитам

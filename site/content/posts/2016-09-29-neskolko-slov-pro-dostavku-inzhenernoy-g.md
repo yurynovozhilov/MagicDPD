@@ -1,21 +1,26 @@
 ---
+author: GlukRazor
+date: 2016-09-29 17:00:58+00:00
 layout: post
-title: "Несколько слов про доставку инженерной графики"
-date: 2016-09-29T17:00:58+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Sign in to your account
+  url: https://blogs.technet.microsoft.com/enterprisemobility/2016/09/22/new-ms-mechanics-video-with-the-latest-updates-to-rds-for-windows-server-2016/
 source: vk
 tags:
-  - OpenGL
-  - GPU
-  - VDI
-  - HPC
-  - Server
-  - RDSH
-  - Azure
-  - Cloud
-  - RDP
-  - Microsoft
-  - Windows
+- OpenGL
+- GPU
+- VDI
+- HPC
+- Server
+- RDSH
+- Azure
+- Cloud
+- RDP
+- Microsoft
+- Windows
+title: Несколько слов про доставку инженерной графики
 ---
 
 Несколько слов про доставку инженерной графики

@@ -1,15 +1,21 @@
 ---
+author: GlukRazor
+date: 2016-10-18 17:00:17+00:00
 layout: post
-title: "Очень большой VR"
-date: 2016-10-18T17:00:17+00:00
-author: "GlukRazor"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: ''
+  title: '- YouTube'
+  url: https://www.youtube.com/watch?v=sXAGEEbJaEU
 source: vk
 tags:
-  - Atari
-  - Bently
-  - BIM
-  - Microstation
-  - VR
+- Atari
+- Bently
+- BIM
+- Microstation
+- VR
+title: Очень большой VR
 ---
 
 Очень большой VR

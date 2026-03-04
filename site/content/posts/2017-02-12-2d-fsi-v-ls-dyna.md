@@ -1,15 +1,22 @@
 ---
+author: GlukRazor
+date: 2017-02-12 17:00:46+00:00
 layout: post
-title: "2D FSI в LS-DYNA"
-date: 2017-02-12T17:00:46+00:00
-author: "GlukRazor"
+link_previews:
+- description: This presentation explains how to set up a FSI simulation in LS-DYNA.
+    The fluid model is decried in the following video https://youtu.be/_8p929ke3gU,
+    this pr...
+  image: https://i.ytimg.com/vi/jB36LWzJW7I/maxresdefault.jpg
+  title: ICFD how to set up a 2D FSI case
+  url: https://www.youtube.com/watch?v=jB36LWzJW7I
 source: vk
 tags:
-  - CFD
-  - LSTC
-  - LSDYNA
-  - FSI
-  - ICFD
+- CFD
+- LSTC
+- LSDYNA
+- FSI
+- ICFD
+title: 2D FSI в LS-DYNA
 ---
 
 2D FSI в LS-DYNA

@@ -1,15 +1,40 @@
 ---
+author: GlukRazor
+date: 2017-08-23 06:59:22+00:00
 layout: post
-title: "Совсем забыл сказать: у #ANSYS #Fluent 18.2 теперь есть #PUM"
-date: 2017-08-23T06:59:22+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2w2hrWi
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2vk2wVv
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2wmHv13
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2w1D7lr
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2wm3rtA
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2w2hqSe
 source: vk
 tags:
-  - ANSYS
-  - cfdMedia
-  - mesh
-  - PUMA
-  - Fluent
+- ANSYS
+- cfdMedia
+- mesh
+- PUMA
+- Fluent
+title: 'Совсем забыл сказать: у #ANSYS #Fluent 18.2 теперь есть #PUM'
 ---
 
 Совсем забыл сказать: у #ANSYS #Fluent 18.2 теперь есть #PUMA (polyhedral unstructured mesh adaptation). За такой интересной аббревиатурой скрывается метод сеточной адаптации позволяет динамически сгущать сетку, например для повышения разрешения свободной поверхности.

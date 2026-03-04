@@ -1,11 +1,16 @@
 ---
+author: GlukRazor
+date: 2015-09-25 18:00:39+00:00
 layout: post
-title: "Я верил, что и такое извращение тоже есть! Это как бы метод "
-date: 2015-09-25T18:00:39+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Polygonal Finite Element Methods
+  url: http://dilbert.engr.ucdavis.edu/~suku/polyfem/
 source: vk
 tags:
-  - FEM
+- FEM
+title: 'Я верил, что и такое извращение тоже есть! Это как бы метод '
 ---
 
 Я верил, что и такое извращение тоже есть! Это как бы метод конечных элементов, но только элементы в нем полиэдральные.

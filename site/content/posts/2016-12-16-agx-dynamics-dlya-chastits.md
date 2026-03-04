@@ -1,20 +1,27 @@
 ---
+author: GlukRazor
+date: 2016-12-16 17:00:18+00:00
 layout: post
-title: "AGX Dynamics для частиц"
-date: 2016-12-16T17:00:18+00:00
-author: "GlukRazor"
+link_previews:
+- description: This shows a set of cases where AGX Dynamics is used for granular simulation
+    of bulk material, using a non-smooth DEM (NDEM) approach which works naturally
+    t...
+  image: https://i.ytimg.com/vi/7OA-54FNYVQ/maxresdefault.jpg
+  title: Granular simulation in AGX Dynamics - Overview
+  url: https://www.youtube.com/watch?v=7OA-54FNYVQ
 source: vk
 tags:
-  - RBD
-  - GPU
-  - DEM
-  - EDEM
-  - LSDYNA
-  - Algoryx
-  - Rocky
-  - NDEM
-  - AGX
-  - SpaceClaim
+- RBD
+- GPU
+- DEM
+- EDEM
+- LSDYNA
+- Algoryx
+- Rocky
+- NDEM
+- AGX
+- SpaceClaim
+title: AGX Dynamics для частиц
 ---
 
 AGX Dynamics для частиц

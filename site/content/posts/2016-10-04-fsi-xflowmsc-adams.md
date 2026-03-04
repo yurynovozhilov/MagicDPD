@@ -1,14 +1,20 @@
 ---
+author: GlukRazor
+date: 2016-10-04 17:01:16+00:00
 layout: post
-title: "FSI XFlow/MSC Adams"
-date: 2016-10-04T17:01:16+00:00
-author: "GlukRazor"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: ''
+  title: '- YouTube'
+  url: https://www.youtube.com/watch?v=T3QN4VldIDQ
 source: vk
 tags:
-  - XFlow
-  - RBD
-  - CFD
-  - Adams
+- XFlow
+- RBD
+- CFD
+- Adams
+title: FSI XFlow/MSC Adams
 ---
 
 FSI XFlow/MSC Adams

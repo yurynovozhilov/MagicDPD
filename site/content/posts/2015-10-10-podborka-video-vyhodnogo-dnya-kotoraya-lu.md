@@ -1,16 +1,21 @@
 ---
+author: GlukRazor
+date: 2015-10-10 09:05:08+00:00
 layout: post
-title: "Подборка видео выходного дня, которая лучше котиков. Ну ведь"
-date: 2015-10-10T09:05:08+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: https://upload.wikimedia.org/wikipedia/commons/0/0c/CumulativeHead.png
+  title: Кумулятивный эффект — Википедия
+  url: https://ru.wikipedia.org/wiki/Кумулятивный_эффект
 source: vk
 tags:
-  - Autodyn
-  - lsdyna
-  - Dytran
-  - ALE
-  - SPH
-  - Explicit
+- Autodyn
+- lsdyna
+- Dytran
+- ALE
+- SPH
+- Explicit
+title: Подборка видео выходного дня, которая лучше котиков. Ну ведь
 ---
 
 Подборка видео выходного дня, которая лучше котиков. Ну ведь правда кумулятивный эффект лучше котиков?

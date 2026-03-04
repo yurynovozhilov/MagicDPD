@@ -1,12 +1,17 @@
 ---
+author: GlukRazor
+date: 2017-03-12 12:00:50+00:00
 layout: post
-title: "Курс молодого бойца Jupyter Notebook"
-date: 2017-03-12T12:00:50+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Before you continue to YouTube
+  url: https://www.youtube.com/playlist?list=PLwCnsQacFoW4XtU9RAtjZr_jJzHD3SdE7
 source: vk
 tags:
-  - Jupyter
-  - Python
+- Jupyter
+- Python
+title: Курс молодого бойца Jupyter Notebook
 ---
 
 Курс молодого бойца Jupyter Notebook

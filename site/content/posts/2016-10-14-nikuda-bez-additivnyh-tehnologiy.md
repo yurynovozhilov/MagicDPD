@@ -1,16 +1,22 @@
 ---
+author: GlukRazor
+date: 2016-10-14 17:01:02+00:00
 layout: post
-title: "Никуда без аддитивных технологий"
-date: 2016-10-14T17:01:02+00:00
-author: "GlukRazor"
+link_previews:
+- description: 'If you would like more information contact TECHNIA Ltd 01608 811777
+    | info@technia.co.uk | www.technia.co.uk Author: Dassault Systemes'
+  image: https://i.ytimg.com/vi/L_gr3Fn289I/maxresdefault.jpg
+  title: Additive Manufacturing Excerpt from Technology For Science SIMULIA
+  url: https://www.youtube.com/watch?v=L_gr3Fn289I
 source: vk
 tags:
-  - topology
-  - ANSYS
-  - APDL
-  - optimization
-  - SIMULIA
-  - AM
+- topology
+- ANSYS
+- APDL
+- optimization
+- SIMULIA
+- AM
+title: Никуда без аддитивных технологий
 ---
 
 Никуда без аддитивных технологий

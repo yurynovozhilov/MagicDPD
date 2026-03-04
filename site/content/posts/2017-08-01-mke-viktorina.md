@@ -1,11 +1,20 @@
 ---
+author: GlukRazor
+date: 2017-08-01 17:01:57+00:00
 layout: post
-title: "МКЭ викторина"
-date: 2017-08-01T17:01:57+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: FEA Quiz | Predictive Engineering
+  url: http://www.predictiveengineering.com/content/fea-quiz
+- description: ''
+  image: ''
+  title: FEA Quiz | Predictive Engineering
+  url: https://www.predictiveengineering.com/content/fea-quiz
 source: vk
 tags:
-  - PredictiveEngineering
+- PredictiveEngineering
+title: МКЭ викторина
 ---
 
 МКЭ викторина

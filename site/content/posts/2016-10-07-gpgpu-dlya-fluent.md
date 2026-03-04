@@ -1,17 +1,24 @@
 ---
+author: GlukRazor
+date: 2016-10-07 17:01:09+00:00
 layout: post
-title: "GPGPU для Fluent"
-date: 2016-10-07T17:01:09+00:00
-author: "GlukRazor"
+link_previews:
+- description: This video demonstrates various GPU capabilities in ANSYS Fluent.  This
+    includes setting up Fluent to utilize a GPU and running various calculations with
+    a G...
+  image: https://i.ytimg.com/vi/9YH9p2KbRls/hqdefault.jpg
+  title: 'ANSYS Fluent: Overview of GPU Capabilities'
+  url: https://www.youtube.com/watch?v=9YH9p2KbRls
 source: vk
 tags:
-  - CFD
-  - ANSYS
-  - HPC
-  - Fluent
-  - Tesla
-  - NVIDIA
-  - GPGPU
+- CFD
+- ANSYS
+- HPC
+- Fluent
+- Tesla
+- NVIDIA
+- GPGPU
+title: GPGPU для Fluent
 ---
 
 GPGPU для Fluent

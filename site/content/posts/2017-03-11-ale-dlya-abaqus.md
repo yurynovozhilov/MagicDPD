@@ -1,17 +1,25 @@
 ---
+author: GlukRazor
+date: 2017-03-11 12:03:56+00:00
 layout: post
-title: "ALE для Abaqus"
-date: 2017-03-11T12:03:56+00:00
-author: "GlukRazor"
+link_previews:
+- description: This video is on CEL modelling example in Abaqus/CAE 6.14 i.e. “Water
+    Sloshing in Tank ”. This video shows you how to develop CEL simulation model with
+    examp...
+  image: https://i.ytimg.com/vi/J9f_fmgMHfY/maxresdefault.jpg
+  title: 'Abaqus Coupled Eulerian Lagrangian (CEL) Modelling Tutorial: Example- Water
+    Sloshing in Tank'
+  url: https://www.youtube.com/watch?v=J9f_fmgMHfY
 source: vk
 tags:
-  - Abaqus
-  - ANSYS
-  - Sloshing
-  - FSI
-  - CEL
-  - ALE
-  - LSPP
+- Abaqus
+- ANSYS
+- Sloshing
+- FSI
+- CEL
+- ALE
+- LSPP
+title: ALE для Abaqus
 ---
 
 ALE для Abaqus

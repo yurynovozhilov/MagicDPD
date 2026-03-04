@@ -1,15 +1,45 @@
 ---
+author: GlukRazor
+date: 2017-09-18 17:09:59+00:00
 layout: post
-title: "Интеренсые совпадения: сначала на Youtube мне попадается нов"
-date: 2017-09-18T17:09:59+00:00
-author: "GlukRazor"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: ''
+  title: '- YouTube'
+  url: https://youtu.be/OvYlblL6_AY
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2yk2L5A
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2xKRcav
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2xnumov
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2xLAV5m
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2ylz5Fk
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2xLNRIv
 source: vk
 tags:
-  - MSC
-  - ADASMediaMedia
-  - TASS
-  - Siemens
-  - PreScan
+- MSC
+- ADASMediaMedia
+- TASS
+- Siemens
+- PreScan
+title: 'Интеренсые совпадения: сначала на Youtube мне попадается нов'
 ---
 
 Интеренсые совпадения: сначала на Youtube мне попадается новое видео #MSC, где они рассказывают, что одним из главных вызовов для их компании будет программное обеспечение автопилотирования транспортных средств. https://youtu.be/OvYlblL6_AY

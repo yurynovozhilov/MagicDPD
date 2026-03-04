@@ -1,15 +1,20 @@
 ---
+author: GlukRazor
+date: 2017-03-04 17:00:25+00:00
 layout: post
-title: "Еще раз об FSI в LS-DYNA"
-date: 2017-03-04T17:00:25+00:00
-author: "GlukRazor"
+link_previews:
+- description: How to set-up a FSI Simulation using LS-DYNA
+  image: https://i.ytimg.com/vi/IClEUvlftcE/maxresdefault.jpg
+  title: FSI Simulation in LS DYNA
+  url: https://www.youtube.com/watch?v=IClEUvlftcE
 source: vk
 tags:
-  - Implicit
-  - CFD
-  - ICFD
-  - FSI
-  - LSDYNA
+- Implicit
+- CFD
+- ICFD
+- FSI
+- LSDYNA
+title: Еще раз об FSI в LS-DYNA
 ---
 
 Еще раз об FSI в LS-DYNA

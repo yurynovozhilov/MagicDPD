@@ -1,17 +1,29 @@
 ---
+author: GlukRazor
+date: 2017-04-17 08:01:49+00:00
 layout: post
-title: "GPU для сыпучих сред"
-date: 2017-04-17T08:01:49+00:00
-author: "GlukRazor"
+link_previews:
+- description: Компьютерное моделирование поведения сыпучих сред методом дискретных
+    элементов (Discrete Element Method - DEM) в горно-металлургической, строительной,
+    пищевой и фармацевтической промышленности стало доступным инструментом инженера.
+  image: https://www.cadfem-cis.ru/static/templates/cadfem/dist/images/OG-image.png
+  title: Численные расчеты сыпучих сред на GPU
+  url: https://www.cadfem-cis.ru/list/article/rocky-nvidia-gpu/
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: ''
+  title: '- YouTube'
+  url: https://www.youtube.com/watch?v=93qJovCA6pI
 source: vk
 tags:
-  - GPU
-  - Kepler
-  - Pscal
-  - DEM
-  - Rocky
-  - NVIDIA
-  - GPGPU
+- GPU
+- Kepler
+- Pscal
+- DEM
+- Rocky
+- NVIDIA
+- GPGPU
+title: GPU для сыпучих сред
 ---
 
 GPU для сыпучих сред

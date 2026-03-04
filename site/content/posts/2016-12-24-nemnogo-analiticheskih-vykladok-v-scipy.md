@@ -1,21 +1,26 @@
 ---
+author: GlukRazor
+date: 2016-12-24 17:01:27+00:00
 layout: post
-title: "Немного аналитических выкладок в SciPy"
-date: 2016-12-24T17:01:27+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Scipy Lecture Notes — Scipy lecture notes
+  url: https://scipy-lectures.org/
 source: vk
 tags:
-  - NumPy
-  - SciPy
-  - GitHub
-  - Python
-  - Mayavi
-  - Mathematica
-  - Matlab
-  - CPython
-  - Matplotlib
-  - Maple
-  - SymPy
+- NumPy
+- SciPy
+- GitHub
+- Python
+- Mayavi
+- Mathematica
+- Matlab
+- CPython
+- Matplotlib
+- Maple
+- SymPy
+title: Немного аналитических выкладок в SciPy
 ---
 
 Немного аналитических выкладок в SciPy

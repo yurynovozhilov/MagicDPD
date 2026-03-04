@@ -1,13 +1,30 @@
 ---
+author: GlukRazor
+date: 2017-09-09 09:38:06+00:00
 layout: post
-title: "#composite #theory of #ANSYS Composite PrePost (ACP)Media💾 C"
-date: 2017-09-09T09:38:06+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2gR7bt1
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2eTSSqj
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2jdGXoV
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2vk2wVv
 source: vk
 tags:
-  - theory
-  - ANSYS
-  - composite
+- theory
+- ANSYS
+- composite
+title: "#composite #theory of #ANSYS Composite PrePost (ACP)Media\U0001F4BE C"
 ---
 
 #composite #theory of #ANSYS Composite PrePost (ACP)Media💾 CompositesWorkshop_ANSYS_DAF.pdf

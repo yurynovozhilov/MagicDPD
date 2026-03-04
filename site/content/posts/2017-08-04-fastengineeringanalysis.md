@@ -1,16 +1,21 @@
 ---
+author: GlukRazor
+date: 2017-08-04 17:00:38+00:00
 layout: post
-title: "FastEngineeringAnalysis"
-date: 2017-08-04T17:00:38+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Before you continue to YouTube
+  url: https://www.youtube.com/channel/UCgCxkb0Jmnt-PUdDRFZbOYA
 source: vk
 tags:
-  - Azure
-  - FastEngineeringAnalysis
-  - Onshape
-  - Microsoft
-  - FEM
-  - cloud
+- Azure
+- FastEngineeringAnalysis
+- Onshape
+- Microsoft
+- FEM
+- cloud
+title: FastEngineeringAnalysis
 ---
 
 FastEngineeringAnalysis

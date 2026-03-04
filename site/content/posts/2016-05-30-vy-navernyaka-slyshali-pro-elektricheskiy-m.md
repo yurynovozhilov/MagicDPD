@@ -1,19 +1,26 @@
 ---
+author: GlukRazor
+date: 2016-05-30 08:02:48+00:00
+images:
+- url: /assets/images/1714.jpg
 layout: post
-title: "Вы наверняка слышали про электрический мотоцикл Lingt Rider "
-date: 2016-05-30T08:02:48+00:00
-author: "GlukRazor"
+link_previews:
+- description: APWorks, дочерняя компания Airbus Group, представила полностью функциональный
+    мотоцикл, распечатанный на 3D-принтере. Рама транспортного средства Light Rider
+    изготовлена из разработанного компанией...
+  image: https://habr.com/share/publication/394217/03b722aa0ace38622c872cbdaf9660c6/
+  title: APWorks показала 35-килограммовый электромотоцикл из 3D-принтера
+  url: https://geektimes.ru/post/276160/
 source: vk
 tags:
-  - Autodesk
-  - topology
-  - optimization
-  - Within
-  - Airbus
-  - nTopology
-  - APWorks
-images:
-  - url: "/assets/images/1714.jpg"
+- Autodesk
+- topology
+- optimization
+- Within
+- Airbus
+- nTopology
+- APWorks
+title: 'Вы наверняка слышали про электрический мотоцикл Lingt Rider '
 ---
 
 Вы наверняка слышали про электрический мотоцикл Lingt Rider разработанный #APWorks - дочерней компанией #Airbus Group. Этот проект - отличный пример работы аддитивных технологий.

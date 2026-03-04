@@ -1,13 +1,42 @@
 ---
+author: GlukRazor
+date: 2017-08-27 08:00:39+00:00
 layout: post
-title: "Новые возможности #AGX Dynamics от #Algoryx по моделированию"
-date: 2017-08-27T08:00:39+00:00
-author: "GlukRazor"
+link_previews:
+- description: This video show a dynamic simulation of a bulldozer blade operating
+    on a deformable terrain using AGX Dynamics. The blade is exported from a CAD model
+    using ...
+  image: https://i.ytimg.com/vi/CyzBgfUwQ58/maxresdefault.jpg
+  title: Simulation of Bulldozer blade and deformable terrain
+  url: "https://youtu.be/CyzBgfUwQ58Media\U0001F4FC"
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2w8IsZV
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2w828gj
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2xnp4qs
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2w8Jaqb
+- description: This video show a dynamic simulation of a bulldozer blade operating
+    on a deformable terrain using AGX Dynamics. The blade is exported from a CAD model
+    using ...
+  image: https://i.ytimg.com/vi/CyzBgfUwQ58/maxresdefault.jpg
+  title: Simulation of Bulldozer blade and deformable terrain
+  url: https://youtu.be/CyzBgfUwQ58
 source: vk
 tags:
-  - Algoryx
-  - DEM
-  - AGX
+- Algoryx
+- DEM
+- AGX
+title: 'Новые возможности #AGX Dynamics от #Algoryx по моделированию'
 ---
 
 Новые возможности #AGX Dynamics от #Algoryx по моделированию грунтов. Очень интересная связка с переходом грунта из континуальный постановки в некое подобие #DEM и обратно. Или это просто фишка постпроцессора с восстановлением гладкой свободной поверхности?

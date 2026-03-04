@@ -1,15 +1,20 @@
 ---
+author: GlukRazor
+date: 2015-11-05 06:30:41+00:00
 layout: post
-title: "Запись доклада компании #NICE по их продукту #DCV - лидеру р"
-date: 2015-11-05T06:30:41+00:00
-author: "GlukRazor"
+link_previews:
+- description: A searchable database of content from GTCs and various other events.
+  image: https://www.nvidia.com/content/dam/en-zz/Solutions/on-demand/NVOD-OG-TWITTER-1200x630.jpg
+  title: NVIDIA On-Demand
+  url: http://on-demand.gputechconf.com/gtc/2015/video/S5415.html
 source: vk
 tags:
-  - DCV
-  - ANSYS
-  - HPC
-  - NICE
-  - visualisation
+- DCV
+- ANSYS
+- HPC
+- NICE
+- visualisation
+title: 'Запись доклада компании #NICE по их продукту #DCV - лидеру р'
 ---
 
 Запись доклада компании #NICE по их продукту #DCV - лидеру рынка высокопроизводительной визуализации для научных и инженерных приложений. Особая фишка DCV - полностью аппаратное кодирование всех передаваемых данных на GPU. Этого больше немеет никто. Доклад с конференции NVIDIA этого года. Демонстрация работы на примере #ANSYS Mechanical.

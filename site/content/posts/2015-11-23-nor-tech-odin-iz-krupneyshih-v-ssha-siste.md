@@ -1,25 +1,31 @@
 ---
+author: GlukRazor
+date: 2015-11-23 06:00:37+00:00
 layout: post
-title: "Nor-Tech, один из крупнейших в США системных интеграторов сп"
-date: 2015-11-23T06:00:37+00:00
-author: "GlukRazor"
+link_previews:
+- description: Experience High-Performance Computing with Nor-Tech. Try our demo cluster
+    to see the power of HPC technology firsthand.
+  image: https://nor-tech.com/wp-content/uploads/2025/07/hpc-banner-image-2-2048x1080-1.jpg
+  title: Demo Cluster | High-Performance Computing by Nor-Tech
+  url: http://www.nor-tech.com/solutions/hpc/demo-cluster/
 source: vk
 tags:
-  - COMSOL
-  - MSC
-  - CFD
-  - Abaqus
-  - ANSYS
-  - HPC
-  - DCV
-  - Moldex3D
-  - FEA
-  - PBS
-  - lsdyna
-  - BrightClusterManager
-  - torque
-  - Marc
-  - Nastran
+- COMSOL
+- MSC
+- CFD
+- Abaqus
+- ANSYS
+- HPC
+- DCV
+- Moldex3D
+- FEA
+- PBS
+- lsdyna
+- BrightClusterManager
+- torque
+- Marc
+- Nastran
+title: Nor-Tech, один из крупнейших в США системных интеграторов сп
 ---
 
 Nor-Tech, один из крупнейших в США системных интеграторов специализирующихся на #HPC, запустил демонстрационных кластер, на котором вы можете свободно проверить, что конкретно вам даст настоящий высокопроизводительный ресурс. Уже сейчас на классе доступны следующие программные продукты:

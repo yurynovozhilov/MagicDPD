@@ -1,14 +1,21 @@
 ---
+author: GlukRazor
+date: 2016-12-17 17:03:11+00:00
 layout: post
-title: "Генератор турбулентности"
-date: 2016-12-17T17:03:11+00:00
-author: "GlukRazor"
+link_previews:
+- description: 'Synthetic Turbulence at inlets and LES flow around a tall building.References:
+    "A time and space correlated turbulence synthesis method for Large Eddy Simula...'
+  image: https://i.ytimg.com/vi/fmUfyEhh7dQ/maxresdefault.jpg
+  title: 'LS-DYNA CFD: Synthetic Turbulence Generation at Inlets. LES Flow around
+    a tall building.'
+  url: https://www.youtube.com/watch?v=fmUfyEhh7dQ
 source: vk
 tags:
-  - LSTC
-  - CFD
-  - ICFD
-  - LSDYNA
+- LSTC
+- CFD
+- ICFD
+- LSDYNA
+title: Генератор турбулентности
 ---
 
 Генератор турбулентности

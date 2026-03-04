@@ -1,16 +1,22 @@
 ---
+author: GlukRazor
+date: 2017-07-19 17:01:09+00:00
 layout: post
-title: "Open Source для инженера"
-date: 2017-07-19T17:01:09+00:00
-author: "GlukRazor"
+link_previews:
+- description: Хочу предложить небольшой обзор свободного программного обеспечения
+    для численных расчётов. Прежде всего для решения систем уравнений в част...
+  image: ''
+  title: Обзор свободных программ для численных расчётов
+  url: http://s.arboreus.com/2008/03/free-software-for-solving-pdes.html?m=1
 source: vk
 tags:
-  - Impact
-  - FiPy
-  - Elmer
-  - OpenSource
-  - Code_Aster
-  - OpenFOAM
+- Impact
+- FiPy
+- Elmer
+- OpenSource
+- Code_Aster
+- OpenFOAM
+title: Open Source для инженера
 ---
 
 Open Source для инженера

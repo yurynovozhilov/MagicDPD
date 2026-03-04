@@ -1,15 +1,20 @@
 ---
+author: GlukRazor
+date: 2017-09-25 17:00:59+00:00
 layout: post
-title: "#ESAComp в новой версии получил возможность считать расслоен"
-date: 2017-09-25T17:00:59+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2xB4oxE
 source: vk
 tags:
-  - debonding
-  - ESAComp
-  - SERR
-  - delamination
-  - composite
+- debonding
+- ESAComp
+- SERR
+- delamination
+- composite
+title: '#ESAComp в новой версии получил возможность считать расслоен'
 ---
 
 #ESAComp в новой версии получил возможность считать расслоение композитов на основе Strain Energy Release Rate (#SERR). А еще они внесли данные по для расчета данного типа разрушения в свою базу материалов.

@@ -1,13 +1,19 @@
 ---
+author: GlukRazor
+date: 2017-03-13 17:02:26+00:00
 layout: post
-title: "МКЭ для самых маленьких"
-date: 2017-03-13T17:02:26+00:00
-author: "GlukRazor"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: ''
+  title: '- YouTube'
+  url: https://www.youtube.com/watch?v=nAQ8p1VWn0I
 source: vk
 tags:
-  - МКЭ
-  - Mechanical
-  - ANSYS
+- МКЭ
+- Mechanical
+- ANSYS
+title: МКЭ для самых маленьких
 ---
 
 МКЭ для самых маленьких

@@ -1,13 +1,19 @@
 ---
+author: GlukRazor
+date: 2017-01-22 12:02:31+00:00
 layout: post
-title: "Марку уже много лет"
-date: 2017-01-22T12:02:31+00:00
-author: "GlukRazor"
+link_previews:
+- description: See how Axel Products has been using Marc for over 20 years for the
+    testing of non-linear applications for rubber and plastic materials.
+  image: https://i.ytimg.com/vi/1nUR0pLQ3w8/maxresdefault.jpg
+  title: MSC Customer Testimonial - Axel Products, Marc for Non-Linear Applications
+  url: https://www.youtube.com/watch?v=1nUR0pLQ3w8
 source: vk
 tags:
-  - MSC
-  - Marc
-  - ANSYS
+- MSC
+- Marc
+- ANSYS
+title: Марку уже много лет
 ---
 
 Марку уже много лет

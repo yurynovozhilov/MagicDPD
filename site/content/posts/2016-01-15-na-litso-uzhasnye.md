@@ -1,16 +1,24 @@
 ---
+author: GlukRazor
+date: 2016-01-15 17:01:12+00:00
 layout: post
-title: "На лицо ужасные,"
-date: 2016-01-15T17:01:12+00:00
-author: "GlukRazor"
+link_previews:
+- description: Product description of SPDRM of BETA CAE Systems. SPDRM (Simulation
+    Process Data and Resources Maaneger provides a simple and intuitive way to capture,
+    deploy, manage and improve CAE process workflows by integrating the resources,
+    the tools and the data associated with these.
+  image: ''
+  title: BETA CAE Systems - SPDRM
+  url: http://www.beta-cae.com/spdrm.htm
 source: vk
 tags:
-  - ANSYS
-  - EKM
-  - SDPD
-  - lsdyna
-  - SPDRM
-  - betacae
+- ANSYS
+- EKM
+- SDPD
+- lsdyna
+- SPDRM
+- betacae
+title: На лицо ужасные,
 ---
 
 На лицо ужасные,

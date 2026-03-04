@@ -1,15 +1,21 @@
 ---
+author: GlukRazor
+date: 2016-08-16 06:30:49+00:00
 layout: post
-title: "CAE для Марса"
-date: 2016-08-16T06:30:49+00:00
-author: "GlukRazor"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: https://i.ytimg.com/vi/zcdZ5_04gTA/hqdefault.jpg
+  title: '[Case Studies] Femap: Mars Rover'
+  url: https://www.youtube.com/watch?v=zcdZ5_04gTA
 source: vk
 tags:
-  - PLM
-  - Femap
-  - Siemens
-  - PDM
-  - Curiosity
+- PLM
+- Femap
+- Siemens
+- PDM
+- Curiosity
+title: CAE для Марса
 ---
 
 CAE для Марса

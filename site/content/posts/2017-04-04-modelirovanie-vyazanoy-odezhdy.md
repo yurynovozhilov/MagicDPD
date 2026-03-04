@@ -1,9 +1,15 @@
 ---
+author: GlukRazor
+date: 2017-04-04 17:01:41+00:00
 layout: post
-title: "Моделирование вязаной одежды"
-date: 2017-04-04T17:01:41+00:00
-author: "GlukRazor"
+link_previews:
+- description: The paper "Stitch Meshes for Modeling Knitted Clothing with Yarn-level
+    Detail" is available here:http://www.cs.cornell.edu/projects/stitchmeshes/http://www.c...
+  image: https://i.ytimg.com/vi/UEPbzj-ekAI/maxresdefault.jpg
+  title: 'Modeling Knitted Clothing | Two Minute Papers #140'
+  url: https://www.youtube.com/watch?v=UEPbzj-ekAI
 source: vk
+title: Моделирование вязаной одежды
 ---
 
 Моделирование вязаной одежды

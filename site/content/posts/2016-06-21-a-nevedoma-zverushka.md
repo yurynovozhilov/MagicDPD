@@ -1,15 +1,23 @@
 ---
+author: GlukRazor
+date: 2016-06-21 10:58:31+00:00
 layout: post
-title: "\"А неведома зверушка\""
-date: 2016-06-21T10:58:31+00:00
-author: "GlukRazor"
+link_previews:
+- description: Сегодня вышел 47 рейтинг суперкомпьтеров мира Top500 в соответствии
+    с тестом Linpack. В отличие от предыдущих 6 версий рейтинга, сменился лидер списка,
+    на первое место вышла китайский суперкомпьютер...
+  image: https://habr.com/share/publication/395203/f4ed16ced7ada2450aac39c4b42a3c6e/
+  title: Опубликован рейтинг суперкомпьютеров Top500 на июнь 2016 года, Китай представил
+    100 ПФлопс суперкомпьютер
+  url: https://geektimes.ru/post/277478/
 source: vk
 tags:
-  - HPC
-  - HPL
-  - RISC
-  - TOP500
-  - LINPACK
+- HPC
+- HPL
+- RISC
+- TOP500
+- LINPACK
+title: '"А неведома зверушка"'
 ---
 
 "А неведома зверушка"

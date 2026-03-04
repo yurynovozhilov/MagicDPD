@@ -1,13 +1,20 @@
 ---
+author: GlukRazor
+date: 2017-06-06 17:01:05+00:00
 layout: post
-title: "Робастная генерация КЭ сеток в ANSYS Meching"
-date: 2017-06-06T17:01:05+00:00
-author: "GlukRazor"
+link_previews:
+- description: PADT's Manoj Mahendran shares the robust meshing capabilities that
+    ANSYS meshing provides for mechanical applications.For more information, check
+    the followi...
+  image: https://i.ytimg.com/vi/PGZY16hzMDg/maxresdefault.jpg
+  title: FEA Robust Meshing Capabilities with ANSYS
+  url: https://youtu.be/PGZY16hzMDg
 source: vk
 tags:
-  - Meshing
-  - PADT
-  - ANSYS
+- Meshing
+- PADT
+- ANSYS
+title: Робастная генерация КЭ сеток в ANSYS Meching
 ---
 
 Робастная генерация КЭ сеток в ANSYS Meching

@@ -1,12 +1,21 @@
 ---
+author: GlukRazor
+date: 2016-10-24 18:01:14+00:00
 layout: post
-title: "ACUM уже завтра!"
-date: 2016-10-24T18:01:14+00:00
-author: "GlukRazor"
+link_previews:
+- description: Главная
+  image: http://ansysconference.ru/static/templates/cascon2019/dist/images/OG-image.png
+  title: Главная — Конференция CADFEM\ANSYS
+  url: http://ansysconference.ru/
+- description: Главная
+  image: http://ansysconference.ru/static/templates/cascon2019/dist/images/OG-image.png
+  title: Главная — Конференция CADFEM\ANSYS
+  url: https://www.ansysconference.ru/
 source: vk
 tags:
-  - CADFEM
-  - ACUM
+- CADFEM
+- ACUM
+title: ACUM уже завтра!
 ---
 
 ACUM уже завтра!

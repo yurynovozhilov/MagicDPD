@@ -1,9 +1,14 @@
 ---
+author: GlukRazor
+date: 2015-07-31 07:00:14+00:00
 layout: post
-title: "Если вы все еще думаете, что ANSYS Meshing не умеет строить "
-date: 2015-07-31T07:00:14+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Before you continue to YouTube
+  url: https://www.youtube.com/playlist?list=PLd23hHm4FCRczS3k0-Sg_yeVSSPnaz4FE
 source: vk
+title: 'Если вы все еще думаете, что ANSYS Meshing не умеет строить '
 ---
 
 Если вы все еще думаете, что ANSYS Meshing не умеет строить нормальную сетку, то вы отстали от жизни лет на 5. Вашему вниманию неплохая подборка - базовый учебный курс по ANSYS Meshing.

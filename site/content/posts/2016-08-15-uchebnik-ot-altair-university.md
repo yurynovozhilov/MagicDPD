@@ -1,17 +1,30 @@
 ---
+author: GlukRazor
+date: 2016-08-15 06:30:10+00:00
 layout: post
-title: "Учебник от Altair University"
-date: 2016-08-15T06:30:10+00:00
-author: "GlukRazor"
+link_previews:
+- description: Discover Altair's Global Academic Program, offering cutting-edge software,
+    resources, and support for students, educators, and researchers. Empowering innovation
+    in engineering, design, data science, and beyond.
+  image: https://altair.com/images/default-source/content-images/altair_lp_global-academic-program_social-image.jpg?sfvrsn=d0ff6fbf_1
+  title: Empowering Future Innovators | Altair Global Academic Program
+  url: http://www.altairuniversity.com/free-ebooks-2/free-ebook-practical-aspects-of-finite-element-simulation-a-study-guide/
+- description: Discover Altair's Global Academic Program, offering cutting-edge software,
+    resources, and support for students, educators, and researchers. Empowering innovation
+    in engineering, design, data science, and beyond.
+  image: https://altair.com/images/default-source/content-images/altair_lp_global-academic-program_social-image.jpg?sfvrsn=d0ff6fbf_1
+  title: Empowering Future Innovators | Altair Global Academic Program
+  url: https://altairuniversity.com/free-ebooks-2/free-ebook-practical-aspects-of-finite-element-simulation-a-study-guide/
 source: vk
 tags:
-  - FEA
-  - Altair
-  - RADIOSS
-  - HyperMesh
-  - FEM
-  - HyperWorks
-  - OptiStruct
+- FEA
+- Altair
+- RADIOSS
+- HyperMesh
+- FEM
+- HyperWorks
+- OptiStruct
+title: Учебник от Altair University
 ---
 
 Учебник от Altair University

@@ -1,15 +1,23 @@
 ---
+author: GlukRazor
+date: 2016-09-16 17:00:11+00:00
 layout: post
-title: "MS RDP и OpenGL"
-date: 2016-09-16T17:00:11+00:00
-author: "GlukRazor"
+link_previews:
+- description: Download the English (US) Quadro Desktop/Quadro Notebook Driver Release
+    340 for  Windows 7 64-bit, Windows 8.1 64-bit, Windows 8 64-bit, Windows Vista
+    64-bit systems. Released 2014.11.4
+  image: https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/drivers/cut-graphics/nvidia-geforce-drivers-meta-image-1200x627.jpg
+  title: Quadro Desktop/Quadro Notebook Driver Release 340 | R340 U4 (341.05) | Windows
+    7 64-bit, Windows 8.1 64-bit, Windows 8 64-bit, Windows Vista 64-bit | NVIDIA
+  url: http://www.nvidia.com/download/driverResults.aspx/79105/en-us
 source: vk
 tags:
-  - OpenGL
-  - ANSYS
-  - RDP
-  - NVIDIA
-  - Windows
+- OpenGL
+- ANSYS
+- RDP
+- NVIDIA
+- Windows
+title: MS RDP и OpenGL
 ---
 
 MS RDP и OpenGL

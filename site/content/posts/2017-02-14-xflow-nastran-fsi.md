@@ -1,15 +1,21 @@
 ---
+author: GlukRazor
+date: 2017-02-14 17:02:55+00:00
 layout: post
-title: "XFlow - Nastran FSI"
-date: 2017-02-14T17:02:55+00:00
-author: "GlukRazor"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: ''
+  title: '- YouTube'
+  url: https://www.youtube.com/watch?v=Qretsy5KuNE
 source: vk
 tags:
-  - MSC
-  - CFD
-  - FSI
-  - XFlow
-  - Nastran
+- MSC
+- CFD
+- FSI
+- XFlow
+- Nastran
+title: XFlow - Nastran FSI
 ---
 
 XFlow - Nastran FSI

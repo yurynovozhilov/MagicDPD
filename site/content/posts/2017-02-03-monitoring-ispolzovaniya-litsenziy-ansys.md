@@ -1,11 +1,17 @@
 ---
+author: GlukRazor
+date: 2017-02-03 17:00:27+00:00
 layout: post
-title: "Мониторинг использования лицензий ANSYS"
-date: 2017-02-03T17:00:27+00:00
-author: "GlukRazor"
+link_previews:
+- description: This video provides an overview of the new reporting features added
+    to ANSYS License Management Center 18.0.
+  image: https://i.ytimg.com/vi/YlutK-cBzRs/hqdefault.jpg
+  title: License Reporting in ANSYS License Management Center
+  url: https://www.youtube.com/watch?v=YlutK-cBzRs
 source: vk
 tags:
-  - ANSYS
+- ANSYS
+title: Мониторинг использования лицензий ANSYS
 ---
 
 Мониторинг использования лицензий ANSYS

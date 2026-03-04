@@ -1,27 +1,43 @@
 ---
+author: GlukRazor
+date: 2016-08-05 12:30:08+00:00
 layout: post
-title: "Молния: открыта очередь на тестирование GPU NVIDIA в облаке "
-date: 2016-08-05T12:30:08+00:00
-author: "GlukRazor"
+link_previews:
+- description: Lists the different instance sizes available for virtual machines in
+    Azure.
+  image: https://learn.microsoft.com/en-us/media/open-graph-image.png
+  title: Virtual machine sizes overview - Azure Virtual Machines
+  url: http://gpu.azure.com/
+- description: Today we’re delighted to announce that Azure N-Series Virtual Machines,
+    the fastest GPUs in the public cloud, are now available in preview.
+  image: ''
+  title: Azure N-Series preview availability | Microsoft Azure Blog
+  url: https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/
+- description: Lists the different instance sizes available for virtual machines in
+    Azure.
+  image: https://learn.microsoft.com/en-us/media/open-graph-image.png
+  title: Virtual machine sizes overview - Azure Virtual Machines
+  url: https://gpu.azure.com/
 source: vk
 tags:
-  - VMWare
-  - OpenGL
-  - K80
-  - GPU
-  - VDI
-  - HPC
-  - RemoteFX
-  - Server
-  - Azure
-  - Cloud
-  - DDS
-  - Tesla
-  - Microsoft
-  - NVIDIA
-  - Windows
-  - Teradici
-  - PCoIP
+- VMWare
+- OpenGL
+- K80
+- GPU
+- VDI
+- HPC
+- RemoteFX
+- Server
+- Azure
+- Cloud
+- DDS
+- Tesla
+- Microsoft
+- NVIDIA
+- Windows
+- Teradici
+- PCoIP
+title: 'Молния: открыта очередь на тестирование GPU NVIDIA в облаке '
 ---
 
 Молния: открыта очередь на тестирование GPU NVIDIA в облаке AZURE

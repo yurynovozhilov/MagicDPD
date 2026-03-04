@@ -1,13 +1,18 @@
 ---
+author: GlukRazor
+date: 2016-08-23 06:30:25+00:00
 layout: post
-title: "Вероятностный подходи к топологической оптимизации"
-date: 2016-08-23T06:30:25+00:00
-author: "GlukRazor"
+link_previews:
+- description: Recently we released Element Pro
+  image: https://media.licdn.com/dms/image/v2/C4E12AQG7ELec9_XyWg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1520134136269?e=2147483647&v=beta&t=oaDhzN0wxrQaZi4HTiZiyr5PW7UrXd6lmseiN4Lq3Oc
+  title: Stochastic structures in nTopology Element
+  url: https://www.linkedin.com/pulse/stochastic-structures-ntopology-element-spencer-wright
 source: vk
 tags:
-  - topology
-  - optimization
-  - nTopology
+- topology
+- optimization
+- nTopology
+title: Вероятностный подходи к топологической оптимизации
 ---
 
 Вероятностный подходи к топологической оптимизации

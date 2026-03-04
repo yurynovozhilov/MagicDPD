@@ -1,12 +1,18 @@
 ---
+author: GlukRazor
+date: 2017-02-15 17:00:25+00:00
 layout: post
-title: "Что нам стоит забуриться"
-date: 2017-02-15T17:00:25+00:00
-author: "GlukRazor"
+link_previews:
+- description: Специалистами АО "ЦИФРА" выполнены расчеты динамики новой конструкции
+    горного перфоратора с повышенным КПД.
+  image: /static/templates/mini-logo.png
+  title: Расчет динамики горного перфоратора для бурения шпуров | Инженерные расчеты
+  url: https://multiphysics.ru/stati/proekty/raschet-dinamiki-gornogo-perforatora-dlia-bureniia-shpurov.htm
 source: vk
 tags:
-  - ANSYS
-  - Explicit
+- ANSYS
+- Explicit
+title: Что нам стоит забуриться
 ---
 
 Что нам стоит забуриться

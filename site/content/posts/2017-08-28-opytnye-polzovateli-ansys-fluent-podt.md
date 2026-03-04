@@ -1,12 +1,25 @@
 ---
+author: GlukRazor
+date: 2017-08-28 12:41:23+00:00
 layout: post
-title: "Опытные пользователи #ANSYS #FLUENT подтвердят, что TUI - то"
-date: 2017-08-28T12:41:23+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2wLS4LG
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2wLwA1D
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2vk2wVv
 source: vk
 tags:
-  - FLUENT
-  - ANSYS
+- FLUENT
+- ANSYS
+title: 'Опытные пользователи #ANSYS #FLUENT подтвердят, что TUI - то'
 ---
 
 Опытные пользователи #ANSYS #FLUENT подтвердят, что TUI - то еще турагентство 😊Media

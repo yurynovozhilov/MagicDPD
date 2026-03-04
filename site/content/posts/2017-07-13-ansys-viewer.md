@@ -1,12 +1,19 @@
 ---
+author: GlukRazor
+date: 2017-07-13 17:00:43+00:00
 layout: post
-title: "ANSYS Viewer"
-date: 2017-07-13T17:00:43+00:00
-author: "GlukRazor"
+link_previews:
+- description: Watch this video to see how Ansys Viewer enables various stakeholders
+    - designers, engineers, managers, suppliers, partners and customers - to easily
+    and qui...
+  image: https://i.ytimg.com/vi/oXAvn-i2Vc4/maxresdefault.jpg
+  title: Ansys Viewer [Ansys 18]
+  url: https://www.youtube.com/watch?v=oXAvn-i2Vc4
 source: vk
 tags:
-  - avz
-  - ANSYS
+- avz
+- ANSYS
+title: ANSYS Viewer
 ---
 
 ANSYS Viewer

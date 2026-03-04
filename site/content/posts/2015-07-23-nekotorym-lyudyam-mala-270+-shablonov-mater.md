@@ -1,9 +1,14 @@
 ---
+author: GlukRazor
+date: 2015-07-23 07:00:08+00:00
 layout: post
-title: "Некоторым людям мала 270+ шаблонов материалов заложеных а LS"
-date: 2015-07-23T07:00:08+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Sign in - Google Accounts
+  url: https://sites.google.com/site/aenader/umat-workshop
 source: vk
+title: Некоторым людям мала 270+ шаблонов материалов заложеных а LS
 ---
 
 Некоторым людям мала 270+ шаблонов материалов заложеных а LS-DYNA. Для них существует Fortran и пользовательские материалы. Всем начинающим этот нелегкий путь рекомендуется к изучению воркшоп Nader Abedrabbo - написан он намного лучше стандартного мануала.

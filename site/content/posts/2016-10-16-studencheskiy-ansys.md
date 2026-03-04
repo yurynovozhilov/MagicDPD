@@ -1,12 +1,18 @@
 ---
+author: GlukRazor
+date: 2016-10-16 17:01:44+00:00
 layout: post
-title: "Студенческий ANSYS"
-date: 2016-10-16T17:01:44+00:00
-author: "GlukRazor"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: ''
+  title: '- YouTube'
+  url: https://www.youtube.com/watch?v=rV-xr_D18hM
 source: vk
 tags:
-  - Student
-  - ANSYS
+- Student
+- ANSYS
+title: Студенческий ANSYS
 ---
 
 Студенческий ANSYS

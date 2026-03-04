@@ -1,15 +1,21 @@
 ---
+author: GlukRazor
+date: 2016-09-20 17:00:14+00:00
 layout: post
-title: "Теперь и в Abaqus"
-date: 2016-09-20T17:00:14+00:00
-author: "GlukRazor"
+link_previews:
+- description: 16-15 ABAQUS Tutorial | Bladeless Fan | CFD analysis | 6.13https://sites.google.com/view/bw-engineering◘◘◘
+    AMAZON Author's Page and Online BW's Bookstore ◘◘◘...
+  image: https://i.ytimg.com/vi/mtEXEGVSN7s/maxresdefault.jpg
+  title: 16-15 ABAQUS Tutorial | Bladeless Fan | CFD analysis | 6.13
+  url: https://www.youtube.com/watch?v=mtEXEGVSN7s
 source: vk
 tags:
-  - CFD
-  - Abaqus
-  - ANSYS
-  - Dyson
-  - Fluent
+- CFD
+- Abaqus
+- ANSYS
+- Dyson
+- Fluent
+title: Теперь и в Abaqus
 ---
 
 Теперь и в Abaqus

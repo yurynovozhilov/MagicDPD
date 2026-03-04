@@ -1,11 +1,16 @@
 ---
+author: GlukRazor
+date: 2016-01-26 07:02:16+00:00
 layout: post
-title: "На канале #ANSYS в YouTube вышел новый сезон сериала \"как по"
-date: 2016-01-26T07:02:16+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Before you continue to YouTube
+  url: http://www.youtube.com/user/ANSYSHowToVideos
 source: vk
 tags:
-  - ANSYS
+- ANSYS
+title: 'На канале #ANSYS в YouTube вышел новый сезон сериала "как по'
 ---
 
 На канале #ANSYS в YouTube вышел новый сезон сериала "как поставить ANSYS". А главной роли ANSYS 17.0. Ставят под Linux и Windows следующие компоненты:

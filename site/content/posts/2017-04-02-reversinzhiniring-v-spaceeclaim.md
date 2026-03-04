@@ -1,15 +1,21 @@
 ---
+author: GlukRazor
+date: 2017-04-02 17:00:50+00:00
 layout: post
-title: "Реверсинжиниринг в SpaceeClaim"
-date: 2017-04-02T17:00:50+00:00
-author: "GlukRazor"
+link_previews:
+- description: A demonstration showing how ANSYS SpaceClaim v17.1 can be used for
+    reverse engineering.
+  image: https://i.ytimg.com/vi/sk55qdEj_T4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDQgVChyMA8=&rs=AOn4CLDAj7KSIuX4W2gveBUZKXHZwWBT0g
+  title: ANSYS SpaceClaim Reverse Engineering | CAE Associates
+  url: https://www.youtube.com/watch?v=sk55qdEj_T4
 source: vk
 tags:
-  - ANSYS
-  - SCDM
-  - SpaceClaim
-  - CAE
-  - STL
+- ANSYS
+- SCDM
+- SpaceClaim
+- CAE
+- STL
+title: Реверсинжиниринг в SpaceeClaim
 ---
 
 Реверсинжиниринг в SpaceeClaim

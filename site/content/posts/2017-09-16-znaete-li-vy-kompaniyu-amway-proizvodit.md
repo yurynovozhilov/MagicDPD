@@ -1,14 +1,23 @@
 ---
+author: GlukRazor
+date: 2017-09-16 08:59:18+00:00
 layout: post
-title: "Знаете ли вы компанию Amway - производителя косметики и быто"
-date: 2017-09-16T08:59:18+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: https://rmkcdn.successfactors.com/1f5bb02e/cb1cdbfc-6928-423b-8356-d.jpg
+  title: Job Details | Amway Inc.
+  url: https://jobs.amway.com/job/Ada-Intern-Computational-Fluid-Dynamics-%28CFD%29-Modeling-MI-49355/429787400/
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2wj7UO3
 source: vk
 tags:
-  - FEA
-  - CFD
-  - COMSOL
-  - Amway
+- FEA
+- CFD
+- COMSOL
+- Amway
+title: Знаете ли вы компанию Amway - производителя косметики и быто
 ---
 
 Знаете ли вы компанию Amway - производителя косметики и бытовой химии? Ну #Amway, которою так любят бьюти блогеры?

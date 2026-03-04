@@ -1,15 +1,20 @@
 ---
+author: GlukRazor
+date: 2016-08-31 06:30:27+00:00
 layout: post
-title: "Учимся работать в Sublime Text"
-date: 2016-08-31T06:30:27+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Before you continue to YouTube
+  url: https://www.youtube.com/playlist?list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK
 source: vk
 tags:
-  - Abaqus
-  - ANSYS
-  - APDL
-  - LSDYNA
-  - SublimeText
+- Abaqus
+- ANSYS
+- APDL
+- LSDYNA
+- SublimeText
+title: Учимся работать в Sublime Text
 ---
 
 Учимся работать в Sublime Text

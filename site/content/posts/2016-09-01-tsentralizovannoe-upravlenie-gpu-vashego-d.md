@@ -1,20 +1,32 @@
 ---
+author: GlukRazor
+date: 2016-09-01 06:30:07+00:00
 layout: post
-title: "Централизованное управление GPU вашего датацентра"
-date: 2016-09-01T06:30:07+00:00
-author: "GlukRazor"
+link_previews:
+- description: Today’s data centers demand greater agility, resource uptime and streamlined
+    administration to deal with the ever-increasing computational requirements of
+    HPC, hyperscale and enterprise workloads.
+  image: https://developer-blogs.nvidia.com/wp-content/uploads/2016/08/image02.png
+  title: NVIDIA Data Center GPU Manager Simplifies Cluster Administration | NVIDIA
+    Technical Blog
+  url: https://devblogs.nvidia.com/parallelforall/nvidia-data-center-gpu-manager-cluster-administration/
+- description: Manage and Monitor GPUs in Cluster Environments
+  image: https://developer.nvidia.com/sites/default/files/images/nvidia-analytics-2c50-p%402x.jpg
+  title: NVIDIA DCGM
+  url: https://developer.nvidia.com/data-center-gpu-manager-dcgm-access
 source: vk
 tags:
-  - GPU
-  - BCM
-  - HPC
-  - Altair
-  - LSF
-  - PBS
-  - DCGM
-  - NVIDIA
-  - IBM
-  - GPGPU
+- GPU
+- BCM
+- HPC
+- Altair
+- LSF
+- PBS
+- DCGM
+- NVIDIA
+- IBM
+- GPGPU
+title: Централизованное управление GPU вашего датацентра
 ---
 
 Централизованное управление GPU вашего датацентра

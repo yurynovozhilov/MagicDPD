@@ -1,14 +1,24 @@
 ---
+author: GlukRazor
+date: 2017-06-28 17:00:35+00:00
 layout: post
-title: "Измеряем тормозной путь танка"
-date: 2017-06-28T17:00:35+00:00
-author: "GlukRazor"
+link_previews:
+- description: Tracked Vehicle (M113) braking on level cohesive soft soil terrain
+  image: https://i.ytimg.com/vi/GCAvPFp9P20/hqdefault.jpg
+  title: SoftSoilBrake Slope0
+  url: https://www.youtube.com/watch?v=GCAvPFp9P20
+- description: Tracked vehicle (M113) obstacle avoidance maneuver on cohesive soft
+    soil
+  image: https://i.ytimg.com/vi/WRa1xY6OAJE/maxresdefault.jpg
+  title: SoftSoilObsAvoid1
+  url: https://www.youtube.com/watch?v=WRa1xY6OAJE
 source: vk
 tags:
-  - ascience
-  - DIS
-  - DEM
-  - танки
+- ascience
+- DIS
+- DEM
+- танки
+title: Измеряем тормозной путь танка
 ---
 
 Измеряем тормозной путь танка

@@ -1,14 +1,25 @@
 ---
+author: GlukRazor
+date: 2016-11-13 12:04:00+00:00
 layout: post
-title: "Топологическая оптимизация в задачах акустики"
-date: 2016-11-13T12:04:00+00:00
-author: "GlukRazor"
+link_previews:
+- description: Effectively use acoustic topology optimization in COMSOL Multiphysics
+    to advance your acoustic designs. Learn how with several examples.
+  image: https://cdn.comsol.com/wordpress/sites/1/2016/11/COMSOL_Blog_ModelImgs_SoundPressure_ogImg.png
+  title: How to Use Acoustic Topology Optimization in Your Simulation Studies
+  url: https://www.comsol.com/blogs/how-to-use-acoustic-topology-optimization-in-your-simulation-studies/
+- description: Effectively use acoustic topology optimization in COMSOL Multiphysics
+    to advance your acoustic designs. Learn how with several examples.
+  image: https://cdn.comsol.com/wordpress/sites/1/2016/11/COMSOL_Blog_ModelImgs_SoundPressure_ogImg.png
+  title: How to Use Acoustic Topology Optimization in Your Simulation Studies
+  url: https://www.comsol.com/blogs/how-to-use-acoustic-topology-optimization-in-your-simulation-studies
 source: vk
 tags:
-  - topology
-  - acoustic
-  - optimization
-  - Comsol
+- topology
+- acoustic
+- optimization
+- Comsol
+title: Топологическая оптимизация в задачах акустики
 ---
 
 Топологическая оптимизация в задачах акустики

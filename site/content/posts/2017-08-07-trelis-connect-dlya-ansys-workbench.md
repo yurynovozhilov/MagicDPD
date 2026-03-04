@@ -1,15 +1,21 @@
 ---
+author: GlukRazor
+date: 2017-08-07 17:00:35+00:00
 layout: post
-title: "Trelis Connect для ANSYS Workbench"
-date: 2017-08-07T17:00:35+00:00
-author: "GlukRazor"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: ''
+  title: '- YouTube'
+  url: https://youtu.be/jrywAFlr1ac
 source: vk
 tags:
-  - Trelis
-  - ANSYS
-  - Workbench
-  - Bolt
-  - csimsoft
+- Trelis
+- ANSYS
+- Workbench
+- Bolt
+- csimsoft
+title: Trelis Connect для ANSYS Workbench
 ---
 
 Trelis Connect для ANSYS Workbench

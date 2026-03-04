@@ -1,16 +1,27 @@
 ---
+author: GlukRazor
+date: 2016-08-27 06:30:11+00:00
 layout: post
-title: "Mathematica и Wolfram Language 11"
-date: 2016-08-27T06:30:11+00:00
-author: "GlukRazor"
+link_previews:
+- description: 'Mathematica and the Wolfram Language: Version 11 released Aug 8, 2016.  3D
+    printing, machine learning & neural networks, audio. Available for desktop, cloud.'
+  image: ''
+  title: Today We Launch Version 11!—Stephen Wolfram Writings
+  url: http://blog.wolfram.com/2016/08/08/today-we-launch-version-11/
+- description: A list of key new features since 10, including features experimental
+    in 11.
+  image: https://reference.wolfram.com/share.png
+  title: Summary of New Features in 11—Wolfram Documentation
+  url: http://reference.wolfram.com/language/guide/SummaryOfNewFeaturesIn11.html
 source: vk
 tags:
-  - NeuralNetworks
-  - 3DPrinting
-  - MachineLearning
-  - Wolfram
-  - Mathematica
-  - Visualization
+- NeuralNetworks
+- 3DPrinting
+- MachineLearning
+- Wolfram
+- Mathematica
+- Visualization
+title: Mathematica и Wolfram Language 11
 ---
 
 Mathematica и Wolfram Language 11

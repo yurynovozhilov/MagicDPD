@@ -1,13 +1,21 @@
 ---
+author: GlukRazor
+date: 2017-01-30 17:00:11+00:00
 layout: post
-title: "Численные методы в медицине"
-date: 2017-01-30T17:00:11+00:00
-author: "GlukRazor"
+link_previews:
+- description: Customer Testimonial by Gregory Knapik, Director of Computational Modeling,
+    Sr. Researcher at Spine Research Institute, Biodynamics Laboratory at The Ohio
+    St...
+  image: https://i.ytimg.com/vi/AZ-pEi9PpZQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCsHsLHk-Z1nEbNefYfGqJJmiVuFQ
+  title: MSC Software- Spine Research Institute Customer Testimonial Using Adams and
+    MSC Nastran
+  url: https://www.youtube.com/watch?v=AZ-pEi9PpZQ
 source: vk
 tags:
-  - MSC
-  - Nastran
-  - Adams
+- MSC
+- Nastran
+- Adams
+title: Численные методы в медицине
 ---
 
 Численные методы в медицине

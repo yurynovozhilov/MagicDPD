@@ -1,18 +1,24 @@
 ---
+author: GlukRazor
+date: 2016-07-09 18:03:03+00:00
 layout: post
-title: "Редкий #FSI расчет парашюта при помощи связки #XFlow и #Nast"
-date: 2016-07-09T18:03:03+00:00
-author: "GlukRazor"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: ''
+  title: '- YouTube'
+  url: https://www.youtube.com/watch?v=bc5xDVDw4f0
 source: vk
 tags:
-  - MSC
-  - CFD
-  - OpenFSI
-  - FSI
-  - FEM
-  - XFlow
-  - opensource
-  - Nastran
+- MSC
+- CFD
+- OpenFSI
+- FSI
+- FEM
+- XFlow
+- opensource
+- Nastran
+title: 'Редкий #FSI расчет парашюта при помощи связки #XFlow и #Nast'
 ---
 
 Редкий #FSI расчет парашюта при помощи связки #XFlow и #Nastran от #MSC - говорят все хорошо сошлось с экспериментами NASA :-)

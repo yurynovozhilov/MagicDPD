@@ -1,13 +1,18 @@
 ---
+author: GlukRazor
+date: 2017-03-05 12:04:37+00:00
 layout: post
-title: "Scilab куплен"
-date: 2017-03-05T12:04:37+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: About | Scilab
+  url: http://www.scilab.org/scilab/about
 source: vk
 tags:
-  - Matlab
-  - Scilab
-  - ESI
+- Matlab
+- Scilab
+- ESI
+title: Scilab куплен
 ---
 
 Scilab куплен

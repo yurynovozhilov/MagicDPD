@@ -1,15 +1,21 @@
 ---
+author: GlukRazor
+date: 2017-04-03 17:02:21+00:00
 layout: post
-title: "MSC пиарится"
-date: 2017-04-03T17:02:21+00:00
-author: "GlukRazor"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: https://i.ytimg.com/vi/AlCom4rW61w/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGF8gXyhfMA8=&rs=AOn4CLChF3ytBPaf5CetcSxV5HpM2OA1sA
+  title: MSC Software Overview
+  url: https://www.youtube.com/watch?v=AlCom4rW61w
 source: vk
 tags:
-  - MSC
-  - Adams
-  - NASTRAN
-  - NASA
-  - Marc
+- MSC
+- Adams
+- NASTRAN
+- NASA
+- Marc
+title: MSC пиарится
 ---
 
 MSC пиарится

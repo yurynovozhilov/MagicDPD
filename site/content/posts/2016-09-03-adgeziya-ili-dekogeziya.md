@@ -1,14 +1,25 @@
 ---
+author: GlukRazor
+date: 2016-09-03 12:00:15+00:00
 layout: post
-title: "Адгезия или декогезия?"
-date: 2016-09-03T12:00:15+00:00
-author: "GlukRazor"
+link_previews:
+- description: Learn how to advance your structural mechanics contact modeling with
+    new adhesion and decohesion functionality in COMSOL Multiphysics® 5.2a.
+  image: https://cdn.comsol.com/wordpress/sites/1/2016/07/COMSOL_Blog_ModelImgs_CohesiveZoneDebonding_ogImg.png
+  title: How to Model Adhesion and Decohesion in COMSOL Multiphysics
+  url: https://www.comsol.com/blogs/how-to-model-adhesion-and-decohesion-in-comsol-multiphysics/
+- description: Learn how to advance your structural mechanics contact modeling with
+    new adhesion and decohesion functionality in COMSOL Multiphysics® 5.2a.
+  image: https://cdn.comsol.com/wordpress/sites/1/2016/07/COMSOL_Blog_ModelImgs_CohesiveZoneDebonding_ogImg.png
+  title: How to Model Adhesion and Decohesion in COMSOL Multiphysics
+  url: https://www.comsol.com/blogs/how-to-model-adhesion-and-decohesion-in-comsol-multiphysics
 source: vk
 tags:
-  - Decohesion
-  - Comsol
-  - Adhesion
-  - FEM
+- Decohesion
+- Comsol
+- Adhesion
+- FEM
+title: Адгезия или декогезия?
 ---
 
 Адгезия или декогезия?

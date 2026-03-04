@@ -1,14 +1,19 @@
 ---
+author: GlukRazor
+date: 2016-08-20 12:01:32+00:00
 layout: post
-title: "Вебинар ANSYS SpaceClaim 2016.2: работа с STL"
-date: 2016-08-20T12:01:32+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: ''
+  url: https://attendee.gotowebinar.com/rt/1891354989561575940
 source: vk
 tags:
-  - ASYS
-  - SCDM
-  - STL
-  - SpaceClaim
+- ASYS
+- SCDM
+- STL
+- SpaceClaim
+title: 'Вебинар ANSYS SpaceClaim 2016.2: работа с STL'
 ---
 
 Вебинар ANSYS SpaceClaim 2016.2: работа с STL

@@ -1,11 +1,20 @@
 ---
+author: GlukRazor
+date: 2016-12-23 17:01:35+00:00
 layout: post
-title: "Пакетный запуск COMSOL"
-date: 2016-12-23T17:01:35+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: https://cdn.comsol.com/wordpress/2016/12/Working-with-COMSOL-Multiphysics-a-good-career-move-featured.jpeg
+  title: How to Run Simulations in Batch Mode from the Command Line
+  url: https://www.comsol.com/blogs/how-to-run-simulations-in-batch-mode-from-the-command-line/
+- description: ''
+  image: https://cdn.comsol.com/wordpress/2016/12/Working-with-COMSOL-Multiphysics-a-good-career-move-featured.jpeg
+  title: How to Run Simulations in Batch Mode from the Command Line
+  url: https://www.comsol.com/blogs/how-to-run-simulations-in-batch-mode-from-the-command-line
 source: vk
 tags:
-  - COMSOL
+- COMSOL
+title: Пакетный запуск COMSOL
 ---
 
 Пакетный запуск COMSOL

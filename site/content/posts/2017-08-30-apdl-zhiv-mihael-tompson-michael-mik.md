@@ -1,15 +1,25 @@
 ---
+author: GlukRazor
+date: 2017-08-30 17:11:37+00:00
 layout: post
-title: "#APDL жив! Михаэль Томпсон (Michael (Mike) Thompson) из ANSY"
-date: 2017-08-30T17:11:37+00:00
-author: "GlukRazor"
+link_previews:
+- description: Discover ready-to-use Ansys and third-party apps to streamline simulation
+    workflows in the Ansys App Catalog. Boost productivity and innovation.
+  image: ''
+  title: Ansys App Catalog | Ansys Developer Portal
+  url: https://appstore.ansys.com/download?prodid=APC-ACTAPP-292
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://ift.tt/2vKriOO
 source: vk
 tags:
-  - ANSYS
-  - APDL
-  - Mechanical
-  - TECS
-  - ACT
+- ANSYS
+- APDL
+- Mechanical
+- TECS
+- ACT
+title: '#APDL жив! Михаэль Томпсон (Michael (Mike) Thompson) из ANSY'
 ---
 
 #APDL жив! Михаэль Томпсон (Michael (Mike) Thompson) из ANSYS Inc. опубликовал бесплатное #ACT расширение "APDL Editor" для #ANSYS #Mechanical. Расширение помогает вам писать APDL код командных объектов, подсказывая синтаксис команд и выводя необходимые разделы документации. Ниже иллюстрация из официальной документации по работе расширения.
