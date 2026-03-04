@@ -10,3 +10,5 @@ tags:
 ---
 
 У #Dassault конечно очень эффектный постпроцессор... но мен одному кажется, что он прямо на рекламном видео тормозит?
+
+[Accelerate Innovation with Realistic Simulation](https://www.youtube.com/watch?v=ibsf31D05R8)

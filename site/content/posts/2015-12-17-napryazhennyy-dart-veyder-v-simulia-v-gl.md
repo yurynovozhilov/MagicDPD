@@ -12,3 +12,5 @@ tags:
 ---
 
 Напряженный Дарт Вейдер в #SIMULIA. В главных ролях #TOSCA и #Abaqus.
+
+[Star Wars SIMULIA](https://www.youtube.com/watch?v=XvCBi7Ud_RM)

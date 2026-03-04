@@ -12,3 +12,5 @@ tags:
 ---
 
 #ANSYS для моделирования систем целиком. Начинаем с механики и гидродинмики и заканчиваем ПО для урпавления. Выглядит красиво.
+
+[Cummins Genset Development and ANSYS](https://www.youtube.com/watch?v=068Jkvx6Cn8)

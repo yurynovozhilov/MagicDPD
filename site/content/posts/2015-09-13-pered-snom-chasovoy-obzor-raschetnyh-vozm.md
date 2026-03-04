@@ -13,3 +13,5 @@ tags:
 ---
 
 Перед сном: часовой обзор расчетных возможностей новых приобретений ANSYS - продуктов EMIT, Savant и Sina от компнаии Delcross Technologies
+
+[Fast and Accurate Simulation of Installed Antenna Performance](https://www.youtube.com/watch?v=nlIr1daoL8k)

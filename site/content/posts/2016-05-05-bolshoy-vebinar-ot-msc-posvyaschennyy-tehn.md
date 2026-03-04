@@ -11,3 +11,5 @@ tags:
 ---
 
 Большой вебинар от #MSC посвященный технологии #MaxFlex - встроенного в #Adams расчета деформируемых тел.
+
+[Incorporating Nonlinear Flexibility in Adams](https://www.youtube.com/watch?v=nhgYYNU2wNc)

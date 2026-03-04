@@ -10,3 +10,5 @@ tags:
 ---
 
 #SIMULIA #Abaqus тоже может 😊
+
+[SIMULIA Abaqus Aluminium Can Crush Topload](https://www.youtube.com/watch?v=sRuBybF9_tg)

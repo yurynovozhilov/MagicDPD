@@ -10,3 +10,5 @@ tags:
 ---
 
 Посчитал на досуге - изучил LS-DYNA Implicit. Базовые настройки решателя во вложении.
+
+[Unconfined compression test for concrete in LS-DYNA Implicit](https://www.youtube.com/watch?v=WzEEaaa1f7o)

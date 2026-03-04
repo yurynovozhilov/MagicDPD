@@ -11,3 +11,5 @@ tags:
 ---
 
 Центробежный сепаратор промоделирован в #SimScale. Есть и #DEM и #CFD.
+
+[SimScale - Particle Simulation of a Cyclone Separator](https://www.youtube.com/watch?v=WG4ON1GseXo)

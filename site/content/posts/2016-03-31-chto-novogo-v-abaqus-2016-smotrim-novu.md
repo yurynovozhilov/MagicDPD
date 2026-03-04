@@ -9,3 +9,5 @@ tags:
 ---
 
 Что нового в #Abaqus 2016 - смотрим новую серию увлекательного сериала (целых 45 минут) и пишем коменты.
+
+[SIMULIA Abaqus 2016 - Whats new](https://www.youtube.com/watch?v=TxbF2buN_QU)

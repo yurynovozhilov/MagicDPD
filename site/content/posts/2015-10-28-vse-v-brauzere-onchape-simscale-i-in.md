@@ -10,3 +10,5 @@ tags:
 ---
 
 Все в браузере! #Onchape, #SimScale и инженерные знания. Больше ничего не надо.
+
+[Using Onshape and SimScale for product design](https://www.youtube.com/watch?v=-vjBLaNARZE)

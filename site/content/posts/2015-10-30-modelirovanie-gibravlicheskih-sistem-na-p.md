@@ -12,3 +12,5 @@ tags:
 ---
 
 Моделирование гибравлических систем на примере механизма шасси. Связка #MSC #Adams и #Easy5 - прикольная штука!
+
+[Coupled Dynamics Hydraulics Analysis for Landing Gear Systems](https://www.youtube.com/watch?v=0ps1Rzn_QGI)

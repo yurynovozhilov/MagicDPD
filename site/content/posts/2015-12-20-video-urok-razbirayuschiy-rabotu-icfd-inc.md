@@ -13,3 +13,5 @@ tags:
 ---
 
 Видео урок разбирающий работу #ICFD (Incompressible Computational Fluid Dynamics) решателя в LS-DYNA. Тут и #FSI и односторонней или двусторонней связкой, и адаптивное сеткоперестроение, и связка как с #eplicit, так и с #implicit решателем дайны. Короче - полный #CFD.
+
+[FSI problem set up with ICFD-LS-DYNA](https://www.youtube.com/watch?v=ixW-nf5phV0)

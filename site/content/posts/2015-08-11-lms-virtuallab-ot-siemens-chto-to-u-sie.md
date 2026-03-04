@@ -7,3 +7,5 @@ source: vk
 ---
 
 LMS Virtual.Lab от Siemens. Что-то у Siemens совсем скучный маркетинг на мой взгляд, хотя продукты хорошие.
+
+[LMS Virtual.Lab - Accurate 3D performance simulation](https://www.youtube.com/watch?v=J11lswQBBEo)

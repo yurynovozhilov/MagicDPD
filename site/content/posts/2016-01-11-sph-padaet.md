@@ -9,3 +9,5 @@ tags:
 ---
 
 #SPH падает
+
+[LS-Dyna SPH Drop Test (Water, Sand, Concrete)](https://www.youtube.com/watch?v=Z_TFkYeeX9s)

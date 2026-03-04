@@ -10,3 +10,5 @@ tags:
 ---
 
 #ROCKY отлично демострирует свою возможность моделировать #DEM с учетом формы и разрушаемость частиц на примере как-то хитрой мельницы (да поправят меня знатоки).
+
+[ROCKY DEM - Crusher Particle Breakage Simulation](https://www.youtube.com/watch?v=D_MztYSAvVM)

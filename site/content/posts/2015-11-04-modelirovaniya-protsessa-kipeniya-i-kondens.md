@@ -9,3 +9,5 @@ tags:
 ---
 
 Моделирования процесса кипения и конденсации в 3D  by Ju Liu из ICES при поддержке Texas Advanced Computing Center (TACC).
+
+[Three-dimensional simulation of boiling and condensation.](https://www.youtube.com/watch?v=ic57OM796kc)

@@ -7,3 +7,5 @@ source: vk
 ---
 
 Сегодня я не нашел интересных новостей, поэтому можно залипнуть на видео c Abaqus в главной роли
+
+[17 exemples de simulations numériques par éléments finis (Abaqus)](https://www.youtube.com/watch?v=fmKKFkREu8Q)

@@ -16,3 +16,5 @@ tags:
 Топологическая оптимизация от Virtual.PYXIS для MSC.Nastarn. Забавно, что в презентации для MSC ребята из Virtual.PYXIS без зазрения совести включают анимации результатов полученные в ANSYS Mechainical (момент времени вебинара 4:17).
 
 #ANSYS #Mechanical #Virtual.PYXIS #TOPO #MSC #Nastran
+
+[Topology Optimization Automotive Case Study Running](https://www.youtube.com/watch?v=2HDIW73cL80)

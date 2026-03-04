@@ -16,3 +16,5 @@ tags:
 
 
 Сухой на сверхзвуке в #ANSYS #CFX
+
+[ANSYS CFX -  Sukhoi / Supersonic Flow](https://www.youtube.com/watch?v=4CPtf4tko-E)

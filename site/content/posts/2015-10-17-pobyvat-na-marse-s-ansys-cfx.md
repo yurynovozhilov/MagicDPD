@@ -10,3 +10,5 @@ tags:
 ---
 
 Побывать на Марсе с #ANSYS #CFX
+
+[ANSYS CFX - Gravity - Earth vs Mars](https://www.youtube.com/watch?v=4PtzsV9f4Fk)

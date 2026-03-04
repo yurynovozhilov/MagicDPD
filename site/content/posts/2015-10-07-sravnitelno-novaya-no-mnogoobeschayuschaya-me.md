@@ -20,3 +20,6 @@ images:
 В связке с DEM метод PBM может быть использован для моделирования осколочного воздействия.
 
 В статье PBM показывает себя более эффективным, с вычислительной точки зрения. Кроме того, есть существенные преимущества по точности в сравнении с классическим моделированию взрыва в эйлеровом домене.
+
+[Particle_blast for mine blast simulation in LS-DYNA](https://www.youtube.com/watch?v=87WoUVN-_1Q)
+[Blast fragmentation of a mortar cylinder using LS-DYNA](https://www.youtube.com/watch?v=_fibrw5JW4E)

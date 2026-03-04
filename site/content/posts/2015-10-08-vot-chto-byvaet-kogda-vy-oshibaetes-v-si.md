@@ -10,3 +10,5 @@ tags:
 ---
 
 Вот что бывает, когда вы ошибаетесь в системе единиц при задании свойств бетона, как это делаю я.
+
+[RC beam in LS-DYNA with wrong Units setup](https://www.youtube.com/watch?v=qSuCmT5DeoU)

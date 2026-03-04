@@ -12,3 +12,5 @@ tags:
 ---
 
 Этот волшебный DNS, для тех, у кого хватило денег на суперкомпьютер. А еще вам потребуется #CFD код #PHASTA (Parallel Hierarchic Adaptive Stabilized Transient Analysis), подробнее о котором вы сможете узнать из небольшого отчета Аргоннской национальной лаборатории.
+
+[Bubble-Induced Turbulence Study in Shear/Homogeneous Turbulent Flow using DNS with ...](https://www.youtube.com/watch?v=eHnZ4HLw9yQ)

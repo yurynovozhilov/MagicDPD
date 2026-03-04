@@ -14,3 +14,5 @@ tags:
 ---
 
 Давненько я не выкладывал результатов моих маленьких экспериментов. На днях довел до ума задачу о деформации ведущего пояска снаряда в осесимметричной постановке. И конечно, мой любимый #ANSYS #Workbench LS-DYNA #ACT
+
+[Projectile leading band in LS-DYNA](https://www.youtube.com/watch?v=BlHuTTNhQvc)

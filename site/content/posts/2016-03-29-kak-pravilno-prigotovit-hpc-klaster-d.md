@@ -10,3 +10,5 @@ tags:
 ---
 
 Как правильно приготовить #HPC кластер для #LSDYNA и что влияет на скорость расчета. 40-ка минутный доклад "Best Practices: Applications Performance Optimizations" от HPC Advisory Council в рамках HPC Advisory Council Switzerland Conference 2016.
+
+[Best Practices: Applications Performance Optimizations](https://www.youtube.com/watch?v=rDAnbam6VPQ)

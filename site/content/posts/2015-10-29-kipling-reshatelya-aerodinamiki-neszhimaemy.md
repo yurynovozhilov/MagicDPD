@@ -12,3 +12,5 @@ tags:
 ---
 
 Киплинг решателя аэродинамики несжимаемых жидкостей и метода дискретных частиц в LS-DYNA R9 (тизер :-)).
+
+[ICFD and DEM coupling](https://www.youtube.com/watch?v=J0RWMsyJCJU)

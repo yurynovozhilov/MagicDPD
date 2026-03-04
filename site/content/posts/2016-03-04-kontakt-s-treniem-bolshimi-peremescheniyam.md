@@ -9,3 +9,5 @@ tags:
 ---
 
 Контакт с трением, большими перемещениями, прощелкиванием и гиперупругим материалом. Все что надо для #lsdyna
+
+[cable insertion on hyperelastic material](https://www.youtube.com/watch?v=5JR7zY06bhc)

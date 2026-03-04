@@ -11,3 +11,5 @@ tags:
 ---
 
 Создатели модели бетона #KCC для #LSDYNA еще и эксперименты хорошие ставят. На этот раз они бахнули взрывозащитную стену.
+
+[K&C: Test of Blast Resistant Curtain Wall System](https://www.youtube.com/watch?v=0kKmvzjshGc)

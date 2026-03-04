@@ -7,3 +7,5 @@ source: vk
 ---
 
 А вам слабо? Связанный расчет: метод дискретных элементов и несжимаемая гидрогазодинамика.
+
+[ICFD coupled with DEM (LS-DYNA)](https://www.youtube.com/watch?v=IP7G0pVCSIU)

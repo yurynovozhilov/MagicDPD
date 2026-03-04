@@ -12,3 +12,5 @@ tags:
 ---
 
 Семина посвященный работе SimSolid (решателя отрицающего сетки) совместно с Onshape.
+
+[Partner Webinar | SIMSOLID & Onshape [June 26, 2015]](https://www.youtube.com/watch?v=T1k-O4v6Flw)

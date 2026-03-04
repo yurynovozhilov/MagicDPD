@@ -13,3 +13,5 @@ tags:
 ---
 
 #ESSS показали как при помощи #ANSYS #HFSS и #Savant промоделировать целый особняк с прицелом на интернет вещей (#IoT)
+
+[ANSYS HFSS and Savant - A Complete House Model Showing IoT Simulations](https://www.youtube.com/watch?v=46-pxv1_OJI)

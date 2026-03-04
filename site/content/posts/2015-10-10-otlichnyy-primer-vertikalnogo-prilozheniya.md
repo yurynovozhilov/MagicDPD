@@ -12,3 +12,5 @@ tags:
 ---
 
 Отличный пример вертикального приложения для расчета аэродинамики транспортных средств под названием ELEMENTS от компании Engys. Система разработана на основе HELYX, а он, в свою очередь, представляет сильно доработанный OpenFOAM.
+
+[ELEMENTS in action - CFD suite for vehicle design applications based on HELYX®](https://www.youtube.com/watch?v=fslxivaDj2o)

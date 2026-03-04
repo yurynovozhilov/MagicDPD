@@ -10,3 +10,5 @@ tags:
 ---
 
 Гуру знает как сделать параметрическую геометрию в #ANSYS #SpaceClaim!
+
+[Видеоурок CADFEM VL1509 - Параметрическое моделирование с применением решения ANSYS SpaceClaim](https://www.youtube.com/watch?v=demi4j-sAhI)

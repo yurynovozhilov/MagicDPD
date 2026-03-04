@@ -11,3 +11,6 @@ tags:
 Моделирование грунтов в #DEM при проектировании вездеходов - это главная фишка Advanced Science and Automation Corp.
 
 Ходячий робот - вообще зачет!
+
+[Walking vehicle on soft soil](https://www.youtube.com/watch?v=-L_QvRZver4)
+[High-speed traced vehicle on soft soil](https://www.youtube.com/watch?v=IwPYkvV1_0A)

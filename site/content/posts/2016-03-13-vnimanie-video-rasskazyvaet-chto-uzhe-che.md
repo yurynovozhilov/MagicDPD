@@ -11,3 +11,5 @@ tags:
 ---
 
 Внимание, видео рассказывает, что уже через 2-3 часа работы в #ANSYS #SpaceClaim у вас начнет вырабатываться зависимости, а после недели работы изменения в вашем организме станут необратимыми.
+
+[SpaceClaim - Customer Success Story: 3Discovered](https://www.youtube.com/watch?v=HwUL5tbK1lE)

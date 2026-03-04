@@ -11,3 +11,5 @@ tags:
 Возвращаемся из спячки! И сразу проболтаем учиться: пример проведения разрывных испытаний в #LSDYNA.
 
 Пример не идеален, но и так сойдет.
+
+[Tension Test with LS-DYNA](https://www.youtube.com/watch?v=qXJaxPbyZhY)

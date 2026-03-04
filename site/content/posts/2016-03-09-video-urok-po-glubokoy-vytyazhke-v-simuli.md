@@ -13,3 +13,5 @@ tags:
 ---
 
 Видео урок по глубокой вытяжке в #Simulia #Abaqus.
+
+[Abaqus tutorial - deep drawing](https://www.youtube.com/watch?v=6J_x-t3uT_E)

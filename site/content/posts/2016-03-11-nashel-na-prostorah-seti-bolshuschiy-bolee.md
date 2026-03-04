@@ -13,3 +13,5 @@ tags:
 ---
 
 Нашел на просторах сети большущий (более часа!) семинар по работе с композитами в #Femap. В качестве решателя, для которого ставятся задачи выступает #NX #NASTRAN. Семинар ведут специалисты Predictive Engineering - спецы в NX, LS-DYNA и Femap.
+
+[Predictive Engineering - Composite Laminate Modeling Seminar - November 20, 2014](https://www.youtube.com/watch?v=s03pDV-a75U)

@@ -13,3 +13,5 @@ tags:
 ---
 
 Простои и наглядный пример/видео урок по работе #ANSYS #Adjoint Solver для оптимизации в #CFD.
+
+[Smart Shape Optimization with ANSYS Adjoint Solver](https://www.youtube.com/watch?v=yW4uEZ4eJ-M)

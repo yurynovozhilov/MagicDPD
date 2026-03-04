@@ -13,3 +13,5 @@ tags:
 ---
 
 Запись семинар по оптимизации моделей #ANSYS #Maxwell при помощи #Dynardo #optiSLang (который которые ласково называют оптишлангом). Работают как напрямую, так и через #Workbench. На мой взгляд вышло немного скучноват-то, хотя разобрали все по косточкам.
+
+[Webinar optiSLang and ANSYS Maxwell 2015 11 17](https://www.youtube.com/watch?v=zIVtZjom5GU)

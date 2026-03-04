@@ -16,3 +16,5 @@ tags:
 Настройка адаптивной сетки для оболочек работает прямо из GUI от Workbech LS-DYNA ACT!
 
 #LSDYNA #adaptivemesh #mesh #ACT.
+
+[Pipe buckling under axial load with adaptive meshing](https://www.youtube.com/watch?v=mREpp3I0N-U)

@@ -11,3 +11,5 @@ tags:
 ---
 
 Задача смазки зубчатой передачи в #ANSYS #CFX. Сетка у CFX Berlin как всегда хороша! Спасибо за это их собственному сеточному генератору #TwinMesh
+
+[CFX Berlin-Video: CFD-Simulation of Oil Lubrication in a Simplified Gear Box](https://www.youtube.com/watch?v=Pq-kWbJ31pg)

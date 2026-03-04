@@ -9,3 +9,5 @@ tags:
 ---
 
 Моделирование коробления конструкции изготавливаемой методом лазерного спекания металлического порошка (Laser Powder-bed Fusion). #pancomputing
+
+[Distortion prediction in Laser Powder-bed Fusion](https://www.youtube.com/watch?v=lk8CWF2Eqbc)

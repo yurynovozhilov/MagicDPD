@@ -12,3 +12,5 @@ tags:
 ---
 
 Вот это действительно интересно: рост трещин в #xfem постановке. Учебное видео для #ABAQUS
+
+[16-10 ABAQUS tutorial | XFEM | Turbine Blade | Fracture Mechanics | VCCT](https://www.youtube.com/watch?v=0poYsfjQp_A)

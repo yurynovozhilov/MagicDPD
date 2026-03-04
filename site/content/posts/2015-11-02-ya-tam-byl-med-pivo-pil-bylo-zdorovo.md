@@ -11,3 +11,5 @@ tags:
 
 Я там был; мед, пиво пил... Было здорово!
 #ACUM by #CADFEM
+
+[12-й Международная конференция пользователей ANSYS/CADFEM - Отчетное видео](https://www.youtube.com/watch?v=17MsWCpoL_U)

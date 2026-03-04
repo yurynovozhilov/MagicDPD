@@ -9,3 +9,5 @@ tags:
 ---
 
 Коллеги из CADimensions, Inc считают клетку для погружения с акулами!!! Геометрия из #SolidWorks, расчет в SolidWorks Simulation, эксперимент в море. Результаты эксперимента не показали 😊
+
+[SOLIDWORKS Simulation Swims with the Sharks](https://www.youtube.com/watch?v=xxea8NJZAIo)

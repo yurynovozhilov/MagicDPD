@@ -26,3 +26,5 @@ LS-DYNA ICFD это решатель с неявной схемой облада
 - свободные поверхности
 - двухфайзные течения
 - неньютоновские жидкости
+
+[Kármán vortex street in LS-DYNA ICFD](https://www.youtube.com/watch?v=w_PnXPRGdKE)

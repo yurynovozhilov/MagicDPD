@@ -11,3 +11,5 @@ tags:
 ---
 
 Магия #ANSYS #ACT. Всем изучать #Python!
+
+[ANSYS - ACT version longue](https://www.youtube.com/watch?v=3o1Zssc_qGw)

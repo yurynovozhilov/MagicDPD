@@ -12,3 +12,5 @@ tags:
 ---
 
 #MSC добавили в #Adams решатель #Nastran и получили Adams #Maxflex. Примерно таким же путем пойдет ANSYS в 17 версии Mechanical.
+
+[Adams Maxflex](https://www.youtube.com/watch?v=dwdm29HJBs4)

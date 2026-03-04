@@ -7,3 +7,5 @@ source: vk
 ---
 
 Не в тему - наглядная модель устройства автоматической шестиступенчатьй коробки передач.
+
+[Automatic Transmission, How it works ?](https://www.youtube.com/watch?v=u_y1S8C0Hmc)

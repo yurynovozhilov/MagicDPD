@@ -10,3 +10,5 @@ tags:
 ---
 
 Говорят, что это вибрационный питатель.
+
+[Rocky DEM - Concave Shape - Feeder Bowl](https://www.youtube.com/watch?v=gnnW8OJHjyk)

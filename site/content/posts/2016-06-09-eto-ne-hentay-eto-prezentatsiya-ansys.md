@@ -12,3 +12,5 @@ tags:
 ---
 
 Это не хентай - это презентация #ANSYS #Enterprise #Cloud на японском!
+
+[ANSYS Enterprise Cloud デモ](https://www.youtube.com/watch?v=yR9Vplo9Ukk)

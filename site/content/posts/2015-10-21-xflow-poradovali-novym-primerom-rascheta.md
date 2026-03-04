@@ -10,3 +10,5 @@ tags:
 ---
 
 #XFlow порадовали новым примером расчета. Их #CFD код посчитал процесс катапультирования из кабины боевого самолета.
+
+[Articulated Body Dynamics CFD simulation of an ejection seat](https://www.youtube.com/watch?v=T7A1cN5_DrM)

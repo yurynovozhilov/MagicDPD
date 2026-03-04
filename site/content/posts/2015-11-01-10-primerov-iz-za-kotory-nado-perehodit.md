@@ -9,3 +9,5 @@ tags:
 ---
 
 10 примеров, из-за которы надо переходить на #SpaceClaim
+
+[Top Ten Reasons to Use SpaceClaim](https://www.youtube.com/watch?v=36lxQw5mM_E)

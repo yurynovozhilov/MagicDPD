@@ -10,3 +10,5 @@ tags:
 ---
 
 Жажда все! Работа #MSC #Dytran в эйлеровой постановке.
+
+[Dytran - Water Pouring](https://www.youtube.com/watch?v=0JfbxAalj8E)

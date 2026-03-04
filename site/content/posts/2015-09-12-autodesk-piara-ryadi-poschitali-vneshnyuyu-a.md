@@ -12,3 +12,5 @@ tags:
 #Autodesk пиара ряди посчитали внешнюю аэродинамику бетмобиля (это на котором Бетмен ездит) при помощи их Autodesk CFD.
 
 Вот все считают аэродинамику для Формула-1, а эти выпендриваются 😊
+
+[Fluid Flow around the Batmobile - Autodesk CFD](https://www.youtube.com/watch?v=fIXVvRW1qeM)

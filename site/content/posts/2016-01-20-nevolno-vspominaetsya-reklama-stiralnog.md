@@ -13,3 +13,5 @@ tags:
 ---
 
 Невольно вспоминается реклама стирального порошка. Но тут вся суть не в порошке, а в явной схеме решателя #SIMULIA #Abaqus.
+
+[WashingMachine](https://www.youtube.com/watch?v=1cSXxCjmK_s)

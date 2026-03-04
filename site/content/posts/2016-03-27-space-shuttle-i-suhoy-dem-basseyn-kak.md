@@ -10,3 +10,5 @@ tags:
 ---
 
 Space Shuttle и сухой #DEM бассейн. Как же я ему завидую!
+
+[space shuttle landing - LS-DYNA discrete method (DEM)](https://www.youtube.com/watch?v=Wr5B01NmgfU)

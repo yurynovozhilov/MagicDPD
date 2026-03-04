@@ -7,3 +7,5 @@ source: vk
 ---
 
 Моделирование акулы в SW Simulation. Да уж...
+
+[SOLIDWORKS Flow Simulation - The Evolution of Shark Anatomy](https://www.youtube.com/watch?v=F-WxYVFDpOo)

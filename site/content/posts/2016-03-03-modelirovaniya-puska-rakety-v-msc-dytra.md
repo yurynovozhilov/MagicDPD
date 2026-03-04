@@ -10,3 +10,5 @@ tags:
 ---
 
 Моделирования пуска ракеты в #MSC #Dytran - основном explicit коде компании MSC.
+
+[Dytran - Rocket Test Inside Container](https://www.youtube.com/watch?v=7Ecnv6iI47Y)

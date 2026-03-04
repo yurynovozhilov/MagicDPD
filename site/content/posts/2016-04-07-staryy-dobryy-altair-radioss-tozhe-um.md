@@ -12,3 +12,5 @@ tags:
 ---
 
 Старый - добрый #Altair #Radioss тоже умеет спускать корабли на воду. Хотя #SPH в этой модели грубоват.
+
+[Ship launch - SPH method](https://www.youtube.com/watch?v=3hXExtbchIo)

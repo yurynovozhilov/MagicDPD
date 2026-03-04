@@ -12,3 +12,5 @@ tags:
 Для задач визуализации жидкости хорошо подходит #SPH. Однако авторы статьи сделали некое "улучшение" этого метода - divergence-free SPH (#DFSPH). Что именно они улучшили я не очень понял - сложилось впечатление, что они свели SPH к DEM.
 
 Выглядит залипательно!
+
+[Divergence-Free Smoothed Particle Hydrodynamics](https://www.youtube.com/watch?v=POnmzzhc5E0)

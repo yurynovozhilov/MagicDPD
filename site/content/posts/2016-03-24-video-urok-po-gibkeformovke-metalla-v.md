@@ -12,3 +12,5 @@ tags:
 ---
 
 Видео урок по гибке/формовке металла в #ABAQUS с учетом пружинения.
+
+[Manufacturing Simulation- Sheet metal Bending -Abaqus CAE-Implicit-Standard](https://www.youtube.com/watch?v=zNvkmzXAdqI)

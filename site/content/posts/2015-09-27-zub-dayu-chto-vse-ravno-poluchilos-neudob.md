@@ -11,3 +11,5 @@ tags:
 ---
 
 Зуб даю, что все равно получилось неудобно. Ну вот зачем они все пытаются притащить сенсорные интерфейсы туда, куда не надо?!
+
+[NX CAD Quick Tips: Touch Screen Interface - Presentation Roles](https://www.youtube.com/watch?v=8z2l3qAGWmY)

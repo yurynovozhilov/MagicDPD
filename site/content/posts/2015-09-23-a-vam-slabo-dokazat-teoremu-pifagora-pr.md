@@ -10,3 +10,5 @@ tags:
 ---
 
 А вам слабо доказать теорему Пифагора при помощи #ANSYS #CFX?
+
+[ANSYS CFX - Pythagorean Theorem - CFD](https://www.youtube.com/watch?v=mSG8KcqPtGM)

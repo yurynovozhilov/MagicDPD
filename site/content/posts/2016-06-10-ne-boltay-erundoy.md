@@ -11,3 +11,5 @@ tags:
 ---
 
 Не болтай ерундой!
+
+[LSDYNA CFD : Fluid Elastic Body Interaction Problem](https://www.youtube.com/watch?v=dgIIuRZcuAQ)

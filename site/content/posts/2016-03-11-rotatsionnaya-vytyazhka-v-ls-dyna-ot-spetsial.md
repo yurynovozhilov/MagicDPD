@@ -10,3 +10,5 @@ tags:
 ---
 
 Ротационная вытяжка в LS-DYNA от специалистов из ОМД. Главное, что бы не укачало следить за шариком.
+
+[Incremental Sheet Forming using LS-DYNA](https://www.youtube.com/watch?v=hQq5fCCnVZ8)

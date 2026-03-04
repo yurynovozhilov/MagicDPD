@@ -7,3 +7,5 @@ source: vk
 ---
 
 Поутру хочется оптимальную форму черепа.
+
+[CFD optimization of skull surface geometry](https://www.youtube.com/watch?v=agxYBVAHr5s)

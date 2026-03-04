@@ -7,3 +7,5 @@ source: vk
 ---
 
 Dassault Systèmes показывают взаимодействие Abaqus и SolidWorks для расчета пластиковой защелки. Может кто знает, "STRESS ENGINEER" - это у них лицензия такая?
+
+[Abaqus Simulation of a Plastic Buckle Designed in SOLIDWORKS - 3 min.](https://www.youtube.com/watch?v=nm3WzywL7L4)

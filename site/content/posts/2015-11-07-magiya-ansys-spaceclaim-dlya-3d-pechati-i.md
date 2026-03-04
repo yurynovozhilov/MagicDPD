@@ -10,3 +10,5 @@ tags:
 ---
 
 Магия #ANSYS #SpaceClaim для 3D-печати и формата stl
+
+[ANSYS SpaceClaim 2016 Sneak Peek - Shrinkwrap](https://www.youtube.com/watch?v=B9hBfQYsju0)

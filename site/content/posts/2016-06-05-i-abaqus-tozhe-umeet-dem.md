@@ -10,3 +10,5 @@ tags:
 ---
 
 И #Abaqus тоже умеет #DEM?
+
+[Abaqus Explicit - DropTest with DEM](https://www.youtube.com/watch?v=w7Ia6scbf8U)

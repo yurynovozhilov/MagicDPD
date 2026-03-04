@@ -11,3 +11,5 @@ tags:
 ---
 
 Когда меня спрашивают, как сделать #HPC кластер, что бы там нормально работал #ANSYS, я шлю всех изучать Bright Cluster Manager. Обзор нового релиза ниже по ссылке. Конкурентов этой штуке (кроме фирменного HP CMU) я не знаю.
+
+[What's New In Bright Cluster Manager 7.2?](https://www.youtube.com/watch?v=OufTnzOKpX0)

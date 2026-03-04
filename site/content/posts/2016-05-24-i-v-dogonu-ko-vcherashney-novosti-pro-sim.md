@@ -17,3 +17,5 @@ images:
 И в догону ко вчерашней новости про #SimForDesign - вебинар от #OnShape (облачный #CAD) посвященной их совместной работе.
 
 #cloud #FEA #
+
+[Onshape + SimForDesign](https://www.youtube.com/watch?v=wzxNh6n2l5I)

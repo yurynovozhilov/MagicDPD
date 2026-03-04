@@ -13,3 +13,5 @@ tags:
 ---
 
 Связанный расчет в LS-DYNA: #DEM и #ICFD. Дискретные частицы захватываются потоком и взаимодействуют с объектом.
+
+[ICFD coupled with DEM (LS-DYNA)](https://www.youtube.com/watch?v=IP7G0pVCSIU)

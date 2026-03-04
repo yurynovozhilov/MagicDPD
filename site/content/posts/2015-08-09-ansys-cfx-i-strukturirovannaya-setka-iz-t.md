@@ -7,3 +7,5 @@ source: vk
 ---
 
 ANSYS CFX и структурированная сетка из TwinMesh - завораживающе!
+
+[CFX Berlin-Video: CFD Simulation Scroll Compressor using TwinMesh and ANSYS CFX](https://www.youtube.com/watch?v=XrHN-OlNrpQ)

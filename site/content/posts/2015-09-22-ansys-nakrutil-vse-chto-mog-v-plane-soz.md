@@ -13,3 +13,5 @@ tags:
 ---
 
 #ANSYS накрутил все, что мог в плане создания умных часов. Тут и #SpaceClaim, и #HFSS, и #Mechanical, и #Explicit, и связанные расчеты с теплом. Короче, голова идет кругом.
+
+[Wearable Technology - Smart Watch Simulation with ANSYS](https://www.youtube.com/watch?v=8kacFVNb4fg)

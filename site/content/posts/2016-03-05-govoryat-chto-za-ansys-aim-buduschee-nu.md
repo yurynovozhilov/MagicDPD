@@ -10,3 +10,5 @@ tags:
 ---
 
 Говорят, что за #ANSYS #AIM будущее. Ну что ж, посмотрим.
+
+[ANSYS AIM Overview](https://www.youtube.com/watch?v=ThdNt2i1Qms)

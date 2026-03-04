@@ -10,3 +10,5 @@ tags:
 ---
 
 #Abaqus #Explicit обижает тонкую металлическую трубу - он ее скручивает и показывает, как такое делать правильно.
+
+[Abaqus CAE: How to model high deformation twisting problem using Abaqus CAE and Explicit Solver!!](https://www.youtube.com/watch?v=-H1l-LKXTTo)

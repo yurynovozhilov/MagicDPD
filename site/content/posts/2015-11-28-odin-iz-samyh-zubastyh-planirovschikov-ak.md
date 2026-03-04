@@ -13,3 +13,5 @@ tags:
 Один из самых зубастых планировщиков (aka Workload Manager) - #Altair #PBS Pro открывает свой код! Вот это #HPC бомба. Ждем бесплатных сборок 😊
 
 Еще в видео есть немого рекламы яблочного решения Altair для решения инженерных задач.
+
+[PBS Pro Goes Open Source](https://www.youtube.com/watch?v=njnViLkwjhk)

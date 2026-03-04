@@ -7,3 +7,5 @@ source: vk
 ---
 
 Посчитать вам акустику? Да легко! Только добавь много оперативной памяти.
+
+[Acoustics analysis of a speaker using FEA tools from ANSYS](https://www.youtube.com/watch?v=yDfyA0CKa38)

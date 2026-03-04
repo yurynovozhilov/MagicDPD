@@ -14,3 +14,5 @@ tags:
 ---
 
 Обзор возможностей #ANSYS #HFSS #SBR+, который получился из #Delcross #Savant, для решение больших задач!
+
+[Solve Large-Scale Problems in a Connected World with HFSS SBR+](https://www.youtube.com/watch?v=h1ailtfbneo)

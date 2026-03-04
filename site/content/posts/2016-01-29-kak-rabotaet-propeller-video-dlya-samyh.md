@@ -7,3 +7,5 @@ source: vk
 ---
 
 Как работает пропеллер - видео для самых маленьких. Шикарная графика!
+
+[The Propeller Explained](https://www.youtube.com/watch?v=0bP2MH3LqvI)

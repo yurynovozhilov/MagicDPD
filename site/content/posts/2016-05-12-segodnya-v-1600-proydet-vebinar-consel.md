@@ -11,3 +11,5 @@ tags:
 ---
 
 Сегодня, в 16:00 пройдет вебинар #CONSELF #Cloud Simulation посвященный применению #CFD расчетов к городской застройке.
+
+[CFD BUILDINGS - Flows in urban contexts - ENG](https://www.youtube.com/watch?v=RbLClfionhM)

@@ -10,3 +10,5 @@ tags:
 ---
 
 О том как в ANSYS AIM мост трактора считали, или привыкаем к новому интерфейсу. У меня уже перестал глаз дергаться.
+
+[ANSYS AIM Tractor Axle Demo](https://www.youtube.com/watch?v=eImjtGlOMF8)

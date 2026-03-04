@@ -9,3 +9,5 @@ tags:
 ---
 
 Пытаемся создать новогоднее настроение продувая Рудольфа в #CFD
+
+[Rudolph the laminar reindeer - Christmas-themed CFD](https://www.youtube.com/watch?v=QD6RRx-f5YM)

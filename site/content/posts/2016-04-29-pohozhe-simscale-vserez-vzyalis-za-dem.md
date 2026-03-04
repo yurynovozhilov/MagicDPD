@@ -10,3 +10,5 @@ tags:
 ---
 
 Похоже #SimScale всерьез взялись за #DEM
+
+[Particle Analysis in an Hourglass with SimScale](https://www.youtube.com/watch?v=9AIEIhmc-C8)

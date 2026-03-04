@@ -22,3 +22,5 @@ tags:
 И да, вам потребуется LS-DYNA #MPP, если хотите использовать более 1 ядра на расчет. Для этого пригодится такая командная строка (я использовал LS-DYNA R8.1:
 
 "%AWP_ROOT170%\commonfiles\MPI\Platform\9.1.3.1\winx64\bin\mpirun.exe" -v -np 4 mppdyna.exe i=water_column_collapse_main.k
+
+[Water Column Collapse in LS-DYNA ICFD](https://www.youtube.com/watch?v=VI7Gd3Zo5iU)
