@@ -16,7 +16,7 @@ tags:
 
 HexGen и Hex2Spline: ALLHEX и IGA сетки для LS-DYNA
 
-Коллеги, на мой взгляд, сегодня просто огненный контент. Представляю вам два открытых набора консольных утилит, HexGen и Hex2Spline, разработанные группой профессора Юнцзе Джессики Чжан (Yongjie Jessica Zhang) в Университете Карнеги-Меллон (Carnegie Mellon University). Что бы лучше понимать, эта группа очень тесно связана со всем, что сейчас делается в области IGA для LS-DYNA и Corefrom.
+Коллеги, на мой взгляд, сегодня просто огненный контент. Представляю вам два открытых набора консольных утилит, HexGen и Hex2Spline, разработанные группой профессора Юнцзе Джерси Чжан (Yongjie Jessica Zhang) в Университете Карнеги-Меллон (Carnegie Mellon University). Что бы лучше понимать, эта группа очень тесно связана со всем, что сейчас делается в области IGA для LS-DYNA и Corefrom.
 
 
 
@@ -44,7 +44,7 @@ HexGen и Hex2Spline: ALLHEX и IGA сетки для LS-DYNA
 
 
 
-Страничка группы профессора Джессики Чжан в Университете Карнеги-Меллон:  https://www.meche.engineering.cmu.edu/directory/bios/zhang-yongjie.html
+Страничка группы профессора Джерси Чжан в Университете Карнеги-Меллон:  https://www.meche.engineering.cmu.edu/directory/bios/zhang-yongjie.html
 
 #all-hex #ansys #bext #iga #ls-dyna #ls-prepost #open_source #polycube
 https://tinyurl.com/ydnqewkz

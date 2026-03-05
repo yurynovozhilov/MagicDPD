@@ -25,7 +25,7 @@ tags:
 - Mechanical
 - PADT
 - ANSYS
-title: "Низкоуровневая работа с файлвми результатов #ANSYS #Mechanical (.RST) в C/C++ от компании #PADT, Inc."
+title: "Низкоуровневая работа с файлами результатов #ANSYS #Mechanical (.RST) в C/C++ от компании #PADT, Inc."
 ---
 
 Всем, кто недоволен скоростью работы постпроцессора ANSYS посвящается.

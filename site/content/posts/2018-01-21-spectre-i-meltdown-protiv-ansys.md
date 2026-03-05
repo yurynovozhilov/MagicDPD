@@ -36,7 +36,7 @@ HDD: Toshiba 2TB 7200 RPM SATA 3 Drive
 
 
 
-Как можно видеть, производительность на данном тесте падает не более чем на 10%, а в некоторых случаях даже растет (что вообще-то очень странно). Для случая использования высокооптимизированного решателя ANSYS Mechanical исправления уязвимостей Spectre и Meltdown оказыват малое влияние на время расчета.
+Как можно видеть, производительность на данном тесте падает не более чем на 10%, а в некоторых случаях даже растет (что вообще очень странно). Для случая использования высокооптимизированного решателя ANSYS Mechanical исправления уязвимостей Spectre и Meltdown оказыват малое влияние на время расчета.
 
 http://www.padtinc.com/blog/the-focus/spectre-side-channel-and-meltdown-how-will-living-in-this-new-reality-affect-the-world-of-numerical-simulation
 #ANSYS #HPC #Mechanical #Meltdown #padtinc #Spectre
