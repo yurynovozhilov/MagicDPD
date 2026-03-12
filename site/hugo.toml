@@ -1,6 +1,7 @@
 baseURL = "https://yurynovozhilov.github.io/MagicDPD/"
 languageCode = "ru"
 defaultContentLanguage = "ru"
+defaultContentLanguageInSubdir = true
 title = "MagicDPD: Magic Driven Product Development!"
 theme = "anubis"
 paginate = 20
@@ -14,31 +15,7 @@ enableRobotsTXT = true
 [taxonomies]
   tag = "tags"
 
-[menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Главная"
-    title = "Главная"
-    url = "/"
-    weight = 1
-
-  [[menu.main]]
-    identifier = "archive"
-    name = "Архив"
-    title = "Архив постов"
-    url = "/archive/"
-    weight = 2
-
-  [[menu.main]]
-    identifier = "about"
-    name = "О проекте"
-    title = "О проекте"
-    url = "/about/"
-    weight = 3
-
 [params]
-  author = "GlukRazor"
-  description = "Архив постов MagicDPD"
   dateFormat = "02.01.2006"
   paginationSinglePost = true
   style = "auto"
@@ -62,3 +39,65 @@ enableRobotsTXT = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[languages]
+
+  [languages.ru]
+    languageName = "Русский"
+    weight = 1
+    title = "MagicDPD: Magic Driven Product Development!"
+
+    [languages.ru.params]
+      author = "GlukRazor"
+      description = "Архив постов MagicDPD"
+
+    [[languages.ru.menu.main]]
+      identifier = "home"
+      name = "Главная"
+      title = "Главная"
+      url = "/"
+      weight = 1
+
+    [[languages.ru.menu.main]]
+      identifier = "archive"
+      name = "Архив"
+      title = "Архив постов"
+      url = "/archive/"
+      weight = 2
+
+    [[languages.ru.menu.main]]
+      identifier = "about"
+      name = "О проекте"
+      title = "О проекте"
+      url = "/about/"
+      weight = 3
+
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    title = "MagicDPD: Magic Driven Product Development!"
+
+    [languages.en.params]
+      author = "GlukRazor"
+      description = "MagicDPD post archive — CAE/FEA/CFD simulation engineering"
+
+    [[languages.en.menu.main]]
+      identifier = "home"
+      name = "Home"
+      title = "Home"
+      url = "/"
+      weight = 1
+
+    [[languages.en.menu.main]]
+      identifier = "archive"
+      name = "Archive"
+      title = "Post archive"
+      url = "/archive/"
+      weight = 2
+
+    [[languages.en.menu.main]]
+      identifier = "about"
+      name = "About"
+      title = "About the project"
+      url = "/about/"
+      weight = 3

@@ -74,10 +74,10 @@ directory as Russian originals, named `<slug>.en.md`. Update the script accordin
 
 Enable both languages under explicit URL prefixes (`/ru/` and `/en/`).
 
-- [ ] Add `defaultContentLanguageInSubdir = true` on the line after `defaultContentLanguage = "ru"`
-- [ ] Remove the top-level `[menu]` block (it will be replaced per-language below)
-- [ ] Remove the top-level `[params]` fields `author` and `description` (moved per-language)
-- [ ] Add the following `[languages]` block at the end of `site/hugo.toml`:
+- [x] Add `defaultContentLanguageInSubdir = true` on the line after `defaultContentLanguage = "ru"`
+- [x] Remove the top-level `[menu]` block (it will be replaced per-language below)
+- [x] Remove the top-level `[params]` fields `author` and `description` (moved per-language)
+- [x] Add the following `[languages]` block at the end of `site/hugo.toml`:
 
   ```toml
   [languages]
@@ -143,9 +143,9 @@ Enable both languages under explicit URL prefixes (`/ru/` and `/en/`).
         weight = 3
   ```
 
-- [ ] Verify Hugo parses the config without errors:
+- [x] Verify Hugo parses the config without errors:
   `hugo --source site config | grep -E "defaultContent|languages"`
-- [ ] Mark completed
+- [x] Mark completed
 
 ---
 
