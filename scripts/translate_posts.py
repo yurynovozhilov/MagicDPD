@@ -16,7 +16,7 @@ from pathlib import Path
 import frontmatter
 
 POSTS_DIR = Path("site/content/posts")
-OUTPUT_DIR = Path("site/content/posts-en")
+OUTPUT_DIR = Path("site/content/posts")   # same dir as source
 PROGRESS_FILE = Path("scripts/translate_progress.json")
 MODEL = "claude-haiku-4-5-20251001"
 
@@ -96,7 +96,7 @@ def translate_post(md_path: Path) -> None:
     if post.content:
         post.content = translate_text(post.content)
 
-    out_path = OUTPUT_DIR / md_path.name
+    out_path = OUTPUT_DIR / (md_path.stem + ".en.md")
     with open(out_path, "w", encoding="utf-8") as f:
         frontmatter.dump(post, f)
 
@@ -107,10 +107,8 @@ def main():
     parser.add_argument("--year", action="append", help="Filter by year prefix (repeatable)")
     args = parser.parse_args()
 
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-
     done = load_progress()
-    md_files = sorted(POSTS_DIR.glob("*.md"))
+    md_files = sorted(p for p in POSTS_DIR.glob("*.md") if not p.name.endswith(".en.md"))
 
     if args.year:
         prefixes = tuple(f"{y}-" for y in args.year)

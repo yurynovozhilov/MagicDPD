@@ -54,19 +54,19 @@ Script uses `claude -p` subprocess (Claude Code subscription auth, no API key ne
 Hugo's multilingual filename-suffix convention requires English posts to live in the same
 directory as Russian originals, named `<slug>.en.md`. Update the script accordingly.
 
-- [ ] In `scripts/translate_posts.py`, change the two output constants:
+- [x] In `scripts/translate_posts.py`, change the two output constants:
   ```python
   POSTS_DIR = Path("site/content/posts")
   OUTPUT_DIR = Path("site/content/posts")   # same dir as source
   ```
-- [ ] In `translate_post()`, change the output filename from `md_path.name` to
+- [x] In `translate_post()`, change the output filename from `md_path.name` to
   `md_path.stem + ".en.md"` so that `2015-07-03-slug.md` → `2015-07-03-slug.en.md`
-- [ ] Also add `post.metadata["language"] = "en"` is NOT needed — Hugo detects language
+- [x] Also add `post.metadata["language"] = "en"` is NOT needed — Hugo detects language
   from the filename suffix automatically; do not add it
-- [ ] Remove the empty `site/content/posts-en/` directory:
+- [x] Remove the empty `site/content/posts-en/` directory:
   `rm -rf site/content/posts-en`
-- [ ] Verify syntax: `python3 -m py_compile scripts/translate_posts.py`
-- [ ] Mark completed
+- [x] Verify syntax: `python3 -m py_compile scripts/translate_posts.py`
+- [x] Mark completed
 
 ---
 
