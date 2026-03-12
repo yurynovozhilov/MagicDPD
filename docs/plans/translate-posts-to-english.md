@@ -28,9 +28,9 @@ Resume-safe: progress tracked in `scripts/translate_progress.json`.
 
 ### Task 1: Verify dependencies
 
-- [ ] `python-frontmatter` already in `requirements.txt` — no new packages needed
-- [ ] Verify: `source .venv/bin/activate && python3 -c "import frontmatter; print('ok')"`
-- [ ] Mark completed
+- [x] `python-frontmatter` already in `requirements.txt` — no new packages needed
+- [x] Verify: `source .venv/bin/activate && python3 -c "import frontmatter; print('ok')"`
+- [x] Mark completed
 
 ---
 
