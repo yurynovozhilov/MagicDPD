@@ -38,14 +38,14 @@ Resume-safe: progress tracked in `scripts/translate_progress.json`.
 
 Script uses `claude -p` subprocess (Claude Code subscription auth, no API key needed).
 
-- [ ] Create `scripts/translate_posts.py` — implemented with:
+- [x] Create `scripts/translate_posts.py` — implemented with:
   - `translate_text(text)` — calls `subprocess.run(["claude", "-p", prompt, "--model", MODEL])`
   - Detects `"You've hit your limit"` in output → raises `RateLimitError`
   - `load_progress()` / `save_progress()` — JSON resume tracker
   - `translate_post(md_path)` — parses front matter, translates `title` + body, writes to `OUTPUT_DIR`
   - `main()` — `--limit N` and `--year YYYY` CLI args, per-file error handling
-- [ ] Verify syntax: `python3 -m py_compile scripts/translate_posts.py`
-- [ ] Mark completed
+- [x] Verify syntax: `python3 -m py_compile scripts/translate_posts.py`
+- [x] Mark completed
 
 ---
 
