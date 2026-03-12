@@ -1,160 +1,264 @@
-# Plan: Translate Blog Posts to Technical English via Claude Haiku 4.5
+# Plan: Bilingual Site (RU/EN) with Translated Posts via Claude Haiku 4.5
 
 ## Overview
 
-Translate all 3134 Russian-language Markdown posts in `site/content/posts/` to technical
-English using the Claude Haiku 4.5 model (`claude-haiku-4-5-20251001`). Each post has YAML
-front matter and a Markdown body. The script iterates over every `.md` file, translates the
-`title` field and body text, and saves the English version to `site/content/posts-en/`
-preserving all structural front matter fields unchanged.
+Set up MagicDPD as a bilingual Hugo site (Russian + English), with both languages served
+under explicit prefixes (`/ru/` and `/en/`). Translated posts use Hugo's filename-suffix
+convention (`post.en.md` alongside `post.md` in the same directory), so Hugo automatically
+links them as translations and the Anubis theme can render the language switcher.
 
-Translation rules:
-- Translate `title` front matter field and body text from Russian to technical English
-- Preserve unchanged: `layout`, `date`, `author`, `source`, `images`, `tags`, `url` fields
-- Preserve unchanged in body: URLs, code blocks (fenced and inline), Markdown syntax,
-  product/company names (ANSYS, LS-DYNA, COMSOL, Abaqus, OpenFOAM, etc.), emoji
-- Resume-safe: skip already-translated files using a JSON progress tracker
-- Rate-limit-safe: respect API limits with exponential backoff on 429 errors
+**Scope:**
+1. Update translation script to write `.en.md` files into `site/content/posts/`
+2. Configure Hugo for bilingual mode (`[languages]` block, `defaultContentLanguageInSubdir`)
+3. Enable language switcher in site header (Anubis already has the partial)
+4. Translate static pages: About and Archive
+5. Translate all 3134 posts iteratively by year-batch
+6. Validate full Hugo build
+
+Translation uses `claude -p` subprocess (Claude Code subscription auth, no API key).
+Resume-safe: progress tracked in `scripts/translate_progress.json`.
 
 ## Validation Commands
 
 - `python3 -m py_compile scripts/translate_posts.py`
-- `python3 -c "import anthropic, frontmatter; print('deps ok')"`
-- `test -d site/content/posts-en && echo "output dir ok"`
+- `python3 -c "import frontmatter; print('deps ok')"`
+- `hugo --source site version`
 
 ---
 
-### Task 1: Add Anthropic SDK to project dependencies
+### Task 1: Verify dependencies
 
-- [ ] Add `anthropic>=0.40.0` to `requirements.txt` under a new `# Translation` comment
-- [ ] Activate the virtual environment and install the new dependency:
-  `source .venv/bin/activate && pip install anthropic`
-- [ ] Verify install: `python3 -c "import anthropic; print(anthropic.__version__)"`
+- [ ] `python-frontmatter` already in `requirements.txt` — no new packages needed
+- [ ] Verify: `source .venv/bin/activate && python3 -c "import frontmatter; print('ok')"`
 - [ ] Mark completed
 
 ---
 
 ### Task 2: Create translation script `scripts/translate_posts.py`
 
-Implement the full translation pipeline as a single self-contained script.
+Script uses `claude -p` subprocess (Claude Code subscription auth, no API key needed).
 
-- [ ] Create `scripts/translate_posts.py` with the following structure:
-
-  **Constants / config (at top of file):**
-  ```python
-  POSTS_DIR = Path("site/content/posts")
-  OUTPUT_DIR = Path("site/content/posts-en")
-  PROGRESS_FILE = Path("scripts/translate_progress.json")
-  MODEL = "claude-haiku-4-5-20251001"
-  MAX_TOKENS = 4096
-  ```
-
-  **`load_progress() -> set[str]`** — reads `PROGRESS_FILE` and returns a set of
-  already-translated filenames; returns empty set if file not found.
-
-  **`save_progress(done: set[str])`** — atomically writes the set to `PROGRESS_FILE`
-  as a sorted JSON list.
-
-  **`translate_text(client, text: str) -> str`** — sends `text` to Claude Haiku 4.5
-  with a system prompt instructing it to translate Russian technical CAE/FEA content to
-  technical English. The system prompt must specify:
-  - Output only the translated text, no commentary
-  - Preserve all Markdown syntax, URLs, code blocks verbatim
-  - Preserve product/company names: ANSYS, LS-DYNA, COMSOL, Abaqus, OpenFOAM,
-    SolidWorks, Altair, HyperMesh, Nastran, RADIOSS, STAR-CCM+, SimScale, etc.
-  - Preserve emoji characters
-  - This is a technical CAE/simulation engineering blog — use accurate technical terms
-
-  **`translate_post(client, md_path: Path) -> None`** — loads a post with
-  `frontmatter.load()`, translates `post.metadata['title']` and `post.content` via
-  `translate_text()`, constructs the output path under `OUTPUT_DIR` with the same
-  filename, writes the result with `frontmatter.dump()`.
-
-  **`main()`** — loads progress, iterates sorted over all `.md` files in `POSTS_DIR`,
-  skips already-done files, calls `translate_post()`, saves progress after each file,
-  prints a one-line status per post: `[N/3134] filename.md`. Handle `anthropic.RateLimitError`
-  with `time.sleep(60)` and retry once. Handle all other exceptions by printing the error
-  and continuing to the next file (do not abort the full run).
-
-- [ ] Ensure `OUTPUT_DIR` is created at startup with `OUTPUT_DIR.mkdir(parents=True, exist_ok=True)`
-- [ ] Use `python-dotenv` to load `.env` for `ANTHROPIC_API_KEY`
+- [ ] Create `scripts/translate_posts.py` — implemented with:
+  - `translate_text(text)` — calls `subprocess.run(["claude", "-p", prompt, "--model", MODEL])`
+  - Detects `"You've hit your limit"` in output → raises `RateLimitError`
+  - `load_progress()` / `save_progress()` — JSON resume tracker
+  - `translate_post(md_path)` — parses front matter, translates `title` + body, writes to `OUTPUT_DIR`
+  - `main()` — `--limit N` and `--year YYYY` CLI args, per-file error handling
 - [ ] Verify syntax: `python3 -m py_compile scripts/translate_posts.py`
 - [ ] Mark completed
 
 ---
 
-### Task 3: Smoke-test translation on 5 recent posts
+### Task 3: Update translation script output format to `.en.md` suffix
 
-Run a limited test to verify the script works end-to-end before committing to the full run.
+Hugo's multilingual filename-suffix convention requires English posts to live in the same
+directory as Russian originals, named `<slug>.en.md`. Update the script accordingly.
 
-- [ ] Run the script limited to the 5 newest posts (2025 year posts) by temporarily adding
-  a `--limit 5` CLI argument (use `argparse`) that stops after N translations
-- [ ] Execute: `source .venv/bin/activate && python3 scripts/translate_posts.py --limit 5`
-- [ ] Inspect 2 output files in `site/content/posts-en/` and confirm:
-  - Front matter is intact (layout, date, author, source, images unchanged)
-  - Title is translated to English
-  - Body text is translated to English
-  - URLs and code blocks are unchanged
+- [ ] In `scripts/translate_posts.py`, change the two output constants:
+  ```python
+  POSTS_DIR = Path("site/content/posts")
+  OUTPUT_DIR = Path("site/content/posts")   # same dir as source
+  ```
+- [ ] In `translate_post()`, change the output filename from `md_path.name` to
+  `md_path.stem + ".en.md"` so that `2015-07-03-slug.md` → `2015-07-03-slug.en.md`
+- [ ] Also add `post.metadata["language"] = "en"` is NOT needed — Hugo detects language
+  from the filename suffix automatically; do not add it
+- [ ] Remove the empty `site/content/posts-en/` directory:
+  `rm -rf site/content/posts-en`
+- [ ] Verify syntax: `python3 -m py_compile scripts/translate_posts.py`
 - [ ] Mark completed
 
 ---
 
-### Task 4: Translate posts from 2015 and 2016
+### Task 4: Configure Hugo for bilingual mode in `site/hugo.toml`
+
+Enable both languages under explicit URL prefixes (`/ru/` and `/en/`).
+
+- [ ] Add `defaultContentLanguageInSubdir = true` on the line after `defaultContentLanguage = "ru"`
+- [ ] Remove the top-level `[menu]` block (it will be replaced per-language below)
+- [ ] Remove the top-level `[params]` fields `author` and `description` (moved per-language)
+- [ ] Add the following `[languages]` block at the end of `site/hugo.toml`:
+
+  ```toml
+  [languages]
+
+    [languages.ru]
+      languageName = "Русский"
+      weight = 1
+      title = "MagicDPD: Magic Driven Product Development!"
+
+      [languages.ru.params]
+        author = "GlukRazor"
+        description = "Архив постов MagicDPD"
+
+      [[languages.ru.menu.main]]
+        identifier = "home"
+        name = "Главная"
+        title = "Главная"
+        url = "/"
+        weight = 1
+
+      [[languages.ru.menu.main]]
+        identifier = "archive"
+        name = "Архив"
+        title = "Архив постов"
+        url = "/archive/"
+        weight = 2
+
+      [[languages.ru.menu.main]]
+        identifier = "about"
+        name = "О проекте"
+        title = "О проекте"
+        url = "/about/"
+        weight = 3
+
+    [languages.en]
+      languageName = "English"
+      weight = 2
+      title = "MagicDPD: Magic Driven Product Development!"
+
+      [languages.en.params]
+        author = "GlukRazor"
+        description = "MagicDPD post archive — CAE/FEA/CFD simulation engineering"
+
+      [[languages.en.menu.main]]
+        identifier = "home"
+        name = "Home"
+        title = "Home"
+        url = "/"
+        weight = 1
+
+      [[languages.en.menu.main]]
+        identifier = "archive"
+        name = "Archive"
+        title = "Post archive"
+        url = "/archive/"
+        weight = 2
+
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        title = "About the project"
+        url = "/about/"
+        weight = 3
+  ```
+
+- [ ] Verify Hugo parses the config without errors:
+  `hugo --source site config | grep -E "defaultContent|languages"`
+- [ ] Mark completed
+
+---
+
+### Task 5: Enable language switcher in site header
+
+The Anubis theme already has `language-switcher.html` partial but does not include it in
+the header by default. Override `header-extra.html` to activate it.
+
+- [ ] Create `site/layouts/partials/header-extra.html` with the following content:
+  ```html
+  {{ partial "language-switcher.html" . }}
+  ```
+  (This overrides the theme's empty `<!--for overriding-->` placeholder.)
+- [ ] Verify the file exists: `cat site/layouts/partials/header-extra.html`
+- [ ] Mark completed
+
+---
+
+### Task 6: Translate static pages (About and Archive)
+
+Create English versions of the two non-post content pages using `claude -p`.
+
+- [ ] Translate `site/content/about/_index.md` body and title:
+  run `claude -p` with the translation system prompt and the file content,
+  save result as `site/content/about/_index.en.md` with translated `title` front matter
+  and English body
+- [ ] Create `site/content/archive/_index.en.md` with front matter:
+  ```yaml
+  ---
+  title: "Post Archive"
+  ---
+  ```
+  (Archive is auto-generated by Hugo; only the title needs translation)
+- [ ] Verify both files exist:
+  `ls site/content/about/_index.en.md site/content/archive/_index.en.md`
+- [ ] Mark completed
+
+---
+
+### Task 7: Smoke-test translation on 5 recent posts
+
+Verify the updated script works end-to-end with the new `.en.md` output format.
+
+- [ ] Run: `source .venv/bin/activate && python3 scripts/translate_posts.py --year 2025 --limit 5`
+- [ ] Verify output files exist as `.en.md` in the posts directory:
+  `ls site/content/posts/*.en.md | head -5`
+- [ ] Inspect one output file and confirm:
+  - Filename ends in `.en.md`
+  - Front matter intact (layout, date, author, source, images unchanged)
+  - `title` is translated to English
+  - Body is translated to English
+  - URLs and code blocks unchanged
+- [ ] Do a quick Hugo build to confirm no errors so far:
+  `hugo --source site --buildDrafts 2>&1 | tail -5`
+- [ ] Mark completed
+
+---
+
+### Task 8: Translate posts from 2015 and 2016
 
 First full year-batch — ~400 oldest posts.
 
 - [ ] Run: `source .venv/bin/activate && python3 scripts/translate_posts.py --year 2015 --year 2016`
-- [ ] Add `--year` argument to `main()` using `argparse` that filters posts by filename prefix
-  (e.g. `--year 2015` processes only files starting with `2015-`); multiple `--year` flags
-  are OR-combined
-- [ ] After run completes, verify count:
-  `ls site/content/posts-en/2015-* site/content/posts-en/2016-* | wc -l`
-- [ ] Check progress file updated: `python3 -c "import json; d=json.load(open('scripts/translate_progress.json')); print(len(d), 'done')"`
+- [ ] Verify count: `ls site/content/posts/2015-*.en.md site/content/posts/2016-*.en.md | wc -l`
+- [ ] Check progress: `python3 -c "import json; d=json.load(open('scripts/translate_progress.json')); print(len(d), 'done')"`
 - [ ] Mark completed
 
 ---
 
-### Task 5: Translate posts from 2017, 2018, and 2019
+### Task 9: Translate posts from 2017, 2018, and 2019
 
 - [ ] Run: `source .venv/bin/activate && python3 scripts/translate_posts.py --year 2017 --year 2018 --year 2019`
-- [ ] After run completes, verify: `ls site/content/posts-en/201[789]-* | wc -l`
+- [ ] Verify: `ls site/content/posts/201[789]-*.en.md | wc -l`
 - [ ] Mark completed
 
 ---
 
-### Task 6: Translate posts from 2020, 2021, and 2022
+### Task 10: Translate posts from 2020, 2021, and 2022
 
 - [ ] Run: `source .venv/bin/activate && python3 scripts/translate_posts.py --year 2020 --year 2021 --year 2022`
-- [ ] After run completes, verify: `ls site/content/posts-en/202[012]-* | wc -l`
+- [ ] Verify: `ls site/content/posts/202[012]-*.en.md | wc -l`
 - [ ] Mark completed
 
 ---
 
-### Task 7: Translate posts from 2023, 2024, and 2025
+### Task 11: Translate posts from 2023, 2024, and 2025
 
 - [ ] Run: `source .venv/bin/activate && python3 scripts/translate_posts.py --year 2023 --year 2024 --year 2025`
-- [ ] After run completes, verify: `ls site/content/posts-en/202[345]-* | wc -l`
+- [ ] Verify: `ls site/content/posts/202[345]-*.en.md | wc -l`
 - [ ] Mark completed
 
 ---
 
-### Task 8: Validate full translation coverage
+### Task 12: Validate full translation coverage and Hugo build
 
 - [ ] Run coverage check:
   ```bash
   python3 -c "
   from pathlib import Path
-  src = set(p.name for p in Path('site/content/posts').glob('*.md'))
-  out = set(p.name for p in Path('site/content/posts-en').glob('*.md'))
+  src = set(p.stem for p in Path('site/content/posts').glob('[0-9]*.md'))
+  out = set(p.stem.removesuffix('.en') for p in Path('site/content/posts').glob('*.en.md'))
   missing = src - out
   print(f'Total: {len(src)}, Translated: {len(out)}, Missing: {len(missing)}')
-  if missing:
-      for f in sorted(missing)[:20]:
-          print(' MISSING:', f)
+  for f in sorted(missing)[:20]:
+      print(' MISSING:', f)
   "
   ```
-- [ ] If missing files exist, re-run the script without `--year` filter to catch stragglers:
+- [ ] If missing files exist, re-run without year filter:
   `source .venv/bin/activate && python3 scripts/translate_posts.py`
-  (already-translated files will be skipped via progress tracker)
-- [ ] Final count must show `Missing: 0`
+  (already-translated files skipped via progress tracker)
+- [ ] Run full Hugo build and confirm no errors:
+  `hugo --source site 2>&1 | tail -10`
+- [ ] Confirm both language roots exist in output:
+  `ls site/public/ru/ && ls site/public/en/`
+- [ ] Final translation count must show `Missing: 0`
 - [ ] Mark completed
