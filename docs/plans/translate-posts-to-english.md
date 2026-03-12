@@ -154,13 +154,13 @@ Enable both languages under explicit URL prefixes (`/ru/` and `/en/`).
 The Anubis theme already has `language-switcher.html` partial but does not include it in
 the header by default. Override `header-extra.html` to activate it.
 
-- [ ] Create `site/layouts/partials/header-extra.html` with the following content:
+- [x] Create `site/layouts/partials/header-extra.html` with the following content:
   ```html
   {{ partial "language-switcher.html" . }}
   ```
   (This overrides the theme's empty `<!--for overriding-->` placeholder.)
-- [ ] Verify the file exists: `cat site/layouts/partials/header-extra.html`
-- [ ] Mark completed
+- [x] Verify the file exists: `cat site/layouts/partials/header-extra.html`
+- [x] Mark completed
 
 ---
 
