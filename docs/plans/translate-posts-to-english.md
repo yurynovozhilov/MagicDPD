@@ -185,61 +185,42 @@ Create English versions of the two non-post content pages using `claude -p`.
 
 ---
 
-### Task 7: Smoke-test translation on 5 recent posts
+### Task 7: Verify infrastructure and prepare for manual translation
 
-Verify the updated script works end-to-end with the new `.en.md` output format.
+`translate_posts.py` cannot run inside a Claude Code session (nested `claude -p` is forbidden).
+Translation must be executed manually by the user outside any Claude session.
+This task verifies all infrastructure is in place and confirms the script is ready.
 
-- [ ] Run: `source .venv/bin/activate && python3 scripts/translate_posts.py --year 2025 --limit 5`
-- [ ] Verify output files exist as `.en.md` in the posts directory:
-  `ls site/content/posts/*.en.md | head -5`
-- [ ] Inspect one output file and confirm:
-  - Filename ends in `.en.md`
-  - Front matter intact (layout, date, author, source, images unchanged)
-  - `title` is translated to English
-  - Body is translated to English
-  - URLs and code blocks unchanged
-- [ ] Do a quick Hugo build to confirm no errors so far:
-  `hugo --source site --buildDrafts 2>&1 | tail -5`
+- [ ] Verify script syntax: `python3 -m py_compile scripts/translate_posts.py`
+- [ ] Verify Hugo multilingual config:
+  `hugo --source site config | grep -E "defaultContentLanguage|languageName"`
+- [ ] Verify language switcher override exists:
+  `cat site/layouts/partials/header-extra.html`
+- [ ] Verify static page translations exist:
+  `ls site/content/about/_index.en.md site/content/archive/_index.en.md`
+- [ ] Run Hugo build to confirm the bilingual infrastructure works (even without post translations):
+  `hugo --source site 2>&1 | tail -5`
+- [ ] Confirm both language roots are present in build output:
+  `ls site/public/ru/ site/public/en/`
+- [ ] Print the following user instructions as a final message:
+  ```
+  INFRASTRUCTURE COMPLETE. Run translations manually outside Claude Code:
+
+    source .venv/bin/activate
+    python3 scripts/translate_posts.py --year 2015 --year 2016
+    python3 scripts/translate_posts.py --year 2017 --year 2018 --year 2019
+    python3 scripts/translate_posts.py --year 2020 --year 2021 --year 2022
+    python3 scripts/translate_posts.py --year 2023 --year 2024 --year 2025
+
+  Then run: ralphex   (to execute Task 8 — final validation)
+  ```
 - [ ] Mark completed
 
 ---
 
-### Task 8: Translate posts from 2015 and 2016
+### Task 8: Validate full translation coverage and Hugo build
 
-First full year-batch — ~400 oldest posts.
-
-- [ ] Run: `source .venv/bin/activate && python3 scripts/translate_posts.py --year 2015 --year 2016`
-- [ ] Verify count: `ls site/content/posts/2015-*.en.md site/content/posts/2016-*.en.md | wc -l`
-- [ ] Check progress: `python3 -c "import json; d=json.load(open('scripts/translate_progress.json')); print(len(d), 'done')"`
-- [ ] Mark completed
-
----
-
-### Task 9: Translate posts from 2017, 2018, and 2019
-
-- [ ] Run: `source .venv/bin/activate && python3 scripts/translate_posts.py --year 2017 --year 2018 --year 2019`
-- [ ] Verify: `ls site/content/posts/201[789]-*.en.md | wc -l`
-- [ ] Mark completed
-
----
-
-### Task 10: Translate posts from 2020, 2021, and 2022
-
-- [ ] Run: `source .venv/bin/activate && python3 scripts/translate_posts.py --year 2020 --year 2021 --year 2022`
-- [ ] Verify: `ls site/content/posts/202[012]-*.en.md | wc -l`
-- [ ] Mark completed
-
----
-
-### Task 11: Translate posts from 2023, 2024, and 2025
-
-- [ ] Run: `source .venv/bin/activate && python3 scripts/translate_posts.py --year 2023 --year 2024 --year 2025`
-- [ ] Verify: `ls site/content/posts/202[345]-*.en.md | wc -l`
-- [ ] Mark completed
-
----
-
-### Task 12: Validate full translation coverage and Hugo build
+Run this task only after the user has completed manual translation of all posts.
 
 - [ ] Run coverage check:
   ```bash
@@ -253,12 +234,11 @@ First full year-batch — ~400 oldest posts.
       print(' MISSING:', f)
   "
   ```
-- [ ] If missing files exist, re-run without year filter:
-  `source .venv/bin/activate && python3 scripts/translate_posts.py`
-  (already-translated files skipped via progress tracker)
+- [ ] If `Missing` count > 0, print the list of missing files and fail this task so the
+  user knows which posts still need translation
 - [ ] Run full Hugo build and confirm no errors:
   `hugo --source site 2>&1 | tail -10`
-- [ ] Confirm both language roots exist in output:
-  `ls site/public/ru/ && ls site/public/en/`
+- [ ] Confirm both language roots exist with posts:
+  `ls site/public/ru/posts/ | wc -l && ls site/public/en/posts/ | wc -l`
 - [ ] Final translation count must show `Missing: 0`
 - [ ] Mark completed
