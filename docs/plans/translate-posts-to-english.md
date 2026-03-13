@@ -191,18 +191,18 @@ Create English versions of the two non-post content pages using `claude -p`.
 Translation must be executed manually by the user outside any Claude session.
 This task verifies all infrastructure is in place and confirms the script is ready.
 
-- [ ] Verify script syntax: `python3 -m py_compile scripts/translate_posts.py`
-- [ ] Verify Hugo multilingual config:
+- [x] Verify script syntax: `python3 -m py_compile scripts/translate_posts.py`
+- [x] Verify Hugo multilingual config:
   `hugo --source site config | grep -E "defaultContentLanguage|languageName"`
-- [ ] Verify language switcher override exists:
+- [x] Verify language switcher override exists:
   `cat site/layouts/partials/header-extra.html`
-- [ ] Verify static page translations exist:
+- [x] Verify static page translations exist:
   `ls site/content/about/_index.en.md site/content/archive/_index.en.md`
-- [ ] Run Hugo build to confirm the bilingual infrastructure works (even without post translations):
+- [x] Run Hugo build to confirm the bilingual infrastructure works (even without post translations):
   `hugo --source site 2>&1 | tail -5`
-- [ ] Confirm both language roots are present in build output:
+- [x] Confirm both language roots are present in build output:
   `ls site/public/ru/ site/public/en/`
-- [ ] Print the following user instructions as a final message:
+- [x] Print the following user instructions as a final message:
   ```
   INFRASTRUCTURE COMPLETE. Run translations manually outside Claude Code:
 
@@ -214,7 +214,7 @@ This task verifies all infrastructure is in place and confirms the script is rea
 
   Then run: ralphex   (to execute Task 8 — final validation)
   ```
-- [ ] Mark completed
+- [x] Mark completed
 
 ---
 
