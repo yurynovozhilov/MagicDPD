@@ -44,6 +44,8 @@ jobs:
         run: pip install python-frontmatter requests beautifulsoup4 lxml
 
       - name: Fetch link previews
+        continue-on-error: true
+        timeout-minutes: 5
         run: python fetch_link_previews.py
 
       - name: Setup Hugo
