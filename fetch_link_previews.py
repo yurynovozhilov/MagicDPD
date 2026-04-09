@@ -175,7 +175,9 @@ def process_post(md_path: Path, cache: dict) -> bool:
 
 def main() -> None:
     cache = load_cache()
-    md_files = sorted(POSTS_DIR.glob("**/*.md"))
+    # Process newest files first so homepage/archive content gets previews
+    # even when CI runtime is limited.
+    md_files = sorted(POSTS_DIR.glob("**/*.md"), reverse=True)
     print(f"Processing {len(md_files)} posts…")
 
     changed = 0
