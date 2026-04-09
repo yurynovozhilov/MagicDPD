@@ -13,7 +13,7 @@ import os
 import re
 import sys
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import parse_qs, urlparse
 
 import frontmatter
 import requests
@@ -76,12 +76,48 @@ def fetch_preview(url: str) -> dict | None:
     if len(description) < 5:
         description = ""
 
-    return {
+    preview = {
         "url": url,
         "title": title,
         "description": description,
         "image": image,
     }
+    return normalize_preview(preview)
+
+
+def _youtube_video_id(url: str) -> str | None:
+    parsed = urlparse(url)
+    host = parsed.netloc.lower()
+
+    if host.endswith("youtu.be"):
+        video_id = parsed.path.strip("/").split("/")[0]
+        return video_id or None
+
+    if "youtube.com" not in host:
+        return None
+
+    if parsed.path == "/watch":
+        return parse_qs(parsed.query).get("v", [None])[0]
+
+    if parsed.path.startswith("/shorts/"):
+        video_id = parsed.path.split("/", 2)[2]
+        return video_id or None
+
+    return None
+
+
+def normalize_preview(preview: dict) -> dict:
+    """Backfill provider-specific fields so cached entries can improve over time."""
+    url = preview.get("url", "")
+    image = (preview.get("image") or "").strip()
+
+    if not image:
+        video_id = _youtube_video_id(url)
+        if video_id:
+            # hqdefault is broadly available and more reliable than maxresdefault.
+            preview["image"] = f"https://i.ytimg.com/vi/{video_id}/hqdefault.jpg"
+
+    return preview
 
 
 def _extract_meta(html: str, name: str) -> str:
@@ -156,6 +192,8 @@ def process_post(md_path: Path, cache: dict) -> bool:
     for url in urls:
         entry = cache.get(url)
         if entry:
+            entry = normalize_preview(dict(entry))
+            cache[url] = entry
             previews.append(entry)
 
     if not previews:
