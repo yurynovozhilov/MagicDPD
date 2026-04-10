@@ -100,18 +100,48 @@ def youtube_video_id(url: str) -> str | None:
     return None
 
 
+def preview_host(url: str) -> str:
+    return urlparse(url).netloc.lower()
+
+
+def preview_has_content(preview: dict) -> bool:
+    return any((preview.get(key) or "").strip() for key in ("title", "description", "image"))
+
+
+def preview_priority(preview: dict) -> int:
+    host = preview_host(preview.get("url", ""))
+    score = 0
+
+    if (preview.get("title") or "").strip():
+        score += 4
+    if (preview.get("description") or "").strip():
+        score += 2
+    if (preview.get("image") or "").strip():
+        score += 4
+
+    if "youtube.com" in host or host.endswith("youtu.be"):
+        score += 1
+
+    return score
+
+
 def normalize_preview(preview: dict, label_map: dict[str, str]) -> dict:
     url = preview.get("url", "")
     title = (preview.get("title") or "").strip()
+    description = (preview.get("description") or "").strip()
     image = (preview.get("image") or "").strip()
 
     if title in {"", "- YouTube"} and url in label_map:
-        preview["title"] = label_map[url]
+        title = label_map[url]
 
     if not image:
         video_id = youtube_video_id(url)
         if video_id:
-            preview["image"] = f"https://i.ytimg.com/vi/{video_id}/hqdefault.jpg"
+            image = f"https://i.ytimg.com/vi/{video_id}/hqdefault.jpg"
+
+    preview["title"] = title
+    preview["description"] = description
+    preview["image"] = image
 
     return preview
 
@@ -122,18 +152,19 @@ def build_link_previews(body: str, cache: dict) -> list[dict]:
         return []
 
     label_map = collect_markdown_link_labels(body)
-    previews: list[dict] = []
+    previews: list[tuple[int, int, dict]] = []
 
-    for url in urls:
+    for index, url in enumerate(urls):
         cached = cache.get(url)
         preview = dict(cached) if isinstance(cached, dict) else {"url": url}
         preview["url"] = url
         preview = normalize_preview(preview, label_map)
 
-        if preview.get("title") or preview.get("description") or preview.get("image"):
-            previews.append(preview)
+        if preview_has_content(preview):
+            previews.append((preview_priority(preview), index, preview))
 
-    return previews
+    previews.sort(key=lambda item: (-item[0], item[1]))
+    return [preview for _, _, preview in previews]
 
 
 def yaml_quote(value: str) -> str:

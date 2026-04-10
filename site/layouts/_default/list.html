@@ -21,7 +21,7 @@
                         {{ partial "post-language-switcher.html" . }}
                     </header>
                 </div>
-                {{ with .Params.link_previews }}
+                {{ with partial "link-previews-preferred.html" .Params.link_previews }}
                     {{ partial "link-preview-card.html" (dict "preview" (index . 0)) }}
                 {{ end }}
                 {{ if $showFullContent }}

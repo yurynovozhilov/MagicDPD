@@ -16,7 +16,7 @@
             </header>
         </div>
         {{ partial "toc.html" .}}
-        {{ with .Params.link_previews }}
+        {{ with partial "link-previews-preferred.html" .Params.link_previews }}
         <div class="post-link-previews">
             {{ range . }}
             {{ partial "link-preview-card.html" (dict "preview" .) }}
