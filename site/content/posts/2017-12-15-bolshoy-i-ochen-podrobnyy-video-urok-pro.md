@@ -1,16 +1,52 @@
 ---
+author: GlukRazor
+date: 2017-12-15 17:13:39+00:00
 layout: post
-title: "Большой и очень подробный видео урок про то как можно оптимизировать аэродинамику задней части автомобиля в #LSDYNA используя решатель #ICFD."
-date: 2017-12-15T17:13:39+00:00
-author: "GlukRazor"
+link_previews:
+- description: In this tutorial we explain how to do shape optimization for ground
+    vehicle aerodynamics. The morphing is done on the tail of the vehicle to optimize
+    a objec...
+  image: https://i.ytimg.com/vi/5h0fU_ee2jI/maxresdefault.jpg
+  title: Shape optimization for CFD analysis using LS-Opt + ANSA + LS-Dyna ICFD
+  url: https://www.youtube.com/watch?v=5h0fU_ee2jI
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3874
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23LSDYNA
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23ICFD
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23ANSA
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23SpaceClaim
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23LSTC
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23LSOPT
 source: vk
 tags:
-  - LSTC
-  - LSOPT
-  - ICFD
-  - LSDYNA
-  - SpaceClaim
-  - ANSA
+- LSTC
+- LSOPT
+- ICFD
+- LSDYNA
+- SpaceClaim
+- ANSA
+title: 'Большой и очень подробный видео урок про то как можно оптимизировать аэродинамику
+  задней части автомобиля в #LSDYNA используя решатель #ICFD.'
 ---
 
 Интересные фишки урока - #ANSA используется для морфина сетки. Надо отметить, что та сетка, что вы видите - это не расчетная сетка. Расчетная сетка генерируется решателем на лету. Та сетка, что вы видите - это просто такое представление геометрии для решателя. Это же объясняет отсутствие призматических слоев у границ домена. По сути работая с сеткой в #ANSA тут задают параметризацию формы геометрии как #SpaceClaim.

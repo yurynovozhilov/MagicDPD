@@ -1,9 +1,14 @@
 ---
+author: GlukRazor
+date: 2017-12-25 13:02:11+00:00
 layout: post
-title: "Когда днем ты считаешь в ANSYS, а вечером печешь торт. С новым годом!"
-date: 2017-12-25T13:02:11+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3921
 source: vk
+title: Когда днем ты считаешь в ANSYS, а вечером печешь торт. С новым годом!
 ---
 
 Media

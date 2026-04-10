@@ -5,8 +5,8 @@ layout: post
 link_previews:
 - description: Enjoy the videos and music you love, upload original content, and share
     it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
+  image: https://i.ytimg.com/vi/fl5KSnufK-U/hqdefault.jpg
+  title: Honda Visualization Technology (English Subtitle)
   url: https://www.youtube.com/watch?v=fl5KSnufK-U
 source: vk
 tags:

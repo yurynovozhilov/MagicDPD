@@ -1,17 +1,24 @@
 ---
+author: GlukRazor
+date: 2017-10-17 17:19:15+00:00
 layout: post
-title: "Увидел свет обновленный #EDEM 2018. Из наиболее заметных нововведений: возможность интегрироваться с #Abaqus и #RecurDyn - это в добавление к существовавшей связке с #ANSYS, #MSC и #Siemens."
-date: 2017-10-17T17:19:15+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23EDEM
 source: vk
 tags:
-  - MSC
-  - Abaqus
-  - ANSYS
-  - DEM
-  - EDEM
-  - Siemens
-  - RecurDyn
+- MSC
+- Abaqus
+- ANSYS
+- DEM
+- EDEM
+- Siemens
+- RecurDyn
+title: 'Увидел свет обновленный #EDEM 2018. Из наиболее заметных нововведений: возможность
+  интегрироваться с #Abaqus и #RecurDyn - это в добавление к существовавшей связке
+  с #ANSYS, #MSC и #Siemens.'
 ---
 
 #DEM

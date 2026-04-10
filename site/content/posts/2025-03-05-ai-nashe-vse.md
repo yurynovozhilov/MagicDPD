@@ -1,9 +1,16 @@
 ---
+author: Yury Novozhilov
+date: 2025-03-05 13:04:49+00:00
 layout: post
-title: "AI наше ВСЁ?"
-date: 2025-03-05T13:04:49+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: Get ready for an exhilarating glimpse into how generative AI is transforming
+    simulation engineering in advanced industries. In this session, PhysicsX showcas...
+  image: https://i.ytimg.com/vi/BRkxH-JOc08/maxresdefault.jpg
+  title: 'AWS re:Invent 2024 - Large Geometry Models: Transforming advanced engineering
+    with AI  (STP101)'
+  url: https://www.youtube.com/watch?v=BRkxH-JOc08
 source: vk
+title: AI наше ВСЁ?
 ---
 
 Недавно один мой друг прислал мне ссылку на видео (там есть временная метка), где нам в очередной раз рассказывают о переходе всей индустрии CAE на AI рельсы. Глупо было бы утверждать, что ИИ не повлияет на мою профессиональную жизнь. Однако мне кажется, что все будет немного сложнее.

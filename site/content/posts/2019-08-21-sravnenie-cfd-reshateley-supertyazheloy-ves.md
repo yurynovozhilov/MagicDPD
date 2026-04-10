@@ -1,17 +1,23 @@
 ---
+author: GlukRazor
+date: 2019-08-21 13:00:40+00:00
+images:
+- url: /assets/images/1560.jpg
 layout: post
-title: "Сравнение CFD решателей супертяжелой весовой категории"
-date: 2019-08-21T13:00:40+00:00
-author: "GlukRazor"
+link_previews:
+- description: Siemens STAR CCM+ and ANSYS Fluent have been leading the charge for
+    20+ years. Here
+  image: http://static1.squarespace.com/static/5fa58893566aaf04ce4d00e5/t/60020cdcffb38239717781d3/1610747105882/ansys%2Bfluent%2Bvs%2Bsiemens%2Bstar%2Bccm_square.jpg?format=1500w
+  title: Comparing STAR CCM+ and ANSYS Fluent | Resolved Analytics
+  url: https://www.resolvedanalytics.com/theflux/comparing-cfd-software-part-4-comprehensive-cfd-software-packages
 source: vk
 tags:
-  - CFD
-  - ANSYS
-  - STAR_CCM
-  - Siemens
-  - Fluent
-images:
-  - url: "/assets/images/1560.jpg"
+- CFD
+- ANSYS
+- STAR_CCM
+- Siemens
+- Fluent
+title: Сравнение CFD решателей супертяжелой весовой категории
 ---
 
 Большой обзор-сравнение двух главных решателей гидродинамики современности: ANSYS Fluent и Siemens Simcenter STAR-CCM+. И тут у нас идет очень большое перечисление всех фишек всех решателей.

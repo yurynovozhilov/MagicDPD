@@ -1,13 +1,36 @@
 ---
+author: GlukRazor
+date: 2017-12-02 17:06:12+00:00
 layout: post
-title: "Данное видео призвано продемонстрировать работу динамических сеток для #CFD решателя #LSDYNA #ICFD."
-date: 2017-12-02T17:06:12+00:00
-author: "GlukRazor"
+link_previews:
+- description: This example shows a combination of adaptive remeshing and various
+    zones of specific mesh sizes defined by the user using the keyword MESH_SIZE_SHAPE.
+  image: https://i.ytimg.com/vi/XsUy2h7zPiM/maxresdefault.jpg
+  title: 'LS-DYNA CFD: Mesh size shape keyword example'
+  url: https://www.youtube.com/watch?v=XsUy2h7zPiM
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3793
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23CFD
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23LSDYNA
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23ICFD
 source: vk
 tags:
-  - CFD
-  - ICFD
-  - LSDYNA
+- CFD
+- ICFD
+- LSDYNA
+title: 'Данное видео призвано продемонстрировать работу динамических сеток для #CFD
+  решателя #LSDYNA #ICFD.'
 ---
 
 Всем, кому надо, срочно читать документацию на карту *MESH_SIZE_SHAPE

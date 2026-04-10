@@ -1,15 +1,20 @@
 ---
+author: GlukRazor
+date: 2019-02-02 17:00:42+00:00
+images:
+- url: /assets/images/1330.jpg
 layout: post
-title: "Стыковка optiSLang и GeoDict"
-date: 2019-02-02T17:00:42+00:00
-author: "GlukRazor"
+link_previews:
+- description: CAE-based Robust Design Optimization
+  image: https://i.ytimg.com/vi/nmGoB23wm4Q/maxresdefault.jpg
+  title: Webinar optiSLang GeoDict 2018 2 21
+  url: https://www.youtube.com/watch?v=nmGoB23wm4Q
 source: vk
 tags:
-  - optiSLang
-  - optimization
-  - GeoDict
-images:
-  - url: "/assets/images/1330.jpg"
+- optiSLang
+- optimization
+- GeoDict
+title: Стыковка optiSLang и GeoDict
 ---
 
 https://www.youtube.com/watch?v=nmGoB23wm4Q

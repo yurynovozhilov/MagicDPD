@@ -1,9 +1,17 @@
 ---
+author: Yury Novozhilov
+date: 2023-12-22 17:46:43+00:00
 layout: post
-title: "LS-DYNA ICFD Multiphase"
-date: 2023-12-22T17:46:43+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: 'left: water free-surface position and concentrations of the diluted
+    species.right: air and water velocity fields.Can be coupled with heat transfer
+    and FSI.'
+  image: https://i.ytimg.com/vi/C7_z33OgUe0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYACogWKAgwIABABGEwgUShlMA8=&rs=AOn4CLDpUEBDZqLaZnaZZReTm3RxCzraMA
+  title: ICFD LS-DYNA Two fluids model coupled with species transport. Air/Water system
+    w/ a diluted species
+  url: https://www.youtube.com/watch?v=C7_z33OgUe0
 source: vk
+title: LS-DYNA ICFD Multiphase
 ---
 
 Кажется, уже в следующем году LST выкатят что-то очень интересное в своем ICFD.

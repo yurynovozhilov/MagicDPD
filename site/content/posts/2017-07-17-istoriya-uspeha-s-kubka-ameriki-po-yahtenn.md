@@ -2,12 +2,6 @@
 author: GlukRazor
 date: 2017-07-17 17:00:46+00:00
 layout: post
-link_previews:
-- description: Enjoy the videos and music you love, upload original content, and share
-    it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
-  url: https://youtu.be/xXWGSvJRACE
 source: vk
 tags:
 - ANSYS

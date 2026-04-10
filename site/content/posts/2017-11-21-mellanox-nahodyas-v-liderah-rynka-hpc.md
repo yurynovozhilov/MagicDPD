@@ -1,15 +1,41 @@
 ---
+author: GlukRazor
+date: 2017-11-21 15:10:18+00:00
 layout: post
-title: "#Mellanox, находясь в лидерах рынка #HPC интерконнекта, не останавливается, и продолжает придумывать новые технологии для снижения задержек и повышения быстродействия."
-date: 2017-11-21T15:10:18+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3748
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23Mellanox
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23HPC
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23ANSYS
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23Infiniband
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23SocketDirect
 source: vk
 tags:
-  - Infiniband
-  - ANSYS
-  - HPC
-  - Mellanox
-  - SocketDirect
+- Infiniband
+- ANSYS
+- HPC
+- Mellanox
+- SocketDirect
+title: '#Mellanox, находясь в лидерах рынка #HPC интерконнекта, не останавливается,
+  и продолжает придумывать новые технологии для снижения задержек и повышения быстродействия.'
 ---
 
 Строите кластер для #ANSYS - закладывайте в его основу Mellanox Infiniband.

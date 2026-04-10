@@ -1,11 +1,24 @@
 ---
-layout: post
-title: "PZFlex solver"
-date: 2026-02-03T15:42:16+00:00
-author: "Yury Novozhilov"
-source: vk
+author: Yury Novozhilov
+date: 2026-02-03 15:42:16+00:00
 images:
-  - url: "/assets/images/3098.jpg"
+- url: /assets/images/3098.jpg
+layout: post
+link_previews:
+- description: ''
+  image: ''
+  title: Before you continue to YouTube
+  url: https://www.youtube.com/@PZFlex
+- description: ''
+  image: ''
+  title: PZFlex - Wikiwand
+  url: https://www.wikiwand.com/en/articles/PZFlex
+- description: ''
+  image: ''
+  title: Analyst Examples – OnScale
+  url: https://support.onscale.com/hc/en-us/categories/360000582072-Analyst-Examples
+source: vk
+title: PZFlex solver
 ---
 
 PZFlex это специализированный акустически решатель, разработанный Weidlinger Associates. Работает на основе метода спектральных элементов (явная формулировка). Умеет очень хорошо в ультразвук.

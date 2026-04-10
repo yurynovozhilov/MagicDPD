@@ -1,9 +1,15 @@
 ---
+author: Yury Novozhilov
+date: 2023-07-05 15:01:41+00:00
 layout: post
-title: "Что будет если попасть пулей в пулю?"
-date: 2023-07-05T15:01:41+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: Thanks to @smartereveryday for the awesome experiment!Here is my attempt
+    to simulate the impossible shot (bullets hitting bullets) with LS-DYNA. The experime...
+  image: https://i.ytimg.com/vi/PydPqXay4Do/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgYig5MA8=&rs=AOn4CLAlxnBGOMMWjgllE7YpH3KANOcuxQ
+  title: IMPOSSIBLE SHOT (Bullets Hitting Bullets)
+  url: https://www.youtube.com/watch?v=PydPqXay4Do
 source: vk
+title: Что будет если попасть пулей в пулю?
 ---
 
 Эксперимент и его сравнение с расчетом в LS-DYNA

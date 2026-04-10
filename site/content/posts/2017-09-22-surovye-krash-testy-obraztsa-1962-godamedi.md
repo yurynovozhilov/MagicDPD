@@ -6,9 +6,9 @@ link_previews:
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2xtYFtd
+  url: https://m.vk.com/wall-97265142_3291
 source: vk
-title: "Суровые краш-тесты образца 1962 годаMedia📼 Crash And Stay Alive (1962)"
+title: "Суровые краш-тесты образца 1962 годаMedia\U0001F4FC Crash And Stay Alive (1962)"
 ---
 
 http://ift.tt/2xtYFtd

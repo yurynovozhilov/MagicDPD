@@ -1,15 +1,22 @@
 ---
+author: GlukRazor
+date: 2018-02-20 18:01:11+00:00
+images:
+- url: /assets/images/809.jpg
 layout: post
-title: "ANSYS Discovery AIM 19"
-date: 2018-02-20T18:01:11+00:00
-author: "GlukRazor"
+link_previews:
+- description: In ANSYS 19, Discovery AIM is full of enhancements making it easier
+    and faster to simulate real world conditions. We’ve packed in several enhancements
+    to the...
+  image: https://i.ytimg.com/vi/ThW58RG1Kjw/maxresdefault.jpg
+  title: ANSYS Discovery AIM - ANSYS 19 Update
+  url: https://www.youtube.com/watch?v=ThW58RG1Kjw
 source: vk
 tags:
-  - Discovery
-  - AIM
-  - ANSYS
-images:
-  - url: "/assets/images/809.jpg"
+- Discovery
+- AIM
+- ANSYS
+title: ANSYS Discovery AIM 19
 ---
 
 ANSYS AIM с 19-ого релиза входит в состав семейства продуктов Discovery. Сам программный комплекс развивается очень стремительно — новые возможности появляются в каждой минорной версии. На своем канале ANSYS рассказал про нововведения в версии 19.

@@ -1,11 +1,16 @@
 ---
-layout: post
-title: "Nougat от Facebook Research"
-date: 2023-10-09T15:01:46+00:00
-author: "Yury Novozhilov"
-source: vk
+author: Yury Novozhilov
+date: 2023-10-09 15:01:46+00:00
 images:
-  - url: "/assets/images/2550.jpg"
+- url: /assets/images/2550.jpg
+layout: post
+link_previews:
+- description: ''
+  image: ''
+  title: Nougat
+  url: https://facebookresearch.github.io/nougat/
+source: vk
+title: Nougat от Facebook Research
 ---
 
 Я трудоголик; я люблю много работать и хочу работать эффективно. Для эффективной работы у меня есть свой набор любимых инструментов, таких как WebPlotDigitizer, Mendeley или, например, Mathpix.

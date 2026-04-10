@@ -1,24 +1,34 @@
 ---
+author: GlukRazor
+date: 2017-10-21 08:52:30+00:00
 layout: post
-title: "#молния!"
-date: 2017-10-21T08:52:30+00:00
-author: "GlukRazor"
+link_previews:
+- description: Discover ready-to-use Ansys and third-party apps to streamline simulation
+    workflows in the Ansys App Catalog. Boost productivity and innovation.
+  image: ''
+  title: Ansys App Catalog | Ansys Developer Portal
+  url: https://appstore.ansys.com/download?prodid=APC-ACTAPP-318
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23%D0%BC%D0%BE%D0%BB%D0%BD%D0%B8%D1%8F
 source: vk
 tags:
-  - topology
-  - ANSYS
-  - Additive
-  - additivemanufacturing
-  - APDL
-  - Mechanical
-  - MAPDL
-  - Manufacturing
-  - Workbench
-  - optimization
-  - TechnologyPreview
-  - ACT
-  - 3dptinting
-  - молния
+- topology
+- ANSYS
+- Additive
+- additivemanufacturing
+- APDL
+- Mechanical
+- MAPDL
+- Manufacturing
+- Workbench
+- optimization
+- TechnologyPreview
+- ACT
+- 3dptinting
+- молния
+title: '#молния!'
 ---
 
 Компания #ANSYS в каталоге #ACT расширения размесила модуль для моделироапни процессов 3D печати. Расширение пока что предназначено для демонстрации технологических возможностей кода #ANSYS #Mechanical (#MAPDL).

@@ -1,18 +1,23 @@
 ---
+author: GlukRazor
+date: 2019-01-28 17:00:27+00:00
+images:
+- url: /assets/images/1325.jpg
 layout: post
-title: "InverseCSG: как получить B-rep из STL"
-date: 2019-01-28T17:00:27+00:00
-author: "GlukRazor"
+link_previews:
+- description: ACM SIGGRAPH ASIA 2018
+  image: https://i.ytimg.com/vi/mf7Xd6oxNrM/maxresdefault.jpg
+  title: 'InverseCSG: Automatic Conversion of 3D Models to CSG Trees'
+  url: https://www.youtube.com/watch?v=mf7Xd6oxNrM
 source: vk
 tags:
-  - ReverseEngineering
-  - MIT
-  - Python
-  - Open_Source
-  - InverseCSG
-  - STL
-images:
-  - url: "/assets/images/1325.jpg"
+- ReverseEngineering
+- MIT
+- Python
+- Open_Source
+- InverseCSG
+- STL
+title: 'InverseCSG: как получить B-rep из STL'
 ---
 
 https://youtu.be/mf7Xd6oxNrM

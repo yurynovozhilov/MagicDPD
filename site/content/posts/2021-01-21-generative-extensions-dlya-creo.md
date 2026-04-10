@@ -1,15 +1,34 @@
 ---
+author: MagicDPD
+date: 2021-01-21 13:01:21+00:00
 layout: post
-title: "Generative Extensions для Creo"
-date: 2021-01-21T13:01:21+00:00
-author: "MagicDPD"
+link_previews:
+- description: In Creo 7.0, we released Generative Topology Optimization (GTO), and
+    in Creo 7.0.2, we built on that to release cloud-based Generative Design Extension
+    (GDX)...
+  image: https://i.ytimg.com/vi/RReVZ37fs0w/maxresdefault.jpg
+  title: Generative Design Extension is Introduced | Creo 7.0.2
+  url: https://www.youtube.com/watch?v=RReVZ37fs0w
+- description: Generative Design Extension (GDX) is a cloud solution that generates
+    close to manufacture-ready designs based on a set of engineering parameters. Learn
+    about...
+  image: https://i.ytimg.com/vi/Zd9seD8AgHk/maxresdefault.jpg
+  title: Comparing Designs in GDX
+  url: https://www.youtube.com/watch?v=Zd9seD8AgHk
+- description: Generative Design Extension (GDX) is a cloud solution that generates
+    close to manufacture-ready designs based on a set of engineering parameters. Learn
+    how t...
+  image: https://i.ytimg.com/vi/H2YgvcSEyxE/maxresdefault.jpg
+  title: Reviewing Designs in GDX
+  url: https://www.youtube.com/watch?v=H2YgvcSEyxE
 source: vk
 tags:
-  - creo
-  - topology
-  - optimization
-  - cloud
-  - hpc
+- creo
+- topology
+- optimization
+- cloud
+- hpc
+title: Generative Extensions для Creo
 ---
 
 https://www.youtube.com/watch?v=RReVZ37fs0w

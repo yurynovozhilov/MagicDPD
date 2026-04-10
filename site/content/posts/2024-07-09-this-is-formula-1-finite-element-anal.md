@@ -1,9 +1,15 @@
 ---
+author: Yury Novozhilov
+date: 2024-07-09 12:01:56+00:00
 layout: post
-title: "This Is Formula 1!"
-date: 2024-07-09T12:01:56+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: For more like this subscribe to the Open University channel https://www.youtube.com/channel/UCXsH4hSV_kEdAOsupMMm4QwFree
+    learning from The Open University ht...
+  image: https://i.ytimg.com/vi/CThxYRMV8Vc/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgXCg6MA8=&rs=AOn4CLCYW2m2T0ckMxp-uxQniSI_0gokPA
+  title: This Is Formula 1! - Finite Element Analysis (1/17)
+  url: https://www.youtube.com/watch?v=CThxYRMV8Vc
 source: vk
+title: This Is Formula 1!
 ---
 
 - Finite Element Analysis

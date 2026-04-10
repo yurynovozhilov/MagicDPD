@@ -1,9 +1,16 @@
 ---
+author: Yury Novozhilov
+date: 2023-07-21 15:02:18+00:00
 layout: post
-title: "Rocky in Action"
-date: 2023-07-21T15:02:18+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: Our on-demand 15-minute learning session will bring you up-to-date
+    on the latest in computational simulation using Discrete Element Modeling (DEM)Conveyors
+    a...
+  image: https://i.ytimg.com/vi/058E_Ftoiwo/hqdefault.jpg
+  title: Rocky in Action - Conveyors & Chutes
+  url: https://www.youtube.com/watch?v=058E_Ftoiwo
 source: vk
+title: Rocky in Action
 ---
 
 На этой неделе на официальном канале Rocky DEM появился новый плейлист с демонтсрацией ключевых фишек пакета и обучением их применению

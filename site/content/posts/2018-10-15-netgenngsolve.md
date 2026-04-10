@@ -1,15 +1,24 @@
 ---
+author: GlukRazor
+date: 2018-10-15 17:00:21+00:00
+images:
+- url: /assets/images/1150.jpg
 layout: post
-title: "Netgen/NGSolve"
-date: 2018-10-15T17:00:21+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Netgen/NGSolve — Netgen/NGSolve  documentation
+  url: https://ngsolve.org
+- description: ''
+  image: ''
+  title: Netgen/NGSolve — Netgen/NGSolve  documentation
+  url: https://ngsolve.org/
 source: vk
 tags:
-  - NGSolve
-  - Netgen
-  - Python
-images:
-  - url: "/assets/images/1150.jpg"
+- NGSolve
+- Netgen
+- Python
+title: Netgen/NGSolve
 ---
 
 Netgen/NGSolve это высокопроизводительный КЭ решатель, который по обещаниям сообщества может решать механику, тепло-, гидродинамику и даже электромагнетизм. При этом он имеет Python API для расширения своих возможностей. Естественно все бесплатно, работает на любой операционной системе и обладает открытым исходным кодом.

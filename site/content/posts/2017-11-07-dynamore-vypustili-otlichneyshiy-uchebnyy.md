@@ -1,18 +1,23 @@
 ---
+author: GlukRazor
+date: 2017-11-07 17:10:20+00:00
 layout: post
-title: "#DYNAMore выпустили отличнейший учебный курс по #LSDYNA для всех и бесплатно!"
-date: 2017-11-07T17:10:20+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23DYNAMore
 source: vk
 tags:
-  - DYNAMore
-  - LSOPT
-  - LSDYNA
-  - FSI
-  - ICFD
-  - explicit
-  - LSPP
-  - implicit
+- DYNAMore
+- LSOPT
+- LSDYNA
+- FSI
+- ICFD
+- explicit
+- LSPP
+- implicit
+title: '#DYNAMore выпустили отличнейший учебный курс по #LSDYNA для всех и бесплатно!'
 ---
 
 Курс состоит из 10 уроков:

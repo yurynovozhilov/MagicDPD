@@ -1,15 +1,20 @@
 ---
+author: GlukRazor
+date: 2019-06-04 17:00:52+00:00
+images:
+- url: /assets/images/1497.jpg
 layout: post
-title: "Обучение моделированию взрывов в LS-DYNA"
-date: 2019-06-04T17:00:52+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Finite element solution
+  url: http://feasolution.blogspot.com
 source: vk
 tags:
-  - LS_DYNA
-  - blast
-  - Trajkovski
-images:
-  - url: "/assets/images/1497.jpg"
+- LS_DYNA
+- blast
+- Trajkovski
+title: Обучение моделированию взрывов в LS-DYNA
 ---
 
 С 3 по 5 февраля следующего года группа специалистов по LS-DYNA из Cловении проведёт трехдневный курс по моделированию взрывов в LS-DYNA. Один из лекторов — Jovan Trajkovski, известный популяризатор LS-DYNA с канала «Trajkovski feasolution» (http://feasolution.blogspot.com).

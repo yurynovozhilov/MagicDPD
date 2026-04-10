@@ -3,12 +3,15 @@ author: GlukRazor
 date: 2017-08-02 17:01:47+00:00
 layout: post
 link_previews:
-- description: OpenFOAM-5.0 is a snapshot of the OpenFOAM development version released
-    on July 26th 2017. It provides new functionality and major improvements to existing
-    code, with strict demands on usability, reliability and maintainability.
-  image: ''
-  title: OpenFOAM 5.0 | OpenFOAM
-  url: https://openfoam.org/version/5-0/
+- description: http://cfd.tips/e005
+  image: https://i.ytimg.com/vi/_f4hqQ1yHTc/maxresdefault.jpg
+  title: 'OpenFOAM dev (2017-05-31) Example Cases: Water Wave Modelling in OpenFOAM'
+  url: https://www.youtube.com/watch?v=_f4hqQ1yHTc
+- description: http://cfd.tips/e004
+  image: https://i.ytimg.com/vi/tTgHVGagNqE/maxresdefault.jpg
+  title: 'OpenFOAM dev (2017-04-28) Example Cases: Barycentric Tracking on a Rotating
+    Geometry'
+  url: https://www.youtube.com/watch?v=tTgHVGagNqE
 - description: In May 2017, we implemented modelling of water waves into the public,
     development line of OpenFOAM for marine and offshore engineering.
   image: https://cdn.cfd.direct/wp-content/uploads/2017/05/openfoam-water-waves-DTChull.png
@@ -24,15 +27,12 @@ link_previews:
   image: https://cdn.cfd.direct/wp-content/uploads/2017/04/cyclone.png
   title: OpenFOAM Barycentric Tracking | CFD Direct
   url: https://cfd.direct/openfoam/free-software/barycentric-tracking/
-- description: http://cfd.tips/e005
-  image: https://i.ytimg.com/vi/_f4hqQ1yHTc/maxresdefault.jpg
-  title: 'OpenFOAM dev (2017-05-31) Example Cases: Water Wave Modelling in OpenFOAM'
-  url: https://youtu.be/_f4hqQ1yHTc
-- description: http://cfd.tips/e004
-  image: https://i.ytimg.com/vi/tTgHVGagNqE/maxresdefault.jpg
-  title: 'OpenFOAM dev (2017-04-28) Example Cases: Barycentric Tracking on a Rotating
-    Geometry'
-  url: https://youtu.be/tTgHVGagNqE
+- description: OpenFOAM-5.0 is a snapshot of the OpenFOAM development version released
+    on July 26th 2017. It provides new functionality and major improvements to existing
+    code, with strict demands on usability, reliability and maintainability.
+  image: ''
+  title: OpenFOAM 5.0 | OpenFOAM
+  url: https://openfoam.org/version/5-0/
 source: vk
 tags:
 - CFD

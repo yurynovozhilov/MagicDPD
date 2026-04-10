@@ -1,11 +1,20 @@
 ---
-layout: post
-title: "C новым годом!"
-date: 2018-12-31T17:00:24+00:00
-author: "GlukRazor"
-source: vk
+author: GlukRazor
+date: 2018-12-31 17:00:24+00:00
 images:
-  - url: "/assets/images/1298.jpg"
+- url: /assets/images/1298.jpg
+layout: post
+link_previews:
+- description: '#Santa''s sleigh is ready for take-off even in heavy snowfall like
+    our #simulation shows #SimulationFriday
+
+    May your holidays be filled with lots of happiness, peace and love. Wishing you
+    a merry Christmas and a wonderful new year!'
+  image: https://pbs.twimg.com/ext_tw_video_thumb/1076043149418680320/pu/img/ppegfHewd9e9QUFK.jpg:large
+  title: BECKER 3D GmbH (@BECKER_3D_GmbH) on X
+  url: https://twitter.com/BECKER_3D_GmbH/status/1076043412326019072
+source: vk
+title: C новым годом!
 ---
 
 Уважаемые друзья, год подошел к концу, и нам всем пора немного отдохнуть - я думаю, мы все это заслужили. В ближайшие несколько часов нас ждет отличный праздник!

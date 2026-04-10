@@ -1,9 +1,66 @@
 ---
+author: Yury Novozhilov
+date: 2024-06-11 13:00:46+00:00
 layout: post
-title: "\"бесплатные\" источники академических знаний"
-date: 2024-06-11T13:00:46+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: This link will take you to a page that’s not on LinkedIn
+  image: https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico
+  title: LinkedIn
+  url: https://lnkd.in/ex2kAJ7v
+- description: Access millions of research paper PDFs in one click. Save time navigating
+    paywalls, logins and redirects.
+  image: https://paperpanda.app/images/og.png
+  title: "\U0001F43C PaperPanda"
+  url: https://paperpanda.app/
+- description: DOAJ is a unique and extensive index of diverse open access journals
+    from around the world, driven by a growing community, committed to ensuring quality
+    content is freely available online for everyone.
+  image: https://doaj.org/assets/img/opengraph/img.png
+  title: Directory of Open Access Journals – DOAJ
+  url: https://doaj.org/
+- description: Download and read 240 million open access research papers
+  image: https://oa.mg/images/og.png
+  title: OA.mg · Open Access for Everyone · Download and read over 240 million research
+    papers
+  url: https://oa.mg/
+- description: This link will take you to a page that’s not on LinkedIn
+  image: https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico
+  title: LinkedIn
+  url: https://lnkd.in/eKm-D6Jm
+- description: This link will take you to a page that’s not on LinkedIn
+  image: https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico
+  title: LinkedIn
+  url: https://lnkd.in/gJgcCm34
+- description: '13 #Sci-Hub Alternative Websites
+
+    The paper you need requires payment & can'
+  image: https://media.licdn.com/dms/image/v2/D4E22AQETl3NS_ms_Uw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1716218454767?e=2147483647&v=beta&t=OoY2GvkPvfPvn0geX4wYHl5aIk9vaat2b2oe2eMNAm4
+  title: Sci-Hub alternative websites for free | Ts. Dr. Vicky (Engr., Ph.D, P. Tech)
+    posted on the topic | LinkedIn
+  url: https://www.linkedin.com/posts/engrdrvicky_sci-activity-7198341936720605184-OkzU/
+- description: The world’s largest collection of open access research papers
+  image: ''
+  title: The world’s largest collection of open access research papers
+  url: https://core.ac.uk/
+- description: JSTOR is a digital library of academic journals, books, and primary
+    sources.
+  image: ''
+  title: JSTOR Home
+  url: https://www.jstor.org/
+- description: ''
+  image: ''
+  title: Unpaywall
+  url: https://unpaywall.org/
+- description: ''
+  image: ''
+  title: arXiv.org e-Print archive
+  url: https://arxiv.org/
+- description: ''
+  image: ''
+  title: Zenodo
+  url: https://zenodo.org/
 source: vk
+title: '"бесплатные" источники академических знаний'
 ---
 
 "бесплатные" источники академических знаний

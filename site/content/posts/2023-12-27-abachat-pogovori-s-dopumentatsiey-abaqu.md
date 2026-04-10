@@ -1,9 +1,9 @@
 ---
+author: Yury Novozhilov
+date: 2023-12-27 13:50:57+00:00
 layout: post
-title: "AbaChat - поговори с допументацией Abaqus!"
-date: 2023-12-27T13:50:57+00:00
-author: "Yury Novozhilov"
 source: vk
+title: AbaChat - поговори с допументацией Abaqus!
 ---
 
 У Lim Youngbin есть статья, как он сделал чатбот, обученный на документации Abaqus. ПОлучаем правильнуюи отзывчивую документацию для решателя.

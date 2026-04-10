@@ -1,17 +1,29 @@
 ---
+author: MagicDPD
+date: 2021-12-27 13:01:30+00:00
 layout: post
-title: "AniForm - штамповка композитов"
-date: 2021-12-27T13:01:30+00:00
-author: "MagicDPD"
+link_previews:
+- description: Forming  predictions of composite materials. From CAD model, through
+    AniForm simulations, to process implementation on the shop floor.
+  image: https://i.ytimg.com/vi/07GAWmAvDKE/maxresdefault.jpg
+  title: 'AniForm General: First-time-right process implementation'
+  url: https://www.youtube.com/watch?v=07GAWmAvDKE
+- description: Have a look at the newest features of the 2021 AniForm Suite 4.0 release,
+    such as the newly added thermal modelling capability, new material cards, export
+    to...
+  image: https://i.ytimg.com/vi/-_nbLgicSe8/maxresdefault.jpg
+  title: AniForm Suite 4.0
+  url: https://www.youtube.com/watch?v=-_nbLgicSe8
 source: vk
 tags:
-  - acp
-  - abaqus
-  - forming
-  - lsdyna
-  - ansys
-  - digimat
-  - composite
+- acp
+- abaqus
+- forming
+- lsdyna
+- ansys
+- digimat
+- composite
+title: AniForm - штамповка композитов
 ---
 
 https://youtu.be/07GAWmAvDKE?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq

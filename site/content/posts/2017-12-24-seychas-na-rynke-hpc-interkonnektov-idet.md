@@ -1,17 +1,50 @@
 ---
+author: GlukRazor
+date: 2017-12-24 17:11:49+00:00
 layout: post
-title: "Сейчас на рынке #HPC интерконнектов идет тихая война между #Mellanox и #Intel."
-date: 2017-12-24T17:11:49+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3920
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23HPC
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23Mellanox
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23Intel
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23ANSYS
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23OPA
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23Fluent
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23CFX
 source: vk
 tags:
-  - Intel
-  - ANSYS
-  - Mellanox
-  - HPC
-  - OPA
-  - CFX
-  - Fluent
+- Intel
+- ANSYS
+- Mellanox
+- HPC
+- OPA
+- CFX
+- Fluent
+title: 'Сейчас на рынке #HPC интерконнектов идет тихая война между #Mellanox и #Intel.'
 ---
 
 Хотя на мой вкус, Mellanox так далеко впереди, что за ним уже никому не угнаться. Посудите сами: у них полностью аппаратная работа с данными, не нагружающая CPU, у них уже есть 200 Гбит и, что самое важное, их поддерживают все решатели (ну хотя бы все решатели #ANSYS). А вот Intel #OPA может только #ANSYS #Fluent и #ANSYS #CFX.

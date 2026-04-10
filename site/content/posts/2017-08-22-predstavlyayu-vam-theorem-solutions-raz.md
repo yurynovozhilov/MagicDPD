@@ -8,7 +8,7 @@ link_previews:
     and oth...'
   image: https://i.ytimg.com/vi/50b4IMzbWE0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYACwAWKAgwIABABGFIgWChlMA8=&rs=AOn4CLD62WbxiJv7SYdhrESKV3EFXug22g
   title: 3D PDF - What is 3D PDF?
-  url: https://youtu.be/50b4IMzbWE0
+  url: https://www.youtube.com/watch?v=50b4IMzbWE0
 source: vk
 tags:
 - magicdpd
@@ -18,7 +18,7 @@ tags:
 - Theorem
 - 3DPDF
 - SpaceClaim
-title: "Представляю вам #Theorem Solutions - разработчика Publish 3D."
+title: 'Представляю вам #Theorem Solutions - разработчика Publish 3D.'
 ---
 
 Данное программное обеспечение позволяет встраивать CAD модели прямо в PDF файлы, создавая так навиваемый 3D PDF.

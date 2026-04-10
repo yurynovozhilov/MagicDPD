@@ -1,12 +1,26 @@
 ---
+author: MagicDPD
+date: 2021-04-15 13:03:43+00:00
 layout: post
-title: "Hexagon покупает CADLM"
-date: 2021-04-15T13:03:43+00:00
-author: "MagicDPD"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: https://i.ytimg.com/vi/oIMRUy8_cd0/hqdefault.jpg
+  title: ODYSSEE - general presentation
+  url: https://www.youtube.com/watch?v=oIMRUy8_cd0
+- description: Hexagon AB announced the acquisition of CADLM SAS, a pioneer in powering
+    computer-aided engineering (CAE) with artificial intelligence (AI) and machine
+    learning to revolutionise the impact of simulation in product development processes
+    and lifecycles.
+  image: ''
+  title: Hexagon enhances its Smart Manufacturing autonomous and digital twin capabilities
+    with the acquisition of CADLM – Simulating Reality, Delivering Certainty
+  url: https://simulatemore.mscsoftware.com/hexagon-enhances-its-smart-manufacturing-autonomous-and-digital-twin-capabilities-with-the-acquisition-of-cadlm/
 source: vk
 tags:
-  - cadlm
-  - hexagon
+- cadlm
+- hexagon
+title: Hexagon покупает CADLM
 ---
 
 Hexagon объявили о приобретении компании CADLM SAS - разработчика ODYSSEE (CADLM). Сейчас Hexagon AB уже владеет MSC Software, а теперь получает в свое распоряжение одного из пионеров в области построения моделей пониженного порядка и мета моделей, особенно зарекомендовавших себя при расчётах динамики явными методами.

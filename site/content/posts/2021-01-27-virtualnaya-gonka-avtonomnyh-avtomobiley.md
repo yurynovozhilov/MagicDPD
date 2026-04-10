@@ -1,12 +1,19 @@
 ---
+author: MagicDPD
+date: 2021-01-27 15:02:23+00:00
 layout: post
-title: "Виртуальная гонка автономных автомобилей"
-date: 2021-01-27T15:02:23+00:00
-author: "MagicDPD"
+link_previews:
+- description: Watch the first ever head-to-head, high-speed simulated race of fully
+    autonomous vehicles conducted on a virtual model of the Indianapolis Motor Speedway
+    ins...
+  image: https://i.ytimg.com/vi/SEI5V-WRMdw/maxresdefault.jpg
+  title: 'Indy Autonomous Challenge - Hackathon #3'
+  url: https://www.youtube.com/watch?v=SEI5V-WRMdw
 source: vk
 tags:
-  - ansys
-  - indy_autonomous_challenge
+- ansys
+- indy_autonomous_challenge
+title: Виртуальная гонка автономных автомобилей
 ---
 
 https://www.youtube.com/watch?v=SEI5V-WRMdw

@@ -3,6 +3,14 @@ author: GlukRazor
 date: 2017-07-06 17:00:25+00:00
 layout: post
 link_previews:
+- description: Large-Scale Barge Bow Impact Experiments Conducted by UF/FDOT
+  image: https://i.ytimg.com/vi/KKrmGMcQL9w/maxresdefault.jpg
+  title: Barge Bow Impact Experiments Conducted by UF/FDOT
+  url: https://www.youtube.com/watch?v=KKrmGMcQL9w
+- description: Analytical Replication (Simplified) of UF/FDOT Barge Bow Impact Experiments
+  image: https://i.ytimg.com/vi/_MYLccKdg4g/hqdefault.jpg
+  title: Hopper Barge Bow Crush Analysis
+  url: https://www.youtube.com/watch?v=_MYLccKdg4g
 - description: As part of our transportation infrastructure work, PEC provides consultancy
     services for the design and protection of bridges subject to accidental and intentional
     vessel impact.  This work includes analysis to calculate loading and structural
@@ -13,14 +21,6 @@ link_previews:
   title: Protection of Bridges Subject to Accidental and Intentional Vessel Impact
     - Protection Engineering Consultants
   url: http://www.protection-consultants.com/case-studies/protection-bridges-subject-accidental-intentional-vessel-impact/
-- description: Large-Scale Barge Bow Impact Experiments Conducted by UF/FDOT
-  image: https://i.ytimg.com/vi/KKrmGMcQL9w/maxresdefault.jpg
-  title: Barge Bow Impact Experiments Conducted by UF/FDOT
-  url: https://youtu.be/KKrmGMcQL9w
-- description: Analytical Replication (Simplified) of UF/FDOT Barge Bow Impact Experiments
-  image: https://i.ytimg.com/vi/_MYLccKdg4g/hqdefault.jpg
-  title: Hopper Barge Bow Crush Analysis
-  url: https://youtu.be/_MYLccKdg4g
 source: vk
 tags:
 - PEC

@@ -6,30 +6,31 @@ link_previews:
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2fNTB9O
+  url: https://m.vk.com/wall-97265142_3321
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2xGKn9b
+  url: https://m.vk.com/feed?section=search&q=%23SVSFEM
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2vk2wVv
+  url: https://m.vk.com/feed?section=search&q=%23ANSYS
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2wLNQRy
+  url: https://m.vk.com/feed?section=search&q=%23Discovery
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2v2FNSC
+  url: https://m.vk.com/feed?section=search&q=%23CFD
 source: vk
 tags:
 - SVSFEM
 - Discovery
 - ANSYS
 - CFDMedia
-title: "Чешские коллеги из #SVSFEM s.r.o. при помощи #ANSYS #Discovery посчитали аэродинамику дерева в горах..."
+title: 'Чешские коллеги из #SVSFEM s.r.o. при помощи #ANSYS #Discovery посчитали аэродинамику
+  дерева в горах...'
 ---
 
 Был выбран квадрат горного рельефа 300х300 км 😊

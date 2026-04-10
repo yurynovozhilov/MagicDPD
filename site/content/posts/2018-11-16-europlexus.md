@@ -1,16 +1,29 @@
 ---
+author: GlukRazor
+date: 2018-11-16 17:01:02+00:00
+images:
+- url: /assets/images/1216.jpg
 layout: post
-title: "EUROPLEXUS"
-date: 2018-11-16T17:01:02+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Europlexus
+  url: http://europlexus.jrc.ec.europa.eu
+- description: ''
+  image: ''
+  title: Europlexus
+  url: https://europlexus.jrc.ec.europa.eu/
+- description: ''
+  image: ''
+  title: Europlexus
+  url: http://europlexus.jrc.ec.europa.eu/
 source: vk
 tags:
-  - FSI
-  - CodeAster
-  - EUROPLEXUS
-  - Explicit
-images:
-  - url: "/assets/images/1216.jpg"
+- FSI
+- CodeAster
+- EUROPLEXUS
+- Explicit
+title: EUROPLEXUS
 ---
 
 Если верить описанию разработчиков, то EUROPLEXUS - это код, специализирующийся на решении быстропротекающих нестационарных FSI процессов. Примерами таких процессов являются взрывы в воздушной и водной среде. Разрабатывается код содружеством европейских университетов, используется там же.

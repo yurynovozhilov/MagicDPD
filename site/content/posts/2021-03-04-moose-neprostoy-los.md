@@ -1,12 +1,28 @@
 ---
+author: MagicDPD
+date: 2021-03-04 13:01:45+00:00
 layout: post
-title: "MOOSE - непростой лось"
-date: 2021-03-04T13:01:45+00:00
-author: "MagicDPD"
+link_previews:
+- description: 'An overview of Idaho National Laboratory''s MOOSE: Multiphysics Object-Oriented
+    Simulation Environment'
+  image: https://i.ytimg.com/vi/6shfkm3fnLY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgSyh_MA8=&rs=AOn4CLBC3eP_5uYUZpSa2HaBC9jAc8L15A
+  title: 'MOOSE: Multiphysics Object-Oriented Simulation Environment'
+  url: https://www.youtube.com/watch?v=6shfkm3fnLY
+- description: 'Recording of the virtual MOOSE workshop that took place on June 9th
+    and 10th of 2020.We welcome questions and discussions in GitHub discussion board:
+    https:/...'
+  image: https://i.ytimg.com/vi/2tJwBsYaLaI/maxresdefault.jpg
+  title: MOOSE Virtual Workshop (Summer 2020)
+  url: https://www.youtube.com/watch?v=2tJwBsYaLaI
+- description: ''
+  image: ''
+  title: Before you continue to YouTube
+  url: https://www.youtube.com/playlist?list=PLN13vTvNU59uNSw-RmcRbSW37zKcOK1yR
 source: vk
 tags:
-  - moose
-  - open_source
+- moose
+- open_source
+title: MOOSE - непростой лось
 ---
 
 https://www.youtube.com/watch?v=6shfkm3fnLY

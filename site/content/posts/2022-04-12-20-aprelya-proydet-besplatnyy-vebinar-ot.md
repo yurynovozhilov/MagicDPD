@@ -1,22 +1,28 @@
 ---
+author: MagicDPD
+date: 2022-04-12 17:00:06+00:00
+images:
+- url: /assets/images/2211.jpg
+- url: /assets/images/2212.jpg
+- url: /assets/images/2213.jpg
+- url: /assets/images/2214.jpg
 layout: post
-title: "20 апреля пройдет бесплатный вебинар от Марека Ханачовски (Marek HANACZOWSKI), магистром мостостроения."
-date: 2022-04-12T17:00:06+00:00
-author: "MagicDPD"
+link_previews:
+- description: ''
+  image: ''
+  title: Bridge Impact Webinar | CivilFEM
+  url: https://www.civilfem.com/bridge-impact-webinar
 source: vk
 tags:
-  - CivilFEM
-  - LSDYNA
-  - bridge
-  - civil
-  - impact
-  - Marc
-  - concrete
-images:
-  - url: "/assets/images/2211.jpg"
-  - url: "/assets/images/2212.jpg"
-  - url: "/assets/images/2213.jpg"
-  - url: "/assets/images/2214.jpg"
+- CivilFEM
+- LSDYNA
+- bridge
+- civil
+- impact
+- Marc
+- concrete
+title: 20 апреля пройдет бесплатный вебинар от Марека Ханачовски (Marek HANACZOWSKI),
+  магистром мостостроения.
 ---
 
 Вебинар будет повторением его доклада на Конгрессе по безопасности мостов, который проходил во Вроцлаве 25-26 ноября 2021 года.

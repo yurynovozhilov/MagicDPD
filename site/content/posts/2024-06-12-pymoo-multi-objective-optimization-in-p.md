@@ -1,9 +1,18 @@
 ---
+author: Yury Novozhilov
+date: 2024-06-12 13:02:16+00:00
 layout: post
-title: "pymoo: Multi-objective Optimization in Python"
-date: 2024-06-12T13:02:16+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: 'pymoo: An open source framework for multi-objective optimization in
+    Python. It provides not only state of the art single- and multi-objective optimization
+    algorithms but also many more features related to multi-objective optimization
+    such as visualization and decision making.'
+  image: ''
+  title: 'pymoo: Multi-objective Optimization in Python — pymoo: Multi-objective Optimization
+    in Python 0.6.1.6 documentation'
+  url: https://www.pymoo.org/
 source: vk
+title: 'pymoo: Multi-objective Optimization in Python'
 ---
 
 Фреймворк предлагает современные алгоритмы одно- и многоцелевой оптимизации, а также множество других функций, связанных с многоцелевой оптимизацией, таких как визуализация и принятие решений. pymoo доступен на PyPi. Список алгоритмов:

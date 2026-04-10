@@ -1,11 +1,17 @@
 ---
-layout: post
-title: "Что нового в ANSYS Mechanical 2019R1"
-date: 2019-02-05T17:01:11+00:00
-author: "GlukRazor"
-source: vk
+author: GlukRazor
+date: 2019-02-05 17:01:11+00:00
 images:
-  - url: "/assets/images/1333.jpg"
+- url: /assets/images/1333.jpg
+layout: post
+link_previews:
+- description: This video presents an overview of new features and functions for ANSYS
+    Mechanical 2019 R1.
+  image: https://i.ytimg.com/vi/24WNCd3mxyA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShYMA8=&rs=AOn4CLCYdvo7_QsYsrt4diSQ_jqPuJaV6A
+  title: New Features and Capabilities for ANSYS Mechanical 2019 R1
+  url: https://www.youtube.com/watch?v=24WNCd3mxyA
+source: vk
+title: Что нового в ANSYS Mechanical 2019R1
 ---
 
 Давайте поговорим о новом релизе ANSYS, который получил коммерческое название 2019R1 и технический номер 19.3. ANSYS заботливо выложил видео с новыми фишками данного релиза, и я наконец могу про него поговорить.

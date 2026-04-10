@@ -11,13 +11,14 @@ link_previews:
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2y5Nsws
+  url: https://m.vk.com/feed?section=search&q=%23Simscale
 source: vk
 tags:
 - explicit
 - CFL
 - Simscale
-title: "В блоге #Simscale вышла хорошая статья, посвященная критерию/условию Куранта, отвечающему за устойчивость схемы интегрирования по времени."
+title: 'В блоге #Simscale вышла хорошая статья, посвященная критерию/условию Куранта,
+  отвечающему за устойчивость схемы интегрирования по времени.'
 ---
 
 В литературе он также встречается как критерий Куранта-Фридерикса-Леви, Courant–Friedrichs–Lewy или просто #CFL Time.

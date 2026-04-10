@@ -1,14 +1,23 @@
 ---
+author: GlukRazor
+date: 2018-08-29 18:02:24+00:00
+images:
+- url: /assets/images/1094.jpg
 layout: post
-title: "Как получилась DASSAULT SYSTEMES"
-date: 2018-08-29T18:02:24+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: 'isicad: DASSAULT SYSTEMES: история успеха'
+  url: http://isicad.ru/ru/articles.php?article_num=14122
+- description: ''
+  image: ''
+  title: 'isicad: DASSAULT SYSTEMES: история успеха'
+  url: https://isicad.ru/ru/articles.php?article_num=14122
 source: vk
 tags:
-  - Longread
-  - DassaultSystemes
-images:
-  - url: "/assets/images/1094.jpg"
+- Longread
+- DassaultSystemes
+title: Как получилась DASSAULT SYSTEMES
 ---
 
 Большая биографическая статья про то, как Франсису Бернару (Francis BERNARD) удалось стать отцом такой мощной и влиятельной компании, как Dassault Systemes. Рассказана история развития, партнерства с IBM и конкуренции на рынке PLM. Однако, большой уклон сделан на бизнес стратегии, а не на техническую часть. Напомню, что компания основана в 1981, и сейчас у нее есть очень вкусный набор решений почти для всего.

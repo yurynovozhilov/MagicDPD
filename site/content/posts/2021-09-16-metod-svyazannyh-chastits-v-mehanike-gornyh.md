@@ -1,15 +1,22 @@
 ---
+author: MagicDPD
+date: 2021-09-16 18:31:23+00:00
 layout: post
-title: "Метод связанных частиц в механике горных пород"
-date: 2021-09-16T18:31:23+00:00
-author: "MagicDPD"
+link_previews:
+- description: This webinar by Dr. David Potyondy provides an overview of Bonded-Particle
+    Modeling (BPM) and suggests avenues for further research. You need not be a rock-m...
+  image: https://i.ytimg.com/vi/AgssizDIRDk/maxresdefault.jpg
+  title: 'Webinar: The Bonded-Particle Model as a Tool for Rock Mechanics Research
+    and Application'
+  url: https://www.youtube.com/watch?v=AgssizDIRDk
 source: vk
 tags:
-  - mining
-  - itasca
-  - bpm
-  - dem
-  - spg
+- mining
+- itasca
+- bpm
+- dem
+- spg
+title: Метод связанных частиц в механике горных пород
 ---
 
 https://www.youtube.com/watch?v=AgssizDIRDk

@@ -1,17 +1,22 @@
 ---
+author: GlukRazor
+date: 2017-10-01 17:04:58+00:00
 layout: post
-title: "Все всех покупают."
-date: 2017-10-01T17:04:58+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23Altair
 source: vk
 tags:
-  - ANSYS
-  - Fibersim
-  - ESAComp
-  - Altair
-  - Componeering
-  - Siemens
-  - composite
+- ANSYS
+- Fibersim
+- ESAComp
+- Altair
+- Componeering
+- Siemens
+- composite
+title: Все всех покупают.
 ---
 
 Я вот например и не знал, что #Altair прикупил себе #Componeering Inc. - разработчика #ESAComp. ESAComp, в свою очередь, один из стандартов по работе с текстильным композитными моделями, как и #ANSYS Composite PrepPost или #Siemens #Fibersim.

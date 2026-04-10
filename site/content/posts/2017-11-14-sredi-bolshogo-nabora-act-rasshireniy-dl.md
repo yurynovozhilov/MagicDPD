@@ -1,20 +1,31 @@
 ---
+author: GlukRazor
+date: 2017-11-14 17:11:05+00:00
 layout: post
-title: "Среди большого набора #ACT расширений для #ANSYS сегодня я нашел кое-что очень полезное для людей занимающихся композитами."
-date: 2017-11-14T17:11:05+00:00
-author: "GlukRazor"
+link_previews:
+- description: Discover ready-to-use Ansys and third-party apps to streamline simulation
+    workflows in the Ansys App Catalog. Boost productivity and innovation.
+  image: ''
+  title: Ansys App Catalog | Ansys Developer Portal
+  url: https://appstore.ansys.com/download?prodid=APC-ACTAPP-302
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23ACT
 source: vk
 tags:
-  - musthave
-  - композиты
-  - ANSYS
-  - optiSLang
-  - DX
-  - Workbench
-  - Сybernet
-  - ACT
-  - Homogenization
-  - composite
+- musthave
+- композиты
+- ANSYS
+- optiSLang
+- DX
+- Workbench
+- Сybernet
+- ACT
+- Homogenization
+- composite
+title: 'Среди большого набора #ACT расширений для #ANSYS сегодня я нашел кое-что очень
+  полезное для людей занимающихся композитами.'
 ---
 
 Расширение "Multiscale Analysis System" от #Сybernet Systems умеет:

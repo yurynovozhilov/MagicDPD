@@ -1,19 +1,28 @@
 ---
+author: GlukRazor
+date: 2015-11-09 06:30:19+00:00
 layout: post
-title: "На конференции AWS re:Invent ANSYS расскзал об архитектуре своего облачного решения ANSYS Enterprise Cloud в AWS."
-date: 2015-11-09T06:30:19+00:00
-author: "GlukRazor"
+link_previews:
+- description: 'Learn more about AWS: http://amzn.to/1OqIvCBBuilding great products,
+    ones that are aesthetically appealing as well as functionally sound, requires
+    cutting-ed...'
+  image: https://i.ytimg.com/vi/0EPnnKqs5TM/hqdefault.jpg
+  title: AWS re:Invent 2015 | (CMP202) Engineering Simulation and Analysis in the
+    Cloud
+  url: https://www.youtube.com/watch?v=0EPnnKqs5TM
 source: vk
 tags:
-  - Amazon
-  - DCV
-  - ANSYS
-  - HPC
-  - NICE
-  - CycleComputing
-  - Cloud
-  - Chef
-  - AWS
+- Amazon
+- DCV
+- ANSYS
+- HPC
+- NICE
+- CycleComputing
+- Cloud
+- Chef
+- AWS
+title: На конференции AWS re:Invent ANSYS расскзал об архитектуре своего облачного
+  решения ANSYS Enterprise Cloud в AWS.
 ---
 
 Всю магию по созданию виртуального кластера для них делает Cycle Computing. Графикой естественно завидует NICE Software. Управление конфигурациями через Chef. Метаданные пишутся в базу Amazon RDS (наверно они приделали к ней аналог ANSYS EKM).

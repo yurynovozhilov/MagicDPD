@@ -1,11 +1,18 @@
 ---
+author: MagicDPD
+date: 2021-03-22 13:01:30+00:00
 layout: post
-title: "Моделирование вязкоупругих течений в SPH постановке"
-date: 2021-03-22T13:01:30+00:00
-author: "MagicDPD"
+link_previews:
+- description: The second talk from the inaugural UK Fluids Network SPH SIG virtual
+    seminar.  Jack King from The University of Manchester discusses simulating viscoelastic
+    ...
+  image: https://i.ytimg.com/vi/rJrY0Y9LSGM/maxresdefault.jpg
+  title: 'Virtual Seminar 1: Viscoelastic Flows with SPH'
+  url: https://www.youtube.com/watch?v=rJrY0Y9LSGM
 source: vk
 tags:
-  - sph
+- sph
+title: Моделирование вязкоупругих течений в SPH постановке
 ---
 
 https://youtu.be/rJrY0Y9LSGM

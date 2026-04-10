@@ -6,12 +6,13 @@ link_previews:
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2wLNQRy
+  url: https://m.vk.com/feed?section=search&q=%23Discovery
 source: vk
 tags:
 - Discovery
 - ANSYS
-title: "Сразу после представления #ANSYS #Discovery Live сотрудниками издания WorldCAD Access удалось взять интервью у ANSYS."
+title: 'Сразу после представления #ANSYS #Discovery Live сотрудниками издания WorldCAD
+  Access удалось взять интервью у ANSYS.'
 ---
 
 Интервью получилось очень любопытным.

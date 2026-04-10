@@ -1,9 +1,16 @@
 ---
+author: Yury Novozhilov
+date: 2026-02-09 15:34:16+00:00
 layout: post
-title: "BeamNG (BeamNG.drive / BeamNG.tech)"
-date: 2026-02-09T15:34:16+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: 'Purchase the alpha at http://beamng.com/Please use our forums to get
+    answers from us directly: http://beamng.comThe amazing soft-body physics you know
+    from R...'
+  image: https://i.ytimg.com/vi/KppTmsNFneg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEEgVihlMA8=&rs=AOn4CLAzIZPgFV-4oTlvC7ARaxf8hegoGA
+  title: Revolutionary soft-body physics in CryEngine3
+  url: https://www.youtube.com/watch?v=KppTmsNFneg
 source: vk
+title: BeamNG (BeamNG.drive / BeamNG.tech)
 ---
 
 Пока мы все тут (я надеюсь) гонимся за высокой точностью и достоверностью расчетов, в индустрию можно попасть и совсем другим путем. Сегодня поговорим о проекте BeamNG, который начался как игра, а превратился в серьезный инструмент для автомобильной промышленности.

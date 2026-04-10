@@ -6,25 +6,26 @@ link_previews:
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2w46Eyh
+  url: https://m.vk.com/wall-97265142_3204
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2vVLrF3
+  url: https://m.vk.com/feed?section=search&q=%23SpaceClaim
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2vk2wVv
+  url: https://m.vk.com/feed?section=search&q=%23ANSYS
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2wLNQRy
+  url: https://m.vk.com/feed?section=search&q=%23Discovery
 source: vk
 tags:
 - Discovery
 - SpaceClaim
 - ANSYS
-title: "Прикол: в наследство от #SpaceClaim #ANSYS #Discovery Live получил поддержку кучи языков - в том числе и русского."
+title: 'Прикол: в наследство от #SpaceClaim #ANSYS #Discovery Live получил поддержку
+  кучи языков - в том числе и русского.'
 ---
 
 Не знаю, останется ли это в финальной версии, но сейчас часть контролов переведены, а часть нет.

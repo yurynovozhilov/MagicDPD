@@ -6,13 +6,15 @@ link_previews:
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2vlBJYZ
+  url: https://m.vk.com/feed?section=search&q=%23LSDYNA
 source: vk
 tags:
 - explicit
 - mass_scaling
 - LSDYNA
-title: "прочтение данной статьи позволит моим пользователям #LSDYNA избежать проблем в настроке такеого важного параметра расчета, как масштабирование массы или mass scaling."
+title: 'прочтение данной статьи позволит моим пользователям #LSDYNA избежать проблем
+  в настроке такеого важного параметра расчета, как масштабирование массы или mass
+  scaling.'
 ---
 
 Например тут можно узнать, что будет с расчетом если задать величину mass scaling больше нуля, что - если меньше нуля.

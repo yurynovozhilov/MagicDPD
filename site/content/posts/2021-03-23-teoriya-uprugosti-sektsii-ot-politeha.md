@@ -1,11 +1,25 @@
 ---
+author: MagicDPD
+date: 2021-03-23 13:01:17+00:00
 layout: post
-title: "Теория упругости - секции от Политеха"
-date: 2021-03-23T13:01:17+00:00
-author: "MagicDPD"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: https://i.ytimg.com/vi/DXb8zJuINTA/maxresdefault.jpg
+  title: Теория упругости
+  url: https://www.youtube.com/watch?v=DXb8zJuINTA
+- description: Free online courses from leading Russian universities
+  image: ''
+  title: Open Education - Теория упругости
+  url: https://openedu.ru/course/spbstu/TELAST/
+- description: ''
+  image: ''
+  title: ЭБ СПбПУ - Введение в механику деформиру
+  url: https://elib.spbstu.ru/dl/2/i20-276.pdf/info
 source: vk
 tags:
-  - theory
+- theory
+title: Теория упругости - секции от Политеха
 ---
 
 Сегодняшний материал может легко положить на лопатки все учебные курсы, когда-либо публиковавшиеся мной. Сегодня я хочу рассказать о TRUE учебном курсе по теории упругости, который разработан в Политехе. Курс основывается на научной школе Анатолия Исааковича Лурье и Владимира Александровича Пальмова. Мне посчастливилось прослушать теорию упругости и механику деформируемого твёрдого тела очно именно у Пальмова, и это было очень круто! Вообще говоря, если вы занимаетесь расчетами прочности, то послушать такой курс для вас дело чести.

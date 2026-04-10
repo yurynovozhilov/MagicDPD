@@ -6,11 +6,11 @@ link_previews:
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2hrqKf7
+  url: https://m.vk.com/wall-97265142_3320
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2vk2wVv
+  url: https://m.vk.com/feed?section=search&q=%23ANSYS
 source: vk
 tags:
 - ANSYS

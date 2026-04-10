@@ -1,9 +1,15 @@
 ---
+author: Yury Novozhilov
+date: 2025-11-07 13:44:44+00:00
 layout: post
-title: "Пробивание бетона на скорости 770"
-date: 2025-11-07T13:44:44+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: 'More powerful than a powder launcher, as easy to use as a gas launcher:
+    that’s one way to describe our H3G®...'
+  image: https://www.thiot-ingenierie.com/wp-content/uploads/2025/11/h3g.jpg
+  title: Focus on our H3G® launcher (Hot Green Gas Gun) - Thiot Ingenierie
+  url: https://www.thiot-ingenierie.com/en/2025/11/07/focus-on-our-h3g-launcher-hot-green-gas-gun/
 source: vk
+title: Пробивание бетона на скорости 770
 ---
 
 Коллеги из Франции показали как они могут пробивать бетона на высоких скоростях не только в лаборатории, но и при помощи моделирования. Вижу что там что-то бессеточное (еще бы, на скорости 770 м/с), возможно просто SPH. Но вот кож по визуализации опознать не могу.

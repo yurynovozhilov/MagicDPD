@@ -1,13 +1,26 @@
 ---
+author: MagicDPD
+date: 2021-04-28 13:02:07+00:00
 layout: post
-title: "Метод крупных вихрей"
-date: 2021-04-28T13:02:07+00:00
-author: "MagicDPD"
+link_previews:
+- description: 'An introduction to the (original) 1963 Smagorinsky model for Large
+    Eddy Simulation (LES). The talk is broken down into the following sections: 1)
+    07:22 How i...'
+  image: https://i.ytimg.com/vi/V8ydRrdCzl0/maxresdefault.jpg
+  title: '[CFD] The Smagorinsky Turbulence Model (Part 1)'
+  url: https://www.youtube.com/watch?v=V8ydRrdCzl0
+- description: 'Part 2 in the series on the Smagorinsky model for Large Eddy Simulation
+    (LES). The talk is broken is down into the following sections: 1) 07:15 What happens
+    ...'
+  image: https://i.ytimg.com/vi/GdXLyfRK188/maxresdefault.jpg
+  title: '[CFD] The Smagorinsky Turbulence Model (Part 2)'
+  url: https://www.youtube.com/watch?v=GdXLyfRK188
 source: vk
 tags:
-  - les
-  - cfd
-  - turbulence
+- les
+- cfd
+- turbulence
+title: Метод крупных вихрей
 ---
 
 https://www.youtube.com/watch?v=V8ydRrdCzl0

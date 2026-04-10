@@ -10,10 +10,6 @@ link_previews:
   title: TechViz - VR collaboration solutions in real-time - From 3D CAD software
     to XR
   url: http://www.techviz.net/
-- description: ''
-  image: ''
-  title: О конференции | Суперкомпьютерные дни в России
-  url: http://www.russianscdays.org
 - description: TechViz, is specialized in advanced visualization solutions that transform
     the way you approach project reviews and collaboration. From 3D CAD Software to
     VR instantly.
@@ -21,6 +17,10 @@ link_previews:
   title: TechViz - VR collaboration solutions in real-time - From 3D CAD software
     to XR
   url: https://www.techviz.net/
+- description: ''
+  image: ''
+  title: О конференции | Суперкомпьютерные дни в России
+  url: http://www.russianscdays.org
 source: vk
 tags:
 - HTC

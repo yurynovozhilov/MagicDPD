@@ -1,17 +1,38 @@
 ---
+author: MagicDPD
+date: 2021-09-17 13:01:45+00:00
 layout: post
-title: "HexGen и Hex2Spline: ALLHEX и IGA сетки для LS-DYNA"
-date: 2021-09-17T13:01:45+00:00
-author: "MagicDPD"
+link_previews:
+- description: In this paper, we present two software packages, HexGen and Hex2Spline,
+    that seamlessly integrate geometry design with isogeometric analysis (IGA) in
+    LS-DYNA. Given a boundary representation of a solid model, HexGen creates a hexahedral
+    mesh by utilizing a semi-automatic polycube-based mesh generation method. Hex2Spline
+    takes the output hexahedral mesh from HexGen as the input control mesh and constructs
+    volumetric truncated hierarchical splines. Through Bézier extraction, Hex2Spline
+    transfers s
+  image: /static/browse/0.3.4/images/arxiv-logo-fb.png
+  title: 'HexGen and Hex2Spline: Polycube-based Hexahedral Mesh Generation and Spline
+    Modeling for Isogeometric Analysis Applications in LS-DYNA'
+  url: https://arxiv.org/abs/2011.14213
+- description: Contribute to yu-yuxuan/HexGen_Hex2Spline development by creating an
+    account on GitHub.
+  image: https://opengraph.githubassets.com/7eac57546a326d086c654dacea350cbc72eda1aa2e0abebc3485f4b912571c90/yu-yuxuan/HexGen_Hex2Spline
+  title: GitHub - yu-yuxuan/HexGen_Hex2Spline
+  url: https://github.com/yu-yuxuan/HexGen_Hex2Spline
+- description: Jessica Zhang - Mechanical Engineering
+  image: https://engineering.cmu.edu/_files/images/socialmedia/default.jpg
+  title: Jessica Zhang
+  url: https://www.meche.engineering.cmu.edu/directory/bios/zhang-yongjie.html
 source: vk
 tags:
-  - bext
-  - iga
-  - open_source
-  - polycube
-  - ls
-  - ansys
-  - all
+- bext
+- iga
+- open_source
+- polycube
+- ls
+- ansys
+- all
+title: 'HexGen и Hex2Spline: ALLHEX и IGA сетки для LS-DYNA'
 ---
 
 Коллеги, на мой взгляд, сегодня просто огненный контент. Представляю вам два открытых набора консольных утилит, HexGen и Hex2Spline, разработанные группой профессора Юнцзе Джессики Чжан (Yongjie Jessica Zhang) в Университете Карнеги-Меллон (Carnegie Mellon University). Что бы лучше понимать, эта группа очень тесно связана со всем, что сейчас делается в области IGA для LS-DYNA и Corefrom.

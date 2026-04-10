@@ -1,16 +1,28 @@
 ---
+author: MagicDPD
+date: 2021-09-22 13:01:58+00:00
 layout: post
-title: "Лекция по IGA от Томаса Хьюза"
-date: 2021-09-22T13:01:58+00:00
-author: "MagicDPD"
+link_previews:
+- description: Thomas J.R. Hughes, P.E., Ph.D., is a leading researcher in computer-aided
+    engineering and its integration with computer-aided design. He is also a pioneer
+    i...
+  image: https://i.ytimg.com/vi/kG_hfu-AXXA/maxresdefault.jpg
+  title: Thomas J.R. Hughes, ASME Medal, 2018
+  url: https://www.youtube.com/watch?v=kG_hfu-AXXA
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: https://i.ytimg.com/vi/vbKWBsX34hw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgXShIMA8=&rs=AOn4CLBBsJqZEgQRd_04MwtGkIp5RBLtGg
+  title: 2021/04/26 "The University of Texas at Austin" Tom Hughes
+  url: https://www.youtube.com/watch?v=vbKWBsX34hw
 source: vk
 tags:
-  - iga
-  - legendpeople
-  - true_science
-  - coreform
-  - ls
-  - ansys
+- iga
+- legendpeople
+- true_science
+- coreform
+- ls
+- ansys
+title: Лекция по IGA от Томаса Хьюза
 ---
 
 Томас Дж. Р. Хьюз, является ведущим исследователем в области автоматизированного проектирования и его интеграции с автоматизированным проектированием. Он также является пионером в разработке метода конечных элементов для решения нелинейных задач. Я даже нашел про него небольшую видео-визитку в сети.

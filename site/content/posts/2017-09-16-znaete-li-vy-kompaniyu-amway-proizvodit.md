@@ -10,14 +10,14 @@ link_previews:
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2wj7UO3
+  url: https://m.vk.com/feed?section=search&q=%23Amway
 source: vk
 tags:
 - FEA
 - CFD
 - COMSOL
 - Amway
-title: "Знаете ли вы компанию Amway - производителя косметики и бытовой химии?"
+title: Знаете ли вы компанию Amway - производителя косметики и бытовой химии?
 ---
 
 Ну #Amway, которою так любят бьюти блогеры?

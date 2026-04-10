@@ -8,7 +8,7 @@ link_previews:
     ne...
   image: https://i.ytimg.com/vi/mOWoqcKtTt4/maxresdefault.jpg
   title: Parameter Identification test
-  url: https://youtu.be/mOWoqcKtTt4
+  url: https://www.youtube.com/watch?v=mOWoqcKtTt4
 source: vk
 tags:
 - LSTC

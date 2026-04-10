@@ -1,17 +1,26 @@
 ---
+author: GlukRazor
+date: 2018-08-10 18:01:40+00:00
+images:
+- url: /assets/images/1066.jpg
 layout: post
-title: "CFD Toolbox для MATLAB"
-date: 2018-08-10T18:01:40+00:00
-author: "GlukRazor"
+link_previews:
+- description: CFDTool - Easy to Use Computational Fluid Dynamics CFD Toolbox
+  image: https://www.cfdtool.com/images/cfdtool-matlab-computational-fluid-dynamics-cfd-toolbox.png
+  title: CFDTool - CFD Simulation Made Easy
+  url: https://www.cfdtool.com
+- description: CFDTool - Easy to Use Computational Fluid Dynamics CFD Toolbox
+  image: https://www.cfdtool.com/images/cfdtool-matlab-computational-fluid-dynamics-cfd-toolbox.png
+  title: CFDTool - CFD Simulation Made Easy
+  url: https://www.cfdtool.com/
 source: vk
 tags:
-  - CFD
-  - MATLAB
-  - CFDTool
-  - FEATool
-  - PreciseSimulation
-images:
-  - url: "/assets/images/1066.jpg"
+- CFD
+- MATLAB
+- CFDTool
+- FEATool
+- PreciseSimulation
+title: CFD Toolbox для MATLAB
 ---
 
 CFDTool - это специализированное расширение к MATLAB, позволяющее решать задачи вычислительной гидрогазодинамики. Разработано оно командой Precise Simulation, известной по другому похожему проекту - FEATool Multiphysics.

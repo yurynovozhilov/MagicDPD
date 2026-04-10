@@ -1,9 +1,18 @@
 ---
+author: GlukRazor
+date: 2017-12-09 07:16:05+00:00
 layout: post
-title: "Ply-based composite modeling with the new *ELEMENT_SHELL_COMPOSITE keyword."
-date: 2017-12-09T07:16:05+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3827
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/club13715565
 source: vk
+title: Ply-based composite modeling with the new *ELEMENT_SHELL_COMPOSITE keyword.
 ---
 
 http://ift.tt/2AFXG9h

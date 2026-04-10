@@ -1,15 +1,21 @@
 ---
+author: GlukRazor
+date: 2019-08-15 13:00:25+00:00
+images:
+- url: /assets/images/1557.jpg
 layout: post
-title: "Internal Layer ACT"
-date: 2019-08-15T13:00:25+00:00
-author: "GlukRazor"
+link_previews:
+- description: Discover ready-to-use Ansys and third-party apps to streamline simulation
+    workflows in the Ansys App Catalog. Boost productivity and innovation.
+  image: ''
+  title: Ansys App Catalog | Ansys Developer Portal
+  url: https://catalog.ansys.com/product/5cb60587393ff6686c09c303/internal-layer
 source: vk
 tags:
-  - ACT
-  - Mechanical
-  - ANSYS
-images:
-  - url: "/assets/images/1557.jpg"
+- ACT
+- Mechanical
+- ANSYS
+title: Internal Layer ACT
 ---
 
 Небольшое расширение для той части ANSYS Mechanical, что работает с APDL. Расширение позволяет сгенерировать именованную выборку из слоя элементов заданной толщины и задать для этого слоя свойства материала. Для генерации слоя вам достаточно выбрать поверхность, от которой этот слой будет строиться.

@@ -1,13 +1,21 @@
 ---
+author: MagicDPD
+date: 2022-09-08 18:00:06+00:00
+images:
+- url: /assets/images/2331.jpg
 layout: post
-title: "Сегодня я понял, что пора бы восстановить работу моего паблика, который был незаслуженно заморожен почти два месяца назад."
-date: 2022-09-08T18:00:06+00:00
-author: "MagicDPD"
+link_previews:
+- description: University of Virginia researchers have invented a method of 3D printing
+    with seed-impregnated soil, which could be used to create walls and roofs teeming
+    with plant life.
+  image: https://static.dezeen.com/uploads/2022/08/university-virginia-3d-printed-soil-structures-design_dezeen_2364_hero.jpg
+  title: University of Virginia 3D-prints living soil walls that sprout greenery
+  url: https://www.dezeen.com/2022/09/05/university-of-virginia-3d-printed-soil-seed-walls/
 source: vk
 tags:
-  - AdditiveManufacturing
-images:
-  - url: "/assets/images/2331.jpg"
+- AdditiveManufacturing
+title: Сегодня я понял, что пора бы восстановить работу моего паблика, который был
+  незаслуженно заморожен почти два месяца назад.
 ---
 
 Первая новость после такого перерыва будет очень легкой и зеленой.

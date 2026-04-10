@@ -1,9 +1,15 @@
 ---
+author: MagicDPD
+date: 2021-11-02 13:41:21+00:00
 layout: post
-title: "Работа МКЭ и метода Галеркина"
-date: 2021-11-02T13:41:21+00:00
-author: "MagicDPD"
+link_previews:
+- description: this video introduces the basic concepts of Finite Element Analysis,
+    and illustrates the Galerkin formulation.
+  image: https://i.ytimg.com/vi/s14zmpLdh0k/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLCr_4dPWJffGaTZs3TIihz7iXns-Q
+  title: Introduction  to Finite Element Analysis and the Galerkin Method
+  url: https://www.youtube.com/watch?v=s14zmpLdh0k
 source: vk
+title: Работа МКЭ и метода Галеркина
 ---
 
 https://www.youtube.com/watch?v=s14zmpLdh0k

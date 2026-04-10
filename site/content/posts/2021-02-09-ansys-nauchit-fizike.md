@@ -1,12 +1,24 @@
 ---
+author: MagicDPD
+date: 2021-02-09 13:01:17+00:00
 layout: post
-title: "Ansys научит физике"
-date: 2021-02-09T13:01:17+00:00
-author: "MagicDPD"
+link_previews:
+- description: Ansys Innovation Courses are free, online courses featuring lecture
+    videos, handouts and quizzes. The courses cover a variety of physics topics in
+    the areas ...
+  image: https://i.ytimg.com/vi/3PoZZ7FsJrA/maxresdefault.jpg
+  title: What are Ansys Innovation Courses?
+  url: https://www.youtube.com/watch?v=3PoZZ7FsJrA
+- description: Explore all available courses and certifications from Ansys and its
+    partners in the Ansys Learning Library.
+  image: https://innovationspace.ansys.com/wp-content/uploads/2023/07/Ansys-black-bg.jpg
+  title: Ansys Learning Library | Ansys Innovation Space
+  url: https://courses.ansys.com/
 source: vk
 tags:
-  - training
-  - ansys
+- training
+- ansys
+title: Ansys научит физике
 ---
 
 https://www.youtube.com/watch?v=3PoZZ7FsJrA

@@ -1,17 +1,23 @@
 ---
+author: GlukRazor
+date: 2018-02-10 18:01:40+00:00
+images:
+- url: /assets/images/782.jpg
 layout: post
-title: "Let's simulate badminton"
-date: 2018-02-10T18:01:40+00:00
-author: "GlukRazor"
+link_previews:
+- description: The Altair Blog is the best way to stay up to date on Altair’s most
+    noteworthy articles, including those from Altair executives and partner organizations.
+  image: https://altair.com/images/default-source/content-images/altair_blog_social.jpg?sfvrsn=a66ac2fa_1
+  title: Altair Blog
+  url: http://innovationintelligence.com/simulation-badminton-racquet/
 source: vk
 tags:
-  - Altair
-  - RADIOSS
-  - solidThinking
-  - Evolve
-  - explicit
-images:
-  - url: "/assets/images/782.jpg"
+- Altair
+- RADIOSS
+- solidThinking
+- Evolve
+- explicit
+title: Let's simulate badminton
 ---
 
 Altair team tresents nice technical demo on badminton racquet dinamics.

@@ -1,16 +1,40 @@
 ---
+author: MagicDPD
+date: 2021-06-01 13:02:10+00:00
 layout: post
-title: "Топологической оптимизации методом BESO"
-date: 2021-06-01T13:02:10+00:00
-author: "MagicDPD"
+link_previews:
+- description: In our latest 'Spatial Structures; Movers and Shakers' interview, we
+    speak with Mike Xie who is a Distinguished Professor at RMIT University. Mike
+    is also th...
+  image: https://i.ytimg.com/vi/RKTQRV6tF2s/maxresdefault.jpg
+  title: '''Spatial Structures; Movers and Shakers'' - with Yi Min “Mike” Xie'
+  url: https://www.youtube.com/watch?v=RKTQRV6tF2s
+- description: Ameba is a type of single-celled organism capable of changing its shape
+    in different environments.Based on the Bi-directional Evolutionary Structural
+    Optimiz...
+  image: https://i.ytimg.com/vi/0_VBPhoLRwI/maxresdefault.jpg
+  title: Ameba Topology Optimization Software Based on Grasshopper
+  url: https://www.youtube.com/watch?v=0_VBPhoLRwI
+- description: Повышение удельных показателей поршневых двигателей внутреннего сгорания
+    с одновременным снижением их материалоемкости требует поиска оптимальных по массе
+    деталей. При этом детали должны сохранять работоспособность. На большую часть
+    деталей одновременно действуют несколько нагрузок, переменных по значению и направлению,
+    что усложняет задачу поиска оптимальной формы. В настоящее время актуальной задачей
+    является разработка автоматизированных методов решения подобных оптимизационных
+    задач. Рассмот
+  image: https://cyberleninka.ru/article/n/realizatsiya-topologicheskoy-optimizatsii-metodom-beso-v-srede-ansys-apdl-i-ee-primenenie-dlya-optimizatsii-formy-shatuna-teplovoznogo/og
+  title: Реализация топологической оптимизации методом beso в среде ANSYS APDL и ее
+    применение для оптимизации формы шатуна тепловозного дизеля
+  url: https://cyberleninka.ru/article/n/realizatsiya-topologicheskoy-optimizatsii-metodom-beso-v-srede-ansys-apdl-i-ee-primenenie-dlya-optimizatsii-formy-shatuna-teplovoznogo
 source: vk
 tags:
-  - topology
-  - optimization
-  - apdl
-  - ansys
-  - beso
-  - ameba
+- topology
+- optimization
+- apdl
+- ansys
+- beso
+- ameba
+title: Топологической оптимизации методом BESO
 ---
 
 https://www.youtube.com/watch?v=RKTQRV6tF2s

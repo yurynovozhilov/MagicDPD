@@ -1,9 +1,16 @@
 ---
+author: Yury Novozhilov
+date: 2023-05-30 15:00:48+00:00
 layout: post
-title: "Pressure-Based и Density-Based Solvers в CFD"
-date: 2023-05-30T15:00:48+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: This video presents the pressure-based and density-based solvers in
+    CFD.Both the pressure-based and density-based solvers are used to solve the mass
+    and mome...
+  image: https://i.ytimg.com/vi/bN-t-fMe0dI/maxresdefault.jpg
+  title: Pressure-Based and Density-Based Solvers in CFD
+  url: https://www.youtube.com/watch?v=bN-t-fMe0dI
 source: vk
+title: Pressure-Based и Density-Based Solvers в CFD
 ---
 
 Решая уравнения сохранения массы и импульса, которые описывают потоки жидкости, CFD коды используют решатели на основе давления или плотности (привет Fluent).

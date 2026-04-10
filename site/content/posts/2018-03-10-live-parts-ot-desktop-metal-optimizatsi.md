@@ -1,17 +1,28 @@
 ---
+author: GlukRazor
+date: 2018-03-10 18:02:17+00:00
+images:
+- url: /assets/images/842.jpg
 layout: post
-title: "Live Parts от Desktop Metal - оптимизация топологии конструкции в реальном времени!"
-date: 2018-03-10T18:02:17+00:00
-author: "GlukRazor"
+link_previews:
+- description: https://giphy.com/embed/26DN48PB9sHggRrag Perhaps the most exciting
+    announcement out of SolidWorks World doesn’t come from Dassault, but rather from
+    Desktop Metal. The announcement centres around a new technology for additive manufactured
+    part design called Live Parts. Built by Desktop Metal’s research and innovation
+    group, DM Labs, Live Parts an experimental generative design tool that “applies
+    morphogenetic principles
+  image: https://develop3d.com/wp-content/uploads/2019/11/hqdefault-6-4-6.jpg
+  title: Desktop Metal launches Live Parts
+  url: http://www.develop3d.com/blog/2018/02/desktop-metal-launch-live-parts
 source: vk
 tags:
-  - GPU
-  - Optimization
-  - Topology
-  - SolidWorks
-  - Desktop_Metal
-images:
-  - url: "/assets/images/842.jpg"
+- GPU
+- Optimization
+- Topology
+- SolidWorks
+- Desktop_Metal
+title: Live Parts от Desktop Metal - оптимизация топологии конструкции в реальном
+  времени!
 ---
 
 Desktop Metal Lab (https://labs.desktopmetal.com/liveparts/) показали технологию оптимизации формы конструкции в реальном времени!

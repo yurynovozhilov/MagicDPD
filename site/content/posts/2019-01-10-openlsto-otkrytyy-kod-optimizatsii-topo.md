@@ -1,18 +1,34 @@
 ---
+author: GlukRazor
+date: 2019-01-10 17:01:23+00:00
+images:
+- url: /assets/images/1302.jpg
 layout: post
-title: "OpenLSTO - открытый код оптимизации топологии"
-date: 2019-01-10T17:01:23+00:00
-author: "GlukRazor"
+link_previews:
+- description: Сегментация изображений является задачей разбиения цифрового изображения
+    на одну или несколько областей, представляющих интерес. Это фундаментальная проблема
+    в области компьютерного зрения, которая...
+  image: https://habr.com/share/publication/332692/31dedc205152123e11cdec8e5b781266/
+  title: Бинарная сегментация изображений методом фиксации уровня (Level set method)
+  url: https://habr.com/post/332692/
+- description: Contribute to M2DOLab/OpenLSTO development by creating an account on
+    GitHub.
+  image: https://opengraph.githubassets.com/bb35428f68a5171fd259cb03543e0d90a107495a193ef66216f0ea4e618642f0/M2DOLab/OpenLSTO
+  title: GitHub - M2DOLab/OpenLSTO
+  url: https://github.com/M2DOLab/OpenLSTO
+- description: ''
+  image: ''
+  title: Software | M2DO - Multiscale, Multiphysics Design Optimization
+  url: http://m2do.ucsd.edu/software/
 source: vk
 tags:
-  - OpenLSTO
-  - Optimization
-  - OpenSource
-  - Topology
-  - M2DO
-  - LevelSetMethod
-images:
-  - url: "/assets/images/1302.jpg"
+- OpenLSTO
+- Optimization
+- OpenSource
+- Topology
+- M2DO
+- LevelSetMethod
+title: OpenLSTO - открытый код оптимизации топологии
 ---
 
 Летом 2018 года команда&nbsp;M2DO (Multiscale Multiphysics Design Optimization Laboratory)&nbsp;Калифорнийского университета Сан-Диего представила новый код для решения задач топологической оптимизации&nbsp;OpenLSTO.&nbsp;

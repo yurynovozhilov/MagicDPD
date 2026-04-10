@@ -1,14 +1,19 @@
 ---
+author: GlukRazor
+date: 2018-01-20 17:01:10+00:00
+images:
+- url: /assets/images/738.jpg
 layout: post
-title: "CivilFEM для ANSYS 18.2"
-date: 2018-01-20T17:01:10+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: New version of CivilFEM for ANSYS 18.2 add on | CivilFEM
+  url: http://www.civilfem.com/new-version-of-civilfem-for-ansys-18-2-add-on/
 source: vk
 tags:
-  - CivilFEM
-  - ANSYS
-images:
-  - url: "/assets/images/738.jpg"
+- CivilFEM
+- ANSYS
+title: CivilFEM для ANSYS 18.2
 ---
 
 Не прошло и года, как наконец появился CivilFEM для ANSYS 18.2 (весь год была поддержка только 18.1).

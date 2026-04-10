@@ -1,11 +1,17 @@
 ---
-layout: post
-title: "Заметки о вычислительной гидродинамике"
-date: 2023-06-13T15:00:59+00:00
-author: "Yury Novozhilov"
-source: vk
+author: Yury Novozhilov
+date: 2023-06-13 15:00:59+00:00
 images:
-  - url: "/assets/images/2436.jpg"
+- url: /assets/images/2436.jpg
+layout: post
+link_previews:
+- description: 'Notes on CFD: General Principles. From the creators of OpenFOAM, the
+    essential book for CFD users.'
+  image: https://doc.cfd.direct/assets/img/notes-on-computational-fluid-dynamics-general-principles-og-image.png
+  title: 'Notes on Computational Fluid Dynamics: General Principles'
+  url: https://doc.cfd.direct/notes/cfd-general-principles/
+source: vk
+title: Заметки о вычислительной гидродинамике
 ---
 
 На прошлой неделе подвернулась интересная книга от людей из сообщества OpenFOAM.

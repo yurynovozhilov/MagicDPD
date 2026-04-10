@@ -1,11 +1,22 @@
 ---
-layout: post
-title: "Как решать больше задачи с брызгами?"
-date: 2023-04-25T16:35:55+00:00
-author: "Yury Novozhilov"
-source: vk
+author: Yury Novozhilov
+date: 2023-04-25 16:35:55+00:00
 images:
-  - url: "/assets/images/2395.jpg"
+- url: /assets/images/2395.jpg
+layout: post
+link_previews:
+- description: "Advancement in automobile technology has lead to increasingly complex
+    driver assistance technology. Many of\r\nthese involve the placement of sensors
+    on the external surface(s) of vehicles. In the case of heavy duty vehicles,\r\nthese
+    sensors could be exposed to harsh driving conditions which could lead to contamination
+    or soiling of\r\ntheir surfaces. Sensors must perform reliably and safely in such
+    extreme conditions and must be kept clean for\r\noptimal performance. Additionally,
+    contamination can al"
+  image: ''
+  title: Contamination Study for Heavy Duty  Vehicles using Smoothed Particle  Hydrodynamics
+  url: https://hdl.handle.net/20.500.12380/305367
+source: vk
+title: Как решать больше задачи с брызгами?
 ---
 
 В современной автомобильной, и не только, промышленности очень актуальны задачи взаимодействия твердых тел с жидкостями, что бы было много брызг. Два ключевых примера таких задач:

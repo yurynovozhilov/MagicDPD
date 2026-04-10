@@ -1,12 +1,19 @@
 ---
+author: GlukRazor
+date: 2016-04-07 13:17:49+00:00
 layout: post
-title: "Мои знакомые #IMMERS делают погружные #HPC кластеры - выглядит очень жестоко, когда систему заливают \"водой\"."
-date: 2016-04-07T13:17:49+00:00
-author: "GlukRazor"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: https://i.ytimg.com/vi/vprpGaRgmfg/hqdefault.jpg
+  title: Immers selects Mellanox
+  url: https://www.youtube.com/watch?v=vprpGaRgmfg
 source: vk
 tags:
-  - HPC
-  - IMMERS
+- HPC
+- IMMERS
+title: 'Мои знакомые #IMMERS делают погружные #HPC кластеры - выглядит очень жестоко,
+  когда систему заливают "водой".'
 ---
 
 За качество не отвечаю, ибо зам я такие системы не тестировал.

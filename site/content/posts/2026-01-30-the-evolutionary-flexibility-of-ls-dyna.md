@@ -1,9 +1,16 @@
 ---
+author: Yury Novozhilov
+date: 2026-01-30 15:38:06+00:00
 layout: post
-title: "The evolutionary flexibility of LS-DYNA"
-date: 2026-01-30T15:38:06+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: This keynote, presented by Bob Lucas of Ansys, was delivered at IWOMP
+    2025/EuroMPI 2025. See the full program at https://www.iwomp.org/iwomp-2025/
+  image: https://i.ytimg.com/vi/dZS9MB8W8AM/maxresdefault.jpg
+  title: IWOMP 2025 Keynote II — The evolutionary flexibility of LS-DYNA, Bob Lucas,
+    Ansys
+  url: https://www.youtube.com/watch?v=dZS9MB8W8AM
 source: vk
+title: The evolutionary flexibility of LS-DYNA
 ---
 
 Большой пленарный доклад об истории с современном состоянии решателя. Очень интересно, особенно с учетом личности докладчика. Др. Роберт Ф. Лукас является сотрудником Ansys, ответственным за стандартный многофронтальный линейный решатель, используемый в LS-DYNA и MAPDL.

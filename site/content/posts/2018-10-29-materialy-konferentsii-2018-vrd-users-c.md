@@ -1,17 +1,22 @@
 ---
+author: GlukRazor
+date: 2018-10-29 17:01:38+00:00
+images:
+- url: /assets/images/1180.jpg
 layout: post
-title: "Материалы конференции \"2018 VR&D Users Conference\""
-date: 2018-10-29T17:01:38+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: 2018 VR&D Users Conference - North America - Vanderplaats
+  url: http://www.vrand.com/2018-vrd-users-conference-north-america/
 source: vk
 tags:
-  - Optimization
-  - Topology
-  - GENESIS
-  - Vrand
-  - GTAM
-images:
-  - url: "/assets/images/1180.jpg"
+- Optimization
+- Topology
+- GENESIS
+- Vrand
+- GTAM
+title: Материалы конференции "2018 VR&D Users Conference"
 ---
 
 Материалы конференции "2018 VR&D Users Conference"

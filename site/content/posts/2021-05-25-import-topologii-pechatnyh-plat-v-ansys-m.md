@@ -1,16 +1,22 @@
 ---
+author: MagicDPD
+date: 2021-05-25 17:01:47+00:00
 layout: post
-title: "Импорт топологии печатных плат в Ansys Mechanical и LS-DYNA"
-date: 2021-05-25T17:01:47+00:00
-author: "MagicDPD"
+link_previews:
+- description: Please subscribe to our new Channel. New videos will be posted herehttps://www.youtube.com/channel/UC34GHDwqDux32A2GZ_MDIMASometimes
+    modeling dozens of layer...
+  image: https://i.ytimg.com/vi/EBpKi7Oq6dw/maxresdefault.jpg
+  title: 'Ansys Mechanical: Shell trace mapping'
+  url: https://www.youtube.com/watch?v=EBpKi7Oq6dw
 source: vk
 tags:
-  - odb
-  - lsdyna
-  - em
-  - ansys
-  - tracemapping
-  - mechanical
+- odb
+- lsdyna
+- em
+- ansys
+- tracemapping
+- mechanical
+title: Импорт топологии печатных плат в Ansys Mechanical и LS-DYNA
 ---
 
 https://www.youtube.com/watch?v=EBpKi7Oq6dw

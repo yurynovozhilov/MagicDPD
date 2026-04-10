@@ -1,9 +1,16 @@
 ---
+author: MagicDPD
+date: 2022-02-22 17:00:16+00:00
 layout: post
-title: "Коллеги и друзья, сегодня я хотел бы поздравить всех нас с замечательной цифрой: паблик Magic Driven Product Development на основной своей площадке в VK перешагнул отметку в 3 000 подписчиков!"
-date: 2022-02-22T17:00:16+00:00
-author: "MagicDPD"
+link_previews:
+- description: Linktree. Make your link do more.
+  image: https://linktr.ee/og/image/MagicDPD.jpg
+  title: MagicDPD | Twitter, Instagram, Facebook | Linktree
+  url: https://linktr.ee/MagicDPD
 source: vk
+title: 'Коллеги и друзья, сегодня я хотел бы поздравить всех нас с замечательной цифрой:
+  паблик Magic Driven Product Development на основной своей площадке в VK перешагнул
+  отметку в 3 000 подписчиков!'
 ---
 
 Хотя это и в точности согласуется с планом, который я принял в прошлом году, это все равно очень приятно.

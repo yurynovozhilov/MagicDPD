@@ -1,13 +1,25 @@
 ---
+author: MagicDPD
+date: 2021-09-06 13:04:28+00:00
 layout: post
-title: "Новые DEM подходы к моделированю хрупкого разрушения трещеноватых материалов"
-date: 2021-09-06T13:04:28+00:00
-author: "MagicDPD"
+link_previews:
+- description: By utilizing numerical models and simulation, insights about the fracture
+    process of brittle heterogeneous materials can be gained without the need for
+    expensive, difficult, or even impossible, experiments. Brittle and heterogeneous
+    materials like rocks usually exhibit a large spread of experimental data and there
+    is a need for a stochastic model that can mimic this behaviour. In this work,
+    a new numerical approach, based on the Bonded Discrete Element Method, for modelling
+    of heterogeneous brit
+  image: https://static-content.springer.com/image/art%3A10.1007%2Fs40571-021-00434-w/MediaObjects/40571_2021_434_Fig1_HTML.png
+  title: A statistical DEM approach for modelling heterogeneous brittle materials
+    - Computational Particle Mechanics
+  url: https://link.springer.com/article/10.1007/s40571-021-00434-w
 source: vk
 tags:
-  - fracture
-  - concrete
-  - dem
+- fracture
+- concrete
+- dem
+title: Новые DEM подходы к моделированю хрупкого разрушения трещеноватых материалов
 ---
 
 Используя математическое моделирование, можно получить представление о процессе разрушения хрупких неоднородных материалов без необходимости проведения дорогостоящих, сложных или даже невозможных экспериментов. Хрупкие и гетерогенные материалы, такие как горные породы, обычно демонстрируют большой разброс экспериментальных данных, поэтому существует необходимость в стохастической модели, которая могла бы имитировать такое поведение. В данной работе предлагается и оценивается новый численный подход, основанный на методе связанных дискретных элементов (Bonded Discrete Element Method), для моделирования неоднородных хрупких материалов. Модель имеет два основных источника данных о структуре материала.

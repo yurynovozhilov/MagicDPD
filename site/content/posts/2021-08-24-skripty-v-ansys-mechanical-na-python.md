@@ -1,14 +1,26 @@
 ---
+author: MagicDPD
+date: 2021-08-24 13:02:11+00:00
 layout: post
-title: "Скрипты в Ansys Mechanical на Python"
-date: 2021-08-24T13:02:11+00:00
-author: "MagicDPD"
+link_previews:
+- description: This first session of our two-day training course provides a holistic
+    view of Python to get users familiarised with the underlying structure of Ansys
+    Scripti...
+  image: https://i.ytimg.com/vi/S0Z8mOEQbEo/maxresdefault.jpg
+  title: Ansys Mechanical Scripting Training  - Python Basics (Day 1)
+  url: https://www.youtube.com/watch?v=S0Z8mOEQbEo
+- description: In recent years, Ansys has made significant enhancements to its automation
+    capabilities for Workbench and Mechanical. This has enabled users to save an ample...
+  image: https://i.ytimg.com/vi/Q0MpwVSiFGs/maxresdefault.jpg
+  title: Ansys Mechanical Scripting Training - Scripting in Mechanical (Day 2)
+  url: https://www.youtube.com/watch?v=Q0MpwVSiFGs
 source: vk
 tags:
-  - mechanical
-  - leap
-  - python
-  - ansys
+- mechanical
+- leap
+- python
+- ansys
+title: Скрипты в Ansys Mechanical на Python
 ---
 
 LEAP уже запилил запись своего двухдневного учебного курса по скриптовке Ansys Mechanical 2021 R2, ведь в новой версии Python получил не просто шаг вперед - его пнули с двух ног, и теперь на наем можно даже писать в APDL!

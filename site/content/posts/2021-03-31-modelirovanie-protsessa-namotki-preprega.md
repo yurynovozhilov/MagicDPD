@@ -1,15 +1,26 @@
 ---
+author: MagicDPD
+date: 2021-03-31 14:48:38+00:00
 layout: post
-title: "Моделирование процесса намотки препрега"
-date: 2021-03-31T14:48:38+00:00
-author: "MagicDPD"
+link_previews:
+- description: for more information please visit http://www.material.be
+  image: https://i.ytimg.com/vi/9SqoHrxn3Qw/maxresdefault.jpg
+  title: 'CADWIND Filament Winding Software: how CADWIND works with your machine controller'
+  url: https://www.youtube.com/watch?v=9SqoHrxn3Qw
+- description: for more information please visit http://www.material.beCADWIND- simulates
+    based on a physical model the winding process on the computer- calculates the
+    fibr...
+  image: https://i.ytimg.com/vi/57utRRS0M_k/maxresdefault.jpg
+  title: 'CADWIND V10 Filament Winding Software: an overview'
+  url: https://www.youtube.com/watch?v=57utRRS0M_k
 source: vk
 tags:
-  - acp
-  - cadwind
-  - ansys
-  - hdf5
-  - composite
+- acp
+- cadwind
+- ansys
+- hdf5
+- composite
+title: Моделирование процесса намотки препрега
 ---
 
 https://www.youtube.com/watch?v=9SqoHrxn3Qw

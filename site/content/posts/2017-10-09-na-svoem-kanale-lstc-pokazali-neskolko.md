@@ -1,15 +1,37 @@
 ---
+author: GlukRazor
+date: 2017-10-09 17:07:15+00:00
 layout: post
-title: "На своем канале #LSTC показали несколько тестовых задач, демонстрирующих работу их новой формулировки для #SPH."
-date: 2017-10-09T17:07:15+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3468
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23LSTC
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23SPH
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23LSDYNA
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23MLS
 source: vk
 tags:
-  - LSTC
-  - LSDYNA
-  - MLS
-  - SPH
-  - EFG
+- LSTC
+- LSDYNA
+- MLS
+- SPH
+- EFG
+title: 'На своем канале #LSTC показали несколько тестовых задач, демонстрирующих работу
+  их новой формулировки для #SPH.'
 ---
 
 Напомню, что SPH обладает врожденной болезнью: нестабильностью при работе на растяжение. Материал, моделируемый в SPH постановке показывает разрушение при растяжении намного раньше, чем того требуют его механическое состояние - получается так из-за численных проблем.

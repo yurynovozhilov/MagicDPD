@@ -1,11 +1,18 @@
 ---
-layout: post
-title: "ИИ для научных работ"
-date: 2023-05-09T12:00:12+00:00
-author: "Yury Novozhilov"
-source: vk
+author: Yury Novozhilov
+date: 2023-05-09 12:00:12+00:00
 images:
-  - url: "/assets/images/2405.jpg"
+- url: /assets/images/2405.jpg
+layout: post
+link_previews:
+- description: Why wait for an author to explain a paper? Say hello to SciSpace, the
+    easiest and fastest way to find, understand, and learn any research paper.* Search
+    from...
+  image: https://i.ytimg.com/vi/-pnbXQufCro/maxresdefault.jpg
+  title: Introducing SciSpace — Discover, read, and understand scientific literature!
+  url: https://www.youtube.com/watch?v=-pnbXQufCro
+source: vk
+title: ИИ для научных работ
 ---
 
 Одной из самых горячих тем этого года стало стремительное развитие искусственного интеллекта и ChatGPT как одного из самых ярких его представителей. Но это не повод отказываться от искусственного интеллекта. Я несколько раз пытался внедрить его в свою жизнь и работу, но пока это оказывалось совершенно бесполезным.

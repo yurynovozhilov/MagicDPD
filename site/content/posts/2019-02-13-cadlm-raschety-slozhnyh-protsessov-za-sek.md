@@ -1,14 +1,14 @@
 ---
+author: GlukRazor
+date: 2019-02-13 17:01:05+00:00
+images:
+- url: /assets/images/1354.jpg
 layout: post
-title: "CADLM — расчеты сложных процессов за секунды?"
-date: 2019-02-13T17:01:05+00:00
-author: "GlukRazor"
 source: vk
 tags:
-  - machinelearning
-  - CADLM
-images:
-  - url: "/assets/images/1354.jpg"
+- machinelearning
+- CADLM
+title: CADLM — расчеты сложных процессов за секунды?
 ---
 
 !

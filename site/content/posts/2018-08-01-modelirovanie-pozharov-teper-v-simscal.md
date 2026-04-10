@@ -1,17 +1,23 @@
 ---
+author: GlukRazor
+date: 2018-08-01 18:00:26+00:00
+images:
+- url: /assets/images/1049.jpg
 layout: post
-title: "Моделирование пожаров - теперь в SimScale"
-date: 2018-08-01T18:00:26+00:00
-author: "GlukRazor"
+link_previews:
+- description: Would you like to get in touch with us at SimScale? Find our contact
+    information here. We are happy to hear from you!
+  image: ''
+  title: Contact Us | SimScale GmbH (Munich, Germany) | SimScale
+  url: https://www.simscale.com/contact-form/?title=Fire%20and%20Smoke%20Simulation%20in%20a%20Browser%0D%0A
 source: vk
 tags:
-  - OpenSource
-  - Cloud
-  - FDS
-  - NIST
-  - Simscale
-images:
-  - url: "/assets/images/1049.jpg"
+- OpenSource
+- Cloud
+- FDS
+- NIST
+- Simscale
+title: Моделирование пожаров - теперь в SimScale
 ---
 
 Компания SimScale, пожалуй, самый активный игрок рынка облачного CAE/CFD/FEM, анонсировали планы по включению в свое портфолио возможности расчетов FDS - Fire Dynamics Simulator.

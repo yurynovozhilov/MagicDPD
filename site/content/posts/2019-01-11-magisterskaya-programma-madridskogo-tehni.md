@@ -1,13 +1,20 @@
 ---
+author: GlukRazor
+date: 2019-01-11 17:09:40+00:00
+images:
+- url: /assets/images/1304.jpg
 layout: post
-title: "Магистерская программа Мадридского технического университета и ANSYS Inc"
-date: 2019-01-11T17:09:40+00:00
-author: "GlukRazor"
+link_previews:
+- description: In collaboration with ANSYS, the Technical University of Madrid offers
+    an online master's degree focused on training experts in fluid mechanics and solid
+    mec...
+  image: https://i.ytimg.com/vi/oVE1ujqSyEI/maxresdefault.jpg
+  title: Master's Degree in Numerical Simulation in Engineering with ANSYS Now Available
+  url: https://www.youtube.com/watch?v=oVE1ujqSyEI
 source: vk
 tags:
-  - ANSYS
-images:
-  - url: "/assets/images/1304.jpg"
+- ANSYS
+title: Магистерская программа Мадридского технического университета и ANSYS Inc
 ---
 
 Компания ANSYS совместно с Мадридским техническим университетом (Technical University of Madrid) запускает специализированную магистерскую программу с удаленным обучением — и это, пожалуй, уже становится одной из новостей года!

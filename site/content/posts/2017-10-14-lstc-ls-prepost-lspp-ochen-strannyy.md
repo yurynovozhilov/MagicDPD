@@ -1,16 +1,50 @@
 ---
+author: GlukRazor
+date: 2017-10-14 17:11:15+00:00
 layout: post
-title: "#LSTC LS-PrePost (#LSPP) очень странный продукт. Это бесплатный пер/постпроцессор, который, на первый взгляд, стране как ядерная война. По красоте он может соперничать с ANSYS MAPDL \"Classiс\". Человек, привыкший к работе в #ANSYS #Workbench или #AIM скорее всего убежит из этого пре/постпроцессора. А зря!"
-date: 2017-10-14T17:11:15+00:00
-author: "GlukRazor"
+link_previews:
+- description: This is another video about model editing.Simulation of Rigid Ball
+    Impact on Aluminium Oxide.What is done in this video:The parts in the original
+    file was ed...
+  image: https://i.ytimg.com/vi/JBKhEupfmiI/hqdefault.jpg
+  title: 'LS DYNA Tutorial: Model Editing'
+  url: https://www.youtube.com/watch?v=JBKhEupfmiI
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3509
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23LSTC
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23ANSYS
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23Workbench
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23AIM
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23LSDYNA
 source: vk
 tags:
-  - ANSYS
-  - LSTC
-  - Workbench
-  - AIM
-  - LSDYNA
-  - LSPP
+- ANSYS
+- LSTC
+- Workbench
+- AIM
+- LSDYNA
+- LSPP
+title: '#LSTC LS-PrePost (#LSPP) очень странный продукт. Это бесплатный пер/постпроцессор,
+  который, на первый взгляд, стране как ядерная война. По красоте он может соперничать
+  с ANSYS MAPDL "Classiс". Человек, привыкший к работе в #ANSYS #Workbench или #AIM
+  скорее всего убежит из этого пре/постпроцессора. А зря!'
 ---
 
 Ведь LSPP обладает рядом особенностей, за которые со временем вы его полюбите (типа "Стокгольмский синдром"):

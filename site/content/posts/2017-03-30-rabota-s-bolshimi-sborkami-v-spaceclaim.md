@@ -9,10 +9,6 @@ link_previews:
   image: https://i.ytimg.com/vi/o95pjExmhMo/maxresdefault.jpg
   title: SpaceClaim Working with Large Assemblies
   url: https://www.youtube.com/watch?v=o95pjExmhMo
-- description: ''
-  image: ''
-  title: ''
-  url: https://vimeo.com/177550413
 source: vk
 tags:
 - SpaceClaim

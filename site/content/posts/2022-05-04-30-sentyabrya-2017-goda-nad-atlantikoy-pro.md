@@ -1,17 +1,22 @@
 ---
+author: MagicDPD
+date: 2022-05-04 17:00:23+00:00
+images:
+- url: /assets/images/2241.jpg
+- url: /assets/images/2242.jpg
 layout: post
-title: "30 сентября 2017 года над Атлантикой произошла авиационная авария."
-date: 2022-05-04T17:00:23+00:00
-author: "MagicDPD"
+link_previews:
+- description: ''
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Airbus_A380-800_Air_France_%28AFR%29_F-HPJE_-_MSN_052_%289270323641%29.jpg/1280px-Airbus_A380-800_Air_France_%28AFR%29_F-HPJE_-_MSN_052_%289270323641%29.jpg
+  title: Инцидент с A380 над Атлантикой — Википедия
+  url: https://ru.wikipedia.org/wiki/Рейс_066_Air_France
 source: vk
 tags:
-  - Airbus
-  - Ansys
-  - AirFrance
-  - LSDYNA
-images:
-  - url: "/assets/images/2241.jpg"
-  - url: "/assets/images/2242.jpg"
+- Airbus
+- Ansys
+- AirFrance
+- LSDYNA
+title: 30 сентября 2017 года над Атлантикой произошла авиационная авария.
 ---
 
 Авиалайнер #Airbus A380-861 авиакомпании #AirFrance выполнял регулярный межконтинентальный рейс AF066 по маршруту Париж—Лос-Анджелес, но через 3 часа и 59 минут после взлёта у него произошел неконтролируемый отказ и разрушение двигателя №4 на правом крыле (оторвались ступица вентилятора и воздухозаборник); его обломки рухнули на территории Гренландии. Через 2 часа и 7 минут после отказа двигателя самолёт совершил аварийную посадку в Хаппи-Валли-Гуз-Бее (Канада), никто из находившихся на его борту 521 человека (497 пассажиров и 24 члена экипажа) не погиб и не пострадал.

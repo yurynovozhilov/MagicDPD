@@ -12,14 +12,16 @@ link_previews:
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2vVUTKe
+  url: https://m.vk.com/feed?section=search&q=%23padtinc
 source: vk
 tags:
 - CFD
 - Fluent
 - padtinc
 - ANSYS
-title: "Продолжая тему вебинаров - #padtinc 20-ого сентября приглашают всех желающих на вебинар, по #ANSYS #Fluent 18.2. Девиз вебинара \"Superior CFD Requires Superior Software\""
+title: 'Продолжая тему вебинаров - #padtinc 20-ого сентября приглашают всех желающих
+  на вебинар, по #ANSYS #Fluent 18.2. Девиз вебинара "Superior CFD Requires Superior
+  Software"'
 ---
 
 #CFD

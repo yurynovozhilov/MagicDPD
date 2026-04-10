@@ -3,17 +3,17 @@ author: GlukRazor
 date: 2016-12-26 09:10:13+00:00
 layout: post
 link_previews:
-- description: Discover ready-to-use Ansys and third-party apps to streamline simulation
-    workflows in the Ansys App Catalog. Boost productivity and innovation.
-  image: ''
-  title: Ansys App Catalog | Ansys Developer Portal
-  url: https://appstore.ansys.com/shop/ACTApps_act
 - description: The Jupyter Notebook is a web-based interactive computing platform.
     The notebook combines live code, equations, narrative text, visualizations, interactive
     dashboards and other media.
   image: https://jupyter.org/assets/share.png
   title: Project Jupyter
   url: http://jupyter.org
+- description: Discover ready-to-use Ansys and third-party apps to streamline simulation
+    workflows in the Ansys App Catalog. Boost productivity and innovation.
+  image: ''
+  title: Ansys App Catalog | Ansys Developer Portal
+  url: https://appstore.ansys.com/shop/ACTApps_act
 source: vk
 tags:
 - ANSYS

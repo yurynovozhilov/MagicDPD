@@ -1,16 +1,51 @@
 ---
+author: GlukRazor
+date: 2017-11-11 17:04:13+00:00
 layout: post
-title: "Видео урок по моделированию воздействия ударной волны на тело человека."
-date: 2017-11-11T17:04:13+00:00
-author: "GlukRazor"
+link_previews:
+- description: LS-DYNA tutorial | SPH method for Simulating Blast Effect on Torso
+    | BW Engineering | 17-30* General description of Human Torso Model https://www.youtube.com...
+  image: https://i.ytimg.com/vi/gwHJNFJBAu8/maxresdefault.jpg
+  title: LS-DYNA tutorial | SPH method for Simulating Blast Effect on Torso | BW Engineering
+    | 17-30
+  url: https://www.youtube.com/watch?v=gwHJNFJBAu8
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3672
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23LSTC
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23ALE
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23SPH
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23LSDYNA
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23JWL
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23blast
 source: vk
 tags:
-  - JWL
-  - LSTC
-  - LSDYNA
-  - ALE
-  - blast
-  - SPH
+- JWL
+- LSTC
+- LSDYNA
+- ALE
+- blast
+- SPH
+title: Видео урок по моделированию воздействия ударной волны на тело человека.
 ---
 
 Коллеги из #LSTC взяли имеющуюся у них модель тела человека, а вот взрывчатку смоделировали не в традиционной #ALE постановке, а в #SPH.

@@ -1,11 +1,17 @@
 ---
+author: MagicDPD
+date: 2021-07-02 13:02:24+00:00
 layout: post
-title: "Баллистический анализ выстрела в Джона Ф."
-date: 2021-07-02T13:02:24+00:00
-author: "MagicDPD"
+link_previews:
+- description: ''
+  image: ''
+  title: "Computational ballistic analysis of the cranial shot to John F. Kennedy\n\t\t\t\t\t\t\t|
+    Engineering Archive"
+  url: https://engrxiv.org/tncy5/
 source: vk
 tags:
-  - lsdyna
+- lsdyna
+title: Баллистический анализ выстрела в Джона Ф.
 ---
 
 Кеннеди в LS-DYNA

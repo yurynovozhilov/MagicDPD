@@ -8,7 +8,7 @@ link_previews:
     CF...
   image: https://i.ytimg.com/vi/bFG8_q5IYKw/maxresdefault.jpg
   title: 'WEBINAR: What You Need to Know about Gas Turbine Relight'
-  url: https://www.youtube.com/watch?v=bFG8_q5IYKw&t=0s
+  url: https://www.youtube.com/watch?v=bFG8_q5IYKw
 source: vk
 tags:
 - CFD

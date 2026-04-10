@@ -1,14 +1,39 @@
 ---
+author: MagicDPD
+date: 2021-09-02 13:03:20+00:00
 layout: post
-title: "Mathpix Snip"
-date: 2021-09-02T13:03:20+00:00
-author: "MagicDPD"
+link_previews:
+- description: A short demo of how to use the Mac Snip app to extract an equation
+    from a PDF and use the resulting LaTeX to display the equation in a markdown document.
+    Get...
+  image: https://i.ytimg.com/vi/j5iryTEJPsE/maxresdefault.jpg
+  title: How to extract an equation from a PDF using Mathpix Snip
+  url: https://www.youtube.com/watch?v=j5iryTEJPsE
+- description: A couple of brief examples of how you can use Snip on a tablet with
+    stylus support to draw equations and text and convert it to LaTeX instantly, then
+    sync th...
+  image: https://i.ytimg.com/vi/l5tmUR_j7R8/hqdefault.jpg
+  title: How to draw equations and convert them instantly to LaTeX - Mathpix Snip
+    on Android tablet
+  url: https://www.youtube.com/watch?v=l5tmUR_j7R8
+- description: Use Snip to take screenshots of chemical diagrams to get the SMILES
+    code, which can then be easily pasted into ChemDraw. No need to create chemical
+    diagrams ...
+  image: https://i.ytimg.com/vi/pVOhGFBkXXI/hqdefault.jpg
+  title: Digitize chemical diagrams for ChemDraw using Mathpix Snip
+  url: https://www.youtube.com/watch?v=pVOhGFBkXXI
+- description: Convert images and PDFs to LaTeX, DOCX, Overleaf, Markdown, Excel,
+    ChemDraw and more, with our AI-powered document conversion technology.
+  image: http://mathpix.com/images/social/general-ss.webp
+  title: 'Mathpix: document conversion done right.'
+  url: https://mathpix.com/
 source: vk
 tags:
-  - latex
-  - word
-  - chemdraw
-  - mathpix
+- latex
+- word
+- chemdraw
+- mathpix
+title: Mathpix Snip
 ---
 
 Мне на глаза попалось очень полезное приложение для ускорения оформления научных статей, да и просто хороших технически отчетов.

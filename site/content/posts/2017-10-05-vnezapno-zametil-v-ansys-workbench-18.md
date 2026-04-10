@@ -1,13 +1,32 @@
 ---
+author: GlukRazor
+date: 2017-10-05 08:07:18+00:00
 layout: post
-title: "Внезапно заметил в #ANSYS #Workbench 18.2 при включенных beta опциях новую недокументированную фишку - #ACT Workflow Designer. Есть идеи, как она будет работать, когда будет работать?"
-date: 2017-10-05T08:07:18+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3447
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23Workbench
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23ANSYS
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23ACT
 source: vk
 tags:
-  - ACT
-  - Workbench
-  - ANSYS
+- ACT
+- Workbench
+- ANSYS
+title: 'Внезапно заметил в #ANSYS #Workbench 18.2 при включенных beta опциях новую
+  недокументированную фишку - #ACT Workflow Designer. Есть идеи, как она будет работать,
+  когда будет работать?'
 ---
 
 MediaMedia

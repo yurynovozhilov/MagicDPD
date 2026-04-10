@@ -1,14 +1,20 @@
 ---
+author: GlukRazor
+date: 2018-01-31 17:01:06+00:00
+images:
+- url: /assets/images/759.jpg
 layout: post
-title: "Делаем 27-ми узловые элементы в LS-PrePost"
-date: 2018-01-31T17:01:06+00:00
-author: "GlukRazor"
+link_previews:
+- description: LS-DYNA now provide the high order element (H27) both for explicit
+    and implicit method. This video show the way to generate the H27 element in LS-PrePost
+  image: https://i.ytimg.com/vi/0U1rkt8MX6M/hqdefault.jpg
+  title: How to generate the H27
+  url: https://www.youtube.com/watch?v=0U1rkt8MX6M
 source: vk
 tags:
-  - LS
-  - H8TOH27
-images:
-  - url: "/assets/images/759.jpg"
+- LS
+- H8TOH27
+title: Делаем 27-ми узловые элементы в LS-PrePost
 ---
 
 Малюсенький видеоурок, показывающий как построить 27 узловые Solid элементы в LS-PrePost для дальнейшего расчета в LS-DYNA.

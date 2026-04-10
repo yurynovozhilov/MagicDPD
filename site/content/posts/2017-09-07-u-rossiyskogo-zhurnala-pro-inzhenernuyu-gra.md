@@ -10,12 +10,13 @@ link_previews:
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2vOx2fm
+  url: https://m.vk.com/feed?section=search&q=%23isicad
 source: vk
 tags:
 - isicad
 - Telegram
-title: "У Российского журнала про инженерную графику и системы проектирования #isicad появился свой Telegram канал https://t.me/isicad и это здорово."
+title: 'У Российского журнала про инженерную графику и системы проектирования #isicad
+  появился свой Telegram канал https://t.me/isicad и это здорово.'
 ---
 
 Не здорово, что, по моим ощущениям, мало конструкторов пользуется #Telegram

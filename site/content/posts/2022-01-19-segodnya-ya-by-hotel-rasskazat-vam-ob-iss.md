@@ -1,20 +1,36 @@
 ---
+author: MagicDPD
+date: 2022-01-19 17:00:09+00:00
+images:
+- url: /assets/images/2087.jpg
+- url: /assets/images/2088.jpg
+- url: /assets/images/2089.jpg
+- url: /assets/images/2090.jpg
 layout: post
-title: "Сегодня я бы хотел рассказать вам об исследовании процесса разрушения ледника."
-date: 2022-01-19T17:00:09+00:00
-author: "MagicDPD"
+link_previews:
+- description: 'Nature Open Access Link: https://www.nature.com/articles/s43247-021-00179-7Project
+    Page: https://joshuahwolper.com/glacierAbstract: Glaciers calving icebergs...'
+  image: https://i.ytimg.com/vi/7IC_ehdH7ZM/maxresdefault.jpg
+  title: A Glacier-Ocean Interaction Model for Tsunami Genesis Due to Iceberg Calving
+    [Nature Comms. E & E]
+  url: https://www.youtube.com/watch?v=7IC_ehdH7ZM
+- description: 'Joshuah Wolper, Ming Gao, Martin P. Lüthi, Valentin Heller, Andreas
+    Vieli, Chenfanfu Jiang, and Johan Gaume
+
+    Nature Communications Earth and Environment, 2021
+
+    Large-Scale 3D Glacier:  We simulate a...'
+  image: https://64.media.tumblr.com/7d400eb931d025043242b9e59d2569ae/tumblr_inline_qv2ao3HDKC1qd8eml_540.png
+  title: A Glacier–Ocean Interaction Model for Tsunami Genesis Due to Iceberg Calving
+  url: https://joshuahwolper.com/glacier
 source: vk
 tags:
-  - ice
-  - MPM
-  - meshless
-  - fragmentation
-  - FSI
-images:
-  - url: "/assets/images/2087.jpg"
-  - url: "/assets/images/2088.jpg"
-  - url: "/assets/images/2089.jpg"
-  - url: "/assets/images/2090.jpg"
+- ice
+- MPM
+- meshless
+- fragmentation
+- FSI
+title: Сегодня я бы хотел рассказать вам об исследовании процесса разрушения ледника.
 ---
 
 Исследование данного процесса - это очередной проект Джошуа Вольпера  (Joshuah Wolper) из Пенсильванского университета. Его работы уже мелькали у меня (например задач о выпечке хлеба :-)).

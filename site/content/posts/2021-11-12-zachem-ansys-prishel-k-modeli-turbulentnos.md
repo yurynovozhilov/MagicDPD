@@ -1,9 +1,16 @@
 ---
+author: MagicDPD
+date: 2021-11-12 14:15:58+00:00
 layout: post
-title: "Зачем Ansys пришел к модели турбулентности GEKO"
-date: 2021-11-12T14:15:58+00:00
-author: "MagicDPD"
+link_previews:
+- description: A direct numerical simulation (DNS) of the turbulent flow around a
+    square cylinder at Reynolds number 22000 (based on the diameter  of the cylinder,
+    D, and t...
+  image: https://i.ytimg.com/vi/c8zKWaxohng/hqdefault.jpg
+  title: DNS of the turbulent flow around a square cylinder at Re=22000
+  url: https://www.youtube.com/watch?v=c8zKWaxohng
 source: vk
+title: Зачем Ansys пришел к модели турбулентности GEKO
 ---
 
 https://youtu.be/c8zKWaxohng

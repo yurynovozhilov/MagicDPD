@@ -1,13 +1,22 @@
 ---
+author: GlukRazor
+date: 2021-01-15 13:24:37+00:00
 layout: post
-title: "Семинар: SPH для задач FSI"
-date: 2021-01-15T13:24:37+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Global Seminars | SPHERIC
+  url: https://spheric-sph.org/global-seminars
+- description: ''
+  image: ''
+  title: Global Seminars | SPHERIC
+  url: https://www.spheric-sph.org/global-seminars
 source: vk
 tags:
-  - fsi
-  - sph
-  - spheric
+- fsi
+- sph
+- spheric
+title: 'Семинар: SPH для задач FSI'
 ---
 
 У нас тут анонс нового семинара от SPHeric по моделированию взаимодействия SPH "жидкостей" и твердых тел (деформируемых и не деформируемых), а также сыпучих сред. Докладывать будет Мубинь Лю является профессором Инженерного колледжа Пекинского университета, Китай. Области его интересов включают вычислительную гидродинамику и вычислительные взаимодействия жидкостной твердых тел с использованием методов, основанных на частицах, включая SPH, и подходы к связке сеточных и бессеточных методов, включая SPH-FEM, DEM-CFD и др.

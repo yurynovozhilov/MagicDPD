@@ -1,13 +1,30 @@
 ---
+author: GlukRazor
+date: 2017-12-03 17:13:20+00:00
 layout: post
-title: "Моделирования распылительных установок в #ANSYS #Fluent"
-date: 2017-12-03T17:13:20+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3800
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23ANSYS
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23Fluent
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23CFD
 source: vk
 tags:
-  - CFD
-  - Fluent
-  - ANSYS
+- CFD
+- Fluent
+- ANSYS
+title: 'Моделирования распылительных установок в #ANSYS #Fluent'
 ---
 
 #CFD

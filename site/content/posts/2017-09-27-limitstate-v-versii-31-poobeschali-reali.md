@@ -1,14 +1,20 @@
 ---
+author: GlukRazor
+date: 2017-09-27 17:10:41+00:00
 layout: post
-title: "#LimitState в версии 3.1 пообещали реализовать интеграцию с #ANSYS #Discovery Live для проверки получаемых в их программном обеспечении облегченных меренных конструкций."
-date: 2017-09-27T17:10:41+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23LimitState
 source: vk
 tags:
-  - Discovery
-  - Mechanical
-  - LimitState
-  - ANSYS
+- Discovery
+- Mechanical
+- LimitState
+- ANSYS
+title: '#LimitState в версии 3.1 пообещали реализовать интеграцию с #ANSYS #Discovery
+  Live для проверки получаемых в их программном обеспечении облегченных меренных конструкций.'
 ---
 
 Таки образом, если сейчас проверка конструкции осуществляется классическим решателем #ANSYS #Mechanical, то скоро она будет производится налету в Discovery. Вот будет интересно, когда кто-то полноценный код топологической оптимизации к Discovery прикрутит.

@@ -1,16 +1,21 @@
 ---
+author: GlukRazor
+date: 2019-08-30 13:00:14+00:00
 layout: post
-title: "Начинаем изучать MoFEM"
-date: 2019-08-30T13:00:14+00:00
-author: "GlukRazor"
+link_previews:
+- description: Open and Free Finite Element Code (License MiT)
+  image: https://pbs.twimg.com/profile_images/736482736974757888/w7w7PN9U_200x200.jpg
+  title: MoFEM / @mofem@fosstodon.org (@mofemjoseph) on X
+  url: https://twitter.com/mofemjoseph
 source: vk
 tags:
-  - CUBIT
-  - crack
-  - Paraview
-  - Open_Source
-  - fracture
-  - MoFEM
+- CUBIT
+- crack
+- Paraview
+- Open_Source
+- fracture
+- MoFEM
+title: Начинаем изучать MoFEM
 ---
 
 Давайте попробуем посмотреть, что нам предлагает открытый FEM код от Университета Глазго под названием MoFEM. Судя по твиттеру (https://twitter.com/mofemjoseph), они занимаются чем-то очень перспективным — например, отлично моделируют динамику роста трещин.
@@ -36,4 +41,3 @@ https://wp.me/p9vWYY-2EZ
 [MoFEM / @mofem@fosstodon.org (@mofemjoseph) on X](https://twitter.com/mofemjoseph)
 ic.twitter.com/SolWDVu8Lv— 
 ttps://wp.me/p9vWYY-2EZ
-

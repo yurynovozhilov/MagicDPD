@@ -1,17 +1,27 @@
 ---
+author: MagicDPD
+date: 2022-04-11 17:00:08+00:00
+images:
+- url: /assets/images/2210.jpg
 layout: post
-title: "Компания #Siemens анонсировала начало многолетнего с #Pasqal для исследования возможности использования квантовых компьютеров при решении классических междисциплинарных задач математического моделирования физических процессов."
-date: 2022-04-11T17:00:08+00:00
-author: "MagicDPD"
+link_previews:
+- description: Pasqal has recently announced a multi-year research collaboration with
+    Siemens Digital Industries Software to advance the field of quantum computational
+    multiphysics simulation
+  image: ''
+  title: Siemens collaborates with Pasqal to research quantum applications | Scientific
+    Computing World
+  url: https://www.scientific-computing.com/news/siemens-collaborates-pasqal-research-quantum-applications
 source: vk
 tags:
-  - HPC
-  - Pasqal
-  - quantumcomputing
-  - CAE
-  - Siemens
-images:
-  - url: "/assets/images/2210.jpg"
+- HPC
+- Pasqal
+- quantumcomputing
+- CAE
+- Siemens
+title: 'Компания #Siemens анонсировала начало многолетнего с #Pasqal для исследования
+  возможности использования квантовых компьютеров при решении классических междисциплинарных
+  задач математического моделирования физических процессов.'
 ---
 
 Запатентованные Pasqal квантовые методы используются для решения сложных нелинейных дифференциальных уравнений и могут быть применены для повышения производительности программных решений Siemens, которые используются для автоматизированного проектирования и тестирования продукции, в том числе в автомобильной промышленности.

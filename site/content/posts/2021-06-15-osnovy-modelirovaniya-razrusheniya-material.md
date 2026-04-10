@@ -1,15 +1,21 @@
 ---
+author: MagicDPD
+date: 2021-06-15 16:02:15+00:00
 layout: post
-title: "Основы моделирования разрушения материала при обработке металла давлением"
-date: 2021-06-15T16:02:15+00:00
-author: "MagicDPD"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: https://i.ytimg.com/vi/w7u_tyqZwwg/hqdefault.jpg
+  title: Basics of Material Failure in Metal Forming Simulation
+  url: https://www.youtube.com/watch?v=w7u_tyqZwwg
 source: vk
 tags:
-  - nakajima_test
-  - fld
-  - forming
-  - ls
-  - ansys
+- nakajima_test
+- fld
+- forming
+- ls
+- ansys
+title: Основы моделирования разрушения материала при обработке металла давлением
 ---
 
 https://www.youtube.com/watch?v=w7u_tyqZwwg

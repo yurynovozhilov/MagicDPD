@@ -8,13 +8,13 @@ link_previews:
     to be...
   image: https://i.ytimg.com/vi/P-zJAuAjzUU/hqdefault.jpg
   title: CONVERGE CFD—A Winning Strategy
-  url: http://www.youtube.com/watch?v=P-zJAuAjzUU
+  url: https://www.youtube.com/watch?v=P-zJAuAjzUU
 source: vk
 tags:
 - CONVERGE
 - CFD
 - IC
-title: "История успеха CONVERGE CFD в кольцевых гонках."
+title: История успеха CONVERGE CFD в кольцевых гонках.
 ---
 
 Код CONVERGE CFD позиционирует себя как гидро-газодинамический код с расширенными возможностями по моделированию горения (двигатели внутреннего сгорания, реактивные двигатели). Кроме того, в коде присутствую инструменты для подготовки геометрии и автоматизированному построению сетки.

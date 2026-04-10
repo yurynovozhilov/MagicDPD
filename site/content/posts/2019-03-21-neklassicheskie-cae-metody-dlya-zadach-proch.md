@@ -1,11 +1,16 @@
 ---
-layout: post
-title: "Неклассические CAE методы для задач прочности"
-date: 2019-03-21T17:00:17+00:00
-author: "GlukRazor"
-source: vk
+author: GlukRazor
+date: 2019-03-21 17:00:17+00:00
 images:
-  - url: "/assets/images/1408.jpg"
+- url: /assets/images/1408.jpg
+layout: post
+link_previews:
+- description: Is there a future for meshless methods in mainstream analysis?.
+  image: https://www.digitalengineering247.com/images/article/Figure_1_stress_check_max_prin_stress_600.jpg
+  title: Meshless FEA Opportunities - Digital Engineering 24/7
+  url: https://www.digitalengineering247.com/article/meshless-fea-opportunities
+source: vk
+title: Неклассические CAE методы для задач прочности
 ---
 
 Интересная обзорная статья, рассказывающая о том, что ждет FEA эксперта за пределами FEA мира и куда пытаются двигаться современные численные методы.

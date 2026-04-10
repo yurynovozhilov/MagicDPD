@@ -2,11 +2,6 @@
 author: GlukRazor
 date: 2016-12-13 17:01:41+00:00
 layout: post
-link_previews:
-- description: ''
-  image: ''
-  title: ''
-  url: http://ro.uow.edu.au/engpapers/357
 source: vk
 tags:
 - CONWEP

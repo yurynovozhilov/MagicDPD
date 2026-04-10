@@ -1,15 +1,24 @@
 ---
+author: GlukRazor
+date: 2018-07-13 18:00:22+00:00
+images:
+- url: /assets/images/1012.jpg
 layout: post
-title: "Виртуальная аэродинамическая труба AirShaper"
-date: 2018-07-13T18:00:22+00:00
-author: "GlukRazor"
+link_previews:
+- description: 'A Belgian start-up is looking to enable designers of all levels to
+    access complex CFD simulation information for their designs with the launch of
+    a virtual wind tunnel operated by an expert on a pay per simulation set-up. AirShaper
+    allows users to analyse and improve the aerodynamics of a 3D model in three steps:
+    users'
+  image: https://develop3d.com/wp-content/uploads/2019/11/airshaper.jpg
+  title: AirShaper launches pay per simulation virtual wind tunnel
+  url: https://www.develop3d.com/blog/2018/06/airshaper-launches-pay-per-simulation-virtual-wind-tunnel-cfd
 source: vk
 tags:
-  - AirShaper
-  - CFD
-  - Cloud
-images:
-  - url: "/assets/images/1012.jpg"
+- AirShaper
+- CFD
+- Cloud
+title: Виртуальная аэродинамическая труба AirShaper
 ---
 
 Компания AirShaper предлагает всем желающим произвести испытания их моделей в виртуальной аэродинамической трубе. При этом стоимость расчета начинается всего от 200 евро. Интересно тут пара моментов.

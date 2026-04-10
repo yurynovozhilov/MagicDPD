@@ -8,11 +8,6 @@ link_previews:
   image: https://i.ytimg.com/vi/RT3W25T_wGg/maxresdefault.jpg
   title: Shapr3D 2.0 is here
   url: https://www.youtube.com/watch?v=RT3W25T_wGg
-- description: Enjoy the videos and music you love, upload original content, and share
-    it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
-  url: https://www.youtube.com/watch?v=OFsbZikomSA
 source: vk
 tags:
 - CAD

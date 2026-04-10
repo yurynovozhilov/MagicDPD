@@ -8,35 +8,36 @@ link_previews:
     inte...
   image: https://i.ytimg.com/vi/lSZXAcrX1YQ/maxresdefault.jpg
   title: CONVERGE CFD Simulates Sandia Flame D
-  url: "https://youtu.be/lSZXAcrX1YQMedia\U0001F4FC"
-- description: ''
-  image: ''
-  title: VK.com | VK
-  url: http://ift.tt/2wJooym
-- description: ''
-  image: ''
-  title: VK.com | VK
-  url: http://ift.tt/2wKabBj
-- description: ''
-  image: ''
-  title: VK.com | VK
-  url: http://ift.tt/2v2FNSC
-- description: ''
-  image: ''
-  title: VK.com | VK
-  url: http://ift.tt/2wKrrGC
+  url: "https://www.youtube.com/watch?v=lSZXAcrX1YQMedia\U0001F4FC"
 - description: With sufficient grid resolution, the SAGE detailed chemistry solver
     can resolve flame structures with no further correction for the turbulence-chemistry
     inte...
   image: https://i.ytimg.com/vi/lSZXAcrX1YQ/maxresdefault.jpg
   title: CONVERGE CFD Simulates Sandia Flame D
-  url: https://youtu.be/lSZXAcrX1YQ
+  url: https://www.youtube.com/watch?v=lSZXAcrX1YQ
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3137
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23CONVERGE
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23CFD
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23SAGE
 source: vk
 tags:
 - SAGE
 - CFD
 - CONVERGE
-title: "Пример расчета столба пламени в #CONVERGE #CFD с применением химического решателя #SAGE"
+title: 'Пример расчета столба пламени в #CONVERGE #CFD с применением химического решателя
+  #SAGE'
 ---
 
 https://youtu.be/lSZXAcrX1YQMedia📼 CONVERGE CFD Simulates Sandia Flame D

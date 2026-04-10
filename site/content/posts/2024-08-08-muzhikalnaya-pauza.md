@@ -1,9 +1,14 @@
 ---
+author: Yury Novozhilov
+date: 2024-08-08 12:00:57+00:00
 layout: post
-title: "МуЖикальная пауза"
-date: 2024-08-08T12:00:57+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: ''
+  image: ''
+  title: Modal Analysis of an Electric Guitar
+  url: https://www.acs.psu.edu/drussell/guitars/electric.html
 source: vk
+title: МуЖикальная пауза
 ---
 
 Dr. Dan Russell and Paul Pedersen, Modal Analysis of an Electric Guitar, Applied Physics, Kettering University

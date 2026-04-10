@@ -1,9 +1,18 @@
 ---
+author: GlukRazor
+date: 2017-10-23 17:59:44+00:00
 layout: post
-title: "Небольшая новая статейка о пробивании композитных баллонов давления:"
-date: 2017-10-23T17:59:44+00:00
-author: "GlukRazor"
+link_previews:
+- description: Page not found
+  image: ''
+  title: IFTTT / 404 Error
+  url: https://ifttt.com/404
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3559
 source: vk
+title: 'Небольшая новая статейка о пробивании композитных баллонов давления:'
 ---
 
 A. Cherniaev, I. Telichev. "Introducing manufacturing features into numerical modeling of hypervelocity impact damage of composite pressure vessels" - Procedia Engineering, 2017

@@ -1,11 +1,18 @@
 ---
-layout: post
-title: "Создание и анализ решетчатых структур в MATLAB: инструмент LatticeWorks"
-date: 2025-02-21T13:37:50+00:00
-author: "Yury Novozhilov"
-source: vk
+author: Yury Novozhilov
+date: 2025-02-21 13:37:50+00:00
 images:
-  - url: "/assets/images/2887.jpg"
+- url: /assets/images/2887.jpg
+layout: post
+link_previews:
+- description: A MATLAB toolbox for functionally graded lattice generation, in different
+    configurations. - mahtab-vafaee/LatticeWorks
+  image: https://opengraph.githubassets.com/6f4659c8ba0c609e315732ee05605401309c3c3083733e811a9ffb6281d7bc2a/mahtab-vafaee/LatticeWorks
+  title: 'GitHub - mahtab-vafaee/LatticeWorks: A MATLAB toolbox for functionally graded
+    lattice generation, in different configurations.'
+  url: https://github.com/mahtab-vafaee/LatticeWorks
+source: vk
+title: 'Создание и анализ решетчатых структур в MATLAB: инструмент LatticeWorks'
 ---
 
 LatticeWorks — это MATLAB-инструмент для создания и настройки решетчатых структур, включая многоморфные решетки и структуры в различных координатных системах.

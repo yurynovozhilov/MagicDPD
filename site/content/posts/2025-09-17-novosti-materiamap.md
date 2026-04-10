@@ -1,9 +1,14 @@
 ---
+author: Yury Novozhilov
+date: 2025-09-17 15:19:19+00:00
 layout: post
-title: "Новости MateriaMap"
-date: 2025-09-17T15:19:19+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: ''
+  image: ''
+  title: Piecewise Linear Plasticity Calculator
+  url: https://materialmap.github.io/piecewise_linear_plasticity_calculator.html
 source: vk
+title: Новости MateriaMap
 ---
 
 Наиболее часто используемая модель материала в LS-DYNA — *MAT_PIECEWISE_LINEAR_PLASTICITY / *MAT_024. Хотя решатель поддерживает более 300 различных моделей, мы все предпочитаем использовать MAT_024 в качестве первого приближения при выполнении PoC. Во время двухнедельного отпуска я создал новый калькулятор кусочно-линейной пластичности, который заменил калькулятор закона Свифта в моем проекте MaterialMap.

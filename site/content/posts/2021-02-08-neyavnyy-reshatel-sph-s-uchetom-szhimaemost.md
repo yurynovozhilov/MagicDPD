@@ -1,15 +1,26 @@
 ---
+author: MagicDPD
+date: 2021-02-08 09:41:40+00:00
 layout: post
-title: "Неявный решатель SPH с учетом сжимаемости для моделирования снега"
-date: 2021-02-08T09:41:40+00:00
-author: "MagicDPD"
+link_previews:
+- description: "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambdalabs.com/papers\U0001F4DD
+    The paper \"An Implicit Compressible SPH Solver for Snow Simulation\"..."
+  image: https://i.ytimg.com/vi/JSNE_PIG1UQ/maxresdefault.jpg
+  title: 7 Years of Progress In Snow Simulation! ❄️
+  url: https://www.youtube.com/watch?v=JSNE_PIG1UQ
+- description: "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambdalabs.com/papers\U0001F4DD
+    The paper \"An Implicit Compressible SPH Solver for Snow Simulation\"..."
+  image: https://i.ytimg.com/vi/JSNE_PIG1UQ/maxresdefault.jpg
+  title: 7 Years of Progress In Snow Simulation! ❄️
+  url: https://www.youtube.com/watch?v=JSNE_PIG1UQ
 source: vk
 tags:
-  - sph
-  - snow
-  - fifty2
-  - siggraph
-  - preonlab
+- sph
+- snow
+- fifty2
+- siggraph
+- preonlab
+title: Неявный решатель SPH с учетом сжимаемости для моделирования снега
 ---
 
 https://www.youtube.com/watch?v=JSNE_PIG1UQ&feature=share

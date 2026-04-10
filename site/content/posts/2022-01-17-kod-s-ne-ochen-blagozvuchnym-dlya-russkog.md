@@ -1,22 +1,28 @@
 ---
+author: MagicDPD
+date: 2022-01-17 13:01:04+00:00
+images:
+- url: /assets/images/2083.jpg
+- url: /assets/images/2084.jpg
+- url: /assets/images/2085.jpg
 layout: post
-title: "Код, с не очень благозвучным для русского уха названием, #ACS #SASSI разрабатывается компанией Ghiocel Predictive Technologies и  поддерживается компанией MATRISEB."
-date: 2022-01-17T13:01:04+00:00
-author: "MagicDPD"
+link_previews:
+- description: Description
+  image: https://i.ytimg.com/vi/PbtyNCLo6z0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHCBoAC0AWKAgwIABABGGUgVihUMA8=&rs=AOn4CLBeir25BSZm4xZYmfsz3j2JPFjivQ
+  title: Nuclear Standard Plant Seismic Response Animation
+  url: https://www.youtube.com/watch?v=PbtyNCLo6z0
 source: vk
 tags:
-  - SSI
-  - SMiRT
-  - APDL
-  - SASSI
-  - ACS
-  - MATRiSEB
-  - Ansys
-  - GhiocelPredictiveTechnologies
-images:
-  - url: "/assets/images/2083.jpg"
-  - url: "/assets/images/2084.jpg"
-  - url: "/assets/images/2085.jpg"
+- SSI
+- SMiRT
+- APDL
+- SASSI
+- ACS
+- MATRiSEB
+- Ansys
+- GhiocelPredictiveTechnologies
+title: 'Код, с не очень благозвучным для русского уха названием, #ACS #SASSI разрабатывается
+  компанией Ghiocel Predictive Technologies и  поддерживается компанией MATRISEB.'
 ---
 
 Код является, своего рода, стандартом для решения задач #SSI (soil structure interraction) при моделировании сейсмических воздействий на важные здания. Код сопрягается с #Ansys #APDL для полномасштабного моделирования строительных конструкций.

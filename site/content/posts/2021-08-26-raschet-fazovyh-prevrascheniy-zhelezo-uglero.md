@@ -1,15 +1,22 @@
 ---
+author: MagicDPD
+date: 2021-08-26 14:01:31+00:00
 layout: post
-title: "Расчет фазовых превращений железо-углеродистых сплавов в LS-DYNA"
-date: 2021-08-26T14:01:31+00:00
-author: "MagicDPD"
+link_previews:
+- description: 'Speaker: Thomas Klöppel and Mathias Merten (DYNAmore GmbH)This webinar
+    briefly introduces the material law *MAT_254 for thermal-mechanical coupled simulation...'
+  image: https://i.ytimg.com/vi/YTSaESOYR9g/maxresdefault.jpg
+  title: 'DYNAmore Express: Transferring phase transformation data from MAT 244 to
+    MAT 254'
+  url: https://www.youtube.com/watch?v=YTSaESOYR9g
 source: vk
 tags:
-  - mat_generalized_phase_change
-  - lsdyna
-  - ansys
-  - dynamore
-  - mat_uhs_steel
+- mat_generalized_phase_change
+- lsdyna
+- ansys
+- dynamore
+- mat_uhs_steel
+title: Расчет фазовых превращений железо-углеродистых сплавов в LS-DYNA
 ---
 
 https://www.youtube.com/watch?v=YTSaESOYR9g

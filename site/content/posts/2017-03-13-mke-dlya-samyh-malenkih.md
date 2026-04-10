@@ -5,8 +5,8 @@ layout: post
 link_previews:
 - description: Enjoy the videos and music you love, upload original content, and share
     it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
+  image: https://i.ytimg.com/vi/nAQ8p1VWn0I/hqdefault.jpg
+  title: 'Ansys: Метод Конечных Элементов для "чайников"'
   url: https://www.youtube.com/watch?v=nAQ8p1VWn0I
 source: vk
 tags:

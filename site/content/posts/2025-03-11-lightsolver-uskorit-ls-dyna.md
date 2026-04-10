@@ -1,9 +1,16 @@
 ---
+author: Yury Novozhilov
+date: 2025-03-11 12:24:35+00:00
 layout: post
-title: "LightSolver ускорит LS-DYNA?"
-date: 2025-03-11T12:24:35+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: 'TEL AVIV – February 11, 2025 – LightSolver, inventors of a new laser-based
+    computing paradigm, today announced a partnership with Ansys (NASDAQ: ANSS), a
+    - Read more from Inside HPC & AI News.'
+  image: https://insidehpc.com/wp-content/uploads/2024/01/Ansys-logo-2-1.png
+  title: Laser-Based LightSolver Partners With Ansys on CAE
+  url: https://insidehpc.com/2025/02/laser-based-lightsolver-partners-with-ansys-on-cae/
 source: vk
+title: LightSolver ускорит LS-DYNA?
 ---
 
 В этой новости "прекрасно" все. Следим за руками: Ansys инвестирует в технологии, разрабатываемые французским стартапом LightSolver. Данные технологии позволят ускорять процессы расчеты в LS-DYNA путем в части факторизации и инвертирования матриц.

@@ -1,11 +1,23 @@
 ---
-layout: post
-title: "Друзья, открыта вакансия на PhD студента в Лабораторию интеллектуальных систем и конструкций (Laboratory for intelligent systems and structures, самодиагностирующие конструкции) в New Mexico Tech (США)."
-date: 2023-12-25T15:01:06+00:00
-author: "Yury Novozhilov"
-source: vk
+author: Yury Novozhilov
+date: 2023-12-25 15:01:06+00:00
 images:
-  - url: "/assets/images/2606.jpg"
+- url: /assets/images/2606.jpg
+layout: post
+link_previews:
+- description: FEA simulation dealer / Composites
+  image: https://telegram.org/img/t_logo_2x.png
+  title: Yan Pozhanka
+  url: https://t.me/pozhanka
+- description: English language requirements and opportunities for Graduate Students
+    at New Mexico Tech
+  image: ''
+  title: 'English Language Requirements: New Mexico Tech'
+  url: https://www.nmt.edu/gradstudies/EnglishReqs.php
+source: vk
+title: Друзья, открыта вакансия на PhD студента в Лабораторию интеллектуальных систем
+  и конструкций (Laboratory for intelligent systems and structures, самодиагностирующие
+  конструкции) в New Mexico Tech (США).
 ---
 
 Учёба условно бесплатная со стипендией (в конце текста более точные пояснения). Тематика работ связана с интегральными системами диагностики использующие умные сенсоры (пьезоэлектрические, электромагнитоакустические, оптоволоконные и тд.) для неинвазивного мониторинга состояния конструкций в реальном времени. Вы будете участвовать в научных исследованиях, моделировании, инжиниринге, тестировании и применения элементов  интеллектуальных конструкций включающих механику материала, физику сенсоров, методов измерений, обработку сигналов, выделения диагностических маркеров и использования искусственного интеллекта для принятия диагностических решений отражающих состояние материала/конструкции. Цель применения  интеллектуальных конструкций - повышения безопасности и удешевления космических полетов. Практические разработки будут использоваться для диагностики космических кораблей а также контроля обслуживания, производства и сборки орбитальных систем. Проекты спонсируется федеральными агентствами (например NASA) и частными компаниями. Примеры работ по теме можно найти на ResearchGate профессора: https://www.researchgate.net/profile/Andrei-Zagrai

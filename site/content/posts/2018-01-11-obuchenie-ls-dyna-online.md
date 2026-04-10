@@ -1,16 +1,21 @@
 ---
+author: GlukRazor
+date: 2018-01-11 17:01:06+00:00
+images:
+- url: /assets/images/719.jpg
 layout: post
-title: "Обучение LS-DYNA online"
-date: 2018-01-11T17:01:06+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Simulation Innovation and Modeling Center
+  url: https://simcenter.osu.edu/
 source: vk
 tags:
-  - training
-  - LS
-  - OSU
-  - SIMCenter
-images:
-  - url: "/assets/images/719.jpg"
+- training
+- LS
+- OSU
+- SIMCenter
+title: Обучение LS-DYNA online
 ---
 
 Университет штата Огайо (Ohio State University) совместно с Simulation Innovation and Modeling Center (SIMCenter) предлагает всем желающим пройти базовый курс обучения LS-DYNA. Курс будет читать Эмили Нутвелл (Emily Nutwell), обладающая более чем 20-ти летним опытом расчетов в области пассивной безопастности автотранспорта.

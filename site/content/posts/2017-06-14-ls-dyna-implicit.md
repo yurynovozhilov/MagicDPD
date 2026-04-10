@@ -9,7 +9,7 @@ link_previews:
   image: https://i.ytimg.com/vi/ochbGO_KNf8/maxresdefault.jpg
   title: A Roadmap to Linear and Nonlinear Implicit Analysis in LS DYNA Presentation
     at the 11th Intl LS DYNA
-  url: https://youtu.be/ochbGO_KNf8
+  url: https://www.youtube.com/watch?v=ochbGO_KNf8
 source: vk
 tags:
 - PredictiveEngineering

@@ -1,9 +1,15 @@
 ---
+author: Yury Novozhilov
+date: 2023-11-20 16:01:00+00:00
 layout: post
-title: "AI точнее чем CFD?"
-date: 2023-11-20T16:01:00+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: Our state-of-the-art model delivers 10-day weather predictions at unprecedented
+    accuracy in under one minute
+  image: https://lh3.googleusercontent.com/eSyCeD3KFyZTckzEVikvNdy_8gHkkKQLOOMz5jKkJ_akBXTow94ivqHMl2bLnvsidBu-mpuc5kV9MjtAq7pLUCkfB9AARhaBNwbuum0DOcY=w1200-h630-n-nu-rw
+  title: 'GraphCast: AI model for faster and more accurate global weather forecasting'
+  url: https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/
 source: vk
+title: AI точнее чем CFD?
 ---
 
 !

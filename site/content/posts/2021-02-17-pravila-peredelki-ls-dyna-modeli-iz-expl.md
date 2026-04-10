@@ -1,15 +1,22 @@
 ---
+author: MagicDPD
+date: 2021-02-17 13:01:46+00:00
 layout: post
-title: "Правила переделки LS-DYNA модели из explicit в implicit"
-date: 2021-02-17T13:01:46+00:00
-author: "MagicDPD"
+link_previews:
+- description: 'Speaker: Anders Jonsson (DYNAmore Nordic AB)Product development today
+    means satisfying requirements within a variety of fields like crash safety, durability
+    ...'
+  image: https://i.ytimg.com/vi/0pGOwjie_UA/maxresdefault.jpg
+  title: 'Express Webinar: Hints when switching from an explicit to an implicit deck'
+  url: https://www.youtube.com/watch?v=0pGOwjie_UA
 source: vk
 tags:
-  - lsdyna
-  - ansys
-  - explicit
-  - dynamore
-  - implicit
+- lsdyna
+- ansys
+- explicit
+- dynamore
+- implicit
+title: Правила переделки LS-DYNA модели из explicit в implicit
 ---
 
 https://www.youtube.com/watch?v=0pGOwjie_UA

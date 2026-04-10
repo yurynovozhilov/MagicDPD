@@ -8,39 +8,39 @@ link_previews:
     Outli...
   image: https://i.ytimg.com/vi/2EEX3lcboQ4/maxresdefault.jpg
   title: Latest Developments & New Products in BETA’s product line
-  url: https://youtu.be/2EEX3lcboQ4
+  url: https://www.youtube.com/watch?v=2EEX3lcboQ4
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2ygfGEO
+  url: https://m.vk.com/wall-97265142_3281
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2xkOUMw
+  url: https://m.vk.com/feed?section=search&q=%23BetaCAE
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2yfJ8Lg
+  url: https://m.vk.com/feed?section=search&q=%23ANSA
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2xkU8aW
+  url: https://m.vk.com/feed?section=search&q=%23Meta
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2yg6cJF
+  url: https://m.vk.com/feed?section=search&q=%23SPDRM
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2xjMU6R
+  url: https://m.vk.com/feed?section=search&q=%23Epilysis
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2ygy7cL
+  url: https://m.vk.com/feed?section=search&q=%23Retomo
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2xk82dt
+  url: https://m.vk.com/feed?section=search&q=%23Komvos
 source: vk
 tags:
 - Epilysis
@@ -50,7 +50,11 @@ tags:
 - ANSA
 - BetaCAE
 - Meta
-title: "#BetaCAE выпустила 18 релиз своей платформы, состоящей из препроцессора #ANSA, постпроцессора #Meta, системы управления данными расчетов #SPDRM (Simulation, Process, Data & Resources Management), разрабатываемого с прошлого релиза собственного прочностного кода #Epilysis и двух новых продуктов: #Retomo - средства создания геометрии на основе данных МТР и #Komvos отвечающего за направление Simulation Data Management."
+title: '#BetaCAE выпустила 18 релиз своей платформы, состоящей из препроцессора #ANSA,
+  постпроцессора #Meta, системы управления данными расчетов #SPDRM (Simulation, Process,
+  Data & Resources Management), разрабатываемого с прошлого релиза собственного прочностного
+  кода #Epilysis и двух новых продуктов: #Retomo - средства создания геометрии на
+  основе данных МТР и #Komvos отвечающего за направление Simulation Data Management.'
 ---
 
 Подробности в видео записи презентации и по ссылке

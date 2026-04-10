@@ -1,9 +1,19 @@
 ---
+author: GlukRazor
+date: 2017-12-14 14:12:26+00:00
 layout: post
-title: "⏳: 15 дней / ADONIS - бесплатная русифицированная программа с открытым исходным кодом, предназначенная для геотехнических расчетов МКЭ."
-date: 2017-12-14T14:12:26+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3865
+- description: ''
+  image: ''
+  title: GeoWizard - Free Programs for Geoengineers
+  url: http://www.geowizard.org/
 source: vk
+title: '⏳: 15 дней / ADONIS - бесплатная русифицированная программа с открытым исходным
+  кодом, предназначенная для геотехнических расчетов МКЭ.'
 ---
 
 Проект активно развивается. Разработчики ставят задачу выйти на уровень известных коммерческих ПК.

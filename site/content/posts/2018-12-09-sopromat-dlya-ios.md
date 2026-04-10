@@ -1,16 +1,25 @@
 ---
+author: GlukRazor
+date: 2018-12-09 17:01:18+00:00
+images:
+- url: /assets/images/1255.jpg
 layout: post
-title: "Сопромат для iOS"
-date: 2018-12-09T17:01:18+00:00
-author: "GlukRazor"
+link_previews:
+- description: For engineers and architects, it is essential to understand and communicate
+    how the structure (cantilever, truss girder, frame, etc.) they are designing behaves
+    under loading. The Sketcha-lyze app, built on top of VTK[1] / VES[2] and available
+    in the App Store for free, aims to support professionals and students in this
+    process by letting them […]
+  image: https://www.kitware.com/main/wp-content/uploads/2019/01/default_featured_image-scaled.jpg
+  title: 'Sketchalyze: Structural Analysis Goes Mobile'
+  url: https://blog.kitware.com/sketchalyze-structural-analysis-goes-mobile/
 source: vk
 tags:
-  - Sketchalyze
-  - Simulationfriday
-  - Paraview
-  - IOS
-images:
-  - url: "/assets/images/1255.jpg"
+- Sketchalyze
+- Simulationfriday
+- Paraview
+- IOS
+title: Сопромат для iOS
 ---
 
 Очень полезное на первом курсе приложение Sketchalyze для iOS умеет считать эпюры перерезывающих сил и изгибающих моментов. Говорят, что там, внутри, даже есть метод конечных элементов с поддержкой геометрической нелинейности.

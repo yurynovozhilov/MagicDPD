@@ -1,12 +1,17 @@
 ---
-layout: post
-title: "Новости разработки про Material Map за август"
-date: 2025-08-31T05:47:24+00:00
-author: "Yury Novozhilov"
-source: vk
+author: Yury Novozhilov
+date: 2025-08-31 05:47:24+00:00
 images:
-  - url: "/assets/images/3012.jpg"
-  - url: "/assets/images/3013.jpg"
+- url: /assets/images/3012.jpg
+- url: /assets/images/3013.jpg
+layout: post
+link_previews:
+- description: ''
+  image: ''
+  title: Material MAP
+  url: https://materialmap.github.io
+source: vk
+title: Новости разработки про Material Map за август
 ---
 
 Количество материалов в базе удвоилось за счет сбор тяжелых и полезных моделей. Теперь у меня почти около 40 штук *MAT_JOHNSON_COOK + *EOS_GRUNEISEN (причем много с трещинообразованием), примерно столько же ВВ (причем есть и AFTERBURN, и JWLB) и конечно 6 штук (а это вообще все, что есть в свободном доступе) сложных моделей полимеров   *MAT_SAMP-1 + *MAT_ADD_DAMAGE_GISSMO.

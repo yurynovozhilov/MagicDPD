@@ -1,9 +1,18 @@
 ---
+author: Yury Novozhilov
+date: 2025-06-13 11:02:28+00:00
 layout: post
-title: "Первая работающая реализация Quantum Lattice Boltzmann Method от Ansys"
-date: 2025-06-13T11:02:28+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: The Quantum Lattice Boltzmann Method (QLBM) has made significant strides
+    in fluid dynamics simulations through novel algorithmic advances, including tensor
+    network encoding and optimized collision/streaming operators, enabling practical
+    2D and 3D implementations on quantum hardware under specific advection conditions.
+  image: https://quantumzeitgeist.com/wp-content/uploads/Screenshot-2025-04-16-at-12.50.43.png
+  title: 'Quantum Lattice Boltzmann Method: First Hardware Implementation Of 2D/3D
+    Fluid Simulations'
+  url: https://quantumzeitgeist.com/quantum-lattice-boltzmann-method-first-hardware-implementation-of-2d-3d-fluid-simulations/
 source: vk
+title: Первая работающая реализация Quantum Lattice Boltzmann Method от Ansys
 ---
 
 Сегодня снова поговорим о квантовых вычислениях. На прошлой неделе Ansys и Nvidia опубликовали пресс-релиз о том, что им удалось впервые выполнить вычислительную гидродинамическую (CFD) симуляцию с помощью квантового компьютера. Сам по себе пресс-релиз — это интересно, но настоящая ценность кроется в научной основе: результаты базируются на препринте статьи «Algorithmic Advances Towards a Realizable Quantum Lattice Boltzmann Method», поданной к публикации коллективом исследователей из Ansys Inc. и IonQ Inc. (Apurva Tiwari, Jason Iaconis, Jezer Jojo, Sayonee Ray, Martin Roetteler, Chris Hill, Jay Pathak) в журнале Quantum Physics 15 апреля 2025 года.

@@ -5,9 +5,9 @@ layout: post
 link_previews:
 - description: Enjoy the videos and music you love, upload original content, and share
     it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
-  url: https://youtu.be/Dqt0rtjffIc
+  image: https://i.ytimg.com/vi/Dqt0rtjffIc/hqdefault.jpg
+  title: Introduction to Meshing with Bolt
+  url: https://www.youtube.com/watch?v=Dqt0rtjffIc
 source: vk
 tags:
 - PolyCube

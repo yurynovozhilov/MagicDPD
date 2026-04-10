@@ -1,13 +1,19 @@
 ---
+author: MagicDPD
+date: 2021-11-10 13:02:04+00:00
 layout: post
-title: "Полностью нелинейный динамический расчет здания при землетрясении"
-date: 2021-11-10T13:02:04+00:00
-author: "MagicDPD"
+link_previews:
+- description: Triaxial Takatori Ground Motion Record, Kobe Earthquake BTM-in-FEMultiPhys:https://www.school-of-earthquake-resilient-design.com/btm-seismic-fe-analysis
+  image: https://i.ytimg.com/vi/84esnU2a4Fg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGBMgPih_MA8=&rs=AOn4CLBNeRJiGHy_8ovQSQADhe3yMAlsMw
+  title: Fully Nonlinear Dynamic Analysis of a Modern RC Core Wall Building Using
+    the BTM-in-FEMultiPhys
+  url: https://www.youtube.com/watch?v=84esnU2a4Fg
 source: vk
 tags:
-  - concrete
-  - lsdyna
-  - ansys
+- concrete
+- lsdyna
+- ansys
+title: Полностью нелинейный динамический расчет здания при землетрясении
 ---
 
 https://www.youtube.com/watch?v=84esnU2a4Fg

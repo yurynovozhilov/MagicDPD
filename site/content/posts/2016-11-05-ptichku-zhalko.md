@@ -2,12 +2,6 @@
 author: GlukRazor
 date: 2016-11-05 17:01:54+00:00
 layout: post
-link_previews:
-- description: Enjoy the videos and music you love, upload original content, and share
-    it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
-  url: https://www.youtube.com/watch?v=8aeT-xUTN5
 source: vk
 tags:
 - SPH

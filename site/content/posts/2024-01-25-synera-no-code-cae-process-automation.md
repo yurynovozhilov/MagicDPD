@@ -1,9 +1,16 @@
 ---
+author: Yury Novozhilov
+date: 2024-01-25 16:00:36+00:00
 layout: post
-title: "Synera - no code CAE process automation"
-date: 2024-01-25T16:00:36+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: 'Episode 1 of the Synera Deep Dive series: Finite Element Analysis
+    Workflows in Minutes! ⚙️Have you ever wished to redefine speed & efficiency in
+    FEM workflow...'
+  image: https://i.ytimg.com/vi/hs-DbRjVBXs/maxresdefault.jpg
+  title: 'Synera Deep Dive: #FEM Workflows in Minutes! ⚙️'
+  url: https://www.youtube.com/watch?v=hs-DbRjVBXs
 source: vk
+title: Synera - no code CAE process automation
 ---
 
 Это что-то новенькое, и, судя по видео, оно мне нравится. Итак, если жить в среде Ansys, то у нас есть два варианта создания проекта.

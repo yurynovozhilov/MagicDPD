@@ -1,12 +1,19 @@
 ---
+author: MagicDPD
+date: 2021-12-28 13:02:06+00:00
 layout: post
-title: "CADfix STL"
-date: 2021-12-28T13:02:06+00:00
-author: "MagicDPD"
+link_previews:
+- description: CADfix STL generates high-quality, watertight, STL files, with user
+    options for facet style and close control over facet sizing parameters. The intuitive
+    int...
+  image: https://i.ytimg.com/vi/EZFA4His6VY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGDMgSCh_MA8=&rs=AOn4CLCiMU5FAWr-XYVY1fggUw4Px-9hvg
+  title: CADfix STL Overview
+  url: https://www.youtube.com/watch?v=EZFA4His6VY
 source: vk
 tags:
-  - stl
-  - cadfix
+- stl
+- cadfix
+title: CADfix STL
 ---
 
 https://youtu.be/EZFA4His6VY

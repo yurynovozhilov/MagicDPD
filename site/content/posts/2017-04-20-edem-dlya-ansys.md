@@ -2,12 +2,6 @@
 author: GlukRazor
 date: 2017-04-20 08:00:31+00:00
 layout: post
-link_previews:
-- description: Enjoy the videos and music you love, upload original content, and share
-    it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
-  url: https://www.youtube.com/watch?v=-PaX-NHRYW4
 source: vk
 tags:
 - CFD

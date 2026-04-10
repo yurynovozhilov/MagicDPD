@@ -5,8 +5,8 @@ layout: post
 link_previews:
 - description: Enjoy the videos and music you love, upload original content, and share
     it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
+  image: https://i.ytimg.com/vi/T3QN4VldIDQ/hqdefault.jpg
+  title: XFlow/MSC Adams Advanced Co-Simulations Webinar
   url: https://www.youtube.com/watch?v=T3QN4VldIDQ
 source: vk
 tags:

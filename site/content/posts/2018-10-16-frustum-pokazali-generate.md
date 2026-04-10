@@ -1,16 +1,22 @@
 ---
+author: GlukRazor
+date: 2018-10-16 17:01:16+00:00
+images:
+- url: /assets/images/1156.jpg
 layout: post
-title: "Frustum показали Generate"
-date: 2018-10-16T17:01:16+00:00
-author: "GlukRazor"
+link_previews:
+- description: Generative design is a powerful tool that uses AI and machine learning
+    to generate and optimize engineering designs.
+  image: https://ptc-p-001.sitecorecontenthub.cloud/api/public/content/5abb583219b04eab977c6c29d4e9509a
+  title: What Is Generative Design? | Generative Design Software | PTC
+  url: https://www.frustum.com/frustum-resources/frustum-announces-generate-for-windows-os-the-industrys-first-interactive-generative-design-software
 source: vk
 tags:
-  - Topology
-  - Frustum
-  - Optimization
-  - Generate
-images:
-  - url: "/assets/images/1156.jpg"
+- Topology
+- Frustum
+- Optimization
+- Generate
+title: Frustum показали Generate
 ---
 
 Frustum в своем новом релизе сделали что-то неверотно крутое. Если вы про это ПО еще не слышали, то отдел маркетинга в Frustum надо просто разогнать.

@@ -1,11 +1,22 @@
 ---
-layout: post
-title: "Моделирование установки самопроникающей заклёпки"
-date: 2019-02-19T17:01:09+00:00
-author: "GlukRazor"
-source: vk
+author: GlukRazor
+date: 2019-02-19 17:01:09+00:00
 images:
-  - url: "/assets/images/1360.jpg"
+- url: /assets/images/1360.jpg
+layout: post
+link_previews:
+- description: Meccanica
+  image: https://i.ytimg.com/vi/ItpvqSv_hHw/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-AoACoAKKAgwIABABGGUgZShlMA8=&rs=AOn4CLCzor9GptVJroYU8dE-Jm-NQEcw2A
+  title: Self piercing riveting
+  url: https://www.youtube.com/watch?v=ItpvqSv_hHw
+- description: This is a self-piercing riveting simulation carried out with LS-DYNA
+    using axi-symmetric finite elements with a re-meshing strategy. The geometry as
+    well as ...
+  image: https://i.ytimg.com/vi/ZioZ63goNUo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgNyh_MA8=&rs=AOn4CLDmeVgVitsXY7qVP_32AMB6AVvulA
+  title: 'LS-DYNA: Self-Piercing Riveting Simulation'
+  url: https://www.youtube.com/watch?v=ZioZ63goNUo
+source: vk
+title: Моделирование установки самопроникающей заклёпки
 ---
 
 Раз уж я начал изучать резку металлов, то трудно пройти мимо такой распространенной задачи, как моделирование установки самопроникающих заклепок в металл. Пример реального технологического процесса записан на видео для лучшего понимания.

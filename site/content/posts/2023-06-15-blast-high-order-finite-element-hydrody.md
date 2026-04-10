@@ -1,13 +1,20 @@
 ---
-layout: post
-title: "BLAST: High-Order Finite Element Hydrodynamics"
-date: 2023-06-15T15:01:18+00:00
-author: "Yury Novozhilov"
-source: vk
+author: Yury Novozhilov
+date: 2023-06-15 15:01:18+00:00
 images:
-  - url: "/assets/images/2438.jpg"
-  - url: "/assets/images/2439.jpg"
-  - url: "/assets/images/2440.jpg"
+- url: /assets/images/2438.jpg
+- url: /assets/images/2439.jpg
+- url: /assets/images/2440.jpg
+layout: post
+link_previews:
+- description: BLAST is a high-order finite element hydrodynamics research code that
+    improves the accuracy of simulations and provides a path to extreme parallel computing
+    and exascale architectures.
+  image: ''
+  title: BLAST | Computing
+  url: https://computing.llnl.gov/projects/blast
+source: vk
+title: 'BLAST: High-Order Finite Element Hydrodynamics'
 ---
 
 В рамках исследований, финансируемых LLNL, ученые разработали BLAST, исследовательский код гидродинамики с высоким порядком конечных элементов, который повышает точность моделирования и обеспечивает жизнеспособный путь к экстремальным параллельным вычислениям и экзафлопсным архитектурам.

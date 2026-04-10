@@ -1,13 +1,34 @@
 ---
+author: MagicDPD
+date: 2021-03-01 14:58:36+00:00
 layout: post
-title: "Сверхзвуковое обтекание цилиндра"
-date: 2021-03-01T14:58:36+00:00
-author: "MagicDPD"
+link_previews:
+- description: Supersonic flow around cylinder (Mach 3)Invariant-domain preserving
+    compressible Euler solver (https://github.com/conservation-laws/ryujin) based
+    on the fini...
+  image: https://i.ytimg.com/vi/pPP26zelb0M/maxresdefault.jpg
+  title: Supersonic (Mach 3) flow around cylinder
+  url: https://www.youtube.com/watch?v=pPP26zelb0M
+- description: High-performance high-order finite element solver for hyperbolic conservation
+    equations - conservation-laws/ryujin
+  image: https://repository-images.githubusercontent.com/276150326/bae2bf00-bac4-11ea-99fb-7b700a55671b
+  title: 'GitHub - conservation-laws/ryujin: High-performance high-order finite element
+    solver for hyperbolic conservation equations'
+  url: https://github.com/conservation-laws/ryujin
+- description: ''
+  image: ''
+  title: Making sure you're not a bot!
+  url: https://www.dealii.org
+- description: ''
+  image: ''
+  title: Making sure you're not a bot!
+  url: https://www.dealii.org/
 source: vk
 tags:
-  - cfd
-  - dealii
-  - open_source
+- cfd
+- dealii
+- open_source
+title: Сверхзвуковое обтекание цилиндра
 ---
 
 https://youtu.be/pPP26zelb0M

@@ -1,17 +1,31 @@
 ---
+author: MagicDPD
+date: 2022-02-07 17:00:09+00:00
+images:
+- url: /assets/images/2123.jpg
+- url: /assets/images/2124.jpg
 layout: post
-title: "Исследователи из Гарвардской школы инженерии и прикладных наук имени Джона А."
-date: 2022-02-07T17:00:09+00:00
-author: "MagicDPD"
+link_previews:
+- description: Researchers at the Harvard John A. Paulson School of Engineering and
+    Applied Sciences have developed a new way to simulate tens of thousands of bubbles
+    in fo...
+  image: https://i.ytimg.com/vi/PPBw4e5JXUI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gPygqMA8=&rs=AOn4CLCkZD1UqhqciOgwfmojJnP8Ka8KCg
+  title: Simulating tens of thousands of bubbles in foamy flows
+  url: https://www.youtube.com/watch?v=PPBw4e5JXUI
+- description: Finite volume solver for incompressible multiphase flows with surface
+    tension. Foaming flows in complex geometries. - cselab/aphros
+  image: https://repository-images.githubusercontent.com/232549983/0c8ee300-5f08-11eb-9f7e-8b732b687c21
+  title: 'GitHub - cselab/aphros: Finite volume solver for incompressible multiphase
+    flows with surface tension. Foaming flows in complex geometries.'
+  url: https://github.com/cselab/aphros
 source: vk
 tags:
-  - CFD
-  - SEAS
-  - opensource
-  - Aphros
-images:
-  - url: "/assets/images/2123.jpg"
-  - url: "/assets/images/2124.jpg"
+- CFD
+- SEAS
+- opensource
+- Aphros
+title: Исследователи из Гарвардской школы инженерии и прикладных наук имени Джона
+  А.
 ---
 
 Полсона (Harvard John A. Paulson School of Engineering and Applied Sciences, #SEAS) разработали новый способ моделирования десятков тысяч пузырьков в пенистых потоках, преодолев вычислительную сложность этого давнего процесса.

@@ -1,22 +1,32 @@
 ---
+author: MagicDPD
+date: 2021-09-20 13:01:36+00:00
 layout: post
-title: "Скоро расскажу про LS-DYNA R13"
-date: 2021-09-20T13:01:36+00:00
-author: "MagicDPD"
+link_previews:
+- description: "Эксперты &laquo;КАДФЕМ Си-Ай-Эс&raquo; подготовили серию вебинаров,
+    посвященных расчетным возможностям новой версии LS-DYNA R13. В этом году в ней
+    появилось большое количество новых возможностей и улучшений существующего функционала.
+    На первом вебинаре эксперт охватит такие темы, как IGA, EFG, SPG, SPH, DES, XFEM,
+    новые типы элементов и модели материалов, улучшения в работе подушек безопасности
+    и многомасштабное моделирование.\r\n&nbsp;"
+  image: https://www.cadfem-cis.ru/static/templates/cadfem/dist/images/OG-image.png
+  title: Новые возможности решателя LS-DYNA R13
+  url: https://www.cadfem-cis.ru/event/novye-vozmozhnosti-reshatelja-ls-dyna-r13/
 source: vk
 tags:
-  - sph
-  - ansys_lst
-  - des
-  - iga
-  - r13
-  - airbag
-  - xfem
-  - cpm
-  - ansys
-  - ls
-  - cadfem
-  - efg
+- sph
+- ansys_lst
+- des
+- iga
+- r13
+- airbag
+- xfem
+- cpm
+- ansys
+- ls
+- cadfem
+- efg
+title: Скоро расскажу про LS-DYNA R13
 ---
 
 Коллеги, прошу вас зарезервировать час своего времени на этой неделе. В четверг, в 12:00 по МСК, состояться вебинар CADFEM CIS, с обзором возможностей нового решателя Ansys LS-DYNA 13. Данный вебинар будет первым моим вебинаром с обзором функций нового релиза LS-DYNA.

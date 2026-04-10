@@ -1,23 +1,29 @@
 ---
+author: GlukRazor
+date: 2017-12-29 17:14:11+00:00
 layout: post
-title: "#zCFD - #CFD код от #Zenotech для расчета сжимаемых течений, который обещает сразу кучу всего нового, и многое из это - бесплатно."
-date: 2017-12-29T17:14:11+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23zCFD
 source: vk
 tags:
-  - LES
-  - CFD
-  - GPU
-  - Discontinuous
-  - DES
-  - SAS
-  - LSDYNA
-  - Galerkin
-  - zCFD
-  - HFSS
-  - Zenotech
-  - NVIDIA
-  - RANS
+- LES
+- CFD
+- GPU
+- Discontinuous
+- DES
+- SAS
+- LSDYNA
+- Galerkin
+- zCFD
+- HFSS
+- Zenotech
+- NVIDIA
+- RANS
+title: '#zCFD - #CFD код от #Zenotech для расчета сжимаемых течений, который обещает
+  сразу кучу всего нового, и многое из это - бесплатно.'
 ---
 
 Итак, ключевые особенности ПО:

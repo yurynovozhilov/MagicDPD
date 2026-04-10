@@ -1,15 +1,31 @@
 ---
+author: GlukRazor
+date: 2018-08-15 18:00:54+00:00
+images:
+- url: /assets/images/1072.jpg
 layout: post
-title: "Fortran forever"
-date: 2018-08-15T18:00:54+00:00
-author: "GlukRazor"
+link_previews:
+- description: Blog of an engineer who likes his job and would like to share his passion
+    on Finite Element Analysis
+  image: ''
+  title: FEA for All |and all about FEA
+  url: http://feaforall.com
+- description: Blog of an engineer who likes his job and would like to share his passion
+    on Finite Element Analysis
+  image: ''
+  title: FEA for All |and all about FEA
+  url: https://feaforall.com/
+- description: Blog of an engineer who likes his job and would like to share his passion
+    on Finite Element Analysis
+  image: ''
+  title: FEA for All |and all about FEA
+  url: http://feaforall.com/
 source: vk
 tags:
-  - Fortran
-  - UDF
-  - UMAT
-images:
-  - url: "/assets/images/1072.jpg"
+- Fortran
+- UDF
+- UMAT
+title: Fortran forever
 ---
 
 Сколько бы мы не говорили про современные языки программирования, но от Fortran отказаться суровым экспертам в CAE пока не получается. Если вы собираетесь писать расширения к таким заслуженным кодам, как ANSYS, LS-DYNA, code_aster, то придется научиться писать на Fortran. Ведь вы же не думаете, что кто-то отважется переписать ядро решателя с 50-летней историей на Python или Go?

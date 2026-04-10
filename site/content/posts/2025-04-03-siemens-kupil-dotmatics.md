@@ -1,9 +1,20 @@
 ---
+author: Yury Novozhilov
+date: 2025-04-03 11:05:37+00:00
 layout: post
-title: "Siemens купил Dotmatics"
-date: 2025-04-03T11:05:37+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: "\U0001F680 We are expanding our AI-powered software capabilities in
+    the Life Sciences sector with the acquisition of Dotmatics a leading provider
+    of Life Sciences R&D software based in Boston. \r\n\nThis strategic move strengthens
+    our position and creates a world-leading #AI-powered PLM software portfolio as
+    part of #SiemensXcelerator.\r\n\nThe acquisition is another milestone of our ONE
+    Tech Company growth program, reinforcing our leadership in industrial software
+    and enabling our customers to innovate ev"
+  image: https://media.licdn.com/dms/image/v2/D4D22AQERSMsROe8CTQ/feedshare-shrink_1280/B4DZX33crJHsAk-/0/1743620264303?e=2147483647&v=beta&t=dQ6cXzj4gBuSz-Hzorlh7ULjUZoqhQvQA2kHZLFkQpg
+  title: '#ai #siemensxcelerator #lifesciences | Siemens | 66 comments'
+  url: https://www.linkedin.com/posts/siemens_ai-siemensxcelerator-lifesciences-activity-7313273454068142081-IevI
 source: vk
+title: Siemens купил Dotmatics
 ---
 
 Вот что говорят о себе купленные:

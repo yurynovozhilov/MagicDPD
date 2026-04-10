@@ -9,11 +9,6 @@ link_previews:
   image: https://www.cadfem-cis.ru/static/templates/cadfem/dist/images/OG-image.png
   title: Численные расчеты сыпучих сред на GPU
   url: https://www.cadfem-cis.ru/list/article/rocky-nvidia-gpu/
-- description: Enjoy the videos and music you love, upload original content, and share
-    it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
-  url: https://www.youtube.com/watch?v=93qJovCA6pI
 source: vk
 tags:
 - GPU

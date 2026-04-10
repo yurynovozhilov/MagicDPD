@@ -1,9 +1,14 @@
 ---
+author: Yury Novozhilov
+date: 2023-06-10 11:14:32+00:00
 layout: post
-title: "Не в тему паблика"
-date: 2023-06-10T11:14:32+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: ''
+  image: ''
+  title: Before you continue to YouTube
+  url: https://youtube.com/@TheCompaniesExpert
 source: vk
+title: Не в тему паблика
 ---
 
 Позволю себе отступить от основной темы канала в честь поста выходного дня.

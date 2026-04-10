@@ -1,9 +1,16 @@
 ---
+author: Yury Novozhilov
+date: 2024-03-06 08:20:59+00:00
 layout: post
-title: "Cadence покупает BETA CAE"
-date: 2024-03-06T08:20:59+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: Cadence today announced it has entered into a definitive agreement
+    to acquire BETA CAE Systems International AG, a leading system analysis platform
+    provider of multi-domain, engineering simulation solutions.
+  image: https://www.cadence.com/content/dam/cadence-www/global/en_US/images/site-images/common/social-thumbnail.jpg
+  title: Cadence to Acquire BETA CAE, Expanding into Structural Analysis
+  url: https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2024/cadence-to-acquire-beta-cae-expanding-into-structural-analysis.html
 source: vk
+title: Cadence покупает BETA CAE
 ---
 
 Случилось нечто удивительное и странное. Вчера Cadance  объявили о покупке BETA CAE за $1.24 (60% - наличными, 40% - акциями). Интересное тут происходит, если немного покопаться в контексте.

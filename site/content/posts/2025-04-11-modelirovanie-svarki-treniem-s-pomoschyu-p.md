@@ -1,11 +1,16 @@
 ---
-layout: post
-title: "Моделирование сварки трением с помощью Particleworks"
-date: 2025-04-11T11:01:49+00:00
-author: "Yury Novozhilov"
-source: vk
+author: Yury Novozhilov
+date: 2025-04-11 11:01:49+00:00
 images:
-  - url: "/assets/images/2924.jpg"
+- url: /assets/images/2924.jpg
+layout: post
+link_previews:
+- description: Webinar | April 16, 2025 - Friction Stir Welding Simulation by Particleworks
+  image: ''
+  title: Particleworks Europe - Events and News
+  url: https://particleworks-europe.com/webinar-16April2025.php
+source: vk
+title: Моделирование сварки трением с помощью Particleworks
 ---
 
 16 апреля коллеги из ParticleWorks проедут вебинар по моделированию процесса Friction Stir Welding (FSW). Тут вот что интересно: в целом, моделирование такого сложного процесса при помощи SPH не ново. Я видел публикации и от LS-DYNA, и от Abaqus. Но ParticleWorks - это не

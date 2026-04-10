@@ -1,20 +1,72 @@
 ---
+author: GlukRazor
+date: 2017-12-16 17:18:08+00:00
 layout: post
-title: "На #SC17 #Rescale показал как выглядит работает их #HPC облако со стороны пользователей-инженеров."
-date: 2017-12-16T17:18:08+00:00
-author: "GlukRazor"
+link_previews:
+- description: 'In this video from SC17, Peter Lyu from Rescale demonstrates how the
+    company brings HPC Workloads to the Cloud.Learn more: http://rescale.comSign up
+    for our ...'
+  image: https://i.ytimg.com/vi/b7JjCWsFCgM/maxresdefault.jpg
+  title: Rescale Demos Easy HPC Cloud Management at SC17
+  url: https://www.youtube.com/watch?v=b7JjCWsFCgM
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3878
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23SC17
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23Rescale
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23HPC
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23ANSYS
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23Fluent
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23StarCCM
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23LSTC
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23LSPP
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23LSDYNA
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23cloud
 source: vk
 tags:
-  - ANSYS
-  - HPC
-  - LSTC
-  - LSDYNA
-  - SC17
-  - StarCCM
-  - Rescale
-  - cloud
-  - LSPP
-  - Fluent
+- ANSYS
+- HPC
+- LSTC
+- LSDYNA
+- SC17
+- StarCCM
+- Rescale
+- cloud
+- LSPP
+- Fluent
+title: 'На #SC17 #Rescale показал как выглядит работает их #HPC облако со стороны
+  пользователей-инженеров.'
 ---
 
 В показе принимали участие #ANSYS #Fluent, #StarCCM+ и #LSTC #LSPP для #LSDYNA.

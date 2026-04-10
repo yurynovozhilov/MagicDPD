@@ -1,23 +1,30 @@
 ---
+author: GlukRazor
+date: 2018-01-29 17:00:56+00:00
+images:
+- url: /assets/images/755.jpg
 layout: post
-title: "ANSYS R19 официально"
-date: 2018-01-29T17:00:56+00:00
-author: "GlukRazor"
+link_previews:
+- description: Техническая документация 16 сентября, 2021 Ansys 2021 R2 Технические
+    требования к программно-аппаратным комплексам и лицензионная политика в области
+    HPC Скачать
+  image: https://www.cadfem-cis.ru/static/templates/cadfem/dist/images/OG-image.png
+  title: Техническая документация — МЦД
+  url: https://www.cadfem-cis.ru/products/ansys/ansys-update/
 source: vk
 tags:
-  - Cartesian
-  - CFD
-  - Mechaincal
-  - WB
-  - ANSYS
-  - HPC
-  - Topology
-  - XFEM
-  - optimization
-  - SpaceClaim
-  - Meshing
-images:
-  - url: "/assets/images/755.jpg"
+- Cartesian
+- CFD
+- Mechaincal
+- WB
+- ANSYS
+- HPC
+- Topology
+- XFEM
+- optimization
+- SpaceClaim
+- Meshing
+title: ANSYS R19 официально
 ---
 
 Итак, свершилось! ANSYS R19 стал доступен, о чем нам сообщает официальный сайт компании CADFEM CIS

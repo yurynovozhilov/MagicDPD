@@ -1,15 +1,21 @@
 ---
+author: MagicDPD
+date: 2021-03-25 13:02:28+00:00
 layout: post
-title: "Очень горячая прокатка"
-date: 2021-03-25T13:02:28+00:00
-author: "MagicDPD"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: https://i.ytimg.com/vi/plsZPkpHQxk/hqdefault.jpg
+  title: Решение задач горячей прокатки в твердотельной постановке в LS-DYNA
+  url: https://www.youtube.com/watch?v=plsZPkpHQxk
 source: vk
 tags:
-  - meshless
-  - ansys
-  - ls
-  - cadfem
-  - efg
+- meshless
+- ansys
+- ls
+- cadfem
+- efg
+title: Очень горячая прокатка
 ---
 
 https://www.youtube.com/watch?v=plsZPkpHQxk

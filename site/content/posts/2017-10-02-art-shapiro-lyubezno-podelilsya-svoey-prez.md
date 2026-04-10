@@ -1,9 +1,15 @@
 ---
+author: GlukRazor
+date: 2017-10-02 05:44:32+00:00
 layout: post
-title: "Art Shapiro любезно поделился своей презентацией Using LS-DYNA To Model Hot StampingMedia💾 App_D_hot_stamp.pdf"
-date: 2017-10-02T05:44:32+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3422
 source: vk
+title: "Art Shapiro любезно поделился своей презентацией Using LS-DYNA To Model Hot
+  StampingMedia\U0001F4BE App_D_hot_stamp.pdf"
 ---
 
 http://ift.tt/2wrMzOp

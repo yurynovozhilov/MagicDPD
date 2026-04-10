@@ -1,9 +1,21 @@
 ---
+author: Yury Novozhilov
+date: 2023-11-14 16:00:40+00:00
 layout: post
-title: "Air-water shock bubble interaction"
-date: 2023-11-14T16:00:40+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: A blastFoam simulation of the interaction between a strong shock in
+    water and an air bubble. The shock wave has a Mach number of 1.422, and is traveling
+    in w...
+  image: https://i.ytimg.com/vi/aZOAHYUs2HM/maxresdefault.jpg
+  title: blastFoam | Air-water shock bubble interaction
+  url: https://www.youtube.com/watch?v=aZOAHYUs2HM
+- description: A CFD solver for multi-component compressible flow with application
+    to high-explosive detonation, explosive safety and air blast - synthetik-technologies/blastfoam
+  image: https://opengraph.githubassets.com/0cc72e5d5593ee472267ce47490b6da15e9d0d9268fab4af4734d8fbc685d3d1/synthetik-technologies/blastfoam
+  title: blastfoam/validation/blastFoam/airWaterShockBubble at master · synthetik-technologies/blastfoam
+  url: https://github.com/synthetik-technologies/blastfoam/tree/master/validation/blastFoam/airWaterShockBubble
 source: vk
+title: Air-water shock bubble interaction
 ---
 
 blastFoam показали решение классической задачи взаипосдествия ударной волны, распространяющейся в воде, с подводным воздушным пузырем.

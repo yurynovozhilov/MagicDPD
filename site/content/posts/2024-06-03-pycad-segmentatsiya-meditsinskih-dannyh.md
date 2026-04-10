@@ -1,11 +1,16 @@
 ---
-layout: post
-title: "PYCAD - сегментация медицинских данных"
-date: 2024-06-03T14:01:16+00:00
-author: "Yury Novozhilov"
-source: vk
+author: Yury Novozhilov
+date: 2024-06-03 14:01:16+00:00
 images:
-  - url: "/assets/images/2714.jpg"
+- url: /assets/images/2714.jpg
+layout: post
+link_previews:
+- description: ''
+  image: ''
+  title: Before you continue to YouTube
+  url: https://www.youtube.com/channel/UCdYyILlPlehK4fKS5DiuMXQ
+source: vk
+title: PYCAD - сегментация медицинских данных
 ---
 
 По заявлениям на сайте, компания PYCAD специализируется на разработке передовых конвейеров машинного обучения, адаптированных к сложной сфере медицинской визуализации. Наш опыт заключается в преодолении разрыва между передовыми технологиями ИИ и важнейшими потребностями сектора здравоохранения. Кажется, что это стандартный манифест еще одного модного/молодежного стартапа.

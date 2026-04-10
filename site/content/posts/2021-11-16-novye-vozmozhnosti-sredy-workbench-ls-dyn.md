@@ -1,14 +1,20 @@
 ---
+author: MagicDPD
+date: 2021-11-16 13:01:13+00:00
 layout: post
-title: "Новые возможности среды Workbench LS-DYNA 2021 R2"
-date: 2021-11-16T13:01:13+00:00
-author: "MagicDPD"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: https://i.ytimg.com/vi/KzmY3U428mo/hqdefault.jpg
+  title: Новые возможности среды Workbench LS-DYNA 2021 R2
+  url: https://www.youtube.com/watch?v=KzmY3U428mo
 source: vk
 tags:
-  - lstc
-  - lsdyna
-  - cadfem
-  - ansys
+- lstc
+- lsdyna
+- cadfem
+- ansys
+title: Новые возможности среды Workbench LS-DYNA 2021 R2
 ---
 
 https://www.youtube.com/watch?v=KzmY3U428mo

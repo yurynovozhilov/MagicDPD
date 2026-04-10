@@ -1,14 +1,20 @@
 ---
+author: GlukRazor
+date: 2018-07-29 18:01:17+00:00
+images:
+- url: /assets/images/1045.jpg
 layout: post
-title: "Баллистическая теплопроводность"
-date: 2018-07-29T18:01:17+00:00
-author: "GlukRazor"
+link_previews:
+- description: Ученые из Санкт-Петербургского политехнического университета Петра
+    Великого (СПбПУ) разработали математическую модель процессов, происход..
+  image: http://sun9-4.userapi.com/impg/c830400/v830400788/153c24/w91K4L7nF6Q.jpg?size=868x838&quality=96&sign=affa9efd83ba31a74bbca55fb970dbd6&type=album
+  title: Ученые исследовали аномальные свойства сверхчистых кристаллов
+  url: https://vk.com/@rnfpage-kristall
 source: vk
 tags:
-  - Thermal
-  - TrueScience
-images:
-  - url: "/assets/images/1045.jpg"
+- Thermal
+- TrueScience
+title: Баллистическая теплопроводность
 ---
 
 Хочу обратить ваше внимание на очень интересную работу, которую ведут сейчас мои коллеги в питерском Политехе. В результате исследований и теоретических выкладок вырисовывается физическое явление баллистической теплопроводности.

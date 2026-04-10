@@ -1,14 +1,21 @@
 ---
+author: MagicDPD
+date: 2021-06-16 16:01:38+00:00
 layout: post
-title: "Дефлаграционно-детонационный переход"
-date: 2021-06-16T16:01:38+00:00
-author: "MagicDPD"
+link_previews:
+- description: Inspired by recent experimental work by Lawrence Livermore National
+    Laboratory (LLNL) this blastFoam case simulates a simple deflagration to detonation
+    (DDT)...
+  image: https://i.ytimg.com/vi/n_pm2Du2DNk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGHIgPigzMA8=&rs=AOn4CLBd5GvUlPdpBs1ascEgm5-2yd2beg
+  title: blastFoam | Deflagration to Detonation (DDT) Simulation
+  url: https://www.youtube.com/watch?v=n_pm2Du2DNk
 source: vk
 tags:
-  - blastfoam
-  - open_source
-  - openfoam
-  - llnl
+- blastfoam
+- open_source
+- openfoam
+- llnl
+title: Дефлаграционно-детонационный переход
 ---
 
 https://youtu.be/n_pm2Du2DNk

@@ -6,13 +6,13 @@ link_previews:
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2vdfLMH
+  url: https://m.vk.com/feed?section=search&q=%23CAE
 source: vk
 tags:
 - ANSYS
 - PADT
 - CAE
-title: "Наконец-то появился подкаст на тему #CAE."
+title: 'Наконец-то появился подкаст на тему #CAE.'
 ---
 
 Его автором стала команда #PADT Inc, а сам подкаст называется "The All Things ANSYS Podcast".

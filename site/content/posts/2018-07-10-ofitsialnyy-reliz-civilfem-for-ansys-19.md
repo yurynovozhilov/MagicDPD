@@ -1,15 +1,20 @@
 ---
+author: GlukRazor
+date: 2018-07-10 18:01:54+00:00
+images:
+- url: /assets/images/1006.jpg
 layout: post
-title: "Официальный релиз CivilFEM for ANSYS 19.0"
-date: 2018-07-10T18:01:54+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: CivilFEM for ANSYS® 19.0 version Release | CivilFEM
+  url: http://www.civilfem.com/new-version-of-civilfem-for-ansys-18-2-add-on-2/
 source: vk
 tags:
-  - APDL
-  - CivilFEM
-  - ANSYS
-images:
-  - url: "/assets/images/1006.jpg"
+- APDL
+- CivilFEM
+- ANSYS
+title: Официальный релиз CivilFEM for ANSYS 19.0
 ---
 
 Отчасти эта новость уже проскакивала пару недель назад. Однако тогда это была скорее догадка, а теперь - точное утверждение: "CivilFEM for ANSYS 19.0 вышел и готов к использованию".

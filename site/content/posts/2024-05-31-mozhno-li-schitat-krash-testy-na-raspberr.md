@@ -1,11 +1,18 @@
 ---
+author: Yury Novozhilov
+date: 2024-05-31 13:01:56+00:00
 layout: post
-title: "Можно ли считать краш тесты на  Raspberry Pi?"
-date: 2024-05-31T13:01:56+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: I have successfully built and run OpenRadioss on a Raspberry Pi 5 (an
+    ARM Cortex A76 processor).This video shows how to install the development environment
+    t...
+  image: https://i.ytimg.com/vi/fN7Enn9siyU/maxresdefault.jpg
+  title: OpenRadioss on a Raspberry Pi
+  url: https://www.youtube.com/watch?v=fN7Enn9siyU
 source: vk
 tags:
-  - simulationfriday
+- simulationfriday
+title: Можно ли считать краш тесты на  Raspberry Pi?
 ---
 
 Коллеги из Altair успешно собрали и запустили OpenRadioss на Raspberry Pi 5 (а там процессор ARM Cortex A76 64-битный процессор с 4 ядрами и 8 Гб RAM). В видео разобрана процесс сборки решателя, а также запуска тестовой задачи. И это конечно замечательная новость в рубрике #simulationfriday. Но вот если бы кто-то занялся портированием

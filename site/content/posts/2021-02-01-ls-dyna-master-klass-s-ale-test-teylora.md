@@ -1,18 +1,24 @@
 ---
+author: MagicDPD
+date: 2021-02-01 17:54:45+00:00
 layout: post
-title: "LS-DYNA мастер класс: S-ALE тест Тейлора"
-date: 2021-02-01T17:54:45+00:00
-author: "MagicDPD"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: https://i.ytimg.com/vi/S7IYFWuFyOg/hqdefault.jpg
+  title: Тест Тейлора в рамках S-ALE постановки для LS-DYNA R12
+  url: https://www.youtube.com/watch?v=S7IYFWuFyOg
 source: vk
 tags:
-  - fsi
-  - taylor
-  - ansys_lst
-  - s
-  - ansys
-  - ls
-  - cascon
-  - cadfem
+- fsi
+- taylor
+- ansys_lst
+- s
+- ansys
+- ls
+- cascon
+- cadfem
+title: 'LS-DYNA мастер класс: S-ALE тест Тейлора'
 ---
 
 https://www.youtube.com/watch?v=S7IYFWuFyOg

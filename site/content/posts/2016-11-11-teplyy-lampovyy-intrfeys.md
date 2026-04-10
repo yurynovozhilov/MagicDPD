@@ -3,15 +3,15 @@ author: GlukRazor
 date: 2016-11-11 17:01:16+00:00
 layout: post
 link_previews:
+- description: This website provides the corporate information of CYBERNET.
+  image: https://www.cybernet.co.jp/img/page/index/cybernet_sns.webp
+  title: CYBERNET SYSTEMS CO.,LTD
+  url: http://www.cybernet.co.jp/english/
 - description: Discover ready-to-use Ansys and third-party apps to streamline simulation
     workflows in the Ansys App Catalog. Boost productivity and innovation.
   image: ''
   title: Ansys App Catalog | Ansys Developer Portal
   url: https://appstore.ansys.com/download?prodid=APC-ACTAPP-107
-- description: This website provides the corporate information of CYBERNET.
-  image: https://www.cybernet.co.jp/img/page/index/cybernet_sns.webp
-  title: CYBERNET SYSTEMS CO.,LTD
-  url: http://www.cybernet.co.jp/english/
 source: vk
 tags:
 - ANSYS

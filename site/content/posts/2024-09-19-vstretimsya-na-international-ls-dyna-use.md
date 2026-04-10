@@ -1,9 +1,34 @@
 ---
+author: Yury Novozhilov
+date: 2024-09-19 12:01:09+00:00
 layout: post
-title: "Встретимся на  International LS-DYNA Users Conference 2024?"
-date: 2024-09-19T12:01:09+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: 'The LS-DYNA community of experts is widely recognized for their dedication
+    to sharing valuable insights and cutting-edge modeling techniques. Their commitment
+    to addressing complex, real-world industrial challenges with advanced scientific
+    approaches has made a significant impact over the years.
+
+    Ansys is hosting the International LS-DYNA Users Conference 2024, October 22-23,
+    in the United States. CADFEM GmbH will be represented this year by our experts,
+    Dr.-Inf Ulrich G. Stelzmann and me with th'
+  image: https://media.licdn.com/dms/image/v2/D4D22AQGkDvK63zgxHg/feedshare-shrink_800/feedshare-shrink_800/0/1726573385951?e=2147483647&v=beta&t=Y8oiLUo8WBkDqje3I4FZmu0AXdA7-wMLH7sQdWhNTvM
+  title: '#cadfem #ansys #lsdyna #droptest #ista #concrete #fragmentation #fem #dem
+    | Yury Novozhilov'
+  url: https://www.linkedin.com/posts/yurynovozhilov_ansys-lsdyna-cadfem-activity-7241792929340526593-_wZJ
+- description: 'The LS-DYNA community of experts is widely recognized for their dedication
+    to sharing valuable insights and cutting-edge modeling techniques. Their commitment
+    to addressing complex, real-world industrial challenges with advanced scientific
+    approaches has made a significant impact over the years.
+
+    Ansys is hosting the International LS-DYNA Users Conference 2024, October 22-23,
+    in the United States. CADFEM GmbH will be represented this year by our experts,
+    Dr.-Inf Ulrich G. Stelzmann and me with th'
+  image: https://media.licdn.com/dms/image/v2/D4D22AQGkDvK63zgxHg/feedshare-shrink_800/feedshare-shrink_800/0/1726573385951?e=2147483647&v=beta&t=Y8oiLUo8WBkDqje3I4FZmu0AXdA7-wMLH7sQdWhNTvM
+  title: '#cadfem #ansys #lsdyna #droptest #ista #concrete #fragmentation #fem #dem
+    | Yury Novozhilov'
+  url: https://www.linkedin.com/posts/yurynovozhilov_ansys-lsdyna-cadfem-activity-7241792929340526593-_wZJ?utm_source=share&utm_medium=member_desktop
 source: vk
+title: Встретимся на  International LS-DYNA Users Conference 2024?
 ---
 
 Коллеги, до главной конференции LS-DYNA осталось чуть больше одного месяца. И в этом году я смог раскрутить CADFEM аж на три технических доклада. У меня даже есть главный по расчетам в LS-DYNA из Ansys Франция. Так что будет интересно. Осталось только получить визу :-(

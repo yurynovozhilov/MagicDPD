@@ -5,9 +5,9 @@ layout: post
 link_previews:
 - description: Enjoy the videos and music you love, upload original content, and share
     it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
-  url: https://youtu.be/jrywAFlr1ac
+  image: https://i.ytimg.com/vi/jrywAFlr1ac/hqdefault.jpg
+  title: Trelis Connect™ for ANSYS® Workbench™
+  url: https://www.youtube.com/watch?v=jrywAFlr1ac
 source: vk
 tags:
 - Trelis

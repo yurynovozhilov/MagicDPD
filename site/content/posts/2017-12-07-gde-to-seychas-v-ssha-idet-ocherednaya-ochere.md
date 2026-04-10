@@ -1,13 +1,37 @@
 ---
+author: GlukRazor
+date: 2017-12-07 17:03:18+00:00
 layout: post
-title: "Где-то сейчас в США идет очередная очередная главная #HPC выставка-конференция #SC17. И на ней уважаемые #Supermicro показывают кучу всего очень нового и очень интересного."
-date: 2017-12-07T17:03:18+00:00
-author: "GlukRazor"
+link_previews:
+- description: 'In this video, Akira Sano provides a tour of the Supermicro booth
+    at SC17 in Denver.Learn more: http://supermicro.com'
+  image: https://i.ytimg.com/vi/tlL68-PBt6E/maxresdefault.jpg
+  title: Supermicro Booth Tour at SC17
+  url: https://www.youtube.com/watch?v=tlL68-PBt6E
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3822
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23HPC
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23SC17
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23Supermicro
 source: vk
 tags:
-  - Supermicro
-  - SC17
-  - HPC
+- Supermicro
+- SC17
+- HPC
+title: 'Где-то сейчас в США идет очередная очередная главная #HPC выставка-конференция
+  #SC17. И на ней уважаемые #Supermicro показывают кучу всего очень нового и очень
+  интересного.'
 ---
 
 Хотите считать быстро - изучайте матчасть!

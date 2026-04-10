@@ -1,17 +1,63 @@
 ---
+author: GlukRazor
+date: 2017-10-19 17:12:40+00:00
 layout: post
-title: "Очень крутой технический доклад #Volvo на 7-ой конференции \"BEFORE REALITY CONFERENCE\", проводимой компанией #BETA #CAE."
-date: 2017-10-19T17:12:40+00:00
-author: "GlukRazor"
+link_previews:
+- description: As presented by Mr. Mathias Retzlaff of Volvo Car Corporation, Sweden,
+    at the 7 BEFORE REALITY ConferenceMathias Retzlaff, P-A Eggertsen, Johan Jergeus,
+    Ingr...
+  image: https://i.ytimg.com/vi/kfYjxiZaESI/maxresdefault.jpg
+  title: Comprehensive Safety CAE for the all-new Volvo S90/V90/V90CC
+  url: "https://www.youtube.com/watch?v=kfYjxiZaESIMedia\U0001F4FC"
+- description: As presented by Mr. Mathias Retzlaff of Volvo Car Corporation, Sweden,
+    at the 7 BEFORE REALITY ConferenceMathias Retzlaff, P-A Eggertsen, Johan Jergeus,
+    Ingr...
+  image: https://i.ytimg.com/vi/kfYjxiZaESI/maxresdefault.jpg
+  title: Comprehensive Safety CAE for the all-new Volvo S90/V90/V90CC
+  url: https://www.youtube.com/watch?v=kfYjxiZaESI
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3540
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23Volvo
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23BETA
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23CAE
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23LSDYNA
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23ANSA
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23Meta
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23HPC
 source: vk
 tags:
-  - HPC
-  - LSDYNA
-  - ANSA
-  - CAE
-  - Volvo
-  - Meta
-  - BETA
+- HPC
+- LSDYNA
+- ANSA
+- CAE
+- Volvo
+- Meta
+- BETA
+title: 'Очень крутой технический доклад #Volvo на 7-ой конференции "BEFORE REALITY
+  CONFERENCE", проводимой компанией #BETA #CAE.'
 ---
 
 Конечно Volvo читает в моей любимой #LSDYNA. А вот модели она готовит в #ANSA, на которую они накрутили много собственной автоматизации. Анализ результатов за #Meta.

@@ -1,11 +1,18 @@
 ---
-layout: post
-title: "OpenRadioss-WebGUI"
-date: 2025-07-22T12:04:20+00:00
-author: "Yury Novozhilov"
-source: vk
+author: Yury Novozhilov
+date: 2025-07-22 12:04:20+00:00
 images:
-  - url: "/assets/images/2987.jpg"
+- url: /assets/images/2987.jpg
+layout: post
+link_previews:
+- description: Fully open-source dynamic simulations on the web with the OpenRadioss
+    solver and an interactive 3D Viewer - alekssadowski95/OpenRadioss-WebGUI
+  image: https://repository-images.githubusercontent.com/934450891/4a168096-5b05-4b49-a59c-93525decb3ea
+  title: 'GitHub - alekssadowski95/OpenRadioss-WebGUI: Fully open-source dynamic simulations
+    on the web with the OpenRadioss solver and an interactive 3D Viewer'
+  url: https://github.com/alekssadowski95/OpenRadioss-WebGUI
+source: vk
+title: OpenRadioss-WebGUI
 ---
 
 На днях был опубликован новое открытое решение по визуализации результатов OpenRadioss в WebUI

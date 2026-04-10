@@ -1,11 +1,16 @@
 ---
-layout: post
-title: "ChatGPT Deep Research"
-date: 2025-03-06T13:06:08+00:00
-author: "Yury Novozhilov"
-source: vk
+author: Yury Novozhilov
+date: 2025-03-06 13:06:08+00:00
 images:
-  - url: "/assets/images/2897.jpg"
+- url: /assets/images/2897.jpg
+layout: post
+link_previews:
+- description: Shared via ChatGPT
+  image: https://cdn.openai.com/chatgpt/share-og.png
+  title: ChatGPT - A4-70 Steel Data LS-DYNA
+  url: https://chatgpt.com/share/67c80a48-d8b0-8003-b7b1-f56103ab0b1b
+source: vk
+title: ChatGPT Deep Research
 ---
 
 Я тестирую ChatGPT от Deep Research, и моему восхищению нет предела.

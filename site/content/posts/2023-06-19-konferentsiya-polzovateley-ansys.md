@@ -1,9 +1,15 @@
 ---
+author: Yury Novozhilov
+date: 2023-06-19 15:01:29+00:00
 layout: post
-title: "Конференция пользователей Ansys"
-date: 2023-06-19T15:01:29+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: "Канал для участников конференции по Ansys от ProFEALab.com\tА также
+    все новости по ютуб-каналу youtube.com/@ProFEALab"
+  image: https://cdn4.telesco.pe/file/YS4KXDZ8iVzdhTZjeoeAieNa_UUXaAIdXLwfqiHeYI5S5hPi4AAwDlorRSrKmx3hDV6eH80Cobh77bPtmfJo5vYYDyVR_GkQfK6gRDTCJ5aEKfUdYqO5petqw2uXK-xtD500WxnR5bsOcc9G4J0rMyRNibTmOAsqnMuKehkJ7jOxuMI7fUov__uf6NS9PY8lu-gIFmVAtXEoxkKF8s77BVbEWK1h2Gr6nXwI5lM-Zjf1HeMOQ1-Qh6EzndGaILToZ-vPmvWZOJxQEMIcdX0twR0M__QM5Fk9BzTVSqEWpHGk0HqCJkRd8lMybs6N-uuvxFSawb_b4rc3GlgdSBFEGg.jpg
+  title: ProFEALabConf
+  url: https://t.me/+yyzPUoOciQkwMmIy
 source: vk
+title: Конференция пользователей Ansys
 ---
 
 Мой коллега из паблика Ansys4all решил, что без конференций по Ansys жить не итересно. По сему Алексей Трухнов уже на этой неделе устрит свою собственную коференцию.

@@ -1,16 +1,22 @@
 ---
+author: GlukRazor
+date: 2018-10-19 17:02:00+00:00
+images:
+- url: /assets/images/1160.jpg
 layout: post
-title: "BECKER 3D и их система ThreeParticle"
-date: 2018-10-19T17:02:00+00:00
-author: "GlukRazor"
+link_previews:
+- description: ThreeParticle/CAE the All-in-one multiphysics simulation software as
+    a combined solution of DEM, MBD, FEM, SPH and many more.
+  image: ''
+  title: Discrete Element Method (DEM) Simulation Software with MBD, FEM & SPH
+  url: https://www.becker3d.com/
 source: vk
 tags:
-  - Rocky
-  - DEM
-  - BECKER3D
-  - ThreeParticle
-images:
-  - url: "/assets/images/1160.jpg"
+- Rocky
+- DEM
+- BECKER3D
+- ThreeParticle
+title: BECKER 3D и их система ThreeParticle
 ---
 
 Компания BECKER 3D GmbH (https://www.becker3d.com/) - еще один разработчик систем для расчетов сыпучих сред в DEM постановке.

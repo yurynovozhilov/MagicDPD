@@ -14,11 +14,12 @@ link_previews:
     – тогда были выпущены так привычные нам линейки...
   image: https://habr.com/share/publication/370791/9b6bf11c348f82cf9322f18019214d46/
   title: Что такое Intel Xeon Scalable?
-  url: http://ift.tt/2w0uPxq
+  url: https://habr.com/ru/companies/intel/articles/370791/
 source: vk
 tags:
 - HPC
-title: "В новой платформе Intel Xeon Scalable появился встроенный 10 GigE, причем iWARP - это низколатентный вариант сети."
+title: В новой платформе Intel Xeon Scalable появился встроенный 10 GigE, причем iWARP
+  - это низколатентный вариант сети.
 ---
 
 Главное, что он подходит для построения #HPC начального уровня.

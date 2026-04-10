@@ -2,11 +2,6 @@
 author: GlukRazor
 date: 2016-08-20 12:01:32+00:00
 layout: post
-link_previews:
-- description: ''
-  image: ''
-  title: ''
-  url: https://attendee.gotowebinar.com/rt/1891354989561575940
 source: vk
 tags:
 - ASYS

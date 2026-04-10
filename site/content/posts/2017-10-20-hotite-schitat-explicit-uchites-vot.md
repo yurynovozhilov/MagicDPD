@@ -1,21 +1,66 @@
 ---
+author: GlukRazor
+date: 2017-10-20 17:07:33+00:00
 layout: post
-title: "Хотите считать #explicit - учитесь!"
-date: 2017-10-20T17:07:33+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3550
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23explicit
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23Blast
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23SHPB
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23LSPP
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23LSDYNA
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23ABAQUS
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23CTH
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23ALEGRA
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23ALE3D
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23RADIOSS
 source: vk
 tags:
-  - Blast
-  - RADIOSSMedia
-  - SHPB
-  - LSDYNA
-  - ABAQUS
-  - ALEGRA
-  - ALE3D
-  - explicit
-  - CTH
-  - LSPP
-  - Taylor
+- Blast
+- RADIOSSMedia
+- SHPB
+- LSDYNA
+- ABAQUS
+- ALEGRA
+- ALE3D
+- explicit
+- CTH
+- LSPP
+- Taylor
+title: 'Хотите считать #explicit - учитесь!'
 ---
 
 Вот стандартные тестовые задачи для настоящих #explicit кодов:

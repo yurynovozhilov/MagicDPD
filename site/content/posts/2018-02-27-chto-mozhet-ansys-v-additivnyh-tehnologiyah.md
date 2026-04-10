@@ -1,21 +1,27 @@
 ---
+author: GlukRazor
+date: 2018-02-27 18:00:23+00:00
+images:
+- url: /assets/images/821.jpg
 layout: post
-title: "Что может ANSYS в аддитивных технологиях"
-date: 2018-02-27T18:00:23+00:00
-author: "GlukRazor"
+link_previews:
+- description: Discover ready-to-use Ansys and third-party apps to streamline simulation
+    workflows in the Ansys App Catalog. Boost productivity and innovation.
+  image: ''
+  title: Ansys App Catalog | Ansys Developer Portal
+  url: https://appstore.ansys.com/download?prodid=APC-ACTAPP-318
 source: vk
 tags:
-  - Transient
-  - ANSYS
-  - 3D_Printing
-  - Optimization
-  - Thermal
-  - Mechanical
-  - Topology
-  - Additive_Manufacturing
-  - ACT
-images:
-  - url: "/assets/images/821.jpg"
+- Transient
+- ANSYS
+- 3D_Printing
+- Optimization
+- Thermal
+- Mechanical
+- Topology
+- Additive_Manufacturing
+- ACT
+title: Что может ANSYS в аддитивных технологиях
 ---
 
 Аддитивные технологии сейчас переживают бурный расцвет — все хотят проектировать и производить конструкции невиданных доселе форм невиданными доселе способами.

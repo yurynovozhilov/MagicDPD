@@ -3,12 +3,6 @@ author: GlukRazor
 date: 2016-07-08 06:31:46+00:00
 layout: post
 link_previews:
-- description: Design better every step of the product design journey with Shapr3D’s
-    adaptive UI and Siemens Parasolid kernel, achieving design vision with built-in
-    precision.
-  image: https://cdn.prod.website-files.com/5fcde6f56fdac5769934eead/655a63574f327a0ea980b65b_opengraph_image.png
-  title: 3D CAD for designing manufacturing-ready models | Shapr3D
-  url: http://shapr3d.com
 - description: Shapr3D is the world's first professional 3D CAD to run on an iPad
     Pro. Easy to learn. Easy to use. But still professional.  Draw shapes, then transform
     them...
@@ -21,6 +15,12 @@ link_previews:
   image: https://cdn.prod.website-files.com/5fcde6f56fdac5769934eead/655a63574f327a0ea980b65b_opengraph_image.png
   title: 3D CAD for designing manufacturing-ready models | Shapr3D
   url: https://www.shapr3d.com/
+- description: Design better every step of the product design journey with Shapr3D’s
+    adaptive UI and Siemens Parasolid kernel, achieving design vision with built-in
+    precision.
+  image: https://cdn.prod.website-files.com/5fcde6f56fdac5769934eead/655a63574f327a0ea980b65b_opengraph_image.png
+  title: 3D CAD for designing manufacturing-ready models | Shapr3D
+  url: http://shapr3d.com
 source: vk
 tags:
 - Apple
@@ -28,7 +28,8 @@ tags:
 - iPad
 - CAD
 - Shapr3D
-title: "Shapr3D - навено первый необлачный #CAD рассчитанный на работы на планшете. #Shapr3D (http://shapr3d.com) рассчитан на работу с #iPad Pro и #Apple #Pencil."
+title: 'Shapr3D - навено первый необлачный #CAD рассчитанный на работы на планшете.
+  #Shapr3D (http://shapr3d.com) рассчитан на работу с #iPad Pro и #Apple #Pencil.'
 ---
 
 Если же запустить его на другом iPad, то создавать ничего не получится - только просматривать.

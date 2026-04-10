@@ -8,16 +8,16 @@ link_previews:
   image: https://learn.microsoft.com/en-us/media/open-graph-image.png
   title: Virtual machine sizes overview - Azure Virtual Machines
   url: http://gpu.azure.com/
-- description: Today we’re delighted to announce that Azure N-Series Virtual Machines,
-    the fastest GPUs in the public cloud, are now available in preview.
-  image: ''
-  title: Azure N-Series preview availability | Microsoft Azure Blog
-  url: https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/
 - description: Lists the different instance sizes available for virtual machines in
     Azure.
   image: https://learn.microsoft.com/en-us/media/open-graph-image.png
   title: Virtual machine sizes overview - Azure Virtual Machines
   url: https://gpu.azure.com/
+- description: Today we’re delighted to announce that Azure N-Series Virtual Machines,
+    the fastest GPUs in the public cloud, are now available in preview.
+  image: ''
+  title: Azure N-Series preview availability | Microsoft Azure Blog
+  url: https://azure.microsoft.com/en-us/blog/azure-n-series-preview-availability/
 source: vk
 tags:
 - VMWare
@@ -37,7 +37,7 @@ tags:
 - Windows
 - Teradici
 - PCoIP
-title: "Молния: открыта очередь на тестирование GPU NVIDIA в облаке AZURE"
+title: 'Молния: открыта очередь на тестирование GPU NVIDIA в облаке AZURE'
 ---
 
 http://gpu.azure.com/

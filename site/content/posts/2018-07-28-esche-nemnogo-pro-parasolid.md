@@ -1,15 +1,26 @@
 ---
+author: GlukRazor
+date: 2018-07-28 18:00:15+00:00
+images:
+- url: /assets/images/1043.jpg
 layout: post
-title: "Еще немного про Parasolid"
-date: 2018-07-28T18:00:15+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: 'isicad: Почему создатель SolidWorks для своего загадочного нового САПР выбрал
+    геометрическое ядро Parasolid'
+  url: http://isicad.ru/ru/articles.php?article_num=16395
+- description: ''
+  image: ''
+  title: 'isicad: Почему создатель SolidWorks для своего загадочного нового САПР выбрал
+    геометрическое ядро Parasolid'
+  url: https://isicad.ru/ru/articles.php?article_num=16395
 source: vk
 tags:
-  - Isicad
-  - SolidWorks
-  - Parasolid
-images:
-  - url: "/assets/images/1043.jpg"
+- Isicad
+- SolidWorks
+- Parasolid
+title: Еще немного про Parasolid
 ---
 
 Тема "монополии" ядра Parasolid очень меня заинтересовала. Особенно, его выбор компанией SolidWorks. SW я люблю давно - это, так сказать, моя первая любовь среди мира CAD. У меня даже где-то залежался сертификат инструктора по этой системе. Но сейчас не об этом.

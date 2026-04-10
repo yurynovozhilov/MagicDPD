@@ -3,12 +3,6 @@ author: GlukRazor
 date: 2017-07-03 17:01:57+00:00
 layout: post
 link_previews:
-- description: "Simvascular is the only fully open-source software package providing
-    a complete pipeline \n  from medical image data segmentation to patient specific
-    blood flow simulation \n  and analysis."
-  image: ''
-  title: SimVascular
-  url: http://simvascular.github.io/
 - description: MRI and CT scans reveal what’s happening inside a patient’s body. Surgeons
     often study such scans when planning operations. Alison Marsden, an associate
     prof...
@@ -20,13 +14,19 @@ link_previews:
     blood flow simulation \n  and analysis."
   image: ''
   title: SimVascular
+  url: http://simvascular.github.io/
+- description: "Simvascular is the only fully open-source software package providing
+    a complete pipeline \n  from medical image data segmentation to patient specific
+    blood flow simulation \n  and analysis."
+  image: ''
+  title: SimVascular
   url: https://simvascular.github.io/
 source: vk
 tags:
 - opensource
 - SimVascular
 - CFD
-title: "SimVascular - все, что вам нужно для моделирования тока крови"
+title: SimVascular - все, что вам нужно для моделирования тока крови
 ---
 
 http://simvascular.github.io/

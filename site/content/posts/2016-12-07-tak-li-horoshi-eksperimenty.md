@@ -5,11 +5,11 @@ layout: post
 link_previews:
 - description: Enjoy the videos and music you love, upload original content, and share
     it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
+  image: https://i.ytimg.com/vi/7JOD89Xsc2E/hqdefault.jpg
+  title: The Limitations of Physical Prototypes | Mark Gleason
   url: https://www.youtube.com/watch?v=7JOD89Xsc2E
 source: vk
-title: "Так ли хороши эксперименты?"
+title: Так ли хороши эксперименты?
 ---
 
 !

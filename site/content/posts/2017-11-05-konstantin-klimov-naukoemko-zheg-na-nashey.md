@@ -1,12 +1,25 @@
 ---
+author: GlukRazor
+date: 2017-11-05 11:31:48+00:00
 layout: post
-title: "Константин Климов наукоемко жег на нашей конференции #acum by #cadfem"
-date: 2017-11-05T11:31:48+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3619
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23cadfem
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23acum
 source: vk
 tags:
-  - cadfem
-  - acum
+- cadfem
+- acum
+title: 'Константин Климов наукоемко жег на нашей конференции #acum by #cadfem'
 ---
 
 http://ift.tt/2j3UFedMedia

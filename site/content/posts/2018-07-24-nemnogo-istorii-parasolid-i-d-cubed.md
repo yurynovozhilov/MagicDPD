@@ -1,16 +1,21 @@
 ---
+author: GlukRazor
+date: 2018-07-24 18:00:30+00:00
+images:
+- url: /assets/images/1035.jpg
 layout: post
-title: "Немного истории Parasolid и D-Cubed"
-date: 2018-07-24T18:00:30+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Parasolid - Wikipedia
+  url: https://en.wikipedia.org/wiki/Parasolid
 source: vk
 tags:
-  - CAD
-  - Siemens
-  - Parasolid
-  - UGS
-images:
-  - url: "/assets/images/1035.jpg"
+- CAD
+- Siemens
+- Parasolid
+- UGS
+title: Немного истории Parasolid и D-Cubed
 ---
 
 Если об этом начать задумываться, то невольно удивляешься тому, как устроена современная CAD отрасль. Ведь привычное нам геометрическое ядро Parasolid совсем не является свободным, общедоступным и бесплатным. Оно появилось в 1988 году в результате работы компании Shape Data Ltd. Сама компания была основана в 1974 году выходцами из Кэмбриджа. Позднее компания была поглащена Siemens PLM (правда тогда это был еще UGS Corp.).

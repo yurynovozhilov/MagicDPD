@@ -1,11 +1,16 @@
 ---
-layout: post
-title: "WelSim - opensource Workbench?"
-date: 2023-11-08T16:02:16+00:00
-author: "Yury Novozhilov"
-source: vk
+author: Yury Novozhilov
+date: 2023-11-08 16:02:16+00:00
 images:
-  - url: "/assets/images/2574.jpg"
+- url: /assets/images/2574.jpg
+layout: post
+link_previews:
+- description: '#1 engineering simulation software for the open-source community.'
+  image: https://welsim.com/android-chrome-512x512.png
+  title: WELSIM Quantify the Uncertain
+  url: https://welsim.com
+source: vk
+title: WelSim - opensource Workbench?
 ---
 
 !

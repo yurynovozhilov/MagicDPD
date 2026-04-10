@@ -1,9 +1,15 @@
 ---
+author: Yury Novozhilov
+date: 2026-02-24 12:04:10+00:00
 layout: post
-title: "Cadence завершил поглощение Hexagon’s Design and Engineering Business"
-date: 2026-02-24T12:04:10+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: ''
+  image: https://www.cadence.com/content/dam/cadence-www/global/en_US/images/site-images/common/social-thumbnail.jpg
+  title: Cadence Completes Acquisition of Hexagon’s Design and Engineering Business,
+    Advancing Leadership in Physical AI and Multiphysics
+  url: https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2026/cadence-completes-acquisition-of-hexagons-design-and-engineering.html
 source: vk
+title: Cadence завершил поглощение Hexagon’s Design and Engineering Business
 ---
 
 Вчера компания Cadence завершила сделку. Стоимость покупки составила 2,7 млрд евро, включая примерно 150 млн евро налогов, связанных с транзакцией, состоит из 70% наличных средств и 30% обыкновенных акций Cadence.

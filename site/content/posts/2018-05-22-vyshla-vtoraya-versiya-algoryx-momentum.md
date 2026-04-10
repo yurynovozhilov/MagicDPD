@@ -1,15 +1,21 @@
 ---
+author: GlukRazor
+date: 2018-05-22 18:00:35+00:00
 layout: post
-title: "Вышла вторая версия Algoryx Momentum"
-date: 2018-05-22T18:00:35+00:00
-author: "GlukRazor"
+link_previews:
+- description: Simulation technology - a key in the dynamic process to design, test
+    and learn. Algoryx Momentum will liberate your potential.
+  image: https://www.algoryx.se/mainpage/wp-content/uploads/2018/05/car_momentum-feature_image.png
+  title: Introducing Algoryx Momentum version 2.0 - Algoryx
+  url: https://www.algoryx.se/newsmedia/algoryx-momentum-announcing-version-2-0/
 source: vk
 tags:
-  - RBD
-  - Python
-  - Algoryx
-  - Momentum
-  - SpaceClaim
+- RBD
+- Python
+- Algoryx
+- Momentum
+- SpaceClaim
+title: Вышла вторая версия Algoryx Momentum
 ---
 
 Вторая версия данного RBD кода дает возможность расширенного просмотра сил в контактах и, наконец-то, открывает возможность по скриптованию на Python. Появление Python, в свою очередь, снимает все ограничения ПО — теперь вы можете делать все что пожелаете.

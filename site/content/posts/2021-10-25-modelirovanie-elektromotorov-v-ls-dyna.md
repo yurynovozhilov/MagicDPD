@@ -1,15 +1,22 @@
 ---
+author: MagicDPD
+date: 2021-10-25 13:01:22+00:00
 layout: post
-title: "Моделирование электромоторов в LS-DYNA"
-date: 2021-10-25T13:01:22+00:00
-author: "MagicDPD"
+link_previews:
+- description: This videos shows some of the capabilities of the LS-DYNA EM solver
+    (Post R13). A standard voltage of 12 V is applied between the two brushes of the
+    motor. P...
+  image: https://i.ytimg.com/vi/EjlGB4YWqiY/maxresdefault.jpg
+  title: 'LS-DYNA EM : D.C Electric motor'
+  url: https://www.youtube.com/watch?v=EjlGB4YWqiY
 source: vk
 tags:
-  - lsdyna
-  - dc
-  - em
-  - ansys
-  - motor
+- lsdyna
+- dc
+- em
+- ansys
+- motor
+title: Моделирование электромоторов в LS-DYNA
 ---
 
 https://www.youtube.com/watch?v=EjlGB4YWqiY

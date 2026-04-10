@@ -1,17 +1,17 @@
 ---
+author: GlukRazor
+date: 2019-03-13 17:02:24+00:00
+images:
+- url: /assets/images/1391.jpg
 layout: post
-title: "Моделирование процесса установки стентов"
-date: 2019-03-13T17:02:24+00:00
-author: "GlukRazor"
 source: vk
 tags:
-  - LS_DYNA
-  - DYNAMore
-  - stent
-  - bio
-  - implicit
-images:
-  - url: "/assets/images/1391.jpg"
+- LS_DYNA
+- DYNAMore
+- stent
+- bio
+- implicit
+title: Моделирование процесса установки стентов
 ---
 
 Когда-то недавно я писал про моделирование стентов в LS-DYNA (http://magicdpd.ru/моделирование-установки-стента-в-ls-dyna-implicit/). Тот пост был по мотивам любопытного видео.

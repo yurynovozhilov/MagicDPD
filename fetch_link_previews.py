@@ -9,18 +9,27 @@
 
 import html as html_lib
 import json
-import os
 import re
 import sys
 from pathlib import Path
-from urllib.parse import parse_qs, urlparse
+from urllib.parse import urlparse
 
 import frontmatter
 import requests
+from link_preview_utils import (
+    cache_lookup_keys,
+    canonicalize_preview_url,
+    collect_markdown_link_labels,
+    extract_urls_from_body as util_extract_urls_from_body,
+    is_useful_preview_url,
+    normalize_preview as util_normalize_preview,
+    preview_has_content as util_preview_has_content,
+    preview_needs_refresh,
+    preview_priority as util_preview_priority,
+)
 
 POSTS_DIR = Path("site/content/posts")
 CACHE_FILE = Path("link_previews_cache.json")
-URL_RE = re.compile(r"https?://[^\s\)\]>\"'<,]+")
 REQUEST_TIMEOUT = 5  # секунд
 
 # Заголовки, которые имитируют обычный браузер (избегаем 403)
@@ -51,15 +60,16 @@ def save_cache(cache: dict) -> None:
 
 def fetch_preview(url: str) -> dict | None:
     """Возвращает dict с title/description/image или None при ошибке."""
+    request_url = canonicalize_preview_url(url)
     try:
-        resp = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT, allow_redirects=True)
+        resp = requests.get(request_url, headers=HEADERS, timeout=REQUEST_TIMEOUT, allow_redirects=True)
         resp.raise_for_status()
         content_type = resp.headers.get("Content-Type", "")
         if "text/html" not in content_type:
             return None
         html = resp.text
     except Exception as exc:
-        print(f"  SKIP {url} — {exc}", file=sys.stderr)
+        print(f"  SKIP {request_url} — {exc}", file=sys.stderr)
         return None
 
     # Парсим OG / стандартные мета-теги без внешних зависимостей
@@ -77,78 +87,39 @@ def fetch_preview(url: str) -> dict | None:
         description = ""
 
     preview = {
-        "url": url,
+        "url": canonicalize_preview_url(resp.url or request_url),
         "title": title,
         "description": description,
         "image": image,
     }
-    return normalize_preview(preview)
+
+    if preview["title"] in {"", "- YouTube"} and "youtube.com" in urlparse(preview["url"]).netloc.lower():
+        oembed = _fetch_youtube_oembed(preview["url"])
+        if oembed.get("title"):
+            preview["title"] = oembed["title"]
+        if not preview["image"] and oembed.get("thumbnail_url"):
+            preview["image"] = oembed["thumbnail_url"]
+
+    return util_normalize_preview(preview)
 
 
-def _youtube_video_id(url: str) -> str | None:
-    parsed = urlparse(url)
-    host = parsed.netloc.lower()
+def _fetch_youtube_oembed(url: str) -> dict:
+    try:
+        resp = requests.get(
+            "https://www.youtube.com/oembed",
+            params={"url": url, "format": "json"},
+            headers=HEADERS,
+            timeout=min(REQUEST_TIMEOUT, 3),
+        )
+        resp.raise_for_status()
+        data = resp.json()
+    except Exception:
+        return {}
 
-    if host.endswith("youtu.be"):
-        video_id = parsed.path.strip("/").split("/")[0]
-        return video_id or None
-
-    if "youtube.com" not in host:
-        return None
-
-    if parsed.path == "/watch":
-        return parse_qs(parsed.query).get("v", [None])[0]
-
-    if parsed.path.startswith("/shorts/"):
-        video_id = parsed.path.split("/", 2)[2]
-        return video_id or None
-
-    return None
-
-
-def _preview_host(url: str) -> str:
-    return urlparse(url).netloc.lower()
-
-
-def _preview_has_content(preview: dict) -> bool:
-    return any((preview.get(key) or "").strip() for key in ("title", "description", "image"))
-
-
-def _preview_priority(preview: dict) -> int:
-    host = _preview_host(preview.get("url", ""))
-    score = 0
-
-    if (preview.get("title") or "").strip():
-        score += 4
-    if (preview.get("description") or "").strip():
-        score += 2
-    if (preview.get("image") or "").strip():
-        score += 4
-
-    if "youtube.com" in host or host.endswith("youtu.be"):
-        score += 1
-
-    return score
-
-
-def normalize_preview(preview: dict) -> dict:
-    """Backfill provider-specific fields so cached entries can improve over time."""
-    url = preview.get("url", "")
-    title = (preview.get("title") or "").strip()
-    description = (preview.get("description") or "").strip()
-    image = (preview.get("image") or "").strip()
-
-    if not image:
-        video_id = _youtube_video_id(url)
-        if video_id:
-            # hqdefault is broadly available and more reliable than maxresdefault.
-            image = f"https://i.ytimg.com/vi/{video_id}/hqdefault.jpg"
-
-    preview["title"] = title
-    preview["description"] = description
-    preview["image"] = image
-
-    return preview
+    return {
+        "title": html_lib.unescape((data.get("title") or "").strip()),
+        "thumbnail_url": html_lib.unescape((data.get("thumbnail_url") or "").strip()),
+    }
 
 
 def _extract_meta(html: str, name: str) -> str:
@@ -173,27 +144,12 @@ def _extract_title(html: str) -> str:
 
 def extract_urls_from_body(body: str) -> list[str]:
     """Извлекает URL из markdown-тела поста (не из front matter)."""
-    urls = URL_RE.findall(body)
-    # Убираем дубликаты, сохраняя порядок
-    seen: set[str] = set()
-    result = []
-    for u in urls:
-        # Чистим хвостовые пунктуационные символы
-        u = u.rstrip(".,;:!?)]")
-        if u not in seen and len(u) < 2048:
-            seen.add(u)
-            result.append(u)
-    return result
+    return util_extract_urls_from_body(body)
 
 
 def is_useful_url(url: str) -> bool:
     """Фильтруем заведомо бесполезные URL (изображения, архивы и т.д.)."""
-    parsed = urlparse(url)
-    path = parsed.path.lower()
-    skip_exts = {".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg",
-                 ".pdf", ".zip", ".tar", ".gz", ".mp4", ".mp3"}
-    _, ext = os.path.splitext(path)
-    return ext not in skip_exts
+    return is_useful_preview_url(url)
 
 
 def process_post(md_path: Path, cache: dict) -> bool:
@@ -203,30 +159,51 @@ def process_post(md_path: Path, cache: dict) -> bool:
 
     body = post.content
     urls = [u for u in extract_urls_from_body(body) if is_useful_url(u)]
+    label_map = collect_markdown_link_labels(body)
 
     if not urls:
         return False
 
-    # Определяем, какие URL ещё не в кэше
-    new_urls = [u for u in urls if u not in cache]
+    refresh_urls = []
+    for url in urls:
+        cached = None
+        found_cached = False
+        for key in cache_lookup_keys(url):
+            if key in cache:
+                found_cached = True
+                cached = cache[key]
+                break
+        if not found_cached:
+            refresh_urls.append(url)
+        elif isinstance(cached, dict) and preview_needs_refresh(cached, url):
+            refresh_urls.append(url)
 
-    if new_urls:
-        print(f"  Fetching {len(new_urls)} new URL(s) in {md_path.name}…")
-        for url in new_urls:
+    if refresh_urls:
+        print(f"  Fetching {len(refresh_urls)} URL(s) in {md_path.name}…")
+        for url in refresh_urls:
             print(f"    → {url}")
             result = fetch_preview(url)
             # Сохраняем даже None, чтобы не перефетчивать неудачные URL
             cache[url] = result
+            if isinstance(result, dict):
+                for key in cache_lookup_keys(result.get("url", "")):
+                    cache[key] = result
 
     # Собираем финальный список превью (только успешные)
     previews: list[tuple[int, int, dict]] = []
     for index, url in enumerate(urls):
-        entry = cache.get(url)
+        entry = None
+        for key in cache_lookup_keys(url):
+            candidate = cache.get(key)
+            if isinstance(candidate, dict):
+                entry = dict(candidate)
+                break
         if entry:
-            entry = normalize_preview(dict(entry))
+            entry["url"] = entry.get("url") or url
+            entry = util_normalize_preview(entry, label_map)
             cache[url] = entry
-            if _preview_has_content(entry):
-                previews.append((_preview_priority(entry), index, entry))
+            if util_preview_has_content(entry):
+                previews.append((util_preview_priority(entry), index, entry))
 
     previews.sort(key=lambda item: (-item[0], item[1]))
     previews_data = [entry for _, _, entry in previews]

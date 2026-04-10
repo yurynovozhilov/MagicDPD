@@ -1,18 +1,30 @@
 ---
+author: GlukRazor
+date: 2018-01-21 17:01:07+00:00
+images:
+- url: /assets/images/740.jpg
 layout: post
-title: "Spectre и Meltdown против ANSYS"
-date: 2018-01-21T17:01:07+00:00
-author: "GlukRazor"
+link_previews:
+- description: Literally, while I was sorting and running benchmarks and prepping
+    the new benchmarks data originally titled. ANSYS Release 18.2 Ball Grid Array
+    Benchmark
+  image: https://www.padtinc.com/wp-content/uploads/2022/02/01152018-t1-meltdown-spectre-numerical-sim-benchmark.png
+  title: Spectre Side-Channel and Meltdown – How will living in this new reality affect
+    the world of numerical simulation? - PADT
+  url: http://www.padtinc.com/blog/the-focus/spectre-side-channel-and-meltdown-how-will-living-in-this-new-reality-affect-the-world-of-numerical-simulation
+- description: ''
+  image: ''
+  title: Meltdown and Spectre
+  url: https://spectreattack.com
 source: vk
 tags:
-  - ANSYS
-  - HPC
-  - Mechanical
-  - Meltdown
-  - Spectre
-  - padtinc
-images:
-  - url: "/assets/images/740.jpg"
+- ANSYS
+- HPC
+- Mechanical
+- Meltdown
+- Spectre
+- padtinc
+title: Spectre и Meltdown против ANSYS
 ---
 
 В начале этого года прогремели новости об обнаружении уязвимостей практически во всех процессорах x86_64 и ARM. Уязвимости получили названия Spectre и Meltdown - у них даже есть свой сайт https://spectreattack.com (а у вас есть? :-)). Я не буду вдаваться в подробности работы уязвимостей, скажу только, что с их появлением можно забыть о концепции защищенной памяти процесса, которая декларировалась уже лет 10 - это огромная дыра в безопасности!

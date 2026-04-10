@@ -6,7 +6,7 @@ link_previews:
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2voTLJC
+  url: https://m.vk.com/feed?section=search&q=%23Altair
 source: vk
 tags:
 - Korea
@@ -15,7 +15,8 @@ tags:
 - HyperMesh
 - HyperBlocks
 - тетрис
-title: "#Altair #Korea сделали расширение #HyperBlocks  для #HyperMesh, которое позволяет вам поиграть в #тетрис!"
+title: '#Altair #Korea сделали расширение #HyperBlocks  для #HyperMesh, которое позволяет
+  вам поиграть в #тетрис!'
 ---
 
 !!

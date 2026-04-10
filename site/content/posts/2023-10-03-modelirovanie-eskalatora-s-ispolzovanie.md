@@ -1,9 +1,16 @@
 ---
+author: Yury Novozhilov
+date: 2023-10-03 15:02:27+00:00
 layout: post
-title: "Моделирование эскалатора с использованием RecurDyn"
-date: 2023-10-03T15:02:27+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: 'This video shows a simulation of a complex escalator structure optimized
+    with powerful analysis algorithms.#RecurDyn #MultiBodyDynamics #CAE#MBD #MFBD
+    #Digit...'
+  image: https://i.ytimg.com/vi/KugHmF-sVuA/maxresdefault.jpg
+  title: Escalator simulation using RecurDyn
+  url: https://www.youtube.com/watch?v=KugHmF-sVuA
 source: vk
+title: Моделирование эскалатора с использованием RecurDyn
 ---
 
 https://www.youtube.com/watch?v=KugHmF-sVuA

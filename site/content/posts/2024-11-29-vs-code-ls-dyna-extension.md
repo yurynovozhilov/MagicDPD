@@ -1,9 +1,16 @@
 ---
+author: Yury Novozhilov
+date: 2024-11-29 07:54:48+00:00
 layout: post
-title: "VS Code LS-DYNA extension"
-date: 2024-11-29T07:54:48+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: Syntax Highlighting and Snippets for LS-Dyna Deck Generation in VS
+    Code - osullivryan/vscode-lsdyna
+  image: https://opengraph.githubassets.com/9b633cbfe96dc10414d5b8598c0b38cdc1a146808fb85602d40df60b23858864/osullivryan/vscode-lsdyna
+  title: 'GitHub - osullivryan/vscode-lsdyna: Syntax Highlighting and Snippets for
+    LS-Dyna Deck Generation in VS Code'
+  url: https://github.com/osullivryan/vscode-lsdyna
 source: vk
+title: VS Code LS-DYNA extension
 ---
 
 Для редактирования тяжелых текстовых файлов (моделей LS-DYNA, естественно) я долго сидел на Sublime Text. Но что-то данный редактор стал регулярно просить денег и перестал развиваться. Развитие AI и прочего модного заставило пересесть на VC Code, который бесплатный, кросс платформенный, а на macOS может еще и с ChatGPT  взаимодействовать напрямую. Короче, рай для разработчика, хотя меня и трудно назвать разработчиком.

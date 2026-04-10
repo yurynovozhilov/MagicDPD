@@ -1,11 +1,18 @@
 ---
-layout: post
-title: "Что нового в ABAQUS 2019"
-date: 2019-02-09T17:00:29+00:00
-author: "GlukRazor"
-source: vk
+author: GlukRazor
+date: 2019-02-09 17:00:29+00:00
 images:
-  - url: "/assets/images/1348.jpg"
+- url: /assets/images/1348.jpg
+layout: post
+link_previews:
+- description: The Abaqus Unified FEA product suite offers powerful and complete solutions
+    for both routine and sophisticated engineering problems covering a vast spectrum
+    ...
+  image: https://i.ytimg.com/vi/AAl9Q6p2QXw/maxresdefault.jpg
+  title: VIAS Presents 2019 Abaqus Updates
+  url: https://www.youtube.com/watch?v=AAl9Q6p2QXw
+source: vk
+title: Что нового в ABAQUS 2019
 ---
 
 Огромный вебинар по нововведениям в Abaqus 2019. При этом в одном видео говорят сразу и про неявный (Abaqus\Standat), и про явный (Abaqus\Explicit) решатели.
