@@ -10,9 +10,6 @@ tags:
   - LSDYNA
 ---
 
-AT_MOMENT_CURVATURE_BEAM
-
-
 Коллеги из университета Небраски-Линкольна (University of Nebraska-Lincoln) разработали свою собственную модель материала, способную моделировать металлический трос при помощи одного балочного элемента!
 
 #LSDYNA #MAT_MOMENT_CURVATURE_BEAM

@@ -18,7 +18,6 @@ tags:
 title: Wolfram On-Demand
 ---
 
-Wolfram On-Demand
 https://blog.rescale.com/mathematica-on-the-cloud/
 
 #Wolfram анонсировал запуск облачных лицензий на #Mathematica в облаке #Rescale. Теперь для сложных аналитических расчетов моно использовать этот #HPC #Cloud

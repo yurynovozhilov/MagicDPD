@@ -10,9 +10,6 @@ tags:
   - ansys
 ---
 
-Новые возможности решателя LS-DYNA R13 - часть первая
-
-
 https://youtu.be/jZp1yISsBG8?list=PLhkE5O59hYsGBmcYGkRZZMzKgSUTbTIPd
 
 

@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/1667.jpg"
 ---
 
-На санках с горки с EDEM
 #DEM #EDEM #simulationfriday
 by Юрий Новожилов
 

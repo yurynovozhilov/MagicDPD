@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Сегодня я предлагаю вам обмазаться в HPC
-
 Ссылка на сокращенную версию выступления Джейсона Хуанга на CES.
 
 https://www.youtube.com/watch?v=uDNXjnOqJ-A

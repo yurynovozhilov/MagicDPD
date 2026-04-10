@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/1846.jpg"
 ---
 
-Большие расчеты MPM на GPU
 #HPC #MPM
 by Юрий Новожилов
 

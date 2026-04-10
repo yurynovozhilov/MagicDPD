@@ -14,7 +14,6 @@ images:
   - url: "/assets/images/1742.jpg"
 ---
 
-Удаленная работа с инженерной графикой
 #HPC #OpenGL #RDP #RemoteFX #remoteviz
 by Юрий Новожилов
 

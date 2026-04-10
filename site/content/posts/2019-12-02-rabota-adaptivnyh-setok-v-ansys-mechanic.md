@@ -13,7 +13,6 @@ images:
   - url: "/assets/images/1648.jpg"
 ---
 
-Работа адаптивных сеток в ANSYS Mechanical
 #ANSYS #Mechanical #mesh #NLAD
 by Юрий Новожилов
 

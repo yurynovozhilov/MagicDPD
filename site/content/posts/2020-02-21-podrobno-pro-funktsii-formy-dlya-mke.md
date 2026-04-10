@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/1704.jpg"
 ---
 
-Подробно про функции формы для МКЭ
 #FEM #mesh #theory
 by Юрий Новожилов
 

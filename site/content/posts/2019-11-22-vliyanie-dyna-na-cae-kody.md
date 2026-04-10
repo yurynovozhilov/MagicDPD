@@ -16,6 +16,4 @@ images:
   - url: "/assets/images/1640.jpg"
 ---
 
-Влияние DYNA на CAE коды
-
 [Влияние DYNA на CAE коды - MagicDPD](https://magicdpd.ru/survey-to-determine-the-value-of-dyna/)

@@ -15,7 +15,6 @@ tags:
 title: SIMULIA RUM Conference Opener 2016
 ---
 
-SIMULIA RUM Conference Opener 2016
 https://www.youtube.com/watch?v=BkV3KqvgK4k
 
 Небольшое заклинательное видео от #SIMULIA

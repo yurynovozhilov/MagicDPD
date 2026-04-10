@@ -6,8 +6,6 @@ author: "GlukRazor"
 source: vk
 ---
 
-Media📼 Самообучающаяся ходьбе компьютерная модель. (xkcdo…
-
 http://ift.tt/2ClporJ
 
 http://ift.tt/2zfTVbI

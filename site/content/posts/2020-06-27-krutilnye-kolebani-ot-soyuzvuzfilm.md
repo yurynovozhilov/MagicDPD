@@ -8,6 +8,4 @@ images:
   - url: "/assets/images/1791.jpg"
 ---
 
-Крутильные колебани от СоюзВузФильм
-
 [Крутильные колебани от СоюзВузФильм - MagicDPD](https://magicdpd.ru/torsional-vibrations-from-soyuzvuzfilm/)

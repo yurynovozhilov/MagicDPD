@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-SubD in ANSA
-
 Странно, что раньше не было.
 
 https://www.youtube.com/watch?v=6h7wE6LXTw0

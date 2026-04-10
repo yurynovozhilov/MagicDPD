@@ -10,4 +10,3 @@ images:
   - url: "/assets/images/1693.jpg"
 ---
 
-#Гербарий надо обозреть

@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Доклад Поля ДюБуа на OpenRadioss Users' Day 2025
-
 Когда он докладывает, тема уже не так и важна.
 
 https://youtu.be/_HNegDlUnes?si=CQV2_r76Fk3A9ukC

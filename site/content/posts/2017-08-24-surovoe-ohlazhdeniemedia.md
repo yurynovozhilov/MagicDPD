@@ -15,8 +15,6 @@ source: vk
 title: Суровое охлаждениеMedia
 ---
 
-Суровое охлаждениеMedia
-
 http://ift.tt/2iuJP08
 
 http://ift.tt/2vsSm4W

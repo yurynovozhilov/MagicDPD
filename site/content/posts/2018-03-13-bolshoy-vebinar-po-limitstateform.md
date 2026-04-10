@@ -20,7 +20,6 @@ images:
   - url: "/assets/images/848.jpg"
 ---
 
-Большой вебинар по LimitState:FORM
 LimitState:FORM особое ПО, предназначенное для генерации конструкций оптимальной топологии (http://limitstate3d.com/). Только конструкции оно генерирует сразу в виде балочной структуры, за счет чего результаты получаются очень быстро.
 
 Разработчики называют это оптимизацией на основе Truss-Based Design, хотя на самом деле это Discontinuity layout optimization (https://en.wikipedia.org/wiki/Discontinuity_layout_optimization).

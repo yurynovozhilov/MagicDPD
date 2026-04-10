@@ -8,9 +8,6 @@ tags:
   - fortran
 ---
 
-Освоить Fortran за раз
-
-
 https://youtu.be/__2UgFNYgf8
 
 

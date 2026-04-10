@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/1259.jpg"
 ---
 
-Shrink-wrapping для упрощения STL
 Небольшое демо от Polygonica по работе Shrink-wrapping для существенного снижения полигональности STL моделей.
 
 Напомню, что движок Polygonica используется в SpaceClaim, и там опция Shrinkwrap одна из самых востребованных при работе с STL.

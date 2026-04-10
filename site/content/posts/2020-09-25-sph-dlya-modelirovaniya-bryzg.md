@@ -13,7 +13,6 @@ images:
   - url: "/assets/images/1832.jpg"
 ---
 
-SPH для моделирования брызг
 #LS_DYNA #Sloshing #SPH
 by Юрий Новожилов
 

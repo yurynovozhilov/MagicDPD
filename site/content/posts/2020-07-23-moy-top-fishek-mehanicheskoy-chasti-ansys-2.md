@@ -13,6 +13,4 @@ images:
   - url: "/assets/images/1803.jpg"
 ---
 
-Мой топ фишек механической части ANSYS 2020 R2
-
 [Мой топ фишек механической части ANSYS 2020 R2 - MagicDPD](https://magicdpd.ru/whats-new-in-mechanical-2020-r2/)

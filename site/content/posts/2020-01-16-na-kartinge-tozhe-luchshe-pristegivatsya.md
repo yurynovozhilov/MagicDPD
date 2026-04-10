@@ -10,6 +10,4 @@ images:
   - url: "/assets/images/1675.jpg"
 ---
 
-На картинге тоже лучше пристегиваться
-
 [На картинге тоже лучше пристегиваться - MagicDPD](https://magicdpd.ru/karting-simulation-fem-lsdyna/)

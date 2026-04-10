@@ -8,7 +8,6 @@ tags:
   - KIT
 ---
 
-На здоровье!
 https://www.dynamore.de/de/download/presentation/dokumente/2013-Bio-ppt/2_DYNAmore_Info_BIO_Martinez_et_al.pdf
 
 Прошли новогодние праздники, и нам пора задуматься о нашем здоровье. Коллеги из Технологического института Карлсруэ (Karlsruhe Institute of Technology, #KIT) в свое время моделировали человеческие зубы и челюсти. А все работы по биомедицине, как водится, получаются очень эффектными и интересными.

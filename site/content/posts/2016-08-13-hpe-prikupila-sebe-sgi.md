@@ -24,7 +24,6 @@ tags:
 title: HPE прикупила себе SGI
 ---
 
-HPE прикупила себе SGI
 https://www.hpcwire.com/2016/08/11/hpe-gobbles-sgi-larger-slice-11b-hpc-pie/
 
 Компания #HPE (которая Hewlett Packard Enterprise) на днях анонсировала сделку по приобретению легендарной #SGI (которая Silicon Graphics Inc., воспетая Виктором Пелевиным в «Generation „П“»).

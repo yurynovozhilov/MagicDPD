@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/1747.jpg"
 ---
 
-Подмоделирование в ANSYS
 #ANSYS #submodeling
 by Ян Поженько
 

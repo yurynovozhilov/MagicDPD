@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Настольное землетрясение
-
 Ayoub Attache, специалист по Unreal Engine 5, показал интересную "симуляцию" землетрясения. Конечно, это вам не честный расчет Solid-Soil-Iterraction в каком-нибудь ACS SASSI, но выглядит интересно.
 
 https://www.youtube.com/watch?v=KEIWDGxEqbw

@@ -10,8 +10,6 @@ tags:
   - ansys
 ---
 
-Ansys Batch Connections
-
 Где-то год назад Ansys выкатил функцию Batch Connections и про нее почему-то мало кто знает до сих пор, хотя она очень полезна и важна.
 
 

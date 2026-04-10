@@ -13,9 +13,6 @@ images:
   - url: "/assets/images/1372.jpg"
 ---
 
-Фотореалистичные результаты расчетов
-
-
 https://www.youtube.com/watch?v=scigk4vVbF4
 
 

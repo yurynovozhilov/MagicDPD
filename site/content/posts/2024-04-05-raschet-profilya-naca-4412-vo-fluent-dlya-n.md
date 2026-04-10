@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Расчет профиля NACA 4412 во Fluent для начинающих
-
 https://www.youtube.com/watch?v=nzvEvLCxOss
 
 [ANSYS Fluent NACA 4412 (or NACA 0012) 2D airfoil CFD Tutorial with Experimental Validation (2025)](https://www.youtube.com/watch?v=nzvEvLCxOss)

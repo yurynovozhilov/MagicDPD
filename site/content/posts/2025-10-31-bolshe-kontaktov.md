@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Больше контактов
-
 Тут коллеги показывают новые публикации про контакты. Выглядит сурово, но меня больше удивили не контакты, а то, какие большие деформации и искажения может выдержать модель.
 
 https://www.linkedin.com/posts/alexispaques_a-new-contact-solver-dropped-in-movies-ugcPost-7387045957852639232-h06Y

@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/1261.jpg"
 ---
 
-Материалы Nordic LS-DYNA User's Conference 2018
 Стал доступен архив материалов с прошедшей этой осенью бесплатной однодневной конференции DYNAmore. В архиве 16 отличных докладов для всех любителей LS-DYNA.
 https://www.dynamore.se/en/training/conferences/past/nordic-ls-dyna-conference-2018
 

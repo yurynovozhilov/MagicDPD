@@ -10,4 +10,3 @@ images:
   - url: "/assets/images/1588.jpg"
 ---
 
-Сетка для #CFD - это почти все!

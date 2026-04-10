@@ -12,8 +12,6 @@ tags:
   - ALE
 ---
 
-Раскрытие парашюта - очень сложный FSI.
-
 А какой код/связка кодов еще может смоделировать такой процесс?
 
 [opening of parachute](https://www.youtube.com/watch?v=rsnhDExHa3I)

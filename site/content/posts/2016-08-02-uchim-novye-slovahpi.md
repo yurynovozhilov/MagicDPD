@@ -9,7 +9,6 @@ tags:
   - HPC
 ---
 
-Учим новые слова:#HPI
 http://www.nextplatform.com/2016/07/14/ranking-high-performance-interconnects/amp/
 
 Прочитал легкий ликбез на тему интерконнекта для #HPC расчетов. Если вы действительно хотите HPC систему, а не Эн-Эр-Эс, то вам тоже стоит узнать об различиях работы таких High Performance Interconnect (HPI) как:

@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Что задумал SimScale?
-
 У их главного тизер с результатами нелинейных расчетов. Может они собрались выкатить явный решатель?
 
 https://www.linkedin.com/embed/feed/update/urn:li:share:7265699492396453889

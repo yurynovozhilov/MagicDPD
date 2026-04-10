@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Ansys Simulation World 2025
-
 Стала доступна программа бесплатной виртуальной конференции, которая в этом году пройдет 16-17 июля. Много про ИИ, но и по делу тоже докладывают.
 
 https://www.ansys.com/events/simulation-world

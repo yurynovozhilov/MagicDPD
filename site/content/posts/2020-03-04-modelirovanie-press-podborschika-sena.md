@@ -11,6 +11,4 @@ images:
   - url: "/assets/images/1711.jpg"
 ---
 
-Моделирование пресс-подборщика сена
-
 [Моделирование пресс-подборщика сена - MagicDPD](https://magicdpd.ru/hay-baler-machine-simulation/)

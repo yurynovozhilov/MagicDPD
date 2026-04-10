@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Rocky in Action
-
 На этой неделе на официальном канале Rocky DEM появился новый плейлист с демонтсрацией ключевых фишек пакета и обучением их применению
 
 https://www.youtube.com/watch?v=058E_Ftoiwo&list=PLwvZX4pn9K_Vd17dLV4azmlc8M1Sd7JYe

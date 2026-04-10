@@ -13,8 +13,6 @@ images:
   - url: "/assets/images/1291.jpg"
 ---
 
-Генерация HEX сеток в MeshWorks
-
 Небольшая выдержка из вебинара DEP (Detroit Engineered Products) по генерации hex сеток в их препроцессоре MeshWorks.
 
 

@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/1722.jpg"
 ---
 
-Лекции MIT по МКЭ
 #ADINA #FEM #legendpeople
 by Юрий Новожилов
 

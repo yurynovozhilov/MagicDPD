@@ -15,7 +15,6 @@ images:
   - url: "/assets/images/1799.jpg"
 ---
 
-Lego Crash Test Webinar
 #CAViT #LEGO #LoCo #LS_DYNA #Scale_GmbH #SDM
 by Юрий Новожилов
 

@@ -29,7 +29,6 @@ tags:
 title: True междисциплинарный проект
 ---
 
-True междисциплинарный проект
 http://www.finiteelementanalysis.com.au/featured/end-to-end-system-design-with-ansys-an-electric-guitar-example/
 
 Команда #LEAP #FEA Team промоделировала легендарную гитару #Stratocaster и сыграла на ней композицию "Smoke on the Water" (даже есть семпл с результатом на #SoundCloud).

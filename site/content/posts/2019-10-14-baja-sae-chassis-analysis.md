@@ -13,7 +13,6 @@ images:
   - url: "/assets/images/1614.jpg"
 ---
 
-BAJA SAE Chassis Analysis
 #ANSYS #ANSYS_Student_Community #Mechanical #SpaceClaim
 by Юрий Новожилов
 

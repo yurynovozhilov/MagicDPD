@@ -10,4 +10,3 @@ images:
   - url: "/assets/images/1370.jpg"
 ---
 
-#ANSYS для трубопроводов!

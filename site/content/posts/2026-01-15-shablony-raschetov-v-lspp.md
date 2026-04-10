@@ -8,8 +8,6 @@ images:
   - url: "/assets/images/3084.jpg"
 ---
 
-Шаблоны расчетов в LSPP
-
 Сам еще не пробовал, но это выглядит как супер правильное решение для тех, у кого LSPP является основным инструментом подготовки модели на основе готовой сетки.
 
 https://www.ansys.com/content/dam/events/2025/transportation-summit/presentations/day-2/track-1-blast-impact/blastimpact-danielhilding.pdf

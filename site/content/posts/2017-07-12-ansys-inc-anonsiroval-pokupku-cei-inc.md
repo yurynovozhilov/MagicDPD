@@ -17,7 +17,6 @@ tags:
 title: ANSYS, Inc анонсировал покупку CEI, Inc.
 ---
 
-ANSYS, Inc анонсировал покупку CEI, Inc.
 https://www.ensight.com/ansys/
 
 Вчера наш любимы #ANSYS анонсировал покупку компании Computational Engineering International, Inc (#CEI https://www.ensight.com). Последняя является разработчиком семейства программного обеспечения #EnSight - знаменитого всеядного #CAE постпроцессора

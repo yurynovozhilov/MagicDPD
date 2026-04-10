@@ -9,9 +9,6 @@ tags:
   - indy_autonomous_challenge
 ---
 
-Виртуальная гонка автономных автомобилей
-
-
 https://www.youtube.com/watch?v=SEI5V-WRMdw
 
 

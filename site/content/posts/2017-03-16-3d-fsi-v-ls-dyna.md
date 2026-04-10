@@ -20,7 +20,6 @@ tags:
 title: 3D FSI в LS-DYNA
 ---
 
-3D FSI в LS-DYNA
 https://www.youtube.com/watch?v=eLI4p5Ifcds
 
 Учебный пример/вебинар #LSTC по постановке #FSI в #LSDYNA для трехмерного случая. Изучаем #ICFD и #Implicit.

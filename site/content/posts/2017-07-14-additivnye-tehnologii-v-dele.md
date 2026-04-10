@@ -21,7 +21,6 @@ tags:
 title: Аддитивные технологии в деле
 ---
 
-Аддитивные технологии в деле
 http://innovationintelligence.com/rocker-arms-diet/
 
 #Altair хвастает результатами своей работы

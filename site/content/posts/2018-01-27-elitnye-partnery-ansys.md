@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/751.jpg"
 ---
 
-Элитные партнеры ANSYS
 Очень приятная новость: компания CADFEM CIS получила статус Elite Channel Partner от ANSYS. Таких компаний среди партнеров ANSYS по всему миру менее 1% (19 из более чем 2000)!!!
 
 https://www.cadfem-cis.ru/list/article/cadfemcis-elite2018/

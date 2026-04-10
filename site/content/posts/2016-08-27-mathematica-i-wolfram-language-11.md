@@ -24,7 +24,6 @@ tags:
 title: Mathematica и Wolfram Language 11
 ---
 
-Mathematica и Wolfram Language 11
 http://blog.wolfram.com/2016/08/08/today-we-launch-version-11/
 
 С выходом этой версии знаменитый математический пакет #Mathematica и специализированный язык "программирования" #Wolfram Language получили 555 новых фишек (пруфлинк: http://reference.wolfram.com/language/guide/SummaryOfNewFeaturesIn11.html) Также 11 версия примечательна интересным юбилеем - разработка Mathematica  началась 30 лет назад!

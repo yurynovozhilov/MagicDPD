@@ -27,7 +27,6 @@ tags:
 title: Как скрестить ужа и APDL
 ---
 
-Как скрестить ужа и APDL
 https://appstore.ansys.com/shop/ACTApps_act apps/SimulationNotebook_apc-actapp-79
 
 #ACT расширение Simulation Notebook, разработанное #Ozen Engineering Inc - это пожалуй самое удивительное расширение для #ANSYS #Mechanical и #APDL в этом году. Коллеги скрестили мощь Mechanical APDL с гибкостью и удобством #Python. При этом они использовали не простой Python, а специальное ПО #Jupiter (http://jupyter.org) (форк #IPython), позволяющее делать так называемые интерактивные научные блокноты.

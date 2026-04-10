@@ -6,8 +6,6 @@ author: "GlukRazor"
 source: vk
 ---
 
-Найдите ошибку на картинке 😊Media
-
 http://ift.tt/2y8si4Z
 
 http://ift.tt/2xKT7uP

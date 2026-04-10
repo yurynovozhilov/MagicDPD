@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/1668.jpg"
 ---
 
-Комфортность избушки Санты
 #CFD #Simscale #simulationfriday
 by Юрий Новожилов
 

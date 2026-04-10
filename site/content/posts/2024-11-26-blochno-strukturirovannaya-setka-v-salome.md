@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Блочно-структурированная сетка в Salome
-
 Велик и ужасен open source препроцессор сей.
 
 https://www.youtube.com/watch?app=desktop&v=LU5O55dMuuc

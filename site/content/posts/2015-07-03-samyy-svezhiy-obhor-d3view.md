@@ -6,5 +6,4 @@ author: "GlukRazor"
 source: vk
 ---
 
-Самый свежий обхор d3VIEW 😊
 Август 2010

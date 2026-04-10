@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/1870.jpg"
 ---
 
-Снос The Mina Plaza
 #Applied_Science_International #ASI #Civil
 by Юрий Новожилов
 

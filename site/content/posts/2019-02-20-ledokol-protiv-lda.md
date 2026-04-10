@@ -8,9 +8,6 @@ images:
   - url: "/assets/images/1361.jpg"
 ---
 
-Ледокол против льда
-
-
 https://www.youtube.com/watch?v=hzYz4mtF7tI
 
 

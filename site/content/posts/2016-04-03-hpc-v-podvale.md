@@ -10,4 +10,3 @@ images:
   - url: "/assets/images/1526.jpg"
 ---
 
-#HPC в подвале

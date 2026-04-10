@@ -13,6 +13,4 @@ images:
   - url: "/assets/images/1756.jpg"
 ---
 
-Работа с поверхностями отклика в ANSYS DX
-
 [Работа с поверхностями отклика в ANSYS DX - MagicDPD](https://magicdpd.ru/using-response-surfaces-with-dx/)

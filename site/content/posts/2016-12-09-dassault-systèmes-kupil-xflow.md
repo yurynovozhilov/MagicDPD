@@ -37,7 +37,6 @@ tags:
 title: Dassault Systèmes купил XFlow
 ---
 
-Dassault Systèmes купил XFlow
 http://www.develop3d.com/blog/dassault-systemes-acquires-next-limit-dynamics-for-further-cfd-simulation-e
 
 Компания #Dassault Systèmes, имеющая в своем портфолио такие #CAD, как #CATIA и #SolidWorks, а так же убер механический решатель #Abaqus и много еще чего полезного прикупил себе компанию Next Limit Dynamics.

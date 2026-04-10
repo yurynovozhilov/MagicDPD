@@ -6,8 +6,6 @@ author: "GlukRazor"
 source: vk
 ---
 
-Коллеги из Атомпроект знают толк в работе😊Media
-
 http://ift.tt/2zyWP9D
 
 http://ift.tt/2zl0ve1

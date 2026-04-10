@@ -18,7 +18,6 @@ tags:
 title: Простейшая задача в NASTRAN
 ---
 
-Простейшая задача в NASTRAN
 https://youtu.be/ENavI3KGCao
 
 Учебный пример по изгибу балки при помощи #NASTRAN. Постановка задачи в #PATRAN в исполнении специалистов #MSC.

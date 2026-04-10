@@ -10,8 +10,6 @@ tags:
   - LSDYNA
 ---
 
-Моделирование стирки и отжима кирпичей
-
 #simulationfriday with #Ansys #LSDYNA
 
 https://www.youtube.com/watch?v=NQ7T6GP1nfI

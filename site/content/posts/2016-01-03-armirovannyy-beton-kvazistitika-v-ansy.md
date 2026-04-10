@@ -11,6 +11,4 @@ tags:
   - ANSYS
 ---
 
-Армированный бетон: квазиститика в #ANSYS #Mechanical!
-
 [ANSYS Reinforced Concrete Beam (RC BEAM) - Static Structural](https://www.youtube.com/watch?v=h2BApwflt3E)

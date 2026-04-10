@@ -13,7 +13,6 @@ images:
   - url: "/assets/images/850.jpg"
 ---
 
-Интеграция Particleworks и SOLIDWORKS
 Японские коллеги из Particleworks показали модуль интеграции своего очень умного SPH решателя в интерфейс Solidworks.
 
 

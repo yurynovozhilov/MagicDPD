@@ -27,7 +27,6 @@ tags:
 title: Учебник от Altair University
 ---
 
-Учебник от Altair University
 http://www.altairuniversity.com/free-ebooks-2/free-ebook-practical-aspects-of-finite-element-simulation-a-study-guide/
 
 #Altair в рамках учебной инициативы Altair University предлагает вгсе желающим скачать учебник/методическое пособие "Practical Aspects of Finite Element Simulation (a Study Guide)". Я уже уже получил свой экземпляр - книга большая и хорошо написанная, содержит много интересного материала по #FEM как для явных, так и для неявных решателей. Конечно все написано вокруг ПО Altair, но теоретическая часть пригодится всем.

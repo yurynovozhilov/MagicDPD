@@ -12,7 +12,6 @@ tags:
   - open_source
 ---
 
-OpenLB - Open Source Lattice Boltzmann Code
 https://www.youtube.com/watch?v=1hgP7vXmfPw
 
 

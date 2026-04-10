@@ -18,7 +18,6 @@ tags:
 title: Студенческая версия Marc
 ---
 
-Студенческая версия Marc
 http://simulatemore.mscsoftware.com/learn-advanced-non-linear-simulations-for-free/
 
 К корпании #MSC тоже бывают студенческие версии их решателей. Вот так засветился знаменитый нелинейный решатель #Marc

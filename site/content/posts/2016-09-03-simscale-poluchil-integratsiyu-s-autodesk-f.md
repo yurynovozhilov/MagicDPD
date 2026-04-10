@@ -24,7 +24,6 @@ tags:
 title: SimScale получил интеграцию с Autodesk Fusion 360
 ---
 
-SimScale получил интеграцию с Autodesk Fusion 360
 http://insidehpc.com/2016/08/simscale-announces-integration-for-autodesk-fusion-360/
 
 Облачный #CAE подружился с одним из лидеров #CAD отрасли.

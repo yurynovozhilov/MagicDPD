@@ -8,13 +8,6 @@ images:
   - url: "/assets/images/1448.jpg"
 ---
 
-Небольшой юбилей
-
-
-
-
-
-
 https://wp.me/p9vWYY-2tN
 
 https://wp.me/p9vWYY-2tN

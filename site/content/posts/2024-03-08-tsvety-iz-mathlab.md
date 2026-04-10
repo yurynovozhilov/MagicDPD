@@ -8,8 +8,6 @@ images:
   - url: "/assets/images/2664.jpg"
 ---
 
-Цветы из Mathlab
-
 n=800;
 p=pi;
 [R,T]=ndgrid(linspace(0,1,n),linspace(-2,20*p,n));

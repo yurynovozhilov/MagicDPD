@@ -8,9 +8,6 @@ images:
   - url: "/assets/images/1404.jpg"
 ---
 
-OMNIS от NUMECA
-
-
 https://www.youtube.com/watch?v=SFGuyC699VI
 
 

@@ -19,7 +19,6 @@ tags:
 title: PBS Cloud Manager
 ---
 
-PBS Cloud Manager
 http://web2.altairhyperworks.com/pbs-cloud-manager-webinar
 
 Компания #Altair приглашает всех на вебиран по их новому продукту. #PBS #Cloud Manager предназначен для быстрого и эффективного развертывания #HPC систем на базе публичных облаков. Тема очень интересная, и возможно мы увидим становление еще одного игрока на рынке облачного HPC.

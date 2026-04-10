@@ -12,9 +12,6 @@ images:
   - url: "/assets/images/1554.jpg"
 ---
 
-optiSLang на конференции CONVERGE 2019
-
-
 Небольшая презентация на тему параметрических исследований и связки optiSLang с ANSYS Workbench.
 
 #ANSYS #optimization #optiSLang

@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/1741.jpg"
 ---
 
-Ударить самолетом об здание правильно
 #ALE #LS_DYNA #S_ALE
 by Юрий Новожилов
 

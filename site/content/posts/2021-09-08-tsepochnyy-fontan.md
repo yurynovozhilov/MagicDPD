@@ -10,12 +10,6 @@ tags:
   - extremephysics
 ---
 
-Цепочный фонтан
-
-
-
-
-
 Довольно занимательный эффект цепного фонтана (https://en.wikipedia.org/wiki/Chain_fountain) был объяснен аналитически в 2014 году в публикации J. S. Biggins, M. Warner "Understanding the chain fountain"(https://doi.org/10.1098/rspa.2013.0689). А еще это увлекательное физическое явление можно смоделировать.
 
 

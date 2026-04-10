@@ -8,8 +8,6 @@ images:
   - url: "/assets/images/3076.jpg"
 ---
 
-Рост трещины на 1 BDOF
-
 Сказ о том, как открытый код/библиотека FEniCS переварил большую размерность задачи для очередного PhD.
 
 https://www.sciencedirect.com/science/article/pii/S0013794424004156

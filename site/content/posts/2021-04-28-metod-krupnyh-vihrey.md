@@ -10,9 +10,6 @@ tags:
   - turbulence
 ---
 
-Метод крупных вихрей
-
-
 https://www.youtube.com/watch?v=V8ydRrdCzl0
 
 

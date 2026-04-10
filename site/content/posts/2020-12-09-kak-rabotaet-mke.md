@@ -10,7 +10,6 @@ images:
   - url: "/assets/images/1866.jpg"
 ---
 
-Как работает МКЭ
 #FEM
 by Юрий Новожилов
 

@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/1800.jpg"
 ---
 
-Расчет конвекции во Fluent
 #ANSYS #CFD #Fluent
 by Юрий Новожилов
 

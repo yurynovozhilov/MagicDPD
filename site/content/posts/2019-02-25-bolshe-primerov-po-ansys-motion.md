@@ -12,9 +12,6 @@ images:
   - url: "/assets/images/1366.jpg"
 ---
 
-Больше примеров по ANSYS Motion
-
-
 К сожалению видео доступны только на Vimeo
 
 

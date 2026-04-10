@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/1802.jpg"
 ---
 
-МКЭ от Ильи Карпова
 #FEM #theory
 by Юрий Новожилов
 

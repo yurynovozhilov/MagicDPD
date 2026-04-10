@@ -22,7 +22,6 @@ tags:
 title: Игрушечный краштест
 ---
 
-Игрушечный краштест
 http://innovationintelligence.com/vehicle-crash-simulation-toy-blocks/
 
 На новогодних праздниках Magnus Lindvall из #Altair играл со своим сыном в #LEGO и #RADIOSS и доигрался до постановки краштеста для LEGO машинок. Всего сутки и красивое видео готово.

@@ -16,7 +16,6 @@ tags:
 title: Изучаем SPH в ABAQUS
 ---
 
-Изучаем SPH в ABAQUS
 https://www.youtube.com/watch?v=VFM19TpRD2I
 
 Стандартный пример удара #SPH птицы в оболочку, пошагово разобранный в #ABAQUS

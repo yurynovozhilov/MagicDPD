@@ -8,7 +8,6 @@ images:
   - url: "/assets/images/1241.jpg"
 ---
 
-Просто психоделические картинки
 Совсем кончиились силы - просто сижу и залипаю на эти GIF
 
 https://www.thisiscolossal.com/2018/08/gifs-by-marcus-martinez/

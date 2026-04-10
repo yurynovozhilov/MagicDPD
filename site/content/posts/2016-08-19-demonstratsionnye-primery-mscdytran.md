@@ -19,7 +19,6 @@ tags:
 title: Демонстрационные примеры MSC.Dytran
 ---
 
-Демонстрационные примеры MSC.Dytran
 https://www.youtube.com/playlist?list=PLI39KM_btemwhrhyEBRh8BZ-bGJ3kdWh3
 
 #MSC (MacNeal-Schwendler Corporation) обновила свой канал на YouTube плейлистом посвященным возможностям решателя #Dytran.

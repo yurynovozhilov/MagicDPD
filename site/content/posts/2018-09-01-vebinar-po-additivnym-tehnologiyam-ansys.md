@@ -13,7 +13,6 @@ images:
   - url: "/assets/images/1100.jpg"
 ---
 
-Вебинар по аддитивным технологиям ANSYS от PADT
 12 сентября PADT проведет бесплатный вебинар по соответствующей тематике. Этот вебинар будет особенно интересен тем, что компания PADT кроме того, что является элитным партнером ANSYS, так еще и профессионально занимается 3D печатью.
 http://www.padtinc.com/blog/webinar/design-simulate-print-ansys-offerings-in-additive-manufacturing-webinar
 

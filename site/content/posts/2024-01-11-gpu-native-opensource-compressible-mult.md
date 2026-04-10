@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-GPU-native Opensource Compressible  Multiphase CFD
-
 Спенсер Брингельсон (Spencer Bryngelson), доцент из Технологического института Джорджии, рассказывает о том, как его команда доработала открытый решателе MFC (https://mflowcode.github.io), сделав его GPU-native для расчетов многофазного сжимаемого течения. У некоторых расчетах им удалось показать, что один графический процессор NVIDIA A100 в 300 раз быстрее процессорного ядра Intel Xeon Cascade Lake.
 
 https://www.youtube.com/watch?app=desktop&v=S0gRVIkNYPg

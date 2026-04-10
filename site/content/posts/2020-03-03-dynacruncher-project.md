@@ -16,6 +16,4 @@ images:
   - url: "/assets/images/1710.jpg"
 ---
 
-DynaCruncher Project
-
 https://magicdpd.ru/dynacruncher-project/

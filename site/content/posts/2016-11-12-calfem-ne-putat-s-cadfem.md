@@ -18,7 +18,6 @@ tags:
 title: CALFEM - не путать с CADFEM
 ---
 
-CALFEM - не путать с CADFEM
 https://github.com/CALFEM
 
 #CALFEM (Computer Aided Learning of the Finite Element Method) - набор инструментов с открытым исходным текстом для изучения работы #МКЭ. CALFEM разработан в университете города Лунд (Lund), Швеция (Sweden) и может быт скачан с #GitHub. Имеются реализации для #Matlab, #Python, и C#.

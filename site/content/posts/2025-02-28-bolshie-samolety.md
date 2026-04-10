@@ -8,8 +8,6 @@ images:
   - url: "/assets/images/2891.jpg"
 ---
 
-Большие самолеты
-
 Смотрите, какую дуру оптимизируют при помощи HyperX от Collier Aerospace’s. Кстати, а кто-то вообще трогал этот софт? А то я за маркетингом так и не понял его применения.
 
 https://collieraerospace.com/2025/02/25/windrunner-the-worlds-largest-aircraft-selects-collier-aerospace-software-for-structural-sizing/

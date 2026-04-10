@@ -11,9 +11,6 @@ images:
   - url: "/assets/images/1443.jpg"
 ---
 
-HPC porn: HPE Superdome Flex
-
-
 Наши инженеры многое бы отдали за такую систему с общей памятью
 
 

@@ -11,6 +11,4 @@ images:
   - url: "/assets/images/1793.jpg"
 ---
 
-Терминология для бессеточных методов по ГОСТ
-
 [Терминология для бессеточных методов по ГОСТ - MagicDPD](https://magicdpd.ru/meshless-ghost/)

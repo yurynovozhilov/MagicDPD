@@ -17,7 +17,6 @@ tags:
 title: EFEA для решения задач аккустики
 ---
 
-EFEA для решения задач аккустики
 http://innovationintelligence.com/increasing-computational-efficiency-with-the-efea-method/
 
 Итак, сегодня у нас новая аббривеатура #EFEA - Energy Finite Element Analysis. Это новый подход, разработанный #MES (Michigan Engineering Services, LLC) специально для решения задач акустики для средне и высокочастотных диапазонов. Говорят, что эффективность у них по лучше, чем у обычного #FEM.

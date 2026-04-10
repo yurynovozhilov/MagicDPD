@@ -9,9 +9,6 @@ tags:
   - concrete
 ---
 
-Обзор ATENA
-
-
 https://www.youtube.com/watch?v=eeMNiY_kSLw
 
 

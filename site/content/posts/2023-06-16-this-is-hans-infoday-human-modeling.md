@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-This is Hans: Infoday Human Modeling
-
 Запись бесплатного информационного дня "Моделирование человека", проведенного 3 мая в Штутгарте компанией DYNAmore
 
 00:00:00 Трейлер

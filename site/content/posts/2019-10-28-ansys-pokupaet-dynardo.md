@@ -13,6 +13,4 @@ images:
   - url: "/assets/images/1620.jpg"
 ---
 
-ANSYS покупает Dynardo
-
 [ANSYS покупает Dynardo - MagicDPD](http://magicdpd.ru/ansys-%d0%bf%d0%be%d0%ba%d1%83%d0%bf%d0%b0%d0%b5%d1%82-dynardo/)

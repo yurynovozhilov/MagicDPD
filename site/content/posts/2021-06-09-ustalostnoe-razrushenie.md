@@ -8,9 +8,6 @@ tags:
   - fatigue
 ---
 
-Усталостное разрушение
-
-
 https://youtu.be/Kq9aHCC5XhY
 
 

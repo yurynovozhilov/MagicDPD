@@ -6,9 +6,6 @@ author: "MagicDPD"
 source: vk
 ---
 
-MyCurveFit
-
-
 https://www.youtube.com/watch?v=xKkw1h6tkXI
 
 

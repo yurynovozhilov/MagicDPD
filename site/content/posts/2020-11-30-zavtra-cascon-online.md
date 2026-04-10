@@ -11,6 +11,4 @@ images:
   - url: "/assets/images/1861.jpg"
 ---
 
-Завтра CASCON Online
-
 [Завтра CASCON Online - MagicDPD](https://magicdpd.ru/cascon-online-2020/)

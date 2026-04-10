@@ -17,6 +17,4 @@ images:
   - url: "/assets/images/1611.jpg"
 ---
 
-Porsche vs Bugatti — LEGO LS-DYNA
-
 https://magicdpd.ru/porsche-vs-bugatti-lego-ls-dyna/

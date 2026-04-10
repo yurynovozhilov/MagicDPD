@@ -6,9 +6,6 @@ author: "MagicDPD"
 source: vk
 ---
 
-Резонанс в механических системах
-
-
 https://www.youtube.com/watch?v=K6is8X55fpI
 
 

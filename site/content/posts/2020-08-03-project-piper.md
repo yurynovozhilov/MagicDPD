@@ -15,6 +15,4 @@ images:
   - url: "/assets/images/1809.jpg"
 ---
 
-Project PIPER
-
 [Project PIPER - MagicDPD](https://magicdpd.ru/project-piper/)

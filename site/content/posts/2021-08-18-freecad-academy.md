@@ -10,8 +10,6 @@ tags:
   - freecad
 ---
 
-FreeCAD Academy
-
 На YouTube канале FreeCAD начали выкладывать свежий учебный курс по данной свободной CAD системе.
 
 

@@ -11,9 +11,6 @@ images:
   - url: "/assets/images/1471.jpg"
 ---
 
-Оболочечная постановка в LS-DYNA
-
-
 Обзор базовых формулировок оболочечных элементов LS-DYNA от Unpopular Mechanics
 
 #LS_DYNA #shell

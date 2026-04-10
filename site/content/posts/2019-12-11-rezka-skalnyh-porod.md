@@ -11,6 +11,4 @@ images:
   - url: "/assets/images/1657.jpg"
 ---
 
-Резка скальных пород
-
 [Резка скальных пород - MagicDPD](https://magicdpd.ru/rock-cutting-process-simulation/)

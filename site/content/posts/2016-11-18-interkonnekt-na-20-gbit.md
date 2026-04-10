@@ -17,7 +17,6 @@ tags:
 title: Интерконнект на 20 Гбит
 ---
 
-Интерконнект на 20 Гбит
 https://www.youtube.com/watch?v=bSLhvTbOT_g
 
 Интерконнект на 200 Гбит

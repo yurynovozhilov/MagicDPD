@@ -14,9 +14,6 @@ images:
   - url: "/assets/images/1575.jpg"
 ---
 
-LS-DYNA welding simulation
-
-
 Первый взгляд на работу *MATCWM и \*BOUNDARY\THERMAL_WELD_TRAJECTORY в неявном нелинейном тепловом решателе
 
 #Additive_Manufacturing #implicit #LS_DYNA #thermal #welding

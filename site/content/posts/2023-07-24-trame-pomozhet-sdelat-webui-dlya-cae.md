@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-trame поможеть сделать WebUI для CAE
-
 trame - открытый python-фреймворк для созданиея web приложений над CAE расчетами. Рахработкий данного фреймфорка, компания Kitware, также является разработкиком VTK и ParaView, так что они не первый день в таком бизнесе.
 
 https://github.com/Kitware/trame

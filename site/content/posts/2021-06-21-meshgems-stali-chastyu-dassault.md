@@ -10,8 +10,6 @@ tags:
   - meshgems
 ---
 
-MeshGems стали частью Dassault
-
 Мало кто знает, но до недавнего времени была на рынке CAE одна небольшая компания с парой десятков сотрудников - MeshGems. Данная компания разрабатывала и лицензировала различные сеточные генераторы. Так что, если вы создавали сетки в чем-то из следующего списка, то вы пользовались наработками MeshGems: ANSYS (Meshing), Dassault (SW Simulation, ABAQUS), LSTC (LS-PrePost), MSC (Patran), Siemens (FEMAP), Sandia National Labs (INRIA), Femsys (DIANA), csimsoft (bolt2), Altair (HyperMesh), Salome, Autodesk, Moldex 3D, Pointwise, PTC (Pro/MECHANICA).
 
 

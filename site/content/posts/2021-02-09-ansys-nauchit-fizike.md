@@ -9,9 +9,6 @@ tags:
   - ansys
 ---
 
-Ansys научит физике
-
-
 https://www.youtube.com/watch?v=3PoZZ7FsJrA
 
 

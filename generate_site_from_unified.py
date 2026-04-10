@@ -8,11 +8,14 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from pathlib import Path
 from typing import Iterable
-from urllib.parse import unquote
+from urllib.parse import parse_qs, unquote, urlparse
 
 ROOT = Path(__file__).resolve().parent
 DATA_PATH = ROOT / "unified_posts.json"
 SITE_POSTS = ROOT / "site" / "content" / "posts"
+LINK_PREVIEWS_CACHE = ROOT / "link_previews_cache.json"
+URL_RE = re.compile(r"https?://[^\s\)\]>\"'<,]+")
+MARKDOWN_LINK_RE = re.compile(r"\[([^\]]+)\]\((https?://[^)\s]+)\)")
 
 # Known source identifiers for building canonical URLs
 VK_OWNER_ID = -97265142  # magicdpd public page
@@ -24,6 +27,142 @@ RUS_TO_LAT = {
     "п": "p", "р": "r", "с": "s", "т": "t", "у": "u", "ф": "f", "х": "h", "ц": "ts",
     "ч": "ch", "ш": "sh", "щ": "sch", "ъ": "", "ы": "y", "ь": "", "э": "e", "ю": "yu", "я": "ya",
 }
+
+SKIP_PREVIEW_EXTENSIONS = {
+    ".jpg",
+    ".jpeg",
+    ".png",
+    ".gif",
+    ".webp",
+    ".svg",
+    ".pdf",
+    ".zip",
+    ".tar",
+    ".gz",
+    ".mp4",
+    ".mp3",
+}
+
+
+def load_link_preview_cache() -> dict:
+    if not LINK_PREVIEWS_CACHE.exists():
+        return {}
+    try:
+        return json.loads(LINK_PREVIEWS_CACHE.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return {}
+
+
+def extract_urls_from_body(body: str) -> list[str]:
+    seen: set[str] = set()
+    urls: list[str] = []
+    for url in URL_RE.findall(body):
+        cleaned = url.rstrip(".,;:!?)]")
+        if cleaned not in seen and len(cleaned) < 2048:
+            seen.add(cleaned)
+            urls.append(cleaned)
+    return urls
+
+
+def collect_markdown_link_labels(body: str) -> dict[str, str]:
+    labels: dict[str, str] = {}
+    for label, url in MARKDOWN_LINK_RE.findall(body):
+        clean_label = label.strip()
+        if clean_label and clean_label != url:
+            labels.setdefault(url, clean_label)
+    return labels
+
+
+def is_useful_preview_url(url: str) -> bool:
+    path = urlparse(url).path.lower()
+    ext = Path(path).suffix.lower()
+    return ext not in SKIP_PREVIEW_EXTENSIONS
+
+
+def youtube_video_id(url: str) -> str | None:
+    parsed = urlparse(url)
+    host = parsed.netloc.lower()
+
+    if host.endswith("youtu.be"):
+        video_id = parsed.path.strip("/").split("/")[0]
+        return video_id or None
+
+    if "youtube.com" not in host:
+        return None
+
+    if parsed.path == "/watch":
+        return parse_qs(parsed.query).get("v", [None])[0]
+
+    if parsed.path.startswith("/shorts/"):
+        video_id = parsed.path.split("/", 2)[2]
+        return video_id or None
+
+    return None
+
+
+def normalize_preview(preview: dict, label_map: dict[str, str]) -> dict:
+    url = preview.get("url", "")
+    title = (preview.get("title") or "").strip()
+    image = (preview.get("image") or "").strip()
+
+    if title in {"", "- YouTube"} and url in label_map:
+        preview["title"] = label_map[url]
+
+    if not image:
+        video_id = youtube_video_id(url)
+        if video_id:
+            preview["image"] = f"https://i.ytimg.com/vi/{video_id}/hqdefault.jpg"
+
+    return preview
+
+
+def build_link_previews(body: str, cache: dict) -> list[dict]:
+    urls = [url for url in extract_urls_from_body(body) if is_useful_preview_url(url)]
+    if not urls:
+        return []
+
+    label_map = collect_markdown_link_labels(body)
+    previews: list[dict] = []
+
+    for url in urls:
+        cached = cache.get(url)
+        preview = dict(cached) if isinstance(cached, dict) else {"url": url}
+        preview["url"] = url
+        preview = normalize_preview(preview, label_map)
+
+        if preview.get("title") or preview.get("description") or preview.get("image"):
+            previews.append(preview)
+
+    return previews
+
+
+def yaml_quote(value: str) -> str:
+    return json.dumps(value, ensure_ascii=False)
+
+
+def strip_leading_duplicate_title(title: str, body: str) -> str:
+    if not title:
+        return body
+
+    lines = body.splitlines()
+    first_non_empty = None
+    for idx, line in enumerate(lines):
+        if line.strip():
+            first_non_empty = idx
+            break
+
+    if first_non_empty is None:
+        return body
+
+    if lines[first_non_empty].strip().casefold() != title.strip().casefold():
+        return body
+
+    del lines[first_non_empty]
+    while first_non_empty < len(lines) and not lines[first_non_empty].strip():
+        del lines[first_non_empty]
+
+    return "\n".join(lines)
+
 
 def transliterate(text: str) -> str:
     # Remove unsafe characters from the start
@@ -183,6 +322,7 @@ def build_post(
     post: dict,
     media_index: dict[str, Path],
     images_index: dict[str, list[Path]],
+    link_preview_cache: dict,
 ) -> dict | None:
     text = (post.get("text") or "").strip()
     if not text and not post.get("media"):
@@ -269,6 +409,8 @@ def build_post(
     if webpage_links:
         body = body.rstrip("\n") + "\n\n" + "\n".join(webpage_links)
 
+    body = strip_leading_duplicate_title(title, body)
+
     return {
         "title": title,
         "author": post.get("post_author") or "GlukRazor",
@@ -278,6 +420,7 @@ def build_post(
         "tags": tags,
         "source": source,
         "images": extract_images(post, media_index, images_index),
+        "link_previews": build_link_previews(body, link_preview_cache),
     }
 
 def write_post_file(post: dict):
@@ -285,15 +428,12 @@ def write_post_file(post: dict):
     filename = f"{post['date']:%Y-%m-%d}-{post['slug']}.md"
     path = SITE_POSTS / filename
     
-    title_safe = post['title'].replace('"', '\\"')
-    author_safe = post['author'].replace('"', '\\"')
-    
     front_matter = [
         "---",
         "layout: post",
-        f'title: "{title_safe}"',
+        f"title: {yaml_quote(post['title'])}",
         f"date: {post['date'].isoformat()}",
-        f'author: "{author_safe}"',
+        f"author: {yaml_quote(post['author'])}",
         f"source: {post['source']}",
     ]
 
@@ -305,7 +445,18 @@ def write_post_file(post: dict):
     if post.get("images"):
         front_matter.append("images:")
         for img in post["images"]:
-            front_matter.append(f"  - url: \"{img['url']}\"")
+            front_matter.append(f"  - url: {yaml_quote(img['url'])}")
+
+    if post.get("link_previews"):
+        front_matter.append("link_previews:")
+        for preview in post["link_previews"]:
+            front_matter.append(f"  - url: {yaml_quote(preview['url'])}")
+            if preview.get("title"):
+                front_matter.append(f"    title: {yaml_quote(preview['title'])}")
+            if preview.get("description"):
+                front_matter.append(f"    description: {yaml_quote(preview['description'])}")
+            if preview.get("image"):
+                front_matter.append(f"    image: {yaml_quote(preview['image'])}")
             
     front_matter.append("---")
     front_matter.append("\n")
@@ -324,6 +475,7 @@ def main():
     print("Building file indexes...")
     media_index = _build_media_index()
     images_index = _build_images_index()
+    link_preview_cache = load_link_preview_cache()
     print(f"  magicdpd_media: {len(media_index)} files, images/: {sum(len(v) for v in images_index.values())} files")
 
     # Clear old posts
@@ -333,7 +485,7 @@ def main():
             file.unlink()
 
     def process(p: dict) -> int:
-        post_data = build_post(p, media_index, images_index)
+        post_data = build_post(p, media_index, images_index, link_preview_cache)
         if post_data:
             write_post_file(post_data)
             return 1

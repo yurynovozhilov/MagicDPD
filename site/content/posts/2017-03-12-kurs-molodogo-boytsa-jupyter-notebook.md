@@ -14,7 +14,6 @@ tags:
 title: Курс молодого бойца Jupyter Notebook
 ---
 
-Курс молодого бойца Jupyter Notebook
 https://www.youtube.com/playlist?list=PLwCnsQacFoW4XtU9RAtjZr_jJzHD3SdE7
 
 #Jupyter Notebook - это отличная штука для тех, кому нужно выполнять околонаучные расчеты с использованием #Python. На мой вкус, это намного более удобный и функциональный инструмент, чем платные системы математики.

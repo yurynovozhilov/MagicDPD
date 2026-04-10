@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-pyMARS для химиков
-
 pyMARS (Python-based Model Automatic Reduction Software) разработан для автоматического создания редуцированных механизмов химической кинетики на основе полных моделей. pyMARS используется модели в стандартных форматах файлов Cantera или Chemkin (последний сначала конвертируется в Cantera). Соответственно, pyMARS также можно использовать в качестве конвертора между форматами.
 
 https://github.com/Niemeyer-Research-Group/pyMARS

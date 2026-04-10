@@ -11,9 +11,6 @@ tags:
   - ansys
 ---
 
-Визуализация свободной поверхности SPH в LS-PrePost
-
-
 https://www.youtube.com/watch?v=4sQET0y_gUI&feature=share
 
 

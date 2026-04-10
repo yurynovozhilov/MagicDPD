@@ -12,6 +12,4 @@ images:
   - url: "/assets/images/1732.jpg"
 ---
 
-ИИ начинает поглядывать в сторону CAE
-
 [ИИ начинает поглядывать в сторону CAE - MagicDPD](https://magicdpd.ru/machine-learning-for-accelerated-cae/)

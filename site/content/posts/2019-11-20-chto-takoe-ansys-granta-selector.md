@@ -12,6 +12,4 @@ images:
   - url: "/assets/images/1638.jpg"
 ---
 
-Что такое ANSYS GRANTA Selector
-
 [Что такое ANSYS GRANTA Selector - MagicDPD](https://magicdpd.ru/ansys-granta-selector/)

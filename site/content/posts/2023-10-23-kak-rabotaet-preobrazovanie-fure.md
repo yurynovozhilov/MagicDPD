@@ -8,8 +8,6 @@ images:
   - url: "/assets/images/2557.jpg"
 ---
 
-Как работает преобразование Фурье
-
 Лаконичное объяснение Стюарта Риффла, состоящее из одного предложения с цветовой кодировкой, возможно, запоздало на несколько лет.
 
 https://blog.revolutionanalytics.com/2014/01/the-fourier-transform-explained-in-one-sentence.html

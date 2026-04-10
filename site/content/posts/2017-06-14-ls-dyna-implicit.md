@@ -18,7 +18,6 @@ tags:
 title: LS-DYNA Implicit
 ---
 
-LS-DYNA Implicit
 https://youtu.be/ochbGO_KNf8
 
 Если в не знаете, что можно употреблять в одном предложении #LSDYNA, статика и #implicit, то в этом видео вы увидите много нового для себя. #PredictiveEngineering как всегда круты.

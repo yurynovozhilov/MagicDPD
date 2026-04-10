@@ -12,11 +12,6 @@ images:
   - url: "/assets/images/1419.jpg"
 ---
 
-Моделирование свай в DIANA
-
-
-
-
 #Civil #DIANA #pile
 
 https://wp.me/p9vWYY-2rA

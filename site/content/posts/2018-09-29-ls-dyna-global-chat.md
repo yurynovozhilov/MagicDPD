@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/1124.jpg"
 ---
 
-LS-DYNA Global Chat
 Индийский партнер LSTC, компания KAIZENAT Technologies Private Limited, запустила в Telegram и Whatsapp международную чат-группу пользователей моего любимого решателя "LS-DYNA Global Users". Забавно, но боюсь, что этот чат не полетит, как и любое подобное начинание. Единственный шанс такого сообщества: умный и злой модератор :-)
 Ссылка-приглашение на чат: https://t.me/joinchat/JN3HNg9bzWLuAx5gu6qGRA
 

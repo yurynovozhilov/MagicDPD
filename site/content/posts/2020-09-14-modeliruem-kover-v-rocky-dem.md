@@ -14,7 +14,6 @@ images:
   - url: "/assets/images/1823.jpg"
 ---
 
-Моделируем ковер в Rocky DEM
 #CFD #DEM #ESSS #FSI #Rocky
 by Юрий Новожилов
 

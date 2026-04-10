@@ -14,7 +14,6 @@ tags:
   - EFG
 ---
 
-Работают ли бессрочные методы?
 http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/necking-and-failure-simulation-of-lead-material-using-ale-and-mesh-free-methods-in-ls-dyna-r
 
 Небольшая статья с очередной конференции по #LSDYNA. В статье рассказывается о сравнении расчета с применением сеточных и бессрочных методов с экспериментом - разрывом металлического образца.

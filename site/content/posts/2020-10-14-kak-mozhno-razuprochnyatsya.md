@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/1840.jpg"
 ---
 
-Как можно разупрочняться
 #concrete #DIANA
 by Юрий Новожилов
 

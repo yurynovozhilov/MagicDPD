@@ -9,9 +9,6 @@ tags:
   - aircraft
 ---
 
-Краштест самолета
-
-
 https://www.youtube.com/watch?v=kJZ1eHU_JZg&list=WL&index=20
 
 

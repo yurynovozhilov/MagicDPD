@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/1779.jpg"
 ---
 
-Создаем 2D SPH в LS-PrePost
 #LS_DYNA #LS_PrePost #SPH
 by Юрий Новожилов
 

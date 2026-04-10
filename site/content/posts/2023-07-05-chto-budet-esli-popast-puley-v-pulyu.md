@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Что будет если попасть пулей в пулю?
-
 Эксперимент и его сравнение с расчетом в LS-DYNA
 
 https://www.youtube.com/watch?v=PydPqXay4Do

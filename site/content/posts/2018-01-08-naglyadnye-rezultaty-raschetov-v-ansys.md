@@ -14,7 +14,6 @@ images:
   - url: "/assets/images/704.jpg"
 ---
 
-Наглядные результаты расчетов в ANSYS
 https://twitter.com/twitter/statuses/950367265966444545
 #ANSYS #LS-DYNA #Mechanical #RigidBodyDynamics
 https://magicdpd.ru/?p=5880

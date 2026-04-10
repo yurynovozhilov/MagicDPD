@@ -16,7 +16,6 @@ tags:
 title: ANSYS Viewer
 ---
 
-ANSYS Viewer
 http://www.ansys.com/products/platform/ansys-viewer
 
 Совершенно замечательный бесплатный просмотрщик #ANSYS Viewer позволит передать результаты ваших расчетов вашим заказчикам или коллегам, у который нет лицензий на ANSYS. Вместо кучи картинок пришли один #avz файл.

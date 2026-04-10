@@ -10,6 +10,4 @@ images:
   - url: "/assets/images/1825.jpg"
 ---
 
-Царь-Бомба
-
 [Царь-Бомба - MagicDPD](https://magicdpd.ru/thermonuclear-bomb/)

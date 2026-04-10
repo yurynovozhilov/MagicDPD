@@ -10,6 +10,4 @@ images:
   - url: "/assets/images/1590.jpg"
 ---
 
-Краш-тест автобуса
-
 [Краш-тест автобуса - MagicDPD](https://magicdpd.ru/bus-crush/)

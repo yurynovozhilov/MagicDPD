@@ -8,8 +8,6 @@ images:
   - url: "/assets/images/3062.jpg"
 ---
 
-1 миллиард ячеек в CFD расчете на GPU за сутки
-
 Cadence, NVIDIA, и Solar Turbines (часть Caterpillar) отчитались о том, что смогли за одни сутки обсчитать 1 миллиард ячеек используя CFD решатель Fidelity Charles Solver от Cadence. Charles Solver, как и все современные CFD решатели умеет в GPU-native. И для данного расчета они взяли сервера NVIDIA GB200 VL72 набитые карточками NVIDIA Blackwell B200 - все было 512 GPU (безумно много для CFD и смешно для AI). Всю это вычислительную силу заставили решать задачу турбулентного горения (flamelet progress variable, FPV).
 
 Вот мы и дожили, когда мы говорим не про десятки тысяч ядер CPU, а про сотни GPU. Даешь DNS на GPU!

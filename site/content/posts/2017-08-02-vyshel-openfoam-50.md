@@ -41,7 +41,6 @@ tags:
 title: Вышел OpenFOAM 5.0
 ---
 
-Вышел OpenFOAM 5.0
 https://openfoam.org/version/5-0/
 
 Вышел 5-ый мажорный релиз #OpenFOAM - #opensource #CFD и не только. В новом релизе появилось множество новых функций. Особенно авторы отмечают три фишки:

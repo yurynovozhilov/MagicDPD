@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Посмотрим, как Marc интегрировался в SimScale
-
 https://youtu.be/Bb1hhy4QJGU?si=UFGPeW6uxr4L95Id
 
 [Unlock Marc’s Power: Scalable Nonlinear FEA, Now Available on SimScale](https://youtu.be/Bb1hhy4QJGU?si=UFGPeW6uxr4L95Id)

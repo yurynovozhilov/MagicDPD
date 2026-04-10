@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-CADFEM Conference 2024
-
 Коллеги, 10 и 11 апреля состояться первая послековидная конференция пользователей CADFEM. Она будет проходить в Дармштадте.    Прошу откликнуться подписчиков, кто собирается присутствовать.
 
 https://www.cadfem.net/en/cadfem-informs/events/cadfem-conference-2024.html

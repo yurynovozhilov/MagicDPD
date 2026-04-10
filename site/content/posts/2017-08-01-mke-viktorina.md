@@ -17,7 +17,6 @@ tags:
 title: МКЭ викторина
 ---
 
-МКЭ викторина
 http://www.predictiveengineering.com/content/fea-quiz
 
 #PredictiveEngineering запустили у себя на сайте викторину для всех знатоков вычислительной механики. Есть чем размять мозг на новой неделе.

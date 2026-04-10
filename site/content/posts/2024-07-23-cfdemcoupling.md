@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-CFDEMcoupling
-
 CFDEM®coupling расшифровывается как Computational Fluid Dynamics (CFD) - Discrete Element Method (DEM) coupling. Он объединяет пакеты OpenFOAM® (CFD) и LIGGGHTS® (DEM) с открытым исходным кодом для моделирования потоков, насыщенных частицами. CFDEM®coupling является частью проекта CFDEM®.
 
 https://github.com/ParticulateFlow/CFDEMcoupling-PFM

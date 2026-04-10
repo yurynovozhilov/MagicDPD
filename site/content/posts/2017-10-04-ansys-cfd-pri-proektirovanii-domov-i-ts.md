@@ -9,7 +9,6 @@ tags:
   - ANSYS
 ---
 
-#ANSYS #CFD при проектировании домов и целых кварталов
 https://www.youtube.com/watch?v=d5q…Media📼 Цифровые технологии моделирования в инжиниринге /…
 
 http://ift.tt/2xTcyQm

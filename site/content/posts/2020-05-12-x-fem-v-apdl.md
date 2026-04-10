@@ -14,6 +14,4 @@ images:
   - url: "/assets/images/1754.jpg"
 ---
 
-X-FEM в APDL
-
 [X-FEM в APDL - MagicDPD](http://magicdpd.ru/xfem-in-apdl/)

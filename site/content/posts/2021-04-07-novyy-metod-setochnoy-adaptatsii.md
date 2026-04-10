@@ -9,9 +9,6 @@ tags:
   - mesh
 ---
 
-Новый метод сеточной адаптации
-
-
 https://www.youtube.com/watch?v=4etSuEQOzDw
 
 

@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-PreonLab 7.0 для сложных многофазных потоков
-
 В представленном моделировании два воздушных пузырька поднимаются через высоковязкую смесь сахарозы и воды, сталкиваются и взаимодействуют друг с другом. И это все в SPH!
 
 Референсная постановка взята из Cheng, M., Hua, J. and Lou, J., 2010. Simulation of bubble–bubble interaction using a lattice Boltzmann method. Computers & Fluids, 39(2), pp.260-270.

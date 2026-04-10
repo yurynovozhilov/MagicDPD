@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/1785.jpg"
 ---
 
-AlphaCell — ПО для моделирования акустики и виброакустики
 #acoustic #NVH
 by Ян Поженько
 

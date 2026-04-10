@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Моделирование сноса
-
 Сбросим напряжение в конце недели - бахнем что-нибудь большое!
 
 https://www.linkedin.com/posts/ahmed-khalil-phd_congratulations-to-liberty-industrial-and-ugcPost-7260633242217648128-aDWf

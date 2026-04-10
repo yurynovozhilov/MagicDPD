@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Люблю симулировать мытье посуды
-
 PreonLab показали как они могут моделировать динамику жидкости при помощи ISPH. Красиво, быстро, точно, на GPU, да еще и с учетом связанного теплообмена. Лайк.
 
 https://www.fifty2.eu/innovation/dishwasher-simulation-in-preonlab/

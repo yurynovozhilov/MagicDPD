@@ -15,7 +15,6 @@ tags:
 title: Книги по CFD
 ---
 
-Книги по CFD
 https://www.simscale.com/blog/2016/11/best-fluid-mechanics-books/
 
 #SimScale подготовили список книг, которые стоит почитать, если вы занимаетесь #CFD. Книги поделены на следующие категории:

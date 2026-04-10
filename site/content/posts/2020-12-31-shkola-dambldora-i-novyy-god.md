@@ -10,7 +10,6 @@ images:
   - url: "/assets/images/1880.jpg"
 ---
 
-Школа Дамблдора и новый год!
 #LS_DYNA
 by Юрий Новожилов
 

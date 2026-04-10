@@ -17,8 +17,6 @@ images:
   - url: "/assets/images/1287.jpg"
 ---
 
-Creo Simulation Live - free beta/trial
-
 Результатом дружбы ANSYS и PTC стал замечательный продукт Creo Simulation Live: физический движок от ANSYS Discovery Live встроеный в геометрическое ядро PTC Creo.
 
 

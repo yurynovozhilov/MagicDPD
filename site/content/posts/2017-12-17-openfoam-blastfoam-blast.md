@@ -10,7 +10,6 @@ tags:
   - blast
 ---
 
-#OPENFoam #blastFOAM #blast
 https://www.youtube.com/watch?v=ZwW…Media📼 blastFOAM: Airblast Validation Study Outputs
 
 http://ift.tt/2Cr9Y53

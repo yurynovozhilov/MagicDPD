@@ -12,9 +12,6 @@ tags:
   - lammps
 ---
 
-SPHERIC Sloshing Wave Impact Test
-
-
 https://www.youtube.com/watch?v=9Mcqo1S1M_E
 
 

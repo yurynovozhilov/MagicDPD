@@ -11,6 +11,4 @@ images:
   - url: "/assets/images/1617.jpg"
 ---
 
-Лекция по теории топологической оптимизации
-
 [Лекция по теории топологической оптимизации - MagicDPD](https://magicdpd.ru/variational-approach-to-topological-optimization-problems/)

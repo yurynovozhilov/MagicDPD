@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Aspherix от DCS Computing GmbH
-
 Совсем недавно я узнал, кто доминирует на рынке DEM в Eвропе. Оказывается это открытый код LIGGGHTS (LAMMPS improved for general granular and granular heat transfer simulations). А уже из него собираются коммерческий продукт Aspherix под руководством компании DCS Computing GmbH
 
 https://www.youtube.com/watch?v=ah3iQbEffxs

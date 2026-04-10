@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/1801.jpg"
 ---
 
-САПР «Сударушка»
 #simulationfriday #сударушка
 by Юрий Новожилов
 

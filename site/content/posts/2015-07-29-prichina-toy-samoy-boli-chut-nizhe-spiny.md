@@ -6,4 +6,3 @@ author: "GlukRazor"
 source: vk
 ---
 
-Причина той самой боли чуть ниже спины

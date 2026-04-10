@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/1670.jpg"
 ---
 
-ANSYS попал в индекс NASDAQ-100
 #ANSYS #stocks
 by Юрий Новожилов
 

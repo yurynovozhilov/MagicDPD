@@ -22,7 +22,6 @@ tags:
 title: Dassault Systèmes движется в свое облако
 ---
 
-Dassault Systèmes движется в свое облако
 http://www.develop3d.com/blog/dassault-systemes-cloud-tools-3dexperience-Outscale-acquisition
 
 Компания #Dassault Systèmes анонсировала покупку французского игрока на рынке облачного #HPC - компанию #Outscale. Видать будут строить свое инженерное облако в рамках их среды #3DExperience

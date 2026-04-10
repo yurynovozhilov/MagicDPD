@@ -13,6 +13,4 @@ images:
   - url: "/assets/images/1631.jpg"
 ---
 
-ICFD sloshing
-
 [ICFD sloshing - MagicDPD](https://magicdpd.ru/icfd-sloshing/)

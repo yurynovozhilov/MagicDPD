@@ -6,6 +6,4 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-https://www.youtube.com/watch?v=AuuNXu5bHrA
-
 [Particleworks | Wading shallow water 2| Prometech Software](https://www.youtube.com/watch?v=AuuNXu5bHrA)

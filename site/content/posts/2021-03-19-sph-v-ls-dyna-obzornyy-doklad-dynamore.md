@@ -13,9 +13,6 @@ tags:
   - dynamore
 ---
 
-SPH в LS-DYNA - обзорный доклад DYNAmore
-
-
 https://www.youtube.com/watch?v=pwdoZfi9OBA&t=1624s
 
 

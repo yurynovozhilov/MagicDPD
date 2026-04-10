@@ -8,7 +8,6 @@ images:
   - url: "/assets/images/2506.jpg"
 ---
 
-Погнали, чё
 https://youtu.be/fDYhXO5J1qA
 
 https://youtu.be/fDYhXO5J1qA

@@ -13,7 +13,6 @@ images:
   - url: "/assets/images/1655.jpg"
 ---
 
-Easy8 — Bright Cluster Manager бесплатно!
 #BrightClusterManager #easy8 #HPC #Linux
 by Юрий Новожилов
 
