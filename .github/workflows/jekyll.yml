@@ -54,6 +54,10 @@ jobs:
           hugo-version: "0.157.0"
           extended: true
 
+      - name: Clean stale public output
+        run: rm -rf public
+        working-directory: site
+
       - name: Build with Hugo
         # Keep the canonical site URL in Hugo config when using a custom domain.
         # Overriding with steps.pages.outputs.base_url can reintroduce /MagicDPD/
