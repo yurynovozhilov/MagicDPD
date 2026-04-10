@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Corefrom Flex
-
 Запись вебинара Coreform, где они показали свой новый решатель Flex, работающий на основе технологии Trimmed IGA Solids. UI у решателя очень хороший, а вот с количеством поддерживаемых нелинейных моделей материалов пока туго. С другой стороны, Coreform - это ведь просто стартап на несколько десятков человек.
 
 https://www.youtube.com/watch?v=BrHHq7zjfEo

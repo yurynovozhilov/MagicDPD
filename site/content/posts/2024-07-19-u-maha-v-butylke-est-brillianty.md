@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-У Маха в бутылке есть бриллианты!
-
 Пятница, хватит работать - пора смотреть на красивые результаты экспериментов!
 
 https://www.youtube.com/watch?v=kEw2msVaVy0

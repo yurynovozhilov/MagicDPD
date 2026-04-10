@@ -11,9 +11,6 @@ tags:
   - ansys
 ---
 
-Статический преднатяг в LS-DYNA
-
-
 https://www.youtube.com/watch?v=22p5WfoZNCg
 
 

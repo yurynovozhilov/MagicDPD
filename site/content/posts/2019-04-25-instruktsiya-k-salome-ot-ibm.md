@@ -12,9 +12,6 @@ images:
   - url: "/assets/images/1457.jpg"
 ---
 
-Инструкция к Salome от IBM
-
-
 Старая русскоязычная документация к открытому препосту Salome Meca лежит в библиотеке IBM. Хозяину на заметку https://www.ibm.com/developerworks/ru/library/l-salome_01/index.html
 
 #IBM #Open_Source #Salome

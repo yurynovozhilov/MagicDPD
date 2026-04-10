@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Моделирование RTM в LMAT
-
 Изначально решатель LMAT был встроен в WB в виде Ansys Composite Cure Simulation. Но потом докинули RTM, а теперь ACCS RTM Solver может быть применен для моделирования каналов с пустыми полостями в задачах RTM Flow. Фишки 2025R2
 
 https://youtu.be/2wZcgxB5fjM?si=UqiheCv0Vx411O2a

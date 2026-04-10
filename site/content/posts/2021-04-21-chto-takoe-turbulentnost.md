@@ -8,9 +8,6 @@ tags:
   - cfd
 ---
 
-Что такое турбулентность
-
-
 https://www.youtube.com/watch?v=v5IoP9Pc-Y0
 
 

@@ -11,4 +11,3 @@ images:
   - url: "/assets/images/2292.jpg"
 ---
 
-Я просто оставлю это здесь

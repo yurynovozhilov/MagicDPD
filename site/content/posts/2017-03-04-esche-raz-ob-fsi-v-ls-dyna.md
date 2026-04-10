@@ -17,7 +17,6 @@ tags:
 title: Еще раз об FSI в LS-DYNA
 ---
 
-Еще раз об FSI в LS-DYNA
 https://www.youtube.com/watch?v=IClEUvlftcE
 
 Еще одно 10 минутное обучающее видео, рассказывающее о том, как поставить #FSI задачу в #LSDYNA #ICFD + #LSDYNA #Implicit - UI не очень, зато робастность работы решателей на высоте!

@@ -8,4 +8,3 @@ images:
   - url: "/assets/images/2194.jpg"
 ---
 
-Конец эпохи

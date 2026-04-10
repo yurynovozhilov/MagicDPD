@@ -12,7 +12,6 @@ tags:
   - STL
 ---
 
-Работа с STL в SpaceClaim
 ANSYS SpaceClaim Direct Modeller, теперь входящий в линейку Discovery, благодаря встроеному движку от Poligonica является одним из самых мощных средств редактирования STL. Вот небольшая демонстрация функционала и принципов работы.
 
 https://www.youtube.com/watch?v=aJIDzC9F5E0

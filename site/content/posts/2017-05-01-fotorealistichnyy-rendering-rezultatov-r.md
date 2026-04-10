@@ -25,7 +25,6 @@ tags:
 title: Фотореалистичный рендеринг результатов расчетов
 ---
 
-Фотореалистичный рендеринг результатов расчетов
 ~~http://innovationintelligence.com/slingshot-topples-cans-simulated-radioss-visualized-rendered-evolve/~~ → [Сохранённая версия](http://web.archive.org/web/20191117175012/https://innovationintelligence.com/slingshot-topples-cans-simulated-radioss-visualized-rendered-evolve/)
 
 *Оригинальная ссылка больше не доступна*

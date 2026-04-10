@@ -10,8 +10,6 @@ images:
   - url: "/assets/images/2928.jpg"
 ---
 
-Проверяем броню
-
 Просто аккуратная и красивая статья про моделирование бронежилета в Impetus AFEA. Приятно почитать.
 
 https://www.sciencedirect.com/science/article/pii/S0263823125003593

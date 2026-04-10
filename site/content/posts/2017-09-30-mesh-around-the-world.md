@@ -8,8 +8,6 @@ tags:
   - Mesh
 ---
 
-#Mesh around the world
-
 https://hivemodern.com/pages/product466/knoll-harry-bertoia-small-diamond-chair-with-seat-cushion 🔗 bertoia small diamond chair with seat cushion
 
 http://ift.tt/2x4tbqk

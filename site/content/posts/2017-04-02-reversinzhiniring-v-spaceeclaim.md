@@ -18,7 +18,6 @@ tags:
 title: Реверсинжиниринг в SpaceeClaim
 ---
 
-Реверсинжиниринг в SpaceeClaim
 https://www.youtube.com/watch?v=sk55qdEj_T4
 
 Свежий учебный пример по восстановлению геометрии на основе #STL формата в самом свежем #ANSYS #SCDM (aka #SpaceClaim). Коллеги из #CAE Associates Inc постарались.

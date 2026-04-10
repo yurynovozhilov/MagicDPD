@@ -14,6 +14,4 @@ images:
   - url: "/assets/images/1810.jpg"
 ---
 
-Модель бетона CDPM
-
 [Модель бетона CDPM - MagicDPD](https://magicdpd.ru/cdpm-open-source/)

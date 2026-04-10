@@ -15,7 +15,6 @@ images:
   - url: "/assets/images/1696.jpg"
 ---
 
-Постановка S-ALE расчета в LS-PrePost Solution Explorer
 #ALE #FSI #LS_DYNA #LS_PrePost #S_ALE #Solution_Explorer
 by Юрий Новожилов
 

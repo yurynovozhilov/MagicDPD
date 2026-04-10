@@ -8,8 +8,6 @@ images:
   - url: "/assets/images/2670.jpg"
 ---
 
-Обзор рынка CAD/CAM/CAE
-
 Как видите, есть еще много компаний, которые будут куплены.
 
 https://www.linkedin.com/posts/andy-fine-6091278_ai-engineering-software-activity-7175774961049980928-flrQ/

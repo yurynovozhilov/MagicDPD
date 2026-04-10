@@ -8,9 +8,6 @@ images:
   - url: "/assets/images/1543.jpg"
 ---
 
-Проектирование шасси для Formula SAE с ANSYS Student
-
-
 Как гласит Википедия, Formula SAE — студенческое соревнование, организованное  Сообществом Автомобильных Инженеров (Society of Automotive Engineers,  SAE). Первые соревнования состоялись в 1978 году и первоначально  назывались «SAE Mini Indy» (https://ru.wikipedia.org/wiki/Formula_SAE). ANSYS на своем канале показывает как при помощи ANSYS Mechanical обсчитать шасси для подобного гоночного болида.
 
 

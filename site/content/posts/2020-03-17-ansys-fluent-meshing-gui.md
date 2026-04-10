@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/1719.jpg"
 ---
 
-Ansys Fluent Meshing GUI
 #ANSYS #Fluent_Meshing #mesh
 by Юрий Новожилов
 

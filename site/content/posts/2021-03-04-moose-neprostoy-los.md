@@ -9,9 +9,6 @@ tags:
   - open_source
 ---
 
-MOOSE - непростой лось
-
-
 https://www.youtube.com/watch?v=6shfkm3fnLY
 
 

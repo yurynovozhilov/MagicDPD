@@ -14,7 +14,6 @@ tags:
   - Fluent
 ---
 
-ANSYS Fluent опять сожрал все ресурсы
 http://investors.ansys.com/press-releases/2016/15-Nov-16-121021132
 
 ANSYS Inc,  High Performance Computing Center (#HLRS) Штутгартского университета (University of Stuttgart) и компания #Cray Inc собрались и посчитали #CFD задачу в #ANSYS #Fluent на 172032 ядер!

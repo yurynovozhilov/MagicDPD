@@ -11,9 +11,6 @@ tags:
   - he
 ---
 
-Моделирование детонации сферического ВВ
-
-
 https://www.youtube.com/watch?v=uOm6a70tKgA
 
 

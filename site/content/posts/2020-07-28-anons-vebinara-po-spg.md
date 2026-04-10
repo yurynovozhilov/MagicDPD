@@ -14,6 +14,4 @@ images:
   - url: "/assets/images/1805.jpg"
 ---
 
-Анонс вебинара по SPG
-
 [Анонс вебинара по SPG - MagicDPD](https://magicdpd.ru/spg-webinar/)

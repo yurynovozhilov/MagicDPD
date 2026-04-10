@@ -8,4 +8,3 @@ images:
   - url: "/assets/images/2712.jpg"
 ---
 
-Картинка из мира HPC и AI

@@ -14,6 +14,4 @@ images:
   - url: "/assets/images/1683.jpg"
 ---
 
-ANSYS x Particleworks
-
 [ANSYS x Particleworks - MagicDPD](https://magicdpd.ru/ansys-x-particleworks/)

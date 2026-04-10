@@ -14,7 +14,6 @@ images:
   - url: "/assets/images/1883.jpg"
 ---
 
-Расчет 3D печати зданий
 #ABAQUS #Additive_Manufacturing #CivilFEM #CobraPrint #Grasshopper
 by Юрий Новожилов
 

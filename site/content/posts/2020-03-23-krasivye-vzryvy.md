@@ -13,7 +13,6 @@ images:
   - url: "/assets/images/1723.jpg"
 ---
 
-Красивые взрывы
 #blast #CFD #GPU #Viper_Blast
 by Юрий Новожилов
 

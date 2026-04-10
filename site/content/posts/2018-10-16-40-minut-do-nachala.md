@@ -11,9 +11,6 @@ images:
   - url: "/assets/images/1152.jpg"
 ---
 
-40 минут до начала
-
-
 #ACUM #CASCON
 http://bit.ly/2AdfOZM
 

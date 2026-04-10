@@ -8,6 +8,4 @@ images:
   - url: "/assets/images/1808.jpg"
 ---
 
-Расширенный поиск учеников
-
 [Расширенный поиск учеников - MagicDPD](https://magicdpd.ru/extended-dumbledore-school-enrollment/)

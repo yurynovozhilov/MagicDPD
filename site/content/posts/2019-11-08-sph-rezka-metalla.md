@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/1629.jpg"
 ---
 
-SPH резка металла
 #LS_DYNA #SPH
 by Юрий Новожилов
 

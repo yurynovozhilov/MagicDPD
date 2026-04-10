@@ -13,7 +13,6 @@ images:
   - url: "/assets/images/1770.jpg"
 ---
 
-16-ая международная конференция LS-DYNA
 #CADFEM #LS_DYNA #LSTC #NPP
 by Юрий Новожилов
 

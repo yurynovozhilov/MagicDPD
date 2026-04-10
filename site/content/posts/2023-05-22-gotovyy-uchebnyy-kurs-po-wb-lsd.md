@@ -6,7 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Готовый учебный курс по WB LSD
 https://youtu.be/53-NEshyEnE
 
 [An Intro to Ansys LS Dyna](https://youtu.be/53-NEshyEnE)

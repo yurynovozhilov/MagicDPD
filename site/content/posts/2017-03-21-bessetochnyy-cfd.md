@@ -9,7 +9,6 @@ tags:
   - NOGRID
 ---
 
-Бессеточный CFD
 https://www.nogrid.com/pages/support-en/meshless-modeling-and-simulation
 
 Представляю вашему вниманию набор ПО для бессеточного решения #CFD от компнаии #NOGRID.

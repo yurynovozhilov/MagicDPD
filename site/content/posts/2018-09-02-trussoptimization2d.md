@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/1102.jpg"
 ---
 
-TrussOptimization2D
 Еще одна увлекательная КЭ игра от Аманды Гассаи (Amanda Ghassaei). На этот раз мы строим мост из балочных элементов.
 http://apps.amandaghassaei.com/TrussOptimization2D/
 

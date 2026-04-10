@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Coding Adventure: Rendering Fluids
-
 Как писать решатель для моделирования и визуализации SPH жидкости.
 
 https://www.youtube.com/watch?v=kOkfC5fLfgE

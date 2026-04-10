@@ -15,7 +15,6 @@ tags:
   - iOS
 ---
 
-Интерактивная топологическая оптимизация
 http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/14716/Shape-Optimization-on-Your-Phone-or-Tablet-in-Real-Time-for-Free.aspx
 
 Коллектив #TopOpt Research Group представили общественности код способный в реальном времени решать задачи топологической оптимизации на #iOS, #Android, #Win, #MAC и #Linux. Код доступен для бесплатного скачивания установки с сайта или из магазина приложений.

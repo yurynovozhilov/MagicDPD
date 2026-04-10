@@ -12,7 +12,6 @@ source: vk
 title: Две минуты про рост растений
 ---
 
-Две минуты про рост растений
 https://www.youtube.com/watch?v=aAsejHZC5EE
 
 Отличный топик для пятницы!

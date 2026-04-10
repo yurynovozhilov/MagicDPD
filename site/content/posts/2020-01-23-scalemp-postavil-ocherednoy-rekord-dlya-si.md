@@ -13,6 +13,4 @@ images:
   - url: "/assets/images/1680.jpg"
 ---
 
-ScaleMP поставил очередной рекорд для систем с общей памятью
-
 [ScaleMP поставил очередной рекорд для систем с общей памятью - MagicDPD](http://magicdpd.ru/scalemp-demonstrates-best-in-class-large-system-results/)

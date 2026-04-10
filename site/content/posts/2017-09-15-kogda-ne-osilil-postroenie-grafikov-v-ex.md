@@ -19,8 +19,6 @@ source: vk
 title: Когда не осилил построение графиков в Excel
 ---
 
-Когда не осилил построение графиков в Excel
-
 https://youtu.be/QR8uHND_69EMedia🔗 pantograph Mechanism Simulation
 
 [pantograph Mechanism Simulation](https://youtu.be/QR8uHND_69E)

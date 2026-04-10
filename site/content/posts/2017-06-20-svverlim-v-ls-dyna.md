@@ -14,7 +14,6 @@ tags:
 title: Свверлим в LS-DYNA
 ---
 
-Свверлим в LS-DYNA
 https://www.youtube.com/watch?v=dOA-BUId-vc
 
 Просто еще одно видео про #LSDYNA

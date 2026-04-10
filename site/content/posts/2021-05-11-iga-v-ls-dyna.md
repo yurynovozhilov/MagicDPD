@@ -12,9 +12,6 @@ tags:
   - dynamore
 ---
 
-IGA в LS-DYNA
-
-
 https://www.youtube.com/watch?v=UMb8DBtWar8
 
 

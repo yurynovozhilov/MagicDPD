@@ -6,6 +6,4 @@ author: "GlukRazor"
 source: vk
 ---
 
-https://youtu.be/FqMsWXGUPAQ
-
 [ANSYS Fracture and Delamination Part 4: SMART Fracture](https://youtu.be/FqMsWXGUPAQ)

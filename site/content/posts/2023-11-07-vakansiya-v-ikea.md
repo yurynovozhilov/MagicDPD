@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Вакансия в IKEA
-
 Как я уже когда-то писал, знаменитая шведская компания для моделирования всех своих товаров пользуется только одним КЭ кодов… они все считают в LS-DYNA. А вот и пурфф линк - вакансия в Швеции.
 
 https://jobs.smartrecruiters.com/InterIKEAGroup/743999941824763-fea-engineer-ra-children-s-ikea-range?trid=463ac537-35c8-4256-8fe4-47ea285de0a6

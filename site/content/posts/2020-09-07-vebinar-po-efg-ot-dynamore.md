@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/1819.jpg"
 ---
 
-Вебинар по EFG от DYNAmore
 #EFG #LS_DYNA #meshless
 by Юрий Новожилов
 

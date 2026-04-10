@@ -9,11 +9,6 @@ tags:
   - simulationfriday
 ---
 
-Книга дня
-
-
-
-
 #books #simulationfriday
 
 https://wp.me/p9vWYY-2CR

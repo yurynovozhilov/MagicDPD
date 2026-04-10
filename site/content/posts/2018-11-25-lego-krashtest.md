@@ -11,9 +11,6 @@ images:
   - url: "/assets/images/1234.jpg"
 ---
 
-LEGO краштест
-
-
 #LSDYNA #Simulationfriday
 http://bit.ly/2OZ1B6R
 

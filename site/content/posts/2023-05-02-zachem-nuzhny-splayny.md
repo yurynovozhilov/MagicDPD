@@ -6,7 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Зачем нужны сплайны?
 https://www.youtube.com/watch?v=jvPPXbo87ds
 
 [The Continuity of Splines](https://www.youtube.com/watch?v=jvPPXbo87ds)

@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-LS-DYNA ICFD Multiphase
-
 Кажется, уже в следующем году LST выкатят что-то очень интересное в своем ICFD.
 
 https://youtu.be/C7_z33OgUe0?si=AjACjZMOoct1E1uK

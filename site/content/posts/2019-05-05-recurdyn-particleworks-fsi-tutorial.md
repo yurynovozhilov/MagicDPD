@@ -12,9 +12,6 @@ images:
   - url: "/assets/images/1466.jpg"
 ---
 
-RecurDyn-Particleworks FSI Tutorial
-
-
 Пример постановки междисциплинарного расчета для связки RecurDyn и Particleworks.
 
 #FSI #Particleworks #RecurDyn

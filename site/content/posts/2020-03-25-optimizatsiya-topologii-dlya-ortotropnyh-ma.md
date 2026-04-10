@@ -14,7 +14,6 @@ images:
   - url: "/assets/images/1725.jpg"
 ---
 
-Оптимизация топологии для ортотропных материалов
 #BetaCAE #composite #Epilysis #optimization #Topology
 by Юрий Новожилов
 

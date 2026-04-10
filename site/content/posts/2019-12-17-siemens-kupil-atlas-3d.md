@@ -15,6 +15,4 @@ images:
   - url: "/assets/images/1661.jpg"
 ---
 
-Siemens купил Atlas 3D
-
 [Siemens купил Atlas 3D - MagicDPD](https://magicdpd.ru/siemens-acquire-atlas-3d/)

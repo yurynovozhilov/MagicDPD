@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Как работает Mechanical на HPC процессорах AMD
-
 Очень актуально, с учетом того, что в этом месяце AMD показали процессоры EPYC 9005 аж на 192 физических ядра.
 
 https://www.youtube.com/watch?v=m86E3HnGRYM

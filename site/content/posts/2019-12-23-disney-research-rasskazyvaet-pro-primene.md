@@ -13,7 +13,6 @@ images:
   - url: "/assets/images/1664.jpg"
 ---
 
-Disney Research рассказывает про применение XFEM
 #Disney #mesh #simulationfriday #XFEM
 by Юрий Новожилов
 

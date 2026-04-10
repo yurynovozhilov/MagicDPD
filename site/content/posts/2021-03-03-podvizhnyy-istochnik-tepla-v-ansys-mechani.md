@@ -13,9 +13,6 @@ tags:
   - mechanical
 ---
 
-Подвижный источник тепла в ANSYS Mechanical
-
-
 https://www.youtube.com/watch?v=nqNNjeZxVlg
 
 

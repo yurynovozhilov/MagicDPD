@@ -12,6 +12,4 @@ images:
   - url: "/assets/images/1824.jpg"
 ---
 
-Механика разрушения в Marc
-
 [Механика разрушения в Marc - MagicDPD](https://magicdpd.ru/fracture-in-marc/)

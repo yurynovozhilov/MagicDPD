@@ -10,4 +10,3 @@ tags:
   - ACUM2015
 ---
 
-#ACUM by #CADFEM #ACUM2015

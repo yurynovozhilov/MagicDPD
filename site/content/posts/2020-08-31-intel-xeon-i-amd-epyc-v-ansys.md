@@ -14,7 +14,6 @@ images:
   - url: "/assets/images/1815.jpg"
 ---
 
-Intel Xeon и AMD EPYC в ANSYS
 #AMD #CADFEM #eCADFEM #HPC #Intel
 by Юрий Новожилов
 

@@ -8,4 +8,3 @@ tags:
   - Fluent
 ---
 
-Как заменить 3Ds MAX на #Fluent

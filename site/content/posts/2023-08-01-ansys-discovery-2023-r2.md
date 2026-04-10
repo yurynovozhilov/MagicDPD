@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Ansys Discovery 2023 R2
-
 Discovery начинает по немногу превращаться в стоящий продкукт. На мой вкус,на руку ему играет быстрое внеднерие GPU-Native решателей. Так, этом релизе завезли LiveGX из флагманского Fluent.
 
 https://www.youtube.com/watch?v=70k5kHTH9xk

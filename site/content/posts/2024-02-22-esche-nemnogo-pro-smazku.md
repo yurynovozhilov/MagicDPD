@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Еще немного про смазку
-
 Несколько лет назад Siemens купил французский стартап NEXTFLOW Software, специализировавшийся на моделирование жидкости в Implicit SPH постановке. Теперь они успешно встроили данный код в Simcenter STAR-CCM+ 2402. Смотрится на зависть хорошо...
 
 https://blogs.sw.siemens.com/simcenter/sph-meshless-method/

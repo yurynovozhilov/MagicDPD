@@ -14,9 +14,6 @@ images:
   - url: "/assets/images/1409.jpg"
 ---
 
-vSMP для AMD EPYC
-
-
 Рецепт HPC портно, или как сделать большой сервер за недорого:
 
 

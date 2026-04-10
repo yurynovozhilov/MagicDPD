@@ -15,7 +15,6 @@ images:
   - url: "/assets/images/1047.jpg"
 ---
 
-Цунами FSI
 Пример моделирования волны цунами в LS-DYNA ICFD. Волна на свободной поверхности задается картой  *ICFD_BOUNDARY_FSWAVE.
 
 

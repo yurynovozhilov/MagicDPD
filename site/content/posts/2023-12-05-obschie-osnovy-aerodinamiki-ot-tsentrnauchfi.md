@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Общие основы аэродинамики от ЦЕНТРНАУЧФИЛЬМ
-
 ЦЕНТРНАУЧФИЛЬМ фигни не делает!
 
 https://www.youtube.com/watch?v=cUaUpUp-qVk

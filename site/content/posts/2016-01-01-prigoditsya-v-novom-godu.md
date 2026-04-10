@@ -8,4 +8,3 @@ images:
   - url: "/assets/images/1000.jpg"
 ---
 
-Пригодится в новом году

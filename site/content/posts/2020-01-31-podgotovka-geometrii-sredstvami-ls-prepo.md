@@ -12,6 +12,4 @@ images:
   - url: "/assets/images/1687.jpg"
 ---
 
-Подготовка геометрии средствами LS-PrePost
-
 [Подготовка геометрии средствами LS-PrePost - MagicDPD](https://magicdpd.ru/cad-cleanup-in-ls-prepost/)

@@ -9,9 +9,6 @@ tags:
   - nasa
 ---
 
-Каким NASA видел CFD в 1989
-
-
 https://youtu.be/KWtX_E51gtU
 
 

@@ -13,6 +13,4 @@ images:
   - url: "/assets/images/1684.jpg"
 ---
 
-FSAE Car CFD
-
 [FSAE Car CFD - MagicDPD](http://magicdpd.ru/fsae-car-cfd/)

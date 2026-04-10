@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Транслятор LS-DYNA to OpenRadioss
-
 Туториал в двух частях, как подготовить модель в LS-PrePost и перегнать ее в формат Radioss. Правда я всегда думал, что Radioss  и так может k-file кушать.
 
 https://www.youtube.com/watch?v=THYmFEJK2Fo

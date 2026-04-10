@@ -18,7 +18,6 @@ tags:
 title: Trelis Connect для ANSYS Workbench
 ---
 
-Trelis Connect для ANSYS Workbench
 https://youtu.be/jrywAFlr1ac
 
 Продолжая тему #csimsoft - там не только #Bolt 2.0 крут, там еще есть много чего интересного. Например #Trelis Connect позволяет замечательные сетки из #Bolt передавать прямо в среду #ANSYS #Workbench без лишних заморочек.

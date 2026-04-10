@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Шоколадый фонтан в Particleworks
-
 Сегодня не хочется ничего решать - сегодня хочется шоколада.
 
 https://www.youtube.com/watch?v=Tjn_zojWezA

@@ -13,6 +13,4 @@ source: vk
 title: Даже простейшим калькулятором тоже надо уметь пользоваться!
 ---
 
-Даже простейшим калькулятором тоже надо уметь пользоваться!
-
 [Ever Wondered What Is The Difference Between C And CE Buttons On Your Calculator? Mystery Solved](http://wonderfulengineering.com/ever-wondered-what-is-the-difference-between-c-and-ce-buttons-on-your-calculator-mystery-solved/)

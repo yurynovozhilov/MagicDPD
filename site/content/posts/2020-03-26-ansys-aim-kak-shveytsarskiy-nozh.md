@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/1726.jpg"
 ---
 
-ANSYS AIM — как швейцарский нож
 #AIM #ANSYS
 by Юрий Новожилов
 

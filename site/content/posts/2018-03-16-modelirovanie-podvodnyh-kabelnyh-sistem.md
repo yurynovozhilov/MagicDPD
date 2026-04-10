@@ -13,7 +13,6 @@ images:
   - url: "/assets/images/854.jpg"
 ---
 
-Моделирование подводных кабельных систем
 Видео презентация от коллеги из cDynamics по их опыту моделирования подводных кабельных систем при помощи OrcaFlex (https://www.orcina.com/SoftwareProducts/OrcaFlex/), Helica (https://www.dnvgl.com/services/umbilical-analysis-and-flexible-pipe-analysis-helica-69553) и Abaqus
 
 &nbsp;

@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Sub-D Modeling in Ansys Discovery
-
 В Ansys Discovery, который должен в скором времени заменить SpaceClaim, меня особченно привелкает  одна тезнология - это Sub-D. Можно моделировать органические тела на основе сплайнов. И это даже не торомозит, как было раньше.
 
 

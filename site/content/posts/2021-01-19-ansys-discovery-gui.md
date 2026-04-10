@@ -10,9 +10,6 @@ tags:
   - discovery
 ---
 
-Ansys Discovery GUI
-
-
 https://www.youtube.com/watch?v=Aio3uJ91AV0
 
 

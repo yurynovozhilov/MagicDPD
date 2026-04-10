@@ -15,9 +15,6 @@ images:
   - url: "/assets/images/1522.jpg"
 ---
 
-LS-DYNA Structured-ALE ACT
-
-
 Не успели в ANSYS 19.2 открыть API для написания ACT расширений к WB LS-DYNA (которая сама по себе является ACT расширением), как им уже успели воспользоваться. Встречайте, расширение для работы с S-ALE решателем: https://catalog.ansys.com/product/5c769050393ff6be9837bb9f/ls-dyna-structured
 
 

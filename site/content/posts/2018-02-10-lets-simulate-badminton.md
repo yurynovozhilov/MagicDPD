@@ -14,7 +14,6 @@ images:
   - url: "/assets/images/782.jpg"
 ---
 
-Let's simulate badminton
 Altair team tresents nice technical demo on badminton racquet dinamics.
 
 

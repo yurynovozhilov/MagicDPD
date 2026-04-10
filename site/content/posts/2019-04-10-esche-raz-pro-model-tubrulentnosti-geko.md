@@ -12,11 +12,6 @@ images:
   - url: "/assets/images/1442.jpg"
 ---
 
-Еще раз про модель тубрулентности GEKO
-
-
-
-
 #ANSYS #Fluent #GEKO
 
 https://wp.me/p9vWYY-2te

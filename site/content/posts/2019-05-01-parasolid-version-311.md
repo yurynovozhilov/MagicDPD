@@ -11,9 +11,6 @@ images:
   - url: "/assets/images/1462.jpg"
 ---
 
-Parasolid Version 31.1
-
-
 Siemens выкатил новую версию Parasolid — пожалуй, главного геометрического ядра современности. Ядро ведет свою историю от системы ROMULUS, разработанной Shape Data в 1978. Потом их купил McDonnell Douglas, потом их купил Unigraphics, потом их купили Siemens. Похоже, что если не случится глобальных изменений в мире, Siemens уже никто не купит.
 
 

@@ -11,4 +11,3 @@ images:
   - url: "/assets/images/1609.jpg"
 ---
 
-Старые-добрые времена, когда #ANSYS дружил с #DIGIMAT

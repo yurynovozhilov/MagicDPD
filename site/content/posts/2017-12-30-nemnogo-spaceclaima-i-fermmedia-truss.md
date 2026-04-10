@@ -8,8 +8,6 @@ tags:
   - 1
 ---
 
-Немного SpaceClaim'a и фермMedia📼 Truss Bridge SpaceClaim #1
-
 http://ift.tt/2lnGYFe
 
 http://ift.tt/2lsfXzI

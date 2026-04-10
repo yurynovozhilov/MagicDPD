@@ -14,7 +14,6 @@ images:
   - url: "/assets/images/1672.jpg"
 ---
 
-olaFlow CFD Suite
 #CFD #offshore #OlaFlow #Open_Source #OpenFOAM
 by Юрий Новожилов
 

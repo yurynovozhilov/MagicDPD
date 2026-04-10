@@ -11,6 +11,4 @@ images:
   - url: "/assets/images/1821.jpg"
 ---
 
-CADFEM Medical Conference 2020
-
 [CADFEM Medical Conference 2020 - MagicDPD](https://magicdpd.ru/cadfem-medical-conference-2020/)

@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-МуЖикальная пауза
-
 Dr. Dan Russell and Paul Pedersen, Modal Analysis of an Electric Guitar, Applied Physics, Kettering University
 
 https://www.acs.psu.edu/drussell/guitars/electric.html

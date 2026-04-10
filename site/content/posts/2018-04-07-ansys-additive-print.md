@@ -14,7 +14,6 @@ images:
   - url: "/assets/images/888.jpg"
 ---
 
-ANSYS Additive Print
 Только на прошлой неделе ANSYS Additive Print стал доступен, и вот мы уже его изучаем. Изучаем мы его по материалам 3DSIM exaSIM, который и лежит в основе решения от ANSYS. У меня вообще складывается впечатление, что ANSYS Additive Print это exaSIM с написанным на Atom пользовательским интерфейсом.
 Сайт с полезными материалами: http://learn.3dsim.com/
 

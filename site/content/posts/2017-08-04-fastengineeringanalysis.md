@@ -18,7 +18,6 @@ tags:
 title: FastEngineeringAnalysis
 ---
 
-FastEngineeringAnalysis
 https://www.fastengineeringanalysis.com/
 
 #FastEngineeringAnalysis - еще одна система для решения задач механики в браузере. Кроме традиционного #FEM с поддержкой нелинейных задач у коллег есть собственное ПО для 3D сканирования и работы с геометрией.

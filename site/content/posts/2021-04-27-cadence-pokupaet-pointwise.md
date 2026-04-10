@@ -9,8 +9,6 @@ tags:
   - cadence
 ---
 
-Cadence покупает Pointwise
-
 Cadence, специализирующиеся на расчетах электроники и задачах радиофизики совсем недавно покупали себе Numeca для CFD расчетов. Но, видимо, этого им показалось мало, и они прикупили себе еще и Pointwise, разработчика одноименного сеточного генератора, специализирующегося на сетках CFD. Официальная новость для акционеров: https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2021/cadence-acquires-pointwise-to-expand-system-analysis-offerings-a.html
 
 

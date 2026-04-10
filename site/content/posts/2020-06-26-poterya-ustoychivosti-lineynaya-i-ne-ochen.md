@@ -10,6 +10,4 @@ images:
   - url: "/assets/images/1790.jpg"
 ---
 
-Потеря устойчивости: линейная и не очень
-
 [Потеря устойчивости: линейная и не очень - MagicDPD](https://magicdpd.ru/buckling-analysis/)

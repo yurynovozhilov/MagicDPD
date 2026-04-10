@@ -13,7 +13,6 @@ tags:
   - opensource
 ---
 
-Code_Aster - мощная штука
 http://cfd.mace.manchester.ac.uk/twiki/pub/Aster/WebHome/Code_Aster_capabilities.pdf
 
 #Code_Aster - пожалуй самый крупный #opensource #FEM код очень крут. Я тут решил поискать, что он может, и нашел очень неплохой материал от университета города Манчестер: http://cfd.mace.manchester.ac.uk/twiki/pub/Aster/WebHome/Code_Aster_capabilities.pdf

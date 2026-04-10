@@ -11,9 +11,6 @@ tags:
   - discovery
 ---
 
-Внешняя аэродинамика F1 для школьников
-
-
 https://www.youtube.com/watch?v=XVzv-OPNEV0&feature=share
 
 

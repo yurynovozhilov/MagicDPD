@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Эйлеровы и лагранжевы описания в механике жидкости
-
 Посмотрим на то, как основы механики жидкости преподавали в восьмидесятых. Лекции читает еще молодой John Leask Lumley.
 
 https://www.youtube.com/watch?v=mdN8OOkx2ko

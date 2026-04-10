@@ -14,7 +14,6 @@ images:
   - url: "/assets/images/1182.jpg"
 ---
 
-CivilFEM для Workbech
 14 ноября Ingeciber на своем вебинаре покажет нечто под названием CivilFEM APPs - похоже это будет тот самый долгожданный ACT для работы со всеми возможностями CivilFEM не в черном экране смерти, а в современной системе Mechanical.
 Бесплатная регистрация на две сессии по ссылкам:
 http://www.civilfem.com/civilfem-apps-for-ansys-workbench-1/

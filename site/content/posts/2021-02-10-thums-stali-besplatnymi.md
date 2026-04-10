@@ -10,9 +10,6 @@ tags:
   - thums
 ---
 
-THUMS стали бесплатными
-
-
 https://www.youtube.com/watch?v=OanQCc_Obj4
 
 

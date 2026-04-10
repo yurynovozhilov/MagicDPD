@@ -8,7 +8,6 @@ images:
   - url: "/assets/images/2971.jpg"
 ---
 
-Красивые ударные волны
 Все что надо мне в эту пятницу
 
 https://www.linkedin.com/posts/tim-brewer-52732612_blastfoam-cfd-supersonicflow-ugcPost-7337619676601978880-udxP

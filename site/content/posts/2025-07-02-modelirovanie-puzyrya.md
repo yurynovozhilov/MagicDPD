@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Моделирование пузыря
-
 Моделирование пузыря, поднимающегося в горячей перегретой жидкости.  Инженерное порно!
 
 https://www.linkedin.com/posts/edoardo-cipriano-51694023a_vof-phasechange-amr-activity-7345810630102134784-paVN

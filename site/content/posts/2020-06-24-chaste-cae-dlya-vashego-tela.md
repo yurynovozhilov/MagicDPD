@@ -13,7 +13,6 @@ images:
   - url: "/assets/images/1788.jpg"
 ---
 
-Chaste — CAE для вашего тела
 #bio #biomed #chaste #Open_Source
 by Юрий Новожилов
 

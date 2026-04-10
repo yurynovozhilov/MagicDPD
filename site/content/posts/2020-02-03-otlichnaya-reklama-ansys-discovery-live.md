@@ -11,6 +11,4 @@ images:
   - url: "/assets/images/1689.jpg"
 ---
 
-Отличная реклама ANSYS Discovery Live
-
 [Отличная реклама ANSYS Discovery Live - MagicDPD](https://magicdpd.ru/ansys-discovery-live-advertisement/)

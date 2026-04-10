@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/1727.jpg"
 ---
 
-Учемся писать МКЭ код
 #C #Coursera #FEM
 by Юрий Новожилов
 

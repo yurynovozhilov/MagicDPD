@@ -9,6 +9,4 @@ tags:
   - DEM
 ---
 
-Моделирование конвейерных систем в #Rocky  при помощи #DEM.
-
 [ROCKY DEM – Shiftable Chute Discharging onto a Conveyor Belt](https://www.youtube.com/watch?v=cZTfOvy3Duw)

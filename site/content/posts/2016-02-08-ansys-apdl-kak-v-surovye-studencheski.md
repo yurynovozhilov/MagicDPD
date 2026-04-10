@@ -11,4 +11,3 @@ images:
   - url: "/assets/images/1224.jpg"
 ---
 
-#ANSYS #APDL - как в суровые студенческие годы!

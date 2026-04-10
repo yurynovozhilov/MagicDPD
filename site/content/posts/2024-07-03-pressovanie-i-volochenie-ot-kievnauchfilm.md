@@ -6,7 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Прессование и волочение от Киевнаучфильм
 https://youtu.be/pbe_CrWjr90
 
 https://youtu.be/pbe_CrWjr90

@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Работа с результатами OpenRadioss в ParaView
-
 Статья-инструкция от авторов ParaView о том, как дополнить бесплатный свободный решатель еще и постпроцессором. Выглядит интересно. Ждем, кода еще и бесплатный свободный и дружественный препроцессор сделают. Даешь OpenRadioss решатель внутри PrePoMax!
 
 https://www.kitware.com/post-process-your-openradioss-results-with-paraview/

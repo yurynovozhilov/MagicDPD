@@ -8,4 +8,3 @@ images:
   - url: "/assets/images/1371.jpg"
 ---
 
-Здоровье вам пригодится!

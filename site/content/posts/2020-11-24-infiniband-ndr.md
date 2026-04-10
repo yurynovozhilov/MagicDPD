@@ -13,7 +13,6 @@ images:
   - url: "/assets/images/1859.jpg"
 ---
 
-Infiniband NDR
 #HPC #Infiniband #NDR #NVIDIA
 by Юрий Новожилов
 

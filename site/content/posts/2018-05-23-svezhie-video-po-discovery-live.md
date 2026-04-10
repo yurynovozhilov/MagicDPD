@@ -11,9 +11,6 @@ tags:
   - NVIDIA
 ---
 
-Свежие видео по Discovery Live
-
-
 #ANSYS #Discovery #GPU #NVIDIA
 
 https://wp.me/p9vWYY-1Ro

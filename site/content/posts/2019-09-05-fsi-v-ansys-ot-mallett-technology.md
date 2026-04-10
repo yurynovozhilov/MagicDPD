@@ -14,11 +14,6 @@ images:
   - url: "/assets/images/1574.jpg"
 ---
 
-FSI в ANSYS от Mallett Technology
-
-
-
-
 #ANSYS #CFX #FSI #Mallett_Technology #System_Coupling
 
 https://wp.me/p9vWYY-2EW

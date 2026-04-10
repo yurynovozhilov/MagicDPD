@@ -10,9 +10,6 @@ tags:
   - dem
 ---
 
-Algoryx Momentum для сыпучего
-
-
 https://youtu.be/NnPA6V_iA6I?list=PLjNYiWVbHKRxD1cQRw79IpGTysRGQSLx5
 
 

@@ -6,4 +6,3 @@ author: "GlukRazor"
 source: vk
 ---
 
-Процесс бурения горной породы в DEM постановке.

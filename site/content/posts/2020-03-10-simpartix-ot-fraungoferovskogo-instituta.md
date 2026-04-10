@@ -13,6 +13,4 @@ images:
   - url: "/assets/images/1714.jpg"
 ---
 
-SimPARTIX от Фраунгоферовского института механики материалов
-
 [SimPARTIX от Фраунгоферовского института механики материалов - MagicDPD](https://magicdpd.ru/simpartix-by-fraunhoferiwm/)

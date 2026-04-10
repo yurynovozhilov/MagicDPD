@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/1616.jpg"
 ---
 
-LS-PrePost для качественных иллюстраций и видео
 #LS_PrePost #LSTC
 by Юрий Новожилов
 

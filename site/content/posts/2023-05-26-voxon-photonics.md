@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Voxon photonics
-
 Оказывается, уже есть настоящие 3D «дисплеи» как в кино. Хотя к CAE системам пока не пристыковать.
 
 https://youtu.be/jTdrHuDQt6E

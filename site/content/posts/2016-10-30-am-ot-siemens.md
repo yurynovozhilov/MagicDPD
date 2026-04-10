@@ -14,7 +14,6 @@ tags:
 title: AM от Siemens
 ---
 
-AM от Siemens
 https://www.youtube.com/watch?v=IDtmy6YorG4
 
 Наконец-то у #Siemens  есть хороший маркетинговый материал, и посвящен он #AM (Additive Manufacturing). Выглядит красиво на уровне с рынком.

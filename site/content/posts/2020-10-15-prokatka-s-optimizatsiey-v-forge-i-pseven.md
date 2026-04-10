@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/1841.jpg"
 ---
 
-Прокатка с оптимизацией в Forge и pSeven
 #forge #pSeven #TRANSVALOR
 by Юрий Новожилов
 

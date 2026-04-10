@@ -18,7 +18,6 @@ tags:
 title: Знакомимся с Inspire Motion
 ---
 
-Знакомимся с Inspire Motion
 https://www.youtube.com/watch?v=yYpWsDAAmAY
 
 Обзор возможностей #Altair  #solidThinking #Inspire - модуль #Motion. На вид очень удобно. Надеюсь, что еще и точно.

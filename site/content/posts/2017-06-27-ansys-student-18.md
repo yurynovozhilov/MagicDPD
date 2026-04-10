@@ -19,7 +19,6 @@ tags:
 title: ANSYS Student 18
 ---
 
-ANSYS Student 18
 http://www.ansys-blog.com/free-download-ansys-student-product/
 
 Хотите изучать #ANSYS - получите бесплатную годовую студенческую лицензию. Лицензия под честное слово, и если вам не хватило года, то вы можете ее продлить сколько угодно раз!

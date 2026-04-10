@@ -16,7 +16,6 @@ images:
   - url: "/assets/images/723.jpg"
 ---
 
-ANSYS 19 - Mechanical Product Update
 Начинается пора замечательных вебинаров, предваряющих выход ANSYS R19. Вот некоторые из них:
 
 

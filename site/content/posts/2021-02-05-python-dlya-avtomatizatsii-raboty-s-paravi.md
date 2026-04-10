@@ -9,9 +9,6 @@ tags:
   - paraview
 ---
 
-Python для автоматизации работы с ParaView
-
-
 https://youtu.be/knWz0LCSgic
 
 

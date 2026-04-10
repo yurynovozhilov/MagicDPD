@@ -17,7 +17,6 @@ tags:
 title: Краштесты от Altair
 ---
 
-Краштесты от Altair
 https://www.youtube.com/watch?v=8YVMNf8CeSo
 
 Один из самых больших и уважаемых #Explicit решателей, #Altair #RADIOSS, обычно незаслуженно обделается вниманием. А тут ему посвящен целый 2-х часовой вебинар!

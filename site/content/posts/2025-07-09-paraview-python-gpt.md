@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Paraview Python GPT
-
 Все становиться лучше с LLM? Даже если это просто документация к вашему API. Вот бы Ansys сделал такое для ACT API.
 
 https://chatgpt.com/g/g-lbu3yvWDv

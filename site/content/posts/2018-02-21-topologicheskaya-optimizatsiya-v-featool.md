@@ -14,7 +14,6 @@ images:
   - url: "/assets/images/811.jpg"
 ---
 
-Топологическая оптимизация в FEATool
 В связке FEATool Multiphysics + Matlab или Octave оказывается доступна оптимизация топологии.
 Шинтаро Ямасаки (Shintaro Yamasaki) из университета Осаки (Osaka University) подготовил учебный пример по тому, как можно решить задачу оптимизации топологии. К сожалению, статья описывающая постановку платная: https://link.springer.com/article/10.1007%2Fs00158-010-0562-2, однако ссылка на сам m-script, выполняющий тестовый пример в FEATool, публично доступна: http://www.featool.com/download/optexec.m
 

@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Подходы к моделированию разрушения льда
-
 Там на английском - только титры на чешском.
 
 https://youtu.be/0n3014vBBQQ?feature=shared

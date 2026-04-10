@@ -12,6 +12,4 @@ images:
   - url: "/assets/images/1812.jpg"
 ---
 
-Что такое перидинамика
-
 [Что такое перидинамика - MagicDPD](https://magicdpd.ru/what-is-peridynamics/)

@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-PrePoMax FEM все хорошеет и хорошеет
-
 Кажется, что с такими сеточными возможностями он скоро может и WB догнать
 https://www.youtube.com/watch?v=pkudbRN2DIk
 

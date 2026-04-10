@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Открыта регистрация на Ansys Simulation World 2024
-
 Ansys проводит свою большую ежегодную техническую конференцию. В этом году она будет 14-16 мая. С регистрацией, но бесплатно.
 
 Регистрируемся: https://i.snoball.it/p/aQVg/t

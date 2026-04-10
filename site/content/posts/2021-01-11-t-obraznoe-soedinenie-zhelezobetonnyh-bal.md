@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/1881.jpg"
 ---
 
-T-образное соединение железобетонных балок
 #APDL #concrete
 by Юрий Новожилов
 

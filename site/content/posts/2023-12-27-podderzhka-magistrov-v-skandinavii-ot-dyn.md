@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Поддержка магистров в Скандинавии от DYNAmore
-
 Если вы учитесь в скандинавских странах и в вашей магистерской работе вы активно используете LS-DYNA, то коллеги из DYNAmore готовы оказать вам поддержку в ваших изысканиях.
 
 https://www.dynamore.se/en/training/student/find-thesis-work-with-ls-dyna

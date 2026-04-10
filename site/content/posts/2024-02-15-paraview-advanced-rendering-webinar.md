@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-ParaView Advanced Rendering Webinar
-
 Этот вебинар состоится в конце февраля и будет посвящен использованию возможностей рендеринга трассировки лучей в ParaView. Приходите и узнайте об интеграции OSPray и новом редакторе материалов, который появится в релизе 5.12 ParaView.
 
 https://www.linkedin.com/events/paraviewadvancedrenderingwebina7163196904275693572

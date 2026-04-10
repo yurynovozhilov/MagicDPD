@@ -11,6 +11,4 @@ images:
   - url: "/assets/images/1647.jpg"
 ---
 
-LS-DYNA Submodeling
-
 [LS-DYNA Submodeling - MagicDPD](https://magicdpd.ru/ls-dyna-submodeling/)

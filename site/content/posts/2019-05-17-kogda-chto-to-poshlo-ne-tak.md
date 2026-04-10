@@ -13,9 +13,6 @@ images:
   - url: "/assets/images/1475.jpg"
 ---
 
-Когда что-то пошло не так
-
-
 Арматура не сцепилась с бетоном, но получилось красиво :-)
 
 #concrete #CSCM #LS_DYNA #meppen

@@ -12,6 +12,4 @@ images:
   - url: "/assets/images/1822.jpg"
 ---
 
-Обзор/тренинг по SpaceClaim 2020R2 от LEAP
-
 [Обзор/тренинг по SpaceClaim 2020R2 от LEAP - MagicDPD](https://magicdpd.ru/spaceclaim-2020r2-leap-overview/)

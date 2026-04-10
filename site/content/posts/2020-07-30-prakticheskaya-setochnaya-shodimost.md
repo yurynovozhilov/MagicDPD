@@ -10,6 +10,4 @@ images:
   - url: "/assets/images/1807.jpg"
 ---
 
-Практическая сеточная сходимость
-
 [Практическая сеточная сходимость - MagicDPD](https://magicdpd.ru/mesh-convergence/)

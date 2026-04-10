@@ -10,8 +10,6 @@ tags:
   - LAVA
 ---
 
-📃 Очень эффектные результаты от #CFD решателя #LAVA
-
 Очень эффектные результаты от #CFD решателя #LAVA, разрабатываемого в #NASA. Коллеги добилось успешного прогнозирования шума струи, а также шума от взаимодействия струи с поверхностью.
 Результаты этого моделирования уже привели к новому пониманию и дополнительным экспериментальным исследованиям некоторых явлений потока. Все это стало доступным благодаря реализации WMLES (Моделирование больших вихрей на стенках, Wall-modeled Large Eddy Simulations).
 По ссылке доступен большой вебинар "Towards Predicting Transonic Aerodynamics using Wall Modeled Large Eddy Simulations" по данной теме: https://www.nas.nasa.gov/pubs/ams/2021/04-01-21.html             Towards Predicting Transonic Aerodynamics using Wall Modeled Large Eddy Simulations          www.nas.nasa.gov

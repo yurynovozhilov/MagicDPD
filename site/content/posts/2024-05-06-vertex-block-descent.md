@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Vertex Block Descent
-
 SIGGRAPH  как всегда доставляет отличный контент.  На этот раз пренезнтация нового вычислительного метода. Я осилил только видео, но для смелых есть ссылка на научную публикацию.
 
 https://www.youtube.com/watch?v=2HCgKfKy3W8

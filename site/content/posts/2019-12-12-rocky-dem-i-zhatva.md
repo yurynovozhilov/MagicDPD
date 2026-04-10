@@ -11,6 +11,4 @@ images:
   - url: "/assets/images/1658.jpg"
 ---
 
-Rocky DEM и жатва
-
 [Rocky DEM и жатва - MagicDPD](https://magicdpd.ru/harvester-simulation-using-rocky-dem/)

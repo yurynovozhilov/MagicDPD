@@ -17,6 +17,4 @@ images:
   - url: "/assets/images/1623.jpg"
 ---
 
-Coreform покупает csimsoft
-
 [Coreform покупает csimsoft - MagicDPD](https://magicdpd.ru/coreform-acquires-csimsoft/)

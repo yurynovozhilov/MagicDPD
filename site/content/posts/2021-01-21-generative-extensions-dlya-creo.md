@@ -12,9 +12,6 @@ tags:
   - hpc
 ---
 
-Generative Extensions для Creo
-
-
 https://www.youtube.com/watch?v=RReVZ37fs0w
 
 

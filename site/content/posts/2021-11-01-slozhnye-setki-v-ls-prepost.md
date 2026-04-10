@@ -10,9 +10,6 @@ tags:
   - ansys
 ---
 
-Сложные сетки в LS-PrePost
-
-
 https://www.youtube.com/watch?v=ezyJOLIjCH4
 
 

@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Ansys Mechanical 2023 R2
-
 Официальный обзор новых возможностей Ansys в области расчетов механики.
 
 https://www.youtube.com/watch?v=szmlLMtwqmI

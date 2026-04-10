@@ -12,6 +12,4 @@ images:
   - url: "/assets/images/1797.jpg"
 ---
 
-Вебинар по EFG
-
 [Вебинар по EFG - MagicDPD](https://magicdpd.ru/efg-webinar/)

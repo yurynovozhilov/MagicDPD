@@ -8,6 +8,4 @@ images:
   - url: "/assets/images/1758.jpg"
 ---
 
-Конференции на удаленке без лишнего шума
-
 [Конференции на удаленке без лишнего шума - MagicDPD](https://magicdpd.ru/krisp-ai/)

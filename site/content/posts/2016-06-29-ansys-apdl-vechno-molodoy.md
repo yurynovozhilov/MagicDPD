@@ -11,4 +11,3 @@ images:
   - url: "/assets/images/1858.jpg"
 ---
 
-#ANSYS #APDL - вечно молодой

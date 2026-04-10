@@ -6,4 +6,3 @@ author: "GlukRazor"
 source: vk
 ---
 
-Призы заказывали?

@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/1154.jpg"
 ---
 
-Немного трансляции с CASCON
 https://youtu.be/Ps34dQNIweM
 
 #ACUM #CASCON

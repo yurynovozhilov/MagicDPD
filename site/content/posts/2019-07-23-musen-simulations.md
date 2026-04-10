@@ -11,9 +11,6 @@ images:
   - url: "/assets/images/1536.jpg"
 ---
 
-MUSEN Simulations
-
-
 MUSEN Simulations — разработка профессора Максима Доста (Asst.-Prof. Maksym Dosta, https://www.tuhh.de/spe/institute/staff/prof-maksym-dosta.html) из Гамбургского технологического университета (TUHH). DEM код позволяет проводить очень интересные исследования разрушения тел.
 
 #DEM #musen

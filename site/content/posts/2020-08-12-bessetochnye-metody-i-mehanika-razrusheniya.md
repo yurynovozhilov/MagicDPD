@@ -10,6 +10,4 @@ images:
   - url: "/assets/images/1813.jpg"
 ---
 
-Бессеточные методы и механика разрушения еды
-
 [Бессеточные методы и механика разрушения еды - MagicDPD](https://magicdpd.ru/meal-damage-simulation/)

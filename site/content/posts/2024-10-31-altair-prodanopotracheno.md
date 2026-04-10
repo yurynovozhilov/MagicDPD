@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Altair - продано/потрачено
-
 Всего-то 10 ярдов, и он теперь с Siemens.
 
 https://schnitgercorp.com/2024/10/30/its-official-siemens-buys-altair-for-10-billion/amp/

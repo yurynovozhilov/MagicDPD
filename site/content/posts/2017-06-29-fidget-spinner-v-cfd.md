@@ -11,7 +11,4 @@ tags:
   - FidgetSpinner
 ---
 
-Fidget Spinner в CFD
-
-
 #Altair от нечего делать посчитал аэродинамику устройства, которое крутят в руках, когда нечего делать - Fidget Spinner. За #CFD часть отвечал #AcuSolve

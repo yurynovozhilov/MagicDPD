@@ -24,7 +24,6 @@ tags:
 title: ANSYS Toplogy Optimization - еще большой учебный материал
 ---
 
-ANSYS Toplogy Optimization - еще большой учебный материал
 http://www.finiteelementanalysis.com.au/featured/topological-optimisation-with-ansys-17-0/
 
 Большой учебный материал/статья/мастер класс по работе с #ANSYS #Toplogy #Optimization #ACT. Разобраны не только моменты, связанные с постановкой задачи в #ANSYS #Mechanical и выполнения поверочного расчета на основе #STL, но и восстановление аналитической геометрии при помощи #SpaceClaim.

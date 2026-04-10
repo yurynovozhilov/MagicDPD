@@ -13,7 +13,6 @@ images:
   - url: "/assets/images/1855.jpg"
 ---
 
-Уcталостный рост трещин в Ansys Mechanical
 #ANSYS #crack #Fatigue #Mechanical
 by Юрий Новожилов
 

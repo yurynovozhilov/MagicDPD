@@ -20,7 +20,6 @@ images:
   - url: "/assets/images/755.jpg"
 ---
 
-ANSYS R19 официально
 Итак, свершилось! ANSYS R19 стал доступен, о чем нам сообщает официальный сайт компании CADFEM CIS
 
 https://www.cadfem-cis.ru/products/ansys/ansys-update/

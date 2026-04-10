@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/1746.jpg"
 ---
 
-eFatigue — бесплатный калькулятор усталостной долговечности
 #Altair #Fatigue
 by Ян Поженько
 

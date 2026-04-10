@@ -22,7 +22,6 @@ tags:
 title: k-ω Shear-Stress Transport (SST)
 ---
 
-k-ω Shear-Stress Transport (SST)
 https://cfdisraelblog.wordpress.com/2017/03/23/understanding-the-k-ω-sst-model/
 
 Предлагаю на суд статью, которая прищвана помочь рзобраться с физическим смыслом обной из самых популяртных моделей турбулентоностей для #CFD расчетом - k-ω #SST. Есть даже рассказ про историю рзработки. Любителям аналитики посвящается.

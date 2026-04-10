@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Подоспел новый рейтинг университетов
-
 Я понимаю, что это тема для набросов и манипуляций, но очень жалко видеть Питерский Политех где-то в восьмой - девятой сотне. А ведь без хорошего базового образования в нашем деле никуда.
 
 https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking

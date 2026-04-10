@@ -12,7 +12,6 @@ tags:
   - RollsRoyce
 ---
 
-Cray, LSTC и Rolls-Royce соберутся на одном вебинаре
 http://web.cray.com/CAE_webinar_series_LSTC
 
 Компании #Cray, #LSTC и #RollsRoyce 13 сентября проведут совместный вебинар. На вебинаре будут показаны их достижения в области #HPC для расчетов, выполняемых в #LSDYNA

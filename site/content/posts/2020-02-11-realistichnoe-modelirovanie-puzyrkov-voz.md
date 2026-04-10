@@ -10,6 +10,4 @@ images:
   - url: "/assets/images/1697.jpg"
 ---
 
-Реалистичное моделирование пузырьков воздуха в воде
-
 [Реалистичное моделирование пузырьков воздуха в воде - MagicDPD](http://magicdpd.ru/realistic-water-bubble-simulation/)

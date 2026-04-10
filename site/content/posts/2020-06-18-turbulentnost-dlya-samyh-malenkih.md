@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/1784.jpg"
 ---
 
-Турбулентность для самых маленьких
 #CFD #laminar #turbulence
 by Ян Поженько
 

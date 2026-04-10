@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Оптимизация трассовых и вантовых конструкций
-
 https://www.youtube.com/live/HM4PftgSK7g?si=4Kxf4S-lnok0d4nU
 
 [TOP Webinar 32: Truss optimization](https://www.youtube.com/live/HM4PftgSK7g?si=4Kxf4S-lnok0d4nU)

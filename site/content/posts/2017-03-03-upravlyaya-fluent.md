@@ -12,7 +12,6 @@ tags:
   - Fluent
 ---
 
-Управляя Fluent
 http://www.ansys-blog.com/ansys-fluent-matlab-example/
 
 #ANSYS #Fluent - убер решатель #CFD, но иногда и им надо управлять. В своем блоге ANSYS приводит пример кода для внешнего управления по средствам #Matlab! Интересно, чем им #Python не угодил?!

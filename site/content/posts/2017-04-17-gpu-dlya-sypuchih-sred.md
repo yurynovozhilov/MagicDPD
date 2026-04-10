@@ -26,7 +26,6 @@ tags:
 title: GPU для сыпучих сред
 ---
 
-GPU для сыпучих сред
 https://www.cadfem-cis.ru/list/article/rocky-nvidia-gpu/
 
 Мы тут #Rocky #DEM тестировали на новых #GPGPU от #NVIDIA - получилось любопытно. Основных мысли три:

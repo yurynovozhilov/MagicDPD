@@ -9,4 +9,3 @@ tags:
   - ACUM
 ---
 
-Ништяки от #CADFEM для #ACUM

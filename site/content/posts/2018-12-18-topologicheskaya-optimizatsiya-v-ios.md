@@ -15,7 +15,6 @@ images:
   - url: "/assets/images/1273.jpg"
 ---
 
-Топологическая оптимизация в iOS
 В поисках чего-нибудь интересного для телефона я наткнулся на приложение TopOpt 3D. При этом приложение создано не абы кем, а группой "механических расчетов" Датского технического университета (DTU Mechanical Engineering).
 Apple AppStore: https://itunes.apple.com/ru/app/topopt-3d/id881472301
 Научная статья на сайте университета: http://www.topopt.mek.dtu.dk/Apps-and-software/Interactive-3D-TopOpt-App

@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-PLM x Claude AI
-
 Видео про то, как агент скрестить Claude AI и PLM Aras Corporation (на основе которого работает Ansys Minerva) с помощью сервера Python MCP.
 
 В этом видео:

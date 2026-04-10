@@ -11,9 +11,6 @@ images:
   - url: "/assets/images/1481.jpg"
 ---
 
-Обзор работы контактов в LS-DYNA
-
-
 Демонстрация работы автоматических контактов, которыми славится решатель LSTC. Тут у нас контакты AG (AUTOMATIC_GENERAL), ASS (AUTOMATIC_SINGLE_SURFACE) и ASSM (AUTOMATIC_SINGLE_SURFACE_MORTAR). При этом рассматривается их работа с различными режимами расчета «контактной жесткости» (параметр SOFT).
 
 #contact #LS_DYNA

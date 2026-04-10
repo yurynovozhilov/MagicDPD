@@ -10,7 +10,6 @@ tags:
   - OpenFOAM
 ---
 
-CFD расчет выстрела
 #CFD #OpenFOAM #simulationfriday
 by Юрий Новожилов
 

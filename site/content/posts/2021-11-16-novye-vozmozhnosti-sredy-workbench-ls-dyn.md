@@ -11,9 +11,6 @@ tags:
   - ansys
 ---
 
-Новые возможности среды Workbench LS-DYNA 2021 R2
-
-
 https://www.youtube.com/watch?v=KzmY3U428mo
 
 

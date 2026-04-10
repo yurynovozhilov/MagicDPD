@@ -10,9 +10,6 @@ tags:
   - ansys
 ---
 
-Канал фаната танков и Ansys Explicit STR
-
-
 https://www.youtube.com/watch?v=k3srdk2_2Vk
 
 

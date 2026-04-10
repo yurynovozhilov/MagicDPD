@@ -10,6 +10,4 @@ images:
   - url: "/assets/images/1720.jpg"
 ---
 
-Гильберг Стрэнг — история МКЭ
-
 [Гильберг Стрэнг - история МКЭ - MagicDPD](https://magicdpd.ru/gilbert-strang-fem-story/)

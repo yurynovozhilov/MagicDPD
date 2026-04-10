@@ -37,7 +37,6 @@ tags:
 title: Учебные материалы OpenFOAM
 ---
 
-Учебные материалы OpenFOAM
 https://youtu.be/5U7jZ48vOZ4?list=PLbxC_ERCZDHYt3dZj0dl4XW5l9VzlZdKv
 
 Команда CFD Support выложила учебный курс по #OpenFOAM в рамках препоста #Salome. Учебный курс пока в пяти частях.

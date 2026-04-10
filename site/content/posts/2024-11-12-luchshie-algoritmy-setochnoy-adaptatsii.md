@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Лучшие алгоритмы сеточной адаптации
-
 И это не Marc или Qform. Это решатель AdvantEdge, разрабатываемый компание Third Wave  в рамках ее CAM решений по моделированию сверления и фрезеровки. Просто посмотрите на их результаты (которым уже более 10 лет). Кто может так?
 
 https://www.youtube.com/playlist?list=PLBFrVxDFeOUa_gS1BO5WGkCuhpp6j7xyp

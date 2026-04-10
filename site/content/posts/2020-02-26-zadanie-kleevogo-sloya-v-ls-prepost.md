@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/1706.jpg"
 ---
 
-Задание клеевого слоя в LS-PrePost
 #cohesive #LS_PrePost
 by Юрий Новожилов
 

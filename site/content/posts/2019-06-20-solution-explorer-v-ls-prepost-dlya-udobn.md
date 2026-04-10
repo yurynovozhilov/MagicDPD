@@ -12,9 +12,6 @@ images:
   - url: "/assets/images/1511.jpg"
 ---
 
-Solution Explorer в LS-PrePost для удобной постановки задач
-
-
 То есть это как? LSTC добавляет удобства в LSPP?! Готовить модели для LS-DYNA становится удобно???
 
 

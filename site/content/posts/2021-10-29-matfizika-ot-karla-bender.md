@@ -8,9 +8,6 @@ tags:
   - theory
 ---
 
-Матфизика от Карла Бендер
-
-
 https://www.youtube.com/playlist?list=PLOFVFbzrQ49TNlDOxxCAjC7kbnorAR1MU
 
 

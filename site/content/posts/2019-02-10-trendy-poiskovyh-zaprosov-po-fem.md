@@ -12,9 +12,6 @@ tags:
   - ABAQUS
 ---
 
-Тренды поисковых запросов по FEM
-
-
 Интересный твит по статистике поисковых запросов главных механических решателей за 8 лет : ANSYS, Abaqus, Nastran, LS-DYNA и SAMCEF
 twitter.com/gdtech_be/status/1029620024124862464
 

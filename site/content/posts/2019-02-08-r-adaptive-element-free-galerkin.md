@@ -13,9 +13,6 @@ images:
   - url: "/assets/images/1345.jpg"
 ---
 
-r-adaptive Element-Free Galerkin
-
-
 Резка металла может быть промоделирована неявным решателем LS-DYNA для адаптивной постановки бессеточного метода Галеркина (r-adaptive Element-Free Galerkin, EFG).
 Сетка, которую вы видите — это не совсем сетка. Подробнее в прилагаемой презентации по данному бессеточному методу.
 #EFG #implicit #lsdyna

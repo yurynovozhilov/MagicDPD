@@ -12,6 +12,4 @@ source: vk
 title: 25 минут, что бы начать вникнуть в SimScale
 ---
 
-25 минут, что бы начать вникнуть в SimScale
-
 [SimScale - Engineering Simulation in your Browser](https://simscale.com/get-started/)

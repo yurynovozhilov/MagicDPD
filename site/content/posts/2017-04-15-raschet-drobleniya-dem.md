@@ -25,7 +25,6 @@ tags:
 title: Расчет дробления DEM
 ---
 
-Расчет дробления DEM
 http://umit.math.umu.se/project/granureg/
 
 Пример тестового расчета дробления #NDEM  (nonsmooth discrete element method) выполненный в #AGX Dynamics и #Voro++ специалистами UMIT Research Lab. У них, между прочим, очень интересный сайт (http://umit.math.umu.se/project/granureg/) с еще одним #DEM кодом #GranuX.

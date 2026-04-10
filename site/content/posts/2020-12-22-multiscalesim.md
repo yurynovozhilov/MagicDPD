@@ -14,6 +14,4 @@ tags:
   - composite
 ---
 
-Multiscale.Sim
-
 [Multiscale.Sim - MagicDPD](https://magicdpd.ru/multiscale-sim/)
