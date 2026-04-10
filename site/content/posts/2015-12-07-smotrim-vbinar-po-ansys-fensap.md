@@ -9,6 +9,4 @@ tags:
   - ANSYS
 ---
 
-Смотрим вбинар по #ANSYS #FENSAP
-
 [ANSYS FENSAP-ICE](http://www.ansys.com/Products/Fluids/ANSYS+FENSAP-ICE)

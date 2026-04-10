@@ -10,4 +10,3 @@ images:
   - url: "/assets/images/1315.jpg"
 ---
 
-Суровое боевое #HPC

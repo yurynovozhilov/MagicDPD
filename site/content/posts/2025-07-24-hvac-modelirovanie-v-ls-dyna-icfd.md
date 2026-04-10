@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-HVAC моделирование в LS-DYNA ICFD
-
 Отопление, вентиляция и кондиционирование (HVAC): влажный воздух (сухой воздух + водяной пар) в ICFD LS-DYNA. Разработчики ICFD не останавливаются.
 
 https://www.youtube.com/watch?v=iqcV3ZZua0A

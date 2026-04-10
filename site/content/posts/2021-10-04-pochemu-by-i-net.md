@@ -13,9 +13,6 @@ tags:
   - freesurface
 ---
 
-Почему бы и нет
-
-
 https://www.youtube.com/watch?v=b9RzrIaRcvY
 
 

@@ -8,4 +8,3 @@ images:
   - url: "/assets/images/2379.jpg"
 ---
 
-В пятницу можно и отдохнуть

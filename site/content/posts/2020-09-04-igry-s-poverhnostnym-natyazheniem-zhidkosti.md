@@ -11,6 +11,4 @@ images:
   - url: "/assets/images/1818.jpg"
 ---
 
-Игры с поверхностным натяжением жидкости
-
 [Игры с поверхностным натяжением жидкости - MagicDPD](https://magicdpd.ru/surface-tention-game/)

@@ -20,7 +20,6 @@ tags:
 title: ANSYS App Builder
 ---
 
-ANSYS App Builder
 https://www.youtube.com/watch?v=xYJPgdOdD3k
 
 В #ANSYS 18 появилось такое приложение, как ANSYS App Builder, и, на мой взгляд, это самое крутое нововведение в R18!

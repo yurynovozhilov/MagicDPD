@@ -10,9 +10,6 @@ tags:
   - ls
 ---
 
-Моделирование разрушения и фрагментации при помощи SPH
-
-
 https://youtu.be/p0e8pTs0zgU?list=WL
 
 

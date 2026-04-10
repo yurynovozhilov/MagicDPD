@@ -8,8 +8,6 @@ tags:
   - acumMedia
 ---
 
-#acumMedia
-
 http://ift.tt/2zbmsgQ
 
 http://ift.tt/2yYM4jo

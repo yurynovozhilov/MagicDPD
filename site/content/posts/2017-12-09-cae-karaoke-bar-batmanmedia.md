@@ -6,8 +6,6 @@ author: "GlukRazor"
 source: vk
 ---
 
-CAE Karaoke bar BatmanMedia
-
 http://ift.tt/2A8XwGx
 
 http://ift.tt/2AGHlkY

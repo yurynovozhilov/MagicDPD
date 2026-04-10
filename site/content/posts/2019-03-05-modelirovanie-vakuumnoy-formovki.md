@@ -15,9 +15,6 @@ images:
   - url: "/assets/images/1375.jpg"
 ---
 
-Моделирование вакуумной формовки
-
-
 Есть пример от Wilde Analysis как такое делается в ANSYS AIM 19.2 — там внутри зашит Polyflow
 
 

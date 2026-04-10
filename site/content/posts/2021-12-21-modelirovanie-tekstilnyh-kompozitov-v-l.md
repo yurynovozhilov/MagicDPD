@@ -13,9 +13,6 @@ tags:
   - composite
 ---
 
-Моделирование текстильных композитов в LS-DYNA
-
-
 https://www.youtube.com/watch?v=8xxefifDzY0
 
 

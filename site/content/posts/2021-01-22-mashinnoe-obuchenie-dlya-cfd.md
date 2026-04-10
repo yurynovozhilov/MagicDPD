@@ -10,9 +10,6 @@ tags:
   - ai
 ---
 
-Машинное обучение для CFD
-
-
 https://www.youtube.com/watch?v=8e3OT2K99Kw
 
 

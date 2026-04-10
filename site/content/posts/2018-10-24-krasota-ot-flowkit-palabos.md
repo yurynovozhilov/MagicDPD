@@ -13,7 +13,6 @@ images:
   - url: "/assets/images/1170.jpg"
 ---
 
-Красота от FlowKit & Palabos
 Просто классическая задача о дамбе, которую красиво посчитали и визуализировали в связке FlowKit + Palabos
 
 

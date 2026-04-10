@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Qfrom и SpaceClaim
-
 Что-то я пропустил момент, когда Qfrom начал использовать софт от Ansys для полготовки геометрии.
 
 https://www.youtube.com/watch?v=DbUSF6PFujc

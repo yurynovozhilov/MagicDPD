@@ -14,7 +14,6 @@ images:
   - url: "/assets/images/2176.jpg"
 ---
 
-Гидродинамика на движущейся сетке Вороного
 #CFD #Voronoi https://youtu.be/nuK9PvlpUNg
 
 https://youtu.be/nuK9PvlpUNg

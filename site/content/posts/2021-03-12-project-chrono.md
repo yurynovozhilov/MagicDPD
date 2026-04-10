@@ -11,9 +11,6 @@ tags:
   - gpu
 ---
 
-Project Chrono
-
-
 https://vimeo.com/185824185
 
 

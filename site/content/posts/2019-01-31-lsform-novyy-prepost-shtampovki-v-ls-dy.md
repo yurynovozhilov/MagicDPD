@@ -15,9 +15,6 @@ images:
   - url: "/assets/images/1328.jpg"
 ---
 
-LSFORM — новый ПреПост штамповки в LS-DYNA
-
-
 https://www.youtube.com/watch?v=g6wZ0MMEmmA
 
 

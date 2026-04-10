@@ -8,4 +8,3 @@ images:
   - url: "/assets/images/4.jpg"
 ---
 
-Запускаем канал

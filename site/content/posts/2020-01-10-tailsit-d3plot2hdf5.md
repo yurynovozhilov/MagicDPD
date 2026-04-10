@@ -15,7 +15,6 @@ images:
   - url: "/assets/images/1671.jpg"
 ---
 
-Tailsit D3PLOT2HDF5
 #Ensight #HDF5 #LS_DYNA #Paraview #Tailsit #VisIt
 by Юрий Новожилов
 

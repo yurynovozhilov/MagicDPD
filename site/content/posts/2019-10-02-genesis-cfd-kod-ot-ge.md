@@ -16,8 +16,6 @@ images:
   - url: "/assets/images/1602.jpg"
 ---
 
-GENESIS - CFD код от GE
-
 Вычислительный код GENESIS разрабатывается GE на базе существующей научной разработки hp-adaptive Multi-physics Simulation Code (hpMusic), так что правильнее его называть hpMusic/GENESIS.
 
 

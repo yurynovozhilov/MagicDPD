@@ -19,7 +19,6 @@ tags:
 title: VR в вебинаре
 ---
 
-VR в вебинаре
 http://www.develop3d.com/blog/2016/11/worldviz-introduces-skofield-operates-much-like-a-gotomeeting-for-vr
 
 Компания #WorldViz занимащаяся промышленным #VR анонсировала запуск решения под коовым названием #Skofield. Основная идея Skofield - скрестить вебинары и VR для обсуждения сложных обсуждений.

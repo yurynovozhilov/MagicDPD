@@ -6,9 +6,6 @@ author: "MagicDPD"
 source: vk
 ---
 
-Работа МКЭ и метода Галеркина
-
-
 https://www.youtube.com/watch?v=s14zmpLdh0k
 
 

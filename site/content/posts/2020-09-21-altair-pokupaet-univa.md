@@ -14,6 +14,4 @@ images:
   - url: "/assets/images/1828.jpg"
 ---
 
-Altair покупает Univa
-
 [Overview of Univa Grid Engine](https://magicdpd.ru/altair-acquires-univa/)

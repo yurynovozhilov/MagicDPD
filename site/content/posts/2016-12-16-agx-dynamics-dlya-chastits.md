@@ -24,7 +24,6 @@ tags:
 title: AGX Dynamics для частиц
 ---
 
-AGX Dynamics для частиц
 https://www.youtube.com/watch?v=7OA-54FNYVQ
 
 #Algoryx - разработчик Dynamics for #SpaceClaim выкатил новые фишки своего ПО

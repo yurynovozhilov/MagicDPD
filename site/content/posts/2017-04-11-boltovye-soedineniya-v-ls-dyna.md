@@ -21,7 +21,6 @@ tags:
 title: Болтовые соединения в LS-DYNA
 ---
 
-Болтовые соединения в LS-DYNA
 http://www.protection-consultants.com/tech-notes/bolted-connection-modeling-ls-dyna-large-vehicle-models/
 
 Большая и хорошая методическая публикация на тему моделирования болтовых соединений в #LSDYNA от компании #Protection #Engineering

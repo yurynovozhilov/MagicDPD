@@ -10,4 +10,3 @@ images:
   - url: "/assets/images/1168.jpg"
 ---
 
-Неистовый репост всем кто за #CFD

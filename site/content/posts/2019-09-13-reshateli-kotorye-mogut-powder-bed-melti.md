@@ -13,9 +13,6 @@ images:
   - url: "/assets/images/1582.jpg"
 ---
 
-Решатели, которые могут Powder bed melting
-
-
 Одна из самых сложных задач в аддитивке — моделирование ванны расплава. Сегодня у нас красуются CFD коды Fluent (ANSYS, Inc), FLOW-3D (Flow Science, Inc.).
 
 

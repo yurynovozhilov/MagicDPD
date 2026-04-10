@@ -9,9 +9,6 @@ tags:
   - blast
 ---
 
-FLACS-CFD для задач промешенной безопасности
-
-
 https://www.youtube.com/watch?v=THAiVZSDJDI
 
 

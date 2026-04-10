@@ -43,7 +43,6 @@ tags:
 title: Block Mesher в LS-PrePost
 ---
 
-Block Mesher в LS-PrePost
 https://www.youtube.com/watch?v=EYT8LuqfSyg
 
 Пока все спорят о том, как лучше строить сетки в #ANSYS #Meshing или #ICEM CFD, #Altair #HyperMesh, #BetaCAE #ANSA или чем еще сильно платном, ребята из #LSTC продолжают пилить бесплатный препост #LSPP для #LSDYNA. Сегодня я нашел серию уроков по построению сложных и высококачественных сеток для #Explicit расчетов.

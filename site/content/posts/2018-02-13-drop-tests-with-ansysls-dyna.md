@@ -13,7 +13,6 @@ images:
   - url: "/assets/images/790.jpg"
 ---
 
-Drop tests with ANSYS/LS-DYNA
 Colleagues from the British-Irish CADFEM collected a small presentation on the drop tests simulation in ANSYS with usage of LS-DYNA solver
 
 <!--more-->

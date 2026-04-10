@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Все хотят дружить с Джейсоном Хуангом
-
 Итак, вслед за Ansys/Synopsys, Cadance и Siemens в любви-дружбе-жвачке с Nvidia заявил и Dassault. Всем кто очень хочется, что бы ИИ научился моделировать физику, и нам больше не надо было работать :-)
 
 https://blogs.nvidia.com/blog/huang-3dexperience-2026/?ncid=so-link-632917&linkId=100000406112673

@@ -10,8 +10,6 @@ tags:
   - FEA
 ---
 
-Готовимся встречать новый SolidWorks 2016
-
 #CAD #SolidWorks #FEA
 
 http://www.solidworks.com/launch/?scid=social_20150916_52501046&adbid=UPDATE-c5003792-6049899585277612032&adbpl=li&adbpr=5003792

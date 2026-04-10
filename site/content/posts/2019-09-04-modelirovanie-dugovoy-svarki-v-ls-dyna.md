@@ -16,9 +16,6 @@ images:
   - url: "/assets/images/1573.jpg"
 ---
 
-Моделирование дуговой сварки в LS-DYNA
-
-
 Heat source simulation  from Braj Bhushan Prasad
 
 

@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/1782.jpg"
 ---
 
-Моделирование смазки зубчатой передачи
 #LS_DYNA #SPH #Splashing
 by Юрий Новожилов
 

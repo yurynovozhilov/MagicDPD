@@ -8,9 +8,6 @@ tags:
   - thermo
 ---
 
-Thermo-calc
-
-
 https://www.youtube.com/watch?v=6YnCrbcGE_c
 
 

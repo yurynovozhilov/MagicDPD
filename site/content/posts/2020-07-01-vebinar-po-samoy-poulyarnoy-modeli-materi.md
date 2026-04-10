@@ -11,6 +11,4 @@ images:
   - url: "/assets/images/1794.jpg"
 ---
 
-Вебинар по самой поулярной модели материала для LS-DYNA
-
 [Вебинар по самой поулярной модели материала для LS-DYNA - MagicDPD](https://magicdpd.ru/mat-024/)

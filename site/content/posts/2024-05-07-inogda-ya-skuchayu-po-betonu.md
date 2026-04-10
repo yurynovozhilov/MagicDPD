@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Иногда я скучаю по бетону
-
 https://www.youtube.com/watch?v=G-SDvEgmZLI
 
 [RC Beam Bending: A material model comparison Summary](https://www.youtube.com/watch?v=G-SDvEgmZLI)

@@ -11,6 +11,4 @@ images:
   - url: "/assets/images/1764.jpg"
 ---
 
-Расчеты пассивной безопасности
-
 [Расчеты пассивной безопасности - MagicDPD](http://magicdpd.ru/trailer-safety-calculations/)

@@ -24,7 +24,6 @@ tags:
 title: Explicit FEM для проектирования турбин
 ---
 
-Explicit FEM для проектирования турбин
 http://www.enginelabs.com/news/cummins-models-turbine-wheel-explosions-to-test-housing-containment/
 
 Компания #Cummins опубликовала очень интересный отчет о том, что может произойти с турбиной двигателя внутреннего сгорания если на скорости 300 000 оборотов в минуту что-то пойдет не так.

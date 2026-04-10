@@ -11,7 +11,6 @@ tags:
   - LSDYNA
 ---
 
-LS-DYNA ACT
 https://support.ansys.com/portal/site/AnsysCustomerPortal/menuitem.ad09c1ca704220ba44762e10639c97a0/?vgnextoid=d00648ed2ce3c310VgnVCM1000004201c90aRCRD&vgnextfmt=default#
 
 Продолжая тему #ACT хочу поделиться двумя новостями и моими мыслями по их поводу:

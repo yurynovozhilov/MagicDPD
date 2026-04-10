@@ -13,9 +13,6 @@ images:
   - url: "/assets/images/1579.jpg"
 ---
 
-SIMULIA Opera
-
-
 Обзор возможностей британского решателя Opera FEA, который был куплен Dassault Systemes, и начал свою интеграцию в платформу SIMULIA в этом году.
 
 #Dassault #EM #OperaFEA #SIMULIA

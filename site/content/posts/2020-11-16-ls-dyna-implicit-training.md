@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/1857.jpg"
 ---
 
-LS-DYNA Implicit Training
 #implicit #LS_DYNA
 by Юрий Новожилов
 

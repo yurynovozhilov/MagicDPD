@@ -8,9 +8,6 @@ images:
   - url: "/assets/images/1489.jpg"
 ---
 
-Granta Design — царица всех баз данных материалов
-
-
 Granta Design имеет два продукта, на которые стоит обратить внимание. А именно: Granta CES Selector и Granta Materials Data for Simulation.
 
 

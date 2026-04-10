@@ -12,9 +12,6 @@ tags:
   - spg
 ---
 
-Метод связанных частиц в механике горных пород
-
-
 https://www.youtube.com/watch?v=AgssizDIRDk
 
 

@@ -11,6 +11,4 @@ images:
   - url: "/assets/images/1651.jpg"
 ---
 
-Моделирвоание струй в CONVERGE на адаптивных сетка
-
 [Моделирвоание струй в CONVERGE на адаптивных сетка - MagicDPD](https://magicdpd.ru/simulating-liquid-jet-instabilities-with-converge/)

@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-MeshWorks показал как делать срединную поверхность
-
 https://www.youtube.com/watch?v=1BtfJubCJVw - для тех, кто измучен созданием оболочечных моделей для тонкостенных пластиковый изделий, получаемых литьем.
 
 [MeshWorks Tutorial -- HOW TO EPISODE 4: Midsurface Meshing](https://www.youtube.com/watch?v=1BtfJubCJVw)

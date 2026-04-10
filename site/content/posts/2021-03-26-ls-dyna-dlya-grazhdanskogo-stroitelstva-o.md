@@ -12,9 +12,6 @@ tags:
   - concrete
 ---
 
-LS-DYNA для гражданского строительства от Arup
-
-
 https://www.youtube.com/watch?v=PhLq9N85Oe8
 
 

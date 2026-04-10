@@ -8,8 +8,6 @@ images:
   - url: "/assets/images/2931.jpg"
 ---
 
-Вебинар по LS-DYNA + AQUA от Ansys
-
 Как много было у меня задач на столконоыение судов в былые времена. А тут вот коллеги вебинар подвезли.
 
 https://www.ansys.com/webinars/modern-shipbuilding-avoiding-collision-grounding

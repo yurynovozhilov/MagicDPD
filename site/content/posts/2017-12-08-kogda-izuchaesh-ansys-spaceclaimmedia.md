@@ -9,8 +9,6 @@ tags:
   - spaceclaimMedia
 ---
 
-Когда изучаешь #ansys #spaceclaimMedia
-
 http://ift.tt/2A2lMtN
 
 http://ift.tt/2hlBRTr

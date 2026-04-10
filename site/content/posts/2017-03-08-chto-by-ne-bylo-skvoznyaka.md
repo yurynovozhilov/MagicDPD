@@ -16,7 +16,6 @@ tags:
 title: Что бы не было сквозняка
 ---
 
-Что бы не было сквозняка
 https://www.simscale.com/projects/Ali_Arafat/hvac_webinar_-_session_3/
 
 #SimScale подготовил пример по расчету теплового режима жилой комнаты. Зимой такое конечно актуальнее, но и весной пригодится. #CFD #Cloud

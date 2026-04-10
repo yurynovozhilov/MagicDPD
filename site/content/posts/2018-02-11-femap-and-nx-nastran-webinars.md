@@ -14,7 +14,6 @@ images:
   - url: "/assets/images/784.jpg"
 ---
 
-Femap and NX Nastran webinars
 Colleges from CADIS prepare training webinar series NX and Femap usage (RUS lang only)
 
 <!--more-->

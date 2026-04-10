@@ -11,9 +11,6 @@ images:
   - url: "/assets/images/1530.jpg"
 ---
 
-Урок по LS-DYNA: роняем шарик
-
-
 Видеоурок в двух частях для тех, кто только-только начинает свое знакомство с LS-DYNA и LS-PrePost
 
 #LS_DYNA #LS_PrePost

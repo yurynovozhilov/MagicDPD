@@ -8,6 +8,4 @@ tags:
   - lsdyna
 ---
 
-Еще одна причина для моей аэрологии #lsdyna
-
 [Aircraft Turbine - Blade off simulation](https://www.youtube.com/watch?v=VBwvkz1HgoQ)

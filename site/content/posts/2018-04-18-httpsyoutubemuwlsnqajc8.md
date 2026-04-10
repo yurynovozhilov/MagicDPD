@@ -6,6 +6,4 @@ author: "GlukRazor"
 source: vk
 ---
 
-https://youtu.be/MuWLSnqAJc8
-
 [MultiMechanics Introduction](https://youtu.be/MuWLSnqAJc8)

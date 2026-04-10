@@ -12,9 +12,6 @@ images:
   - url: "/assets/images/1567.jpg"
 ---
 
-Directed Energy Deposition в ANSYS Additive Suite
-
-
 Как же полезно всегда (!!!) держать beta опции ANSYS включенными. Вот, например, что нашлось в уже привычном релизе 2019 R2.
 
 #Additive_Manufacturing #ANSYS #DED

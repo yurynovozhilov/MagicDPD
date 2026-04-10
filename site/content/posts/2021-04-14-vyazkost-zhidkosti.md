@@ -9,9 +9,6 @@ tags:
   - theory
 ---
 
-Вязкость жидкости
-
-
 https://www.youtube.com/watch?v=VvDJyhYSJv8
 
 

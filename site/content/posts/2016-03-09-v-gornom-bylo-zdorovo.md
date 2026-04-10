@@ -10,6 +10,4 @@ tags:
   - Rocky
 ---
 
-В Горном было здорово!
-
 [Семинар по численному моделированию задач минерально-сырьевого кластера • Новости • www.rocky-dem.ru](http://www.rocky-dem.ru/about/news/view/artcl/seminar-po-chislen/)

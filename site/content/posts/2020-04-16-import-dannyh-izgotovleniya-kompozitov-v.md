@@ -14,7 +14,6 @@ images:
   - url: "/assets/images/1740.jpg"
 ---
 
-Импорт данных изготовления композитов в LS-PrePost
 #composite #LS_DYNA #LS_PrePost #Moldex3D #Moldflow
 by Юрий Новожилов
 

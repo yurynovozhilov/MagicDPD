@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-КЭ расследование крушения самолета
-
 «Расследовали» на сей раз в Abaqus. Кстати, это расследование про Пригожина.
 
 https://youtu.be/2aqOI3-R76I?si=GhhHeJJZuoJ3zPg8

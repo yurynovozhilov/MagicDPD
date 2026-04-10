@@ -11,9 +11,6 @@ images:
   - url: "/assets/images/1323.jpg"
 ---
 
-Interlinked SPH Pressure Solvers
-
-
 https://www.youtube.com/watch?v=tCsuEDkxU30
 
 

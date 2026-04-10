@@ -8,9 +8,6 @@ tags:
   - sph
 ---
 
-Моделирование роста кораллов
-
-
 https://www.youtube.com/watch?v=lHsNMo8p-Xo
 
 

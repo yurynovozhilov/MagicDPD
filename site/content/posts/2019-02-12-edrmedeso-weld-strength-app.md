@@ -14,9 +14,6 @@ images:
   - url: "/assets/images/1353.jpg"
 ---
 
-EDRMedeso Weld Strength App
-
-
 https://www.youtube.com/watch?v=Q7Wk1nRKWGM
 
 

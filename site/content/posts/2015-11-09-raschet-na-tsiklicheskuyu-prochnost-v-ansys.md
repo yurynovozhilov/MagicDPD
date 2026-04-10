@@ -10,6 +10,4 @@ tags:
   - ANSYS
 ---
 
-Расчет на циклическую прочность в #ANSYS #Mechanical
-
 [Evaluate the Fatigue Failure in ANSYS Workbench | High Cycle Fatigue & Low Cycle Fatigue | GRS |](https://www.youtube.com/watch?v=LEHfQsu1I2Y)

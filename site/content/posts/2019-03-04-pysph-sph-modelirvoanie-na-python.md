@@ -12,9 +12,6 @@ images:
   - url: "/assets/images/1374.jpg"
 ---
 
-PySPH: SPH моделирвоание на Python
-
-
 https://www.youtube.com/watch?v=l-f16KjR9Bw
 
 

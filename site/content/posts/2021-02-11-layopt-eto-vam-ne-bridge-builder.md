@@ -13,9 +13,6 @@ tags:
   - layopt
 ---
 
-LayOpt - это вам не bridge builder
-
-
 https://www.youtube.com/watch?v=8OuU5K4iwSM
 
 

@@ -9,9 +9,6 @@ tags:
   - cadfix
 ---
 
-CADfix STL
-
-
 https://youtu.be/EZFA4His6VY
 
 

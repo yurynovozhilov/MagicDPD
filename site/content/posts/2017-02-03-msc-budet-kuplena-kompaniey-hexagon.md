@@ -29,7 +29,6 @@ tags:
 title: MSC будет куплена компанией Hexagon
 ---
 
-MSC будет куплена компанией Hexagon
 http://www.develop3d.com/blog/2017/02/hexagon-to-acquire-msc-simulation-analysis
 
 Большая новость о покупке большого #CAE игрока. Компания #Hexagon объявила о договоренности с #MSC на приобретение последней за  $834 миллионов.

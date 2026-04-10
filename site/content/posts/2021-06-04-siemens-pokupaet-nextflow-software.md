@@ -11,9 +11,6 @@ tags:
   - sph
 ---
 
-Siemens покупает Nextflow Software
-
-
 https://www.youtube.com/watch?v=I5vejgwEVQ0
 
 

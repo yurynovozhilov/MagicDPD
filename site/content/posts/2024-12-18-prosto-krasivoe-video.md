@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Просто красивое видео
-
 blastFoam post тащит анимацию с динамической сеткой. И все это бесплатное и открытое.
 
 https://www.linkedin.com/posts/synthetik-applied-technologies_blastfoam-opensource-cfd-activity-7274781121630846976-zbTs

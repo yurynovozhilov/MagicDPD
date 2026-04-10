@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/1865.jpg"
 ---
 
-Зачем ANSYS купил AGI
 #AGI #ANSYS
 by Юрий Новожилов
 

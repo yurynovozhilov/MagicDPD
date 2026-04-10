@@ -24,7 +24,6 @@ tags:
 title: Как делать HPC для ANSYS 18
 ---
 
-Как делать HPC для ANSYS 18
 https://www.cadfem-cis.ru/products/ansys/ansys-update/
 
 Коллеги, рад поделиться ссылкой на опубликованный недавно материал, по тематике #HPC для #ANSYS и построения правильно IT инфраструктуры для расчетов.

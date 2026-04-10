@@ -13,9 +13,6 @@ images:
   - url: "/assets/images/1405.jpg"
 ---
 
-Нелинейные контакты в ANSYS Mechanical
-
-
 https://www.youtube.com/watch?v=O-qTAiE8Kdo
 
 

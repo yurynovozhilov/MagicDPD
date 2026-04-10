@@ -8,9 +8,6 @@ tags:
   - recurdyn
 ---
 
-Вода в мешке
-
-
 https://www.youtube.com/watch?v=GBZMtaUwvrw
 
 

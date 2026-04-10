@@ -9,6 +9,4 @@ tags:
   - blast
 ---
 
-Просто удраная волна в LS-DYNA вышла погулять
-
 [bast wave LS-DYNA](https://www.youtube.com/watch?v=QDtF8O7bVIg)

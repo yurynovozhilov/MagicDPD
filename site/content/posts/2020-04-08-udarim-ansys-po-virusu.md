@@ -11,6 +11,4 @@ images:
   - url: "/assets/images/1735.jpg"
 ---
 
-Ударим Ansys по вирусу!
-
 [Ударим Ansys по вирусу! - MagicDPD](https://magicdpd.ru/ansys-facing-covid/)

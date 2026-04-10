@@ -17,7 +17,6 @@ tags:
 title: Учимся работать в Sublime Text
 ---
 
-Учимся работать в Sublime Text
 https://www.youtube.com/playlist?list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK
 
 #SublimeText - мой любимый текстовый редактор. Я уже писал, что он очень быстр, работает на любой операционной системе и умеет подсвечивать синтаксис #ANSYS #APDL,  #LSDYNA и #Abaqus. Этот текстовый редактор совсем не боится файлов по несколько Гб.

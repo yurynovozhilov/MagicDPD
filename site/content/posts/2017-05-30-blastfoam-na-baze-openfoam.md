@@ -21,7 +21,6 @@ tags:
 title: blastFOAM на базе OpenFOAM
 ---
 
-blastFOAM на базе OpenFOAM
 https://mobile.twitter.com/twitter/status/855430759951323137
 
 Очень интересный код, про который почти не никаких данных - #blastFOAM. Судя по всему, это сборка #opensource #CFD кода #OpenFOAM для решения задач распространения ударных волн в жидкостях и газах. Если у кого есть больше информации - буду признателен за нее. Пока у меня только пара твитов по теме от #Protection #Engineering

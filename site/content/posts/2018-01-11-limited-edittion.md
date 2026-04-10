@@ -9,7 +9,6 @@ images:
   - url: "/assets/images/715.jpg"
 ---
 
-Limited Edittion
 Я не большой фанат принтов на кружках и одежде, но такую толстовку я бы себе заказал. Инженерам must have!
 
 https://pro.teechip.com/r-08

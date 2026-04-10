@@ -10,11 +10,6 @@ images:
   - url: "/assets/images/1436.jpg"
 ---
 
-Роботы ходят в RecurDyn
-
-
-
-
 #RecurDyn
 
 https://wp.me/p9vWYY-2t8

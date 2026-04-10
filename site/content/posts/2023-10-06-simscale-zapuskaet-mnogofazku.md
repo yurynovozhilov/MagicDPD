@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-SimScale запускает многофазку
-
 Ничего особенного для тяжелых CFD решателей, которые вы ставите на свои рабочие станции, на большое дело для облачного CAE. В SimScale этим летом завезли VOF.
 
 https://www.simscale.com/blog/simscale-launches-new-multiphase-simulation-features/?hss_channel=lcp-2864479

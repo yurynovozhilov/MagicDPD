@@ -17,6 +17,4 @@ images:
   - url: "/assets/images/1718.jpg"
 ---
 
-Оптимизация гидравлического коллектора
-
 [Оптимизация гидравлического коллектора - MagicDPD](https://magicdpd.ru/hydraulic-manifold-optimization/)

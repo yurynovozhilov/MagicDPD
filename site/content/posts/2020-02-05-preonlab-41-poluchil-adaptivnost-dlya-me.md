@@ -11,6 +11,4 @@ images:
   - url: "/assets/images/1691.jpg"
 ---
 
-PreonLab 4.1 получил адаптивность для метода частиц
-
 [PreonLab 4.1 получил адаптивность для метода частиц - MagicDPD](https://magicdpd.ru/preonlab-4-1-local-refinement/)

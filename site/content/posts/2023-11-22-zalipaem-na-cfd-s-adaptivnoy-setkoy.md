@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Залипаем на CFD с адаптивной сеткой
-
 https://youtu.be/QKuBtPQ6TMs?si=1TqamEezQKKwNF7S
 
 [Kelvin–Helmholtz instability simulation with adaptive mesh refinement](https://youtu.be/QKuBtPQ6TMs?si=1TqamEezQKKwNF7S)

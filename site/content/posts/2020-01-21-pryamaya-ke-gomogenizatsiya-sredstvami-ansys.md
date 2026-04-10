@@ -13,6 +13,4 @@ images:
   - url: "/assets/images/1678.jpg"
 ---
 
-Прямая КЭ гомогенизация средствами ANSYS Material Designer
-
 [Прямая КЭ гомогенизация средствами ANSYS Material Designer - MagicDPD](https://magicdpd.ru/using-material-designer-to-perform-homogenization/)

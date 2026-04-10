@@ -17,8 +17,6 @@ images:
   - url: "/assets/images/1279.jpg"
 ---
 
-ANSYS подружится с Prometech Software, Inc.
-
 В прошедший понедельник на своей конференции японская компания Prometech Software, Inc. объявила о дружбе с ANSYS. Давайте разберемся, почему это очень круто.
 
 

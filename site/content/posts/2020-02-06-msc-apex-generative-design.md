@@ -18,6 +18,4 @@ images:
   - url: "/assets/images/1692.jpg"
 ---
 
-MSC Apex Generative Design
-
 [MSC Apex Generative Design - MagicDPD](https://magicdpd.ru/msc-apex-generative-design/)

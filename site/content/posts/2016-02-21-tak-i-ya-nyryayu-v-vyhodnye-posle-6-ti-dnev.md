@@ -11,6 +11,4 @@ tags:
   - FSI
 ---
 
-Так и я ныряю в выходные после 6-ти дневной недели.
-
 [space shuttle landing on water - LS-DYNA](https://www.youtube.com/watch?v=CtF5f5zOhlM)

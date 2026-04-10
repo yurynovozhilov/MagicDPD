@@ -6,6 +6,4 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-https://github.com/STFS-TUDa/blastAMR
-
 [GitHub - STFS-TUDa/blastAMR: Load-balanced adaptive mesh refinement libraries from blastFoam ported to ESI OpenFOAM](https://github.com/STFS-TUDa/blastAMR)

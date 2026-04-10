@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/901.jpg"
 ---
 
-Аналитически кривые в SpaceClaim
 Хотел построить параболу, но что-то пошло не так…
 
 #ANSYS #Simulationfriday #SpaceClaim

@@ -15,9 +15,6 @@ tags:
   - cadfem
 ---
 
-LS-DYNA мастер класс: S-ALE тест Тейлора
-
-
 https://www.youtube.com/watch?v=S7IYFWuFyOg
 
 

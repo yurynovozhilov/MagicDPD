@@ -12,9 +12,6 @@ images:
   - url: "/assets/images/1392.jpg"
 ---
 
-ALE в Abaqus и LS-DYNA
-
-
 https://www.youtube.com/watch?v=cfXKbvoQmrg
 
 

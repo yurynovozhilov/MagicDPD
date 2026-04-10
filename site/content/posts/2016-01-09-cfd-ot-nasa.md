@@ -9,6 +9,4 @@ tags:
   - HPC
 ---
 
-#CFD от NASA
-
 [NASA | A Year in the Life of Earth's CO2](https://www.youtube.com/watch?v=x1SgmFa0r04)

@@ -14,7 +14,6 @@ images:
   - url: "/assets/images/1626.jpg"
 ---
 
-Химерные сетки в  OpenFOAM
 #CFD #Open_Source #OpenFOAM #Overset_Mesh #Wolf_Dynamics
 by Юрий Новожилов
 

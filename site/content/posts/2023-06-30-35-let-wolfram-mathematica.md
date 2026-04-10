@@ -8,4 +8,3 @@ images:
   - url: "/assets/images/2455.jpg"
 ---
 
-35 лет Wolfram Mathematica

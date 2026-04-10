@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/874.jpg"
 ---
 
-MoFEM - знакомство
 MoFEM (Mesh Oriented Finite Element Method) это сразу и библотека на C++ для выполнения КЭ расчетов, и готовый программный продукт с открытым исходны кодом. Разработка кода ведется в уничерсистете Гласго (University of Glasgow)
 
 MoFEM умеет:

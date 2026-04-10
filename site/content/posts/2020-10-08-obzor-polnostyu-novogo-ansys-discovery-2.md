@@ -10,7 +10,6 @@ images:
   - url: "/assets/images/1838.jpg"
 ---
 
-Обзор полностью нового ANSYS Discovery 2020R2
 #ANSYS
 by Юрий Новожилов
 

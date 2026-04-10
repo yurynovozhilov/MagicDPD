@@ -28,7 +28,6 @@ tags:
 title: Баржа против моста - краштест
 ---
 
-Баржа против моста - краштест
 http://www.protection-consultants.com/case-studies/protection-bridges-subject-accidental-intentional-vessel-impact/
 
 #PEC (Protection Engineering Consultants) выполнили работу по проверки опор моста на удар судна согласно нормам AASHTO Bridge Specifications. Считали в #LSDYNA, получилось красиво.

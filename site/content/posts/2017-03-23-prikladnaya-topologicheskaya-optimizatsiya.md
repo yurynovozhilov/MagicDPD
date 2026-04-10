@@ -12,7 +12,6 @@ tags:
   - SpaceClaim
 ---
 
-Прикладная топологическая оптимизация
 https://multiphysics.ru/stati/novosti/topologicheskaia-optimizatciia-konstruktcii-v-ansys-mechanical.htm
 
 Коллеги, наверно многие из вас видели у меня примеры работы алгоритмов топологической оптимизации (#topology #optimization). Я неоднократно писал на эту тему. Уже на протяжении 10 лет я слежу за направлением аддитивных технологий и оптимизации топологии, решаю подобные задачи.

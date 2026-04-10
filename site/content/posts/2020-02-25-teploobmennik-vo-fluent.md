@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/1705.jpg"
 ---
 
-Теплообменник во Fluent
 #ANSYS #Fluent
 by Юрий Новожилов
 

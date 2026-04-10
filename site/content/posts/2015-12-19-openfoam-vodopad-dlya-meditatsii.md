@@ -9,6 +9,4 @@ tags:
   - OpenFoam
 ---
 
-#OpenFoam водопад для медитации
-
 [SimFlow - OpenFoam Baraj Simülasyonu](https://www.youtube.com/watch?v=tefvljk9UNc)

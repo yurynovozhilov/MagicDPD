@@ -11,6 +11,4 @@ images:
   - url: "/assets/images/1708.jpg"
 ---
 
-Большие мальчики — большие игрушки
-
 [Большие мальчики - большие игрушки - MagicDPD](https://magicdpd.ru/big-boys-big-toys/)

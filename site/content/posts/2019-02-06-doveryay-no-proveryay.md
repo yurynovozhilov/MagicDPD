@@ -6,13 +6,6 @@ author: "GlukRazor"
 source: vk
 ---
 
-Доверяй, но проверяй!
-
-
-
-
-
-
 https://wp.me/p9vWYY-2jW
 
 [Доверяй, но проверяй!](https://wp.me/p9vWYY-2jW)

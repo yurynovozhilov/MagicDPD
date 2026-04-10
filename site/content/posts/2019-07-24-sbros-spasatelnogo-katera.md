@@ -13,9 +13,6 @@ images:
   - url: "/assets/images/1537.jpg"
 ---
 
-Сброс спасательного катера
-
-
 Расчет выполнен средствами Engys HELYX, основанном на кодовой базе OpenFOAM
 
 #CFD #FSI #HELYX #OpenFOAM

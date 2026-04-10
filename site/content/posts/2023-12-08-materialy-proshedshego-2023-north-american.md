@@ -8,8 +8,6 @@ images:
   - url: "/assets/images/2596.jpg"
 ---
 
-Mатериалы прошедшего 2023 North American LS-DYNA User Forum
-
 На новом сайте Ansys LST опубликовали материалы прошедшего недавно 2023 North American LS-DYNA User Forum.
 
 Три материала, которые заинтересовали меня больше других

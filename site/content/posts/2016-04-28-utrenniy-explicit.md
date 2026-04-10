@@ -10,4 +10,3 @@ images:
   - url: "/assets/images/1610.jpg"
 ---
 
-Утренний #explicit

@@ -11,8 +11,6 @@ tags:
   - simulationfriday
 ---
 
-https://www.youtube.com/watch?v=8GmMjVtFT8A
-
 Бомбануло
 
 [ガス爆発による構造体破壊の数値シミュレーション](https://www.youtube.com/watch?v=8GmMjVtFT8A)

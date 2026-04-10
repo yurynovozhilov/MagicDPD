@@ -10,7 +10,6 @@ images:
   - url: "/assets/images/1817.jpg"
 ---
 
-Новое в SpaceClaim 2020R2
 #SpaceClaim
 by Юрий Новожилов
 

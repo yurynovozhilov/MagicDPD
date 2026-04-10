@@ -20,7 +20,6 @@ tags:
 title: Beam-to-Solid submodeling в ANSYS
 ---
 
-Beam-to-Solid submodeling в ANSYS
 https://www.youtube.com/watch?v=jkj3owGBJ_c
 
 Техника работы с подмоделями или сабмоделинг в #ANSYS #APDL была наверно всегда, а вот в ANSYS #Mechanical - только версии с 14-ой наверно. Сейчас же мы можем использовать подмотали вообще в при любом раскладе:

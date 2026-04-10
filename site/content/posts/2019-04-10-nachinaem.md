@@ -6,13 +6,6 @@ author: "GlukRazor"
 source: vk
 ---
 
-Начинаем!
-
-
-
-
-
-
 https://wp.me/p9vWYY-2tt
 
 [Начинаем! - MagicDPD](https://wp.me/p9vWYY-2tt)

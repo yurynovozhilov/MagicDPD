@@ -10,4 +10,3 @@ images:
   - url: "/assets/images/965.jpg"
 ---
 
-#lsdyna крушить!

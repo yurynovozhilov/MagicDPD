@@ -17,7 +17,6 @@ tags:
 title: Adams Real Time
 ---
 
-Adams Real Time
 http://simulatemore.mscsoftware.com/what-you-need-to-know-about-adams-real-time/
 
 Компания #MSC показала очередной этап развития знаменитого #Adams. Вслед за Adams Car появилась специализированная система создания физически реалистичных тренаженов Adams Real Time

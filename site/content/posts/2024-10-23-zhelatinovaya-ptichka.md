@@ -9,8 +9,6 @@ images:
   - url: "/assets/images/2813.jpg"
 ---
 
-Желатиновая птичка
-
 Небольшая статья с классической задачей об ударе птицы. Плюсом идут коэффициенты к модели, если вы хотите, что бы ваша птичка была не из воды, а из баллистического желатина.
 
 https://www.researchgate.net/publication/358591119_Bird-strike_damage_analysis_of_composite_panels_with_different_stiffeners

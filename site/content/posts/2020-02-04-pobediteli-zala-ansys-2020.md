@@ -12,6 +12,4 @@ images:
   - url: "/assets/images/1690.jpg"
 ---
 
-Победители зала ANSYS 2020
-
 [Победители зала ANSYS 2020 - MagicDPD](http://magicdpd.ru/ansys-hof-2020/)

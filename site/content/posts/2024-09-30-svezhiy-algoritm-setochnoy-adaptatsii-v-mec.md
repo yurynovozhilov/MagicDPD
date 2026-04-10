@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Свежий алгоритм сеточной адаптации в Mechanical
-
 выгляди очень хорошо. А вы как считаете?
 
 https://www.youtube.com/watch?v=EnwlRcFkaJY

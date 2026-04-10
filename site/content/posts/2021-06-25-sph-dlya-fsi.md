@@ -10,9 +10,6 @@ tags:
   - shape_charge
 ---
 
-SPH для FSI
-
-
 https://www.youtube.com/watch?v=XoGW5yutskY
 
 

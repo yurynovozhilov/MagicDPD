@@ -10,9 +10,6 @@ images:
   - url: "/assets/images/1336.jpg"
 ---
 
-Karagozian & Case
-
-
 https://www.youtube.com/watch?v=5m9DLrpzlLk&feature=youtu.be
 
 

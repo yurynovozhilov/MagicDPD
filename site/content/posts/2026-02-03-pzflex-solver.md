@@ -8,8 +8,6 @@ images:
   - url: "/assets/images/3098.jpg"
 ---
 
-PZFlex solver
-
 PZFlex это специализированный акустически решатель, разработанный Weidlinger Associates. Работает на основе метода спектральных элементов (явная формулировка). Умеет очень хорошо в ультразвук.
 OnScale был создан бывшими разработчиками и руководителями PZFlex, выходцем из  Weidlinger Associates. OnScale мог работать в качестве Web GUI для PZFlex.
 Weidlinger Associates была поглащена Ansys в 2011 году, а OnScale в 2022.

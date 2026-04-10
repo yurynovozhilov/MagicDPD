@@ -18,7 +18,6 @@ tags:
 title: Когда контакт не сходится
 ---
 
-Когда контакт не сходится
 https://www.linkedin.com/pulse/tips-when-finite-element-analysis-contact-problems-wont-wolf-pe?trk=hp-feed-article-title-like
 
 Не сходится задача из-за сложного контактного взаимодействия? Не беде, просто делайте, как написано в статье - хороший перечень всех известных трюков.

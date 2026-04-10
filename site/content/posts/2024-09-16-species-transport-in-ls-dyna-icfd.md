@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Species Transport in LS-DYNA ICFD
-
 Один из корневых разработчиков LST выложил на своем канале видео с новыми возможностями CFD решателя дайны. Ждем в R16?
 
 https://www.youtube.com/watch?v=ug4vUtdC2rs

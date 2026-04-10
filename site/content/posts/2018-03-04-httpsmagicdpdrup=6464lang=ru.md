@@ -7,7 +7,3 @@ source: vk
 images:
   - url: "/assets/images/831.jpg"
 ---
-
-https://magicdpd.ru/?p=6464&lang=ru
-
-https://magicdpd.ru/?p=6464&lang=ru

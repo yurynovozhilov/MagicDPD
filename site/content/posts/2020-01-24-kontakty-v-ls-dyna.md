@@ -14,6 +14,4 @@ images:
   - url: "/assets/images/1681.jpg"
 ---
 
-Контакты в LS-DYNA
-
 [Контакты в LS-DYNA - MagicDPD](https://magicdpd.ru/an-introduction-to-contacts-in-ls-dyna/)

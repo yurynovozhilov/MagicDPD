@@ -12,6 +12,4 @@ images:
   - url: "/assets/images/1882.jpg"
 ---
 
-Ansys LevelUp — беседа с разработчиками Ansys Mechanical
-
 [Ansys LevelUp - беседа с разработчиками Ansys Mechanical - MagicDPD](https://magicdpd.ru/ansys-levelup-mechanical/)

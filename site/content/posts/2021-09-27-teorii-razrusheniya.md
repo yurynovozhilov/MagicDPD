@@ -8,9 +8,6 @@ tags:
   - theory
 ---
 
-Теории разрушения
-
-
 https://www.youtube.com/watch?v=xkbQnBAOFEg
 
 

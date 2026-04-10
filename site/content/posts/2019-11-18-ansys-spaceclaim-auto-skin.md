@@ -14,7 +14,6 @@ images:
   - url: "/assets/images/1636.jpg"
 ---
 
-ANSYS SpaceClaim — Auto Skin
 #Auto_Skin #optimization #SpaceClaim #STL #Topology
 by Юрий Новожилов
 

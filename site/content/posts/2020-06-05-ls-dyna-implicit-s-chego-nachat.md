@@ -12,6 +12,4 @@ images:
   - url: "/assets/images/1769.jpg"
 ---
 
-LS-DYNA Implicit — с чего начать
-
 [LS-DYNA Implicit - с чего начать - MagicDPD](https://magicdpd.ru/ls-dyna-implicit/)

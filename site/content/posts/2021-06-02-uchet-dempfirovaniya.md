@@ -9,9 +9,6 @@ tags:
   - ansys
 ---
 
-Учет демпфирования
-
-
 https://youtu.be/pXpc6PuxjgQ
 
 

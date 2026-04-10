@@ -15,7 +15,6 @@ tags:
 title: Приятные поздравления
 ---
 
-Приятные поздравления
 https://www.cadfem-cis.ru/list/article/yuranox/
 
 Наконец дошли руки до подтверждения квалификации пом #HPC и #Mellanox #Infiniband

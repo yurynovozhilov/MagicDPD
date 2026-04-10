@@ -9,4 +9,3 @@ tags:
   - ICFD
 ---
 
-А вот и первая часть видео урока по #ICFD в LS-DYNA. #lsdyna

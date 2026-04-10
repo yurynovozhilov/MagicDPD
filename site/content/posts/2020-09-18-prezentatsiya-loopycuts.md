@@ -14,6 +14,4 @@ images:
   - url: "/assets/images/1827.jpg"
 ---
 
-Презентация LoopyCuts
-
 [Презентация LoopyCuts - MagicDPD](https://magicdpd.ru/loopycuts-presentation/)

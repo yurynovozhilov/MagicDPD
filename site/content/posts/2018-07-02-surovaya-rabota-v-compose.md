@@ -13,7 +13,6 @@ images:
   - url: "/assets/images/990.jpg"
 ---
 
-Суровая работа в Compose
 Серия видеоуроков от Altair по работе в их Integrated Development Environment (IDE) для инженеров - программном обеспечении solidThinking Compose. Это какая-то жесть на мой взгляд: собственное IDE и собственный язык для описания всего - так уже не носят.
 
 

@@ -8,8 +8,6 @@ images:
   - url: "/assets/images/1872.jpg"
 ---
 
-В CFD для чайников — часть 3: уравнение баланса энергии
-
 by Юрий Новожилов
 
 [В CFD для чайников - часть 3: уравнение баланса энергии - MagicDPD](https://magicdpd.ru/cfd-from-the-basics-and-master-3/)

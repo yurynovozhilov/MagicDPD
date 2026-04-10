@@ -14,7 +14,6 @@ images:
   - url: "/assets/images/1663.jpg"
 ---
 
-LS-DYNA для 2-way-FSI c учетом пористости ткани
 #FSI #ICFD #LS_DYNA #Parachute #simulationfriday
 by Юрий Новожилов
 

@@ -12,9 +12,6 @@ images:
   - url: "/assets/images/1460.jpg"
 ---
 
-How did you solve the icing problem?
-
-
 Это одна из ключевых сцен первого Железного человека — обледенение при высотных полетах.
 
 

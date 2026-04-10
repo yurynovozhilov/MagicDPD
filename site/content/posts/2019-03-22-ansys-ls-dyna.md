@@ -12,9 +12,6 @@ images:
   - url: "/assets/images/1410.jpg"
 ---
 
-ANSYS LS-DYNA
-
-
 Традиционный большой вебинар от Mallett Technology по явной динамике и базовым возможностям LS-DYNA в экосистеме ANSYS Workbench.
 
 #LS_DYNA #Mallett_Technology #WB_LS_DYNA

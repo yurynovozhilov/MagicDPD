@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-DEM краштест
-
 Не, ну серьезно?! Они хотят это "продать" в автомобильную индустрию?!
 
 https://www.linkedin.com/posts/muhammad-sameer-fulbright_car-crash-tests-are-essential-for-evaluating-ugcPost-7378591416018620416-Ypfw

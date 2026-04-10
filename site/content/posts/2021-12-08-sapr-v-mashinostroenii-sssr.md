@@ -8,9 +8,6 @@ tags:
   - cad
 ---
 
-САПР в машиностроении СССР
-
-
 https://youtu.be/7Td559kHnA0
 
 

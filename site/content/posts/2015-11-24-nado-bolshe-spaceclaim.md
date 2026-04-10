@@ -10,4 +10,3 @@ images:
   - url: "/assets/images/786.jpg"
 ---
 
-Надо больше #SpaceClaim

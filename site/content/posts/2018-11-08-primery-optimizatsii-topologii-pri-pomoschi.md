@@ -12,11 +12,6 @@ images:
   - url: "/assets/images/1200.jpg"
 ---
 
-Примеры оптимизации топологии при помощи ParaMatters
-
-
-
-
 #Optimization #ParaMatters #Topology
 http://bit.ly/2RGn5XR
 

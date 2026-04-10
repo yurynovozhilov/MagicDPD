@@ -14,7 +14,6 @@ images:
   - url: "/assets/images/1621.jpg"
 ---
 
-Onshape продаётся PTC за $470M
 #CAD #cloud #Onshape #PLM #PTC
 by Юрий Новожилов
 

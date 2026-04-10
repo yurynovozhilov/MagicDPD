@@ -14,7 +14,6 @@ images:
   - url: "/assets/images/1786.jpg"
 ---
 
-Конференция WOST 2020
 #ANSYS #Dynardo #optimization #optiSLang #WOST
 by Юрий Новожилов
 

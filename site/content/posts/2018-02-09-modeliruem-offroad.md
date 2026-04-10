@@ -8,7 +8,6 @@ images:
   - url: "/assets/images/778.jpg"
 ---
 
-Моделируем offroad
 https://www.youtube.com/watch?v=eytS4JhizQ8
 
 https://wp.me/p9vWYY-1D3

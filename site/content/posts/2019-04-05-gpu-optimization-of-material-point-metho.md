@@ -10,9 +10,6 @@ images:
   - url: "/assets/images/1434.jpg"
 ---
 
-GPU Optimization of Material Point Methods
-
-
 Обзор научной статьи о переносе расчетов в постановке Fluid Implicit Particle (FLIP) на GPU для получения существенного прироста производительности.
 
 

@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Пятничная тема от Алана Бекера
-
 https://youtu.be/B1J6Ou4q8vE
 
 [Animation vs. Math](https://youtu.be/B1J6Ou4q8vE)

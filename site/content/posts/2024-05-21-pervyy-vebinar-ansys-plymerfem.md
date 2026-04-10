@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Первый вебинар Ansys PlymerFEM
-
 29 мая Доктор Йорген Бернгстром покажет свой первый вебинар в качестве сотрудника Ansys. Напомню, что его компания, PolymerFEM, вместе с двумя ключевыми продуктами MCalibration и PolyUMold, теперь является частью Ansys. А значит скоро мы сможем существенно упростить процесс идентификации параметров математических моделей материлов для MAPDL и LS-DYNA.
 
 https://www.ansys.com/de-de/webinars/get-started-mcalibration-mechanical

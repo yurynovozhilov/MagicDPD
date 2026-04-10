@@ -10,6 +10,4 @@ images:
   - url: "/assets/images/1829.jpg"
 ---
 
-Newton DEM
-
 [Newton DEM - MagicDPD](https://magicdpd.ru/newton-dem/)

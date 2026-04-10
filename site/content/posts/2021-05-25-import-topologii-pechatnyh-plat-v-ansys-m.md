@@ -13,9 +13,6 @@ tags:
   - mechanical
 ---
 
-Импорт топологии печатных плат в Ansys Mechanical и LS-DYNA
-
-
 https://www.youtube.com/watch?v=EBpKi7Oq6dw
 
 

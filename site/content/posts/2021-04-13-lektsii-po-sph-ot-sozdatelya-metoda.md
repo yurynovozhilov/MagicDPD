@@ -11,9 +11,6 @@ tags:
   - theory
 ---
 
-Лекции по SPH от создателя метода
-
-
 https://www.youtube.com/watch?v=tAXHCAEgSuE
 
 

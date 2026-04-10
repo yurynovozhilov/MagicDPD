@@ -8,4 +8,3 @@ tags:
   - ANSYS
 ---
 
-#ANSYS интригует

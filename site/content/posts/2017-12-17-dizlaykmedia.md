@@ -6,8 +6,6 @@ author: "GlukRazor"
 source: vk
 ---
 
-дизлайкMedia
-
 http://ift.tt/2otVLSQ
 
 http://ift.tt/2B01Wnz

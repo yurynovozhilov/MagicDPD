@@ -18,7 +18,6 @@ tags:
 title: Краткая история OpenFOAM
 ---
 
-Краткая история OpenFOAM
 https://www.youtube.com/watch?v=kg79KMGxRAE
 
 Краткая история становления и развития #opensource #CFD кода #OpenFOAM. Я вот и не знал, что он одно время принадлежал #SGI, и что именно #ESI выкупил его.

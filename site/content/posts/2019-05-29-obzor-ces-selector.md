@@ -12,9 +12,6 @@ images:
   - url: "/assets/images/1491.jpg"
 ---
 
-Обзор CES Selector
-
-
 Первый взгляд на систему подбора материалов и их свойств от Granta Design, которую купил ANSYS
 
 #ANSYS #CES_Selector #Granta_Design
