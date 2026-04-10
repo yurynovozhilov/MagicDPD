@@ -4,6 +4,7 @@ import json
 import re
 import shutil
 import unicodedata
+from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from pathlib import Path
@@ -138,6 +139,41 @@ def derive_slug(post: dict) -> str:
         slug = f"post-{post.get('id', 'unknown')}"
     return slug
 
+
+def find_redundant_stub_post_ids(posts: list[dict]) -> set[int]:
+    by_date: dict[str, list[dict]] = defaultdict(list)
+    for post in posts:
+        if post.get("source") == "vk" and post.get("date"):
+            by_date[post["date"]].append(post)
+
+    redundant_ids: set[int] = set()
+    for items in by_date.values():
+        if len(items) < 2:
+            continue
+
+        richer_posts = [
+            post for post in items
+            if post.get("media")
+            or post.get("links")
+            or len((post.get("text") or "").strip()) > 220
+        ]
+        if not richer_posts:
+            continue
+
+        max_rich_text_len = max(len((post.get("text") or "").strip()) for post in richer_posts)
+        for post in items:
+            text = (post.get("text") or "").strip()
+            if (
+                post.get("id") is not None
+                and not post.get("media")
+                and not post.get("links")
+                and 0 < len(text) <= 140
+                and len(text) < max_rich_text_len
+            ):
+                redundant_ids.add(post["id"])
+
+    return redundant_ids
+
 def _build_media_index() -> dict[str, Path]:
     index: dict[str, Path] = {}
     media_dir = ROOT / "magicdpd_media"
@@ -228,7 +264,11 @@ def build_post(
     media_index: dict[str, Path],
     images_index: dict[str, list[Path]],
     link_preview_cache: dict,
+    redundant_stub_ids: set[int],
 ) -> dict | None:
+    if post.get("id") in redundant_stub_ids:
+        return None
+
     text = (post.get("text") or "").strip()
     if not text and not post.get("media"):
         return None
@@ -381,7 +421,10 @@ def main():
     media_index = _build_media_index()
     images_index = _build_images_index()
     link_preview_cache = load_link_preview_cache()
+    redundant_stub_ids = find_redundant_stub_post_ids(posts)
     print(f"  magicdpd_media: {len(media_index)} files, images/: {sum(len(v) for v in images_index.values())} files")
+    if redundant_stub_ids:
+        print(f"  skipping {len(redundant_stub_ids)} redundant teaser posts")
 
     # Clear old posts
     if SITE_POSTS.exists():
@@ -390,7 +433,13 @@ def main():
             file.unlink()
 
     def process(p: dict) -> int:
-        post_data = build_post(p, media_index, images_index, link_preview_cache)
+        post_data = build_post(
+            p,
+            media_index,
+            images_index,
+            link_preview_cache,
+            redundant_stub_ids,
+        )
         if post_data:
             write_post_file(post_data)
             return 1
