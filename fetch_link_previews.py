@@ -106,16 +106,47 @@ def _youtube_video_id(url: str) -> str | None:
     return None
 
 
+def _preview_host(url: str) -> str:
+    return urlparse(url).netloc.lower()
+
+
+def _preview_has_content(preview: dict) -> bool:
+    return any((preview.get(key) or "").strip() for key in ("title", "description", "image"))
+
+
+def _preview_priority(preview: dict) -> int:
+    host = _preview_host(preview.get("url", ""))
+    score = 0
+
+    if (preview.get("title") or "").strip():
+        score += 4
+    if (preview.get("description") or "").strip():
+        score += 2
+    if (preview.get("image") or "").strip():
+        score += 4
+
+    if "youtube.com" in host or host.endswith("youtu.be"):
+        score += 1
+
+    return score
+
+
 def normalize_preview(preview: dict) -> dict:
     """Backfill provider-specific fields so cached entries can improve over time."""
     url = preview.get("url", "")
+    title = (preview.get("title") or "").strip()
+    description = (preview.get("description") or "").strip()
     image = (preview.get("image") or "").strip()
 
     if not image:
         video_id = _youtube_video_id(url)
         if video_id:
             # hqdefault is broadly available and more reliable than maxresdefault.
-            preview["image"] = f"https://i.ytimg.com/vi/{video_id}/hqdefault.jpg"
+            image = f"https://i.ytimg.com/vi/{video_id}/hqdefault.jpg"
+
+    preview["title"] = title
+    preview["description"] = description
+    preview["image"] = image
 
     return preview
 
@@ -188,23 +219,28 @@ def process_post(md_path: Path, cache: dict) -> bool:
             cache[url] = result
 
     # Собираем финальный список превью (только успешные)
-    previews = []
-    for url in urls:
+    previews: list[tuple[int, int, dict]] = []
+    for index, url in enumerate(urls):
         entry = cache.get(url)
         if entry:
             entry = normalize_preview(dict(entry))
             cache[url] = entry
-            previews.append(entry)
+            if _preview_has_content(entry):
+                previews.append((_preview_priority(entry), index, entry))
 
-    if not previews:
-        return False
+    previews.sort(key=lambda item: (-item[0], item[1]))
+    previews_data = [entry for _, _, entry in previews]
 
     # Если данные не изменились — не перезаписываем файл
     existing = post.metadata.get("link_previews", [])
-    if existing == previews:
+    if not previews_data:
+        if "link_previews" not in post.metadata:
+            return False
+        del post.metadata["link_previews"]
+    elif existing == previews_data:
         return False
-
-    post.metadata["link_previews"] = previews
+    else:
+        post.metadata["link_previews"] = previews_data
 
     # Записываем обратно в файл
     md_path.write_text(frontmatter.dumps(post) + "\n", encoding="utf-8")

@@ -1,0 +1,37 @@
+{{- $preferred := slice -}}
+{{- $candidates := slice -}}
+
+{{- range $index, $preview := . -}}
+    {{- $url := $preview.url | default "" -}}
+    {{- $title := trim ($preview.title | default "") " " -}}
+    {{- $description := trim ($preview.description | default "") " " -}}
+    {{- $image := trim ($preview.image | default "") " " -}}
+
+    {{- if or $title $description $image -}}
+        {{- $host := lower ((urls.Parse $url).Host) -}}
+        {{- $score := 0 -}}
+        {{- if $title }}{{- $score = add $score 4 -}}{{- end -}}
+        {{- if $description }}{{- $score = add $score 2 -}}{{- end -}}
+        {{- if $image }}{{- $score = add $score 4 -}}{{- end -}}
+        {{- if or (in $host "youtube.com") (hasSuffix $host "youtu.be") -}}
+            {{- $score = add $score 1 -}}
+        {{- end -}}
+
+        {{- $candidates = $candidates | append (dict
+            "score" $score
+            "index" $index
+            "preview" (dict
+                "url" $url
+                "title" $title
+                "description" $description
+                "image" $image
+            )
+        ) -}}
+    {{- end -}}
+{{- end -}}
+
+{{- range sort (sort $candidates "index" "asc") "score" "desc" -}}
+    {{- $preferred = $preferred | append .preview -}}
+{{- end -}}
+
+{{- return $preferred -}}
