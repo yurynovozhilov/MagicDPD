@@ -47,7 +47,9 @@ def main() -> None:
     parser.add_argument("--examples", type=int, default=15)
     args = parser.parse_args()
 
-    cache = json.loads(CACHE_FILE.read_text(encoding="utf-8"))
+    cache = {}
+    if CACHE_FILE.exists():
+        cache = json.loads(CACHE_FILE.read_text(encoding="utf-8"))
 
     stats = Counter()
     fixable_domains = Counter()

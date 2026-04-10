@@ -39,7 +39,9 @@ def main() -> None:
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
 
-    cache = json.loads(CACHE_FILE.read_text(encoding="utf-8"))
+    cache = {}
+    if CACHE_FILE.exists():
+        cache = json.loads(CACHE_FILE.read_text(encoding="utf-8"))
     updated = 0
     added = 0
     removed = 0
