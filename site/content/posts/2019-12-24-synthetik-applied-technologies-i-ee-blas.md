@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/1666.jpg"
 ---
 
-Synthetik Applied Technologies и ее blastFoam
 #blast #blastFOAM #CFD
 by Юрий Новожилов
 

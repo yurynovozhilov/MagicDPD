@@ -10,7 +10,6 @@ tags:
   - LSDYNA
 ---
 
-#LSDYNA для полимеров #composites
 #magicdpd 🔗 vk.com/wall-97265142_3066
 
 k.com/wall-97265142_3066

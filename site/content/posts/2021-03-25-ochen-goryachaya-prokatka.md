@@ -12,9 +12,6 @@ tags:
   - efg
 ---
 
-Очень горячая прокатка
-
-
 https://www.youtube.com/watch?v=plsZPkpHQxk
 
 

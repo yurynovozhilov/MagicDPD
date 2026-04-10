@@ -13,7 +13,6 @@ images:
   - url: "/assets/images/699.jpg"
 ---
 
-Платформа FetchCFD
 Платформа FetchCFD позволяет пользователям публиковать и обмениваться своими CAD, FEM, CFD моделями и сетками совершенно бесплатно.
 
 У палтформы есть свой канал с видео, где можно посмотреть на качесвто моделей сообщества: https://www.youtube.com/channel/UCLoKxLVcIAVsyKIqSkePhNQ/videos

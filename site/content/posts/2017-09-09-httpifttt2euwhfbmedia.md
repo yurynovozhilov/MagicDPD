@@ -15,8 +15,6 @@ source: vk
 title: http://ift.tt/2eUWhFBMedia
 ---
 
-http://ift.tt/2eUWhFBMedia
-
 http://ift.tt/2gRVYs2
 
 http://ift.tt/2jdGT8F%3C/p%3E

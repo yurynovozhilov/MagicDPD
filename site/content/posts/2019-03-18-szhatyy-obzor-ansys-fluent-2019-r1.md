@@ -11,9 +11,6 @@ images:
   - url: "/assets/images/1402.jpg"
 ---
 
-Сжатый обзор ANSYS Fluent 2019 R1
-
-
 https://www.youtube.com/watch?v=fcb5WHpHDIE
 
 

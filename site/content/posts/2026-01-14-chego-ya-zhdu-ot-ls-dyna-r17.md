@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Чего я жду от LS-DYNA R17
-
 Вот топ 7(+1) фишек, которые мне прям нужны:
 - Новые быстрые Modular Contact (хотя, я думаю, что в этом году их еще не доделают)
 - User-Defined Failure в *MAT_ADD_EROSION которые можно задать через *DEFINE_FUNCTION (сейчас такое требует знаний фортрана и пресборки решателя)

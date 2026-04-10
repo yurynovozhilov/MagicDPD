@@ -10,9 +10,6 @@ tags:
   - leap
 ---
 
-Обор нового в Ansys CFD 2021 R2
-
-
 https://www.youtube.com/watch?v=GxAbOjJOCbc
 
 

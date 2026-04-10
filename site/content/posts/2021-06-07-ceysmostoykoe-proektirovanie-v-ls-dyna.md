@@ -10,9 +10,6 @@ tags:
   - ansys
 ---
 
-Cейсмостойкое проектирование в LS-DYNA
-
-
 https://youtu.be/IC8x6kfznuo
 
 

@@ -18,7 +18,6 @@ tags:
 title: NICE EnginFrame 2017
 ---
 
-NICE EnginFrame 2017
 http://www.nice-software.com/news/-/blogs/nice-enginframe-2017-is-now-available-with-even-simpler-aws-integration
 
 На этой неделе наши итальянские друзья и партнеры, компания #Nice Software, выпустили #EngineFrame 2017 - web-портал #HPC системы, диспетчер очереди задач, диспетчер терминальных сессий и много чего еще. Особый прицел сделан на удобную для пользователя работу с виртуальными кластерами в #AWS (#Amazon с прошлого года является владельцем компании).

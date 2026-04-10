@@ -10,9 +10,6 @@ tags:
   - ansys
 ---
 
-На что способен LS-Opt
-
-
 https://youtu.be/axoCIksS0zo
 
 

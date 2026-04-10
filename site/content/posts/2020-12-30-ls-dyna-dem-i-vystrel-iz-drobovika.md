@@ -11,6 +11,4 @@ images:
   - url: "/assets/images/1879.jpg"
 ---
 
-LS-DYNA DEM и выстрел из дробовика
-
 [LS-DYNA DEM и выстрел из дробовика - MagicDPD](https://magicdpd.ru/ls-dyna-dem-shoutgun/)

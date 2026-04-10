@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/1703.jpg"
 ---
 
-Обзор интеграции Particleworks в ANSYS
 #ANSYS #Particleworks #Prometech
 by Юрий Новожилов
 

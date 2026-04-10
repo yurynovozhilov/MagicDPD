@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Прохождение SPH брода
-
 24 апреля есть возможность посетить бесплатный вебинар посвященный моделированию прохождения брода на легковых автомобилях. Моделируют все в PreonLab при помощи SPH на GPU.
 
 Регистрация тут: https://www.avl.com/en/webinars/sph-based-virtual-testing-streamlined-vehicle-water

@@ -8,9 +8,6 @@ tags:
   - fortran
 ---
 
-Архивное видео к 25 летию FORTRAN
-
-
 https://www.youtube.com/watch?v=CXvyjbWkTyU
 
 

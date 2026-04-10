@@ -8,8 +8,6 @@ images:
   - url: "/assets/images/2511.jpg"
 ---
 
-PyDYNA уже тут
-
 Сегодня состоялся первый публичный релиз PyDYNA - python библиотеки от Ansys для подготовки моделей и запуска расчетов в LS-DYNA. И уже на релизе достпна целая куча примеров: Airbag, EM, Explicit, ICFD, ISPH, Implicit,    NVH, S-ALE и Thermal
 
 https://dyna.docs.pyansys.com/version/stable/

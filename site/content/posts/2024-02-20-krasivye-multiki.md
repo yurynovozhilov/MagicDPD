@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Красивые мультики
-
 https://youtu.be/unRNDDpNqQU
 
 [Supersonic Flow Around a Cylinder - hp-Adaptive Discontinuous Galerkin/Finite Volume Discretization](https://youtu.be/unRNDDpNqQU)

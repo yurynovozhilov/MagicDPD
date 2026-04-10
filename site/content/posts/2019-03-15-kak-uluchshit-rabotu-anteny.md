@@ -12,9 +12,6 @@ images:
   - url: "/assets/images/1394.jpg"
 ---
 
-Как улучшить работу антены
-
-
 Часовой вебинар по ANSYS EM от Singularity Engineering LLC по теме чиленного моделирования для задач радиофизики.
 
 #AEDT #ANSYS #EM

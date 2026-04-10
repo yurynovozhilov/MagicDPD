@@ -11,8 +11,6 @@ tags:
   - DEM
 ---
 
-Моделирование гидроабразивной резки
-
 В чем бы нам это посчитать? Конечно в LS-DYNA
 m.youtube.com/watch
 #DEM #FSI #LS-DYNA #LSTC

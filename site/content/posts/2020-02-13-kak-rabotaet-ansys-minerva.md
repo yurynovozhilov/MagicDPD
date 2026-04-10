@@ -13,6 +13,4 @@ images:
   - url: "/assets/images/1698.jpg"
 ---
 
-Как работает ANSYS Minerva
-
 [Как работает ANSYS Minerva - MagicDPD](http://magicdpd.ru/ansys-minerva/)

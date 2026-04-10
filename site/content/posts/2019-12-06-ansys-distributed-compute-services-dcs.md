@@ -14,6 +14,4 @@ images:
   - url: "/assets/images/1653.jpg"
 ---
 
-ANSYS Distributed compute services (DCS)
-
 [ANSYS Distributed compute services (DCS) - MagicDPD](https://magicdpd.ru/ansys-distributed-compute-services-dcs/)

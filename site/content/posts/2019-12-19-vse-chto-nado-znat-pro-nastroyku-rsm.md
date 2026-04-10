@@ -13,7 +13,6 @@ images:
   - url: "/assets/images/1662.jpg"
 ---
 
-Все, что надо знать про настройку RSM
 #ANSYS #ARC #HPC #RSM
 by Юрий Новожилов
 

@@ -17,7 +17,6 @@ images:
   - url: "/assets/images/1724.jpg"
 ---
 
-Проектирование АЭС в Ansys
 #ACT #ANSYS #Civil #CivilFEM #concrete #Ingeciber #NPP #Workbench
 by Юрий Новожилов
 

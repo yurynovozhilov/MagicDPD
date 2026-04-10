@@ -13,7 +13,6 @@ images:
   - url: "/assets/images/1728.jpg"
 ---
 
-DualSPHysics v5
 #DualSPHysics #GPU #Open_Source #SPH
 by Юрий Новожилов
 

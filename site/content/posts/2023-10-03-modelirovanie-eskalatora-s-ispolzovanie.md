@@ -6,7 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Моделирование эскалатора с использованием RecurDyn
 https://www.youtube.com/watch?v=KugHmF-sVuA
 
 [Escalator simulation using RecurDyn](https://www.youtube.com/watch?v=KugHmF-sVuA)

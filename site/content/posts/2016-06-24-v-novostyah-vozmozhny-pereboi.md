@@ -8,4 +8,3 @@ images:
   - url: "/assets/images/1834.jpg"
 ---
 
-В новостях возможны перебои.

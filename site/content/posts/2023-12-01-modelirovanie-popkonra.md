@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Моделирование попконра
-
 Коллеги для фана смоделировали что-то на подобие процесса получения попкорна в Abaqus Explicit. Физики за этим нет - только ловкость рук и немного масскейлинга.
 
 https://www.linkedin.com/posts/simulation-influencer_solidworks-fem-simulia-ugcPost-7133043951749488640-g6ao/

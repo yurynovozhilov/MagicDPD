@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-IGA может обмануть критерий Куранта!
-
 https://www.linkedin.com/posts/yurynovozhilov_ansys-cadfem-lsdyna-activity-7358089328297730050-uBUx
 
 [#ansys #cadfem #lsdyna #iga #isogeometric #mesh | Yury Novozhilov](https://www.linkedin.com/posts/yurynovozhilov_ansys-cadfem-lsdyna-activity-7358089328297730050-uBUx)

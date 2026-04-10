@@ -6,8 +6,6 @@ author: "GlukRazor"
 source: vk
 ---
 
-Абстрактное искусство AnsysMedia
-
 http://ift.tt/2yw9bCp
 
 http://ift.tt/2lTcSMJ

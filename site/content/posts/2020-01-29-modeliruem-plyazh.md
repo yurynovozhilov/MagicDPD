@@ -11,6 +11,4 @@ images:
   - url: "/assets/images/1685.jpg"
 ---
 
-Моделируем пляж
-
 [Моделируем пляж - MagicDPD](http://magicdpd.ru/breach-cfd-model/)

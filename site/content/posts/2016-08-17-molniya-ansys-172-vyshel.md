@@ -10,7 +10,6 @@ tags:
   - CAE
 ---
 
-#Молния: ANSYS 17.2 вышел!
 http://www.ansys.com/Solutions/Solutions-by-Role/IT-Professionals/Platform-Support
 
 Если у вас есть действующая техническая поддержка, то на вашей улице праздник: сегодня #ANSYS выложил на пользовательский портал версию 17.2.

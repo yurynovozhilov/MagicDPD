@@ -22,7 +22,6 @@ tags:
 title: Cornell проведет еще одни курс по ANSYS
 ---
 
-Cornell проведет еще одни курс по ANSYS
 ~~http://www.ansys-blog.com/engineering-simulations-course/~~ → [Сохранённая версия](http://web.archive.org/web/20181007163506/http://www.ansys-blog.com:80/engineering-simulations-course/)
 
 *Оригинальная ссылка больше не доступна*

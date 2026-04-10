@@ -8,7 +8,6 @@ tags:
   - ANSYS
 ---
 
-ANSYS Chocolate Simulation
 https://twitter.com/ansys/status/588664402431336448
 
 Mondelez (http://ru.mondelezinternational.com/brand-family) использует #ANSYS для расчета 3-х точечного изгиба шоколадки :-)

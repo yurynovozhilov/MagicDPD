@@ -10,6 +10,4 @@ images:
   - url: "/assets/images/1730.jpg"
 ---
 
-Образцовая научная статья
-
 [Образцовая научная статья - MagicDPD](https://magicdpd.ru/get-me-off-your-fucking-mailing-list/)

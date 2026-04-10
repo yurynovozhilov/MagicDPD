@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Multibody Dynamics Theory
-
 Ansys выложил новый учебный курс на своей платформе Innovation Courses. Я бы очень советовал заглядывать на эту платформу всем начинающим.
 
 https://courses.ansys.com/index.php/courses/multibody-dynamics-theory-ansys-innovation-courses/

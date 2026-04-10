@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Курс по LS-DYNA от CADD Engineer
-
 https://www.youtube.com/watch?v=wj-VNyorRw8&list=PL5c2TKywaRPxuIekD1DVYNl85EX-mpZVp
 
 [Introduction to ls Dyna](https://www.youtube.com/watch?v=wj-VNyorRw8&list=PL5c2TKywaRPxuIekD1DVYNl85EX-mpZVp)

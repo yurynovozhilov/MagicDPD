@@ -9,8 +9,6 @@ tags:
   - acum
 ---
 
-1 минута до начала #acum by #cadfemMedia
-
 http://ift.tt/2gY1wFi
 
 http://ift.tt/2yYM4jo

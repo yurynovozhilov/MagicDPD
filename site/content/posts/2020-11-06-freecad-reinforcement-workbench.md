@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/1853.jpg"
 ---
 
-FreeCAD Reinforcement Workbench
 #FreeCAD #Open_Source #reinforcement
 by Юрий Новожилов
 

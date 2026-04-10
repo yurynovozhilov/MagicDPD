@@ -10,11 +10,6 @@ images:
   - url: "/assets/images/1531.jpg"
 ---
 
-Часовое обучение Abaqus
-
-
-
-
 #ABAQUS
 
 https://wp.me/p9vWYY-2Bz

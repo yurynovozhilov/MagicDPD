@@ -8,9 +8,6 @@ tags:
   - cfd
 ---
 
-Характеристики и законы турбулентности
-
-
 https://www.youtube.com/watch?v=EUsR4rdF7D4
 
 

@@ -22,7 +22,6 @@ tags:
 title: ANSYS RSM 18.0 для Windows HPC
 ---
 
-ANSYS RSM 18.0 для Windows HPC
 http://www.padtinc.com/blog/the-focus/how-to-ansys-18-rsm-client-setup-on-windows-2012-r2-hpc
 
 #ANSYS #RSM 18 принципиально отличается от всех предыдущих версий RSM. Теперь он легче связывается в кластерными менеджерами очереди задач или сам может быть таким менеджером, благодаря ANSYS RSM Cluster (#ARC).

@@ -10,7 +10,6 @@ images:
   - url: "/assets/images/1877.jpg"
 ---
 
-В CFD для чайников — часть 4: что же такое CFD
 #CFD
 by Юрий Новожилов
 

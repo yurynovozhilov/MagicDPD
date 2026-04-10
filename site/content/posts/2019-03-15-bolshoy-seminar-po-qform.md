@@ -10,9 +10,6 @@ images:
   - url: "/assets/images/1397.jpg"
 ---
 
-Большой семинар по QForm
-
-
 https://www.youtube.com/watch?v=XIbrCZipsJs&t=1256s
 
 

@@ -31,7 +31,6 @@ tags:
 title: Запущена тестовая эксплуатация GPU в Azure
 ---
 
-Запущена тестовая эксплуатация GPU в Azure
 https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure
 
 Тестовая демонстрация работы #GPU #NVIDIA инстансов в облаке #Azure началась в зоне South Central US. При этом, как говорят сами MS, они используют технологию прямого проброса устройстви (Discrete Device Assignment, #DDA), заложенную в ожидаемый #Windows #Server 2016 Hyper-V.

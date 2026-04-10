@@ -19,7 +19,6 @@ tags:
 title: Делаем UDF без ошибок для Fluent
 ---
 
-Делаем UDF без ошибок для Fluent
 https://www.youtube.com/watch?v=xt2hnE9_LdM
 
 Небольшое учебное видео, рассказывающее о сборке #UDF в #ANSYS #Fluent - о борьбе с ошибкой #nmake

@@ -14,7 +14,6 @@ images:
   - url: "/assets/images/795.jpg"
 ---
 
-Оптимизация формы через CAESES для ANSYS
 Сегодня мы посмотрим, как встроить CAESES в схематику проекта ANSYS Workbench
 
 <!--more-->

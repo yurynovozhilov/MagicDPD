@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/1686.jpg"
 ---
 
-ANSYS Discovery Live 2020 R1
 #ANSYS #Discovery #Live
 by Юрий Новожилов
 

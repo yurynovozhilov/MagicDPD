@@ -11,6 +11,4 @@ images:
   - url: "/assets/images/1633.jpg"
 ---
 
-Модели транспортных средств для задач дорожной безопастности
-
 [Модели транспортных средств для задач дорожной безопастности - MagicDPD](http://magicdpd.ru/vehicle-models-from-nhtsa/)

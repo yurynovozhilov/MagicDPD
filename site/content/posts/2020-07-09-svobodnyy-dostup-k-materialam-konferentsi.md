@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/1798.jpg"
 ---
 
-Свободный доступ к материалам конференции FRAGBLAST
 #blast #fracture
 by Юрий Новожилов
 

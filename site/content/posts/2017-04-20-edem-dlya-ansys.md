@@ -21,7 +21,6 @@ tags:
 title: EDEM для ANSYS
 ---
 
-EDEM для ANSYS
 http://www.ansys.com/de-DE/About-ANSYS/Partner-Network/Software-Partners/dem-solutions
 
 Знаили ли вы, что у компании DEM Solutions Ltd., авторов #EDEM есть специальный плагин для интеграции с #ANSYS #Workbench - можно делать связанные расчеты механики в #Mechanical и гидродинамики во #Fluent.

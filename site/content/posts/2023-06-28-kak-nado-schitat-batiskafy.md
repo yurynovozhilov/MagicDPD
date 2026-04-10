@@ -8,8 +8,6 @@ images:
   - url: "/assets/images/2453.jpg"
 ---
 
-Как надо считать батискафы
-
 Если вернуться к теме моделирования батискафов, подводных аппаратов и знаний Джеймся Кэмерона, то я предлагаю посмотреть на небольшую статью в Ansys Advantage аж за 2012 год. Там рассказано, какую роль сыграл Ansys Mechanical и Ansys CFX в создании аппарата DEEPSEA CHALLENGER. Конечно это не научная статья, но и из нее понятно, что на глаз таки конструкции не делаются.
 
 https://public-leapaust.s3.ap-southeast-2.amazonaws.com/resources/AA-V6-I3-Deep-Dive.pdf

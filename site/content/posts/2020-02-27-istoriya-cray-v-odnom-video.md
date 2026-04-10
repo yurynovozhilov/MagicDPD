@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/1707.jpg"
 ---
 
-История Cray в одном видео
 #CRAY #HPC
 by Юрий Новожилов
 

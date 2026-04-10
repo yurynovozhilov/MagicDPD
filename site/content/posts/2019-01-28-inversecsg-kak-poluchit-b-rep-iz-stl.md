@@ -15,9 +15,6 @@ images:
   - url: "/assets/images/1325.jpg"
 ---
 
-InverseCSG: как получить B-rep из STL
-
-
 https://youtu.be/mf7Xd6oxNrM
 
 

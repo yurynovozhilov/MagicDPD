@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/1847.jpg"
 ---
 
-ANSYS покупает AGI
 #AGI #ANSYS #Ansys_Acquire
 by Юрий Новожилов
 

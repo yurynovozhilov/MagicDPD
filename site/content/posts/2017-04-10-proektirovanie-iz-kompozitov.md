@@ -16,7 +16,6 @@ tags:
   - Composites
 ---
 
-Проектирование из композитов
 http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/14480/How-to-Design-the-Lightest-Possible-Bike-And-Still-Sleep-at-Night.aspx
 
 Обзорная статья, как большие вендоры композитные велосипеды проектируют. Большие это:

@@ -15,6 +15,4 @@ images:
   - url: "/assets/images/1814.jpg"
 ---
 
-Loopy Cuts — правильный Hex-Dominant сеточный генератор
-
 https://magicdpd.ru/loopy-cuts/

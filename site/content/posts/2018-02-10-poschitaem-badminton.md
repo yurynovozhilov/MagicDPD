@@ -14,7 +14,6 @@ images:
   - url: "/assets/images/780.jpg"
 ---
 
-Посчитаем бадминтон
 Отличное техническое демо от Altair по моделированию динамики взаимодействия валанчика и ракетки для бадминтона
 
 <!--more--><img src="https://magicdpd.ru/wp-content/uploads/2018/02/badminton-300x240.gif" class="alignnone size-medium wp-image-6228" width="300" height="240" alt="">

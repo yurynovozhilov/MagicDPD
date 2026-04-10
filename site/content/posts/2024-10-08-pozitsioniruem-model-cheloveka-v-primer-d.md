@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Позиционируем модель человека в Primer для расчета в LS-DYNA
-
 Посмотрев запись этого выбинара вы научитесь позиционаровать соверменный модели челоеческих тел (human body model, HBM ) в среже Oasys Primer для расчтетов в LS-DYNA.
 
 https://www.youtube.com/watch?app=desktop&v=ovYxS-ibUqU

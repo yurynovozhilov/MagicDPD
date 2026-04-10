@@ -12,9 +12,6 @@ tags:
   - composite
 ---
 
-Моделирование процесса намотки препрега
-
-
 https://www.youtube.com/watch?v=9SqoHrxn3Qw
 
 

@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/1625.jpg"
 ---
 
-Что такое «сетка»
 #mesh #Simscale
 by Юрий Новожилов
 

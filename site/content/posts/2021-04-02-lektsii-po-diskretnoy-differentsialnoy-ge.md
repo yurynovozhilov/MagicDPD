@@ -11,9 +11,6 @@ tags:
   - cad
 ---
 
-Лекции по дискретной дифференциальной геометрии
-
-
 https://youtu.be/mas-PUA3OvA?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS
 
 

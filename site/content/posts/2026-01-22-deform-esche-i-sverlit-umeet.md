@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-DEFORM еще и сверлить умеет!
-
 https://youtu.be/CF6dvVVDXVE?si=XXw4yzBQ6I3ikmI2
 
 [Spade Drill Machining Simulation](https://youtu.be/CF6dvVVDXVE?si=XXw4yzBQ6I3ikmI2)

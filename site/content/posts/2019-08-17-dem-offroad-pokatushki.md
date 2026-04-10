@@ -11,9 +11,6 @@ images:
   - url: "/assets/images/1558.jpg"
 ---
 
-DEM Offroad покатушки
-
-
 Серия видео с демонстрацией расчетов  Advanced Science and Automation Corporation поведения военных внедорожников на различных типах покрытия.
 
 #ascience #DEM

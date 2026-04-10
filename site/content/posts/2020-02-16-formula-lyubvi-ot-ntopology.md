@@ -9,4 +9,3 @@ tags:
   - nTopology
 ---
 
-Формула любви от nTopology

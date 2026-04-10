@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/1848.jpg"
 ---
 
-Extended Position Based Dynamics
 #NVIDIA #RBD
 by Юрий Новожилов
 

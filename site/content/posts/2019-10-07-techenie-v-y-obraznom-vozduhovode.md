@@ -16,6 +16,4 @@ images:
   - url: "/assets/images/1607.jpg"
 ---
 
-Течение в Y-образном воздуховоде
-
 [Течение в Y-образном воздуховоде - MagicDPD](http://magicdpd.ru/fluid-flow-through-a-y-duct/)

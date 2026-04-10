@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Крутим яйца на пасху
-
 На прошлых выходных была католическая пасха, так что все вендоры показывали расчеты на данную тему. Показали и коллеги из Ansys/DYNAmore.
 
 https://www.youtube.com/watch?v=lKSsB6qU4uI

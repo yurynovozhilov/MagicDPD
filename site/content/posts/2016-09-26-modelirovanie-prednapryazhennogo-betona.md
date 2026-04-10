@@ -10,7 +10,6 @@ tags:
   - LSDYNA
 ---
 
-Моделирование преднапряженного бетона
 http://www.dynalook.com/14th-international-ls-dyna-conference/constitutivemodeling/modeling-pre-and-post-tensioned-concrete
 
 Эта очень актуальная тема была рассмотрена на недавней конференции по LS-DYNA. Как можно водитель из статьи - ничего невозможного в расчете удара снаряда в плоскую или цилиндрическую илу с преднапряженной арматурой нет :-)

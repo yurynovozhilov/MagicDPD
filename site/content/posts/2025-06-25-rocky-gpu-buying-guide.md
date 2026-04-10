@@ -8,8 +8,6 @@ images:
   - url: "/assets/images/2969.jpg"
 ---
 
-Rocky GPU Buying Guide
-
 Раньше такие сводки готовил я. Теперь я их читаю, и все равно интересно.
 
 https://innovationspace.ansys.com/knowledge/forums/topic/rocky-gpu-buying-guide/

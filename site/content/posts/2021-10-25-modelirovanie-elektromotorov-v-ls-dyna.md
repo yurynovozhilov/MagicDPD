@@ -12,9 +12,6 @@ tags:
   - motor
 ---
 
-Моделирование электромоторов в LS-DYNA
-
-
 https://www.youtube.com/watch?v=EjlGB4YWqiY
 
 

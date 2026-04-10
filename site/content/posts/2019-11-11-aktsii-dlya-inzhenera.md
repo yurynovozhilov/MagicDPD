@@ -11,6 +11,4 @@ images:
   - url: "/assets/images/1630.jpg"
 ---
 
-Акции для инженера
-
 [Акции для инженера - MagicDPD](https://magicdpd.ru/ansys-cae-stocks/)

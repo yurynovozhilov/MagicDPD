@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-On-premise GPT от SVS FEM
-
 Чешский ANSYS Channel Partner рассказал тоже рассказал о создании свое ИИ чат-бота. Судя по всему это дообученный ChatGPT 2.5.
 Что обещают SVS FEM:
 - Это on-premise. Работает со знаниями SVS FEM на вашей стороне.

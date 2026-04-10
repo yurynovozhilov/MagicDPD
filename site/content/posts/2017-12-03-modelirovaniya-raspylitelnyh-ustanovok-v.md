@@ -10,8 +10,6 @@ tags:
   - ANSYS
 ---
 
-Моделирования распылительных установок в #ANSYS #Fluent
-
 #CFD
 https://www.youtube.com/watch?v=Nl2…Media📼 М22 - Моделирование распылительных устройств в ANS…
 

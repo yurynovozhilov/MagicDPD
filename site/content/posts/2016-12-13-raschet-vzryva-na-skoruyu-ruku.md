@@ -14,7 +14,6 @@ tags:
 title: Расчет взрыва на скорую руку
 ---
 
-Расчет взрыва на скорую руку
 http://www.ewp.rpi.edu/hartford/~cabelb/ENGINEERING_PROJECT/Other/Reference/Simulation%20of%20the%20Effects%20of%20an%20Air%20Blast%20Wave.pdf
 
 Если вам надо быстро посчитать давления, возникающие при взрыве, то вам пригодится методика #CONWEP, уравнения Фридлендера (#Friedlander) или Kingery-Bulmash. Поэтому перелагаю несколько ссылок на хорошие методички с примерами расчетов:

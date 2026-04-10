@@ -10,4 +10,3 @@ tags:
   - Cornell
 ---
 
-#ANSYS + #Cornell on #edX

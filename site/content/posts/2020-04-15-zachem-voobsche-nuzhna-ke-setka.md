@@ -11,6 +11,4 @@ images:
   - url: "/assets/images/1739.jpg"
 ---
 
-Зачем вообще нужна КЭ сетка?
-
 [Зачем вообще нужна КЭ сетка? - MagicDPD](http://magicdpd.ru/why-mesh-in-fem/)

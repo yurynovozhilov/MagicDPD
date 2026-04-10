@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/1852.jpg"
 ---
 
-Quickfem — МКЭ расчеты в iOS
 #iOS #Quickfem
 by Юрий Новожилов
 

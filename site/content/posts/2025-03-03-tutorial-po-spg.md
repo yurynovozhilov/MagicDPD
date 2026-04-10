@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Туториал по SPG
-
 Я все еще люблю этот метод, но какой же он медленный...
 
 https://www.youtube.com/watch?app=desktop&v=h_bvY2xkABQ

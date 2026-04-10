@@ -13,7 +13,6 @@ images:
   - url: "/assets/images/786.jpg"
 ---
 
-Изучаем Femap и NX Nastran
 Коллеги из CADIS подготовили cерию обучающих вебинаров по NX и Femap
 
 <!--more-->Будут следующие темы:

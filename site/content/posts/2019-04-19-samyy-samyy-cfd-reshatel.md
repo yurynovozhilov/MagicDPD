@@ -13,9 +13,6 @@ images:
   - url: "/assets/images/1451.jpg"
 ---
 
-Самый-самый CFD решатель
-
-
 Итак, сайт Resolved Analytics занимается тем, что собирает отзывы пользователей о их CFD инструментах. У них есть очень горячий материал по сравнению популярности основных CFD кодов (https://www.resolvedanalytics.com/theflux/comparing-cfd-software).
 
 

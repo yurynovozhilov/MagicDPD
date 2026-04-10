@@ -28,7 +28,6 @@ tags:
 title: Удобный блокнот
 ---
 
-Удобный блокнот
 https://vk.com/wall-97265142_215
 
 Я уже писал, что #SublimeText умеет подсвечивать синтаксис #ANSYS #APDL и #LSDYNA KEYWORD (https://vk.com/wall-97265142_215). Оказалось, это не все: в стандартном репозитории для SublimeText присутствует пакет подсветки синтаксиса #Abaqus, а если очень надо, но на #GitHub есть плагин для подсветки #NASTRAN (https://github.com/bguest/NASTRAN-Textmate-Bundle).

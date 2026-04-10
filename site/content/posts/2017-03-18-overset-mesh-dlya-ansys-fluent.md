@@ -19,7 +19,6 @@ tags:
 title: Overset Mesh для ANSYS Fluent
 ---
 
-Overset Mesh для ANSYS Fluent
 https://www.youtube.com/watch?v=_Cryhe7L3uw
 
 Химерные или перекрывающиеся сетки (именно так в русской терминологии переводят  #Overset #Mesh) позволяют #ANSYS #Fluent эффективнее решать задачи для моделей со сложной геометрической формой. Небольшой пример от ANSYS про расчет отсоединения разгонных блоков от космической ракеты.

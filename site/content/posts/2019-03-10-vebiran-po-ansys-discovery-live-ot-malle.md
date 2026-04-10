@@ -13,9 +13,6 @@ images:
   - url: "/assets/images/1386.jpg"
 ---
 
-Вебиран по ANSYS Discovery Live от Mallett Technology
-
-
 Получасовой рассказ об решателе ANSYS Discovery Live, который выполняет расчеты механики, гидро-аэродинамики и тепла почти в реальном времени.
 
 #ANSYS #Discovery #Live #Mallett_Technology

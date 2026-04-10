@@ -17,7 +17,6 @@ tags:
 title: Топологическая оптимизация за 3 минуты
 ---
 
-Топологическая оптимизация за 3 минуты
 https://www.youtube.com/watch?v=5dn6cKR45OQ
 
 #ANSYS #Topology #Optimization идет в составе любой лицензи ANSYS Mechanical R18

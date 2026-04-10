@@ -15,9 +15,6 @@ images:
   - url: "/assets/images/1521.jpg"
 ---
 
-CivilFEM APPs — обзор работы в вебинаре
-
-
 Обзор работы ACT расширения CivilFEM уже для свежего ANSYS Mechanical 2019 R2. Кому нужно считать железобетон по нормам Eurocode, ASIC, LRFD, ASIC ASD, ACI318 и ACI349 — смотрим и вникаем.
 
 #ACT #ANSYS #CivilFEM #Ingeciber #Mechanical #Workbench

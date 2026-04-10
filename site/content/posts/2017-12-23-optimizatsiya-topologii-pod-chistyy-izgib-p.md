@@ -11,8 +11,6 @@ tags:
   - ToPy
 ---
 
-Оптимизация топологии под чистый изгиб при помощи #ToPy
-
 #topology #optimization #opensource
 http://www.variousconsequences.com/2017/12/topology-optimization-topy-pure-bending.html 🔗 Topology Optimization with ToPy: Pure Bending
 

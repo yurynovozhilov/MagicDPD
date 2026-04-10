@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/691.jpg"
 ---
 
-Грунты и сеточная адаптация в ANSYS Mechanical
 https://twitter.com/flaxius/status/948149501684011008
 #ANSYS #Mechanical #Soil
 https://magicdpd.ru/?p=5745

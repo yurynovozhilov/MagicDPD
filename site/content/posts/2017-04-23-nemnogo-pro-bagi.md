@@ -13,7 +13,4 @@ images:
   - url: "/assets/images/338.jpg"
 ---
 
-Немного про баги
-
-
 #ANSYS #ICEM-CFD не восместим с ... #PuntoSwitcher!!! Как они вообще умудрились пересечься в рамках #Windows 10?!

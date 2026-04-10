@@ -14,9 +14,6 @@ tags:
   - composite
 ---
 
-AniForm - штамповка композитов
-
-
 https://youtu.be/07GAWmAvDKE?list=PLsDHSCtZwSpy9GwPpbECHg8aXZb-Mhbyq
 
 

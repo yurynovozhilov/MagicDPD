@@ -12,9 +12,6 @@ images:
   - url: "/assets/images/1497.jpg"
 ---
 
-Обучение моделированию взрывов в LS-DYNA
-
-
 С 3 по 5 февраля следующего года группа специалистов по LS-DYNA из Cловении проведёт трехдневный курс по моделированию взрывов в LS-DYNA. Один из лекторов — Jovan Trajkovski, известный популяризатор LS-DYNA с канала «Trajkovski feasolution» (http://feasolution.blogspot.com).
 
 

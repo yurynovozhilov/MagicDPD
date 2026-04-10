@@ -9,7 +9,6 @@ tags:
   - CAE
 ---
 
-Nonliner problems in machine design
 #CAE #FEMMedia💾 Nonlinear_problems_in_machine_design.pdf
 
 http://ift.tt/2imqifv

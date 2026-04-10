@@ -13,7 +13,6 @@ images:
   - url: "/assets/images/1854.jpg"
 ---
 
-Оптимизация бокала для вина
 #CFD #MPM #Particleworks #Prometech
 by Юрий Новожилов
 

@@ -10,9 +10,6 @@ tags:
   - nvidia
 ---
 
-Matlab + GPU
-
-
 https://www.youtube.com/watch?v=F2z5iP9EcnI
 
 

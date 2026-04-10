@@ -10,6 +10,4 @@ images:
   - url: "/assets/images/1676.jpg"
 ---
 
-Моделирование пекарни
-
 [Моделирование пекарни - MagicDPD](http://magicdpd.ru/baking-and-melting-chocolate-simulations/)

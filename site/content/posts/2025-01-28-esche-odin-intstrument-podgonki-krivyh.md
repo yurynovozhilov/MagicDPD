@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Еще один интструмент подгонки кривых
-
 Что-то новенькое от MyCurveFit. Пока что Beta.
 
 https://mycurvefit.com/

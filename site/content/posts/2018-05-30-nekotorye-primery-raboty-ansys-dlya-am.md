@@ -13,9 +13,6 @@ images:
   - url: "/assets/images/961.jpg"
 ---
 
-Некоторые примеры работы ANSYS для AM
-
-
 #Additive Manufacturing #ANSYS #lattice structure #Simpleware
 
 https://wp.me/p9vWYY-1Se

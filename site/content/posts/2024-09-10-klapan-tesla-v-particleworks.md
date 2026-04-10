@@ -6,7 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Клапан Тесла в Particleworks
 https://www.youtube.com/watch?v=B3JPa3SUalI
 
 [Particleworks | Tesla Valve | Prometech Software](https://www.youtube.com/watch?v=B3JPa3SUalI)

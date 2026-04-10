@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-pix2tex - LaTeX OCR
-
 pix2tex - небольшая питоновская утилита, которая распознает выделенные формулы на экране и возвращает вам их LaTeX код. Я же стараюсь пользоваться mathpix.com
 
 https://github.com/lukas-blecher/LaTeX-OCR

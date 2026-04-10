@@ -12,6 +12,4 @@ images:
   - url: "/assets/images/1632.jpg"
 ---
 
-Altair покупает EDEM
-
 [Altair покупает EDEM - MagicDPD](https://magicdpd.ru/altair-edem-acquisition/)

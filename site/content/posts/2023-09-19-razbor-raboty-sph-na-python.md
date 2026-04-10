@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Разбор работы SPH на Python
-
 Быстрое и наглядное объяснение работы SPH. Вся математика метода явно описывается в процессе написания рабочего Python кода.
 
 https://www.youtube.com/watch?v=-0m05gzk8nk

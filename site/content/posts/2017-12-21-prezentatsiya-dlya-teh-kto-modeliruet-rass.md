@@ -6,7 +6,6 @@ author: "GlukRazor"
 source: vk
 ---
 
-Презентация для тех, кто моделирует расслоение в Дайне:
 "TIEBREAK CONTACTS IN LS-DYNA"Media💾 tiebreak.pdf
 
 http://ift.tt/2BLNUDa

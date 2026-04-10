@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/1868.jpg"
 ---
 
-LS-DYNA для студентов бесплатно!
 #ANSYS #LS_DYNA #Student
 by Юрий Новожилов
 

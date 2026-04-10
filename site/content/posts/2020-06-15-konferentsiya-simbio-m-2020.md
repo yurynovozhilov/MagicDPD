@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/1781.jpg"
 ---
 
-Конференция SIMBIO-M 2020
 #biomed #LS_DYNA #Marc
 by Юрий Новожилов
 

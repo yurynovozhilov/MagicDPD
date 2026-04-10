@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/1836.jpg"
 ---
 
-Нелинейное поведение материалов
 #MIDAS #midasNFX
 by Юрий Новожилов
 

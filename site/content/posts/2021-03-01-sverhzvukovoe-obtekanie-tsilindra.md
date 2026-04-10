@@ -10,9 +10,6 @@ tags:
   - open_source
 ---
 
-Сверхзвуковое обтекание цилиндра
-
-
 https://youtu.be/pPP26zelb0M
 
 

@@ -12,5 +12,4 @@ images:
   - url: "/assets/images/1522.jpg"
 ---
 
-#ANSYS #AIM вебинар от #CADFEM CIS в 14:00 01.04.2016
 Ссылка для желающих: https://clck.ru/9p7d4

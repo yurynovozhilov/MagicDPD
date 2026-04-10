@@ -8,8 +8,6 @@ images:
   - url: "/assets/images/3068.jpg"
 ---
 
-Материалы конференции LS-DYNA этого года
-
 Конференции LS-DYNA славятся своей открытостью. Материалы «2025 EMEA Ansys Transportation Summit and International LS-DYNA Conference», прошедшей в конце октября в Мюнхене, теперь доступны для нас (теперь на официальном сайте https://lsdyna.ansys.com/2025-emea-ansys-transportation-summit-and-international-ls-dyna-conference/)
 
 Конечно, там же доступен и мой доклад «Trimmed IGA Solids in LS-DYNA: CADFEM Findings» (Обрезанные IGA-тела в LS-DYNA: выводы CADFEM) — все 13 страниц.

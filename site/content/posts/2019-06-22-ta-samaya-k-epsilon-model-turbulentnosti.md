@@ -11,9 +11,6 @@ images:
   - url: "/assets/images/1513.jpg"
 ---
 
-Та самая k-epsilon модель турбулентности
-
-
 Традиционное суровое CFD видео подготовил Aidan Wimshurts — на этот раз он разбирает одну из самых распространенных моделей турбулентности, которую можно  встретить почти везде  (OpenFOAM, Fluent, CFX, Star, COMSOL, Saturne).
 
 #Aidan_Wimshurts #CFD

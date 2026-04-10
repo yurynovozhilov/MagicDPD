@@ -21,7 +21,6 @@ tags:
 title: Стрижем траву
 ---
 
-Стрижем траву
 https://t.co/2ixUZ7Rm93
 
 В рубрике #SimulationFriday расчет подстригаемого газона в #DEM постановке при помощи #ThreeParticle

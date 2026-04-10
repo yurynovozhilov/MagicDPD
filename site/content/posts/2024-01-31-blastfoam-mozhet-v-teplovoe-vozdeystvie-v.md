@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-blastFOAM может в тепловое воздействие взрыва
-
 Полезно в некоторых ситуациях.
 
 https://youtu.be/UXNxZcXX3rc?si=rq-lOjsN1TqI-2KB

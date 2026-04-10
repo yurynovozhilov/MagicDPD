@@ -15,7 +15,6 @@ images:
   - url: "/assets/images/1251.jpg"
 ---
 
-Учебная статья: Lattice Optimization в ANSYS Mechanical
 Коллеги из Padtinc написали отличный пост, где пошагово разобран весь процесс Lattice Optimization при помомщи ANSYS Mechanical версии 19.2.
 Тут разобраны все этапы:
 

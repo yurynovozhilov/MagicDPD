@@ -10,4 +10,3 @@ images:
   - url: "/assets/images/1488.jpg"
 ---
 
-#CADFEM учит дистанционно

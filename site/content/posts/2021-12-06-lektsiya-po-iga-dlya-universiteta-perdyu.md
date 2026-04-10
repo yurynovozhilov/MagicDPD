@@ -8,9 +8,6 @@ tags:
   - iga
 ---
 
-Лекция по IGA для Университета Пердью
-
-
 https://youtu.be/HwDh-M-6kfQ
 
 

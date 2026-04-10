@@ -15,7 +15,6 @@ images:
   - url: "/assets/images/1033.jpg"
 ---
 
-Вебинар по ACCS от CADFEM UK
 Чуть не пропустил! Сегодня вечером, с шести до семи, будет проходить бесплатный вебинар про моделирвоанию термополирезации композитов в ANSYS Composite Cure Simulation. Вебинар проводят CADFEM Ireland Ltd. совместно с CADFEM UK CAE Ltd.
 https://www.cadfemukandireland.com/event_date/simulation-of-composite-structure-design-and-curing-with-ansys/
 http://www.lmat-uk.com/software/ansys-composite-cure-simulation/

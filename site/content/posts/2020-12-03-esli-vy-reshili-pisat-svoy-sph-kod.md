@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/1862.jpg"
 ---
 
-Если вы решили писать свой SPH код
 #SPH #SPHERIC
 by Юрий Новожилов
 

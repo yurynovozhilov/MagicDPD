@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Дом взорвали!
-
 Но почему-то SPH, а не Particle Blast
 
 https://www.youtube.com/watch?v=0PbviG_BrIo

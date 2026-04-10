@@ -14,7 +14,6 @@ images:
   - url: "/assets/images/1615.jpg"
 ---
 
-Nonlinear Concrete in CivilFEM 2019
 #CivilFEM #concrete #Ingeciber #Marc #MSC
 by Юрий Новожилов
 

@@ -9,9 +9,6 @@ tags:
   - latex
 ---
 
-Mathcha - Online Math Editor
-
-
 https://www.youtube.com/watch?v=ff0H6w561z8
 
 

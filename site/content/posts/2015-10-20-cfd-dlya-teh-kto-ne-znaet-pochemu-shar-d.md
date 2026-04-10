@@ -8,6 +8,4 @@ tags:
   - CFD
 ---
 
-#CFD для тех, кто не знает, почему шар для гольфа такой.
-
 [CFD Visualization Comparing Turbulent Vortex Shedding Between a Sphere and Golf Ball](https://www.youtube.com/watch?v=GHOoZYhF6r4)

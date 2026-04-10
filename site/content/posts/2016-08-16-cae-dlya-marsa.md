@@ -18,7 +18,6 @@ tags:
 title: CAE для Марса
 ---
 
-CAE для Марса
 https://www.youtube.com/watch?v=zcdZ5_04gTA
 
 Очень хороший рекламный видеоролик о том, как проектировался марсоход #Curiosity. Это была очень большая работа для #Femap #Siemens.

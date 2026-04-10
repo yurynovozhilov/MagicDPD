@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/1844.jpg"
 ---
 
-Нелокальность в перидинамике
 #nonlocal #peridynamics
 by Юрий Новожилов
 

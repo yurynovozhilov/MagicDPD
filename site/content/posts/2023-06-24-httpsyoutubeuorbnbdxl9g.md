@@ -6,6 +6,4 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-https://youtu.be/uoRBNbDxl9g
-
 [ANSYS APDL Script for temperature dependant element erosion (Ekill)](https://youtu.be/uoRBNbDxl9g)

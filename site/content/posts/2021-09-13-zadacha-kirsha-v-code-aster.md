@@ -10,9 +10,6 @@ tags:
   - open_source
 ---
 
-Задача Кирша в Code_Aster
-
-
 https://www.youtube.com/watch?v=sxah02VvWkY
 
 

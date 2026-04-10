@@ -12,9 +12,6 @@ images:
   - url: "/assets/images/1324.jpg"
 ---
 
-Расчет ветровой нагрузки на Burj Khalifa
-
-
 https://youtu.be/6BTmFMNrHhM
 
 

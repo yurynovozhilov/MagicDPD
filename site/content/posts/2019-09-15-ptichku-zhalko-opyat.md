@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/1584.jpg"
 ---
 
-Птичку жалко (опять)
 Модель двигателя разработана и сертифицирована LS-DYNA Aerospace Working Group. Ссылка на модель https://awg.lstc.com/tiki-index.php?page=QA+Test+Example+2.1
 
 https://awg.lstc.com/tiki-index.php?page=QA+Test+Example+2.1

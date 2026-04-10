@@ -30,7 +30,6 @@ tags:
 title: Genesis Topology
 ---
 
-Genesis Topology
 http://wildeanalysis.co.uk/events/webinar-introduction-gtam-topology-optimisation-ansys-mechanical-users/
 
 Регистрация на бесплатный вебинар по #ACT #Genesis #Topology for #ANSYS #Mechanical (#GTAM) от http://wildeanalysis.co.uk. Надо посмотреть.

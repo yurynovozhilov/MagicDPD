@@ -15,7 +15,6 @@ images:
   - url: "/assets/images/966.jpg"
 ---
 
-HVAC расчеты в SimScale
 Коллеги из SimScale совместно со специалистами Rhino записали вебинар по CFD расчетам для определения HVAC. HVAC - Heating, Ventilation, and Air Conditioning - вроде как по-русски означает расчет комфортности.
 Запись вебинара доступна по ссылке или на YouTube.
 

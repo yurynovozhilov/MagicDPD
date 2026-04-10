@@ -12,6 +12,4 @@ images:
   - url: "/assets/images/1619.jpg"
 ---
 
-Самый первый виртуальный краш тест
-
 [Самый первый виртуальный краш тест - MagicDPD](https://magicdpd.ru/first-crash-test-ever/)

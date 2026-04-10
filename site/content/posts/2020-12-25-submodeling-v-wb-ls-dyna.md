@@ -13,6 +13,4 @@ images:
   - url: "/assets/images/1876.jpg"
 ---
 
-Submodeling в WB LS-DYNA
-
 [Submodeling в WB LS-DYNA - MagicDPD](https://magicdpd.ru/submodeling-%d0%b2-wb-ls-dyna/)

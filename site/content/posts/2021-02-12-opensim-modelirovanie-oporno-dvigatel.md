@@ -10,9 +10,6 @@ tags:
   - biomed
 ---
 
-OpenSim - моделирование опорно-двигательного аппарата
-
-
 https://www.youtube.com/watch?v=0e6vQV_ioCI
 
 

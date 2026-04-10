@@ -9,8 +9,6 @@ images:
   - url: "/assets/images/2496.jpg"
 ---
 
-Рендеринг данных из ParaView в Blender
-
 Статья про то, как улучшить визуализацию ваших данных подключив к ней софт для рендеринга 3D. Выглядит очень круто, однако я недавно уже открыл для себя Ansys EnSight.
 
 https://brenerramos.com/render-data-from-paraview-in-blender-updated/

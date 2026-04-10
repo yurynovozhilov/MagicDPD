@@ -10,4 +10,3 @@ images:
   - url: "/assets/images/1049.jpg"
 ---
 
-Осталось около месяца до нового #ANSYS

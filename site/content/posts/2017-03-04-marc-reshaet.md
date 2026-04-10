@@ -16,7 +16,6 @@ tags:
 title: Marc решает
 ---
 
-Marc решает
 https://www.youtube.com/watch?v=hA7H-j_bwSk
 
 Dr. Ted Wertheimer рассказывает от том, что #MSC #Mark решает! Mark особенно знаменит своими нелинейными материалами, адаптивным сеткоперестроением и хорошей работой с контакта.

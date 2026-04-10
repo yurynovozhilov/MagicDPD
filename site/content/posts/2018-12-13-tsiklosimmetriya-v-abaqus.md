@@ -10,9 +10,6 @@ images:
   - url: "/assets/images/1263.jpg"
 ---
 
-Циклосимметрия в Abaqus
-
-
 #ABAQUS
 http://bit.ly/2PAUEJx
 

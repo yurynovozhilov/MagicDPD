@@ -14,6 +14,4 @@ images:
   - url: "/assets/images/1753.jpg"
 ---
 
-LS-DYNA S-ALE: S — как Super
-
 [Вебинар «LS-DYNA S-ALE – взаимодействие с телами в эйлеровой постановке»](https://www.youtube.com/watch?v=PPtK3xrxCms)

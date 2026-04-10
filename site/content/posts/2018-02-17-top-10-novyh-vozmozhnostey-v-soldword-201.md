@@ -13,7 +13,6 @@ images:
   - url: "/assets/images/801.jpg"
 ---
 
-Топ 10 новых возможностей в SoldWord 2018
 Смотрим и наслаждаемся!
 
 [Топ 10 новых возможностей в SoldWord 2018 — MagicDPD](https://magicdpd.ru/?p=6243&lang=ru)

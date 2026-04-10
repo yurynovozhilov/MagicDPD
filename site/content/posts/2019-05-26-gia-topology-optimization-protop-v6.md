@@ -13,9 +13,6 @@ images:
   - url: "/assets/images/1488.jpg"
 ---
 
-GIA Topology Optimization ProTOp V6
-
-
 Мне понравилось, что добавили session mamger, позволяющий отслеживать историю изменения в настройках модели, и Shape optimisation посредством морфинга сетки сразу после оптимизации топологии, чтобы получать еще более гладкие результаты.
 
 #GIA #optimization #ProTOp #Topology

@@ -11,11 +11,6 @@ images:
   - url: "/assets/images/1468.jpg"
 ---
 
-Большой обзор PTC Creo 6
-
-
-
-
 #Creo #PTC
 
 https://wp.me/p9vWYY-2vc

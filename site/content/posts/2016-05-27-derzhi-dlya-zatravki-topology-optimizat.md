@@ -9,4 +9,3 @@ tags:
   - topology
 ---
 
-Держи) для затравки #topology #optimization

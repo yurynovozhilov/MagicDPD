@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Опять про сердце
-
 Не могу пройти мимо моей любимой темы, тем более что я сейчас, каюсь, грешен, нырнул в ICFD. Хорошо хоть есть поддержка от коллеги из Fluent.
 
 https://www.ansys.com/campaigns/cardiovascular/webinar-4

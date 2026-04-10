@@ -16,7 +16,6 @@ tags:
   - IBM
 ---
 
-Как подружить ANSYS 18 и кластер
 https://quantumhpc.com/en/blog/how-to-configure-ansys-rsm-v18-with-a-pbs-pro-cluster
 
 Отличная статья/комикс о том, как настроить взаимодействие #ANSYS 18 и кластерного #HPC планировщика очереди задач (#workload manager/#scheduler) #Altair #PBS Pro через новый ANSYS #RSM. Все дело в том, что RSM, утилита взаимодействия решателей ANSYS с вычислительными ресурсам, в 18-ой версии сильно изменилась. Хотя, на мой взгляд, это здорово пошло ей на пользу.

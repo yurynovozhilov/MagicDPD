@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-GDT inside Ansys
-
 Чешские коллеги показывают свое расришение для Mechanical, которое позволяет учитвывать заданные в на стадии проектирования допуски. Мне нравиться. Удивительно, что этого раньше никто еще не сделала.
 
 https://www.youtube.com/watch?v=oRreXjfmDZQ

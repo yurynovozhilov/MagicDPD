@@ -13,9 +13,6 @@ tags:
   - ameba
 ---
 
-Топологической оптимизации методом BESO
-
-
 https://www.youtube.com/watch?v=RKTQRV6tF2s
 
 

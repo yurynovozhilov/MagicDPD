@@ -23,7 +23,6 @@ tags:
 title: Здание против самолета
 ---
 
-Здание против самолета
 https://www.youtube.com/watch?v=0sr8ovXCfb0
 
 Какие знакомые моему сердцу образы. #LSDYNA, #SPH, #Concrete

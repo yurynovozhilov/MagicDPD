@@ -16,6 +16,4 @@ images:
   - url: "/assets/images/1650.jpg"
 ---
 
-Первое GPU-ускоренное геометрическое ядро
-
 [Первое GPU-ускоренное геометрическое ядро - MagicDPD](https://magicdpd.ru/gpu-cad-core/)

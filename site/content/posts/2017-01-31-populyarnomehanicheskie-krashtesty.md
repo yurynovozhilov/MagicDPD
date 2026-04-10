@@ -21,7 +21,6 @@ tags:
 title: Популярномеханические краштесты
 ---
 
-Популярномеханические краштесты
 http://www.computerhistory.org/makesoftware/exhibit/car-crash-simulation/
 
 Небольшая статья/комикс про историю моделирования карштестов, и их важность. Бегло про #CAD, #CARY и #LSTC

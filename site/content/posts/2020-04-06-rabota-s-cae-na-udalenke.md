@@ -17,6 +17,4 @@ images:
   - url: "/assets/images/1733.jpg"
 ---
 
-Работа с CAE на удаленке
-
 [Работа с CAE на удаленке - MagicDPD](http://magicdpd.ru/remote-cae-work-simples-best-practice/)

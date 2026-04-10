@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/1721.jpg"
 ---
 
-Madona: Run MATLAB/Octave code
 #iOS #MATLAB #Octave
 by Юрий Новожилов
 

@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-LatticeRobot вышел в beta
-
 Мне всегда было интересно узнать, как специалисты по аддитивному производству выбирают патерн для lattice structure заполнения. Теперь я заню, где взять эти знания: спросите у LatticeRobot
 
 https://latticerobot.com/

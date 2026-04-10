@@ -13,4 +13,3 @@ images:
   - url: "/assets/images/1068.jpg"
 ---
 
-Жирная сетка от #CADFEM CIS в #ICEM CFD

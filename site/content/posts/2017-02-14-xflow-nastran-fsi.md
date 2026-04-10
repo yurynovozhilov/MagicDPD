@@ -18,7 +18,6 @@ tags:
 title: XFlow - Nastran FSI
 ---
 
-XFlow - Nastran FSI
 https://www.youtube.com/watch?v=Qretsy5KuNE
 
 Часовой(!!!) вебинар на тему постановки #FSI для кодов #MSC #Nastran и #XFlow. В вебинаре много полезных данных об особенностях работы и преимуществах бессеточного #CFD кода XFlow. Об недостатках никто не говорил :-)

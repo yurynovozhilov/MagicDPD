@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-DED в Ansys
-
 Учебный вединар от Ozen по моделированию процесса прямой направки в Ansys Mechanical. Дисклеймер: для повторения примера вам понадобиться валидный G-code файл.
 
 https://www.youtube.com/watch?v=SJO-Dxq3Cg8

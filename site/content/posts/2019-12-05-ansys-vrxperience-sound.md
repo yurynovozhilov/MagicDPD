@@ -12,6 +12,4 @@ images:
   - url: "/assets/images/1652.jpg"
 ---
 
-ANSYS VRXPERIENCE SOUND
-
 [ANSYS VRXPERIENCE SOUND - MagicDPD](https://magicdpd.ru/ansys-vrxperience-sound/)

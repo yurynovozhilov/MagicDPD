@@ -9,7 +9,6 @@ tags:
   - EDEM
 ---
 
-Пашем #DEM в #EDEM
 https://twitter.com/demsolutions/status/710778996749963264
 
 [EDEM Software on Twitter](https://twitter.com/demsolutions/status/710778996749963264)

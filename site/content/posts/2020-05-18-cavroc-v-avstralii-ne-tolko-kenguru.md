@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/1759.jpg"
 ---
 
-CAVROC — в Австралии не только кенгуру
 #cavroc #Geomechanical #Rock
 by Ян Поженько
 

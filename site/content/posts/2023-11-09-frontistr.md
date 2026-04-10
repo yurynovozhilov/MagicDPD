@@ -8,8 +8,6 @@ images:
   - url: "/assets/images/2575.jpg"
 ---
 
-FrontISTR
-
 Оказывается есть такой открытый японский (!!!) решатель под названием FrontISTR. Он может встраиваться плагином в FreeCAD.
 
 https://github.com/FrontISTR/FEM_FrontISTR

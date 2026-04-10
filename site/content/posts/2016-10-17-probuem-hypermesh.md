@@ -15,7 +15,6 @@ tags:
 title: Пробуем Hypermesh
 ---
 
-Пробуем Hypermesh
 https://www.youtube.com/watch?v=9AGis2cDu2o
 
 Небольшой учебный пример по работе с #Altair #Hypermesh с нуля - решается линейная статическая задача. Тренинг подготовлен индийской компанией TECHZILON TRAINING SOLUTIONS.

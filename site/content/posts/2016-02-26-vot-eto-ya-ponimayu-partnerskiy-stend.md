@@ -6,4 +6,3 @@ author: "GlukRazor"
 source: vk
 ---
 
-Вот это я понимаю - партнерский стенд

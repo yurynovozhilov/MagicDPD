@@ -12,9 +12,6 @@ tags:
   - implicit
 ---
 
-Правила переделки LS-DYNA модели из explicit в implicit
-
-
 https://www.youtube.com/watch?v=0pGOwjie_UA
 
 

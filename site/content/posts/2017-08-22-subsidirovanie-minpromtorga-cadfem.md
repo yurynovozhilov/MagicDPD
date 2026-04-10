@@ -13,7 +13,6 @@ tags:
 title: Субсидирование Минпромторга – CADFEM
 ---
 
-Субсидирование Минпромторга – CADFEM
 https://www.cadfem-cis.ru/service/minpromtorg/
 #magicdpd 🔗 vk.com/wall-97265142_3069
 

@@ -11,9 +11,6 @@ images:
   - url: "/assets/images/1281.jpg"
 ---
 
-О методе конечных элементов 40 лет назад
-
-
 https://www.youtube.com/watch?v=aLJMDn_2-d8
 
 

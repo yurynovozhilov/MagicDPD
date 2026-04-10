@@ -15,7 +15,6 @@ images:
   - url: "/assets/images/1772.jpg"
 ---
 
-Выбор оптимального материала на ранних этапах проектирования
 #ANSYS #CAE #Granta_Design #GRANTA_Selector #material #properties
 by Ян Поженько
 

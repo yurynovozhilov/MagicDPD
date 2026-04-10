@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Rimac расскадывает про расчет батарей в софте Siemens
-
 https://youtu.be/T9FlQydXkCQ
 
 [Rimac Technology | Enhancing battery thermal management and cost efficiency | Simcenter](https://youtu.be/T9FlQydXkCQ)

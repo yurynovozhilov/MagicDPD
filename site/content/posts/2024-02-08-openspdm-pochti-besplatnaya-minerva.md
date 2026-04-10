@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-openSPDM - почти бесплатная Minerva
-
 Тут мы видим уникальную попытку собрать свою SPDM (Simulation Project Data Management) систему на основе движка Aras Innovator. Последний вообще бесплатный, и на его основе, между прочим, полностью построена Ansys Minerva.
 
 Автор openSPDM предлагает давать доступ к коду продукта под лицензией GPL3 всем, кто присоединиться к его консорциуму.

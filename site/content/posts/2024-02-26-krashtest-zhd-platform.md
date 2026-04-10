@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-Краштест ЖД платформ
-
 https://www.youtube.com/watch?v=g2q0raTbVrA
 
 [Cargo Train Crash Simulation (FEM)](https://www.youtube.com/watch?v=g2q0raTbVrA)

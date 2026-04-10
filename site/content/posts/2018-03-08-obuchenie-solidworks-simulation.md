@@ -10,7 +10,6 @@ tags:
   - SolidWorks_Simulation
 ---
 
-Обучение SolidWorks Simulation
 SolidWorks запустил бесплатные курсы по КЭ моделированию в SolidWorks Simulation — курсы опубликованы на платформе LinkedIn Learning. Насколько я понял, обучения для индивидуальных лиц в течение 1 месяца бесплатно.
 https://www.linkedin.com/learning/solidworks-simulation-for-finite-element-analysis/welcome
 

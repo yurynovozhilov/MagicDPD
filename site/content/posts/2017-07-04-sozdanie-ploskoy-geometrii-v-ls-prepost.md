@@ -15,7 +15,6 @@ tags:
 title: Создание плоской геометрии в LS-PrePost
 ---
 
-Создание плоской геометрии в LS-PrePost
 https://www.youtube.com/watch?v=LyPzIj1t_hM
 
 Короткое обучающее видео от #3Cengineers по созданию плоской геометрии и модели для #LSDYNA прямо в #LSPP

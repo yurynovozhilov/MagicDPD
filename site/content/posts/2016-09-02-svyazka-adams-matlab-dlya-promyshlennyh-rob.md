@@ -15,7 +15,6 @@ tags:
 title: Связка Adams-Matlab для промышленных роботов
 ---
 
-Связка Adams-Matlab для промышленных роботов
 https://www.youtube.com/watch?v=ztnliqfcvgo
 
 Получасовой вебинар от #MSC, посвященный взаимодействию #Adams и #Matlab, если вам не хватает Easy5

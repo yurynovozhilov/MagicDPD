@@ -21,7 +21,6 @@ tags:
 title: Реализации модели RHT (RTH) в LS-DYNA и AUTODYN
 ---
 
-Реализации модели RHT (RTH) в LS-DYNA и AUTODYN
 http://www.dynalook.com/11th-european-ls-dyna-conference/concrete-penetration/comparison-of-the-rht-concrete-material-model-in-ls-dyna-and-ansys-autodyn/view
 
 Модель материала для предсказания поведения высокопрочного и сверх высокопрочного бетона #RHT или #RTH является пожалуй одной из самых известных моделей в своей области. Она названа по инициалам ученых, разработавших ее: Riedel, Hiermaier и Thoma.

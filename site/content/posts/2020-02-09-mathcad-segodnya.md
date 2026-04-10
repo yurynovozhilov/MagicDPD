@@ -11,6 +11,4 @@ images:
   - url: "/assets/images/1695.jpg"
 ---
 
-Mathcad сегодня
-
 [Mathcad сегодня - MagicDPD](https://magicdpd.ru/mathcad-an-engineering-math-software-overview/)

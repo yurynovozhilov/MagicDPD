@@ -12,6 +12,4 @@ images:
   - url: "/assets/images/1677.jpg"
 ---
 
-Altair покупает newFASANT
-
 [Altair покупает newFASANT - MagicDPD](https://magicdpd.ru/altair-acquires-newfasant/)

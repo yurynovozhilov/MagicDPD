@@ -22,7 +22,6 @@ source: vk
 title: Rolls-Royce Trent XWB
 ---
 
-Rolls-Royce Trent XWB
 http://www.develop3d.com/blog/2017/06/watch-how-rolls-royce-assembles-its-trent-xwb-aero-engine
 
 Это не CAE, но мимо такого видео инженер не может пройти. Rolls-Royce опубликовал видео сборки своего нового, самого эффективного двигателя, Trent XWB

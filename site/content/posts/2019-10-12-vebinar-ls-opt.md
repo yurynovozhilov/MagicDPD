@@ -14,6 +14,4 @@ images:
   - url: "/assets/images/1612.jpg"
 ---
 
-Вебинар LS-OPT
-
 [Вебинар LS-OPT - MagicDPD](https://magicdpd.ru/ls-opt/)

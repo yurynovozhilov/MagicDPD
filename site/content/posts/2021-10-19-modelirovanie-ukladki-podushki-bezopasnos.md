@@ -11,9 +11,6 @@ tags:
   - airbag
 ---
 
-Моделирование укладки подушки безопасности в LS-DYNA
-
-
 https://www.youtube.com/watch?v=axbvdmrxbBo
 
 

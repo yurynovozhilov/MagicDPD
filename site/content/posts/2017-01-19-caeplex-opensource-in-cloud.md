@@ -19,7 +19,6 @@ tags:
 title: CAEplex - opensource in cloud
 ---
 
-CAEplex - opensource in cloud
 http://www.3dcadworld.com/seamplex-releases-caeplex-web-front-end-for-open-source-engineering-modeling-codes-on-the-cloud/
 
 Сервис #CAEplex от компании #Seamplex подхватывает инициативу #SimScale по построению #cloud на основе #opensource и красивого web интерфейса. Базируется сервис на неком #Fino (FINite element method, https://bitbucket.org/wasora/fino). Получается совсем не так зубасто как у SimScale.

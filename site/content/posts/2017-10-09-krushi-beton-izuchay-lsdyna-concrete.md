@@ -9,8 +9,6 @@ tags:
   - LSDYNA
 ---
 
-Круши бетон - изучай #LSDYNA #concrete
-
 https://youtu.be/I1VILljnntM🔗
 
 http://ift.tt/2vlBJYZ

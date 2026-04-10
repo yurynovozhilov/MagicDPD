@@ -6,8 +6,6 @@ author: "Yury Novozhilov"
 source: vk
 ---
 
-North American LS-DYNA User Forum 2023
-
 Стали известны даты проведения главной тасовки любителей LS-DYNA в США. 15-16 ноября, Детройт, Мичиган. Есть кто из подписчиков в США, отзовитесь!
 
 https://www.ansys.com/events/na-ls-dyna-user-forum-2023

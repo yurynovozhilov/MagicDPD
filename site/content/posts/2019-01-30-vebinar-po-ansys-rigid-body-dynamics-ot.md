@@ -12,9 +12,6 @@ images:
   - url: "/assets/images/1327.jpg"
 ---
 
-Вебинар по ANSYS Rigid Body Dynamics от Mallett Technology
-
-
 https://www.youtube.com/watch?v=cGv8m60zN4c
 
 

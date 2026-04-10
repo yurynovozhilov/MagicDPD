@@ -13,7 +13,6 @@ tags:
   - Autodesk
 ---
 
-Найдутся все метизы
 http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/12741/Go-Explore-Autodesk-Reinvents-Search.aspx
 
 Компания #Autodesk рассказал о своем новом продукте Design Graph, который они разрабатывали на протяжении нескольких лет. #DesignGraph позволяет осуществлять поиск #CAD моделей по базе #A360.

@@ -12,7 +12,6 @@ images:
   - url: "/assets/images/731.jpg"
 ---
 
-Вебинары по AM от ANSYS
 23 января ANSYS приглашает всех на вебинар по аддитивным технологиям производства из металла. Заголовок вебинара очень громкий: "Introducing the Most Powerful Simulation Solution for Metal AM» - остается надеяться, что содержание не будет соответсвуюющим.
 http://www.ansys.com/about-ansys/events/18-01-23-metal-webinar
 #Additive Manufacturing #ANSYS #webinar

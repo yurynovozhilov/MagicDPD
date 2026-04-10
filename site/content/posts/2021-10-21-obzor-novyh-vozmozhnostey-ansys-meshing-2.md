@@ -11,9 +11,6 @@ tags:
   - ansys
 ---
 
-Обзор новых возможностей Ansys Meshing 2021R2
-
-
 https://www.youtube.com/watch?v=z-wi_Fn_2sY&t=16s
 
 

@@ -13,6 +13,4 @@ images:
   - url: "/assets/images/1737.jpg"
 ---
 
-Multi-Car Crash Simulation
-
 [Multi-Car Crash Simulation - MagicDPD](http://magicdpd.ru/multi-car-crash-simulation/)

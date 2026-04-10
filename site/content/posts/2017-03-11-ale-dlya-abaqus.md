@@ -22,7 +22,6 @@ tags:
 title: ALE для Abaqus
 ---
 
-ALE для Abaqus
 https://www.youtube.com/watch?v=J9f_fmgMHfY
 
 Ой мамочки: видео урок по распорке #ALE #FSI в #Abaqus. Я-то думал, что у Abaqus все хорошо с GUI и UI, но он застрял где-то на уровне #LSPP и #ANSYS 10.

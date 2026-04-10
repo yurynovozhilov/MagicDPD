@@ -8,6 +8,4 @@ tags:
   - ANSYS
 ---
 
-#ANSYS и скорвородка
-
 [Design and Analysis of Cooking Pan Using Ansys Workbench](https://www.linkedin.com/pulse/design-analysis-cooking-pan-using-ansys-workbench-prabhu-manickam?trk=hp-feed-article-title)

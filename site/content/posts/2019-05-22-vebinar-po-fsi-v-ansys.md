@@ -15,9 +15,6 @@ images:
   - url: "/assets/images/1483.jpg"
 ---
 
-Вебинар по FSI в ANSYS
-
-
 Mallett Technology рассказывают о связке прочностных и гидродинамических решателей ANSYS. Рассматривается пример двухсторонней связки Mechanical и CFX.
 
 #ANSYS #CFX #FSI #Mallett_Technology #Mechanical #System_Coupling

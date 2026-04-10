@@ -12,9 +12,6 @@ images:
   - url: "/assets/images/1330.jpg"
 ---
 
-Стыковка optiSLang и GeoDict
-
-
 https://www.youtube.com/watch?v=nmGoB23wm4Q
 
 

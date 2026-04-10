@@ -14,7 +14,6 @@ images:
   - url: "/assets/images/1860.jpg"
 ---
 
-Обзор возможностей LS-DYNA R12.0
 #ANSYS_LST #ARUP #DYNAMore #LS_DYNA #R12
 by Юрий Новожилов
 

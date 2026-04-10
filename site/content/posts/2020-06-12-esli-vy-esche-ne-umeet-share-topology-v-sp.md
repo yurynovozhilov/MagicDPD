@@ -11,7 +11,6 @@ images:
   - url: "/assets/images/1776.jpg"
 ---
 
-Если вы еще не умеет Share Topology в SpaceClaim
 #ANSYS #SpaceClaim
 by Юрий Новожилов
 

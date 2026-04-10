@@ -12,7 +12,6 @@ images:
   - url: "https://sun9-83.userapi.com/s/v1/ig1/Hp-uMQLkbknbSQyT__S3z-6jfjHwZZmZtLKrjG6ARft8wmEyIRwobRwSDE3YGzzynzvKnVJQ.jpg?quality=96&as=32x22,48x33,72x49,108x74,160x109,240x164,360x246,480x328,540x369,640x438,720x493,994x680&from=bu&u=KG2FYurd9aYZpPkqYf18clw8a5IeCokkqAHPTBlZrUs&cs=994x0"
 ---
 
-Численное моделирование поведения защитных железобетонных
 конструкций АЭС при падении самолета
 к.т.н. В.И. Голяков
 ОАО «Атомэнергопроект», Москва, Россия
