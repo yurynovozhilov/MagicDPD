@@ -1,9 +1,15 @@
 ---
+author: Yury Novozhilov
+date: 2023-11-03 16:02:05+00:00
 layout: post
-title: "The Wheatley aortic valve: FEM/FSI numerical model (verified experimentally)"
-date: 2023-11-03T16:02:05+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: Article published in the International Journal for Numerical Methods
+    in Biomedical Engineering (Wiley).https://onlinelibrary.wiley.com/doi/10.1002/cnm.3792So...
+  image: https://i.ytimg.com/vi/wRyg_NoIu4E/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGF0gXShdMA8=&rs=AOn4CLAZTezGuzZIWfE17pQEi6f29hznDw
+  title: 'The Wheatley aortic valve: FEM/FSI numerical model (verified experimentally).'
+  url: https://www.youtube.com/watch?v=wRyg_NoIu4E
 source: vk
+title: 'The Wheatley aortic valve: FEM/FSI numerical model (verified experimentally)'
 ---
 
 Многие до сих пор считают, что Ansys LS-DYNA предназначен только для типичного явного моделирования взрывов, ударов и краш-тестов. Однако этот знаменитый заслуженный решатель открывает дорогу в прекрасный мир сильносвязанных нелинейных мультифизических моделей.

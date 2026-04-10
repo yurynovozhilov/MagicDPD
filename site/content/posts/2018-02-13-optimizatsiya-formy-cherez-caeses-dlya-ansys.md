@@ -1,17 +1,23 @@
 ---
+author: GlukRazor
+date: 2018-02-13 18:02:32+00:00
+images:
+- url: /assets/images/795.jpg
 layout: post
-title: "Оптимизация формы через CAESES для ANSYS"
-date: 2018-02-13T18:02:32+00:00
-author: "GlukRazor"
+link_previews:
+- description: Simulation-driven shape optimization in ANSYS. Robustly generate geometry
+    variants with CAESES. Fast, simple and fully automated.
+  image: ''
+  title: Shape Optimization in ANSYS with CAESES › CAESES
+  url: https://www.caeses.com/blog/2018/shape-optimization-in-ansys-with-caeses/
 source: vk
 tags:
-  - ANSYS
-  - CAESES
-  - Workbench
-  - optimization
-  - ACT
-images:
-  - url: "/assets/images/795.jpg"
+- ANSYS
+- CAESES
+- Workbench
+- optimization
+- ACT
+title: Оптимизация формы через CAESES для ANSYS
 ---
 
 Сегодня мы посмотрим, как встроить CAESES в схематику проекта ANSYS Workbench

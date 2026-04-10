@@ -1,9 +1,17 @@
 ---
+author: Yury Novozhilov
+date: 2025-08-20 11:52:21+00:00
 layout: post
-title: "Где еще взять свойства материалов?"
-date: 2025-08-20T11:52:21+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: A list of databases, datasets and books/handbooks where you can find
+    materials properties for machine learning applications. - sedaoturak/data-resources-for-materials-science
+  image: https://opengraph.githubassets.com/ce8e3de56876854b79cade1d243cb255b9ea4322668a68a3daa14f2aaa35e2f0/sedaoturak/data-resources-for-materials-science
+  title: 'GitHub - sedaoturak/data-resources-for-materials-science: A list of databases,
+    datasets and books/handbooks where you can find materials properties for machine
+    learning applications.'
+  url: https://github.com/sedaoturak/data-resources-for-materials-science?tab=readme-ov-file
 source: vk
+title: Где еще взять свойства материалов?
 ---
 
 !

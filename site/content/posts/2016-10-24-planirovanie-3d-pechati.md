@@ -2,11 +2,6 @@
 author: GlukRazor
 date: 2016-10-24 17:01:15+00:00
 layout: post
-link_previews:
-- description: ''
-  image: ''
-  title: ''
-  url: http://3dsim.com/product/exasim/
 source: vk
 tags:
 - Cloud

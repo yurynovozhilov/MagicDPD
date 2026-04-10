@@ -1,18 +1,24 @@
 ---
+author: GlukRazor
+date: 2019-07-04 17:00:43+00:00
+images:
+- url: /assets/images/1522.jpg
 layout: post
-title: "LS-DYNA Structured-ALE ACT"
-date: 2019-07-04T17:00:43+00:00
-author: "GlukRazor"
+link_previews:
+- description: Discover ready-to-use Ansys and third-party apps to streamline simulation
+    workflows in the Ansys App Catalog. Boost productivity and innovation.
+  image: ''
+  title: Ansys App Catalog | Ansys Developer Portal
+  url: https://catalog.ansys.com/product/5c769050393ff6be9837bb9f/ls-dyna-structured
 source: vk
 tags:
-  - LS_DYNA
-  - ANSYS
-  - Workbench
-  - ALE
-  - S_ALE
-  - ACT
-images:
-  - url: "/assets/images/1522.jpg"
+- LS_DYNA
+- ANSYS
+- Workbench
+- ALE
+- S_ALE
+- ACT
+title: LS-DYNA Structured-ALE ACT
 ---
 
 Не успели в ANSYS 19.2 открыть API для написания ACT расширений к WB LS-DYNA (которая сама по себе является ACT расширением), как им уже успели воспользоваться. Встречайте, расширение для работы с S-ALE решателем: https://catalog.ansys.com/product/5c769050393ff6be9837bb9f/ls-dyna-structured

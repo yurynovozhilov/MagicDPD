@@ -1,16 +1,22 @@
 ---
+author: MagicDPD
+date: 2021-08-16 15:01:17+00:00
 layout: post
-title: "Планы развития LS-DYNA"
-date: 2021-08-16T15:01:17+00:00
-author: "MagicDPD"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: https://i.ytimg.com/vi/v_LUPZGVqdM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWyhOMA8=&rs=AOn4CLDB1jerohTRRVek3FVLoRFsU_rzbQ
+  title: Keynote - LS-DYNA update and roadmap by Alex Pett, Ansys
+  url: https://www.youtube.com/watch?v=v_LUPZGVqdM
 source: vk
 tags:
-  - lstc
-  - oasys
-  - arup
-  - lsdyna
-  - ansys
-  - mechanical
+- lstc
+- oasys
+- arup
+- lsdyna
+- ansys
+- mechanical
+title: Планы развития LS-DYNA
 ---
 
 https://www.youtube.com/watch?v=v_LUPZGVqdM

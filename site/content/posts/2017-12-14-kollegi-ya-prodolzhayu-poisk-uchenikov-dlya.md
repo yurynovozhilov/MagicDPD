@@ -1,16 +1,50 @@
 ---
+author: GlukRazor
+date: 2017-12-14 10:02:34+00:00
 layout: post
-title: "Коллеги, я продолжаю поиск учеников для того, чтобы делиться своими знаниями и решать интересные и сложные задачи."
-date: 2017-12-14T10:02:34+00:00
-author: "GlukRazor"
+link_previews:
+- description: I am an engineer, and this is my passion! https://linktr.ee/GlukRazor
+  image: https://cdn4.telesco.pe/file/GN6V8vFRJx1vBY75374k2TKbzMP20acfIdh7VwywQYHLxLQNmi-eTGWEbS0zEJW5uO7DUYrGC-bph7oCb0r-yQS8dF_9WjI5SjCAMabiEY-6MlmbYqmwHhoiXDe7N0YvsOEu8YY5QWdrwsf8sw17fc7fEOv3ZkOd_uKwQr-6mu4leNb6rtlA4rXWhMKj_naLE5Q1WHz91A7tjfWqMrusbTU28h0J-0BHw3H5WHYTcTLkKKMz7Lcbl1ZuCBYTKkNA2aiTs2AcFO7FnsY33BmP9reSVSMdTbx57QYvATULXnpnHhltTWHrlhgi2Zh5wTCIzbPOyzuiRIaoZMz0mGr7yw.jpg
+  title: Yury Novozhilov
+  url: https://t.me/GlukRazor
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3855
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23%D0%9C%D0%9A%D0%AD
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23LSDYNA
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23ANSYS
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23SpaceClaim
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23Meshing
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23LSPP
 source: vk
 tags:
-  - ANSYS
-  - МКЭ
-  - LSDYNA
-  - SpaceClaim
-  - LSPP
-  - Meshing
+- ANSYS
+- МКЭ
+- LSDYNA
+- SpaceClaim
+- LSPP
+- Meshing
+title: Коллеги, я продолжаю поиск учеников для того, чтобы делиться своими знаниями
+  и решать интересные и сложные задачи.
 ---
 
 Задачи я решаю преимущественно в #LSDYNA, и это потребует обязательного знания #МКЭ, #ANSYS Mechanical, #SpaceClaim, #Meshing, #LSPP. Знание сложного инженерного ПО - это хорошо, но без хорошего базового образования и понимания физики процесса никуда не деться. Таким образом вам потребуются знания таких дисциплин, как теоретическая механика, математическая физика, теория упругости и что-нибудь из численных методов.

@@ -1,15 +1,21 @@
 ---
+author: GlukRazor
+date: 2018-07-09 18:00:45+00:00
+images:
+- url: /assets/images/1004.jpg
 layout: post
-title: "Custom key binding для ANSYS"
-date: 2018-07-09T18:00:45+00:00
-author: "GlukRazor"
+link_previews:
+- description: Discover ready-to-use Ansys and third-party apps to streamline simulation
+    workflows in the Ansys App Catalog. Boost productivity and innovation.
+  image: ''
+  title: Ansys App Catalog | Ansys Developer Portal
+  url: https://appstore.ansys.com/download?prodid=APC-ACTAPP-362
 source: vk
 tags:
-  - ACT
-  - Mechanical
-  - ANSYS
-images:
-  - url: "/assets/images/1004.jpg"
+- ACT
+- Mechanical
+- ANSYS
+title: Custom key binding для ANSYS
 ---
 
 Горячие клавиши в софте - это хорошо. Это позволяет существенно повысить производительность вашей работы. Это позволяет меньше отвлекаться на мышку и быстрее делать рутинные операции.

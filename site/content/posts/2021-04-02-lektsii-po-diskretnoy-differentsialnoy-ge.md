@@ -1,14 +1,39 @@
 ---
+author: MagicDPD
+date: 2021-04-02 13:02:37+00:00
 layout: post
-title: "Лекции по дискретной дифференциальной геометрии"
-date: 2021-04-02T13:02:37+00:00
-author: "MagicDPD"
+link_previews:
+- description: 'Overview video for the CMU Course on Discrete Differential Geometry
+    (15-458/858).Full playlist: https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1Y...'
+  image: https://i.ytimg.com/vi/mas-PUA3OvA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGH8gICgXMA8=&rs=AOn4CLC5spF1QnvxdGe_xEynAwfzExNYTA
+  title: Discrete Differential Geometry - Welcome Video
+  url: https://www.youtube.com/watch?v=mas-PUA3OvA
+- description: 'Full playlist: https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSSFor
+    more information see http://geometry.cs.cmu.edu/ddg'
+  image: https://i.ytimg.com/vi/8JCR6z3GLVI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGFkgWChlMA8=&rs=AOn4CLCVxG7I2eg16Vbs4UdLhOTtDNkzTw
+  title: 'Lecture 1: Overview (Discrete Differential Geometry)'
+  url: https://www.youtube.com/watch?v=8JCR6z3GLVI
+- description: Keenan Crane is a professor of Computer Science at CMU.  His work focuses
+    on algorithms for processing and analyzing three-dimensional geometric data.
+  image: ''
+  title: Keenan Crane
+  url: http://www.cs.cmu.edu/~kmcrane/
+- description: ''
+  image: ''
+  title: Before you continue to YouTube
+  url: https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS
+- description: ''
+  image: ''
+  title: 'CS 15-458/858: Discrete Differential Geometry – CARNEGIE MELLON UNIVERSITY
+    | SPRING 2021 | TUE/THU 12:20-1:40 | Remote'
+  url: https://brickisland.net/DDGSpring2021/
 source: vk
 tags:
-  - training
-  - mesh
-  - topology
-  - cad
+- training
+- mesh
+- topology
+- cad
+title: Лекции по дискретной дифференциальной геометрии
 ---
 
 https://youtu.be/mas-PUA3OvA?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS

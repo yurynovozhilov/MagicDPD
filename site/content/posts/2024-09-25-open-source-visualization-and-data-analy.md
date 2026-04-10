@@ -1,9 +1,16 @@
 ---
+author: Yury Novozhilov
+date: 2024-09-25 10:48:35+00:00
 layout: post
-title: "Open Source Visualization and Data Analysis in the Browser"
-date: 2024-09-25T10:48:35+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: 'Free Webinar: Unlock 3D Web Visualization with vtk.js | Kitware Experts
+    Join Kitware’s Sankhesh Jhaveri, Forrest Li, and Lisa Avila for a free webinar
+    on vtk...'
+  image: https://i.ytimg.com/vi/Wght4lIv5BE/maxresdefault.jpg
+  title: Open Source Visualization and Data Analysis in the Browser
+  url: https://www.youtube.com/watch?v=Wght4lIv5BE
 source: vk
+title: Open Source Visualization and Data Analysis in the Browser
 ---
 
 В ходе этого вебинара эксперты Kitware по веб-визуализации:

@@ -1,19 +1,64 @@
 ---
+author: GlukRazor
+date: 2017-11-26 17:09:23+00:00
 layout: post
-title: "Компания Metariver Technology co., ltd (http://www.metariver.kr) специлизируется на создани #CAE софта #samadii максмально использующего возможности библиотеки #CUDA и графический чипов #NVIDIA."
-date: 2017-11-26T17:09:23+00:00
-author: "GlukRazor"
+link_previews:
+- description: samadiiParticle-based CAE solutions using multi-GPU technology (CUDA)Metariver
+    Technologysamadii/scivsamadii/emsamadii/plasmasamadii/demvampireMetariver Tech...
+  image: https://i.ytimg.com/vi/xXG3JbT0AQk/maxresdefault.jpg
+  title: samadii, Metariver Technology
+  url: "https://www.youtube.com/watch?v=xXG3JbT0AQkMediaMediaMediaMedia\U0001F4FC"
+- description: samadiiParticle-based CAE solutions using multi-GPU technology (CUDA)Metariver
+    Technologysamadii/scivsamadii/emsamadii/plasmasamadii/demvampireMetariver Tech...
+  image: https://i.ytimg.com/vi/xXG3JbT0AQk/maxresdefault.jpg
+  title: samadii, Metariver Technology
+  url: https://www.youtube.com/watch?v=xXG3JbT0AQk
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3773
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23CAE
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23samadii
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23NVIDIA
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23DEM
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23CFD
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23Lattice
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23HPC
 source: vk
 tags:
-  - CFD
-  - LBM
-  - HPC
-  - Lattice
-  - DEM
-  - samadii
-  - CUDA
-  - CAE
-  - NVIDIA
+- CFD
+- LBM
+- HPC
+- Lattice
+- DEM
+- samadii
+- CUDA
+- CAE
+- NVIDIA
+title: 'Компания Metariver Technology co., ltd (http://www.metariver.kr) специлизируется
+  на создани #CAE софта #samadii максмально использующего возможности библиотеки #CUDA
+  и графический чипов #NVIDIA.'
 ---
 
 Сейчас у них есть:

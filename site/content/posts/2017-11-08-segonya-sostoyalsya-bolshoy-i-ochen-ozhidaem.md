@@ -1,15 +1,25 @@
 ---
+author: GlukRazor
+date: 2017-11-08 09:10:09+00:00
 layout: post
-title: "Сегоня состоялся большой и очень ожидаемый мной релиз у моих друзей из #NICE Software."
-date: 2017-11-08T09:10:09+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23NICE
+- description: ''
+  image: ''
+  title: Amazon DCV | Download
+  url: https://www.nice-software.com/download/nice-dcv-2017
 source: vk
 tags:
-  - DCV
-  - HPC
-  - NICE
-  - HPCMediaMedia
-  - AWS
+- DCV
+- HPC
+- NICE
+- HPCMediaMedia
+- AWS
+title: 'Сегоня состоялся большой и очень ожидаемый мной релиз у моих друзей из #NICE
+  Software.'
 ---
 
 Эта небольшая но очень крутая итальянская компания (ныне часть #HPC подразделения #AWS) выпустила обновленную версию своего продукта #DCV (Desktop Cloud Visualization) - пожалуй самого эффективного средства доставки сложной инженерной графики на рынке.

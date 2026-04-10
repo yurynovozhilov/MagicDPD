@@ -3,35 +3,30 @@ author: GlukRazor
 date: 2017-09-18 17:09:59+00:00
 layout: post
 link_previews:
-- description: Enjoy the videos and music you love, upload original content, and share
-    it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
-  url: https://youtu.be/OvYlblL6_AY
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2yk2L5A
+  url: https://m.vk.com/wall-97265142_3244
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2xKRcav
+  url: https://m.vk.com/feed?section=search&q=%23MSC
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2xnumov
+  url: https://m.vk.com/feed?section=search&q=%23Siemens
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2xLAV5m
+  url: https://m.vk.com/feed?section=search&q=%23TASS
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2ylz5Fk
+  url: https://m.vk.com/feed?section=search&q=%23PreScan
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2xLNRIv
+  url: https://m.vk.com/feed?section=search&q=%23ADAS
 source: vk
 tags:
 - MSC
@@ -39,7 +34,9 @@ tags:
 - TASS
 - Siemens
 - PreScan
-title: "Интеренсые совпадения: сначала на Youtube мне попадается новое видео #MSC, где они рассказывают, что одним из главных вызовов для их компании будет программное обеспечение автопилотирования транспортных средств. https://youtu.be/OvYlblL6_AY"
+title: 'Интеренсые совпадения: сначала на Youtube мне попадается новое видео #MSC,
+  где они рассказывают, что одним из главных вызовов для их компании будет программное
+  обеспечение автопилотирования транспортных средств. https://youtu.be/OvYlblL6_AY'
 ---
 
 После этого я нахожу новость о том, что #Siemens покупает #TASS International, у которой, в свою очередь, есть платформа #PreScan, предназначенная для работы над помощниками в управлении автомобилем (Advanced Driver Assistance Systems).

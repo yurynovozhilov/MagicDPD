@@ -1,9 +1,18 @@
 ---
+author: Yury Novozhilov
+date: 2025-03-28 12:02:39+00:00
 layout: post
-title: "Квантовое превосходство «на бумаге»"
-date: 2025-03-28T12:02:39+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: 'Researchers at the Department of Energy’s Oak Ridge National Laboratory
+    tested a quantum computing approach to an old challenge: solving classical fluid
+    dynamics problems. For the test problem, the research team .... - Read more from
+    Inside HPC & AI News.'
+  image: https://insidehpc.com/wp-content/uploads/2025/03/oak-ridge-quantum-air-flow-2-1-0325.png
+  title: 'Quantum Advantage ''On Paper'': Oak Ridge Tests a Quantum Computing Approach
+    for Fluid Dynamics'
+  url: https://insidehpc.com/2025/03/quantum-advantage-on-paper-oak-ridge-tests-a-quantum-computing-approach-for-fluid-dynamics/
 source: vk
+title: Квантовое превосходство «на бумаге»
 ---
 
 Исследователи из Национальной лаборатории Ок-Ридж (ORNL) провели тестирование квантового алгоритма для решения классической задачи гидродинамики — течения между двумя параллельными пластинами (течение Хеле-Шоу). Целью было определить, может ли квантовый алгоритм решить уравнения течения быстрее, чем классические методы.

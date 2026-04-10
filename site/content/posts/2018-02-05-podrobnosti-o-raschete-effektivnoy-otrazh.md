@@ -1,19 +1,19 @@
 ---
+author: GlukRazor
+date: 2018-02-05 18:00:26+00:00
+images:
+- url: /assets/images/771.jpg
 layout: post
-title: "Подробности о расчете  эффективной отражающей площади объекта в HFSS SBR+"
-date: 2018-02-05T18:00:26+00:00
-author: "GlukRazor"
 source: vk
 tags:
-  - SBR
-  - ANSYS
-  - cite_note
-  - Savant
-  - HFSS
-  - RCS
-  - Delcross
-images:
-  - url: "/assets/images/771.jpg"
+- SBR
+- ANSYS
+- cite_note
+- Savant
+- HFSS
+- RCS
+- Delcross
+title: Подробности о расчете  эффективной отражающей площади объекта в HFSS SBR+
 ---
 
 Одним из наиболее значимых нововведений 19-ого релиза ANSYS стала возможность рассчитывать эффективную отражающую площадь объекта при помощи решателя SBR+, вошедшего в состав HFSS.

@@ -10,7 +10,7 @@ link_previews:
     Lea...
   image: https://i.ytimg.com/vi/u29tMlPP9y8/hqdefault.jpg
   title: XTract3D Video Tour
-  url: https://youtu.be/u29tMlPP9y8
+  url: https://www.youtube.com/watch?v=u29tMlPP9y8
 - description: ''
   image: ''
   title: Polyga  Video Tour
@@ -21,7 +21,8 @@ tags:
 - XTract3D
 - SolidWorks
 - polyga
-title: "Если у вас нет #SpaceClaim, а задачи обратного проектирования вам решать надо, то можно попробовать #XTract3D от #polyga."
+title: 'Если у вас нет #SpaceClaim, а задачи обратного проектирования вам решать надо,
+  то можно попробовать #XTract3D от #polyga.'
 ---
 
 Данный плагин встраивается в #SolidWorks и позволяет восстанавливать CAD геометрию на основе STL.

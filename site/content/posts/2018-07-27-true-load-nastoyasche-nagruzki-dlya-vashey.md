@@ -1,16 +1,23 @@
 ---
+author: GlukRazor
+date: 2018-07-27 18:00:36+00:00
+images:
+- url: /assets/images/1041.jpg
 layout: post
-title: "True-Load - настояще нагрузки для вашей КЭ модели"
-date: 2018-07-27T18:00:36+00:00
-author: "GlukRazor"
+link_previews:
+- description: Wolf Star Technologies True-Load is first to market Load Reconstruction
+    Software that leverages parts and FEA models to create multi-channel load cells,
+    optimize strain gauge placement, and improve the product design cycle.
+  image: ''
+  title: True-Load | Load Reconstruction Software | Wolf Star Technologies, LLC
+  url: https://www.wolfstartech.com/true-load
 source: vk
 tags:
-  - DigitalTwin
-  - Fatigue
-  - TrueLoad
-  - WolfStarTechnologies
-images:
-  - url: "/assets/images/1041.jpg"
+- DigitalTwin
+- Fatigue
+- TrueLoad
+- WolfStarTechnologies
+title: True-Load - настояще нагрузки для вашей КЭ модели
 ---
 
 Как-то раз у меня уже проскакивала новость про True-Load, и их дружбу с ANSYS Workbench. Помнится тогда, мы так и не нашли правды: чем эта дружба так полезна для инженеров. Теперь настало время разобраться в True-Load, тем более, что мне на глаза попалась запись часового вебинара от создателя технологии.

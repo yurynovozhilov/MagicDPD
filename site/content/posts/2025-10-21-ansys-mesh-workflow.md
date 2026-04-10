@@ -1,9 +1,16 @@
 ---
+author: Yury Novozhilov
+date: 2025-10-21 13:37:22+00:00
 layout: post
-title: "Ansys Mesh Workflow"
-date: 2025-10-21T13:37:22+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: In this video, we will showcase a new feature in Ansys Mechanical called
+    mesh workflow, while we simulate a surface model. At EDRMedeso, we enable our
+    custom...
+  image: https://i.ytimg.com/vi/NGDpRhH7zy8/maxresdefault.jpg
+  title: How to Simulate a Surface Model in Ansys Mechanical with Mesh Workflow
+  url: https://www.youtube.com/watch?v=NGDpRhH7zy8
 source: vk
+title: Ansys Mesh Workflow
 ---
 
 В этом году в Mechanical завезли новый инструмент пошагового создания сетки. Не, записывать шаги можно было уже лет 10 как. Тут же на предлагают создавать сетку примерно так же, как мы создаем геометрическую модель в CAD с деревом. Можно пошагово строить сетку, экструдировать и морфить элементы, создавать геометрические тела на основе сетки… я пока не осилил, но в следующем году придется разобраться.

@@ -1,11 +1,20 @@
 ---
+author: GlukRazor
+date: 2017-09-29 16:23:45+00:00
 layout: post
-title: "В чем вы строите сетки для прочностный расчетов?"
-date: 2017-09-29T16:23:45+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3383
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23mesh
 source: vk
 tags:
-  - mesh
+- mesh
+title: В чем вы строите сетки для прочностный расчетов?
 ---
 
 Ищу хороший инструмент.

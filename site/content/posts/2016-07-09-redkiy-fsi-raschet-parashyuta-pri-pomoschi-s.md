@@ -2,12 +2,6 @@
 author: GlukRazor
 date: 2016-07-09 18:03:03+00:00
 layout: post
-link_previews:
-- description: Enjoy the videos and music you love, upload original content, and share
-    it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
-  url: https://www.youtube.com/watch?v=bc5xDVDw4f0
 source: vk
 tags:
 - MSC
@@ -18,7 +12,8 @@ tags:
 - XFlow
 - opensource
 - Nastran
-title: "Редкий #FSI расчет парашюта при помощи связки #XFlow и #Nastran от #MSC - говорят все хорошо сошлось с экспериментами NASA :-)"
+title: 'Редкий #FSI расчет парашюта при помощи связки #XFlow и #Nastran от #MSC -
+  говорят все хорошо сошлось с экспериментами NASA :-)'
 ---
 
 Двусторонний FSI осуществляется по средствам открытого кода #OpenFSI (http://openfsi.org/)

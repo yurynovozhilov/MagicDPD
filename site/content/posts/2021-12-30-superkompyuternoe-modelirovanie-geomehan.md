@@ -1,13 +1,21 @@
 ---
+author: MagicDPD
+date: 2021-12-30 13:56:28+00:00
 layout: post
-title: "Суперкомпьютерное моделирование геомеханического состояния массива горных пород"
-date: 2021-12-30T13:56:28+00:00
-author: "MagicDPD"
+link_previews:
+- description: 'Смалюк А. Ф., Медведев С. В.,Матюшенко В. М., Медведева В. Г. , Биряльцев
+    Е. В., Дегтярев А. Г., Гильмутдинов Р.Р., Пономаренко Д.В.,Докладчики: Смалюк
+    А. Ф....'
+  image: https://i.ytimg.com/vi/HwAURzWXxYE/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGH8gUSgTMA8=&rs=AOn4CLDmtC9JKzakCsV2klgeD6SbB_N18A
+  title: НСКФ-2021 Суперкомпьютерное моделирование геомеханического состояния массива
+    горных пород
+  url: https://www.youtube.com/watch?v=HwAURzWXxYE
 source: vk
 tags:
-  - lsdyna
-  - hpc
-  - ansys
+- lsdyna
+- hpc
+- ansys
+title: Суперкомпьютерное моделирование геомеханического состояния массива горных пород
 ---
 
 https://www.youtube.com/watch?v=HwAURzWXxYE

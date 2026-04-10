@@ -1,9 +1,15 @@
 ---
+author: Yury Novozhilov
+date: 2024-01-15 15:00:42+00:00
 layout: post
-title: "Pandas на GPU"
-date: 2024-01-15T15:00:42+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: cuDF - GPU DataFrame Library . Contribute to rapidsai/cudf development
+    by creating an account on GitHub.
+  image: https://opengraph.githubassets.com/21d3de65187550688f89d8eb96239a32562965cac4f79f7634a26a858d23a892/rapidsai/cudf
+  title: 'GitHub - rapidsai/cudf: cuDF - GPU DataFrame Library'
+  url: https://github.com/rapidsai/cudf
 source: vk
+title: Pandas на GPU
 ---
 
 Pandas я люблю еще с тех пор, как мне надо было делать обработку спектров отклика рассчитанных LS-DYNA для оборудования АЭС, в которую бил самолет. Вот тут сеть рассказзал мне про интересную библиотеку cuDF.

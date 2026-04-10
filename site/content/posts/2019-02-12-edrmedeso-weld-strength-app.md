@@ -1,17 +1,24 @@
 ---
+author: GlukRazor
+date: 2019-02-12 12:03:25+00:00
+images:
+- url: /assets/images/1353.jpg
 layout: post
-title: "EDRMedeso Weld Strength App"
-date: 2019-02-12T12:03:25+00:00
-author: "GlukRazor"
+link_previews:
+- description: EDRMedeso Weld Strength AppMore info about EDRMedeso apps and how to
+    test and buy:https://edrmedeso.com/simulation/apps_toolkit/At EDRMedeso, we enable
+    our c...
+  image: https://i.ytimg.com/vi/Q7Wk1nRKWGM/maxresdefault.jpg
+  title: EDRMedeso Weld Strength App
+  url: https://www.youtube.com/watch?v=Q7Wk1nRKWGM
 source: vk
 tags:
-  - ANSYS
-  - Mechanical
-  - welding
-  - EDRMedesо
-  - ACT
-images:
-  - url: "/assets/images/1353.jpg"
+- ANSYS
+- Mechanical
+- welding
+- EDRMedesо
+- ACT
+title: EDRMedeso Weld Strength App
 ---
 
 https://www.youtube.com/watch?v=Q7Wk1nRKWGM

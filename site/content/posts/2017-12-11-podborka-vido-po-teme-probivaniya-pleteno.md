@@ -1,13 +1,19 @@
 ---
+author: GlukRazor
+date: 2017-12-11 17:15:29+00:00
 layout: post
-title: "Подборка видо по теме пробивания плетеной из кевларовых нитей ткани (Kevlar Style 706) от Гуарана Нилаканта (Dr."
-date: 2017-12-11T17:15:29+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23LSDYNA
 source: vk
 tags:
-  - composite
-  - Kevlar
-  - LSDYNA
+- composite
+- Kevlar
+- LSDYNA
+title: Подборка видо по теме пробивания плетеной из кевларовых нитей ткани (Kevlar
+  Style 706) от Гуарана Нилаканта (Dr.
 ---
 
 Gaurav Nilakantan) - он реально замет толк в #LSDYNA и композитах.

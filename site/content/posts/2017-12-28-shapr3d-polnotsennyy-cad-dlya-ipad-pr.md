@@ -1,14 +1,19 @@
 ---
+author: GlukRazor
+date: 2017-12-28 17:14:31+00:00
 layout: post
-title: "#Shapr3D - полноценный #CAD для #iPad Pro получил новую мажерную версию."
-date: 2017-12-28T17:14:31+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23Shapr3D
 source: vk
 tags:
-  - CAD
-  - Shapr3D
-  - iPad
-  - Parasolid
+- CAD
+- Shapr3D
+- iPad
+- Parasolid
+title: '#Shapr3D - полноценный #CAD для #iPad Pro получил новую мажерную версию.'
 ---
 
 Самои важно в этой версии, это реализована поддержка работы с форматом #Parasolid.

@@ -1,13 +1,19 @@
 ---
+author: GlukRazor
+date: 2017-12-26 17:16:47+00:00
 layout: post
-title: "Интервью с Президентом и CEO компании #ANSYS - Эйджеем Гапалом (Ajei Gopal) на канале #CNBC в програме MAD Money с Джимом Крамером (Jim Cramer)."
-date: 2017-12-26T17:16:47+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23ANSYS
 source: vk
 tags:
-  - CNBC
-  - ANSYS
-  - CAE
+- CNBC
+- ANSYS
+- CAE
+title: 'Интервью с Президентом и CEO компании #ANSYS - Эйджеем Гапалом (Ajei Gopal)
+  на канале #CNBC в програме MAD Money с Джимом Крамером (Jim Cramer).'
 ---
 
 Зазговор скорее за деньги и инвестиции, чем за #CAE.

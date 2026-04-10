@@ -1,14 +1,19 @@
 ---
+author: GlukRazor
+date: 2016-02-04 18:01:00+00:00
 layout: post
-title: "Что будет если выстрелить под водой из огнестрельного оружия 50-ого калибра?"
-date: 2016-02-04T18:01:00+00:00
-author: "GlukRazor"
+link_previews:
+- description: initial velocity is 950 m/sunit system is {g mm ms MPa ...}
+  image: https://i.ytimg.com/vi/qRg4CT0Fh3A/maxresdefault.jpg
+  title: .50 cal in water - LS-DYNA simulation
+  url: https://www.youtube.com/watch?v=qRg4CT0Fh3A
 source: vk
 tags:
-  - FSI
-  - Explicit
-  - ALE
-  - LSDYNA
+- FSI
+- Explicit
+- ALE
+- LSDYNA
+title: Что будет если выстрелить под водой из огнестрельного оружия 50-ого калибра?
 ---
 
 Это называется сильно связанная #FSI постановка и для #ALE решателя LS-DYNA это совсем не проблема.

@@ -1,9 +1,16 @@
 ---
+author: Yury Novozhilov
+date: 2023-07-27 15:01:17+00:00
 layout: post
-title: "Топологически оптимальный велосипед"
-date: 2023-07-27T15:01:17+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: Canyon contacted Materialise to produce a 3D-printed concept bike for
+    the ‘Ride Green’ campaign. The project demonstrated a more sustainable production
+    process.
+  image: https://assets-eu-01.kc-usercontent.com/8ff24b0e-57a3-0157-62d1-fa4ac9734eb5/cb1563ef-da3c-41a7-a37f-cfa3d49b5aad/og-materialise.jpg
+  title: Canyon’s 3D-Printed Concept Bike Pushes Sustainability
+  url: https://www.materialise.com/en/inspiration/articles/canyon-sustainable-concept-bike
 source: vk
+title: Топологически оптимальный велосипед
 ---
 
 Генерация велосипедной рамы при помощи методов топологической оптимизации всегда было одним из наглядных примеров работы CAE. Даже в моей бакалаврской работе, еще в черном экране смерти Ansys MAPDL 10 я изобрел велосипед. Однако, сейчас новость о чем-то более серьезном. Знаменитый (и, оказывается, немецкий) производитель велосипедов Canyon Bicycles GmbH показали прототип велосипедной рамы, полностью изготавливаемой из алюминия ставшим уже классическим методом SLM. Получаемая рама вместе с вилкой имеет массу всего около 2 кг, что, как мне кажется, позволяет ей напрямую конкурировать с композитными рамами. Только вот изделия из углепластика и стеклопластика пока вообще непонятно как утилизировать, а перерабатывать алюминий мы хорошо умеем.

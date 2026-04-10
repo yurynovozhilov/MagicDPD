@@ -1,14 +1,26 @@
 ---
+author: GlukRazor
+date: 2019-01-26 17:00:33+00:00
+images:
+- url: /assets/images/1323.jpg
 layout: post
-title: "Interlinked SPH Pressure Solvers"
-date: 2019-01-26T17:00:33+00:00
-author: "GlukRazor"
+link_previews:
+- description: https://cg.informatik.uni-freiburg.de/C. Gissler, A. Peer, S. Band,
+    J. Bender, M. Teschner,Interlinked SPH Pressure Solvers for Strong Fluid-Rigid
+    Coupling,A...
+  image: https://i.ytimg.com/vi/tCsuEDkxU30/maxresdefault.jpg
+  title: Interlinked SPH Pressure Solvers for Strong Fluid-Rigid Coupling
+  url: https://www.youtube.com/watch?v=tCsuEDkxU30
+- description: ''
+  image: ''
+  title: "Interlinked SPH Pressure Solvers for Strong Fluid-Rigid Coupling\n  \n   -
+    Computer Animation"
+  url: http://www.animation.rwth-aachen.de/publication/0563/
 source: vk
 tags:
-  - FSI
-  - SPH
-images:
-  - url: "/assets/images/1323.jpg"
+- FSI
+- SPH
+title: Interlinked SPH Pressure Solvers
 ---
 
 https://www.youtube.com/watch?v=tCsuEDkxU30

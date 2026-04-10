@@ -1,9 +1,24 @@
 ---
+author: GlukRazor
+date: 2017-10-11 14:18:25+00:00
 layout: post
-title: "Компания ЗАО «КАДФЕМ Си-Ай-Эс» приглашает принять участие в ежегодной международной Конференции пользователей программного обеспечения CADFEM/ANSYS, которая пройдет 31 октября – 2 ноября 2017 года, по адресу: г."
-date: 2017-10-11T14:18:25+00:00
-author: "GlukRazor"
+link_previews:
+- description: Главная
+  image: http://ansysconference.ru/static/templates/cascon2019/dist/images/OG-image.png
+  title: Главная — Конференция CADFEM\ANSYS
+  url: https://www.ansysconference.ru/
+- description: Page not found
+  image: ''
+  title: IFTTT / 404 Error
+  url: https://ifttt.com/404
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3497
 source: vk
+title: 'Компания ЗАО «КАДФЕМ Си-Ай-Эс» приглашает принять участие в ежегодной международной
+  Конференции пользователей программного обеспечения CADFEM/ANSYS, которая пройдет
+  31 октября – 2 ноября 2017 года, по адресу: г.'
 ---
 
 Санкт-Петербург, Московский пр., д. 97А (ст. м. Московские Ворота), гостиница Holiday Inn «Московские Ворота».

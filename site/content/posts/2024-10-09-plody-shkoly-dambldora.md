@@ -1,9 +1,30 @@
 ---
+author: Yury Novozhilov
+date: 2024-10-09 08:53:57+00:00
 layout: post
-title: "Плоды школы Дамблдора"
-date: 2024-10-09T08:53:57+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: I am happy to share with you that I will start working as an intern
+    at Ansys in November. I will be working in the Hannover office under the supervision
+    of Sebastian Stahn and Mark Leddin. I am incredibly excited to have the opportunity
+    to work with a team of professionals and I am sure that this internship is the
+    best I could get to continue my career in Germany. Let
+  image: https://static.licdn.com/aero-v1/sc/h/c45fy346jw096z9pbphyyhdz7
+  title: I am happy to share with you that I will start working as an intern at Ansys
+    in November. I will be working in the Hannover office under the supervision of
+    Sebastian Stahn and Mark Leddin. I am… | Ars
+  url: https://www.linkedin.com/posts/volotskiyarseniy_i-am-happy-to-share-with-you-that-i-will-activity-7249344435275071489-S0cO
+- description: I am happy to share with you that I will start working as an intern
+    at Ansys in November. I will be working in the Hannover office under the supervision
+    of Sebastian Stahn and Mark Leddin. I am incredibly excited to have the opportunity
+    to work with a team of professionals and I am sure that this internship is the
+    best I could get to continue my career in Germany. Let
+  image: https://static.licdn.com/aero-v1/sc/h/c45fy346jw096z9pbphyyhdz7
+  title: I am happy to share with you that I will start working as an intern at Ansys
+    in November. I will be working in the Hannover office under the supervision of
+    Sebastian Stahn and Mark Leddin. I am… | Ars
+  url: https://www.linkedin.com/posts/volotskiyarseniy_i-am-happy-to-share-with-you-that-i-will-activity-7249344435275071489-S0cO?utm_source=share&utm_medium=member_desktop
 source: vk
+title: Плоды школы Дамблдора
 ---
 
 Коллеги, возможно вы слышали про проект из прошлой жизни - школу Дамблдора. Это был мой проект по поиску и выращиванию инженеров, результатам которых я могу доверять. За время существования проекта у меня получилось вырастить четверых таких инженеров. Отбор прошел каждый десятый. Плакал и просился к маме каждый.

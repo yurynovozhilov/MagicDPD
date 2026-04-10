@@ -1,17 +1,28 @@
 ---
+author: GlukRazor
+date: 2017-11-16 09:11:11+00:00
 layout: post
-title: "Молния!"
-date: 2017-11-16T09:11:11+00:00
-author: "GlukRazor"
+link_previews:
+- description: http://3dsim.com 3DSIM is Predicting the Future of 3D PrintingIn 2015
+    over 5 billion dollars were spent on additive manufacturing.Millions of dollars
+    and tho...
+  image: https://i.ytimg.com/vi/0q1ZPZNnqzs/maxresdefault.jpg
+  title: Accelerate Production & Innovation with 3DSIM
+  url: https://www.youtube.com/watch?v=0q1ZPZNnqzs
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%233DSIM
 source: vk
 tags:
-  - ANSYS
-  - additivemanufacturing
-  - 3DSIM
-  - exaSIM
-  - AWS
-  - cloud
-  - GovCloud
+- ANSYS
+- additivemanufacturing
+- 3DSIM
+- exaSIM
+- AWS
+- cloud
+- GovCloud
+title: Молния!
 ---
 
 Вчера #ANSYS купил одного из лидеров рынка моделирования процессов аддитивного производства, компанию 3DSIM.

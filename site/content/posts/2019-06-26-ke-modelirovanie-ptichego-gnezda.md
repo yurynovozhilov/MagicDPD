@@ -1,13 +1,19 @@
 ---
+author: GlukRazor
+date: 2019-06-26 17:00:20+00:00
+images:
+- url: /assets/images/1516.jpg
 layout: post
-title: "КЭ моделирование птичьего гнезда"
-date: 2019-06-26T17:00:20+00:00
-author: "GlukRazor"
+link_previews:
+- description: SIMULIA provides realistic multiphysics simulation, design exploration,
+    and optimization capabilities for designers, engineers and researchers.
+  image: ''
+  title: SIMULIA
+  url: https://blogs.3ds.com/simulia/simulation-understand-avian-nest-design-strategies/
 source: vk
 tags:
-  - Simpleware
-images:
-  - url: "/assets/images/1516.jpg"
+- Simpleware
+title: КЭ моделирование птичьего гнезда
 ---
 
 Ребята взяли и построили КЭ модели гнезда на основе данных, полученных с томографа. Получилось прикольно — у птиц все просчитано.

@@ -1,9 +1,15 @@
 ---
+author: GlukRazor
+date: 2017-12-13 16:07:15+00:00
 layout: post
-title: "Интересный и подробный документ по применению LS-DYNA для анализа тросовых ограждений."
-date: 2017-12-13T16:07:15+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3848
 source: vk
+title: Интересный и подробный документ по применению LS-DYNA для анализа тросовых
+  ограждений.
 ---
 
 Приведены примеры k файловMedia💾 ODM 218 6 016_2015.pdf

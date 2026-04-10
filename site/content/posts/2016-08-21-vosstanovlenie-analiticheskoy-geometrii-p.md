@@ -5,8 +5,8 @@ layout: post
 link_previews:
 - description: Enjoy the videos and music you love, upload original content, and share
     it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
+  image: https://i.ytimg.com/vi/VEUvYM2qFRc/hqdefault.jpg
+  title: ANSYS SpaceClaim 2016 Reverse Engineering
   url: https://www.youtube.com/watch?v=VEUvYM2qFRc
 - description: Paul from GoMeasure3D demonstrates how to reverse engineer an automotive
     part. Reverse engineering is a process of creating a CAD model from scan data
@@ -22,7 +22,7 @@ tags:
 - NURBS
 - ReverseEngineering
 - STL
-title: "Восстановление аналитической геометрии по STL в SpaceClaim: часть 2"
+title: 'Восстановление аналитической геометрии по STL в SpaceClaim: часть 2'
 ---
 
 https://www.youtube.com/watch?v=VEUvYM2qFRc

@@ -8,7 +8,7 @@ link_previews:
     the followi...
   image: https://i.ytimg.com/vi/PGZY16hzMDg/maxresdefault.jpg
   title: FEA Robust Meshing Capabilities with ANSYS
-  url: https://youtu.be/PGZY16hzMDg
+  url: https://www.youtube.com/watch?v=PGZY16hzMDg
 source: vk
 tags:
 - Meshing

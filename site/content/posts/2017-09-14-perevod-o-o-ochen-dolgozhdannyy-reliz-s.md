@@ -6,7 +6,7 @@ link_previews:
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2f7wD0g
+  url: https://m.vk.com/wall-97265142_3217
 source: vk
 title: '[Перевод] О-о-очень долгожданный релиз Sublime Text 3.0'
 ---

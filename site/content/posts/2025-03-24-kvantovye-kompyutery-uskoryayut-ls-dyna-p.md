@@ -1,9 +1,22 @@
 ---
+author: Yury Novozhilov
+date: 2025-03-24 10:00:33+00:00
 layout: post
-title: "Квантовые компьютеры ускоряют LS-DYNA: первые квантовые вычисления, полезные для прикланого CAE"
-date: 2025-03-24T10:00:33+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: The solution of large sparse linear systems via factorization methods
+    such as LU or Cholesky decomposition, can be computationally expensive due to
+    the introduction of non-zero elements, or ``fill-in.'' Graph partitioning can
+    be used to reduce the ``fill-in,'' thereby speeding up the solution of the linear
+    system. We introduce a quantum approach to the graph partitioning problem based
+    on variational quantum imaginary time evolution (VarQITE). We develop a hybrid
+    quantum/classical
+  image: /static/browse/0.3.4/images/arxiv-logo-fb.png
+  title: Accelerating large-scale linear algebra using variational quantum imaginary
+    time evolution
+  url: https://arxiv.org/abs/2503.13128
 source: vk
+title: 'Квантовые компьютеры ускоряют LS-DYNA: первые квантовые вычисления, полезные
+  для прикланого CAE'
 ---
 
 После прошлой недели я перестал считать, что квантовые компьютеры - это просто академический распил бабла. Итак, мы тут все таки или иначе решаем задачи линейной алгебры. Причем, в механике, когда мы используем неявный решатель, у нас собирается большая и страшная матрица жесткости, работать с которой не очень приятно, и все хотят ускорить данный процесс.

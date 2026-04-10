@@ -1,9 +1,15 @@
 ---
+author: Yury Novozhilov
+date: 2023-07-13 15:01:32+00:00
 layout: post
-title: "GPU native FEM"
-date: 2023-07-13T15:01:32+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: Explore a wide array of DPU- and GPU-accelerated applications, tools,
+    and services.
+  image: https://www.nvidia.com/content/dam/en-zz/Solutions/homepage/v2/mfg/nvidia-og-image-1200x630.jpg
+  title: NVIDIA Accelerated Application Catalog
+  url: https://www.nvidia.com/en-us/gpu-accelerated-applications/?filter=eyJJbmR1c3RyeVNlZ21lbnQiOlsiSFBDIC8gU3VwZXJjb21wdXRpbmciXSwid29ya2xvYWRzIjpbIlNpbXVsYXRpb24gLyBNb2RlbGluZyAvIERlc2lnbiJdfQ==
 source: vk
+title: GPU native FEM
 ---
 
 Я бы хотел сегодня с вам порассуждать, и послушать ваши комментарии. Наверно мало кто будет спорить, что GPU-native решaтeли выполняют расчеты на порядки быстрее, чем традиционный код, исполняемый на CPU. Также, моделирование на основе методов частиц (DEM, SPH, MPS, MPM, LBM) кажется достаточно просто реализуется на GPU. По крайней мере, большинство кодов с такой направленностью неистово взлетают, когда могут дотянуться до видеокарты от NVIDIA.

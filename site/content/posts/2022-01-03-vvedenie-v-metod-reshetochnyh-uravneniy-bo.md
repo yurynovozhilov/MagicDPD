@@ -1,13 +1,19 @@
 ---
+author: MagicDPD
+date: 2022-01-03 19:57:59+00:00
 layout: post
-title: "Введение в метод решёточных уравнений Больцмана"
-date: 2022-01-03T19:57:59+00:00
-author: "MagicDPD"
+link_previews:
+- description: Timm Krüger is giving an introduction to lattice-Boltzmann method (LBM).
+    LBM is a good numerical algorithm for fluid dynamics with complex boundary condition...
+  image: https://i.ytimg.com/vi/jfk4feD7rFQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGDQgXChyMA8=&rs=AOn4CLC9RKoTXDw40oFvm9bahN92ix5gzg
+  title: Introduction to Lattice Boltzmann Method
+  url: https://www.youtube.com/watch?v=jfk4feD7rFQ
 source: vk
 tags:
-  - CFD
-  - ESPResSo
-  - LBM
+- CFD
+- ESPResSo
+- LBM
+title: Введение в метод решёточных уравнений Больцмана
 ---
 
 https://youtu.be/jfk4feD7rFQ

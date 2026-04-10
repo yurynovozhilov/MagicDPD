@@ -1,13 +1,21 @@
 ---
+author: MagicDPD
+date: 2021-09-13 13:01:29+00:00
 layout: post
-title: "Задача Кирша в Code_Aster"
-date: 2021-09-13T13:01:29+00:00
-author: "MagicDPD"
+link_previews:
+- description: Gmsh is an open source 3D finite element mesh generator with a built-in
+    CAD engine and post-processor. Its design goal is to provide a fast, light and
+    user-f...
+  image: https://i.ytimg.com/vi/sxah02VvWkY/maxresdefault.jpg
+  title: '[GMSH Aster Tutorial] Solving a Gmsh Model with Code_Aster (Groups, Mesh
+    Format, Solver)'
+  url: https://www.youtube.com/watch?v=sxah02VvWkY
 source: vk
 tags:
-  - code_aster
-  - gmesh
-  - open_source
+- code_aster
+- gmesh
+- open_source
+title: Задача Кирша в Code_Aster
 ---
 
 https://www.youtube.com/watch?v=sxah02VvWkY

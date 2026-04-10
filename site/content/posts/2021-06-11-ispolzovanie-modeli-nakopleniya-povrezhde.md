@@ -1,15 +1,22 @@
 ---
+author: MagicDPD
+date: 2021-06-11 13:01:47+00:00
 layout: post
-title: "Использование модели накопления повреждений GISSMO при расчетах штамповки"
-date: 2021-06-11T13:01:47+00:00
-author: "MagicDPD"
+link_previews:
+- description: The EWI Forming Center hosted its annual Advanced Sheet Metal Forming
+    Technology Workshop as a 2-day webinar on October 21 and 22, 2020. The workshop
+    feature...
+  image: https://i.ytimg.com/vi/2DmR-H0L2Eg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgPig_MA8=&rs=AOn4CLCKjZvGNnkkWTpz_bx_ggCduSCvQw
+  title: GISSMO Damage Modeling in Forming Simulation   Tom Feister
+  url: https://www.youtube.com/watch?v=2DmR-H0L2Eg
 source: vk
 tags:
-  - forming
-  - ls
-  - ansys
-  - ewi
-  - gissmo
+- forming
+- ls
+- ansys
+- ewi
+- gissmo
+title: Использование модели накопления повреждений GISSMO при расчетах штамповки
 ---
 
 https://www.youtube.com/watch?v=2DmR-H0L2Eg

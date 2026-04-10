@@ -7,7 +7,7 @@ link_previews:
     it all with friends, family, and the world on YouTube.
   image: https://i.ytimg.com/vi/iTFXs6eG_MQ/hqdefault.jpg
   title: Buckling, Plasticity and Post-Buckling with MSC Marc
-  url: https://youtu.be/iTFXs6eG_MQ
+  url: https://www.youtube.com/watch?v=iTFXs6eG_MQ
 source: vk
 tags:
 - MSC

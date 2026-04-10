@@ -1,11 +1,24 @@
 ---
+author: MagicDPD
+date: 2021-02-18 13:18:32+00:00
 layout: post
-title: "Теория разрушения для материаловедов и расчетчиков"
-date: 2021-02-18T13:18:32+00:00
-author: "MagicDPD"
+link_previews:
+- description: ''
+  image: ''
+  title: Failure Theory for Materials Science and Engineering - FailureCriteria.com
+  url: https://www.failurecriteria.com
+- description: ''
+  image: ''
+  title: Failure Theory for Materials Science and Engineering - FailureCriteria.com
+  url: https://failurecriteria.com/
+- description: ''
+  image: ''
+  title: Failure Theory for Materials Science and Engineering - FailureCriteria.com
+  url: https://www.failurecriteria.com/
 source: vk
 tags:
-  - theory
+- theory
+title: Теория разрушения для материаловедов и расчетчиков
 ---
 
 https://www.failurecriteria.com - это сайт-книга по теории разрушения, созданный Ричардом Кристенсеном (Richard M. Christensen), почётным профессором департамента аэронавтики и астронавтикиСтэнфордского университета.  Студентам читать будет особенно полезно.

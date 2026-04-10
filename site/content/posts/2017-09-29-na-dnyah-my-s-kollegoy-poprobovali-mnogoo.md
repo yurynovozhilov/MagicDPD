@@ -1,17 +1,28 @@
 ---
+author: GlukRazor
+date: 2017-09-29 12:22:58+00:00
 layout: post
-title: "На днях мы с коллегой попробовали многообещающий сеточный генератор #csimsoft #bolt 2 и разочаровались."
-date: 2017-09-29T12:22:58+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23csimsoft
+- description: ''
+  image: ''
+  title: "HexEx: Robust Hexahedral Mesh Extraction\n  \n   - Computer Graphics and
+    Multimedia"
+  url: https://www.graphics.rwth-aachen.de/publication/03260/
 source: vk
 tags:
-  - Cartesian
-  - bolt
-  - ANSYS
-  - HexEx
-  - csimsoft
-  - Meshing
-  - libHexEx
+- Cartesian
+- bolt
+- ANSYS
+- HexEx
+- csimsoft
+- Meshing
+- libHexEx
+title: 'На днях мы с коллегой попробовали многообещающий сеточный генератор #csimsoft
+  #bolt 2 и разочаровались.'
 ---
 
 Оказалось, что он практически не отличается от декартова(#Cartesian) сеточного генератора в составе #ANSYS #Meshing. Так что я продолжаю поиски решения для быстрой генерации All-Hex сетки на геометрии.

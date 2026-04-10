@@ -1,13 +1,18 @@
 ---
+author: GlukRazor
+date: 2018-05-26 18:00:54+00:00
 layout: post
-title: "Совершенствование конструкции защитных экранов Уипла"
-date: 2018-05-26T18:00:54+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: http://sun9-21.userapi.com/fafvjSB8ha2EWPn-VR6LIahBtBkf50LZSLbKfQ/BiN2pjgeJTw.png
+  title: VK
+  url: https://vk.com/wall13004811_950
 source: vk
 tags:
-  - Autodyn
-  - SPH
-  - ANSYS
+- Autodyn
+- SPH
+- ANSYS
+title: Совершенствование конструкции защитных экранов Уипла
 ---
 
 Новая публикация от моего коллеги Александра Черняева, который долгое время занимался защитой космических объектов от ударов микрометеоритов. Аккуратно, внутри много экспериментальных данных и расчетов в AUTODYN.

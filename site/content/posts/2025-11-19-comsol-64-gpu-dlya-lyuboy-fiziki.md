@@ -1,9 +1,15 @@
 ---
+author: Yury Novozhilov
+date: 2025-11-19 20:39:20+00:00
 layout: post
-title: "COMSOL 6.4 - GPU для любой физики!"
-date: 2025-11-19T20:39:20+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: COMSOL Multiphysics® version 6.4 is now available. Check out the major
+    updates and download the software here.
+  image: https://cdn.comsol.com/release/64/home/home-og.png
+  title: COMSOL® Software Version 6.4 Release Highlights
+  url: https://www.comsol.com/release/6.4
 source: vk
+title: COMSOL 6.4 - GPU для любой физики!
 ---
 
 Итак, коллеги ни много ни мало заявляют, что у них теперь есть GPU решатель для всех видов филики, так как они встроили себе NVIDIA cuDSS - библиотеку для нативной работы Direct Sparse рештаеля СЛАУ на GPU. И это уже звучит как заявка, ооочень крутая заявка. Я буду ждать тестов.

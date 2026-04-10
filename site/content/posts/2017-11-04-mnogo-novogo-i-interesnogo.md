@@ -1,9 +1,22 @@
 ---
+author: GlukRazor
+date: 2017-11-04 06:31:21+00:00
 layout: post
-title: "Много нового и интересного!"
-date: 2017-11-04T06:31:21+00:00
-author: "GlukRazor"
+link_previews:
+- description: Главная
+  image: http://ansysconference.ru/static/templates/cascon2019/dist/images/OG-image.png
+  title: Главная — Конференция CADFEM\ANSYS
+  url: https://www.ansysconference.ru/
+- description: Page not found
+  image: ''
+  title: IFTTT / 404 Error
+  url: https://ifttt.com/404
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3615
 source: vk
+title: Много нового и интересного!
 ---
 
 !!

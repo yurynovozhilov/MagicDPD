@@ -1,11 +1,18 @@
 ---
+author: MagicDPD
+date: 2021-12-06 13:20:36+00:00
 layout: post
-title: "Лекция по IGA для Университета Пердью"
-date: 2021-12-06T13:20:36+00:00
-author: "MagicDPD"
+link_previews:
+- description: 2019 Purdue Engineering Distinguished Lecture Series presenter Thomas
+    J.R. Hughes, the Peter O'Donnell Jr. Chair in Computational and Applied Mathematics
+    and...
+  image: https://i.ytimg.com/vi/HwDh-M-6kfQ/maxresdefault.jpg
+  title: 'Thomas Hughes: “Isogeometric Analysis”'
+  url: https://www.youtube.com/watch?v=HwDh-M-6kfQ
 source: vk
 tags:
-  - iga
+- iga
+title: Лекция по IGA для Университета Пердью
 ---
 
 https://youtu.be/HwDh-M-6kfQ

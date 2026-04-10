@@ -1,12 +1,26 @@
 ---
+author: GlukRazor
+date: 2017-12-13 18:12:42+00:00
 layout: post
-title: "#EDEM совместно с Дальневосточным университетом путей сообщения показал, что при помощи #DEM можно считать не только сыпучие среды."
-date: 2017-12-13T18:12:42+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3849
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23EDEM
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23DEM
 source: vk
 tags:
-  - DEM
-  - EDEM
+- DEM
+- EDEM
+title: '#EDEM совместно с Дальневосточным университетом путей сообщения показал, что
+  при помощи #DEM можно считать не только сыпучие среды.'
 ---
 
 На видео приведены примеры расчетов полиуретановых геосеток.

@@ -1,11 +1,16 @@
 ---
-layout: post
-title: "An album of computational fluid motion"
-date: 2024-03-26T15:30:27+00:00
-author: "Yury Novozhilov"
-source: vk
+author: Yury Novozhilov
+date: 2024-03-26 15:30:27+00:00
 images:
-  - url: "/assets/images/2676.jpg"
+- url: /assets/images/2676.jpg
+layout: post
+link_previews:
+- description: ''
+  image: ''
+  title: An album of computational fluid motion
+  url: https://album-of-cfm.com/
+source: vk
+title: An album of computational fluid motion
 ---
 
 В 1982 году  профессор Милтон ван Дейк выпустил книгу "Альбом движения жидкости", ставшую классикой. Оригинальная книга состояла из 278 фотографий экспериментов с течением жидкости, которые профессор ван Дейк собрал у своих коллег по всему миру.

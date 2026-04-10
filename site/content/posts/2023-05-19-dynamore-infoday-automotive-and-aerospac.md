@@ -1,9 +1,16 @@
 ---
+author: Yury Novozhilov
+date: 2023-05-19 15:00:06+00:00
 layout: post
-title: "DYNAmore Infoday Automotive and Aerospace Applications"
-date: 2023-05-19T15:00:06+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: The Infoday Automotive and Aerospace Applications took place on December
+    1st, 2022 in Berlin and was streamed on our YouTube-Channel. You will find the
+    prese...
+  image: https://i.ytimg.com/vi/Nt3Q7Ct1ZBU/maxresdefault.jpg
+  title: 'Infoday: Automotive and Aerospace Applications'
+  url: https://www.youtube.com/watch?v=Nt3Q7Ct1ZBU
 source: vk
+title: DYNAmore Infoday Automotive and Aerospace Applications
 ---
 
 Теперь вам придется найти в своем плотном графике три с половиной часа для того, что бы приобщиться к материалам данного мероприятия, которое состоялось 1 декабря 2022 года в Берлине и сейчас его запись стала доступна. Ссылку на PDF версии презентаций я уже выкладывал, но теперь мы имеем дело с записью всего семинара!

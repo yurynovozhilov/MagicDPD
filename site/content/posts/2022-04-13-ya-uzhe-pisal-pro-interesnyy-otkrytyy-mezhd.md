@@ -1,17 +1,25 @@
 ---
+author: MagicDPD
+date: 2022-04-13 17:00:14+00:00
+images:
+- url: /assets/images/2216.jpg
 layout: post
-title: "Я уже писал про интересный открытый междисциплинарный решатель \"Лось\" (#MOOSE или Multiphysics Object-Oriented Simulation Environment)."
-date: 2022-04-13T17:00:14+00:00
-author: "MagicDPD"
+link_previews:
+- description: 'In this webinar, Coreform will introduce two MOOSE-related projects
+    they have been working on for the past few years: adding isogeometric analysis
+    (IGA) to M...'
+  image: https://i.ytimg.com/vi/UmS-pAuBnEU/maxresdefault.jpg
+  title: Improving MOOSE workflows through Coreform Cubit
+  url: https://www.youtube.com/watch?v=UmS-pAuBnEU
 source: vk
 tags:
-  - IGA
-  - MOOSE
-  - Coreform
-  - Cubit
-  - opensource
-images:
-  - url: "/assets/images/2216.jpg"
+- IGA
+- MOOSE
+- Coreform
+- Cubit
+- opensource
+title: Я уже писал про интересный открытый междисциплинарный решатель "Лось" (#MOOSE
+  или Multiphysics Object-Oriented Simulation Environment).
 ---
 
 Так вот, в нем теперь есть поддержка #IGA, и это все стало возможным благодаря совместному проекту с командой  #Coreform #Cubit.

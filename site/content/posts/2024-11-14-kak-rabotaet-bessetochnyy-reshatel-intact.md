@@ -1,9 +1,30 @@
 ---
+author: Yury Novozhilov
+date: 2024-11-14 13:01:53+00:00
 layout: post
-title: "Как работает бессеточный решатель Intact Solutions, Inc."
-date: 2024-11-14T13:01:53+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: "⚡ Scan&Solve™ : Meshless FEA - White Paper by Intact Solutions, Inc.
+    ⚡\n\nScan&Solve™ software for engineering analysis from Intact Solutions is based
+    on a patented meshfree technology that liberates Finite Element Analysis (FEA)
+    from the dependence on and limitations of meshing. \n\nThe advantages of this
+    approach include unprecedented flexibility in handling geometric errors, small
+    features, complex boundary conditions, and interfaces while maintaining most of
+    the benefits of classical fin"
+  image: https://static.licdn.com/aero-v1/sc/h/c45fy346jw096z9pbphyyhdz7
+  title: Meshless FEA Intact | Jousef Murad | 10 comments
+  url: https://www.linkedin.com/posts/jousefmurad_meshless-fea-intact-ugcPost-7254129225975087106-8A5B
+- description: "⚡ Scan&Solve™ : Meshless FEA - White Paper by Intact Solutions, Inc.
+    ⚡\n\nScan&Solve™ software for engineering analysis from Intact Solutions is based
+    on a patented meshfree technology that liberates Finite Element Analysis (FEA)
+    from the dependence on and limitations of meshing. \n\nThe advantages of this
+    approach include unprecedented flexibility in handling geometric errors, small
+    features, complex boundary conditions, and interfaces while maintaining most of
+    the benefits of classical fin"
+  image: https://static.licdn.com/aero-v1/sc/h/c45fy346jw096z9pbphyyhdz7
+  title: Meshless FEA Intact | Jousef Murad | 10 comments
+  url: https://www.linkedin.com/posts/jousefmurad_meshless-fea-intact-ugcPost-7254129225975087106-8A5B?utm_source=share&utm_medium=member_desktop
 source: vk
+title: Как работает бессеточный решатель Intact Solutions, Inc.
 ---
 
 Читатели моего канала уже слышали про новый "бессетоный" стартап Intact Solutions, Inc. который очень агрессивно продвигает себя на рынке, дружит с nTopo и пытается унижать FEM решатели. Сегодня я наткнулся на их брошюру с полным описанием теории работы их метода с примерами, формулами, картинками и даже ссылками на научные стати.

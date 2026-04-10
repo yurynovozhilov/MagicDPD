@@ -8,11 +8,6 @@ link_previews:
   image: https://speednik.imgix.net/2016/07/2016-07-26_04-23-14.jpg?auto=compress,format
   title: Cummins Models Turbine Wheel Explosions
   url: http://www.enginelabs.com/news/cummins-models-turbine-wheel-explosions-to-test-housing-containment/
-- description: Enjoy the videos and music you love, upload original content, and share
-    it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
-  url: https://youtu.be/7Y01Ed4Sg3U
 source: vk
 tags:
 - ANSYS

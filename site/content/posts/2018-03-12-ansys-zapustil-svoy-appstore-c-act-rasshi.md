@@ -1,14 +1,25 @@
 ---
+author: GlukRazor
+date: 2018-03-12 18:01:03+00:00
+images:
+- url: /assets/images/846.jpg
 layout: post
-title: "ANSYS запустил свой AppStore c ACT расширениями для версии 19"
-date: 2018-03-12T18:01:03+00:00
-author: "GlukRazor"
+link_previews:
+- description: Discover ready-to-use Ansys and third-party apps to streamline simulation
+    workflows in the Ansys App Catalog. Boost productivity and innovation.
+  image: ''
+  title: Ansys App Catalog | Ansys Developer Portal
+  url: https://appstore.ansys.com
+- description: Discover ready-to-use Ansys and third-party apps to streamline simulation
+    workflows in the Ansys App Catalog. Boost productivity and innovation.
+  image: ''
+  title: Ansys App Catalog | Ansys Developer Portal
+  url: https://appstore.ansys.com/
 source: vk
 tags:
-  - ACT
-  - ANSYS
-images:
-  - url: "/assets/images/846.jpg"
+- ACT
+- ANSYS
+title: ANSYS запустил свой AppStore c ACT расширениями для версии 19
 ---
 
 ACT — Application Customisation Toolkit — всевозможные расширения, расширяющие возможности среды ANSYS. Они могут быть просто кнопкой с новым граничным условием, полноценным GUI для стороннего решателя (как сделано для LS-DYNA) или целой связкой нескольких расчетных систем для моделирования сложного физического процесса (например, система Additive Manufacturing).

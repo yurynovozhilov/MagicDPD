@@ -1,23 +1,31 @@
 ---
+author: GlukRazor
+date: 2018-02-07 18:00:53+00:00
+images:
+- url: /assets/images/775.jpg
 layout: post
-title: "Расчет подрыва ЖБ плиты с учетом фрагментации"
-date: 2018-02-07T18:00:53+00:00
-author: "GlukRazor"
+link_previews:
+- description: PBM simulation of the combined effect of blast and fragmentation loading
+    of concrete wallThe structure response of a concrete wall subject to the combined
+    bl...
+  image: https://i.ytimg.com/vi/QHbO6tRPI3c/maxresdefault.jpg
+  title: 'LS-DYNA PBM: Combined effect of blast and fragmentation loading of concrete
+    wall'
+  url: https://www.youtube.com/watch?v=QHbO6tRPI3c
 source: vk
 tags:
-  - ParticleBlast
-  - DEFINE_ADAPTIVE_SOLID_TO_SPH
-  - LSTC
-  - LS
-  - SPH
-  - fragmentation
-  - CONSTRAINED_BEAM_IN_SOLID
-  - fracture
-  - blast
-  - concrete
-  - reinforcement
-images:
-  - url: "/assets/images/775.jpg"
+- ParticleBlast
+- DEFINE_ADAPTIVE_SOLID_TO_SPH
+- LSTC
+- LS
+- SPH
+- fragmentation
+- CONSTRAINED_BEAM_IN_SOLID
+- fracture
+- blast
+- concrete
+- reinforcement
+title: Расчет подрыва ЖБ плиты с учетом фрагментации
 ---
 
 Очень красивый пример от LSTC, демонстрирующий работу LS-DYNA в области расчета взрывов и переноса нагрузок от них на конструкции. Разберем три составляющих успеха данного расчета.

@@ -1,14 +1,24 @@
 ---
+author: GlukRazor
+date: 2018-02-09 18:01:28+00:00
 layout: post
-title: "Электромагнитный решатель LS-DYNA: добавим больше физики"
-date: 2018-02-09T18:01:28+00:00
-author: "GlukRazor"
+link_previews:
+- description: This is the second part of a series of videos regarding the EM solver
+    which explains the physics, keywords and main concepts for Electromagnetic forming/weld...
+  image: https://i.ytimg.com/vi/LYhXfSLwz0c/maxresdefault.jpg
+  title: 'LS-DYNA EM: Tutorial for Metal forming application (Part II)'
+  url: https://www.youtube.com/watch?v=LYhXfSLwz0c
+- description: ''
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Skin_depth.svg/1280px-Skin_depth.svg.png
+  title: Скин-эффект — Википедия
+  url: https://ru.wikipedia.org/wiki/Скин-эффект
 source: vk
 tags:
-  - LSTC
-  - EM
-  - LS
-  - FEMSTER
+- LSTC
+- EM
+- LS
+- FEMSTER
+title: 'Электромагнитный решатель LS-DYNA: добавим больше физики'
 ---
 
 Продолжаем знакомиться с  возможностями решателя от LSTC в области электромагнитных расчетов. Второй видеоурок посвящен особенностям выбора шага по времени и настройке сетки модели.

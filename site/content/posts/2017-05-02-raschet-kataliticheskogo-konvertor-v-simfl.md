@@ -5,8 +5,8 @@ layout: post
 link_previews:
 - description: Enjoy the videos and music you love, upload original content, and share
     it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
+  image: https://i.ytimg.com/vi/LYyJUYqfe5Y/hqdefault.jpg
+  title: Catalytic Converter | CFD Simulation Tutorial | SimFlow CFD Software
   url: https://www.youtube.com/watch?v=LYyJUYqfe5Y
 source: vk
 tags:

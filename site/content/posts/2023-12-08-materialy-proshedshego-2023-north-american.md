@@ -1,11 +1,17 @@
 ---
-layout: post
-title: "Mатериалы прошедшего 2023 North American LS-DYNA User Forum"
-date: 2023-12-08T15:02:22+00:00
-author: "Yury Novozhilov"
-source: vk
+author: Yury Novozhilov
+date: 2023-12-08 15:02:22+00:00
 images:
-  - url: "/assets/images/2596.jpg"
+- url: /assets/images/2596.jpg
+layout: post
+link_previews:
+- description: Approved presentations to be made public from the 2023 North American
+    LS-DYNA User Forum.   2023 LS-DYNA Development Updates for...
+  image: ''
+  title: 2023 North American LS-DYNA User Forum
+  url: https://lsdyna.ansys.com/2023-north-american-ls-dyna-user-forum/
+source: vk
+title: Mатериалы прошедшего 2023 North American LS-DYNA User Forum
 ---
 
 На новом сайте Ansys LST опубликовали материалы прошедшего недавно 2023 North American LS-DYNA User Forum.

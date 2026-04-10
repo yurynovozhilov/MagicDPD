@@ -1,15 +1,21 @@
 ---
+author: GlukRazor
+date: 2018-03-19 18:01:12+00:00
+images:
+- url: /assets/images/860.jpg
 layout: post
-title: "Основы SPH"
-date: 2018-03-19T18:01:12+00:00
-author: "GlukRazor"
+link_previews:
+- description: The Altair Blog is the best way to stay up to date on Altair’s most
+    noteworthy articles, including those from Altair executives and partner organizations.
+  image: https://altair.com/images/default-source/content-images/altair_blog_social.jpg?sfvrsn=a66ac2fa_1
+  title: Altair Blog
+  url: https://innovationintelligence.com/basics-of-the-smoothed-particle-hydrodynamics-method/
 source: vk
 tags:
-  - CFD
-  - Altair
-  - SPH
-images:
-  - url: "/assets/images/860.jpg"
+- CFD
+- Altair
+- SPH
+title: Основы SPH
 ---
 
 Altair в своем блоге подготовил первую часть рассказа про метод гидродинамики сглаженных частиц или SPH (Smoothed Particle Hydrodynamics).

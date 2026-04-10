@@ -1,21 +1,28 @@
 ---
+author: GlukRazor
+date: 2018-06-24 18:01:33+00:00
+images:
+- url: /assets/images/970.jpg
 layout: post
-title: "Гибрид ужа и ежа: PTC встраивает технологии Discovery Live в Creo"
-date: 2018-06-24T18:01:33+00:00
-author: "GlukRazor"
+link_previews:
+- description: From additive manufacturing and connected devices to digital twin and
+    Industry 4.0, the PTC blog covers topics embracing digital transformation. Read
+    our blog today.
+  image: ''
+  title: 'PTC Blog: Embrace Industrial Digital Transformation | PTC..'
+  url: https://www.ptc.com/en/cad-software-blog/ceo-speak-real-time-simulation
 source: vk
 tags:
-  - TwinBuilder
-  - Simplorer
-  - ThingWorx
-  - Live
-  - Creo
-  - Discovery
-  - NVIDIA
-  - CAD
-  - PTC
-images:
-  - url: "/assets/images/970.jpg"
+- TwinBuilder
+- Simplorer
+- ThingWorx
+- Live
+- Creo
+- Discovery
+- NVIDIA
+- CAD
+- PTC
+title: 'Гибрид ужа и ежа: PTC встраивает технологии Discovery Live в Creo'
 ---
 
 Есть у ANSYS среди прочих очень интересный и действительно уникальный продукт: ANSYS Discovery Live. Он позволяет решать задачи механики, гидродинамики, теплопроводности и сопряженного теплообмена с некоторыми допущениями в реальном времени на неподготовленной геометрии.

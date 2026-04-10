@@ -1,15 +1,21 @@
 ---
+author: GlukRazor
+date: 2017-11-10 17:09:20+00:00
 layout: post
-title: "К прошедшей в Питере конференции #ACUM было приурочено еще одно важное событие: вышел новый номер журнала #CADFEM Review."
-date: 2017-11-10T17:09:20+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23ACUM
 source: vk
 tags:
-  - ANSYSMediaMedia
-  - CADFEM
-  - LSDYNA
-  - ACUM
-  - concrete
+- ANSYSMediaMedia
+- CADFEM
+- LSDYNA
+- ACUM
+- concrete
+title: 'К прошедшей в Питере конференции #ACUM было приурочено еще одно важное событие:
+  вышел новый номер журнала #CADFEM Review.'
 ---
 
 Физические копии журнала расхватали еще на конференции, но остались электронные - на сайте.

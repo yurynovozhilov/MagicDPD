@@ -1,14 +1,44 @@
 ---
+author: GlukRazor
+date: 2017-10-10 17:03:23+00:00
 layout: post
-title: "Комппания Zephy-Science является разработчиком #ZephyTOOLS, а это очень любопытный набор инструментов. Не каждый день встретишь узкоспециализированный бесплатный #CFD код с открытым исходным текстом созданный для проектирования ветреных электростанций (!"
-date: 2017-10-10T17:03:23+00:00
-author: "GlukRazor"
+link_previews:
+- description: Register Now in less than 1 min & Run your Free Trial!www.zephycloud.com☁
+    ZephyCloud® platform lets global wind power industry stakeholders run wind flow
+    sim...
+  image: https://i.ytimg.com/vi/iv8ZgbLEPKQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBogWih_MA8=&rs=AOn4CLANXiJcdrzw380A7YfXio1PFYV3HA
+  title: '☁ ZephyCloud: 234 millions cells calculated with ZephyCFD... in 1 hour!'
+  url: https://www.youtube.com/watch?v=iv8ZgbLEPKQ
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3487
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23ZephyTOOLS
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23CFD
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23ZephyCFD
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23opensource
 source: vk
 tags:
-  - ZephyCFD
-  - CFD
-  - opensource
-  - ZephyTOOLS
+- ZephyCFD
+- CFD
+- opensource
+- ZephyTOOLS
+title: 'Комппания Zephy-Science является разработчиком #ZephyTOOLS, а это очень любопытный
+  набор инструментов. Не каждый день встретишь узкоспециализированный бесплатный #CFD
+  код с открытым исходным текстом созданный для проектирования ветреных электростанций
+  (!'
 ---
 
 !!). Причем код сделан с упором на удобство и продуктивность работы. А еще он может переваривать тяжелые модели (в видео примере 234 миллиона ячеек).

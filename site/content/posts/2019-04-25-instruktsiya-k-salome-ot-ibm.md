@@ -1,15 +1,20 @@
 ---
+author: GlukRazor
+date: 2019-04-25 17:00:27+00:00
+images:
+- url: /assets/images/1457.jpg
 layout: post
-title: "Инструкция к Salome от IBM"
-date: 2019-04-25T17:00:27+00:00
-author: "GlukRazor"
+link_previews:
+- description: The open source operating system that runs the world.
+  image: https://s3.us.cloud-object-storage.appdomain.cloud/ibmdevwp/icons/social/social.jpg
+  title: Linux Development - IBM Developer
+  url: https://www.ibm.com/developerworks/ru/library/l-salome_01/index.html
 source: vk
 tags:
-  - Open_Source
-  - IBM
-  - Salome
-images:
-  - url: "/assets/images/1457.jpg"
+- Open_Source
+- IBM
+- Salome
+title: Инструкция к Salome от IBM
 ---
 
 Старая русскоязычная документация к открытому препосту Salome Meca лежит в библиотеке IBM. Хозяину на заметку https://www.ibm.com/developerworks/ru/library/l-salome_01/index.html

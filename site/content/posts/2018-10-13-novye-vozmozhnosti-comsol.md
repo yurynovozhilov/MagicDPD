@@ -1,14 +1,24 @@
 ---
+author: GlukRazor
+date: 2018-10-13 17:00:21+00:00
+images:
+- url: /assets/images/1146.jpg
 layout: post
-title: "Новые возможности COMSOL"
-date: 2018-10-13T17:00:21+00:00
-author: "GlukRazor"
+link_previews:
+- description: Multiphysics simulation is better, faster, and more accessible with
+    COMSOL Multiphysics® version 5.4. Now available.
+  image: https://cdn.comsol.com/release/54/home/release-highlights-v54-ogimage.jpg
+  title: COMSOL® Software Version 5.4 Release Highlights
+  url: https://www.comsol.com/release/5.4
+- description: ''
+  image: ''
+  title: 'isicad: COMSOL выпускает версию 5.4 с двумя новыми продуктами'
+  url: http://isicad.ru/ru/news.php?news=20122
 source: vk
 tags:
-  - Comsol
-  - COMSOLCompiler
-images:
-  - url: "/assets/images/1146.jpg"
+- Comsol
+- COMSOLCompiler
+title: Новые возможности COMSOL
 ---
 
 Давно я не писал про COMSOL, а между тем он не останавливается в развитии.

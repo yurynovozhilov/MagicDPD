@@ -1,23 +1,33 @@
 ---
+author: GlukRazor
+date: 2018-03-13 18:01:20+00:00
+images:
+- url: /assets/images/848.jpg
 layout: post
-title: "Большой вебинар по LimitState:FORM"
-date: 2018-03-13T18:01:20+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: https://upload.wikimedia.org/wikipedia/commons/3/3d/Dlo.png
+  title: Discontinuity layout optimization - Wikipedia
+  url: https://en.wikipedia.org/wiki/Discontinuity_layout_optimization
+- description: Discover ready-to-use Ansys and third-party apps to streamline simulation
+    workflows in the Ansys App Catalog. Boost productivity and innovation.
+  image: ''
+  title: Ansys App Catalog | Ansys Developer Portal
+  url: https://appstore.ansys.com/download?prodid=APC-ACTAPP-285
 source: vk
 tags:
-  - TrussBased
-  - LimitState
-  - ANSYS
-  - Optimization
-  - Topology
-  - Lattice
-  - Mechanical
-  - Additive_Manufacturing
-  - Discontinuity_Layout_Optimization
-  - DLO
-  - LimitStateFORM
-images:
-  - url: "/assets/images/848.jpg"
+- TrussBased
+- LimitState
+- ANSYS
+- Optimization
+- Topology
+- Lattice
+- Mechanical
+- Additive_Manufacturing
+- Discontinuity_Layout_Optimization
+- DLO
+- LimitStateFORM
+title: Большой вебинар по LimitState:FORM
 ---
 
 LimitState:FORM особое ПО, предназначенное для генерации конструкций оптимальной топологии (http://limitstate3d.com/). Только конструкции оно генерирует сразу в виде балочной структуры, за счет чего результаты получаются очень быстро.

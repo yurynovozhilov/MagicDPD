@@ -1,15 +1,22 @@
 ---
+author: GlukRazor
+date: 2019-01-27 19:20:28+00:00
+images:
+- url: /assets/images/1324.jpg
 layout: post
-title: "Расчет ветровой нагрузки на Burj Khalifa"
-date: 2019-01-27T19:20:28+00:00
-author: "GlukRazor"
+link_previews:
+- description: 'In this simulation, wind loads are tested on the Burj Khalifa using
+    the SimScale Platform.More about SimScale: https://hubs.la/Q01lJ_Np0==========Follow
+    us o...'
+  image: https://i.ytimg.com/vi/6BTmFMNrHhM/hqdefault.jpg
+  title: Burj Khalifa Wind Speed Contours (Slice Sections)
+  url: https://www.youtube.com/watch?v=6BTmFMNrHhM
 source: vk
 tags:
-  - CFD
-  - Simscale
-  - LBM
-images:
-  - url: "/assets/images/1324.jpg"
+- CFD
+- Simscale
+- LBM
+title: Расчет ветровой нагрузки на Burj Khalifa
 ---
 
 https://youtu.be/6BTmFMNrHhM

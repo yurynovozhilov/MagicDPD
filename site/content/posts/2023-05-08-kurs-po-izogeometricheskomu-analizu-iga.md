@@ -1,9 +1,17 @@
 ---
+author: Yury Novozhilov
+date: 2023-05-08 08:53:06+00:00
 layout: post
-title: "Курс по изогеометрическому анализу (IGA) - пр."
-date: 2023-05-08T08:53:06+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: The DRIVEN Team is pleased to invite you to the DRIVEN Online Course
+    on Iso-Geometric Analysis (IGA), held on June 7th – 9th 9:00AM – 13:00PM via Webex.This
+    ...
+  image: https://i.ytimg.com/vi/FXz95yofxGM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgQSguMA8=&rs=AOn4CLDcTS8wXxtDpKwt4SFNtMxusA03oQ
+  title: DRIVEN Course on Iso-Geometric Analysis (IGA) - Pr. Stéphane Bordas, University
+    of Luxembourg (1/3)
+  url: https://www.youtube.com/watch?v=FXz95yofxGM
 source: vk
+title: Курс по изогеометрическому анализу (IGA) - пр.
 ---
 
 Стефан Бордас (Pr. Stéphane Bordas), Люксембургский университет

@@ -1,14 +1,19 @@
 ---
+author: GlukRazor
+date: 2018-01-27 17:00:17+00:00
+images:
+- url: /assets/images/751.jpg
 layout: post
-title: "Элитные партнеры ANSYS"
-date: 2018-01-27T17:00:17+00:00
-author: "GlukRazor"
+link_previews:
+- description: no description
+  image: https://www.cadfem-cis.ru/static/templates/cadfem/dist/images/OG-image.png
+  title: Статус Элитного партнера компании ANSYS, Inc.
+  url: https://www.cadfem-cis.ru/list/article/cadfemcis-elite2018/
 source: vk
 tags:
-  - CADFEM
-  - ANSYS
-images:
-  - url: "/assets/images/751.jpg"
+- CADFEM
+- ANSYS
+title: Элитные партнеры ANSYS
 ---
 
 Очень приятная новость: компания CADFEM CIS получила статус Elite Channel Partner от ANSYS. Таких компаний среди партнеров ANSYS по всему миру менее 1% (19 из более чем 2000)!!!

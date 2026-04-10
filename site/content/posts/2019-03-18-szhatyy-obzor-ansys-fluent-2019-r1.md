@@ -1,14 +1,14 @@
 ---
+author: GlukRazor
+date: 2019-03-18 12:00:20+00:00
+images:
+- url: /assets/images/1402.jpg
 layout: post
-title: "Сжатый обзор ANSYS Fluent 2019 R1"
-date: 2019-03-18T12:00:20+00:00
-author: "GlukRazor"
 source: vk
 tags:
-  - CFD
-  - Fluent
-images:
-  - url: "/assets/images/1402.jpg"
+- CFD
+- Fluent
+title: Сжатый обзор ANSYS Fluent 2019 R1
 ---
 
 https://www.youtube.com/watch?v=fcb5WHpHDIE

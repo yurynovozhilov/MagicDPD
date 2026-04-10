@@ -1,17 +1,24 @@
 ---
+author: GlukRazor
+date: 2018-11-12 17:00:37+00:00
+images:
+- url: /assets/images/1208.jpg
 layout: post
-title: "Extreme Loading for Structures Software или просто ELS"
-date: 2018-11-12T17:00:37+00:00
-author: "GlukRazor"
+link_previews:
+- description: Get the latest non-linear structural analysis & structural engineering
+    software. Extreme Loading for Structures (ELS) is an advanced non-linear dynamic
+    structural analysis software designed for structural engineers.
+  image: ''
+  title: Structural Engineering Software Program & Nonlinear Structural Analysis
+  url: https://www.extremeloading.com/
 source: vk
 tags:
-  - ELS
-  - Concrete
-  - AppliedScienceInternational
-  - ExtremeLoadingForStructures
-  - AEM
-images:
-  - url: "/assets/images/1208.jpg"
+- ELS
+- Concrete
+- AppliedScienceInternational
+- ExtremeLoadingForStructures
+- AEM
+title: Extreme Loading for Structures Software или просто ELS
 ---
 
 Недавно я искал что-нибудь "интересное" в области расчетов бетона под действием экстремальных нагрузок. И мой любимый поисковик вывел меня на компанию Applied Science International, LLC и их код "Extreme Loading for Structures Software", который для краткости они называют ELS.

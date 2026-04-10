@@ -1,13 +1,24 @@
 ---
+author: MagicDPD
+date: 2021-03-05 13:01:57+00:00
 layout: post
-title: "SPH моделирование спинномозговой жидкости в LS-DYNA"
-date: 2021-03-05T13:01:57+00:00
-author: "MagicDPD"
+link_previews:
+- description: "A few weeks ago we published our paper on the use of Smoothed Particle
+    Hydrodynamics in Finite Element models. Check it out here:\n\nhttps://lnkd.in/ewtQNJ3\n\nHere
+    is a little video explaining more about it and why work in this area is important.
+    \n\nLots of thanks Mazdak Ghajari and David Sharp for your guidance! \n\n#innovation
+    #video #research #braininjury #fe #finiteelement #finiteelementanalysis #smoothedparticlehydrodynamics
+    #sph  | 13 comments on LinkedIn"
+  image: https://static.licdn.com/aero-v1/sc/h/c45fy346jw096z9pbphyyhdz7
+  title: '#innovation #video #research #braininjury #fe #finiteelement #finiteelementanalysis
+    #smoothedparticlehydrodynamics #sph | Harry Duckworth | 13 comments'
+  url: https://www.linkedin.com/posts/activity-6772564841979797504-jHS_/
 source: vk
 tags:
-  - sph
-  - biomed
-  - ls
+- sph
+- biomed
+- ls
+title: SPH моделирование спинномозговой жидкости в LS-DYNA
 ---
 
 Спинномозговая жидкость (Cerebrospinal Fluid, CSF) может претерпевать сдвиговые деформации при движении головы. Модели конечных элементов (FE), которые обычно используются для моделирования биомеханики мозга, в том числе травматических травм головного мозга, используют твердые элементы для представления CSF.

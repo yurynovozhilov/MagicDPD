@@ -1,17 +1,22 @@
 ---
+author: GlukRazor
+date: 2018-01-17 17:01:30+00:00
+images:
+- url: /assets/images/733.jpg
 layout: post
-title: "NASA считает аэродинамику квадрокоптеров"
-date: 2018-01-17T17:01:30+00:00
-author: "GlukRazor"
+link_previews:
+- description: NASA OVERFLOW Overset Grid CFD Flow Solver
+  image: https://www.nasa.gov/wp-content/uploads/2025/09/meeroff-2019-artemis-large-e1757091909270.jpg
+  title: OVERFLOW CFD - NASA
+  url: https://overflow.larc.nasa.gov
 source: vk
 tags:
-  - CFD
-  - OversetMesh
-  - Chimera
-  - NASA
-  - OVERFLOW
-images:
-  - url: "/assets/images/733.jpg"
+- CFD
+- OversetMesh
+- Chimera
+- NASA
+- OVERFLOW
+title: NASA считает аэродинамику квадрокоптеров
 ---
 
 Специалисты NASA рассказали о своем проекте по расчету дронов в собственном CFD коде OVERFLOW.

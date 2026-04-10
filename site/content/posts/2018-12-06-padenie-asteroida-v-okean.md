@@ -1,18 +1,28 @@
 ---
+author: GlukRazor
+date: 2018-12-06 17:01:39+00:00
+images:
+- url: /assets/images/1249.jpg
 layout: post
-title: "Падение астероида в океан"
-date: 2018-12-06T17:01:39+00:00
-author: "GlukRazor"
+link_previews:
+- description: We describe RAGE, the ``Radiation Adaptive Grid Eulerian'' radiation-hydrodynamics
+    code, including its data structures, its parallelization strategy and performance,
+    its hydrodynamic algorithm(s), its (gray) radiation diffusion algorithm, and some
+    of the considerable amount of verification and validation efforts. The hydrodynamics
+    is a basic Godunov solver, to which we have made significant improvements to increase
+    the advection algorithm's robustness and to converge stiffnesses in t
+  image: /static/browse/0.3.4/images/arxiv-logo-fb.png
+  title: The RAGE radiation-hydrodynamic code
+  url: https://arxiv.org/abs/0804.1394
 source: vk
 tags:
-  - HPC
-  - Blender
-  - RAGE
-  - Paraview
-  - XRage
-  - САВ
-images:
-  - url: "/assets/images/1249.jpg"
+- HPC
+- Blender
+- RAGE
+- Paraview
+- XRage
+- САВ
+title: Падение астероида в океан
 ---
 
 Спецы из  Los Alamos при помощи вычислительного кода RAGE провели очень любопытный математический эксперимент. Они выполнили сравнительный анализ падения целого или фрагметированного в атмосфере астероида в океан.

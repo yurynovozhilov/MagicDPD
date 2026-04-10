@@ -1,9 +1,14 @@
 ---
+author: Yury Novozhilov
+date: 2025-07-11 10:41:16+00:00
 layout: post
-title: "Autodesk продается?"
-date: 2025-07-11T10:41:16+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: ''
+  image: ''
+  title: PTC stock soars as Autodesk weighs takeover bid By Investing.com
+  url: https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/stock-market-news/ptc-stock-soars-as-autodesk-weighs-takeover-bid-4128831?ampMode=1
 source: vk
+title: Autodesk продается?
 ---
 
 !

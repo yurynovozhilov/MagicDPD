@@ -1,11 +1,16 @@
 ---
+author: MagicDPD
+date: 2021-10-29 13:01:27+00:00
 layout: post
-title: "Матфизика от Карла Бендер"
-date: 2021-10-29T13:01:27+00:00
-author: "MagicDPD"
+link_previews:
+- description: ''
+  image: ''
+  title: Before you continue to YouTube
+  url: https://www.youtube.com/playlist?list=PLOFVFbzrQ49TNlDOxxCAjC7kbnorAR1MU
 source: vk
 tags:
-  - theory
+- theory
+title: Матфизика от Карла Бендер
 ---
 
 https://www.youtube.com/playlist?list=PLOFVFbzrQ49TNlDOxxCAjC7kbnorAR1MU

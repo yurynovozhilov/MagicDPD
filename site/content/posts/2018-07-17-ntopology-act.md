@@ -1,19 +1,25 @@
 ---
+author: GlukRazor
+date: 2018-07-17 18:01:36+00:00
+images:
+- url: /assets/images/1019.jpg
 layout: post
-title: "nTopology ACT"
-date: 2018-07-17T18:01:36+00:00
-author: "GlukRazor"
+link_previews:
+- description: Discover ready-to-use Ansys and third-party apps to streamline simulation
+    workflows in the Ansys App Catalog. Boost productivity and innovation.
+  image: ''
+  title: Ansys App Catalog | Ansys Developer Portal
+  url: https://appstore.ansys.com/shop/ACTApps_act%20apps/nTopologyLatticeCustomWorkflow_apc-actapp-403
 source: vk
 tags:
-  - ANSYS
-  - Mechanical
-  - Workbench
-  - NTopology
-  - ACT
-  - LatticeStructure
-  - STL
-images:
-  - url: "/assets/images/1019.jpg"
+- ANSYS
+- Mechanical
+- Workbench
+- NTopology
+- ACT
+- LatticeStructure
+- STL
+title: nTopology ACT
 ---
 
 Команда Groupe Réaction Inc и nTopology - системы, позволяющей генерировать и редактировать lattice structure геометрию, запустили в магазин расширений ANSYS свое ACT. За 500 баксов оно позволяет загрузить результаты работы алгоритмов nTopology в виде файлов *.LTCX в структуру Workbench, передать их в виде КЭ сетки балочных или оболочечных элементов (ну наконец-то не надо возиться с восстановлением из STL!) в Mechanical и дальше посчитать все, что вам только в голову придёт. А еще, в качестве beta, там есть возможность задания морфинга lattice structure на уровне сетки.

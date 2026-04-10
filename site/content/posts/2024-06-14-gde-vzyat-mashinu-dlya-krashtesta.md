@@ -1,12 +1,24 @@
 ---
-layout: post
-title: "Где взять машину для краштеста"
-date: 2024-06-14T11:01:22+00:00
-author: "Yury Novozhilov"
-source: vk
+author: Yury Novozhilov
+date: 2024-06-14 11:01:22+00:00
 images:
-  - url: "/assets/images/2723.jpg"
-  - url: "/assets/images/2724.jpg"
+- url: /assets/images/2723.jpg
+- url: /assets/images/2724.jpg
+layout: post
+link_previews:
+- description: Finite element vehicle models, and validation references, developed
+    by the Center for Collision Safety and Analysis (CCSA) for the U.S. Department
+    of Transportation.
+  image: ''
+  title: Center for Collision Safety and Analysis   –  Finite Element Models
+  url: https://www.ccsa.gmu.edu/models/
+- description: Development of FEM crash models for tractor-semitrailers. Models are
+    used for crash simulations of vehicles with roadside safety hardware.
+  image: ''
+  title: Current selection
+  url: https://thyme.ornl.gov/FHWA/TractorTrailer/select/select.cgi
+source: vk
+title: Где взять машину для краштеста
 ---
 
 Coming out: кажется, что я не настоящий специалист по LS-DYNA. Я никогда не считал автомобильных краштестов (только поезда и самолеты) и не умею пользоваться ANSA и HyperMesh (работаю только в экосистеме Ansys). Короче, у меня весьма странное резюме. Но когда очень надо разбить машину о стену для получения красивого маркетингового мультика, у меня есть несколько трюков в запасе. Итак, встречайте, открытые коллекции моделей для краштестов.

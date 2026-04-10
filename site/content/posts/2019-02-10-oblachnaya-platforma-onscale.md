@@ -1,15 +1,15 @@
 ---
+author: GlukRazor
+date: 2019-02-10 17:01:42+00:00
+images:
+- url: /assets/images/1350.jpg
 layout: post
-title: "Облачная платформа OnScale"
-date: 2019-02-10T17:01:42+00:00
-author: "GlukRazor"
 source: vk
 tags:
-  - cloud
-  - HPC
-  - FEM
-images:
-  - url: "/assets/images/1350.jpg"
+- cloud
+- HPC
+- FEM
+title: Облачная платформа OnScale
 ---
 
 OnScale (не путать с OnShape и SimScale) — облачная платформа для FEM расчетов, которой удавалось долгое время уходить от нашего внимания. Интересно, что у компании есть довольно много вебинаров, и их тематика имеет уклон в моделирование электроники, распространения упругих и электромагнитных волн.

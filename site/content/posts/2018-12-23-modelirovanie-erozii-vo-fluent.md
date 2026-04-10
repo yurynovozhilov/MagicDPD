@@ -1,17 +1,17 @@
 ---
+author: GlukRazor
+date: 2018-12-23 17:01:52+00:00
+images:
+- url: /assets/images/1283.jpg
 layout: post
-title: "Моделирование эрозии во Fluent"
-date: 2018-12-23T17:01:52+00:00
-author: "GlukRazor"
 source: vk
 tags:
-  - CFD
-  - ANSYS
-  - CADFEM
-  - SpcaeClaim
-  - Fluent
-images:
-  - url: "/assets/images/1283.jpg"
+- CFD
+- ANSYS
+- CADFEM
+- SpcaeClaim
+- Fluent
+title: Моделирование эрозии во Fluent
 ---
 
 Как по мне, так очень полезный урок по моделированию эрозионного износа всего того, где присходит течение. В уроке показано как Fluent умеет моделировать эрозию, выдавать результаты в виде цветовых полей, учитывать влияние изменения геометрии канала путем морфинга сетки.

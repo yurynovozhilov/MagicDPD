@@ -1,9 +1,20 @@
 ---
+author: Yury Novozhilov
+date: 2026-02-10 14:58:41+00:00
 layout: post
-title: "OpenLUDWIG"
-date: 2026-02-10T14:58:41+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: "OpenLUDWIG now has a cumulant compressible solver, computes nodal
+    loads on a set of given points for multiple STL models, and has a post-processor
+    for surface data, net forces and nodal loads. A validation of the drag coefficient
+    of a cube and a sphere in compressible regime has been added. \n\nThe release
+    of Claude 4.6 last week and the rainy weather in Madrid enticed me to nudge the
+    maturity of OpenLUDWIG up a notch last weekend. The new cumulant collision operator
+    makes the solver stable at ext"
+  image: https://media.licdn.com/dms/image/v2/D4E22AQEyGFGhGBufOA/feedshare-shrink_800/B4EZxET1xvH8Ag-/0/1770672577998?e=2147483647&v=beta&t=W198Yin-ct3DzEcUVO6wBDIa8MEfD_ddO2GMudOnuvY
+  title: '#julialang #lbm #cfd | Raul Llamas'
+  url: https://www.linkedin.com/posts/raul-llamas-405a5014a_julialang-lbm-cfd-ugcPost-7426739092937154561-Hkp6
 source: vk
+title: OpenLUDWIG
 ---
 
 В свое посте про открытый решатель OpenLUDWIG не стесняеется гворить, что писал последнюю версию с Claude 4.6. Так почему я должен стесняться писать пост об этом солвере с Клодом!? Хотя бы дурацких опечаток не будет. Итак, вот что мы имеем.

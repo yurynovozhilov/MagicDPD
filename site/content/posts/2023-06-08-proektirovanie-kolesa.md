@@ -1,9 +1,15 @@
 ---
+author: Yury Novozhilov
+date: 2023-06-08 15:02:13+00:00
 layout: post
-title: "Проектирование колеса"
-date: 2023-06-08T15:02:13+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: A wheel is constructed in professional CAD software (Rhino) and directly
+    analysed by our isogeometric boundary element method (IGABEM) solver without cumbers...
+  image: https://i.ytimg.com/vi/2iYOamWPAYU/maxresdefault.jpg
+  title: Fast Reanalysis with IGABEM
+  url: https://www.youtube.com/watch?v=2iYOamWPAYU
 source: vk
+title: Проектирование колеса
 ---
 
 Забавный расчет в самописном коде выполняющем прочностные расчеты методом граничных изогеометрических элементов (что это вообще такое?). В качестве расчетной сетки напрямую используются NURBS поверхности, составляющие геометрическую модель

@@ -1,9 +1,17 @@
 ---
+author: Yury Novozhilov
+date: 2024-01-09 16:02:16+00:00
 layout: post
-title: "Ansys SimAI"
-date: 2024-01-09T16:02:16+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: "\U0001F4C8 APEX Consulting: https://theapexconsulting.com\U0001F30E
+    Website: http://jousefmurad.com Good AI/ML algorithms that control physical systems
+    need data - LOTS of d..."
+  image: https://i.ytimg.com/vi/u2VEHLBzfxs/hqdefault.jpg
+  title: SimAI - Training AI using Simulated Multiphysics Data - Ian Campbell | The
+    Science Circle
+  url: https://www.youtube.com/watch?v=u2VEHLBzfxs
 source: vk
+title: Ansys SimAI
 ---
 
 Ansys запускает новый для себя продукт, в названии которого есть AI. Вы можете быть настроены очень скептически, но вот почему это действительно крутая штука.

@@ -1,9 +1,21 @@
 ---
+author: Yury Novozhilov
+date: 2025-09-19 08:37:58+00:00
 layout: post
-title: "CALPHAD-подход для расчет фазовых диаграмм и термодинамических свойств через параметризацию моделей Гиббса"
-date: 2025-09-19T08:37:58+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: CALPHAD tools for designing thermodynamic models, calculating phase
+    diagrams and investigating phase equilibria. - pycalphad/pycalphad
+  image: https://opengraph.githubassets.com/37e3c585bf3191520132c419a16699eefdc70b5c263f446fb6e642681d97d614/pycalphad/pycalphad
+  title: 'GitHub - pycalphad/pycalphad: CALPHAD tools for designing thermodynamic
+    models, calculating phase diagrams and investigating phase equilibria.'
+  url: https://github.com/pycalphad/pycalphad
+- description: ''
+  image: ''
+  title: OpenCalphad
+  url: https://www.opencalphad.com/
 source: vk
+title: CALPHAD-подход для расчет фазовых диаграмм и термодинамических свойств через
+  параметризацию моделей Гиббса
 ---
 
 Когда-то, когда я увлекался горячей обработкой металла давлением, я узнал об очень специфической и достаточно дорогой программе Thermo-Calc, которая позволяет получить диаграммы фазовых превращений металлов на основе рецептуры их сплавов. Ну так у данного подхода есть и бесплатные решения - надо просто хорошенько поискать по слову CALPHAD.

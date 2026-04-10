@@ -1,13 +1,20 @@
 ---
+author: MagicDPD
+date: 2021-11-03 13:07:15+00:00
 layout: post
-title: "Визуализация в стиле шлирен-метода и теневого фонового метода в Paraview"
-date: 2021-11-03T13:07:15+00:00
-author: "MagicDPD"
+link_previews:
+- description: Experimentally visualizing high-speed flow was a serious challenge
+    for decades. Before the advent of modern laser diagnostics and velocimetry, the
+    only real techniques for visualizing high speed fl…
+  image: https://i0.wp.com/curiosityfluids.com/wp-content/uploads/2019/04/VerticalKnifeEdge.png?fit=1038%2C860&ssl=1
+  title: Creating synthetic Schlieren and Shadowgraph images in Paraview
+  url: https://curiosityfluids.com/2019/04/28/creating-synthetic-schlieren-and-shadowgraph-images-in-paraview/amp/
 source: vk
 tags:
-  - explicit
-  - blast
-  - paraview
+- explicit
+- blast
+- paraview
+title: Визуализация в стиле шлирен-метода и теневого фонового метода в Paraview
 ---
 
 Есть много экспериментов в ходе которых необходима визуализация неоднородность в жидкости или газе. Например, вы хотите посмотреть на ударные полны при сверхзвуковом обтекании или при детонации ВВ. Тога вам на помощь приходит Шлирен-метод (Schlieren photography) и теневой фоновый метода (Shadowgraph).

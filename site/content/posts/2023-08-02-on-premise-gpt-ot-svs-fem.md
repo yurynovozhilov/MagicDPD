@@ -1,9 +1,21 @@
 ---
+author: Yury Novozhilov
+date: 2023-08-02 15:00:55+00:00
 layout: post
-title: "On-premise GPT от SVS FEM"
-date: 2023-08-02T15:00:55+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: "Let me introduce On-premise GPT by SVS FEM. Everyone has AI, even
+    #Ansys, #Autodesk, #PTC,... already implemented ChatGPT on their web. So we also
+    try to keep on top of this wave. \n\nWhat are key differentiators of our solution?\n-
+    It is on-premise. Running with our knowledge on your side.\n- It can be trained
+    on your data on your HW without any outside connection.\n- It is safe. Everything
+    remains on your side and controlled by your IT.\n- It is already trained on public
+    data of ANSYS, OpenFoam, Cal"
+  image: https://static.licdn.com/aero-v1/sc/h/c45fy346jw096z9pbphyyhdz7
+  title: '#ansys #autodesk #ptc #ansysgpt #svsfemgpt #gpt #ai #cae #llm #onpremise
+    #numericalanalysis | Petr Konas'
+  url: https://www.linkedin.com/feed/update/urn:li:activity:7090682368633524224/
 source: vk
+title: On-premise GPT от SVS FEM
 ---
 
 Чешский ANSYS Channel Partner рассказал тоже рассказал о создании свое ИИ чат-бота. Судя по всему это дообученный ChatGPT 2.5.

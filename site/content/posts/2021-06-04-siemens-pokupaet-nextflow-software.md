@@ -1,14 +1,27 @@
 ---
+author: MagicDPD
+date: 2021-06-04 13:02:53+00:00
 layout: post
-title: "Siemens покупает Nextflow Software"
-date: 2021-06-04T13:02:53+00:00
-author: "MagicDPD"
+link_previews:
+- description: SPH multifluid simulation with air and water to study the air cushion
+    effect on an high speed plate impact in water. This phenomenon is important to
+    study in...
+  image: https://i.ytimg.com/vi/I5vejgwEVQ0/hqdefault.jpg
+  title: High speed plate impact in water
+  url: https://www.youtube.com/watch?v=I5vejgwEVQ0
+- description: A Pelton turbine is a type of hydraulic turbine used in hydroelectric
+    power plants. It's a complex shape to simulate, but easily done with SPH Flow
+    (https://...
+  image: https://i.ytimg.com/vi/2bJ4Ys7QEyk/hqdefault.jpg
+  title: Pelton turbine simulation
+  url: https://www.youtube.com/watch?v=2bJ4Ys7QEyk
 source: vk
 tags:
-  - cfd
-  - nextflow_software
-  - siemens
-  - sph
+- cfd
+- nextflow_software
+- siemens
+- sph
+title: Siemens покупает Nextflow Software
 ---
 
 https://www.youtube.com/watch?v=I5vejgwEVQ0

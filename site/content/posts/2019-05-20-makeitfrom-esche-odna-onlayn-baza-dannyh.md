@@ -1,15 +1,20 @@
 ---
+author: GlukRazor
+date: 2019-05-20 17:01:45+00:00
+images:
+- url: /assets/images/1479.jpg
 layout: post
-title: "MakeItFrom — еще одна онлайн база данных свойств материалов"
-date: 2019-05-20T17:01:45+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: 'MakeItFrom.com: Material Properties Database'
+  url: https://www.makeitfrom.com/
 source: vk
 tags:
-  - MakeItFrom
-  - properties
-  - material
-images:
-  - url: "/assets/images/1479.jpg"
+- MakeItFrom
+- properties
+- material
+title: MakeItFrom — еще одна онлайн база данных свойств материалов
 ---
 
 Бесплатная база данных, доступ к которой возможен без регистрации. Доступны свойства основных классов материалов — металлы, сплавы, полимеры, резины, древесина и керамики. Библиотека содержит механические, физические, тепловые, электрические и некоторые другие свойства, а так же ссылки на источники. Для многих материалов доступны данные с учетом термической обработки.

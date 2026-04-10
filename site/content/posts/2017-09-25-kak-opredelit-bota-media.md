@@ -6,7 +6,7 @@ link_previews:
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2y3blZE
+  url: https://m.vk.com/wall-97265142_3313
 source: vk
 title: "Как определить бота \U0001F60AMedia"
 ---

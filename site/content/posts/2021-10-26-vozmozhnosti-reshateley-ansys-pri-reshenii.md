@@ -1,19 +1,25 @@
 ---
+author: MagicDPD
+date: 2021-10-26 13:01:50+00:00
 layout: post
-title: "Возможности решателей Ansys при решении задач теории разрушения"
-date: 2021-10-26T13:01:50+00:00
-author: "MagicDPD"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: https://i.ytimg.com/vi/-zzRTvYFhyw/hqdefault.jpg
+  title: Возможности решателей Ansys при решении задач теории разрушения
+  url: https://www.youtube.com/watch?v=-zzRTvYFhyw
 source: vk
 tags:
-  - vcct
-  - smart_fracture
-  - xfem
-  - lsdyna
-  - czm
-  - ansys
-  - spg
-  - fracture
-  - cadfem
+- vcct
+- smart_fracture
+- xfem
+- lsdyna
+- czm
+- ansys
+- spg
+- fracture
+- cadfem
+title: Возможности решателей Ansys при решении задач теории разрушения
 ---
 
 https://youtu.be/-zzRTvYFhyw?list=PLhkE5O59hYsGBmcYGkRZZMzKgSUTbTIPd

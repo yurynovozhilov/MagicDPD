@@ -1,15 +1,48 @@
 ---
+author: GlukRazor
+date: 2017-10-10 09:08:27+00:00
 layout: post
-title: "Коллеги, вы все наслышаны про аддитивное технологии - о ни сейчас на коне."
-date: 2017-10-10T09:08:27+00:00
-author: "GlukRazor"
+link_previews:
+- description: LS-DYNA simulation of a LS-TaSC optimized bottle opener in action.
+  image: https://i.ytimg.com/vi/fW_XmemcfYI/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AG-BYAC0AOKAgwIABABGHIgWigXMA8=&rs=AOn4CLDSTHpx0uXOaLvm2PJ8mND8lcqduQ
+  title: LS-TaSC optimized bottle opener
+  url: "https://www.youtube.com/watch?v=fW_XmemcfYIMediaMedia\U0001F4FC"
+- description: LS-DYNA simulation of a LS-TaSC optimized bottle opener in action.
+  image: https://i.ytimg.com/vi/fW_XmemcfYI/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AG-BYAC0AOKAgwIABABGHIgWigXMA8=&rs=AOn4CLDSTHpx0uXOaLvm2PJ8mND8lcqduQ
+  title: LS-TaSC optimized bottle opener
+  url: https://www.youtube.com/watch?v=fW_XmemcfYI
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3472
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23topology
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23optimization
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23LSPP
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23LSTaSC
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23LSDYNA
 source: vk
 tags:
-  - topology
-  - optimization
-  - LSDYNA
-  - LSTaSC
-  - LSPP
+- topology
+- optimization
+- LSDYNA
+- LSTaSC
+- LSPP
+title: Коллеги, вы все наслышаны про аддитивное технологии - о ни сейчас на коне.
 ---
 
 А значит надо уметь проектировать конструкции, отвечающие этим технологиям производства. И тут у нас главную роль играет топологическая оптимизация и умение ее проводить.

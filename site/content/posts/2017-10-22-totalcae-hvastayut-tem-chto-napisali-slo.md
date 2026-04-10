@@ -1,19 +1,30 @@
 ---
+author: GlukRazor
+date: 2017-10-22 17:14:25+00:00
 layout: post
-title: "#TotalCAE хвастают тем, что написали слой интеграции между SLURM и #ANSYS #RSM."
-date: 2017-10-22T17:14:25+00:00
-author: "GlukRazor"
+link_previews:
+- description: UPDATE 3/8/2022:  Note that Ansys natively supports Ansys RSM with
+    Slurm, and this post is now obsolete and has since […]
+  image: ''
+  title: Slurm with Ansys Remote Solver Manager (RSM) - TotalCAE
+  url: https://www.totalcae.com/learn/slurm-ansys-remote-solver-manager-rsm/
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23TotalCAE
 source: vk
 tags:
-  - MOAB
-  - TotalCAE
-  - GridEngine
-  - ANSYS
-  - HPC
-  - LSF
-  - PBS
-  - RSM
-  - Torque
+- MOAB
+- TotalCAE
+- GridEngine
+- ANSYS
+- HPC
+- LSF
+- PBS
+- RSM
+- Torque
+title: '#TotalCAE хвастают тем, что написали слой интеграции между SLURM и #ANSYS
+  #RSM.'
 ---
 
 Напомню, ANSYS RSM позволяет без проблем ставить задачи ANSYS на таких высокопроизводительных системах, как #PBS, #LSF, #GridEngine, #Torque, #MOAB и даже Windows HPC Cluster, но не SLURM.

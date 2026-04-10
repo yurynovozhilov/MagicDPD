@@ -8,14 +8,14 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from pathlib import Path
 from typing import Iterable
-from urllib.parse import parse_qs, unquote, urlparse
+from urllib.parse import unquote
+
+from link_preview_utils import build_link_previews_from_cache
 
 ROOT = Path(__file__).resolve().parent
 DATA_PATH = ROOT / "unified_posts.json"
 SITE_POSTS = ROOT / "site" / "content" / "posts"
 LINK_PREVIEWS_CACHE = ROOT / "link_previews_cache.json"
-URL_RE = re.compile(r"https?://[^\s\)\]>\"'<,]+")
-MARKDOWN_LINK_RE = re.compile(r"\[([^\]]+)\]\((https?://[^)\s]+)\)")
 
 # Known source identifiers for building canonical URLs
 VK_OWNER_ID = -97265142  # magicdpd public page
@@ -28,22 +28,6 @@ RUS_TO_LAT = {
     "ч": "ch", "ш": "sh", "щ": "sch", "ъ": "", "ы": "y", "ь": "", "э": "e", "ю": "yu", "я": "ya",
 }
 
-SKIP_PREVIEW_EXTENSIONS = {
-    ".jpg",
-    ".jpeg",
-    ".png",
-    ".gif",
-    ".webp",
-    ".svg",
-    ".pdf",
-    ".zip",
-    ".tar",
-    ".gz",
-    ".mp4",
-    ".mp3",
-}
-
-
 def load_link_preview_cache() -> dict:
     if not LINK_PREVIEWS_CACHE.exists():
         return {}
@@ -53,118 +37,8 @@ def load_link_preview_cache() -> dict:
         return {}
 
 
-def extract_urls_from_body(body: str) -> list[str]:
-    seen: set[str] = set()
-    urls: list[str] = []
-    for url in URL_RE.findall(body):
-        cleaned = url.rstrip(".,;:!?)]")
-        if cleaned not in seen and len(cleaned) < 2048:
-            seen.add(cleaned)
-            urls.append(cleaned)
-    return urls
-
-
-def collect_markdown_link_labels(body: str) -> dict[str, str]:
-    labels: dict[str, str] = {}
-    for label, url in MARKDOWN_LINK_RE.findall(body):
-        clean_label = label.strip()
-        if clean_label and clean_label != url:
-            labels.setdefault(url, clean_label)
-    return labels
-
-
-def is_useful_preview_url(url: str) -> bool:
-    path = urlparse(url).path.lower()
-    ext = Path(path).suffix.lower()
-    return ext not in SKIP_PREVIEW_EXTENSIONS
-
-
-def youtube_video_id(url: str) -> str | None:
-    parsed = urlparse(url)
-    host = parsed.netloc.lower()
-
-    if host.endswith("youtu.be"):
-        video_id = parsed.path.strip("/").split("/")[0]
-        return video_id or None
-
-    if "youtube.com" not in host:
-        return None
-
-    if parsed.path == "/watch":
-        return parse_qs(parsed.query).get("v", [None])[0]
-
-    if parsed.path.startswith("/shorts/"):
-        video_id = parsed.path.split("/", 2)[2]
-        return video_id or None
-
-    return None
-
-
-def preview_host(url: str) -> str:
-    return urlparse(url).netloc.lower()
-
-
-def preview_has_content(preview: dict) -> bool:
-    return any((preview.get(key) or "").strip() for key in ("title", "description", "image"))
-
-
-def preview_priority(preview: dict) -> int:
-    host = preview_host(preview.get("url", ""))
-    score = 0
-
-    if (preview.get("title") or "").strip():
-        score += 4
-    if (preview.get("description") or "").strip():
-        score += 2
-    if (preview.get("image") or "").strip():
-        score += 4
-
-    if "youtube.com" in host or host.endswith("youtu.be"):
-        score += 1
-
-    return score
-
-
-def normalize_preview(preview: dict, label_map: dict[str, str]) -> dict:
-    url = preview.get("url", "")
-    title = (preview.get("title") or "").strip()
-    description = (preview.get("description") or "").strip()
-    image = (preview.get("image") or "").strip()
-
-    if title in {"", "- YouTube"} and url in label_map:
-        title = label_map[url]
-
-    if not image:
-        video_id = youtube_video_id(url)
-        if video_id:
-            image = f"https://i.ytimg.com/vi/{video_id}/hqdefault.jpg"
-
-    preview["title"] = title
-    preview["description"] = description
-    preview["image"] = image
-
-    return preview
-
-
 def build_link_previews(body: str, cache: dict) -> list[dict]:
-    urls = [url for url in extract_urls_from_body(body) if is_useful_preview_url(url)]
-    if not urls:
-        return []
-
-    label_map = collect_markdown_link_labels(body)
-    previews: list[tuple[int, int, dict]] = []
-
-    for index, url in enumerate(urls):
-        cached = cache.get(url)
-        preview = dict(cached) if isinstance(cached, dict) else {"url": url}
-        preview["url"] = url
-        preview = normalize_preview(preview, label_map)
-
-        if preview_has_content(preview):
-            previews.append((preview_priority(preview), index, preview))
-
-    previews.sort(key=lambda item: (-item[0], item[1]))
-    return [preview for _, _, preview in previews]
+    return build_link_previews_from_cache(body, cache)
 
 
 def yaml_quote(value: str) -> str:

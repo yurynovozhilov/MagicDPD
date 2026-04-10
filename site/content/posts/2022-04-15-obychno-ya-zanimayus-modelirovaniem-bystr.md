@@ -1,14 +1,23 @@
 ---
+author: MagicDPD
+date: 2022-04-15 17:00:05+00:00
 layout: post
-title: "Обычно, я занимаюсь моделированием быстропротекающих (что-то около скорости звука в материале) или хотя бы динамических (когда инерционная составляющая важна) процессов."
-date: 2022-04-15T17:00:05+00:00
-author: "MagicDPD"
+link_previews:
+- description: Review of different creep models that are available in Ansys Mechanical.
+    There are lots of different creep models that you can chose from. In the video
+    I wil...
+  image: https://i.ytimg.com/vi/hhOHap0GL1M/maxresdefault.jpg
+  title: 'Ansys Creep Models: Which One is the Best?'
+  url: https://www.youtube.com/watch?v=hhOHap0GL1M
 source: vk
 tags:
-  - Ansys
-  - creep
-  - Mechanical
-  - PolymerFEM
+- Ansys
+- creep
+- Mechanical
+- PolymerFEM
+title: Обычно, я занимаюсь моделированием быстропротекающих (что-то около скорости
+  звука в материале) или хотя бы динамических (когда инерционная составляющая важна)
+  процессов.
 ---
 
 Но чаще в промышленности требуется расчет чего-то медленного: квазистатика, статика и ползучесть.

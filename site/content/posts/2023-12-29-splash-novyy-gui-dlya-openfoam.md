@@ -1,9 +1,18 @@
 ---
+author: Yury Novozhilov
+date: 2023-12-29 15:00:31+00:00
 layout: post
-title: "Splash - новый GUI для OpenFoam"
-date: 2023-12-29T15:00:31+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: "\U0001F56F There"
+  image: https://static.licdn.com/aero-v1/sc/h/c45fy346jw096z9pbphyyhdz7
+  title: '#cfd #simulation #openfoam #gui #fluiddynamics | Mohamed Aly Sayed'
+  url: https://www.linkedin.com/posts/mohamedsayedh_cfd-simulation-openfoam-ugcPost-7145511678254747648-fu-K/?utm_source=share&utm_medium=member_ios
+- description: "\U0001F56F There"
+  image: https://static.licdn.com/aero-v1/sc/h/c45fy346jw096z9pbphyyhdz7
+  title: '#cfd #simulation #openfoam #gui #fluiddynamics | Mohamed Aly Sayed'
+  url: https://www.linkedin.com/posts/mohamedsayedh_cfd-simulation-openfoam-ugcPost-7145511678254747648-fu-K?utm_source=share&utm_medium=member_ios
 source: vk
+title: Splash - новый GUI для OpenFoam
 ---
 
 По ссылке небобольшой тизер новой обертки над OpenFoam. Релиз заявлен на следующий год.

@@ -14,13 +14,13 @@ link_previews:
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2xU9E0G
+  url: https://m.vk.com/feed?section=search&q=%233Dconnexion
 source: vk
 tags:
 - Bluetooth
 - 3Dconnexion
 - CAD
-title: "#3Dconnexion выпустил специализированную мышку для #CAD."
+title: '#3Dconnexion выпустил специализированную мышку для #CAD.'
 ---
 
 Из особых, не программных фишек - очень высокое разрешение и работа по #Bluetooth.

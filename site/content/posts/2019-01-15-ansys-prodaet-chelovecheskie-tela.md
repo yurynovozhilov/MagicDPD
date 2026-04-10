@@ -1,15 +1,21 @@
 ---
+author: GlukRazor
+date: 2019-01-15 17:00:20+00:00
+images:
+- url: /assets/images/1313.jpg
 layout: post
-title: "ANSYS продает человеческие тела"
-date: 2019-01-15T17:00:20+00:00
-author: "GlukRazor"
+link_previews:
+- description: Discover ready-to-use Ansys and third-party apps to streamline simulation
+    workflows in the Ansys App Catalog. Boost productivity and innovation.
+  image: ''
+  title: Ansys App Catalog | Ansys Developer Portal
+  url: https://catalog.ansys.com/product/5bfec4c8393ff6c28c1997da/ansys-human-body-m
 source: vk
 tags:
-  - ACT
-  - Human_Body_Model
-  - ANSYS
-images:
-  - url: "/assets/images/1313.jpg"
+- ACT
+- Human_Body_Model
+- ANSYS
+title: ANSYS продает человеческие тела
 ---
 
 В магазине ACT расширений для ANSYS появился очень любопытный товар — ANSYS Human Body Model (HBM). За чуть больше чем $10k вы можете приобрести набор проектов HFSS, содержащих геометрию и свойства материалов для разных частей человеческого тела!

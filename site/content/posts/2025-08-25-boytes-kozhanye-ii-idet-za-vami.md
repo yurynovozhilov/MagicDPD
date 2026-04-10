@@ -1,12 +1,18 @@
 ---
-layout: post
-title: "Бойтесь, кожаные!"
-date: 2025-08-25T07:51:39+00:00
-author: "Yury Novozhilov"
-source: vk
+author: Yury Novozhilov
+date: 2025-08-25 07:51:39+00:00
 images:
-  - url: "/assets/images/3008.jpg"
-  - url: "/assets/images/3009.jpg"
+- url: /assets/images/3008.jpg
+- url: /assets/images/3009.jpg
+layout: post
+link_previews:
+- description: Today&rsquo;s top 7 Ldv Inc. jobs in United States. Leverage your professional
+    network, and get hired. New Ldv Inc. jobs added daily.
+  image: ''
+  title: 7 Ldv Inc. jobs in United States
+  url: https://www.linkedin.com/jobs/view/4286310712/?refId=TALFZ2X5O769yLNmSqZYiA%3D%3D&trackingId=TALFZ2X5O769yLNmSqZYiA%3D%3D
+source: vk
+title: Бойтесь, кожаные!
 ---
 
 ИИ идет за вами!

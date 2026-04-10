@@ -1,16 +1,31 @@
 ---
+author: GlukRazor
+date: 2019-01-25 18:30:23+00:00
+images:
+- url: /assets/images/1322.jpg
 layout: post
-title: "ANSYS купил Granta Design"
-date: 2019-01-25T18:30:23+00:00
-author: "GlukRazor"
+link_previews:
+- description: Ansys has just announced that it has signed an agreement to acquire
+    material selection specialists, Granta Design. For those working in materials
+    and their data management, this is a fascinating move. For those that aren’t familiar
+    with Granta Design, chances are that if you’ve been through the university system
+    and studied materials selection, chances are
+  image: https://develop3d.com/wp-content/uploads/2019/11/CES-ANSYS_sml.png
+  title: Ansys to acquire material data management wizards, Granta Design
+  url: https://www.develop3d.com/blog/2019/01/ansys-to-acquire-material-selection-wizards-granta-design
+- description: CES Selector - A look at the commercial version of a materials selection
+    tool, built by true pioneers in the field, that could offer something for the
+    pros
+  image: https://develop3d.com/wp-content/uploads/2019/11/CES_selector_img_1_FW.png
+  title: 'Review: Granta Design CES Selector 2017'
+  url: https://www.develop3d.com/reviews/review-granta-design-ces-selector-2017-engineering-design-CAD
 source: vk
 tags:
-  - CES_Selector
-  - Granta_Design
-  - ANSYS
-  - Material_Designer
-images:
-  - url: "/assets/images/1322.jpg"
+- CES_Selector
+- Granta_Design
+- ANSYS
+- Material_Designer
+title: ANSYS купил Granta Design
 ---
 
 Компания ANSYS, Inc объявила о покупке Granta Design. Последняя специализируется на работе со свойствами материалов.Часть библиотек Granta Design уже вошли в состав ANSYS 19.x в прошлом году, и это оказалось очень в тему.

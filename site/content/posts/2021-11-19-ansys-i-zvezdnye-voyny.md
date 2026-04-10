@@ -1,12 +1,18 @@
 ---
+author: MagicDPD
+date: 2021-11-19 15:50:59+00:00
 layout: post
-title: "Ansys и \"звёздные войны\""
-date: 2021-11-19T15:50:59+00:00
-author: "MagicDPD"
+link_previews:
+- description: Updated link here https://youtu.be/hfFArusJWu8 This video shows a physics-based
+    recreation of the shooting down of Russian Satellite Cosmos 1408 by an object...
+  image: https://i.ytimg.com/vi/b52F9R9ByOY/maxresdefault.jpg
+  title: 2021 Russian satellite intercept
+  url: https://www.youtube.com/watch?v=b52F9R9ByOY
 source: vk
 tags:
-  - ansys
-  - agi
+- ansys
+- agi
+title: Ansys и "звёздные войны"
 ---
 
 Ansys и "звёздные войны"

@@ -1,17 +1,54 @@
 ---
+author: GlukRazor
+date: 2017-11-19 08:30:14+00:00
 layout: post
-title: "#science #solidworks #cae #ansys #airsoft #combat_union #airsoft_gear"
-date: 2017-11-19T08:30:14+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3740
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23science
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23solidworks
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23cae
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23ansys
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23airsoft
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23combat_union
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23airsoft_gear
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/club40880439
 source: vk
 tags:
-  - cae
-  - combat_union
-  - airsoft
-  - solidworks
-  - ansys
-  - science
-  - airsoft_gear
+- cae
+- combat_union
+- airsoft
+- solidworks
+- ansys
+- science
+- airsoft_gear
+title: '#science #solidworks #cae #ansys #airsoft #combat_union #airsoft_gear'
 ---
 
 Газодинамический расчет работы ЦПГ. Часть I

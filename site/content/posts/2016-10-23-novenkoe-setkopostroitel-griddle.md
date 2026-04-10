@@ -8,11 +8,6 @@ link_previews:
   image: https://itasca-int.objects.frb.io/assets/docs/about/_1200x630_crop_center-center_82_none/ITASCA-Logos-RGB-01.jpg?mtime=1718287181
   title: Griddle
   url: http://www.itascacg.com/software/griddle
-- description: Enjoy the videos and music you love, upload original content, and share
-    it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
-  url: https://www.youtube.com/watch?v=nPl8tV8COw8
 - description: Explore Itasca Consulting Group's range of innovative software products
     designed for geomechanics, hydrogeology, and engineering. Our software solutions…
   image: https://itasca-int.objects.frb.io/assets/docs/about/_1200x630_crop_center-center_82_none/ITASCA-Logos-RGB-01.jpg?mtime=1718287181

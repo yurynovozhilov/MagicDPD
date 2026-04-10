@@ -1,16 +1,46 @@
 ---
+author: GlukRazor
+date: 2017-12-19 17:00:53+00:00
 layout: post
-title: "Наш свежий видео урок по взаимодействию #ANSYS #Workbench и #ANSYS #EKM от коллег из МСК."
-date: 2017-12-19T17:00:53+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3890
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23ANSYS
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23Workbench
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23EKM
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23SDM
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23HPC
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23RSM
 source: vk
 tags:
-  - ANSYS
-  - HPC
-  - SDM
-  - EKM
-  - Workbench
-  - RSM
+- ANSYS
+- HPC
+- SDM
+- EKM
+- Workbench
+- RSM
+title: 'Наш свежий видео урок по взаимодействию #ANSYS #Workbench и #ANSYS #EKM от
+  коллег из МСК.'
 ---
 
 Скажу так: EKM в 18-ой версии это прям годна штука. Я его уже поставил и почти до конца настроил. С коллегами мы к нему даже Let's Encrypt сертификаты прикрутить смогли! Скоро сам смогу рассказать о впечатлениях от использования в бою.

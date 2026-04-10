@@ -1,16 +1,24 @@
 ---
+author: MagicDPD
+date: 2021-03-03 18:31:57+00:00
 layout: post
-title: "Подвижный источник тепла в ANSYS Mechanical"
-date: 2021-03-03T18:31:57+00:00
-author: "MagicDPD"
+link_previews:
+- description: How to  achieve a moving 3D Gaussian heat source with a stepped cylinder
+    shape in ANSYS WORKBENCHCopyright Status of this video:This video was published
+    unde...
+  image: https://i.ytimg.com/vi/nqNNjeZxVlg/maxresdefault.jpg
+  title: 'ANSYS TUTORIAL:  moving 3D Gaussian heat source with a stepped cylinder
+    shape'
+  url: https://www.youtube.com/watch?v=nqNNjeZxVlg
 source: vk
 tags:
-  - thermal
-  - welding
-  - apdl
-  - additive_manufacturing
-  - ansys
-  - mechanical
+- thermal
+- welding
+- apdl
+- additive_manufacturing
+- ansys
+- mechanical
+title: Подвижный источник тепла в ANSYS Mechanical
 ---
 
 https://www.youtube.com/watch?v=nqNNjeZxVlg

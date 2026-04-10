@@ -1,15 +1,28 @@
 ---
+author: GlukRazor
+date: 2019-01-12 17:01:21+00:00
+images:
+- url: /assets/images/1306.jpg
 layout: post
-title: "FEconv - открытый конвертор сеточных форматов"
-date: 2019-01-12T17:01:21+00:00
-author: "GlukRazor"
+link_previews:
+- description: Program feconv is an utility to convert between several mesh and FE
+    field formats, like ANSYS mesh files (.msh), MD Nastran input files (.bdf), I-Deas
+    Universal (.unv), VTK files (.vtk), etc. If yo...
+  image: https://opengraph.githubassets.com/763032741d166d77a32bef74509023a96835f3b2b64d5a90ba3f0d5cdb5cf701/victorsndvg/FEconv
+  title: 'GitHub - victorsndvg/FEconv: Program feconv is an utility to convert between
+    several mesh and FE field formats, like ANSYS mesh files (.msh), MD Nastran input
+    files (.bdf), I-Deas Universal (.unv), VT'
+  url: https://github.com/victorsndvg/FEconv
+- description: ''
+  image: ''
+  title: 'FEconv: Finite Element conversor'
+  url: http://victorsndvg.github.io/FEconv/
 source: vk
 tags:
-  - FEconv
-  - Mesh
-  - OpenSource
-images:
-  - url: "/assets/images/1306.jpg"
+- FEconv
+- Mesh
+- OpenSource
+title: FEconv - открытый конвертор сеточных форматов
 ---
 
 В некоторых случаях любознательным CAE специалистам может потребоваться конвертировать сетку из одного формата в другой. Это может оказаться весьма нетривиальной задачей. С такой задачей поможет справиться бесплатная консольная утилита&nbsp;FEconv с открытым кодом.

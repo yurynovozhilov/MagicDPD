@@ -1,16 +1,23 @@
 ---
+author: GlukRazor
+date: 2018-01-25 17:01:29+00:00
 layout: post
-title: "Облачные лицензии ANSYS’ Pay-Per-Use для Rescale"
-date: 2018-01-25T17:01:29+00:00
-author: "GlukRazor"
+link_previews:
+- description: San Francisco, CA — Rescale, the leading provider of enterprise big
+    compute and cloud HPC, is pleased to announce that ANSYS Elastic Licensing can
+    now be
+  image: https://rescale.com/wp-content/uploads/rescale_pay_per_use_ansys-1-1.jpg
+  title: ANSYS & Rescale Offer Pay-Per-Use Software on ScaleX Cloud HPC
+  url: https://blog.rescale.com/ansys-rescale-offer-on-demand-ansys-software-on-scalex/
 source: vk
 tags:
-  - AEUs
-  - ANSYS
-  - HPC
-  - ScaleX
-  - Rescale
-  - cloud
+- AEUs
+- ANSYS
+- HPC
+- ScaleX
+- Rescale
+- cloud
+title: Облачные лицензии ANSYS’ Pay-Per-Use для Rescale
 ---
 
 На протяжении года ANSYS выкатывает свою систему лицензирования по запросу. Данная схема лицензирования очень хорошо подходит для случая использования облачных вычислительных ресурсов (также по запросу).

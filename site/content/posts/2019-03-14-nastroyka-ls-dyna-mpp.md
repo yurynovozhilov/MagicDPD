@@ -1,18 +1,18 @@
 ---
+author: GlukRazor
+date: 2019-03-14 17:00:27+00:00
+images:
+- url: /assets/images/1393.jpg
 layout: post
-title: "Настройка LS-DYNA MPP"
-date: 2019-03-14T17:00:27+00:00
-author: "GlukRazor"
 source: vk
 tags:
-  - Oasys
-  - LS_DYNA
-  - HPC
-  - DMP
-  - MPP
-  - ARUP
-images:
-  - url: "/assets/images/1393.jpg"
+- Oasys
+- LS_DYNA
+- HPC
+- DMP
+- MPP
+- ARUP
+title: Настройка LS-DYNA MPP
 ---
 
 Фундаментальный вебинар от ARUP и Oasys по настройке и работе решателя LS-DYNA MPP. Данный решатель является версией LS-DYNA для работы на кластерных системах (читай — на системах с распределенной памятью).

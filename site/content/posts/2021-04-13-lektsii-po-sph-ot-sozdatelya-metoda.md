@@ -1,14 +1,25 @@
 ---
+author: MagicDPD
+date: 2021-04-13 13:01:27+00:00
 layout: post
-title: "Лекции по SPH от создателя метода"
-date: 2021-04-13T13:01:27+00:00
-author: "MagicDPD"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: https://i.ytimg.com/vi/tAXHCAEgSuE/maxresdefault.jpg
+  title: 'Joe Monaghan: Introduction to SPH Part I'
+  url: https://www.youtube.com/watch?v=tAXHCAEgSuE
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: https://i.ytimg.com/vi/OTlygbegQT4/maxresdefault.jpg
+  title: 'Joe Monaghan: Introduction to SPH Part II'
+  url: https://www.youtube.com/watch?v=OTlygbegQT4
 source: vk
 tags:
-  - legendpeople
-  - meshless
-  - shp
-  - theory
+- legendpeople
+- meshless
+- shp
+- theory
+title: Лекции по SPH от создателя метода
 ---
 
 https://www.youtube.com/watch?v=tAXHCAEgSuE

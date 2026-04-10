@@ -1,9 +1,15 @@
 ---
+author: Yury Novozhilov
+date: 2026-01-29 08:26:01+00:00
 layout: post
-title: "Магнетронное распыление в samadii/plasma"
-date: 2026-01-29T08:26:01+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: 'Magnetron Sputtering Deposition: Particle-based Simulation using samadii/plasma-
+    5.14 [A] electrons are generated near Ta- The generated electrons collide wi...'
+  image: https://i.ytimg.com/vi/cfgCxYa19YM/maxresdefault.jpg
+  title: Magnetron Sputtering Deposition
+  url: https://www.youtube.com/watch?v=cfgCxYa19YM
 source: vk
+title: Магнетронное распыление в samadii/plasma
 ---
 
 Моделируемый процесс:

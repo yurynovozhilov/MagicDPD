@@ -1,12 +1,25 @@
 ---
+author: MagicDPD
+date: 2021-06-02 13:01:44+00:00
 layout: post
-title: "Учет демпфирования"
-date: 2021-06-02T13:01:44+00:00
-author: "MagicDPD"
+link_previews:
+- description: Whenever we talk about oscillatory behavior, we hear the term damping.
+    Damping is a phenomenon that tries to reduce the oscillatory behavior by dissipating
+    t...
+  image: https://i.ytimg.com/vi/pXpc6PuxjgQ/maxresdefault.jpg
+  title: Damping Effects — Course Overview
+  url: https://www.youtube.com/watch?v=pXpc6PuxjgQ
+- description: Damping is a phenomenon that tries to reduce the oscillatory behavior
+    by dissipating the energy of the oscillation. Study damping and its applications
+    in this Ansys course.
+  image: https://innovationspace.ansys.com/wp-content/uploads/2024/03/Damping-Effects-1.png
+  title: Damping Effects | Ansys Innovation Courses
+  url: https://courses.ansys.com/index.php/courses/damping-effects/
 source: vk
 tags:
-  - training
-  - ansys
+- training
+- ansys
+title: Учет демпфирования
 ---
 
 https://youtu.be/pXpc6PuxjgQ

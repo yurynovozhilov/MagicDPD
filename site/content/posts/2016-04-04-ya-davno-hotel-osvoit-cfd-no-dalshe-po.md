@@ -1,15 +1,23 @@
 ---
+author: GlukRazor
+date: 2016-04-04 07:01:14+00:00
 layout: post
-title: "Я давно хотел освоить #CFD, но дальше получения отличной оценки по данному предмету в институте как-то не шло. #ANSYS #Fluent оказался для меня слишком сложен и неустойчив, #ANSYS Flux, который так долго обещали инсайдеры, так и не вышел."
-date: 2016-04-04T07:01:14+00:00
-author: "GlukRazor"
+link_previews:
+- description: 'First step in CFD simulation with LS-DYNA. Separation of flow of a
+    fluid around blunt bodies in 2D.You could find input file here: https://vk.com/wall-972651...'
+  image: https://i.ytimg.com/vi/w_PnXPRGdKE/maxresdefault.jpg
+  title: Kármán vortex street in LS-DYNA ICFD
+  url: https://www.youtube.com/watch?v=w_PnXPRGdKE
 source: vk
 tags:
-  - CFD
-  - ANSYS
-  - AIM
-  - ICFD
-  - Fluent
+- CFD
+- ANSYS
+- AIM
+- ICFD
+- Fluent
+title: 'Я давно хотел освоить #CFD, но дальше получения отличной оценки по данному
+  предмету в институте как-то не шло. #ANSYS #Fluent оказался для меня слишком сложен
+  и неустойчив, #ANSYS Flux, который так долго обещали инсайдеры, так и не вышел.'
 ---
 
 ANSYS #AIM все время огорчает нехваткой очевидный функций. Так что на этих выходных я начал самообучение LS-DYNA #ICFD.

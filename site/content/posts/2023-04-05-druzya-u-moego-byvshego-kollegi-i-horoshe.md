@@ -1,12 +1,18 @@
 ---
+author: MagicDPD
+date: 2023-04-05 15:00:02+00:00
 layout: post
-title: "Друзья, у моего бывшего коллеги и хорошего человека есть вакансия на PhD студента или Postdoc в New Mexico Tech (США)."
-date: 2023-04-05T15:00:02+00:00
-author: "MagicDPD"
+link_previews:
+- description: FEA simulation dealer / Composites
+  image: https://telegram.org/img/t_logo_2x.png
+  title: Yan Pozhanka
+  url: https://t.me/pozhanka
 source: vk
 tags:
-  - NASA
-  - NIH
+- NASA
+- NIH
+title: Друзья, у моего бывшего коллеги и хорошего человека есть вакансия на PhD студента
+  или Postdoc в New Mexico Tech (США).
 ---
 
 Учёба бесплатная со стипендией (в конце текста более точные пояснения). Это хороший путь для эмиграции.

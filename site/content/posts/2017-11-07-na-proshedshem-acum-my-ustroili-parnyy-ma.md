@@ -1,13 +1,39 @@
 ---
+author: GlukRazor
+date: 2017-11-07 10:40:13+00:00
 layout: post
-title: "На прошедшем #ACUM мы устроили парный матер-класса по #ANSYS #Discovery Live. Так вот, слушатели его транслировали в online - записи остались. Признание?"
-date: 2017-11-07T10:40:13+00:00
-author: "GlukRazor"
+link_previews:
+- description: Мастер-класс от компании КАДФЕМ по ANSYS Discovery Live
+  image: https://i.ytimg.com/vi/ht73yocPGZI/maxresdefault.jpg
+  title: ANSYS Discovery Live by CADFEM
+  url: https://www.youtube.com/watch?v=ht73yocPGZI
+- description: Продолжение трансляции
+  image: https://i.ytimg.com/vi/o3XVi0A1sK4/hqdefault.jpg
+  title: ANSYS Discovery Live. Continuing
+  url: https://www.youtube.com/watch?v=o3XVi0A1sK4
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3644
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23ACUM
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23ANSYS
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23Discovery
 source: vk
 tags:
-  - Discovery
-  - ACUM
-  - ANSYS
+- Discovery
+- ACUM
+- ANSYS
+title: 'На прошедшем #ACUM мы устроили парный матер-класса по #ANSYS #Discovery Live.
+  Так вот, слушатели его транслировали в online - записи остались. Признание?'
 ---
 
 https://www.youtube.com/watch?v=ht7…

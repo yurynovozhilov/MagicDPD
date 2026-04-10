@@ -1,9 +1,16 @@
 ---
+author: GlukRazor
+date: 2015-07-15 07:00:16+00:00
 layout: post
-title: "Постарался откинуть снобизм, вызванный многолетним использованием ANSYS и посмотреть на новую разработку."
-date: 2015-07-15T07:00:16+00:00
-author: "GlukRazor"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: https://i.ytimg.com/vi/UQcmBs6fqMc/hqdefault.jpg
+  title: Запись вебинара "Инженерный прочностной анализ с CAE Fidesys и BricsCAD"
+  url: https://www.youtube.com/watch?v=UQcmBs6fqMc
 source: vk
+title: Постарался откинуть снобизм, вызванный многолетним использованием ANSYS и посмотреть
+  на новую разработку.
 ---
 
 Даже смог посмотреть битый вебинар. Получилось примерно следующее:

@@ -1,14 +1,20 @@
 ---
+author: GlukRazor
+date: 2019-04-21 17:01:36+00:00
+images:
+- url: /assets/images/1453.jpg
 layout: post
-title: "Dlubal — МКЭ-софт с немецкими корнями"
-date: 2019-04-21T17:01:36+00:00
-author: "GlukRazor"
+link_previews:
+- description: Инновационное программное обеспечение для расчета и проектирования
+    конструкци&#x
+  image: https://www.dlubal.com/ru/webimage/013060/2674668/LOGO_1200x1200.png
+  title: Программы для расчёта и проектир
+  url: https://www.dlubal.com/ru
 source: vk
 tags:
-  - dlubal
-  - FEA
-images:
-  - url: "/assets/images/1453.jpg"
+- dlubal
+- FEA
+title: Dlubal — МКЭ-софт с немецкими корнями
 ---
 
 Dlubal имеет основных продукта — RFEM для 3D расчетов и RSTAB для расчетов балочных конструкций. Программы умеют считать статические и линейные динамические задачи,  определять устойчивость, находить собственные частоты и формы колебаний и работать с некоторыми типами нелинейностей.

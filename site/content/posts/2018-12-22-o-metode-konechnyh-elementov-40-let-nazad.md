@@ -1,14 +1,14 @@
 ---
+author: GlukRazor
+date: 2018-12-22 17:00:14+00:00
+images:
+- url: /assets/images/1281.jpg
 layout: post
-title: "О методе конечных элементов 40 лет назад"
-date: 2018-12-22T17:00:14+00:00
-author: "GlukRazor"
 source: vk
 tags:
-  - МКЭ
-  - Simulationfriday
-images:
-  - url: "/assets/images/1281.jpg"
+- МКЭ
+- Simulationfriday
+title: О методе конечных элементов 40 лет назад
 ---
 
 https://www.youtube.com/watch?v=aLJMDn_2-d8

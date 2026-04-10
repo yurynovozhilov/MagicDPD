@@ -1,18 +1,31 @@
 ---
+author: MagicDPD
+date: 2021-02-03 13:01:13+00:00
 layout: post
-title: "Моделирование пены низкой плотности в МКЭ"
-date: 2021-02-03T13:01:13+00:00
-author: "MagicDPD"
+link_previews:
+- description: This video discusses why traditional hyperelastic models should not
+    be used to predict the mechanical response of soft polymer foams. The video then
+    goes on ...
+  image: https://i.ytimg.com/vi/g8YSmFk5KSc/maxresdefault.jpg
+  title: Material Models for Soft Foams - Part 1 - Theory
+  url: https://www.youtube.com/watch?v=g8YSmFk5KSc
+- description: This is the second part of a series in which I focus on how to select
+    and calibrate a suitable material model for a soft polymer foam. I will talk about
+    the ...
+  image: https://i.ytimg.com/vi/W9e-GJHJk00/maxresdefault.jpg
+  title: Material Models for Soft Foams - Part 2 - Parameter Calibration
+  url: https://www.youtube.com/watch?v=W9e-GJHJk00
 source: vk
 tags:
-  - comsol
-  - foam
-  - polymerfem
-  - abaqus
-  - ansys
-  - ls
-  - mechanical
-  - mcalibration
+- comsol
+- foam
+- polymerfem
+- abaqus
+- ansys
+- ls
+- mechanical
+- mcalibration
+title: Моделирование пены низкой плотности в МКЭ
 ---
 
 На сегодня я нашел два интересных видео, посвященных моделированию полимерной пены низкой плотности.

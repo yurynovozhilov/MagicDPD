@@ -1,15 +1,41 @@
 ---
+author: GlukRazor
+date: 2017-10-25 17:10:17+00:00
 layout: post
-title: "Старая, но очень полезная методичка от #LSTС о том, как правильно прикладывать давление ударной волны при помощи эмпирической модели LOAD_BLAST(_ENHANCED)."
-date: 2017-10-25T17:10:17+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3562
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23LST%D0%A1
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23ConWep
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23LSDYNA
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23blast
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23ALE
 source: vk
 tags:
-  - ConWep
-  - LSDYNA
-  - LSTС
-  - blast
-  - ALEMedia
+- ConWep
+- LSDYNA
+- LSTС
+- blast
+- ALEMedia
+title: 'Старая, но очень полезная методичка от #LSTС о том, как правильно прикладывать
+  давление ударной волны при помощи эмпирической модели LOAD_BLAST(_ENHANCED).'
 ---
 
 Это очень полезное граничное условие работает сильно лучше, чем традиционный #ConWep и имеет кучу дополнительных опций и возможностей:

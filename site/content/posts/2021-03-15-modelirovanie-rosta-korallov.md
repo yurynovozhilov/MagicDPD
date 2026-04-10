@@ -1,11 +1,18 @@
 ---
+author: MagicDPD
+date: 2021-03-15 13:03:10+00:00
 layout: post
-title: "Моделирование роста кораллов"
-date: 2021-03-15T13:03:10+00:00
-author: "MagicDPD"
+link_previews:
+- description: The first talk from the inaugural UK Fluids Network SPH SIG virtual
+    seminar. Konstantinos Georgoulas from The University of Edinburgh presents work
+    on unders...
+  image: https://i.ytimg.com/vi/lHsNMo8p-Xo/hqdefault.jpg
+  title: 'Virtual Seminar 1: Modelling Coral Growth using SPH'
+  url: https://www.youtube.com/watch?v=lHsNMo8p-Xo
 source: vk
 tags:
-  - sph
+- sph
+title: Моделирование роста кораллов
 ---
 
 https://www.youtube.com/watch?v=lHsNMo8p-Xo

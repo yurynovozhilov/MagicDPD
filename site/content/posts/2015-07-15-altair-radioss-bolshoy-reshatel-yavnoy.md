@@ -1,9 +1,16 @@
 ---
+author: GlukRazor
+date: 2015-07-15 15:00:34+00:00
 layout: post
-title: "Altair RADIOSS - большой решатель явной динамики."
-date: 2015-07-15T15:00:34+00:00
-author: "GlukRazor"
+link_previews:
+- description: Altair RADIOSS is a leading structural analysis solver for highly non-linear
+    problems under dynamic loadings. It is highly differentiated for Scalability,
+    Qu...
+  image: https://i.ytimg.com/vi/Rxvi1ADNxU8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAiID5gSHjHhpzckgQZDzJTkuZJrg
+  title: Introduction to RADIOSS
+  url: https://www.youtube.com/watch?v=Rxvi1ADNxU8
 source: vk
+title: Altair RADIOSS - большой решатель явной динамики.
 ---
 
 Перечисляя таких монстров как LS-DYNA, AUTODYN, Abaqus про него часто забывают, а между тем, у него есть одна забавная особенность.

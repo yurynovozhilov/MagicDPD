@@ -1,15 +1,23 @@
 ---
+author: GlukRazor
+date: 2018-03-03 18:01:23+00:00
+images:
+- url: /assets/images/828.jpg
 layout: post
-title: "Моделирование композиционного материала с учетом разрушения и упрочнения"
-date: 2018-03-03T18:01:23+00:00
-author: "GlukRazor"
+link_previews:
+- description: MAT162 serves as a material model within the LS-DYNA software, offering
+    the capability to simulate the initiation and progression of damage in unidirectional
+    and orthotropic fabric composite materials subjected to 3D stress fields. This
+    model is especially useful for replicating various failure
+  image: https://lh3.googleusercontent.com/sitesv/APaQ0SRqGxYG54MVDIGNYLmiagncBY4ZazA3EkPmxL_ScUZE2yzoPRgVlWIrkq3l18Z5-qp9_hcbQ32io6mlmm7A-YHhoVHbbcmwNs8cGZ0IHJCn1haAR05ez7KJxb76rdTwH3zBVfjfPfIBt-NJyVIBE15ISobcsjaOFuGjckG0gIcTH7_KfDlWW4yT=w16383
+  title: MZH Technologies LLC - MAT162
+  url: http://www.ccm.udel.edu/software/mat162/
 source: vk
 tags:
-  - Composites
-  - Perforation
-  - LSDYNA
-images:
-  - url: "/assets/images/828.jpg"
+- Composites
+- Perforation
+- LSDYNA
+title: Моделирование композиционного материала с учетом разрушения и упрочнения
 ---
 
 Центр композиционных материалов Делавэрского университета разработал очень интересную модель материала для расчетов композитных конструкций — *MAT_COMPOSITE_MSC_DMG

@@ -1,22 +1,27 @@
 ---
+author: MagicDPD
+date: 2022-09-14 18:00:17+00:00
 layout: post
-title: "Сегодня я бы хотел высказать пару мыслей про #opensource проект #pyAnsys."
-date: 2022-09-14T18:00:17+00:00
-author: "MagicDPD"
+link_previews:
+- description: ''
+  image: ''
+  title: PyAnsys — PyAnsys
+  url: https://docs.pyansys.com/
 source: vk
 tags:
-  - opensource
-  - Gmsh
-  - python
-  - pyMAPDL
-  - Workbench
-  - Python
-  - pyAnsys
-  - pyDPF
-  - FEM
-  - Ansys
-  - docker
-  - API
+- opensource
+- Gmsh
+- python
+- pyMAPDL
+- Workbench
+- Python
+- pyAnsys
+- pyDPF
+- FEM
+- Ansys
+- docker
+- API
+title: 'Сегодня я бы хотел высказать пару мыслей про #opensource проект #pyAnsys.'
 ---
 
 Многие мои друзья, с которыми мы обсуждали данный проект, изначально неправильно поняли, что это, и не придали ему должного значения.

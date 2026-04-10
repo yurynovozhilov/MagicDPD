@@ -1,16 +1,22 @@
 ---
+author: GlukRazor
+date: 2019-06-28 17:00:52+00:00
+images:
+- url: /assets/images/1518.jpg
 layout: post
-title: "Подбор констант для нелинейных моделей материалов — MCalibration"
-date: 2019-06-28T17:00:52+00:00
-author: "GlukRazor"
+link_previews:
+- description: Veryst provides premium engineering and consulting at the interface
+    of technology and manufacturing.
+  image: ''
+  title: Welcome to Veryst Engineering | Veryst Engineering
+  url: https://www.veryst.com/what-we-offer/polymer-modeling
 source: vk
 tags:
-  - properties
-  - material
-  - MCalibration
-  - non_linear
-images:
-  - url: "/assets/images/1518.jpg"
+- properties
+- material
+- MCalibration
+- non_linear
+title: Подбор констант для нелинейных моделей материалов — MCalibration
 ---
 
 Большинство пакетов КЭ-моделирования имеет возможность калибровать простые модели материалов, такие как гиперэластичность и линейная вязкоупругость. Если речь идет о сложных моделях материалов, то КЭ-программы либо не умеют под них калиброваться, либо имеют достаточно ограниченный функционал.

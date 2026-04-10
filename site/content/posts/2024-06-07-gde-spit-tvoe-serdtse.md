@@ -1,9 +1,21 @@
 ---
+author: Yury Novozhilov
+date: 2024-06-07 10:01:04+00:00
 layout: post
-title: "Где спит твоё сердце"
-date: 2024-06-07T10:01:04+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: 'Motivation:  Computational models of the heart are increasingly being
+    used in the development of devices, patient diagnosis and therapy guidance. While
+    software techniques have been developed for simulating single hearts, there remain
+    significant challenges in simulating cohorts of virtual hearts from multiple patients.
+    Dataset Description: We present the first database of four-chamber heart models
+    suitable for electro-mechanical simulations. Our database consists of twenty-four
+    four-chamber hea'
+  image: ''
+  title: A Publicly Available Virtual Cohort of Four-chamber Heart Meshes for Cardiac
+    Electro-mechanics Simulations
+  url: https://zenodo.org/records/3890034
 source: vk
+title: Где спит твоё сердце
 ---
 
 Создание вычислительной модели сердца являет настоящей проверкой прочности для самых суровых кодов. Как правило, в таких моделях задействуется несколько областей физики, решаемые совместно: механика, гидродинамика и электрофизиология. Но, что делать, если вы хотите начать работу в данном направлении?

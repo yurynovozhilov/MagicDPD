@@ -1,16 +1,23 @@
 ---
+author: MagicDPD
+date: 2021-09-10 13:02:45+00:00
 layout: post
-title: "Оптимизация топологии с учетом анизотропии при аддитивном производстве"
-date: 2021-09-10T13:02:45+00:00
-author: "MagicDPD"
+link_previews:
+- description: First fully Anisotropic Topology Optimization Software Solution.Optimizing
+    material distribution and orientations simultaneously based on anisotropic FEA
+    - o...
+  image: https://i.ytimg.com/vi/EvSfOMYO_mc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-DoACuAiKAgwIABABGGUgZShlMA8=&rs=AOn4CLAe-PF2XqGywKhycTWXtBgAxHwsOA
+  title: Anisotropic Optimization and Manufacturing Software - ParaMatters and Covestro
+  url: https://www.youtube.com/watch?v=EvSfOMYO_mc
 source: vk
 tags:
-  - topology
-  - paramatters
-  - optimization
-  - additive_manufacturing
-  - gcode
-  - covestro
+- topology
+- paramatters
+- optimization
+- additive_manufacturing
+- gcode
+- covestro
+title: Оптимизация топологии с учетом анизотропии при аддитивном производстве
 ---
 
 https://www.youtube.com/watch?v=EvSfOMYO_mc

@@ -1,20 +1,25 @@
 ---
+author: GlukRazor
+date: 2018-12-21 17:01:50+00:00
+images:
+- url: /assets/images/1279.jpg
 layout: post
-title: "ANSYS подружится с Prometech Software, Inc."
-date: 2018-12-21T17:01:50+00:00
-author: "GlukRazor"
+link_previews:
+- description: （Particleworksによる解析事例）Particleworksは、粒子法/MPSを採用した、メッシュフリー流体解析ソフトウェアです。水や油などの液体を対象に、その攪拌や飛沫など、大規模変形を伴う自由表面流れの解析に威力を発揮します。その利用は多岐に亘り、自動車・輸送用機械、医療・製薬、食品・生活関連、土木...
+  image: https://i.ytimg.com/vi/WDFSzgjWR_4/maxresdefault.jpg
+  title: 【流体解析-事例集】粒子法 シミュレーションソフトの事例映像｜CG｜Particleworks ｜Prometech
+  url: https://www.youtube.com/watch?v=WDFSzgjWR_4
 source: vk
 tags:
-  - CFD
-  - GPU
-  - ANSYS
-  - Particleworks
-  - MPS
-  - Meshless
-  - FSI
-  - Prometech
-images:
-  - url: "/assets/images/1279.jpg"
+- CFD
+- GPU
+- ANSYS
+- Particleworks
+- MPS
+- Meshless
+- FSI
+- Prometech
+title: ANSYS подружится с Prometech Software, Inc.
 ---
 
 В прошедший понедельник на своей конференции японская компания Prometech Software, Inc. объявила о дружбе с ANSYS. Давайте разберемся, почему это очень круто.

@@ -6,7 +6,7 @@ link_previews:
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2xB4oxE
+  url: https://m.vk.com/feed?section=search&q=%23ESAComp
 source: vk
 tags:
 - debonding
@@ -14,7 +14,8 @@ tags:
 - SERR
 - delamination
 - composite
-title: "#ESAComp в новой версии получил возможность считать расслоение композитов на основе Strain Energy Release Rate (#SERR)."
+title: '#ESAComp в новой версии получил возможность считать расслоение композитов
+  на основе Strain Energy Release Rate (#SERR).'
 ---
 
 А еще они внесли данные по для расчета данного типа разрушения в свою базу материалов.

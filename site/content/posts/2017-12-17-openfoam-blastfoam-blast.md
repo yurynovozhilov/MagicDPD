@@ -1,13 +1,36 @@
 ---
+author: GlukRazor
+date: 2017-12-17 17:03:20+00:00
 layout: post
-title: "#OPENFoam #blastFOAM #blast"
-date: 2017-12-17T17:03:20+00:00
-author: "GlukRazor"
+link_previews:
+- description: PEC is partnering with Synthetik Applied Technologies to validate and
+    extend blastFOAM - a high-explosive detonation and airblast solver.  Explosive
+    test dat...
+  image: https://i.ytimg.com/vi/ZwWddtSzWPc/maxresdefault.jpg
+  title: 'blastFOAM: Airblast Validation Study Outputs'
+  url: https://www.youtube.com/watch?v=ZwWddtSzWPc
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3880
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23OPENFoam
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23blastFOAM
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23blast
 source: vk
 tags:
-  - OPENFoam
-  - blastFOAM
-  - blast
+- OPENFoam
+- blastFOAM
+- blast
+title: '#OPENFoam #blastFOAM #blast'
 ---
 
 https://www.youtube.com/watch?v=ZwW…Media📼 blastFOAM: Airblast Validation Study Outputs

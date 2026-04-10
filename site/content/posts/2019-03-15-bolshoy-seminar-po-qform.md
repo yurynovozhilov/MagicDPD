@@ -1,13 +1,13 @@
 ---
+author: GlukRazor
+date: 2019-03-15 17:00:27+00:00
+images:
+- url: /assets/images/1397.jpg
 layout: post
-title: "Большой семинар по QForm"
-date: 2019-03-15T17:00:27+00:00
-author: "GlukRazor"
 source: vk
 tags:
-  - Qform
-images:
-  - url: "/assets/images/1397.jpg"
+- Qform
+title: Большой семинар по QForm
 ---
 
 https://www.youtube.com/watch?v=XIbrCZipsJs&t=1256s

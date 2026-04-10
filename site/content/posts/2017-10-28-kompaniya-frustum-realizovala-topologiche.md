@@ -1,14 +1,25 @@
 ---
+author: GlukRazor
+date: 2017-10-28 17:08:16+00:00
 layout: post
-title: "Компания #Frustum реализовала топологическую оптимизацию в облаке - так получился продукт под названием Frustum Generate."
-date: 2017-10-28T17:08:16+00:00
-author: "GlukRazor"
+link_previews:
+- description: Frustum Generate provides users with FEA-based validation tools to
+    see how current iterations perform according to the already defined load cases
+  image: https://develop3d.com/wp-content/uploads/2019/11/Frustum_Generate_img_1_FW.png
+  title: 'Review: Frustum Generate 1.4'
+  url: http://www.develop3d.com/reviews/review-frustum-generate-1.4-design-tech-topology-optimisation-cloud
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23Frustum
 source: vk
 tags:
-  - optimization
-  - Siemens
-  - Frustum
-  - topology
+- optimization
+- Siemens
+- Frustum
+- topology
+title: 'Компания #Frustum реализовала топологическую оптимизацию в облаке - так получился
+  продукт под названием Frustum Generate.'
 ---
 
 И тут примечательно два момента :

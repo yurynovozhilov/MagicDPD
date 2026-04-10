@@ -5,8 +5,8 @@ layout: post
 link_previews:
 - description: Enjoy the videos and music you love, upload original content, and share
     it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
+  image: https://i.ytimg.com/vi/joTej2spPVo/hqdefault.jpg
+  title: Icem CFD Mesh body 3d
   url: https://www.youtube.com/watch?v=joTej2spPVo
 - description: Mastering Ansys CFD (Level 1) https://www.udemy.com/mastering-ansys-cfd/?couponCode=NINENINENINEMastering
     Ansys CFD (Level 2) https://www.udemy.com/mastering...

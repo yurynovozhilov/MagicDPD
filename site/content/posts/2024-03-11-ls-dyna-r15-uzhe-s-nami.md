@@ -1,9 +1,15 @@
 ---
+author: Yury Novozhilov
+date: 2024-03-11 14:18:23+00:00
 layout: post
-title: "LS-DYNA R15 уже с нами"
-date: 2024-03-11T14:18:23+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: The following copies of LS-DYNA manuals are provided LS-DYNA manuals
+     LS-DYNA Manual R13.0 Vol I  LS-DYNA Manual R13.0 Vol II...
+  image: ''
+  title: Manuals
+  url: https://lsdyna.ansys.com/manuals/
 source: vk
+title: LS-DYNA R15 уже с нами
 ---
 
 Оказывается еще 29 февраля Ansys выпустил финальную сборку моего любимого решателя. Все можно сказачть с известного ftp.lstc.com, а документация опубликована на сайте: https://lsdyna.ansys.com/manuals/

@@ -1,13 +1,23 @@
 ---
+author: Yury Novozhilov
+date: 2026-01-28 13:51:45+00:00
 layout: post
-title: "⚡️ OpenAI Prism: научный редактор на базе GPT-5.2 с поддержкой LaTeX."
-date: 2026-01-28T13:51:45+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping
+    researchers write, collaborate, and reason in one place.
+  image: https://images.ctfassets.net/kftzwdyauwt9/4W9CYPhZqZ7BC3xX5l9eqF/db0ec67da7b563f88e1d3516495f1c78/Prism_BlogPage_SEO.png?w=1600&h=900&fit=fill
+  title: Introducing Prism
+  url: https://openai.com/index/introducing-prism/
+- description: An AI powered LaTeX editor that runs in your browser.
+  image: ''
+  title: Prism - AI LaTeX Editor
+  url: https://prism.openai.com/
 source: vk
 tags:
-  - ml
-  - news
-  - ai
+- ml
+- news
+- ai
+title: '⚡️ OpenAI Prism: научный редактор на базе GPT-5.2 с поддержкой LaTeX.'
 ---
 
 OpenAI наконец-то пустила в дело наработки купленного стартапа Crixet и это очень хорошая попытка создать идеальное рабочее место для ученых, где не нужно прыгать между десятью вкладками.

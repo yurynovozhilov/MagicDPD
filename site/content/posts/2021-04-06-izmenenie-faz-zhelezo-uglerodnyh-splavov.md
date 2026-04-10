@@ -1,11 +1,17 @@
 ---
+author: MagicDPD
+date: 2021-04-06 13:01:40+00:00
 layout: post
-title: "Изменение фаз железо-углеродных сплавов"
-date: 2021-04-06T13:01:40+00:00
-author: "MagicDPD"
+link_previews:
+- description: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  image: https://i.ytimg.com/vi/bVJnn7L7AAI/maxresdefault.jpg
+  title: Мартенситные превращения
+  url: https://www.youtube.com/watch?v=bVJnn7L7AAI
 source: vk
 tags:
-  - material
+- material
+title: Изменение фаз железо-углеродных сплавов
 ---
 
 https://www.youtube.com/watch?v=bVJnn7L7AAI

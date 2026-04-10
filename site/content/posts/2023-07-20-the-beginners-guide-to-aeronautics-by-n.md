@@ -1,11 +1,16 @@
 ---
-layout: post
-title: "The Beginner's Guide to Aeronautics by NASA Glenn Research Center"
-date: 2023-07-20T15:01:53+00:00
-author: "Yury Novozhilov"
-source: vk
+author: Yury Novozhilov
+date: 2023-07-20 15:01:53+00:00
 images:
-  - url: "/assets/images/2475.jpg"
+- url: /assets/images/2475.jpg
+layout: post
+link_previews:
+- description: ''
+  image: ''
+  title: Beginner's Guide to Aeronautics
+  url: https://www.grc.nasa.gov/www/k-12/airplane/index.html
+source: vk
+title: The Beginner's Guide to Aeronautics by NASA Glenn Research Center
 ---
 
 В XXI веке самолеты - обычная часть повседневной жизни. Мы видим, как они пролетают, читаем о них или смотрим по телевизору. Большинство из нас путешествовали на самолетах или знают кого-то, кто путешествовал. Задумывались ли вы когда-нибудь, как летают самолеты? За счет чего возникает подъемная сила, которая отрывает самолет от взлетной полосы? Как пилот управляет движением самолета? Как братья Райт изобрели самолет? Почему двигатели авиалайнера отличаются от двигателей истребителя? Как аэродинамика влияет на полет бейсбольного или футбольного мяча, модели ракеты или воздушного змея? Информация на этом сайте предоставлена Управлением образовательных программ (EPO) NASA Glenn, чтобы дать вам лучшее понимание того, как работают самолеты и аэродинамика.

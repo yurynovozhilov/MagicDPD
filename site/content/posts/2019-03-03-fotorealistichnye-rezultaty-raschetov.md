@@ -1,16 +1,22 @@
 ---
+author: GlukRazor
+date: 2019-03-03 10:55:19+00:00
+images:
+- url: /assets/images/1372.jpg
 layout: post
-title: "Фотореалистичные результаты расчетов"
-date: 2019-03-03T10:55:19+00:00
-author: "GlukRazor"
+link_previews:
+- description: How turn you system level dynamics simulations into stunning photorealistic
+    beauties.  Use Algoryx Momentum and KeyShot Pro.https://www.ansys.comhttps://www....
+  image: https://i.ytimg.com/vi/scigk4vVbF4/hqdefault.jpg
+  title: 20 - Photorealistic physics in KeyShot
+  url: https://www.youtube.com/watch?v=scigk4vVbF4
 source: vk
 tags:
-  - Algoryx
-  - KeyShot
-  - Momentum
-  - SpaceClaim
-images:
-  - url: "/assets/images/1372.jpg"
+- Algoryx
+- KeyShot
+- Momentum
+- SpaceClaim
+title: Фотореалистичные результаты расчетов
 ---
 
 https://www.youtube.com/watch?v=scigk4vVbF4

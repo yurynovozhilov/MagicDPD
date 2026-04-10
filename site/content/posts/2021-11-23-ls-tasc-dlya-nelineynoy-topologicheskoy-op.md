@@ -1,17 +1,25 @@
 ---
+author: MagicDPD
+date: 2021-11-23 15:42:22+00:00
 layout: post
-title: "LS-TaSC для нелинейной топологической оптимизации в динамической постановке"
-date: 2021-11-23T15:42:22+00:00
-author: "MagicDPD"
+link_previews:
+- description: 'Speaker: Willem Roux (Ansys/LST)To reduce the head impact injuries
+    in case of traffic accidents, the design of an automotive hood must consider many
+    design r...'
+  image: https://i.ytimg.com/vi/nVJ_7kpAp_A/maxresdefault.jpg
+  title: 'DYNAmore Express: Topology optimization of an automotive hood for multiple
+    load cases'
+  url: https://www.youtube.com/watch?v=nVJ_7kpAp_A
 source: vk
 tags:
-  - ansys_lst
-  - topology
-  - lstc
-  - optimization
-  - lsdyna
-  - ls
-  - ansys
+- ansys_lst
+- topology
+- lstc
+- optimization
+- lsdyna
+- ls
+- ansys
+title: LS-TaSC для нелинейной топологической оптимизации в динамической постановке
 ---
 
 Мы все привыкли, что топологическая оптимизация aka генеративный дизайн, это что-то работающее с кучей ограничений: изотропные материалы, малые перемещения, статическая постановка, отсутствие нелинейности в материалах, отсутствие контактов... Короче говоря, скучная линейная теория упругости в самой базовой постановке. Конечно есть некоторые отдельные дорогие оптимизаторы, которые обещают и нелинейные расчеты, но пробовали ли вы ими пользоваться для реальных задач?

@@ -1,13 +1,32 @@
 ---
+author: MagicDPD
+date: 2021-09-03 13:01:24+00:00
 layout: post
-title: "NASA TECHNICAL MEMORANDUM: ASTRONAUTIC STRUCTURES MANUAL"
-date: 2021-09-03T13:01:24+00:00
-author: "MagicDPD"
+link_previews:
+- description: 'Title: NASA TM-X-73305 VOL-I, Date: 1975-Jul-31, Status: Inactive,
+    Desc: NASA/TM-X-73305 (VOLUME I) NASA TECHNICAL MEMORANDUM ASTRONAUTIC STRUCTURES
+    MANUAL (AUG'
+  image: ''
+  title: NASA TM-X-73305 VOL-I NASA/TM-X-73305 NASA TECHNICAL
+  url: http://everyspec.com/NASA/NASA-General/NASA_TM-X-73305_VOL-I_46177/
+- description: 'Title: NASA TM-X-73306 VOL-II, Date: 1975-Aug-00, Status: Inactive,
+    Desc: NASA/TM-X-73306 (VOLUME II) NASA TECHNICAL MEMORANDUM ASTRONAUTIC STRUCTURES
+    MANUAL (AUG'
+  image: ''
+  title: NASA TM-X-73306 VOL-II NASA/TM-X-73306 NASA TECHNICAL
+  url: http://everyspec.com/NASA/NASA-General/NASA_TM-X-73306_VOL-II_13279/
+- description: 'Title: NASA TM-X-73307 VOL-III, Date: 1975-Aug-00, Status: Inactive,
+    Desc: NASA/TM-X-73307 (VOLUME III) NASA TECHNICAL MEMORANDUM ASTRONAUTIC STRUCTURES
+    MANUAL ('
+  image: ''
+  title: NASA TM-X-73307 VOL-III NASA/TM-X-73307 NASA TECHNICAL
+  url: http://everyspec.com/NASA/NASA-General/NASA_TM-X-73307_VOL-III_13278/
 source: vk
 tags:
-  - true_science
-  - simulationfriday
-  - nasa
+- true_science
+- simulationfriday
+- nasa
+title: 'NASA TECHNICAL MEMORANDUM: ASTRONAUTIC STRUCTURES MANUAL'
 ---
 
 Представьте, что вы в космосе, под рукой нет компьютера с вашей любимой системой решения прочностных задач, а не дворе 1975 год.

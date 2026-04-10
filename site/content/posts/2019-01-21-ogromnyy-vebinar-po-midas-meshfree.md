@@ -1,15 +1,21 @@
 ---
+author: GlukRazor
+date: 2019-01-21 17:00:16+00:00
+images:
+- url: /assets/images/1318.jpg
 layout: post
-title: "Огромный вебинар по midas MeshFree"
-date: 2019-01-21T17:00:16+00:00
-author: "GlukRazor"
+link_previews:
+- description: The webinar will focus on MeshFree's Basic Training and the Tutorial
+    Demonstration.
+  image: https://i.ytimg.com/vi/-KT0VbQH6q8/maxresdefault.jpg
+  title: MeshFree Basics Webinar Recording
+  url: https://www.youtube.com/watch?v=-KT0VbQH6q8
 source: vk
 tags:
-  - MIDAS
-  - meshless
-  - MESHFREE
-images:
-  - url: "/assets/images/1318.jpg"
+- MIDAS
+- meshless
+- MESHFREE
+title: Огромный вебинар по midas MeshFree
 ---
 
 Это наверно самый большой вебинар, который я встречал: полтора часа вдумчивого рассказа про работу бессеточного решателя midas MeshFree, созданного при поддержке Samsung.

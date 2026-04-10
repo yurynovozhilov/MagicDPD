@@ -1,14 +1,33 @@
 ---
+author: GlukRazor
+date: 2017-12-25 17:11:21+00:00
 layout: post
-title: "Изогеометрический анализ (#IGA, isogeometric analysis) - это один из перспективных методов выполнения расчетов для случаев, когда не происходит разрушения материала ."
-date: 2017-12-25T17:11:21+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3923
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23FEM
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23explicit
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23implicit
 source: vk
 tags:
-  - explicit
-  - implicit
-  - IGA
-  - FEM
+- explicit
+- implicit
+- IGA
+- FEM
+title: Изогеометрический анализ (#IGA, isogeometric analysis) - это один из перспективных
+  методов выполнения расчетов для случаев, когда не происходит разрушения материала
+  .
 ---
 
 Преимущества данного метода перед традиционным #FEM подробно пописаны а прилагаемой статье.

@@ -1,9 +1,17 @@
 ---
+author: Yury Novozhilov
+date: 2024-08-09 13:38:47+00:00
 layout: post
-title: "Танцующий изюм: левитация и динамика тел в пересыщенных жидкостях"
-date: 2024-08-09T13:38:47+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: Saverio Spagnolie, Department of Mathematics, University of Wisconsin
+    - MadisonSamuel Christianson, Department of Mathematics, University of Wisconsin
+    - Madi...
+  image: https://i.ytimg.com/vi/sSiWNOIOpYI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGQgZChkMA8=&rs=AOn4CLCHGYVPvbcAAc6WQVULmjCBGqAnMQ
+  title: 'V0047: Dancing raisins: levitation and dynamics of bodies in supersaturated
+    fluids'
+  url: https://www.youtube.com/watch?v=sSiWNOIOpYI
 source: vk
+title: 'Танцующий изюм: левитация и динамика тел в пересыщенных жидкостях'
 ---
 
 И такое тоже моделируют...

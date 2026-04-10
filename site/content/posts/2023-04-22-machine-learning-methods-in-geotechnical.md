@@ -1,9 +1,15 @@
 ---
+author: Yury Novozhilov
+date: 2023-04-22 08:46:23+00:00
 layout: post
-title: "Machine Learning Methods in Geotechnical Engineering"
-date: 2023-04-22T08:46:23+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: Hosted by Prof Majid Nazem of RMIT University, Melbourne, Australia.Machine
+    Learning in Geotech needs data. You can easily generate training sets using OPTUM...
+  image: https://i.ytimg.com/vi/iTSYLdGrJJI/hqdefault.jpg
+  title: Machine Learning Methods in Geotechnical Engineering
+  url: https://www.youtube.com/watch?v=iTSYLdGrJJI
 source: vk
+title: Machine Learning Methods in Geotechnical Engineering
 ---
 
 Подход машинного обучения является областью искусственного интеллекта и основан на принципе, что машины могут получать данные, обучаться и предсказывать поведение на основе прошлых наблюдений из полученных данных. На этом вебинаре будет рассмотрена применимость различных методов машинного обучения в ряде задач геомеханики, таких как устойчивость склонов, несущая способность свай, динамическая пенетрация и прогнозирование свойств, присущих грунтам.

@@ -7,7 +7,7 @@ link_previews:
     #Simulation and #ThreeParticle'
   image: https://pbs.twimg.com/ext_tw_video_thumb/850310145821343745/pu/img/nAszpGMQ9F-SLUbB.jpg:large
   title: BECKER 3D GmbH (@BECKER_3D_GmbH) on X
-  url: https://t.co/2ixUZ7Rm93
+  url: https://twitter.com/BECKER_3D_GmbH/status/850310329909129216
 - description: 'It''s #SimulationFriday and time to start the lawn mower with DEM
     #Simulation and #ThreeParticle'
   image: https://pbs.twimg.com/ext_tw_video_thumb/850310145821343745/pu/img/nAszpGMQ9F-SLUbB.jpg:large

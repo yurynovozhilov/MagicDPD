@@ -1,11 +1,20 @@
 ---
+author: GlukRazor
+date: 2017-11-03 17:02:02+00:00
 layout: post
-title: "#acumMedia"
-date: 2017-11-03T17:02:02+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3608
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23acum
 source: vk
 tags:
-  - acumMedia
+- acumMedia
+title: '#acumMedia'
 ---
 
 http://ift.tt/2zbmsgQ

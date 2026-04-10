@@ -1,16 +1,21 @@
 ---
+author: GlukRazor
+date: 2018-02-19 18:00:53+00:00
+images:
+- url: /assets/images/807.jpg
 layout: post
-title: "Надо больше узлов!"
-date: 2018-02-19T18:00:53+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: three.js webgl - geometry - cube
+  url: http://ftp.lstc.com/anonymous/outgoing/marleigh/hex64.html
 source: vk
 tags:
-  - LSTC
-  - H8TOH27
-  - H8TOH64
-  - LSDYNA
-images:
-  - url: "/assets/images/807.jpg"
+- LSTC
+- H8TOH27
+- H8TOH64
+- LSDYNA
+title: Надо больше узлов!
 ---
 
 !!

@@ -1,16 +1,23 @@
 ---
+author: MagicDPD
+date: 2021-03-16 13:21:10+00:00
 layout: post
-title: "Топологическая оптимизация в изогеометрической постановке"
-date: 2021-03-16T13:21:10+00:00
-author: "MagicDPD"
+link_previews:
+- description: Professional Conference Recording
+  image: https://slideslive.com/public/assets/share-img-B_SY1GJM.jpg
+  title: Emad Shakour, Oded Amir · Structural Topology Optimization With Accurate
+    Boundary Representation Using Un-Trimming Techniques and Isogeometric Analysis
+    · SlidesLive
+  url: https://slideslive.com/38944315/structural-topology-optimization-with-accurate-boundary-representation-using-untrimming-techniques-and-isogeometric-analysis
 source: vk
 tags:
-  - topology
-  - iga
-  - level_set_method
-  - simp
-  - optimization
-  - ansys
+- topology
+- iga
+- level_set_method
+- simp
+- optimization
+- ansys
+title: Топологическая оптимизация в изогеометрической постановке
 ---
 
 Статья, о которой я сегодня рассуждаю, это очень красивое развитие топологической оптимизации. Итак, для оптимизации топологии у нас есть древний SIMP, который дает дискретные результаты на дискретных моделях, так как играет с псевдоплотностью конечных элементов.

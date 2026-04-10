@@ -9,12 +9,6 @@ link_previews:
   image: https://i.ytimg.com/vi/esBC0WwAX8g/maxresdefault.jpg
   title: Direct Metal Deposition | FLOW-3D AM
   url: https://www.youtube.com/watch?v=esBC0WwAX8g
-- description: Enjoy the videos and music you love, upload original content, and share
-    it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
-  url: http://web.archive.org/web/20220430050625/https://www.youtube.com/watch?v=oWfoAzQlLVo
-  original_url: https://www.youtube.com/watch?v=oWfoAzQlLVo
 - description: Do you want to…... calculate the deformation of the final part... analyze
     the residual stresses?... optimize the build-up orientation?... improve the support...
   image: https://i.ytimg.com/vi/l9n6AheyI2E/maxresdefault.jpg
@@ -26,17 +20,6 @@ link_previews:
   title: Direct Metal Laser Sintering (DMLS) simulation using ANSYS - temperature
     distribution
   url: https://www.youtube.com/watch?v=H0Uara7B5to
-- description: Enjoy the videos and music you love, upload original content, and share
-    it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
-  url: http://web.archive.org/web/20220430050621/https://www.youtube.com/watch?v=74TOhQwEj80
-  original_url: https://www.youtube.com/watch?v=74TOhQwEj80
-- description: Enjoy the videos and music you love, upload original content, and share
-    it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
-  url: https://www.youtube.com/watch?v=LWk43HjKjcM
 source: vk
 tags:
 - Pancomputing
@@ -48,7 +31,7 @@ tags:
 - FLOW3D
 - additive_manufacturing
 - FEM
-title: "Direct Metal Deposition или процесс объемной лазерной наплавки"
+title: Direct Metal Deposition или процесс объемной лазерной наплавки
 ---
 
 https://www.youtube.com/watch?v=esBC0WwAX8g

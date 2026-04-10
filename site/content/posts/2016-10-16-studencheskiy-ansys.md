@@ -5,8 +5,8 @@ layout: post
 link_previews:
 - description: Enjoy the videos and music you love, upload original content, and share
     it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
+  image: https://i.ytimg.com/vi/rV-xr_D18hM/hqdefault.jpg
+  title: Downloading and Installing ANSYS Student Release 17.2
   url: https://www.youtube.com/watch?v=rV-xr_D18hM
 source: vk
 tags:

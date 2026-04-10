@@ -11,7 +11,7 @@ link_previews:
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2vKriOO
+  url: https://m.vk.com/feed?section=search&q=%23APDL
 source: vk
 tags:
 - ANSYS
@@ -19,7 +19,7 @@ tags:
 - Mechanical
 - TECS
 - ACT
-title: "#APDL жив!"
+title: '#APDL жив!'
 ---
 
 Михаэль Томпсон (Michael (Mike) Thompson) из ANSYS Inc. опубликовал бесплатное #ACT расширение "APDL Editor" для #ANSYS #Mechanical. Расширение помогает вам писать APDL код командных объектов, подсказывая синтаксис команд и выводя необходимые разделы документации. Ниже иллюстрация из официальной документации по работе расширения.

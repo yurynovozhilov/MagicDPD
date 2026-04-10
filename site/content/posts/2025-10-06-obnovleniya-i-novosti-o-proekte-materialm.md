@@ -1,9 +1,15 @@
 ---
+author: Yury Novozhilov
+date: 2025-10-06 07:38:54+00:00
 layout: post
-title: "Обновления и новости о проекте MaterialMap по состоянию на начало октября 2025 года."
-date: 2025-10-06T07:38:54+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: ''
+  image: ''
+  title: Material MAP
+  url: https://materialmap.github.io
 source: vk
+title: Обновления и новости о проекте MaterialMap по состоянию на начало октября 2025
+  года.
 ---
 
 Во-первых, я добавил десятки высокоэнергетических материалов на основе *EOS_JWL(_AFTERBURN) и *EOS_IGNITION_AND_GROWTH_OF_REACTION_IN_HE. Так что даже для несовершенного взрыва теперь есть много свойств.

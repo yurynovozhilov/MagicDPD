@@ -6,25 +6,25 @@ link_previews:
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2gR7bt1
+  url: https://m.vk.com/wall-97265142_3191
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2eTSSqj
+  url: https://m.vk.com/feed?section=search&q=%23composite
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2jdGXoV
+  url: https://m.vk.com/feed?section=search&q=%23theory
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2vk2wVv
+  url: https://m.vk.com/feed?section=search&q=%23ANSYS
 source: vk
 tags:
 - theory
 - ANSYS
 - composite
-title: "#composite #theory of #ANSYS Composite PrePost (ACP)Media💾 CompositesWorkshop_ANSYS_DAF.pdf"
+title: "#composite #theory of #ANSYS Composite PrePost (ACP)Media\U0001F4BE CompositesWorkshop_ANSYS_DAF.pdf"
 ---
 
 http://ift.tt/2gR7bt1

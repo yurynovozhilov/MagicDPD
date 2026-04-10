@@ -1,15 +1,20 @@
 ---
+author: GlukRazor
+date: 2016-04-19 07:02:16+00:00
 layout: post
-title: "Я наконец смог посчитать #CFD задачу со свободной поверхностью в #LSDYNA #ICFD."
-date: 2016-04-19T07:02:16+00:00
-author: "GlukRazor"
+link_previews:
+- description: 'You could download input deck here: https://vk.com/wall-97265142_1584'
+  image: https://i.ytimg.com/vi/VI7Gd3Zo5iU/hqdefault.jpg
+  title: Water Column Collapse in LS-DYNA ICFD
+  url: https://www.youtube.com/watch?v=VI7Gd3Zo5iU
 source: vk
 tags:
-  - CFD
-  - MPP
-  - ICFD
-  - LSDYNA
-  - freesurface
+- CFD
+- MPP
+- ICFD
+- LSDYNA
+- freesurface
+title: 'Я наконец смог посчитать #CFD задачу со свободной поверхностью в #LSDYNA #ICFD.'
 ---
 
 Использовал слегка модифицированную постановку Sunao Tokura из стати "Validation of Fluid Analysis Capabilities in LS-DYNA Based on Experimental Result". Получилось неплохо. Есть несколько тонкостей:

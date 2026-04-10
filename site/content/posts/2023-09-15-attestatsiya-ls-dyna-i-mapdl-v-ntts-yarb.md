@@ -1,11 +1,20 @@
 ---
-layout: post
-title: "Аттестация LS-DYNA и MAPDL в НТЦ ЯРБ"
-date: 2023-09-15T15:01:34+00:00
-author: "Yury Novozhilov"
-source: vk
+author: Yury Novozhilov
+date: 2023-09-15 15:01:34+00:00
 images:
-  - url: "/assets/images/2520.jpg"
+- url: /assets/images/2520.jpg
+layout: post
+link_previews:
+- description: ''
+  image: ''
+  title: ORCID
+  url: https://orcid.org/0000-0001-9584-6997
+- description: ''
+  image: ''
+  title: ORCID
+  url: https://orcid.org/0000-0003-3166-1576
+source: vk
+title: Аттестация LS-DYNA и MAPDL в НТЦ ЯРБ
 ---
 
 Внезапная и немного грустная весточка из прошлой жизни. Оказываться после почти 2 лет молчания ФБУ «НТЦ ЯРБ» таки аттестовал и Ansys Mechainical и Ansys LS-DYNA для нелинейных и даже динамических расчетов железобетона. Это была огромная работа, это была огромная засада, это был самый амбициозный наш с Андреем Дмитриевым расчетный проект! Я рад, что наши усилия не пропали.

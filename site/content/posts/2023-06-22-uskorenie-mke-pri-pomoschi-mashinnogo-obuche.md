@@ -1,9 +1,17 @@
 ---
+author: Yury Novozhilov
+date: 2023-06-22 15:00:19+00:00
 layout: post
-title: "Ускорение МКЭ при помощи машинного обучения"
-date: 2023-06-22T15:00:19+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: 'Speaker: Panos Pantidis (New York University Abu Dhabi, United Arab
+    Emirates)Title: Accelerating FEM with machine learning: an introduction to the
+    Integrated...'
+  image: https://i.ytimg.com/vi/RqhHFB3YGsA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBcbn_kh9r8QgUK_krQOBOmnM14yw
+  title: 'Accelerating FEM with ML: an introduction to the Integrated Finite Element
+    Neural Network'
+  url: https://www.youtube.com/watch?v=RqhHFB3YGsA
 source: vk
+title: Ускорение МКЭ при помощи машинного обучения
 ---
 
 Ну вот и до нас добрались "современные" технологии. Смотрим часовой доклад со следующей анностацией:

@@ -1,13 +1,32 @@
 ---
+author: MagicDPD
+date: 2021-01-22 14:51:31+00:00
 layout: post
-title: "Машинное обучение для CFD"
-date: 2021-01-22T14:51:31+00:00
-author: "MagicDPD"
+link_previews:
+- description: '@eigensteve on TwitterThis video gives an overview of how Machine
+    Learning is being used in Fluid Mechanics.  In fact, fluid mechanics is one of
+    the original...'
+  image: https://i.ytimg.com/vi/8e3OT2K99Kw/maxresdefault.jpg
+  title: Machine Learning for Fluid Mechanics
+  url: https://www.youtube.com/watch?v=8e3OT2K99Kw
+- description: This video discusses how machine learning is currently being used to
+    extract useful patterns and coherent structures in high-dimensional fluid dynamics.
+    Down...
+  image: https://i.ytimg.com/vi/3fOXIbycAmc/maxresdefault.jpg
+  title: 'Machine Learning for Fluid Dynamics: Patterns'
+  url: https://www.youtube.com/watch?v=3fOXIbycAmc
+- description: This video discusses how machine learning is currently being used to
+    model and control fluid dynamics. Download paper at the Annual Review of Fluid
+    Mechanics...
+  image: https://i.ytimg.com/vi/gb_C9LcjDSI/maxresdefault.jpg
+  title: 'Machine Learning for Fluid Dynamics: Models and Control'
+  url: https://www.youtube.com/watch?v=gb_C9LcjDSI
 source: vk
 tags:
-  - cfd
-  - machine_learning
-  - ai
+- cfd
+- machine_learning
+- ai
+title: Машинное обучение для CFD
 ---
 
 https://www.youtube.com/watch?v=8e3OT2K99Kw

@@ -1,18 +1,23 @@
 ---
+author: GlukRazor
+date: 2019-09-18 11:47:06+00:00
 layout: post
-title: "Volvo говорит про LS-DYNA"
-date: 2019-09-18T11:47:06+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: YouTube
+  url: https://www.youtube.com/embed/kfYjxiZaESI?__ref=vk.api
 source: vk
 tags:
-  - LS_DYNA
-  - HPC
-  - LSDYNA
-  - ANSA
-  - CAE
-  - Volvo
-  - Meta
-  - BETA
+- LS_DYNA
+- HPC
+- LSDYNA
+- ANSA
+- CAE
+- Volvo
+- Meta
+- BETA
+title: Volvo говорит про LS-DYNA
 ---
 
 Очень крутой технический доклад #Volvo на 7-ой конференции «BEFORE REALITY CONFERENCE», проводимой компанией #BETA #CAE. Конечно Volvo читает в моей любимой #LSDYNA. А вот модели она готовит в #ANSA, на которую они накрутили много собственной автоматизации. Анализ результатов за #Meta.

@@ -1,15 +1,35 @@
 ---
+author: MagicDPD
+date: 2021-11-24 16:34:59+00:00
 layout: post
-title: "Национальная лаборатория Лоуренса Ливермора и атака астероидов!"
-date: 2021-11-24T16:34:59+00:00
-author: "MagicDPD"
+link_previews:
+- description: A 3D Spheral simulation of the DART experiment, 0.1 seconds after impact,
+    shows ejecta velocity in meters per second, in the direction of intended deflection...
+  image: https://i.ytimg.com/vi/UbrxGnkIoXE/maxresdefault.jpg
+  title: Lawrence Livermore Lab takes part in NASA’s first planetary defense test
+  url: https://www.youtube.com/watch?v=UbrxGnkIoXE
+- description: Contribute to llnl/spheral development by creating an account on GitHub.
+  image: https://opengraph.githubassets.com/49d0f7da7a48680c104a73f7641cb78588ea3eaaed05ef06d1d46c0705e197ba/llnl/spheral
+  title: GitHub - llnl/spheral
+  url: https://github.com/LLNL/spheral
+- description: Lawrence Livermore National Laboratory (LLNL) is taking part in NASA's
+    first-ever planetary defense test, which deliberately collides a spacecraft into
+    an asteroid called Dimorphos. The Double Asteroid Redirection Test (DART) will
+    examine technologies that will prevent an impact of Earth by a hazardous asteroid.
+    DART is the first demonstration of the kinetic impactor technique to change the
+    motion of an asteroid in space. The asteroid is a small moon of a larger asteroid
+    called Didymos. The
+  image: https://contenthub.llnl.gov/sites/contenthub/files/styles/scaled_425h/public/news/2021-11/NASA_875x500.jpg?itok=hglHKpAI
+  title: Lawrence Livermore takes part in NASA’s first planetary defense test
+  url: https://www.llnl.gov/news/lawrence-livermore-takes-part-nasas-first-planetary-defense-test
 source: vk
 tags:
-  - sph
-  - open_source
-  - dart
-  - spheral
-  - llnl
+- sph
+- open_source
+- dart
+- spheral
+- llnl
+title: Национальная лаборатория Лоуренса Ливермора и атака астероидов!
 ---
 
 Национальная лаборатория Лоуренса Ливермора (LLNL) принимает участие в первом в истории NASA испытании планетарной защиты, в ходе которого космический аппарат намеренно столкнется с астероидом под названием Dimorphos.

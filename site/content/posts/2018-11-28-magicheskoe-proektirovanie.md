@@ -1,12 +1,18 @@
 ---
+author: GlukRazor
+date: 2018-11-28 17:01:46+00:00
 layout: post
-title: "Магическое проектирование"
-date: 2018-11-28T17:01:46+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: 'isicad: Порождающим проектированием (GD) в мире не случайно занимаются не
+    менее дюжины серьёзных вендоров'
+  url: http://isicad.ru/ru/articles.php?article_num=20198
 source: vk
 tags:
-  - Topology
-  - Optimization
+- Topology
+- Optimization
+title: Магическое проектирование
 ---
 
 Я понимаю, что англоязычные термины нуждаются в переводе, и, что порою их не так-то просто адаптировать к нашей речи - сам неоднократно делал технические переводы и страдал. Но иногда лучше не переводить.

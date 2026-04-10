@@ -1,13 +1,30 @@
 ---
+author: GlukRazor
+date: 2018-01-09 12:00:25+00:00
+images:
+- url: /assets/images/706.jpg
 layout: post
-title: "Новый сайт"
-date: 2018-01-09T12:00:25+00:00
-author: "GlukRazor"
+link_previews:
+- description: Magic Driven Product Development. 102 likes. I am a structural engineer
+    and this is my only passion!
+  image: https://scontent-muc2-1.xx.fbcdn.net/v/t39.30808-1/308641916_463173332503595_3954335849487967584_n.jpg?stp=dst-jpg_tt6&cstp=mx1024x512&ctp=s1024x512&_nc_cat=110&ccb=1-7&_nc_sid=3ab345&_nc_ohc=bQXj4deIuFQQ7kNvwHJK3sU&_nc_oc=AdlDxjlGEODa7Tt5LUdn6_a6LoDx_67GaPoiG0cIxK4u9umHIunmj9h8fW-fAKXeC58tP5EtP3yBtnAK8OjZr2k9&_nc_zt=24&_nc_ht=scontent-muc2-1.xx&_nc_gid=RfVR09fLEcmmOm91nDshGg&_nc_ss=8&oh=00_AfthzT_99iDZqnHp1UVcw88yySukFbod-YX-E93qt0sfBQ&oe=69AA6424
+  title: Magic Driven Product Development
+  url: http://facebook.com/magicdpd
+- description: "Кто-то думает, что это волшебство - для нас же это просто работа.
+    Тут рассказывают о развитии CAE технологий, HPC вычислительных комплексов и прочей
+    магии позволяющей разрабатывать хорошие продукты. \tWelcome to Magic-Driven Product
+    Development!"
+  image: https://cdn4.telesco.pe/file/J8rWq3adJVL_-Fr80W7AHTM_6F5q0nHj5mL6vIeHN-1CrH9QtKRhVylti5iGsjwY5mCxDPRygdAya2IVbG2uhurhWNTkSHOV8yKNpJY8MorP9JmKBW1FnwrOA_cVoZahZ19WmRFOLO0X7uzM_4ai8sUz7lGcLgpeYYi8JQmn8G--R1OopZOFB4UyILHPKVnJqgdN3T_kw3_-wgAVpUM4KSLSC_wMuGKsItA1duyQgugsYzmdzhIhqQUAgXVQpkwpaF7_5OpZVd_CZsVQ_uU18zCN206rgod2pPajkQH823THjUlshVyAx9Kb4etNbyvJsdAUYlVYBiAbN7tEAXaExw.jpg
+  title: MagicDPD | CAE магия
+  url: http://t.me/magicdpd
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: http://vk.com/magicdpd
 source: vk
 tags:
-  - CAE
-images:
-  - url: "/assets/images/706.jpg"
+- CAE
+title: Новый сайт
 ---
 
 Коллеги, сегодня первый рабочий день в году,  cегодня я хочу рассказать про развитие проекта MagicDPD.

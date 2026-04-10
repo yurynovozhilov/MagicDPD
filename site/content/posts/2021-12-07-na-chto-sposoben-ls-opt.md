@@ -1,13 +1,20 @@
 ---
+author: MagicDPD
+date: 2021-12-07 14:51:34+00:00
 layout: post
-title: "На что способен LS-Opt"
-date: 2021-12-07T14:51:34+00:00
-author: "MagicDPD"
+link_previews:
+- description: 'Speakers: Nielen Stander, Anirban Basudhar (Ansys/LST)Sorry for the
+    bad audio quality (reverb and mixing audio till approx. 9:27)0:00 Intro1:30 Start
+    of talk...'
+  image: https://i.ytimg.com/vi/axoCIksS0zo/maxresdefault.jpg
+  title: 'DYNAmore Express: LS-OPT - Status and Outlook'
+  url: https://www.youtube.com/watch?v=axoCIksS0zo
 source: vk
 tags:
-  - ls
-  - optimization
-  - ansys
+- ls
+- optimization
+- ansys
+title: На что способен LS-Opt
 ---
 
 https://youtu.be/axoCIksS0zo

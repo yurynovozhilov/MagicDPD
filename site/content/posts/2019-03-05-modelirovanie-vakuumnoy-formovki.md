@@ -1,18 +1,31 @@
 ---
+author: GlukRazor
+date: 2019-03-05 17:01:05+00:00
+images:
+- url: /assets/images/1375.jpg
 layout: post
-title: "Моделирование вакуумной формовки"
-date: 2019-03-05T17:01:05+00:00
-author: "GlukRazor"
+link_previews:
+- description: This 2-part series of ANSYS How To videos demonstrates how to set up
+    an ANSYS Polyflow blow molding simulation using a surface mesh, or shell mesh.
+    The shell...
+  image: https://i.ytimg.com/vi/zrlK6sHGoQs/hqdefault.jpg
+  title: 'ANSYS Polyflow: Blow Molding Simulation with a Shell Mesh - Part 1'
+  url: https://www.youtube.com/watch?v=zrlK6sHGoQs
+- description: This 2-part series of ANSYS How To videos demonstrates how to set up
+    an ANSYS Polyflow blow molding simulation using a surface mesh, or shell mesh.
+    The shell...
+  image: https://i.ytimg.com/vi/LQp4HyAVpMY/hqdefault.jpg
+  title: 'ANSYS Polyflow: Blow Molding Simulation with a Shell Mesh - Part 2'
+  url: https://www.youtube.com/watch?v=LQp4HyAVpMY
 source: vk
 tags:
-  - LS_DYNA
-  - ANSYS
-  - Ployflow
-  - AIM
-  - forming
-  - WildeAnalysis
-images:
-  - url: "/assets/images/1375.jpg"
+- LS_DYNA
+- ANSYS
+- Ployflow
+- AIM
+- forming
+- WildeAnalysis
+title: Моделирование вакуумной формовки
 ---
 
 Есть пример от Wilde Analysis как такое делается в ANSYS AIM 19.2 — там внутри зашит Polyflow

@@ -1,12 +1,19 @@
 ---
+author: MagicDPD
+date: 2021-03-11 13:50:44+00:00
 layout: post
-title: "Краштест самолета"
-date: 2021-03-11T13:50:44+00:00
-author: "MagicDPD"
+link_previews:
+- description: Amazing footage of a crash test performed on a Boeing 727. Multiple
+    angles from inside and outside the aircraft.This is a part of the Channel 4 documentary
+    a...
+  image: https://i.ytimg.com/vi/kJZ1eHU_JZg/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGHIgWyg8MA8=&rs=AOn4CLDFNrteAMZFAijujcnLrV1TapwDkg
+  title: Plane Crash Boeing 727 - HD Crash Test
+  url: https://www.youtube.com/watch?v=kJZ1eHU_JZg
 source: vk
 tags:
-  - crush
-  - aircraft
+- crush
+- aircraft
+title: Краштест самолета
 ---
 
 https://www.youtube.com/watch?v=kJZ1eHU_JZg&list=WL&index=20

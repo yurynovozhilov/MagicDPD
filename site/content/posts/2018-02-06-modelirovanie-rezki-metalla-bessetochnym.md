@@ -1,16 +1,24 @@
 ---
+author: GlukRazor
+date: 2018-02-06 18:01:28+00:00
+images:
+- url: /assets/images/773.jpg
 layout: post
-title: "Моделирование резки металла бессеточным методом Галеркина"
-date: 2018-02-06T18:01:28+00:00
-author: "GlukRazor"
+link_previews:
+- description: Simulation of machining process (cutting) by the EFG method in LS-DYNA
+    (an abbreviated example of the tutorials). Full tutorial – 30 minutes. Our page
+    in fac...
+  image: https://i.ytimg.com/vi/BREDG6QHUKA/maxresdefault.jpg
+  title: Simulation of machining process (cutting) by the EFG method in LS-DYNA. Video
+    tutorial (incomplete)
+  url: https://www.youtube.com/watch?v=BREDG6QHUKA
 source: vk
 tags:
-  - cutting
-  - LSTC
-  - LS
-  - EFG
-images:
-  - url: "/assets/images/773.jpg"
+- cutting
+- LSTC
+- LS
+- EFG
+title: Моделирование резки металла бессеточным методом Галеркина
 ---
 
 EFG - ElementFree Galerkin Method, он же бессеточный метод Галеркина, применяется при решении задач механики, связанных с большими деформациями как, например, резка металла, экструзия, ковка и прочие подобные процессы обработки материалов.

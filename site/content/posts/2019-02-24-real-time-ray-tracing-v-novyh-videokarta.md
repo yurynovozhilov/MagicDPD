@@ -1,11 +1,23 @@
 ---
-layout: post
-title: "Real-Time Ray Tracing в новых видеокартах NVIDIA"
-date: 2019-02-24T17:00:19+00:00
-author: "GlukRazor"
-source: vk
+author: GlukRazor
+date: 2019-02-24 17:00:19+00:00
 images:
-  - url: "/assets/images/1365.jpg"
+- url: /assets/images/1365.jpg
+layout: post
+link_previews:
+- description: 4A Games are bringing real-time Ray Tracing to Metro Exodus! At NVIDIA’s
+    Gaming Celebration event in Cologne, it was revealed how 4A Games would use NVIDIA
+    R...
+  image: https://i.ytimg.com/vi/Ms7d-3Dprio/maxresdefault.jpg
+  title: 'Metro Exodus: GeForce RTX Real-Time Ray Traced Global Illumination Demo'
+  url: https://www.youtube.com/watch?v=Ms7d-3Dprio
+- description: 'NVIDIA DLSS technology is now available in Battlefield V, improving
+    DXR Ray Tracing performance by up to 40%!Learn More: https://www.nvidia.com/en-us/geforce...'
+  image: https://i.ytimg.com/vi/nshbUzdBlq8/maxresdefault.jpg
+  title: 'Battlefield V: Now With NVIDIA DLSS – Up to 40% Performance Boost!'
+  url: https://www.youtube.com/watch?v=nshbUzdBlq8
+source: vk
+title: Real-Time Ray Tracing в новых видеокартах NVIDIA
 ---
 
 NVIDIA в новом поколении видеокарты RTX показала очень крутую штуку: расчет распространения лучей света в реальном времени. Модуль для такого расчета делает игры еще зрелищнее.

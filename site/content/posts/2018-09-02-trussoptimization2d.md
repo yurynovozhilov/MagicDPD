@@ -1,14 +1,23 @@
 ---
+author: GlukRazor
+date: 2018-09-02 18:00:17+00:00
+images:
+- url: /assets/images/1102.jpg
 layout: post
-title: "TrussOptimization2D"
-date: 2018-09-02T18:00:17+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: Truss Optimization 2D
+  url: http://apps.amandaghassaei.com/TrussOptimization2D/
+- description: ''
+  image: ''
+  title: Truss Optimization 2D
+  url: https://apps.amandaghassaei.com/TrussOptimization2D/
 source: vk
 tags:
-  - GitHub
-  - Game
-images:
-  - url: "/assets/images/1102.jpg"
+- GitHub
+- Game
+title: TrussOptimization2D
 ---
 
 Еще одна увлекательная КЭ игра от Аманды Гассаи (Amanda Ghassaei). На этот раз мы строим мост из балочных элементов.

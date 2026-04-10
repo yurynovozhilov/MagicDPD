@@ -1,16 +1,23 @@
 ---
+author: MagicDPD
+date: 2021-03-19 13:01:41+00:00
 layout: post
-title: "SPH в LS-DYNA - обзорный доклад DYNAmore"
-date: 2021-03-19T13:01:41+00:00
-author: "MagicDPD"
+link_previews:
+- description: 'Speaker: Maik Schenke (DYNAmore GmbH)The analysis of large deformations
+    in solid structures often require special numerical techniques to overcome the
+    limita...'
+  image: https://i.ytimg.com/vi/pwdoZfi9OBA/maxresdefault.jpg
+  title: 'DYNAmore Express: Beyond FEA - Smoothed Particle Hydrodynamics (SPH)'
+  url: https://www.youtube.com/watch?v=pwdoZfi9OBA
 source: vk
 tags:
-  - sph
-  - isph
-  - asph
-  - ls
-  - mls
-  - dynamore
+- sph
+- isph
+- asph
+- ls
+- mls
+- dynamore
+title: SPH в LS-DYNA - обзорный доклад DYNAmore
 ---
 
 https://www.youtube.com/watch?v=pwdoZfi9OBA&t=1624s

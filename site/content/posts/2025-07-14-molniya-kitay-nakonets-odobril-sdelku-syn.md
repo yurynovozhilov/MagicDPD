@@ -1,9 +1,14 @@
 ---
+author: Yury Novozhilov
+date: 2025-07-14 12:06:57+00:00
 layout: post
-title: "Молния: Китай наконец одобрил сделку Synopsys+Ansys"
-date: 2025-07-14T12:06:57+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: ''
+  image: ''
+  title: China finally grants approval for Synopsys+Ansys | Schnitger Corporation
+  url: https://schnitgercorp-com.cdn.ampproject.org/c/s/schnitgercorp.com/2025/07/14/china-finally-grants-approval-for-synopsysansys/amp/
 source: vk
+title: 'Молния: Китай наконец одобрил сделку Synopsys+Ansys'
 ---
 
 Reuters и другие новостные агентства сообщают, что Государственное управление по регулированию рынка Китая (SAMR) одобрило приобретение Synopsys’ом компании Ansys при соблюдении следующих условий:

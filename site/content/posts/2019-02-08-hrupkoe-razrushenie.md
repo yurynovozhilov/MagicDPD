@@ -1,19 +1,28 @@
 ---
+author: GlukRazor
+date: 2019-02-08 04:38:07+00:00
+images:
+- url: /assets/images/1339.jpg
 layout: post
-title: "Хрупкое разрушение"
-date: 2019-02-08T04:38:07+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: https://upload.wikimedia.org/wikipedia/commons/6/6f/Al_tensile_test.jpg
+  title: Перидинамика — Википедия
+  url: https://ru.wikipedia.org/wiki/Перидинамика
+- description: ''
+  image: ''
+  title: Index
+  url: http://ftp.lstc.com/anonymous/outgoing/whu/Class/
 source: vk
 tags:
-  - LSTC
-  - meshless
-  - LSDYNA
-  - AdaptiveEFG
-  - peridynamics
-  - SPG
-  - EFG
-images:
-  - url: "/assets/images/1339.jpg"
+- LSTC
+- meshless
+- LSDYNA
+- AdaptiveEFG
+- peridynamics
+- SPG
+- EFG
+title: Хрупкое разрушение
 ---
 
 Тут у меня коллеги интересовались моделированием хрупкого разрушения материалов в #LSDYNA. Самым передовым и многообещающим методом расчета такого разрушения и трещенообразования является перидинамика (https://ru.wikipedia.org/wiki/Перидинамика)

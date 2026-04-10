@@ -1,12 +1,25 @@
 ---
+author: GlukRazor
+date: 2017-10-31 06:52:20+00:00
 layout: post
-title: "1 минута до начала #acum by #cadfemMedia"
-date: 2017-10-31T06:52:20+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3588
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23acum
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23cadfem
 source: vk
 tags:
-  - cadfemMedia
-  - acum
+- cadfemMedia
+- acum
+title: '1 минута до начала #acum by #cadfemMedia'
 ---
 
 http://ift.tt/2gY1wFi

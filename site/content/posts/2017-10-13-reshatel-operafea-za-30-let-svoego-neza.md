@@ -1,12 +1,26 @@
 ---
+author: GlukRazor
+date: 2017-10-13 17:06:18+00:00
 layout: post
-title: "Решатель #OperaFEA за 30 лет своего независимого существования заточился на прочностные и электромагнитные расчеты."
-date: 2017-10-13T17:06:18+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3507
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23OperaFEA
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23EMAG
 source: vk
 tags:
-  - EMAG
-  - OperaFEA
+- EMAG
+- OperaFEA
+title: 'Решатель #OperaFEA за 30 лет своего независимого существования заточился на
+  прочностные и электромагнитные расчеты.'
 ---
 
 Особенно много они рассказывают про расчеты электрических машин, трансформаторов и задачи с движением зауженных частиц.

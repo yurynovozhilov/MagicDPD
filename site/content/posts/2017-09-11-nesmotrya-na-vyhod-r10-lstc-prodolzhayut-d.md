@@ -6,12 +6,12 @@ link_previews:
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2xRPO1U
+  url: https://m.vk.com/feed?section=search&q=%23LSTC
 source: vk
 tags:
 - LSTC
 - LSDYNA
-title: "Несмотря на выход R10 #LSTC продолжают доработку девятой версии #LSDYNA."
+title: 'Несмотря на выход R10 #LSTC продолжают доработку девятой версии #LSDYNA.'
 ---
 
 Таким образом, на пришлой недели увидела свет LS-DYNA R9.2 содержащий исправление ошибок в коде.

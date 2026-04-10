@@ -1,14 +1,27 @@
 ---
+author: GlukRazor
+date: 2018-04-28 18:01:17+00:00
 layout: post
-title: "Моделирование турбулентного течения (и не только) в SHP постановке"
-date: 2018-04-28T18:01:17+00:00
-author: "GlukRazor"
+link_previews:
+- description: Jan Bender, Dan Koschier, Tassilo Kugelstadt and Marcel Weiler, "Turbulent
+    Micropolar SPH Fluids with Foam", IEEE Transactions on Visualization and Computer
+    ...
+  image: https://i.ytimg.com/vi/elZieJNBYqk/hqdefault.jpg
+  title: Turbulent Micropolar SPH Fluids with Foam
+  url: https://www.youtube.com/watch?v=elZieJNBYqk
+- description: SPlisHSPlasH is an open-source library for the physically-based simulation
+    of fluids. - InteractiveComputerGraphics/SPlisHSPlasH
+  image: https://repository-images.githubusercontent.com/74058995/510e03f0-6306-48bb-afaf-5921b4455371
+  title: 'GitHub - InteractiveComputerGraphics/SPlisHSPlasH: SPlisHSPlasH is an open-source
+    library for the physically-based simulation of fluids.'
+  url: https://github.com/InteractiveComputerGraphics/SPlisHSPlasH
 source: vk
 tags:
-  - CFD
-  - SPlisHSPlasH
-  - SPH
-  - Open
+- CFD
+- SPlisHSPlasH
+- SPH
+- Open
+title: Моделирование турбулентного течения (и не только) в SHP постановке
 ---
 
 Видео в данном посте — результат работы библиотеки с открытым исходным кодом SPlisHSPlasH (http://www.interactive-graphics.de/SPlisHSPlasH/doc/html/). Данная библиотека реалзирует возможность работы с течениями в SPH постановке. При этом она позволяет получать прямо-таки магического качества результаты. Библотека позволяет учитывать завихренность потока, вязкозть жидкости (!), поверхностное натяжение (!!!).

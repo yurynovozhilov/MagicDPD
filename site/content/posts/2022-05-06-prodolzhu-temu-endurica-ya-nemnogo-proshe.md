@@ -1,15 +1,23 @@
 ---
+author: MagicDPD
+date: 2022-05-06 17:00:02+00:00
+images:
+- url: /assets/images/2247.jpg
+- url: /assets/images/2248.jpg
 layout: post
-title: "Продолжу тему #Endurica."
-date: 2022-05-06T17:00:02+00:00
-author: "MagicDPD"
+link_previews:
+- description: Endurica DT features a co-simulation mode that lets you account for
+    stiffness changes that may occur due to fatigue damage occurring under cyclic
+    loading. Co...
+  image: https://i.ytimg.com/vi/CHOeAtkF77Y/maxresdefault.jpg
+  title: Endurica DT Stiffness Loss Cosimulation Demo for a rubber tension fatigue
+    test
+  url: https://www.youtube.com/watch?v=CHOeAtkF77Y
 source: vk
 tags:
-  - fatigue
-  - Endurica
-images:
-  - url: "/assets/images/2247.jpg"
-  - url: "/assets/images/2248.jpg"
+- fatigue
+- Endurica
+title: 'Продолжу тему #Endurica.'
 ---
 
 Я немного прошелся по их сайту и нашел много интересного для себя.

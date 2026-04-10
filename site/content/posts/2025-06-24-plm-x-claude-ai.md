@@ -1,9 +1,21 @@
 ---
+author: Yury Novozhilov
+date: 2025-06-24 11:03:56+00:00
 layout: post
-title: "PLM x Claude AI"
-date: 2025-06-24T11:03:56+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: "\U0001F3A5 Demo: Connecting AI agents to PLM using MCP  \n\nIn this
+    video, I show my setup: a Claude AI agent connected to Aras Corporation PLM using
+    a Python MCP server. This is a concrete step towards an autonomous (!) digital
+    thread.\n\nIn this video:\n – Getting PLM data\n – Adding users\n – Creating BOM
+    structures\n\nTech stack:\n – Claude Desktop (Anthropic)\n – Python MCP server
+    (Anthropic SDK)\n – Aras Innovator via RESTful API\nNote: no manual API definitions
+    required due to the iterative nature of MCP. In o"
+  image: https://dms.licdn.com/playlist/vid/v2/D4E05AQFo-Sg28pDm3w/thumbnail-with-play-button-overlay-high/B4EZdK_hFrG4DU-/0/1749309883755?e=2147483647&v=beta&t=FbFUPfwvhm1A0-4e1kPZw18M6xuhrk58ORZYG-1IPjQ
+  title: '#plm #arasinnovator #mcp #claude #agent #digitalthread | Daan Theoden |
+    15 comments'
+  url: https://www.linkedin.com/posts/daantheoden_plm-arasinnovator-mcp-activity-7337137605119000577-TbHV
 source: vk
+title: PLM x Claude AI
 ---
 
 Видео про то, как агент скрестить Claude AI и PLM Aras Corporation (на основе которого работает Ansys Minerva) с помощью сервера Python MCP.

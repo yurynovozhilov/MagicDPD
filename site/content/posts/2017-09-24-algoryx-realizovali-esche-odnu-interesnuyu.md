@@ -8,31 +8,31 @@ link_previews:
     dy...
   image: https://i.ytimg.com/vi/nJBOGI8ZA0w/maxresdefault.jpg
   title: Virtual Reality Mechanics Engineering
-  url: https://youtu.be/nJBOGI8ZA0w
+  url: https://www.youtube.com/watch?v=nJBOGI8ZA0w
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2xs4bLf
+  url: https://m.vk.com/wall-97265142_3311
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2xnp4qs
+  url: https://m.vk.com/feed?section=search&q=%23Algoryx
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2xoese8
+  url: https://m.vk.com/feed?section=search&q=%23Momentum
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2xrJ7o5
+  url: https://m.vk.com/feed?section=search&q=%23Unity3D
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2xo5wVR
+  url: https://m.vk.com/feed?section=search&q=%23VR
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2vVLrF3
+  url: https://m.vk.com/feed?section=search&q=%23SpaceClaim
 source: vk
 tags:
 - Unity3D
@@ -40,7 +40,7 @@ tags:
 - SpaceClaimMedia
 - Momentum
 - VR
-title: "#Algoryx реализовали еще одну интересную фишку в своем #Momentum."
+title: '#Algoryx реализовали еще одну интересную фишку в своем #Momentum.'
 ---
 
 Теперь они умеют выгружать свои модели в #Unity3D, а там в #VR можно все покрутить, подвигать. При этом физичность поведения моделей сохраняется.

@@ -1,17 +1,23 @@
 ---
+author: GlukRazor
+date: 2018-01-30 17:00:33+00:00
+images:
+- url: /assets/images/757.jpg
 layout: post
-title: "Глубокая вытяжка - урок"
-date: 2018-01-30T17:00:33+00:00
-author: "GlukRazor"
+link_previews:
+- description: Features video tutorial:- detailed sequence of actions to perform simulation;-
+    using an explicit method to simulate the process of deep drawing;- using of th...
+  image: https://i.ytimg.com/vi/OXc85azosr0/maxresdefault.jpg
+  title: Simulation of the deep drawing in the program LS-DYNA. Video tutorial (incomplete)
+  url: https://www.youtube.com/watch?v=OXc85azosr0
 source: vk
 tags:
-  - deepdrawing
-  - springback
-  - LS
-  - mesh_adaptation
-  - forming
-images:
-  - url: "/assets/images/757.jpg"
+- deepdrawing
+- springback
+- LS
+- mesh_adaptation
+- forming
+title: Глубокая вытяжка - урок
 ---
 
 Не полный, но очень полезный видео урок по моделированию процесса глубокой вытяжки в LS-DYNA. Полный стоит денег :(

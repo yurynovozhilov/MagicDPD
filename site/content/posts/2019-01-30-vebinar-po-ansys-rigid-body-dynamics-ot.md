@@ -1,15 +1,22 @@
 ---
+author: GlukRazor
+date: 2019-01-30 17:00:30+00:00
+images:
+- url: /assets/images/1327.jpg
 layout: post
-title: "Вебинар по ANSYS Rigid Body Dynamics от Mallett Technology"
-date: 2019-01-30T17:00:30+00:00
-author: "GlukRazor"
+link_previews:
+- description: This webinar covers the basic functions and features of ANSYS' Rigid
+    Body Dynamics tool. The tool is ideal for calculating an assemblies motion and
+    forces at...
+  image: https://i.ytimg.com/vi/cGv8m60zN4c/maxresdefault.jpg
+  title: ANSYS Rigid Body Dynamics
+  url: https://www.youtube.com/watch?v=cGv8m60zN4c
 source: vk
 tags:
-  - Mallett_Technology
-  - Rigid_Body_Dynamics
-  - ANSYS
-images:
-  - url: "/assets/images/1327.jpg"
+- Mallett_Technology
+- Rigid_Body_Dynamics
+- ANSYS
+title: Вебинар по ANSYS Rigid Body Dynamics от Mallett Technology
 ---
 
 https://www.youtube.com/watch?v=cGv8m60zN4c

@@ -6,27 +6,27 @@ link_previews:
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2w2hrWi
+  url: https://m.vk.com/wall-97265142_3077
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2vk2wVv
+  url: https://m.vk.com/feed?section=search&q=%23ANSYS
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2wmHv13
+  url: https://m.vk.com/feed?section=search&q=%23Fluent
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2w1D7lr
+  url: https://m.vk.com/feed?section=search&q=%23PUMA
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2wm3rtA
+  url: https://m.vk.com/feed?section=search&q=%23mesh
 - description: ''
   image: ''
   title: VK.com | VK
-  url: http://ift.tt/2w2hqSe
+  url: https://m.vk.com/feed?section=search&q=%23cfd
 source: vk
 tags:
 - ANSYS
@@ -34,7 +34,8 @@ tags:
 - mesh
 - PUMA
 - Fluent
-title: "Совсем забыл сказать: у #ANSYS #Fluent 18.2 теперь есть #PUMA (polyhedral unstructured mesh adaptation)."
+title: 'Совсем забыл сказать: у #ANSYS #Fluent 18.2 теперь есть #PUMA (polyhedral
+  unstructured mesh adaptation).'
 ---
 
 За такой интересной аббревиатурой скрывается метод сеточной адаптации позволяет динамически сгущать сетку, например для повышения разрешения свободной поверхности.

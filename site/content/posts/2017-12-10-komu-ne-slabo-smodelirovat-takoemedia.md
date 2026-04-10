@@ -1,9 +1,14 @@
 ---
+author: GlukRazor
+date: 2017-12-10 06:00:51+00:00
 layout: post
-title: "Кому не слабо смоделировать такое?"
-date: 2017-12-10T06:00:51+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/wall-97265142_3829
 source: vk
+title: Кому не слабо смоделировать такое?
 ---
 
 Media📼 Точение металла с наростом на резце в замедленной…

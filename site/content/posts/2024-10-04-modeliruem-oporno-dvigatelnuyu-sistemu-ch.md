@@ -1,11 +1,16 @@
 ---
-layout: post
-title: "Моделируем опорно-двигательную систему человека при помощи SCONE"
-date: 2024-10-04T12:01:30+00:00
-author: "Yury Novozhilov"
-source: vk
+author: Yury Novozhilov
+date: 2024-10-04 12:01:30+00:00
 images:
-  - url: "/assets/images/2795.jpg"
+- url: /assets/images/2795.jpg
+layout: post
+link_previews:
+- description: ''
+  image: ''
+  title: Welcome to SCONE [SCONE]
+  url: https://scone.software/
+source: vk
+title: Моделируем опорно-двигательную систему человека при помощи SCONE
 ---
 
 SCONE - это бесплатное программное обеспечение с открытым исходным кодом для моделирования движения человека и животных.

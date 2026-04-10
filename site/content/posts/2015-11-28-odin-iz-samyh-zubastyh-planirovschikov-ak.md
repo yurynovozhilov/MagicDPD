@@ -1,13 +1,21 @@
 ---
+author: GlukRazor
+date: 2015-11-28 07:00:51+00:00
 layout: post
-title: "Один из самых зубастых планировщиков (aka Workload Manager) - #Altair #PBS Pro открывает свой код!"
-date: 2015-11-28T07:00:51+00:00
-author: "GlukRazor"
+link_previews:
+- description: In this video from SC15, Sam Mahalingam from Altair discusses a pair
+    of important announcements from the company:* The HyperWorks Unlimited Virtual
+    Appliance...
+  image: https://i.ytimg.com/vi/njnViLkwjhk/maxresdefault.jpg
+  title: PBS Pro Goes Open Source
+  url: https://www.youtube.com/watch?v=njnViLkwjhk
 source: vk
 tags:
-  - HPC
-  - Altair
-  - PBS
+- HPC
+- Altair
+- PBS
+title: 'Один из самых зубастых планировщиков (aka Workload Manager) - #Altair #PBS
+  Pro открывает свой код!'
 ---
 
 Вот это #HPC бомба. Ждем бесплатных сборок 😊

@@ -1,15 +1,21 @@
 ---
+author: GlukRazor
+date: 2018-12-24 17:00:38+00:00
+images:
+- url: /assets/images/1285.jpg
 layout: post
-title: "Смотрим на MSC Apex в плане подготовки сетки"
-date: 2018-12-24T17:00:38+00:00
-author: "GlukRazor"
+link_previews:
+- description: MSC Apex is a next-generation, contemporary CAE platform to increase
+    your FEA model build and analysis efficiency, through a number of patented technologies....
+  image: https://i.ytimg.com/vi/I4U9aNVqBvA/maxresdefault.jpg
+  title: MSC Apex Model Build Challenge | 3D Hex Mesh | Evotech CAE Ltd
+  url: https://www.youtube.com/watch?v=I4U9aNVqBvA
 source: vk
 tags:
-  - Apex
-  - MSC
-  - Mesh
-images:
-  - url: "/assets/images/1285.jpg"
+- Apex
+- MSC
+- Mesh
+title: Смотрим на MSC Apex в плане подготовки сетки
 ---
 
 Всегда полезно знать, что там у конкурентов, и сегодня я решил взглянуть на передовые разработки MSC и их наиболее современную разработку - интерфейс Apex.

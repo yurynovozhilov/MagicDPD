@@ -8,13 +8,13 @@ link_previews:
     capab...
   image: https://i.ytimg.com/vi/QR8uHND_69E/maxresdefault.jpg
   title: pantograph Mechanism Simulation- LS DYNA
-  url: "https://youtu.be/QR8uHND_69EMedia\U0001F517"
+  url: "https://www.youtube.com/watch?v=QR8uHND_69EMedia\U0001F517"
 - description: Using the strong joints modelling capabilities of LSDYNA, a pantograph
     mechanism simulation is performed. LSDYNA provides a plethora of joint modelling
     capab...
   image: https://i.ytimg.com/vi/QR8uHND_69E/maxresdefault.jpg
   title: pantograph Mechanism Simulation- LS DYNA
-  url: https://youtu.be/QR8uHND_69E
+  url: https://www.youtube.com/watch?v=QR8uHND_69E
 source: vk
 title: Когда не осилил построение графиков в Excel
 ---

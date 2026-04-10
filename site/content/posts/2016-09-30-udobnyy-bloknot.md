@@ -3,10 +3,6 @@ author: GlukRazor
 date: 2016-09-30 17:00:21+00:00
 layout: post
 link_previews:
-- description: ''
-  image: ''
-  title: VK.com | VK
-  url: https://vk.com/wall-97265142_215
 - description: Textmate bundle for NASTRAN. Contribute to bguest/NASTRAN-Textmate-Bundle
     development by creating an account on GitHub.
   image: https://opengraph.githubassets.com/481d549899b99c0e4e7718a44ca77c7436d7fbf2aff9ddcf8d680358083e50c7/bguest/NASTRAN-Textmate-Bundle
@@ -16,6 +12,10 @@ link_previews:
   image: ''
   title: Before you continue to YouTube
   url: https://www.youtube.com/playlist?list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://vk.com/wall-97265142_215
 source: vk
 tags:
 - Abaqus

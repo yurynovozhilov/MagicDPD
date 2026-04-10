@@ -1,9 +1,16 @@
 ---
+author: Yury Novozhilov
+date: 2024-10-07 12:01:17+00:00
 layout: post
-title: "Моделируем опорно-двигательную систему человека при помощи Hyfydy"
-date: 2024-10-07T12:01:17+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: 'Comparison between the Hyfydy and MuJoCo simulation engine, using
+    models of similar complexity.More information: https://hyfydy.com/hyfydy-vs-mujoco/Hyfydy:
+    ...'
+  image: https://i.ytimg.com/vi/JZxbqQwyqdY/maxresdefault.jpg
+  title: Hyfydy vs MuJoCo
+  url: https://www.youtube.com/watch?v=JZxbqQwyqdY
 source: vk
+title: Моделируем опорно-двигательную систему человека при помощи Hyfydy
 ---
 
 Hyfydy - это программное обеспечение для точного, высокопроизводительного биомеханического моделирования. Оно призвано объединить точность OpenSim и скорость моделирования MuJoCo.

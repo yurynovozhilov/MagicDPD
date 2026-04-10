@@ -5,8 +5,8 @@ layout: post
 link_previews:
 - description: Enjoy the videos and music you love, upload original content, and share
     it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
+  image: https://i.ytimg.com/vi/C5lEMr8aSP0/hqdefault.jpg
+  title: License Reporting in ANSYS License Management Center
   url: https://www.youtube.com/watch?v=C5lEMr8aSP0
 source: vk
 tags:

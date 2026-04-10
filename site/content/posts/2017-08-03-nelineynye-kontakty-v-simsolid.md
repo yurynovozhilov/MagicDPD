@@ -3,17 +3,17 @@ author: GlukRazor
 date: 2017-08-03 17:01:35+00:00
 layout: post
 link_previews:
-- description: The Altair Newsroom is your go-to source for the latest updates, breakthroughs,
-    and developments from Altair. Stay informed and inspired!
-  image: https://altair.com/images/default-source/heroes/altair_newsroom_hero_2022_1920x225.png?sfvrsn=d909812a_0
-  title: Altair Newsroom
-  url: https://www.simsolid.com/2017/07/new-simsolid-separating-contact-with-friction/
 - description: The is a quick demonstration that show how easy it is to do non-linear
     separating contact with friction in SIMSOLID. The model is a 54-part assembly
     of a han...
   image: https://i.ytimg.com/vi/Mq4aAEPsJ3A/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFkgWChlMA8=&rs=AOn4CLDHZWfD6vAmMp6AGwrslESXmGLqvg
   title: SIMSOLID analysis with non-linear separating contact
-  url: https://youtu.be/Mq4aAEPsJ3A
+  url: https://www.youtube.com/watch?v=Mq4aAEPsJ3A
+- description: The Altair Newsroom is your go-to source for the latest updates, breakthroughs,
+    and developments from Altair. Stay informed and inspired!
+  image: https://altair.com/images/default-source/heroes/altair_newsroom_hero_2022_1920x225.png?sfvrsn=d909812a_0
+  title: Altair Newsroom
+  url: https://www.simsolid.com/2017/07/new-simsolid-separating-contact-with-friction/
 source: vk
 tags:
 - NASTRAN

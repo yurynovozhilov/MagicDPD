@@ -8,7 +8,7 @@ link_previews:
     Link: http...'
   image: https://i.ytimg.com/vi/ENavI3KGCao/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgGCh_MA8=&rs=AOn4CLDGs1dZuHJf_HXlIPkEb7QMjbNksQ
   title: MSC Nastran, Patran Tutorial - Bending Stresses of a Loaded Beam
-  url: https://youtu.be/ENavI3KGCao
+  url: https://www.youtube.com/watch?v=ENavI3KGCao
 source: vk
 tags:
 - MSC

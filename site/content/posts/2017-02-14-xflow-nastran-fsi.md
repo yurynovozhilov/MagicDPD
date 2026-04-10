@@ -5,8 +5,8 @@ layout: post
 link_previews:
 - description: Enjoy the videos and music you love, upload original content, and share
     it all with friends, family, and the world on YouTube.
-  image: ''
-  title: '- YouTube'
+  image: https://i.ytimg.com/vi/Qretsy5KuNE/hqdefault.jpg
+  title: XFlow/MSC Nastran Advanced FSI Co-Simulations Webinar
   url: https://www.youtube.com/watch?v=Qretsy5KuNE
 source: vk
 tags:

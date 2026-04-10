@@ -1,17 +1,23 @@
 ---
+author: GlukRazor
+date: 2019-01-14 17:00:25+00:00
+images:
+- url: /assets/images/1312.jpg
 layout: post
-title: "Pacefish от SimScale"
-date: 2019-01-14T17:00:25+00:00
-author: "GlukRazor"
+link_previews:
+- description: 'We will unveil a brand-new GPU-based solver using the Lattice Boltzmann
+    method accessible on SimScale: high accuracy and unparalleled speed!'
+  image: ''
+  title: Introducing a GPU-Based LBM Flow Solver Accessible | SimScale
+  url: https://www.simscale.com/webinars-workshops/lbm-flow-solver/
 source: vk
 tags:
-  - CFD
-  - LBM
-  - GPU
-  - Simscale
-  - cloud
-images:
-  - url: "/assets/images/1312.jpg"
+- CFD
+- LBM
+- GPU
+- Simscale
+- cloud
+title: Pacefish от SimScale
 ---
 
 Начало этого года отметилось очень интересной новостью от SimScale. Коллеги из области облачных вычислений рассказали про их новую разработу — CFD решатель Pacefish.

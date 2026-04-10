@@ -8,7 +8,7 @@ link_previews:
     - not hour...
   image: https://i.ytimg.com/vi/yQI6e2iGlzE/maxresdefault.jpg
   title: LimitState:FORM | Design Optimization Software
-  url: https://youtu.be/yQI6e2iGlzE
+  url: https://www.youtube.com/watch?v=yQI6e2iGlzE
 source: vk
 tags:
 - LimitState

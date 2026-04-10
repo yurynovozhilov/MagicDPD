@@ -1,14 +1,20 @@
 ---
+author: GlukRazor
+date: 2019-05-02 17:00:24+00:00
+images:
+- url: /assets/images/1463.jpg
 layout: post
-title: "COMSOL Client для Android"
-date: 2019-05-02T17:00:24+00:00
-author: "GlukRazor"
+link_previews:
+- description: You will find step-by-step modeling instructions, discussions of a
+    variety of physics, product news, and more on the COMSOL Blog. Read now and subscribe!
+  image: https://cdn.comsol.com/blog/COMSOL_Blog_OG_Home.png
+  title: Read the COMSOL Blog for the Latest in Multiphysics Simulation
+  url: https://www.comsol.com/blogs/comsol-client-for-android-available-on-the-google-play-store/
 source: vk
 tags:
-  - Android
-  - Comsol
-images:
-  - url: "/assets/images/1463.jpg"
+- Android
+- Comsol
+title: COMSOL Client для Android
 ---
 
 И опять про мобильные устройства. На этот раз отличился COMSOL, выпустив клиента для Android, позволяющего удобно работать с приложениями, созданными и работающими в рамках COMSOL Server. По сути, данный клиент — это слегка допиленный web-браузер.

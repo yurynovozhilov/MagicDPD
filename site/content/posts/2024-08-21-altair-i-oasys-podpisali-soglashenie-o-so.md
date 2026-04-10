@@ -1,9 +1,16 @@
 ---
+author: Yury Novozhilov
+date: 2024-08-21 12:42:33+00:00
 layout: post
-title: "Altair и Oasys подписали соглашение о совместной разрабоке ПО"
-date: 2024-08-21T12:42:33+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: Altair a global leader in computational intelligence, and Oasys, the
+    software house of Arup, a global collective of designers, consultants and experts
+  image: https://dyna.oasys-software.com/content/uploads/2024/08/Altair_Newsroom_NR_Altair-Oasys_PR_Story.jpg
+  title: Altair and Oasys Establish Joint Development Agreement to Redefine Pre-Processing
+    for Crash and Safety Simulation - Oasys LS-DYNA Environment
+  url: https://www.oasys-software.com/dyna/news/altair-and-oasys-establish-joint-development-agreement-to-redefine-pre-processing-for-crash-and-safety-simulation/
 source: vk
+title: Altair и Oasys подписали соглашение о совместной разрабоке ПО
 ---
 
 В середине мертвого месяца летних каникул пришла интересная новость. Altair (разработчики HypeMesh и HyperWorks) договорились с Oasys (подразделение ARUP, разработчики Oasys PRIMER) договорились вести разработки совместно. Давайте разбираться, почему это важная новость.

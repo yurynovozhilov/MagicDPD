@@ -1,11 +1,22 @@
 ---
-layout: post
-title: "RadarPre и RadarPost — почувствуй себя в радиолокационной разведке"
-date: 2019-08-23T13:00:54+00:00
-author: "GlukRazor"
-source: vk
+author: GlukRazor
+date: 2019-08-23 13:00:54+00:00
 images:
-  - url: "/assets/images/1562.jpg"
+- url: /assets/images/1562.jpg
+layout: post
+link_previews:
+- description: Discover ready-to-use Ansys and third-party apps to streamline simulation
+    workflows in the Ansys App Catalog. Boost productivity and innovation.
+  image: ''
+  title: Ansys App Catalog | Ansys Developer Portal
+  url: https://catalog.ansys.com/product/5bdb18f0393ff664ec9cb3c4/radarpre
+- description: Discover ready-to-use Ansys and third-party apps to streamline simulation
+    workflows in the Ansys App Catalog. Boost productivity and innovation.
+  image: ''
+  title: Ansys App Catalog | Ansys Developer Portal
+  url: https://catalog.ansys.com/product/5bdb1963393ff664ec9cb3c9/radarpost
+source: vk
+title: RadarPre и RadarPost — почувствуй себя в радиолокационной разведке
 ---
 
 Бесплатное двухкомпонентное ACT расширение для ANSYS Electronics Desktop позволяет автоматизировать расчеты, связанные с получением распространенных в радиолокации параметров самолетов и прочих летающих объектов.

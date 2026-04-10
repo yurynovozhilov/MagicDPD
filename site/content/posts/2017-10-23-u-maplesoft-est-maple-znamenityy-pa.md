@@ -1,13 +1,18 @@
 ---
+author: GlukRazor
+date: 2017-10-23 17:04:34+00:00
 layout: post
-title: "У #Maplesoft есть #Maple - знаменитый пакет символьных вычислений."
-date: 2017-10-23T17:04:34+00:00
-author: "GlukRazor"
+link_previews:
+- description: ''
+  image: ''
+  title: VK.com | VK
+  url: https://m.vk.com/feed?section=search&q=%23Maplesoft
 source: vk
 tags:
-  - MapleSim
-  - Maplesoft
-  - Maple
+- MapleSim
+- Maplesoft
+- Maple
+title: 'У #Maplesoft есть #Maple - знаменитый пакет символьных вычислений.'
 ---
 
 А еще у них есть #MapleSim, который предназначен для решения инженерных задачи по средствам математического моделирования.

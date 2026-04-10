@@ -1,12 +1,19 @@
 ---
+author: MagicDPD
+date: 2021-04-05 13:01:44+00:00
 layout: post
-title: "Моделирвоание слошинга при вертикальных колебаниях"
-date: 2021-04-05T13:01:44+00:00
-author: "MagicDPD"
+link_previews:
+- description: The fifth talk from the inaugural UK Fluids Network SPH SIG virtual
+    seminar. Joe De Courcy from The University of Bristol presents work undertaken
+    with his c...
+  image: https://i.ytimg.com/vi/wHM1pl77HPA/maxresdefault.jpg
+  title: 'Virtual Seminar 1: Vertically Sloshing Systems using SPH'
+  url: https://www.youtube.com/watch?v=wHM1pl77HPA
 source: vk
 tags:
-  - sloshing
-  - sph
+- sloshing
+- sph
+title: Моделирвоание слошинга при вертикальных колебаниях
 ---
 
 https://youtu.be/wHM1pl77HPA

@@ -1,9 +1,17 @@
 ---
+author: Yury Novozhilov
+date: 2023-10-02 15:01:37+00:00
 layout: post
-title: "Altair поглащает OmniQuest."
-date: 2023-10-02T15:01:37+00:00
-author: "Yury Novozhilov"
+link_previews:
+- description: Altair has acquired OmniQuest, a Novi, Mich.-based optimization software
+    company. OmniQuest’s flagship product, Genesis, is an advanced structural analysis
+    and optimization software that uses the finite element method to solve problems
+    with many variables and constraints.
+  image: https://altair.com/images/default-source/newsroom-placeholder-images-social/altair_newsroom_default_social-13.jpg?sfvrsn=753203fe_3
+  title: Altair Enhances Leadership in Optimization Technology by Acquiring OmniQuest
+  url: https://altair.com/newsroom/news-releases/altair-acquires-omniquest
 source: vk
+title: Altair поглащает OmniQuest.
 ---
 
 Давайте разбираться, почему это важно.

@@ -3,17 +3,17 @@ author: GlukRazor
 date: 2017-07-10 17:01:02+00:00
 layout: post
 link_previews:
-- description: Coursera Downloader has 2 repositories available. Follow their code
-    on GitHub.
-  image: https://avatars.githubusercontent.com/u/5588942?s=280&v=4
-  title: Coursera Downloader
-  url: https://github.com/coursera-dl
 - description: Tutorial on how to download full courses and videos from edx.org. These
     are really helpful to skim through a course or do a quick revision before an exam.
     St...
   image: https://i.ytimg.com/vi/AvAS835JiTI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG-B4AC0AWKAgwIABABGH8gMCgeMA8=&rs=AOn4CLC-q1KY2rKNmxBgTbLFObPS_AE6ZA
   title: Download edx courses  to your computer
   url: https://www.youtube.com/watch?v=AvAS835JiTI
+- description: Coursera Downloader has 2 repositories available. Follow their code
+    on GitHub.
+  image: https://avatars.githubusercontent.com/u/5588942?s=280&v=4
+  title: Coursera Downloader
+  url: https://github.com/coursera-dl
 source: vk
 tags:
 - ANSYS

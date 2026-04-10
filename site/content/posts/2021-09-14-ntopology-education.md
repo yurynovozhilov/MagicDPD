@@ -1,12 +1,18 @@
 ---
+author: MagicDPD
+date: 2021-09-14 13:01:21+00:00
 layout: post
-title: "nTopology Education"
-date: 2021-09-14T13:01:21+00:00
-author: "MagicDPD"
+link_previews:
+- description: Learn more about nTop Ed, nTop's education community, why we are committed
+    to investing in this program, and how to join the community.
+  image: https://www.ntop.com/meta-image.png?w=1200&h=630&fit=min
+  title: Why we give nTop for free to students and academics | nTop
+  url: https://ntopology.com/blog/2021/09/12/why-we-give-ntop-out-for-free/
 source: vk
 tags:
-  - ntopology
-  - lattice_structure
+- ntopology
+- lattice_structure
+title: nTopology Education
 ---
 
 nTopology - довольно известная специализированная система проектирования изделий под аддитивное производство. Ее коньком является работа с моделями, которые обычные CAD системы не могут переварить из-за сложности b-rep представления.

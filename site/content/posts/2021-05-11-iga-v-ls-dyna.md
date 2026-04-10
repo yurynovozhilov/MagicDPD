@@ -1,15 +1,23 @@
 ---
+author: MagicDPD
+date: 2021-05-11 16:01:56+00:00
 layout: post
-title: "IGA в LS-DYNA"
-date: 2021-05-11T16:01:56+00:00
-author: "MagicDPD"
+link_previews:
+- description: 'Speaker: Lukas Leidinger (DYNAmore GmbH)Isogeometric Analysis (IGA)
+    is a finite element technology that uses splines (e.g. NURBS = Non-Uniform Rational
+    B-Spl...'
+  image: https://i.ytimg.com/vi/UMb8DBtWar8/maxresdefault.jpg
+  title: 'DYNAmore Express: Isogeometric Analysis in LS-DYNA with the new CAD-inspired
+    *IGA keywords'
+  url: https://www.youtube.com/watch?v=UMb8DBtWar8
 source: vk
 tags:
-  - iga
-  - lsdyna
-  - ansys
-  - nurbs
-  - dynamore
+- iga
+- lsdyna
+- ansys
+- nurbs
+- dynamore
+title: IGA в LS-DYNA
 ---
 
 https://www.youtube.com/watch?v=UMb8DBtWar8
